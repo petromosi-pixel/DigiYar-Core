@@ -56,8 +56,12 @@ button:hover {
 }
 </style>
 
-</head>
-
+</head><link rel="manifest" href="manifest.json">
+<script>
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('sw.js');
+}
+</script>
 <body>
 
 <div class="card">
