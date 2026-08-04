@@ -1,20 +1,11 @@
-<link rel="manifest" href="manifest.json">
-
-<script>
-if ('serviceWorker' in navigator) {
-  navigator.serviceWorker.register('./sw.js');
-}
-</script>
-
-</head>
-  "name": "دیجی‌یار",
-  "short_name": "دیجی‌یار",
-  "start_url": "./",
-  "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#e6123d",
-  "lang": "fa",
-  "dir": "rtl",
+"name": "دیجی‌یار",
+"short_name": "دیجی‌یار",
+"start_url": "./",
+"display": "standalone",
+"background_color": "#ffffff",
+"theme_color": "#e6123d",
+"lang": "fa",
+"dir": "rtl",
   "icons": [
   {
     "src": "icons/icon-192.png",
