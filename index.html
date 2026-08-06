@@ -1,169 +1,144 @@
 <!DOCTYPE html>
 <html lang="fa" dir="rtl">
-
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
 
-<title>دیجی‌یار</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<meta name="description" content="پلتفرم جامع و هوشمند برای تجربه بهترین خرید اینترنتی">
-<meta name="theme-color" content="#e6123d">
+    <title>دیجی‌یار | خرید هوشمند اینترنتی</title>
 
-<link rel="manifest" href="manifest.json">
+    <meta name="description" content="دیجی‌یار؛ دسترسی آسان به فروشگاه‌های محبوب اینترنتی">
 
-<link rel="icon" type="image/png" sizes="192x192" href="icons/icon-192.png">
-<link rel="apple-touch-icon" href="icons/icon-512.png">
+    <link rel="manifest" href="manifest.json">
 
-<style>
+    <link rel="stylesheet" href="css/style.css">
 
-*{
-    margin:0;
-    padding:0;
-    box-sizing:border-box;
-}
-
-body{
-    font-family:Tahoma,Arial,sans-serif;
-    background:#f5f5f5;
-    display:flex;
-    justify-content:center;
-    align-items:center;
-    min-height:100vh;
-}
-
-.card{
-
-    width:90%;
-    max-width:420px;
-
-    background:#ffffff;
-
-    border-radius:22px;
-
-    padding:35px 25px;
-
-    text-align:center;
-
-    box-shadow:0 10px 30px rgba(0,0,0,.12);
-
-}
-
-.logo{
-
-    font-size:64px;
-
-    margin-bottom:15px;
-
-}
-
-h1{
-
-    color:#e6123d;
-
-    font-size:36px;
-
-    margin-bottom:12px;
-
-}
-
-p{
-
-    color:#555;
-
-    font-size:18px;
-
-    line-height:1.9;
-
-    margin-bottom:30px;
-
-}
-
-button{
-
-    width:100%;
-
-    background:#e6123d;
-
-    color:#fff;
-
-    border:none;
-
-    border-radius:14px;
-
-    padding:16px;
-
-    font-size:20px;
-
-    font-weight:bold;
-
-    cursor:pointer;
-
-    transition:.25s;
-
-}
-
-button:hover{
-
-    opacity:.9;
-
-    transform:scale(1.02);
-
-}
-
-a{
-
-    text-decoration:none;
-
-}
-
-</style>
-
+    <meta name="theme-color" content="#e6123d">
 </head>
 
 <body>
 
-<div class="card">
+<header class="header">
 
-<div class="logo">🛒</div>
+    <img 
+    src="assets/logo.png" 
+    alt="لوگوی دیجی‌یار"
+    class="logo">
 
-<h1>دیجی‌یار</h1>
+    <h1>دیجی‌یار</h1>
 
-<p>
+    <p>
+        به دیجی‌یار خوش اومدی؛
+        همه فروشگاه‌های محبوبت اینجان
+    </p>
 
-پلتفرم هوشمند برای تجربه بهترین خرید اینترنتی
+</header>
 
-</p>
 
-<a href="https://aflo.ir/16da7m1UY">
+<main class="container">
 
-<button>
 
-ورود به دیجی‌کالا
+<section class="stores">
 
-</button>
+<h2>فروشگاه‌ها</h2>
 
-</a>
+
+<div class="store-card">
+
+    <img 
+    src="assets/digikala.png"
+    alt="دیجی‌کالا">
+
+    <div class="store-info">
+
+        <h3>دیجی‌کالا</h3>
+
+        <p>
+        بزرگ‌ترین فروشگاه اینترنتی ایران
+        </p>
+
+        <a 
+        href="#"
+        class="store-btn">
+        ورود به دیجی‌کالا
+        </a>
+
+    </div>
 
 </div>
 
-<script>
 
-if('serviceWorker' in navigator){
 
-window.addEventListener('load',()=>{
+<div class="store-card">
 
-navigator.serviceWorker.register('./sw.js')
+    <img 
+    src="assets/torob.png"
+    alt="ترب">
 
-.then(()=>console.log("Service Worker Registered"))
+    <div class="store-info">
 
-.catch(err=>console.log(err));
+        <h3>ترب</h3>
 
-});
+        <p>
+        مقایسه قیمت هزاران فروشگاه
+        </p>
 
-}
+        <a 
+        href="#"
+        class="store-btn">
+        ورود به ترب
+        </a>
 
-</script>
+    </div>
+
+</div>
+
+
+
+<div class="store-card">
+
+    <img 
+    src="assets/basalam.png"
+    alt="باسلام">
+
+    <div class="store-info">
+
+        <h3>باسلام</h3>
+
+        <p>
+        بازار محصولات ایرانی
+        </p>
+
+        <a 
+        href="#"
+        class="store-btn">
+        ورود به باسلام
+        </a>
+
+    </div>
+
+</div>
+
+
+</section>
+
+
+</main>
+
+
+
+<footer>
+
+<p>
+© دیجی‌یار - خرید آسان‌تر، هوشمندتر
+</p>
+
+</footer>
+
+
+
+<script src="js/app.js"></script>
+
 
 </body>
 
