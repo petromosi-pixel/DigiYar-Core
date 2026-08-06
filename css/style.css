@@ -196,5 +196,95 @@ body {
     font-size: 13px;
 
     color: #777;
+.featured{
 
+    background:white;
+
+    border-radius:18px;
+
+    padding:18px;
+
+    margin-bottom:20px;
+
+    box-shadow:0 5px 15px rgba(0,0,0,.08);
+
+}
+
+.featured h2{
+
+    color:#e6123d;
+
+    margin-bottom:10px;
+
+    font-size:20px;
+
+}
+
+.featured p{
+
+    line-height:2;
+
+    font-size:15px;
+
+}
+
+
+
+#searchBox{
+
+    width:100%;
+
+    padding:14px;
+
+    margin-bottom:20px;
+
+    border:1px solid #ddd;
+
+    border-radius:14px;
+
+    font-size:15px;
+
+    outline:none;
+
+}
+
+
+
+#searchBox:focus{
+
+    border-color:#e6123d;
+
+}
+
+
+
+.platform-card{
+
+    transition:.25s;
+
+}
+
+
+
+.platform-card:active{
+
+    transform:scale(.98);
+
+}
+
+
+
+.platform-btn{
+
+    transition:.25s;
+
+}
+
+
+
+.platform-btn:hover{
+
+    background:#c90f35;
+
+}
 }
