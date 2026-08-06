@@ -1,0 +1,200 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+
+    font-family: Tahoma, Arial, sans-serif;
+
+    background: #f5f6fa;
+
+    color: #333;
+
+    min-height: 100vh;
+
+}
+
+
+
+.header {
+
+    text-align: center;
+
+    padding: 30px 20px;
+
+    background: linear-gradient(135deg, #e6123d, #ff5a75);
+
+    color: white;
+
+    border-radius: 0 0 30px 30px;
+
+}
+
+
+
+.logo {
+
+    width: 90px;
+
+    height: 90px;
+
+    object-fit: contain;
+
+    margin-bottom: 15px;
+
+}
+
+
+
+.header h1 {
+
+    font-size: 30px;
+
+    margin-bottom: 12px;
+
+}
+
+
+
+.header p {
+
+    font-size: 15px;
+
+    line-height: 2;
+
+}
+
+
+
+.container {
+
+    width: 100%;
+
+    max-width: 600px;
+
+    margin: auto;
+
+    padding: 20px;
+
+}
+
+
+
+.platform-section h2 {
+
+    margin-bottom: 20px;
+
+    font-size: 22px;
+
+}
+
+
+
+#platforms {
+
+    display: flex;
+
+    flex-direction: column;
+
+    gap: 15px;
+
+}
+
+
+
+.platform-card {
+
+    background: white;
+
+    border-radius: 20px;
+
+    padding: 18px;
+
+    display: flex;
+
+    align-items: center;
+
+    gap: 15px;
+
+    box-shadow: 0 5px 15px rgba(0,0,0,0.08);
+
+}
+
+
+
+.platform-card img {
+
+    width: 65px;
+
+    height: 65px;
+
+    object-fit: contain;
+
+}
+
+
+
+.platform-info {
+
+    flex: 1;
+
+}
+
+
+
+.platform-info h3 {
+
+    margin-bottom: 8px;
+
+    font-size: 18px;
+
+}
+
+
+
+.platform-info p {
+
+    font-size: 13px;
+
+    color: #777;
+
+    margin-bottom: 12px;
+
+}
+
+
+
+.platform-btn {
+
+    display: inline-block;
+
+    background: #e6123d;
+
+    color: white;
+
+    text-decoration: none;
+
+    padding: 8px 18px;
+
+    border-radius: 20px;
+
+    font-size: 14px;
+
+}
+
+
+
+.footer {
+
+    text-align: center;
+
+    padding: 20px;
+
+    font-size: 13px;
+
+    color: #777;
+
+}
