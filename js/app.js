@@ -4,7 +4,17 @@ const platforms = [
         name: "دیجی‌کالا",
         description: "بزرگ‌ترین فروشگاه اینترنتی ایران",
         image: "assets/digikala.png",
-        link: "#"
+        link: "https://aflo.ir/16da7m1UY",
+        active: true
+    },
+
+
+    {
+        name: "اسنپ‌شاپ",
+        description: "خرید آسان از فروشگاه آنلاین اسنپ",
+        image: "assets/snappshop.png",
+        link: "https://aflo.ir/YPN05dL7",
+        active: true
     },
 
 
@@ -12,7 +22,8 @@ const platforms = [
         name: "ترب",
         description: "مقایسه قیمت هزاران فروشگاه",
         image: "assets/torob.png",
-        link: "#"
+        link: "#",
+        active: false
     },
 
 
@@ -20,7 +31,8 @@ const platforms = [
         name: "باسلام",
         description: "بازار محصولات ایرانی",
         image: "assets/basalam.png",
-        link: "#"
+        link: "#",
+        active: false
     }
 
 ];
@@ -60,6 +72,10 @@ platforms.forEach(platform => {
             </p>
 
 
+            ${
+            platform.active
+            ?
+            `
             <a 
             href="${platform.link}"
             class="platform-btn">
@@ -67,6 +83,14 @@ platforms.forEach(platform => {
             ورود به فروشگاه
 
             </a>
+            `
+            :
+            `
+            <span class="coming-soon">
+            به‌زودی
+            </span>
+            `
+            }
 
 
         </div>
