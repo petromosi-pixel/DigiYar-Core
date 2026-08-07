@@ -426,3 +426,160 @@ body {
     }
 
 }
+/* =========================================
+   طرح آزمایشی 1
+   کارت فشرده فروشگاه
+========================================= */
+
+.platform-card {
+    min-height: 86px;
+    padding: 9px 13px;
+    gap: 12px;
+
+    display: flex;
+    align-items: center;
+
+    border-radius: 16px;
+}
+
+
+/* لوگو */
+
+.platform-card img {
+    width: 62px;
+    height: 62px;
+
+    flex-shrink: 0;
+    object-fit: contain;
+}
+
+
+/* بخش اطلاعات */
+
+.platform-info {
+    flex: 1;
+    min-width: 0;
+
+    display: grid;
+
+    grid-template-columns: minmax(0, 1fr) auto;
+    grid-template-rows: 28px 30px;
+
+    column-gap: 8px;
+    align-items: center;
+}
+
+
+/* نام فروشگاه */
+
+.platform-info h3 {
+    grid-column: 1;
+    grid-row: 1;
+
+    margin: 0;
+
+    font-size: 16px;
+    line-height: 1.4;
+
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+
+/* توضیح کمرنگ */
+
+.platform-info p {
+    grid-column: 2;
+    grid-row: 1;
+
+    margin: 0;
+
+    color: #999;
+
+    font-size: 10px;
+    line-height: 1.4;
+
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+
+/* دکمه */
+
+.platform-btn {
+    grid-column: 1 / 3;
+    grid-row: 2;
+
+    justify-self: center;
+
+    min-width: 108px;
+
+    padding: 5px 13px;
+
+    border-radius: 16px;
+
+    font-size: 11px;
+    line-height: 1.5;
+
+    white-space: nowrap;
+}
+
+
+/* به‌زودی */
+
+.coming-soon {
+    grid-column: 1 / 3;
+    grid-row: 2;
+
+    justify-self: center;
+
+    min-width: 70px;
+
+    padding: 5px 10px;
+
+    font-size: 11px;
+}
+
+
+/* موبایل */
+
+@media (max-width: 480px) {
+
+    .platform-card {
+        min-height: 82px;
+        padding: 8px 11px;
+        gap: 10px;
+    }
+
+
+    .platform-card img {
+        width: 58px;
+        height: 58px;
+    }
+
+
+    .platform-info {
+        grid-template-rows: 26px 28px;
+        column-gap: 6px;
+    }
+
+
+    .platform-info h3 {
+        font-size: 14px;
+    }
+
+
+    .platform-info p {
+        font-size: 9px;
+    }
+
+
+    .platform-btn {
+        min-width: 100px;
+        padding: 5px 10px;
+        font-size: 10px;
+    }
+
+}
