@@ -9,7 +9,7 @@
 
     <title>دیجی‌یار | خرید هوشمند اینترنتی</title>
 
-    <meta name="description" content="دیجی‌یار؛ دسترسی آسان به فروشگاه‌های محبوب اینترنتی">
+    <meta name="description" content="دیجی‌یار؛ دسترسی سریع به فروشگاه‌های محبوب اینترنتی و انتخاب هوشمندانه برای خرید بهتر">
 
     <meta name="theme-color" content="#e6123d">
 
@@ -25,21 +25,21 @@
 
 <header class="header">
 
-    <img 
-    src="assets/logos/logo.png" 
-    alt="لوگوی دیجی‌یار"
-    class="logo">
+
+    <img
+        src="assets/logos/logo.png"
+        alt="لوگوی دیجی‌یار"
+        class="logo"
+    >
 
 
     <h1>
-        دیجی‌یار  
+        دیجی‌یار
     </h1>
 
-    
 
     <p>
-        به دیجی یار خوش اومدی 😊👋
-        همه فروشگاه های محبوبت اینجان
+        به دیجی‌یار خوش اومدی؛ همه فروشگاه‌های محبوبت اینجان
     </p>
 
 
@@ -50,6 +50,27 @@
 <main class="container">
 
 
+
+    <section class="featured">
+
+
+        <h2>
+            🔥 پیشنهاد امروز دیجی‌یار
+        </h2>
+
+
+        <p>
+            خرید عمومی؟ دیجی‌کالا
+            <br>
+            خرید روزمره؟ اسنپ‌شاپ
+        </p>
+
+
+    </section>
+
+
+
+
     <section class="platform-section">
 
 
@@ -58,41 +79,31 @@
         </h2>
 
 
-        <section class="featured">
-
-    <h2>🔥 پیشنهاد امروز دیجی‌یار</h2>
-
-    <p>
-        خرید عمومی؟ دیجی‌کالا
-        <br>
-        خرید روزمره؟ اسنپ‌شاپ
-    </p>
-
-</section>
+        <input
+            type="text"
+            id="searchBox"
+            placeholder="🔍 جستجوی فروشگاه..."
+        >
 
 
-<section class="platform-section">
 
-    <h2>فروشگاه‌های محبوب</h2>
+        <!--
+        فروشگاه‌ها و لینک‌های افیلیت
+        توسط app.js از اطلاعات platforms.json
+        به صورت پویا ساخته می‌شوند
+        -->
 
-    <input
-        type="text"
-        id="searchBox"
-        placeholder="🔍 جستجوی فروشگاه..."
-    >
 
-            <!--
-            فروشگاه‌ها توسط app.js
-            به صورت پویا ساخته می‌شوند
-            -->
+        <div id="platforms"></div>
 
-        </div>
 
 
     </section>
 
 
+
 </main>
+
 
 
 
@@ -100,15 +111,19 @@
 
 
     <p>
-       © با دیجی‌یار - هوشمندانه انتخاب و آسانتر خرید کن  
+        © با دیجی‌یار - هوشمندانه انتخاب و آسانتر خرید کن
     </p>
 
 
 </footer>
 
 
+
+
 <script src="js/platforms.js"></script>
+
 <script src="js/app.js"></script>
+
 
 
 </body>
