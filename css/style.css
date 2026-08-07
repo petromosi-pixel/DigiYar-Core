@@ -6,285 +6,391 @@
 
 
 body {
-
     font-family: Tahoma, Arial, sans-serif;
-
     background: #f5f6fa;
-
     color: #333;
-
     min-height: 100vh;
-
+    line-height: 1.7;
 }
 
 
+/* =========================
+   Header
+========================= */
 
 .header {
-
     text-align: center;
-
-    padding: 30px 20px;
-
+    padding: 35px 20px 30px;
     background: linear-gradient(135deg, #e6123d, #ff5a75);
-
     color: white;
-
-    border-radius: 0 0 30px 30px;
-
+    border-radius: 0 0 32px 32px;
+    box-shadow: 0 6px 20px rgba(230, 18, 61, 0.18);
 }
-
 
 
 .logo {
-
-    width: 90px;
-
-    height: 90px;
-
+    width: 95px;
+    height: 95px;
     object-fit: contain;
-
-    margin-bottom: 15px;
-
+    margin-bottom: 12px;
 }
-
 
 
 .header h1 {
-
     font-size: 30px;
-
-    margin-bottom: 12px;
-
+    font-weight: bold;
+    margin-bottom: 10px;
 }
-
 
 
 .header p {
-
     font-size: 15px;
-
     line-height: 2;
-
+    opacity: 0.95;
 }
 
 
+/* =========================
+   Main Container
+========================= */
 
 .container {
-
     width: 100%;
-
     max-width: 600px;
-
-    margin: auto;
-
-    padding: 20px;
-
+    margin: 0 auto;
+    padding: 22px 18px 30px;
 }
 
 
+/* =========================
+   Featured Section
+========================= */
+
+.featured {
+    background: white;
+    border-radius: 20px;
+    padding: 20px;
+    margin-bottom: 24px;
+    box-shadow: 0 5px 18px rgba(0, 0, 0, 0.07);
+    border: 1px solid rgba(0, 0, 0, 0.03);
+}
+
+
+.featured h2 {
+    color: #e6123d;
+    margin-bottom: 10px;
+    font-size: 20px;
+    line-height: 1.6;
+}
+
+
+.featured p {
+    line-height: 2;
+    font-size: 15px;
+    color: #555;
+}
+
+
+/* =========================
+   Platform Section
+========================= */
 
 .platform-section h2 {
+    margin-bottom: 16px;
+    font-size: 22px;
+    font-weight: bold;
+}
 
+
+/* =========================
+   Search
+========================= */
+
+#searchBox {
+    width: 100%;
+    padding: 13px 16px;
     margin-bottom: 20px;
 
-    font-size: 22px;
+    border: 1px solid #ddd;
+    border-radius: 14px;
 
+    background: white;
+    color: #333;
+
+    font-family: Tahoma, Arial, sans-serif;
+    font-size: 15px;
+
+    outline: none;
+
+    transition: 0.25s;
 }
 
 
+#searchBox::placeholder {
+    color: #999;
+}
+
+
+#searchBox:focus {
+    border-color: #e6123d;
+    box-shadow: 0 0 0 3px rgba(230, 18, 61, 0.08);
+}
+
+
+/* =========================
+   Platform List
+========================= */
 
 #platforms {
-
     display: flex;
-
     flex-direction: column;
-
     gap: 15px;
-
 }
 
 
+/* =========================
+   Platform Card
+========================= */
 
 .platform-card {
-
     background: white;
 
     border-radius: 20px;
 
-    padding: 18px;
+    padding: 16px;
 
     display: flex;
-
     align-items: center;
 
     gap: 15px;
 
-    box-shadow: 0 5px 15px rgba(0,0,0,0.08);
+    border: 1px solid rgba(0, 0, 0, 0.04);
 
+    box-shadow: 0 5px 16px rgba(0, 0, 0, 0.07);
+
+    transition:
+        transform 0.2s ease,
+        box-shadow 0.2s ease;
 }
 
 
+.platform-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 22px rgba(0, 0, 0, 0.10);
+}
+
+
+/* =========================
+   Platform Logo
+========================= */
 
 .platform-card img {
+    width: 68px;
+    height: 68px;
 
-    width: 65px;
-
-    height: 65px;
+    flex-shrink: 0;
 
     object-fit: contain;
 
+    border-radius: 14px;
 }
 
 
+/* =========================
+   Platform Information
+========================= */
 
 .platform-info {
-
     flex: 1;
-
+    min-width: 0;
 }
-
 
 
 .platform-info h3 {
-
-    margin-bottom: 8px;
+    margin-bottom: 5px;
 
     font-size: 18px;
+    font-weight: bold;
 
+    color: #222;
 }
 
 
-
 .platform-info p {
-
     font-size: 13px;
 
     color: #777;
 
-    margin-bottom: 12px;
+    margin-bottom: 10px;
 
+    line-height: 1.8;
 }
 
 
+/* =========================
+   Affiliate Button
+========================= */
 
 .platform-btn {
-
     display: inline-block;
 
     background: #e6123d;
-
     color: white;
 
     text-decoration: none;
 
-    padding: 8px 18px;
+    padding: 8px 17px;
 
     border-radius: 20px;
 
-    font-size: 14px;
+    font-family: Tahoma, Arial, sans-serif;
+    font-size: 13px;
 
+    transition:
+        background 0.2s ease,
+        transform 0.2s ease;
 }
 
 
+.platform-btn:hover {
+    background: #c90f35;
+}
 
-.footer {
+
+.platform-btn:active {
+    transform: scale(0.96);
+}
+
+
+/* =========================
+   Coming Soon
+========================= */
+
+.coming-soon {
+    display: inline-block;
+
+    padding: 7px 15px;
+
+    border-radius: 20px;
+
+    background: #f1f1f1;
+    color: #888;
+
+    font-size: 13px;
+}
+
+
+/* =========================
+   No Search Results
+========================= */
+
+.no-results {
+    background: white;
+
+    padding: 22px;
+
+    border-radius: 18px;
 
     text-align: center;
 
-    padding: 20px;
+    color: #777;
+
+    font-size: 14px;
+
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+}
+
+
+/* =========================
+   Footer
+========================= */
+
+.footer {
+    text-align: center;
+
+    padding: 20px 15px 30px;
 
     font-size: 13px;
 
     color: #777;
-.featured{
 
-    background:white;
-
-    border-radius:18px;
-
-    padding:18px;
-
-    margin-bottom:20px;
-
-    box-shadow:0 5px 15px rgba(0,0,0,.08);
-
-}
-
-.featured h2{
-
-    color:#e6123d;
-
-    margin-bottom:10px;
-
-    font-size:20px;
-
-}
-
-.featured p{
-
-    line-height:2;
-
-    font-size:15px;
-
+    line-height: 2;
 }
 
 
+/* =========================
+   Mobile
+========================= */
 
-#searchBox{
+@media (max-width: 480px) {
 
-    width:100%;
-
-    padding:14px;
-
-    margin-bottom:20px;
-
-    border:1px solid #ddd;
-
-    border-radius:14px;
-
-    font-size:15px;
-
-    outline:none;
-
-}
+    .header {
+        padding: 30px 16px 25px;
+        border-radius: 0 0 28px 28px;
+    }
 
 
-
-#searchBox:focus{
-
-    border-color:#e6123d;
-
-}
+    .logo {
+        width: 88px;
+        height: 88px;
+    }
 
 
-
-.platform-card{
-
-    transition:.25s;
-
-}
+    .header h1 {
+        font-size: 28px;
+    }
 
 
-
-.platform-card:active{
-
-    transform:scale(.98);
-
-}
+    .header p {
+        font-size: 14px;
+    }
 
 
-
-.platform-btn{
-
-    transition:.25s;
-
-}
+    .container {
+        padding: 18px 14px 25px;
+    }
 
 
+    .featured {
+        padding: 17px;
+    }
 
-.platform-btn:hover{
 
-    background:#c90f35;
+    .featured h2 {
+        font-size: 19px;
+    }
 
-}
+
+    .platform-section h2 {
+        font-size: 21px;
+    }
+
+
+    .platform-card {
+        padding: 14px;
+        gap: 12px;
+    }
+
+
+    .platform-card img {
+        width: 62px;
+        height: 62px;
+    }
+
+
+    .platform-info h3 {
+        font-size: 17px;
+    }
+
+
+    .platform-info p {
+        font-size: 12px;
+    }
+
+
+    .platform-btn {
+        font-size: 12px;
+        padding: 7px 14px;
+    }
+
 }
