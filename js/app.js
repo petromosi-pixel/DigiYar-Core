@@ -1,61 +1,108 @@
 const container = document.getElementById("platforms");
+const searchBox = document.getElementById("searchBox");
 
 
-platforms.forEach(platform => {
+function renderPlatforms(list) {
+
+    container.innerHTML = "";
 
 
-    const card = document.createElement("div");
+    if (list.length === 0) {
 
-    card.className = "platform-card";
+        container.innerHTML = `
+            <div class="no-results">
+                فروشگاهی با این نام پیدا نشد.
+            </div>
+        `;
 
-
-    card.innerHTML = `
-
-        <img 
-        src="${platform.image}" 
-        alt="${platform.name}">
-
-
-        <div class="platform-info">
+        return;
+    }
 
 
-            <h3>
-            ${platform.name}
-            </h3>
+    list.forEach(platform => {
+
+        const card = document.createElement("div");
+
+        card.className = "platform-card";
 
 
-            <p>
-            ${platform.description}
-            </p>
+        card.innerHTML = `
+
+            <img
+                src="${platform.image}"
+                alt="${platform.name}"
+            >
 
 
-            ${
-            platform.active
-            ?
-            `
-            <a 
-            href="${platform.link}"
-            class="platform-btn">
+            <div class="platform-info">
 
-            ورود به فروشگاه
-
-            </a>
-            `
-            :
-            `
-            <span class="coming-soon">
-            به‌زودی
-            </span>
-            `
-            }
+                <h3>
+                    ${platform.name}
+                </h3>
 
 
-        </div>
+                <p>
+                    ${platform.description}
+                </p>
 
-    `;
+
+                ${
+                    platform.active
+                    ?
+                    `
+                    <a
+                        href="${platform.link}"
+                        class="platform-btn"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                    >
+                        ورود به فروشگاه
+                    </a>
+                    `
+                    :
+                    `
+                    <span class="coming-soon">
+                        به‌زودی
+                    </span>
+                    `
+                }
+
+            </div>
+
+        `;
 
 
-    container.appendChild(card);
+        container.appendChild(card);
 
+    });
+
+}
+
+
+/* نمایش اولیه فروشگاه‌ها */
+
+renderPlatforms(platforms);
+
+
+/* جستجوی فروشگاه */
+
+searchBox.addEventListener("input", function () {
+
+    const searchText = searchBox.value
+        .trim()
+        .toLowerCase();
+
+
+    const filteredPlatforms = platforms.filter(platform => {
+
+        return (
+            platform.name.toLowerCase().includes(searchText) ||
+            platform.description.toLowerCase().includes(searchText)
+        );
+
+    });
+
+
+    renderPlatforms(filteredPlatforms);
 
 });
