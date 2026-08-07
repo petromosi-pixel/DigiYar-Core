@@ -20,73 +20,70 @@ body {
 
 .header {
     text-align: center;
-    padding: 35px 20px 30px;
+    padding: 32px 20px 28px;
     background: linear-gradient(135deg, #e6123d, #ff5a75);
     color: white;
-    border-radius: 0 0 32px 32px;
-    box-shadow: 0 6px 20px rgba(230, 18, 61, 0.18);
+    border-radius: 0 0 30px 30px;
+    box-shadow: 0 6px 20px rgba(230, 18, 61, 0.16);
 }
 
 
 .logo {
-    width: 95px;
-    height: 95px;
+    width: 90px;
+    height: 90px;
     object-fit: contain;
-    margin-bottom: 12px;
-}
-
-
-.header h1 {
-    font-size: 30px;
-    font-weight: bold;
     margin-bottom: 10px;
 }
 
 
+.header h1 {
+    font-size: 29px;
+    margin-bottom: 8px;
+}
+
+
 .header p {
-    font-size: 15px;
+    font-size: 14px;
     line-height: 2;
     opacity: 0.95;
 }
 
 
 /* =========================
-   Main Container
+   Main
 ========================= */
 
 .container {
     width: 100%;
     max-width: 600px;
     margin: 0 auto;
-    padding: 22px 18px 30px;
+    padding: 20px 16px 28px;
 }
 
 
 /* =========================
-   Featured Section
+   Featured
 ========================= */
 
 .featured {
     background: white;
-    border-radius: 20px;
-    padding: 20px;
-    margin-bottom: 24px;
-    box-shadow: 0 5px 18px rgba(0, 0, 0, 0.07);
-    border: 1px solid rgba(0, 0, 0, 0.03);
+    border-radius: 18px;
+    padding: 17px 18px;
+    margin-bottom: 22px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.06);
 }
 
 
 .featured h2 {
     color: #e6123d;
-    margin-bottom: 10px;
-    font-size: 20px;
-    line-height: 1.6;
+    margin-bottom: 7px;
+    font-size: 19px;
 }
 
 
 .featured p {
-    line-height: 2;
-    font-size: 15px;
+    line-height: 1.9;
+    font-size: 14px;
     color: #555;
 }
 
@@ -96,9 +93,8 @@ body {
 ========================= */
 
 .platform-section h2 {
-    margin-bottom: 16px;
-    font-size: 22px;
-    font-weight: bold;
+    margin-bottom: 14px;
+    font-size: 21px;
 }
 
 
@@ -108,21 +104,21 @@ body {
 
 #searchBox {
     width: 100%;
-    padding: 13px 16px;
-    margin-bottom: 20px;
+    padding: 12px 15px;
+    margin-bottom: 15px;
 
     border: 1px solid #ddd;
-    border-radius: 14px;
+    border-radius: 13px;
 
     background: white;
     color: #333;
 
     font-family: Tahoma, Arial, sans-serif;
-    font-size: 15px;
+    font-size: 14px;
 
     outline: none;
 
-    transition: 0.25s;
+    transition: 0.2s;
 }
 
 
@@ -133,7 +129,7 @@ body {
 
 #searchBox:focus {
     border-color: #e6123d;
-    box-shadow: 0 0 0 3px rgba(230, 18, 61, 0.08);
+    box-shadow: 0 0 0 3px rgba(230, 18, 61, 0.07);
 }
 
 
@@ -144,29 +140,31 @@ body {
 #platforms {
     display: flex;
     flex-direction: column;
-    gap: 15px;
+    gap: 10px;
 }
 
 
 /* =========================
-   Platform Card
+   Compact Platform Card
 ========================= */
 
 .platform-card {
     background: white;
 
-    border-radius: 20px;
+    border-radius: 16px;
 
-    padding: 16px;
+    padding: 11px 13px;
 
     display: flex;
     align-items: center;
 
-    gap: 15px;
+    gap: 12px;
 
     border: 1px solid rgba(0, 0, 0, 0.04);
 
-    box-shadow: 0 5px 16px rgba(0, 0, 0, 0.07);
+    box-shadow: 0 3px 12px rgba(0, 0, 0, 0.055);
+
+    min-height: 82px;
 
     transition:
         transform 0.2s ease,
@@ -175,8 +173,8 @@ body {
 
 
 .platform-card:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 8px 22px rgba(0, 0, 0, 0.10);
+    transform: translateY(-1px);
+    box-shadow: 0 6px 17px rgba(0, 0, 0, 0.08);
 }
 
 
@@ -185,14 +183,14 @@ body {
 ========================= */
 
 .platform-card img {
-    width: 68px;
-    height: 68px;
+    width: 58px;
+    height: 58px;
 
     flex-shrink: 0;
 
     object-fit: contain;
 
-    border-radius: 14px;
+    border-radius: 12px;
 }
 
 
@@ -203,13 +201,17 @@ body {
 .platform-info {
     flex: 1;
     min-width: 0;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 
 .platform-info h3 {
-    margin-bottom: 5px;
+    margin-bottom: 2px;
 
-    font-size: 18px;
+    font-size: 17px;
     font-weight: bold;
 
     color: #222;
@@ -217,13 +219,13 @@ body {
 
 
 .platform-info p {
-    font-size: 13px;
+    font-size: 12px;
 
-    color: #777;
+    color: #888;
 
-    margin-bottom: 10px;
+    margin-bottom: 0;
 
-    line-height: 1.8;
+    line-height: 1.6;
 }
 
 
@@ -232,19 +234,27 @@ body {
 ========================= */
 
 .platform-btn {
-    display: inline-block;
+    flex-shrink: 0;
+
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
 
     background: #e6123d;
     color: white;
 
     text-decoration: none;
 
-    padding: 8px 17px;
+    padding: 8px 13px;
 
-    border-radius: 20px;
+    min-width: 86px;
+
+    border-radius: 18px;
 
     font-family: Tahoma, Arial, sans-serif;
-    font-size: 13px;
+    font-size: 12px;
+
+    white-space: nowrap;
 
     transition:
         background 0.2s ease,
@@ -267,37 +277,43 @@ body {
 ========================= */
 
 .coming-soon {
-    display: inline-block;
+    flex-shrink: 0;
 
-    padding: 7px 15px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
 
-    border-radius: 20px;
+    min-width: 70px;
+
+    padding: 7px 11px;
+
+    border-radius: 18px;
 
     background: #f1f1f1;
     color: #888;
 
-    font-size: 13px;
+    font-size: 12px;
 }
 
 
 /* =========================
-   No Search Results
+   No Results
 ========================= */
 
 .no-results {
     background: white;
 
-    padding: 22px;
+    padding: 20px;
 
-    border-radius: 18px;
+    border-radius: 16px;
 
     text-align: center;
 
     color: #777;
 
-    font-size: 14px;
+    font-size: 13px;
 
-    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+    box-shadow: 0 4px 13px rgba(0, 0, 0, 0.05);
 }
 
 
@@ -308,9 +324,9 @@ body {
 .footer {
     text-align: center;
 
-    padding: 20px 15px 30px;
+    padding: 18px 15px 28px;
 
-    font-size: 13px;
+    font-size: 12px;
 
     color: #777;
 
@@ -325,72 +341,88 @@ body {
 @media (max-width: 480px) {
 
     .header {
-        padding: 30px 16px 25px;
-        border-radius: 0 0 28px 28px;
+        padding: 28px 15px 24px;
+        border-radius: 0 0 27px 27px;
     }
 
 
     .logo {
-        width: 88px;
-        height: 88px;
+        width: 84px;
+        height: 84px;
     }
 
 
     .header h1 {
-        font-size: 28px;
+        font-size: 27px;
     }
 
 
     .header p {
-        font-size: 14px;
+        font-size: 13px;
     }
 
 
     .container {
-        padding: 18px 14px 25px;
+        padding: 17px 12px 24px;
     }
 
 
     .featured {
-        padding: 17px;
+        padding: 15px 16px;
+        margin-bottom: 19px;
     }
 
 
     .featured h2 {
-        font-size: 19px;
+        font-size: 18px;
+    }
+
+
+    .featured p {
+        font-size: 13px;
     }
 
 
     .platform-section h2 {
-        font-size: 21px;
+        font-size: 20px;
     }
 
 
     .platform-card {
-        padding: 14px;
-        gap: 12px;
+        padding: 9px 10px;
+        gap: 10px;
+        min-height: 76px;
     }
 
 
     .platform-card img {
-        width: 62px;
-        height: 62px;
+        width: 52px;
+        height: 52px;
     }
 
 
     .platform-info h3 {
-        font-size: 17px;
+        font-size: 15px;
     }
 
 
     .platform-info p {
-        font-size: 12px;
+        font-size: 11px;
+        line-height: 1.5;
     }
 
 
     .platform-btn {
-        font-size: 12px;
-        padding: 7px 14px;
+        min-width: 78px;
+        padding: 7px 9px;
+        font-size: 11px;
+    }
+
+
+    .coming-soon {
+        min-width: 62px;
+        padding: 6px 8px;
+        font-size: 11px;
     }
 
 }
