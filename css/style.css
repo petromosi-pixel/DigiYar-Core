@@ -373,9 +373,6 @@ body {
 }
 
 
-/* =========================================
-   STORE LOGOS
-========================================= */
 
 /* =========================================
    STORE LOGOS
@@ -384,10 +381,10 @@ body {
 .platform-card > img {
     order: 3;
 
-    flex: 0 0 58px;
+    flex: 0 0 62px;
 
-    width: 55px;
-    height: 55px;
+    width: 58px;
+    height: 68px;
 
     margin: 0;
 
@@ -395,24 +392,14 @@ body {
 
     object-fit: contain;
 
-    padding: 0;
+    padding: 4px;
 
-    /*
-       گوشه‌های یکسان برای تمام لوگوها
-    */
-    border-radius: 13px;
+    border-radius: 12px;
 
-    /*
-       باعث می‌شود حتی لوگوهای مربعی
-       هم در گوشه‌ها بریده و گرد شوند
-    */
     overflow: hidden;
 
     background: #fff;
 
-    /*
-       جلوگیری از کشیده شدن تصویر
-    */
     display: block;
 }
 
