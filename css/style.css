@@ -4,7 +4,6 @@
     padding: 0;
 }
 
-
 body {
     font-family: Tahoma, Arial, sans-serif;
     background: #f5f6fa;
@@ -15,32 +14,36 @@ body {
 
 
 /* =========================
-   Header
+   HEADER
 ========================= */
 
 .header {
     text-align: center;
     padding: 32px 20px 28px;
-    background: linear-gradient(135deg, #e6123d, #ff5a75);
-    color: white;
-    border-radius: 0 0 30px 30px;
-    box-shadow: 0 6px 20px rgba(230, 18, 61, 0.16);
-}
 
+    background: linear-gradient(135deg, #e6123d, #ff5a75);
+
+    color: white;
+
+    border-radius: 0 0 30px 30px;
+
+    box-shadow:
+        0 6px 20px rgba(230, 18, 61, 0.16);
+}
 
 .logo {
     width: 90px;
     height: 90px;
+
     object-fit: contain;
+
     margin-bottom: 10px;
 }
-
 
 .header h1 {
     font-size: 29px;
     margin-bottom: 8px;
 }
-
 
 .header p {
     font-size: 14px;
@@ -50,70 +53,85 @@ body {
 
 
 /* =========================
-   Main
+   MAIN
 ========================= */
 
 .container {
     width: 100%;
     max-width: 600px;
+
     margin: 0 auto;
+
     padding: 20px 16px 28px;
 }
 
 
 /* =========================
-   Featured
+   FEATURED
 ========================= */
 
 .featured {
     background: white;
-    border-radius: 18px;
-    padding: 17px 18px;
-    margin-bottom: 22px;
-    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.06);
-}
 
+    border-radius: 18px;
+
+    padding: 17px 18px;
+
+    margin-bottom: 22px;
+
+    box-shadow:
+        0 4px 15px rgba(0, 0, 0, 0.06);
+}
 
 .featured h2 {
     color: #e6123d;
+
     margin-bottom: 7px;
+
     font-size: 19px;
 }
 
-
 .featured p {
     line-height: 1.9;
+
     font-size: 14px;
+
     color: #555;
 }
 
 
 /* =========================
-   Platform Section
+   PLATFORM SECTION
 ========================= */
 
 .platform-section h2 {
     margin-bottom: 14px;
+
     font-size: 21px;
 }
 
 
 /* =========================
-   Search
+   SEARCH
 ========================= */
 
 #searchBox {
     width: 100%;
+
     padding: 12px 15px;
+
     margin-bottom: 15px;
 
     border: 1px solid #ddd;
+
     border-radius: 13px;
 
     background: white;
+
     color: #333;
 
     font-family: Tahoma, Arial, sans-serif;
+
     font-size: 14px;
 
     outline: none;
@@ -121,42 +139,46 @@ body {
     transition: 0.2s;
 }
 
-
 #searchBox::placeholder {
     color: #999;
 }
 
-
 #searchBox:focus {
     border-color: #e6123d;
-    box-shadow: 0 0 0 3px rgba(230, 18, 61, 0.07);
+
+    box-shadow:
+        0 0 0 3px rgba(230, 18, 61, 0.07);
 }
 
 
 /* =========================
-   Platform List
+   PLATFORM LIST
 ========================= */
 
 #platforms {
     display: flex;
+
     flex-direction: column;
+
     gap: 11px;
 }
 
 
 /* =========================
-   NEW PLATFORM CARD
+   STORE CARD
 ========================= */
 
 .platform-card {
     position: relative;
 
     width: 100%;
+
     min-height: 82px;
 
-    padding: 8px 10px;
+    padding: 7px;
 
     display: flex;
+
     align-items: center;
 
     background: #ffffff;
@@ -165,7 +187,8 @@ body {
 
     border-radius: 18px;
 
-    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.06);
+    box-shadow:
+        0 4px 14px rgba(0, 0, 0, 0.06);
 
     overflow: hidden;
 
@@ -173,7 +196,6 @@ body {
         transform 0.2s ease,
         box-shadow 0.2s ease;
 }
-
 
 .platform-card:hover {
     transform: translateY(-2px);
@@ -184,408 +206,8 @@ body {
 
 
 /* =========================
-   Store Logo
+   STORE LOGO
 ========================= */
-
-.platform-card img {
-    width: 60px;
-    height: 60px;
-
-    flex-shrink: 0;
-
-    object-fit: contain;
-
-    padding: 3px;
-
-    border-radius: 13px;
-
-    background: #ffffff;
-
-    margin-right: 10px;
-}
-
-
-/* =========================
-   Store Information
-========================= */
-
-.platform-info {
-    flex: 1;
-
-    min-width: 0;
-
-    display: flex;
-    flex-direction: column;
-
-    justify-content: center;
-
-    padding: 3px 4px;
-}
-
-
-/*
-   Name + slogan
-   در یک خط
-*/
-
-.platform-info h3 {
-    display: inline;
-
-    margin: 0;
-
-    font-size: 16px;
-
-    line-height: 1.7;
-
-    color: #222;
-
-    white-space: nowrap;
-}
-
-
-.platform-info p {
-    display: inline;
-
-    margin: 0;
-
-    margin-right: 7px;
-
-    font-size: 10px;
-
-    line-height: 1.7;
-
-    color: #999;
-
-    white-space: nowrap;
-
-    overflow: hidden;
-
-    text-overflow: ellipsis;
-}
-
-
-/* =========================
-   ACTION AREA
-========================= */
-
-.platform-btn {
-    position: relative;
-
-    flex-shrink: 0;
-
-    width: 125px;
-    height: 48px;
-
-    margin-left: 5px;
-
-    display: flex;
-
-    align-items: center;
-    justify-content: center;
-
-    background: #e6123d;
-
-    color: #ffffff;
-
-    border-radius: 15px;
-
-    text-decoration: none;
-
-    font-family: Tahoma, Arial, sans-serif;
-
-    font-size: 12px;
-
-    font-weight: bold;
-
-    white-space: nowrap;
-
-    z-index: 3;
-
-    box-shadow:
-        0 4px 10px rgba(230, 18, 61, 0.22);
-
-    transition:
-        transform 0.2s ease,
-        box-shadow 0.2s ease,
-        background 0.2s ease;
-}
-
-
-.platform-btn:hover {
-    background: #c90f35;
-
-    transform: scale(1.03);
-
-    box-shadow:
-        0 6px 14px rgba(230, 18, 61, 0.28);
-}
-
-
-/* =========================
-   BIG MOVING ARROWS
-   پشت دکمه
-========================= */
-
-.platform-btn::before {
-    content: "➜  ➜  ➜";
-
-    position: absolute;
-
-    right: 100%;
-
-    top: 50%;
-
-    transform: translateY(-50%);
-
-    width: 105px;
-
-    color: #e6123d;
-
-    font-size: 20px;
-
-    font-weight: bold;
-
-    letter-spacing: 4px;
-
-    white-space: nowrap;
-
-    opacity: 0.65;
-
-    z-index: -1;
-
-    animation: arrowsToButton 1.4s infinite ease-in-out;
-}
-
-
-@keyframes arrowsToButton {
-
-    0% {
-        transform: translateY(-50%) translateX(-18px);
-        opacity: 0.15;
-    }
-
-    45% {
-        opacity: 0.75;
-    }
-
-    100% {
-        transform: translateY(-50%) translateX(8px);
-        opacity: 0;
-    }
-
-}
-
-
-/* =========================
-   Coming Soon
-========================= */
-
-.coming-soon {
-    flex-shrink: 0;
-
-    width: 95px;
-    height: 42px;
-
-    margin-left: 5px;
-
-    display: flex;
-
-    align-items: center;
-    justify-content: center;
-
-    border-radius: 14px;
-
-    background: #eeeeee;
-
-    color: #888;
-
-    font-size: 11px;
-}
-
-
-/* =========================
-   No Results
-========================= */
-
-.no-results {
-    background: #ffffff;
-
-    padding: 20px;
-
-    border-radius: 16px;
-
-    text-align: center;
-
-    color: #777;
-
-    font-size: 13px;
-
-    box-shadow: 0 4px 13px rgba(0, 0, 0, 0.05);
-}
-
-
-/* =========================
-   Footer
-========================= */
-
-.footer {
-    text-align: center;
-
-    padding: 18px 15px 28px;
-
-    font-size: 12px;
-
-    color: #777;
-
-    line-height: 2;
-}
-
-
-/* =========================
-   MOBILE
-========================= */
-
-@media (max-width: 480px) {
-
-    .header {
-        padding: 28px 15px 24px;
-        border-radius: 0 0 27px 27px;
-    }
-
-
-    .logo {
-        width: 84px;
-        height: 84px;
-    }
-
-
-    .header h1 {
-        font-size: 27px;
-    }
-
-
-    .header p {
-        font-size: 13px;
-    }
-
-
-    .container {
-        padding: 17px 12px 24px;
-    }
-
-
-    .featured {
-        padding: 15px 16px;
-        margin-bottom: 19px;
-    }
-
-
-    .featured h2 {
-        font-size: 18px;
-    }
-
-
-    .featured p {
-        font-size: 13px;
-    }
-
-
-    .platform-section h2 {
-        font-size: 20px;
-    }
-
-
-    /* کارت موبایل */
-
-    .platform-card {
-        min-height: 76px;
-
-        padding: 7px 8px;
-
-        border-radius: 16px;
-    }
-
-
-    .platform-card img {
-        width: 54px;
-        height: 54px;
-
-        margin-right: 7px;
-    }
-
-
-    .platform-info h3 {
-        font-size: 14px;
-    }
-
-
-    .platform-info p {
-        font-size: 8.5px;
-
-        margin-right: 5px;
-    }
-
-
-    .platform-btn {
-        width: 102px;
-        height: 43px;
-
-        margin-left: 4px;
-
-        border-radius: 13px;
-
-        font-size: 10px;
-    }
-
-
-    .platform-btn::before {
-        width: 80px;
-
-        font-size: 16px;
-
-        letter-spacing: 2px;
-    }
-
-
-    .coming-soon {
-        width: 72px;
-        height: 39px;
-
-        margin-left: 4px;
-
-        border-radius: 12px;
-
-        font-size: 10px;
-    }
-
-}
-/* =========================================
-   TEST 4 — Half Action Panel
-========================================= */
-
-.platform-card {
-    position: relative;
-
-    min-height: 82px;
-
-    padding: 7px;
-
-    display: flex;
-    align-items: center;
-
-    background: #fff;
-
-    border: 1px solid rgba(0, 0, 0, 0.05);
-
-    border-radius: 18px;
-
-    overflow: hidden;
-
-    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.06);
-}
-
-
-/* لوگو */
 
 .platform-card img {
     width: 60px;
@@ -597,6 +219,8 @@ body {
 
     margin: 0 9px 0 5px;
 
+    padding: 3px;
+
     border-radius: 12px;
 
     background: #fff;
@@ -605,7 +229,9 @@ body {
 }
 
 
-/* اطلاعات فروشگاه */
+/* =========================
+   STORE INFORMATION
+========================= */
 
 .platform-info {
     flex: 1;
@@ -613,6 +239,7 @@ body {
     min-width: 0;
 
     display: flex;
+
     flex-direction: row;
 
     align-items: center;
@@ -625,7 +252,7 @@ body {
 }
 
 
-/* نام */
+/* STORE NAME */
 
 .platform-info h3 {
     flex-shrink: 0;
@@ -640,7 +267,7 @@ body {
 }
 
 
-/* شعار */
+/* STORE DESCRIPTION */
 
 .platform-info p {
     min-width: 0;
@@ -659,12 +286,12 @@ body {
 }
 
 
-/* =========================================
+/* ==================================================
+   AFFILIATE ACTION PANEL
    نیمه غربی کارت
-========================================= */
+================================================== */
 
 .platform-btn {
-
     position: relative;
 
     flex-shrink: 0;
@@ -683,7 +310,7 @@ body {
 
     background: #e6123d;
 
-    color: #fff;
+    color: #ffffff;
 
     border-radius: 13px;
 
@@ -702,94 +329,118 @@ body {
     z-index: 1;
 
     box-shadow:
-        inset 0 0 0 1px rgba(255,255,255,.08);
+        inset 0 0 0 1px rgba(255, 255, 255, 0.08),
+
+        0 3px 8px rgba(230, 18, 61, 0.15);
 
     transition:
-        transform .2s ease,
-        background .2s ease;
+        transform 0.2s ease,
+        background 0.2s ease;
 }
 
 
-/* فلش‌های بزرگ داخل پنل */
+/* ==================================================
+   نمادهای »
+   سمت راست نوشته
+   حرکت از راست به چپ
+================================================== */
 
 .platform-btn::before {
-
-    content: "➜  ➜  ➜";
+    content: "»  »  »";
 
     position: absolute;
 
-    right: 8px;
+    right: 15px;
 
     top: 50%;
 
     transform: translateY(-50%);
 
-    font-size: 24px;
+    color: rgba(255, 255, 255, 0.8);
+
+    font-size: 31px;
 
     font-weight: bold;
 
-    letter-spacing: 5px;
+    line-height: 1;
 
-    color: rgba(255,255,255,.42);
+    letter-spacing: 1px;
 
     white-space: nowrap;
 
-    animation: actionArrows 1.4s infinite ease-in-out;
-
     pointer-events: none;
+
+    animation:
+        chevronsToText 1.5s infinite ease-in-out;
 }
 
 
-/* متن روی فلش‌ها */
+/* ==================================================
+   متن ورود به فروشگاه
+   سمت چپ نمادها
+================================================== */
 
 .platform-btn {
-    padding-right: 15px;
+    padding-left: 25px;
+    padding-right: 72px;
 }
 
 
-/* انیمیشن فلش */
+/* ==================================================
+   حرکت مداوم نمادها از راست به سمت نوشته
+================================================== */
 
-@keyframes actionArrows {
+@keyframes chevronsToText {
 
     0% {
         transform:
             translateY(-50%)
-            translateX(18px);
+            translateX(22px);
 
-        opacity: .15;
+        opacity: 0;
     }
 
-    45% {
-        opacity: .8;
+    20% {
+        opacity: 0.25;
+    }
+
+    50% {
+        opacity: 0.9;
+    }
+
+    80% {
+        opacity: 0.55;
     }
 
     100% {
         transform:
             translateY(-50%)
-            translateX(-15px);
+            translateX(-32px);
 
         opacity: 0;
     }
-
 }
 
 
-/* حالت لمس / hover */
+/* =========================
+   HOVER
+========================= */
 
 .platform-btn:hover {
-
     background: #c90f35;
 
-    transform: scale(.985);
+    transform: scale(0.985);
+
+    box-shadow:
+        0 5px 12px rgba(230, 18, 61, 0.25);
 }
 
 
-/* =========================================
-   به‌زودی
-========================================= */
+/* =========================
+   COMING SOON
+========================= */
 
 .coming-soon {
-
     flex-shrink: 0;
 
     width: 46%;
@@ -814,14 +465,102 @@ body {
 }
 
 
-/* =========================================
-   Mobile
-========================================= */
+/* =========================
+   NO RESULTS
+========================= */
+
+.no-results {
+    background: #ffffff;
+
+    padding: 20px;
+
+    border-radius: 16px;
+
+    text-align: center;
+
+    color: #777;
+
+    font-size: 13px;
+
+    box-shadow:
+        0 4px 13px rgba(0, 0, 0, 0.05);
+}
+
+
+/* =========================
+   FOOTER
+========================= */
+
+.footer {
+    text-align: center;
+
+    padding: 18px 15px 28px;
+
+    font-size: 12px;
+
+    color: #777;
+
+    line-height: 2;
+}
+
+
+/* ==================================================
+   MOBILE
+================================================== */
 
 @media (max-width: 480px) {
 
-    .platform-card {
+    .header {
+        padding: 28px 15px 24px;
 
+        border-radius:
+            0 0 27px 27px;
+    }
+
+    .logo {
+        width: 84px;
+        height: 84px;
+    }
+
+    .header h1 {
+        font-size: 27px;
+    }
+
+    .header p {
+        font-size: 13px;
+    }
+
+
+    .container {
+        padding: 17px 12px 24px;
+    }
+
+
+    .featured {
+        padding: 15px 16px;
+
+        margin-bottom: 19px;
+    }
+
+    .featured h2 {
+        font-size: 18px;
+    }
+
+    .featured p {
+        font-size: 13px;
+    }
+
+
+    .platform-section h2 {
+        font-size: 20px;
+    }
+
+
+    /* =========================
+       MOBILE CARD
+    ========================= */
+
+    .platform-card {
         min-height: 76px;
 
         padding: 6px;
@@ -831,7 +570,6 @@ body {
 
 
     .platform-card img {
-
         width: 54px;
         height: 54px;
 
@@ -840,7 +578,6 @@ body {
 
 
     .platform-info {
-
         gap: 5px;
 
         padding-right: 3px;
@@ -848,19 +585,20 @@ body {
 
 
     .platform-info h3 {
-
         font-size: 14px;
     }
 
 
     .platform-info p {
-
         font-size: 8px;
     }
 
 
-    .platform-btn {
+    /* =========================
+       MOBILE ACTION
+    ========================= */
 
+    .platform-btn {
         width: 46%;
 
         height: 64px;
@@ -869,22 +607,53 @@ body {
 
         font-size: 10px;
 
-        padding-right: 7px;
+        padding-left: 12px;
+
+        padding-right: 52px;
     }
 
 
     .platform-btn::before {
+        right: 8px;
 
-        font-size: 18px;
+        font-size: 24px;
 
-        letter-spacing: 2px;
+        letter-spacing: 0;
 
-        right: 4px;
+        animation-name:
+            chevronsToTextMobile;
+    }
+
+
+    @keyframes chevronsToTextMobile {
+
+        0% {
+            transform:
+                translateY(-50%)
+                translateX(16px);
+
+            opacity: 0;
+        }
+
+        25% {
+            opacity: 0.3;
+        }
+
+        55% {
+            opacity: 0.9;
+        }
+
+        100% {
+            transform:
+                translateY(-50%)
+                translateX(-24px);
+
+            opacity: 0;
+        }
     }
 
 
     .coming-soon {
-
         width: 46%;
 
         height: 64px;
@@ -893,5 +662,4 @@ body {
 
         font-size: 10px;
     }
-
 }
