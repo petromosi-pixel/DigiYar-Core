@@ -20,23 +20,16 @@ body {
 .header {
     text-align: center;
     padding: 32px 20px 28px;
-
     background: linear-gradient(135deg, #e6123d, #ff5a75);
-
     color: white;
-
     border-radius: 0 0 30px 30px;
-
-    box-shadow:
-        0 6px 20px rgba(230, 18, 61, 0.16);
+    box-shadow: 0 6px 20px rgba(230, 18, 61, 0.16);
 }
 
 .logo {
     width: 90px;
     height: 90px;
-
     object-fit: contain;
-
     margin-bottom: 10px;
 }
 
@@ -59,9 +52,7 @@ body {
 .container {
     width: 100%;
     max-width: 600px;
-
     margin: 0 auto;
-
     padding: 20px 16px 28px;
 }
 
@@ -72,30 +63,21 @@ body {
 
 .featured {
     background: white;
-
     border-radius: 18px;
-
     padding: 17px 18px;
-
     margin-bottom: 22px;
-
-    box-shadow:
-        0 4px 15px rgba(0, 0, 0, 0.06);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.06);
 }
 
 .featured h2 {
     color: #e6123d;
-
     margin-bottom: 7px;
-
     font-size: 19px;
 }
 
 .featured p {
     line-height: 1.9;
-
     font-size: 14px;
-
     color: #555;
 }
 
@@ -106,7 +88,6 @@ body {
 
 .platform-section h2 {
     margin-bottom: 14px;
-
     font-size: 21px;
 }
 
@@ -117,21 +98,16 @@ body {
 
 #searchBox {
     width: 100%;
-
     padding: 12px 15px;
-
     margin-bottom: 15px;
 
     border: 1px solid #ddd;
-
     border-radius: 13px;
 
     background: white;
-
     color: #333;
 
     font-family: Tahoma, Arial, sans-serif;
-
     font-size: 14px;
 
     outline: none;
@@ -157,9 +133,7 @@ body {
 
 #platforms {
     display: flex;
-
     flex-direction: column;
-
     gap: 11px;
 }
 
@@ -172,13 +146,11 @@ body {
     position: relative;
 
     width: 100%;
-
     min-height: 82px;
 
     padding: 7px;
 
     display: flex;
-
     align-items: center;
 
     background: #ffffff;
@@ -238,45 +210,36 @@ body {
 
     min-width: 0;
 
-    display: flex;
+    height: 68px;
 
-    flex-direction: row;
+    display: flex;
+    flex-direction: column;
 
     align-items: center;
+    justify-content: center;
 
-    gap: 7px;
+    text-align: center;
 
-    padding-right: 5px;
+    padding: 4px 6px;
 
     overflow: hidden;
 }
 
 
-/* STORE NAME */
+/* نام فروشگاه */
 
 .platform-info h3 {
-    flex-shrink: 0;
+    width: 100%;
 
     margin: 0;
 
     font-size: 16px;
 
+    line-height: 1.5;
+
     color: #222;
 
-    white-space: nowrap;
-}
-
-
-/* STORE DESCRIPTION */
-
-.platform-info p {
-    min-width: 0;
-
-    margin: 0;
-
-    font-size: 10px;
-
-    color: #999;
+    text-align: center;
 
     white-space: nowrap;
 
@@ -286,9 +249,37 @@ body {
 }
 
 
+/* شعار */
+
+.platform-info p {
+    width: 100%;
+
+    margin: 2px 0 0;
+
+    font-size: 10px;
+
+    line-height: 1.6;
+
+    color: #999;
+
+    text-align: center;
+
+    white-space: normal;
+
+    overflow: hidden;
+
+    text-overflow: ellipsis;
+
+    display: -webkit-box;
+
+    -webkit-line-clamp: 2;
+
+    -webkit-box-orient: vertical;
+}
+
+
 /* ==================================================
-   AFFILIATE ACTION PANEL
-   نیمه غربی کارت
+   ACTIVE AFFILIATE BUTTON
 ================================================== */
 
 .platform-btn {
@@ -305,7 +296,6 @@ body {
     display: flex;
 
     align-items: center;
-
     justify-content: center;
 
     background: #e6123d;
@@ -328,9 +318,10 @@ body {
 
     z-index: 1;
 
+    padding: 0 12px;
+
     box-shadow:
         inset 0 0 0 1px rgba(255, 255, 255, 0.08),
-
         0 3px 8px rgba(230, 18, 61, 0.15);
 
     transition:
@@ -340,90 +331,120 @@ body {
 
 
 /* ==================================================
-   نمادهای »
-   سمت راست نوشته
-   حرکت از راست به چپ
+   ANIMATED » SYMBOLS
+
+   از بیرون پنل وارد می‌شوند
+   و به سمت ابتدای متن حرکت می‌کنند
 ================================================== */
 
 .platform-btn::before {
-    content: "»  »  »";
+    content: "»";
 
     position: absolute;
 
-    right: 15px;
-
     top: 50%;
+    right: -42px;
+
+    width: 42px;
+    height: 68px;
+
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
 
     transform: translateY(-50%);
 
-    color: rgba(255, 255, 255, 0.8);
+    color: rgba(255, 255, 255, 0.85);
 
-    font-size: 31px;
+    font-size: 64px;
 
     font-weight: bold;
 
     line-height: 1;
 
-    letter-spacing: 1px;
+    pointer-events: none;
 
-    white-space: nowrap;
+    animation: chevronFlow 1.5s infinite linear;
+}
+
+
+/* سه مرحله محوشونده با shadow */
+
+.platform-btn::after {
+    content: "»";
+
+    position: absolute;
+
+    top: 50%;
+    right: -42px;
+
+    width: 42px;
+    height: 68px;
+
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+
+    transform: translateY(-50%);
+
+    color: rgba(255, 255, 255, 0.35);
+
+    font-size: 64px;
+
+    font-weight: bold;
+
+    line-height: 1;
 
     pointer-events: none;
 
-    animation:
-        chevronsToText 1.5s infinite ease-in-out;
+    animation: chevronFlow 1.5s infinite linear 0.5s;
 }
 
 
-/* ==================================================
-   متن ورود به فروشگاه
-   سمت چپ نمادها
-================================================== */
+/* حرکت از بیرون راست به سمت متن */
 
-.platform-btn {
-    padding-left: 25px;
-    padding-right: 72px;
-}
-
-
-/* ==================================================
-   حرکت مداوم نمادها از راست به سمت نوشته
-================================================== */
-
-@keyframes chevronsToText {
+@keyframes chevronFlow {
 
     0% {
-        transform:
-            translateY(-50%)
-            translateX(22px);
-
+        right: -48px;
         opacity: 0;
     }
 
-    20% {
+    15% {
         opacity: 0.25;
     }
 
-    50% {
+    35% {
         opacity: 0.9;
     }
 
-    80% {
-        opacity: 0.55;
+    60% {
+        opacity: 0.65;
+    }
+
+    82% {
+        right: 58px;
+        opacity: 0.15;
     }
 
     100% {
-        transform:
-            translateY(-50%)
-            translateX(-32px);
-
+        right: 78px;
         opacity: 0;
     }
+}
+
+
+/* متن دکمه */
+
+.platform-btn {
+    text-indent: -4px;
 }
 
 
 /* =========================
-   HOVER
+   BUTTON HOVER
 ========================= */
 
 .platform-btn:hover {
@@ -436,9 +457,10 @@ body {
 }
 
 
-/* =========================
+/* ==================================================
    COMING SOON
-========================= */
+   دقیقاً هم‌ستون با دکمه فعال
+================================================== */
 
 .coming-soon {
     flex-shrink: 0;
@@ -452,7 +474,6 @@ body {
     display: flex;
 
     align-items: center;
-
     justify-content: center;
 
     border-radius: 13px;
@@ -461,7 +482,14 @@ body {
 
     color: #888;
 
-    font-size: 11px;
+    font-size: 12px;
+
+    font-family: Tahoma, Arial, sans-serif;
+
+    text-align: center;
+
+    box-shadow:
+        inset 0 0 0 1px rgba(0, 0, 0, 0.03);
 }
 
 
@@ -517,14 +545,17 @@ body {
             0 0 27px 27px;
     }
 
+
     .logo {
         width: 84px;
         height: 84px;
     }
 
+
     .header h1 {
         font-size: 27px;
     }
+
 
     .header p {
         font-size: 13px;
@@ -542,9 +573,11 @@ body {
         margin-bottom: 19px;
     }
 
+
     .featured h2 {
         font-size: 18px;
     }
+
 
     .featured p {
         font-size: 13px;
@@ -577,25 +610,37 @@ body {
     }
 
 
-    .platform-info {
-        gap: 5px;
+    /* =========================
+       MOBILE INFO
+    ========================= */
 
-        padding-right: 3px;
+    .platform-info {
+        height: 64px;
+
+        padding: 3px 4px;
+
+        gap: 0;
     }
 
 
     .platform-info h3 {
         font-size: 14px;
+
+        line-height: 1.5;
     }
 
 
     .platform-info p {
-        font-size: 8px;
+        font-size: 8.5px;
+
+        line-height: 1.5;
+
+        margin-top: 1px;
     }
 
 
     /* =========================
-       MOBILE ACTION
+       MOBILE ACTIVE BUTTON
     ========================= */
 
     .platform-btn {
@@ -607,51 +652,65 @@ body {
 
         font-size: 10px;
 
-        padding-left: 12px;
+        padding: 0 7px;
+    }
 
-        padding-right: 52px;
+
+    .platform-btn::before,
+    .platform-btn::after {
+
+        width: 38px;
+
+        height: 64px;
+
+        font-size: 52px;
     }
 
 
     .platform-btn::before {
-        right: 8px;
-
-        font-size: 24px;
-
-        letter-spacing: 0;
-
-        animation-name:
-            chevronsToTextMobile;
+        right: -42px;
     }
 
 
-    @keyframes chevronsToTextMobile {
+    .platform-btn::after {
+        right: -42px;
+    }
+
+
+    @keyframes chevronFlow {
 
         0% {
-            transform:
-                translateY(-50%)
-                translateX(16px);
-
+            right: -44px;
             opacity: 0;
         }
 
-        25% {
-            opacity: 0.3;
+        15% {
+            opacity: 0.2;
         }
 
-        55% {
+        35% {
             opacity: 0.9;
         }
 
-        100% {
-            transform:
-                translateY(-50%)
-                translateX(-24px);
+        60% {
+            opacity: 0.65;
+        }
 
+        82% {
+            right: 42px;
+            opacity: 0.15;
+        }
+
+        100% {
+            right: 60px;
             opacity: 0;
         }
     }
 
+
+    /* =========================
+       MOBILE COMING SOON
+    ========================= */
 
     .coming-soon {
         width: 46%;
