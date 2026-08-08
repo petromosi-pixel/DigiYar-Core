@@ -23,7 +23,6 @@ body {
 
 .header {
     text-align: center;
-
     padding: 30px 18px 26px;
 
     background: linear-gradient(
@@ -116,6 +115,7 @@ body {
 
 .platform-section h2 {
     margin-bottom: 11px;
+
     font-size: 21px;
 }
 
@@ -199,18 +199,35 @@ body {
 
 
 /* =========================================
-   STORE BUTTON
+   ACTION AREA
+   دکمه و به‌زودی دقیقاً یک اندازه
 ========================================= */
 
-.platform-btn {
+.platform-btn,
+.coming-soon {
     order: 1;
 
-    flex: 0 0 48%;
+    flex: 0 0 46%;
 
-    width: 48%;
+    width: 46%;
+
+    max-width: 46%;
 
     height: 68px;
 
+    min-height: 68px;
+
+    margin: 0;
+
+    box-sizing: border-box;
+}
+
+
+/* =========================================
+   ACTIVE BUTTON
+========================================= */
+
+.platform-btn {
     position: relative;
 
     display: flex;
@@ -218,8 +235,6 @@ body {
     align-items: center;
 
     justify-content: center;
-
-    margin: 0;
 
     padding: 0 8px;
 
@@ -268,23 +283,6 @@ body {
 
 
 /* =========================================
-   BUTTON TEXT
-========================================= */
-
-.platform-btn .btn-text {
-    position: relative;
-
-    z-index: 3;
-
-    display: block;
-
-    white-space: nowrap;
-
-    pointer-events: none;
-}
-
-
-/* =========================================
    STORE INFO
 ========================================= */
 
@@ -325,7 +323,6 @@ body {
     width: 100%;
 
     margin: 0;
-
     padding: 0;
 
     color: #222;
@@ -354,7 +351,6 @@ body {
     width: 100%;
 
     margin: 1px 0 0;
-
     padding: 0;
 
     color: #999;
@@ -373,34 +369,39 @@ body {
 }
 
 
-
 /* =========================================
    STORE LOGOS
+   هم‌ارتفاع با دکمه
 ========================================= */
 
 .platform-card > img {
     order: 3;
 
-    flex: 0 0 62px;
+    flex: 0 0 68px;
 
-    width: 58px;
+    width: 68px;
+
     height: 68px;
+
+    min-width: 68px;
+
+    min-height: 68px;
 
     margin: 0;
 
     align-self: center;
 
-    object-fit: contain;
+    display: block;
 
-    padding: 4px;
+    object-fit: cover;
 
-    border-radius: 12px;
+    padding: 0;
+
+    border-radius: 11px;
 
     overflow: hidden;
 
     background: #fff;
-
-    display: block;
 }
 
 
@@ -409,21 +410,11 @@ body {
 ========================================= */
 
 .coming-soon {
-    order: 1;
-
-    flex: 0 0 48%;
-
-    width: 48%;
-
-    height: 68px;
-
     display: flex;
 
     align-items: center;
 
     justify-content: center;
-
-    margin: 0;
 
     border-radius: 11px;
 
@@ -431,7 +422,7 @@ body {
 
     color: #888;
 
-    font-size: 11px;
+    font-size: 14px;
 
     direction: rtl;
 
@@ -483,6 +474,11 @@ body {
 
 @media (max-width: 480px) {
 
+
+    /* =====================================
+       HEADER
+    ===================================== */
+
     .header {
         padding: 27px 14px 23px;
 
@@ -507,11 +503,19 @@ body {
     }
 
 
+    /* =====================================
+       MAIN
+    ===================================== */
+
     .container {
         padding:
             15px 6px 23px;
     }
 
+
+    /* =====================================
+       FEATURED
+    ===================================== */
 
     .featured {
         padding:
@@ -529,14 +533,18 @@ body {
     }
 
 
+    /* =====================================
+       PLATFORM TITLE
+    ===================================== */
+
     .platform-section h2 {
         font-size: 20px;
     }
 
 
-    /* =========================================
+    /* =====================================
        MOBILE CARD
-    ========================================= */
+    ===================================== */
 
     .platform-card {
         height: 70px;
@@ -557,37 +565,48 @@ body {
     }
 
 
-    /* =========================================
-       MOBILE BUTTON
-    ========================================= */
+    /* =====================================
+       MOBILE ACTION AREA
+       دکمه و به‌زودی کاملاً برابر
+    ===================================== */
 
-    .platform-btn {
-        order: 1;
-
+    .platform-btn,
+    .coming-soon {
         flex: 0 0 46%;
 
         width: 46%;
 
+        max-width: 46%;
+
         height: 62px;
+
+        min-height: 62px;
+
+        margin: 0;
+
+        box-sizing: border-box;
+    }
+
+
+    /* =====================================
+       MOBILE BUTTON
+    ===================================== */
+
+    .platform-btn {
+        padding: 0 5px;
 
         border-radius: 10px;
 
         font-size: 12px;
-
-        padding: 0 5px;
     }
 
 
-    /* =========================================
+    /* =====================================
        MOBILE INFO
-    ========================================= */
+    ===================================== */
 
     .platform-info {
-        order: 2;
-
         flex: 1 1 auto;
-
-        width: auto;
 
         height: 62px;
 
@@ -610,57 +629,61 @@ body {
         line-height: 1.4;
     }
 
-@media (max-width: 480px) {
 
-    /* ... سایر تنظیمات موبایل ... */
+    /* =====================================
+       MOBILE LOGOS
+       هم‌ارتفاع دقیق با دکمه
+    ===================================== */
 
-/* =========================================
-   MOBILE LOGOS
-========================================= */
+    .platform-card > img {
+        flex: 0 0 62px;
 
-.platform-card > img {
-    order: 3;
-
-    flex: 0 0 56px;
-
-    width: 54px;
-    height: 62px;
-
-    margin: 0;
-
-    align-self: center;
-
-    object-fit: contain;
-
-    padding: 4px;
-
-    border-radius: 12px;
-
-    overflow: hidden;
-
-    background: #fff;
-
-    display: block;
-};
-    
-
-
-    /* =========================================
-       MOBILE COMING SOON
-    ========================================= */
-
-    .coming-soon {
-        order: 1;
-
-        flex: 0 0 46%;
-
-        width: 46%;
+        width: 62px;
 
         height: 62px;
 
+        min-width: 62px;
+
+        min-height: 62px;
+
+        margin: 0;
+
+        align-self: center;
+
+        object-fit: cover;
+
+        padding: 0;
+
         border-radius: 10px;
 
-        font-size: 9px;
+        overflow: hidden;
+
+        background: #fff;
+
+        display: block;
     }
 
-};
+
+    /* =====================================
+       MOBILE COMING SOON
+    ===================================== */
+
+    .coming-soon {
+        border-radius: 10px;
+
+        font-size: 12px;
+    }
+
+
+    /* =====================================
+       MOBILE FOOTER
+    ===================================== */
+
+    .footer {
+        padding:
+            18px 10px 27px;
+
+        font-size: 12px;
+    }
+
+}
