@@ -208,6 +208,7 @@ body {
     flex: 0 0 48%;
 
     width: 48%;
+
     height: 68px;
 
     position: relative;
@@ -215,9 +216,11 @@ body {
     display: flex;
 
     align-items: center;
+
     justify-content: center;
 
     margin: 0;
+
     padding: 0 8px;
 
     background: #e6123d;
@@ -241,8 +244,6 @@ body {
     direction: rtl;
 
     z-index: 2;
-
-    isolation: isolate;
 
     box-shadow:
         0 3px 8px rgba(230,18,61,.15);
@@ -280,113 +281,6 @@ body {
     white-space: nowrap;
 
     pointer-events: none;
-}
-
-
-/* =========================================
-   SINGLE MOVING CHEVRON
-========================================= */
-
-.platform-btn::before {
-    content: "»";
-
-    position: absolute;
-
-    top: 50%;
-    left: 8px;
-
-    width: 28px;
-    height: 42px;
-
-    display: flex;
-
-    align-items: center;
-    justify-content: center;
-
-    transform:
-        translateY(-50%);
-
-    color:
-        rgba(255,255,255,.72);
-
-    font-family:
-        Tahoma,
-        Arial,
-        sans-serif;
-
-    font-size: 38px;
-
-    font-weight: bold;
-
-    line-height: 1;
-
-    pointer-events: none;
-
-    z-index: 1;
-
-    animation:
-        springChevron
-        1.8s
-        ease-in-out
-        infinite;
-}
-
-
-/* =========================================
-   SPRING MOTION
-========================================= */
-
-@keyframes springChevron {
-
-    0% {
-        left: 8px;
-        opacity: .25;
-        transform:
-            translateY(-50%)
-            scale(.92);
-    }
-
-    12% {
-        opacity: .65;
-    }
-
-    28% {
-        left: 32px;
-        opacity: .85;
-    }
-
-    48% {
-        left: calc(50% + 34px);
-        opacity: .95;
-
-        transform:
-            translateY(-50%)
-            scale(1);
-    }
-
-    58% {
-        left: calc(50% + 28px);
-        opacity: .90;
-    }
-
-    68% {
-        left: calc(50% + 34px);
-        opacity: .75;
-    }
-
-    82% {
-        left: 32px;
-        opacity: .45;
-    }
-
-    100% {
-        left: 8px;
-        opacity: .20;
-
-        transform:
-            translateY(-50%)
-            scale(.92);
-    }
 }
 
 
@@ -431,6 +325,7 @@ body {
     width: 100%;
 
     margin: 0;
+
     padding: 0;
 
     color: #222;
@@ -459,6 +354,7 @@ body {
     width: 100%;
 
     margin: 1px 0 0;
+
     padding: 0;
 
     color: #999;
@@ -478,7 +374,7 @@ body {
 
 
 /* =========================================
-   STORE LOGO
+   STORE LOGOS
 ========================================= */
 
 .platform-card > img {
@@ -487,6 +383,7 @@ body {
     flex: 0 0 58px;
 
     width: 55px;
+
     height: 55px;
 
     margin: 0;
@@ -495,13 +392,13 @@ body {
 
     object-fit: contain;
 
-    padding: 3px;
+    padding: 0;
 
-    border-radius: 17px;
+    border-radius: 0;
 
-    background: #fff;
+    background: transparent;
 
-    overflow: hidden;
+    overflow: visible;
 }
 
 
@@ -641,6 +538,7 @@ body {
 
     .platform-card {
         height: 70px;
+
         min-height: 70px;
 
         padding: 4px;
@@ -675,90 +573,6 @@ body {
         font-size: 10px;
 
         padding: 0 5px;
-    }
-
-
-    .platform-btn .btn-text {
-        font-size: 10px;
-    }
-
-
-    /* =========================================
-       MOBILE SINGLE CHEVRON
-    ========================================= */
-
-    .platform-btn::before {
-        left: 6px;
-
-        width: 24px;
-        height: 38px;
-
-        font-size: 34px;
-
-        animation:
-            springChevronMobile
-            1.7s
-            ease-in-out
-            infinite;
-    }
-
-
-    /* =========================================
-       MOBILE SPRING
-    ========================================= */
-
-    @keyframes springChevronMobile {
-
-        0% {
-            left: 6px;
-            opacity: .25;
-
-            transform:
-                translateY(-50%)
-                scale(.92);
-        }
-
-        12% {
-            opacity: .65;
-        }
-
-        28% {
-            left: 24px;
-            opacity: .85;
-        }
-
-        48% {
-            left: calc(50% + 27px);
-            opacity: .95;
-
-            transform:
-                translateY(-50%)
-                scale(1);
-        }
-
-        58% {
-            left: calc(50% + 22px);
-            opacity: .90;
-        }
-
-        68% {
-            left: calc(50% + 27px);
-            opacity: .75;
-        }
-
-        82% {
-            left: 24px;
-            opacity: .45;
-        }
-
-        100% {
-            left: 6px;
-            opacity: .20;
-
-            transform:
-                translateY(-50%)
-                scale(.92);
-        }
     }
 
 
@@ -805,13 +619,18 @@ body {
         flex: 0 0 52px;
 
         width: 49px;
+
         height: 49px;
 
         margin: 0;
 
-        padding: 2px;
+        padding: 0;
 
-        border-radius: 15px;
+        border-radius: 0;
+
+        background: transparent;
+
+        overflow: visible;
     }
 
 
@@ -832,4 +651,5 @@ body {
 
         font-size: 9px;
     }
+
 }
