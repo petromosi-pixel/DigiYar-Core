@@ -11,13 +11,9 @@
 
 body {
     font-family: Tahoma, Arial, sans-serif;
-
     background: #f5f6fa;
-
     color: #333;
-
     min-height: 100vh;
-
     line-height: 1.7;
 }
 
@@ -28,59 +24,44 @@ body {
 
 .header {
     text-align: center;
-
     padding: 30px 18px 26px;
-
-    background:
-        linear-gradient(135deg, #e6123d, #ff5a75);
-
+    background: linear-gradient(135deg, #e6123d, #ff5a75);
     color: white;
-
     border-radius: 0 0 30px 30px;
-
-    box-shadow:
-        0 6px 20px rgba(230, 18, 61, 0.15);
+    box-shadow: 0 6px 20px rgba(230, 18, 61, .15);
 }
 
 
 .logo {
     width: 88px;
     height: 88px;
-
     object-fit: contain;
-
     margin-bottom: 10px;
 }
 
 
 .header h1 {
     font-size: 29px;
-
     margin-bottom: 8px;
 }
 
 
 .header p {
     font-size: 14px;
-
     line-height: 2;
-
     opacity: .95;
 }
 
 
 /* =========================================
-   MAIN CONTAINER
+   MAIN
 ========================================= */
 
 .container {
     width: 100%;
-
-    max-width: 520px;
-
+    max-width: 510px;
     margin: 0 auto;
-
-    padding: 18px 10px 25px;
+    padding: 18px 9px 25px;
 }
 
 
@@ -90,32 +71,23 @@ body {
 
 .featured {
     background: #fff;
-
     border-radius: 17px;
-
     padding: 15px 17px;
-
     margin-bottom: 19px;
-
-    box-shadow:
-        0 4px 14px rgba(0, 0, 0, .06);
+    box-shadow: 0 4px 14px rgba(0, 0, 0, .06);
 }
 
 
 .featured h2 {
     color: #e6123d;
-
     margin-bottom: 6px;
-
     font-size: 19px;
 }
 
 
 .featured p {
     line-height: 1.9;
-
     font-size: 14px;
-
     color: #555;
 }
 
@@ -126,7 +98,6 @@ body {
 
 .platform-section h2 {
     margin-bottom: 12px;
-
     font-size: 21px;
 }
 
@@ -137,26 +108,19 @@ body {
 
 #searchBox {
     width: 100%;
-
     padding: 11px 14px;
-
     margin-bottom: 13px;
 
     border: 1px solid #ddd;
-
     border-radius: 12px;
 
     background: #fff;
-
     color: #333;
 
     font-family: Tahoma, Arial, sans-serif;
-
     font-size: 14px;
 
     outline: none;
-
-    transition: .2s;
 }
 
 
@@ -179,49 +143,57 @@ body {
 
 #platforms {
     display: flex;
-
     flex-direction: column;
-
     gap: 9px;
 }
 
 
-/* =========================================
+/* =================================================
    STORE CARD
-========================================= */
+   سه ستون کاملاً مشخص:
+
+   ستون 1 = دکمه
+   ستون 2 = اطلاعات
+   ستون 3 = لوگو
+================================================= */
 
 .platform-card {
-    width: 100%;
 
+    width: 100%;
     max-width: 500px;
 
-    min-height: 78px;
-
-    height: 78px;
+    height: 76px;
+    min-height: 76px;
 
     margin: 0 auto;
+    padding: 4px;
 
-    padding: 5px;
-
-    display: flex;
+    display: grid;
 
     /*
-       ترتیب بصری کاملاً کنترل می‌شود:
-       چپ = دکمه
-       وسط = اطلاعات
-       راست = لوگو
+       LTR باعث می‌شود ستون اول واقعاً سمت چپ باشد.
+       بنابراین:
+       1 = غرب / دکمه
+       2 = مرکز / اطلاعات
+       3 = شرق / لوگو
     */
-    flex-direction: row;
-
-    align-items: center;
 
     direction: ltr;
+
+    grid-template-columns:
+        47%
+        minmax(0, 1fr)
+        58px;
+
+    grid-template-rows: 1fr;
+
+    align-items: center;
 
     background: #fff;
 
     border: 1px solid rgba(0, 0, 0, .045);
 
-    border-radius: 16px;
+    border-radius: 15px;
 
     overflow: hidden;
 
@@ -242,139 +214,36 @@ body {
 }
 
 
-/* =========================================
-   STORE LOGO
-   سمت راست کارت
-========================================= */
-
-.platform-card img {
-    order: 3;
-
-    width: 58px;
-
-    height: 58px;
-
-    flex: 0 0 58px;
-
-    object-fit: contain;
-
-    margin: 0 5px 0 8px;
-
-    padding: 2px;
-
-    border-radius: 11px;
-
-    background: #fff;
-}
-
-
-/* =========================================
-   STORE INFORMATION
-   وسط کارت
-========================================= */
-
-.platform-info {
-    order: 2;
-
-    flex: 1;
-
-    min-width: 0;
-
-    height: 68px;
-
-    display: flex;
-
-    flex-direction: column;
-
-    align-items: center;
-
-    justify-content: center;
-
-    direction: rtl;
-
-    text-align: center;
-
-    padding: 0 7px;
-
-    overflow: hidden;
-}
-
-
-/* نام فروشگاه */
-
-.platform-info h3 {
-    width: 100%;
-
-    margin: 0 0 1px 0;
-
-    font-size: 15px;
-
-    line-height: 1.5;
-
-    color: #222;
-
-    text-align: center;
-
-    white-space: nowrap;
-
-    overflow: hidden;
-
-    text-overflow: ellipsis;
-}
-
-
-/* شعار */
-
-.platform-info p {
-    width: 100%;
-
-    margin: 0;
-
-    font-size: 9px;
-
-    line-height: 1.5;
-
-    color: #999;
-
-    text-align: center;
-
-    white-space: nowrap;
-
-    overflow: hidden;
-
-    text-overflow: ellipsis;
-}
-
-
-/* =========================================
-   ACTIVE BUTTON
-   سمت چپ کارت
-========================================= */
+/* =================================================
+   ستون اول — WEST
+   دکمه فعال
+================================================= */
 
 .platform-btn {
-    order: 1;
+
+    grid-column: 1;
+    grid-row: 1;
+
+    width: 100%;
+    height: 68px;
 
     position: relative;
 
-    flex: 0 0 42%;
-
-    width: 42%;
-
-    height: 68px;
-
-    margin: 0;
-
     display: flex;
 
     align-items: center;
 
     justify-content: center;
+
+    margin: 0;
+
+    padding: 0 7px;
 
     background: #e6123d;
 
     color: #fff;
 
-    border-radius: 12px;
+    border-radius: 11px;
 
     text-decoration: none;
 
@@ -390,112 +259,16 @@ body {
 
     direction: rtl;
 
-    z-index: 1;
+    z-index: 2;
 
     box-shadow:
-        0 3px 8px rgba(230, 18, 61, .13);
+        0 3px 8px rgba(230, 18, 61, .14);
 
     transition:
         background .2s ease,
         transform .2s ease;
 }
 
-
-/* =========================================
-   متن ورود به فروشگاه
-========================================= */
-
-.platform-btn {
-    padding-left: 8px;
-
-    padding-right: 8px;
-}
-
-
-/* =========================================
-   نمادهای متحرک
-   از بیرون راست پنل وارد می‌شوند
-   و به سمت ابتدای نوشته حرکت می‌کنند
-========================================= */
-
-.platform-btn::before {
-    content: "»  »  »  »";
-
-    position: absolute;
-
-    top: 50%;
-
-    right: -85px;
-
-    transform: translateY(-50%);
-
-    font-size: 54px;
-
-    font-weight: bold;
-
-    line-height: .7;
-
-    letter-spacing: 0;
-
-    color: rgba(255, 255, 255, .72);
-
-    white-space: nowrap;
-
-    pointer-events: none;
-
-    z-index: 1;
-
-    animation:
-        movingChevrons 1.65s linear infinite;
-}
-
-
-/* متن همیشه روی نمادها قرار بگیرد */
-
-.platform-btn {
-    z-index: 1;
-}
-
-
-/* =========================================
-   ANIMATION
-========================================= */
-
-@keyframes movingChevrons {
-
-    0% {
-        right: -95px;
-
-        opacity: 0;
-    }
-
-    12% {
-        opacity: .2;
-    }
-
-    35% {
-        opacity: .7;
-    }
-
-    60% {
-        opacity: .9;
-    }
-
-    82% {
-        opacity: .35;
-    }
-
-    100% {
-        right: 52%;
-
-        opacity: 0;
-    }
-}
-
-
-/* =========================================
-   HOVER
-========================================= */
 
 .platform-btn:hover {
     background: #c90f35;
@@ -504,18 +277,228 @@ body {
 }
 
 
+/* =================================================
+   ستون دوم — CENTER
+   اطلاعات فروشگاه
+================================================= */
+
+.platform-info {
+
+    grid-column: 2;
+    grid-row: 1;
+
+    width: 100%;
+    height: 68px;
+
+    min-width: 0;
+
+    display: flex;
+
+    flex-direction: column;
+
+    align-items: center;
+
+    justify-content: center;
+
+    direction: rtl;
+
+    text-align: center;
+
+    padding: 0 5px;
+
+    overflow: hidden;
+}
+
+
+/* نام فروشگاه */
+
+.platform-info h3 {
+
+    width: 100%;
+
+    margin: 0;
+
+    padding: 0;
+
+    color: #222;
+
+    font-size: 15px;
+
+    font-weight: bold;
+
+    line-height: 1.45;
+
+    text-align: center;
+
+    white-space: nowrap;
+
+    overflow: hidden;
+
+    text-overflow: ellipsis;
+}
+
+
+/* شعار */
+
+.platform-info p {
+
+    width: 100%;
+
+    margin: 1px 0 0;
+
+    padding: 0;
+
+    color: #999;
+
+    font-size: 9px;
+
+    line-height: 1.5;
+
+    text-align: center;
+
+    white-space: normal;
+
+    overflow: hidden;
+}
+
+
+/* =================================================
+   ستون سوم — EAST
+   لوگو
+================================================= */
+
+.platform-card img {
+
+    grid-column: 3;
+    grid-row: 1;
+
+    width: 55px;
+    height: 55px;
+
+    justify-self: center;
+    align-self: center;
+
+    object-fit: contain;
+
+    padding: 2px;
+
+    border-radius: 10px;
+
+    background: #fff;
+}
+
+
+/* =================================================
+   فلش‌های متحرک
+   از بیرون سمت راست دکمه وارد می‌شوند
+   و به سمت نوشته حرکت می‌کنند
+================================================= */
+
+.platform-btn::before {
+
+    content: "» » » »";
+
+    position: absolute;
+
+    top: 50%;
+
+    right: -105px;
+
+    transform: translateY(-50%);
+
+    color: rgba(255, 255, 255, .75);
+
+    font-size: 55px;
+
+    font-weight: bold;
+
+    line-height: .7;
+
+    letter-spacing: 0;
+
+    white-space: nowrap;
+
+    pointer-events: none;
+
+    z-index: 1;
+
+    animation:
+        movingArrows 1.7s linear infinite;
+}
+
+
+/* متن دکمه روی فلش‌ها */
+
+.platform-btn {
+    isolation: isolate;
+}
+
+
+.platform-btn::after {
+
+    content: "ورود به فروشگاه";
+
+    position: relative;
+
+    z-index: 3;
+
+    background: transparent;
+
+    color: #fff;
+}
+
+
+/*
+   چون متن اصلی داخل <a> توسط app.js ساخته می‌شود،
+   این قسمت باعث می‌شود نوشته اصلی بالای فلش بماند.
+*/
+
+
 /* =========================================
-   INACTIVE / COMING SOON
-   دقیقاً هم‌ستون با دکمه فعال
+   ANIMATION
 ========================================= */
 
+@keyframes movingArrows {
+
+    0% {
+        right: -105px;
+        opacity: 0;
+    }
+
+    10% {
+        opacity: .15;
+    }
+
+    30% {
+        opacity: .5;
+    }
+
+    50% {
+        opacity: .85;
+    }
+
+    70% {
+        opacity: .65;
+    }
+
+    100% {
+        right: 48%;
+        opacity: 0;
+    }
+}
+
+
+/* =================================================
+   ستون اول — WEST
+   فروشگاه غیرفعال
+================================================= */
+
 .coming-soon {
-    order: 1;
 
-    flex: 0 0 42%;
+    grid-column: 1;
+    grid-row: 1;
 
-    width: 42%;
-
+    width: 100%;
     height: 68px;
 
     margin: 0;
@@ -526,7 +509,7 @@ body {
 
     justify-content: center;
 
-    border-radius: 12px;
+    border-radius: 11px;
 
     background: #eeeeee;
 
@@ -534,19 +517,18 @@ body {
 
     font-size: 11px;
 
-    font-weight: normal;
-
     text-align: center;
 
     direction: rtl;
 }
 
 
-/* =========================================
+/* =================================================
    NO RESULTS
-========================================= */
+================================================= */
 
 .no-results {
+
     background: #fff;
 
     padding: 18px;
@@ -569,6 +551,7 @@ body {
 ========================================= */
 
 .footer {
+
     text-align: center;
 
     padding: 18px 12px 27px;
@@ -581,23 +564,20 @@ body {
 }
 
 
-/* =========================================
+/* =================================================
    MOBILE
-========================================= */
+================================================= */
 
 @media (max-width: 480px) {
 
     .header {
         padding: 27px 14px 23px;
-
-        border-radius:
-            0 0 27px 27px;
+        border-radius: 0 0 27px 27px;
     }
 
 
     .header .logo {
         width: 82px;
-
         height: 82px;
     }
 
@@ -614,15 +594,12 @@ body {
 
     .container {
         max-width: 500px;
-
-        padding:
-            15px 8px 23px;
+        padding: 15px 7px 23px;
     }
 
 
     .featured {
         padding: 14px 15px;
-
         margin-bottom: 17px;
     }
 
@@ -642,136 +619,136 @@ body {
     }
 
 
-    /* =========================
+    /* =========================================
        MOBILE CARD
-    ========================= */
+    ========================================= */
 
     .platform-card {
-        max-width: 490px;
 
-        min-height: 72px;
-
-        height: 72px;
+        height: 70px;
+        min-height: 70px;
 
         padding: 4px;
 
-        border-radius: 15px;
+        grid-template-columns:
+            45%
+            minmax(0, 1fr)
+            53px;
+
+        border-radius: 14px;
     }
 
 
-    /* لوگو */
+    /* =========================================
+       MOBILE BUTTON
+    ========================================= */
 
-    .platform-card img {
-        width: 53px;
+    .platform-btn {
 
-        height: 53px;
-
-        flex-basis: 53px;
-
-        margin:
-            0 4px 0 6px;
-    }
-
-
-    /* اطلاعات */
-
-    .platform-info {
         height: 62px;
 
-        padding:
-            0 5px;
+        border-radius: 10px;
+
+        font-size: 10px;
+    }
+
+
+    /* =========================================
+       MOBILE INFO
+    ========================================= */
+
+    .platform-info {
+
+        height: 62px;
+
+        padding: 0 4px;
     }
 
 
     .platform-info h3 {
+
         font-size: 14px;
 
-        line-height: 1.45;
-
-        margin-bottom: 1px;
+        line-height: 1.4;
     }
 
 
     .platform-info p {
+
         font-size: 8px;
 
         line-height: 1.45;
+
+        white-space: normal;
     }
 
 
-    /* دکمه فعال */
+    /* =========================================
+       MOBILE LOGO
+    ========================================= */
 
-    .platform-btn {
-        flex-basis: 40%;
+    .platform-card img {
 
-        width: 40%;
+        width: 50px;
+        height: 50px;
+    }
+
+
+    /* =========================================
+       MOBILE COMING SOON
+    ========================================= */
+
+    .coming-soon {
 
         height: 62px;
 
-        border-radius: 11px;
+        border-radius: 10px;
 
-        font-size: 10px;
-
-        padding:
-            0 5px;
+        font-size: 9px;
     }
 
 
-    /* نمادهای متحرک */
+    /* =========================================
+       MOBILE ARROWS
+    ========================================= */
 
     .platform-btn::before {
-        right: -75px;
+
+        right: -85px;
 
         font-size: 48px;
 
         animation:
-            movingChevronsMobile 1.55s linear infinite;
+            movingArrowsMobile 1.6s linear infinite;
     }
 
 
-    @keyframes movingChevronsMobile {
+    @keyframes movingArrowsMobile {
 
         0% {
-            right: -82px;
-
+            right: -85px;
             opacity: 0;
         }
 
         12% {
-            opacity: .2;
+            opacity: .15;
         }
 
         35% {
-            opacity: .7;
+            opacity: .55;
         }
 
-        60% {
+        55% {
             opacity: .9;
         }
 
-        82% {
-            opacity: .35;
+        75% {
+            opacity: .5;
         }
 
         100% {
-            right: 48%;
-
+            right: 45%;
             opacity: 0;
         }
-    }
-
-
-    /* به‌زودی */
-
-    .coming-soon {
-        flex-basis: 40%;
-
-        width: 40%;
-
-        height: 62px;
-
-        border-radius: 11px;
-
-        font-size: 9px;
     }
 }
