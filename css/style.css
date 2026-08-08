@@ -377,13 +377,16 @@ body {
    STORE LOGOS
 ========================================= */
 
+/* =========================================
+   STORE LOGOS
+========================================= */
+
 .platform-card > img {
     order: 3;
 
     flex: 0 0 58px;
 
     width: 55px;
-
     height: 55px;
 
     margin: 0;
@@ -394,11 +397,23 @@ body {
 
     padding: 0;
 
-    border-radius: 0;
+    /*
+       گوشه‌های یکسان برای تمام لوگوها
+    */
+    border-radius: 13px;
 
-    background: transparent;
+    /*
+       باعث می‌شود حتی لوگوهای مربعی
+       هم در گوشه‌ها بریده و گرد شوند
+    */
+    overflow: hidden;
 
-    overflow: visible;
+    background: #fff;
+
+    /*
+       جلوگیری از کشیده شدن تصویر
+    */
+    display: block;
 }
 
 
@@ -608,6 +623,10 @@ body {
         line-height: 1.4;
     }
 
+@media (max-width: 480px) {
+
+    /* ... سایر تنظیمات موبایل ... */
+
 
     /* =========================================
        MOBILE LOGOS
@@ -616,21 +635,27 @@ body {
     .platform-card > img {
         order: 3;
 
-        flex: 0 0 52px;
+        flex: 0 0 56px;
 
-        width: 49px;
+        width: 54px;
 
-        height: 49px;
+        height: 54px;
 
         margin: 0;
 
+        align-self: center;
+
+        object-fit: contain;
+
         padding: 0;
 
-        border-radius: 0;
+        border-radius: 12px;
 
-        background: transparent;
+        overflow: hidden;
 
-        overflow: visible;
+        background: #fff;
+
+        display: block;
     }
 
 
@@ -652,4 +677,4 @@ body {
         font-size: 9px;
     }
 
-}
+};
