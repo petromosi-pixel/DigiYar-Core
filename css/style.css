@@ -233,7 +233,7 @@ body {
 
     font-family: Tahoma, Arial, sans-serif;
 
-    font-size: 12px;
+    font-size: 14px;
 
     font-weight: bold;
 
@@ -572,7 +572,7 @@ body {
 
         border-radius: 10px;
 
-        font-size: 10px;
+        font-size: 12px;
 
         padding: 0 5px;
     }
@@ -614,36 +614,35 @@ body {
 
     /* ... سایر تنظیمات موبایل ... */
 
+/* =========================================
+   MOBILE LOGOS
+========================================= */
 
-    /* =========================================
-       MOBILE LOGOS
-    ========================================= */
+.platform-card > img {
+    order: 3;
 
-    .platform-card > img {
-        order: 3;
+    flex: 0 0 56px;
 
-        flex: 0 0 56px;
+    width: 54px;
+    height: 62px;
 
-        width: 54px;
+    margin: 0;
 
-        height: 54px;
+    align-self: center;
 
-        margin: 0;
+    object-fit: contain;
 
-        align-self: center;
+    padding: 4px;
 
-        object-fit: contain;
+    border-radius: 12px;
 
-        padding: 0;
+    overflow: hidden;
 
-        border-radius: 12px;
+    background: #fff;
 
-        overflow: hidden;
-
-        background: #fff;
-
-        display: block;
-    }
+    display: block;
+};
+    
 
 
     /* =========================================
