@@ -28,10 +28,28 @@ function renderPlatforms(list) {
 
         card.innerHTML = `
 
-            <img
-                src="${platform.image}"
-                alt="${platform.name}"
-            >
+            ${
+                platform.active
+                ?
+                `
+                <a
+                    href="${platform.link}"
+                    class="platform-btn"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    <span class="btn-text">
+                        ورود به فروشگاه
+                    </span>
+                </a>
+                `
+                :
+                `
+                <span class="coming-soon">
+                    به‌زودی
+                </span>
+                `
+            }
 
 
             <div class="platform-info">
@@ -40,34 +58,17 @@ function renderPlatforms(list) {
                     ${platform.name}
                 </h3>
 
-
                 <p>
                     ${platform.description}
                 </p>
 
-
-                ${
-                    platform.active
-                    ?
-                    `
-                    <a
-                        href="${platform.link}"
-                        class="platform-btn"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                    >
-                        ورود به فروشگاه
-                    </a>
-                    `
-                    :
-                    `
-                    <span class="coming-soon">
-                        به‌زودی
-                    </span>
-                    `
-                }
-
             </div>
+
+
+            <img
+                src="${platform.image}"
+                alt="${platform.name}"
+            >
 
         `;
 
@@ -79,12 +80,16 @@ function renderPlatforms(list) {
 }
 
 
-/* نمایش اولیه فروشگاه‌ها */
+/* =========================================
+   نمایش اولیه
+========================================= */
 
 renderPlatforms(platforms);
 
 
-/* جستجوی فروشگاه */
+/* =========================================
+   جستجوی فروشگاه
+========================================= */
 
 searchBox.addEventListener("input", function () {
 
@@ -93,14 +98,20 @@ searchBox.addEventListener("input", function () {
         .toLowerCase();
 
 
-    const filteredPlatforms = platforms.filter(platform => {
+    const filteredPlatforms =
+        platforms.filter(platform => {
 
-        return (
-            platform.name.toLowerCase().includes(searchText) ||
-            platform.description.toLowerCase().includes(searchText)
-        );
+            return (
+                platform.name
+                    .toLowerCase()
+                    .includes(searchText)
+                ||
+                platform.description
+                    .toLowerCase()
+                    .includes(searchText)
+            );
 
-    });
+        });
 
 
     renderPlatforms(filteredPlatforms);
