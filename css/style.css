@@ -559,3 +559,339 @@ body {
     }
 
 }
+/* =========================================
+   TEST 4 — Half Action Panel
+========================================= */
+
+.platform-card {
+    position: relative;
+
+    min-height: 82px;
+
+    padding: 7px;
+
+    display: flex;
+    align-items: center;
+
+    background: #fff;
+
+    border: 1px solid rgba(0, 0, 0, 0.05);
+
+    border-radius: 18px;
+
+    overflow: hidden;
+
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.06);
+}
+
+
+/* لوگو */
+
+.platform-card img {
+    width: 60px;
+    height: 60px;
+
+    flex-shrink: 0;
+
+    object-fit: contain;
+
+    margin: 0 9px 0 5px;
+
+    border-radius: 12px;
+
+    background: #fff;
+
+    z-index: 2;
+}
+
+
+/* اطلاعات فروشگاه */
+
+.platform-info {
+    flex: 1;
+
+    min-width: 0;
+
+    display: flex;
+    flex-direction: row;
+
+    align-items: center;
+
+    gap: 7px;
+
+    padding-right: 5px;
+
+    overflow: hidden;
+}
+
+
+/* نام */
+
+.platform-info h3 {
+    flex-shrink: 0;
+
+    margin: 0;
+
+    font-size: 16px;
+
+    color: #222;
+
+    white-space: nowrap;
+}
+
+
+/* شعار */
+
+.platform-info p {
+    min-width: 0;
+
+    margin: 0;
+
+    font-size: 10px;
+
+    color: #999;
+
+    white-space: nowrap;
+
+    overflow: hidden;
+
+    text-overflow: ellipsis;
+}
+
+
+/* =========================================
+   نیمه غربی کارت
+========================================= */
+
+.platform-btn {
+
+    position: relative;
+
+    flex-shrink: 0;
+
+    width: 46%;
+
+    height: 68px;
+
+    margin: 0;
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: center;
+
+    background: #e6123d;
+
+    color: #fff;
+
+    border-radius: 13px;
+
+    text-decoration: none;
+
+    font-family: Tahoma, Arial, sans-serif;
+
+    font-size: 13px;
+
+    font-weight: bold;
+
+    white-space: nowrap;
+
+    overflow: hidden;
+
+    z-index: 1;
+
+    box-shadow:
+        inset 0 0 0 1px rgba(255,255,255,.08);
+
+    transition:
+        transform .2s ease,
+        background .2s ease;
+}
+
+
+/* فلش‌های بزرگ داخل پنل */
+
+.platform-btn::before {
+
+    content: "➜  ➜  ➜";
+
+    position: absolute;
+
+    right: 8px;
+
+    top: 50%;
+
+    transform: translateY(-50%);
+
+    font-size: 24px;
+
+    font-weight: bold;
+
+    letter-spacing: 5px;
+
+    color: rgba(255,255,255,.42);
+
+    white-space: nowrap;
+
+    animation: actionArrows 1.4s infinite ease-in-out;
+
+    pointer-events: none;
+}
+
+
+/* متن روی فلش‌ها */
+
+.platform-btn {
+    padding-right: 15px;
+}
+
+
+/* انیمیشن فلش */
+
+@keyframes actionArrows {
+
+    0% {
+        transform:
+            translateY(-50%)
+            translateX(18px);
+
+        opacity: .15;
+    }
+
+    45% {
+        opacity: .8;
+    }
+
+    100% {
+        transform:
+            translateY(-50%)
+            translateX(-15px);
+
+        opacity: 0;
+    }
+
+}
+
+
+/* حالت لمس / hover */
+
+.platform-btn:hover {
+
+    background: #c90f35;
+
+    transform: scale(.985);
+}
+
+
+/* =========================================
+   به‌زودی
+========================================= */
+
+.coming-soon {
+
+    flex-shrink: 0;
+
+    width: 46%;
+
+    height: 68px;
+
+    margin: 0;
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: center;
+
+    border-radius: 13px;
+
+    background: #eeeeee;
+
+    color: #888;
+
+    font-size: 11px;
+}
+
+
+/* =========================================
+   Mobile
+========================================= */
+
+@media (max-width: 480px) {
+
+    .platform-card {
+
+        min-height: 76px;
+
+        padding: 6px;
+
+        border-radius: 16px;
+    }
+
+
+    .platform-card img {
+
+        width: 54px;
+        height: 54px;
+
+        margin-right: 7px;
+    }
+
+
+    .platform-info {
+
+        gap: 5px;
+
+        padding-right: 3px;
+    }
+
+
+    .platform-info h3 {
+
+        font-size: 14px;
+    }
+
+
+    .platform-info p {
+
+        font-size: 8px;
+    }
+
+
+    .platform-btn {
+
+        width: 46%;
+
+        height: 64px;
+
+        border-radius: 12px;
+
+        font-size: 10px;
+
+        padding-right: 7px;
+    }
+
+
+    .platform-btn::before {
+
+        font-size: 18px;
+
+        letter-spacing: 2px;
+
+        right: 4px;
+    }
+
+
+    .coming-soon {
+
+        width: 46%;
+
+        height: 64px;
+
+        border-radius: 12px;
+
+        font-size: 10px;
+    }
+
+}
