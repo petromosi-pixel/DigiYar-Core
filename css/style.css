@@ -11,11 +11,8 @@
 
 body {
     font-family: Tahoma, Arial, sans-serif;
-
     background: #f5f6fa;
-
     color: #333;
-
     min-height: 100vh;
 }
 
@@ -25,27 +22,23 @@ body {
 ========================================= */
 
 .header {
-
     text-align: center;
 
     padding: 30px 18px 26px;
 
-    background:
-        linear-gradient(
-            135deg,
-            #e6123d,
-            #ff5a75
-        );
+    background: linear-gradient(
+        135deg,
+        #e6123d,
+        #ff5a75
+    );
 
     color: white;
 
-    border-radius:
-        0 0 30px 30px;
+    border-radius: 0 0 30px 30px;
 }
 
 
 .logo {
-
     width: 88px;
     height: 88px;
 
@@ -56,17 +49,13 @@ body {
 
 
 .header h1 {
-
     font-size: 29px;
-
     margin-bottom: 8px;
 }
 
 
 .header p {
-
     font-size: 14px;
-
     line-height: 2;
 }
 
@@ -76,15 +65,12 @@ body {
 ========================================= */
 
 .container {
-
     width: 100%;
-
     max-width: 510px;
 
     margin: 0 auto;
 
-    padding:
-        18px 8px 25px;
+    padding: 18px 8px 25px;
 }
 
 
@@ -93,13 +79,11 @@ body {
 ========================================= */
 
 .featured {
-
     background: #fff;
 
     border-radius: 17px;
 
-    padding:
-        15px 17px;
+    padding: 15px 17px;
 
     margin-bottom: 18px;
 
@@ -109,7 +93,6 @@ body {
 
 
 .featured h2 {
-
     color: #e6123d;
 
     margin-bottom: 6px;
@@ -119,7 +102,6 @@ body {
 
 
 .featured p {
-
     color: #555;
 
     font-size: 14px;
@@ -133,9 +115,7 @@ body {
 ========================================= */
 
 .platform-section h2 {
-
     margin-bottom: 11px;
-
     font-size: 21px;
 }
 
@@ -145,25 +125,19 @@ body {
 ========================================= */
 
 #searchBox {
-
     width: 100%;
 
-    padding:
-        11px 14px;
+    padding: 11px 14px;
 
     margin-bottom: 12px;
 
-    border:
-        1px solid #ddd;
+    border: 1px solid #ddd;
 
     border-radius: 12px;
 
     background: white;
 
-    font-family:
-        Tahoma,
-        Arial,
-        sans-serif;
+    font-family: Tahoma, Arial, sans-serif;
 
     font-size: 14px;
 
@@ -172,7 +146,6 @@ body {
 
 
 #searchBox:focus {
-
     border-color: #e6123d;
 }
 
@@ -182,7 +155,6 @@ body {
 ========================================= */
 
 #platforms {
-
     width: 100%;
 
     display: flex;
@@ -193,16 +165,14 @@ body {
 }
 
 
-/* =================================================
+/* =========================================
    STORE CARD
-================================================= */
+========================================= */
 
 .platform-card {
-
     width: 100%;
 
     height: 76px;
-
     min-height: 76px;
 
     padding: 4px;
@@ -210,14 +180,6 @@ body {
     display: flex;
 
     flex-direction: row;
-
-    /*
-       ترتیب فیزیکی:
-
-       چپ  = دکمه
-       وسط = اطلاعات
-       راست = لوگو
-    */
 
     direction: ltr;
 
@@ -229,27 +191,23 @@ body {
 
     overflow: hidden;
 
-    border:
-        1px solid rgba(0,0,0,.04);
+    border: 1px solid rgba(0,0,0,.04);
 
     box-shadow:
         0 3px 12px rgba(0,0,0,.055);
 }
 
 
-/* =================================================
-   BUTTON
-================================================= */
+/* =========================================
+   STORE BUTTON
+========================================= */
 
 .platform-btn {
-
     order: 1;
 
-    flex:
-        0 0 48%;
+    flex: 0 0 48%;
 
     width: 48%;
-
     height: 68px;
 
     position: relative;
@@ -257,13 +215,10 @@ body {
     display: flex;
 
     align-items: center;
-
     justify-content: center;
 
     margin: 0;
-
-    padding:
-        0 8px;
+    padding: 0 8px;
 
     background: #e6123d;
 
@@ -273,10 +228,7 @@ body {
 
     text-decoration: none;
 
-    font-family:
-        Tahoma,
-        Arial,
-        sans-serif;
+    font-family: Tahoma, Arial, sans-serif;
 
     font-size: 12px;
 
@@ -305,13 +257,11 @@ body {
 
 
 .platform-btn:hover {
-
     background: #c90f35;
 }
 
 
 .platform-btn:active {
-
     transform: scale(.98);
 }
 
@@ -321,7 +271,6 @@ body {
 ========================================= */
 
 .platform-btn .btn-text {
-
     position: relative;
 
     z-index: 3;
@@ -334,111 +283,121 @@ body {
 }
 
 
-/* =================================================
-   MOVING CHEVRONS
-================================================= */
+/* =========================================
+   SINGLE MOVING CHEVRON
+========================================= */
 
 .platform-btn::before {
-
-    content:
-        "» » » » » » » »";
+    content: "»";
 
     position: absolute;
 
     top: 50%;
+    left: 8px;
 
-    right: -145px;
+    width: 28px;
+    height: 42px;
+
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
 
     transform:
         translateY(-50%);
 
     color:
-        rgba(255,255,255,.68);
+        rgba(255,255,255,.72);
 
-    font-size: 58px;
+    font-family:
+        Tahoma,
+        Arial,
+        sans-serif;
+
+    font-size: 38px;
 
     font-weight: bold;
 
-    line-height: 68px;
-
-    letter-spacing: -8px;
-
-    white-space: nowrap;
+    line-height: 1;
 
     pointer-events: none;
 
     z-index: 1;
 
     animation:
-        movingChevron
+        springChevron
         1.8s
-        linear
+        ease-in-out
         infinite;
 }
 
 
 /* =========================================
-   CHEVRON ANIMATION
+   SPRING MOTION
 ========================================= */
 
-@keyframes movingChevron {
+@keyframes springChevron {
 
     0% {
-
-        right: -145px;
-
-        opacity: 0;
+        left: 8px;
+        opacity: .25;
+        transform:
+            translateY(-50%)
+            scale(.92);
     }
 
-    10% {
-
-        opacity: .15;
-    }
-
-    25% {
-
-        opacity: .35;
-    }
-
-    45% {
-
+    12% {
         opacity: .65;
     }
 
-    60% {
-
-        opacity: .82;
+    28% {
+        left: 32px;
+        opacity: .85;
     }
 
-    75% {
+    48% {
+        left: calc(50% + 34px);
+        opacity: .95;
 
-        opacity: .55;
+        transform:
+            translateY(-50%)
+            scale(1);
     }
 
-    88% {
+    58% {
+        left: calc(50% + 28px);
+        opacity: .90;
+    }
 
-        opacity: .20;
+    68% {
+        left: calc(50% + 34px);
+        opacity: .75;
+    }
+
+    82% {
+        left: 32px;
+        opacity: .45;
     }
 
     100% {
+        left: 8px;
+        opacity: .20;
 
-        right: 43%;
-
-        opacity: 0;
+        transform:
+            translateY(-50%)
+            scale(.92);
     }
 }
 
 
-/* =================================================
+/* =========================================
    STORE INFO
-================================================= */
+========================================= */
 
 .platform-info {
-
     order: 2;
 
-    flex:
-        1 1 auto;
+    flex: 1 1 auto;
 
     width: auto;
 
@@ -458,8 +417,7 @@ body {
 
     text-align: center;
 
-    padding:
-        0 5px;
+    padding: 0 5px;
 
     overflow: hidden;
 }
@@ -470,11 +428,9 @@ body {
 ========================================= */
 
 .platform-info h3 {
-
     width: 100%;
 
     margin: 0;
-
     padding: 0;
 
     color: #222;
@@ -500,12 +456,9 @@ body {
 ========================================= */
 
 .platform-info p {
-
     width: 100%;
 
-    margin:
-        1px 0 0;
-
+    margin: 1px 0 0;
     padding: 0;
 
     color: #999;
@@ -524,19 +477,16 @@ body {
 }
 
 
-/* =================================================
+/* =========================================
    STORE LOGO
-================================================= */
+========================================= */
 
 .platform-card > img {
-
     order: 3;
 
-    flex:
-        0 0 58px;
+    flex: 0 0 58px;
 
     width: 55px;
-
     height: 55px;
 
     margin: 0;
@@ -545,24 +495,24 @@ body {
 
     object-fit: contain;
 
-    padding: 2px;
+    padding: 3px;
 
-    border-radius: 10px;
+    border-radius: 17px;
 
     background: #fff;
+
+    overflow: hidden;
 }
 
 
-/* =================================================
+/* =========================================
    COMING SOON
-================================================= */
+========================================= */
 
 .coming-soon {
-
     order: 1;
 
-    flex:
-        0 0 48%;
+    flex: 0 0 48%;
 
     width: 48%;
 
@@ -590,12 +540,11 @@ body {
 }
 
 
-/* =================================================
+/* =========================================
    NO RESULTS
-================================================= */
+========================================= */
 
 .no-results {
-
     width: 100%;
 
     padding: 18px;
@@ -617,11 +566,9 @@ body {
 ========================================= */
 
 .footer {
-
     text-align: center;
 
-    padding:
-        18px 10px 27px;
+    padding: 18px 10px 27px;
 
     font-size: 12px;
 
@@ -631,17 +578,14 @@ body {
 }
 
 
-/* =================================================
+/* =========================================
    MOBILE
-================================================= */
+========================================= */
 
 @media (max-width: 480px) {
 
-
     .header {
-
-        padding:
-            27px 14px 23px;
+        padding: 27px 14px 23px;
 
         border-radius:
             0 0 27px 27px;
@@ -649,53 +593,44 @@ body {
 
 
     .header .logo {
-
         width: 82px;
-
         height: 82px;
     }
 
 
     .header h1 {
-
         font-size: 27px;
     }
 
 
     .header p {
-
         font-size: 13px;
     }
 
 
     .container {
-
         padding:
             15px 6px 23px;
     }
 
 
     .featured {
-
         padding:
             14px 15px;
     }
 
 
     .featured h2 {
-
         font-size: 18px;
     }
 
 
     .featured p {
-
         font-size: 13px;
     }
 
 
     .platform-section h2 {
-
         font-size: 20px;
     }
 
@@ -705,9 +640,7 @@ body {
     ========================================= */
 
     .platform-card {
-
         height: 70px;
-
         min-height: 70px;
 
         padding: 4px;
@@ -729,11 +662,9 @@ body {
     ========================================= */
 
     .platform-btn {
-
         order: 1;
 
-        flex:
-            0 0 46%;
+        flex: 0 0 46%;
 
         width: 46%;
 
@@ -743,91 +674,90 @@ body {
 
         font-size: 10px;
 
-        padding:
-            0 5px;
+        padding: 0 5px;
     }
 
 
-    /* =========================================
-       MOBILE BUTTON TEXT
-    ========================================= */
-
     .platform-btn .btn-text {
-
         font-size: 10px;
     }
 
 
     /* =========================================
-       MOBILE CHEVRONS
+       MOBILE SINGLE CHEVRON
     ========================================= */
 
     .platform-btn::before {
+        left: 6px;
 
-        right: -110px;
+        width: 24px;
+        height: 38px;
 
-        font-size: 51px;
-
-        line-height: 62px;
-
-        letter-spacing: -7px;
+        font-size: 34px;
 
         animation:
-            movingChevronMobile
-            1.65s
-            linear
+            springChevronMobile
+            1.7s
+            ease-in-out
             infinite;
     }
 
 
     /* =========================================
-       MOBILE CHEVRON ANIMATION
+       MOBILE SPRING
     ========================================= */
 
-    @keyframes movingChevronMobile {
+    @keyframes springChevronMobile {
 
         0% {
+            left: 6px;
+            opacity: .25;
 
-            right: -110px;
-
-            opacity: 0;
+            transform:
+                translateY(-50%)
+                scale(.92);
         }
 
-        10% {
-
-            opacity: .15;
+        12% {
+            opacity: .65;
         }
 
         28% {
-
-            opacity: .40;
+            left: 24px;
+            opacity: .85;
         }
 
         48% {
+            left: calc(50% + 27px);
+            opacity: .95;
 
-            opacity: .70;
+            transform:
+                translateY(-50%)
+                scale(1);
         }
 
-        65% {
-
-            opacity: .82;
+        58% {
+            left: calc(50% + 22px);
+            opacity: .90;
         }
 
-        78% {
+        68% {
+            left: calc(50% + 27px);
+            opacity: .75;
+        }
 
+        82% {
+            left: 24px;
             opacity: .45;
         }
 
-        88% {
-
-            opacity: .15;
-        }
-
         100% {
+            left: 6px;
+            opacity: .20;
 
-            right: 40%;
-
-            opacity: 0;
+            transform:
+                translateY(-50%)
+                scale(.92);
         }
     }
 
@@ -837,11 +767,9 @@ body {
     ========================================= */
 
     .platform-info {
-
         order: 2;
 
-        flex:
-            1 1 auto;
+        flex: 1 1 auto;
 
         width: auto;
 
@@ -849,13 +777,11 @@ body {
 
         min-width: 0;
 
-        padding:
-            0 4px;
+        padding: 0 4px;
     }
 
 
     .platform-info h3 {
-
         font-size: 14px;
 
         line-height: 1.4;
@@ -863,7 +789,6 @@ body {
 
 
     .platform-info p {
-
         font-size: 8px;
 
         line-height: 1.4;
@@ -871,21 +796,22 @@ body {
 
 
     /* =========================================
-       MOBILE LOGO
+       MOBILE LOGOS
     ========================================= */
 
     .platform-card > img {
-
         order: 3;
 
-        flex:
-            0 0 52px;
+        flex: 0 0 52px;
 
         width: 49px;
-
         height: 49px;
 
         margin: 0;
+
+        padding: 2px;
+
+        border-radius: 15px;
     }
 
 
@@ -894,11 +820,9 @@ body {
     ========================================= */
 
     .coming-soon {
-
         order: 1;
 
-        flex:
-            0 0 46%;
+        flex: 0 0 46%;
 
         width: 46%;
 
@@ -908,5 +832,4 @@ body {
 
         font-size: 9px;
     }
-
-    }
+}
