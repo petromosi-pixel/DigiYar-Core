@@ -140,31 +140,34 @@ body {
 #platforms {
     display: flex;
     flex-direction: column;
-    gap: 10px;
+    gap: 11px;
 }
 
 
 /* =========================
-   Compact Platform Card
+   NEW PLATFORM CARD
 ========================= */
 
 .platform-card {
-    background: white;
+    position: relative;
 
-    border-radius: 16px;
+    width: 100%;
+    min-height: 82px;
 
-    padding: 11px 13px;
+    padding: 8px 10px;
 
     display: flex;
     align-items: center;
 
-    gap: 12px;
+    background: #ffffff;
 
-    border: 1px solid rgba(0, 0, 0, 0.04);
+    border: 1px solid rgba(0, 0, 0, 0.05);
 
-    box-shadow: 0 3px 12px rgba(0, 0, 0, 0.055);
+    border-radius: 18px;
 
-    min-height: 82px;
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.06);
+
+    overflow: hidden;
 
     transition:
         transform 0.2s ease,
@@ -173,102 +176,203 @@ body {
 
 
 .platform-card:hover {
-    transform: translateY(-1px);
-    box-shadow: 0 6px 17px rgba(0, 0, 0, 0.08);
+    transform: translateY(-2px);
+
+    box-shadow:
+        0 7px 20px rgba(0, 0, 0, 0.09);
 }
 
 
 /* =========================
-   Platform Logo
+   Store Logo
 ========================= */
 
 .platform-card img {
-    width: 58px;
-    height: 58px;
+    width: 60px;
+    height: 60px;
 
     flex-shrink: 0;
 
     object-fit: contain;
 
-    border-radius: 12px;
+    padding: 3px;
+
+    border-radius: 13px;
+
+    background: #ffffff;
+
+    margin-right: 10px;
 }
 
 
 /* =========================
-   Platform Information
+   Store Information
 ========================= */
 
 .platform-info {
     flex: 1;
+
     min-width: 0;
 
     display: flex;
     flex-direction: column;
+
     justify-content: center;
+
+    padding: 3px 4px;
 }
 
 
-.platform-info h3 {
-    margin-bottom: 2px;
+/*
+   Name + slogan
+   در یک خط
+*/
 
-    font-size: 17px;
-    font-weight: bold;
+.platform-info h3 {
+    display: inline;
+
+    margin: 0;
+
+    font-size: 16px;
+
+    line-height: 1.7;
 
     color: #222;
+
+    white-space: nowrap;
 }
 
 
 .platform-info p {
-    font-size: 12px;
+    display: inline;
 
-    color: #888;
+    margin: 0;
 
-    margin-bottom: 0;
+    margin-right: 7px;
 
-    line-height: 1.6;
+    font-size: 10px;
+
+    line-height: 1.7;
+
+    color: #999;
+
+    white-space: nowrap;
+
+    overflow: hidden;
+
+    text-overflow: ellipsis;
 }
 
 
 /* =========================
-   Affiliate Button
+   ACTION AREA
 ========================= */
 
 .platform-btn {
+    position: relative;
+
     flex-shrink: 0;
 
-    display: inline-flex;
+    width: 125px;
+    height: 48px;
+
+    margin-left: 5px;
+
+    display: flex;
+
     align-items: center;
     justify-content: center;
 
     background: #e6123d;
-    color: white;
+
+    color: #ffffff;
+
+    border-radius: 15px;
 
     text-decoration: none;
 
-    padding: 8px 13px;
-
-    min-width: 86px;
-
-    border-radius: 18px;
-
     font-family: Tahoma, Arial, sans-serif;
+
     font-size: 12px;
+
+    font-weight: bold;
 
     white-space: nowrap;
 
+    z-index: 3;
+
+    box-shadow:
+        0 4px 10px rgba(230, 18, 61, 0.22);
+
     transition:
-        background 0.2s ease,
-        transform 0.2s ease;
+        transform 0.2s ease,
+        box-shadow 0.2s ease,
+        background 0.2s ease;
 }
 
 
 .platform-btn:hover {
     background: #c90f35;
+
+    transform: scale(1.03);
+
+    box-shadow:
+        0 6px 14px rgba(230, 18, 61, 0.28);
 }
 
 
-.platform-btn:active {
-    transform: scale(0.96);
+/* =========================
+   BIG MOVING ARROWS
+   پشت دکمه
+========================= */
+
+.platform-btn::before {
+    content: "➜  ➜  ➜";
+
+    position: absolute;
+
+    right: 100%;
+
+    top: 50%;
+
+    transform: translateY(-50%);
+
+    width: 105px;
+
+    color: #e6123d;
+
+    font-size: 20px;
+
+    font-weight: bold;
+
+    letter-spacing: 4px;
+
+    white-space: nowrap;
+
+    opacity: 0.65;
+
+    z-index: -1;
+
+    animation: arrowsToButton 1.4s infinite ease-in-out;
+}
+
+
+@keyframes arrowsToButton {
+
+    0% {
+        transform: translateY(-50%) translateX(-18px);
+        opacity: 0.15;
+    }
+
+    45% {
+        opacity: 0.75;
+    }
+
+    100% {
+        transform: translateY(-50%) translateX(8px);
+        opacity: 0;
+    }
+
 }
 
 
@@ -279,20 +383,23 @@ body {
 .coming-soon {
     flex-shrink: 0;
 
-    display: inline-flex;
+    width: 95px;
+    height: 42px;
+
+    margin-left: 5px;
+
+    display: flex;
+
     align-items: center;
     justify-content: center;
 
-    min-width: 70px;
+    border-radius: 14px;
 
-    padding: 7px 11px;
+    background: #eeeeee;
 
-    border-radius: 18px;
-
-    background: #f1f1f1;
     color: #888;
 
-    font-size: 12px;
+    font-size: 11px;
 }
 
 
@@ -301,7 +408,7 @@ body {
 ========================= */
 
 .no-results {
-    background: white;
+    background: #ffffff;
 
     padding: 20px;
 
@@ -335,7 +442,7 @@ body {
 
 
 /* =========================
-   Mobile
+   MOBILE
 ========================= */
 
 @media (max-width: 480px) {
@@ -388,303 +495,22 @@ body {
     }
 
 
-    .platform-card {
-        padding: 9px 10px;
-        gap: 10px;
-        min-height: 76px;
-    }
-
-
-    .platform-card img {
-        width: 52px;
-        height: 52px;
-    }
-
-
-    .platform-info h3 {
-        font-size: 15px;
-    }
-
-
-    .platform-info p {
-        font-size: 11px;
-        line-height: 1.5;
-    }
-
-
-    .platform-btn {
-        min-width: 78px;
-        padding: 7px 9px;
-        font-size: 11px;
-    }
-
-
-    .coming-soon {
-        min-width: 62px;
-        padding: 6px 8px;
-        font-size: 11px;
-    }
-
-/* //* =========================================
-   Digiyar - Split Platform Cards
-========================================= */
-
-.platform-card {
-    position: relative;
-
-    display: flex;
-    align-items: stretch;
-
-    width: 100%;
-    min-height: 82px;
-
-    padding: 7px;
-
-    gap: 0;
-
-    background: #ffffff;
-
-    border: 1px solid rgba(0, 0, 0, 0.05);
-
-    border-radius: 18px;
-
-    overflow: hidden;
-
-    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.06);
-
-    transition:
-        transform 0.2s ease,
-        box-shadow 0.2s ease;
-}
-
-
-.platform-card:hover {
-    transform: translateY(-2px);
-
-    box-shadow:
-        0 7px 20px rgba(0, 0, 0, 0.09);
-}
-
-
-/* =========================================
-   Logo
-========================================= */
-
-.platform-card img {
-    width: 62px;
-    height: 62px;
-
-    flex-shrink: 0;
-
-    object-fit: contain;
-
-    align-self: center;
-
-    border-radius: 13px;
-
-    background: #ffffff;
-
-    padding: 3px;
-
-    margin: 2px 10px 2px 4px;
-}
-
-
-/* =========================================
-   Information
-========================================= */
-
-.platform-info {
-    flex: 1;
-
-    min-width: 0;
-
-    display: flex;
-    flex-direction: column;
-
-    justify-content: center;
-
-    padding: 4px 4px 4px 0;
-}
-
-
-.platform-info h3 {
-    margin: 0;
-
-    font-size: 16px;
-
-    line-height: 1.4;
-
-    color: #222;
-
-    white-space: nowrap;
-
-    overflow: hidden;
-
-    text-overflow: ellipsis;
-}
-
-
-.platform-info p {
-    margin: 1px 0 0;
-
-    font-size: 10px;
-
-    line-height: 1.5;
-
-    color: #999;
-
-    white-space: nowrap;
-
-    overflow: hidden;
-
-    text-overflow: ellipsis;
-}
-
-
-/* =========================================
-   Affiliate Action Area
-========================================= */
-
-.platform-btn {
-    position: relative;
-
-    flex-shrink: 0;
-
-    align-self: stretch;
-
-    width: 118px;
-
-    margin: -7px -7px -7px 8px;
-
-    display: flex;
-
-    align-items: center;
-    justify-content: center;
-
-    gap: 5px;
-
-    border-radius: 0 18px 18px 0;
-
-    background: #e6123d;
-
-    color: #ffffff;
-
-    text-decoration: none;
-
-    font-family: Tahoma, Arial, sans-serif;
-
-    font-size: 12px;
-
-    font-weight: bold;
-
-    white-space: nowrap;
-
-    overflow: hidden;
-
-    transition:
-        width 0.2s ease,
-        filter 0.2s ease;
-}
-
-
-/* فلش متحرک */
-
-.platform-btn::after {
-    content: "←";
-
-    font-size: 16px;
-
-    display: inline-block;
-
-    animation: affiliateArrow 1.2s infinite ease-in-out;
-}
-
-
-.platform-btn:hover {
-    filter: brightness(0.92);
-
-    width: 124px;
-}
-
-
-/* =========================================
-   Arrow Animation
-========================================= */
-
-@keyframes affiliateArrow {
-
-    0% {
-        transform: translateX(0);
-        opacity: 0.55;
-    }
-
-    50% {
-        transform: translateX(-5px);
-        opacity: 1;
-    }
-
-    100% {
-        transform: translateX(0);
-        opacity: 0.55;
-    }
-
-}
-
-
-/* =========================================
-   Coming Soon
-========================================= */
-
-.coming-soon {
-    flex-shrink: 0;
-
-    align-self: stretch;
-
-    width: 90px;
-
-    margin: -7px -7px -7px 8px;
-
-    display: flex;
-
-    align-items: center;
-    justify-content: center;
-
-    border-radius: 0 18px 18px 0;
-
-    background: #eeeeee;
-
-    color: #888;
-
-    font-size: 11px;
-}
-
-
-/* =========================================
-   Mobile
-========================================= */
-
-@media (max-width: 480px) {
+    /* کارت موبایل */
 
     .platform-card {
         min-height: 76px;
 
-        padding: 6px;
+        padding: 7px 8px;
 
         border-radius: 16px;
     }
 
 
     .platform-card img {
-        width: 56px;
-        height: 56px;
+        width: 54px;
+        height: 54px;
 
-        margin: 2px 8px 2px 3px;
-    }
-
-
-    .platform-info {
-        padding-right: 2px;
+        margin-right: 7px;
     }
 
 
@@ -694,37 +520,40 @@ body {
 
 
     .platform-info p {
-        font-size: 9px;
+        font-size: 8.5px;
+
+        margin-right: 5px;
     }
 
 
     .platform-btn {
-        width: 100px;
+        width: 102px;
+        height: 43px;
 
-        margin: -6px -6px -6px 6px;
+        margin-left: 4px;
 
-        border-radius: 0 16px 16px 0;
+        border-radius: 13px;
 
         font-size: 10px;
     }
 
 
-    .platform-btn:hover {
-        width: 104px;
-    }
+    .platform-btn::before {
+        width: 80px;
 
+        font-size: 16px;
 
-    .platform-btn::after {
-        font-size: 14px;
+        letter-spacing: 2px;
     }
 
 
     .coming-soon {
         width: 72px;
+        height: 39px;
 
-        margin: -6px -6px -6px 6px;
+        margin-left: 4px;
 
-        border-radius: 0 16px 16px 0;
+        border-radius: 12px;
 
         font-size: 10px;
     }
