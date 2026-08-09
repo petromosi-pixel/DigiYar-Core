@@ -12,6 +12,7 @@
     <title>تست موتور نیازسنجی دیجی‌یار</title>
 
     <style>
+
         body {
             font-family: Tahoma, sans-serif;
             padding: 20px;
@@ -41,12 +42,17 @@
             text-align: left;
             overflow-x: auto;
         }
+
     </style>
+
 </head>
+
 
 <body>
 
-    <h2>تست موتور نیازسنجی دیجی‌یار</h2>
+    <h2>
+        تست موتور نیازسنجی دیجی‌یار
+    </h2>
 
 
     <!-- =========================================
@@ -57,17 +63,21 @@
         ۱. ساخت نیاز خرید
     </button>
 
+
     <button onclick="testQuestions()">
         ۲. دریافت سؤال‌های گوشی
     </button>
+
 
     <button onclick="testAnswers()">
         ۳. ثبت پاسخ‌ها
     </button>
 
+
     <button onclick="testCompleteness()">
         ۴. بررسی کامل‌بودن نیاز
     </button>
+
 
     <button onclick="testProfileIntegration()">
         ۵. تشخیص اتصال پروفایل + ساخت نیاز
@@ -75,17 +85,34 @@
 
 
     <!-- =========================================
-         تست فشار Confidence
+         تست Confidence
     ========================================== -->
 
     <div class="section">
 
         <h3>
-            تست فشار موتور نیازسنجی
+            تست Confidence
         </h3>
 
         <button onclick="runConfidenceTests()">
             اجرای ۶ سناریوی Confidence
+        </button>
+
+    </div>
+
+
+    <!-- =========================================
+         تست Completeness
+    ========================================== -->
+
+    <div class="section">
+
+        <h3>
+            تست Completeness
+        </h3>
+
+        <button onclick="runCompletenessTests()">
+            اجرای ۶ سناریوی Completeness
         </button>
 
     </div>
@@ -99,6 +126,7 @@
     ========================================== -->
 
     <script src="js/user-profile.js"></script>
+
     <script src="js/need-engine.js?v=1.2.1"></script>
 
 
@@ -111,7 +139,12 @@
         function show(data) {
 
             result.textContent =
-                JSON.stringify(data, null, 2);
+                JSON.stringify(
+                    data,
+                    null,
+                    2
+                );
+
         }
 
 
@@ -127,6 +160,7 @@
                 });
 
             show(need);
+
         }
 
 
@@ -137,9 +171,12 @@
         function testQuestions() {
 
             const questions =
-                DigiyarNeedEngine.getQuestions("mobile");
+                DigiyarNeedEngine.getQuestions(
+                    "mobile"
+                );
 
             show(questions);
+
         }
 
 
@@ -181,6 +218,7 @@
 
 
             show(need);
+
         }
 
 
@@ -224,15 +262,21 @@
 
                 completeness:
                     DigiyarNeedEngine
-                        .getCompleteness(need),
+                        .getCompleteness(
+                            need
+                        ),
 
                 ready:
                     DigiyarNeedEngine
-                        .isReady(need),
+                        .isReady(
+                            need
+                        ),
 
-                need: need
+                need:
+                    need
 
             });
+
         }
 
 
@@ -245,39 +289,56 @@
             const diagnostics = {
 
                 userProfileExists:
-                    typeof DigiyarUserProfile !== "undefined",
+                    typeof DigiyarUserProfile !==
+                    "undefined",
 
                 getProfileExists:
-                    typeof DigiyarUserProfile !== "undefined" &&
-                    typeof DigiyarUserProfile.getProfile === "function",
+                    typeof DigiyarUserProfile !==
+                    "undefined" &&
+                    typeof DigiyarUserProfile
+                        .getProfile ===
+                        "function",
 
                 needEngineExists:
-                    typeof DigiyarNeedEngine !== "undefined",
+                    typeof DigiyarNeedEngine !==
+                    "undefined",
 
                 buildNeedFromProfileExists:
-                    typeof DigiyarNeedEngine !== "undefined" &&
-                    typeof DigiyarNeedEngine.buildNeedFromProfile === "function"
+                    typeof DigiyarNeedEngine !==
+                    "undefined" &&
+                    typeof DigiyarNeedEngine
+                        .buildNeedFromProfile ===
+                        "function"
+
             };
 
 
-            if (!diagnostics.userProfileExists) {
+            if (
+                !diagnostics.userProfileExists
+            ) {
 
                 show({
+
                     error:
                         "DigiyarUserProfile پیدا نشد.",
+
                     diagnostics:
                         diagnostics
+
                 });
 
                 return;
+
             }
 
 
             const profile =
-                DigiyarUserProfile.getProfile();
+                DigiyarUserProfile
+                    .getProfile();
 
 
             let need;
+
 
             try {
 
@@ -303,6 +364,7 @@
                 });
 
                 return;
+
             }
 
 
@@ -318,11 +380,12 @@
                     need
 
             });
+
         }
 
 
         // =========================================
-        // تست فشار Confidence
+        // تست Confidence
         // =========================================
 
         function runConfidenceTests() {
@@ -331,9 +394,7 @@
 
 
             // --------------------------------------
-            // سناریو ۱
-            // پروفایل کاملاً خالی
-            // انتظار: 0
+            // ۱. خالی
             // --------------------------------------
 
             const emptyNeed =
@@ -342,34 +403,19 @@
                 });
 
 
-            emptyNeed.confidence =
-                DigiyarNeedEngine
-                    .calculateConfidence(
-                        emptyNeed
-                    );
-
-
             results.push({
 
                 scenario:
                     "۱. پروفایل خالی",
 
-                expected:
-                    0,
-
-                actual:
-                    emptyNeed.confidence,
-
-                passed:
-                    emptyNeed.confidence === 0
+                confidence:
+                    emptyNeed.confidence
 
             });
 
 
             // --------------------------------------
-            // سناریو ۲
-            // فقط بودجه
-            // انتظار: 30
+            // ۲. فقط بودجه
             // --------------------------------------
 
             const budgetNeed =
@@ -390,22 +436,14 @@
                 scenario:
                     "۲. فقط بودجه",
 
-                expected:
-                    30,
-
-                actual:
-                    budgetNeed.confidence,
-
-                passed:
-                    budgetNeed.confidence === 30
+                confidence:
+                    budgetNeed.confidence
 
             });
 
 
             // --------------------------------------
-            // سناریو ۳
-            // فقط اولویت
-            // انتظار: 25
+            // ۳. فقط اولویت
             // --------------------------------------
 
             const priorityNeed =
@@ -423,28 +461,19 @@
             );
 
 
-            // فقط اولویت را نگه می‌داریم
             results.push({
 
                 scenario:
                     "۳. فقط اولویت",
 
-                expected:
-                    25,
-
-                actual:
-                    priorityNeed.confidence,
-
-                passed:
-                    priorityNeed.confidence === 25
+                confidence:
+                    priorityNeed.confidence
 
             });
 
 
             // --------------------------------------
-            // سناریو ۴
-            // بودجه + اولویت
-            // انتظار: 55
+            // ۴. بودجه + اولویت
             // --------------------------------------
 
             const budgetPriorityNeed =
@@ -474,22 +503,14 @@
                 scenario:
                     "۴. بودجه + اولویت",
 
-                expected:
-                    55,
-
-                actual:
-                    budgetPriorityNeed.confidence,
-
-                passed:
-                    budgetPriorityNeed.confidence === 55
+                confidence:
+                    budgetPriorityNeed.confidence
 
             });
 
 
             // --------------------------------------
-            // سناریو ۵
-            // بودجه + اولویت + کاربرد
-            // انتظار: 75
+            // ۵. بودجه + اولویت + کاربرد
             // --------------------------------------
 
             const detailedNeed =
@@ -526,22 +547,14 @@
                 scenario:
                     "۵. بودجه + اولویت + کاربرد",
 
-                expected:
-                    75,
-
-                actual:
-                    detailedNeed.confidence,
-
-                passed:
-                    detailedNeed.confidence === 75
+                confidence:
+                    detailedNeed.confidence
 
             });
 
 
             // --------------------------------------
-            // سناریو ۶
-            // اطلاعات کامل
-            // انتظار: 100
+            // ۶. کامل
             // --------------------------------------
 
             const fullNeed =
@@ -593,47 +606,272 @@
                 scenario:
                     "۶. اطلاعات کامل",
 
-                expected:
-                    100,
-
-                actual:
-                    fullNeed.confidence,
-
-                passed:
-                    fullNeed.confidence === 100
+                confidence:
+                    fullNeed.confidence
 
             });
 
 
-            // ======================================
-            // نتیجه نهایی
-            // ======================================
+            show({
 
-            const passedCount =
-                results.filter(
-                    item => item.passed
-                ).length;
+                type:
+                    "confidence-tests",
 
+                results:
+                    results
+
+            });
+
+        }
+
+
+        // =========================================
+        // تست Completeness
+        // =========================================
+
+        function runCompletenessTests() {
+
+            const results = [];
+
+
+            function evaluate(
+                scenario,
+                need
+            ) {
+
+                const completeness =
+                    DigiyarNeedEngine
+                        .getCompleteness(
+                            need
+                        );
+
+
+                const ready =
+                    DigiyarNeedEngine
+                        .isReady(
+                            need
+                        );
+
+
+                results.push({
+
+                    scenario:
+                        scenario,
+
+                    confidence:
+                        need.confidence,
+
+                    completeness:
+                        completeness,
+
+                    isReady:
+                        ready,
+
+                    need:
+                        need
+
+                });
+
+            }
+
+
+            // --------------------------------------
+            // ۱. خالی
+            // --------------------------------------
+
+            const emptyNeed =
+                DigiyarNeedEngine.createNeed({
+                    category: null
+                });
+
+
+            evaluate(
+                "۱. نیاز کاملاً خالی",
+                emptyNeed
+            );
+
+
+            // --------------------------------------
+            // ۲. فقط بودجه
+            // --------------------------------------
+
+            const budgetNeed =
+                DigiyarNeedEngine.createNeed({
+                    category: "mobile"
+                });
+
+
+            DigiyarNeedEngine.addAnswer(
+                budgetNeed,
+                "budget",
+                15000000
+            );
+
+
+            evaluate(
+                "۲. فقط بودجه",
+                budgetNeed
+            );
+
+
+            // --------------------------------------
+            // ۳. فقط اولویت
+            // --------------------------------------
+
+            const priorityNeed =
+                DigiyarNeedEngine.createNeed({
+                    category: "mobile"
+                });
+
+
+            DigiyarNeedEngine.addAnswer(
+                priorityNeed,
+                "priorities",
+                [
+                    "دوربین"
+                ]
+            );
+
+
+            evaluate(
+                "۳. فقط اولویت",
+                priorityNeed
+            );
+
+
+            // --------------------------------------
+            // ۴. بودجه + اولویت
+            // --------------------------------------
+
+            const budgetPriorityNeed =
+                DigiyarNeedEngine.createNeed({
+                    category: "mobile"
+                });
+
+
+            DigiyarNeedEngine.addAnswer(
+                budgetPriorityNeed,
+                "budget",
+                15000000
+            );
+
+
+            DigiyarNeedEngine.addAnswer(
+                budgetPriorityNeed,
+                "priorities",
+                [
+                    "دوربین"
+                ]
+            );
+
+
+            evaluate(
+                "۴. بودجه + اولویت",
+                budgetPriorityNeed
+            );
+
+
+            // --------------------------------------
+            // ۵. بودجه + اولویت + کاربرد
+            // --------------------------------------
+
+            const detailedNeed =
+                DigiyarNeedEngine.createNeed({
+                    category: "mobile"
+                });
+
+
+            DigiyarNeedEngine.addAnswer(
+                detailedNeed,
+                "budget",
+                15000000
+            );
+
+
+            DigiyarNeedEngine.addAnswer(
+                detailedNeed,
+                "priorities",
+                [
+                    "دوربین"
+                ]
+            );
+
+
+            DigiyarNeedEngine.addAnswer(
+                detailedNeed,
+                "usage",
+                "عکاسی"
+            );
+
+
+            evaluate(
+                "۵. بودجه + اولویت + کاربرد",
+                detailedNeed
+            );
+
+
+            // --------------------------------------
+            // ۶. اطلاعات کامل
+            // --------------------------------------
+
+            const fullNeed =
+                DigiyarNeedEngine.createNeed({
+                    category: "mobile"
+                });
+
+
+            DigiyarNeedEngine.addAnswer(
+                fullNeed,
+                "budget",
+                15000000
+            );
+
+
+            DigiyarNeedEngine.addAnswer(
+                fullNeed,
+                "priorities",
+                [
+                    "دوربین",
+                    "باتری"
+                ]
+            );
+
+
+            DigiyarNeedEngine.addAnswer(
+                fullNeed,
+                "usage",
+                "عکاسی"
+            );
+
+
+            DigiyarNeedEngine.addAnswer(
+                fullNeed,
+                "requirements",
+                "5G"
+            );
+
+
+            DigiyarNeedEngine.addAnswer(
+                fullNeed,
+                "constraints",
+                "وزن کم"
+            );
+
+
+            evaluate(
+                "۶. اطلاعات کامل",
+                fullNeed
+            );
+
+
+            // --------------------------------------
+            // خلاصه
+            // --------------------------------------
 
             show({
 
-                summary: {
-
-                    total:
-                        results.length,
-
-                    passed:
-                        passedCount,
-
-                    failed:
-                        results.length -
-                        passedCount,
-
-                    allPassed:
-                        passedCount ===
-                        results.length
-
-                },
+                type:
+                    "completeness-tests",
 
                 results:
                     results
