@@ -1,6 +1,6 @@
 // ==========================================
 // Digiyar 2.0 — Smart Need Engine
-// Version: 1.2
+// Version: 1.3
 // ==========================================
 
 const DigiyarNeedEngine = {
@@ -654,13 +654,77 @@ addAnswer(need, questionId, answer) {
         );
     },
 
+// ------------------------------------------
+// بررسی آماده‌بودن نیاز برای پیشنهاد محصول
+// ------------------------------------------
+isReady(need) {
 
-    // ------------------------------------------
-    // بررسی آماده بودن نیاز
-    // ------------------------------------------
-    isReady(need) {
-
-        return this.getCompleteness(need) >= 75;
+    if (!need) {
+        return false;
     }
+
+
+    // --------------------------------------
+    // دسته محصول باید مشخص باشد
+    // --------------------------------------
+
+    if (!need.category) {
+        return false;
+    }
+
+
+    // --------------------------------------
+    // بودجه باید مشخص باشد
+    // --------------------------------------
+
+    const hasBudget =
+        need.budget &&
+        (
+            need.budget.min !== null ||
+            need.budget.max !== null
+        );
+
+
+    if (!hasBudget) {
+        return false;
+    }
+
+
+    // --------------------------------------
+    // حداقل یک اولویت باید مشخص باشد
+    // --------------------------------------
+
+    const hasPriorities =
+        Array.isArray(need.priorities) &&
+        need.priorities.length > 0;
+
+
+    if (!hasPriorities) {
+        return false;
+    }
+
+
+    // --------------------------------------
+    // کاربرد باید مشخص باشد
+    // --------------------------------------
+
+    const hasUsage =
+        need.context &&
+        typeof need.context === "object" &&
+        typeof need.context.usage === "string" &&
+        need.context.usage.trim().length > 0;
+
+
+    if (!hasUsage) {
+        return false;
+    }
+
+
+    // --------------------------------------
+    // تمام اطلاعات حیاتی موجود است
+    // --------------------------------------
+
+    return true;
+}
 
 };
