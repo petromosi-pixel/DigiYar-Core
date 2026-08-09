@@ -109,4 +109,62 @@ const DigiyarUserProfile = {
 
         return true;
     }
-};
+    // ------------------------------------------
+    // ذخیره پروفایل روی دستگاه کاربر
+    // ------------------------------------------
+    saveProfile() {
+
+        try {
+            localStorage.setItem(
+                "digiyar_user_profile",
+                JSON.stringify(this.getProfile())
+            );
+
+            return true;
+
+        } catch (error) {
+
+            console.error(
+                "DigiyarUserProfile: خطا در ذخیره پروفایل.",
+                error
+            );
+
+            return false;
+        }
+    },
+
+    // ------------------------------------------
+    // بارگذاری پروفایل ذخیره‌شده
+    // ------------------------------------------
+    loadProfile() {
+
+        try {
+
+            const savedProfile =
+                localStorage.getItem("digiyar_user_profile");
+
+            if (!savedProfile) {
+                return false;
+            }
+
+            const profile =
+                JSON.parse(savedProfile);
+
+            this.declared = profile.declared || this.declared;
+            this.learned = profile.learned || this.learned;
+            this.context = profile.context || this.context;
+            this.history = profile.history || this.history;
+
+            return true;
+
+        } catch (error) {
+
+            console.error(
+                "DigiyarUserProfile: خطا در بارگذاری پروفایل.",
+                error
+            );
+
+            return false;
+        }
+    },};
+
