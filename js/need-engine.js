@@ -406,48 +406,61 @@ const DigiyarNeedEngine = {
         return questionBank[category] || [];
     },
 
+// ------------------------------------------
+// اضافه کردن پاسخ به نیاز
+// ------------------------------------------
+addAnswer(need, questionId, answer) {
 
-    // ------------------------------------------
-    // اضافه کردن پاسخ به نیاز
-    // ------------------------------------------
-    addAnswer(need, questionId, answer) {
-
-        if (!need || !questionId) {
-            return false;
-        }
-
-
-        switch (questionId) {
-
-            case "budget":
-
-                if (
-                    answer &&
-                    typeof answer === "object"
-                ) {
-
-                    need.budget = {
-
-                        min:
-                            answer.min ?? null,
-
-                        max:
-                            answer.max ?? null
-
-                    };
-
-                } else if (
-                    typeof answer === "number"
-                ) {
-
-                    need.budget.max =
-                        answer;
-                }
-
-                break;
+    if (!need || !questionId) {
+        return false;
+    }
 
 
-            case "usage":
+    switch (questionId) {
+
+        // --------------------------------------
+        // بودجه
+        // --------------------------------------
+
+        case "budget":
+
+            if (
+                answer &&
+                typeof answer === "object" &&
+                !Array.isArray(answer)
+            ) {
+
+                need.budget = {
+
+                    min:
+                        answer.min ?? null,
+
+                    max:
+                        answer.max ?? null
+
+                };
+
+            } else if (
+                typeof answer === "number" &&
+                !Number.isNaN(answer)
+            ) {
+
+                need.budget.max =
+                    answer;
+            }
+
+            break;
+
+
+        // --------------------------------------
+        // کاربرد
+        // --------------------------------------
+
+        case "usage":
+
+            if (
+                this.hasMeaningfulValue(answer)
+            ) {
 
                 need.context = {
 
@@ -457,39 +470,120 @@ const DigiyarNeedEngine = {
 
                 };
 
-                break;
+            }
+
+            break;
 
 
-            case "priorities":
+        // --------------------------------------
+        // اولویت‌ها
+        // --------------------------------------
+
+        case "priorities":
+
+            if (Array.isArray(answer)) {
 
                 need.priorities =
-                    Array.isArray(answer)
-                        ? [...answer]
-                        : [answer];
+                    [...answer];
 
-                break;
+            } else if (
+                this.hasMeaningfulValue(answer)
+            ) {
+
+                need.priorities = [
+                    answer
+                ];
+            }
+
+            break;
 
 
-            default:
+        // --------------------------------------
+        // الزامات
+        // --------------------------------------
+
+        case "requirements":
+
+            if (
+                this.hasMeaningfulValue(answer)
+            ) {
 
                 need.requirements.push({
 
-                    id: questionId,
+                    id:
+                        questionId,
 
-                    value: answer
+                    value:
+                        answer
 
                 });
 
-        }
+            }
+
+            break;
 
 
-        // پس از هر پاسخ، اعتماد دوباره محاسبه می‌شود
-        need.confidence =
-            this.calculateConfidence(need);
+        // --------------------------------------
+        // محدودیت‌ها
+        // --------------------------------------
+
+        case "constraints":
+
+            if (
+                this.hasMeaningfulValue(answer)
+            ) {
+
+                need.constraints.push({
+
+                    id:
+                        questionId,
+
+                    value:
+                        answer
+
+                });
+
+            }
+
+            break;
 
 
-        return true;
-    },
+        // --------------------------------------
+        // سؤال ناشناخته
+        // --------------------------------------
+
+        default:
+
+            if (
+                this.hasMeaningfulValue(answer)
+            ) {
+
+                need.requirements.push({
+
+                    id:
+                        questionId,
+
+                    value:
+                        answer
+
+                });
+
+            }
+
+            break;
+    }
+
+
+    // --------------------------------------
+    // محاسبه مجدد Confidence
+    // --------------------------------------
+
+    need.confidence =
+        this.calculateConfidence(need);
+
+
+    return true;
+},
 
 
     // ------------------------------------------
