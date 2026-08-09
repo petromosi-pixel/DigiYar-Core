@@ -57,6 +57,10 @@
         ۴. بررسی کامل‌بودن نیاز
     </button>
 
+    <button onclick="testProfileIntegration()">
+    ۵. ساخت نیاز از پروفایل کاربر
+    </button>
+    
     <pre id="result"></pre>
 
 
@@ -194,7 +198,20 @@
 
             });
         }
+// ------------------------------------------
+// تست اتصال پروفایل به موتور نیازسنجی
+// ------------------------------------------
 
+function testProfileIntegration() {
+
+    const need =
+        DigiyarNeedEngine.buildNeedFromProfile(
+            "mobile"
+        );
+
+    show(need);
+}
+        
     </script>
 
 </body>
