@@ -1,6 +1,6 @@
 // ==========================================
 // Digiyar 2.0 — Smart Need Engine
-// Version: 1.1
+// Version: 1.2
 // ==========================================
 
 const DigiyarNeedEngine = {
@@ -36,14 +36,53 @@ const DigiyarNeedEngine = {
                 ? { ...data.context }
                 : {},
 
-            confidence: typeof data.confidence === "number"
-                ? data.confidence
-                : 0
+            confidence:
+                typeof data.confidence === "number"
+                    ? data.confidence
+                    : 0
         };
     },
 
+
     // ------------------------------------------
-    // ساخت نیاز اولیه با استفاده از پروفایل کاربر
+    // بررسی اینکه یک مقدار واقعاً اطلاعات دارد
+    // ------------------------------------------
+    hasMeaningfulValue(value) {
+
+        if (value === null || value === undefined) {
+            return false;
+        }
+
+        if (typeof value === "string") {
+            return value.trim().length > 0;
+        }
+
+        if (typeof value === "number") {
+            return !Number.isNaN(value);
+        }
+
+        if (typeof value === "boolean") {
+            return true;
+        }
+
+        if (Array.isArray(value)) {
+            return value.length > 0;
+        }
+
+        if (typeof value === "object") {
+
+            return Object.keys(value).some(
+                key =>
+                    this.hasMeaningfulValue(value[key])
+            );
+        }
+
+        return false;
+    },
+
+
+    // ------------------------------------------
+    // ساخت نیاز اولیه از پروفایل کاربر
     // ------------------------------------------
     buildNeedFromProfile(category, profile = null) {
 
@@ -51,92 +90,227 @@ const DigiyarNeedEngine = {
             return null;
         }
 
-        // اگر پروفایل مستقیماً ارسال نشده باشد،
-        // از پروفایل فعلی دیجی‌یار استفاده می‌کنیم.
+
+        // --------------------------------------
+        // دریافت پروفایل فعلی دیجی‌یار
+        // --------------------------------------
+
         if (!profile) {
 
             if (
                 typeof DigiyarUserProfile !== "undefined" &&
                 typeof DigiyarUserProfile.getProfile === "function"
             ) {
+
                 profile =
                     DigiyarUserProfile.getProfile();
             }
         }
 
+
         profile = profile || {};
+
 
         const declared =
             profile.declared || {};
 
+        const learned =
+            profile.learned || {};
+
         const context =
             profile.context || {};
 
+
+        // --------------------------------------
         // ایجاد نیاز اولیه
-        const need = this.createNeed({
-            category: category
-        });
+        // --------------------------------------
+
+        const need =
+            this.createNeed({
+                category: category
+            });
+
 
         // --------------------------------------
         // انتقال بودجه
         // --------------------------------------
 
-        if (declared.budget !== null &&
-            typeof declared.budget === "number") {
+        if (
+            typeof declared.budget === "number" &&
+            !Number.isNaN(declared.budget)
+        ) {
 
             need.budget.max =
                 declared.budget;
         }
 
+
         // --------------------------------------
-        // انتقال اولویت‌های کاربر
+        // انتقال اولویت‌ها
         // --------------------------------------
 
-        if (Array.isArray(declared.priorities)) {
+        if (
+            Array.isArray(declared.priorities)
+        ) {
 
             need.priorities = [
                 ...declared.priorities
             ];
         }
 
-        // --------------------------------------
-        // انتقال شرایط مرتبط با کاربر
-        // --------------------------------------
-
-        if (context &&
-            typeof context === "object") {
-
-            need.context = {
-                ...context
-            };
-        }
 
         // --------------------------------------
-        // تعیین میزان اطمینان اولیه
+        // انتقال Context فقط در صورت وجود
+        // اطلاعات واقعی
         // --------------------------------------
 
-        let knownFields = 0;
-        let totalFields = 3;
+        if (
+            context &&
+            typeof context === "object"
+        ) {
 
-        if (need.budget.max !== null) {
-            knownFields++;
+            const meaningfulContext = {};
+
+            Object.keys(context).forEach(key => {
+
+                if (
+                    this.hasMeaningfulValue(
+                        context[key]
+                    )
+                ) {
+
+                    meaningfulContext[key] =
+                        context[key];
+                }
+
+            });
+
+
+            need.context =
+                meaningfulContext;
         }
 
-        if (need.priorities.length > 0) {
-            knownFields++;
+
+        // --------------------------------------
+        // انتقال اطلاعات یادگرفته‌شده مرتبط
+        // --------------------------------------
+
+        if (
+            learned &&
+            typeof learned === "object"
+        ) {
+
+            const meaningfulLearned = {};
+
+            Object.keys(learned).forEach(key => {
+
+                if (
+                    this.hasMeaningfulValue(
+                        learned[key]
+                    )
+                ) {
+
+                    meaningfulLearned[key] =
+                        learned[key];
+                }
+
+            });
+
+
+            if (
+                Object.keys(meaningfulLearned)
+                    .length > 0
+            ) {
+
+                need.context.learned =
+                    meaningfulLearned;
+            }
         }
 
-        if (Object.keys(need.context).length > 0) {
-            knownFields++;
-        }
+
+        // --------------------------------------
+        // محاسبه اعتماد واقعی
+        // --------------------------------------
 
         need.confidence =
-            Math.round(
-                (knownFields / totalFields) * 100
-            );
+            this.calculateConfidence(need);
+
 
         return need;
     },
+
+
+    // ------------------------------------------
+    // محاسبه Confidence
+    // ------------------------------------------
+    calculateConfidence(need) {
+
+        if (!need) {
+            return 0;
+        }
+
+
+        let score = 0;
+
+
+        // بودجه — 30 امتیاز
+        if (
+            need.budget &&
+            (
+                need.budget.min !== null ||
+                need.budget.max !== null
+            )
+        ) {
+
+            score += 30;
+        }
+
+
+        // اولویت‌ها — 25 امتیاز
+        if (
+            Array.isArray(need.priorities) &&
+            need.priorities.length > 0
+        ) {
+
+            score += 25;
+        }
+
+
+        // کاربرد — 20 امتیاز
+        if (
+            need.context &&
+            this.hasMeaningfulValue(
+                need.context.usage
+            )
+        ) {
+
+            score += 20;
+        }
+
+
+        // الزامات — 15 امتیاز
+        if (
+            Array.isArray(need.requirements) &&
+            need.requirements.length > 0
+        ) {
+
+            score += 15;
+        }
+
+
+        // محدودیت‌ها — 10 امتیاز
+        if (
+            Array.isArray(need.constraints) &&
+            need.constraints.length > 0
+        ) {
+
+            score += 10;
+        }
+
+
+        return Math.min(100, score);
+    },
+
 
     // ------------------------------------------
     // تعیین سؤال‌های موردنیاز برای یک دسته
@@ -146,15 +320,20 @@ const DigiyarNeedEngine = {
         const questionBank = {
 
             mobile: [
+
                 {
                     id: "budget",
-                    question: "بودجه تقریبی شما چقدر است؟",
+                    question:
+                        "بودجه تقریبی شما چقدر است؟",
                     type: "budget"
                 },
+
                 {
                     id: "usage",
-                    question: "مهم‌ترین کاربرد گوشی برای شما چیست؟",
+                    question:
+                        "مهم‌ترین کاربرد گوشی برای شما چیست؟",
                     type: "choice",
+
                     options: [
                         "عکاسی",
                         "بازی",
@@ -162,10 +341,13 @@ const DigiyarNeedEngine = {
                         "تماشای محتوا"
                     ]
                 },
+
                 {
                     id: "priorities",
-                    question: "کدام ویژگی برای شما مهم‌تر است؟",
+                    question:
+                        "کدام ویژگی برای شما مهم‌تر است؟",
                     type: "multiple",
+
                     options: [
                         "دوربین",
                         "باتری",
@@ -175,28 +357,38 @@ const DigiyarNeedEngine = {
                         "ارزش خرید"
                     ]
                 }
+
             ],
 
+
             "car-vacuum": [
+
                 {
                     id: "budget",
-                    question: "بودجه تقریبی شما چقدر است؟",
+                    question:
+                        "بودجه تقریبی شما چقدر است؟",
                     type: "budget"
                 },
+
                 {
                     id: "usage",
-                    question: "جاروبرقی را بیشتر برای چه کاری می‌خواهید؟",
+                    question:
+                        "جاروبرقی را بیشتر برای چه کاری می‌خواهید؟",
                     type: "choice",
+
                     options: [
                         "تمیزکاری خودرو",
                         "مصارف خانه و خودرو",
                         "استفاده حرفه‌ای"
                     ]
                 },
+
                 {
                     id: "priorities",
-                    question: "کدام ویژگی برای شما مهم‌تر است؟",
+                    question:
+                        "کدام ویژگی برای شما مهم‌تر است؟",
                     type: "multiple",
+
                     options: [
                         "قدرت مکش",
                         "وزن کم",
@@ -205,21 +397,25 @@ const DigiyarNeedEngine = {
                         "ارزش خرید"
                     ]
                 }
+
             ]
 
         };
 
+
         return questionBank[category] || [];
     },
 
+
     // ------------------------------------------
-    // اضافه‌کردن پاسخ به نیاز خرید
+    // اضافه کردن پاسخ به نیاز
     // ------------------------------------------
     addAnswer(need, questionId, answer) {
 
         if (!need || !questionId) {
             return false;
         }
+
 
         switch (questionId) {
 
@@ -231,27 +427,38 @@ const DigiyarNeedEngine = {
                 ) {
 
                     need.budget = {
-                        min: answer.min ?? null,
-                        max: answer.max ?? null
+
+                        min:
+                            answer.min ?? null,
+
+                        max:
+                            answer.max ?? null
+
                     };
 
                 } else if (
                     typeof answer === "number"
                 ) {
 
-                    need.budget.max = answer;
+                    need.budget.max =
+                        answer;
                 }
 
                 break;
 
+
             case "usage":
 
                 need.context = {
+
                     ...need.context,
+
                     usage: answer
+
                 };
 
                 break;
+
 
             case "priorities":
 
@@ -262,19 +469,31 @@ const DigiyarNeedEngine = {
 
                 break;
 
+
             default:
 
                 need.requirements.push({
+
                     id: questionId,
+
                     value: answer
+
                 });
+
         }
+
+
+        // پس از هر پاسخ، اعتماد دوباره محاسبه می‌شود
+        need.confidence =
+            this.calculateConfidence(need);
+
 
         return true;
     },
 
+
     // ------------------------------------------
-    // محاسبه میزان کامل‌بودن نیاز
+    // محاسبه کامل‌بودن نیاز
     // ------------------------------------------
     getCompleteness(need) {
 
@@ -282,8 +501,10 @@ const DigiyarNeedEngine = {
             return 0;
         }
 
+
         let score = 0;
         let total = 0;
+
 
         // دسته محصول
         total++;
@@ -292,43 +513,60 @@ const DigiyarNeedEngine = {
             score++;
         }
 
+
         // بودجه
         total++;
 
         if (
-            need.budget.min !== null ||
-            need.budget.max !== null
+            need.budget &&
+            (
+                need.budget.min !== null ||
+                need.budget.max !== null
+            )
         ) {
+
             score++;
         }
+
 
         // اولویت‌ها
         total++;
 
-        if (need.priorities.length > 0) {
+        if (
+            Array.isArray(need.priorities) &&
+            need.priorities.length > 0
+        ) {
+
             score++;
         }
+
 
         // شرایط استفاده
         total++;
 
         if (
             need.context &&
-            Object.keys(need.context).length > 0
+            this.hasMeaningfulValue(
+                need.context
+            )
         ) {
+
             score++;
         }
+
 
         return Math.round(
             (score / total) * 100
         );
     },
 
+
     // ------------------------------------------
-    // بررسی آماده‌بودن نیاز برای پیشنهاد محصول
+    // بررسی آماده بودن نیاز
     // ------------------------------------------
     isReady(need) {
 
         return this.getCompleteness(need) >= 75;
     }
+
 };
