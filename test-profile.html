@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>تست پروفایل دیجی‌یار</title>
+</head>
+
+<body>
+
+    <h2>تست پروفایل هوشمند دیجی‌یار</h2>
+
+    <button onclick="testGetProfile()">۱. دریافت پروفایل</button>
+    <button onclick="testUpdateProfile()">۲. ثبت اطلاعات آزمایشی</button>
+    <button onclick="testResetProfile()">۳. بازنشانی پروفایل</button>
+
+    <pre id="result"></pre>
+
+    <script src="js/user-profile.js"></script>
+
+    <script>
+        const result = document.getElementById("result");
+
+        function show(data) {
+            result.textContent = JSON.stringify(data, null, 2);
+        }
+
+        function testGetProfile() {
+            show(DigiyarUserProfile.getProfile());
+        }
+
+        function testUpdateProfile() {
+
+            const success = DigiyarUserProfile.updateProfile("declared", {
+                budget: 15000000,
+                priorities: ["value", "quality"]
+            });
+
+            show({
+                success: success,
+                profile: DigiyarUserProfile.getProfile().declared
+            });
+        }
+
+        function testResetProfile() {
+
+            const success = DigiyarUserProfile.resetProfile();
+
+            show({
+                success: success,
+                profile: DigiyarUserProfile.getProfile().declared
+            });
+        }
+    </script>
+
+</body>
+</html>
