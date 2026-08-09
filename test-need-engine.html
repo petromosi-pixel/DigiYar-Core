@@ -33,6 +33,7 @@
             white-space: pre-wrap;
             direction: ltr;
             text-align: left;
+            overflow-x: auto;
         }
     </style>
 </head>
@@ -58,7 +59,7 @@
     </button>
 
     <button onclick="testProfileIntegration()">
-        ۵. ساخت نیاز از پروفایل کاربر
+        ۵. تشخیص اتصال پروفایل + ساخت نیاز
     </button>
 
     <pre id="result"></pre>
@@ -66,9 +67,10 @@
 
     <!--
         ترتیب بارگذاری مهم است:
-        ابتدا پروفایل کاربر ساخته می‌شود،
-        سپس موتور نیازسنجی به آن دسترسی پیدا می‌کند.
+        ابتدا پروفایل کاربر،
+        سپس موتور نیازسنجی.
     -->
+
     <script src="js/user-profile.js"></script>
     <script src="js/need-engine.js"></script>
 
@@ -88,7 +90,6 @@
 
         // ------------------------------------------
         // تست ۱
-        // ساخت یک نیاز خرید جدید
         // ------------------------------------------
 
         function testCreateNeed() {
@@ -104,7 +105,6 @@
 
         // ------------------------------------------
         // تست ۲
-        // دریافت سؤال‌های مربوط به گوشی
         // ------------------------------------------
 
         function testQuestions() {
@@ -118,7 +118,6 @@
 
         // ------------------------------------------
         // تست ۳
-        // ثبت پاسخ‌های آزمایشی
         // ------------------------------------------
 
         function testAnswers() {
@@ -160,7 +159,6 @@
 
         // ------------------------------------------
         // تست ۴
-        // بررسی کامل‌بودن نیاز
         // ------------------------------------------
 
         function testCompleteness() {
@@ -213,17 +211,152 @@
 
         // ------------------------------------------
         // تست ۵
-        // ساخت نیاز از پروفایل کاربر
+        // تشخیص کامل اتصال پروفایل
         // ------------------------------------------
 
         function testProfileIntegration() {
 
-            const need =
-                DigiyarNeedEngine.buildNeedFromProfile(
-                    "mobile"
-                );
+            const diagnostics = {
 
-            show(need);
+                // مرحله ۱
+                userProfileExists:
+                    typeof DigiyarUserProfile !== "undefined",
+
+                // مرحله ۲
+                getProfileExists:
+                    typeof DigiyarUserProfile !== "undefined" &&
+                    typeof DigiyarUserProfile.getProfile === "function",
+
+                // مرحله ۳
+                needEngineExists:
+                    typeof DigiyarNeedEngine !== "undefined",
+
+                // مرحله ۴
+                buildNeedFromProfileExists:
+                    typeof DigiyarNeedEngine !== "undefined" &&
+                    typeof DigiyarNeedEngine.buildNeedFromProfile === "function"
+            };
+
+
+            // اگر پروفایل وجود نداشته باشد
+            if (!diagnostics.userProfileExists) {
+
+                show({
+                    error: "DigiyarUserProfile پیدا نشد.",
+                    diagnostics: diagnostics
+                });
+
+                return;
+            }
+
+
+            // اگر getProfile وجود نداشته باشد
+            if (!diagnostics.getProfileExists) {
+
+                show({
+                    error: "تابع getProfile پیدا نشد.",
+                    diagnostics: diagnostics
+                });
+
+                return;
+            }
+
+
+            // دریافت پروفایل واقعی
+            let profile;
+
+            try {
+
+                profile =
+                    DigiyarUserProfile.getProfile();
+
+            } catch (error) {
+
+                show({
+
+                    error:
+                        "اجرای getProfile با خطا مواجه شد.",
+
+                    message:
+                        error.message,
+
+                    diagnostics:
+                        diagnostics
+
+                });
+
+                return;
+            }
+
+
+            // بررسی ساختار declared
+            const declared =
+                profile &&
+                profile.declared
+                    ? profile.declared
+                    : {};
+
+
+            // اجرای موتور
+            let need;
+
+            try {
+
+                need =
+                    DigiyarNeedEngine
+                        .buildNeedFromProfile(
+                            "mobile"
+                        );
+
+            } catch (error) {
+
+                show({
+
+                    error:
+                        "buildNeedFromProfile با خطا مواجه شد.",
+
+                    message:
+                        error.message,
+
+                    diagnostics:
+                        diagnostics,
+
+                    profile:
+                        profile
+
+                });
+
+                return;
+            }
+
+
+            // خروجی کامل تشخیصی
+            show({
+
+                diagnostics: diagnostics,
+
+                profile: profile,
+
+                extracted: {
+
+                    budget:
+                        declared.budget ?? null,
+
+                    priorities:
+                        Array.isArray(
+                            declared.priorities
+                        )
+                            ? declared.priorities
+                            : [],
+
+                    context:
+                        profile.context || {}
+
+                },
+
+                generatedNeed: need
+
+            });
         }
 
     </script>
