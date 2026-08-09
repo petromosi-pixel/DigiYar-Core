@@ -68,6 +68,7 @@ const DigiyarUserProfile = {
         this[section] = {
             ...this[section],
             ...data
+                    this.saveProfile();
         };
 
         return true;
@@ -167,4 +168,4 @@ const DigiyarUserProfile = {
             return false;
         }
     },};
-
+DigiyarUserProfile.loadProfile();
