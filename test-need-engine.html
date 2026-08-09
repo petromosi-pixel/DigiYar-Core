@@ -27,6 +27,12 @@
             cursor: pointer;
         }
 
+        .section {
+            margin-top: 25px;
+            padding-top: 15px;
+            border-top: 2px solid #ddd;
+        }
+
         pre {
             background: #f3f3f3;
             padding: 15px;
@@ -41,6 +47,11 @@
 <body>
 
     <h2>تست موتور نیازسنجی دیجی‌یار</h2>
+
+
+    <!-- =========================================
+         تست‌های پایه
+    ========================================== -->
 
     <button onclick="testCreateNeed()">
         ۱. ساخت نیاز خرید
@@ -62,14 +73,30 @@
         ۵. تشخیص اتصال پروفایل + ساخت نیاز
     </button>
 
+
+    <!-- =========================================
+         تست فشار Confidence
+    ========================================== -->
+
+    <div class="section">
+
+        <h3>
+            تست فشار موتور نیازسنجی
+        </h3>
+
+        <button onclick="runConfidenceTests()">
+            اجرای ۶ سناریوی Confidence
+        </button>
+
+    </div>
+
+
     <pre id="result"></pre>
 
 
-    <!--
-        ترتیب بارگذاری مهم است:
-        ابتدا پروفایل کاربر،
-        سپس موتور نیازسنجی.
-    -->
+    <!-- =========================================
+         فایل‌های اصلی
+    ========================================== -->
 
     <script src="js/user-profile.js"></script>
     <script src="js/need-engine.js"></script>
@@ -88,9 +115,9 @@
         }
 
 
-        // ------------------------------------------
+        // =========================================
         // تست ۱
-        // ------------------------------------------
+        // =========================================
 
         function testCreateNeed() {
 
@@ -103,9 +130,9 @@
         }
 
 
-        // ------------------------------------------
+        // =========================================
         // تست ۲
-        // ------------------------------------------
+        // =========================================
 
         function testQuestions() {
 
@@ -116,9 +143,9 @@
         }
 
 
-        // ------------------------------------------
+        // =========================================
         // تست ۳
-        // ------------------------------------------
+        // =========================================
 
         function testAnswers() {
 
@@ -157,9 +184,9 @@
         }
 
 
-        // ------------------------------------------
+        // =========================================
         // تست ۴
-        // ------------------------------------------
+        // =========================================
 
         function testCompleteness() {
 
@@ -209,95 +236,47 @@
         }
 
 
-        // ------------------------------------------
+        // =========================================
         // تست ۵
-        // تشخیص کامل اتصال پروفایل
-        // ------------------------------------------
+        // =========================================
 
         function testProfileIntegration() {
 
             const diagnostics = {
 
-                // مرحله ۱
                 userProfileExists:
                     typeof DigiyarUserProfile !== "undefined",
 
-                // مرحله ۲
                 getProfileExists:
                     typeof DigiyarUserProfile !== "undefined" &&
                     typeof DigiyarUserProfile.getProfile === "function",
 
-                // مرحله ۳
                 needEngineExists:
                     typeof DigiyarNeedEngine !== "undefined",
 
-                // مرحله ۴
                 buildNeedFromProfileExists:
                     typeof DigiyarNeedEngine !== "undefined" &&
                     typeof DigiyarNeedEngine.buildNeedFromProfile === "function"
             };
 
 
-            // اگر پروفایل وجود نداشته باشد
             if (!diagnostics.userProfileExists) {
 
                 show({
-                    error: "DigiyarUserProfile پیدا نشد.",
-                    diagnostics: diagnostics
-                });
-
-                return;
-            }
-
-
-            // اگر getProfile وجود نداشته باشد
-            if (!diagnostics.getProfileExists) {
-
-                show({
-                    error: "تابع getProfile پیدا نشد.",
-                    diagnostics: diagnostics
-                });
-
-                return;
-            }
-
-
-            // دریافت پروفایل واقعی
-            let profile;
-
-            try {
-
-                profile =
-                    DigiyarUserProfile.getProfile();
-
-            } catch (error) {
-
-                show({
-
                     error:
-                        "اجرای getProfile با خطا مواجه شد.",
-
-                    message:
-                        error.message,
-
+                        "DigiyarUserProfile پیدا نشد.",
                     diagnostics:
                         diagnostics
-
                 });
 
                 return;
             }
 
 
-            // بررسی ساختار declared
-            const declared =
-                profile &&
-                profile.declared
-                    ? profile.declared
-                    : {};
+            const profile =
+                DigiyarUserProfile.getProfile();
 
 
-            // اجرای موتور
             let need;
 
             try {
@@ -318,9 +297,6 @@
                     message:
                         error.message,
 
-                    diagnostics:
-                        diagnostics,
-
                     profile:
                         profile
 
@@ -330,33 +306,340 @@
             }
 
 
-            // خروجی کامل تشخیصی
             show({
 
-                diagnostics: diagnostics,
+                diagnostics:
+                    diagnostics,
 
-                profile: profile,
+                profile:
+                    profile,
 
-                extracted: {
+                generatedNeed:
+                    need
 
-                    budget:
-                        declared.budget ?? null,
+            });
+        }
 
-                    priorities:
-                        Array.isArray(
-                            declared.priorities
-                        )
-                            ? declared.priorities
-                            : [],
 
-                    context:
-                        profile.context || {}
+        // =========================================
+        // تست فشار Confidence
+        // =========================================
+
+        function runConfidenceTests() {
+
+            const results = [];
+
+
+            // --------------------------------------
+            // سناریو ۱
+            // پروفایل کاملاً خالی
+            // انتظار: 0
+            // --------------------------------------
+
+            const emptyNeed =
+                DigiyarNeedEngine.createNeed({
+                    category: "mobile"
+                });
+
+
+            emptyNeed.confidence =
+                DigiyarNeedEngine
+                    .calculateConfidence(
+                        emptyNeed
+                    );
+
+
+            results.push({
+
+                scenario:
+                    "۱. پروفایل خالی",
+
+                expected:
+                    0,
+
+                actual:
+                    emptyNeed.confidence,
+
+                passed:
+                    emptyNeed.confidence === 0
+
+            });
+
+
+            // --------------------------------------
+            // سناریو ۲
+            // فقط بودجه
+            // انتظار: 30
+            // --------------------------------------
+
+            const budgetNeed =
+                DigiyarNeedEngine.createNeed({
+                    category: "mobile"
+                });
+
+
+            DigiyarNeedEngine.addAnswer(
+                budgetNeed,
+                "budget",
+                15000000
+            );
+
+
+            results.push({
+
+                scenario:
+                    "۲. فقط بودجه",
+
+                expected:
+                    30,
+
+                actual:
+                    budgetNeed.confidence,
+
+                passed:
+                    budgetNeed.confidence === 30
+
+            });
+
+
+            // --------------------------------------
+            // سناریو ۳
+            // فقط اولویت
+            // انتظار: 25
+            // --------------------------------------
+
+            const priorityNeed =
+                DigiyarNeedEngine.createNeed({
+                    category: "mobile"
+                });
+
+
+            DigiyarNeedEngine.addAnswer(
+                priorityNeed,
+                "priorities",
+                [
+                    "دوربین"
+                ]
+            );
+
+
+            // فقط اولویت را نگه می‌داریم
+            results.push({
+
+                scenario:
+                    "۳. فقط اولویت",
+
+                expected:
+                    25,
+
+                actual:
+                    priorityNeed.confidence,
+
+                passed:
+                    priorityNeed.confidence === 25
+
+            });
+
+
+            // --------------------------------------
+            // سناریو ۴
+            // بودجه + اولویت
+            // انتظار: 55
+            // --------------------------------------
+
+            const budgetPriorityNeed =
+                DigiyarNeedEngine.createNeed({
+                    category: "mobile"
+                });
+
+
+            DigiyarNeedEngine.addAnswer(
+                budgetPriorityNeed,
+                "budget",
+                15000000
+            );
+
+
+            DigiyarNeedEngine.addAnswer(
+                budgetPriorityNeed,
+                "priorities",
+                [
+                    "دوربین"
+                ]
+            );
+
+
+            results.push({
+
+                scenario:
+                    "۴. بودجه + اولویت",
+
+                expected:
+                    55,
+
+                actual:
+                    budgetPriorityNeed.confidence,
+
+                passed:
+                    budgetPriorityNeed.confidence === 55
+
+            });
+
+
+            // --------------------------------------
+            // سناریو ۵
+            // بودجه + اولویت + کاربرد
+            // انتظار: 75
+            // --------------------------------------
+
+            const detailedNeed =
+                DigiyarNeedEngine.createNeed({
+                    category: "mobile"
+                });
+
+
+            DigiyarNeedEngine.addAnswer(
+                detailedNeed,
+                "budget",
+                15000000
+            );
+
+
+            DigiyarNeedEngine.addAnswer(
+                detailedNeed,
+                "priorities",
+                [
+                    "دوربین"
+                ]
+            );
+
+
+            DigiyarNeedEngine.addAnswer(
+                detailedNeed,
+                "usage",
+                "عکاسی"
+            );
+
+
+            results.push({
+
+                scenario:
+                    "۵. بودجه + اولویت + کاربرد",
+
+                expected:
+                    75,
+
+                actual:
+                    detailedNeed.confidence,
+
+                passed:
+                    detailedNeed.confidence === 75
+
+            });
+
+
+            // --------------------------------------
+            // سناریو ۶
+            // اطلاعات کامل
+            // انتظار: 100
+            // --------------------------------------
+
+            const fullNeed =
+                DigiyarNeedEngine.createNeed({
+                    category: "mobile"
+                });
+
+
+            DigiyarNeedEngine.addAnswer(
+                fullNeed,
+                "budget",
+                15000000
+            );
+
+
+            DigiyarNeedEngine.addAnswer(
+                fullNeed,
+                "priorities",
+                [
+                    "دوربین",
+                    "باتری"
+                ]
+            );
+
+
+            DigiyarNeedEngine.addAnswer(
+                fullNeed,
+                "usage",
+                "عکاسی"
+            );
+
+
+            DigiyarNeedEngine.addAnswer(
+                fullNeed,
+                "requirements",
+                "5G"
+            );
+
+
+            DigiyarNeedEngine.addAnswer(
+                fullNeed,
+                "constraints",
+                "وزن کم"
+            );
+
+
+            results.push({
+
+                scenario:
+                    "۶. اطلاعات کامل",
+
+                expected:
+                    100,
+
+                actual:
+                    fullNeed.confidence,
+
+                passed:
+                    fullNeed.confidence === 100
+
+            });
+
+
+            // ======================================
+            // نتیجه نهایی
+            // ======================================
+
+            const passedCount =
+                results.filter(
+                    item => item.passed
+                ).length;
+
+
+            show({
+
+                summary: {
+
+                    total:
+                        results.length,
+
+                    passed:
+                        passedCount,
+
+                    failed:
+                        results.length -
+                        passedCount,
+
+                    allPassed:
+                        passedCount ===
+                        results.length
 
                 },
 
-                generatedNeed: need
+                results:
+                    results
 
             });
+
         }
 
     </script>
