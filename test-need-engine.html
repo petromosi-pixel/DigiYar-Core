@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+
+<head>
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>تست موتور نیازسنجی دیجی‌یار</title>
+
+    <style>
+        body {
+            font-family: Tahoma, sans-serif;
+            padding: 20px;
+            line-height: 2;
+        }
+
+        button {
+            display: block;
+            width: 100%;
+            margin: 10px 0;
+            padding: 12px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+
+        pre {
+            background: #f3f3f3;
+            padding: 15px;
+            white-space: pre-wrap;
+            direction: ltr;
+            text-align: left;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h2>تست موتور نیازسنجی دیجی‌یار</h2>
+
+    <button onclick="testCreateNeed()">
+        ۱. ساخت نیاز خرید
+    </button>
+
+    <button onclick="testQuestions()">
+        ۲. دریافت سؤال‌های گوشی
+    </button>
+
+    <button onclick="testAnswers()">
+        ۳. ثبت پاسخ‌ها
+    </button>
+
+    <button onclick="testCompleteness()">
+        ۴. بررسی کامل‌بودن نیاز
+    </button>
+
+    <pre id="result"></pre>
+
+
+    <script src="js/need-engine.js"></script>
+
+    <script>
+
+        const result =
+            document.getElementById("result");
+
+
+        function show(data) {
+
+            result.textContent =
+                JSON.stringify(data, null, 2);
+        }
+
+
+        // ------------------------------------------
+        // تست ۱
+        // ------------------------------------------
+
+        function testCreateNeed() {
+
+            const need =
+                DigiyarNeedEngine.createNeed({
+                    category: "mobile"
+                });
+
+            show(need);
+        }
+
+
+        // ------------------------------------------
+        // تست ۲
+        // ------------------------------------------
+
+        function testQuestions() {
+
+            const questions =
+                DigiyarNeedEngine.getQuestions("mobile");
+
+            show(questions);
+        }
+
+
+        // ------------------------------------------
+        // تست ۳
+        // ------------------------------------------
+
+        function testAnswers() {
+
+            const need =
+                DigiyarNeedEngine.createNeed({
+                    category: "mobile"
+                });
+
+
+            DigiyarNeedEngine.addAnswer(
+                need,
+                "budget",
+                15000000
+            );
+
+
+            DigiyarNeedEngine.addAnswer(
+                need,
+                "usage",
+                "عکاسی"
+            );
+
+
+            DigiyarNeedEngine.addAnswer(
+                need,
+                "priorities",
+                [
+                    "دوربین",
+                    "باتری",
+                    "ارزش خرید"
+                ]
+            );
+
+
+            show(need);
+        }
+
+
+        // ------------------------------------------
+        // تست ۴
+        // ------------------------------------------
+
+        function testCompleteness() {
+
+            const need =
+                DigiyarNeedEngine.createNeed({
+                    category: "mobile"
+                });
+
+
+            DigiyarNeedEngine.addAnswer(
+                need,
+                "budget",
+                15000000
+            );
+
+
+            DigiyarNeedEngine.addAnswer(
+                need,
+                "usage",
+                "عکاسی"
+            );
+
+
+            DigiyarNeedEngine.addAnswer(
+                need,
+                "priorities",
+                [
+                    "دوربین",
+                    "باتری"
+                ]
+            );
+
+
+            show({
+
+                completeness:
+                    DigiyarNeedEngine
+                        .getCompleteness(need),
+
+                ready:
+                    DigiyarNeedEngine
+                        .isReady(need),
+
+                need: need
+
+            });
+        }
+
+    </script>
+
+</body>
+
+</html>
