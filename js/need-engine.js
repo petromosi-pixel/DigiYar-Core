@@ -1,6 +1,6 @@
 // ==========================================
 // Digiyar 2.0 — Smart Need Engine
-// Version: 1.0
+// Version: 1.1
 // ==========================================
 
 const DigiyarNeedEngine = {
@@ -16,8 +16,8 @@ const DigiyarNeedEngine = {
             intent: data.intent || "purchase",
 
             budget: {
-                min: data.budget?.min || null,
-                max: data.budget?.max || null
+                min: data.budget?.min ?? null,
+                max: data.budget?.max ?? null
             },
 
             priorities: Array.isArray(data.priorities)
@@ -32,12 +32,110 @@ const DigiyarNeedEngine = {
                 ? [...data.constraints]
                 : [],
 
-            context: data.context || {},
+            context: data.context
+                ? { ...data.context }
+                : {},
 
             confidence: typeof data.confidence === "number"
                 ? data.confidence
                 : 0
         };
+    },
+
+    // ------------------------------------------
+    // ساخت نیاز اولیه با استفاده از پروفایل کاربر
+    // ------------------------------------------
+    buildNeedFromProfile(category, profile = null) {
+
+        if (!category) {
+            return null;
+        }
+
+        // اگر پروفایل مستقیماً ارسال نشده باشد،
+        // از پروفایل فعلی دیجی‌یار استفاده می‌کنیم.
+        if (!profile) {
+
+            if (
+                typeof DigiyarUserProfile !== "undefined" &&
+                typeof DigiyarUserProfile.getProfile === "function"
+            ) {
+                profile =
+                    DigiyarUserProfile.getProfile();
+            }
+        }
+
+        profile = profile || {};
+
+        const declared =
+            profile.declared || {};
+
+        const context =
+            profile.context || {};
+
+        // ایجاد نیاز اولیه
+        const need = this.createNeed({
+            category: category
+        });
+
+        // --------------------------------------
+        // انتقال بودجه
+        // --------------------------------------
+
+        if (declared.budget !== null &&
+            typeof declared.budget === "number") {
+
+            need.budget.max =
+                declared.budget;
+        }
+
+        // --------------------------------------
+        // انتقال اولویت‌های کاربر
+        // --------------------------------------
+
+        if (Array.isArray(declared.priorities)) {
+
+            need.priorities = [
+                ...declared.priorities
+            ];
+        }
+
+        // --------------------------------------
+        // انتقال شرایط مرتبط با کاربر
+        // --------------------------------------
+
+        if (context &&
+            typeof context === "object") {
+
+            need.context = {
+                ...context
+            };
+        }
+
+        // --------------------------------------
+        // تعیین میزان اطمینان اولیه
+        // --------------------------------------
+
+        let knownFields = 0;
+        let totalFields = 3;
+
+        if (need.budget.max !== null) {
+            knownFields++;
+        }
+
+        if (need.priorities.length > 0) {
+            knownFields++;
+        }
+
+        if (Object.keys(need.context).length > 0) {
+            knownFields++;
+        }
+
+        need.confidence =
+            Math.round(
+                (knownFields / totalFields) * 100
+            );
+
+        return need;
     },
 
     // ------------------------------------------
@@ -127,14 +225,19 @@ const DigiyarNeedEngine = {
 
             case "budget":
 
-                if (typeof answer === "object") {
+                if (
+                    answer &&
+                    typeof answer === "object"
+                ) {
 
                     need.budget = {
-                        min: answer.min || null,
-                        max: answer.max || null
+                        min: answer.min ?? null,
+                        max: answer.max ?? null
                     };
 
-                } else if (typeof answer === "number") {
+                } else if (
+                    typeof answer === "number"
+                ) {
 
                     need.budget.max = answer;
                 }
@@ -152,9 +255,10 @@ const DigiyarNeedEngine = {
 
             case "priorities":
 
-                need.priorities = Array.isArray(answer)
-                    ? [...answer]
-                    : [answer];
+                need.priorities =
+                    Array.isArray(answer)
+                        ? [...answer]
+                        : [answer];
 
                 break;
 
@@ -215,7 +319,9 @@ const DigiyarNeedEngine = {
             score++;
         }
 
-        return Math.round((score / total) * 100);
+        return Math.round(
+            (score / total) * 100
+        );
     },
 
     // ------------------------------------------
