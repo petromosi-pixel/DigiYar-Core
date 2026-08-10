@@ -835,4 +835,154 @@
 
 
             result.breakdown.usage =
-                usa
+                usageScore;
+
+            result.breakdown.priorities =
+                priorityScore;
+
+            result.breakdown.value =
+                valueScore;
+
+            result.breakdown.general =
+                generalScore;
+
+
+            result.score =
+                this.calculateFinalScore(
+                    usageScore,
+                    priorityScore,
+                    valueScore,
+                    generalScore
+                );
+
+
+            result.eligible =
+                true;
+
+
+            return result;
+        },
+
+
+        // ------------------------------------------
+        // رتبه‌بندی محصولات
+        // ------------------------------------------
+        rankProducts(need, products) {
+
+            if (
+                !Array.isArray(products)
+            ) {
+                return {
+                    eligibleProducts: [],
+                    rejectedProducts: []
+                };
+            }
+
+
+            const scoredProducts =
+                products.map(
+                    product => {
+
+                        let result;
+
+
+                        try {
+
+                            result =
+                                this.scoreProduct(
+                                    need,
+                                    product
+                                );
+
+                        } catch (error) {
+
+                            result =
+                                this.createScore();
+
+                            result.warnings.push(
+                                error &&
+                                error.message
+                                    ? error.message
+                                    : "خطای ناشناخته در امتیازدهی محصول."
+                            );
+                        }
+
+
+                        return {
+                            product: product,
+                            result: result
+                        };
+                    }
+                );
+
+
+            const eligibleProducts =
+                scoredProducts
+                    .filter(
+                        item =>
+                            item.result.eligible
+                    )
+                    .sort(
+                        (a, b) =>
+                            b.result.score -
+                            a.result.score
+                    );
+
+
+            const rejectedProducts =
+                scoredProducts
+                    .filter(
+                        item =>
+                            !item.result.eligible
+                    );
+
+
+            return {
+                eligibleProducts:
+                    eligibleProducts,
+
+                rejectedProducts:
+                    rejectedProducts
+            };
+        },
+
+
+        // ------------------------------------------
+        // نرمال‌سازی امتیاز
+        // ------------------------------------------
+        normalizeScore(value) {
+
+            if (
+                typeof value !== "number" ||
+                !Number.isFinite(value)
+            ) {
+                return 0;
+            }
+
+
+            return Math.max(
+                0,
+                Math.min(
+                    100,
+                    value
+                )
+            );
+        }
+
+    };
+
+
+    // ==========================================
+    // انتشار عمومی موتور
+    // ==========================================
+
+    window.DigiyarProductScoring =
+        DigiyarProductScoring;
+
+
+})(window);
+
+
+// ==========================================
+// Digiyar Product Scoring Engine 1.2 — END
+// ==========================================
