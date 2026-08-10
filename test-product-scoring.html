@@ -72,6 +72,7 @@
     تست Edge Case موتور امتیازدهی دیجی‌یار 1.2
 </h2>
 
+
 <div
     id="engineStatus"
     class="status"
@@ -164,16 +165,17 @@
 </div>
 
 
-<pre id="result">
-هنوز تستی اجرا نشده است.
-</pre>
+<pre id="result">هنوز تستی اجرا نشده است.</pre>
 
 
 <!-- ==========================================
      Digiyar Product Scoring Engine 1.2
      ========================================== -->
-    
+
 <script src="js/product-scoring.js?v=1.2"></script>
+
+
+<script>
 
     // ==========================================
     // بررسی Load شدن موتور
@@ -189,7 +191,7 @@
     function engineAvailable() {
 
         if (
-            typeof DigiyarProductScoring ===
+            typeof window.DigiyarProductScoring ===
             "undefined"
         ) {
 
@@ -200,8 +202,10 @@
                 JSON.stringify(
                     {
                         crashed: true,
+
                         error:
                             "DigiyarProductScoring is not defined",
+
                         hint:
                             "مسیر js/product-scoring.js را بررسی کنید."
                     },
@@ -244,6 +248,7 @@
                 JSON.stringify(
                     {
                         testError: true,
+
                         message:
                             error.message
                     },
@@ -417,8 +422,10 @@
             const product =
                 createBaseProduct();
 
+
             product.price.current =
                 null;
+
 
             show({
 
@@ -426,7 +433,7 @@
                     "قیمت محصول Null است.",
 
                 result:
-                    DigiyarProductScoring
+                    window.DigiyarProductScoring
                         .scoreProduct(
                             need,
                             product
@@ -453,8 +460,10 @@
             const product =
                 createBaseProduct();
 
+
             product.price.current =
                 -5000000;
+
 
             show({
 
@@ -462,7 +471,7 @@
                     "قیمت محصول منفی است.",
 
                 result:
-                    DigiyarProductScoring
+                    window.DigiyarProductScoring
                         .scoreProduct(
                             need,
                             product
@@ -489,7 +498,9 @@
             const product =
                 createBaseProduct();
 
+
             delete product.price;
+
 
             show({
 
@@ -497,7 +508,7 @@
                     "محصول فاقد price است.",
 
                 result:
-                    DigiyarProductScoring
+                    window.DigiyarProductScoring
                         .scoreProduct(
                             need,
                             product
@@ -524,16 +535,22 @@
             const product =
                 createBaseProduct();
 
+
             need.requirements = [
 
                 {
+
                     id: "5G",
+
                     value: true
+
                 }
 
             ];
 
+
             delete product.features;
+
 
             show({
 
@@ -541,7 +558,7 @@
                     "محصول فاقد features است.",
 
                 result:
-                    DigiyarProductScoring
+                    window.DigiyarProductScoring
                         .scoreProduct(
                             need,
                             product
@@ -565,11 +582,13 @@
             const product =
                 createBaseProduct();
 
+
             const need = {
 
                 category: "mobile"
 
             };
+
 
             show({
 
@@ -577,7 +596,7 @@
                     "Need ناقص است.",
 
                 result:
-                    DigiyarProductScoring
+                    window.DigiyarProductScoring
                         .scoreProduct(
                             need,
                             product
@@ -604,7 +623,9 @@
             const product =
                 createBaseProduct();
 
+
             delete need.budget;
+
 
             show({
 
@@ -612,7 +633,7 @@
                     "Budget از Need حذف شده است.",
 
                 result:
-                    DigiyarProductScoring
+                    window.DigiyarProductScoring
                         .scoreProduct(
                             need,
                             product
@@ -639,14 +660,19 @@
             const product =
                 createBaseProduct();
 
+
             need.constraints = [
 
                 {
+
                     id: "weight",
+
                     value: 200
+
                 }
 
             ];
+
 
             show({
 
@@ -654,7 +680,7 @@
                     "Constraint فاقد operator است.",
 
                 result:
-                    DigiyarProductScoring
+                    window.DigiyarProductScoring
                         .scoreProduct(
                             need,
                             product
@@ -681,15 +707,21 @@
             const product =
                 createBaseProduct();
 
+
             need.constraints = [
 
                 {
+
                     id: "weight",
+
                     operator: "invalid",
+
                     value: 200
+
                 }
 
             ];
+
 
             show({
 
@@ -697,7 +729,7 @@
                     "Operator عمداً نامعتبر است.",
 
                 result:
-                    DigiyarProductScoring
+                    window.DigiyarProductScoring
                         .scoreProduct(
                             need,
                             product
@@ -724,15 +756,21 @@
             const product =
                 createBaseProduct();
 
+
             need.constraints = [
 
                 {
+
                     id: "weight",
+
                     operator: "lte",
+
                     value: "دویست"
+
                 }
 
             ];
+
 
             show({
 
@@ -740,7 +778,7 @@
                     "مقدار Constraint غیرعددی است.",
 
                 result:
-                    DigiyarProductScoring
+                    window.DigiyarProductScoring
                         .scoreProduct(
                             need,
                             product
@@ -764,13 +802,14 @@
             const need =
                 createBaseNeed();
 
+
             show({
 
                 description:
                     "لیست محصولات خالی است.",
 
                 result:
-                    DigiyarProductScoring
+                    window.DigiyarProductScoring
                         .rankProducts(
                             need,
                             []
@@ -794,13 +833,14 @@
             const need =
                 createBaseNeed();
 
+
             show({
 
                 description:
                     "Product برابر Null است.",
 
                 result:
-                    DigiyarProductScoring
+                    window.DigiyarProductScoring
                         .scoreProduct(
                             need,
                             null
@@ -878,7 +918,7 @@
 
 
             const resultData =
-                DigiyarProductScoring
+                window.DigiyarProductScoring
                     .rankProducts(
                         need,
                         products
@@ -900,6 +940,7 @@
     }
 
 </script>
+
 
 </body>
 </html>
