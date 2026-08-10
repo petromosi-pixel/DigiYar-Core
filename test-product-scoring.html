@@ -1,0 +1,1117 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>تست موتور امتیازدهی دیجی‌یار 1.1</title>
+
+    <style>
+
+        body {
+            font-family: Tahoma, sans-serif;
+            padding: 20px;
+            line-height: 2;
+            background: #ffffff;
+            color: #222222;
+        }
+
+        h2 {
+            margin-bottom: 25px;
+        }
+
+        button {
+            display: block;
+            width: 100%;
+            margin: 10px 0;
+            padding: 12px;
+            font-size: 16px;
+            cursor: pointer;
+            border: 1px solid #cccccc;
+            border-radius: 8px;
+            background: #f7f7f7;
+        }
+
+        button:hover {
+            background: #eeeeee;
+        }
+
+        pre {
+            background: #f3f3f3;
+            padding: 15px;
+            white-space: pre-wrap;
+            direction: ltr;
+            text-align: left;
+            overflow-x: auto;
+            border-radius: 8px;
+        }
+
+    </style>
+
+</head>
+
+
+<body>
+
+    <h2>
+        تست موتور امتیازدهی دیجی‌یار 1.1
+    </h2>
+
+
+    <button onclick="testSingleProduct()">
+        ۱. تست یک محصول
+    </button>
+
+
+    <button onclick="testThreeProducts()">
+        ۲. مقایسه سه محصول
+    </button>
+
+
+    <button onclick="testBudgetFilter()">
+        ۳. تست فیلتر بودجه
+    </button>
+
+
+    <button onclick="testRequirements()">
+        ۴. تست Requirements
+    </button>
+
+
+    <button onclick="testConstraintsLTE()">
+        ۵. تست Constraint — حداکثر وزن
+    </button>
+
+
+    <button onclick="testConstraintsGTE()">
+        ۶. تست Constraint — حداقل وزن
+    </button>
+
+
+    <button onclick="testConstraintsEQ()">
+        ۷. تست Constraint — برابر
+    </button>
+
+
+    <button onclick="testInvalidConstraint()">
+        ۸. تست Constraint نامعتبر
+    </button>
+
+
+    <button onclick="testCategoryFilter()">
+        ۹. تست فیلتر Category
+    </button>
+
+
+    <button onclick="testCombinedFilters()">
+        ۱۰. تست ترکیبی Requirements + Constraints
+    </button>
+
+
+    <button onclick="testFullEngine()">
+        ۱۱. تست کامل موتور
+    </button>
+
+
+    <button onclick="testEngineSummary()">
+        ۱۲. تست ضدگلوله و خلاصه موتور
+    </button>
+
+
+    <pre id="result"></pre>
+
+
+    <script src="js/product-scoring.js?v=1.1"></script>
+
+
+    <script>
+
+        const result =
+            document.getElementById("result");
+
+
+        function show(data) {
+
+            result.textContent =
+                JSON.stringify(
+                    data,
+                    null,
+                    2
+                );
+
+        }
+
+
+        // ======================================
+        // Need پایه
+        // ======================================
+
+        function createBaseNeed() {
+
+            return {
+
+                category: "mobile",
+
+                intent: "purchase",
+
+                budget: {
+
+                    min: null,
+
+                    max: 15000000
+
+                },
+
+                priorities: [
+
+                    "camera",
+
+                    "battery",
+
+                    "value"
+
+                ],
+
+                requirements: [],
+
+                constraints: [],
+
+                context: {
+
+                    usage: "عکاسی"
+
+                },
+
+                confidence: 100
+
+            };
+
+        }
+
+
+        // ======================================
+        // محصول A
+        // ======================================
+
+        function createProductA() {
+
+            return {
+
+                id: "phone-a",
+
+                category: "mobile",
+
+                name: "گوشی A",
+
+                brand: "Brand A",
+
+                model: "Model A",
+
+                price: {
+
+                    current: 14000000,
+
+                    original: 16000000,
+
+                    currency: "IRR"
+
+                },
+
+                features: {
+
+                    "5G": true,
+
+                    weight: 180
+
+                },
+
+                scores: {
+
+                    camera: 95,
+
+                    battery: 88,
+
+                    performance: 78,
+
+                    display: 82,
+
+                    value: 94
+
+                },
+
+                usageScores: {
+
+                    "عکاسی": 96,
+
+                    "بازی": 70,
+
+                    "کار و استفاده روزمره": 88,
+
+                    "تماشای محتوا": 85
+
+                }
+
+            };
+
+        }
+
+
+        // ======================================
+        // محصول B
+        // ======================================
+
+        function createProductB() {
+
+            return {
+
+                id: "phone-b",
+
+                category: "mobile",
+
+                name: "گوشی B",
+
+                brand: "Brand B",
+
+                model: "Model B",
+
+                price: {
+
+                    current: 12000000,
+
+                    original: 13000000,
+
+                    currency: "IRR"
+
+                },
+
+                features: {
+
+                    "5G": true,
+
+                    weight: 195
+
+                },
+
+                scores: {
+
+                    camera: 78,
+
+                    battery: 96,
+
+                    performance: 88,
+
+                    display: 86,
+
+                    value: 90
+
+                },
+
+                usageScores: {
+
+                    "عکاسی": 80,
+
+                    "بازی": 89,
+
+                    "کار و استفاده روزمره": 91,
+
+                    "تماشای محتوا": 90
+
+                }
+
+            };
+
+        }
+
+
+        // ======================================
+        // محصول C
+        // ======================================
+
+        function createProductC() {
+
+            return {
+
+                id: "phone-c",
+
+                category: "mobile",
+
+                name: "گوشی C",
+
+                brand: "Brand C",
+
+                model: "Model C",
+
+                price: {
+
+                    current: 9000000,
+
+                    original: 10000000,
+
+                    currency: "IRR"
+
+                },
+
+                features: {
+
+                    "5G": false,
+
+                    weight: 210
+
+                },
+
+                scores: {
+
+                    camera: 62,
+
+                    battery: 72,
+
+                    performance: 60,
+
+                    display: 70,
+
+                    value: 97
+
+                },
+
+                usageScores: {
+
+                    "عکاسی": 64,
+
+                    "بازی": 55,
+
+                    "کار و استفاده روزمره": 78,
+
+                    "تماشای محتوا": 72
+
+                }
+
+            };
+
+        }
+
+
+        // ======================================
+        // محصول D
+        // برای تست Category
+        // ======================================
+
+        function createProductD() {
+
+            return {
+
+                id: "laptop-d",
+
+                category: "laptop",
+
+                name: "لپ‌تاپ D",
+
+                brand: "Brand D",
+
+                model: "Model D",
+
+                price: {
+
+                    current: 14000000,
+
+                    original: 15000000,
+
+                    currency: "IRR"
+
+                },
+
+                features: {
+
+                    weight: 180
+
+                },
+
+                scores: {
+
+                    performance: 95,
+
+                    display: 90,
+
+                    battery: 85,
+
+                    value: 90
+
+                },
+
+                usageScores: {}
+
+            };
+
+        }
+
+
+        // ======================================
+        // تست ۱
+        // ======================================
+
+        function testSingleProduct() {
+
+            const need =
+                createBaseNeed();
+
+
+            const product =
+                createProductA();
+
+
+            show(
+
+                DigiyarProductScoring
+                    .scoreProduct(
+                        need,
+                        product
+                    )
+
+            );
+
+        }
+
+
+        // ======================================
+        // تست ۲
+        // ======================================
+
+        function testThreeProducts() {
+
+            const need =
+                createBaseNeed();
+
+
+            const products = [
+
+                createProductA(),
+
+                createProductB(),
+
+                createProductC()
+
+            ];
+
+
+            const ranked =
+                DigiyarProductScoring
+                    .rankProducts(
+                        need,
+                        products
+                    );
+
+
+            show(ranked);
+
+        }
+
+
+        // ======================================
+        // تست ۳
+        // ======================================
+
+        function testBudgetFilter() {
+
+            const need =
+                createBaseNeed();
+
+
+            const product =
+                createProductA();
+
+
+            product.price.current =
+                16000000;
+
+
+            show({
+
+                need: need,
+
+                product: product,
+
+                result:
+                    DigiyarProductScoring
+                        .scoreProduct(
+                            need,
+                            product
+                        )
+
+            });
+
+        }
+
+
+        // ======================================
+        // تست ۴
+        // ======================================
+
+        function testRequirements() {
+
+            const need =
+                createBaseNeed();
+
+
+            need.requirements = [
+
+                {
+
+                    id: "5G",
+
+                    value: true
+
+                }
+
+            ];
+
+
+            const product =
+                createProductC();
+
+
+            show({
+
+                need: need,
+
+                product: product,
+
+                result:
+                    DigiyarProductScoring
+                        .scoreProduct(
+                            need,
+                            product
+                        )
+
+            });
+
+        }
+
+
+        // ======================================
+        // تست ۵
+        // Constraint <= 210
+        // ======================================
+
+        function testConstraintsLTE() {
+
+            const need =
+                createBaseNeed();
+
+
+            need.constraints = [
+
+                {
+
+                    id: "weight",
+
+                    operator: "lte",
+
+                    value: 210
+
+                }
+
+            ];
+
+
+            const product =
+                createProductC();
+
+
+            show({
+
+                description:
+                    "وزن محصول باید حداکثر ۲۱۰ گرم باشد.",
+
+                need: need,
+
+                product: product,
+
+                result:
+                    DigiyarProductScoring
+                        .scoreProduct(
+                            need,
+                            product
+                        )
+
+            });
+
+        }
+
+
+        // ======================================
+        // تست ۶
+        // Constraint >= 195
+        // ======================================
+
+        function testConstraintsGTE() {
+
+            const need =
+                createBaseNeed();
+
+
+            need.constraints = [
+
+                {
+
+                    id: "weight",
+
+                    operator: "gte",
+
+                    value: 195
+
+                }
+
+            ];
+
+
+            const product =
+                createProductB();
+
+
+            show({
+
+                description:
+                    "وزن محصول باید حداقل ۱۹۵ گرم باشد.",
+
+                need: need,
+
+                product: product,
+
+                result:
+                    DigiyarProductScoring
+                        .scoreProduct(
+                            need,
+                            product
+                        )
+
+            });
+
+        }
+
+
+        // ======================================
+        // تست ۷
+        // Constraint === 195
+        // ======================================
+
+        function testConstraintsEQ() {
+
+            const need =
+                createBaseNeed();
+
+
+            need.constraints = [
+
+                {
+
+                    id: "weight",
+
+                    operator: "eq",
+
+                    value: 195
+
+                }
+
+            ];
+
+
+            const product =
+                createProductB();
+
+
+            show({
+
+                description:
+                    "وزن محصول باید دقیقاً ۱۹۵ گرم باشد.",
+
+                need: need,
+
+                product: product,
+
+                result:
+                    DigiyarProductScoring
+                        .scoreProduct(
+                            need,
+                            product
+                        )
+
+            });
+
+        }
+
+
+        // ======================================
+        // تست ۸
+        // Constraint نامعتبر
+        // ======================================
+
+        function testInvalidConstraint() {
+
+            const need =
+                createBaseNeed();
+
+
+            need.constraints = [
+
+                {
+
+                    id: "weight",
+
+                    operator: "invalid",
+
+                    value: 200
+
+                }
+
+            ];
+
+
+            const product =
+                createProductA();
+
+
+            show({
+
+                description:
+                    "عملگر عمداً نامعتبر است.",
+
+                need: need,
+
+                product: product,
+
+                result:
+                    DigiyarProductScoring
+                        .scoreProduct(
+                            need,
+                            product
+                        )
+
+            });
+
+        }
+
+
+        // ======================================
+        // تست ۹
+        // Category Filter
+        // ======================================
+
+        function testCategoryFilter() {
+
+            const need =
+                createBaseNeed();
+
+
+            const product =
+                createProductD();
+
+
+            show({
+
+                description:
+                    "محصول لپ‌تاپ نباید برای Need موبایل پذیرفته شود.",
+
+                need: need,
+
+                product: product,
+
+                result:
+                    DigiyarProductScoring
+                        .scoreProduct(
+                            need,
+                            product
+                        )
+
+            });
+
+        }
+
+
+        // ======================================
+        // تست ۱۰
+        // Requirements + Constraints
+        // ======================================
+
+        function testCombinedFilters() {
+
+            const need =
+                createBaseNeed();
+
+
+            need.requirements = [
+
+                {
+
+                    id: "5G",
+
+                    value: true
+
+                }
+
+            ];
+
+
+            need.constraints = [
+
+                {
+
+                    id: "weight",
+
+                    operator: "lte",
+
+                    value: 200
+
+                }
+
+            ];
+
+
+            const products = [
+
+                createProductA(),
+
+                createProductB(),
+
+                createProductC()
+
+            ];
+
+
+            show({
+
+                need: need,
+
+                products: products,
+
+                result:
+                    DigiyarProductScoring
+                        .rankProducts(
+                            need,
+                            products
+                        )
+
+            });
+
+        }
+
+
+        // ======================================
+        // تست ۱۱
+        // موتور کامل
+        // ======================================
+
+        function testFullEngine() {
+
+            const need =
+                createBaseNeed();
+
+
+            need.requirements = [
+
+                {
+
+                    id: "5G",
+
+                    value: true
+
+                }
+
+            ];
+
+
+            const products = [
+
+                createProductA(),
+
+                createProductB(),
+
+                createProductC()
+
+            ];
+
+
+            const ranked =
+                DigiyarProductScoring
+                    .rankProducts(
+                        need,
+                        products
+                    );
+
+
+            show({
+
+                need: need,
+
+                totalProducts:
+                    products.length,
+
+                eligibleCount:
+                    ranked
+                        .eligibleProducts
+                        .length,
+
+                rejectedCount:
+                    ranked
+                        .rejectedProducts
+                        .length,
+
+                eligibleProducts:
+                    ranked
+                        .eligibleProducts,
+
+                rejectedProducts:
+                    ranked
+                        .rejectedProducts
+
+            });
+
+        }
+
+
+        // ======================================
+        // تست ۱۲
+        // تست ضدگلوله
+        // ======================================
+
+        function testEngineSummary() {
+
+            const need =
+                createBaseNeed();
+
+
+            need.requirements = [
+
+                {
+
+                    id: "5G",
+
+                    value: true
+
+                }
+
+            ];
+
+
+            need.constraints = [
+
+                {
+
+                    id: "weight",
+
+                    operator: "lte",
+
+                    value: 200
+
+                }
+
+            ];
+
+
+            const products = [
+
+                createProductA(),
+
+                createProductB(),
+
+                createProductC(),
+
+                createProductD()
+
+            ];
+
+
+            const ranked =
+                DigiyarProductScoring
+                    .rankProducts(
+                        need,
+                        products
+                    );
+
+
+            const eligible =
+                ranked
+                    .eligibleProducts
+                    .map(item => ({
+
+                        id:
+                            item.product.id,
+
+                        score:
+                            item.result.score,
+
+                        eligible:
+                            item.result.eligible
+
+                    }));
+
+
+            const rejected =
+                ranked
+                    .rejectedProducts
+                    .map(item => ({
+
+                        id:
+                            item.product.id,
+
+                        score:
+                            item.result.score,
+
+                        eligible:
+                            item.result.eligible,
+
+                        warnings:
+                            item.result.warnings
+
+                    }));
+
+
+            show({
+
+                test:
+                    "Digiyar Product Scoring Engine 1.1",
+
+                totalProducts:
+                    products.length,
+
+                eligibleCount:
+                    eligible.length,
+
+                rejectedCount:
+                    rejected.length,
+
+                eligibleProducts:
+                    eligible,
+
+                rejectedProducts:
+                    rejected,
+
+                expectedBehavior: {
+
+                    phoneA:
+                        "eligible",
+
+                    phoneB:
+                        "eligible",
+
+                    phoneC:
+                        "rejected",
+
+                    laptopD:
+                        "rejected"
+
+                }
+
+            });
+
+        }
+
+    </script>
+
+</body>
+
+  </html>
