@@ -1,0 +1,811 @@
+<!DOCTYPE html><html lang="fa" dir="rtl"><head><meta charset="UTF-8">
+
+<meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+>
+
+<title>تست Edge Case موتور امتیازدهی دیجی‌یار</title>
+
+<style>
+
+    body {
+        font-family: Tahoma, sans-serif;
+        padding: 20px;
+        line-height: 2;
+        background: #ffffff;
+    }
+
+    h2 {
+        margin-bottom: 20px;
+    }
+
+    .group {
+        margin-bottom: 25px;
+    }
+
+    .group-title {
+        font-weight: bold;
+        margin-bottom: 10px;
+    }
+
+    button {
+        display: block;
+        width: 100%;
+        margin: 8px 0;
+        padding: 12px;
+        font-size: 15px;
+        cursor: pointer;
+    }
+
+    pre {
+        background: #f3f3f3;
+        padding: 15px;
+        white-space: pre-wrap;
+        direction: ltr;
+        text-align: left;
+        overflow-x: auto;
+        min-height: 100px;
+    }
+
+</style>
+
+</head><body><h2>
+    تست Edge Case موتور امتیازدهی دیجی‌یار 1.1
+</h2>
+
+
+<div class="group">
+
+    <div class="group-title">
+        تست‌های داده نامعتبر
+    </div>
+
+
+    <button onclick="testNullPrice()">
+        ۱. قیمت Null
+    </button>
+
+
+    <button onclick="testNegativePrice()">
+        ۲. قیمت منفی
+    </button>
+
+
+    <button onclick="testMissingPrice()">
+        ۳. محصول بدون Price
+    </button>
+
+
+    <button onclick="testMissingFeatures()">
+        ۴. محصول بدون Features
+    </button>
+
+</div>
+
+
+<div class="group">
+
+    <div class="group-title">
+        تست‌های Need ناقص
+    </div>
+
+
+    <button onclick="testIncompleteNeed()">
+        ۵. Need ناقص
+    </button>
+
+
+    <button onclick="testIncompleteBudget()">
+        ۶. Budget ناقص
+    </button>
+
+</div>
+
+
+<div class="group">
+
+    <div class="group-title">
+        تست‌های Constraint
+    </div>
+
+
+    <button onclick="testMissingOperator()">
+        ۷. Constraint بدون Operator
+    </button>
+
+
+    <button onclick="testInvalidOperator()">
+        ۸. Operator نامعتبر
+    </button>
+
+
+    <button onclick="testNonNumericConstraint()">
+        ۹. مقدار غیرعددی Constraint
+    </button>
+
+</div>
+
+
+<div class="group">
+
+    <div class="group-title">
+        تست‌های ورودی عمومی
+    </div>
+
+
+    <button onclick="testEmptyProducts()">
+        ۱۰. لیست محصولات خالی
+    </button>
+
+
+    <button onclick="testNullProduct()">
+        ۱۱. Product برابر Null
+    </button>
+
+
+    <button onclick="testMultipleBrokenInputs()">
+        ۱۲. ترکیب چند ورودی خراب
+    </button>
+
+</div>
+
+
+<pre id="result"></pre>
+
+
+<script src="js/product-scoring.js?v=1.1"></script>
+
+
+<script>
+
+    const result =
+        document.getElementById("result");
+
+
+    function show(data) {
+
+        try {
+
+            result.textContent =
+                JSON.stringify(
+                    data,
+                    null,
+                    2
+                );
+
+        } catch (error) {
+
+            result.textContent =
+                JSON.stringify({
+
+                    testError: true,
+
+                    message:
+                        error.message
+
+                }, null, 2);
+
+        }
+
+    }
+
+
+    // ======================================
+    // Need پایه
+    // ======================================
+
+    function createBaseNeed() {
+
+        return {
+
+            category: "mobile",
+
+            intent: "purchase",
+
+            budget: {
+
+                min: null,
+
+                max: 15000000
+
+            },
+
+            priorities: [
+
+                "camera",
+
+                "battery",
+
+                "value"
+
+            ],
+
+            requirements: [],
+
+            constraints: [],
+
+            context: {
+
+                usage: "عکاسی"
+
+            },
+
+            confidence: 100
+
+        };
+
+    }
+
+
+    // ======================================
+    // محصول پایه
+    // ======================================
+
+    function createBaseProduct() {
+
+        return {
+
+            id: "edge-phone",
+
+            category: "mobile",
+
+            name: "Edge Test Phone",
+
+            brand: "Test Brand",
+
+            model: "Test Model",
+
+            price: {
+
+                current: 10000000,
+
+                original: 12000000,
+
+                currency: "IRR"
+
+            },
+
+            features: {
+
+                "5G": true,
+
+                weight: 190
+
+            },
+
+            scores: {
+
+                camera: 90,
+
+                battery: 90,
+
+                performance: 80,
+
+                display: 80,
+
+                value: 90
+
+            },
+
+            usageScores: {
+
+                "عکاسی": 90,
+
+                "بازی": 80,
+
+                "کار و استفاده روزمره": 85,
+
+                "تماشای محتوا": 85
+
+            }
+
+        };
+
+    }
+
+
+    // ======================================
+    // ۱. قیمت Null
+    // ======================================
+
+    function testNullPrice() {
+
+        const need =
+            createBaseNeed();
+
+        const product =
+            createBaseProduct();
+
+
+        product.price.current =
+            null;
+
+
+        show({
+
+            description:
+                "قیمت محصول Null است.",
+
+            result:
+                DigiyarProductScoring
+                    .scoreProduct(
+                        need,
+                        product
+                    )
+
+        });
+
+    }
+
+
+    // ======================================
+    // ۲. قیمت منفی
+    // ======================================
+
+    function testNegativePrice() {
+
+        const need =
+            createBaseNeed();
+
+        const product =
+            createBaseProduct();
+
+
+        product.price.current =
+            -5000000;
+
+
+        show({
+
+            description:
+                "قیمت محصول منفی است.",
+
+            result:
+                DigiyarProductScoring
+                    .scoreProduct(
+                        need,
+                        product
+                    )
+
+        });
+
+    }
+
+
+    // ======================================
+    // ۳. بدون Price
+    // ======================================
+
+    function testMissingPrice() {
+
+        const need =
+            createBaseNeed();
+
+        const product =
+            createBaseProduct();
+
+
+        delete product.price;
+
+
+        show({
+
+            description:
+                "محصول فاقد price است.",
+
+            result:
+                DigiyarProductScoring
+                    .scoreProduct(
+                        need,
+                        product
+                    )
+
+        });
+
+    }
+
+
+    // ======================================
+    // ۴. بدون Features
+    // ======================================
+
+    function testMissingFeatures() {
+
+        const need =
+            createBaseNeed();
+
+        const product =
+            createBaseProduct();
+
+
+        need.requirements = [
+
+            {
+
+                id: "5G",
+
+                value: true
+
+            }
+
+        ];
+
+
+        delete product.features;
+
+
+        show({
+
+            description:
+                "محصول فاقد features است.",
+
+            result:
+                DigiyarProductScoring
+                    .scoreProduct(
+                        need,
+                        product
+                    )
+
+        });
+
+    }
+
+
+    // ======================================
+    // ۵. Need ناقص
+    // ======================================
+
+    function testIncompleteNeed() {
+
+        const product =
+            createBaseProduct();
+
+
+        const need = {
+
+            category: "mobile"
+
+        };
+
+
+        show({
+
+            description:
+                "Need ناقص است.",
+
+            result:
+                DigiyarProductScoring
+                    .scoreProduct(
+                        need,
+                        product
+                    )
+
+        });
+
+    }
+
+
+    // ======================================
+    // ۶. Budget ناقص
+    // ======================================
+
+    function testIncompleteBudget() {
+
+        const need =
+            createBaseNeed();
+
+        const product =
+            createBaseProduct();
+
+
+        delete need.budget;
+
+
+        show({
+
+            description:
+                "Budget از Need حذف شده است.",
+
+            result:
+                DigiyarProductScoring
+                    .scoreProduct(
+                        need,
+                        product
+                    )
+
+        });
+
+    }
+
+
+    // ======================================
+    // ۷. بدون Operator
+    // ======================================
+
+    function testMissingOperator() {
+
+        const need =
+            createBaseNeed();
+
+        const product =
+            createBaseProduct();
+
+
+        need.constraints = [
+
+            {
+
+                id: "weight",
+
+                value: 200
+
+            }
+
+        ];
+
+
+        show({
+
+            description:
+                "Constraint فاقد operator است.",
+
+            result:
+                DigiyarProductScoring
+                    .scoreProduct(
+                        need,
+                        product
+                    )
+
+        });
+
+    }
+
+
+    // ======================================
+    // ۸. Operator نامعتبر
+    // ======================================
+
+    function testInvalidOperator() {
+
+        const need =
+            createBaseNeed();
+
+        const product =
+            createBaseProduct();
+
+
+        need.constraints = [
+
+            {
+
+                id: "weight",
+
+                operator: "invalid",
+
+                value: 200
+
+            }
+
+        ];
+
+
+        show({
+
+            description:
+                "Operator عمداً نامعتبر است.",
+
+            result:
+                DigiyarProductScoring
+                    .scoreProduct(
+                        need,
+                        product
+                    )
+
+        });
+
+    }
+
+
+    // ======================================
+    // ۹. مقدار غیرعددی
+    // ======================================
+
+    function testNonNumericConstraint() {
+
+        const need =
+            createBaseNeed();
+
+        const product =
+            createBaseProduct();
+
+
+        need.constraints = [
+
+            {
+
+                id: "weight",
+
+                operator: "lte",
+
+                value: "دویست"
+
+            }
+
+        ];
+
+
+        show({
+
+            description:
+                "مقدار Constraint غیرعددی است.",
+
+            result:
+                DigiyarProductScoring
+                    .scoreProduct(
+                        need,
+                        product
+                    )
+
+        });
+
+    }
+
+
+    // ======================================
+    // ۱۰. محصولات خالی
+    // ======================================
+
+    function testEmptyProducts() {
+
+        const need =
+            createBaseNeed();
+
+
+        show({
+
+            description:
+                "لیست محصولات خالی است.",
+
+            result:
+                DigiyarProductScoring
+                    .rankProducts(
+                        need,
+                        []
+                    )
+
+        });
+
+    }
+
+
+    // ======================================
+    // ۱۱. Product برابر Null
+    // ======================================
+
+    function testNullProduct() {
+
+        const need =
+            createBaseNeed();
+
+
+        show({
+
+            description:
+                "Product برابر Null است.",
+
+            result:
+                DigiyarProductScoring
+                    .scoreProduct(
+                        need,
+                        null
+                    )
+
+        });
+
+    }
+
+
+    // ======================================
+    // ۱۲. ترکیب چند ورودی خراب
+    // ======================================
+
+    function testMultipleBrokenInputs() {
+
+        const need = {
+
+            category: "mobile",
+
+            budget: {
+
+                max: null
+
+            },
+
+            priorities: null,
+
+            requirements: [
+
+                {
+
+                    id: "5G",
+
+                    value: true
+
+                }
+
+            ],
+
+            constraints: [
+
+                {
+
+                    id: "weight",
+
+                    operator: "invalid",
+
+                    value: null
+
+                }
+
+            ]
+
+        };
+
+
+        const products = [
+
+            null,
+
+            {},
+
+            {
+
+                category: "mobile"
+
+            }
+
+        ];
+
+
+        let resultData;
+
+
+        try {
+
+            resultData =
+                DigiyarProductScoring
+                    .rankProducts(
+                        need,
+                        products
+                    );
+
+        } catch (error) {
+
+            resultData = {
+
+                crashed: true,
+
+                error:
+                    error.message
+
+            };
+
+        }
+
+
+        show({
+
+            description:
+                "ترکیب چند ورودی خراب.",
+
+            result:
+                resultData
+
+        });
+
+    }
+
+</script>
+
+</body></html>
