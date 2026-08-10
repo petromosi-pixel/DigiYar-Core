@@ -1,1 +1,666 @@
+// ==========================================
+// Digiyar 2.0 — Smart Product Scoring Engine
+// Version: 1.0
+// ==========================================
 
+const DigiyarProductScoring = {
+
+    // ------------------------------------------
+    // ایجاد نتیجه اولیه امتیازدهی
+    // ------------------------------------------
+    createScore() {
+
+        return {
+            score: 0,
+            eligible: false,
+
+            breakdown: {
+                budget: 0,
+                usage: 0,
+                priorities: 0,
+                value: 0,
+                general: 0
+            },
+
+            reasons: [],
+            warnings: []
+        };
+    },
+
+
+    // ------------------------------------------
+    // بررسی بودجه
+    // ------------------------------------------
+    checkBudget(need, product) {
+
+        if (
+            !need ||
+            !need.budget ||
+            !product ||
+            !product.price
+        ) {
+            return {
+                passed: false,
+                score: 0,
+                reason: "اطلاعات بودجه یا قیمت محصول موجود نیست."
+            };
+        }
+
+
+        const maxBudget =
+            need.budget.max;
+
+        const minBudget =
+            need.budget.min;
+
+        const price =
+            product.price.current;
+
+
+        if (
+            typeof price !== "number" ||
+            price <= 0
+        ) {
+            return {
+                passed: false,
+                score: 0,
+                reason: "قیمت معتبر برای محصول ثبت نشده است."
+            };
+        }
+
+
+        // بدون محدودیت بودجه
+        if (
+            maxBudget === null &&
+            minBudget === null
+        ) {
+            return {
+                passed: true,
+                score: 100,
+                reason: "برای کاربر محدودیت بودجه‌ای تعیین نشده است."
+            };
+        }
+
+
+        // بیشتر از سقف بودجه
+        if (
+            maxBudget !== null &&
+            price > maxBudget
+        ) {
+            return {
+                passed: false,
+                score: 0,
+                reason: "قیمت محصول از سقف بودجه کاربر بیشتر است."
+            };
+        }
+
+
+        // کمتر از حداقل بودجه
+        if (
+            minBudget !== null &&
+            price < minBudget
+        ) {
+            return {
+                passed: false,
+                score: 0,
+                reason: "قیمت محصول از حداقل بودجه تعیین‌شده کمتر است."
+            };
+        }
+
+
+        return {
+            passed: true,
+            score: 100,
+            reason: "قیمت محصول در محدوده بودجه کاربر قرار دارد."
+        };
+    },
+
+
+    // ------------------------------------------
+    // بررسی Requirements
+    // ------------------------------------------
+    checkRequirements(need, product) {
+
+        if (
+            !need ||
+            !Array.isArray(need.requirements) ||
+            need.requirements.length === 0
+        ) {
+            return {
+                passed: true,
+                reasons: []
+            };
+        }
+
+
+        const reasons = [];
+
+
+        for (
+            const requirement
+            of need.requirements
+        ) {
+
+            if (!requirement) {
+                continue;
+            }
+
+
+            const key =
+                requirement.id;
+
+            const expected =
+                requirement.value;
+
+
+            if (
+                !product.features ||
+                product.features[key] !== expected
+            ) {
+
+                return {
+                    passed: false,
+                    reasons: [
+                        `محصول شرط «${key}» را ندارد.`
+                    ]
+                };
+            }
+
+
+            reasons.push(
+                `محصول شرط «${key}» را دارد.`
+            );
+        }
+
+
+        return {
+            passed: true,
+            reasons: reasons
+        };
+    },
+
+
+    // ------------------------------------------
+    // بررسی Constraints
+    // ------------------------------------------
+    checkConstraints(need, product) {
+
+        if (
+            !need ||
+            !Array.isArray(need.constraints) ||
+            need.constraints.length === 0
+        ) {
+            return {
+                passed: true,
+                reasons: []
+            };
+        }
+
+
+        const reasons = [];
+
+
+        for (
+            const constraint
+            of need.constraints
+        ) {
+
+            if (!constraint) {
+                continue;
+            }
+
+
+            const key =
+                constraint.id;
+
+            const forbidden =
+                constraint.value;
+
+
+            if (
+                product.features &&
+                product.features[key] === forbidden
+            ) {
+
+                return {
+                    passed: false,
+                    reasons: [
+                        `محصول با محدودیت «${key}» سازگار نیست.`
+                    ]
+                };
+            }
+
+
+            reasons.push(
+                `محصول محدودیت «${key}» را نقض نمی‌کند.`
+            );
+        }
+
+
+        return {
+            passed: true,
+            reasons: reasons
+        };
+    },
+
+
+    // ------------------------------------------
+    // امتیاز کاربرد
+    // ------------------------------------------
+    calculateUsageScore(need, product) {
+
+        if (
+            !need ||
+            !need.context ||
+            !need.context.usage
+        ) {
+            return 50;
+        }
+
+
+        const usage =
+            need.context.usage;
+
+
+        if (
+            !product.usageScores ||
+            typeof product.usageScores[usage] !== "number"
+        ) {
+            return 50;
+        }
+
+
+        return this.normalizeScore(
+            product.usageScores[usage]
+        );
+    },
+
+
+    // ------------------------------------------
+    // امتیاز اولویت‌ها
+    // ------------------------------------------
+    calculatePriorityScore(need, product) {
+
+        if (
+            !need ||
+            !Array.isArray(need.priorities) ||
+            need.priorities.length === 0
+        ) {
+            return 50;
+        }
+
+
+        if (
+            !product.scores ||
+            typeof product.scores !== "object"
+        ) {
+            return 50;
+        }
+
+
+        let total = 0;
+        let weightTotal = 0;
+
+
+        const weights = [
+            1.0,
+            0.625,
+            0.375
+        ];
+
+
+        need.priorities.forEach(
+            (priority, index) => {
+
+                const value =
+                    product.scores[priority];
+
+
+                if (
+                    typeof value !== "number"
+                ) {
+                    return;
+                }
+
+
+                const weight =
+                    weights[index] || 0.25;
+
+
+                total +=
+                    this.normalizeScore(value)
+                    * weight;
+
+                weightTotal += weight;
+            }
+        );
+
+
+        if (weightTotal === 0) {
+            return 50;
+        }
+
+
+        return Math.round(
+            total / weightTotal
+        );
+    },
+
+
+    // ------------------------------------------
+    // امتیاز ارزش خرید
+    // ------------------------------------------
+    calculateValueScore(product) {
+
+        if (
+            !product ||
+            !product.scores ||
+            typeof product.scores.value !== "number"
+        ) {
+            return 50;
+        }
+
+
+        return this.normalizeScore(
+            product.scores.value
+        );
+    },
+
+
+    // ------------------------------------------
+    // امتیاز عمومی محصول
+    // ------------------------------------------
+    calculateGeneralScore(product) {
+
+        if (
+            !product ||
+            !product.scores
+        ) {
+            return 50;
+        }
+
+
+        const values = [];
+
+
+        [
+            "performance",
+            "display",
+            "battery"
+        ].forEach(key => {
+
+            if (
+                typeof product.scores[key]
+                === "number"
+            ) {
+                values.push(
+                    this.normalizeScore(
+                        product.scores[key]
+                    )
+                );
+            }
+
+        });
+
+
+        if (values.length === 0) {
+            return 50;
+        }
+
+
+        return Math.round(
+            values.reduce(
+                (sum, value) =>
+                    sum + value,
+                0
+            ) / values.length
+        );
+    },
+
+
+    // ------------------------------------------
+    // محاسبه امتیاز نهایی
+    // ------------------------------------------
+    calculateFinalScore(
+        usageScore,
+        priorityScore,
+        valueScore,
+        generalScore
+    ) {
+
+        const score =
+            (
+                usageScore * 0.25
+            ) +
+            (
+                priorityScore * 0.45
+            ) +
+            (
+                valueScore * 0.20
+            ) +
+            (
+                generalScore * 0.10
+            );
+
+
+        return Math.round(score);
+    },
+
+
+    // ------------------------------------------
+    // امتیازدهی کامل یک محصول
+    // ------------------------------------------
+    scoreProduct(need, product) {
+
+        const result =
+            this.createScore();
+
+
+        if (!need || !product) {
+
+            result.warnings.push(
+                "Need یا Product معتبر نیست."
+            );
+
+            return result;
+        }
+
+
+        // --------------------------------------
+        // بررسی بودجه
+        // --------------------------------------
+
+        const budget =
+            this.checkBudget(
+                need,
+                product
+            );
+
+
+        if (!budget.passed) {
+
+            result.warnings.push(
+                budget.reason
+            );
+
+            return result;
+        }
+
+
+        result.breakdown.budget =
+            budget.score;
+
+
+        result.reasons.push(
+            budget.reason
+        );
+
+
+        // --------------------------------------
+        // بررسی Requirements
+        // --------------------------------------
+
+        const requirements =
+            this.checkRequirements(
+                need,
+                product
+            );
+
+
+        if (!requirements.passed) {
+
+            result.warnings.push(
+                ...requirements.reasons
+            );
+
+            return result;
+        }
+
+
+        result.reasons.push(
+            ...requirements.reasons
+        );
+
+
+        // --------------------------------------
+        // بررسی Constraints
+        // --------------------------------------
+
+        const constraints =
+            this.checkConstraints(
+                need,
+                product
+            );
+
+
+        if (!constraints.passed) {
+
+            result.warnings.push(
+                ...constraints.reasons
+            );
+
+            return result;
+        }
+
+
+        result.reasons.push(
+            ...constraints.reasons
+        );
+
+
+        // --------------------------------------
+        // محاسبه امتیازها
+        // --------------------------------------
+
+        const usageScore =
+            this.calculateUsageScore(
+                need,
+                product
+            );
+
+
+        const priorityScore =
+            this.calculatePriorityScore(
+                need,
+                product
+            );
+
+
+        const valueScore =
+            this.calculateValueScore(
+                product
+            );
+
+
+        const generalScore =
+            this.calculateGeneralScore(
+                product
+            );
+
+
+        result.breakdown.usage =
+            usageScore;
+
+        result.breakdown.priorities =
+            priorityScore;
+
+        result.breakdown.value =
+            valueScore;
+
+        result.breakdown.general =
+            generalScore;
+
+
+        result.score =
+            this.calculateFinalScore(
+                usageScore,
+                priorityScore,
+                valueScore,
+                generalScore
+            );
+
+
+        result.eligible = true;
+
+
+        return result;
+    },
+
+
+    // ------------------------------------------
+    // رتبه‌بندی چند محصول
+    // ------------------------------------------
+    rankProducts(need, products) {
+
+        if (
+            !Array.isArray(products)
+        ) {
+            return [];
+        }
+
+
+        return products
+            .map(product => {
+
+                return {
+                    product: product,
+
+                    result:
+                        this.scoreProduct(
+                            need,
+                            product
+                        )
+                };
+
+            })
+            .sort(
+                (a, b) =>
+                    b.result.score -
+                    a.result.score
+            );
+    },
+
+
+    // ------------------------------------------
+    // نرمال‌سازی امتیاز
+    // ------------------------------------------
+    normalizeScore(value) {
+
+        if (
+            typeof value !== "number" ||
+            Number.isNaN(value)
+        ) {
+            return 0;
+        }
+
+
+        return Math.max(
+            0,
+            Math.min(
+                100,
+                value
+            )
+        );
+    }
+
+};
