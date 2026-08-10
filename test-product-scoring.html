@@ -1,58 +1,83 @@
-<!DOCTYPE html><html lang="fa" dir="rtl"><head><meta charset="UTF-8">
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
 
-<meta
-    name="viewport"
-    content="width=device-width, initial-scale=1.0"
->
+<head>
 
-<title>تست Edge Case موتور امتیازدهی دیجی‌یار</title>
+    <meta charset="UTF-8">
 
-<style>
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
 
-    body {
-        font-family: Tahoma, sans-serif;
-        padding: 20px;
-        line-height: 2;
-        background: #ffffff;
-    }
+    <title>تست Edge Case موتور امتیازدهی دیجی‌یار 1.2</title>
 
-    h2 {
-        margin-bottom: 20px;
-    }
+    <style>
 
-    .group {
-        margin-bottom: 25px;
-    }
+        body {
+            font-family: Tahoma, sans-serif;
+            padding: 20px;
+            line-height: 2;
+            background: #ffffff;
+        }
 
-    .group-title {
-        font-weight: bold;
-        margin-bottom: 10px;
-    }
+        h2 {
+            margin-bottom: 10px;
+        }
 
-    button {
-        display: block;
-        width: 100%;
-        margin: 8px 0;
-        padding: 12px;
-        font-size: 15px;
-        cursor: pointer;
-    }
+        .status {
+            padding: 12px;
+            margin-bottom: 20px;
+            border-radius: 6px;
+            background: #f3f3f3;
+            font-weight: bold;
+        }
 
-    pre {
-        background: #f3f3f3;
-        padding: 15px;
-        white-space: pre-wrap;
-        direction: ltr;
-        text-align: left;
-        overflow-x: auto;
-        min-height: 100px;
-    }
+        .group {
+            margin-bottom: 25px;
+        }
 
-</style>
+        .group-title {
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
 
-</head><body><h2>
-    تست Edge Case موتور امتیازدهی دیجی‌یار 1.1
+        button {
+            display: block;
+            width: 100%;
+            margin: 8px 0;
+            padding: 12px;
+            font-size: 15px;
+            cursor: pointer;
+        }
+
+        pre {
+            background: #f3f3f3;
+            padding: 15px;
+            white-space: pre-wrap;
+            direction: ltr;
+            text-align: left;
+            overflow-x: auto;
+            min-height: 100px;
+        }
+
+    </style>
+
+</head>
+
+
+<body>
+
+<h2>
+    تست Edge Case موتور امتیازدهی دیجی‌یار 1.2
 </h2>
+
+<div
+    id="engineStatus"
+    class="status"
+>
+    در حال بررسی موتور...
+</div>
 
 
 <div class="group">
@@ -61,21 +86,17 @@
         تست‌های داده نامعتبر
     </div>
 
-
     <button onclick="testNullPrice()">
         ۱. قیمت Null
     </button>
-
 
     <button onclick="testNegativePrice()">
         ۲. قیمت منفی
     </button>
 
-
     <button onclick="testMissingPrice()">
         ۳. محصول بدون Price
     </button>
-
 
     <button onclick="testMissingFeatures()">
         ۴. محصول بدون Features
@@ -90,11 +111,9 @@
         تست‌های Need ناقص
     </div>
 
-
     <button onclick="testIncompleteNeed()">
         ۵. Need ناقص
     </button>
-
 
     <button onclick="testIncompleteBudget()">
         ۶. Budget ناقص
@@ -109,16 +128,13 @@
         تست‌های Constraint
     </div>
 
-
     <button onclick="testMissingOperator()">
         ۷. Constraint بدون Operator
     </button>
 
-
     <button onclick="testInvalidOperator()">
         ۸. Operator نامعتبر
     </button>
-
 
     <button onclick="testNonNumericConstraint()">
         ۹. مقدار غیرعددی Constraint
@@ -133,16 +149,13 @@
         تست‌های ورودی عمومی
     </div>
 
-
     <button onclick="testEmptyProducts()">
         ۱۰. لیست محصولات خالی
     </button>
 
-
     <button onclick="testNullProduct()">
         ۱۱. Product برابر Null
     </button>
-
 
     <button onclick="testMultipleBrokenInputs()">
         ۱۲. ترکیب چند ورودی خراب
@@ -151,17 +164,71 @@
 </div>
 
 
-<pre id="result"></pre>
+<pre id="result">
+هنوز تستی اجرا نشده است.
+</pre>
 
 
-<script src="js/product-scoring.js?v=1.1"></script>
+<!-- ==========================================
+     Digiyar Product Scoring Engine 1.2
+     ========================================== -->
+
+<script src="js/product-scoring.js?v=1.2"></script>
 
 
 <script>
 
+    // ==========================================
+    // بررسی Load شدن موتور
+    // ==========================================
+
     const result =
         document.getElementById("result");
 
+    const engineStatus =
+        document.getElementById("engineStatus");
+
+
+    function engineAvailable() {
+
+        if (
+            typeof DigiyarProductScoring ===
+            "undefined"
+        ) {
+
+            engineStatus.textContent =
+                "خطا: DigiyarProductScoring لود نشده است.";
+
+            result.textContent =
+                JSON.stringify(
+                    {
+                        crashed: true,
+                        error:
+                            "DigiyarProductScoring is not defined",
+                        hint:
+                            "مسیر js/product-scoring.js را بررسی کنید."
+                    },
+                    null,
+                    2
+                );
+
+            return false;
+        }
+
+
+        engineStatus.textContent =
+            "موتور امتیازدهی دیجی‌یار 1.2 با موفقیت Load شد.";
+
+        return true;
+    }
+
+
+    engineAvailable();
+
+
+    // ==========================================
+    // نمایش نتیجه
+    // ==========================================
 
     function show(data) {
 
@@ -177,23 +244,57 @@
         } catch (error) {
 
             result.textContent =
-                JSON.stringify({
-
-                    testError: true,
-
-                    message:
-                        error.message
-
-                }, null, 2);
+                JSON.stringify(
+                    {
+                        testError: true,
+                        message:
+                            error.message
+                    },
+                    null,
+                    2
+                );
 
         }
 
     }
 
 
-    // ======================================
+    // ==========================================
+    // اجرای امن تست
+    // ==========================================
+
+    function runTest(callback) {
+
+        if (!engineAvailable()) {
+            return;
+        }
+
+        try {
+
+            callback();
+
+        } catch (error) {
+
+            show({
+
+                crashed: true,
+
+                error:
+                    error.message,
+
+                stack:
+                    error.stack || null
+
+            });
+
+        }
+
+    }
+
+
+    // ==========================================
     // Need پایه
-    // ======================================
+    // ==========================================
 
     function createBaseNeed() {
 
@@ -238,9 +339,9 @@
     }
 
 
-    // ======================================
+    // ==========================================
     // محصول پایه
-    // ======================================
+    // ==========================================
 
     function createBaseProduct() {
 
@@ -305,502 +406,497 @@
     }
 
 
-    // ======================================
+    // ==========================================
     // ۱. قیمت Null
-    // ======================================
+    // ==========================================
 
     function testNullPrice() {
 
-        const need =
-            createBaseNeed();
+        runTest(function () {
 
-        const product =
-            createBaseProduct();
+            const need =
+                createBaseNeed();
 
+            const product =
+                createBaseProduct();
 
-        product.price.current =
-            null;
+            product.price.current =
+                null;
 
+            show({
 
-        show({
+                description:
+                    "قیمت محصول Null است.",
 
-            description:
-                "قیمت محصول Null است.",
+                result:
+                    DigiyarProductScoring
+                        .scoreProduct(
+                            need,
+                            product
+                        )
 
-            result:
-                DigiyarProductScoring
-                    .scoreProduct(
-                        need,
-                        product
-                    )
+            });
 
         });
 
     }
 
 
-    // ======================================
+    // ==========================================
     // ۲. قیمت منفی
-    // ======================================
+    // ==========================================
 
     function testNegativePrice() {
 
-        const need =
-            createBaseNeed();
+        runTest(function () {
 
-        const product =
-            createBaseProduct();
+            const need =
+                createBaseNeed();
 
+            const product =
+                createBaseProduct();
 
-        product.price.current =
-            -5000000;
+            product.price.current =
+                -5000000;
 
+            show({
 
-        show({
+                description:
+                    "قیمت محصول منفی است.",
 
-            description:
-                "قیمت محصول منفی است.",
+                result:
+                    DigiyarProductScoring
+                        .scoreProduct(
+                            need,
+                            product
+                        )
 
-            result:
-                DigiyarProductScoring
-                    .scoreProduct(
-                        need,
-                        product
-                    )
+            });
 
         });
 
     }
 
 
-    // ======================================
+    // ==========================================
     // ۳. بدون Price
-    // ======================================
+    // ==========================================
 
     function testMissingPrice() {
 
-        const need =
-            createBaseNeed();
+        runTest(function () {
 
-        const product =
-            createBaseProduct();
+            const need =
+                createBaseNeed();
 
+            const product =
+                createBaseProduct();
 
-        delete product.price;
+            delete product.price;
 
+            show({
 
-        show({
+                description:
+                    "محصول فاقد price است.",
 
-            description:
-                "محصول فاقد price است.",
+                result:
+                    DigiyarProductScoring
+                        .scoreProduct(
+                            need,
+                            product
+                        )
 
-            result:
-                DigiyarProductScoring
-                    .scoreProduct(
-                        need,
-                        product
-                    )
+            });
 
         });
 
     }
 
 
-    // ======================================
+    // ==========================================
     // ۴. بدون Features
-    // ======================================
+    // ==========================================
 
     function testMissingFeatures() {
 
-        const need =
-            createBaseNeed();
+        runTest(function () {
 
-        const product =
-            createBaseProduct();
+            const need =
+                createBaseNeed();
 
+            const product =
+                createBaseProduct();
 
-        need.requirements = [
+            need.requirements = [
 
-            {
+                {
+                    id: "5G",
+                    value: true
+                }
 
-                id: "5G",
+            ];
 
-                value: true
+            delete product.features;
 
-            }
+            show({
 
-        ];
+                description:
+                    "محصول فاقد features است.",
 
+                result:
+                    DigiyarProductScoring
+                        .scoreProduct(
+                            need,
+                            product
+                        )
 
-        delete product.features;
-
-
-        show({
-
-            description:
-                "محصول فاقد features است.",
-
-            result:
-                DigiyarProductScoring
-                    .scoreProduct(
-                        need,
-                        product
-                    )
+            });
 
         });
 
     }
 
 
-    // ======================================
+    // ==========================================
     // ۵. Need ناقص
-    // ======================================
+    // ==========================================
 
     function testIncompleteNeed() {
 
-        const product =
-            createBaseProduct();
+        runTest(function () {
 
+            const product =
+                createBaseProduct();
 
-        const need = {
-
-            category: "mobile"
-
-        };
-
-
-        show({
-
-            description:
-                "Need ناقص است.",
-
-            result:
-                DigiyarProductScoring
-                    .scoreProduct(
-                        need,
-                        product
-                    )
-
-        });
-
-    }
-
-
-    // ======================================
-    // ۶. Budget ناقص
-    // ======================================
-
-    function testIncompleteBudget() {
-
-        const need =
-            createBaseNeed();
-
-        const product =
-            createBaseProduct();
-
-
-        delete need.budget;
-
-
-        show({
-
-            description:
-                "Budget از Need حذف شده است.",
-
-            result:
-                DigiyarProductScoring
-                    .scoreProduct(
-                        need,
-                        product
-                    )
-
-        });
-
-    }
-
-
-    // ======================================
-    // ۷. بدون Operator
-    // ======================================
-
-    function testMissingOperator() {
-
-        const need =
-            createBaseNeed();
-
-        const product =
-            createBaseProduct();
-
-
-        need.constraints = [
-
-            {
-
-                id: "weight",
-
-                value: 200
-
-            }
-
-        ];
-
-
-        show({
-
-            description:
-                "Constraint فاقد operator است.",
-
-            result:
-                DigiyarProductScoring
-                    .scoreProduct(
-                        need,
-                        product
-                    )
-
-        });
-
-    }
-
-
-    // ======================================
-    // ۸. Operator نامعتبر
-    // ======================================
-
-    function testInvalidOperator() {
-
-        const need =
-            createBaseNeed();
-
-        const product =
-            createBaseProduct();
-
-
-        need.constraints = [
-
-            {
-
-                id: "weight",
-
-                operator: "invalid",
-
-                value: 200
-
-            }
-
-        ];
-
-
-        show({
-
-            description:
-                "Operator عمداً نامعتبر است.",
-
-            result:
-                DigiyarProductScoring
-                    .scoreProduct(
-                        need,
-                        product
-                    )
-
-        });
-
-    }
-
-
-    // ======================================
-    // ۹. مقدار غیرعددی
-    // ======================================
-
-    function testNonNumericConstraint() {
-
-        const need =
-            createBaseNeed();
-
-        const product =
-            createBaseProduct();
-
-
-        need.constraints = [
-
-            {
-
-                id: "weight",
-
-                operator: "lte",
-
-                value: "دویست"
-
-            }
-
-        ];
-
-
-        show({
-
-            description:
-                "مقدار Constraint غیرعددی است.",
-
-            result:
-                DigiyarProductScoring
-                    .scoreProduct(
-                        need,
-                        product
-                    )
-
-        });
-
-    }
-
-
-    // ======================================
-    // ۱۰. محصولات خالی
-    // ======================================
-
-    function testEmptyProducts() {
-
-        const need =
-            createBaseNeed();
-
-
-        show({
-
-            description:
-                "لیست محصولات خالی است.",
-
-            result:
-                DigiyarProductScoring
-                    .rankProducts(
-                        need,
-                        []
-                    )
-
-        });
-
-    }
-
-
-    // ======================================
-    // ۱۱. Product برابر Null
-    // ======================================
-
-    function testNullProduct() {
-
-        const need =
-            createBaseNeed();
-
-
-        show({
-
-            description:
-                "Product برابر Null است.",
-
-            result:
-                DigiyarProductScoring
-                    .scoreProduct(
-                        need,
-                        null
-                    )
-
-        });
-
-    }
-
-
-    // ======================================
-    // ۱۲. ترکیب چند ورودی خراب
-    // ======================================
-
-    function testMultipleBrokenInputs() {
-
-        const need = {
-
-            category: "mobile",
-
-            budget: {
-
-                max: null
-
-            },
-
-            priorities: null,
-
-            requirements: [
-
-                {
-
-                    id: "5G",
-
-                    value: true
-
-                }
-
-            ],
-
-            constraints: [
-
-                {
-
-                    id: "weight",
-
-                    operator: "invalid",
-
-                    value: null
-
-                }
-
-            ]
-
-        };
-
-
-        const products = [
-
-            null,
-
-            {},
-
-            {
+            const need = {
 
                 category: "mobile"
 
-            }
+            };
 
-        ];
+            show({
+
+                description:
+                    "Need ناقص است.",
+
+                result:
+                    DigiyarProductScoring
+                        .scoreProduct(
+                            need,
+                            product
+                        )
+
+            });
+
+        });
+
+    }
 
 
-        let resultData;
+    // ==========================================
+    // ۶. Budget ناقص
+    // ==========================================
+
+    function testIncompleteBudget() {
+
+        runTest(function () {
+
+            const need =
+                createBaseNeed();
+
+            const product =
+                createBaseProduct();
+
+            delete need.budget;
+
+            show({
+
+                description:
+                    "Budget از Need حذف شده است.",
+
+                result:
+                    DigiyarProductScoring
+                        .scoreProduct(
+                            need,
+                            product
+                        )
+
+            });
+
+        });
+
+    }
 
 
-        try {
+    // ==========================================
+    // ۷. بدون Operator
+    // ==========================================
 
-            resultData =
+    function testMissingOperator() {
+
+        runTest(function () {
+
+            const need =
+                createBaseNeed();
+
+            const product =
+                createBaseProduct();
+
+            need.constraints = [
+
+                {
+                    id: "weight",
+                    value: 200
+                }
+
+            ];
+
+            show({
+
+                description:
+                    "Constraint فاقد operator است.",
+
+                result:
+                    DigiyarProductScoring
+                        .scoreProduct(
+                            need,
+                            product
+                        )
+
+            });
+
+        });
+
+    }
+
+
+    // ==========================================
+    // ۸. Operator نامعتبر
+    // ==========================================
+
+    function testInvalidOperator() {
+
+        runTest(function () {
+
+            const need =
+                createBaseNeed();
+
+            const product =
+                createBaseProduct();
+
+            need.constraints = [
+
+                {
+                    id: "weight",
+                    operator: "invalid",
+                    value: 200
+                }
+
+            ];
+
+            show({
+
+                description:
+                    "Operator عمداً نامعتبر است.",
+
+                result:
+                    DigiyarProductScoring
+                        .scoreProduct(
+                            need,
+                            product
+                        )
+
+            });
+
+        });
+
+    }
+
+
+    // ==========================================
+    // ۹. مقدار غیرعددی
+    // ==========================================
+
+    function testNonNumericConstraint() {
+
+        runTest(function () {
+
+            const need =
+                createBaseNeed();
+
+            const product =
+                createBaseProduct();
+
+            need.constraints = [
+
+                {
+                    id: "weight",
+                    operator: "lte",
+                    value: "دویست"
+                }
+
+            ];
+
+            show({
+
+                description:
+                    "مقدار Constraint غیرعددی است.",
+
+                result:
+                    DigiyarProductScoring
+                        .scoreProduct(
+                            need,
+                            product
+                        )
+
+            });
+
+        });
+
+    }
+
+
+    // ==========================================
+    // ۱۰. محصولات خالی
+    // ==========================================
+
+    function testEmptyProducts() {
+
+        runTest(function () {
+
+            const need =
+                createBaseNeed();
+
+            show({
+
+                description:
+                    "لیست محصولات خالی است.",
+
+                result:
+                    DigiyarProductScoring
+                        .rankProducts(
+                            need,
+                            []
+                        )
+
+            });
+
+        });
+
+    }
+
+
+    // ==========================================
+    // ۱۱. Product برابر Null
+    // ==========================================
+
+    function testNullProduct() {
+
+        runTest(function () {
+
+            const need =
+                createBaseNeed();
+
+            show({
+
+                description:
+                    "Product برابر Null است.",
+
+                result:
+                    DigiyarProductScoring
+                        .scoreProduct(
+                            need,
+                            null
+                        )
+
+            });
+
+        });
+
+    }
+
+
+    // ==========================================
+    // ۱۲. ترکیب چند ورودی خراب
+    // ==========================================
+
+    function testMultipleBrokenInputs() {
+
+        runTest(function () {
+
+            const need = {
+
+                category: "mobile",
+
+                budget: {
+
+                    max: null
+
+                },
+
+                priorities: null,
+
+                requirements: [
+
+                    {
+
+                        id: "5G",
+
+                        value: true
+
+                    }
+
+                ],
+
+                constraints: [
+
+                    {
+
+                        id: "weight",
+
+                        operator: "invalid",
+
+                        value: null
+
+                    }
+
+                ]
+
+            };
+
+
+            const products = [
+
+                null,
+
+                {},
+
+                {
+
+                    category: "mobile"
+
+                }
+
+            ];
+
+
+            const resultData =
                 DigiyarProductScoring
                     .rankProducts(
                         need,
                         products
                     );
 
-        } catch (error) {
 
-            resultData = {
+            show({
 
-                crashed: true,
+                description:
+                    "ترکیب چند ورودی خراب.",
 
-                error:
-                    error.message
+                result:
+                    resultData
 
-            };
-
-        }
-
-
-        show({
-
-            description:
-                "ترکیب چند ورودی خراب.",
-
-            result:
-                resultData
+            });
 
         });
 
@@ -808,4 +904,5 @@
 
 </script>
 
-</body></html>
+</body>
+</html>
