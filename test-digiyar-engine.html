@@ -1,0 +1,421 @@
+<!DOCTYPE html><html lang="fa" dir="rtl"><head><meta charset="UTF-8">
+
+<meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+>
+
+<title>تست نهایی موتور هوشمند دیجی‌یار</title>
+
+<style>
+
+    body {
+        font-family: Tahoma, sans-serif;
+        padding: 20px;
+        line-height: 2;
+        background: #ffffff;
+    }
+
+    h2 {
+        margin-bottom: 10px;
+    }
+
+    .status {
+        padding: 12px;
+        margin-bottom: 20px;
+        border-radius: 6px;
+        background: #f3f3f3;
+        font-weight: bold;
+    }
+
+    button {
+        width: 100%;
+        padding: 14px;
+        font-size: 16px;
+        cursor: pointer;
+        margin-bottom: 15px;
+    }
+
+    pre {
+        background: #f3f3f3;
+        padding: 15px;
+        white-space: pre-wrap;
+        direction: ltr;
+        text-align: left;
+        overflow-x: auto;
+    }
+
+</style>
+
+</head><body><h2>
+    تست نهایی موتور هوشمند دیجی‌یار
+</h2><div
+    id="status"
+    class="status"
+>
+    در حال بررسی موتورهای دیجی‌یار...
+</div><button onclick="runFinalTest()">
+    اجرای تست نهایی
+</button><pre id="result">
+هنوز تست اجرا نشده است.
+</pre><!-- ==========================================
+     موتورهای دیجی‌یار
+     ترتیب بارگذاری مهم است
+     ========================================== --><script src="js/user-profile.js?v=1.2"></script><script src="js/need-engine.js?v=1.3"></script><script src="js/product-scoring.js?v=1.2"></script><script src="js/product-catalog.js?v=1.0"></script><script src="js/digiyar-engine.js?v=1.0"></script><script>
+
+    const status =
+        document.getElementById("status");
+
+    const result =
+        document.getElementById("result");
+
+
+    // ==========================================
+    // بررسی وجود موتورها
+    // ==========================================
+
+    function checkEngines() {
+
+        const engines = {
+
+            userProfile:
+                typeof DigiyarUserProfile !==
+                "undefined",
+
+            needEngine:
+                typeof DigiyarNeedEngine !==
+                "undefined",
+
+            productScoring:
+                typeof DigiyarProductScoring !==
+                "undefined",
+
+            productCatalog:
+                typeof DigiyarProductCatalog !==
+                "undefined",
+
+            digiyarEngine:
+                typeof DigiyarEngine !==
+                "undefined"
+
+        };
+
+
+        const allLoaded =
+            Object.values(engines)
+                .every(Boolean);
+
+
+        return {
+            allLoaded: allLoaded,
+            engines: engines
+        };
+
+    }
+
+
+    // ==========================================
+    // اجرای تست نهایی
+    // ==========================================
+
+    function runFinalTest() {
+
+        result.textContent =
+            "در حال اجرای تست...";
+
+
+        try {
+
+            const engineCheck =
+                checkEngines();
+
+
+            if (!engineCheck.allLoaded) {
+
+                status.textContent =
+                    "خطا: یکی از موتورهای دیجی‌یار Load نشده است.";
+
+
+                result.textContent =
+                    JSON.stringify(
+                        {
+                            success: false,
+                            stage: "engine-loading",
+                            engineCheck: engineCheck
+                        },
+                        null,
+                        2
+                    );
+
+                return;
+            }
+
+
+            // ======================================
+            // Need واقعی آزمایشی
+            // ======================================
+
+            const need = {
+
+                category: "mobile",
+
+                intent: "purchase",
+
+                budget: {
+
+                    min: null,
+
+                    max: 15000000
+
+                },
+
+                priorities: [
+
+                    "camera",
+
+                    "battery",
+
+                    "value"
+
+                ],
+
+                requirements: [],
+
+                constraints: [],
+
+                context: {
+
+                    usage: "عکاسی"
+
+                },
+
+                confidence: 100
+
+            };
+
+
+            // ======================================
+            // محصول آزمایشی
+            // ======================================
+
+            const rawProduct = {
+
+                id: "final-test-phone",
+
+                category: "mobile",
+
+                name: "Final Test Phone",
+
+                brand: "Digiyar Test",
+
+                model: "FT-01",
+
+                price: {
+
+                    current: 12000000,
+
+                    original: 14000000,
+
+                    currency: "IRR"
+
+                },
+
+                features: {
+
+                    "5G": true,
+
+                    weight: 190
+
+                },
+
+                scores: {
+
+                    camera: 95,
+
+                    battery: 90,
+
+                    performance: 85,
+
+                    display: 85,
+
+                    value: 92
+
+                },
+
+                usageScores: {
+
+                    "عکاسی": 95,
+
+                    "بازی": 80,
+
+                    "کار و استفاده روزمره": 88,
+
+                    "تماشای محتوا": 86
+
+                }
+
+            };
+
+
+            // ======================================
+            // عبور محصول از Catalog
+            // ======================================
+
+            const product =
+                DigiyarProductCatalog
+                    .createProduct(
+                        rawProduct
+                    );
+
+
+            const validation =
+                DigiyarProductCatalog
+                    .validateProduct(
+                        product
+                    );
+
+
+            // ======================================
+            // اجرای موتور هوشمند
+            // ======================================
+
+            const recommendation =
+                DigiyarEngine
+                    .recommend(
+                        need,
+                        [
+                            product
+                        ]
+                    );
+
+
+            // ======================================
+            // بررسی نتیجه
+            // ======================================
+
+            const hasRecommendation =
+                recommendation
+                &&
+                recommendation.success === true
+                &&
+                recommendation.ready === true
+                &&
+                recommendation
+                    .recommendations
+                    .eligibleProducts
+                    .length > 0;
+
+
+            const finalSuccess =
+                validation.valid &&
+                hasRecommendation;
+
+
+            if (finalSuccess) {
+
+                status.textContent =
+                    "تست نهایی موفق بود؛ موتور هوشمند دیجی‌یار آماده است.";
+
+            } else {
+
+                status.textContent =
+                    "تست نهایی کامل نشد؛ جزئیات را بررسی کن.";
+
+            }
+
+
+            result.textContent =
+                JSON.stringify(
+                    {
+
+                        success:
+                            finalSuccess,
+
+                        stage:
+                            "Need → Catalog → Scoring → Recommendation",
+
+                        engines:
+                            engineCheck,
+
+                        productValidation:
+                            validation,
+
+                        catalog: {
+
+                            total: 1,
+
+                            prepared:
+                                recommendation
+                                    .catalog
+                                    .prepared
+
+                        },
+
+                        recommendation:
+                            recommendation
+
+                    },
+                    null,
+                    2
+                );
+
+
+        } catch (error) {
+
+            status.textContent =
+                "خطای اجرایی در تست نهایی.";
+
+
+            result.textContent =
+                JSON.stringify(
+                    {
+
+                        success: false,
+
+                        crashed: true,
+
+                        error:
+                            error &&
+                            error.message
+                                ? error.message
+                                : "خطای ناشناخته",
+
+                        stack:
+                            error &&
+                            error.stack
+                                ? error.stack
+                                : null
+
+                    },
+                    null,
+                    2
+                );
+
+        }
+
+    }
+
+
+    // ==========================================
+    // بررسی اولیه Load
+    // ==========================================
+
+    const initialCheck =
+        checkEngines();
+
+
+    if (
+        initialCheck.allLoaded
+    ) {
+
+        status.textContent =
+            "همه موتورهای دیجی‌یار با موفقیت Load شدند.";
+
+    } else {
+
+        status.textContent =
+            "خطا: یکی از موتورهای دیجی‌یار Load نشده است.";
+
+    }
+
+</script></body></html>
