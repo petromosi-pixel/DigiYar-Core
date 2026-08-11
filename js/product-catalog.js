@@ -1,16 +1,18 @@
 // ==========================================
 // Digiyar 2.0 — Product Catalog
-// Version: 1.0
+// Version: 1.1
 // ==========================================
 //
-// مسئولیت این فایل:
-// 1. نگهداری ساختار استاندارد Product
-// 2. اعتبارسنجی محصولات
-// 3. فیلتر کردن محصولات معتبر بر اساس Category
-// 4. آماده‌سازی Catalog برای Product Scoring
+// مسئولیت:
+// 1. ساختار استاندارد Product
+// 2. اعتبارسنجی Product
+// 3. فیلتر Category
+// 4. آماده‌سازی برای Scoring
+// 5. اتصال Product URL به Affiliate Resolver
 //
-// این فایل فعلاً هیچ محصول واقعی یا ساختگی
-// را به‌صورت پیش‌فرض وارد نمی‌کند.
+// نکته:
+// Product Catalog خودش لینک افیلیت را تولید نمی‌کند.
+// این کار فقط توسط DigiyarAffiliateResolver انجام می‌شود.
 // ==========================================
 
 (function (window) {
@@ -22,7 +24,14 @@
 
 
         // ==========================================
-        // ایجاد محصول استاندارد
+        // نسخه
+        // ==========================================
+
+        version: "1.1",
+
+
+        // ==========================================
+        // ایجاد Product استاندارد
         // ==========================================
 
         createProduct(data = {}) {
@@ -92,13 +101,29 @@
                         : {},
 
 
+                // --------------------------------------
+                // فروشگاه
+                // --------------------------------------
+
                 platform:
                     data.platform ?? null,
 
 
+                // --------------------------------------
+                // URL اصلی محصول
+                // --------------------------------------
+
                 url:
                     data.url ?? null,
 
+
+                // --------------------------------------
+                // URL افیلیت
+                //
+                // می‌تواند null باشد.
+                // Resolver در مرحله آماده‌سازی
+                // آن را تولید می‌کند.
+                // --------------------------------------
 
                 affiliateUrl:
                     data.affiliateUrl ?? null,
@@ -117,17 +142,13 @@
 
 
         // ==========================================
-        // اعتبارسنجی یک Product
+        // اعتبارسنجی Product
         // ==========================================
 
         validateProduct(product) {
 
             const errors = [];
 
-
-            // --------------------------------------
-            // Product باید Object باشد
-            // --------------------------------------
 
             if (
                 !product ||
@@ -211,7 +232,8 @@
                     "اطلاعات قیمت محصول موجود نیست."
                 );
 
-            } else if (
+            }
+            else if (
                 typeof product.price.current !== "number" ||
                 !Number.isFinite(
                     product.price.current
@@ -344,7 +366,8 @@
                             product
                         );
 
-                    } else {
+                    }
+                    else {
 
                         invalidProducts.push({
 
@@ -393,7 +416,9 @@
         ) {
 
             if (!Array.isArray(products)) {
+
                 return [];
+
             }
 
 
@@ -417,6 +442,146 @@
 
                 }
             );
+
+        },
+
+
+        // ==========================================
+        // دریافت Affiliate URL
+        // ==========================================
+        //
+        // Product Catalog فقط Resolver را صدا می‌زند.
+        // منطق Affilio اینجا تکرار نمی‌شود.
+        // ==========================================
+
+        resolveAffiliateUrl(product) {
+
+            if (!product) {
+
+                return null;
+
+            }
+
+
+            if (
+                typeof window.DigiyarAffiliateResolver ===
+                    "undefined"
+            ) {
+
+                return null;
+
+            }
+
+
+            if (
+                typeof window.DigiyarAffiliateResolver.resolve !==
+                    "function"
+            ) {
+
+                return null;
+
+            }
+
+
+            if (
+                typeof product.platform !== "string" ||
+                product.platform.trim() === ""
+            ) {
+
+                return null;
+
+            }
+
+
+            if (
+                typeof product.url !== "string" ||
+                product.url.trim() === ""
+            ) {
+
+                return null;
+
+            }
+
+
+            const result =
+                window.DigiyarAffiliateResolver.resolve(
+                    product.platform,
+                    product.url
+                );
+
+
+            if (
+                !result ||
+                result.success !== true ||
+                typeof result.affiliateUrl !== "string"
+            ) {
+
+                return null;
+
+            }
+
+
+            return result.affiliateUrl;
+
+        },
+
+
+        // ==========================================
+        // آماده‌سازی یک Product برای Affiliate
+        // ==========================================
+        //
+        // Product اصلی تغییر داده نمی‌شود.
+        // یک Object جدید برگردانده می‌شود.
+        // ==========================================
+
+        prepareForAffiliate(product) {
+
+            if (!product) {
+
+                return null;
+
+            }
+
+
+            const affiliateUrl =
+                this.resolveAffiliateUrl(
+                    product
+                );
+
+
+            return {
+
+                ...product,
+
+                affiliateUrl:
+                    affiliateUrl
+
+            };
+
+        },
+
+
+        // ==========================================
+        // آماده‌سازی چند Product برای Affiliate
+        // ==========================================
+
+        prepareProductsForAffiliate(products) {
+
+            if (!Array.isArray(products)) {
+
+                return [];
+
+            }
+
+
+            return products
+                .map(
+                    product =>
+                        this.prepareForAffiliate(
+                            product
+                        )
+                )
+                .filter(Boolean);
 
         },
 
@@ -461,6 +626,22 @@
                     );
 
             }
+
+
+            /*
+             * --------------------------------------
+             * اتصال به Affiliate Resolver
+             * --------------------------------------
+             *
+             * از اینجا به بعد هر Product معتبر
+             * هنگام ورود به Pipeline، در صورت
+             * امکان، affiliateUrl خواهد داشت.
+             */
+
+            prepared =
+                this.prepareProductsForAffiliate(
+                    prepared
+                );
 
 
             return prepared;
@@ -562,7 +743,7 @@
 
 
         // ==========================================
-        // حذف Product بر اساس ID
+        // حذف Product
         // ==========================================
 
         removeProduct(
@@ -587,7 +768,7 @@
 
 
         // ==========================================
-        // پیدا کردن Product بر اساس ID
+        // پیدا کردن Product
         // ==========================================
 
         findProduct(
@@ -671,7 +852,8 @@
 
                         categories[category]++;
 
-                    } else {
+                    }
+                    else {
 
                         invalid++;
 
@@ -739,5 +921,5 @@
 
 
 // ==========================================
-// Digiyar Product Catalog 1.0 — END
+// Digiyar Product Catalog 1.1 — END
 // ==========================================
