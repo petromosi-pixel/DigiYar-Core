@@ -1,26 +1,6 @@
 // ==========================================
 // Digiyar 2.2 — Main Application
-// Version: 2.1
-// ==========================================
-//
-// مسئولیت:
-// 1. راه‌اندازی رابط کاربری
-// 2. نمایش فروشگاه‌ها
-// 3. جستجوی فروشگاه‌ها
-// 4. مدیریت ورود به فروشگاه
-// 5. اتصال Smart Recommendation
-//
-// ترتیب وابستگی‌ها:
-// platforms.js
-// user-profile.js
-// affiliate-resolver.js
-// product-source.js
-// need-engine.js
-// product-catalog.js
-// product-scoring.js
-// digiyar-engine.js
-// app.js
-//
+// Version: 2.2
 // ==========================================
 
 (function (window, document) {
@@ -28,13 +8,9 @@
     "use strict";
 
 
-    // ==========================================
-    // وضعیت برنامه
-    // ==========================================
-
     const DigiyarApp = {
 
-        version: "2.1",
+        version: "2.2",
 
         state: {
 
@@ -92,10 +68,6 @@
             let platforms = [];
 
 
-            // --------------------------------------
-            // منبع اصلی
-            // --------------------------------------
-
             if (
                 window.DigiyarPlatforms &&
                 typeof window.DigiyarPlatforms.getPrepared ===
@@ -108,19 +80,13 @@
             }
 
 
-            // --------------------------------------
-            // سازگاری با نسخه قدیمی
-            // --------------------------------------
-
             if (
                 !Array.isArray(platforms) ||
                 platforms.length === 0
             ) {
 
                 if (
-                    Array.isArray(
-                        window.platforms
-                    )
+                    Array.isArray(window.platforms)
                 ) {
 
                     platforms =
@@ -131,10 +97,6 @@
             }
 
 
-            // --------------------------------------
-            // فقط فروشگاه‌های فعال
-            // --------------------------------------
-
             platforms =
                 platforms.filter(
                     platform =>
@@ -142,10 +104,6 @@
                         platform.active === true
                 );
 
-
-            // --------------------------------------
-            // مرتب‌سازی بر اساس Priority
-            // --------------------------------------
 
             platforms.sort(
                 (a, b) => {
@@ -176,7 +134,7 @@
 
 
         // ==========================================
-        // اتصال Search
+        // جستجوی فروشگاه
         // ==========================================
 
         bindSearch() {
@@ -218,12 +176,10 @@
                                             platform.name || ""
                                         ).toLowerCase();
 
-
                                     const description =
                                         String(
                                             platform.description || ""
                                         ).toLowerCase();
-
 
                                     return (
                                         name.includes(query) ||
@@ -280,7 +236,7 @@
             ) {
 
                 container.innerHTML = `
-                    <div class="empty-state">
+                    <div class="no-results">
                         فروشگاهی مطابق جستجوی شما پیدا نشد.
                     </div>
                 `;
@@ -329,112 +285,18 @@
                     "article"
                 );
 
-
             card.className =
                 "platform-card";
 
 
-            // --------------------------------------
-            // بخش اطلاعات
-            // --------------------------------------
-
-            const info =
-                document.createElement(
-                    "div"
-                );
-
-
-            info.className =
-                "platform-info";
-
-
-            // --------------------------------------
-            // لوگو
-            // --------------------------------------
-
-            const image =
-                document.createElement(
-                    "img"
-                );
-
-
-            image.className =
-                "platform-logo";
-
-
-            image.src =
-                platform.image || "";
-
-
-            image.alt =
-                platform.name || "فروشگاه";
-
-
-            image.loading =
-                "lazy";
-
-
-            image.onerror =
-                function () {
-
-                    this.style.display =
-                        "none";
-
-                };
-
-
-            // --------------------------------------
-            // نام فروشگاه
-            // --------------------------------------
-
-            const name =
-                document.createElement(
-                    "h3"
-                );
-
-
-            name.textContent =
-                platform.name || "فروشگاه";
-
-
-            // --------------------------------------
-            // توضیح
-            // --------------------------------------
-
-            const description =
-                document.createElement(
-                    "p"
-                );
-
-
-            description.textContent =
-                platform.description || "";
-
-
-            info.appendChild(
-                image
-            );
-
-
-            info.appendChild(
-                name
-            );
-
-
-            info.appendChild(
-                description
-            );
-
-
-            // --------------------------------------
-            // بخش عملیات
-            // --------------------------------------
+            // ======================================
+            // دکمه
+            // ======================================
 
             const actions =
                 document.createElement(
                     "div"
                 );
-
 
             actions.className =
                 "platform-actions";
@@ -445,13 +307,17 @@
                     "button"
                 );
 
-
             button.type =
                 "button";
 
-
+            /*
+             * مهم:
+             * CSS دقیقاً همین کلاس را استایل می‌کند.
+             */
             button.className =
-                "platform-button";
+                platform.hasAffiliate
+                    ? "platform-btn"
+                    : "coming-soon";
 
 
             button.textContent =
@@ -489,17 +355,99 @@
             );
 
 
-            // --------------------------------------
-            // ساخت کارت
-            // --------------------------------------
+            // ======================================
+            // اطلاعات فروشگاه
+            // ======================================
+
+            const info =
+                document.createElement(
+                    "div"
+                );
+
+            info.className =
+                "platform-info";
+
+
+            const name =
+                document.createElement(
+                    "h3"
+                );
+
+            name.textContent =
+                platform.name ||
+                "فروشگاه";
+
+
+            const description =
+                document.createElement(
+                    "p"
+                );
+
+            description.textContent =
+                platform.description ||
+                "";
+
+
+            info.appendChild(
+                name
+            );
+
+            info.appendChild(
+                description
+            );
+
+
+            // ======================================
+            // لوگو
+            // ======================================
+
+            const image =
+                document.createElement(
+                    "img"
+                );
+
+            image.className =
+                "platform-logo";
+
+
+            image.src =
+                platform.image || "";
+
+
+            image.alt =
+                platform.name ||
+                "لوگوی فروشگاه";
+
+
+            image.loading =
+                "lazy";
+
+
+            image.onerror =
+                function () {
+
+                    this.style.display =
+                        "none";
+
+                };
+
+
+            // ======================================
+            // ترتیب نهایی کارت
+            //
+            // دکمه ← اطلاعات ← لوگو
+            // ======================================
+
+            card.appendChild(
+                actions
+            );
 
             card.appendChild(
                 info
             );
 
-
             card.appendChild(
-                actions
+                image
             );
 
 
@@ -522,10 +470,6 @@
             let url = null;
 
 
-            // --------------------------------------
-            // استفاده از Registry
-            // --------------------------------------
-
             if (
                 window.DigiyarPlatforms &&
                 typeof window.DigiyarPlatforms.getUrl ===
@@ -539,10 +483,6 @@
 
             }
 
-
-            // --------------------------------------
-            // Fallback
-            // --------------------------------------
 
             if (
                 !url &&
@@ -576,7 +516,7 @@
 
 
         // ==========================================
-        // اتصال بخش پیشنهاد هوشمند
+        // اتصال پیشنهاد هوشمند
         // ==========================================
 
         bindSmartRecommendation() {
@@ -585,7 +525,6 @@
                 document.getElementById(
                     "smartRecommendation"
                 );
-
 
             const results =
                 document.getElementById(
@@ -603,16 +542,6 @@
             }
 
 
-            /*
-             * در این مرحله محصول واقعی هنوز
-             * از Feed/API دریافت نمی‌شود.
-             *
-             * بنابراین بخش پیشنهاد هوشمند
-             * فقط زمانی نمایش داده می‌شود
-             * که محصول واقعی به Engine برسد.
-             */
-
-
             this.tryLoadSmartRecommendations(
                 section,
                 results
@@ -622,17 +551,13 @@
 
 
         // ==========================================
-        // تلاش برای دریافت پیشنهادها
+        // دریافت پیشنهادها
         // ==========================================
 
         async tryLoadSmartRecommendations(
             section,
             results
         ) {
-
-            // --------------------------------------
-            // بررسی Product Source
-            // --------------------------------------
 
             if (
                 !window.DigiyarProductSource ||
@@ -660,12 +585,6 @@
                     ) ||
                     sourceResult.products.length === 0
                 ) {
-
-                    /*
-                     * فعلاً چیزی نمایش نمی‌دهیم.
-                     * چون محصول ساختگی نباید وارد
-                     * سیستم شود.
-                     */
 
                     return;
 
@@ -696,7 +615,7 @@
 
 
         // ==========================================
-        // نمایش پیشنهادهای هوشمند
+        // نمایش پیشنهادها
         // ==========================================
 
         renderSmartRecommendations(
@@ -752,7 +671,7 @@
 
 
         // ==========================================
-        // ساخت کارت Product
+        // ساخت کارت محصول
         // ==========================================
 
         createProductCard(product) {
@@ -767,39 +686,27 @@
                     "article"
                 );
 
-
             card.className =
                 "product-card";
 
-
-            // --------------------------------------
-            // نام
-            // --------------------------------------
 
             const name =
                 document.createElement(
                     "h3"
                 );
 
-
             name.textContent =
                 product.name ||
                 "محصول";
 
-
-            // --------------------------------------
-            // برند / مدل
-            // --------------------------------------
 
             const meta =
                 document.createElement(
                     "p"
                 );
 
-
             const brand =
                 product.brand || "";
-
 
             const model =
                 product.model || "";
@@ -811,15 +718,10 @@
                     .join(" ");
 
 
-            // --------------------------------------
-            // قیمت
-            // --------------------------------------
-
             const price =
                 document.createElement(
                     "p"
                 );
-
 
             price.className =
                 "product-price";
@@ -847,23 +749,16 @@
             }
 
 
-            // --------------------------------------
-            // دکمه خرید
-            // --------------------------------------
-
             const button =
                 document.createElement(
                     "button"
                 );
 
-
             button.type =
                 "button";
 
-
             button.className =
                 "product-button";
-
 
             button.textContent =
                 "مشاهده و خرید";
@@ -886,7 +781,9 @@
             );
 
 
-            if (meta.textContent) {
+            if (
+                meta.textContent
+            ) {
 
                 card.appendChild(
                     meta
@@ -899,7 +796,6 @@
                 price
             );
 
-
             card.appendChild(
                 button
             );
@@ -911,7 +807,7 @@
 
 
         // ==========================================
-        // باز کردن Product
+        // باز کردن محصول با Affiliate
         // ==========================================
 
         openProduct(product) {
@@ -933,9 +829,7 @@
                 product.url;
 
 
-            if (
-                !originalUrl
-            ) {
+            if (!originalUrl) {
 
                 console.warn(
                     "URL محصول موجود نیست."
@@ -945,10 +839,6 @@
 
             }
 
-
-            // --------------------------------------
-            // Affiliate Resolver
-            // --------------------------------------
 
             if (
                 window.DigiyarAffiliateResolver &&
@@ -978,11 +868,6 @@
 
             }
 
-
-            // --------------------------------------
-            // اگر Affiliate ساخته نشد،
-            // مستقیماً به Product برو.
-            // --------------------------------------
 
             window.location.href =
                 originalUrl;
@@ -1029,5 +914,5 @@
 
 
 // ==========================================
-// Digiyar Main Application 2.1 — END
+// Digiyar Main Application 2.2 — END
 // ==========================================
