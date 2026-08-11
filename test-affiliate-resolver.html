@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+
+<head>
+    <meta charset="UTF-8">
+
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+
+    <title>Digiyar Affiliate Resolver Test</title>
+
+    <style>
+
+        body {
+            font-family: Tahoma, Arial, sans-serif;
+            background: #f5f6fa;
+            padding: 20px;
+            line-height: 2;
+        }
+
+        button {
+            padding: 10px 18px;
+            margin: 6px;
+            cursor: pointer;
+        }
+
+        pre {
+            background: #fff;
+            padding: 15px;
+            border-radius: 10px;
+            white-space: pre-wrap;
+            word-break: break-word;
+        }
+
+        .success {
+            color: green;
+            font-weight: bold;
+        }
+
+        .error {
+            color: red;
+            font-weight: bold;
+        }
+
+    </style>
+
+</head>
+
+
+<body>
+
+<h2>
+    تست Affiliate Resolver دیجی‌یار
+</h2>
+
+
+<button onclick="testDigikala()">
+    تست دیجی‌کالا
+</button>
+
+
+<button onclick="testSnappshop()">
+    تست اسنپ‌شاپ
+</button>
+
+
+<button onclick="testUnknown()">
+    تست فروشگاه بدون Resolver
+</button>
+
+
+<pre id="result">
+نتیجه تست اینجا نمایش داده می‌شود.
+</pre>
+
+
+<script src="js/affiliate-resolver.js"></script>
+
+
+<script>
+
+const resultBox =
+    document.getElementById("result");
+
+
+function showResult(result) {
+
+    resultBox.textContent =
+        JSON.stringify(
+            result,
+            null,
+            2
+        );
+
+}
+
+
+/* =========================================
+   Galaxy A16 — دیجی‌کالا
+========================================= */
+
+function testDigikala() {
+
+    const productUrl =
+        "https://www.digikala.com/product/dkp-17464490/%DA%AF%D9%88%D8%B4%DB%8C%20%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84%20%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF%20%D9%85%D8%AF%D9%84%20Galaxy%20A16%204G%20%D8%AF%D9%88%20%D8%B3%DB%8C%D9%85%20%DA%A9%D8%A7%D8%B1%D8%AA%20%D8%B8%D8%B1%D9%81%DB%8C%D8%AA%20128%20%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA%20%D9%88%20%D8%B1%D9%85%206%20%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA%20-%20%D9%88%DB%8C%D8%AA%D9%86%D8%A7%D9%85/?variant_id=74440097&product_id=17464490";
+
+
+    const result =
+        DigiyarAffiliateResolver.resolve(
+            "digikala",
+            productUrl
+        );
+
+
+    showResult(result);
+
+}
+
+
+/* =========================================
+   اسنپ‌شاپ
+========================================= */
+
+function testSnappshop() {
+
+    const productUrl =
+        "https://snappshop.ir/";
+
+
+    const result =
+        DigiyarAffiliateResolver.resolve(
+            "snappshop",
+            productUrl
+        );
+
+
+    showResult(result);
+
+}
+
+
+/* =========================================
+   فروشگاه ناشناخته
+========================================= */
+
+function testUnknown() {
+
+    const result =
+        DigiyarAffiliateResolver.resolve(
+            "unknown-store",
+            "https://example.com/product/test"
+        );
+
+
+    showResult(result);
+
+}
+
+</script>
+
+
+</body>
+
+</html>
