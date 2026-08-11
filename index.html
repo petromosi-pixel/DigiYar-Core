@@ -1,191 +1,198 @@
 <!DOCTYPE html>
-
 <html lang="fa" dir="rtl">
 
 <head>
 
-<meta charset="UTF-8">
+    <meta charset="UTF-8">
 
-<meta
-    name="viewport"
-    content="width=device-width, initial-scale=1.0"
->
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
 
-<title>
-    دیجی‌یار | خرید هوشمند اینترنتی
-</title>
+    <title>
+        دیجی‌یار | خرید هوشمند اینترنتی
+    </title>
 
-<meta
-    name="description"
-    content="دیجی‌یار؛ دسترسی سریع به فروشگاه‌های محبوب اینترنتی و انتخاب هوشمندانه برای خرید بهتر"
->
+    <meta
+        name="description"
+        content="دیجی‌یار؛ دسترسی سریع به فروشگاه‌های محبوب اینترنتی و انتخاب هوشمندانه برای خرید بهتر"
+    >
 
-<meta
-    name="theme-color"
-    content="#e6123d"
->
+    <meta
+        name="theme-color"
+        content="#e6123d"
+    >
 
-<link
-    rel="manifest"
-    href="manifest.json"
->
+    <link
+        rel="manifest"
+        href="manifest.json"
+    >
 
-<link
-    rel="stylesheet"
-    href="css/style.css"
->
+    <link
+        rel="stylesheet"
+        href="css/style.css"
+    >
 
 </head>
 
+
 <body>
 
-<!-- =========================================
-     HEADER
-========================================= -->
 
 <header class="header">
 
-<img
-    src="assets/logos/logo.png"
-    alt="لوگوی دیجی‌یار"
-    class="logo"
->
+    <img
+        src="assets/logos/logo.png"
+        alt="لوگوی دیجی‌یار"
+        class="logo"
+    >
 
-<h1>
-    دیجی‌یار
-</h1>
+    <h1>
+        دیجی‌یار
+    </h1>
 
-<p>
-    به دیجی‌یار خوش اومدی؛ همه فروشگاه‌های محبوبت اینجان
-</p>
+    <p>
+        به دیجی‌یار خوش اومدی؛ همه فروشگاه‌های محبوبت اینجان
+    </p>
 
 </header>
 
 
 
-<!-- =========================================
-     MAIN
-========================================= -->
-
 <main class="container">
 
-<!-- =====================================
-     پیشنهاد امروز
-====================================== -->
 
-<section class="featured">
+    <!-- ======================================
+         پیشنهاد امروز
+    ======================================= -->
 
-    <h2>
-        🔥 پیشنهاد امروز دیجی‌یار
-    </h2>
+    <section class="featured">
 
-    <p>
-        خرید عمومی؟ دیجی‌کالا
-        <br>
-        خرید روزمره؟ اسنپ‌شاپ
-    </p>
+        <h2>
+            🔥 پیشنهاد امروز دیجی‌یار
+        </h2>
 
-</section>
+        <p>
+            خرید عمومی؟ دیجی‌کالا
+            <br>
+            خرید روزمره؟ اسنپ‌شاپ
+        </p>
 
-
-
-<!-- =====================================
-     پیشنهاد هوشمند
-====================================== -->
-
-<section
-    id="smartRecommendation"
-    class="smart-recommendation"
-    hidden
->
-
-    <h2>
-        پیشنهاد هوشمند دیجی‌یار
-    </h2>
-
-    <div
-        id="recommendationResults"
-    ></div>
-
-</section>
+    </section>
 
 
 
-<!-- =====================================
-     فروشگاه‌ها
-====================================== -->
+    <!-- ======================================
+         پیشنهاد هوشمند
+    ======================================= -->
 
-<section class="platform-section">
-
-    <h2>
-        فروشگاه‌های محبوب
-    </h2>
-
-    <input
-        type="text"
-        id="searchBox"
-        placeholder="🔍 جستجوی فروشگاه..."
-        autocomplete="off"
+    <section
+        id="smartRecommendation"
+        class="smart-recommendation"
+        hidden
     >
 
-    <div id="platforms"></div>
+        <h2>
+            پیشنهاد هوشمند دیجی‌یار
+        </h2>
 
-</section>
+        <div
+            id="recommendationResults"
+        ></div>
+
+    </section>
+
+
+
+    <!-- ======================================
+         فروشگاه‌ها
+    ======================================= -->
+
+    <section class="platform-section">
+
+        <h2>
+            فروشگاه‌های محبوب
+        </h2>
+
+
+        <input
+            type="text"
+            id="searchBox"
+            placeholder="🔍 جستجوی فروشگاه..."
+            autocomplete="off"
+        >
+
+
+        <div id="platforms"></div>
+
+    </section>
+
 
 </main>
 
 
 
-<!-- =========================================
-     FOOTER
-========================================= -->
-
 <footer class="footer">
 
-<p>
-    © با دیجی‌یار - هوشمندانه انتخاب و آسانتر خرید کن
-</p>
+    <p>
+        © با دیجی‌یار - هوشمندانه انتخاب و آسانتر خرید کن
+    </p>
 
 </footer>
 
 
 
 <!-- =========================================
-     DIGIYAR CORE
-     ترتیب بارگذاری فایل‌ها مهم است
+     Digiyar Core
+     ترتیب بارگذاری مهم است
 ========================================= -->
+
 
 <!-- 1. Platform Registry -->
 
 <script src="js/platforms.js"></script>
 
+
 <!-- 2. User Profile -->
 
 <script src="js/user-profile.js"></script>
+
 
 <!-- 3. Affiliate Resolver -->
 
 <script src="js/affiliate-resolver.js"></script>
 
+
 <!-- 4. Need Engine -->
 
 <script src="js/need-engine.js"></script>
+
 
 <!-- 5. Product Catalog -->
 
 <script src="js/product-catalog.js"></script>
 
+
 <!-- 6. Product Scoring -->
 
 <script src="js/product-scoring.js"></script>
+
 
 <!-- 7. Smart Recommendation Engine -->
 
 <script src="js/digiyar-engine.js"></script>
 
-<!-- 8. Main Application -->
+
+<!-- 8. Real Product Source -->
+
+<script src="js/product-source.js"></script>
+
+
+<!-- 9. Main Application -->
 
 <script src="js/app.js"></script>
+
 
 </body>
 
