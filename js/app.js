@@ -1,6 +1,6 @@
 // ==========================================
 // Digiyar 2.0 — Main Application
-// Version: 2.0
+// Version: 2.1
 // ==========================================
 
 (function (window) {
@@ -39,10 +39,10 @@
 
     function getPlatforms() {
 
-        /*
-         * نسخه جدید:
-         * استفاده از DigiyarPlatforms
-         */
+        // --------------------------------------
+        // منبع اصلی:
+        // Platform Registry
+        // --------------------------------------
 
         if (
             window.DigiyarPlatforms &&
@@ -56,9 +56,9 @@
         }
 
 
-        /*
-         * سازگاری با نسخه قبلی
-         */
+        // --------------------------------------
+        // سازگاری با نسخه‌های قبلی
+        // --------------------------------------
 
         if (
             Array.isArray(window.platforms)
@@ -75,7 +75,7 @@
 
 
     // ==========================================
-    // دریافت لینک فروشگاه
+    // دریافت لینک قابل استفاده فروشگاه
     // ==========================================
 
     function getPlatformLink(platform) {
@@ -85,11 +85,54 @@
         }
 
 
-        /*
-         * مهم:
-         *
-         * لینک افیلیت همیشه اولویت دارد.
-         */
+        // --------------------------------------
+        // مسیر استاندارد:
+        // لینک آماده‌شده توسط Platform Registry
+        // --------------------------------------
+
+        if (
+            typeof platform.link === "string" &&
+            platform.link.trim() !== "" &&
+            platform.link !== "#"
+        ) {
+
+            return platform.link.trim();
+
+        }
+
+
+        // --------------------------------------
+        // استفاده مستقیم از Registry
+        // --------------------------------------
+
+        if (
+            window.DigiyarPlatforms &&
+            typeof window.DigiyarPlatforms.getUrl ===
+                "function"
+        ) {
+
+            const url =
+                window.DigiyarPlatforms.getUrl(
+                    platform
+                );
+
+
+            if (
+                typeof url === "string" &&
+                url.trim() !== "" &&
+                url !== "#"
+            ) {
+
+                return url.trim();
+
+            }
+
+        }
+
+
+        // --------------------------------------
+        // fallback برای سازگاری
+        // --------------------------------------
 
         if (
             typeof platform.affiliateUrl === "string" &&
@@ -101,32 +144,12 @@
         }
 
 
-        /*
-         * اگر افیلیت موجود نبود،
-         * لینک مستقیم استفاده می‌شود.
-         */
-
         if (
             typeof platform.directUrl === "string" &&
             platform.directUrl.trim() !== ""
         ) {
 
             return platform.directUrl.trim();
-
-        }
-
-
-        /*
-         * سازگاری با ساختار قدیمی
-         */
-
-        if (
-            typeof platform.link === "string" &&
-            platform.link.trim() !== "" &&
-            platform.link !== "#"
-        ) {
-
-            return platform.link.trim();
 
         }
 
@@ -177,79 +200,9 @@
             "platform-card";
 
 
-        // --------------------------------------
-        // اطلاعات فروشگاه
-        // --------------------------------------
-
-        const info =
-            document.createElement("div");
-
-
-        info.className =
-            "platform-info";
-
-
-        const title =
-            document.createElement("h3");
-
-
-        title.textContent =
-            platform.name || "فروشگاه";
-
-
-        const description =
-            document.createElement("p");
-
-
-        description.textContent =
-            platform.description || "";
-
-
-        info.appendChild(title);
-        info.appendChild(description);
-
-
-        // --------------------------------------
-        // لوگوی فروشگاه
-        // --------------------------------------
-
-        const image =
-            document.createElement("img");
-
-
-        image.src =
-            platform.image || "";
-
-
-        image.alt =
-            platform.name || "فروشگاه";
-
-
-        /*
-         * جلوگیری از خراب شدن ظاهر کارت
-         * در صورت خراب بودن تصویر
-         */
-
-        image.onerror =
-            function () {
-
-                image.style.display =
-                    "none";
-
-            };
-
-
-        // --------------------------------------
-        // بخش دکمه
-        // --------------------------------------
-
-        const action =
-            document.createElement("div");
-
-
-        action.className =
-            "platform-action";
-
+        // ======================================
+        // بخش دکمه / به‌زودی
+        // ======================================
 
         const link =
             getPlatformLink(platform);
@@ -284,12 +237,9 @@
                 "ورود به فروشگاه";
 
 
-            /*
-             * اطلاعات کمکی برای توسعه آینده
-             *
-             * این data attributeها بعداً می‌توانند
-             * برای Analytics / Tracking استفاده شوند.
-             */
+            // ----------------------------------
+            // اطلاعات توسعه آینده
+            // ----------------------------------
 
             if (platform.id) {
 
@@ -299,7 +249,9 @@
             }
 
 
-            if (platform.hasAffiliate) {
+            if (
+                platform.hasAffiliate === true
+            ) {
 
                 button.dataset.affiliate =
                     "true";
@@ -307,7 +259,9 @@
             }
 
 
-            action.appendChild(button);
+            card.appendChild(
+                button
+            );
 
         }
         else {
@@ -324,22 +278,88 @@
                 "به‌زودی";
 
 
-            action.appendChild(
+            card.appendChild(
                 comingSoon
             );
 
         }
 
 
+        // ======================================
+        // اطلاعات فروشگاه
+        // ======================================
+
+        const info =
+            document.createElement("div");
+
+
+        info.className =
+            "platform-info";
+
+
+        const title =
+            document.createElement("h3");
+
+
+        title.textContent =
+            platform.name || "فروشگاه";
+
+
+        const description =
+            document.createElement("p");
+
+
+        description.textContent =
+            platform.description || "";
+
+
+        info.appendChild(
+            title
+        );
+
+
+        info.appendChild(
+            description
+        );
+
+
+        card.appendChild(
+            info
+        );
+
+
+        // ======================================
+        // لوگوی فروشگاه
+        // ======================================
+
+        const image =
+            document.createElement("img");
+
+
+        image.src =
+            platform.image || "";
+
+
+        image.alt =
+            platform.name || "فروشگاه";
+
+
         // --------------------------------------
-        // مونتاژ کارت
+        // جلوگیری از خراب شدن کارت
         // --------------------------------------
 
-        card.appendChild(action);
+        image.onerror =
+            function () {
 
-        card.appendChild(info);
+                image.style.display =
+                    "none";
 
-        card.appendChild(image);
+            };
+
+
+        card.appendChild(
+            image
+        );
 
 
         return card;
@@ -521,19 +541,25 @@
 
 
     // ==========================================
-    // دسترسی عمومی برای توسعه آینده
+    // API عمومی برنامه
     // ==========================================
 
     window.DigiyarApp = {
 
         version:
-            "2.0",
+            "2.1",
 
         getPlatforms:
             getPlatforms,
 
         getPlatformLink:
             getPlatformLink,
+
+        isPlatformActive:
+            isPlatformActive,
+
+        createPlatformCard:
+            createPlatformCard,
 
         renderPlatforms:
             renderPlatforms,
@@ -548,5 +574,5 @@
 
 
 // ==========================================
-// Digiyar Main Application 2.0 — END
+// Digiyar Main Application 2.1 — END
 // ==========================================
