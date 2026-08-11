@@ -1,33 +1,22 @@
 // ==========================================
 // Digiyar 2.2 — Main Application
-// Platform UI + Smart Recommendation Bridge
+// Version: 2.2
 // ==========================================
 //
 // مسئولیت:
 //
-// Platform Registry
-//        ↓
-// User Profile
-//        ↓
-// Need Engine
-//        ↓
-// Product Source
-//        ↓
-// Product Catalog
-//        ↓
-// Product Scoring
-//        ↓
-// Digiyar Engine
-//        ↓
-// Recommendation
+// 1. نمایش فروشگاه‌ها
+// 2. جستجوی فروشگاه‌ها
+// 3. استفاده از Platform Registry
 //
-// این فایل فقط رابط کاربری را به موتورهای
-// دیجی‌یار متصل می‌کند.
+// این فایل:
+// - منطق Affiliate را تکرار نمی‌کند.
+// - منطق Product Scoring را تکرار نمی‌کند.
+// - منطق Need Engine را تکرار نمی‌کند.
+// - Product Source را داخل خود نگهداری نمی‌کند.
 //
-// منطق Affiliate داخل این فایل نیست.
-// منطق Scoring داخل این فایل نیست.
-// منطق Need داخل این فایل نیست.
 // ==========================================
+
 
 (function (window) {
 
@@ -35,7 +24,7 @@
 
 
     // ==========================================
-    // عناصر اصلی UI
+    // عناصر صفحه
     // ==========================================
 
     const container =
@@ -44,19 +33,9 @@
     const searchBox =
         document.getElementById("searchBox");
 
-    const smartRecommendation =
-        document.getElementById(
-            "smartRecommendation"
-        );
-
-    const recommendationResults =
-        document.getElementById(
-            "recommendationResults"
-        );
-
 
     // ==========================================
-    // بررسی Container
+    // بررسی عناصر ضروری
     // ==========================================
 
     if (!container) {
@@ -71,10 +50,30 @@
 
 
     // ==========================================
-    // دریافت فروشگاه‌ها
+    // دریافت لیست فروشگاه‌ها
     // ==========================================
 
     function getPlatforms() {
+
+        /*
+         * platforms.js برای سازگاری
+         * این متغیر را روی window قرار می‌دهد.
+         */
+
+        if (
+            Array.isArray(
+                window.platforms
+            )
+        ) {
+
+            return window.platforms;
+
+        }
+
+
+        /*
+         * پشتیبانی از API جدید Platform Registry
+         */
 
         if (
             window.DigiyarPlatforms &&
@@ -88,98 +87,7 @@
         }
 
 
-        // سازگاری با نسخه‌های قدیمی
-
-        if (
-            Array.isArray(
-                window.platforms
-            )
-        ) {
-
-            return window.platforms;
-
-        }
-
-
         return [];
-
-    }
-
-
-    // ==========================================
-    // دریافت لینک فروشگاه
-    // ==========================================
-
-    function getPlatformLink(platform) {
-
-        if (!platform) {
-
-            return null;
-
-        }
-
-
-        if (
-            typeof platform.affiliateUrl === "string" &&
-            platform.affiliateUrl.trim() !== ""
-        ) {
-
-            return platform.affiliateUrl.trim();
-
-        }
-
-
-        if (
-            typeof platform.directUrl === "string" &&
-            platform.directUrl.trim() !== ""
-        ) {
-
-            return platform.directUrl.trim();
-
-        }
-
-
-        if (
-            typeof platform.link === "string" &&
-            platform.link.trim() !== "" &&
-            platform.link !== "#"
-        ) {
-
-            return platform.link.trim();
-
-        }
-
-
-        return null;
-
-    }
-
-
-    // ==========================================
-    // بررسی فعال بودن فروشگاه
-    // ==========================================
-
-    function isPlatformActive(platform) {
-
-        if (!platform) {
-
-            return false;
-
-        }
-
-
-        if (
-            platform.active !== true
-        ) {
-
-            return false;
-
-        }
-
-
-        return Boolean(
-            getPlatformLink(platform)
-        );
 
     }
 
@@ -198,7 +106,21 @@
 
 
         // --------------------------------------
-        // اطلاعات فروشگاه
+        // لوگو
+        // --------------------------------------
+
+        const image =
+            document.createElement("img");
+
+        image.src =
+            platform.image || "";
+
+        image.alt =
+            platform.name || "فروشگاه";
+
+
+        // --------------------------------------
+        // اطلاعات
         // --------------------------------------
 
         const info =
@@ -222,94 +144,39 @@
             platform.description || "";
 
 
-        info.appendChild(title);
-        info.appendChild(description);
-
-
         // --------------------------------------
-        // لوگو
+        // دکمه
         // --------------------------------------
-
-        const image =
-            document.createElement("img");
-
-        image.src =
-            platform.image || "";
-
-        image.alt =
-            platform.name || "فروشگاه";
-
-
-        image.onerror =
-            function () {
-
-                image.style.display =
-                    "none";
-
-            };
-
-
-        // --------------------------------------
-        // Action
-        // --------------------------------------
-
-        const action =
-            document.createElement("div");
-
-        action.className =
-            "platform-action";
-
-
-        const link =
-            getPlatformLink(platform);
-
 
         if (
-            isPlatformActive(platform) &&
-            link
+            platform.active === true
         ) {
 
             const button =
                 document.createElement("a");
 
-
             button.href =
-                link;
-
+                platform.link ||
+                platform.affiliateUrl ||
+                platform.directUrl ||
+                "#";
 
             button.className =
                 "platform-btn";
 
-
             button.target =
                 "_blank";
-
 
             button.rel =
                 "noopener noreferrer";
 
-
-            button.textContent =
-                "ورود به فروشگاه";
-
-
-            if (platform.id) {
-
-                button.dataset.platformId =
-                    platform.id;
-
-            }
+            button.innerHTML =
+                '<span class="btn-text">ورود به فروشگاه</span>';
 
 
-            if (platform.hasAffiliate) {
-
-                button.dataset.affiliate =
-                    "true";
-
-            }
-
-
-            action.appendChild(button);
+            info.appendChild(
+                button
+            );
 
         }
 
@@ -318,16 +185,14 @@
             const comingSoon =
                 document.createElement("span");
 
-
             comingSoon.className =
                 "coming-soon";
-
 
             comingSoon.textContent =
                 "به‌زودی";
 
 
-            action.appendChild(
+            info.appendChild(
                 comingSoon
             );
 
@@ -335,14 +200,23 @@
 
 
         // --------------------------------------
-        // مونتاژ
+        // مونتاژ کارت
         // --------------------------------------
 
-        card.appendChild(action);
+        info.insertBefore(
+            title,
+            info.firstChild
+        );
 
-        card.appendChild(info);
+        info.insertBefore(
+            description,
+            title.nextSibling
+        );
+
 
         card.appendChild(image);
+
+        card.appendChild(info);
 
 
         return card;
@@ -367,19 +241,15 @@
             const empty =
                 document.createElement("div");
 
-
             empty.className =
                 "no-results";
-
 
             empty.textContent =
                 "فروشگاهی با این نام پیدا نشد.";
 
-
             container.appendChild(
                 empty
             );
-
 
             return;
 
@@ -390,16 +260,18 @@
             function (platform) {
 
                 if (!platform) {
-
                     return;
-
                 }
 
 
-                container.appendChild(
+                const card =
                     createPlatformCard(
                         platform
-                    )
+                    );
+
+
+                container.appendChild(
+                    card
                 );
 
             }
@@ -412,13 +284,11 @@
     // جستجوی فروشگاه
     // ==========================================
 
-    function searchPlatforms(searchText) {
+    function searchPlatforms(
+        searchText
+    ) {
 
-        const allPlatforms =
-            getPlatforms();
-
-
-        const normalizedText =
+        const text =
             String(
                 searchText || ""
             )
@@ -426,7 +296,11 @@
                 .toLowerCase();
 
 
-        if (!normalizedText) {
+        const allPlatforms =
+            getPlatforms();
+
+
+        if (!text) {
 
             return allPlatforms;
 
@@ -435,13 +309,6 @@
 
         return allPlatforms.filter(
             function (platform) {
-
-                if (!platform) {
-
-                    return false;
-
-                }
-
 
                 const name =
                     String(
@@ -457,22 +324,39 @@
                         .toLowerCase();
 
 
-                const id =
-                    String(
-                        platform.id || ""
-                    )
-                        .toLowerCase();
-
-
                 return (
-                    name.includes(
-                        normalizedText
-                    ) ||
-                    description.includes(
-                        normalizedText
-                    ) ||
-                    id.includes(
-                        normalizedText
+                    name.includes(text) ||
+                    description.includes(text)
+                );
+
+            }
+        );
+
+    }
+
+
+    // ==========================================
+    // نمایش اولیه
+    // ==========================================
+
+    renderPlatforms(
+        getPlatforms()
+    );
+
+
+    // ==========================================
+    // جستجوی فروشگاه
+    // ==========================================
+
+    if (searchBox) {
+
+        searchBox.addEventListener(
+            "input",
+            function () {
+
+                renderPlatforms(
+                    searchPlatforms(
+                        searchBox.value
                     )
                 );
 
@@ -483,582 +367,42 @@
 
 
     // ==========================================
-    // Smart Engine
+    // API عمومی
     // ==========================================
 
-    function isSmartEngineReady() {
+    window.DigiyarApp = {
 
-        return Boolean(
-            window.DigiyarEngine &&
-            typeof window.DigiyarEngine
-                .isReady === "function"
-        );
+        version:
+            "2.2",
 
-    }
+        getPlatforms:
+            getPlatforms,
 
+        renderPlatforms:
+            renderPlatforms,
 
-    // ==========================================
-    // دریافت Category از Profile
-    // ==========================================
+        searchPlatforms:
+            searchPlatforms
 
-    function getProfileCategory() {
-
-        if (
-            !window.DigiyarUserProfile
-        ) {
-
-            return null;
-
-        }
-
-
-        if (
-            typeof window.DigiyarUserProfile
-                .getProfile !== "function"
-        ) {
-
-            return null;
-
-        }
-
-
-        let profile;
-
-
-        try {
-
-            profile =
-                window.DigiyarUserProfile
-                    .getProfile();
-
-        }
-
-        catch (error) {
-
-            console.error(
-                "Digiyar: خطا در دریافت Profile.",
-                error
-            );
-
-            return null;
-
-        }
-
-
-        if (
-            !profile ||
-            typeof profile !== "object"
-        ) {
-
-            return null;
-
-        }
-
-
-        const candidates = [
-
-            profile.category,
-
-            profile.declared &&
-                profile.declared.category,
-
-            profile.learned &&
-                profile.learned.category,
-
-            profile.context &&
-                profile.context.category
-
-        ];
-
-
-        for (
-            let i = 0;
-            i < candidates.length;
-            i++
-        ) {
-
-            if (
-                typeof candidates[i] === "string" &&
-                candidates[i].trim() !== ""
-            ) {
-
-                return candidates[i].trim();
-
-            }
-
-        }
-
-
-        return null;
-
-    }
+    };
 
 
     // ==========================================
-    // دریافت Product Source
+    // Debug
     // ==========================================
 
-    async function getProductCatalog() {
-
-        // --------------------------------------
-        // Product Source جدید
-        // --------------------------------------
-
-        if (
-            window.DigiyarProductSource &&
-            typeof window.DigiyarProductSource
-                .getProducts === "function"
-        ) {
-
-            try {
-
-                const sourceResult =
-                    await window.DigiyarProductSource
-                        .getProducts();
-
-
-                if (
-                    sourceResult &&
-                    sourceResult.success === true &&
-                    Array.isArray(
-                        sourceResult.products
-                    )
-                ) {
-
-                    return sourceResult.products;
-
-                }
-
-            }
-
-            catch (error) {
-
-                console.error(
-                    "Digiyar: خطا در Product Source.",
-                    error
-                );
-
-            }
-
+    console.log(
+        "Digiyar App initialized.",
+        {
+            platforms:
+                getPlatforms().length
         }
+    );
 
 
-        // --------------------------------------
-        // سازگاری با Catalog قدیمی
-        // --------------------------------------
+})(window);
 
-        if (
-            Array.isArray(
-                window.DigiyarProducts
-            )
-        ) {
 
-            return window.DigiyarProducts;
-
-        }
-
-
-        if (
-            Array.isArray(
-                window.digiyarProducts
-            )
-        ) {
-
-            return window.digiyarProducts;
-
-        }
-
-
-        if (
-            Array.isArray(
-                window.DigiyarProductCatalogData
-            )
-        ) {
-
-            return window.DigiyarProductCatalogData;
-
-        }
-
-
-        return [];
-
-    }
-
-
-    // ==========================================
-    // اجرای موتور پیشنهاددهی
-    // ==========================================
-
-    async function runRecommendations(
-        category = null,
-        products = null
-    ) {
-
-        // --------------------------------------
-        // بررسی موتور
-        // --------------------------------------
-
-        if (
-            !isSmartEngineReady()
-        ) {
-
-            return {
-
-                success: false,
-
-                ready: false,
-
-                recommendations: {
-
-                    eligibleProducts: [],
-
-                    rejectedProducts: []
-
-                },
-
-                errors: [
-
-                    "DigiyarEngine آماده نیست."
-
-                ],
-
-                warnings: []
-
-            };
-
-        }
-
-
-        // --------------------------------------
-        // دریافت Category
-        // --------------------------------------
-
-        const selectedCategory =
-            typeof category === "string" &&
-            category.trim() !== ""
-
-                ? category.trim()
-
-                : getProfileCategory();
-
-
-        if (!selectedCategory) {
-
-            return {
-
-                success: false,
-
-                ready: false,
-
-                recommendations: {
-
-                    eligibleProducts: [],
-
-                    rejectedProducts: []
-
-                },
-
-                errors: [
-
-                    "دسته‌بندی برای Recommendation مشخص نیست."
-
-                ],
-
-                warnings: []
-
-            };
-
-        }
-
-
-        // --------------------------------------
-        // دریافت محصولات
-        // --------------------------------------
-
-        let selectedProducts;
-
-
-        if (
-            Array.isArray(products)
-        ) {
-
-            selectedProducts =
-                products;
-
-        }
-
-        else {
-
-            selectedProducts =
-                await getProductCatalog();
-
-        }
-
-
-        // --------------------------------------
-        // اجرای Pipeline
-        // --------------------------------------
-
-        try {
-
-            return window.DigiyarEngine
-                .recommendFromProfile(
-                    selectedCategory,
-                    selectedProducts
-                );
-
-        }
-
-        catch (error) {
-
-            console.error(
-                "Digiyar: خطا در Recommendation.",
-                error
-            );
-
-
-            return {
-
-                success: false,
-
-                ready: false,
-
-                recommendations: {
-
-                    eligibleProducts: [],
-
-                    rejectedProducts: []
-
-                },
-
-                errors: [
-
-                    error &&
-                    error.message
-
-                        ? error.message
-
-                        : "خطای ناشناخته در Recommendation."
-
-                ],
-
-                warnings: []
-
-            };
-
-        }
-
-    }
-
-
-    // ==========================================
-    // دریافت بهترین پیشنهادها
-    // ==========================================
-
-    async function getRecommendations(
-        category = null,
-        products = null,
-        limit = 5
-    ) {
-
-        const result =
-            await runRecommendations(
-                category,
-                products
-            );
-
-
-        if (
-            !result ||
-            !result.success ||
-            !window.DigiyarEngine
-        ) {
-
-            return {
-
-                result:
-                    result,
-
-                products: []
-
-            };
-
-        }
-
-
-        return {
-
-            result:
-                result,
-
-            products:
-                window.DigiyarEngine
-                    .getTopProducts(
-                        result,
-                        limit
-                    )
-
-        };
-
-    }
-
-
-    // ==========================================
-    // نمایش پیشنهادهای هوشمند
-    // ==========================================
-
-    function renderRecommendations(
-        recommendationProducts
-    ) {
-
-        if (
-            !smartRecommendation ||
-            !recommendationResults
-        ) {
-
-            return;
-
-        }
-
-
-        recommendationResults.innerHTML = "";
-
-
-        if (
-            !Array.isArray(
-                recommendationProducts
-            ) ||
-            recommendationProducts.length === 0
-        ) {
-
-            smartRecommendation.hidden =
-                true;
-
-            return;
-
-        }
-
-
-        recommendationProducts.forEach(
-            function (item) {
-
-                if (
-                    !item ||
-                    !item.product
-                ) {
-
-                    return;
-
-                }
-
-
-                const product =
-                    item.product;
-
-
-                const card =
-                    document.createElement("div");
-
-                card.className =
-                    "recommendation-card";
-
-
-                const title =
-                    document.createElement("h3");
-
-                title.textContent =
-                    product.name ||
-                    "محصول پیشنهادی";
-
-
-                const price =
-                    document.createElement("p");
-
-                if (
-                    product.price &&
-                    typeof product.price.current ===
-                        "number"
-                ) {
-
-                    price.textContent =
-                        Number(
-                            product.price.current
-                        ).toLocaleString(
-                            "fa-IR"
-                        ) +
-                        " تومان";
-
-                }
-
-                else {
-
-                    price.textContent =
-                        "قیمت نامشخص";
-
-                }
-
-
-                const score =
-                    document.createElement("p");
-
-                score.textContent =
-                    "امتیاز هوشمند: " +
-                    (
-                        item.result &&
-                        typeof item.result.score ===
-                            "number"
-                            ? item.result.score
-                            : 0
-                    ) +
-                    " از 100";
-
-
-                const button =
-                    document.createElement("a");
-
-
-                // ----------------------------------
-                // Affiliate URL
-                // ----------------------------------
-
-                let affiliateUrl =
-                    null;
-
-
-                if (
-                    typeof product.affiliateUrl ===
-                        "string" &&
-                    product.affiliateUrl.trim() !== ""
-                ) {
-
-                    affiliateUrl =
-                        product.affiliateUrl.trim();
-
-                }
-
-
-                // اگر Catalog هنوز Affiliate
-                // را آماده نکرده باشد، Resolver
-                // مستقیماً استفاده می‌شود.
-
-                if (
-                    !affiliateUrl &&
-                    window.DigiyarAffiliateResolver &&
-                    typeof window.DigiyarAffiliateResolver
-                        .resolve === "function" &&
-                    typeof product.platform === "string" &&
-                    typeof product.url === "string"
-                ) {
-
-                    const resolved =
-                        window.DigiyarAffiliateResolver
-                            .resolve(
-                                product.platform,
-                                product.url
-                            );
-
-
-                    if (
-                        resolved &&
-                        resolved.success === true
-   
+// ==========================================
+// Digiyar Main Application 2.2 — END
+// ==========================================
