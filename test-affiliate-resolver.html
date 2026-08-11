@@ -91,7 +91,63 @@ function showResult(result) {
             null,
             2
         );
+const oldLink =
+    document.getElementById("affiliateTestLink");
 
+if (oldLink) {
+    oldLink.remove();
+}
+
+if (
+    result &&
+    result.success &&
+    result.affiliateUrl
+) {
+
+    const link =
+        document.createElement("a");
+
+    link.id =
+        "affiliateTestLink";
+
+    link.href =
+        result.affiliateUrl;
+
+    link.target =
+        "_blank";
+
+    link.rel =
+        "noopener noreferrer";
+
+    link.textContent =
+        "باز کردن لینک افیلیو و بررسی مقصد";
+
+    link.style.display =
+        "block";
+
+    link.style.marginTop =
+        "15px";
+
+    link.style.padding =
+        "12px";
+
+    link.style.background =
+        "#e6123d";
+
+    link.style.color =
+        "#fff";
+
+    link.style.textDecoration =
+        "none";
+
+    link.style.borderRadius =
+        "8px";
+
+    resultBox.parentNode.appendChild(
+        link
+    );
+
+}
 }
 
 
