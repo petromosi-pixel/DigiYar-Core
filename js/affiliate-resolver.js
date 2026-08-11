@@ -1,26 +1,16 @@
 // ==========================================
 // Digiyar 2.0 — Affiliate Resolver
-// Version: 1.0
+// Version: 1.1
 // ==========================================
 //
 // مسئولیت:
-// تبدیل لینک مستقیم محصول به لینک افیلیت
-// بر اساس Platform.
+// تبدیل Product URL به Affiliate URL
 //
-// فعلاً:
-// Digikala → Affilio
-// SnappShop → Affilio
+// Provider فعلی:
+// Affilio
 //
-// معماری:
-// Product URL
-//      ↓
-// Affiliate Resolver
-//      ↓
-// Affiliate URL
-//
-// نکته:
-// این فایل هیچ محصولی را جستجو نمی‌کند.
-// فقط لینک مقصد را Resolve می‌کند.
+// نکته مهم:
+// URL مقصد باید فقط یک بار encode شود.
 // ==========================================
 
 (function (window) {
@@ -35,7 +25,7 @@
         // نسخه
         // ==========================================
 
-        version: "1.0",
+        version: "1.1",
 
 
         // ==========================================
@@ -46,31 +36,18 @@
 
             affilio: {
 
-                name: "Affilio",
+                name: "affilio",
 
                 platforms: {
 
-                    // ----------------------------------
-                    // دیجی‌کالا
-                    // ----------------------------------
-
                     digikala: {
-
-                        publicTemplate:
+                        template:
                             "https://aflo.ir/16da7m1UY?p={redirect_to}"
-
                     },
 
-
-                    // ----------------------------------
-                    // اسنپ‌شاپ
-                    // ----------------------------------
-
                     snappshop: {
-
-                        publicTemplate:
+                        template:
                             "https://aflo.ir/4oWErY8Z?p={redirect_to}"
-
                     }
 
                 }
@@ -81,7 +58,7 @@
 
 
         // ==========================================
-        // بررسی معتبر بودن URL
+        // تشخیص URL معتبر
         // ==========================================
 
         isValidUrl(url) {
@@ -112,14 +89,26 @@
 
 
         // ==========================================
-        // تبدیل URL برای قرار گرفتن داخل
-        // redirect_to
+        // Normalize کردن URL
+        // ==========================================
+        //
+        // هدف:
+        // جلوگیری از encode شدن دوباره URL
+        //
+        // مثال:
+        //
+        // %DA%AF
+        //
+        // نباید تبدیل شود به:
+        //
+        // %25DA%25AF
+        //
         // ==========================================
 
-        encodeDestination(url) {
+        normalizeUrl(url) {
 
             if (
-                !this.isValidUrl(url)
+                typeof url !== "string"
             ) {
 
                 return null;
@@ -127,81 +116,54 @@
             }
 
 
-            return encodeURIComponent(
-                url.trim()
-            );
+            const trimmed =
+                url.trim();
+
+
+            if (
+                trimmed === ""
+            ) {
+
+                return null;
+
+            }
+
+
+            try {
+
+                /*
+                 * URL constructor
+                 * URL را بدون دستکاری غیرضروری
+                 * ساختاری می‌کند.
+                 */
+
+                const parsed =
+                    new URL(trimmed);
+
+
+                return parsed.toString();
+
+            } catch (error) {
+
+                return null;
+
+            }
 
         },
 
 
         // ==========================================
-        // دریافت Template فروشگاه
+        // ساخت Affiliate URL
         // ==========================================
 
-        getTemplate(platformId) {
-
-            if (
-                !platformId ||
-                typeof platformId !== "string"
-            ) {
-
-                return null;
-
-            }
-
-
-            const provider =
-                this.providers.affilio;
-
-
-            if (
-                !provider ||
-                !provider.platforms
-            ) {
-
-                return null;
-
-            }
-
-
-            const platform =
-                provider.platforms[
-                    platformId
-                ];
-
-
-            if (
-                !platform ||
-                typeof platform.publicTemplate !==
-                    "string"
-            ) {
-
-                return null;
-
-            }
-
-
-            return platform.publicTemplate;
-
-        },
-
-
-        // ==========================================
-        // ساخت لینک افیلیت
-        // ==========================================
-
-        resolve(
-            platformId,
-            productUrl
+        buildAffiliateUrl(
+            platform,
+            originalUrl
         ) {
 
-            // --------------------------------------
-            // بررسی Platform
-            // --------------------------------------
-
             if (
-                typeof platformId !== "string" ||
-                platformId.trim() === ""
+                typeof platform !== "string" ||
+                platform.trim() === ""
             ) {
 
                 return {
@@ -210,8 +172,12 @@
 
                     affiliateUrl: null,
 
-                    platform:
-                        null,
+                    platform: platform || null,
+
+                    originalUrl:
+                        originalUrl || null,
+
+                    provider: "affilio",
 
                     error:
                         "شناسه فروشگاه مشخص نشده است."
@@ -221,14 +187,64 @@
             }
 
 
+            const normalizedPlatform =
+                platform
+                    .trim()
+                    .toLowerCase();
+
+
             // --------------------------------------
-            // بررسی Product URL
+            // بررسی URL
             // --------------------------------------
 
+            const normalizedUrl =
+                this.normalizeUrl(
+                    originalUrl
+                );
+
+
+            if (!normalizedUrl) {
+
+                return {
+
+                    success: false,
+
+                    affiliateUrl: null,
+
+                    platform:
+                        normalizedPlatform,
+
+                    originalUrl:
+                        originalUrl || null,
+
+                    provider: "affilio",
+
+                    error:
+                        "آدرس محصول معتبر نیست."
+
+                };
+
+            }
+
+
+            // --------------------------------------
+            // پیدا کردن Template
+            // --------------------------------------
+
+            const provider =
+                this.providers.affilio;
+
+
+            const platformConfig =
+                provider.platforms[
+                    normalizedPlatform
+                ];
+
+
             if (
-                !this.isValidUrl(
-                    productUrl
-                )
+                !platformConfig ||
+                typeof platformConfig.template !==
+                    "string"
             ) {
 
                 return {
@@ -238,36 +254,13 @@
                     affiliateUrl: null,
 
                     platform:
-                        platformId,
+                        normalizedPlatform,
 
-                    error:
-                        "لینک محصول معتبر نیست."
+                    originalUrl:
+                        normalizedUrl,
 
-                };
-
-            }
-
-
-            // --------------------------------------
-            // دریافت Template
-            // --------------------------------------
-
-            const template =
-                this.getTemplate(
-                    platformId
-                );
-
-
-            if (!template) {
-
-                return {
-
-                    success: false,
-
-                    affiliateUrl: null,
-
-                    platform:
-                        platformId,
+                    provider:
+                        "affilio",
 
                     error:
                         "برای این فروشگاه لینک عمومی افیلیت ثبت نشده است."
@@ -278,32 +271,13 @@
 
 
             // --------------------------------------
-            // Encode مقصد
+            // Encode فقط در همین نقطه
             // --------------------------------------
 
-            const encodedDestination =
-                this.encodeDestination(
-                    productUrl
+            const encodedUrl =
+                encodeURIComponent(
+                    normalizedUrl
                 );
-
-
-            if (!encodedDestination) {
-
-                return {
-
-                    success: false,
-
-                    affiliateUrl: null,
-
-                    platform:
-                        platformId,
-
-                    error:
-                        "تبدیل لینک مقصد به لینک افیلیت انجام نشد."
-
-                };
-
-            }
 
 
             // --------------------------------------
@@ -311,15 +285,12 @@
             // --------------------------------------
 
             const affiliateUrl =
-                template.replace(
-                    "{redirect_to}",
-                    encodedDestination
-                );
+                platformConfig.template
+                    .replace(
+                        "{redirect_to}",
+                        encodedUrl
+                    );
 
-
-            // --------------------------------------
-            // نتیجه
-            // --------------------------------------
 
             return {
 
@@ -329,10 +300,10 @@
                     affiliateUrl,
 
                 platform:
-                    platformId,
+                    normalizedPlatform,
 
                 originalUrl:
-                    productUrl,
+                    normalizedUrl,
 
                 provider:
                     "affilio",
@@ -346,61 +317,18 @@
 
 
         // ==========================================
-        // بررسی امکان Affiliate Resolution
+        // API اصلی Resolver
         // ==========================================
 
-        canResolve(platformId) {
-
-            return Boolean(
-                this.getTemplate(
-                    platformId
-                )
-            );
-
-        },
-
-
-        // ==========================================
-        // Resolve امن
-        // ==========================================
-
-        resolveIfPossible(
-            platformId,
-            productUrl
+        resolve(
+            platform,
+            originalUrl
         ) {
 
-            const result =
-                this.resolve(
-                    platformId,
-                    productUrl
-                );
-
-
-            if (
-                !result.success
-            ) {
-
-                return {
-
-                    success: false,
-
-                    affiliateUrl: null,
-
-                    originalUrl:
-                        productUrl || null,
-
-                    platform:
-                        platformId || null,
-
-                    error:
-                        result.error
-
-                };
-
-            }
-
-
-            return result;
+            return this.buildAffiliateUrl(
+                platform,
+                originalUrl
+            );
 
         }
 
@@ -419,5 +347,5 @@
 
 
 // ==========================================
-// Digiyar Affiliate Resolver 1.0 — END
+// Digiyar Affiliate Resolver 1.1 — END
 // ==========================================
