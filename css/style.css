@@ -1,506 +1,230 @@
 * {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-  }
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
 
 /* =========================================
-BODY
+   BODY
 ========================================= */
 
 body {
-font-family: Tahoma, Arial, sans-serif;
-background: #f5f6fa;
-color: #333;
-min-height: 100vh;
+    font-family: Tahoma, Arial, sans-serif;
+    background: #f5f6fa;
+    color: #333;
+    min-height: 100vh;
 }
 
+
 /* =========================================
-HEADER
+   HEADER
 ========================================= */
 
 .header {
-text-align: center;
-padding: 30px 18px 26px;
-background: linear-gradient(
-135deg,
-#e6123d,
-#ff5a75
-);
-color: white;
-border-radius: 0 0 30px 30px;
+    text-align: center;
+
+    padding:
+        30px 18px 26px;
+
+    background:
+        linear-gradient(
+            135deg,
+            #e6123d,
+            #ff5a75
+        );
+
+    color: white;
+
+    border-radius:
+        0 0 30px 30px;
 }
+
 
 .logo {
-width: 88px;
-height: 88px;
-object-fit: contain;
-margin-bottom: 10px;
+    width: 88px;
+    height: 88px;
+
+    object-fit: contain;
+
+    margin-bottom: 10px;
 }
+
 
 .header h1 {
-font-size: 29px;
-margin-bottom: 8px;
+    font-size: 29px;
+    margin-bottom: 8px;
 }
+
 
 .header p {
-font-size: 14px;
-line-height: 2;
+    font-size: 14px;
+    line-height: 2;
 }
 
+
 /* =========================================
-MAIN
+   MAIN
 ========================================= */
 
 .container {
-width: 100%;
-max-width: 510px;
-margin: 0 auto;
-padding: 18px 8px 25px;
+    width: 100%;
+    max-width: 510px;
+
+    margin: 0 auto;
+
+    padding:
+        18px 8px 25px;
 }
 
+
 /* =========================================
-FEATURED
+   FEATURED
 ========================================= */
 
 .featured {
-background: #fff;
-border-radius: 17px;
-padding: 15px 17px;
-margin-bottom: 18px;
-box-shadow:
-0 4px 14px rgba(0,0,0,.06);
+    background: #fff;
+
+    border-radius: 17px;
+
+    padding:
+        15px 17px;
+
+    margin-bottom: 18px;
+
+    box-shadow:
+        0 4px 14px rgba(0,0,0,.06);
 }
+
 
 .featured h2 {
-color: #e6123d;
-margin-bottom: 6px;
-font-size: 19px;
+    color: #e6123d;
+
+    margin-bottom: 6px;
+
+    font-size: 19px;
 }
+
 
 .featured p {
-color: #555;
-font-size: 14px;
-line-height: 1.9;
+    color: #555;
+
+    font-size: 14px;
+
+    line-height: 1.9;
 }
 
+
 /* =========================================
-PLATFORM SECTION
+   SMART RECOMMENDATION
+========================================= */
+
+.smart-recommendation {
+    background: #fff;
+
+    border-radius: 17px;
+
+    padding:
+        15px 12px;
+
+    margin-bottom: 18px;
+
+    box-shadow:
+        0 4px 14px rgba(0,0,0,.06);
+}
+
+
+.smart-recommendation h2 {
+    color: #e6123d;
+
+    font-size: 19px;
+
+    margin-bottom: 12px;
+
+    text-align: right;
+}
+
+
+#recommendationResults {
+    display: flex;
+
+    flex-direction: column;
+
+    gap: 9px;
+}
+
+
+/* =========================================
+   PLATFORM SECTION
 ========================================= */
 
 .platform-section h2 {
-margin-bottom: 11px;
-font-size: 21px;
+    margin-bottom: 11px;
+
+    font-size: 21px;
 }
 
+
 /* =========================================
-SEARCH
+   SEARCH
 ========================================= */
 
 #searchBox {
-width: 100%;
-padding: 11px 14px;
-margin-bottom: 12px;
-border: 1px solid #ddd;
-border-radius: 12px;
-background: white;
-font-family: Tahoma, Arial, sans-serif;
-font-size: 14px;
-outline: none;
+    width: 100%;
+
+    padding:
+        11px 14px;
+
+    margin-bottom: 12px;
+
+    border:
+        1px solid #ddd;
+
+    border-radius: 12px;
+
+    background: white;
+
+    font-family:
+        Tahoma,
+        Arial,
+        sans-serif;
+
+    font-size: 14px;
+
+    outline: none;
 }
+
 
 #searchBox:focus {
-border-color: #e6123d;
+    border-color: #e6123d;
 }
 
+
 /* =========================================
-PLATFORM LIST
+   PLATFORM LIST
 ========================================= */
 
 #platforms {
-width: 100%;
-display: flex;
-flex-direction: column;
-gap: 9px;
+    width: 100%;
+
+    display: flex;
+
+    flex-direction: column;
+
+    gap: 9px;
 }
 
+
 /* =========================================
-STORE CARD
+   STORE CARD
 ========================================= */
 
 .platform-card {
-width: 100%;
-height: 76px;
-min-height: 76px;
+    width: 100%;
 
-padding: 4px;
+    height: 76px;
 
-display: flex;
-flex-direction: row;
-
-/*
-   ترتیب:
-   دکمه ← اطلاعات ← لوگو
-*/
-direction: ltr;
-
-align-items: center;
-
-background: #fff;
-
-border-radius: 15px;
-
-overflow: hidden;
-
-border: 1px solid rgba(0,0,0,.04);
-
-box-shadow:
-    0 3px 12px rgba(0,0,0,.055);
-
-}
-
-/* =========================================
-ACTION AREA
-دکمه و به‌زودی کاملاً هم‌اندازه
-========================================= */
-
-.platform-btn,
-.coming-soon {
-order: 1;
-
-flex: 0 0 145px;
-
-width: 145px;
-max-width: 145px;
-
-height: 68px;
-min-height: 68px;
-
-margin: 0;
-
-box-sizing: border-box;
-
-}
-
-/* =========================================
-ACTIVE BUTTON
-========================================= */
-
-.platform-btn {
-position: relative;
-
-display: flex;
-
-align-items: center;
-justify-content: center;
-
-padding: 0 8px;
-
-background: #e6123d;
-
-color: #fff;
-
-border-radius: 11px;
-
-text-decoration: none;
-
-font-family: Tahoma, Arial, sans-serif;
-
-font-size: 14px;
-
-font-weight: bold;
-
-white-space: nowrap;
-
-overflow: hidden;
-
-direction: rtl;
-
-z-index: 2;
-
-box-shadow:
-    0 3px 8px rgba(230,18,61,.15);
-
-text-shadow:
-    0 1px 2px rgba(0,0,0,.12);
-
-transition:
-    background .2s ease,
-    transform .2s ease;
-
-}
-
-.platform-btn:hover {
-background: #c90f35;
-}
-
-.platform-btn:active {
-transform: scale(.98);
-}
-
-/* =========================================
-STORE INFO
-========================================= */
-
-.platform-info {
-order: 2;
-
-flex: 1 1 auto;
-
-width: auto;
-
-height: 68px;
-
-min-width: 0;
-
-display: flex;
-
-flex-direction: column;
-
-align-items: center;
-
-justify-content: center;
-
-direction: rtl;
-
-text-align: center;
-
-padding: 0 7px;
-
-overflow: hidden;
-
-}
-
-/* =========================================
-STORE NAME
-========================================= */
-
-.platform-info h3 {
-width: 100%;
-
-margin: 0;
-padding: 0;
-
-color: #222;
-
-font-size: 15px;
-
-font-weight: bold;
-
-line-height: 1.45;
-
-text-align: center;
-
-white-space: nowrap;
-
-overflow: hidden;
-
-text-overflow: ellipsis;
-
-}
-
-/* =========================================
-STORE DESCRIPTION
-========================================= */
-
-.platform-info p {
-width: 100%;
-
-margin: 2px 0 0;
-padding: 0;
-
-color: #999;
-
-font-size: 9px;
-
-line-height: 1.5;
-
-text-align: center;
-
-white-space: normal;
-
-overflow: hidden;
-
-text-overflow: ellipsis;
-
-}
-
-/* =========================================
-STORE LOGOS
-========================================= */
-
-.platform-card > img {
-order: 3;
-
-flex: 0 0 68px;
-
-width: 68px;
-height: 68px;
-
-min-width: 68px;
-min-height: 68px;
-
-margin: 0;
-
-align-self: center;
-
-display: block;
-
-object-fit: cover;
-
-padding: 0;
-
-border-radius: 11px;
-
-overflow: hidden;
-
-background: #fff;
-
-}
-
-/* =========================================
-COMING SOON
-========================================= */
-
-.coming-soon {
-display: flex;
-
-align-items: center;
-justify-content: center;
-
-border-radius: 11px;
-
-background: #eeeeee;
-
-color: #888;
-
-font-size: 14px;
-
-direction: rtl;
-
-text-align: center;
-
-}
-
-/* =========================================
-NO RESULTS
-========================================= */
-
-.no-results {
-width: 100%;
-
-padding: 18px;
-
-text-align: center;
-
-background: #fff;
-
-border-radius: 12px;
-
-color: #888;
-
-font-size: 13px;
-
-}
-
-/* =========================================
-FOOTER
-========================================= */
-
-.footer {
-text-align: center;
-
-padding: 18px 10px 27px;
-
-font-size: 12px;
-
-color: #777;
-
-line-height: 2;
-
-}
-
-/* =========================================
-MOBILE
-========================================= */
-
-@media (max-width: 480px) {
-
-/* =====================================
-   HEADER
-===================================== */
-
-.header {
-    padding: 27px 14px 23px;
-
-    border-radius:
-        0 0 27px 27px;
-}
-
-
-.header .logo {
-    width: 82px;
-    height: 82px;
-}
-
-
-.header h1 {
-    font-size: 27px;
-}
-
-
-.header p {
-    font-size: 13px;
-}
-
-
-/* =====================================
-   MAIN
-===================================== */
-
-.container {
-    padding:
-        15px 6px 23px;
-}
-
-
-/* =====================================
-   FEATURED
-===================================== */
-
-.featured {
-    padding:
-        14px 15px;
-}
-
-
-.featured h2 {
-    font-size: 18px;
-}
-
-
-.featured p {
-    font-size: 13px;
-}
-
-
-/* =====================================
-   PLATFORM TITLE
-===================================== */
-
-.platform-section h2 {
-    font-size: 20px;
-}
-
-
-/* =====================================
-   MOBILE CARD
-===================================== */
-
-.platform-card {
-    height: 70px;
-
-    min-height: 70px;
+    min-height: 76px;
 
     padding: 4px;
 
@@ -508,128 +232,657 @@ MOBILE
 
     flex-direction: row;
 
+    /*
+       ترتیب بصری:
+       دکمه ← اطلاعات ← لوگو
+    */
+
     direction: ltr;
 
     align-items: center;
 
-    border-radius: 14px;
+    background: #fff;
+
+    border-radius: 15px;
+
+    overflow: hidden;
+
+    border:
+        1px solid rgba(0,0,0,.04);
+
+    box-shadow:
+        0 3px 12px rgba(0,0,0,.055);
 }
 
 
-/* =====================================
-   MOBILE ACTION AREA
-   دکمه و به‌زودی کاملاً برابر
-===================================== */
+/* =========================================
+   ACTION AREA
+========================================= */
 
-.platform-btn,
-.coming-soon {
-    flex: 0 0 116px;
+.platform-actions {
+    order: 1;
 
-    width: 116px;
-    max-width: 116px;
+    flex:
+        0 0 145px;
 
-    height: 62px;
-    min-height: 62px;
+    width: 145px;
+
+    max-width: 145px;
+
+    height: 68px;
+
+    min-height: 68px;
 
     margin: 0;
-
-    box-sizing: border-box;
 }
 
 
-/* =====================================
-   MOBILE BUTTON
-===================================== */
+/* =========================================
+   ACTIVE BUTTON
+========================================= */
 
 .platform-btn {
-    padding: 0 5px;
+    position: relative;
 
-    border-radius: 10px;
+    width: 100%;
 
-    font-size: 12px;
+    height: 100%;
+
+    min-height: 68px;
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: center;
+
+    padding:
+        0 8px;
+
+    border: none;
+
+    outline: none;
+
+    cursor: pointer;
+
+    background: #e6123d;
+
+    color: #fff;
+
+    border-radius: 11px;
+
+    text-decoration: none;
+
+    font-family:
+        Tahoma,
+        Arial,
+        sans-serif;
+
+    font-size: 14px;
+
+    font-weight: bold;
+
+    white-space: nowrap;
+
+    overflow: hidden;
+
+    direction: rtl;
+
+    box-shadow:
+        0 3px 8px rgba(230,18,61,.15);
+
+    text-shadow:
+        0 1px 2px rgba(0,0,0,.12);
+
+    transition:
+        background .2s ease,
+        transform .2s ease;
 }
 
 
-/* =====================================
-   MOBILE INFO
-===================================== */
+.platform-btn:hover {
+    background: #c90f35;
+}
+
+
+.platform-btn:active {
+    transform: scale(.98);
+}
+
+
+/* =========================================
+   STORE INFO
+========================================= */
 
 .platform-info {
-    flex: 1 1 auto;
+    order: 2;
 
-    height: 62px;
+    flex:
+        1 1 auto;
+
+    width: auto;
+
+    height: 68px;
 
     min-width: 0;
 
-    padding: 0 4px;
+    display: flex;
+
+    flex-direction: column;
+
+    align-items: center;
+
+    justify-content: center;
+
+    direction: rtl;
+
+    text-align: center;
+
+    padding:
+        0 7px;
+
+    overflow: hidden;
 }
 
 
 .platform-info h3 {
-    font-size: 14px;
+    width: 100%;
 
-    line-height: 1.4;
+    margin: 0;
+    padding: 0;
+
+    color: #222;
+
+    font-size: 15px;
+
+    font-weight: bold;
+
+    line-height: 1.45;
+
+    text-align: center;
+
+    white-space: nowrap;
+
+    overflow: hidden;
+
+    text-overflow: ellipsis;
 }
 
 
 .platform-info p {
-    font-size: 8px;
+    width: 100%;
 
-    line-height: 1.4;
+    margin:
+        2px 0 0;
+
+    padding: 0;
+
+    color: #999;
+
+    font-size: 9px;
+
+    line-height: 1.5;
+
+    text-align: center;
+
+    white-space: normal;
+
+    overflow: hidden;
+
+    text-overflow: ellipsis;
 }
 
 
-/* =====================================
-   MOBILE LOGOS
-===================================== */
+/* =========================================
+   STORE LOGO
+========================================= */
 
-.platform-card > img {
-    flex: 0 0 62px;
+.platform-card > .platform-logo {
+    order: 3;
 
-    width: 62px;
-    height: 62px;
+    flex:
+        0 0 68px;
 
-    min-width: 62px;
-    min-height: 62px;
+    width: 68px;
+
+    height: 68px;
+
+    min-width: 68px;
+
+    min-height: 68px;
 
     margin: 0;
 
     align-self: center;
 
-    object-fit: cover;
+    display: block;
 
-    padding: 0;
+    object-fit: contain;
 
-    border-radius: 10px;
+    padding: 7px;
+
+    border-radius: 11px;
 
     overflow: hidden;
 
     background: #fff;
-
-    display: block;
 }
 
 
-/* =====================================
-   MOBILE COMING SOON
-===================================== */
+/* =========================================
+   COMING SOON
+========================================= */
 
 .coming-soon {
-    border-radius: 10px;
+    width: 100%;
 
-    font-size: 12px;
+    height: 100%;
+
+    min-height: 68px;
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: center;
+
+    border: none;
+
+    outline: none;
+
+    border-radius: 11px;
+
+    background: #eeeeee;
+
+    color: #888;
+
+    font-family:
+        Tahoma,
+        Arial,
+        sans-serif;
+
+    font-size: 14px;
+
+    direction: rtl;
+
+    text-align: center;
+
+    cursor: default;
 }
 
 
-/* =====================================
-   MOBILE FOOTER
-===================================== */
+.coming-soon:disabled {
+    opacity: 1;
+}
+
+
+/* =========================================
+   NO RESULTS
+========================================= */
+
+.no-results {
+    width: 100%;
+
+    padding: 18px;
+
+    text-align: center;
+
+    background: #fff;
+
+    border-radius: 12px;
+
+    color: #888;
+
+    font-size: 13px;
+}
+
+
+/* =========================================
+   PRODUCT CARD
+========================================= */
+
+.product-card {
+    width: 100%;
+
+    background: #fff;
+
+    border-radius: 14px;
+
+    padding:
+        14px;
+
+    border:
+        1px solid rgba(0,0,0,.04);
+
+    box-shadow:
+        0 3px 12px rgba(0,0,0,.05);
+
+    direction: rtl;
+
+    text-align: right;
+}
+
+
+.product-card h3 {
+    color: #222;
+
+    font-size: 15px;
+
+    line-height: 1.8;
+
+    margin-bottom: 4px;
+}
+
+
+.product-card > p:not(.product-price) {
+    color: #888;
+
+    font-size: 11px;
+
+    margin-bottom: 7px;
+}
+
+
+.product-price {
+    color: #e6123d;
+
+    font-size: 14px;
+
+    font-weight: bold;
+
+    margin-bottom: 10px;
+}
+
+
+.product-button {
+    width: 100%;
+
+    min-height: 42px;
+
+    border: none;
+
+    outline: none;
+
+    border-radius: 10px;
+
+    background: #e6123d;
+
+    color: #fff;
+
+    font-family:
+        Tahoma,
+        Arial,
+        sans-serif;
+
+    font-size: 13px;
+
+    font-weight: bold;
+
+    cursor: pointer;
+
+    transition:
+        background .2s ease,
+        transform .2s ease;
+}
+
+
+.product-button:hover {
+    background: #c90f35;
+}
+
+
+.product-button:active {
+    transform: scale(.98);
+}
+
+
+/* =========================================
+   FOOTER
+========================================= */
 
 .footer {
+    text-align: center;
+
     padding:
         18px 10px 27px;
 
     font-size: 12px;
+
+    color: #777;
+
+    line-height: 2;
 }
+
+
+/* =========================================
+   MOBILE
+========================================= */
+
+@media (max-width: 480px) {
+
+
+    /* =====================================
+       HEADER
+    ===================================== */
+
+    .header {
+        padding:
+            27px 14px 23px;
+
+        border-radius:
+            0 0 27px 27px;
+    }
+
+
+    .header .logo {
+        width: 82px;
+        height: 82px;
+    }
+
+
+    .header h1 {
+        font-size: 27px;
+    }
+
+
+    .header p {
+        font-size: 13px;
+    }
+
+
+    /* =====================================
+       MAIN
+    ===================================== */
+
+    .container {
+        padding:
+            15px 6px 23px;
+    }
+
+
+    /* =====================================
+       FEATURED
+    ===================================== */
+
+    .featured {
+        padding:
+            14px 15px;
+    }
+
+
+    .featured h2 {
+        font-size: 18px;
+    }
+
+
+    .featured p {
+        font-size: 13px;
+    }
+
+
+    /* =====================================
+       SMART
+    ===================================== */
+
+    .smart-recommendation {
+        padding:
+            14px 10px;
+    }
+
+
+    .smart-recommendation h2 {
+        font-size: 18px;
+    }
+
+
+    /* =====================================
+       PLATFORM TITLE
+    ===================================== */
+
+    .platform-section h2 {
+        font-size: 20px;
+    }
+
+
+    /* =====================================
+       MOBILE CARD
+    ===================================== */
+
+    .platform-card {
+        height: 70px;
+
+        min-height: 70px;
+
+        padding: 4px;
+
+        display: flex;
+
+        flex-direction: row;
+
+        direction: ltr;
+
+        align-items: center;
+
+        border-radius: 14px;
+    }
+
+
+    /* =====================================
+       MOBILE ACTION
+    ===================================== */
+
+    .platform-actions {
+        flex:
+            0 0 116px;
+
+        width: 116px;
+
+        max-width: 116px;
+
+        height: 62px;
+
+        min-height: 62px;
+
+        margin: 0;
+    }
+
+
+    /* =====================================
+       MOBILE BUTTON
+    ===================================== */
+
+    .platform-btn,
+    .coming-soon {
+        width: 100%;
+
+        height: 62px;
+
+        min-height: 62px;
+
+        border-radius: 10px;
+
+        font-size: 12px;
+    }
+
+
+    .platform-btn {
+        padding:
+            0 5px;
+    }
+
+
+    /* =====================================
+       MOBILE INFO
+    ===================================== */
+
+    .platform-info {
+        flex:
+            1 1 auto;
+
+        height: 62px;
+
+        min-width: 0;
+
+        padding:
+            0 4px;
+    }
+
+
+    .platform-info h3 {
+        font-size: 14px;
+
+        line-height: 1.4;
+    }
+
+
+    .platform-info p {
+        font-size: 8px;
+
+        line-height: 1.4;
+    }
+
+
+    /* =====================================
+       MOBILE LOGO
+    ===================================== */
+
+    .platform-card > .platform-logo {
+        flex:
+            0 0 62px;
+
+        width: 62px;
+
+        height: 62px;
+
+        min-width: 62px;
+
+        min-height: 62px;
+
+        margin: 0;
+
+        align-self: center;
+
+        object-fit: contain;
+
+        padding: 6px;
+
+        border-radius: 10px;
+
+        background: #fff;
+
+        display: block;
+    }
+
+
+    /* =====================================
+       MOBILE FOOTER
+    ===================================== */
+
+    .footer {
+        padding:
+            18px 10px 27px;
+
+        font-size: 12px;
+    }
 
 }
