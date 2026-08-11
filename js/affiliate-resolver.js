@@ -4,25 +4,23 @@
 // ==========================================
 //
 // مسئولیت:
-// 1. تبدیل Product URL به Affiliate URL
-// 2. مدیریت Affiliate Provider
-// 3. پشتیبانی از چند فروشگاه
-// 4. جلوگیری از پخش شدن منطق Affiliate در App / Engine
+// تبدیل لینک مستقیم محصول به لینک افیلیت
+// بر اساس Platform.
+//
+// فعلاً:
+// Digikala → Affilio
+// SnappShop → Affilio
 //
 // معماری:
-//
 // Product URL
 //      ↓
 // Affiliate Resolver
 //      ↓
-// Platform Adapter
-//      ↓
 // Affiliate URL
 //
-// فروشگاه‌های فعلی:
-// - Digikala
-// - Snappshop
-//
+// نکته:
+// این فایل هیچ محصولی را جستجو نمی‌کند.
+// فقط لینک مقصد را Resolve می‌کند.
 // ==========================================
 
 (function (window) {
@@ -30,585 +28,391 @@
     "use strict";
 
 
-    // ==========================================
-    // تنظیمات Affiliate
-    // ==========================================
+    const DigiyarAffiliateResolver = {
 
-    const affiliatePlatforms = {
 
-        // --------------------------------------
-        // دیجی‌کالا
-        // --------------------------------------
+        // ==========================================
+        // نسخه
+        // ==========================================
 
-        digikala: {
+        version: "1.0",
 
-            id:
-                "digikala",
 
-            name:
-                "دیجی‌کالا",
+        // ==========================================
+        // تنظیمات Affilio
+        // ==========================================
 
-            enabled:
-                true,
+        providers: {
 
-            method:
-                "redirect",
+            affilio: {
 
-            template:
-                "https://aflo.ir/CVQz1aHq?p={redirect_to}"
+                name: "Affilio",
 
-        },
+                platforms: {
 
+                    // ----------------------------------
+                    // دیجی‌کالا
+                    // ----------------------------------
 
-        // --------------------------------------
-        // اسنپ‌شاپ
-        // --------------------------------------
+                    digikala: {
 
-        snappshop: {
+                        publicTemplate:
+                            "https://aflo.ir/16da7m1UY?p={redirect_to}"
 
-            id:
-                "snappshop",
+                    },
 
-            name:
-                "اسنپ‌شاپ",
 
-            enabled:
-                true,
+                    // ----------------------------------
+                    // اسنپ‌شاپ
+                    // ----------------------------------
 
-            method:
-                "redirect",
+                    snappshop: {
 
-            template:
-                "https://aflo.ir/4oWErY8Z?p={redirect_to}"
+                        publicTemplate:
+                            "https://aflo.ir/4oWErY8Z?p={redirect_to}"
 
-        }
-
-    };
-
-
-    // ==========================================
-    // ایجاد نتیجه استاندارد
-    // ==========================================
-
-    function createResult() {
-
-        return {
-
-            success:
-                false,
-
-            platform:
-                null,
-
-            originalUrl:
-                null,
-
-            affiliateUrl:
-                null,
-
-            method:
-                null,
-
-            error:
-                null
-
-        };
-
-    }
-
-
-    // ==========================================
-    // اعتبارسنجی URL
-    // ==========================================
-
-    function isValidUrl(url) {
-
-        if (
-            typeof url !== "string" ||
-            url.trim() === ""
-        ) {
-
-            return false;
-
-        }
-
-
-        try {
-
-            const parsed =
-                new URL(url.trim());
-
-
-            return (
-                parsed.protocol === "http:" ||
-                parsed.protocol === "https:"
-            );
-
-        } catch (error) {
-
-            return false;
-
-        }
-
-    }
-
-
-    // ==========================================
-    // پیدا کردن Platform
-    // ==========================================
-
-    function getPlatform(platformId) {
-
-        if (
-            typeof platformId !== "string"
-        ) {
-
-            return null;
-
-        }
-
-
-        const normalizedId =
-            platformId
-                .trim()
-                .toLowerCase();
-
-
-        return (
-            affiliatePlatforms[
-                normalizedId
-            ] || null
-        );
-
-    }
-
-
-    // ==========================================
-    // تشخیص فروشگاه از URL
-    // ==========================================
-
-    function detectPlatformFromUrl(url) {
-
-        if (
-            !isValidUrl(url)
-        ) {
-
-            return null;
-
-        }
-
-
-        let hostname;
-
-
-        try {
-
-            hostname =
-                new URL(url)
-                    .hostname
-                    .toLowerCase();
-
-        } catch (error) {
-
-            return null;
-
-        }
-
-
-        // --------------------------------------
-        // دیجی‌کالا
-        // --------------------------------------
-
-        if (
-            hostname === "digikala.com" ||
-            hostname.endsWith(".digikala.com")
-        ) {
-
-            return "digikala";
-
-        }
-
-
-        // --------------------------------------
-        // اسنپ‌شاپ
-        // --------------------------------------
-
-        if (
-            hostname === "snappshop.ir" ||
-            hostname.endsWith(".snappshop.ir")
-        ) {
-
-            return "snappshop";
-
-        }
-
-
-        return null;
-
-    }
-
-
-    // ==========================================
-    // ساخت Affiliate URL
-    // ==========================================
-
-    function resolve(
-        platformId,
-        productUrl
-    ) {
-
-        const result =
-            createResult();
-
-
-        // --------------------------------------
-        // بررسی URL
-        // --------------------------------------
-
-        if (
-            !isValidUrl(productUrl)
-        ) {
-
-            result.error =
-                "Product URL معتبر نیست.";
-
-            return result;
-
-        }
-
-
-        const normalizedUrl =
-            productUrl.trim();
-
-
-        // --------------------------------------
-        // دریافت Platform
-        // --------------------------------------
-
-        let platform =
-            getPlatform(
-                platformId
-            );
-
-
-        // --------------------------------------
-        // تشخیص خودکار Platform
-        // --------------------------------------
-
-        if (!platform) {
-
-            const detectedPlatform =
-                detectPlatformFromUrl(
-                    normalizedUrl
-                );
-
-
-            if (detectedPlatform) {
-
-                platform =
-                    getPlatform(
-                        detectedPlatform
-                    );
-
-            }
-
-        }
-
-
-        // --------------------------------------
-        // Platform پیدا نشد
-        // --------------------------------------
-
-        if (!platform) {
-
-            result.error =
-                "برای این فروشگاه Affiliate Adapter تعریف نشده است.";
-
-            return result;
-
-        }
-
-
-        result.platform =
-            platform.id;
-
-
-        result.originalUrl =
-            normalizedUrl;
-
-
-        // --------------------------------------
-        // بررسی فعال بودن
-        // --------------------------------------
-
-        if (
-            platform.enabled !== true
-        ) {
-
-            result.error =
-                "Affiliate این فروشگاه فعال نیست.";
-
-            return result;
-
-        }
-
-
-        // --------------------------------------
-        // بررسی Template
-        // --------------------------------------
-
-        if (
-            typeof platform.template !== "string" ||
-            platform.template.indexOf(
-                "{redirect_to}"
-            ) === -1
-        ) {
-
-            result.error =
-                "ساختار Affiliate Template معتبر نیست.";
-
-            return result;
-
-        }
-
-
-        // --------------------------------------
-        // ساخت لینک
-        // --------------------------------------
-
-        const encodedUrl =
-            encodeURIComponent(
-                normalizedUrl
-            );
-
-
-        const affiliateUrl =
-            platform.template.replace(
-                "{redirect_to}",
-                encodedUrl
-            );
-
-
-        // --------------------------------------
-        // نتیجه
-        // --------------------------------------
-
-        result.success =
-            true;
-
-        result.affiliateUrl =
-            affiliateUrl;
-
-        result.method =
-            platform.method || "redirect";
-
-
-        return result;
-
-    }
-
-
-    // ==========================================
-    // Resolve خودکار بر اساس URL
-    // ==========================================
-
-    function resolveFromUrl(
-        productUrl
-    ) {
-
-        const platform =
-            detectPlatformFromUrl(
-                productUrl
-            );
-
-
-        if (!platform) {
-
-            const result =
-                createResult();
-
-
-            result.originalUrl =
-                productUrl || null;
-
-
-            result.error =
-                "فروشگاه این Product URL شناسایی نشد.";
-
-            return result;
-
-        }
-
-
-        return resolve(
-            platform,
-            productUrl
-        );
-
-    }
-
-
-    // ==========================================
-    // بررسی پشتیبانی از فروشگاه
-    // ==========================================
-
-    function isSupported(
-        platformId
-    ) {
-
-        const platform =
-            getPlatform(
-                platformId
-            );
-
-
-        return Boolean(
-            platform &&
-            platform.enabled === true
-        );
-
-    }
-
-
-    // ==========================================
-    // دریافت فروشگاه‌های پشتیبانی‌شده
-    // ==========================================
-
-    function getSupportedPlatforms() {
-
-        return Object.keys(
-            affiliatePlatforms
-        ).filter(
-            function (platformId) {
-
-                return (
-                    affiliatePlatforms[
-                        platformId
-                    ].enabled === true
-                );
-
-            }
-        );
-
-    }
-
-
-    // ==========================================
-    // دریافت تنظیمات یک فروشگاه
-    // ==========================================
-
-    function getConfig(
-        platformId
-    ) {
-
-        const platform =
-            getPlatform(
-                platformId
-            );
-
-
-        if (!platform) {
-
-            return null;
-
-        }
-
-
-        return {
-            ...platform
-        };
-
-    }
-
-
-    // ==========================================
-    // بررسی سلامت Resolver
-    // ==========================================
-
-    function healthCheck() {
-
-        const platforms =
-            getSupportedPlatforms();
-
-
-        const errors = [];
-
-
-        platforms.forEach(
-            function (platformId) {
-
-                const config =
-                    getPlatform(
-                        platformId
-                    );
-
-
-                if (
-                    !config ||
-                    typeof config.template !==
-                        "string" ||
-                    config.template.indexOf(
-                        "{redirect_to}"
-                    ) === -1
-                ) {
-
-                    errors.push(
-                        platformId
-                    );
+                    }
 
                 }
 
             }
-        );
+
+        },
 
 
-        return {
+        // ==========================================
+        // بررسی معتبر بودن URL
+        // ==========================================
 
-            ready:
-                errors.length === 0,
+        isValidUrl(url) {
 
-            supportedPlatforms:
-                platforms,
+            if (
+                typeof url !== "string" ||
+                url.trim() === ""
+            ) {
 
-            errors:
-                errors
+                return false;
 
-        };
+            }
 
-    }
+
+            try {
+
+                new URL(url);
+
+                return true;
+
+            } catch (error) {
+
+                return false;
+
+            }
+
+        },
+
+
+        // ==========================================
+        // تبدیل URL برای قرار گرفتن داخل
+        // redirect_to
+        // ==========================================
+
+        encodeDestination(url) {
+
+            if (
+                !this.isValidUrl(url)
+            ) {
+
+                return null;
+
+            }
+
+
+            return encodeURIComponent(
+                url.trim()
+            );
+
+        },
+
+
+        // ==========================================
+        // دریافت Template فروشگاه
+        // ==========================================
+
+        getTemplate(platformId) {
+
+            if (
+                !platformId ||
+                typeof platformId !== "string"
+            ) {
+
+                return null;
+
+            }
+
+
+            const provider =
+                this.providers.affilio;
+
+
+            if (
+                !provider ||
+                !provider.platforms
+            ) {
+
+                return null;
+
+            }
+
+
+            const platform =
+                provider.platforms[
+                    platformId
+                ];
+
+
+            if (
+                !platform ||
+                typeof platform.publicTemplate !==
+                    "string"
+            ) {
+
+                return null;
+
+            }
+
+
+            return platform.publicTemplate;
+
+        },
+
+
+        // ==========================================
+        // ساخت لینک افیلیت
+        // ==========================================
+
+        resolve(
+            platformId,
+            productUrl
+        ) {
+
+            // --------------------------------------
+            // بررسی Platform
+            // --------------------------------------
+
+            if (
+                typeof platformId !== "string" ||
+                platformId.trim() === ""
+            ) {
+
+                return {
+
+                    success: false,
+
+                    affiliateUrl: null,
+
+                    platform:
+                        null,
+
+                    error:
+                        "شناسه فروشگاه مشخص نشده است."
+
+                };
+
+            }
+
+
+            // --------------------------------------
+            // بررسی Product URL
+            // --------------------------------------
+
+            if (
+                !this.isValidUrl(
+                    productUrl
+                )
+            ) {
+
+                return {
+
+                    success: false,
+
+                    affiliateUrl: null,
+
+                    platform:
+                        platformId,
+
+                    error:
+                        "لینک محصول معتبر نیست."
+
+                };
+
+            }
+
+
+            // --------------------------------------
+            // دریافت Template
+            // --------------------------------------
+
+            const template =
+                this.getTemplate(
+                    platformId
+                );
+
+
+            if (!template) {
+
+                return {
+
+                    success: false,
+
+                    affiliateUrl: null,
+
+                    platform:
+                        platformId,
+
+                    error:
+                        "برای این فروشگاه لینک عمومی افیلیت ثبت نشده است."
+
+                };
+
+            }
+
+
+            // --------------------------------------
+            // Encode مقصد
+            // --------------------------------------
+
+            const encodedDestination =
+                this.encodeDestination(
+                    productUrl
+                );
+
+
+            if (!encodedDestination) {
+
+                return {
+
+                    success: false,
+
+                    affiliateUrl: null,
+
+                    platform:
+                        platformId,
+
+                    error:
+                        "تبدیل لینک مقصد به لینک افیلیت انجام نشد."
+
+                };
+
+            }
+
+
+            // --------------------------------------
+            // ساخت لینک
+            // --------------------------------------
+
+            const affiliateUrl =
+                template.replace(
+                    "{redirect_to}",
+                    encodedDestination
+                );
+
+
+            // --------------------------------------
+            // نتیجه
+            // --------------------------------------
+
+            return {
+
+                success: true,
+
+                affiliateUrl:
+                    affiliateUrl,
+
+                platform:
+                    platformId,
+
+                originalUrl:
+                    productUrl,
+
+                provider:
+                    "affilio",
+
+                error:
+                    null
+
+            };
+
+        },
+
+
+        // ==========================================
+        // بررسی امکان Affiliate Resolution
+        // ==========================================
+
+        canResolve(platformId) {
+
+            return Boolean(
+                this.getTemplate(
+                    platformId
+                )
+            );
+
+        },
+
+
+        // ==========================================
+        // Resolve امن
+        // ==========================================
+
+        resolveIfPossible(
+            platformId,
+            productUrl
+        ) {
+
+            const result =
+                this.resolve(
+                    platformId,
+                    productUrl
+                );
+
+
+            if (
+                !result.success
+            ) {
+
+                return {
+
+                    success: false,
+
+                    affiliateUrl: null,
+
+                    originalUrl:
+                        productUrl || null,
+
+                    platform:
+                        platformId || null,
+
+                    error:
+                        result.error
+
+                };
+
+            }
+
+
+            return result;
+
+        }
+
+    };
 
 
     // ==========================================
     // انتشار عمومی
     // ==========================================
 
-    window.DigiyarAffiliateResolver = {
-
-        version:
-            "1.0",
-
-        resolve:
-            resolve,
-
-        resolveFromUrl:
-            resolveFromUrl,
-
-        detectPlatform:
-            detectPlatformFromUrl,
-
-        isSupported:
-            isSupported,
-
-        getSupportedPlatforms:
-            getSupportedPlatforms,
-
-        getConfig:
-            getConfig,
-
-        healthCheck:
-            healthCheck
-
-    };
+    window.DigiyarAffiliateResolver =
+        DigiyarAffiliateResolver;
 
 
 })(window);
