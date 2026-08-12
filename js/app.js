@@ -486,8 +486,8 @@
   const splashStartedAt =
     performance.now();
 
-  const MIN_SPLASH_TIME = 2200;
-  const MAX_SPLASH_TIME = 3200;
+  const MIN_SPLASH_TIME = 3200;
+  const MAX_SPLASH_TIME = 4200;
 
   function finishSplash() {
 
