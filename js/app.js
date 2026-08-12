@@ -2,7 +2,29 @@
 
 (function () {
   "use strict";
+  const splashScreen =
+    document.getElementById("splashScreen");
 
+  function hideSplash() {
+
+    if (!splashScreen) {
+      return;
+    }
+
+    splashScreen.classList.add(
+      "splash-hidden"
+    );
+
+    setTimeout(
+      function () {
+
+        splashScreen.remove();
+
+      },
+      700
+    );
+
+  }
   function $(id) {
     return document.getElementById(id);
   }
@@ -451,5 +473,58 @@
       });
 
   }
+  /*
+   * Splash lifecycle
+   *
+   * حداقل زمان نمایش:
+   * 2.2 ثانیه
+   *
+   * حداکثر زمان:
+   * 3.2 ثانیه
+   */
 
+  const splashStartedAt =
+    performance.now();
+
+  const MIN_SPLASH_TIME = 2200;
+  const MAX_SPLASH_TIME = 3200;
+
+  function finishSplash() {
+
+    const elapsed =
+      performance.now() -
+      splashStartedAt;
+
+    const remaining =
+      Math.max(
+        0,
+        MIN_SPLASH_TIME - elapsed
+      );
+
+    setTimeout(
+      hideSplash,
+      Math.min(
+        remaining,
+        MAX_SPLASH_TIME
+      )
+    );
+
+  }
+
+  if (
+    document.readyState ===
+    "complete"
+  ) {
+
+    finishSplash();
+
+  } else {
+
+    window.addEventListener(
+      "load",
+      finishSplash,
+      { once: true }
+    );
+
+  }
 })();
