@@ -35,8 +35,6 @@ body {
       #101c35 55%,
       #0b1428 100%
     );
-
-  animation: splashExit 0.7s ease 2.5s forwards;
 }
 
 .splash-content {
@@ -166,7 +164,16 @@ body {
 
 }
 
+.splash-hidden {
+  animation: splashExit 0.7s ease forwards;
+}
+
 @keyframes splashExit {
+
+  from {
+    opacity: 1;
+    visibility: visible;
+  }
 
   to {
     opacity: 0;
