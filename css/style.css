@@ -1,3 +1,8 @@
+/* =========================================================
+   DigiYar V3
+   Main Stylesheet
+   ========================================================= */
+
 * {
   box-sizing: border-box;
 }
@@ -15,9 +20,9 @@ body {
 }
 
 
-/* =========================
+/* =========================================================
    Splash Screen
-   ========================= */
+   ========================================================= */
 
 .splash-screen {
   position: fixed;
@@ -55,7 +60,7 @@ body {
   align-items: center;
   justify-content: center;
 
-  border-radius: 38px;
+  border-radius: 42px;
 
   background: rgba(255, 255, 255, 0.08);
 
@@ -78,33 +83,33 @@ body {
 .splash-brand h1 {
   margin: 0;
 
-  font-size: 34px;
+  font-size: 36px;
   font-weight: 900;
 
   color: #ff8a00;
 }
 
 .splash-brand p {
-  margin: 2px 0 18px;
+  margin: 3px 0 18px;
 
-  font-size: 14px;
+  font-size: 15px;
   color: #ffffff;
 }
 
 .splash-lines {
   display: flex;
   flex-direction: column;
-  gap: 4px;
+  gap: 5px;
 
   color: #dfe5f0;
-  font-size: 12px;
+  font-size: 13px;
 }
 
 .splash-loader {
-  width: 100px;
+  width: 110px;
   height: 3px;
 
-  margin: 25px auto 0;
+  margin: 27px auto 0;
 
   overflow: hidden;
   border-radius: 10px;
@@ -125,11 +130,15 @@ body {
   animation: loaderMove 1.2s ease-in-out infinite;
 }
 
+.splash-hidden {
+  animation: splashExit 0.7s ease forwards;
+}
+
 @keyframes splashEnter {
 
   from {
     opacity: 0;
-    transform: translateY(20px) scale(0.96);
+    transform: translateY(25px) scale(0.94);
   }
 
   to {
@@ -143,11 +152,11 @@ body {
 
   0%,
   100% {
-    transform: translateY(0);
+    transform: translateY(0) scale(1);
   }
 
   50% {
-    transform: translateY(-7px);
+    transform: translateY(-8px) scale(1.02);
   }
 
 }
@@ -162,10 +171,6 @@ body {
     transform: translateX(-280%);
   }
 
-}
-
-.splash-hidden {
-  animation: splashExit 0.7s ease forwards;
 }
 
 @keyframes splashExit {
@@ -184,9 +189,9 @@ body {
 }
 
 
-/* =========================
-   Main
-   ========================= */
+/* =========================================================
+   Main Application
+   ========================================================= */
 
 .app-shell {
   max-width: 980px;
@@ -195,9 +200,10 @@ body {
 }
 
 
-/* =========================
+/* =========================================================
    Header
-   ========================= */
+   ========================================================= */
+
 .main-header {
   margin: 0 -18px 22px;
 
@@ -227,13 +233,7 @@ body {
   justify-content: center;
 
   position: relative;
-
-.header-content .install-btn {
-  position: absolute;
-
-  left: 18px;
 }
-  }
 
 .header-text {
   display: flex;
@@ -265,9 +265,9 @@ body {
 }
 
 
-/* =========================
+/* =========================================================
    Cards
-   ========================= */
+   ========================================================= */
 
 .card {
   background: #ffffff;
@@ -309,9 +309,9 @@ body {
 }
 
 
-/* =========================
+/* =========================================================
    Form
-   ========================= */
+   ========================================================= */
 
 .form-grid {
   display: grid;
@@ -383,11 +383,17 @@ body {
   background: #ff8a00;
   color: #ffffff;
 
+  border: 0;
+
   border-radius: 11px;
 
   padding: 11px 16px;
 
+  font-family: inherit;
+
   font-weight: 700;
+
+  cursor: pointer;
 }
 
 .primary:hover {
@@ -395,11 +401,17 @@ body {
 }
 
 .text-btn {
+  border: 0;
+
   background: transparent;
 
   color: #777;
 
+  font-family: inherit;
+
   font-size: 12px;
+
+  cursor: pointer;
 }
 
 .storage-note {
@@ -417,9 +429,9 @@ body {
 }
 
 
-/* =========================
+/* =========================================================
    Results
-   ========================= */
+   ========================================================= */
 
 .need-summary {
   padding: 14px;
@@ -501,9 +513,9 @@ body {
 }
 
 
-/* =========================
-   Platforms
-   ========================= */
+/* =========================================================
+   Shopping Platforms
+   ========================================================= */
 
 .platform-grid {
   display: grid;
@@ -511,38 +523,59 @@ body {
   grid-template-columns:
     repeat(4, minmax(0, 1fr));
 
-  gap: 10px;
+  gap: 12px;
 }
 
 .platform {
   display: flex;
+
   flex-direction: column;
 
   align-items: center;
 
-  gap: 8px;
+  justify-content: space-between;
 
-  padding: 12px 9px;
+  gap: 10px;
+
+  min-width: 0;
+
+  padding: 13px 9px 11px;
 
   border:
-    1px solid #e5e7eb;
+    1px solid #e2e5ea;
 
-  border-radius: 15px;
+  border-radius: 16px;
 
   background: #ffffff;
 
   text-decoration: none;
 
   color: inherit;
+
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
+}
+
+.platform:hover {
+
+  transform: translateY(-2px);
+
+  box-shadow:
+    0 7px 20px rgba(16,28,53,0.08);
 }
 
 .platform-main {
+
   width: 100%;
 
   display: flex;
+
   flex-direction: column;
 
   align-items: center;
+
+  justify-content: center;
 
   text-align: center;
 
@@ -550,10 +583,11 @@ body {
 }
 
 .platform-logo {
-  width: 48px;
-  height: 48px;
 
-  flex: 0 0 48px;
+  width: 54px;
+  height: 54px;
+
+  flex: 0 0 54px;
 
   display: flex;
 
@@ -562,100 +596,95 @@ body {
 
   overflow: hidden;
 
-  border-radius: 12px;
+  border-radius: 14px;
 
-  background: #f4f5f7;
+  background: #f5f6f8;
+
+  border:
+    1px solid #eceef2;
 }
 
 .platform-logo img {
+
   display: block;
 
   width: 100%;
   height: 100%;
 
+  padding: 5px;
+
   object-fit: contain;
 
-  padding: 4px;
+  border-radius: 10px;
 }
 
 .platform-name {
+
   display: block;
 
-  font-weight: 800;
+  width: 100%;
+
+  text-align: center;
+
+  color: #202124;
 
   font-size: 13px;
+
+  line-height: 1.4;
+
+  font-weight: 800;
 }
 
 .platform-tag {
+
   display: block;
 
-  margin-top: 1px;
+  width: 100%;
 
-  color: #777;
+  text-align: center;
+
+  color: #858a93;
 
   font-size: 10px;
+
+  line-height: 1.4;
 }
 
 .platform-btn {
-  width: calc(100% - 8px);
 
-  padding: 7px 6px;
+  display: flex;
 
-  text-align: center;
+  align-items: center;
+  justify-content: center;
 
-  border-radius: 9px;
+  width: calc(100% - 6px);
 
-  background: #ff8a00;
+  min-height: 32px;
 
-  color: #ffffff;
-
-  font-size: 11px;
-
-  font-weight: 700;
-}
-
-
-/* =========================
-   Install
-   ========================= */
-
-.install-btn {
-  background: #ff8a00;
-
-  color: #ffffff;
+  padding: 7px 5px;
 
   border-radius: 10px;
 
-  padding: 9px 13px;
+  background: #ff8a00;
 
-  font-size: 11px;
-
-  font-weight: 700;
-}
-
-.hidden {
-  display: none !important;
-}
-
-
-/* =========================
-   Footer
-   ========================= */
-
-footer {
-  padding: 12px;
+  color: #ffffff;
 
   text-align: center;
 
-  color: #888;
+  font-size: 10px;
 
-  font-size: 11px;
+  line-height: 1.3;
+
+  font-weight: 800;
 }
-/* =========================
-   PWA Install Prompt
-   ========================= */
+
+
+/* =========================================================
+   PWA Install Notification
+   ========================================================= */
 
 .install-prompt {
+
   position: fixed;
 
   left: 16px;
@@ -813,7 +842,125 @@ footer {
   cursor: pointer;
 }
 
-@media (max-width: 520px) {
+
+/* =========================================================
+   Footer
+   ========================================================= */
+
+footer {
+
+  padding: 12px;
+
+  text-align: center;
+
+  color: #888;
+
+  font-size: 11px;
+}
+
+
+/* =========================================================
+   Utility
+   ========================================================= */
+
+.hidden {
+  display: none !important;
+}
+
+
+/* =========================================================
+   Mobile
+   ========================================================= */
+
+@media (max-width: 700px) {
+
+  .app-shell {
+    padding:
+      0 12px 12px;
+  }
+
+  .main-header {
+    margin:
+      0 -12px 14px;
+
+    border-radius:
+      0 0 20px 20px;
+  }
+
+  .header-content {
+    min-height: 125px;
+
+    padding:
+      18px 12px;
+  }
+
+  .header-text strong {
+    font-size: 28px;
+  }
+
+  .header-text span {
+    font-size: 13px;
+  }
+
+  .form-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .recommendations {
+    grid-template-columns: 1fr;
+  }
+
+  .platform-grid {
+
+    grid-template-columns:
+      repeat(2, minmax(0, 1fr));
+
+    gap: 9px;
+  }
+
+  .platform {
+
+    padding:
+      11px 7px 10px;
+  }
+
+  .platform-logo {
+
+    width: 50px;
+    height: 50px;
+
+    flex-basis: 50px;
+  }
+
+  .card {
+    padding: 14px;
+
+    border-radius: 15px;
+  }
+
+  .splash-logo-wrap {
+
+    width: 180px;
+    height: 180px;
+  }
+
+  .splash-logo {
+
+    width: 150px;
+    height: 150px;
+  }
+
+  .splash-brand h1 {
+    font-size: 31px;
+  }
+
+  .splash-brand p {
+    font-size: 13px;
+  }
+
+  .splash-lines {
+    font-size: 11px;
+  }
 
   .install-prompt {
 
@@ -835,71 +982,4 @@ footer {
       8px 12px;
   }
 
-}
-
-/* =========================
-   Mobile
-   ========================= */
-
-@media (max-width: 700px) {
-
-  .app-shell {
-    padding:
-      0 12px 12px;
   }
-
-  .main-header {
-    margin:
-      0 -12px 14px;
-
-    border-radius:
-      0 0 20px 20px;
-  }
-
-  .header-content {
-    padding:
-      12px;
-  }
-
-.header-text strong {
-  font-size: 28px;
-}
-
-.header-text span {
-  font-size: 13px;
-}
-
-  .form-grid {
-    grid-template-columns: 1fr;
-  }
-
-  .recommendations {
-    grid-template-columns: 1fr;
-  }
-
-  .platform-grid {
-    grid-template-columns:
-      repeat(2, minmax(0, 1fr));
-  }
-
-  .card {
-    padding: 14px;
-
-    border-radius: 15px;
-  }
-
-.splash-logo-wrap {
-  width: 180px;
-  height: 180px;
-}
-
-.splash-logo {
-  width: 150px;
-  height: 150px;
-}
-
-  .splash-brand h1 {
-    font-size: 30px;
-  }
-
-}
