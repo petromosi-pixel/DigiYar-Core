@@ -1,54 +1,44 @@
-const CACHE_NAME = "digiyar-v3-cache-v1";
+const CACHE_NAME = "digiyar-v3-cache-v2";
 
 const APP_FILES = [
   "./",
   "./index.html",
   "./manifest.json",
   "./css/style.css",
+
   "./js/app.js",
   "./js/user-profile.js",
   "./js/need-engine.js",
   "./js/product-scoring.js",
   "./js/platforms.js",
-  "./assets/icon-192.png",
-"./assets/icon-512.png"
+
+  "./icon/icon-192.png",
+  "./icon/icon-512.png",
+
+  "./assets/logos/logo.png",
+  "./assets/digikala.png",
+  "./assets/snappshop.png",
+  "./assets/torob.png",
+  "./assets/basalam.png"
 ];
-
-
-/*
- * Install
- */
 
 self.addEventListener(
   "install",
   function (event) {
 
     event.waitUntil(
-
       caches
         .open(CACHE_NAME)
         .then(function (cache) {
-
-          return cache.addAll(
-            APP_FILES
-          );
-
+          return cache.addAll(APP_FILES);
         })
         .then(function () {
-
           return self.skipWaiting();
-
         })
-
     );
 
   }
 );
-
-
-/*
- * Activate
- */
 
 self.addEventListener(
   "activate",
@@ -66,18 +56,14 @@ self.addEventListener(
               function (cacheName) {
 
                 if (
-                  cacheName !==
-                  CACHE_NAME
+                  cacheName !== CACHE_NAME
                 ) {
-
                   return caches.delete(
                     cacheName
                   );
-
                 }
 
                 return null;
-
               }
             )
 
@@ -85,9 +71,7 @@ self.addEventListener(
 
         })
         .then(function () {
-
           return self.clients.claim();
-
         })
 
     );
@@ -95,24 +79,15 @@ self.addEventListener(
   }
 );
 
-
-/*
- * Fetch
- */
-
 self.addEventListener(
   "fetch",
   function (event) {
 
     if (
-      event.request.method !==
-      "GET"
+      event.request.method !== "GET"
     ) {
-
       return;
-
     }
-
 
     event.respondWith(
 
@@ -121,15 +96,10 @@ self.addEventListener(
         .then(function (cachedResponse) {
 
           if (cachedResponse) {
-
             return cachedResponse;
-
           }
 
-
-          return fetch(
-            event.request
-          )
+          return fetch(event.request)
             .then(function (networkResponse) {
 
               if (
@@ -137,15 +107,11 @@ self.addEventListener(
                 networkResponse.status !== 200 ||
                 networkResponse.type !== "basic"
               ) {
-
                 return networkResponse;
-
               }
-
 
               const responseClone =
                 networkResponse.clone();
-
 
               caches
                 .open(CACHE_NAME)
@@ -157,7 +123,6 @@ self.addEventListener(
                   );
 
                 });
-
 
               return networkResponse;
 
