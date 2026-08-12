@@ -115,13 +115,54 @@
 
         </div>
 
-        <button
-          id="installBtn"
-          class="install-btn hidden"
-          type="button"
-        >
-          نصب دیجی‌یار
-        </button>
+        <!-- PWA Install Notification -->
+
+<div
+  id="installPrompt"
+  class="install-prompt hidden"
+  role="dialog"
+  aria-label="نصب دیجی‌یار"
+>
+
+  <div class="install-prompt-icon">
+
+    <img
+      src="assets/icon-192.png"
+      alt="دیجی‌یار"
+    >
+
+  </div>
+
+  <div class="install-prompt-content">
+
+    <strong>
+      دیجی‌یار را نصب کن
+    </strong>
+
+    <span>
+      دستیار خرید هوشمندت همیشه در دسترس تو
+    </span>
+
+  </div>
+
+  <button
+    id="installBtn"
+    class="install-prompt-button"
+    type="button"
+  >
+    نصب
+  </button>
+
+  <button
+    id="installDismiss"
+    class="install-prompt-close"
+    type="button"
+    aria-label="بستن"
+  >
+    ×
+  </button>
+
+</div>
 
       </div>
 
