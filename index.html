@@ -1,201 +1,303 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="fa" dir="rtl">
+
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 
-  <meta name="theme-color" content="#e6123d">
-  <meta name="description" content="دیجی‌یار؛ پلتفرم هوشمند برای تجربه بهترین خرید اینترنتی">
+  <meta charset="UTF-8">
 
-  <link rel="manifest" href="manifest.json">
-<link rel="icon" href="assets/logos/logo.png" type="image/png">
-  <link rel="stylesheet" href="css/style.css">
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  >
 
-  <title>DigiYar V3</title>
+  <meta
+    name="theme-color"
+    content="#101c35"
+  >
+
+  <meta
+    name="description"
+    content="دیجی‌یار؛ پلتفرم هوشمند برای تجربه بهترین خرید اینترنتی"
+  >
+
+  <link
+    rel="manifest"
+    href="manifest.json"
+  >
+
+  <link
+    rel="icon"
+    href="assets/logos/logo.png"
+    type="image/png"
+  >
+
+  <link
+    rel="stylesheet"
+    href="css/style.css"
+  >
+
+  <title>دیجی‌یار | خرید هوشمند</title>
+
 </head>
+
 
 <body>
 
-  <main class="app-shell">
+  <!-- Splash Screen -->
 
-    <header class="hero">
+  <div
+    id="splashScreen"
+    class="splash-screen"
+    aria-label="در حال بارگذاری دیجی‌یار"
+  >
 
-      <div class="brand">
+    <div class="splash-content">
+
+      <div class="splash-logo-wrap">
 
         <img
-  src="assets/logos/logo.png"
-  alt="DigiYar"
-  class="brand-logo"
->
-
-        <div>
-          <h1>دیجی‌یار</h1>
-          <p>پلتفرم هوشمند برای تجربه بهترین خرید اینترنتی</p>
-        </div>
+          src="assets/logos/logo.png"
+          alt="لوگوی دیجی‌یار"
+          class="splash-logo"
+        >
 
       </div>
 
-      <button
-        id="installBtn"
-        class="install-btn hidden"
-        type="button"
-      >
-        نصب دیجی‌یار
-      </button>
+      <div class="splash-brand">
+        <h1>دیجی‌یار</h1>
+
+        <p>
+          دستیار هوشمند خرید اینترنتی تو
+        </p>
+      </div>
+
+      <div class="splash-lines">
+
+        <span>
+          خرید هوشمند، ساده و مطمئن
+        </span>
+
+        <span>
+          بهترین انتخاب را سریع‌تر پیدا کن
+        </span>
+
+      </div>
+
+      <div class="splash-loader">
+        <span></span>
+      </div>
+
+    </div>
+
+  </div>
+
+
+  <!-- Main Application -->
+
+  <main class="app-shell">
+
+
+    <!-- Header -->
+
+    <header class="main-header">
+
+      <div class="header-content">
+
+        <div class="header-text">
+
+          <strong>
+            دیجی‌یار
+          </strong>
+
+          <span>
+            دستیار هوشمند خرید اینترنتی تو
+          </span>
+
+        </div>
+
+        <button
+          id="installBtn"
+          class="install-btn hidden"
+          type="button"
+        >
+          نصب دیجی‌یار
+        </button>
+
+      </div>
 
     </header>
 
 
-    <section class="welcome card">
+    <!-- Profile -->
 
-      <h2>
-        به دیجی‌یار خوش اومدی؛ همه فروشگاه‌های محبوبت اینجان
-      </h2>
+    <section class="card profile-card">
 
-      <p>
-        فروشگاه را انتخاب کن یا چند سؤال کوتاه جواب بده
-        تا پیشنهادها هوشمندتر شوند.
+      <div class="section-title">
+
+        <div>
+
+          <h2>
+            پروفایل خرید
+          </h2>
+
+          <p>
+            اطلاعات زیر رو کامل کن تا پیشنهادات هوشمندتری دریافت کنی
+          </p>
+
+        </div>
+
+      </div>
+
+
+      <form id="profileForm">
+
+        <div class="form-grid">
+
+
+          <label>
+
+            دسته محصول
+
+            <select id="category">
+
+              <option value="mobile">
+                موبایل
+              </option>
+
+              <option value="laptop">
+                لپ‌تاپ
+              </option>
+
+              <option value="tablet">
+                تبلت
+              </option>
+
+              <option value="general">
+                سایر
+              </option>
+
+            </select>
+
+          </label>
+
+
+          <label>
+
+            حداکثر بودجه
+
+            <input
+              id="budgetMax"
+              type="number"
+              min="0"
+              max="500000000"
+              step="100000"
+              placeholder="مثلاً 15000000"
+            >
+
+            <small class="input-hint">
+              حداکثر ۵۰۰ میلیون تومان
+            </small>
+
+          </label>
+
+
+          <label class="full">
+
+            اولویت‌ها
+
+            <input
+              id="priorities"
+              type="text"
+              placeholder="مثلاً دوربین، باتری، کیفیت"
+            >
+
+          </label>
+
+
+          <label class="full">
+
+            نوع استفاده
+
+            <input
+              id="usage"
+              type="text"
+              placeholder="مثلاً عکاسی، بازی، کار روزمره"
+            >
+
+          </label>
+
+
+          <label class="full">
+
+            نیازهای ضروری
+
+            <input
+              id="requirements"
+              type="text"
+              placeholder="مثلاً 5G، حافظه بالا"
+            >
+
+          </label>
+
+
+          <label class="full">
+
+            محدودیت‌ها
+
+            <input
+              id="constraints"
+              type="text"
+              placeholder="مثلاً وزن کم"
+            >
+
+          </label>
+
+
+          <div class="form-actions full">
+
+            <button
+              class="primary"
+              type="submit"
+            >
+              ساخت پروفایل و پیشنهاد
+            </button>
+
+            <button
+              id="resetProfile"
+              class="text-btn"
+              type="button"
+            >
+              پاک کردن اطلاعات
+            </button>
+
+          </div>
+
+        </div>
+
+      </form>
+
+
+      <p class="storage-note">
+        اطلاعات خریدت روی همین دستگاه ذخیره می‌شوند.
       </p>
 
     </section>
 
 
-    <section class="card" id="profileSection">
+    <!-- Results -->
 
-      <div class="section-title">
-
-        <div>
-          <h2>پروفایل خرید</h2>
-
-          <p>
-            اطلاعات خریدت روی همین دستگاه ذخیره می‌شود.
-          </p>
-        </div>
-
-        <button
-          id="resetProfile"
-          class="text-btn"
-          type="button"
-        >
-          پاک کردن
-        </button>
-
-      </div>
-
-
-      <form id="profileForm" class="form-grid">
-
-        <label>
-          دسته محصول
-
-          <select id="category">
-
-            <option value="mobile">
-              موبایل
-            </option>
-
-            <option value="laptop">
-              لپ‌تاپ
-            </option>
-
-            <option value="tablet">
-              تبلت
-            </option>
-
-            <option value="audio">
-              هدفون و صوتی
-            </option>
-
-            <option value="general">
-              سایر
-            </option>
-
-          </select>
-
-        </label>
-
-
-        <label>
-          حداکثر بودجه (تومان)
-
-          <input
-            id="budgetMax"
-            type="number"
-            min="0"
-            step="100000"
-            placeholder="مثلاً 15000000"
-          >
-
-        </label>
-
-
-        <label>
-          اولویت‌ها
-
-          <input
-            id="priorities"
-            type="text"
-            placeholder="مثلاً دوربین، باتری، کیفیت"
-          >
-
-        </label>
-
-
-        <label>
-          نوع استفاده
-
-          <input
-            id="usage"
-            type="text"
-            placeholder="مثلاً عکاسی، بازی، کار"
-          >
-
-        </label>
-
-
-        <label>
-          نیازهای ضروری
-
-          <input
-            id="requirements"
-            type="text"
-            placeholder="مثلاً 5G، قلم، SSD"
-          >
-
-        </label>
-
-
-        <label>
-          محدودیت‌ها
-
-          <input
-            id="constraints"
-            type="text"
-            placeholder="مثلاً وزن کم، بدون برند خاص"
-          >
-
-        </label>
-
-
-        <button
-          class="primary full"
-          type="submit"
-        >
-          ساخت پروفایل و پیشنهاد
-        </button>
-
-      </form>
-
-    </section>
-
-
-    <section class="card" id="resultSection">
+    <section
+      id="resultSection"
+      class="card results-card"
+    >
 
       <div class="section-title">
 
         <div>
 
-          <h2>پیشنهاد هوشمند</h2>
+          <h2>
+            پیشنهادهای دیجی‌یار
+          </h2>
 
           <p id="resultHint">
             برای شروع اطلاعات خریدت را وارد کن.
@@ -222,16 +324,20 @@
     </section>
 
 
-    <section class="card">
+    <!-- Shopping Platforms -->
+
+    <section class="card platforms-card">
 
       <div class="section-title">
 
         <div>
 
-          <h2>فروشگاه‌ها</h2>
+          <h2>
+            فروشگاه‌های محبوب
+          </h2>
 
           <p>
-            ورود مستقیم به فروشگاه موردنظر.
+            فروشگاه‌های محبوبت اینجان
           </p>
 
         </div>
@@ -248,8 +354,9 @@
 
 
     <footer>
-      © 2026 DigiYar V3
+      دیجی‌یار — پلتفرم هوشمند برای تجربه بهترین خرید اینترنتی
     </footer>
+
 
   </main>
 
@@ -261,4 +368,5 @@
   <script src="js/app.js"></script>
 
 </body>
+
 </html>
