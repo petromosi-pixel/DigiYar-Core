@@ -8,156 +8,400 @@ html {
 
 body {
   margin: 0;
-  background: #f6f7f9;
+  background: #f5f6f8;
   color: #202124;
   font-family: Tahoma, Arial, sans-serif;
   line-height: 1.7;
 }
 
+
+/* =========================
+   Splash Screen
+   ========================= */
+
+.splash-screen {
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  background:
+    radial-gradient(
+      circle at center,
+      #182746 0%,
+      #101c35 55%,
+      #0b1428 100%
+    );
+
+  animation: splashExit 0.7s ease 2.5s forwards;
+}
+
+.splash-content {
+  width: min(88%, 430px);
+  text-align: center;
+  color: #ffffff;
+
+  animation: splashEnter 1s ease both;
+}
+
+.splash-logo-wrap {
+  width: 170px;
+  height: 170px;
+
+  margin: 0 auto 20px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  border-radius: 38px;
+
+  background: rgba(255, 255, 255, 0.08);
+
+  box-shadow:
+    0 0 0 1px rgba(255,255,255,0.08),
+    0 20px 60px rgba(0,0,0,0.3);
+
+  animation: logoFloat 2s ease-in-out infinite;
+}
+
+.splash-logo {
+  width: 138px;
+  height: 138px;
+
+  object-fit: contain;
+
+  display: block;
+}
+
+.splash-brand h1 {
+  margin: 0;
+
+  font-size: 34px;
+  font-weight: 900;
+
+  color: #ff8a00;
+}
+
+.splash-brand p {
+  margin: 2px 0 18px;
+
+  font-size: 14px;
+  color: #ffffff;
+}
+
+.splash-lines {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+
+  color: #dfe5f0;
+  font-size: 12px;
+}
+
+.splash-loader {
+  width: 100px;
+  height: 3px;
+
+  margin: 25px auto 0;
+
+  overflow: hidden;
+  border-radius: 10px;
+
+  background: rgba(255,255,255,0.15);
+}
+
+.splash-loader span {
+  display: block;
+
+  width: 40%;
+  height: 100%;
+
+  border-radius: inherit;
+
+  background: #ff8a00;
+
+  animation: loaderMove 1.2s ease-in-out infinite;
+}
+
+@keyframes splashEnter {
+
+  from {
+    opacity: 0;
+    transform: translateY(20px) scale(0.96);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+
+}
+
+@keyframes logoFloat {
+
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+
+  50% {
+    transform: translateY(-7px);
+  }
+
+}
+
+@keyframes loaderMove {
+
+  0% {
+    transform: translateX(180%);
+  }
+
+  100% {
+    transform: translateX(-280%);
+  }
+
+}
+
+@keyframes splashExit {
+
+  to {
+    opacity: 0;
+    visibility: hidden;
+    pointer-events: none;
+  }
+
+}
+
+
+/* =========================
+   Main
+   ========================= */
+
 .app-shell {
   max-width: 980px;
   margin: auto;
-  padding: 18px;
+  padding: 0 18px 18px;
 }
 
-.hero {
+
+/* =========================
+   Header
+   ========================= */
+
+.main-header {
+  margin: 0 -18px 18px;
+
+  background:
+    linear-gradient(
+      135deg,
+      #101c35,
+      #182746
+    );
+
+  border-radius: 0 0 24px 24px;
+
+  box-shadow:
+    0 8px 25px rgba(16,28,53,0.18);
+}
+
+.header-content {
+  min-height: 78px;
+
+  max-width: 980px;
+  margin: auto;
+
+  padding: 14px 18px;
+
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 16px;
-  margin-bottom: 16px;
+  gap: 15px;
 }
 
-.brand {
+.header-text {
   display: flex;
-  align-items: center;
-  gap: 12px;
+  flex-direction: column;
 }
 
-.brand-logo {
-  width: 58px;
-  height: 58px;
-  object-fit: contain;
+.header-text strong {
+  color: #ff8a00;
+  font-size: 25px;
+  line-height: 1.3;
 }
 
-.brand h1 {
-  margin: 0;
-  color: #e6123d;
-  font-size: 28px;
+.header-text span {
+  color: #ffffff;
+  font-size: 12px;
 }
 
-.brand p,
-.section-title p {
-  margin: 2px 0 0;
-  color: #69707d;
-  font-size: 13px;
-}
+
+/* =========================
+   Cards
+   ========================= */
 
 .card {
-  background: #fff;
-  border: 1px solid #e7e9ee;
+  background: #ffffff;
+
+  border: 1px solid #e5e8ee;
+
   border-radius: 18px;
+
   padding: 18px;
+
   margin-bottom: 16px;
-  box-shadow: 0 4px 18px rgba(20, 25, 35, 0.04);
-}
 
-.welcome {
-  background: linear-gradient(135deg, #fff, #fff5f7);
-  border-color: #ffd6df;
-}
-
-.welcome h2 {
-  margin: 0 0 5px;
-  font-size: 20px;
-}
-
-.welcome p {
-  margin: 0;
-  color: #666;
+  box-shadow:
+    0 4px 18px rgba(20,25,35,0.04);
 }
 
 .section-title {
   display: flex;
   align-items: center;
   justify-content: space-between;
+
   gap: 10px;
+
   margin-bottom: 14px;
 }
 
 .section-title h2 {
   margin: 0;
+
   font-size: 18px;
 }
 
+.section-title p {
+  margin: 3px 0 0;
+
+  color: #777d88;
+
+  font-size: 12px;
+}
+
+
+/* =========================
+   Form
+   ========================= */
+
 .form-grid {
   display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
+
+  grid-template-columns:
+    repeat(2, minmax(0, 1fr));
+
   gap: 12px;
 }
 
 .form-grid label {
-  font-size: 13px;
   color: #50545c;
+  font-size: 13px;
 }
 
 .form-grid input,
 .form-grid select {
   display: block;
+
   width: 100%;
+
   margin-top: 5px;
-  border: 1px solid #d9dde5;
-  border-radius: 11px;
+
   padding: 11px;
-  background: #fff;
+
+  border:
+    1px solid #d9dde5;
+
+  border-radius: 11px;
+
+  background: #ffffff;
+
   font: inherit;
+
   outline: none;
 }
 
 .form-grid input:focus,
 .form-grid select:focus {
-  border-color: #e6123d;
-  box-shadow: 0 0 0 3px rgba(230, 18, 61, 0.08);
+  border-color: #ff8a00;
+
+  box-shadow:
+    0 0 0 3px rgba(255,138,0,0.1);
 }
 
-button {
-  font: inherit;
-  cursor: pointer;
-  border: 0;
-}
+.input-hint {
+  display: block;
 
-.primary,
-.install-btn {
-  background: #e6123d;
-  color: #fff;
-  border-radius: 11px;
-  padding: 11px 16px;
-  font-weight: 700;
-}
+  margin-top: 3px;
 
-.primary:hover,
-.install-btn:hover {
-  filter: brightness(0.95);
+  color: #999;
+
+  font-size: 10px;
 }
 
 .full {
   grid-column: 1 / -1;
 }
 
-.text-btn {
-  background: transparent;
-  color: #e6123d;
-  font-size: 13px;
+.form-actions {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+
+  margin-top: 4px;
 }
 
-.hidden {
-  display: none !important;
+.primary {
+  background: #ff8a00;
+  color: #ffffff;
+
+  border-radius: 11px;
+
+  padding: 11px 16px;
+
+  font-weight: 700;
 }
+
+.primary:hover {
+  filter: brightness(0.95);
+}
+
+.text-btn {
+  background: transparent;
+
+  color: #777;
+
+  font-size: 12px;
+}
+
+.storage-note {
+  margin: 15px 0 0;
+
+  padding-top: 12px;
+
+  border-top: 1px solid #eeeeee;
+
+  text-align: center;
+
+  color: #999;
+
+  font-size: 11px;
+}
+
+
+/* =========================
+   Results
+   ========================= */
 
 .need-summary {
   padding: 14px;
+
   border-radius: 13px;
+
   background: #f7f8fa;
+
   font-size: 14px;
 }
 
@@ -167,145 +411,285 @@ button {
 
 .recommendations {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+
+  grid-template-columns:
+    repeat(3, minmax(0, 1fr));
+
   gap: 12px;
+
   margin-top: 12px;
 }
 
 .recommendation {
   border: 1px solid #e5e7eb;
+
   border-radius: 14px;
+
   padding: 14px;
-  background: #fff;
+
+  background: #ffffff;
 }
 
 .recommendation .score {
-  font-weight: 800;
-  color: #e6123d;
+  color: #ff8a00;
+
   font-size: 20px;
+
+  font-weight: 800;
 }
 
 .recommendation h3 {
   margin: 5px 0;
+
   font-size: 16px;
 }
 
 .recommendation p {
   margin: 3px 0;
+
   color: #666;
+
   font-size: 12px;
 }
 
 .recommendation a {
   display: block;
+
   text-align: center;
+
   margin-top: 10px;
+
   padding: 9px;
+
   border-radius: 9px;
-  background: #fbe9ed;
-  color: #b10d2e;
+
+  background: #fff1df;
+
+  color: #b85d00;
+
   text-decoration: none;
+
   font-size: 13px;
+
   font-weight: 700;
 }
 
+
+/* =========================
+   Platforms
+   ========================= */
+
 .platform-grid {
   display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 12px;
+
+  grid-template-columns:
+    repeat(4, minmax(0, 1fr));
+
+  gap: 10px;
 }
 
 .platform {
   display: flex;
+  flex-direction: column;
+
   align-items: center;
-  justify-content: space-between;
-  gap: 12px;
-  border: 1px solid #e5e7eb;
-  border-radius: 14px;
-  padding: 13px;
+
+  gap: 8px;
+
+  padding: 12px 9px;
+
+  border:
+    1px solid #e5e7eb;
+
+  border-radius: 15px;
+
+  background: #ffffff;
+
   text-decoration: none;
+
   color: inherit;
 }
 
 .platform-main {
+  width: 100%;
+
   display: flex;
+  flex-direction: column;
+
   align-items: center;
-  gap: 10px;
-}
 
-.platform-name {
-  font-weight: 800;
-}
-
-.platform-tag {
-  font-size: 11px;
-  color: #777;
-}
-
-.platform-btn {
-  padding: 8px 11px;
-  border-radius: 9px;
-  background: #e6123d;
-  color: #fff;
-  font-size: 12px;
-  font-weight: 700;
-}
-
-footer {
   text-align: center;
-  color: #888;
-  font-size: 11px;
-  padding: 12px;
+
+  gap: 7px;
 }
+
 .platform-logo {
-  width: 46px;
-  height: 46px;
-  flex: 0 0 46px;
+  width: 48px;
+  height: 48px;
+
+  flex: 0 0 48px;
+
   display: flex;
+
   align-items: center;
   justify-content: center;
+
   overflow: hidden;
-  border-radius: 10px;
+
+  border-radius: 12px;
+
   background: #f4f5f7;
 }
 
 .platform-logo img {
   display: block;
+
   width: 100%;
   height: 100%;
+
   object-fit: contain;
+
   padding: 4px;
 }
+
+.platform-name {
+  display: block;
+
+  font-weight: 800;
+
+  font-size: 13px;
+}
+
+.platform-tag {
+  display: block;
+
+  margin-top: 1px;
+
+  color: #777;
+
+  font-size: 10px;
+}
+
+.platform-btn {
+  width: calc(100% - 8px);
+
+  padding: 7px 6px;
+
+  text-align: center;
+
+  border-radius: 9px;
+
+  background: #101c35;
+
+  color: #ffffff;
+
+  font-size: 11px;
+
+  font-weight: 700;
+}
+
+
+/* =========================
+   Install
+   ========================= */
+
+.install-btn {
+  background: #ff8a00;
+
+  color: #ffffff;
+
+  border-radius: 10px;
+
+  padding: 9px 13px;
+
+  font-size: 11px;
+
+  font-weight: 700;
+}
+
+.hidden {
+  display: none !important;
+}
+
+
+/* =========================
+   Footer
+   ========================= */
+
+footer {
+  padding: 12px;
+
+  text-align: center;
+
+  color: #888;
+
+  font-size: 11px;
+}
+
+
+/* =========================
+   Mobile
+   ========================= */
+
 @media (max-width: 700px) {
+
   .app-shell {
-    padding: 12px;
+    padding:
+      0 12px 12px;
   }
 
-  .hero {
-    align-items: flex-start;
+  .main-header {
+    margin:
+      0 -12px 14px;
+
+    border-radius:
+      0 0 20px 20px;
   }
 
-  .brand h1 {
-    font-size: 23px;
+  .header-content {
+    padding:
+      12px;
   }
 
-  .brand p {
-    font-size: 11px;
+  .header-text strong {
+    font-size: 22px;
   }
 
-  .form-grid,
-  .recommendations,
-  .platform-grid {
+  .header-text span {
+    font-size: 10px;
+  }
+
+  .form-grid {
     grid-template-columns: 1fr;
   }
 
-  .install-btn {
-    white-space: nowrap;
-    font-size: 12px;
+  .recommendations {
+    grid-template-columns: 1fr;
+  }
+
+  .platform-grid {
+    grid-template-columns:
+      repeat(2, minmax(0, 1fr));
   }
 
   .card {
     padding: 14px;
+
     border-radius: 15px;
   }
+
+  .splash-logo-wrap {
+    width: 150px;
+    height: 150px;
+  }
+
+  .splash-logo {
+    width: 122px;
+    height: 122px;
+  }
+
+  .splash-brand h1 {
+    font-size: 30px;
+  }
+
 }
