@@ -10,7 +10,8 @@ const APP_FILES = [
   "./js/need-engine.js",
   "./js/product-scoring.js",
   "./js/platforms.js",
-  "./assets/logos/logo.svg"
+  "./assets/icon-192.png",
+"./assets/icon-512.png"
 ];
 
 
