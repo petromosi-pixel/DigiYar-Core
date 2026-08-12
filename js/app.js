@@ -52,7 +52,12 @@
               <span class="platform-main">
 
                 <span class="platform-logo">
-                  ${escapeHTML(platform.logo)}
+  <img
+    src="${escapeHTML(platform.logo)}"
+    alt="${escapeHTML(platform.name)}"
+    loading="lazy"
+  >
+</span>
                 </span>
 
                 <span>
