@@ -1,44 +1,60 @@
-const CACHE_NAME = "digiyar-v3-cache-v2";
+/* =========================================================
+   DigiYar V3
+   Service Worker
+   Cache Version: 3.1.0
+   ========================================================= */
 
-const APP_FILES = [
+const CACHE_VERSION = "digiyar-v3-3.1.0";
+
+const APP_SHELL = [
   "./",
   "./index.html",
-  "./manifest.json",
   "./css/style.css",
-
   "./js/app.js",
   "./js/user-profile.js",
   "./js/need-engine.js",
   "./js/product-scoring.js",
   "./js/platforms.js",
+  "./manifest.json",
 
-  "./icon/icon-192.png",
-  "./icon/icon-512.png",
-
-  "./assets/logos/logo.png",
-  "./assets/digikala.png",
-  "./assets/snappshop.png",
-  "./assets/torob.png",
-  "./assets/basalam.png"
+  "./assets/icon-192.png",
+  "./assets/icon-512.png"
 ];
+
+
+/* =========================================================
+   Install
+   ========================================================= */
 
 self.addEventListener(
   "install",
   function (event) {
 
     event.waitUntil(
-      caches
-        .open(CACHE_NAME)
+
+      caches.open(CACHE_VERSION)
+
         .then(function (cache) {
-          return cache.addAll(APP_FILES);
+
+          return cache.addAll(APP_SHELL);
+
         })
+
         .then(function () {
+
           return self.skipWaiting();
+
         })
+
     );
 
   }
 );
+
+
+/* =========================================================
+   Activate
+   ========================================================= */
 
 self.addEventListener(
   "activate",
@@ -46,32 +62,38 @@ self.addEventListener(
 
     event.waitUntil(
 
-      caches
-        .keys()
+      caches.keys()
+
         .then(function (cacheNames) {
 
           return Promise.all(
 
-            cacheNames.map(
-              function (cacheName) {
+            cacheNames
 
-                if (
-                  cacheName !== CACHE_NAME
-                ) {
-                  return caches.delete(
-                    cacheName
-                  );
-                }
+              .filter(function (cacheName) {
 
-                return null;
-              }
-            )
+                return (
+                  cacheName !== CACHE_VERSION
+                );
+
+              })
+
+              .map(function (cacheName) {
+
+                return caches.delete(
+                  cacheName
+                );
+
+              })
 
           );
 
         })
+
         .then(function () {
+
           return self.clients.claim();
+
         })
 
     );
@@ -79,61 +101,93 @@ self.addEventListener(
   }
 );
 
+
+/* =========================================================
+   Fetch
+   ========================================================= */
+
 self.addEventListener(
   "fetch",
   function (event) {
 
+    const request = event.request;
+
+    /*
+     * فقط درخواست‌های GET
+     */
+    if (request.method !== "GET") {
+      return;
+    }
+
+    /*
+     * برای درخواست‌های خارجی مثل
+     * Google یا فروشگاه‌ها،
+     * Service Worker دخالت نمی‌کند.
+     */
+    const url = new URL(
+      request.url
+    );
+
     if (
-      event.request.method !== "GET"
+      url.origin !==
+      self.location.origin
     ) {
       return;
     }
 
+
+    /*
+     * Network First
+     *
+     * ابتدا نسخه جدید را از GitHub Pages
+     * می‌گیرد.
+     *
+     * اگر اینترنت در دسترس نبود،
+     * نسخه ذخیره‌شده را استفاده می‌کند.
+     */
+
     event.respondWith(
 
-      caches
-        .match(event.request)
-        .then(function (cachedResponse) {
+      fetch(request)
 
-          if (cachedResponse) {
-            return cachedResponse;
+        .then(function (response) {
+
+          /*
+           * فقط پاسخ معتبر را Cache کن
+           */
+
+          if (
+            response &&
+            response.status === 200 &&
+            response.type === "basic"
+          ) {
+
+            const responseClone =
+              response.clone();
+
+            caches.open(
+              CACHE_VERSION
+            )
+              .then(function (cache) {
+
+                cache.put(
+                  request,
+                  responseClone
+                );
+
+              });
+
           }
 
-          return fetch(event.request)
-            .then(function (networkResponse) {
+          return response;
 
-              if (
-                !networkResponse ||
-                networkResponse.status !== 200 ||
-                networkResponse.type !== "basic"
-              ) {
-                return networkResponse;
-              }
+        })
 
-              const responseClone =
-                networkResponse.clone();
+        .catch(function () {
 
-              caches
-                .open(CACHE_NAME)
-                .then(function (cache) {
-
-                  cache.put(
-                    event.request,
-                    responseClone
-                  );
-
-                });
-
-              return networkResponse;
-
-            })
-            .catch(function () {
-
-              return caches.match(
-                "./index.html"
-              );
-
-            });
+          return caches.match(
+            request
+          );
 
         })
 
