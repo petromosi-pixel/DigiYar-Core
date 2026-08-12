@@ -78,7 +78,10 @@ body {
   object-fit: contain;
 
   display: block;
+
+  border-radius: 32px;
 }
+
 
 .splash-brand h1 {
   margin: 0;
@@ -944,11 +947,12 @@ footer {
     height: 180px;
   }
 
-  .splash-logo {
+.splash-logo {
+  width: 150px;
+  height: 150px;
 
-    width: 150px;
-    height: 150px;
-  }
+  border-radius: 28px;
+}
 
   .splash-brand h1 {
     font-size: 31px;
