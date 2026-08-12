@@ -605,7 +605,7 @@ body {
 
   border-radius: 9px;
 
-  background: #101c35;
+  background: #ff8a00;
 
   color: #ffffff;
 
@@ -677,13 +677,13 @@ footer {
       12px;
   }
 
-  .header-text strong {
-    font-size: 22px;
-  }
+.header-text strong {
+  font-size: 28px;
+}
 
-  .header-text span {
-    font-size: 10px;
-  }
+.header-text span {
+  font-size: 13px;
+}
 
   .form-grid {
     grid-template-columns: 1fr;
@@ -704,15 +704,15 @@ footer {
     border-radius: 15px;
   }
 
-  .splash-logo-wrap {
-    width: 150px;
-    height: 150px;
-  }
+.splash-logo-wrap {
+  width: 180px;
+  height: 180px;
+}
 
-  .splash-logo {
-    width: 122px;
-    height: 122px;
-  }
+.splash-logo {
+  width: 150px;
+  height: 150px;
+}
 
   .splash-brand h1 {
     font-size: 30px;
