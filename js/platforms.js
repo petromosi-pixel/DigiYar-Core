@@ -1,6 +1,7 @@
 /* DigiYar V3 - Shopping Platforms */
 
 (function () {
+
   "use strict";
 
   const platforms = [
@@ -8,7 +9,7 @@
     {
       id: "digikala",
       name: "دیجی‌کالا",
-      tag: "فروشگاه اصلی",
+      tag: "خرید هوشمند",
       logo: "assets/digikala.png",
       url: "https://www.digikala.com/"
     },
