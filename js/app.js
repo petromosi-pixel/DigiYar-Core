@@ -421,16 +421,8 @@
       deferredInstallPrompt =
         event;
 
-      $("installBtn")
-        .classList
-        .remove("hidden");
-
     }
-  );
-
-
-  $("installBtn").addEventListener(
-    "click",
+  
     async function () {
 
       if (!deferredInstallPrompt) {
@@ -527,4 +519,130 @@
     );
 
   }
+
+/* =========================
+   DigiYar V3 - PWA Install
+   ========================= */
+
+let deferredInstallPrompt = null;
+
+const installPrompt =
+  document.getElementById("installPrompt");
+
+const installBtn =
+  document.getElementById("installBtn");
+
+const installDismiss =
+  document.getElementById("installDismiss");
+
+
+window.addEventListener(
+  "beforeinstallprompt",
+  function (event) {
+
+    event.preventDefault();
+
+    deferredInstallPrompt = event;
+
+    if (installPrompt) {
+
+      installPrompt.classList.remove(
+        "hidden"
+      );
+
+      requestAnimationFrame(
+        function () {
+
+          installPrompt.classList.add(
+            "show"
+          );
+
+        }
+      );
+
+    }
+
+  }
+);
+
+
+if (installBtn) {
+
+  installBtn.addEventListener(
+    "click",
+    async function () {
+
+      if (!deferredInstallPrompt) {
+        return;
+      }
+
+      deferredInstallPrompt.prompt();
+
+      const result =
+        await deferredInstallPrompt.userChoice;
+
+      if (
+        result.outcome === "accepted"
+      ) {
+
+        hideInstallPrompt();
+
+      }
+
+      deferredInstallPrompt = null;
+
+    }
+  );
+
+}
+
+
+if (installDismiss) {
+
+  installDismiss.addEventListener(
+    "click",
+    function () {
+
+      hideInstallPrompt();
+
+    }
+  );
+
+}
+
+
+function hideInstallPrompt() {
+
+  if (!installPrompt) {
+    return;
+  }
+
+  installPrompt.classList.remove(
+    "show"
+  );
+
+  setTimeout(
+    function () {
+
+      installPrompt.classList.add(
+        "hidden"
+      );
+
+    },
+    350
+  );
+
+}
+
+
+window.addEventListener(
+  "appinstalled",
+  function () {
+
+    deferredInstallPrompt = null;
+
+    hideInstallPrompt();
+
+  }
+);
 })();
