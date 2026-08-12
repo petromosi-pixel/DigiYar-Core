@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="fa" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#e6123d">
+<meta name="description" content="دیجی‌یار؛ دستیار هوشمند خرید اینترنتی">
+<link rel="manifest" href="manifest.json">
+<link rel="stylesheet" href="css/style.css">
+<title>دیجی‌یار | خرید هوشمند</title>
+</head>
+<body>
+<header class="hero">
+<img src="assets/logos/logo.svg" class="brand-logo" alt="دیجی‌یار">
+<h1>دیجی‌یار</h1>
+<p>همه فروشگاه‌های محبوبت اینجان؛ هوشمندانه انتخاب کن.</p>
+</header>
+<main class="container">
+<section class="intro card">
+<h2>پیشنهاد هوشمند</h2>
+<p>محصولات مناسب را بر اساس بودجه، کاربرد و اولویت‌ها پیدا کن.</p>
+<button id="smartBtn" class="primary">پیشنهاد محصولات</button>
+</section>
+<section id="recommendation" class="card hidden">
+<div class="section-head"><h2>پیشنهادهای دیجی‌یار</h2><span id="recommendationMeta"></span></div>
+<div id="recommendationResults" class="product-grid"></div>
+</section>
+<section class="card">
+<div class="section-head"><h2>فروشگاه‌های محبوب</h2></div>
+<input id="searchBox" class="search" placeholder="🔍 جستجوی فروشگاه..." autocomplete="off">
+<div id="platforms" class="platform-list"></div>
+</section>
+</main>
+<footer>© دیجی‌یار — هوشمندانه انتخاب و آسان‌تر خرید کن</footer>
+<script src="js/platforms.js"></script>
+<script src="js/user-profile.js"></script>
+<script src="js/affiliate-resolver.js"></script>
+<script src="js/product-source.js"></script>
+<script src="js/product-catalog.js"></script>
+<script src="js/product-scoring.js"></script>
+<script src="js/need-engine.js"></script>
+<script src="js/digiyar-engine.js"></script>
+<script src="js/app.js"></script>
+<script>if("serviceWorker"in navigator)window.addEventListener("load",()=>navigator.serviceWorker.register("./sw.js").catch(console.warn));</script>
+</body>
+</html>
