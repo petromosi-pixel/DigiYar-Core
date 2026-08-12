@@ -198,51 +198,70 @@ body {
 /* =========================
    Header
    ========================= */
-
 .main-header {
-  margin: 0 -18px 18px;
+  margin: 0 -18px 22px;
 
   background:
     linear-gradient(
       135deg,
-      #101c35,
-      #182746
+      #182746,
+      #223456
     );
 
-  border-radius: 0 0 24px 24px;
+  border-radius: 0 0 28px 28px;
 
   box-shadow:
-    0 8px 25px rgba(16,28,53,0.18);
+    0 10px 28px rgba(16,28,53,0.18);
 }
 
 .header-content {
-  min-height: 78px;
+  min-height: 118px;
 
   max-width: 980px;
   margin: auto;
 
-  padding: 14px 18px;
+  padding: 20px 18px;
 
   display: flex;
   align-items: center;
-  justify-content: space-between;
-  gap: 15px;
+  justify-content: center;
+
+  position: relative;
+
+.header-content .install-btn {
+  position: absolute;
+
+  left: 18px;
 }
+  }
 
 .header-text {
   display: flex;
   flex-direction: column;
+
+  align-items: center;
+
+  text-align: center;
 }
 
 .header-text strong {
   color: #ff8a00;
-  font-size: 25px;
-  line-height: 1.3;
+
+  font-size: 32px;
+
+  line-height: 1.35;
+
+  font-weight: 900;
 }
 
 .header-text span {
   color: #ffffff;
-  font-size: 12px;
+
+  font-size: 16px;
+
+  font-weight: 500;
+
+  margin-top: 2px;
 }
 
 
