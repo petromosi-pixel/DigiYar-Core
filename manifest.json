@@ -1,1 +1,21 @@
-
+{
+  "name": "DigiYar V3",
+  "short_name": "DigiYar",
+  "description": "پلتفرم هوشمند برای تجربه بهترین خرید اینترنتی",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "dir": "rtl",
+  "lang": "fa",
+  "theme_color": "#e6123d",
+  "background_color": "#f6f7f9",
+  "icons": [
+    {
+      "src": "assets/logos/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
