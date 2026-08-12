@@ -74,15 +74,41 @@
               <span class="platform-main">
 
                 <span class="platform-logo">
-  <img
-    src="${escapeHTML(platform.logo)}"
-    alt="${escapeHTML(platform.name)}"
-    loading="lazy"
-  >
-</span>
-                </span>
 
-                <span>
+  <a
+  class="platform"
+  href="${platform.url}"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+
+  <div class="platform-main">
+
+    <div class="platform-logo">
+
+      <img
+        src="${platform.logo}"
+        alt="${platform.name}"
+        loading="lazy"
+      >
+
+    </div>
+
+    <span class="platform-name">
+      ${platform.name}
+    </span>
+
+    <span class="platform-tag">
+      ${platform.tag}
+    </span>
+
+  </div>
+
+  <span class="platform-btn">
+    ورود به فروشگاه
+  </span>
+
+</a>
 
                   <span class="platform-name">
                     ${escapeHTML(platform.name)}
