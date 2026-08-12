@@ -1,9 +1,53 @@
-/* DigiYar V3 - Main Application */
+/* =========================================================
+   DigiYar V3
+   Main Application
+   ========================================================= */
 
 (function () {
+
   "use strict";
+
+
+  /* =======================================================
+     Helpers
+     ======================================================= */
+
+  function $(id) {
+    return document.getElementById(id);
+  }
+
+
+  function escapeHTML(value) {
+
+    return String(value ?? "").replace(
+      /[&<>"']/g,
+      function (character) {
+
+        const entities = {
+
+          "&": "&amp;",
+          "<": "&lt;",
+          ">": "&gt;",
+          '"': "&quot;",
+          "'": "&#039;"
+
+        };
+
+        return entities[character];
+
+      }
+    );
+
+  }
+
+
+  /* =======================================================
+     Splash Screen
+     ======================================================= */
+
   const splashScreen =
-    document.getElementById("splashScreen");
+    $("splashScreen");
+
 
   function hideSplash() {
 
@@ -18,494 +62,31 @@
     setTimeout(
       function () {
 
-        splashScreen.remove();
+        if (splashScreen) {
+          splashScreen.remove();
+        }
 
       },
       700
     );
 
   }
-  function $(id) {
-    return document.getElementById(id);
-  }
-
-  function escapeHTML(value) {
-    return String(value ?? "").replace(
-      /[&<>"']/g,
-      function (character) {
-        const entities = {
-          "&": "&amp;",
-          "<": "&lt;",
-          ">": "&gt;",
-          '"': "&quot;",
-          "'": "&#039;"
-        };
-
-        return entities[character];
-      }
-    );
-  }
 
 
   /*
-   * نمایش فروشگاه‌ها
-   */
-
-  function renderPlatforms() {
-
-    const container = $("platforms");
-
-    if (!container) {
-      return;
-    }
-
-    container.innerHTML =
-      DigiYarPlatforms.map(
-        function (platform) {
-
-          return `
-            <a
-              class="platform"
-              href="${platform.url}"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-
-              <span class="platform-main">
-
-                <span class="platform-logo">
-
-  <a
-  class="platform"
-  href="${platform.url}"
-  target="_blank"
-  rel="noopener noreferrer"
->
-
-  <div class="platform-main">
-
-    <div class="platform-logo">
-
-      <img
-        src="${platform.logo}"
-        alt="${platform.name}"
-        loading="lazy"
-      >
-
-    </div>
-
-    <span class="platform-name">
-      ${platform.name}
-    </span>
-
-    <span class="platform-tag">
-      ${platform.tag}
-    </span>
-
-  </div>
-
-  <span class="platform-btn">
-    ورود به فروشگاه
-  </span>
-
-</a>
-
-                  <span class="platform-name">
-                    ${escapeHTML(platform.name)}
-                  </span>
-
-                  <br>
-
-                  <span class="platform-tag">
-                    ${escapeHTML(platform.tag)}
-                  </span>
-
-                </span>
-
-              </span>
-
-              <span class="platform-btn">
-                ورود
-              </span>
-
-            </a>
-          `;
-
-        }
-      ).join("");
-
-  }
-
-
-  /*
-   * نمایش پروفایل و پیشنهادها
-   */
-
-  function renderProfile(profile) {
-
-    if (!profile) {
-
-      $("needSummary").className =
-        "need-summary empty";
-
-      $("needSummary").textContent =
-        "هنوز پروفایل خرید ساخته نشده است.";
-
-      $("recommendations").innerHTML = "";
-
-      $("resultHint").textContent =
-        "برای شروع اطلاعات خریدت را وارد کن.";
-
-      return;
-    }
-
-
-    const need =
-      DigiYarNeedEngine
-        .buildNeedFromProfile(profile);
-
-
-    const budget =
-      need.budget &&
-      need.budget.max
-        ? new Intl.NumberFormat("fa-IR")
-            .format(need.budget.max) +
-          " تومان"
-        : "تعیین نشده";
-
-
-    $("needSummary").className =
-      "need-summary";
-
-
-    $("needSummary").innerHTML = `
-
-      <strong>
-        کامل بودن نیاز:
-        ${need.completeness}%
-      </strong>
-
-      <br>
-
-      دسته:
-      ${escapeHTML(need.category)}
-
-      |
-
-      بودجه:
-      ${escapeHTML(budget)}
-
-      <br>
-
-      اولویت‌ها:
-      ${escapeHTML(
-        need.priorities.join("، ") ||
-        "تعیین نشده"
-      )}
-
-      |
-
-      استفاده:
-      ${escapeHTML(
-        need.context.usage ||
-        "تعیین نشده"
-      )}
-
-    `;
-
-
-    const recommendations =
-      DigiYarProductScoring
-        .recommend(need);
-
-
-    if (!recommendations.length) {
-
-      $("recommendations").innerHTML =
-        `
-          <div class="need-summary">
-            برای این دسته محصول هنوز
-            پیشنهاد نمونه‌ای نداریم.
-          </div>
-        `;
-
-      return;
-    }
-
-
-    $("recommendations").innerHTML =
-      recommendations.map(
-        function (product) {
-
-          return `
-
-            <article class="recommendation">
-
-              <div class="score">
-                ${product.score}%
-              </div>
-
-              <h3>
-                ${escapeHTML(
-                  product.name
-                )}
-              </h3>
-
-              <p>
-                ${new Intl.NumberFormat("fa-IR")
-                  .format(product.price)}
-                تومان
-              </p>
-
-              <p>
-                ${escapeHTML(
-                  product.features.join("، ")
-                )}
-              </p>
-
-              <a
-                href="${product.url}"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                مشاهده فروشگاه
-              </a>
-
-            </article>
-
-          `;
-
-        }
-      ).join("");
-
-
-    $("resultHint").textContent =
-      "نتیجه بر اساس پروفایل فعلی محاسبه شده است.";
-
-  }
-
-
-  /*
-   * پر کردن فرم از اطلاعات ذخیره‌شده
-   */
-
-  function fillForm(profile) {
-
-    if (!profile) {
-      return;
-    }
-
-    const declared =
-      profile.declared || {};
-
-
-    $("category").value =
-      declared.category ||
-      "general";
-
-
-    $("budgetMax").value =
-      declared.budget &&
-      declared.budget.max
-        ? declared.budget.max
-        : "";
-
-
-    $("priorities").value =
-      (declared.priorities || [])
-        .join("، ");
-
-
-    $("usage").value =
-      declared.usage || "";
-
-
-    $("requirements").value =
-      (declared.requirements || [])
-        .join("، ");
-
-
-    $("constraints").value =
-      (declared.constraints || [])
-        .join("، ");
-
-  }
-
-
-  /*
-   * ثبت فرم پروفایل
-   */
-
-  $("profileForm").addEventListener(
-    "submit",
-    function (event) {
-
-      event.preventDefault();
-
-
-      const profile =
-        DigiYarUserProfile.normalize({
-
-          category:
-            $("category").value,
-
-          budgetMax:
-            $("budgetMax").value,
-
-          priorities:
-            $("priorities").value,
-
-          usage:
-            $("usage").value,
-
-          requirements:
-            $("requirements").value,
-
-          constraints:
-            $("constraints").value
-
-        });
-
-
-      DigiYarUserProfile.save(
-        profile
-      );
-
-
-      renderProfile(
-        profile
-      );
-
-
-      $("resultSection")
-        .scrollIntoView({
-          behavior: "smooth"
-        });
-
-    }
-  );
-
-
-  /*
-   * پاک کردن پروفایل
-   */
-
-  $("resetProfile").addEventListener(
-    "click",
-    function () {
-
-      DigiYarUserProfile.clear();
-
-      $("profileForm").reset();
-
-      renderProfile(null);
-
-    }
-  );
-
-
-  /*
-   * راه‌اندازی فروشگاه‌ها
-   */
-
-  renderPlatforms();
-
-
-  /*
-   * بازیابی پروفایل قبلی
-   */
-
-  const savedProfile =
-    DigiYarUserProfile
-      .getProfile();
-
-
-  fillForm(
-    savedProfile
-  );
-
-
-  renderProfile(
-    savedProfile
-  );
-
-
-  /*
-   * نصب PWA
-   */
-
-  let deferredInstallPrompt =
-    null;
-
-
-  window.addEventListener(
-    "beforeinstallprompt",
-    function (event) {
-
-      event.preventDefault();
-
-      deferredInstallPrompt =
-        event;
-
-    }
-  
-    async function () {
-
-      if (!deferredInstallPrompt) {
-        return;
-      }
-
-
-      deferredInstallPrompt.prompt();
-
-
-      await deferredInstallPrompt.userChoice;
-
-
-      deferredInstallPrompt = null;
-
-
-      $("installBtn")
-        .classList
-        .add("hidden");
-
-    }
-  );
-
-
-  /*
-   * ثبت Service Worker
-   */
-
-  if ("serviceWorker" in navigator) {
-
-    navigator.serviceWorker
-      .register("sw.js")
-      .catch(function (error) {
-
-        console.error(
-          "DigiYar Service Worker:",
-          error
-        );
-
-      });
-
-  }
-  /*
-   * Splash lifecycle
+   * Splash حداقل 3.2 ثانیه نمایش داده می‌شود.
    *
-   * حداقل زمان نمایش:
-   * 2.2 ثانیه
-   *
-   * حداکثر زمان:
-   * 3.2 ثانیه
+   * حداکثر حدود 4.5 ثانیه بعد،
+   * حتی اگر load event مشکل داشته باشد،
+   * Splash بسته خواهد شد.
    */
 
   const splashStartedAt =
     performance.now();
 
   const MIN_SPLASH_TIME = 3200;
-  const MAX_SPLASH_TIME = 4200;
+  const MAX_SPLASH_TIME = 4500;
+
 
   function finishSplash() {
 
@@ -521,13 +102,11 @@
 
     setTimeout(
       hideSplash,
-      Math.min(
-        remaining,
-        MAX_SPLASH_TIME
-      )
+      remaining
     );
 
   }
+
 
   if (
     document.readyState ===
@@ -541,134 +120,825 @@
     window.addEventListener(
       "load",
       finishSplash,
-      { once: true }
+      {
+        once: true
+      }
     );
 
   }
 
-/* =========================
-   DigiYar V3 - PWA Install
-   ========================= */
 
-let deferredInstallPrompt = null;
+  /*
+   * Fail-safe
+   *
+   * اگر load event یا بخشی از فرآیند
+   * به هر دلیل گیر کرد، Splash
+   * بیشتر از MAX_SPLASH_TIME باقی نمی‌ماند.
+   */
 
-const installPrompt =
-  document.getElementById("installPrompt");
+  setTimeout(
+    function () {
 
-const installBtn =
-  document.getElementById("installBtn");
+      if (
+        splashScreen &&
+        document.body.contains(
+          splashScreen
+        )
+      ) {
 
-const installDismiss =
-  document.getElementById("installDismiss");
+        hideSplash();
+
+      }
+
+    },
+    MAX_SPLASH_TIME
+  );
 
 
-window.addEventListener(
-  "beforeinstallprompt",
-  function (event) {
+  /* =======================================================
+     Shopping Platforms
+     ======================================================= */
 
-    event.preventDefault();
+  function renderPlatforms() {
 
-    deferredInstallPrompt = event;
+    const container =
+      $("platforms");
 
-    if (installPrompt) {
+    if (
+      !container ||
+      !window.DigiYarPlatforms
+    ) {
 
-      installPrompt.classList.remove(
-        "hidden"
-      );
+      return;
 
-      requestAnimationFrame(
-        function () {
+    }
 
-          installPrompt.classList.add(
-            "show"
-          );
+
+    container.innerHTML =
+      DigiYarPlatforms.map(
+        function (platform) {
+
+          return `
+
+            <a
+              class="platform"
+              href="${escapeHTML(
+                platform.url
+              )}"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+
+              <div class="platform-main">
+
+                <div class="platform-logo">
+
+                  <img
+                    src="${escapeHTML(
+                      platform.logo
+                    )}"
+                    alt="${escapeHTML(
+                      platform.name
+                    )}"
+                    loading="lazy"
+                  >
+
+                </div>
+
+
+                <span class="platform-name">
+                  ${escapeHTML(
+                    platform.name
+                  )}
+                </span>
+
+
+                <span class="platform-tag">
+                  ${escapeHTML(
+                    platform.tag
+                  )}
+                </span>
+
+              </div>
+
+
+              <span class="platform-btn">
+                ورود به فروشگاه
+              </span>
+
+            </a>
+
+          `;
 
         }
-      );
+      ).join("");
+
+  }
+
+
+  /* =======================================================
+     Profile Rendering
+     ======================================================= */
+
+  function renderProfile(profile) {
+
+    const needSummary =
+      $("needSummary");
+
+    const recommendationsBox =
+      $("recommendations");
+
+    const resultHint =
+      $("resultHint");
+
+
+    if (
+      !needSummary ||
+      !recommendationsBox ||
+      !resultHint
+    ) {
+
+      return;
+
+    }
+
+
+    if (!profile) {
+
+      needSummary.className =
+        "need-summary empty";
+
+      needSummary.textContent =
+        "هنوز پروفایل خرید ساخته نشده است.";
+
+      recommendationsBox.innerHTML =
+        "";
+
+      resultHint.textContent =
+        "برای شروع اطلاعات خریدت را وارد کن.";
+
+      return;
+
+    }
+
+
+    if (
+      !window.DigiYarNeedEngine
+    ) {
+
+      return;
+
+    }
+
+
+    const need =
+      DigiYarNeedEngine
+        .buildNeedFromProfile(
+          profile
+        );
+
+
+    const budget =
+      need.budget &&
+      need.budget.max
+
+        ? new Intl.NumberFormat(
+            "fa-IR"
+          ).format(
+            need.budget.max
+          ) + " تومان"
+
+        : "تعیین نشده";
+
+
+    const priorities =
+      Array.isArray(
+        need.priorities
+      )
+        ? need.priorities
+        : [];
+
+
+    const usage =
+      need.context &&
+      need.context.usage
+        ? need.context.usage
+        : "تعیین نشده";
+
+
+    needSummary.className =
+      "need-summary";
+
+
+    needSummary.innerHTML = `
+
+      <strong>
+        کامل بودن نیاز:
+        ${escapeHTML(
+          need.completeness ?? 0
+        )}%
+      </strong>
+
+      <br>
+
+      دسته:
+      ${escapeHTML(
+        need.category || "تعیین نشده"
+      )}
+
+      |
+
+      بودجه:
+      ${escapeHTML(
+        budget
+      )}
+
+      <br>
+
+      اولویت‌ها:
+      ${escapeHTML(
+        priorities.join("، ") ||
+        "تعیین نشده"
+      )}
+
+      |
+
+      استفاده:
+      ${escapeHTML(
+        usage
+      )}
+
+    `;
+
+
+    if (
+      !window.DigiYarProductScoring
+    ) {
+
+      recommendationsBox.innerHTML =
+        "";
+
+      return;
+
+    }
+
+
+    const recommendations =
+      DigiYarProductScoring
+        .recommend(
+          need
+        );
+
+
+    if (
+      !Array.isArray(
+        recommendations
+      ) ||
+      !recommendations.length
+    ) {
+
+      recommendationsBox.innerHTML = `
+
+        <div class="need-summary">
+
+          برای این دسته محصول هنوز
+          پیشنهاد نمونه‌ای نداریم.
+
+        </div>
+
+      `;
+
+      resultHint.textContent =
+        "اطلاعات بیشتری وارد کن تا پیشنهادهای دقیق‌تری ساخته شود.";
+
+      return;
+
+    }
+
+
+    recommendationsBox.innerHTML =
+      recommendations.map(
+        function (product) {
+
+          const features =
+            Array.isArray(
+              product.features
+            )
+              ? product.features
+              : [];
+
+
+          const price =
+            product.price != null
+
+              ? new Intl.NumberFormat(
+                  "fa-IR"
+                ).format(
+                  product.price
+                ) + " تومان"
+
+              : "قیمت نامشخص";
+
+
+          return `
+
+            <article
+              class="recommendation"
+            >
+
+              <div class="score">
+                ${escapeHTML(
+                  product.score ?? 0
+                )}%
+              </div>
+
+
+              <h3>
+                ${escapeHTML(
+                  product.name
+                )}
+              </h3>
+
+
+              <p>
+                ${escapeHTML(
+                  price
+                )}
+              </p>
+
+
+              <p>
+                ${escapeHTML(
+                  features.join("، ")
+                )}
+              </p>
+
+
+              <a
+                href="${escapeHTML(
+                  product.url || "#"
+                )}"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                مشاهده فروشگاه
+              </a>
+
+            </article>
+
+          `;
+
+        }
+      ).join("");
+
+
+    resultHint.textContent =
+      "نتیجه بر اساس پروفایل فعلی محاسبه شده است.";
+
+  }
+
+
+  /* =======================================================
+     Fill Profile Form
+     ======================================================= */
+
+  function fillForm(profile) {
+
+    if (!profile) {
+      return;
+    }
+
+
+    const declared =
+      profile.declared || {};
+
+
+    if ($("category")) {
+
+      $("category").value =
+        declared.category ||
+        "general";
+
+    }
+
+
+    if ($("budgetMax")) {
+
+      $("budgetMax").value =
+        declared.budget &&
+        declared.budget.max
+
+          ? declared.budget.max
+
+          : "";
+
+    }
+
+
+    if ($("priorities")) {
+
+      $("priorities").value =
+        (
+          declared.priorities ||
+          []
+        ).join("، ");
+
+    }
+
+
+    if ($("usage")) {
+
+      $("usage").value =
+        declared.usage ||
+        "";
+
+    }
+
+
+    if ($("requirements")) {
+
+      $("requirements").value =
+        (
+          declared.requirements ||
+          []
+        ).join("، ");
+
+    }
+
+
+    if ($("constraints")) {
+
+      $("constraints").value =
+        (
+          declared.constraints ||
+          []
+        ).join("، ");
 
     }
 
   }
-);
 
 
-if (installBtn) {
+  /* =======================================================
+     Profile Form
+     ======================================================= */
 
-  installBtn.addEventListener(
-    "click",
-    async function () {
+  const profileForm =
+    $("profileForm");
 
-      if (!deferredInstallPrompt) {
-        return;
+
+  if (profileForm) {
+
+    profileForm.addEventListener(
+      "submit",
+      function (event) {
+
+        event.preventDefault();
+
+
+        if (
+          !window.DigiYarUserProfile
+        ) {
+
+          return;
+
+        }
+
+
+        const profile =
+          DigiYarUserProfile.normalize({
+
+            category:
+              $("category")
+                ? $("category").value
+                : "",
+
+            budgetMax:
+              $("budgetMax")
+                ? $("budgetMax").value
+                : "",
+
+            priorities:
+              $("priorities")
+                ? $("priorities").value
+                : "",
+
+            usage:
+              $("usage")
+                ? $("usage").value
+                : "",
+
+            requirements:
+              $("requirements")
+                ? $("requirements").value
+                : "",
+
+            constraints:
+              $("constraints")
+                ? $("constraints").value
+                : ""
+
+          });
+
+
+        DigiYarUserProfile.save(
+          profile
+        );
+
+
+        renderProfile(
+          profile
+        );
+
+
+        const resultSection =
+          $("resultSection");
+
+
+        if (resultSection) {
+
+          resultSection.scrollIntoView({
+            behavior: "smooth"
+          });
+
+        }
+
       }
+    );
 
-      deferredInstallPrompt.prompt();
+  }
 
-      const result =
-        await deferredInstallPrompt.userChoice;
 
-      if (
-        result.outcome === "accepted"
-      ) {
+  /* =======================================================
+     Reset Profile
+     ======================================================= */
 
-        hideInstallPrompt();
+  const resetProfile =
+    $("resetProfile");
+
+
+  if (resetProfile) {
+
+    resetProfile.addEventListener(
+      "click",
+      function () {
+
+        if (
+          window.DigiYarUserProfile
+        ) {
+
+          DigiYarUserProfile.clear();
+
+        }
+
+
+        if (
+          $("profileForm")
+        ) {
+
+          $("profileForm").reset();
+
+        }
+
+
+        renderProfile(
+          null
+        );
 
       }
+    );
 
-      deferredInstallPrompt = null;
+  }
+
+
+  /* =======================================================
+     Initialize Platforms
+     ======================================================= */
+
+  renderPlatforms();
+
+
+  /* =======================================================
+     Restore Saved Profile
+     ======================================================= */
+
+  let savedProfile =
+    null;
+
+
+  if (
+    window.DigiYarUserProfile
+  ) {
+
+    savedProfile =
+      DigiYarUserProfile
+        .getProfile();
+
+  }
+
+
+  fillForm(
+    savedProfile
+  );
+
+
+  renderProfile(
+    savedProfile
+  );
+
+
+  /* =======================================================
+     PWA Install Prompt
+     ======================================================= */
+
+  let deferredInstallPrompt =
+    null;
+
+
+  const installPrompt =
+    $("installPrompt");
+
+
+  const installBtn =
+    $("installBtn");
+
+
+  const installDismiss =
+    $("installDismiss");
+
+
+  window.addEventListener(
+    "beforeinstallprompt",
+    function (event) {
+
+      /*
+       * جلوگیری از نمایش خودکار
+       * پنجره نصب مرورگر
+       */
+
+      event.preventDefault();
+
+
+      deferredInstallPrompt =
+        event;
+
+
+      /*
+       * نمایش نوتیفیکیشن اختصاصی DigiYar
+       */
+
+      if (installPrompt) {
+
+        installPrompt.classList.remove(
+          "hidden"
+        );
+
+
+        requestAnimationFrame(
+          function () {
+
+            installPrompt.classList.add(
+              "show"
+            );
+
+          }
+        );
+
+      }
 
     }
   );
 
-}
+
+  if (installBtn) {
+
+    installBtn.addEventListener(
+      "click",
+      async function () {
+
+        if (
+          !deferredInstallPrompt
+        ) {
+
+          return;
+
+        }
 
 
-if (installDismiss) {
+        deferredInstallPrompt.prompt();
 
-  installDismiss.addEventListener(
-    "click",
+
+        try {
+
+          await deferredInstallPrompt
+            .userChoice;
+
+        } catch (error) {
+
+          console.warn(
+            "DigiYar install:",
+            error
+          );
+
+        }
+
+
+        deferredInstallPrompt =
+          null;
+
+
+        hideInstallPrompt();
+
+      }
+    );
+
+  }
+
+
+  if (installDismiss) {
+
+    installDismiss.addEventListener(
+      "click",
+      function () {
+
+        hideInstallPrompt();
+
+      }
+    );
+
+  }
+
+
+  function hideInstallPrompt() {
+
+    if (!installPrompt) {
+      return;
+    }
+
+
+    installPrompt.classList.remove(
+      "show"
+    );
+
+
+    setTimeout(
+      function () {
+
+        installPrompt.classList.add(
+          "hidden"
+        );
+
+      },
+      350
+    );
+
+  }
+
+
+  window.addEventListener(
+    "appinstalled",
     function () {
+
+      deferredInstallPrompt =
+        null;
 
       hideInstallPrompt();
 
     }
   );
 
-}
 
+  /* =======================================================
+     Service Worker
+     ======================================================= */
 
-function hideInstallPrompt() {
+  if (
+    "serviceWorker" in navigator
+  ) {
 
-  if (!installPrompt) {
-    return;
-  }
+    window.addEventListener(
+      "load",
+      function () {
 
-  installPrompt.classList.remove(
-    "show"
-  );
+        navigator.serviceWorker
+          .register(
+            "./sw.js"
+          )
+          .catch(
+            function (error) {
 
-  setTimeout(
-    function () {
+              console.error(
+                "DigiYar Service Worker:",
+                error
+              );
 
-      installPrompt.classList.add(
-        "hidden"
-      );
+            }
+          );
 
-    },
-    350
-  );
-
-}
-
-
-window.addEventListener(
-  "appinstalled",
-  function () {
-
-    deferredInstallPrompt = null;
-
-    hideInstallPrompt();
+      }
+    );
 
   }
-);
+
+
 })();
