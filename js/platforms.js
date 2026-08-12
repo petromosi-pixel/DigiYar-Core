@@ -3,19 +3,13 @@
 (function () {
   "use strict";
 
-  /*
-   * لینک‌های فعلی، لینک عمومی فروشگاه‌ها هستند.
-   * وقتی لینک‌های افیلیت واقعی آماده شدند،
-   * فقط مقدار url هر فروشگاه را تغییر می‌دهیم.
-   */
-
   const platforms = [
 
     {
       id: "digikala",
       name: "دیجی‌کالا",
       tag: "فروشگاه اصلی",
-      logo: "د",
+      logo: "assets/digikala.png",
       url: "https://www.digikala.com/"
     },
 
@@ -23,7 +17,7 @@
       id: "snappshop",
       name: "اسنپ‌شاپ",
       tag: "خرید آنلاین",
-      logo: "س",
+      logo: "assets/snappshop.png",
       url: "https://snapp.shop/"
     },
 
@@ -31,7 +25,7 @@
       id: "torob",
       name: "ترب",
       tag: "مقایسه قیمت",
-      logo: "ت",
+      logo: "assets/torob.png",
       url: "https://torob.com/"
     },
 
@@ -39,14 +33,12 @@
       id: "basalam",
       name: "باسلام",
       tag: "بازار آنلاین",
-      logo: "ب",
+      logo: "assets/basalam.png",
       url: "https://basalam.com/"
     }
 
   ];
 
-
-  window.DigiYarPlatforms =
-    platforms;
+  window.DigiYarPlatforms = platforms;
 
 })();
