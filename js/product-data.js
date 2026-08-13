@@ -3,38 +3,14 @@
 (function () {
   "use strict";
 
+
   /*
    * =========================================================
-   * DigiYar Product Data
-   * =========================================================
-   *
-   * ساختار استاندارد محصول:
-   *
-   * id
-   * name
-   * category
-   * price
-   * store
-   * productUrl
-   * image
-   * features
-   *
-   * store:
-   * نام داخلی فروشگاه
-   *
-   * productUrl:
-   * لینک مستقیم صفحه همان محصول در فروشگاه
-   *
-   * بعداً Affiliate Manager همین
-   * productUrl را به لینک افیلیت تبدیل می‌کند.
+   * Product Catalog
    * =========================================================
    */
 
   const products = [
-
-    /* =======================================================
-       DigiKala
-       ======================================================= */
 
     {
       id: "mobile-001",
@@ -94,10 +70,6 @@
     },
 
 
-    /* =======================================================
-       SnappShop
-       ======================================================= */
-
     {
       id: "mobile-003",
 
@@ -126,10 +98,6 @@
       ]
     },
 
-
-    /* =======================================================
-       Laptop
-       ======================================================= */
 
     {
       id: "laptop-001",
@@ -189,10 +157,6 @@
     },
 
 
-    /* =======================================================
-       Tablet
-       ======================================================= */
-
     {
       id: "tablet-001",
 
@@ -224,17 +188,127 @@
   ];
 
 
-  /* =========================================================
-     Product Data API
-     ========================================================= */
+  /*
+   * =========================================================
+   * ابزار نرمال‌سازی متن
+   * =========================================================
+   */
+
+  function normalizeText(value) {
+
+    return String(
+      value || ""
+    )
+      .trim()
+      .toLowerCase();
+
+  }
+
+
+  /*
+   * =========================================================
+   * جستجو در کاتالوگ
+   * =========================================================
+   *
+   * جستجو در:
+   *
+   * 1. نام محصول
+   * 2. دسته محصول
+   * 3. فروشگاه
+   * 4. ویژگی‌ها
+   *
+   * =========================================================
+   */
+
+  function search(query) {
+
+    const normalizedQuery =
+      normalizeText(query);
+
+
+    if (!normalizedQuery) {
+
+      return [];
+
+    }
+
+
+    return products.filter(
+      function (product) {
+
+        const name =
+          normalizeText(
+            product.name
+          );
+
+
+        const category =
+          normalizeText(
+            product.category
+          );
+
+
+        const store =
+          normalizeText(
+            product.store
+          );
+
+
+        const features =
+          Array.isArray(
+            product.features
+          )
+            ? product.features
+                .map(normalizeText)
+                .join(" ")
+            : "";
+
+
+        return (
+
+          name.includes(
+            normalizedQuery
+          ) ||
+
+          category.includes(
+            normalizedQuery
+          ) ||
+
+          store.includes(
+            normalizedQuery
+          ) ||
+
+          features.includes(
+            normalizedQuery
+          )
+
+        );
+
+      }
+    );
+
+  }
+
+
+  /*
+   * =========================================================
+   * Product Data API
+   * =========================================================
+   */
 
   const DigiYarProductData = {
 
     version:
-      "3.1.0",
+      "3.1.1",
+
 
     products:
       products,
+
+
+    /*
+     * تمام محصولات
+     */
 
     getAll:
       function () {
@@ -243,18 +317,30 @@
 
       },
 
+
+    /*
+     * دریافت محصول با ID
+     */
+
     getById:
       function (id) {
 
         return products.find(
           function (product) {
 
-            return product.id === id;
+            return (
+              product.id === id
+            );
 
           }
         ) || null;
 
       },
+
+
+    /*
+     * دریافت محصولات یک فروشگاه
+     */
 
     getByStore:
       function (store) {
@@ -271,6 +357,11 @@
 
       },
 
+
+    /*
+     * دریافت محصولات یک دسته
+     */
+
     getByCategory:
       function (category) {
 
@@ -284,10 +375,24 @@
           }
         );
 
-      }
+      },
+
+
+    /*
+     * جستجوی محصول
+     */
+
+    search:
+      search
 
   };
 
+
+  /*
+   * =========================================================
+   * انتشار API
+   * =========================================================
+   */
 
   window.DigiYarProductData =
     DigiYarProductData;
