@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>تست Product Scoring - دیجی‌یار</title>
+
+  <style>
+    body {
+      font-family: Tahoma, Arial, sans-serif;
+      background: #f5f6f8;
+      padding: 20px;
+      line-height: 1.8;
+    }
+
+    .box {
+      max-width: 700px;
+      margin: auto;
+      background: #fff;
+      padding: 20px;
+      border-radius: 16px;
+    }
+
+    button {
+      padding: 10px 16px;
+      border: 0;
+      border-radius: 10px;
+      background: #ff8a00;
+      color: #fff;
+      font-family: inherit;
+      cursor: pointer;
+    }
+
+    pre {
+      direction: ltr;
+      text-align: left;
+      white-space: pre-wrap;
+      background: #f1f2f4;
+      padding: 14px;
+      border-radius: 10px;
+      overflow-x: auto;
+    }
+
+    .test {
+      margin-top: 20px;
+      padding: 14px;
+      border-radius: 12px;
+      background: #f7f8fa;
+    }
+  </style>
+</head>
+
+<body>
+
+<div class="box">
+
+  <h1>تست Product Scoring دیجی‌یار</h1>
+
+  <button id="runTest">
+    اجرای تست
+  </button>
+
+  <div id="output"></div>
+
+</div>
+
+
+<script src="js/affiliate.js"></script>
+<script src="js/product-data.js"></script>
+<script src="js/product-scoring.js"></script>
+
+
+<script>
+
+(function () {
+
+  "use strict";
+
+
+  const output =
+    document.getElementById("output");
+
+
+  document
+    .getElementById("runTest")
+    .addEventListener(
+      "click",
+      function () {
+
+        output.innerHTML = "";
+
+
+        /*
+         * بررسی Product Data
+         */
+
+        if (
+          !window.DigiYarProductData
+        ) {
+
+          output.innerHTML =
+            "<p>✗ Product Data Layer پیدا نشد.</p>";
+
+          return;
+
+        }
+
+
+        /*
+         * بررسی Product Scoring
+         */
+
+        if (
+          !window.DigiYarProductScoring
+        ) {
+
+          output.innerHTML =
+            "<p>✗ Product Scoring Engine پیدا نشد.</p>";
+
+          return;
+
+        }
+
+
+        const budgets = [
+          8000000,
+          10000000,
+          15000000,
+          500000000
+        ];
+
+
+        budgets.forEach(
+          function (budget) {
+
+            const need = {
+
+              category:
+                "mobile",
+
+              intent:
+                "purchase",
+
+              budget: {
+
+                min: null,
+
+                max:
+                  budget
+
+              },
+
+              priorities: [],
+
+              requirements: [],
+
+              constraints: [],
+
+              context: {
+
+                usage: ""
+
+              }
+
+            };
+
+
+            const results =
+              DigiYarProductScoring
+                .recommend(
+                  need
+                );
+
+
+            const insideBudget =
+              results.filter(
+                function (product) {
+
+                  return (
+                    Number(
+                      product.price
+                    ) <=
+                    budget
+                  );
+
+                }
+              );
+
+
+            const test =
+              document.createElement(
+                "div"
+              );
+
+
+            test.className =
+              "test";
+
+
+            test.innerHTML = `
+
+              <h3>
+                بودجه:
+                ${new Intl.NumberFormat("fa-IR")
+                  .format(budget)}
+                تومان
+              </h3>
+
+              <p>
+                تعداد پیشنهادها:
+                ${results.length}
+              </p>
+
+              <p>
+                تعداد داخل بودجه:
+                ${insideBudget.length}
+              </p>
+
+              <pre>
+${JSON.stringify(
+  results.map(
+    function (product) {
+
+      return {
+
+        name:
+          product.name,
+
+        price:
+          product.price,
+
+        score:
+          product.score,
+
+        store:
+          product.store,
+
+        url:
+          product.url
+
+      };
+
+    }
+  ),
+  null,
+  2
+)}
+              </pre>
+
+            `;
+
+
+            output.appendChild(
+              test
+            );
+
+          }
+        );
+
+      }
+    );
+
+})();
+
+</script>
+
+</body>
+</html>
