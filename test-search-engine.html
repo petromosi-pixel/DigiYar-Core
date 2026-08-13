@@ -1,0 +1,473 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  >
+
+  <title>DigiYar V3 - Search Engine Test</title>
+
+  <style>
+
+    body {
+      margin: 0;
+      padding: 20px;
+
+      font-family:
+        Tahoma,
+        Arial,
+        sans-serif;
+
+      background: #f5f6f8;
+
+      color: #202124;
+    }
+
+    .container {
+      max-width: 760px;
+
+      margin: auto;
+
+      background: #ffffff;
+
+      padding: 20px;
+
+      border-radius: 16px;
+
+      box-shadow:
+        0 6px 24px
+        rgba(0, 0, 0, 0.06);
+    }
+
+    h2 {
+      margin-top: 0;
+
+      text-align: center;
+    }
+
+    input {
+      width: 100%;
+
+      box-sizing: border-box;
+
+      padding: 12px;
+
+      border:
+        1px solid #ddd;
+
+      border-radius: 10px;
+
+      font-family: inherit;
+
+      font-size: 14px;
+
+      outline: none;
+    }
+
+    input:focus {
+      border-color: #ff8a00;
+
+      box-shadow:
+        0 0 0 3px
+        rgba(255, 138, 0, 0.1);
+    }
+
+    button {
+      width: 100%;
+
+      margin-top: 10px;
+
+      padding: 11px 18px;
+
+      border: 0;
+
+      border-radius: 10px;
+
+      background: #ff8a00;
+
+      color: #ffffff;
+
+      font-family: inherit;
+
+      font-weight: bold;
+
+      cursor: pointer;
+    }
+
+    button:hover {
+      filter: brightness(0.95);
+    }
+
+    .result {
+      margin-top: 12px;
+
+      padding: 12px;
+
+      background: #f7f8fa;
+
+      border-radius: 10px;
+    }
+
+    .success {
+      color: #16803c;
+
+      font-weight: bold;
+    }
+
+    .error {
+      color: #c62828;
+
+      font-weight: bold;
+    }
+
+    .product {
+      margin-top: 12px;
+
+      padding: 14px;
+
+      background: #ffffff;
+
+      border:
+        1px solid #e5e7eb;
+
+      border-radius: 12px;
+    }
+
+    pre {
+      direction: ltr;
+
+      text-align: left;
+
+      white-space: pre-wrap;
+
+      word-break: break-word;
+
+      background: #eeeeee;
+
+      padding: 10px;
+
+      border-radius: 8px;
+
+      font-size: 11px;
+
+      overflow-x: auto;
+    }
+
+  </style>
+
+</head>
+
+
+<body>
+
+  <div class="container">
+
+    <h2>
+      تست Search Engine دیجی‌یار
+    </h2>
+
+    <input
+      id="searchInput"
+      type="text"
+      placeholder="مثلاً موبایل"
+      autocomplete="off"
+    >
+
+    <button id="searchButton">
+      جستجو
+    </button>
+
+    <div id="result"></div>
+
+  </div>
+
+
+  <!--
+    ترتیب بارگذاری مهم است:
+    Product Data باید قبل از Search Engine باشد.
+  -->
+
+  <script src="js/product-data.js"></script>
+
+  <script src="js/search-engine.js"></script>
+
+
+  <script>
+
+    (function () {
+
+      "use strict";
+
+
+      const input =
+        document.getElementById(
+          "searchInput"
+        );
+
+
+      const button =
+        document.getElementById(
+          "searchButton"
+        );
+
+
+      const result =
+        document.getElementById(
+          "result"
+        );
+
+
+      function runSearch() {
+
+        const query =
+          input.value.trim();
+
+
+        /*
+         * بررسی عبارت جستجو
+         */
+
+        if (!query) {
+
+          result.innerHTML = `
+
+            <div class="error">
+
+              ✗ عبارت جستجو را وارد کن.
+
+            </div>
+
+          `;
+
+          return;
+
+        }
+
+
+        /*
+         * بررسی Search Engine
+         */
+
+        if (
+          !window.DigiYarSearchEngine
+        ) {
+
+          result.innerHTML = `
+
+            <div class="error">
+
+              ✗ Search Engine بارگذاری نشده است.
+
+            </div>
+
+          `;
+
+          return;
+
+        }
+
+
+        /*
+         * اجرای جستجو
+         */
+
+        let products = [];
+
+
+        try {
+
+          products =
+            DigiYarSearchEngine
+              .search(query);
+
+        } catch (error) {
+
+          console.error(error);
+
+
+          result.innerHTML = `
+
+            <div class="error">
+
+              ✗ هنگام اجرای جستجو خطایی رخ داد.
+
+            </div>
+
+            <pre>
+${String(error)}
+            </pre>
+
+          `;
+
+          return;
+
+        }
+
+
+        /*
+         * بدون نتیجه
+         */
+
+        if (!products.length) {
+
+          result.innerHTML = `
+
+            <div class="error">
+
+              ✗ محصولی برای «${query}»
+              پیدا نشد.
+
+            </div>
+
+          `;
+
+          return;
+
+        }
+
+
+        /*
+         * نمایش نتایج
+         */
+
+        result.innerHTML = `
+
+          <div class="success">
+
+            ✓ جستجو با موفقیت انجام شد
+
+          </div>
+
+          <p>
+
+            عبارت جستجو:
+
+            <strong>
+              ${query}
+            </strong>
+
+          </p>
+
+          <p>
+
+            تعداد نتایج:
+
+            <strong>
+              ${products.length}
+            </strong>
+
+          </p>
+
+          ${products.map(
+
+            function (product) {
+
+              return `
+
+                <div class="product">
+
+                  <strong>
+                    ${product.name}
+                  </strong>
+
+                  <br><br>
+
+                  فروشگاه:
+
+                  <strong>
+                    ${product.store}
+                  </strong>
+
+                  <br>
+
+                  دسته:
+
+                  ${product.category}
+
+                  <br>
+
+                  قیمت:
+
+                  ${new Intl.NumberFormat(
+                    "fa-IR"
+                  ).format(
+                    product.price
+                  )}
+
+                  تومان
+
+                  <br>
+
+                  ویژگی‌ها:
+
+                  ${
+                    Array.isArray(
+                      product.features
+                    )
+                      ? product.features.join("، ")
+                      : "—"
+                  }
+
+                  <pre>
+${JSON.stringify(
+  product,
+  null,
+  2
+)}
+                  </pre>
+
+                </div>
+
+              `;
+
+            }
+
+          ).join("")}
+
+        `;
+
+      }
+
+
+      /*
+       * دکمه جستجو
+       */
+
+      button.addEventListener(
+        "click",
+        runSearch
+      );
+
+
+      /*
+       * جستجو با Enter
+       */
+
+      input.addEventListener(
+        "keydown",
+        function (event) {
+
+          if (
+            event.key === "Enter"
+          ) {
+
+            runSearch();
+
+          }
+
+        }
+      );
+
+
+    })();
+
+  </script>
+
+</body>
+
+</html>
