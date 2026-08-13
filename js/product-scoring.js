@@ -7,17 +7,18 @@
   /*
    * =========================================================
    * DigiYar Product Scoring Engine
+   * Version 4.3.0
    * =========================================================
    *
-   * وظایف:
+   * امتیازدهی:
    *
-   * 1. دریافت محصولات از Product Data Layer
-   * 2. بررسی دسته محصول
-   * 3. اعمال سقف بودجه به عنوان محدودیت سخت
-   * 4. امتیازدهی بر اساس اولویت‌ها
-   * 5. امتیازدهی بر اساس نیازهای ضروری
-   * 6. بررسی محدودیت‌ها
-   * 7. ساخت لینک افیلیت
+   * Category       = +30
+   * Priority       = +8
+   * Requirement    = +15
+   * Constraint     = -10
+   *
+   * محصول خارج از سقف بودجه:
+   * حذف کامل از پیشنهادها
    *
    * =========================================================
    */
@@ -42,56 +43,123 @@
 
   /*
    * =========================================================
-   * دریافت اولویت‌ها و نیازهای ضروری
+   * استخراج Priority ها
    * =========================================================
    */
 
-  function getWantedItems(need) {
+  function getPriorities(need) {
 
-    if (!need) {
+    if (
+      !need ||
+      !Array.isArray(
+        need.priorities
+      )
+    ) {
 
       return [];
 
     }
 
 
-    const priorities =
-      Array.isArray(
-        need.priorities
-      )
-        ? need.priorities
-        : [];
-
-
-    const requirements =
-      Array.isArray(
-        need.requirements
-      )
-        ? need.requirements
-            .map(
-              function (item) {
-
-                return (
-                  item &&
-                  item.value
-                ) || "";
-
-              }
-            )
-        : [];
-
-
-    return [
-      ...priorities,
-      ...requirements
-    ];
+    return need.priorities;
 
   }
 
 
   /*
    * =========================================================
-   * محاسبه امتیاز محصول
+   * استخراج Requirement ها
+   * =========================================================
+   */
+
+  function getRequirements(need) {
+
+    if (
+      !need ||
+      !Array.isArray(
+        need.requirements
+      )
+    ) {
+
+      return [];
+
+    }
+
+
+    return need.requirements.map(
+      function (item) {
+
+        return (
+          item &&
+          item.value
+        ) || "";
+
+      }
+    );
+
+  }
+
+
+  /*
+   * =========================================================
+   * بررسی تطابق ویژگی
+   * =========================================================
+   */
+
+  function hasFeature(
+    product,
+    wantedItem
+  ) {
+
+    const wantedText =
+      normalizeText(
+        wantedItem
+      );
+
+
+    if (!wantedText) {
+
+      return false;
+
+    }
+
+
+    const features =
+      Array.isArray(
+        product.features
+      )
+        ? product.features
+        : [];
+
+
+    return features.some(
+      function (feature) {
+
+        const featureText =
+          normalizeText(
+            feature
+          );
+
+
+        return (
+          featureText.includes(
+            wantedText
+          ) ||
+
+          wantedText.includes(
+            featureText
+          )
+        );
+
+      }
+    );
+
+  }
+
+
+  /*
+   * =========================================================
+   * محاسبه امتیاز
    * =========================================================
    */
 
@@ -99,6 +167,9 @@
     product,
     need
   ) {
+
+    let score = 0;
+
 
     if (
       !product ||
@@ -108,9 +179,6 @@
       return 0;
 
     }
-
-
-    let score = 0;
 
 
     /*
@@ -135,89 +203,62 @@
      * 2. بودجه
      * -------------------------------------------------------
      *
-     * بودجه در این نسخه «معیار برتری» نیست.
+     * محصول خارج از سقف بودجه
+     * اصلاً امتیاز نمی‌گیرد.
      *
-     * فقط مشخص می‌کند محصول اجازه ورود
-     * به لیست پیشنهادها را دارد یا خیر.
-     *
-     * فیلتر سخت بودجه در recommend()
-     * انجام می‌شود.
-     *
+     * recommend() نیز این محصولات
+     * را قبل از امتیازدهی حذف می‌کند.
      * -------------------------------------------------------
      */
+
+    const maxBudget =
+      Number(
+        need.budget &&
+        need.budget.max
+      ) || 0;
+
+
+    const productPrice =
+      Number(
+        product.price
+      ) || 0;
+
+
+    if (
+      maxBudget > 0 &&
+      productPrice > maxBudget
+    ) {
+
+      return 0;
+
+    }
 
 
     /*
      * -------------------------------------------------------
-     * 3. اولویت‌ها و نیازهای ضروری
+     * 3. Priority
+     * -------------------------------------------------------
+     *
+     * هر Priority منطبق:
+     * +8
      * -------------------------------------------------------
      */
 
-    const wanted =
-      getWantedItems(
+    const priorities =
+      getPriorities(
         need
       );
 
 
-    wanted.forEach(
-      function (wantedItem) {
+    priorities.forEach(
+      function (priority) {
 
-        const wantedText =
-          normalizeText(
-            wantedItem
-          );
-
-
-        if (!wantedText) {
-
-          return;
-
-        }
-
-
-        const matched =
-          (
-            Array.isArray(
-              product.features
-            )
-              ? product.features
-              : []
+        if (
+          hasFeature(
+            product,
+            priority
           )
-          .some(
-            function (feature) {
-
-              const featureText =
-                normalizeText(
-                  feature
-                );
-
-
-              if (
-                !featureText
-              ) {
-
-                return false;
-
-              }
-
-
-              return (
-
-                featureText.includes(
-                  wantedText
-                ) ||
-
-                wantedText.includes(
-                  featureText
-                )
-
-              );
-
-            }
-          );
-
-
-        if (matched) {
+        ) {
 
           score += 8;
 
@@ -229,7 +270,50 @@
 
     /*
      * -------------------------------------------------------
-     * 4. محدودیت‌ها
+     * 4. Requirement
+     * -------------------------------------------------------
+     *
+     * هر Requirement منطبق:
+     * +15
+     *
+     * Requirement عمداً وزن بیشتری
+     * از Priority دارد.
+     * -------------------------------------------------------
+     */
+
+    const requirements =
+      getRequirements(
+        need
+      );
+
+
+    requirements.forEach(
+      function (requirement) {
+
+        if (
+          hasFeature(
+            product,
+            requirement
+          )
+        ) {
+
+          score += 15;
+
+        }
+
+      }
+    );
+
+
+    /*
+     * -------------------------------------------------------
+     * 5. Constraint
+     * -------------------------------------------------------
+     *
+     * اگر ویژگی محصول با یک Constraint
+     * تعارض داشته باشد:
+     *
+     * -10
      * -------------------------------------------------------
      */
 
@@ -260,19 +344,18 @@
 
         const conflict =
           (
-            Array.isArray(
-              product.features
-            )
-              ? product.features
-              : []
-          )
-          .some(
+            product.features || []
+          ).some(
             function (feature) {
 
-              return (
+              const featureText =
                 normalizeText(
                   feature
-                ) ===
+                );
+
+
+              return (
+                featureText ===
                 value
               );
 
@@ -292,7 +375,7 @@
 
     /*
      * -------------------------------------------------------
-     * 5. محدود کردن امتیاز
+     * 6. محدود کردن امتیاز
      * -------------------------------------------------------
      */
 
@@ -338,7 +421,7 @@
 
 
     /*
-     * تبدیل لینک عادی به لینک افیلیت
+     * تبدیل به لینک افیلیت
      */
 
     if (
@@ -365,7 +448,7 @@
 
 
     /*
-     * اگر فروشگاه هنوز افیلیت نداشته باشد،
+     * اگر افیلیت موجود نبود،
      * لینک مستقیم حفظ می‌شود.
      */
 
@@ -456,7 +539,7 @@
 
 
         /*
-         * دریافت کل محصولات
+         * دریافت محصولات
          */
 
         const products =
@@ -465,12 +548,9 @@
 
 
         /*
-         * =================================================
-         * فیلتر سخت
-         * =================================================
-         *
-         * محصول خارج از دسته یا سقف بودجه
-         * اصلاً وارد مرحله امتیازدهی نمی‌شود.
+         * ---------------------------------------------------
+         * فیلتر دسته و بودجه
+         * ---------------------------------------------------
          */
 
         const filteredProducts =
@@ -483,8 +563,8 @@
 
               if (
                 need.category &&
-                product.category !==
-                need.category
+                need.category !==
+                product.category
               ) {
 
                 return false;
@@ -522,9 +602,9 @@
 
 
         /*
-         * =================================================
-         * امتیازدهی
-         * =================================================
+         * ---------------------------------------------------
+         * امتیازدهی و مرتب‌سازی
+         * ---------------------------------------------------
          */
 
         return filteredProducts
@@ -541,25 +621,12 @@
           )
 
 
-          /*
-           * =================================================
-           * مرتب‌سازی
-           * =================================================
-           *
-           * اول:
-           * امتیاز بیشتر
-           *
-           * دوم:
-           * قیمت کمتر
-           *
-           * سوم:
-           * ID محصول برای جلوگیری از ترتیب تصادفی
-           *
-           * =================================================
-           */
-
           .sort(
             function (a, b) {
+
+              /*
+               * اول امتیاز بالاتر
+               */
 
               if (
                 b.score !==
@@ -574,29 +641,17 @@
               }
 
 
-              const priceDifference =
+              /*
+               * در امتیاز برابر:
+               * محصول ارزان‌تر بالاتر
+               */
+
+              return (
                 Number(
                   a.price || 0
                 ) -
                 Number(
                   b.price || 0
-                );
-
-
-              if (
-                priceDifference !== 0
-              ) {
-
-                return priceDifference;
-
-              }
-
-
-              return String(
-                a.id || ""
-              ).localeCompare(
-                String(
-                  b.id || ""
                 )
               );
 
@@ -605,7 +660,7 @@
 
 
           /*
-           * فعلاً حداکثر ۳ پیشنهاد
+           * حداکثر ۳ پیشنهاد
            */
 
           .slice(
