@@ -8,6 +8,7 @@
   <title>تست Product Scoring - دیجی‌یار</title>
 
   <style>
+
     body {
       font-family: Tahoma, Arial, sans-serif;
       background: #f5f6f8;
@@ -31,6 +32,7 @@
       color: #fff;
       font-family: inherit;
       cursor: pointer;
+      margin-bottom: 10px;
     }
 
     pre {
@@ -49,8 +51,26 @@
       border-radius: 12px;
       background: #f7f8fa;
     }
+
+    .success {
+      color: green;
+      font-weight: bold;
+    }
+
+    .warning {
+      color: #b36b00;
+      font-weight: bold;
+    }
+
+    .error {
+      color: red;
+      font-weight: bold;
+    }
+
   </style>
+
 </head>
+
 
 <body>
 
@@ -66,6 +86,10 @@
 
 </div>
 
+
+<!-- =====================================================
+     DigiYar Engines
+     ===================================================== -->
 
 <script src="js/affiliate.js"></script>
 <script src="js/product-data.js"></script>
@@ -93,7 +117,9 @@
 
 
         /*
+         * =================================================
          * بررسی Product Data
+         * =================================================
          */
 
         if (
@@ -101,7 +127,7 @@
         ) {
 
           output.innerHTML =
-            "<p>✗ Product Data Layer پیدا نشد.</p>";
+            "<p class='error'>✗ Product Data Layer پیدا نشد.</p>";
 
           return;
 
@@ -109,7 +135,9 @@
 
 
         /*
+         * =================================================
          * بررسی Product Scoring
+         * =================================================
          */
 
         if (
@@ -117,23 +145,51 @@
         ) {
 
           output.innerHTML =
-            "<p>✗ Product Scoring Engine پیدا نشد.</p>";
+            "<p class='error'>✗ Product Scoring Engine پیدا نشد.</p>";
 
           return;
 
         }
 
 
+        /*
+         * =================================================
+         * تست ۱ تا ۴:
+         * بررسی رفتار موتور در بودجه‌های مختلف
+         * =================================================
+         */
+
         const budgets = [
+
           8000000,
+
           10000000,
+
           15000000,
+
           500000000
+
         ];
+
+
+        const budgetTitle =
+          document.createElement(
+            "h2"
+          );
+
+
+        budgetTitle.textContent =
+          "۱) تست رفتار بودجه";
+
+
+        output.appendChild(
+          budgetTitle
+        );
 
 
         budgets.forEach(
           function (budget) {
+
 
             const need = {
 
@@ -168,7 +224,7 @@
 
 
             const results =
-              DigiYarProductScoring
+              window.DigiYarProductScoring
                 .recommend(
                   need
                 );
@@ -218,36 +274,34 @@
                 ${insideBudget.length}
               </p>
 
-              <pre>
-${JSON.stringify(
-  results.map(
-    function (product) {
+              <pre>${JSON.stringify(
+                results.map(
+                  function (product) {
 
-      return {
+                    return {
 
-        name:
-          product.name,
+                      name:
+                        product.name,
 
-        price:
-          product.price,
+                      price:
+                        product.price,
 
-        score:
-          product.score,
+                      score:
+                        product.score,
 
-        store:
-          product.store,
+                      store:
+                        product.store,
 
-        url:
-          product.url
+                      url:
+                        product.url
 
-      };
+                    };
 
-    }
-  ),
-  null,
-  2
-)}
-              </pre>
+                  }
+                ),
+                null,
+                2
+              )}</pre>
 
             `;
 
@@ -259,6 +313,242 @@ ${JSON.stringify(
           }
         );
 
+
+        /*
+         * =================================================
+         * تست Constraint
+         * =================================================
+         */
+
+        const constraintTitle =
+          document.createElement(
+            "h2"
+          );
+
+
+        constraintTitle.textContent =
+          "۲) تست Constraint";
+
+
+        output.appendChild(
+          constraintTitle
+        );
+
+
+        /*
+         * سناریو:
+         *
+         * دسته: موبایل
+         * بودجه: ۱۵ میلیون
+         * Constraint: وزن کم
+         *
+         * طبق منطق فعلی موتور:
+         *
+         * mobile-003 دارای ویژگی «وزن کم» است.
+         *
+         * بنابراین باید ۱۰ امتیاز جریمه شود.
+         *
+         * محصولات دیگر چنین ویژگی‌ای ندارند.
+         */
+
+
+        const constraintNeed = {
+
+          category:
+            "mobile",
+
+          intent:
+            "purchase",
+
+          budget: {
+
+            min: null,
+
+            max:
+              15000000
+
+          },
+
+          priorities: [],
+
+          requirements: [],
+
+          constraints: [
+
+            {
+              id:
+                "constraints",
+
+              value:
+                "وزن کم"
+
+            }
+
+          ],
+
+          context: {
+
+            usage: ""
+
+          }
+
+        };
+
+
+        const constraintResults =
+          window.DigiYarProductScoring
+            .recommend(
+              constraintNeed
+            );
+
+
+        const constraintTest =
+          document.createElement(
+            "div"
+          );
+
+
+        constraintTest.className =
+          "test";
+
+
+        constraintTest.innerHTML = `
+
+          <h3>
+            بودجه: ۱۵٬۰۰۰٬۰۰۰ تومان
+          </h3>
+
+          <p>
+            محدودیت:
+            <strong>وزن کم</strong>
+          </p>
+
+          <p>
+            تعداد پیشنهادها:
+            ${constraintResults.length}
+          </p>
+
+          <p>
+            انتظار:
+            محصول «موبایل باتری‌محور» باید به دلیل
+            داشتن ویژگی «وزن کم»، ۱۰ امتیاز جریمه شود.
+          </p>
+
+          <pre>${JSON.stringify(
+            constraintResults.map(
+              function (product) {
+
+                return {
+
+                  name:
+                    product.name,
+
+                  price:
+                    product.price,
+
+                  score:
+                    product.score,
+
+                  features:
+                    product.features,
+
+                  store:
+                    product.store,
+
+                  url:
+                    product.url
+
+                };
+
+              }
+            ),
+            null,
+            2
+          )}</pre>
+
+        `;
+
+
+        output.appendChild(
+          constraintTest
+        );
+
+
+        /*
+         * =================================================
+         * بررسی خودکار نتیجه Constraint
+         * =================================================
+         */
+
+        const batteryProduct =
+          constraintResults.find(
+            function (product) {
+
+              return (
+                product.id ===
+                "mobile-003"
+              );
+
+            }
+          );
+
+
+        const verification =
+          document.createElement(
+            "div"
+          );
+
+
+        verification.className =
+          "test";
+
+
+        if (
+          batteryProduct &&
+          batteryProduct.score === 20
+        ) {
+
+          verification.innerHTML = `
+
+            <p class="success">
+              ✓ Constraint با موفقیت اعمال شد.
+            </p>
+
+            <p>
+              محصول «موبایل باتری‌محور» دارای
+              ویژگی «وزن کم» است و امتیاز آن
+              از ۳۰ به ۲۰ کاهش یافته است.
+            </p>
+
+          `;
+
+        } else {
+
+          verification.innerHTML = `
+
+            <p class="error">
+              ✗ نتیجه Constraint مطابق انتظار نیست.
+            </p>
+
+            <p>
+              امتیاز فعلی موبایل باتری‌محور:
+              ${
+                batteryProduct
+                  ? batteryProduct.score
+                  : "محصول پیدا نشد"
+              }
+            </p>
+
+          `;
+
+        }
+
+
+        output.appendChild(
+          verification
+        );
+
+
       }
     );
 
@@ -267,4 +557,5 @@ ${JSON.stringify(
 </script>
 
 </body>
+
 </html>
