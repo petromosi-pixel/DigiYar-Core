@@ -22,9 +22,9 @@
     }
 
     .box {
-      max-width: 700px;
+      max-width: 760px;
       margin: auto;
-      background: white;
+      background: #ffffff;
       padding: 20px;
       border-radius: 16px;
     }
@@ -37,10 +37,32 @@
       border: 0;
       border-radius: 10px;
       background: #ff8a00;
-      color: white;
+      color: #ffffff;
       font-family: inherit;
       font-weight: bold;
       cursor: pointer;
+    }
+
+    .result {
+      margin-top: 15px;
+    }
+
+    .product {
+      margin-top: 12px;
+      padding: 14px;
+      background: #f7f8fa;
+      border-radius: 12px;
+      border: 1px solid #e5e7eb;
+    }
+
+    .success {
+      color: #16803c;
+      font-weight: bold;
+    }
+
+    .error {
+      color: #c62828;
+      font-weight: bold;
     }
 
     pre {
@@ -48,20 +70,10 @@
       text-align: left;
       white-space: pre-wrap;
       word-break: break-all;
-      background: #f1f2f4;
-      padding: 12px;
-      border-radius: 10px;
-      font-size: 12px;
-    }
-
-    .success {
-      color: green;
-      font-weight: bold;
-    }
-
-    .error {
-      color: red;
-      font-weight: bold;
+      background: #eeeeee;
+      padding: 10px;
+      border-radius: 8px;
+      font-size: 11px;
     }
 
   </style>
@@ -74,114 +86,174 @@
   <div class="box">
 
     <h2>
-      تست سیستم افیلیت DigiYar
+      تست اتصال Product Scoring و Affiliate
     </h2>
 
-    <button
-      onclick="testDigiKala()"
-    >
-      تست افیلیت دیجی‌کالا
-    </button>
+    <p>
+      این تست بررسی می‌کند که هر محصول بر اساس فروشگاه
+      خودش لینک خروجی مناسب دریافت می‌کند.
+    </p>
+
 
     <button
-      onclick="testSnapShop()"
+      onclick="testProducts()"
     >
-      تست افیلیت اسنپ‌شاپ
+      اجرای تست
     </button>
 
-    <button
-      onclick="testUnknownStore()"
-    >
-      تست فروشگاه بدون افیلیت
-    </button>
 
-    <div id="result"></div>
+    <div
+      id="result"
+      class="result"
+    ></div>
 
   </div>
 
 
+  <!-- ترتیب مهم است -->
+
   <script src="js/affiliate.js"></script>
+
+  <script src="js/product-scoring.js"></script>
 
 
   <script>
 
-    const result =
-      document.getElementById("result");
+    function testProducts() {
 
-
-    function showResult(
-      title,
-      link
-    ) {
-
-      result.innerHTML = `
-
-        <h3>
-          ${title}
-        </h3>
-
-        <pre>
-${link}
-        </pre>
-
-      `;
-
-    }
-
-
-    function testDigiKala() {
-
-      const productUrl =
-        "https://www.digikala.com/product/dkp-123456/";
-
-      const affiliateLink =
-        DigiYarAffiliate.buildLink(
-          "digikala",
-          productUrl
+      const result =
+        document.getElementById(
+          "result"
         );
 
-      showResult(
-        "نتیجه تست دیجی‌کالا:",
-        affiliateLink
-      );
 
-    }
+      /*
+       * نیاز آزمایشی
+       */
+
+      const testNeed = {
+
+        category: "mobile",
+
+        budget: {
+
+          max:
+            500000000
+
+        },
+
+        priorities: [],
+
+        requirements: [],
+
+        constraints: [],
+
+        context: {
+
+          usage: ""
+
+        }
+
+      };
 
 
-    function testSnapShop() {
+      /*
+       * دریافت پیشنهادها
+       */
 
-      const productUrl =
-        "https://snappshop.ir/product/example/";
-
-      const affiliateLink =
-        DigiYarAffiliate.buildLink(
-          "snappshop",
-          productUrl
-        );
-
-      showResult(
-        "نتیجه تست اسنپ‌شاپ:",
-        affiliateLink
-      );
-
-    }
+      const products =
+        DigiYarProductScoring
+          .recommend(
+            testNeed
+          );
 
 
-    function testUnknownStore() {
+      if (!products.length) {
 
-      const productUrl =
-        "https://example.com/product/test/";
+        result.innerHTML = `
 
-      const affiliateLink =
-        DigiYarAffiliate.buildLink(
-          "unknown",
-          productUrl
-        );
+          <p class="error">
+            هیچ محصولی برای تست پیدا نشد.
+          </p>
 
-      showResult(
-        "فروشگاه بدون افیلیت:",
-        affiliateLink
-      );
+        `;
+
+        return;
+
+      }
+
+
+      /*
+       * نمایش نتایج
+       */
+
+      result.innerHTML = products
+        .map(
+          function (product) {
+
+            const isAffiliate =
+              product.url.includes(
+                "aflo.ir"
+              );
+
+
+            return `
+
+              <div class="product">
+
+                <strong>
+                  ${product.name}
+                </strong>
+
+                <br>
+
+                فروشگاه:
+                ${product.store}
+
+                <br>
+
+                قیمت:
+                ${new Intl.NumberFormat(
+                  "fa-IR"
+                ).format(
+                  product.price
+                )}
+                تومان
+
+                <br>
+
+                امتیاز:
+                ${product.score}%
+
+                <br><br>
+
+                <span
+                  class="${
+                    isAffiliate
+                      ? "success"
+                      : "error"
+                  }"
+                >
+
+                  ${
+                    isAffiliate
+                      ? "✓ لینک افیلیت ساخته شد"
+                      : "✗ لینک افیلیت ساخته نشد"
+                  }
+
+                </span>
+
+                <pre>
+${product.url}
+                </pre>
+
+              </div>
+
+            `;
+
+          }
+        )
+        .join("");
 
     }
 
