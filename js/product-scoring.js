@@ -120,26 +120,21 @@
      * تطابق بودجه
      */
 
-    if (
-      need.budget &&
-      need.budget.max
-    ) {
+  if (
+  need.budget &&
+  need.budget.max
+) {
 
-      if (
-        product.price <=
-        need.budget.max
-      ) {
+  if (
+    product.price <=
+    Number(need.budget.max)
+  ) {
 
-        score += 30;
+    score += 30;
 
-      } else {
+  }
 
-        score -= 25;
-
-      }
-
-    }
-
+  }
 
     /*
      * اولویت‌ها و نیازهای ضروری
@@ -262,16 +257,35 @@
         return catalog
 
           .filter(
-            function (product) {
+  function (product) {
 
-              return (
-                !need.category ||
-                need.category ===
-                product.category
-              );
+    /* تطابق دسته */
+    if (
+      need.category &&
+      need.category !== product.category
+    ) {
+      return false;
+    }
 
-            }
-          )
+    /* تطابق بودجه */
+    if (
+      need.budget &&
+      need.budget.max
+    ) {
+
+      if (
+        product.price >
+        Number(need.budget.max)
+      ) {
+        return false;
+      }
+
+    }
+
+    return true;
+
+  }
+)
 
           .map(
             function (product) {
