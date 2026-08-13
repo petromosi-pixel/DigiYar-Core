@@ -513,15 +513,51 @@
          */
 
         const filteredProducts =
-          products.filter(
-            function (product) {
+  products.filter(
+    function (product) {
 
-              return (
+      /*
+       * تطابق دسته
+       */
 
-                !need.category ||
+      if (
+        need.category &&
+        need.category !==
+        product.category
+      ) {
 
-                need.category ===
-                product.category
+        return false;
+
+      }
+
+
+      /*
+       * اگر سقف بودجه مشخص شده،
+       * محصول گران‌تر اصلاً پیشنهاد نشود.
+       */
+
+      const maxBudget =
+        Number(
+          need.budget &&
+          need.budget.max
+        ) || 0;
+
+
+      if (
+        maxBudget > 0 &&
+        Number(product.price || 0) >
+        maxBudget
+      ) {
+
+        return false;
+
+      }
+
+
+      return true;
+
+    }
+  );
 
               );
 
