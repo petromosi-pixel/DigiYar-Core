@@ -10,7 +10,7 @@
     content="width=device-width, initial-scale=1.0"
   >
 
-  <title>DigiYar Affiliate Test</title>
+  <title>DigiYar V3 - Architecture Test</title>
 
   <style>
 
@@ -24,38 +24,19 @@
     .box {
       max-width: 760px;
       margin: auto;
-      background: #ffffff;
+      background: #fff;
       padding: 20px;
       border-radius: 16px;
     }
 
-    button {
-      display: block;
-      width: 100%;
+    .item {
       margin: 10px 0;
       padding: 12px;
-      border: 0;
       border-radius: 10px;
-      background: #ff8a00;
-      color: #ffffff;
-      font-family: inherit;
-      font-weight: bold;
-      cursor: pointer;
-    }
-
-    .result {
-      margin-top: 15px;
-    }
-
-    .product {
-      margin-top: 12px;
-      padding: 14px;
       background: #f7f8fa;
-      border-radius: 12px;
-      border: 1px solid #e5e7eb;
     }
 
-    .success {
+    .ok {
       color: #16803c;
       font-weight: bold;
     }
@@ -70,7 +51,7 @@
       text-align: left;
       white-space: pre-wrap;
       word-break: break-all;
-      background: #eeeeee;
+      background: #eee;
       padding: 10px;
       border-radius: 8px;
       font-size: 11px;
@@ -80,184 +61,291 @@
 
 </head>
 
-
 <body>
 
-  <div class="box">
+<div class="box">
 
-    <h2>
-      تست اتصال Product Scoring و Affiliate
-    </h2>
+  <h2>
+    تست معماری محصول DigiYar V3
+  </h2>
 
-    <p>
-      این تست بررسی می‌کند که هر محصول بر اساس فروشگاه
-      خودش لینک خروجی مناسب دریافت می‌کند.
-    </p>
+  <div id="result"></div>
 
-
-    <button
-      onclick="testProducts()"
-    >
-      اجرای تست
-    </button>
+</div>
 
 
-    <div
-      id="result"
-      class="result"
-    ></div>
+<!-- ترتیب بارگذاری مهم است -->
 
-  </div>
+<script src="js/affiliate.js"></script>
 
+<script src="js/product-data.js"></script>
 
-  <!-- ترتیب مهم است -->
-
-  <script src="js/affiliate.js"></script>
-
-  <script src="js/product-scoring.js"></script>
+<script src="js/product-scoring.js"></script>
 
 
-  <script>
+<script>
 
-    function testProducts() {
+(function () {
 
-      const result =
-        document.getElementById(
-          "result"
-        );
+  const result =
+    document.getElementById("result");
 
 
-      /*
-       * نیاز آزمایشی
-       */
+  function add(
+    title,
+    success,
+    details
+  ) {
 
-      const testNeed = {
+    result.innerHTML += `
 
-        category: "mobile",
+      <div class="item">
 
-        budget: {
+        <strong class="${
+          success
+            ? "ok"
+            : "error"
+        }">
 
-          max:
-            500000000
-
-        },
-
-        priorities: [],
-
-        requirements: [],
-
-        constraints: [],
-
-        context: {
-
-          usage: ""
-
-        }
-
-      };
-
-
-      /*
-       * دریافت پیشنهادها
-       */
-
-      const products =
-        DigiYarProductScoring
-          .recommend(
-            testNeed
-          );
-
-
-      if (!products.length) {
-
-        result.innerHTML = `
-
-          <p class="error">
-            هیچ محصولی برای تست پیدا نشد.
-          </p>
-
-        `;
-
-        return;
-
-      }
-
-
-      /*
-       * نمایش نتایج
-       */
-
-      result.innerHTML = products
-        .map(
-          function (product) {
-
-            const isAffiliate =
-              product.url.includes(
-                "aflo.ir"
-              );
-
-
-            return `
-
-              <div class="product">
-
-                <strong>
-                  ${product.name}
-                </strong>
-
-                <br>
-
-                فروشگاه:
-                ${product.store}
-
-                <br>
-
-                قیمت:
-                ${new Intl.NumberFormat(
-                  "fa-IR"
-                ).format(
-                  product.price
-                )}
-                تومان
-
-                <br>
-
-                امتیاز:
-                ${product.score}%
-
-                <br><br>
-
-                <span
-                  class="${
-                    isAffiliate
-                      ? "success"
-                      : "error"
-                  }"
-                >
-
-                  ${
-                    isAffiliate
-                      ? "✓ لینک افیلیت ساخته شد"
-                      : "✗ لینک افیلیت ساخته نشد"
-                  }
-
-                </span>
-
-                <pre>
-${product.url}
-                </pre>
-
-              </div>
-
-            `;
-
+          ${
+            success
+              ? "✓ "
+              : "✗ "
           }
-        )
-        .join("");
+
+          ${title}
+
+        </strong>
+
+        <br>
+
+        ${details}
+
+      </div>
+
+    `;
+
+  }
+
+
+  /*
+   * تست ۱
+   * Affiliate Manager
+   */
+
+  const affiliateOK =
+    window.DigiYarAffiliate &&
+    typeof
+      window.DigiYarAffiliate.buildLink ===
+      "function";
+
+
+  add(
+
+    "Affiliate Manager",
+
+    affiliateOK,
+
+    affiliateOK
+      ? "affiliate.js با موفقیت بارگذاری شده است."
+      : "DigiYarAffiliate پیدا نشد."
+
+  );
+
+
+  /*
+   * تست ۲
+   * Product Data Layer
+   */
+
+  const dataOK =
+    window.DigiYarProductData &&
+    typeof
+      window.DigiYarProductData.getAll ===
+      "function";
+
+
+  add(
+
+    "Product Data Layer",
+
+    dataOK,
+
+    dataOK
+      ? "product-data.js با موفقیت بارگذاری شده است."
+      : "DigiYarProductData پیدا نشد."
+
+  );
+
+
+  if (!dataOK) {
+
+    return;
+
+  }
+
+
+  /*
+   * تست ۳
+   * دریافت محصولات
+   */
+
+  const products =
+    DigiYarProductData.getAll();
+
+
+  add(
+
+    "دریافت محصولات",
+
+    products.length > 0,
+
+    "تعداد محصولات: " +
+    products.length
+
+  );
+
+
+  /*
+   * تست ۴
+   * Product Scoring
+   */
+
+  const scoringOK =
+    window.DigiYarProductScoring &&
+    typeof
+      window.DigiYarProductScoring.recommend ===
+      "function";
+
+
+  add(
+
+    "Product Scoring Engine",
+
+    scoringOK,
+
+    scoringOK
+      ? "موتور امتیازدهی آماده است."
+      : "DigiYarProductScoring پیدا نشد."
+
+  );
+
+
+  if (!scoringOK) {
+
+    return;
+
+  }
+
+
+  /*
+   * تست ۵
+   * نیاز آزمایشی
+   */
+
+  const need = {
+
+    category: "mobile",
+
+    budget: {
+
+      max: 500000000
+
+    },
+
+    priorities: [],
+
+    requirements: [],
+
+    constraints: [],
+
+    context: {
+
+      usage: ""
 
     }
 
-  </script>
+  };
+
+
+  /*
+   * تست ۶
+   * پیشنهادها
+   */
+
+  const recommendations =
+    DigiYarProductScoring
+      .recommend(need);
+
+
+  add(
+
+    "دریافت پیشنهادها",
+
+    recommendations.length > 0,
+
+    "تعداد پیشنهادها: " +
+    recommendations.length
+
+  );
+
+
+  /*
+   * نمایش محصولات
+   */
+
+  recommendations.forEach(
+    function (product) {
+
+      const affiliateOK =
+        String(
+          product.url || ""
+        ).includes(
+          "aflo.ir"
+        );
+
+
+      add(
+
+        product.name,
+
+        affiliateOK,
+
+        `
+
+          فروشگاه:
+          ${product.store}
+
+          <br>
+
+          قیمت:
+          ${new Intl.NumberFormat(
+            "fa-IR"
+          ).format(
+            product.price
+          )}
+          تومان
+
+          <br>
+
+          امتیاز:
+          ${product.score}%
+
+          <pre>
+${product.url}
+          </pre>
+
+        `
+
+      );
+
+    }
+  );
+
+
+})();
+
+</script>
 
 </body>
 
