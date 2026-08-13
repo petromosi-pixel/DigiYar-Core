@@ -1,277 +1,23 @@
-/* =========================================================
-   DigiYar V3
-   Product Scoring Engine
-   Version: 3.1.0
-   ========================================================= */
+/* DigiYar V3 - Product Scoring Engine */
 
 (function () {
-
   "use strict";
 
 
-  /*
-   * =======================================================
-   * کاتالوگ نمونه
-   * =======================================================
-   *
-   * این کاتالوگ فعلاً برای تست موتور است.
-   *
-   * در نسخه‌های بعدی، محصولات واقعی از منابع جستجو
-   * وارد همین ساختار خواهند شد.
-   *
-   * store:
-   *   شناسه فروشگاه
-   *
-   * productUrl:
-   *   لینک مستقیم صفحه محصول
-   *
-   */
-
-  const catalog = [
-
-    {
-      id: "mobile-001",
-
-      category: "mobile",
-
-      name:
-        "موبایل اقتصادی متعادل",
-
-      price:
-        9000000,
-
-      features: [
-        "باتری",
-        "ارزش خرید",
-        "5G"
-      ],
-
-      store:
-        "digikala",
-
-      productUrl:
-        "https://www.digikala.com/"
-
-    },
-
-
-    {
-      id: "mobile-002",
-
-      category: "mobile",
-
-      name:
-        "موبایل دوربین‌محور",
-
-      price:
-        14000000,
-
-      features: [
-        "دوربین",
-        "کیفیت",
-        "5G"
-      ],
-
-      store:
-        "digikala",
-
-      productUrl:
-        "https://www.digikala.com/"
-
-    },
-
-
-    {
-      id: "mobile-003",
-
-      category: "mobile",
-
-      name:
-        "موبایل باتری‌محور",
-
-      price:
-        12000000,
-
-      features: [
-        "باتری",
-        "وزن کم",
-        "ارزش خرید"
-      ],
-
-      store:
-        "snappshop",
-
-      productUrl:
-        "https://snappshop.ir/"
-
-    },
-
-
-    {
-      id: "laptop-001",
-
-      category: "laptop",
-
-      name:
-        "لپ‌تاپ اقتصادی",
-
-      price:
-        25000000,
-
-      features: [
-        "ارزش خرید",
-        "وزن کم",
-        "SSD"
-      ],
-
-      store:
-        "digikala",
-
-      productUrl:
-        "https://www.digikala.com/"
-
-    },
-
-
-    {
-      id: "laptop-002",
-
-      category: "laptop",
-
-      name:
-        "لپ‌تاپ کاری",
-
-      price:
-        40000000,
-
-      features: [
-        "کیفیت",
-        "SSD",
-        "باتری"
-      ],
-
-      store:
-        "snappshop",
-
-      productUrl:
-        "https://snappshop.ir/"
-
-    },
-
-
-    {
-      id: "tablet-001",
-
-      category: "tablet",
-
-      name:
-        "تبلت متعادل",
-
-      price:
-        14000000,
-
-      features: [
-        "باتری",
-        "وزن کم",
-        "کیفیت"
-      ],
-
-      store:
-        "digikala",
-
-      productUrl:
-        "https://www.digikala.com/"
-
-    }
-
-  ];
-
-
-  /*
-   * =======================================================
-   * ساخت لینک خروجی محصول
-   * =======================================================
-   */
-
-  function buildProductLink(
-    product
-  ) {
-
-    if (!product) {
-      return "";
-    }
-
-
-    /*
-     * لینک مستقیم محصول
-     */
-
-    const productUrl =
-      product.productUrl ||
-      product.url ||
-      "";
-
-
-    /*
-     * اگر لینک محصول وجود نداشته باشد،
-     * خروجی خالی است.
-     */
-
-    if (!productUrl) {
-      return "";
-    }
-
-
-    /*
-     * اگر Affiliate Manager وجود داشته باشد،
-     * لینک افیلیت ساخته می‌شود.
-     */
-
-    if (
-  window.DigiYarAffiliate &&
-  typeof
-    window.DigiYarAffiliate.buildLink ===
-    "function"
-) {
-
-  return window.DigiYarAffiliate.buildLink(
-    product.store,
-    productUrl
-  );
-
-    }
-
-
-    /*
-     * حالت پشتیبان
-     */
-
-    return productUrl;
-
-  }
-
-
-  /*
-   * =======================================================
-   * محاسبه امتیاز
-   * =======================================================
-   */
-
-  function calculateScore(
-    product,
-    need
-  ) {
+  function calculateScore(product, need) {
 
     let score = 0;
 
 
     if (!need) {
+
       return 0;
+
     }
 
 
     /*
-     * تطابق دسته
+     * تطابق دسته محصول
      */
 
     if (
@@ -295,12 +41,14 @@
 
       if (
         product.price <=
-        Number(
-          need.budget.max
-        )
+        need.budget.max
       ) {
 
         score += 30;
+
+      } else {
+
+        score -= 25;
 
       }
 
@@ -337,7 +85,9 @@
 
 
         const matched =
-          product.features.some(
+          (
+            product.features || []
+          ).some(
             function (feature) {
 
               const featureText =
@@ -350,9 +100,7 @@
 
                 featureText.includes(
                   wantedText
-                )
-
-                ||
+                ) ||
 
                 wantedText.includes(
                   featureText
@@ -387,23 +135,21 @@
 
         const value =
           String(
-            constraint.value ||
-            ""
+            constraint.value || ""
           ).toLowerCase();
 
 
         const conflicts =
-          product.features.some(
+          (
+            product.features || []
+          ).some(
             function (feature) {
 
               return (
-
                 String(
                   feature
-                ).toLowerCase()
-                ===
+                ).toLowerCase() ===
                 value
-
               );
 
             }
@@ -420,157 +166,146 @@
     );
 
 
-    /*
-     * محدود کردن امتیاز
-     */
-
     return Math.max(
-
       0,
-
       Math.min(
         100,
         score
       )
-
     );
 
   }
 
 
   /*
-   * =======================================================
-   * موتور اصلی
-   * =======================================================
+   * ساخت لینک خروجی
+   *
+   * محصول ابتدا URL واقعی خودش را دارد.
+   *
+   * سپس Affiliate Manager در صورت وجود،
+   * آن را به لینک افیلیت تبدیل می‌کند.
    */
+
+  function buildProductUrl(product) {
+
+    const productUrl =
+      product.productUrl ||
+      product.url ||
+      "";
+
+
+    if (!productUrl) {
+
+      return "";
+
+    }
+
+
+    if (
+      window.DigiYarAffiliate &&
+      typeof
+        window.DigiYarAffiliate.buildLink ===
+        "function"
+    ) {
+
+      return window.DigiYarAffiliate.buildLink(
+        product.store,
+        productUrl
+      );
+
+    }
+
+
+    return productUrl;
+
+  }
+
+
+  /*
+   * تبدیل داده خام محصول به
+   * محصول قابل استفاده در رابط کاربری
+   */
+
+  function prepareProduct(
+    product,
+    need
+  ) {
+
+    return {
+
+      ...product,
+
+      url:
+        buildProductUrl(
+          product
+        ),
+
+      score:
+        calculateScore(
+          product,
+          need
+        )
+
+    };
+
+  }
+
 
   const DigiYarProductScoring = {
 
-    version:
-      "3.1.0",
-
-
-    catalog:
-      catalog,
+    version: "4.0.0",
 
 
     score:
       calculateScore,
 
 
-    buildProductLink:
-      buildProductLink,
+    prepare:
+      prepareProduct,
 
 
     recommend:
       function (need) {
 
         if (!need) {
+
           return [];
+
         }
 
 
-        return catalog
+        if (
+          !window.DigiYarProductData ||
+          typeof
+            window.DigiYarProductData.getAll !==
+            "function"
+        ) {
 
-          /*
-           * فیلتر دسته
-           */
+          console.error(
+            "DigiYarProductData is not available."
+          );
 
-          .filter(
-            function (product) {
+          return [];
 
-              if (
-
-                need.category &&
-
-                need.category !==
-                product.category
-
-              ) {
-
-                return false;
-
-              }
+        }
 
 
-              return true;
+        const products =
+          window.DigiYarProductData
+            .getAll();
 
-            }
-          )
 
-
-          /*
-           * فیلتر بودجه
-           */
+        return products
 
           .filter(
             function (product) {
-
-              if (
-
-                need.budget &&
-
-                need.budget.max
-
-              ) {
-
-                return (
-
-                  product.price <=
-                  Number(
-                    need.budget.max
-                  )
-
-                );
-
-              }
-
-
-              return true;
-
-            }
-          )
-
-
-          /*
-           * محاسبه امتیاز
-           */
-
-          .map(
-            function (product) {
-
-              return {
-
-                ...product,
-
-                url:
-                  buildProductLink(
-                    product
-                  ),
-
-                score:
-                  calculateScore(
-                    product,
-                    need
-                  )
-
-              };
-
-            }
-          )
-
-
-          /*
-           * مرتب‌سازی
-           */
-
-          .sort(
-            function (a, b) {
 
               return (
 
-                b.score -
-                a.score
+                !need.category ||
+
+                need.category ===
+                product.category
 
               );
 
@@ -578,9 +313,29 @@
           )
 
 
-          /*
-           * سه پیشنهاد برتر
-           */
+          .map(
+            function (product) {
+
+              return prepareProduct(
+                product,
+                need
+              );
+
+            }
+          )
+
+
+          .sort(
+            function (a, b) {
+
+              return (
+                b.score -
+                a.score
+              );
+
+            }
+          )
+
 
           .slice(
             0,
@@ -592,14 +347,7 @@
   };
 
 
-  /*
-   * =======================================================
-   * انتشار موتور
-   * =======================================================
-   */
-
   window.DigiYarProductScoring =
     DigiYarProductScoring;
-
 
 })();
