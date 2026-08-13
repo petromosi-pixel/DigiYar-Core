@@ -4,33 +4,58 @@
   "use strict";
 
   /*
-   * لایه داده محصولات
+   * =========================================================
+   * DigiYar Product Data
+   * =========================================================
    *
-   * این فایل عمداً از Product Scoring جداست.
+   * ساختار استاندارد محصول:
    *
-   * در نسخه فعلی:
-   * داده‌ها نمونه هستند.
+   * id
+   * name
+   * category
+   * price
+   * store
+   * productUrl
+   * image
+   * features
    *
-   * در مراحل بعد:
-   * همین ساختار می‌تواند از موتور جستجو،
-   * API یا منابع دیگر تغذیه شود.
+   * store:
+   * نام داخلی فروشگاه
+   *
+   * productUrl:
+   * لینک مستقیم صفحه همان محصول در فروشگاه
+   *
+   * بعداً Affiliate Manager همین
+   * productUrl را به لینک افیلیت تبدیل می‌کند.
+   * =========================================================
    */
 
   const products = [
 
+    /* =======================================================
+       DigiKala
+       ======================================================= */
+
     {
       id: "mobile-001",
 
-      category: "mobile",
+      name:
+        "موبایل اقتصادی متعادل",
 
-      name: "موبایل اقتصادی متعادل",
+      category:
+        "mobile",
 
-      price: 9000000,
+      price:
+        9000000,
 
-      store: "digikala",
+      store:
+        "digikala",
 
       productUrl:
         "https://www.digikala.com/",
+
+      image:
+        "",
 
       features: [
         "باتری",
@@ -43,16 +68,23 @@
     {
       id: "mobile-002",
 
-      category: "mobile",
+      name:
+        "موبایل دوربین‌محور",
 
-      name: "موبایل دوربین‌محور",
+      category:
+        "mobile",
 
-      price: 14000000,
+      price:
+        14000000,
 
-      store: "digikala",
+      store:
+        "digikala",
 
       productUrl:
         "https://www.digikala.com/",
+
+      image:
+        "",
 
       features: [
         "دوربین",
@@ -62,19 +94,30 @@
     },
 
 
+    /* =======================================================
+       SnappShop
+       ======================================================= */
+
     {
       id: "mobile-003",
 
-      category: "mobile",
+      name:
+        "موبایل باتری‌محور",
 
-      name: "موبایل باتری‌محور",
+      category:
+        "mobile",
 
-      price: 12000000,
+      price:
+        12000000,
 
-      store: "snappshop",
+      store:
+        "snappshop",
 
       productUrl:
         "https://snappshop.ir/",
+
+      image:
+        "",
 
       features: [
         "باتری",
@@ -84,19 +127,30 @@
     },
 
 
+    /* =======================================================
+       Laptop
+       ======================================================= */
+
     {
       id: "laptop-001",
 
-      category: "laptop",
+      name:
+        "لپ‌تاپ اقتصادی",
 
-      name: "لپ‌تاپ اقتصادی",
+      category:
+        "laptop",
 
-      price: 25000000,
+      price:
+        25000000,
 
-      store: "digikala",
+      store:
+        "digikala",
 
       productUrl:
         "https://www.digikala.com/",
+
+      image:
+        "",
 
       features: [
         "ارزش خرید",
@@ -109,16 +163,23 @@
     {
       id: "laptop-002",
 
-      category: "laptop",
+      name:
+        "لپ‌تاپ کاری",
 
-      name: "لپ‌تاپ کاری",
+      category:
+        "laptop",
 
-      price: 40000000,
+      price:
+        40000000,
 
-      store: "snappshop",
+      store:
+        "digikala",
 
       productUrl:
-        "https://snappshop.ir/",
+        "https://www.digikala.com/",
+
+      image:
+        "",
 
       features: [
         "کیفیت",
@@ -128,19 +189,30 @@
     },
 
 
+    /* =======================================================
+       Tablet
+       ======================================================= */
+
     {
       id: "tablet-001",
 
-      category: "tablet",
+      name:
+        "تبلت متعادل",
 
-      name: "تبلت متعادل",
+      category:
+        "tablet",
 
-      price: 14000000,
+      price:
+        14000000,
 
-      store: "digikala",
+      store:
+        "digikala",
 
       productUrl:
         "https://www.digikala.com/",
+
+      image:
+        "",
 
       features: [
         "باتری",
@@ -152,82 +224,73 @@
   ];
 
 
+  /* =========================================================
+     Product Data API
+     ========================================================= */
+
   const DigiYarProductData = {
 
-    version: "1.0.0",
+    version:
+      "3.1.0",
 
-    getAll: function () {
+    products:
+      products,
 
-      return products.slice();
-
-    },
-
-
-    getByCategory: function (category) {
-
-      if (!category) {
+    getAll:
+      function () {
 
         return products.slice();
 
+      },
+
+    getById:
+      function (id) {
+
+        return products.find(
+          function (product) {
+
+            return product.id === id;
+
+          }
+        ) || null;
+
+      },
+
+    getByStore:
+      function (store) {
+
+        return products.filter(
+          function (product) {
+
+            return (
+              product.store === store
+            );
+
+          }
+        );
+
+      },
+
+    getByCategory:
+      function (category) {
+
+        return products.filter(
+          function (product) {
+
+            return (
+              product.category === category
+            );
+
+          }
+        );
+
       }
-
-      return products.filter(
-        function (product) {
-
-          return (
-            product.category ===
-            category
-          );
-
-        }
-      );
-
-    },
-
-
-    search: function (query) {
-
-      if (!query) {
-
-        return products.slice();
-
-      }
-
-      const text =
-        String(query)
-          .trim()
-          .toLowerCase();
-
-
-      return products.filter(
-        function (product) {
-
-          const searchableText = [
-
-            product.name,
-
-            product.category,
-
-            ...(product.features || [])
-
-          ]
-            .join(" ")
-            .toLowerCase();
-
-
-          return searchableText.includes(
-            text
-          );
-
-        }
-      );
-
-    }
 
   };
 
 
   window.DigiYarProductData =
     DigiYarProductData;
+
 
 })();
