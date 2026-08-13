@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  >
+
+  <title>DigiYar Affiliate Test</title>
+
+  <style>
+
+    body {
+      font-family: Tahoma, Arial, sans-serif;
+      background: #f5f6f8;
+      padding: 20px;
+      line-height: 1.8;
+    }
+
+    .box {
+      max-width: 700px;
+      margin: auto;
+      background: white;
+      padding: 20px;
+      border-radius: 16px;
+    }
+
+    button {
+      display: block;
+      width: 100%;
+      margin: 10px 0;
+      padding: 12px;
+      border: 0;
+      border-radius: 10px;
+      background: #ff8a00;
+      color: white;
+      font-family: inherit;
+      font-weight: bold;
+      cursor: pointer;
+    }
+
+    pre {
+      direction: ltr;
+      text-align: left;
+      white-space: pre-wrap;
+      word-break: break-all;
+      background: #f1f2f4;
+      padding: 12px;
+      border-radius: 10px;
+      font-size: 12px;
+    }
+
+    .success {
+      color: green;
+      font-weight: bold;
+    }
+
+    .error {
+      color: red;
+      font-weight: bold;
+    }
+
+  </style>
+
+</head>
+
+
+<body>
+
+  <div class="box">
+
+    <h2>
+      تست سیستم افیلیت DigiYar
+    </h2>
+
+    <button
+      onclick="testDigiKala()"
+    >
+      تست افیلیت دیجی‌کالا
+    </button>
+
+    <button
+      onclick="testSnapShop()"
+    >
+      تست افیلیت اسنپ‌شاپ
+    </button>
+
+    <button
+      onclick="testUnknownStore()"
+    >
+      تست فروشگاه بدون افیلیت
+    </button>
+
+    <div id="result"></div>
+
+  </div>
+
+
+  <script src="js/affiliate.js"></script>
+
+
+  <script>
+
+    const result =
+      document.getElementById("result");
+
+
+    function showResult(
+      title,
+      link
+    ) {
+
+      result.innerHTML = `
+
+        <h3>
+          ${title}
+        </h3>
+
+        <pre>
+${link}
+        </pre>
+
+      `;
+
+    }
+
+
+    function testDigiKala() {
+
+      const productUrl =
+        "https://www.digikala.com/product/dkp-123456/";
+
+      const affiliateLink =
+        DigiYarAffiliate.buildLink(
+          "digikala",
+          productUrl
+        );
+
+      showResult(
+        "نتیجه تست دیجی‌کالا:",
+        affiliateLink
+      );
+
+    }
+
+
+    function testSnapShop() {
+
+      const productUrl =
+        "https://snappshop.ir/product/example/";
+
+      const affiliateLink =
+        DigiYarAffiliate.buildLink(
+          "snappshop",
+          productUrl
+        );
+
+      showResult(
+        "نتیجه تست اسنپ‌شاپ:",
+        affiliateLink
+      );
+
+    }
+
+
+    function testUnknownStore() {
+
+      const productUrl =
+        "https://example.com/product/test/";
+
+      const affiliateLink =
+        DigiYarAffiliate.buildLink(
+          "unknown",
+          productUrl
+        );
+
+      showResult(
+        "فروشگاه بدون افیلیت:",
+        affiliateLink
+      );
+
+    }
+
+  </script>
+
+</body>
+
+</html>
