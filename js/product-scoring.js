@@ -4,12 +4,100 @@
   "use strict";
 
 
-  function calculateScore(product, need) {
+  /*
+   * =========================================================
+   * DigiYar Product Scoring Engine
+   * =========================================================
+   *
+   * وظایف:
+   *
+   * 1. دریافت محصولات از Product Data Layer
+   * 2. محاسبه میزان تناسب محصول با نیاز کاربر
+   * 3. بررسی بودجه
+   * 4. بررسی اولویت‌ها
+   * 5. بررسی نیازهای ضروری
+   * 6. بررسی محدودیت‌ها
+   * 7. ساخت لینک افیلیت
+   *
+   * =========================================================
+   */
+
+
+  /*
+   * =========================================================
+   * ابزارها
+   * =========================================================
+   */
+
+  function normalizeText(value) {
+
+    return String(
+      value || ""
+    )
+      .trim()
+      .toLowerCase();
+
+  }
+
+
+  function getWantedItems(need) {
+
+    if (!need) {
+
+      return [];
+
+    }
+
+
+    const priorities =
+      Array.isArray(
+        need.priorities
+      )
+        ? need.priorities
+        : [];
+
+
+    const requirements =
+      Array.isArray(
+        need.requirements
+      )
+        ? need.requirements
+            .map(
+              function (item) {
+
+                return (
+                  item &&
+                  item.value
+                ) || "";
+
+              }
+            )
+        : [];
+
+
+    return [
+      ...priorities,
+      ...requirements
+    ];
+
+  }
+
+
+  /*
+   * =========================================================
+   * محاسبه امتیاز
+   * =========================================================
+   */
+
+  function calculateScore(
+    product,
+    need
+  ) {
 
     let score = 0;
 
 
-    if (!need) {
+    if (!product || !need) {
 
       return 0;
 
@@ -17,12 +105,15 @@
 
 
     /*
-     * تطابق دسته محصول
+     * -------------------------------------------------------
+     * 1. تطابق دسته
+     * -------------------------------------------------------
      */
 
     if (
-      need.category ===
-      product.category
+      need.category &&
+      product.category ===
+      need.category
     ) {
 
       score += 30;
@@ -31,24 +122,83 @@
 
 
     /*
-     * تطابق بودجه
+     * -------------------------------------------------------
+     * 2. بودجه
+     * -------------------------------------------------------
      */
 
-    if (
-      need.budget &&
-      need.budget.max
-    ) {
+    const maxBudget =
+      Number(
+        need.budget &&
+        need.budget.max
+      ) || 0;
+
+
+    if (maxBudget > 0) {
+
+      const productPrice =
+        Number(
+          product.price
+        ) || 0;
+
 
       if (
-        product.price <=
-        need.budget.max
+        productPrice <=
+        maxBudget
       ) {
 
-        score += 30;
+        /*
+         * محصول داخل بودجه است.
+         *
+         * هرچه قیمت محصول نسبت به سقف بودجه
+         * منطقی‌تر باشد، امتیاز بیشتری می‌گیرد.
+         *
+         * اما محصول صرفاً به خاطر گران‌تر بودن
+         * برنده نمی‌شود.
+         */
+
+        const budgetUsage =
+          productPrice /
+          maxBudget;
+
+
+        if (
+          budgetUsage >= 0.80
+        ) {
+
+          score += 30;
+
+        } else if (
+          budgetUsage >= 0.60
+        ) {
+
+          score += 27;
+
+        } else if (
+          budgetUsage >= 0.40
+        ) {
+
+          score += 24;
+
+        } else if (
+          budgetUsage >= 0.20
+        ) {
+
+          score += 21;
+
+        } else {
+
+          score += 18;
+
+        }
 
       } else {
 
-        score -= 25;
+        /*
+         * محصول خارج از سقف بودجه
+         */
+
+        score -= 30;
 
       }
 
@@ -56,32 +206,31 @@
 
 
     /*
-     * اولویت‌ها و نیازهای ضروری
+     * -------------------------------------------------------
+     * 3. اولویت‌ها و نیازهای ضروری
+     * -------------------------------------------------------
      */
 
-    const wanted = [
-
-      ...(need.priorities || []),
-
-      ...(need.requirements || [])
-        .map(
-          function (item) {
-
-            return item.value;
-
-          }
-        )
-
-    ];
+    const wanted =
+      getWantedItems(
+        need
+      );
 
 
     wanted.forEach(
       function (wantedItem) {
 
         const wantedText =
-          String(
+          normalizeText(
             wantedItem
-          ).toLowerCase();
+          );
+
+
+        if (!wantedText) {
+
+          return;
+
+        }
 
 
         const matched =
@@ -91,9 +240,9 @@
             function (feature) {
 
               const featureText =
-                String(
+                normalizeText(
                   feature
-                ).toLowerCase();
+                );
 
 
               return (
@@ -123,32 +272,50 @@
 
 
     /*
-     * محدودیت‌ها
+     * -------------------------------------------------------
+     * 4. محدودیت‌ها
+     * -------------------------------------------------------
      */
 
     const constraints =
-      need.constraints || [];
+      Array.isArray(
+        need.constraints
+      )
+        ? need.constraints
+        : [];
 
 
     constraints.forEach(
       function (constraint) {
 
         const value =
-          String(
-            constraint.value || ""
-          ).toLowerCase();
+          normalizeText(
+            constraint &&
+            constraint.value
+          );
 
 
-        const conflicts =
+        if (!value) {
+
+          return;
+
+        }
+
+
+        const conflict =
           (
             product.features || []
           ).some(
             function (feature) {
 
-              return (
-                String(
+              const featureText =
+                normalizeText(
                   feature
-                ).toLowerCase() ===
+                );
+
+
+              return (
+                featureText ===
                 value
               );
 
@@ -156,7 +323,7 @@
           );
 
 
-        if (conflicts) {
+        if (conflict) {
 
           score -= 10;
 
@@ -166,11 +333,17 @@
     );
 
 
+    /*
+     * -------------------------------------------------------
+     * 5. محدود کردن بازه امتیاز
+     * -------------------------------------------------------
+     */
+
     return Math.max(
       0,
       Math.min(
         100,
-        score
+        Math.round(score)
       )
     );
 
@@ -178,15 +351,21 @@
 
 
   /*
-   * ساخت لینک خروجی
-   *
-   * محصول ابتدا URL واقعی خودش را دارد.
-   *
-   * سپس Affiliate Manager در صورت وجود،
-   * آن را به لینک افیلیت تبدیل می‌کند.
+   * =========================================================
+   * ساخت لینک محصول
+   * =========================================================
    */
 
-  function buildProductUrl(product) {
+  function buildProductUrl(
+    product
+  ) {
+
+    if (!product) {
+
+      return "";
+
+    }
+
 
     const productUrl =
       product.productUrl ||
@@ -201,6 +380,11 @@
     }
 
 
+    /*
+     * اگر Affiliate Manager وجود داشته باشد،
+     * لینک محصول را به لینک افیلیت تبدیل می‌کنیم.
+     */
+
     if (
       window.DigiYarAffiliate &&
       typeof
@@ -208,13 +392,26 @@
         "function"
     ) {
 
-      return window.DigiYarAffiliate.buildLink(
-        product.store,
-        productUrl
-      );
+      const affiliateUrl =
+        window.DigiYarAffiliate.buildLink(
+          product.store,
+          productUrl
+        );
+
+
+      if (affiliateUrl) {
+
+        return affiliateUrl;
+
+      }
 
     }
 
+
+    /*
+     * اگر افیلیت برای فروشگاه وجود نداشت،
+     * لینک مستقیم محصول حفظ می‌شود.
+     */
 
     return productUrl;
 
@@ -222,8 +419,9 @@
 
 
   /*
-   * تبدیل داده خام محصول به
-   * محصول قابل استفاده در رابط کاربری
+   * =========================================================
+   * آماده‌سازی محصول
+   * =========================================================
    */
 
   function prepareProduct(
@@ -251,9 +449,16 @@
   }
 
 
+  /*
+   * =========================================================
+   * API اصلی
+   * =========================================================
+   */
+
   const DigiYarProductScoring = {
 
-    version: "4.0.0",
+    version:
+      "4.1.0",
 
 
     score:
@@ -274,6 +479,10 @@
         }
 
 
+        /*
+         * بررسی Product Data Layer
+         */
+
         if (
           !window.DigiYarProductData ||
           typeof
@@ -290,14 +499,21 @@
         }
 
 
+        /*
+         * دریافت کل کاتالوگ
+         */
+
         const products =
           window.DigiYarProductData
             .getAll();
 
 
-        return products
+        /*
+         * فیلتر دسته
+         */
 
-          .filter(
+        const filteredProducts =
+          products.filter(
             function (product) {
 
               return (
@@ -310,8 +526,14 @@
               );
 
             }
-          )
+          );
 
+
+        /*
+         * امتیازدهی
+         */
+
+        return filteredProducts
 
           .map(
             function (product) {
@@ -325,17 +547,41 @@
           )
 
 
+          /*
+           * مرتب‌سازی:
+           *
+           * 1. امتیاز بالاتر
+           * 2. اگر امتیاز برابر بود،
+           *    محصول ارزان‌تر
+           */
+
           .sort(
             function (a, b) {
 
-              return (
-                b.score -
+              if (
+                b.score !==
                 a.score
+              ) {
+
+                return (
+                  b.score -
+                  a.score
+                );
+
+              }
+
+
+              return (
+                Number(a.price || 0) -
+                Number(b.price || 0)
               );
 
             }
           )
 
+          /*
+           * فعلاً حداکثر ۳ پیشنهاد
+           */
 
           .slice(
             0,
@@ -347,7 +593,12 @@
   };
 
 
+  /*
+   * انتشار موتور
+   */
+
   window.DigiYarProductScoring =
     DigiYarProductScoring;
+
 
 })();
