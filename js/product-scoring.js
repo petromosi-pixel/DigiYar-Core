@@ -228,17 +228,16 @@
      */
 
     if (
-      window.DigiYarAffiliate &&
-      typeof
-        window.DigiYarAffiliate.buildLink ===
-        "function"
-    ) {
+  window.DigiYarAffiliate &&
+  typeof
+    window.DigiYarAffiliate.buildLink ===
+    "function"
+) {
 
-      return
-        window.DigiYarAffiliate.buildLink(
-          product.store,
-          productUrl
-        );
+  return window.DigiYarAffiliate.buildLink(
+    product.store,
+    productUrl
+  );
 
     }
 
