@@ -1,6 +1,39 @@
 /* =========================================================
    DigiYar V3
-   Main Stylesheet
+   Brand & Main Stylesheet
+   ========================================================= */
+
+:root {
+  /* DigiYar Brand Colors */
+  --brand-navy: #101c35;
+  --brand-navy-light: #172544;
+  --brand-navy-soft: #223456;
+
+  --brand-orange: #f7941d;
+  --brand-orange-light: #ffb347;
+  --brand-orange-soft: #fff1df;
+
+  --page-bg: #f6f7f9;
+  --white: #ffffff;
+
+  --text-main: #101c35;
+  --text-dark: #202124;
+  --text-secondary: #667085;
+  --text-muted: #858a93;
+
+  --border: #e2e5ea;
+  --border-light: #e5e8ee;
+
+  --shadow-soft:
+    0 4px 18px rgba(16, 28, 53, 0.05);
+
+  --shadow-brand:
+    0 10px 28px rgba(16, 28, 53, 0.18);
+}
+
+
+/* =========================================================
+   Base
    ========================================================= */
 
 * {
@@ -13,9 +46,16 @@ html {
 
 body {
   margin: 0;
-  background: #f5f6f8;
-  color: #202124;
-  font-family: Tahoma, Arial, sans-serif;
+
+  background: var(--page-bg);
+
+  color: var(--text-dark);
+
+  font-family:
+    Tahoma,
+    Arial,
+    sans-serif;
+
   line-height: 1.7;
 }
 
@@ -26,10 +66,13 @@ body {
 
 .splash-screen {
   position: fixed;
+
   inset: 0;
+
   z-index: 9999;
 
   display: flex;
+
   align-items: center;
   justify-content: center;
 
@@ -37,38 +80,45 @@ body {
     radial-gradient(
       circle at center,
       #182746 0%,
-      #101c35 55%,
+      var(--brand-navy) 55%,
       #0b1428 100%
     );
 }
 
 .splash-content {
   width: min(88%, 430px);
-  text-align: center;
-  color: #ffffff;
 
-  animation: splashEnter 1s ease both;
+  text-align: center;
+
+  color: var(--white);
+
+  animation:
+    splashEnter 1s ease both;
 }
 
 .splash-logo-wrap {
   width: 210px;
   height: 210px;
 
-  margin: 0 auto 20px;
+  margin:
+    0 auto 20px;
 
   display: flex;
+
   align-items: center;
   justify-content: center;
 
   border-radius: 42px;
 
-  background: rgba(255, 255, 255, 0.08);
+  background:
+    rgba(255, 255, 255, 0.08);
 
   box-shadow:
     0 0 0 1px rgba(255,255,255,0.08),
     0 20px 60px rgba(0,0,0,0.3);
 
-  animation: logoFloat 2s ease-in-out infinite;
+  animation:
+    logoFloat 2s ease-in-out infinite;
 }
 
 .splash-logo {
@@ -82,42 +132,38 @@ body {
   border-radius: 32px;
 }
 
-
 .splash-brand h1 {
   margin: 0;
 
   font-size: 36px;
+
   font-weight: 900;
 
-  color: #ff8a00;
+  color: var(--brand-orange);
 }
 
 .splash-brand p {
-  margin: 3px 0 18px;
+  margin:
+    3px 0 18px;
 
   font-size: 15px;
-  color: #ffffff;
-}
 
-.splash-lines {
-  display: flex;
-  flex-direction: column;
-  gap: 5px;
-
-  color: #dfe5f0;
-  font-size: 13px;
+  color: var(--white);
 }
 
 .splash-loader {
   width: 110px;
   height: 3px;
 
-  margin: 27px auto 0;
+  margin:
+    27px auto 0;
 
   overflow: hidden;
+
   border-radius: 10px;
 
-  background: rgba(255,255,255,0.15);
+  background:
+    rgba(255,255,255,0.15);
 }
 
 .splash-loader span {
@@ -128,25 +174,38 @@ body {
 
   border-radius: inherit;
 
-  background: #ff8a00;
+  background: var(--brand-orange);
 
-  animation: loaderMove 1.2s ease-in-out infinite;
+  animation:
+    loaderMove 1.2s ease-in-out infinite;
 }
 
 .splash-hidden {
-  animation: splashExit 0.7s ease forwards;
+  animation:
+    splashExit 0.7s ease forwards;
 }
+
+
+/* =========================================================
+   Splash Animations
+   ========================================================= */
 
 @keyframes splashEnter {
 
   from {
     opacity: 0;
-    transform: translateY(25px) scale(0.94);
+
+    transform:
+      translateY(25px)
+      scale(0.94);
   }
 
   to {
     opacity: 1;
-    transform: translateY(0) scale(1);
+
+    transform:
+      translateY(0)
+      scale(1);
   }
 
 }
@@ -155,11 +214,15 @@ body {
 
   0%,
   100% {
-    transform: translateY(0) scale(1);
+    transform:
+      translateY(0)
+      scale(1);
   }
 
   50% {
-    transform: translateY(-8px) scale(1.02);
+    transform:
+      translateY(-8px)
+      scale(1.02);
   }
 
 }
@@ -167,11 +230,13 @@ body {
 @keyframes loaderMove {
 
   0% {
-    transform: translateX(180%);
+    transform:
+      translateX(180%);
   }
 
   100% {
-    transform: translateX(-280%);
+    transform:
+      translateX(-280%);
   }
 
 }
@@ -180,12 +245,15 @@ body {
 
   from {
     opacity: 1;
+
     visibility: visible;
   }
 
   to {
     opacity: 0;
+
     visibility: hidden;
+
     pointer-events: none;
   }
 
@@ -198,8 +266,11 @@ body {
 
 .app-shell {
   max-width: 980px;
+
   margin: auto;
-  padding: 0 18px 18px;
+
+  padding:
+    0 18px 18px;
 }
 
 
@@ -208,30 +279,35 @@ body {
    ========================================================= */
 
 .main-header {
-  margin: 0 -18px 22px;
+  margin:
+    0 -18px 22px;
 
   background:
     linear-gradient(
       135deg,
-      #182746,
-      #223456
+      var(--brand-navy),
+      var(--brand-navy-light)
     );
 
-  border-radius: 0 0 28px 28px;
+  border-radius:
+    0 0 30px 30px;
 
   box-shadow:
-    0 10px 28px rgba(16,28,53,0.18);
+    var(--shadow-brand);
 }
 
 .header-content {
-  min-height: 118px;
+  min-height: 150px;
 
   max-width: 980px;
+
   margin: auto;
 
-  padding: 20px 18px;
+  padding:
+    28px 18px;
 
   display: flex;
+
   align-items: center;
   justify-content: center;
 
@@ -240,31 +316,38 @@ body {
 
 .header-text {
   display: flex;
+
   flex-direction: column;
 
   align-items: center;
+
+  justify-content: center;
 
   text-align: center;
 }
 
 .header-text strong {
-  color: #ff8a00;
+  color: var(--white);
 
-  font-size: 32px;
+  font-size: 38px;
 
-  line-height: 1.35;
+  line-height: 1.25;
 
   font-weight: 900;
+
+  letter-spacing: -0.5px;
 }
 
 .header-text span {
-  color: #ffffff;
+  margin-top: 6px;
 
-  font-size: 16px;
+  color: #e8edf5;
+
+  font-size: 18px;
+
+  line-height: 1.6;
 
   font-weight: 500;
-
-  margin-top: 2px;
 }
 
 
@@ -273,9 +356,10 @@ body {
    ========================================================= */
 
 .card {
-  background: #ffffff;
+  background: var(--white);
 
-  border: 1px solid #e5e8ee;
+  border:
+    1px solid var(--border-light);
 
   border-radius: 18px;
 
@@ -284,12 +368,14 @@ body {
   margin-bottom: 16px;
 
   box-shadow:
-    0 4px 18px rgba(20,25,35,0.04);
+    var(--shadow-soft);
 }
 
 .section-title {
   display: flex;
+
   align-items: center;
+
   justify-content: space-between;
 
   gap: 10px;
@@ -300,13 +386,16 @@ body {
 .section-title h2 {
   margin: 0;
 
+  color: var(--text-main);
+
   font-size: 18px;
 }
 
 .section-title p {
-  margin: 3px 0 0;
+  margin:
+    3px 0 0;
 
-  color: #777d88;
+  color: var(--text-secondary);
 
   font-size: 12px;
 }
@@ -327,6 +416,7 @@ body {
 
 .form-grid label {
   color: #50545c;
+
   font-size: 13px;
 }
 
@@ -345,19 +435,27 @@ body {
 
   border-radius: 11px;
 
-  background: #ffffff;
+  background: var(--white);
+
+  color: var(--text-dark);
 
   font: inherit;
 
   outline: none;
+
+  transition:
+    border-color 0.2s ease,
+    box-shadow 0.2s ease;
 }
 
 .form-grid input:focus,
 .form-grid select:focus {
-  border-color: #ff8a00;
+  border-color:
+    var(--brand-orange);
 
   box-shadow:
-    0 0 0 3px rgba(255,138,0,0.1);
+    0 0 0 3px
+    rgba(247,148,29,0.14);
 }
 
 .input-hint {
@@ -376,31 +474,53 @@ body {
 
 .form-actions {
   display: flex;
+
   align-items: center;
+
   gap: 12px;
 
   margin-top: 4px;
 }
 
 .primary {
-  background: #ff8a00;
-  color: #ffffff;
+  background:
+    var(--brand-orange);
+
+  color: var(--white);
 
   border: 0;
 
   border-radius: 11px;
 
-  padding: 11px 16px;
+  padding:
+    11px 16px;
 
   font-family: inherit;
 
   font-weight: 700;
 
   cursor: pointer;
+
+  transition:
+    transform 0.2s ease,
+    filter 0.2s ease,
+    box-shadow 0.2s ease;
 }
 
 .primary:hover {
-  filter: brightness(0.95);
+  filter: brightness(0.96);
+
+  transform:
+    translateY(-1px);
+
+  box-shadow:
+    0 5px 14px
+    rgba(247,148,29,0.25);
+}
+
+.primary:active {
+  transform:
+    translateY(0);
 }
 
 .text-btn {
@@ -418,11 +538,13 @@ body {
 }
 
 .storage-note {
-  margin: 15px 0 0;
+  margin:
+    15px 0 0;
 
   padding-top: 12px;
 
-  border-top: 1px solid #eeeeee;
+  border-top:
+    1px solid #eeeeee;
 
   text-align: center;
 
@@ -443,6 +565,8 @@ body {
 
   background: #f7f8fa;
 
+  color: var(--text-main);
+
   font-size: 14px;
 }
 
@@ -462,17 +586,18 @@ body {
 }
 
 .recommendation {
-  border: 1px solid #e5e7eb;
+  border:
+    1px solid var(--border-light);
 
   border-radius: 14px;
 
   padding: 14px;
 
-  background: #ffffff;
+  background: var(--white);
 }
 
 .recommendation .score {
-  color: #ff8a00;
+  color: var(--brand-orange);
 
   font-size: 20px;
 
@@ -480,13 +605,17 @@ body {
 }
 
 .recommendation h3 {
-  margin: 5px 0;
+  margin:
+    5px 0;
+
+  color: var(--text-main);
 
   font-size: 16px;
 }
 
 .recommendation p {
-  margin: 3px 0;
+  margin:
+    3px 0;
 
   color: #666;
 
@@ -504,9 +633,11 @@ body {
 
   border-radius: 9px;
 
-  background: #fff1df;
+  background:
+    var(--brand-orange-soft);
 
-  color: #b85d00;
+  color:
+    #b85d00;
 
   text-decoration: none;
 
@@ -542,14 +673,15 @@ body {
 
   min-width: 0;
 
-  padding: 13px 9px 11px;
+  padding:
+    13px 9px 11px;
 
   border:
-    1px solid #e2e5ea;
+    1px solid var(--border);
 
   border-radius: 16px;
 
-  background: #ffffff;
+  background: var(--white);
 
   text-decoration: none;
 
@@ -561,15 +693,15 @@ body {
 }
 
 .platform:hover {
-
-  transform: translateY(-2px);
+  transform:
+    translateY(-2px);
 
   box-shadow:
-    0 7px 20px rgba(16,28,53,0.08);
+    0 7px 20px
+    rgba(16,28,53,0.08);
 }
 
 .platform-main {
-
   width: 100%;
 
   display: flex;
@@ -586,7 +718,6 @@ body {
 }
 
 .platform-logo {
-
   width: 54px;
   height: 54px;
 
@@ -608,7 +739,6 @@ body {
 }
 
 .platform-logo img {
-
   display: block;
 
   width: 100%;
@@ -622,14 +752,13 @@ body {
 }
 
 .platform-name {
-
   display: block;
 
   width: 100%;
 
   text-align: center;
 
-  color: #202124;
+  color: var(--text-dark);
 
   font-size: 13px;
 
@@ -639,14 +768,13 @@ body {
 }
 
 .platform-tag {
-
   display: block;
 
   width: 100%;
 
   text-align: center;
 
-  color: #858a93;
+  color: var(--text-muted);
 
   font-size: 10px;
 
@@ -654,23 +782,25 @@ body {
 }
 
 .platform-btn {
-
   display: flex;
 
   align-items: center;
   justify-content: center;
 
-  width: calc(100% - 6px);
+  width:
+    calc(100% - 6px);
 
   min-height: 32px;
 
-  padding: 7px 5px;
+  padding:
+    7px 5px;
 
   border-radius: 10px;
 
-  background: #ff8a00;
+  background:
+    var(--brand-orange);
 
-  color: #ffffff;
+  color: var(--white);
 
   text-align: center;
 
@@ -679,6 +809,14 @@ body {
   line-height: 1.3;
 
   font-weight: 800;
+
+  transition:
+    filter 0.2s ease,
+    transform 0.2s ease;
+}
+
+.platform:hover .platform-btn {
+  filter: brightness(0.96);
 }
 
 
@@ -687,7 +825,6 @@ body {
    ========================================================= */
 
 .install-prompt {
-
   position: fixed;
 
   left: 16px;
@@ -706,17 +843,21 @@ body {
 
   gap: 11px;
 
-  padding: 11px 13px;
+  padding:
+    11px 13px;
 
-  background: #ffffff;
+  background:
+    var(--white);
 
   border:
-    1px solid rgba(16, 28, 53, 0.12);
+    1px solid
+    rgba(16,28,53,0.12);
 
   border-radius: 17px;
 
   box-shadow:
-    0 14px 40px rgba(16, 28, 53, 0.22);
+    0 14px 40px
+    rgba(16,28,53,0.22);
 
   opacity: 0;
 
@@ -732,7 +873,6 @@ body {
 }
 
 .install-prompt.show {
-
   opacity: 1;
 
   transform:
@@ -749,6 +889,7 @@ body {
   flex: 0 0 48px;
 
   display: flex;
+
   align-items: center;
   justify-content: center;
 
@@ -756,7 +897,8 @@ body {
 
   border-radius: 14px;
 
-  background: #101c35;
+  background:
+    var(--brand-navy);
 
   padding: 3px;
 }
@@ -773,7 +915,6 @@ body {
 }
 
 .install-prompt-content {
-
   min-width: 0;
 
   flex: 1;
@@ -784,8 +925,8 @@ body {
 }
 
 .install-prompt-content strong {
-
-  color: #101c35;
+  color:
+    var(--brand-navy);
 
   font-size: 13px;
 
@@ -793,8 +934,8 @@ body {
 }
 
 .install-prompt-content span {
-
-  color: #777d88;
+  color:
+    var(--text-secondary);
 
   font-size: 10px;
 
@@ -802,18 +943,20 @@ body {
 }
 
 .install-prompt-button {
-
   flex: 0 0 auto;
 
   border: 0;
 
   border-radius: 10px;
 
-  padding: 8px 14px;
+  padding:
+    8px 14px;
 
-  background: #ff8a00;
+  background:
+    var(--brand-orange);
 
-  color: #ffffff;
+  color:
+    var(--white);
 
   font-family: inherit;
 
@@ -825,7 +968,6 @@ body {
 }
 
 .install-prompt-close {
-
   width: 27px;
   height: 27px;
 
@@ -837,7 +979,7 @@ body {
 
   background: #f1f2f4;
 
-  color: #777d88;
+  color: var(--text-secondary);
 
   font-size: 18px;
 
@@ -852,7 +994,6 @@ body {
    ========================================================= */
 
 footer {
-
   padding: 12px;
 
   text-align: center;
@@ -888,22 +1029,26 @@ footer {
       0 -12px 14px;
 
     border-radius:
-      0 0 20px 20px;
+      0 0 22px 22px;
   }
 
   .header-content {
-    min-height: 125px;
+    min-height: 145px;
 
     padding:
-      18px 12px;
+      25px 12px;
   }
 
   .header-text strong {
-    font-size: 28px;
+    font-size: 31px;
   }
 
   .header-text span {
-    font-size: 13px;
+    margin-top: 5px;
+
+    font-size: 14px;
+
+    line-height: 1.6;
   }
 
   .form-grid {
@@ -915,7 +1060,6 @@ footer {
   }
 
   .platform-grid {
-
     grid-template-columns:
       repeat(2, minmax(0, 1fr));
 
@@ -923,13 +1067,11 @@ footer {
   }
 
   .platform {
-
     padding:
       11px 7px 10px;
   }
 
   .platform-logo {
-
     width: 50px;
     height: 50px;
 
@@ -943,17 +1085,16 @@ footer {
   }
 
   .splash-logo-wrap {
-
     width: 180px;
     height: 180px;
   }
 
-.splash-logo {
-  width: 150px;
-  height: 150px;
+  .splash-logo {
+    width: 150px;
+    height: 150px;
 
-  border-radius: 28px;
-}
+    border-radius: 28px;
+  }
 
   .splash-brand h1 {
     font-size: 31px;
@@ -963,12 +1104,7 @@ footer {
     font-size: 13px;
   }
 
-  .splash-lines {
-    font-size: 11px;
-  }
-
   .install-prompt {
-
     left: 10px;
     right: 10px;
     bottom: 10px;
@@ -977,14 +1113,12 @@ footer {
   }
 
   .install-prompt-content span {
-
     font-size: 9px;
   }
 
   .install-prompt-button {
-
     padding:
       8px 12px;
   }
 
-  }
+}
