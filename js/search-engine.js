@@ -1,24 +1,16 @@
-/* DigiYar V3 - Search Engine */
+/* =========================================================
+   DigiYar V3
+   Search Engine
+   ========================================================= */
 
 (function () {
+
   "use strict";
 
 
-  /*
-   * Search Engine
-   *
-   * وظیفه این لایه:
-   *
-   * 1. دریافت عبارت جستجوی کاربر
-   * 2. جستجو در Product Data Layer
-   * 3. تحویل نتایج استاندارد
-   *
-   * فعلاً منبع داده داخلی است.
-   *
-   * در مراحل بعد می‌توانیم منابع واقعی
-   * مثل API یا Search Provider را به آن وصل کنیم.
-   */
-
+  /* =======================================================
+     Helpers
+     ======================================================= */
 
   function normalizeQuery(query) {
 
@@ -26,21 +18,25 @@
       query || ""
     )
       .trim()
-      .toLowerCase();
+      .toLowerCase()
+      .replace(/ي/g, "ی")
+      .replace(/ك/g, "ک");
 
   }
 
 
-  function search(query) {
+  /* =======================================================
+     Search
+     ======================================================= */
+
+  async function search(
+    query,
+    options
+  ) {
 
     const normalizedQuery =
       normalizeQuery(query);
 
-
-    /*
-     * اگر عبارت جستجو خالی باشد،
-     * نتیجه‌ای برنمی‌گردانیم.
-     */
 
     if (!normalizedQuery) {
 
@@ -50,92 +46,59 @@
 
 
     /*
-     * بررسی وجود Product Data Layer
+     * اولویت با Product Retrieval
      */
 
     if (
-      !window.DigiYarProductData ||
+      window.DigiYarProductRetrieval &&
       typeof
-        window.DigiYarProductData.search !==
+        window.DigiYarProductRetrieval.search ===
         "function"
     ) {
 
-      console.error(
-        "DigiYarProductData is not available."
-      );
-
-      return [];
+      return
+        await window.DigiYarProductRetrieval
+          .search(
+            normalizedQuery,
+            options
+          );
 
     }
 
 
     /*
-     * دریافت نتایج از لایه داده
+     * Fallback نهایی
      */
 
-    const results =
-      window.DigiYarProductData
-        .search(
-          normalizedQuery
-        );
+    if (
+      window.DigiYarProductData &&
+      typeof
+        window.DigiYarProductData.search ===
+        "function"
+    ) {
+
+      return
+        window.DigiYarProductData
+          .search(
+            normalizedQuery
+          );
+
+    }
 
 
-    /*
-     * استانداردسازی خروجی
-     *
-     * موتورهای بعدی دیجی‌یار
-     * فقط با این ساختار کار می‌کنند.
-     */
-
-    return results.map(
-      function (product) {
-
-        return {
-
-          id:
-            product.id || "",
-
-          name:
-            product.name || "",
-
-          category:
-            product.category || "general",
-
-          price:
-            Number(
-              product.price || 0
-            ),
-
-          store:
-            product.store || "",
-
-          productUrl:
-            product.productUrl ||
-            product.url ||
-            "",
-
-          image:
-            product.image ||
-            "",
-
-          features:
-            Array.isArray(
-              product.features
-            )
-              ? product.features.slice()
-              : []
-
-        };
-
-      }
-    );
+    return [];
 
   }
 
 
+  /* =======================================================
+     Public API
+     ======================================================= */
+
   const DigiYarSearchEngine = {
 
-    version: "1.0.0",
+    version:
+      "2.0.0",
 
     search:
       search
