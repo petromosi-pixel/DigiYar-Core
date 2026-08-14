@@ -1,30 +1,46 @@
 /* =========================================================
    DigiYar V4 — Need Understanding Engine
-   Build 1.1 — Alpha
+   Build 1.2 — Alpha
    ========================================================= */
 
 (function (window) {
   "use strict";
 
-  const VERSION = "4.0.0-alpha.1";
+  const VERSION = "4.0.0-alpha.2";
+
+  /* ---------------------------------------------------------
+     Text Normalization
+     --------------------------------------------------------- */
 
   function normalize(text) {
     return String(text || "")
       .trim()
       .replace(/ي/g, "ی")
+      .replace(/ى/g, "ی")
       .replace(/ك/g, "ک")
       .replace(/[‌]/g, " ")
       .replace(/\s+/g, " ");
   }
 
+  function compact(text) {
+    return normalize(text)
+      .replace(/\s+/g, "");
+  }
+
   function normalizeDigits(text) {
     return String(text || "")
-      .replace(/[۰-۹]/g, d => "۰۱۲۳۴۵۶۷۸۹".indexOf(d))
-      .replace(/[٠-٩]/g, d => "٠١٢٣٤٥٦٧٨٩".indexOf(d));
+      .replace(/[۰-۹]/g, function (d) {
+        return "۰۱۲۳۴۵۶۷۸۹".indexOf(d);
+      })
+      .replace(/[٠-٩]/g, function (d) {
+        return "٠١٢٣٤٥٦٧٨٩".indexOf(d);
+      });
   }
 
   function has(text, words) {
-    return words.some(word => text.includes(word));
+    return words.some(function (word) {
+      return text.includes(word);
+    });
   }
 
   /* ---------------------------------------------------------
@@ -67,7 +83,6 @@
 
     if (
       has(text, [
-        "تلویزیون",
         "تلویزیون"
       ])
     ) {
@@ -90,7 +105,9 @@
       /(?:تا|حداکثر|نهایت(?:اً)?|زیر|کمتر از)\s*([0-9]+(?:\.[0-9]+)?)\s*(میلیون|میلیارد|هزار)?/
     );
 
-    if (!match) return null;
+    if (!match) {
+      return null;
+    }
 
     let value = Number(match[1]);
 
@@ -180,17 +197,90 @@
 
     return Object.assign({
 
-      field,
+      field: field,
 
-      type,
+      type: type,
 
-      importance,
+      importance: importance,
 
       source: "declared",
 
       confidence: 0.90
 
     }, extra || {});
+  }
+
+  /* ---------------------------------------------------------
+     Exclusion Detection
+     --------------------------------------------------------- */
+
+  function detectIphoneExclusion(text) {
+
+    const normalized =
+      normalize(text);
+
+    const compactText =
+      compact(text);
+
+    const hasIphone =
+      compactText.includes("آیفون") ||
+      compactText.includes("ایفون") ||
+      compactText.includes("iphone");
+
+    if (!hasIphone) {
+      return false;
+    }
+
+    /*
+      حالت‌های مختلف:
+
+      آیفون نمی‌خوام
+      آیفون نمیخوام
+      آیفون رو نمی‌خوام
+      آیفون را نمی‌خواهم
+      آیفون نمی خواهم
+    */
+
+    const negativePatterns = [
+
+      "نمیخوام",
+      "نمیخواهم",
+      "نمیخوامش",
+      "نمیخواهمش",
+
+      "نمی خواهم",
+      "نمی خواهمش",
+
+      "نمی خواهم",
+      "نمی‌خواهم",
+
+      "نمیخوام",
+      "نمی‌خوام"
+
+    ];
+
+    if (
+      negativePatterns.some(function (pattern) {
+        return normalized.includes(pattern);
+      })
+    ) {
+      return true;
+    }
+
+    /*
+      حالت بسیار عمومی‌تر:
+
+      آیفون + نمی
+    */
+
+    if (
+      normalized.includes("آیفون نمی") ||
+      normalized.includes("ایفون نمی")
+    ) {
+      return true;
+    }
+
+    return false;
   }
 
   /* ---------------------------------------------------------
@@ -280,6 +370,7 @@
         has(text, [
           "ترجیحاً",
           "ترجیح میدم",
+          "ترجیح می‌دم",
           "اگر",
           "اگه",
           "اشکالی نداره"
@@ -291,11 +382,9 @@
           flexible
             ? "preference"
             : "requirement",
-
           flexible
             ? 5
             : 7,
-
           {
             flexibility:
               flexible
@@ -321,7 +410,6 @@
           "weight",
           "hard_constraint",
           10,
-
           {
             threshold: {
 
@@ -342,20 +430,10 @@
       );
     }
 
-    /* Exclusion — Brand / Product */
+    /* iPhone Exclusion */
 
     if (
-      has(text, [
-        "آیفون نمیخوام",
-        "آیفون نمی‌خوام",
-        "آیفون رو نمیخوام",
-        "آیفون رو نمی‌خوام",
-        "آیفون را نمیخوام",
-        "آیفون را نمی‌خوام",
-        "آیفون نمی خواهم",
-        "آیفون رو نمی خواهم",
-        "آیفون را نمی خواهم"
-      ])
+      detectIphoneExclusion(text)
     ) {
 
       elements.push(
@@ -364,11 +442,10 @@
           "brand_or_os",
           "exclusion",
           10,
-
           {
             value: "iphone",
 
-            confidence: 0.98
+            confidence: 0.99
           }
         )
 
@@ -386,21 +463,37 @@
 
     const result = [];
 
-    /*
-      حالت صریح:
+    const normalized =
+      normalize(text);
 
-      دوربین مهم‌تر از باتری است
+    /*
+      اولویت دوربین:
+
       دوربین برام مهم‌تره
+      دوربین مهم‌تره
+      دوربین مهمتره
     */
 
+    const cameraPriority =
+      normalized.includes("دوربین برام مهم") &&
+      (
+        normalized.includes("مهم‌تر") ||
+        normalized.includes("مهمتر")
+      );
+
+    const cameraVsBattery =
+      (
+        normalized.includes("دوربین از باتری") ||
+        normalized.includes("دوربین مهم‌تر از باتری") ||
+        normalized.includes("دوربین مهمتر از باتری")
+      );
+
+    const batteryMentioned =
+      normalized.includes("باتری");
+
     if (
-      has(text, [
-        "دوربین برام مهم‌تره",
-        "دوربین مهمتره",
-        "دوربین مهم‌تر از باتری",
-        "دوربین از باتری مهم‌تره",
-        "دوربین از باتری مهمتره"
-      ])
+      (cameraPriority && batteryMentioned) ||
+      cameraVsBattery
     ) {
 
       result.push({
@@ -411,42 +504,10 @@
 
         source: "declared",
 
-        confidence: 0.96
-      });
-
-      return result;
-    }
-
-    /*
-      حالت طبیعی‌تر:
-
-      دوربین برام مهم‌تره
-      و باتری هم خوب باشه
-
-      در این حالت «مهم‌تر» برای دوربین
-      نشان‌دهنده اولویت نسبی است.
-    */
-
-    if (
-      has(text, [
-        "دوربین برام مهم‌تره",
-        "دوربین مهم‌تره",
-        "دوربین مهمتره"
-      ]) &&
-      has(text, [
-        "باتری"
-      ])
-    ) {
-
-      result.push({
-
-        preferred: "camera",
-
-        over: "battery",
-
-        source: "declared",
-
-        confidence: 0.92
+        confidence:
+          cameraVsBattery
+            ? 0.98
+            : 0.92
       });
     }
 
@@ -479,12 +540,6 @@
 
     const unknown = [];
 
-    /*
-      این موارد فقط وقتی
-      برای یک Need مستقل ضروری باشند
-      به عنوان unknown ثبت می‌شوند.
-    */
-
     if (!category) {
       unknown.push("category");
     }
@@ -496,11 +551,6 @@
     if (!usage.length) {
       unknown.push("usage");
     }
-
-    /*
-      اگر فقط بخشی از اطلاعات موجود باشد،
-      هنوز Need ناقص است.
-    */
 
     const ready =
       unknown.length === 0;
@@ -530,26 +580,30 @@
 
       input: text,
 
-      category,
+      category: category,
 
       intent: "purchase",
 
-      budget,
+      budget: budget,
 
-      usage,
+      usage: usage,
 
-      decisionElements,
+      decisionElements:
+        decisionElements,
 
-      tradeoffs,
+      tradeoffs:
+        tradeoffs,
 
-      unknown,
+      unknown:
+        unknown,
 
-      confidence,
+      confidence:
+        confidence,
 
-      ready,
+      ready:
+        ready,
 
       nextAction:
-
         ready
           ? "retrieve_products"
           : "ask_user"
@@ -564,7 +618,7 @@
 
     version: VERSION,
 
-    analyze
+    analyze: analyze
 
   };
 
