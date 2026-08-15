@@ -1,0 +1,525 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>DigiYar V4 — Conversation State Test</title>
+
+  <style>
+    body {
+      font-family: Tahoma, sans-serif;
+      background: #f5f7fa;
+      padding: 20px;
+      line-height: 1.8;
+    }
+
+    h1 {
+      color: #172033;
+    }
+
+    .summary {
+      padding: 15px;
+      border-radius: 10px;
+      margin-bottom: 20px;
+      font-weight: bold;
+      background: white;
+    }
+
+    .pass {
+      color: #16803c;
+    }
+
+    .fail {
+      color: #c62828;
+    }
+
+    .test {
+      background: white;
+      border-radius: 10px;
+      padding: 15px;
+      margin-bottom: 15px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+    }
+
+    pre {
+      direction: ltr;
+      text-align: left;
+      white-space: pre-wrap;
+      background: #f0f2f5;
+      padding: 12px;
+      border-radius: 8px;
+      overflow-x: auto;
+    }
+  </style>
+</head>
+
+<body>
+
+<h1>تست Conversation State — V4</h1>
+
+<p><strong>Build 6 — Alpha 1</strong></p>
+
+<div id="summary" class="summary">
+  در حال اجرای تست‌ها...
+</div>
+
+<div id="results"></div>
+
+<!-- Dependencies -->
+
+<script src="./js/conversation-engine.js"></script>
+<script src="./js/answer-interpreter.js"></script>
+<script src="./js/need-integration.js"></script>
+<script src="./js/conversation-state.js"></script>
+
+<script>
+
+const results = [];
+
+function addResult(name, passed, data) {
+
+  results.push({
+    name,
+    passed,
+    data
+  });
+
+}
+
+function renderResults() {
+
+  const container =
+    document.getElementById("results");
+
+  container.innerHTML = "";
+
+  results.forEach((test, index) => {
+
+    const div =
+      document.createElement("div");
+
+    div.className = "test";
+
+    div.innerHTML = `
+      <h3 class="${test.passed ? "pass" : "fail"}">
+        ${test.passed ? "✅ PASS" : "❌ FAIL"}
+        — سناریو ${index + 1}
+      </h3>
+
+      <strong>${test.name}</strong>
+
+      <pre>${JSON.stringify(
+        test.data,
+        null,
+        2
+      )}</pre>
+    `;
+
+    container.appendChild(div);
+
+  });
+
+  const passed =
+    results.filter(
+      item => item.passed
+    ).length;
+
+  const total =
+    results.length;
+
+  const summary =
+    document.getElementById("summary");
+
+  if (passed === total) {
+
+    summary.className =
+      "summary pass";
+
+    summary.innerHTML =
+      `🎉 ALL TESTS PASSED — ${passed} از ${total}`;
+
+  } else {
+
+    summary.className =
+      "summary fail";
+
+    summary.innerHTML =
+      `⚠️ SOME TESTS FAILED — ${passed} از ${total}`;
+
+  }
+
+}
+
+
+/* -----------------------------------------
+   Dependency Test
+----------------------------------------- */
+
+try {
+
+  const dependencies = {
+
+    conversationEngine:
+      typeof DigiyarConversationEngine !== "undefined",
+
+    answerInterpreter:
+      typeof DigiyarAnswerInterpreter !== "undefined",
+
+    needIntegration:
+      typeof DigiyarNeedIntegration !== "undefined",
+
+    conversationState:
+      typeof DigiyarConversationState !== "undefined"
+  };
+
+  const allReady =
+    Object.values(dependencies)
+      .every(Boolean);
+
+  addResult(
+    "بررسی وجود Engineهای Build 3 تا 6",
+    allReady,
+    dependencies
+  );
+
+} catch (error) {
+
+  addResult(
+    "بررسی Dependencyها",
+    false,
+    {
+      error:
+        error.message || String(error)
+    }
+  );
+
+}
+
+
+/* -----------------------------------------
+   Scenario 1
+   شروع گفتگو
+----------------------------------------- */
+
+try {
+
+  const state =
+    DigiyarConversationState.create();
+
+  const result =
+    DigiyarConversationState.process(
+      state,
+      "یه گوشی خوب می‌خوام."
+    );
+
+  const passed =
+    result.status === "waiting_for_answer" &&
+    result.need &&
+    result.need.category === "mobile" &&
+    result.need.ready === false &&
+    result.question !== null &&
+    result.turn === 1;
+
+  addResult(
+    "شروع گفتگو با نیاز ناقص",
+    passed,
+    result
+  );
+
+} catch (error) {
+
+  addResult(
+    "شروع گفتگو با نیاز ناقص",
+    false,
+    {
+      error:
+        error.message || String(error)
+    }
+  );
+
+}
+
+
+/* -----------------------------------------
+   Scenario 2
+   بودجه + حفظ دسته
+----------------------------------------- */
+
+try {
+
+  let state =
+    DigiyarConversationState.create();
+
+  let first =
+    DigiyarConversationState.process(
+      state,
+      "یه گوشی خوب می‌خوام."
+    );
+
+  state = first.state;
+
+  let second =
+    DigiyarConversationState.process(
+      state,
+      "تا ۱۵ میلیون"
+    );
+
+  const passed =
+    second.need.category === "mobile" &&
+    second.need.budget &&
+    second.need.budget.max === 15000000 &&
+    second.need.ready === false &&
+    second.turn === 2;
+
+  addResult(
+    "دریافت بودجه و حفظ دسته",
+    passed,
+    second
+  );
+
+} catch (error) {
+
+  addResult(
+    "دریافت بودجه و حفظ دسته",
+    false,
+    {
+      error:
+        error.message || String(error)
+    }
+  );
+
+}
+
+
+/* -----------------------------------------
+   Scenario 3
+   تکمیل کامل گفتگو
+----------------------------------------- */
+
+try {
+
+  let state =
+    DigiyarConversationState.create();
+
+  let r1 =
+    DigiyarConversationState.process(
+      state,
+      "یه گوشی خوب می‌خوام."
+    );
+
+  state = r1.state;
+
+  let r2 =
+    DigiyarConversationState.process(
+      state,
+      "تا ۱۵ میلیون"
+    );
+
+  state = r2.state;
+
+  let r3 =
+    DigiyarConversationState.process(
+      state,
+      "برای عکاسی"
+    );
+
+  const passed =
+    r3.need.category === "mobile" &&
+    r3.need.budget &&
+    r3.need.budget.max === 15000000 &&
+    Array.isArray(r3.need.usage) &&
+    r3.need.usage.includes("photography") &&
+    r3.need.ready === true &&
+    r3.need.nextAction === "retrieve_products" &&
+    r3.status === "complete" &&
+    r3.turn === 3;
+
+  addResult(
+    "تکمیل کامل نیاز در چند Turn",
+    passed,
+    r3
+  );
+
+} catch (error) {
+
+  addResult(
+    "تکمیل کامل نیاز در چند Turn",
+    false,
+    {
+      error:
+        error.message || String(error)
+    }
+  );
+
+}
+
+
+/* -----------------------------------------
+   Scenario 4
+   نیاز کامل در پیام اول
+----------------------------------------- */
+
+try {
+
+  const state =
+    DigiyarConversationState.create();
+
+  const result =
+    DigiyarConversationState.process(
+      state,
+      "یه گوشی تا ۱۵ میلیون برای عکاسی می‌خوام."
+    );
+
+  const passed =
+    result.need.category === "mobile" &&
+    result.need.budget &&
+    result.need.budget.max === 15000000 &&
+    result.need.usage.includes("photography") &&
+    result.need.ready === true &&
+    result.status === "complete" &&
+    result.turn === 1;
+
+  addResult(
+    "نیاز کامل در اولین پیام",
+    passed,
+    result
+  );
+
+} catch (error) {
+
+  addResult(
+    "نیاز کامل در اولین پیام",
+    false,
+    {
+      error:
+        error.message || String(error)
+    }
+  );
+
+}
+
+
+/* -----------------------------------------
+   Scenario 5
+   پاسخ نامفهوم
+----------------------------------------- */
+
+try {
+
+  let state =
+    DigiyarConversationState.create();
+
+  let r1 =
+    DigiyarConversationState.process(
+      state,
+      "یه گوشی خوب می‌خوام."
+    );
+
+  state = r1.state;
+
+  let r2 =
+    DigiyarConversationState.process(
+      state,
+      "هنوز نمی‌دونم"
+    );
+
+  const passed =
+    r2.need.category === "mobile" &&
+    r2.need.budget === null &&
+    r2.need.ready === false &&
+    r2.status === "waiting_for_answer" &&
+    r2.turn === 2;
+
+  addResult(
+    "پاسخ نامفهوم و حفظ اطلاعات قبلی",
+    passed,
+    r2
+  );
+
+} catch (error) {
+
+  addResult(
+    "پاسخ نامفهوم و حفظ اطلاعات قبلی",
+    false,
+    {
+      error:
+        error.message || String(error)
+    }
+  );
+
+}
+
+
+/* -----------------------------------------
+   Scenario 6
+   History + Turn
+----------------------------------------- */
+
+try {
+
+  let state =
+    DigiyarConversationState.create();
+
+  let r1 =
+    DigiyarConversationState.process(
+      state,
+      "یه گوشی خوب می‌خوام."
+    );
+
+  state = r1.state;
+
+  let r2 =
+    DigiyarConversationState.process(
+      state,
+      "تا ۱۵ میلیون"
+    );
+
+  state = r2.state;
+
+  let r3 =
+    DigiyarConversationState.process(
+      state,
+      "برای عکاسی"
+    );
+
+  const history =
+    r3.state.history;
+
+  const passed =
+    Array.isArray(history) &&
+    history.length === 3 &&
+    history[0].turn === 1 &&
+    history[1].turn === 2 &&
+    history[2].turn === 3 &&
+    r3.state.turn === 3;
+
+  addResult(
+    "ثبت صحیح History و Turnها",
+    passed,
+    {
+      turn: r3.state.turn,
+      history: history
+    }
+  );
+
+} catch (error) {
+
+  addResult(
+    "ثبت صحیح History و Turnها",
+    false,
+    {
+      error:
+        error.message || String(error)
+    }
+  );
+
+}
+
+
+renderResults();
+
+</script>
+
+</body>
+</html>
