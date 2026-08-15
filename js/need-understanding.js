@@ -1,12 +1,12 @@
 /* =========================================================
    DigiYar V4 — Need Understanding Engine
-   Build 1.2 — Alpha
+   Build 1.3 — Alpha
    ========================================================= */
 
 (function (window) {
   "use strict";
 
-  const VERSION = "4.0.0-alpha.2";
+  const VERSION = "4.0.0-alpha.3";
 
   /* ---------------------------------------------------------
      Text Normalization
@@ -23,8 +23,7 @@
   }
 
   function compact(text) {
-    return normalize(text)
-      .replace(/\s+/g, "");
+    return normalize(text).replace(/\s+/g, "");
   }
 
   function normalizeDigits(text) {
@@ -44,7 +43,7 @@
   }
 
   /* ---------------------------------------------------------
-     Category
+     Category Detection
      --------------------------------------------------------- */
 
   function detectCategory(text) {
@@ -54,7 +53,9 @@
         "گوشی",
         "موبایل",
         "تلفن همراه",
-        "آیفون"
+        "آیفون",
+        "ایفون",
+        "iphone"
       ])
     ) {
       return "mobile";
@@ -93,7 +94,7 @@
   }
 
   /* ---------------------------------------------------------
-     Budget
+     Budget Detection
      --------------------------------------------------------- */
 
   function detectBudget(text) {
@@ -133,7 +134,7 @@
   }
 
   /* ---------------------------------------------------------
-     Usage
+     Usage Detection
      --------------------------------------------------------- */
 
   function detectUsage(text) {
@@ -211,7 +212,7 @@
   }
 
   /* ---------------------------------------------------------
-     Exclusion Detection
+     iPhone Exclusion Detection
      --------------------------------------------------------- */
 
   function detectIphoneExclusion(text) {
@@ -231,16 +232,6 @@
       return false;
     }
 
-    /*
-      حالت‌های مختلف:
-
-      آیفون نمی‌خوام
-      آیفون نمیخوام
-      آیفون رو نمی‌خوام
-      آیفون را نمی‌خواهم
-      آیفون نمی خواهم
-    */
-
     const negativePatterns = [
 
       "نمیخوام",
@@ -251,7 +242,6 @@
       "نمی خواهم",
       "نمی خواهمش",
 
-      "نمی خواهم",
       "نمی‌خواهم",
 
       "نمیخوام",
@@ -267,15 +257,10 @@
       return true;
     }
 
-    /*
-      حالت بسیار عمومی‌تر:
-
-      آیفون + نمی
-    */
-
     if (
       normalized.includes("آیفون نمی") ||
-      normalized.includes("ایفون نمی")
+      normalized.includes("ایفون نمی") ||
+      normalized.includes("iphone نمی")
     ) {
       return true;
     }
@@ -284,7 +269,7 @@
   }
 
   /* ---------------------------------------------------------
-     Decision Elements
+     Decision Elements Detection
      --------------------------------------------------------- */
 
   function detectElements(text) {
@@ -309,7 +294,9 @@
           "مهمه",
           "مهم است",
           "مهم‌تره",
-          "مهمتره"
+          "مهمتره",
+          "مهم تره",
+          "مهم تر"
         ])
       ) {
         importance = 10;
@@ -405,7 +392,6 @@
     if (weightMatch) {
 
       elements.push(
-
         element(
           "weight",
           "hard_constraint",
@@ -426,7 +412,6 @@
             confidence: 0.98
           }
         )
-
       );
     }
 
@@ -437,18 +422,15 @@
     ) {
 
       elements.push(
-
         element(
           "brand_or_os",
           "exclusion",
           10,
           {
             value: "iphone",
-
             confidence: 0.99
           }
         )
-
       );
     }
 
@@ -467,29 +449,50 @@
       normalize(text);
 
     /*
-      اولویت دوربین:
+      حالت‌های مختلف نوشتاری:
 
-      دوربین برام مهم‌تره
-      دوربین مهم‌تره
-      دوربین مهمتره
+      مهم‌تره
+      مهمتره
+      مهم تره
+      مهم‌تر
+      مهمتر
+      مهم تر
     */
 
     const cameraPriority =
       normalized.includes("دوربین برام مهم") &&
       (
         normalized.includes("مهم‌تر") ||
-        normalized.includes("مهمتر")
+        normalized.includes("مهمتر") ||
+        normalized.includes("مهم تر") ||
+        normalized.includes("مهم‌تره") ||
+        normalized.includes("مهمتره") ||
+        normalized.includes("مهم تره")
       );
+
+    /*
+      حالت صریح:
+
+      دوربین از باتری مهم‌تره
+      دوربین مهم‌تر از باتریه
+    */
 
     const cameraVsBattery =
       (
         normalized.includes("دوربین از باتری") ||
         normalized.includes("دوربین مهم‌تر از باتری") ||
-        normalized.includes("دوربین مهمتر از باتری")
+        normalized.includes("دوربین مهمتر از باتری") ||
+        normalized.includes("دوربین مهم تر از باتری")
       );
 
     const batteryMentioned =
       normalized.includes("باتری");
+
+    /*
+      اگر کاربر دوربین را مهم‌تر اعلام کرده
+      و باتری را هم در همان درخواست ذکر کرده،
+      دوربین نسبت به باتری اولویت بالاتری دارد.
+    */
 
     if (
       (cameraPriority && batteryMentioned) ||
