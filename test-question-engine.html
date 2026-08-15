@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  >
+
+  <title>DigiYar V4 — Question Engine Test</title>
+
+  <style>
+    body {
+      font-family: Tahoma, Arial, sans-serif;
+      background: #f5f5f5;
+      margin: 0;
+      padding: 20px;
+      color: #222;
+    }
+
+    .container {
+      max-width: 900px;
+      margin: auto;
+    }
+
+    h1 {
+      margin-bottom: 5px;
+    }
+
+    .subtitle {
+      color: #666;
+      margin-bottom: 20px;
+    }
+
+    button {
+      background: #e6123d;
+      color: white;
+      border: none;
+      padding: 12px 20px;
+      border-radius: 8px;
+      font-size: 15px;
+      cursor: pointer;
+      margin-bottom: 20px;
+    }
+
+    .test {
+      background: white;
+      border-radius: 10px;
+      padding: 16px;
+      margin-bottom: 15px;
+      box-shadow: 0 2px 8px rgba(0,0,0,.08);
+    }
+
+    .pass {
+      color: green;
+      font-weight: bold;
+    }
+
+    .fail {
+      color: #d00;
+      font-weight: bold;
+    }
+
+    pre {
+      background: #f1f1f1;
+      padding: 12px;
+      border-radius: 8px;
+      overflow-x: auto;
+      white-space: pre-wrap;
+      direction: ltr;
+      text-align: left;
+    }
+
+    .summary {
+      font-size: 20px;
+      font-weight: bold;
+      margin: 20px 0;
+    }
+  </style>
+</head>
+
+<body>
+
+<div class="container">
+
+  <h1>تست Question Engine — V4</h1>
+
+  <div class="subtitle">
+    Build 2 — Alpha 1
+  </div>
+
+  <button onclick="runTests()">
+    اجرای تست‌ها
+  </button>
+
+  <div id="summary"></div>
+
+  <div id="results"></div>
+
+</div>
+
+<script src="./js/question-engine.js"></script>
+
+<script>
+
+function runTests() {
+
+  const tests = [
+
+    {
+      name: "سناریو ۱ — همه اطلاعات ناقص",
+
+      need: {
+        category: null,
+        budget: null,
+        usage: [],
+        ready: false
+      },
+
+      expectedQuestionId: "category"
+    },
+
+    {
+      name: "سناریو ۲ — دسته مشخص، بودجه و کاربرد ناقص",
+
+      need: {
+        category: "mobile",
+        budget: null,
+        usage: [],
+        ready: false
+      },
+
+      expectedQuestionId: "budget"
+    },
+
+    {
+      name: "سناریو ۳ — دسته و بودجه مشخص، کاربرد ناقص",
+
+      need: {
+        category: "mobile",
+
+        budget: {
+          max: 15000000
+        },
+
+        usage: [],
+
+        ready: false
+      },
+
+      expectedQuestionId: "usage"
+    },
+
+    {
+      name: "سناریو ۴ — نیاز کامل",
+
+      need: {
+        category: "mobile",
+
+        budget: {
+          max: 15000000
+        },
+
+        usage: [
+          "photography"
+        ],
+
+        ready: true
+      },
+
+      expectedReady: true
+    },
+
+    {
+      name: "سناریو ۵ — اطلاعات اضافه نباید سؤال اضافی ایجاد کند",
+
+      need: {
+        category: "mobile",
+
+        budget: {
+          max: 15000000
+        },
+
+        usage: [
+          "photography"
+        ],
+
+        decisionElements: [
+          {
+            field: "camera",
+            type: "requirement",
+            importance: 10
+          },
+          {
+            field: "battery",
+            type: "requirement",
+            importance: 8
+          }
+        ],
+
+        tradeoffs: [
+          {
+            preferred: "camera",
+            over: "battery"
+          }
+        ],
+
+        ready: true
+      },
+
+      expectedReady: true
+    }
+
+  ];
+
+  let passed = 0;
+
+  let html = "";
+
+  tests.forEach(function(test, index) {
+
+    let result;
+
+    try {
+
+      result =
+        window.DigiYarQuestionEngine
+          .selectQuestion(test.need);
+
+    } catch (error) {
+
+      html += `
+        <div class="test">
+          <div class="fail">
+            ❌ ${test.name}
+          </div>
+
+          <pre>${error}</pre>
+        </div>
+      `;
+
+      return;
+    }
+
+    let pass = false;
+
+    if (
+      test.expectedReady === true
+    ) {
+
+      pass =
+        result.ready === true &&
+        result.question === null;
+
+    } else {
+
+      pass =
+        result.questionId ===
+        test.expectedQuestionId;
+    }
+
+    if (pass) {
+      passed++;
+    }
+
+    html += `
+      <div class="test">
+
+        <div class="${pass ? "pass" : "fail"}">
+          ${pass ? "✅ PASS" : "❌ FAIL"}
+        </div>
+
+        <h3>${test.name}</h3>
+
+        <pre>${JSON.stringify(
+          result,
+          null,
+          2
+        )}</pre>
+
+      </div>
+    `;
+
+  });
+
+  const total =
+    tests.length;
+
+  const summary =
+    passed === total
+      ? `🎉 ALL TESTS PASSED — ${passed} از ${total}`
+      : `⚠️ SOME TESTS FAILED — ${passed} از ${total}`;
+
+  document.getElementById(
+    "summary"
+  ).innerHTML = summary;
+
+  document.getElementById(
+    "results"
+  ).innerHTML = html;
+
+}
+
+</script>
+
+</body>
+</html>
