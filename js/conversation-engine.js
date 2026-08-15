@@ -1,193 +1,135 @@
 /* =========================================================
    DigiYar V4 — Conversation Engine
-   Build 3 — Alpha 3
+   Build 6 — Alpha 1
    ========================================================= */
 
 (function (window) {
   "use strict";
 
-  const VERSION = "4.0.0-alpha.3";
+  const VERSION = "4.0.0-alpha.1";
 
-  function getNeedEngine() {
-    return window.DigiYarNeedUnderstanding;
+  /* ---------------------------------------------------------
+     Dependency Access
+  --------------------------------------------------------- */
+
+  function getAnswerInterpreter() {
+    return (
+      window.DigiyarAnswerInterpreter ||
+      window.DigiYarAnswerInterpreter ||
+      null
+    );
   }
 
-  function getQuestionEngine() {
-    return window.DigiYarQuestionEngine;
+  function getNeedIntegration() {
+    return (
+      window.DigiyarNeedIntegration ||
+      window.DigiYarNeedIntegration ||
+      null
+    );
   }
+
+  /* ---------------------------------------------------------
+     Empty Conversation State
+  --------------------------------------------------------- */
 
   function createEmptyState() {
     return {
-      input: "",
+      version: VERSION,
+      turn: 0,
+      status: "active",
       need: null,
-      question: null,
-      status: "idle",
       history: [],
-      turn: 0
+      lastQuestion: null
     };
   }
 
   /* ---------------------------------------------------------
-     Merge new Need into previous Need
-     --------------------------------------------------------- */
+     Clone
+  --------------------------------------------------------- */
 
-  function mergeNeeds(previous, current) {
-
-    if (!previous) {
-      return current;
+  function clone(value) {
+    if (value === undefined) {
+      return undefined;
     }
 
-    const merged = {
-      ...current
-    };
-
-    /* Category */
-
-    if (
-      !current.category &&
-      previous.category
-    ) {
-      merged.category =
-        previous.category;
-    }
-
-    /* Intent */
-
-    if (
-      !current.intent &&
-      previous.intent
-    ) {
-      merged.intent =
-        previous.intent;
-    }
-
-    /* Budget */
-
-    if (
-      !current.budget &&
-      previous.budget
-    ) {
-      merged.budget =
-        previous.budget;
-    }
-
-    /* Usage */
-
-    const previousUsage =
-      Array.isArray(previous.usage)
-        ? previous.usage
-        : [];
-
-    const currentUsage =
-      Array.isArray(current.usage)
-        ? current.usage
-        : [];
-
-    merged.usage =
-      [...new Set([
-        ...previousUsage,
-        ...currentUsage
-      ])];
-
-    /* Decision Elements */
-
-    const previousElements =
-      Array.isArray(previous.decisionElements)
-        ? previous.decisionElements
-        : [];
-
-    const currentElements =
-      Array.isArray(current.decisionElements)
-        ? current.decisionElements
-        : [];
-
-    merged.decisionElements =
-      [
-        ...previousElements,
-        ...currentElements
-      ];
-
-    /* Tradeoffs */
-
-    const previousTradeoffs =
-      Array.isArray(previous.tradeoffs)
-        ? previous.tradeoffs
-        : [];
-
-    const currentTradeoffs =
-      Array.isArray(current.tradeoffs)
-        ? current.tradeoffs
-        : [];
-
-    merged.tradeoffs =
-      [
-        ...previousTradeoffs,
-        ...currentTradeoffs
-      ];
-
-    /* Unknown */
-
-    const unknown = [];
-
-    if (!merged.category) {
-      unknown.push("category");
-    }
-
-    if (!merged.budget) {
-      unknown.push("budget");
-    }
-
-    if (
-      !merged.usage ||
-      merged.usage.length === 0
-    ) {
-      unknown.push("usage");
-    }
-
-    merged.unknown = unknown;
-
-    /* Readiness */
-
-    merged.ready =
-      unknown.length === 0;
-
-    merged.nextAction =
-      merged.ready
-        ? "retrieve_products"
-        : "ask_user";
-
-    /* Confidence */
-
-    if (merged.ready) {
-      merged.confidence = 1;
-    }
-
-    return merged;
+    return JSON.parse(
+      JSON.stringify(value)
+    );
   }
 
   /* ---------------------------------------------------------
-     Analyze one turn
-     --------------------------------------------------------- */
+     Build Question
+  --------------------------------------------------------- */
 
-  function analyzeInput(state, input) {
+  function buildQuestion(need) {
 
-    const needEngine =
-      getNeedEngine();
-
-    const questionEngine =
-      getQuestionEngine();
-
-    if (!needEngine) {
-      throw new Error(
-        "DigiYarNeedUnderstanding is not loaded."
-      );
+    if (!need) {
+      return null;
     }
 
-    if (!questionEngine) {
-      throw new Error(
-        "DigiYarQuestionEngine is not loaded."
-      );
+    if (need.ready === true) {
+      return {
+        ready: true,
+        question: null,
+        questionId: null,
+        type: null,
+        reason: "need_complete"
+      };
     }
+
+    const missing =
+      Array.isArray(need.unknown)
+        ? need.unknown
+        : [];
+
+    if (missing.includes("budget")) {
+      return {
+        ready: false,
+        question: "حدود بودجه‌ات چقدره؟",
+        questionId: "budget",
+        type: "budget",
+        reason: "missing_budget",
+        missingFields: missing
+      };
+    }
+
+    if (missing.includes("category")) {
+      return {
+        ready: false,
+        question: "دقیقاً دنبال چه محصولی هستی؟",
+        questionId: "category",
+        type: "category",
+        reason: "missing_category",
+        missingFields: missing
+      };
+    }
+
+    if (missing.includes("usage")) {
+      return {
+        ready: false,
+        question: "بیشتر برای چه کاری می‌خوایش؟",
+        questionId: "usage",
+        type: "usage",
+        reason: "missing_usage",
+        missingFields: missing
+      };
+    }
+
+    return {
+      ready: false,
+      question: "برای اینکه بهتر راهنمایی‌ات کنم، یکم بیشتر درباره نیازت بگو.",
+      questionId: null,
+      type: null,
+      reason: "missing_information",
+      missingFields: missing
+    };
+  }
+
+  /* ---------------------------------------------------------
+     Analyze First Message
+  --------------------------------------------------------- */
+
+  function analyzeInitialInput(input) {
 
     const text =
       String(input || "").trim();
@@ -198,153 +140,512 @@
       );
     }
 
-    /* Analyze only the current message */
+    /*
+     * برای پیام اول، Answer Interpreter
+     * مستقیماً درگیر سؤال نیست؛
+     * نیاز اولیه را از متن استخراج می‌کنیم.
+     *
+     * Build 6 برای استقلال بیشتر، تشخیص‌های
+     * پایه را داخل Engine نیز پوشش می‌دهد.
+     */
 
-    const currentNeed =
-      needEngine.analyze(text);
-
-    /* Merge with conversation state */
-
-    const need =
-      mergeNeeds(
-        state.need,
-        currentNeed
-      );
-
-    /* Ask the next required question */
-
-    const question =
-      questionEngine.selectQuestion(
-        need
-      );
-
-    const nextTurn =
-      state.turn + 1;
-
-    const historyEntry = {
-
-      turn: nextTurn,
-
+    const need = {
+      version: "4.0.0-alpha.3",
       input: text,
-
-      need: need,
-
-      question: question
-
+      category: null,
+      intent: "purchase",
+      budget: null,
+      usage: [],
+      decisionElements: [],
+      tradeoffs: [],
+      unknown: [],
+      confidence: 0,
+      ready: false,
+      nextAction: "ask_user"
     };
 
-    state.input =
-      text;
+    const normalized =
+      text
+        .replace(/ي/g, "ی")
+        .replace(/ك/g, "ک");
 
-    state.need =
-      need;
+    /* Category */
 
-    state.question =
-      question;
+    if (
+      /گوشی|موبایل|تلفن همراه/i.test(
+        normalized
+      )
+    ) {
+      need.category = "mobile";
+    }
 
-    state.turn =
-      nextTurn;
+    else if (
+      /لپ\s*تاپ|لپتاپ|نوت\s*بوک/i.test(
+        normalized
+      )
+    ) {
+      need.category = "laptop";
+    }
 
-    state.history.push(
-      historyEntry
-    );
+    /* Budget */
 
-    state.status =
-      question.ready
-        ? "complete"
-        : "waiting_for_answer";
+    const budgetMatch =
+      normalized.match(
+        /(?:تا|حدود|زیر)\s*([۰-۹0-9]+)\s*(?:میلیون|میلیارد)?/
+      );
 
-    return state;
+    if (budgetMatch) {
+
+      const raw =
+        budgetMatch[1]
+          .replace(/[۰-۹]/g, function (d) {
+            return "۰۱۲۳۴۵۶۷۸۹".indexOf(d);
+          });
+
+      const number =
+        Number(raw);
+
+      if (!isNaN(number)) {
+
+        const multiplier =
+          normalized.includes("میلیارد")
+            ? 1000000000
+            : 1000000;
+
+        need.budget = {
+          min: null,
+          max: number * multiplier,
+          type: "hard_constraint",
+          source: "declared",
+          confidence: 0.98
+        };
+      }
+    }
+
+    /* Usage */
+
+    if (
+      /عکاسی|عکس گرفتن|دوربین/i.test(
+        normalized
+      )
+    ) {
+      need.usage.push(
+        "photography"
+      );
+
+      need.decisionElements.push({
+        field: "camera",
+        type: "requirement",
+        importance: 8,
+        source: "declared",
+        confidence: 0.9
+      });
+    }
+
+    if (
+      /بازی|گیم|گیمینگ/i.test(
+        normalized
+      )
+    ) {
+      if (
+        !need.usage.includes("gaming")
+      ) {
+        need.usage.push("gaming");
+      }
+    }
+
+    evaluateNeed(need);
+
+    return need;
   }
 
   /* ---------------------------------------------------------
-     Start
-     --------------------------------------------------------- */
+     Evaluate Need
+  --------------------------------------------------------- */
 
-  function start(input) {
+  function evaluateNeed(need) {
 
-    const state =
-      createEmptyState();
+    const missing = [];
 
-    return analyzeInput(
-      state,
-      input
-    );
+    if (!need.category) {
+      missing.push("category");
+    }
+
+    if (!need.budget) {
+      missing.push("budget");
+    }
+
+    if (
+      !Array.isArray(need.usage) ||
+      need.usage.length === 0
+    ) {
+      missing.push("usage");
+    }
+
+    need.unknown = missing;
+
+    if (missing.length === 0) {
+
+      need.confidence = 1;
+      need.ready = true;
+      need.nextAction =
+        "retrieve_products";
+
+    } else {
+
+      need.ready = false;
+      need.nextAction =
+        "ask_user";
+
+      const completed =
+        3 - missing.length;
+
+      need.confidence =
+        Number(
+          (completed / 3).toFixed(2)
+        );
+    }
+
+    return need;
   }
 
   /* ---------------------------------------------------------
-     Continue
-     --------------------------------------------------------- */
+     Apply Answer
+  --------------------------------------------------------- */
 
-  function continueConversation(
-    state,
-    input
+  function applyAnswer(
+    previousNeed,
+    input,
+    question
   ) {
 
-    if (!state) {
-      throw new Error(
-        "Conversation state is required."
+    const interpreter =
+      getAnswerInterpreter();
+
+    const integration =
+      getNeedIntegration();
+
+    /*
+     * اگر Answer Interpreter موجود باشد،
+     * پاسخ را به شکل استاندارد تفسیر می‌کنیم.
+     */
+
+    if (
+      interpreter &&
+      integration &&
+      question
+    ) {
+
+      let answer = null;
+
+      try {
+
+        if (
+          typeof interpreter.interpret ===
+          "function"
+        ) {
+          answer =
+            interpreter.interpret(
+              input,
+              question
+            );
+        }
+
+        else if (
+          typeof interpreter.process ===
+          "function"
+        ) {
+          answer =
+            interpreter.process(
+              input,
+              question
+            );
+        }
+
+      } catch (error) {
+
+        answer = null;
+      }
+
+      if (answer) {
+
+        try {
+
+          return integration.integrate(
+            previousNeed,
+            answer
+          );
+
+        } catch (error) {
+          /* fallback below */
+        }
+      }
+    }
+
+    /*
+     * Fallback داخلی برای حفظ عملکرد Engine
+     * حتی اگر Interpreter API متفاوت باشد.
+     */
+
+    const answerText =
+      String(input || "").trim();
+
+    const current =
+      analyzeInitialInput(
+        answerText
+      );
+
+    const merged =
+      clone(previousNeed) ||
+      {};
+
+    if (
+      current.category &&
+      !merged.category
+    ) {
+      merged.category =
+        current.category;
+    }
+
+    if (
+      current.budget
+    ) {
+      merged.budget =
+        current.budget;
+    }
+
+    if (
+      Array.isArray(current.usage)
+    ) {
+
+      if (!Array.isArray(
+        merged.usage
+      )) {
+        merged.usage = [];
+      }
+
+      current.usage.forEach(
+        function (item) {
+
+          if (
+            !merged.usage.includes(item)
+          ) {
+            merged.usage.push(item);
+          }
+
+        }
       );
     }
 
     if (
-      state.status === "complete"
+      Array.isArray(
+        current.decisionElements
+      )
     ) {
-      return state;
+
+      if (
+        !Array.isArray(
+          merged.decisionElements
+        )
+      ) {
+        merged.decisionElements = [];
+      }
+
+      current.decisionElements.forEach(
+        function (element) {
+
+          const exists =
+            merged.decisionElements
+              .some(
+                function (item) {
+                  return (
+                    item.field ===
+                    element.field
+                  );
+                }
+              );
+
+          if (!exists) {
+            merged.decisionElements.push(
+              element
+            );
+          }
+        }
+      );
     }
 
-    return analyzeInput(
-      state,
-      input
+    return evaluateNeed(
+      merged
     );
   }
 
   /* ---------------------------------------------------------
-     Helpers
-     --------------------------------------------------------- */
+     Process Turn
+  --------------------------------------------------------- */
 
-  function getCurrentQuestion(state) {
+  function process(
+    state,
+    input
+  ) {
 
-    if (!state) {
-      return null;
+    const conversation =
+      state ||
+      createEmptyState();
+
+    const text =
+      String(input || "").trim();
+
+    if (!text) {
+      throw new Error(
+        "User input cannot be empty."
+      );
     }
 
-    return state.question || null;
+    let need;
+
+    /*
+     * Turn 1
+     */
+
+    if (!conversation.need) {
+
+      need =
+        analyzeInitialInput(
+          text
+        );
+
+    }
+
+    /*
+     * Turn 2+
+     */
+
+    else {
+
+      need =
+        applyAnswer(
+          conversation.need,
+          text,
+          conversation.lastQuestion
+        );
+    }
+
+    const question =
+      buildQuestion(
+        need
+      );
+
+    const turn =
+      conversation.turn + 1;
+
+    const historyEntry = {
+      turn: turn,
+      input: text,
+      need: clone(need),
+      question: clone(question)
+    };
+
+    conversation.version =
+      VERSION;
+
+    conversation.turn =
+      turn;
+
+    conversation.need =
+      need;
+
+    conversation.lastQuestion =
+      question;
+
+    conversation.history.push(
+      historyEntry
+    );
+
+    conversation.status =
+      need.ready
+        ? "complete"
+        : "active";
+
+    return {
+      state: conversation,
+      need: need,
+      question: question,
+      status:
+        need.ready
+          ? "complete"
+          : "waiting_for_answer",
+      turn: turn,
+      history:
+        conversation.history
+    };
   }
 
-  function isComplete(state) {
+  /* ---------------------------------------------------------
+     Create
+  --------------------------------------------------------- */
 
-    return Boolean(
-      state &&
-      state.status === "complete"
-    );
+  function create() {
+    return createEmptyState();
   }
 
   /* ---------------------------------------------------------
      Public API
-     --------------------------------------------------------- */
+  --------------------------------------------------------- */
 
-  window.DigiYarConversationEngine = {
+  const engine = {
+
+    VERSION: VERSION,
 
     version: VERSION,
+
+    create:
+      create,
 
     createEmptyState:
       createEmptyState,
 
+    process:
+      process,
+
     start:
-      start,
+      function (input) {
+        return process(
+          create(),
+          input
+        );
+      },
 
     continueConversation:
-      continueConversation,
+      function (
+        state,
+        input
+      ) {
+        return process(
+          state,
+          input
+        );
+      },
 
-    getCurrentQuestion:
-      getCurrentQuestion,
+    buildQuestion:
+      buildQuestion,
 
-    isComplete:
-      isComplete,
-
-    mergeNeeds:
-      mergeNeeds
+    evaluateNeed:
+      evaluateNeed
   };
+
+  /*
+   * نامی که تست Build 6 انتظار دارد
+   */
+  window.DigiyarConversationEngine =
+    engine;
+
+  /*
+   * نام سازگار برای استفاده احتمالی
+   */
+  window.DigiYarConversationEngine =
+    engine;
+
+  window.DigiYarConversationEngine =
+    engine;
 
 })(window);
