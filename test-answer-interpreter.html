@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Test Answer Interpreter — DigiYar V4</title>
+
+    <style>
+        body {
+            font-family: Tahoma, Arial, sans-serif;
+            background: #f5f6f8;
+            margin: 0;
+            padding: 20px;
+            color: #222;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: auto;
+        }
+
+        h1 {
+            font-size: 22px;
+            margin-bottom: 5px;
+        }
+
+        .subtitle {
+            color: #666;
+            margin-bottom: 25px;
+        }
+
+        .summary {
+            background: white;
+            border-radius: 12px;
+            padding: 18px;
+            margin-bottom: 20px;
+            font-size: 18px;
+            font-weight: bold;
+        }
+
+        .test {
+            background: white;
+            border-radius: 12px;
+            padding: 18px;
+            margin-bottom: 15px;
+            border-right: 5px solid #ccc;
+        }
+
+        .pass {
+            border-right-color: #16a34a;
+        }
+
+        .fail {
+            border-right-color: #dc2626;
+        }
+
+        .status {
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+
+        .pass .status {
+            color: #16a34a;
+        }
+
+        .fail .status {
+            color: #dc2626;
+        }
+
+        pre {
+            direction: ltr;
+            text-align: left;
+            background: #f3f4f6;
+            padding: 12px;
+            border-radius: 8px;
+            overflow-x: auto;
+            white-space: pre-wrap;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>تست Answer Interpreter — V4</h1>
+
+    <div class="subtitle">
+        Build 4 — Alpha 1
+    </div>
+
+    <div id="summary" class="summary">
+        در حال اجرای تست‌ها...
+    </div>
+
+    <div id="results"></div>
+
+</div>
+
+<script src="./js/answer-interpreter.js"></script>
+
+<script>
+
+const tests = [
+
+    {
+        name: "سناریو ۱ — بودجه ساده",
+        questionId: "budget",
+        input: "تا ۱۵ میلیون",
+
+        expected: {
+            understood: true,
+            type: "budget",
+            max: 15000000
+        }
+    },
+
+    {
+        name: "سناریو ۲ — بودجه با اعداد فارسی",
+        questionId: "budget",
+        input: "تا ۲۰ میلیون",
+
+        expected: {
+            understood: true,
+            type: "budget",
+            max: 20000000
+        }
+    },
+
+    {
+        name: "سناریو ۳ — بازه بودجه",
+        questionId: "budget",
+        input: "بین ۱۰ تا ۱۵ میلیون",
+
+        expected: {
+            understood: true,
+            type: "budget",
+            min: 10000000,
+            max: 15000000
+        }
+    },
+
+    {
+        name: "سناریو ۴ — تشخیص دسته موبایل",
+        questionId: "category",
+        input: "گوشی می‌خوام",
+
+        expected: {
+            understood: true,
+            type: "category",
+            value: "mobile"
+        }
+    },
+
+    {
+        name: "سناریو ۵ — تشخیص کاربرد عکاسی",
+        questionId: "usage",
+        input: "برای عکاسی می‌خوام",
+
+        expected: {
+            understood: true,
+            type: "usage",
+            value: "photography"
+        }
+    },
+
+    {
+        name: "سناریو ۶ — تشخیص گیمینگ",
+        questionId: "usage",
+        input: "بیشتر برای بازی می‌خوام",
+
+        expected: {
+            understood: true,
+            type: "usage",
+            value: "gaming"
+        }
+    },
+
+    {
+        name: "سناریو ۷ — دسته لپ‌تاپ",
+        questionId: "category",
+        input: "لپ تاپ می‌خوام",
+
+        expected: {
+            understood: true,
+            type: "category",
+            value: "laptop"
+        }
+    },
+
+    {
+        name: "سناریو ۸ — پاسخ نامفهوم",
+        questionId: "budget",
+        input: "هنوز نمی‌دونم",
+
+        expected: {
+            understood: false
+        }
+    }
+
+];
+
+function getActualValue(result) {
+
+    if (!result || !result.value) {
+        return {};
+    }
+
+    if (result.type === "budget") {
+
+        return {
+            min: result.value.min,
+            max: result.value.max
+        };
+    }
+
+    if (result.type === "usage") {
+
+        return {
+            value:
+                Array.isArray(result.value)
+                    ? result.value[0]
+                    : result.value
+        };
+    }
+
+    return {
+        value: result.value
+    };
+}
+
+
+function testPassed(result, expected) {
+
+    if (!result) {
+        return false;
+    }
+
+    if (result.understood !== expected.understood) {
+        return false;
+    }
+
+    if (
+        expected.type &&
+        result.type !== expected.type
+    ) {
+        return false;
+    }
+
+    if (
+        expected.value &&
+        result.type !== "usage" &&
+        result.value !== expected.value
+    ) {
+        return false;
+    }
+
+    if (
+        expected.value &&
+        result.type === "usage"
+    ) {
+
+        const values = Array.isArray(result.value)
+            ? result.value
+            : [result.value];
+
+        if (!values.includes(expected.value)) {
+            return false;
+        }
+    }
+
+    if (
+        expected.min !== undefined &&
+        (!result.value ||
+         result.value.min !== expected.min)
+    ) {
+        return false;
+    }
+
+    if (
+        expected.max !== undefined &&
+        (!result.value ||
+         result.value.max !== expected.max)
+    ) {
+        return false;
+    }
+
+    return true;
+}
+
+
+function runTests() {
+
+    const resultsContainer =
+        document.getElementById("results");
+
+    let passed = 0;
+
+    tests.forEach((test, index) => {
+
+        let result;
+
+        try {
+
+            result =
+                DigiyarAnswerInterpreter.interpret(
+                    test.input,
+                    test.questionId
+                );
+
+        } catch (error) {
+
+            result = {
+                understood: false,
+                error: error.message
+            };
+        }
+
+        const passedTest =
+            testPassed(result, test.expected);
+
+        if (passedTest) {
+            passed++;
+        }
+
+        const box =
+            document.createElement("div");
+
+        box.className =
+            "test " +
+            (passedTest ? "pass" : "fail");
+
+        box.innerHTML = `
+
+            <div class="status">
+                ${passedTest ? "✅ PASS" : "❌ FAIL"}
+            </div>
+
+            <strong>
+                ${test.name}
+            </strong>
+
+            <p>
+                ورودی:
+                ${test.input}
+            </p>
+
+            <pre>${JSON.stringify(
+                result,
+                null,
+                2
+            )}</pre>
+
+        `;
+
+        resultsContainer.appendChild(box);
+    });
+
+
+    const total = tests.length;
+
+    const summary =
+        document.getElementById("summary");
+
+    if (passed === total) {
+
+        summary.innerHTML =
+            `🎉 ALL TESTS PASSED — ${passed} از ${total}`;
+
+    } else {
+
+        summary.innerHTML =
+            `⚠️ SOME TESTS FAILED — ${passed} از ${total}`;
+    }
+}
+
+
+window.addEventListener(
+    "load",
+    runTests
+);
+
+</script>
+
+</body>
+</html>
