@@ -1,12 +1,16 @@
 /**
  * DigiYar — Conversation State Manager
- * V4 — Build 6 — Alpha 1
+ * V4 — Build 6.1 — Alpha 1
  *
  * وظیفه:
  * مدیریت State گفتگو و اتصال:
  *
+ * Turn 1:
  * Conversation Engine
  *        ↓
+ * Need Integration
+ *
+ * Turnهای بعد:
  * Answer Interpreter
  *        ↓
  * Need Integration
@@ -75,18 +79,89 @@ const DigiyarConversationState = (() => {
   }
 
   /**
+   * تعیین سؤال بعدی بر اساس Need
+   */
+  function buildQuestion(need, previousQuestion, answer) {
+
+    /*
+     * اگر Need کامل شده، سؤال نداریم.
+     */
+    if (need && need.ready === true) {
+      return null;
+    }
+
+    /*
+     * اگر پاسخ قبلی نامفهوم بوده،
+     * همان سؤال قبلی را دوباره مطرح می‌کنیم.
+     */
+    if (
+      answer &&
+      answer.understood === false &&
+      previousQuestion
+    ) {
+
+      return {
+        ready: false,
+        question:
+          previousQuestion.question || null,
+        questionId:
+          previousQuestion.questionId || null,
+        type:
+          previousQuestion.type || null,
+        reason: "answer_not_understood",
+        missingFields:
+          clone(need.unknown || [])
+      };
+    }
+
+    /*
+     * اگر Conversation Engine سؤال ساخته باشد
+     * از همان استفاده می‌کنیم.
+     */
+    if (
+      previousQuestion &&
+      previousQuestion.question
+    ) {
+      return clone(previousQuestion);
+    }
+
+    /*
+     * ساخت سؤال fallback
+     */
+    const missing =
+      Array.isArray(need.unknown)
+        ? need.unknown
+        : [];
+
+    const field =
+      missing.length > 0
+        ? missing[0]
+        : null;
+
+    return {
+      ready: false,
+      questionId: field,
+      type: field,
+      reason: "missing_information",
+      missingFields: clone(missing)
+    };
+  }
+
+  /**
    * شروع / ادامه گفتگو
    */
   function process(state, input) {
 
-    const currentState = clone(state) || create();
+    const currentState =
+      clone(state) || create();
 
     if (!dependenciesReady()) {
 
       return {
         state: currentState,
         status: "error",
-        error: "Required conversation engines are not available."
+        error:
+          "Required conversation engines are not available."
       };
     }
 
@@ -103,25 +178,197 @@ const DigiyarConversationState = (() => {
       };
     }
 
-    const userInput = String(input).trim();
+    const userInput =
+      String(input).trim();
 
     currentState.turn += 1;
 
+    let need = clone(currentState.need);
+    let question = null;
+    let answer = null;
+
     /*
-     * -----------------------------------------
-     * STEP 1
-     * Conversation Engine
-     * -----------------------------------------
+     * =====================================================
+     * TURN 1
+     * =====================================================
+     *
+     * در اولین پیام، Conversation Engine وظیفه
+     * تحلیل کامل پیام را دارد.
      */
 
-    let conversationResult;
+    if (
+      currentState.turn === 1 &&
+      !currentState.need
+    ) {
+
+      try {
+
+        const conversationResult =
+          DigiyarConversationEngine.start(
+            userInput
+          );
+
+        if (
+          conversationResult &&
+          conversationResult.need
+        ) {
+
+          need =
+            clone(conversationResult.need);
+
+        }
+
+        if (
+          conversationResult &&
+          conversationResult.question
+        ) {
+
+          question =
+            clone(conversationResult.question);
+
+        }
+
+      } catch (error) {
+
+        return {
+          state: currentState,
+          status: "error",
+          error:
+            error.message || String(error)
+        };
+      }
+
+    }
+
+    /*
+     * =====================================================
+     * TURNهای بعدی
+     * =====================================================
+     *
+     * پاسخ کاربر به سؤال قبلی:
+     *
+     * Answer Interpreter
+     *        ↓
+     * Need Integration
+     */
+
+    else {
+
+      if (!currentState.lastQuestion) {
+
+        /*
+         * اگر سؤال قبلی وجود نداشت،
+         * پیام جدید را به عنوان یک ورودی مستقل
+         * به Conversation Engine می‌دهیم.
+         */
+
+        try {
+
+          const conversationResult =
+            DigiyarConversationEngine.continueConversation(
+              currentState,
+              userInput
+            );
+
+          if (
+            conversationResult &&
+            conversationResult.need
+          ) {
+
+            need =
+              clone(conversationResult.need);
+
+          }
+
+          if (
+            conversationResult &&
+            conversationResult.question
+          ) {
+
+            question =
+              clone(conversationResult.question);
+
+          }
+
+        } catch (error) {
+
+          /*
+           * اگر Conversation Engine نتوانست
+           * ورودی را پردازش کند، Need قبلی حفظ می‌شود.
+           */
+          need =
+            clone(currentState.need);
+        }
+
+      }
+
+      else {
+
+        /*
+         * ---------------------------------------------
+         * Answer Interpreter
+         * ---------------------------------------------
+         */
+
+        try {
+
+          answer =
+            DigiyarAnswerInterpreter.interpret(
+              userInput,
+              currentState.lastQuestion
+            );
+
+        } catch (error) {
+
+          return {
+            state: currentState,
+            status: "error",
+            error:
+              error.message || String(error)
+          };
+        }
+
+        /*
+         * ---------------------------------------------
+         * Need Integration
+         * ---------------------------------------------
+         */
+
+        try {
+
+          need =
+            DigiyarNeedIntegration.integrate(
+              currentState.need,
+              answer
+            );
+
+        } catch (error) {
+
+          return {
+            state: currentState,
+            status: "error",
+            error:
+              error.message || String(error)
+          };
+        }
+      }
+    }
+
+    /*
+     * =====================================================
+     * ارزیابی نهایی Need
+     * =====================================================
+     */
+
+    if (!need) {
+      need = {};
+    }
 
     try {
 
-      conversationResult =
-        DigiyarConversationEngine.process(
-          currentState.need,
-          userInput
+      need =
+        DigiyarNeedIntegration.evaluate(
+          need
         );
 
     } catch (error) {
@@ -129,156 +376,49 @@ const DigiyarConversationState = (() => {
       return {
         state: currentState,
         status: "error",
-        error: error.message || String(error)
+        error:
+          error.message || String(error)
       };
     }
 
     /*
-     * اگر Conversation Engine مستقیماً Need
-     * را تولید کرده باشد، آن را حفظ می‌کنیم.
+     * =====================================================
+     * تعیین وضعیت گفتگو
+     * =====================================================
      */
-
-    let need =
-      conversationResult &&
-      conversationResult.need
-        ? clone(conversationResult.need)
-        : clone(currentState.need);
-
-    /*
-     * -----------------------------------------
-     * STEP 2
-     * اگر سؤال قبلی وجود داشته باشد،
-     * پاسخ کاربر را با Answer Interpreter
-     * تفسیر می‌کنیم.
-     * -----------------------------------------
-     */
-
-    let answer = null;
-
-    if (currentState.lastQuestion) {
-
-      try {
-
-        answer =
-          DigiyarAnswerInterpreter.interpret(
-            userInput,
-            currentState.lastQuestion
-          );
-
-      } catch (error) {
-
-        return {
-          state: currentState,
-          status: "error",
-          error: error.message || String(error)
-        };
-      }
-
-      /*
-       * ---------------------------------------
-       * STEP 3
-       * اتصال Answer به Need
-       * ---------------------------------------
-       */
-
-      try {
-
-        need =
-          DigiyarNeedIntegration.integrate(
-            need,
-            answer
-          );
-
-      } catch (error) {
-
-        return {
-          state: currentState,
-          status: "error",
-          error: error.message || String(error)
-        };
-      }
-    }
-
-    /*
-     * اگر Answer Interpreter استفاده نشده،
-     * Need موجود را ارزیابی می‌کنیم.
-     */
-
-    else {
-
-      try {
-
-        need =
-          DigiyarNeedIntegration.evaluate(
-            need
-          );
-
-      } catch (error) {
-
-        return {
-          state: currentState,
-          status: "error",
-          error: error.message || String(error)
-        };
-      }
-    }
-
-    /*
-     * -----------------------------------------
-     * STEP 4
-     * تعیین سؤال / وضعیت نهایی
-     * -----------------------------------------
-     */
-
-    let question = null;
 
     if (need.ready === true) {
 
-      currentState.status = "complete";
-      currentState.lastQuestion = null;
+      currentState.status =
+        "complete";
+
+      currentState.lastQuestion =
+        null;
+
+      question = null;
 
     } else {
 
-      currentState.status = "waiting_for_answer";
+      currentState.status =
+        "waiting_for_answer";
 
-      if (
-        conversationResult &&
-        conversationResult.question
-      ) {
+      /*
+       * اگر Conversation Engine در Turn اول
+       * سؤال ساخته باشد، همان سؤال را حفظ می‌کنیم.
+       */
+      if (!question) {
 
         question =
-          clone(conversationResult.question);
-
-      } else if (
-        answer &&
-        answer.understood === false
-      ) {
-
-        question = {
-          ready: false,
-          questionId: currentState.lastQuestion,
-          type: currentState.lastQuestion,
-          reason: "answer_not_understood"
-        };
-
-      } else {
-
-        question = {
-          ready: false,
-          questionId:
-            Array.isArray(need.unknown) &&
-            need.unknown.length > 0
-              ? need.unknown[0]
+          buildQuestion(
+            need,
+            currentState.lastQuestion
+              ? {
+                  questionId:
+                    currentState.lastQuestion
+                }
               : null,
-          type:
-            Array.isArray(need.unknown) &&
-            need.unknown.length > 0
-              ? need.unknown[0]
-              : null,
-          reason: "missing_information",
-          missingFields:
-            clone(need.unknown || [])
-        };
+            answer
+          );
       }
 
       currentState.lastQuestion =
@@ -289,18 +429,30 @@ const DigiyarConversationState = (() => {
     }
 
     /*
-     * -----------------------------------------
-     * STEP 5
-     * به‌روزرسانی State
-     * -----------------------------------------
+     * =====================================================
+     * ذخیره Need
+     * =====================================================
      */
 
-    currentState.need = clone(need);
+    currentState.need =
+      clone(need);
+
+    /*
+     * =====================================================
+     * ثبت History
+     * =====================================================
+     */
 
     const result = {
-      need: clone(need),
-      question: clone(question),
-      status: currentState.status
+
+      need:
+        clone(need),
+
+      question:
+        clone(question),
+
+      status:
+        currentState.status
     };
 
     currentState.history =
@@ -311,24 +463,37 @@ const DigiyarConversationState = (() => {
       );
 
     /*
-     * -----------------------------------------
-     * خروجی نهایی
-     * -----------------------------------------
+     * =====================================================
+     * خروجی استاندارد
+     * =====================================================
      */
 
     return {
-      state: currentState,
-      need: clone(need),
-      question: clone(question),
-      status: currentState.status,
-      turn: currentState.turn
+
+      state:
+        currentState,
+
+      need:
+        clone(need),
+
+      question:
+        clone(question),
+
+      status:
+        currentState.status,
+
+      turn:
+        currentState.turn
     };
   }
 
   /**
-   * ادامه گفتگو با State موجود
+   * ادامه گفتگو
    */
-  function continueConversation(state, input) {
+  function continueConversation(
+    state,
+    input
+  ) {
 
     return process(
       state,
@@ -337,7 +502,7 @@ const DigiyarConversationState = (() => {
   }
 
   /**
-   * پاک کردن گفتگو و ساخت Session جدید
+   * Reset
    */
   function reset() {
 
@@ -346,12 +511,19 @@ const DigiyarConversationState = (() => {
   }
 
   return {
+
     VERSION,
+
     create,
+
     process,
+
     continueConversation,
+
     reset,
+
     dependenciesReady
+
   };
 
 })();
