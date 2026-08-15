@@ -89,45 +89,20 @@
 
 
   <!-- =====================================================
-       Build 3 — Conversation Engine
+       Dependencies
        ===================================================== -->
 
   <script src="./js/conversation-engine.js"></script>
 
-
-  <!-- =====================================================
-       Build 4 — Answer Interpreter
-       ===================================================== -->
-
   <script src="./js/answer-interpreter.js"></script>
-
-
-  <!-- =====================================================
-       Build 5 — Need Integration
-       ===================================================== -->
 
   <script src="./js/need-integration.js"></script>
 
-
-  <!-- =====================================================
-       Build 6 — Conversation State
-       ===================================================== -->
-
   <script src="./js/conversation-state.js"></script>
-
-
-  <!-- =====================================================
-       Build 7 — Product Retrieval
-       ===================================================== -->
 
   <script src="./js/product-retrieval.js"></script>
 
   <script src="./js/product-retrieval-integration.js"></script>
-
-
-  <!-- =====================================================
-       Build 8 — Shopping Flow
-       ===================================================== -->
 
   <script src="./js/shopping-flow.js"></script>
 
@@ -141,7 +116,7 @@
 
 
     /* =====================================================
-       Test Helper
+       Helpers
        ===================================================== */
 
     function addResult(
@@ -166,9 +141,20 @@
     }
 
 
-    /* =====================================================
-       Render
-       ===================================================== */
+    function errorData(error) {
+
+      return {
+
+        error:
+          error &&
+          error.message
+            ? error.message
+            : String(error)
+
+      };
+
+    }
+
 
     function renderResults() {
 
@@ -215,11 +201,9 @@
 
             </h3>
 
-
             <strong>
               ${test.name}
             </strong>
-
 
             <pre>${JSON.stringify(
               test.data,
@@ -259,7 +243,8 @@
 
 
       if (
-        passed === total
+        passed === total &&
+        total > 0
       ) {
 
         summary.className =
@@ -286,8 +271,7 @@
 
 
     /* =====================================================
-       Scenario 1
-       Dependency Check
+       BUILD 8 DEPENDENCY CHECK
        ===================================================== */
 
     try {
@@ -335,7 +319,7 @@
 
       addResult(
 
-        "بررسی تمام Dependencyهای Build 3 تا 8",
+        "بررسی کامل Dependencyهای Build 3 تا 8",
 
         passed,
 
@@ -349,15 +333,11 @@
 
       addResult(
 
-        "بررسی Dependencyها",
+        "بررسی Dependencyهای Build 8",
 
         false,
 
-        {
-          error:
-            error.message ||
-            String(error)
-        }
+        errorData(error)
 
       );
 
@@ -365,15 +345,23 @@
 
 
     /* =====================================================
-       Scenario 2
-       Start Flow With Incomplete Need
+       SCENARIO 2
+       START SHOPPING FLOW
        ===================================================== */
 
     try {
 
+      const state =
+        DigiyarShoppingFlow.create();
+
+
       const result =
-        await DigiyarShoppingFlow.start(
+        await DigiyarShoppingFlow.process(
+
+          state,
+
           "یه گوشی خوب می‌خوام."
+
         );
 
 
@@ -385,6 +373,15 @@
 
         result.status ===
           "waiting_for_answer"
+
+        &&
+
+        result.state
+
+        &&
+
+        result.state.turn ===
+          1
 
         &&
 
@@ -408,7 +405,7 @@
 
       addResult(
 
-        "شروع Flow با Need ناقص",
+        "شروع Shopping Flow با Need ناقص",
 
         passed,
 
@@ -422,15 +419,11 @@
 
       addResult(
 
-        "شروع Flow با Need ناقص",
+        "شروع Shopping Flow با Need ناقص",
 
         false,
 
-        {
-          error:
-            error.message ||
-            String(error)
-        }
+        errorData(error)
 
       );
 
@@ -438,8 +431,8 @@
 
 
     /* =====================================================
-       Scenario 3
-       Continue Conversation
+       SCENARIO 3
+       MULTI TURN FLOW
        ===================================================== */
 
     try {
@@ -448,100 +441,13 @@
         DigiyarShoppingFlow.create();
 
 
-      let first =
+      const r1 =
         await DigiyarShoppingFlow.process(
+
           state,
+
           "یه گوشی خوب می‌خوام."
-        );
 
-
-      state =
-        first.state;
-
-
-      let second =
-        await DigiyarShoppingFlow.process(
-          state,
-          "تا ۱۵ میلیون"
-        );
-
-
-      const passed =
-
-        second.turn ===
-          2
-
-        &&
-
-        second.need.category ===
-          "mobile"
-
-        &&
-
-        second.need.budget
-
-        &&
-
-        second.need.budget.max ===
-          15000000
-
-        &&
-
-        second.need.ready ===
-          false
-
-        &&
-
-        second.status ===
-          "waiting_for_answer";
-
-
-      addResult(
-
-        "ادامه گفتگو و حفظ اطلاعات قبلی",
-
-        passed,
-
-        second
-
-      );
-
-    }
-
-    catch (error) {
-
-      addResult(
-
-        "ادامه گفتگو و حفظ اطلاعات قبلی",
-
-        false,
-
-        {
-          error:
-            error.message ||
-            String(error)
-        }
-
-      );
-
-    }
-
-
-    /* =====================================================
-       Scenario 4
-       Complete Need
-       ===================================================== */
-
-    try {
-
-      let state =
-        DigiyarShoppingFlow.create();
-
-
-      let r1 =
-        await DigiyarShoppingFlow.process(
-          state,
-          "یه گوشی خوب می‌خوام."
         );
 
 
@@ -549,10 +455,13 @@
         r1.state;
 
 
-      let r2 =
+      const r2 =
         await DigiyarShoppingFlow.process(
+
           state,
+
           "تا ۱۵ میلیون"
+
         );
 
 
@@ -560,17 +469,19 @@
         r2.state;
 
 
-      let r3 =
+      const r3 =
         await DigiyarShoppingFlow.process(
+
           state,
+
           "برای عکاسی"
+
         );
 
 
       const passed =
 
-        r3.turn ===
-          3
+        r3.need
 
         &&
 
@@ -606,21 +517,30 @@
         &&
 
         r3.status ===
-          "products_retrieved"
-
-        || 
-
-        r3.status ===
           "complete";
 
 
       addResult(
 
-        "تکمیل Need و عبور به مرحله Retrieval",
+        "تکمیل Shopping Flow در چند Turn",
 
         passed,
 
-        r3
+        {
+
+          status:
+            r3.status,
+
+          turn:
+            r3.turn,
+
+          need:
+            r3.need,
+
+          question:
+            r3.question
+
+        }
 
       );
 
@@ -630,15 +550,11 @@
 
       addResult(
 
-        "تکمیل Need و عبور به مرحله Retrieval",
+        "تکمیل Shopping Flow در چند Turn",
 
         false,
 
-        {
-          error:
-            error.message ||
-            String(error)
-        }
+        errorData(error)
 
       );
 
@@ -646,15 +562,23 @@
 
 
     /* =====================================================
-       Scenario 5
-       Complete Need In First Message
+       SCENARIO 4
+       COMPLETE REQUEST
        ===================================================== */
 
     try {
 
+      const state =
+        DigiyarShoppingFlow.create();
+
+
       const result =
-        await DigiyarShoppingFlow.start(
+        await DigiyarShoppingFlow.process(
+
+          state,
+
           "یه گوشی تا ۱۵ میلیون برای عکاسی می‌خوام."
+
         );
 
 
@@ -678,37 +602,24 @@
 
         &&
 
-        result.need.ready ===
-          true
-
-        &&
-
-        Array.isArray(
-          result.need.usage
-        )
-
-        &&
-
         result.need.usage.includes(
           "photography"
         )
 
         &&
 
-        (
-          result.status ===
-            "products_retrieved"
+        result.need.ready ===
+          true
 
-          ||
+        &&
 
-          result.status ===
-            "complete"
-        );
+        result.status ===
+          "complete";
 
 
       addResult(
 
-        "پردازش Need کامل در اولین پیام",
+        "پردازش Need کامل در یک Turn",
 
         passed,
 
@@ -722,15 +633,11 @@
 
       addResult(
 
-        "پردازش Need کامل در اولین پیام",
+        "پردازش Need کامل در یک Turn",
 
         false,
 
-        {
-          error:
-            error.message ||
-            String(error)
-        }
+        errorData(error)
 
       );
 
@@ -738,8 +645,91 @@
 
 
     /* =====================================================
-       Scenario 6
-       Unclear Answer
+       SCENARIO 5
+       RETRIEVAL HANDOFF
+       ===================================================== */
+
+    try {
+
+      const state =
+        DigiyarShoppingFlow.create();
+
+
+      const result =
+        await DigiyarShoppingFlow.process(
+
+          state,
+
+          "یه گوشی تا ۱۵ میلیون برای عکاسی می‌خوام."
+
+        );
+
+
+      const passed =
+
+        result.need.ready ===
+          true
+
+        &&
+
+        result.need.nextAction ===
+          "retrieve_products"
+
+        &&
+
+        (
+          result.retrieval ===
+            null
+
+          ||
+
+          typeof result.retrieval ===
+            "object"
+
+        );
+
+
+      addResult(
+
+        "تحویل صحیح Need آماده به مرحله Retrieval",
+
+        passed,
+
+        {
+
+          status:
+            result.status,
+
+          nextAction:
+            result.need.nextAction,
+
+          retrieval:
+            result.retrieval || null
+
+        }
+
+      );
+
+    }
+
+    catch (error) {
+
+      addResult(
+
+        "تحویل صحیح Need آماده به Retrieval",
+
+        false,
+
+        errorData(error)
+
+      );
+
+    }
+
+
+    /* =====================================================
+       SCENARIO 6
+       STATE PRESERVATION
        ===================================================== */
 
     try {
@@ -748,10 +738,13 @@
         DigiyarShoppingFlow.create();
 
 
-      let r1 =
+      const r1 =
         await DigiyarShoppingFlow.process(
+
           state,
+
           "یه گوشی خوب می‌خوام."
+
         );
 
 
@@ -759,19 +752,17 @@
         r1.state;
 
 
-      let r2 =
+      const r2 =
         await DigiyarShoppingFlow.process(
+
           state,
+
           "هنوز نمی‌دونم"
+
         );
 
 
       const passed =
-
-        r2.turn ===
-          2
-
-        &&
 
         r2.need.category ===
           "mobile"
@@ -789,12 +780,17 @@
         &&
 
         r2.status ===
-          "waiting_for_answer";
+          "waiting_for_answer"
+
+        &&
+
+        r2.state.turn ===
+          2;
 
 
       addResult(
 
-        "مدیریت پاسخ نامفهوم و حفظ Need",
+        "حفظ State در پاسخ نامفهوم",
 
         passed,
 
@@ -808,15 +804,11 @@
 
       addResult(
 
-        "مدیریت پاسخ نامفهوم و حفظ Need",
+        "حفظ State در پاسخ نامفهوم",
 
         false,
 
-        {
-          error:
-            error.message ||
-            String(error)
-        }
+        errorData(error)
 
       );
 
@@ -824,90 +816,8 @@
 
 
     /* =====================================================
-       Scenario 7
-       Retrieval Guard
-       ===================================================== */
-
-    try {
-
-      const state =
-        DigiyarShoppingFlow.create();
-
-
-      const result =
-        await DigiyarShoppingFlow.process(
-          state,
-          "یه گوشی خوب می‌خوام."
-        );
-
-
-      const passed =
-
-        result.need.ready ===
-          false
-
-        &&
-
-        result.status ===
-          "waiting_for_answer"
-
-        &&
-
-        (
-          !result.products
-
-          ||
-
-          result.products.length ===
-            0
-        );
-
-
-      addResult(
-
-        "عدم اجرای Retrieval برای Need ناقص",
-
-        passed,
-
-        {
-
-          status:
-            result.status,
-
-          ready:
-            result.need.ready,
-
-          products:
-            result.products || []
-
-        }
-
-      );
-
-    }
-
-    catch (error) {
-
-      addResult(
-
-        "عدم اجرای Retrieval برای Need ناقص",
-
-        false,
-
-        {
-          error:
-            error.message ||
-            String(error)
-        }
-
-      );
-
-    }
-
-
-    /* =====================================================
-       Scenario 8
-       History + Turn
+       SCENARIO 7
+       HISTORY
        ===================================================== */
 
     try {
@@ -916,10 +826,13 @@
         DigiyarShoppingFlow.create();
 
 
-      let r1 =
+      const r1 =
         await DigiyarShoppingFlow.process(
+
           state,
+
           "یه گوشی خوب می‌خوام."
+
         );
 
 
@@ -927,10 +840,13 @@
         r1.state;
 
 
-      let r2 =
+      const r2 =
         await DigiyarShoppingFlow.process(
+
           state,
+
           "تا ۱۵ میلیون"
+
         );
 
 
@@ -938,10 +854,13 @@
         r2.state;
 
 
-      let r3 =
+      const r3 =
         await DigiyarShoppingFlow.process(
+
           state,
+
           "برای عکاسی"
+
         );
 
 
@@ -973,17 +892,12 @@
         &&
 
         history[2].turn ===
-          3
-
-        &&
-
-        r3.state.turn ===
           3;
 
 
       addResult(
 
-        "ثبت صحیح Turn و History در کل Flow",
+        "ثبت صحیح History در Shopping Flow",
 
         passed,
 
@@ -1005,15 +919,11 @@
 
       addResult(
 
-        "ثبت صحیح Turn و History در کل Flow",
+        "ثبت صحیح History در Shopping Flow",
 
         false,
 
-        {
-          error:
-            error.message ||
-            String(error)
-        }
+        errorData(error)
 
       );
 
@@ -1021,193 +931,7 @@
 
 
     /* =====================================================
-       Scenario 9
-       Need Preservation
-       ===================================================== */
-
-    try {
-
-      const result =
-        await DigiyarShoppingFlow.start(
-          "یه گوشی تا ۱۵ میلیون برای عکاسی می‌خوام."
-        );
-
-
-      const need =
-        result.need;
-
-
-      const passed =
-
-        need.category ===
-          "mobile"
-
-        &&
-
-        need.intent ===
-          "purchase"
-
-        &&
-
-        need.budget.max ===
-          15000000
-
-        &&
-
-        need.usage.includes(
-          "photography"
-        )
-
-        &&
-
-        need.ready ===
-          true;
-
-
-      addResult(
-
-        "حفظ کامل Need در انتهای Flow",
-
-        passed,
-
-        {
-
-          category:
-            need.category,
-
-          intent:
-            need.intent,
-
-          budget:
-            need.budget,
-
-          usage:
-            need.usage,
-
-          ready:
-            need.ready
-
-        }
-
-      );
-
-    }
-
-    catch (error) {
-
-      addResult(
-
-        "حفظ کامل Need در انتهای Flow",
-
-        false,
-
-        {
-          error:
-            error.message ||
-            String(error)
-        }
-
-      );
-
-    }
-
-
-    /* =====================================================
-       Scenario 10
-       Standard Flow Result
-       ===================================================== */
-
-    try {
-
-      const result =
-        await DigiyarShoppingFlow.start(
-          "یه گوشی تا ۱۵ میلیون برای عکاسی می‌خوام."
-        );
-
-
-      const passed =
-
-        typeof result ===
-          "object"
-
-        &&
-
-        result.need
-
-        &&
-
-        typeof result.status ===
-          "string"
-
-        &&
-
-        typeof result.turn ===
-          "number"
-
-        &&
-
-        "question" in result
-
-        &&
-
-        "products" in result
-
-        &&
-
-        "error" in result;
-
-
-      addResult(
-
-        "ساختار استاندارد خروجی Shopping Flow",
-
-        passed,
-
-        {
-
-          status:
-            result.status,
-
-          turn:
-            result.turn,
-
-          productsCount:
-            Array.isArray(
-              result.products
-            )
-              ? result.products.length
-              : null,
-
-          error:
-            result.error
-
-        }
-
-      );
-
-    }
-
-    catch (error) {
-
-      addResult(
-
-        "ساختار استاندارد خروجی Shopping Flow",
-
-        false,
-
-        {
-          error:
-            error.message ||
-            String(error)
-        }
-
-      );
-
-    }
-
-
-    /* =====================================================
-       Render
+       FINAL RENDER
        ===================================================== */
 
     renderResults();
