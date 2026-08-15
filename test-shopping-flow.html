@@ -31,8 +31,8 @@
       padding: 15px;
       border-radius: 10px;
       margin-bottom: 20px;
-      font-weight: bold;
       background: white;
+      font-weight: bold;
     }
 
     .pass {
@@ -116,7 +116,7 @@
 
 
     /* =====================================================
-       Helpers
+       Helper
        ===================================================== */
 
     function addResult(
@@ -141,7 +141,7 @@
     }
 
 
-    function errorData(error) {
+    function getError(error) {
 
       return {
 
@@ -155,6 +155,10 @@
 
     }
 
+
+    /* =====================================================
+       Render
+       ===================================================== */
 
     function renderResults() {
 
@@ -243,8 +247,8 @@
 
 
       if (
-        passed === total &&
-        total > 0
+        total > 0 &&
+        passed === total
       ) {
 
         summary.className =
@@ -271,670 +275,737 @@
 
 
     /* =====================================================
-       BUILD 8 DEPENDENCY CHECK
+       RUN ALL TESTS
        ===================================================== */
 
-    try {
-
-      const dependencies = {
-
-        conversationEngine:
-          typeof DigiyarConversationEngine !==
-          "undefined",
-
-        answerInterpreter:
-          typeof DigiyarAnswerInterpreter !==
-          "undefined",
-
-        needIntegration:
-          typeof DigiyarNeedIntegration !==
-          "undefined",
-
-        conversationState:
-          typeof DigiyarConversationState !==
-          "undefined",
-
-        productRetrieval:
-          typeof DigiYarProductRetrieval !==
-          "undefined",
-
-        productRetrievalIntegration:
-          typeof DigiyarProductRetrievalIntegration !==
-          "undefined",
-
-        shoppingFlow:
-          typeof DigiyarShoppingFlow !==
-          "undefined"
-
-      };
+    async function runTests() {
 
 
-      const passed =
-        Object.values(
+      /* ===================================================
+         Scenario 1
+         Dependency Check
+         =================================================== */
+
+      try {
+
+        const dependencies = {
+
+          conversationEngine:
+            typeof DigiyarConversationEngine !==
+            "undefined",
+
+          answerInterpreter:
+            typeof DigiyarAnswerInterpreter !==
+            "undefined",
+
+          needIntegration:
+            typeof DigiyarNeedIntegration !==
+            "undefined",
+
+          conversationState:
+            typeof DigiyarConversationState !==
+            "undefined",
+
+          productRetrieval:
+            typeof DigiYarProductRetrieval !==
+            "undefined",
+
+          productRetrievalIntegration:
+            typeof DigiyarProductRetrievalIntegration !==
+            "undefined",
+
+          shoppingFlow:
+            typeof DigiyarShoppingFlow !==
+            "undefined"
+
+        };
+
+
+        const passed =
+          Object.values(
+            dependencies
+          ).every(
+            Boolean
+          );
+
+
+        addResult(
+
+          "بررسی کامل Dependencyهای Build 3 تا 8",
+
+          passed,
+
           dependencies
-        ).every(
-          Boolean
-        );
-
-
-      addResult(
-
-        "بررسی کامل Dependencyهای Build 3 تا 8",
-
-        passed,
-
-        dependencies
-
-      );
-
-    }
-
-    catch (error) {
-
-      addResult(
-
-        "بررسی Dependencyهای Build 8",
-
-        false,
-
-        errorData(error)
-
-      );
-
-    }
-
-
-    /* =====================================================
-       SCENARIO 2
-       START SHOPPING FLOW
-       ===================================================== */
-
-    try {
-
-      const state =
-        DigiyarShoppingFlow.create();
-
-
-      const result =
-        await DigiyarShoppingFlow.process(
-
-          state,
-
-          "یه گوشی خوب می‌خوام."
 
         );
 
+      }
 
-      const passed =
+      catch (error) {
 
-        result
+        addResult(
 
-        &&
+          "بررسی Dependencyهای Build 8",
 
-        result.status ===
-          "waiting_for_answer"
+          false,
 
-        &&
-
-        result.state
-
-        &&
-
-        result.state.turn ===
-          1
-
-        &&
-
-        result.need
-
-        &&
-
-        result.need.category ===
-          "mobile"
-
-        &&
-
-        result.need.ready ===
-          false
-
-        &&
-
-        result.question !==
-          null;
-
-
-      addResult(
-
-        "شروع Shopping Flow با Need ناقص",
-
-        passed,
-
-        result
-
-      );
-
-    }
-
-    catch (error) {
-
-      addResult(
-
-        "شروع Shopping Flow با Need ناقص",
-
-        false,
-
-        errorData(error)
-
-      );
-
-    }
-
-
-    /* =====================================================
-       SCENARIO 3
-       MULTI TURN FLOW
-       ===================================================== */
-
-    try {
-
-      let state =
-        DigiyarShoppingFlow.create();
-
-
-      const r1 =
-        await DigiyarShoppingFlow.process(
-
-          state,
-
-          "یه گوشی خوب می‌خوام."
+          getError(error)
 
         );
 
-
-      state =
-        r1.state;
+      }
 
 
-      const r2 =
-        await DigiyarShoppingFlow.process(
+      /* ===================================================
+         Scenario 2
+         Create Session
+         =================================================== */
 
-          state,
+      try {
 
-          "تا ۱۵ میلیون"
-
-        );
-
-
-      state =
-        r2.state;
+        const state =
+          DigiyarShoppingFlow
+            .createSession();
 
 
-      const r3 =
-        await DigiyarShoppingFlow.process(
+        const passed =
 
-          state,
+          state !== null
 
-          "برای عکاسی"
+          &&
 
-        );
+          state.turn ===
+            0
 
+          &&
 
-      const passed =
+          state.status ===
+            "active"
 
-        r3.need
+          &&
 
-        &&
-
-        r3.need.category ===
-          "mobile"
-
-        &&
-
-        r3.need.budget
-
-        &&
-
-        r3.need.budget.max ===
-          15000000
-
-        &&
-
-        Array.isArray(
-          r3.need.usage
-        )
-
-        &&
-
-        r3.need.usage.includes(
-          "photography"
-        )
-
-        &&
-
-        r3.need.ready ===
-          true
-
-        &&
-
-        r3.status ===
-          "complete";
+          Array.isArray(
+            state.history
+          );
 
 
-      addResult(
+        addResult(
 
-        "تکمیل Shopping Flow در چند Turn",
+          "ساخت Session اولیه Shopping Flow",
 
-        passed,
+          passed,
 
-        {
-
-          status:
-            r3.status,
-
-          turn:
-            r3.turn,
-
-          need:
-            r3.need,
-
-          question:
-            r3.question
-
-        }
-
-      );
-
-    }
-
-    catch (error) {
-
-      addResult(
-
-        "تکمیل Shopping Flow در چند Turn",
-
-        false,
-
-        errorData(error)
-
-      );
-
-    }
-
-
-    /* =====================================================
-       SCENARIO 4
-       COMPLETE REQUEST
-       ===================================================== */
-
-    try {
-
-      const state =
-        DigiyarShoppingFlow.create();
-
-
-      const result =
-        await DigiyarShoppingFlow.process(
-
-          state,
-
-          "یه گوشی تا ۱۵ میلیون برای عکاسی می‌خوام."
+          state
 
         );
 
+      }
 
-      const passed =
+      catch (error) {
 
-        result.need
+        addResult(
 
-        &&
+          "ساخت Session اولیه Shopping Flow",
 
-        result.need.category ===
-          "mobile"
+          false,
 
-        &&
-
-        result.need.budget
-
-        &&
-
-        result.need.budget.max ===
-          15000000
-
-        &&
-
-        result.need.usage.includes(
-          "photography"
-        )
-
-        &&
-
-        result.need.ready ===
-          true
-
-        &&
-
-        result.status ===
-          "complete";
-
-
-      addResult(
-
-        "پردازش Need کامل در یک Turn",
-
-        passed,
-
-        result
-
-      );
-
-    }
-
-    catch (error) {
-
-      addResult(
-
-        "پردازش Need کامل در یک Turn",
-
-        false,
-
-        errorData(error)
-
-      );
-
-    }
-
-
-    /* =====================================================
-       SCENARIO 5
-       RETRIEVAL HANDOFF
-       ===================================================== */
-
-    try {
-
-      const state =
-        DigiyarShoppingFlow.create();
-
-
-      const result =
-        await DigiyarShoppingFlow.process(
-
-          state,
-
-          "یه گوشی تا ۱۵ میلیون برای عکاسی می‌خوام."
+          getError(error)
 
         );
 
+      }
 
-      const passed =
 
-        result.need.ready ===
-          true
+      /* ===================================================
+         Scenario 3
+         First Turn
+         =================================================== */
 
-        &&
+      try {
 
-        result.need.nextAction ===
-          "retrieve_products"
+        const state =
+          DigiyarShoppingFlow
+            .createSession();
 
-        &&
 
-        (
-          result.retrieval ===
+        const result =
+          await DigiyarShoppingFlow.process(
+
+            state,
+
+            "یه گوشی خوب می‌خوام."
+
+          );
+
+
+        const passed =
+
+          result.status ===
+            "waiting_for_answer"
+
+          &&
+
+          result.state.turn ===
+            1
+
+          &&
+
+          result.need.category ===
+            "mobile"
+
+          &&
+
+          result.need.ready ===
+            false
+
+          &&
+
+          result.question !==
             null
 
-          ||
+          &&
 
-          typeof result.retrieval ===
-            "object"
+          Array.isArray(
+            result.products
+          )
 
-        );
+          &&
 
-
-      addResult(
-
-        "تحویل صحیح Need آماده به مرحله Retrieval",
-
-        passed,
-
-        {
-
-          status:
-            result.status,
-
-          nextAction:
-            result.need.nextAction,
-
-          retrieval:
-            result.retrieval || null
-
-        }
-
-      );
-
-    }
-
-    catch (error) {
-
-      addResult(
-
-        "تحویل صحیح Need آماده به Retrieval",
-
-        false,
-
-        errorData(error)
-
-      );
-
-    }
+          result.products.length ===
+            0;
 
 
-    /* =====================================================
-       SCENARIO 6
-       STATE PRESERVATION
-       ===================================================== */
+        addResult(
 
-    try {
+          "شروع Shopping Flow با Need ناقص",
 
-      let state =
-        DigiyarShoppingFlow.create();
+          passed,
 
-
-      const r1 =
-        await DigiyarShoppingFlow.process(
-
-          state,
-
-          "یه گوشی خوب می‌خوام."
+          result
 
         );
 
+      }
 
-      state =
-        r1.state;
+      catch (error) {
 
+        addResult(
 
-      const r2 =
-        await DigiyarShoppingFlow.process(
+          "شروع Shopping Flow با Need ناقص",
 
-          state,
+          false,
 
-          "هنوز نمی‌دونم"
-
-        );
-
-
-      const passed =
-
-        r2.need.category ===
-          "mobile"
-
-        &&
-
-        r2.need.budget ===
-          null
-
-        &&
-
-        r2.need.ready ===
-          false
-
-        &&
-
-        r2.status ===
-          "waiting_for_answer"
-
-        &&
-
-        r2.state.turn ===
-          2;
-
-
-      addResult(
-
-        "حفظ State در پاسخ نامفهوم",
-
-        passed,
-
-        r2
-
-      );
-
-    }
-
-    catch (error) {
-
-      addResult(
-
-        "حفظ State در پاسخ نامفهوم",
-
-        false,
-
-        errorData(error)
-
-      );
-
-    }
-
-
-    /* =====================================================
-       SCENARIO 7
-       HISTORY
-       ===================================================== */
-
-    try {
-
-      let state =
-        DigiyarShoppingFlow.create();
-
-
-      const r1 =
-        await DigiyarShoppingFlow.process(
-
-          state,
-
-          "یه گوشی خوب می‌خوام."
+          getError(error)
 
         );
 
-
-      state =
-        r1.state;
+      }
 
 
-      const r2 =
-        await DigiyarShoppingFlow.process(
+      /* ===================================================
+         Scenario 4
+         Multi Turn Completion
+         =================================================== */
 
-          state,
+      try {
 
-          "تا ۱۵ میلیون"
+        let state =
+          DigiyarShoppingFlow
+            .createSession();
+
+
+        const r1 =
+          await DigiyarShoppingFlow.process(
+
+            state,
+
+            "یه گوشی خوب می‌خوام."
+
+          );
+
+
+        state =
+          r1.state;
+
+
+        const r2 =
+          await DigiyarShoppingFlow.process(
+
+            state,
+
+            "تا ۱۵ میلیون"
+
+          );
+
+
+        state =
+          r2.state;
+
+
+        const r3 =
+          await DigiyarShoppingFlow.process(
+
+            state,
+
+            "برای عکاسی"
+
+          );
+
+
+        const passed =
+
+          r3.need.category ===
+            "mobile"
+
+          &&
+
+          r3.need.budget
+
+          &&
+
+          r3.need.budget.max ===
+            15000000
+
+          &&
+
+          Array.isArray(
+            r3.need.usage
+          )
+
+          &&
+
+          r3.need.usage.includes(
+            "photography"
+          )
+
+          &&
+
+          r3.need.ready ===
+            true
+
+          &&
+
+          r3.need.nextAction ===
+            "retrieve_products"
+
+          &&
+
+          r3.state.turn ===
+            3
+
+          &&
+
+          Array.isArray(
+            r3.products
+          );
+
+
+        addResult(
+
+          "تکمیل Shopping Flow در چند Turn",
+
+          passed,
+
+          {
+
+            status:
+              r3.status,
+
+            turn:
+              r3.state.turn,
+
+            need:
+              r3.need,
+
+            productsCount:
+              r3.products.length,
+
+            error:
+              r3.error
+
+          }
 
         );
 
+      }
 
-      state =
-        r2.state;
+      catch (error) {
 
+        addResult(
 
-      const r3 =
-        await DigiyarShoppingFlow.process(
+          "تکمیل Shopping Flow در چند Turn",
 
-          state,
+          false,
 
-          "برای عکاسی"
+          getError(error)
 
         );
 
-
-      const history =
-        r3.state.history;
+      }
 
 
-      const passed =
+      /* ===================================================
+         Scenario 5
+         Complete Request In One Turn
+         =================================================== */
 
-        Array.isArray(
-          history
-        )
+      try {
 
-        &&
-
-        history.length ===
-          3
-
-        &&
-
-        history[0].turn ===
-          1
-
-        &&
-
-        history[1].turn ===
-          2
-
-        &&
-
-        history[2].turn ===
-          3;
+        const state =
+          DigiyarShoppingFlow
+            .createSession();
 
 
-      addResult(
+        const result =
+          await DigiyarShoppingFlow.process(
 
-        "ثبت صحیح History در Shopping Flow",
+            state,
 
-        passed,
+            "یه گوشی تا ۱۵ میلیون برای عکاسی می‌خوام.",
 
-        {
+            {
+              retrieval: {
+                remote: false
+              }
+            }
 
-          turn:
-            r3.state.turn,
+          );
 
-          history:
+
+        const passed =
+
+          result.need.category ===
+            "mobile"
+
+          &&
+
+          result.need.budget
+
+          &&
+
+          result.need.budget.max ===
+            15000000
+
+          &&
+
+          result.need.usage.includes(
+            "photography"
+          )
+
+          &&
+
+          result.need.ready ===
+            true
+
+          &&
+
+          result.status ===
+            "products_retrieved"
+
+          &&
+
+          Array.isArray(
+            result.products
+          )
+
+          &&
+
+          result.error ===
+            null;
+
+
+        addResult(
+
+          "پردازش درخواست کامل و اجرای Retrieval",
+
+          passed,
+
+          {
+
+            status:
+              result.status,
+
+            query:
+              result.query,
+
+            count:
+              result.count,
+
+            products:
+              result.products,
+
+            error:
+              result.error
+
+          }
+
+        );
+
+      }
+
+      catch (error) {
+
+        addResult(
+
+          "پردازش درخواست کامل و اجرای Retrieval",
+
+          false,
+
+          getError(error)
+
+        );
+
+      }
+
+
+      /* ===================================================
+         Scenario 6
+         Unclear Answer
+         =================================================== */
+
+      try {
+
+        let state =
+          DigiyarShoppingFlow
+            .createSession();
+
+
+        const r1 =
+          await DigiyarShoppingFlow.process(
+
+            state,
+
+            "یه گوشی خوب می‌خوام."
+
+          );
+
+
+        state =
+          r1.state;
+
+
+        const r2 =
+          await DigiyarShoppingFlow.process(
+
+            state,
+
+            "هنوز نمی‌دونم"
+
+          );
+
+
+        const passed =
+
+          r2.state.turn ===
+            2
+
+          &&
+
+          r2.need.category ===
+            "mobile"
+
+          &&
+
+          r2.need.budget ===
+            null
+
+          &&
+
+          r2.need.ready ===
+            false
+
+          &&
+
+          r2.status ===
+            "waiting_for_answer"
+
+          &&
+
+          r2.products.length ===
+            0;
+
+
+        addResult(
+
+          "حفظ State در پاسخ نامفهوم",
+
+          passed,
+
+          r2
+
+        );
+
+      }
+
+      catch (error) {
+
+        addResult(
+
+          "حفظ State در پاسخ نامفهوم",
+
+          false,
+
+          getError(error)
+
+        );
+
+      }
+
+
+      /* ===================================================
+         Scenario 7
+         History
+         =================================================== */
+
+      try {
+
+        let state =
+          DigiyarShoppingFlow
+            .createSession();
+
+
+        const r1 =
+          await DigiyarShoppingFlow.process(
+
+            state,
+
+            "یه گوشی خوب می‌خوام."
+
+          );
+
+
+        state =
+          r1.state;
+
+
+        const r2 =
+          await DigiyarShoppingFlow.process(
+
+            state,
+
+            "تا ۱۵ میلیون"
+
+          );
+
+
+        state =
+          r2.state;
+
+
+        const r3 =
+          await DigiyarShoppingFlow.process(
+
+            state,
+
+            "برای عکاسی"
+
+          );
+
+
+        const history =
+          r3.state.history;
+
+
+        const passed =
+
+          Array.isArray(
             history
+          )
 
-        }
+          &&
 
-      );
+          history.length ===
+            3
 
-    }
+          &&
 
-    catch (error) {
+          history[0].turn ===
+            1
 
-      addResult(
+          &&
 
-        "ثبت صحیح History در Shopping Flow",
+          history[1].turn ===
+            2
 
-        false,
+          &&
 
-        errorData(error)
+          history[2].turn ===
+            3
 
-      );
+          &&
+
+          r3.state.turn ===
+            3;
+
+
+        addResult(
+
+          "ثبت صحیح History و Turnها در Shopping Flow",
+
+          passed,
+
+          {
+
+            turn:
+              r3.state.turn,
+
+            history:
+              history
+
+          }
+
+        );
+
+      }
+
+      catch (error) {
+
+        addResult(
+
+          "ثبت صحیح History و Turnها در Shopping Flow",
+
+          false,
+
+          getError(error)
+
+        );
+
+      }
+
+
+      /* ===================================================
+         Final
+         =================================================== */
+
+      renderResults();
 
     }
 
 
     /* =====================================================
-       FINAL RENDER
+       START
        ===================================================== */
 
-    renderResults();
+    runTests().catch(
+
+      function (error) {
+
+        addResult(
+
+          "خطای عمومی اجرای تست",
+
+          false,
+
+          getError(error)
+
+        );
+
+
+        renderResults();
+
+      }
+
+    );
 
   </script>
 
