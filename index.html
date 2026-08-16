@@ -17,7 +17,7 @@
 
   <meta
     name="description"
-    content="دیجی‌یار؛ پلتفرم هوشمند برای تجربه بهترین خرید اینترنتی"
+    content="دیجی‌یار؛ دستیار دنیای دیجیتال برای انتخاب هوشمندانه‌تر"
   >
 
   <link
@@ -36,32 +36,64 @@
     href="css/style.css"
   >
 
-  <title>دیجی‌یار | خرید هوشمند</title>
+  <title>دیجی‌یار | دستیار دنیای دیجیتال</title>
 
 </head>
 
+
 <body>
 
+
   <!-- =====================================================
-       Splash Screen
+       DigiYar V4 — Dynamic Splash
        ===================================================== -->
 
   <div
     id="splashScreen"
     class="splash-screen"
+    aria-label="در حال آماده‌سازی دیجی‌یار"
   >
+
+    <div
+      class="splash-orbit orbit-one"
+      aria-hidden="true"
+    ></div>
+
+    <div
+      class="splash-orbit orbit-two"
+      aria-hidden="true"
+    ></div>
+
 
     <div class="splash-content">
 
+
       <div class="splash-logo-wrap">
+
+        <div
+          class="splash-glow"
+          aria-hidden="true"
+        ></div>
+
+        <div
+          class="splash-logo-ring ring-one"
+          aria-hidden="true"
+        ></div>
+
+        <div
+          class="splash-logo-ring ring-two"
+          aria-hidden="true"
+        ></div>
+
 
         <img
           class="splash-logo"
-          src="./icon/icon-512.png"
-          alt="DigiYar"
+          src="./assets/logos/logo.png"
+          alt="دیجی‌یار"
         >
 
       </div>
+
 
       <div class="splash-brand">
 
@@ -70,13 +102,19 @@
         </h1>
 
         <p>
-          دستیار هوشمندِ خرید اینترنتی تو
+          دستیار دنیای دیجیتال
         </p>
 
       </div>
 
-      <div class="splash-loader">
+
+      <div
+        class="splash-loader"
+        aria-hidden="true"
+      >
+
         <span></span>
+
       </div>
 
     </div>
@@ -112,7 +150,9 @@
         </div>
 
 
-        <!-- PWA Install -->
+        <!-- ===============================================
+             PWA Install Notification
+             =============================================== -->
 
         <div
           id="installPrompt"
@@ -130,6 +170,7 @@
 
           </div>
 
+
           <div class="install-prompt-content">
 
             <strong>
@@ -142,6 +183,7 @@
 
           </div>
 
+
           <button
             id="installBtn"
             class="install-prompt-button"
@@ -149,6 +191,7 @@
           >
             نصب
           </button>
+
 
           <button
             id="installDismiss"
@@ -167,7 +210,7 @@
 
 
     <!-- ===================================================
-         Profile / Shopping Assistant
+         Profile
          =================================================== -->
 
     <section class="card profile-card">
@@ -176,16 +219,12 @@
 
         <div>
 
-          <span class="section-kicker">
-            SHOPPING ASSISTANT
-          </span>
-
           <h2>
-            دقیقاً دنبال چه چیزی هستی؟
+            پروفایل خرید
           </h2>
 
           <p>
-            چند اطلاعات کوتاه بده تا دیجی‌یار بهترین گزینه‌ها را برایت پیدا کند.
+            اطلاعات خریدت را وارد کن تا دیجی‌یار بهترین گزینه‌ها را برایت پیدا کند
           </p>
 
         </div>
@@ -197,8 +236,6 @@
 
         <div class="form-grid">
 
-
-          <!-- Category -->
 
           <label>
 
@@ -227,8 +264,6 @@
           </label>
 
 
-          <!-- Budget -->
-
           <label>
 
             حداکثر بودجه
@@ -239,7 +274,7 @@
               min="0"
               max="500000000"
               step="100000"
-              placeholder="مثلاً 25000000"
+              placeholder="مثلاً 15000000"
             >
 
             <small class="input-hint">
@@ -249,11 +284,9 @@
           </label>
 
 
-          <!-- Priorities -->
-
           <label class="full">
 
-            مهم‌ترین اولویتت چیست؟
+            اولویت‌ها
 
             <input
               id="priorities"
@@ -263,8 +296,6 @@
 
           </label>
 
-
-          <!-- Usage -->
 
           <label class="full">
 
@@ -279,8 +310,6 @@
           </label>
 
 
-          <!-- Requirements -->
-
           <label class="full">
 
             نیازهای ضروری
@@ -293,8 +322,6 @@
 
           </label>
 
-
-          <!-- Constraints -->
 
           <label class="full">
 
@@ -309,16 +336,15 @@
           </label>
 
 
-          <!-- Actions -->
-
           <div class="form-actions full">
 
             <button
               class="primary"
               type="submit"
             >
-              🎯 پیدا کردن بهترین گزینه
+              ساخت پروفایل و پیشنهاد
             </button>
+
 
             <button
               id="resetProfile"
@@ -343,7 +369,7 @@
 
 
     <!-- ===================================================
-         V4 Recommendation Results
+         Results
          =================================================== -->
 
     <section
@@ -355,16 +381,12 @@
 
         <div>
 
-          <span class="section-kicker">
-            SMART RECOMMENDATION
-          </span>
-
           <h2>
             پیشنهادهای دیجی‌یار
           </h2>
 
           <p id="resultHint">
-            اطلاعات خریدت را وارد کن تا بهترین گزینه را پیدا کنیم.
+            برای شروع اطلاعات خریدت را وارد کن.
           </p>
 
         </div>
@@ -372,46 +394,19 @@
       </div>
 
 
-      <!-- Need Summary -->
-
       <div
         id="needSummary"
         class="need-summary empty"
       >
 
-        <div class="need-summary-title">
-          🎯 نیاز خرید شما
-        </div>
-
-        <div class="need-summary-content">
-          هنوز پروفایل خرید ساخته نشده است.
-        </div>
+        هنوز پروفایل خرید ساخته نشده است.
 
       </div>
 
 
-      <!-- Best Match -->
-
-      <div
-        id="bestRecommendation"
-        class="best-recommendation"
-      ></div>
-
-
-      <!-- Alternative Recommendations -->
-
-      <div
-        id="alternativeRecommendations"
-        class="alternative-recommendations"
-      ></div>
-
-
-      <!-- Backward-compatible container -->
-
       <div
         id="recommendations"
         class="recommendations"
-        aria-hidden="true"
       ></div>
 
     </section>
@@ -453,7 +448,9 @@
          =================================================== -->
 
     <footer>
-      دیجی‌یار — پلتفرم هوشمند برای تجربه بهترین خرید اینترنتی
+
+      دیجی‌یار — دستیار دنیای دیجیتال
+
     </footer>
 
 
@@ -461,8 +458,7 @@
 
 
   <!-- =====================================================
-       DigiYar Core
-       ترتیب بارگذاری مهم است.
+       DigiYar Core — Dependency Order
        ===================================================== -->
 
   <script src="js/product-data.js"></script>
@@ -482,6 +478,7 @@
   <script src="js/platforms.js"></script>
 
   <script src="js/app.js"></script>
+
 
 </body>
 
