@@ -877,13 +877,13 @@
      ======================================================= */
 
   if (
-    typeof window !== "undefined"
-  ) {
+  typeof window !== "undefined"
+) {
 
-    window.DigiyarSmartRecommendationEngine =
-      DigiyarSmartRecommendationEngine;
+  window.DigiyarSmartRecommendationEngine =
+    DigiyarSmartRecommendationEngine;
+
+  window.DigiyarSmartRecommendation =
+    DigiyarSmartRecommendationEngine;
 
   }
-
-
-})();
