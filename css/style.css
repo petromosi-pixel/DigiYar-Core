@@ -1,9 +1,9 @@
 /* =========================================================
    DigiYar V4 — Main Stylesheet
+   Clean Splash + Main UI
    ========================================================= */
 
 :root {
-
   --navy: #101c35;
   --navy-2: #162747;
 
@@ -23,31 +23,27 @@
 
   --success: #16875d;
 
-  --shadow:
-    0 12px 35px rgba(16, 28, 53, 0.08);
+  --shadow: 0 12px 35px rgba(16, 28, 53, 0.08);
 
   --radius: 20px;
-
 }
 
+
+/* =========================================================
+   GLOBAL
+   ========================================================= */
 
 * {
   box-sizing: border-box;
 }
 
-
 html {
   scroll-behavior: smooth;
 }
 
-
 body {
-
   margin: 0;
-
-  background:
-    #f4f6fa;
-
+  background: #f4f6fa;
   color: var(--text);
 
   font-family:
@@ -56,9 +52,7 @@ body {
     sans-serif;
 
   line-height: 1.8;
-
 }
-
 
 button,
 input,
@@ -66,11 +60,9 @@ select {
   font-family: inherit;
 }
 
-
 button {
   cursor: pointer;
 }
-
 
 a {
   color: inherit;
@@ -79,66 +71,85 @@ a {
 
 
 /* =========================================================
-   DigiYar V4 — Splash Screen
+   SPLASH SCREEN
    ========================================================= */
 
 .splash-screen {
   position: fixed;
   inset: 0;
+
   z-index: 999999;
 
   display: flex;
   align-items: center;
   justify-content: center;
 
+  width: 100%;
+  height: 100dvh;
+
   overflow: hidden;
 
   background:
     radial-gradient(
       circle at 50% 35%,
-      rgba(255, 255, 255, 0.08),
+      rgba(255, 255, 255, 0.09),
+      transparent 38%
+    ),
+    radial-gradient(
+      circle at 50% 55%,
+      rgba(230, 18, 61, 0.08),
       transparent 42%
     ),
     linear-gradient(
       145deg,
-      #0b1428 0%,
-      #101c35 55%,
+      #080f20 0%,
+      #101c35 52%,
       #172746 100%
     );
 
   opacity: 1;
   visibility: visible;
 
+  pointer-events: auto;
+
   transition:
-    opacity 0.65s ease,
-    visibility 0.65s ease;
+    opacity 0.7s ease,
+    visibility 0.7s ease;
 }
 
 
-/*
- * پایان Splash
- */
+/* =========================================================
+   SPLASH EXIT
+   ========================================================= */
 
 .splash-screen.splash-hidden {
   opacity: 0 !important;
   visibility: hidden !important;
   pointer-events: none !important;
+}
 
-  transform: scale(1.015);
 
-  transition:
-    opacity 0.65s ease,
-    visibility 0.65s ease,
-    transform 0.65s ease;
+/*
+ * اطمینان از اینکه بعد از خروج Splash
+ * هیچ عنصری از آن روی صفحه باقی نماند.
+ */
+
+.splash-screen.splash-hidden .splash-content {
+  pointer-events: none !important;
 }
 
 
 /* =========================================================
-   Splash Content
+   SPLASH CONTENT
    ========================================================= */
 
 .splash-content {
+  position: relative;
+
+  z-index: 2;
+
   width: 100%;
+  min-height: 100%;
 
   display: flex;
   flex-direction: column;
@@ -148,40 +159,111 @@ a {
 
   text-align: center;
 
+  padding: 20px;
+
   transform: translateY(-2vh);
 }
 
 
 /* =========================================================
-   Logo Assembly
+   LOGO ASSEMBLY
    ========================================================= */
 
 .splash-logo-assembly {
-
   position: relative;
 
-  width: 210px;
-  height: 210px;
+  width: 220px;
+  height: 220px;
 
   display: flex;
   align-items: center;
   justify-content: center;
 
-  margin-bottom: 22px;
+  margin-bottom: 20px;
 
-  animation:
-    splash-float 3.8s ease-in-out
-    2.2s infinite;
+  isolation: isolate;
 }
 
 
-/*
- * هر سه قطعه از همان لوگوی واقعی ساخته می‌شوند.
- * بنابراین در پایان دقیقاً همان لوگو را تشکیل می‌دهند.
- */
+/* =========================================================
+   LOGO ENERGY FIELD
+   ========================================================= */
+
+.splash-logo-assembly::before {
+  content: "";
+
+  position: absolute;
+
+  left: 50%;
+  top: 50%;
+
+  width: 150px;
+  height: 150px;
+
+  border-radius: 50%;
+
+  transform:
+    translate(-50%, -50%)
+    scale(0.75);
+
+  background:
+    radial-gradient(
+      circle,
+      rgba(230, 18, 61, 0.22) 0%,
+      rgba(230, 18, 61, 0.09) 35%,
+      transparent 72%
+    );
+
+  filter: blur(14px);
+
+  opacity: 0;
+
+  animation:
+    logo-energy
+    1.8s
+    ease-out
+    0.9s
+    forwards;
+}
+
+
+.splash-logo-assembly::after {
+  content: "";
+
+  position: absolute;
+
+  left: 50%;
+  top: 50%;
+
+  width: 190px;
+  height: 190px;
+
+  border-radius: 50%;
+
+  border:
+    1px solid
+    rgba(255, 255, 255, 0.08);
+
+  transform:
+    translate(-50%, -50%)
+    scale(0.65);
+
+  opacity: 0;
+
+  animation:
+    logo-ring
+    1.8s
+    cubic-bezier(.2,.8,.2,1)
+    1.0s
+    forwards;
+}
+
+
+/* =========================================================
+   LOGO PIECES
+   ========================================================= */
 
 .logo-piece {
-
   position: absolute;
 
   inset: 0;
@@ -193,105 +275,127 @@ a {
   align-items: center;
   justify-content: center;
 
-  overflow: hidden;
-
-  border-radius: 50%;
+  overflow: visible;
 
   pointer-events: none;
+
+  opacity: 0;
+
+  will-change:
+    transform,
+    opacity;
 }
 
 
 .logo-piece img {
+  display: block;
 
   width: 170px;
   height: 170px;
 
   object-fit: contain;
 
-  display: block;
+  border: 0;
+
+  background: transparent;
 
   user-select: none;
 
   -webkit-user-drag: none;
+
+  filter:
+    drop-shadow(
+      0 0 10px
+      rgba(255, 255, 255, 0.12)
+    );
 }
 
 
 /* =========================================================
-   Assembly Pieces
+   PIECE 1 — LEFT
    ========================================================= */
 
-/*
- * قطعه اول
- */
-
 .logo-piece-1 {
-
-  clip-path: inset(0 66% 0 0);
+  clip-path:
+    inset(
+      0
+      66%
+      0
+      0
+    );
 
   transform:
-    translateX(-70px)
-    rotate(-14deg)
-    scale(0.72);
-
-  opacity: 0;
+    translateX(-95px)
+    translateY(12px)
+    rotate(-22deg)
+    scale(0.58);
 
   animation:
     logo-piece-left
-    1.25s
-    cubic-bezier(.2,.85,.25,1)
-    forwards;
-}
-
-
-/*
- * قطعه دوم
- */
-
-.logo-piece-2 {
-
-  clip-path: inset(0 33% 0 33%);
-
-  transform:
-    translateY(65px)
-    scale(0.72);
-
-  opacity: 0;
-
-  animation:
-    logo-piece-center
     1.15s
-    cubic-bezier(.2,.85,.25,1)
-    0.12s
-    forwards;
-}
-
-
-/*
- * قطعه سوم
- */
-
-.logo-piece-3 {
-
-  clip-path: inset(0 0 0 66%);
-
-  transform:
-    translateX(70px)
-    rotate(14deg)
-    scale(0.72);
-
-  opacity: 0;
-
-  animation:
-    logo-piece-right
-    1.25s
-    cubic-bezier(.2,.85,.25,1)
-    0.2s
+    cubic-bezier(.16,.85,.25,1)
+    0.05s
     forwards;
 }
 
 
 /* =========================================================
-   Logo Assembly Animation
+   PIECE 2 — CENTER
+   ========================================================= */
+
+.logo-piece-2 {
+  clip-path:
+    inset(
+      0
+      33%
+      0
+      33%
+    );
+
+  transform:
+    translateY(100px)
+    rotate(8deg)
+    scale(0.58);
+
+  animation:
+    logo-piece-center
+    1.05s
+    cubic-bezier(.16,.85,.25,1)
+    0.18s
+    forwards;
+}
+
+
+/* =========================================================
+   PIECE 3 — RIGHT
+   ========================================================= */
+
+.logo-piece-3 {
+  clip-path:
+    inset(
+      0
+      0
+      0
+      66%
+    );
+
+  transform:
+    translateX(95px)
+    translateY(-12px)
+    rotate(22deg)
+    scale(0.58);
+
+  animation:
+    logo-piece-right
+    1.15s
+    cubic-bezier(.16,.85,.25,1)
+    0.28s
+    forwards;
+}
+
+
+/* =========================================================
+   LOGO ASSEMBLY ANIMATIONS
    ========================================================= */
 
 @keyframes logo-piece-left {
@@ -300,13 +404,22 @@ a {
     opacity: 0;
 
     transform:
-      translateX(-70px)
-      rotate(-14deg)
-      scale(0.72);
+      translateX(-95px)
+      translateY(12px)
+      rotate(-22deg)
+      scale(0.58);
   }
 
-  65% {
+  45% {
     opacity: 1;
+  }
+
+  78% {
+    transform:
+      translateX(8px)
+      translateY(-3px)
+      rotate(2deg)
+      scale(1.025);
   }
 
   100% {
@@ -314,6 +427,7 @@ a {
 
     transform:
       translateX(0)
+      translateY(0)
       rotate(0)
       scale(1);
   }
@@ -326,12 +440,20 @@ a {
     opacity: 0;
 
     transform:
-      translateY(65px)
-      scale(0.72);
+      translateY(100px)
+      rotate(8deg)
+      scale(0.58);
   }
 
-  65% {
+  45% {
     opacity: 1;
+  }
+
+  78% {
+    transform:
+      translateY(-7px)
+      rotate(-2deg)
+      scale(1.025);
   }
 
   100% {
@@ -339,6 +461,7 @@ a {
 
     transform:
       translateY(0)
+      rotate(0)
       scale(1);
   }
 }
@@ -350,13 +473,22 @@ a {
     opacity: 0;
 
     transform:
-      translateX(70px)
-      rotate(14deg)
-      scale(0.72);
+      translateX(95px)
+      translateY(-12px)
+      rotate(22deg)
+      scale(0.58);
   }
 
-  65% {
+  45% {
     opacity: 1;
+  }
+
+  78% {
+    transform:
+      translateX(-8px)
+      translateY(3px)
+      rotate(-2deg)
+      scale(1.025);
   }
 
   100% {
@@ -364,6 +496,7 @@ a {
 
     transform:
       translateX(0)
+      translateY(0)
       rotate(0)
       scale(1);
   }
@@ -371,642 +504,250 @@ a {
 
 
 /* =========================================================
-   Subtle Logo Glow
+   FINAL LOGO SETTLE
    ========================================================= */
 
-.splash-logo-assembly::after {
-
-  content: "";
-
-  position: absolute;
-
-  width: 150px;
-  height: 150px;
-
-  border-radius: 50%;
-
-  background:
-    radial-gradient(
-      circle,
-      rgba(255,255,255,0.10),
-      transparent 68%
-    );
-
-  filter: blur(18px);
-
-  z-index: -1;
-
+.splash-logo-assembly {
   animation:
-    splash-glow 2.8s ease-in-out
-    1.3s infinite;
-}
-
-
-@keyframes splash-glow {
-
-  0%,
-  100% {
-    transform: scale(0.85);
-    opacity: 0.45;
-  }
-
-  50% {
-    transform: scale(1.15);
-    opacity: 0.9;
-  }
-}
-
-
-/* =========================================================
-   Floating Logo
-   ========================================================= */
-
-@keyframes splash-float {
-
-  0%,
-  100% {
-    transform:
-      translateY(0);
-  }
-
-  50% {
-    transform:
-      translateY(-8px);
-  }
-}
-
-
-/* =========================================================
-   Splash Brand
-   ========================================================= */
-
-.splash-brand {
-
-  opacity: 0;
-
-  animation:
-    splash-brand-in
-    0.9s
-    ease
-    1.05s
-    forwards;
-}
-
-
-.splash-brand h1 {
-
-  margin: 0;
-
-  font-size: 32px;
-
-  font-weight: 800;
-
-  color: #ffffff;
-
-  letter-spacing: -0.5px;
-}
-
-
-.splash-brand p {
-
-  margin: 8px 0 0;
-
-  font-size: 16px;
-
-  color: rgba(
-    255,
-    255,
-    255,
-    0.72
-  );
-}
-
-
-@keyframes splash-brand-in {
-
-  from {
-
-    opacity: 0;
-
-    transform:
-      translateY(12px);
-
-  }
-
-  to {
-
-    opacity: 1;
-
-    transform:
-      translateY(0);
-
-  }
-}
-
-
-/* =========================================================
-   Splash Loader
-   ========================================================= */
-
-.splash-loader {
-
-  width: 90px;
-  height: 3px;
-
-  margin-top: 30px;
-
-  overflow: hidden;
-
-  border-radius: 99px;
-
-  background:
-    rgba(
-      255,
-      255,
-      255,
-      0.12
-    );
-}
-
-
-.splash-loader span {
-
-  display: block;
-
-  width: 35%;
-
-  height: 100%;
-
-  border-radius: inherit;
-
-  background:
-    linear-gradient(
-      90deg,
-      transparent,
-      rgba(255,255,255,0.9),
-      transparent
-    );
-
-  animation:
-    splash-loader
-    1.25s
+    logo-settle
+    3.5s
     ease-in-out
+    1.45s
     infinite;
 }
 
 
-@keyframes splash-loader {
+@keyframes logo-settle {
 
-  0% {
-    transform:
-      translateX(-140%);
-  }
-
+  0%,
   100% {
-    transform:
-      translateX(390%);
-  }
-}
-
-
-/* =========================================================
-   Mobile
-   ========================================================= */
-
-@media (max-width: 600px) {
-
-  .splash-logo-assembly {
-
-    width: 185px;
-    height: 185px;
-
-  }
-
-
-  .logo-piece img {
-
-    width: 150px;
-    height: 150px;
-
-  }
-
-
-  .splash-brand h1 {
-
-    font-size: 28px;
-
-  }
-
-
-  .splash-brand p {
-
-    font-size: 15px;
-
-  }
-
-}
-
-
-/* =========================================================
-   Splash Content
-   ========================================================= */
-
-.splash-content {
-
-  position: relative;
-
-  z-index: 2;
-
-  display: flex;
-
-  flex-direction: column;
-
-  align-items: center;
-
-  justify-content: center;
-
-  text-align: center;
-
-  animation:
-    splashContentIn
-    1s
-    cubic-bezier(.2,.8,.2,1)
-    forwards;
-
-}
-
-
-@keyframes splashContentIn {
-
-  from {
-
-    opacity: 0;
-
-    transform:
-      translateY(22px)
-      scale(0.96);
-
-  }
-
-  to {
-
-    opacity: 1;
-
     transform:
       translateY(0)
       scale(1);
-
   }
 
+  50% {
+    transform:
+      translateY(-5px)
+      scale(1.015);
+  }
 }
 
 
 /* =========================================================
-   Splash Logo
+   ENERGY ANIMATIONS
    ========================================================= */
 
-.splash-logo-wrap {
-
-  position: relative;
-
-  width: 158px;
-  height: 158px;
-
-  display: flex;
-
-  align-items: center;
-
-  justify-content: center;
-
-  border-radius: 50%;
-
-  isolation: isolate;
-
-  animation:
-    logoFloat
-    3.6s
-    ease-in-out
-    infinite;
-
-}
-
-
-.splash-logo {
-
-  position: relative;
-
-  z-index: 3;
-
-  width: 118px;
-  height: 118px;
-
-  object-fit: contain;
-
-  border-radius: 50%;
-
-  background: transparent;
-
-  filter:
-    drop-shadow(
-      0 0 12px
-      rgba(255,255,255,0.20)
-    )
-    drop-shadow(
-      0 0 30px
-      rgba(230,18,61,0.30)
-    );
-
-  animation:
-    logoPulse
-    2.8s
-    ease-in-out
-    infinite;
-
-}
-
-
-/*
- * Glow پشت لوگو
- */
-
-.splash-glow {
-
-  position: absolute;
-
-  width: 115px;
-  height: 115px;
-
-  border-radius: 50%;
-
-  background:
-    radial-gradient(
-      circle,
-      rgba(230,18,61,0.34) 0%,
-      rgba(230,18,61,0.13) 36%,
-      transparent 73%
-    );
-
-  filter: blur(8px);
-
-  z-index: 1;
-
-  animation:
-    glowPulse
-    2.4s
-    ease-in-out
-    infinite;
-
-}
-
-
-/*
- * حلقه‌های انرژی
- */
-
-.splash-logo-ring {
-
-  position: absolute;
-
-  left: 50%;
-  top: 50%;
-
-  width: 140px;
-  height: 140px;
-
-  border-radius: 50%;
-
-  border:
-    1px solid
-    rgba(255,255,255,0.13);
-
-  transform:
-    translate(-50%, -50%);
-
-  pointer-events: none;
-
-}
-
-
-.ring-one {
-
-  animation:
-    ringPulse
-    2.8s
-    ease-out
-    infinite;
-
-}
-
-
-.ring-two {
-
-  width: 158px;
-  height: 158px;
-
-  border-color:
-    rgba(230,18,61,0.16);
-
-  animation:
-    ringPulse
-    2.8s
-    ease-out
-    0.9s
-    infinite;
-
-}
-
-
-@keyframes logoFloat {
-
-  0%,
-  100% {
-
-    transform:
-      translateY(0)
-      rotate(0deg);
-
-  }
-
-  50% {
-
-    transform:
-      translateY(-7px)
-      rotate(1deg);
-
-  }
-
-}
-
-
-@keyframes logoPulse {
-
-  0%,
-  100% {
-
-    transform:
-      scale(0.98);
-
-  }
-
-  50% {
-
-    transform:
-      scale(1.035);
-
-  }
-
-}
-
-
-@keyframes glowPulse {
-
-  0%,
-  100% {
-
-    opacity: 0.45;
-
-    transform:
-      scale(0.90);
-
-  }
-
-  50% {
-
-    opacity: 1;
-
-    transform:
-      scale(1.18);
-
-  }
-
-}
-
-
-@keyframes ringPulse {
+@keyframes logo-energy {
 
   0% {
-
-    opacity: 0.08;
-
-    transform:
-      translate(-50%, -50%)
-      scale(0.82);
-
-  }
-
-  60% {
-
-    opacity: 0.55;
-
-  }
-
-  100% {
-
     opacity: 0;
 
     transform:
       translate(-50%, -50%)
-      scale(1.16);
-
+      scale(0.65);
   }
 
+  35% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0.45;
+
+    transform:
+      translate(-50%, -50%)
+      scale(1.25);
+  }
+}
+
+
+@keyframes logo-ring {
+
+  0% {
+    opacity: 0;
+
+    transform:
+      translate(-50%, -50%)
+      scale(0.65);
+  }
+
+  35% {
+    opacity: 0.7;
+  }
+
+  100% {
+    opacity: 0;
+
+    transform:
+      translate(-50%, -50%)
+      scale(1.2);
+  }
 }
 
 
 /* =========================================================
-   Splash Brand
+   SPLASH BRAND
    ========================================================= */
 
 .splash-brand {
+  margin-top: 8px;
 
-  margin-top: 24px;
+  text-align: center;
 
   opacity: 0;
 
   animation:
-    brandIn
+    brand-appear
     0.9s
-    ease
-    0.45s
+    cubic-bezier(.2,.8,.2,1)
+    1.75s
     forwards;
-
 }
 
 
-.splash-brand h1 {
+/* =========================================================
+   BRAND TITLE
+   ========================================================= */
 
+.splash-brand h1 {
   margin: 0;
 
   color: #ffffff;
 
-  font-size: 32px;
+  font-size: 34px;
 
-  font-weight: 800;
+  font-weight: 900;
 
-  letter-spacing: -0.5px;
+  letter-spacing: -0.7px;
 
   text-shadow:
     0 0 18px
     rgba(255,255,255,0.12);
 
+  animation:
+    brand-title-glow
+    2.8s
+    ease-in-out
+    2.65s
+    infinite;
 }
 
 
-.splash-brand p {
+/* =========================================================
+   BRAND TAGLINE
+   ========================================================= */
 
+.splash-brand p {
   margin:
     8px
     0
     0;
 
   color:
-    rgba(255,255,255,0.78);
+    rgba(255,255,255,0.82);
 
-  font-size: 15px;
+  font-size: 16px;
 
-  font-weight: 500;
+  font-weight: 600;
 
+  opacity: 0;
+
+  animation:
+    tagline-appear
+    0.8s
+    cubic-bezier(.2,.8,.2,1)
+    2.25s
+    forwards;
 }
 
 
-@keyframes brandIn {
+/* =========================================================
+   BRAND ANIMATIONS
+   ========================================================= */
 
-  from {
+@keyframes brand-appear {
 
+  0% {
+    opacity: 0;
+
+    transform:
+      translateY(20px)
+      scale(0.92);
+  }
+
+  70% {
+    opacity: 1;
+
+    transform:
+      translateY(-2px)
+      scale(1.02);
+  }
+
+  100% {
+    opacity: 1;
+
+    transform:
+      translateY(0)
+      scale(1);
+  }
+}
+
+
+@keyframes tagline-appear {
+
+  0% {
     opacity: 0;
 
     transform:
       translateY(12px);
 
+    letter-spacing: 3px;
   }
 
-  to {
-
+  100% {
     opacity: 1;
 
     transform:
       translateY(0);
 
+    letter-spacing: 0;
+  }
+}
+
+
+@keyframes brand-title-glow {
+
+  0%,
+  100% {
+    text-shadow:
+      0 0 18px
+      rgba(255,255,255,0.12);
   }
 
+  50% {
+    text-shadow:
+      0 0 26px
+      rgba(255,255,255,0.24),
+      0 0 45px
+      rgba(230,18,61,0.16);
+  }
 }
 
 
 /* =========================================================
-   Splash Loader
+   SPLASH LOADER
    ========================================================= */
 
 .splash-loader {
-
-  width: 48px;
-
+  width: 70px;
   height: 3px;
 
   margin-top: 28px;
 
   overflow: hidden;
 
-  border-radius: 10px;
+  border-radius: 99px;
 
   background:
     rgba(255,255,255,0.12);
@@ -1014,21 +755,18 @@ a {
   opacity: 0;
 
   animation:
-    loaderIn
-    0.7s
+    loader-appear
+    0.6s
     ease
-    0.9s
+    2.45s
     forwards;
-
 }
 
 
 .splash-loader span {
-
   display: block;
 
-  width: 40%;
-
+  width: 38%;
   height: 100%;
 
   border-radius: inherit;
@@ -1042,15 +780,14 @@ a {
     );
 
   animation:
-    loaderMove
-    1.25s
+    loader-move
+    1.15s
     ease-in-out
     infinite;
-
 }
 
 
-@keyframes loaderIn {
+@keyframes loader-appear {
 
   from {
     opacity: 0;
@@ -1059,39 +796,29 @@ a {
   to {
     opacity: 1;
   }
-
 }
 
 
-@keyframes loaderMove {
+@keyframes loader-move {
 
-  from {
-
+  0% {
     transform:
-      translateX(-120%);
-
+      translateX(-150%);
   }
 
-  to {
-
+  100% {
     transform:
-      translateX(360%);
-
+      translateX(380%);
   }
-
 }
 
 
 /* =========================================================
-   App Shell
+   APP SHELL
    ========================================================= */
 
 .app-shell {
-
-  width: min(
-    100%,
-    980px
-  );
+  width: min(100%, 980px);
 
   margin: 0 auto;
 
@@ -1099,29 +826,23 @@ a {
     24px
     16px
     40px;
-
 }
 
 
 /* =========================================================
-   Header
+   HEADER
    ========================================================= */
 
 .main-header {
-
   margin-bottom: 20px;
-
 }
 
 
 .header-content {
-
   position: relative;
 
   display: flex;
-
   align-items: center;
-
   justify-content: space-between;
 
   gap: 16px;
@@ -1145,44 +866,36 @@ a {
   box-shadow:
     0 15px 40px
     rgba(16,28,53,0.16);
-
 }
 
 
 .header-text {
-
   display: flex;
 
   flex-direction: column;
 
   gap: 2px;
-
 }
 
 
 .header-text strong {
-
   font-size: 22px;
-
 }
 
 
 .header-text span {
-
   font-size: 13px;
 
   color:
     rgba(255,255,255,0.70);
-
 }
 
 
 /* =========================================================
-   Cards
+   CARDS
    ========================================================= */
 
 .card {
-
   margin-bottom: 18px;
 
   padding: 22px;
@@ -1199,58 +912,48 @@ a {
 
   box-shadow:
     var(--shadow);
-
 }
 
 
 .section-title {
-
   margin-bottom: 20px;
-
 }
 
 
 .section-title h2 {
-
   margin:
     0
     0
     5px;
 
   font-size: 20px;
-
 }
 
 
 .section-title p {
-
   margin: 0;
 
   color: var(--muted);
 
   font-size: 13px;
-
 }
 
 
 /* =========================================================
-   Form
+   FORM
    ========================================================= */
 
 .form-grid {
-
   display: grid;
 
   grid-template-columns:
     repeat(2, minmax(0, 1fr));
 
   gap: 16px;
-
 }
 
 
 .form-grid label {
-
   display: flex;
 
   flex-direction: column;
@@ -1260,21 +963,17 @@ a {
   font-size: 13px;
 
   font-weight: 700;
-
 }
 
 
 .form-grid .full {
-
   grid-column:
     1 / -1;
-
 }
 
 
 input,
 select {
-
   width: 100%;
 
   min-height: 48px;
@@ -1302,37 +1001,31 @@ select {
   transition:
     border-color 0.2s ease,
     box-shadow 0.2s ease;
-
 }
 
 
 input:focus,
 select:focus {
-
   border-color:
     rgba(230,18,61,0.60);
 
   box-shadow:
     0 0 0 4px
     rgba(230,18,61,0.08);
-
 }
 
 
 .input-hint {
-
   color:
     var(--muted);
 
   font-size: 11px;
 
   font-weight: 400;
-
 }
 
 
 .form-actions {
-
   display: flex;
 
   align-items: center;
@@ -1340,12 +1033,10 @@ select:focus {
   gap: 12px;
 
   padding-top: 4px;
-
 }
 
 
 .primary {
-
   min-height: 48px;
 
   padding:
@@ -1376,24 +1067,20 @@ select:focus {
   transition:
     transform 0.2s ease,
     box-shadow 0.2s ease;
-
 }
 
 
 .primary:hover {
-
   transform:
     translateY(-2px);
 
   box-shadow:
     0 12px 25px
     rgba(230,18,61,0.28);
-
 }
 
 
 .text-btn {
-
   border: 0;
 
   background: transparent;
@@ -1402,16 +1089,14 @@ select:focus {
     var(--muted);
 
   font-size: 13px;
-
 }
 
 
 /* =========================================================
-   Storage
+   STORAGE
    ========================================================= */
 
 .storage-note {
-
   margin:
     14px
     0
@@ -1421,16 +1106,14 @@ select:focus {
     var(--muted);
 
   font-size: 11px;
-
 }
 
 
 /* =========================================================
-   Need Summary
+   NEED SUMMARY
    ========================================================= */
 
 .need-summary {
-
   padding:
     15px
     17px;
@@ -1450,24 +1133,20 @@ select:focus {
     var(--text);
 
   font-size: 13px;
-
 }
 
 
 .need-summary.empty {
-
   color:
     var(--muted);
-
 }
 
 
 /* =========================================================
-   Recommendations
+   RECOMMENDATIONS
    ========================================================= */
 
 .recommendations {
-
   display: grid;
 
   grid-template-columns:
@@ -1477,12 +1156,10 @@ select:focus {
     );
 
   gap: 15px;
-
 }
 
 
 .recommendation {
-
   position: relative;
 
   padding: 18px;
@@ -1503,32 +1180,26 @@ select:focus {
   transition:
     transform 0.2s ease,
     box-shadow 0.2s ease;
-
 }
 
 
 .recommendation:hover {
-
   transform:
     translateY(-3px);
 
   box-shadow:
     0 13px 28px
     rgba(16,28,53,0.10);
-
 }
 
 
 .recommendation .score {
-
   display: inline-flex;
 
   align-items: center;
-
   justify-content: center;
 
   min-width: 48px;
-
   height: 30px;
 
   margin-bottom: 9px;
@@ -1548,24 +1219,20 @@ select:focus {
   font-size: 12px;
 
   font-weight: 800;
-
 }
 
 
 .recommendation h3 {
-
   margin:
     0
     0
     6px;
 
   font-size: 16px;
-
 }
 
 
 .recommendation p {
-
   margin:
     5px
     0;
@@ -1574,12 +1241,10 @@ select:focus {
     var(--muted);
 
   font-size: 12px;
-
 }
 
 
 .recommendation a {
-
   display: inline-flex;
 
   margin-top: 12px;
@@ -1598,16 +1263,14 @@ select:focus {
   font-size: 12px;
 
   font-weight: 700;
-
 }
 
 
 /* =========================================================
-   Platforms
+   PLATFORMS
    ========================================================= */
 
 .platform-grid {
-
   display: grid;
 
   grid-template-columns:
@@ -1617,16 +1280,13 @@ select:focus {
     );
 
   gap: 12px;
-
 }
 
 
 .platform {
-
   display: flex;
 
   align-items: center;
-
   justify-content: space-between;
 
   gap: 12px;
@@ -1646,24 +1306,20 @@ select:focus {
   transition:
     transform 0.2s ease,
     box-shadow 0.2s ease;
-
 }
 
 
 .platform:hover {
-
   transform:
     translateY(-2px);
 
   box-shadow:
     0 9px 22px
     rgba(16,28,53,0.08);
-
 }
 
 
 .platform-main {
-
   min-width: 0;
 
   display: flex;
@@ -1671,12 +1327,10 @@ select:focus {
   align-items: center;
 
   gap: 9px;
-
 }
 
 
 .platform-logo {
-
   width: 42px;
   height: 42px;
 
@@ -1685,7 +1339,6 @@ select:focus {
   display: flex;
 
   align-items: center;
-
   justify-content: center;
 
   overflow: hidden;
@@ -1694,41 +1347,33 @@ select:focus {
 
   background:
     #f4f6fa;
-
 }
 
 
 .platform-logo img {
-
   width: 100%;
   height: 100%;
 
   object-fit: contain;
-
 }
 
 
 .platform-name {
-
   font-size: 13px;
 
   font-weight: 800;
-
 }
 
 
 .platform-tag {
-
   color:
     var(--muted);
 
   font-size: 10px;
-
 }
 
 
 .platform-btn {
-
   flex: 0 0 auto;
 
   padding:
@@ -1746,19 +1391,18 @@ select:focus {
   font-size: 10px;
 
   font-weight: 700;
-
 }
 
 
 /* =========================================================
-   PWA Install Prompt
+   PWA INSTALL PROMPT
    ========================================================= */
 
 .install-prompt {
-
   position: absolute;
 
-  top: calc(100% + 10px);
+  top:
+    calc(100% + 10px);
 
   left: 0;
 
@@ -1770,13 +1414,13 @@ select:focus {
 
   gap: 10px;
 
-  width: min(
-    430px,
-    calc(100vw - 32px)
-  );
+  width:
+    min(
+      430px,
+      calc(100vw - 32px)
+    );
 
-  padding:
-    10px;
+  padding: 10px;
 
   border-radius: 15px;
 
@@ -1800,31 +1444,25 @@ select:focus {
   transition:
     opacity 0.25s ease,
     transform 0.25s ease;
-
 }
 
 
 .install-prompt.show {
-
   opacity: 1;
 
   transform:
     translateY(0);
 
   pointer-events: auto;
-
 }
 
 
 .install-prompt.hidden {
-
   display: none;
-
 }
 
 
 .install-prompt-icon {
-
   width: 42px;
   height: 42px;
 
@@ -1833,22 +1471,18 @@ select:focus {
   overflow: hidden;
 
   border-radius: 11px;
-
 }
 
 
 .install-prompt-icon img {
-
   width: 100%;
   height: 100%;
 
   object-fit: contain;
-
 }
 
 
 .install-prompt-content {
-
   min-width: 0;
 
   flex: 1;
@@ -1856,29 +1490,23 @@ select:focus {
   display: flex;
 
   flex-direction: column;
-
 }
 
 
 .install-prompt-content strong {
-
   font-size: 12px;
-
 }
 
 
 .install-prompt-content span {
-
   color:
     var(--muted);
 
   font-size: 10px;
-
 }
 
 
 .install-prompt-button {
-
   border: 0;
 
   border-radius: 9px;
@@ -1895,12 +1523,10 @@ select:focus {
   font-size: 11px;
 
   font-weight: 800;
-
 }
 
 
 .install-prompt-close {
-
   width: 28px;
   height: 28px;
 
@@ -1917,16 +1543,14 @@ select:focus {
     var(--muted);
 
   font-size: 18px;
-
 }
 
 
 /* =========================================================
-   Footer
+   FOOTER
    ========================================================= */
 
 footer {
-
   padding:
     10px
     0;
@@ -1937,161 +1561,146 @@ footer {
   text-align: center;
 
   font-size: 11px;
-
 }
 
 
 /* =========================================================
-   Responsive
+   RESPONSIVE
    ========================================================= */
 
 @media (max-width: 700px) {
 
   .app-shell {
-
     padding:
       14px
       10px
       30px;
-
   }
 
 
   .card {
+    padding: 17px;
 
-    padding:
-      17px;
-
-    border-radius:
-      17px;
-
+    border-radius: 17px;
   }
 
 
   .form-grid {
-
-    grid-template-columns:
-      1fr;
-
+    grid-template-columns: 1fr;
   }
 
 
   .form-grid .full {
-
-    grid-column:
-      auto;
-
+    grid-column: auto;
   }
 
 
   .form-actions {
+    flex-direction: column;
 
-    flex-direction:
-      column;
-
-    align-items:
-      stretch;
-
+    align-items: stretch;
   }
 
 
   .primary {
-
     width: 100%;
-
   }
 
 
   .recommendations {
-
-    grid-template-columns:
-      1fr;
-
+    grid-template-columns: 1fr;
   }
 
 
   .platform-grid {
-
-    grid-template-columns:
-      1fr;
-
+    grid-template-columns: 1fr;
   }
 
 
   .header-content {
-
-    padding:
-      15px;
-
+    padding: 15px;
   }
 
 
   .header-text strong {
-
-    font-size:
-      19px;
-
+    font-size: 19px;
   }
 
 
-  .splash-logo-wrap {
+  /* Splash mobile */
 
-    width: 145px;
-    height: 145px;
-
+  .splash-logo-assembly {
+    width: 190px;
+    height: 190px;
   }
 
 
-  .splash-logo {
-
-    width: 108px;
-    height: 108px;
-
+  .logo-piece img {
+    width: 150px;
+    height: 150px;
   }
 
 
   .splash-brand h1 {
-
-    font-size:
-      28px;
-
+    font-size: 29px;
   }
 
 
   .splash-brand p {
-
-    font-size:
-      14px;
-
+    font-size: 14px;
   }
 
-}
 
-
-@media (prefers-reduced-motion: reduce) {
-
-  .splash-screen *,
-  .splash-screen,
-  .recommendation,
-  .platform,
-  .primary {
-
-    animation: none !important;
-
-    transition: none !important;
-
+  .splash-logo-assembly::after {
+    width: 165px;
+    height: 165px;
   }
 
 }
 
 
 /* =========================================================
-   Guaranteed Splash Exit
+   VERY SMALL DEVICES
    ========================================================= */
 
-.splash-screen.splash-hidden * {
+@media (max-width: 380px) {
 
-  animation-play-state:
-    paused !important;
+  .splash-logo-assembly {
+    width: 170px;
+    height: 170px;
+  }
 
-     }
+
+  .logo-piece img {
+    width: 135px;
+    height: 135px;
+  }
+
+
+  .splash-brand h1 {
+    font-size: 26px;
+  }
+
+
+  .splash-brand p {
+    font-size: 13px;
+  }
+
+}
+
+
+/* =========================================================
+   ACCESSIBILITY
+   ========================================================= */
+
+@media (prefers-reduced-motion: reduce) {
+
+  .splash-screen *,
+  .splash-screen {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+
+    transition-duration: 0.01ms !important;
+  }
+
+}
