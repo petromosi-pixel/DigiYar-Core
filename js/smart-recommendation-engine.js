@@ -2,26 +2,20 @@
  * =========================================================
  * DigiYar V4
  * Smart Recommendation Engine
- * Build 9 — Alpha 1
+ * Build 9 — Alpha 2
  * =========================================================
  *
  * وظیفه:
  *
  * Need
  *   ↓
- * Retrieved Products
+ * Product Data
  *   ↓
  * Product Scoring
  *   ↓
- * Ranking
+ * Smart Ranking
  *   ↓
  * Recommendations
- *
- * این Engine:
- * - Need را تغییر نمی‌دهد
- * - Product Retrieval را تغییر نمی‌دهد
- * - Product Scoring موجود را جایگزین نمی‌کند
- * - فقط لایه هوشمند انتخاب و رتبه‌بندی را اضافه می‌کند
  *
  * =========================================================
  */
@@ -35,7 +29,7 @@
      Configuration
      ======================================================= */
 
-  const VERSION = "4.0.0-alpha.1";
+  const VERSION = "4.0.0-alpha.2";
 
   const DEFAULT_LIMIT = 3;
 
@@ -49,7 +43,8 @@
   function dependenciesReady() {
 
     return (
-      typeof DigiyarProductScoring !== "undefined"
+      typeof window !== "undefined" &&
+      typeof window.DigiYarProductScoring !== "undefined"
     );
 
   }
@@ -72,9 +67,15 @@
 
   function cloneNeed(need) {
 
-    if (!need || typeof need !== "object") {
+    if (
+      !need ||
+      typeof need !== "object"
+    ) {
+
       return null;
+
     }
+
 
     try {
 
@@ -82,7 +83,9 @@
         JSON.stringify(need)
       );
 
-    } catch (error) {
+    }
+
+    catch (error) {
 
       return need;
 
@@ -94,8 +97,11 @@
   function normalizeProducts(products) {
 
     if (!Array.isArray(products)) {
+
       return [];
+
     }
+
 
     return products
       .slice(0, MAX_PRODUCTS)
@@ -127,26 +133,70 @@
 
 
   /* =======================================================
-     Product Scoring Adapter
+     Product Source
      ======================================================= */
 
-  function scoreProduct(product, need) {
+  function getProducts(products) {
 
     /*
-     * Product Scoring Engine نسخه‌های مختلفی
-     * ممکن است API متفاوت داشته باشند.
-     *
-     * بنابراین چند API رایج را پشتیبانی می‌کنیم.
+     * اگر محصولات مستقیماً ارسال شده باشند،
+     * همان‌ها استفاده می‌شوند.
      */
 
     if (
-      typeof DigiyarProductScoring === "undefined"
+      Array.isArray(products)
+    ) {
+
+      return normalizeProducts(
+        products
+      );
+
+    }
+
+
+    /*
+     * در حالت عادی:
+     *
+     * Smart Recommendation
+     * مستقیماً از Product Data
+     * محصولات را دریافت می‌کند.
+     */
+
+    if (
+      typeof window !== "undefined" &&
+      window.DigiYarProductData &&
+      typeof window.DigiYarProductData.getAll ===
+        "function"
+    ) {
+
+      return normalizeProducts(
+        window.DigiYarProductData.getAll()
+      );
+
+    }
+
+
+    return [];
+
+  }
+
+
+  /* =======================================================
+     Product Scoring
+     ======================================================= */
+
+  function scoreProduct(
+    product,
+    need
+  ) {
+
+    if (
+      !dependenciesReady()
     ) {
 
       return {
         score: 0,
-        reasons: [],
-        raw: null
+        reasons: []
       };
 
     }
@@ -154,58 +204,87 @@
 
     try {
 
+      const scoring =
+        window.DigiYarProductScoring;
+
+
+      /*
+       * API اصلی فعلی Product Scoring
+       */
+
       if (
-        typeof DigiyarProductScoring.scoreProduct ===
+        typeof scoring.score ===
         "function"
       ) {
 
-        const result =
-          DigiyarProductScoring.scoreProduct(
+        const score =
+          scoring.score(
             product,
             need
           );
 
-        return normalizeScoreResult(result);
+
+        return {
+
+          score:
+            safeNumber(score),
+
+          reasons:
+            []
+
+        };
+
+      }
+
+
+      /*
+       * پشتیبانی از APIهای احتمالی آینده
+       */
+
+      if (
+        typeof scoring.scoreProduct ===
+        "function"
+      ) {
+
+        const result =
+          scoring.scoreProduct(
+            product,
+            need
+          );
+
+
+        return normalizeScoreResult(
+          result
+        );
 
       }
 
 
       if (
-        typeof DigiyarProductScoring.score ===
+        typeof scoring.calculateScore ===
         "function"
       ) {
 
         const result =
-          DigiyarProductScoring.score(
+          scoring.calculateScore(
             product,
             need
           );
 
-        return normalizeScoreResult(result);
 
-      }
-
-
-      if (
-        typeof DigiyarProductScoring.calculateScore ===
-        "function"
-      ) {
-
-        const result =
-          DigiyarProductScoring.calculateScore(
-            product,
-            need
-          );
-
-        return normalizeScoreResult(result);
+        return normalizeScoreResult(
+          result
+        );
 
       }
 
 
       return {
+
         score: 0,
-        reasons: [],
-        raw: null
+
+        reasons: []
+
       };
 
     }
@@ -213,12 +292,15 @@
     catch (error) {
 
       return {
+
         score: 0,
+
         reasons: [],
-        raw: null,
+
         error:
           error.message ||
           String(error)
+
       };
 
     }
@@ -237,13 +319,12 @@
     ) {
 
       return {
+
         score:
           safeNumber(result),
 
-        reasons: [],
-
-        raw:
-          result
+        reasons:
+          []
 
       };
 
@@ -256,9 +337,11 @@
     ) {
 
       return {
+
         score: 0,
-        reasons: [],
-        raw: result
+
+        reasons: []
+
       };
 
     }
@@ -277,7 +360,9 @@
 
 
     if (
-      Array.isArray(result.reasons)
+      Array.isArray(
+        result.reasons
+      )
     ) {
 
       reasons =
@@ -286,7 +371,9 @@
     }
 
     else if (
-      Array.isArray(result.explanations)
+      Array.isArray(
+        result.explanations
+      )
     ) {
 
       reasons =
@@ -301,10 +388,7 @@
         score,
 
       reasons:
-        reasons,
-
-      raw:
-        result
+        reasons
 
     };
 
@@ -312,7 +396,7 @@
 
 
   /* =======================================================
-     Fallback Intelligent Signals
+     Intelligent Signals
      ======================================================= */
 
   function calculateBasicSignals(
@@ -326,7 +410,7 @@
 
 
     /*
-     * Category Match
+     * Category
      */
 
     if (
@@ -348,11 +432,13 @@
 
 
     /*
-     * Budget Match
+     * Budget
      */
 
     const price =
-      safeNumber(product.price);
+      safeNumber(
+        product.price
+      );
 
 
     if (
@@ -399,24 +485,29 @@
 
 
     /*
-     * Usage / Feature Signals
+     * Usage
      */
 
     const productText =
-      JSON.stringify(product)
-        .toLowerCase();
+      JSON.stringify(
+        product
+      ).toLowerCase();
 
 
     if (
-      Array.isArray(need.usage)
+      Array.isArray(
+        need.usage
+      )
     ) {
 
       need.usage.forEach(
         function (usage) {
 
           const normalized =
-            String(usage)
-              .toLowerCase();
+            String(
+              usage || ""
+            ).toLowerCase();
+
 
           if (
             normalized &&
@@ -462,7 +553,9 @@
   ) {
 
     const normalizedProducts =
-      normalizeProducts(products);
+      normalizeProducts(
+        products
+      );
 
 
     const scored =
@@ -485,6 +578,16 @@
               need
             );
 
+
+          /*
+           * Product Scoring مرجع اصلی است.
+           *
+           * اگر امتیاز معتبر داشت:
+           * همان امتیاز استفاده می‌شود.
+           *
+           * در غیر این صورت:
+           * fallback فعال می‌شود.
+           */
 
           const finalScore =
             scoring.score > 0
@@ -522,21 +625,57 @@
 
 
     /*
-     * Stable ranking:
-     * اگر امتیاز برابر بود ترتیب اصلی حفظ می‌شود.
+     * Ranking
      */
 
     scored.sort(
       function (a, b) {
 
         if (
-          b.score !== a.score
+          b.score !==
+          a.score
         ) {
 
-          return b.score - a.score;
+          return (
+            b.score -
+            a.score
+          );
 
         }
 
+
+        /*
+         * در امتیاز برابر:
+         * محصول ارزان‌تر بالاتر
+         */
+
+        const priceA =
+          safeNumber(
+            a.product.price
+          );
+
+
+        const priceB =
+          safeNumber(
+            b.product.price
+          );
+
+
+        if (
+          priceA !== priceB
+        ) {
+
+          return (
+            priceA -
+            priceB
+          );
+
+        }
+
+
+        /*
+         * در نهایت ترتیب اصلی
+         */
 
         return (
           a.originalIndex -
@@ -546,6 +685,10 @@
       }
     );
 
+
+    /*
+     * Rank Number
+     */
 
     scored.forEach(
       function (
@@ -591,16 +734,20 @@
       .map(
         function (item) {
 
+          /*
+           * محصول مستقیماً در خروجی قرار می‌گیرد
+           * تا API ساده و قابل استفاده باشد.
+           */
+
           return {
+
+            ...item.product,
 
             rank:
               item.rank,
 
             score:
               item.score,
-
-            product:
-              item.product,
 
             reasons:
               item.reasons
@@ -619,12 +766,48 @@
 
   function recommend(
     need,
-    products,
-    options
+    productsOrOptions,
+    maybeOptions
   ) {
 
-    const settings =
-      options || {};
+    /*
+     * تشخیص نوع آرگومان دوم
+     *
+     * recommend(need)
+     * recommend(need, products)
+     * recommend(need, options)
+     * recommend(need, products, options)
+     */
+
+    let products = null;
+
+    let options = {};
+
+
+    if (
+      Array.isArray(
+        productsOrOptions
+      )
+    ) {
+
+      products =
+        productsOrOptions;
+
+      options =
+        maybeOptions || {};
+
+    }
+
+    else if (
+      productsOrOptions &&
+      typeof productsOrOptions ===
+        "object"
+    ) {
+
+      options =
+        productsOrOptions;
+
+    }
 
 
     /*
@@ -680,7 +863,7 @@
           VERSION,
 
         status:
-          "waiting_for_need",
+          "waiting_for_answer",
 
         need:
           cloneNeed(need),
@@ -706,17 +889,22 @@
 
 
     /*
-     * Product Guard
+     * Product Source
      */
 
     const normalizedProducts =
-      normalizeProducts(
+      getProducts(
         products
       );
 
 
+    /*
+     * Product Guard
+     */
+
     if (
-      normalizedProducts.length === 0
+      normalizedProducts.length ===
+      0
     ) {
 
       return {
@@ -768,7 +956,7 @@
     const recommendations =
       buildRecommendations(
         rankedProducts,
-        settings.limit ||
+        options.limit ||
         DEFAULT_LIMIT
       );
 
@@ -812,7 +1000,8 @@
      ======================================================= */
 
   function explain(
-    recommendation
+    recommendation,
+    need
   ) {
 
     if (
@@ -823,6 +1012,12 @@
 
     }
 
+
+    /*
+     * حالت استاندارد:
+     *
+     * explain(recommendation)
+     */
 
     if (
       Array.isArray(
@@ -838,6 +1033,39 @@
     }
 
 
+    /*
+     * حالت مستقیم:
+     *
+     * explain(product, need)
+     *
+     * برای تست و استفاده‌های آینده
+     */
+
+    if (
+      need &&
+      recommendation
+    ) {
+
+      const signals =
+        calculateBasicSignals(
+          recommendation,
+          need
+        );
+
+
+      if (
+        signals.reasons.length
+      ) {
+
+        return signals.reasons.join(
+          "؛ "
+        );
+
+      }
+
+    }
+
+
     return (
       "این محصول بر اساس امتیاز تطبیق با نیاز کاربر رتبه‌بندی شده است."
     );
@@ -849,7 +1077,7 @@
      Public API
      ======================================================= */
 
-  const DigiyarSmartRecommendationEngine = {
+  const DigiyarSmartRecommendation = {
 
     version:
       VERSION,
@@ -877,13 +1105,25 @@
      ======================================================= */
 
   if (
-  typeof window !== "undefined"
-) {
+    typeof window !== "undefined"
+  ) {
 
-  window.DigiyarSmartRecommendationEngine =
-    DigiyarSmartRecommendationEngine;
+    /*
+     * نام مورد انتظار Test
+     */
 
-  window.DigiyarSmartRecommendation =
-    DigiyarSmartRecommendationEngine;
+    window.DigiyarSmartRecommendation =
+      DigiyarSmartRecommendation;
+
+
+    /*
+     * نام کامل‌تر برای استفاده آینده
+     */
+
+    window.DigiyarSmartRecommendationEngine =
+      DigiyarSmartRecommendation;
 
   }
+
+
+})();
