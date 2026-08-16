@@ -1,0 +1,823 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  >
+
+  <title>
+    DigiYar V4 — Product Scoring Diagnostic
+  </title>
+
+  <style>
+
+    body {
+      font-family: Tahoma, sans-serif;
+      background: #f5f7fa;
+      padding: 20px;
+      line-height: 1.8;
+    }
+
+    h1 {
+      color: #172033;
+    }
+
+    .summary {
+      padding: 15px;
+      border-radius: 10px;
+      margin-bottom: 20px;
+      font-weight: bold;
+      background: white;
+    }
+
+    .pass {
+      color: #16803c;
+    }
+
+    .fail {
+      color: #c62828;
+    }
+
+    .info {
+      color: #1769aa;
+    }
+
+    .test {
+      background: white;
+      border-radius: 10px;
+      padding: 15px;
+      margin-bottom: 15px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+    }
+
+    pre {
+      direction: ltr;
+      text-align: left;
+      white-space: pre-wrap;
+      background: #f0f2f5;
+      padding: 12px;
+      border-radius: 8px;
+      overflow-x: auto;
+    }
+
+    .small {
+      font-size: 13px;
+      color: #666;
+      word-break: break-all;
+    }
+
+  </style>
+
+</head>
+
+
+<body>
+
+  <h1>
+    تست Diagnostic — Product Scoring Engine V4
+  </h1>
+
+  <p>
+    <strong>
+      Build 10 — Final Diagnostic
+    </strong>
+  </p>
+
+  <div
+    id="summary"
+    class="summary"
+  >
+    در حال بررسی Dependencyها...
+  </div>
+
+  <div id="results"></div>
+
+
+  <!-- =====================================================
+       مهم:
+       Dependencyها باید قبل از کد تست لود شوند.
+       ===================================================== -->
+
+  <script src="./js/product-data.js"></script>
+
+  <script src="./js/product-scoring.js"></script>
+
+
+  <script>
+
+    "use strict";
+
+
+    const results = [];
+
+
+    /* =====================================================
+       Test Helper
+       ===================================================== */
+
+    function addResult(
+      name,
+      passed,
+      data
+    ) {
+
+      results.push({
+
+        name:
+          name,
+
+        passed:
+          passed,
+
+        data:
+          data
+
+      });
+
+    }
+
+
+    /* =====================================================
+       Render Results
+       ===================================================== */
+
+    function renderResults() {
+
+      const container =
+        document.getElementById(
+          "results"
+        );
+
+
+      container.innerHTML = "";
+
+
+      results.forEach(
+        function (
+          test,
+          index
+        ) {
+
+          const div =
+            document.createElement(
+              "div"
+            );
+
+
+          div.className =
+            "test";
+
+
+          div.innerHTML = `
+
+            <h3 class="${
+              test.passed
+                ? "pass"
+                : "fail"
+            }">
+
+              ${
+                test.passed
+                  ? "✅ PASS"
+                  : "❌ FAIL"
+              }
+
+              — بررسی ${index + 1}
+
+            </h3>
+
+
+            <strong>
+              ${test.name}
+            </strong>
+
+
+            <pre>${JSON.stringify(
+              test.data,
+              null,
+              2
+            )}</pre>
+
+          `;
+
+
+          container.appendChild(
+            div
+          );
+
+        }
+      );
+
+
+      const passed =
+        results.filter(
+          function (item) {
+
+            return item.passed;
+
+          }
+        ).length;
+
+
+      const total =
+        results.length;
+
+
+      const summary =
+        document.getElementById(
+          "summary"
+        );
+
+
+      if (
+        passed === total
+      ) {
+
+        summary.className =
+          "summary pass";
+
+
+        summary.innerHTML =
+          `🎉 ALL DIAGNOSTICS PASSED — ${passed} از ${total}`;
+
+      }
+
+      else {
+
+        summary.className =
+          "summary fail";
+
+
+        summary.innerHTML =
+          `⚠️ Diagnostic Result — ${passed} از ${total}`;
+
+      }
+
+    }
+
+
+    /* =====================================================
+       بررسی 1
+       Product Data
+       ===================================================== */
+
+    try {
+
+      const exists =
+        typeof DigiYarProductData !==
+        "undefined";
+
+
+      addResult(
+
+        "وجود DigiYarProductData",
+
+        exists,
+
+        {
+
+          exists:
+            exists,
+
+          type:
+            typeof DigiYarProductData,
+
+          url:
+            window.location.href
+
+        }
+
+      );
+
+    }
+
+    catch (error) {
+
+      addResult(
+
+        "وجود DigiYarProductData",
+
+        false,
+
+        {
+
+          error:
+            error.message ||
+            String(error)
+
+        }
+
+      );
+
+    }
+
+
+    /* =====================================================
+       بررسی 2
+       Product Scoring
+       ===================================================== */
+
+    try {
+
+      const exists =
+        typeof DigiYarProductScoring !==
+        "undefined";
+
+
+      addResult(
+
+        "وجود DigiYarProductScoring",
+
+        exists,
+
+        {
+
+          exists:
+            exists,
+
+          type:
+            typeof DigiYarProductScoring
+
+        }
+
+      );
+
+    }
+
+    catch (error) {
+
+      addResult(
+
+        "وجود DigiYarProductScoring",
+
+        false,
+
+        {
+
+          error:
+            error.message ||
+            String(error)
+
+        }
+
+      );
+
+    }
+
+
+    /* =====================================================
+       بررسی 3
+       Product Data API
+       ===================================================== */
+
+    try {
+
+      const apiReady =
+
+        typeof DigiYarProductData !==
+          "undefined"
+
+        &&
+
+        typeof DigiYarProductData.getAll ===
+          "function"
+
+        &&
+
+        typeof DigiYarProductData.getById ===
+          "function"
+
+        &&
+
+        typeof DigiYarProductData.getByCategory ===
+          "function";
+
+
+      const products =
+        apiReady
+          ? DigiYarProductData.getAll()
+          : [];
+
+
+      addResult(
+
+        "سلامت API مربوط به Product Data",
+
+        apiReady,
+
+        {
+
+          apiReady:
+            apiReady,
+
+          productCount:
+            Array.isArray(products)
+              ? products.length
+              : 0,
+
+          hasGetAll:
+            typeof DigiYarProductData !==
+              "undefined"
+              &&
+            typeof DigiYarProductData.getAll ===
+              "function",
+
+          hasGetById:
+            typeof DigiYarProductData !==
+              "undefined"
+              &&
+            typeof DigiYarProductData.getById ===
+              "function",
+
+          hasGetByCategory:
+            typeof DigiYarProductData !==
+              "undefined"
+              &&
+            typeof DigiYarProductData.getByCategory ===
+              "function"
+
+        }
+
+      );
+
+    }
+
+    catch (error) {
+
+      addResult(
+
+        "سلامت API مربوط به Product Data",
+
+        false,
+
+        {
+
+          error:
+            error.message ||
+            String(error)
+
+        }
+
+      );
+
+    }
+
+
+    /* =====================================================
+       بررسی 4
+       Product Scoring API
+       ===================================================== */
+
+    try {
+
+      const apiReady =
+
+        typeof DigiYarProductScoring !==
+          "undefined"
+
+        &&
+
+        typeof DigiYarProductScoring.score ===
+          "function"
+
+        &&
+
+        typeof DigiYarProductScoring.recommend ===
+          "function";
+
+
+      let score =
+        "unavailable";
+
+
+      let recommend =
+        "unavailable";
+
+
+      if (apiReady) {
+
+        const testNeed = {
+
+          category:
+            "mobile",
+
+          budget: {
+
+            min:
+              null,
+
+            max:
+              15000000
+
+          },
+
+          priorities: [
+
+            "دوربین"
+
+          ],
+
+          requirements: [
+
+            {
+
+              value:
+                "دوربین"
+
+            }
+
+          ],
+
+          constraints: [],
+
+          usage: [],
+
+          ready:
+            true
+
+        };
+
+
+        const testProduct = {
+
+          id:
+            "diagnostic-product",
+
+          name:
+            "Diagnostic Product",
+
+          category:
+            "mobile",
+
+          price:
+            14000000,
+
+          features: [
+
+            "دوربین"
+
+          ]
+
+        };
+
+
+        score =
+          DigiYarProductScoring.score(
+            testProduct,
+            testNeed
+          );
+
+
+        const recommendations =
+          DigiYarProductScoring.recommend(
+            testNeed
+          );
+
+
+        recommend =
+          Array.isArray(
+            recommendations
+          )
+            ? recommendations.length
+            : "invalid";
+
+      }
+
+
+      addResult(
+
+        "سلامت API مربوط به Product Scoring",
+
+        apiReady,
+
+        {
+
+          apiReady:
+            apiReady,
+
+          score:
+            score,
+
+          recommend:
+            recommend,
+
+          hasScore:
+            typeof DigiYarProductScoring !==
+              "undefined"
+              &&
+            typeof DigiYarProductScoring.score ===
+              "function",
+
+          hasRecommend:
+            typeof DigiYarProductScoring !==
+              "undefined"
+              &&
+            typeof DigiYarProductScoring.recommend ===
+              "function"
+
+        }
+
+      );
+
+    }
+
+    catch (error) {
+
+      addResult(
+
+        "سلامت API مربوط به Product Scoring",
+
+        false,
+
+        {
+
+          error:
+            error.message ||
+            String(error),
+
+          stack:
+            error.stack ||
+            ""
+
+        }
+
+      );
+
+    }
+
+
+    /* =====================================================
+       بررسی 5
+       اجرای واقعی روی mobile-002
+       ===================================================== */
+
+    try {
+
+      let product =
+        null;
+
+
+      let score =
+        null;
+
+
+      if (
+        typeof DigiYarProductData !==
+          "undefined"
+        &&
+        typeof DigiYarProductData.getById ===
+          "function"
+      ) {
+
+        product =
+          DigiYarProductData.getById(
+            "mobile-002"
+          );
+
+      }
+
+
+      const need = {
+
+        category:
+          "mobile",
+
+        budget: {
+
+          min:
+            null,
+
+          max:
+            15000000
+
+        },
+
+        usage: [
+
+          "photography"
+
+        ],
+
+        priorities: [
+
+          "دوربین"
+
+        ],
+
+        requirements: [
+
+          {
+
+            value:
+              "دوربین"
+
+          }
+
+        ],
+
+        constraints: [],
+
+        ready:
+          true
+
+      };
+
+
+      if (
+        product
+        &&
+        typeof DigiYarProductScoring !==
+          "undefined"
+        &&
+        typeof DigiYarProductScoring.score ===
+          "function"
+      ) {
+
+        score =
+          DigiYarProductScoring.score(
+            product,
+            need
+          );
+
+      }
+
+
+      const passed =
+
+        product !== null
+
+        &&
+
+        typeof score ===
+          "number"
+
+        &&
+
+        score > 0;
+
+
+      addResult(
+
+        "اجرای واقعی امتیازدهی روی mobile-002",
+
+        passed,
+
+        {
+
+          productFound:
+            product !== null,
+
+          product:
+            product,
+
+          score:
+            score
+
+        }
+
+      );
+
+    }
+
+    catch (error) {
+
+      addResult(
+
+        "اجرای واقعی امتیازدهی روی mobile-002",
+
+        false,
+
+        {
+
+          error:
+            error.message ||
+            String(error),
+
+          stack:
+            error.stack ||
+            ""
+
+        }
+
+      );
+
+    }
+
+
+    /* =====================================================
+       Final Render
+       ===================================================== */
+
+    renderResults();
+
+  </script>
+
+
+</body>
+
+</html>
