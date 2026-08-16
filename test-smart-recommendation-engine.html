@@ -1,0 +1,1114 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  >
+
+  <title>
+    DigiYar V4 — Smart Recommendation Engine Test
+  </title>
+
+  <style>
+
+    body {
+      font-family: Tahoma, sans-serif;
+      background: #f5f7fa;
+      padding: 20px;
+      line-height: 1.8;
+    }
+
+    h1 {
+      color: #172033;
+    }
+
+    .summary {
+      padding: 15px;
+      border-radius: 10px;
+      margin-bottom: 20px;
+      font-weight: bold;
+      background: white;
+    }
+
+    .pass {
+      color: #16803c;
+    }
+
+    .fail {
+      color: #c62828;
+    }
+
+    .test {
+      background: white;
+      border-radius: 10px;
+      padding: 15px;
+      margin-bottom: 15px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+    }
+
+    pre {
+      direction: ltr;
+      text-align: left;
+      white-space: pre-wrap;
+      background: #f0f2f5;
+      padding: 12px;
+      border-radius: 8px;
+      overflow-x: auto;
+    }
+
+  </style>
+
+</head>
+
+
+<body>
+
+  <h1>
+    تست Smart Recommendation Engine — V4
+  </h1>
+
+  <p>
+    <strong>
+      Build 9 — Alpha 1
+    </strong>
+  </p>
+
+  <div
+    id="summary"
+    class="summary"
+  >
+    در حال اجرای تست‌ها...
+  </div>
+
+  <div id="results"></div>
+
+
+  <!-- =====================================================
+       Dependencies
+       ===================================================== -->
+
+  <script src="./js/product-scoring.js"></script>
+
+  <script src="./js/smart-recommendation-engine.js"></script>
+
+
+  <script>
+
+    "use strict";
+
+
+    const results = [];
+
+
+    /* =====================================================
+       Test Helper
+       ===================================================== */
+
+    function addResult(
+      name,
+      passed,
+      data
+    ) {
+
+      results.push({
+
+        name:
+          name,
+
+        passed:
+          passed,
+
+        data:
+          data
+
+      });
+
+    }
+
+
+    /* =====================================================
+       Render Results
+       ===================================================== */
+
+    function renderResults() {
+
+      const container =
+        document.getElementById(
+          "results"
+        );
+
+
+      container.innerHTML = "";
+
+
+      results.forEach(
+        function (
+          test,
+          index
+        ) {
+
+          const div =
+            document.createElement(
+              "div"
+            );
+
+
+          div.className =
+            "test";
+
+
+          div.innerHTML = `
+
+            <h3 class="${
+              test.passed
+                ? "pass"
+                : "fail"
+            }">
+
+              ${
+                test.passed
+                  ? "✅ PASS"
+                  : "❌ FAIL"
+              }
+
+              — سناریو ${index + 1}
+
+            </h3>
+
+
+            <strong>
+              ${test.name}
+            </strong>
+
+
+            <pre>${JSON.stringify(
+              test.data,
+              null,
+              2
+            )}</pre>
+
+          `;
+
+
+          container.appendChild(
+            div
+          );
+
+        }
+      );
+
+
+      const passed =
+        results.filter(
+          function (item) {
+
+            return item.passed;
+
+          }
+        ).length;
+
+
+      const total =
+        results.length;
+
+
+      const summary =
+        document.getElementById(
+          "summary"
+        );
+
+
+      if (
+        passed === total
+      ) {
+
+        summary.className =
+          "summary pass";
+
+
+        summary.innerHTML =
+          `🎉 ALL TESTS PASSED — ${passed} از ${total}`;
+
+      }
+
+      else {
+
+        summary.className =
+          "summary fail";
+
+
+        summary.innerHTML =
+          `⚠️ SOME TESTS FAILED — ${passed} از ${total}`;
+
+      }
+
+    }
+
+
+    /* =====================================================
+       Scenario 1
+       Dependency Check
+       ===================================================== */
+
+    try {
+
+      const dependencies = {
+
+        productScoring:
+          typeof DigiyarProductScoring !==
+          "undefined",
+
+        smartRecommendation:
+          typeof DigiyarSmartRecommendationEngine !==
+          "undefined"
+
+      };
+
+
+      const passed =
+        Object.values(
+          dependencies
+        ).every(
+          Boolean
+        );
+
+
+      addResult(
+
+        "بررسی وجود Product Scoring و Smart Recommendation",
+
+        passed,
+
+        dependencies
+
+      );
+
+    }
+
+    catch (error) {
+
+      addResult(
+
+        "بررسی Dependencyها",
+
+        false,
+
+        {
+          error:
+            error.message ||
+            String(error)
+        }
+
+      );
+
+    }
+
+
+    /* =====================================================
+       Scenario 2
+       Need Readiness
+       ===================================================== */
+
+    try {
+
+      const incompleteNeed = {
+
+        category:
+          "mobile",
+
+        budget:
+          null,
+
+        usage:
+          [],
+
+        ready:
+          false
+
+      };
+
+
+      const completeNeed = {
+
+        category:
+          "mobile",
+
+        budget: {
+
+          max:
+            15000000
+
+        },
+
+        usage: [
+
+          "photography"
+
+        ],
+
+        ready:
+          true
+
+      };
+
+
+      const incomplete =
+        DigiyarSmartRecommendationEngine
+          .isNeedReady(
+            incompleteNeed
+          );
+
+
+      const complete =
+        DigiyarSmartRecommendationEngine
+          .isNeedReady(
+            completeNeed
+          );
+
+
+      const passed =
+
+        incomplete === false
+
+        &&
+
+        complete === true;
+
+
+      addResult(
+
+        "تشخیص صحیح Need ناقص و کامل",
+
+        passed,
+
+        {
+
+          incomplete:
+            incomplete,
+
+          complete:
+            complete
+
+        }
+
+      );
+
+    }
+
+    catch (error) {
+
+      addResult(
+
+        "تشخیص صحیح Need ناقص و کامل",
+
+        false,
+
+        {
+          error:
+            error.message ||
+            String(error)
+        }
+
+      );
+
+    }
+
+
+    /* =====================================================
+       Scenario 3
+       Incomplete Need Guard
+       ===================================================== */
+
+    try {
+
+      const need = {
+
+        category:
+          "mobile",
+
+        budget:
+          null,
+
+        usage:
+          [],
+
+        ready:
+          false
+
+      };
+
+
+      const products = [
+
+        {
+
+          id:
+            "P1",
+
+          name:
+            "گوشی تست",
+
+          category:
+            "mobile",
+
+          price:
+            10000000
+
+        }
+
+      ];
+
+
+      const result =
+        DigiyarSmartRecommendationEngine
+          .recommend(
+            need,
+            products
+          );
+
+
+      const passed =
+
+        result.status ===
+          "waiting_for_need"
+
+        &&
+
+        result.recommendations.length ===
+          0
+
+        &&
+
+        result.count ===
+          0;
+
+
+      addResult(
+
+        "جلوگیری از Recommendation برای Need ناقص",
+
+        passed,
+
+        result
+
+      );
+
+    }
+
+    catch (error) {
+
+      addResult(
+
+        "جلوگیری از Recommendation برای Need ناقص",
+
+        false,
+
+        {
+          error:
+            error.message ||
+            String(error)
+        }
+
+      );
+
+    }
+
+
+    /* =====================================================
+       Scenario 4
+       Product Ranking
+       ===================================================== */
+
+    try {
+
+      const need = {
+
+        category:
+          "mobile",
+
+        budget: {
+
+          max:
+            15000000
+
+        },
+
+        usage: [
+
+          "photography"
+
+        ],
+
+        decisionElements: [
+
+          {
+
+            field:
+              "camera",
+
+            type:
+              "requirement",
+
+            importance:
+              8
+
+          }
+
+        ],
+
+        ready:
+          true
+
+      };
+
+
+      const products = [
+
+        {
+
+          id:
+            "P1",
+
+          name:
+            "گوشی اقتصادی",
+
+          category:
+            "mobile",
+
+          price:
+            8000000,
+
+          features: [
+
+            "battery",
+
+            "basic"
+
+          ]
+
+        },
+
+        {
+
+          id:
+            "P2",
+
+          name:
+            "گوشی مناسب عکاسی",
+
+          category:
+            "mobile",
+
+          price:
+            14000000,
+
+          features: [
+
+            "camera",
+
+            "photography",
+
+            "optical image stabilization"
+
+          ]
+
+        },
+
+        {
+
+          id:
+            "P3",
+
+          name:
+            "گوشی گران",
+
+          category:
+            "mobile",
+
+          price:
+            25000000,
+
+          features: [
+
+            "camera",
+
+            "photography",
+
+            "premium"
+
+          ]
+
+        }
+
+      ];
+
+
+      const result =
+        DigiyarSmartRecommendationEngine
+          .recommend(
+            need,
+            products,
+            {
+              limit:
+                3
+            }
+          );
+
+
+      const topProduct =
+        result.recommendations[0];
+
+
+      const passed =
+
+        result.status ===
+          "recommendations_ready"
+
+        &&
+
+        result.recommendations.length ===
+          3
+
+        &&
+
+        topProduct
+
+        &&
+
+        topProduct.product.id ===
+          "P2";
+
+
+      addResult(
+
+        "رتبه‌بندی هوشمند محصولات بر اساس Need",
+
+        passed,
+
+        {
+
+          status:
+            result.status,
+
+          topProduct:
+            topProduct
+              ? topProduct.product
+              : null,
+
+          recommendations:
+            result.recommendations
+
+        }
+
+      );
+
+    }
+
+    catch (error) {
+
+      addResult(
+
+        "رتبه‌بندی هوشمند محصولات بر اساس Need",
+
+        false,
+
+        {
+          error:
+            error.message ||
+            String(error)
+        }
+
+      );
+
+    }
+
+
+    /* =====================================================
+       Scenario 5
+       Budget Constraint
+       ===================================================== */
+
+    try {
+
+      const need = {
+
+        category:
+          "mobile",
+
+        budget: {
+
+          max:
+            15000000
+
+        },
+
+        usage: [
+
+          "photography"
+
+        ],
+
+        ready:
+          true
+
+      };
+
+
+      const products = [
+
+        {
+
+          id:
+            "UNDER",
+
+          name:
+            "گوشی داخل بودجه",
+
+          category:
+            "mobile",
+
+          price:
+            12000000,
+
+          features: [
+
+            "photography",
+
+            "camera"
+
+          ]
+
+        },
+
+        {
+
+          id:
+            "OVER",
+
+          name:
+            "گوشی خارج بودجه",
+
+          category:
+            "mobile",
+
+          price:
+            30000000,
+
+          features: [
+
+            "photography",
+
+            "camera",
+
+            "premium"
+
+          ]
+
+        }
+
+      ];
+
+
+      const result =
+        DigiyarSmartRecommendationEngine
+          .recommend(
+            need,
+            products,
+            {
+              limit:
+                2
+            }
+          );
+
+
+      const first =
+        result.recommendations[0];
+
+
+      const passed =
+
+        !!first
+
+        &&
+
+        first.product.id ===
+          "UNDER";
+
+
+      addResult(
+
+        "اولویت‌دهی به محصول داخل بودجه",
+
+        passed,
+
+        {
+
+          topProduct:
+            first
+              ? first.product
+              : null,
+
+          recommendations:
+            result.recommendations
+
+        }
+
+      );
+
+    }
+
+    catch (error) {
+
+      addResult(
+
+        "اولویت‌دهی به محصول داخل بودجه",
+
+        false,
+
+        {
+          error:
+            error.message ||
+            String(error)
+        }
+
+      );
+
+    }
+
+
+    /* =====================================================
+       Scenario 6
+       Recommendation Limit
+       ===================================================== */
+
+    try {
+
+      const need = {
+
+        category:
+          "mobile",
+
+        budget: {
+
+          max:
+            15000000
+
+        },
+
+        usage: [
+
+          "photography"
+
+        ],
+
+        ready:
+          true
+
+      };
+
+
+      const products = [
+
+        {
+          id: "P1",
+          name: "محصول ۱",
+          category: "mobile",
+          price: 8000000,
+          features: ["photography"]
+        },
+
+        {
+          id: "P2",
+          name: "محصول ۲",
+          category: "mobile",
+          price: 9000000,
+          features: ["photography"]
+        },
+
+        {
+          id: "P3",
+          name: "محصول ۳",
+          category: "mobile",
+          price: 10000000,
+          features: ["photography"]
+        },
+
+        {
+          id: "P4",
+          name: "محصول ۴",
+          category: "mobile",
+          price: 11000000,
+          features: ["photography"]
+        }
+
+      ];
+
+
+      const result =
+        DigiyarSmartRecommendationEngine
+          .recommend(
+            need,
+            products,
+            {
+              limit:
+                2
+            }
+          );
+
+
+      const passed =
+
+        result.recommendations.length ===
+          2
+
+        &&
+
+        result.totalProducts ===
+          4;
+
+
+      addResult(
+
+        "اعمال صحیح محدودیت تعداد پیشنهادها",
+
+        passed,
+
+        {
+
+          totalProducts:
+            result.totalProducts,
+
+          recommendationCount:
+            result.recommendations.length,
+
+          recommendations:
+            result.recommendations
+
+        }
+
+      );
+
+    }
+
+    catch (error) {
+
+      addResult(
+
+        "اعمال صحیح محدودیت تعداد پیشنهادها",
+
+        false,
+
+        {
+          error:
+            error.message ||
+            String(error)
+        }
+
+      );
+
+    }
+
+
+    /* =====================================================
+       Scenario 7
+       Explanation
+       ===================================================== */
+
+    try {
+
+      const recommendation = {
+
+        rank:
+          1,
+
+        score:
+          90,
+
+        reasons: [
+
+          "قیمت محصول در محدوده بودجه قرار دارد",
+
+          "ویژگی‌های محصول با کاربرد موردنظر کاربر همخوانی دارد"
+
+        ]
+
+      };
+
+
+      const explanation =
+        DigiyarSmartRecommendationEngine
+          .explain(
+            recommendation
+          );
+
+
+      const passed =
+
+        typeof explanation ===
+          "string"
+
+        &&
+
+        explanation.includes(
+          "بودجه"
+        )
+
+        &&
+
+        explanation.includes(
+          "کاربرد"
+        );
+
+
+      addResult(
+
+        "تولید توضیح قابل استفاده برای پیشنهاد",
+
+        passed,
+
+        {
+
+          explanation:
+            explanation
+
+        }
+
+      );
+
+    }
+
+    catch (error) {
+
+      addResult(
+
+        "تولید توضیح قابل استفاده برای پیشنهاد",
+
+        false,
+
+        {
+          error:
+            error.message ||
+            String(error)
+        }
+
+      );
+
+    }
+
+
+    /* =====================================================
+       Render
+       ===================================================== */
+
+    renderResults();
+
+  </script>
+
+</body>
+
+  </html>
