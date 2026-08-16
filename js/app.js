@@ -1,7 +1,6 @@
 /* =========================================================
    DigiYar V4
    Main Application
-   V3 UI + V4 Smart Recommendation Core
    ========================================================= */
 
 (function () {
@@ -25,11 +24,13 @@
       function (character) {
 
         const entities = {
+
           "&": "&amp;",
           "<": "&lt;",
           ">": "&gt;",
           '"': "&quot;",
           "'": "&#039;"
+
         };
 
         return entities[character];
@@ -220,208 +221,7 @@
 
 
   /* =======================================================
-     Recommendation Explanation
-     ======================================================= */
-
-  function getExplanation(
-    product,
-    need
-  ) {
-
-    if (
-      window.DigiyarSmartRecommendation &&
-      typeof
-        DigiyarSmartRecommendation.explain ===
-        "function"
-    ) {
-
-      return DigiyarSmartRecommendation
-        .explain(
-          product,
-          need
-        );
-
-    }
-
-    return "";
-
-  }
-
-
-  /* =======================================================
-     Render Recommendations
-     ======================================================= */
-
-  function renderRecommendations(
-    recommendations,
-    need
-  ) {
-
-    const recommendationsBox =
-      $("recommendations");
-
-    if (!recommendationsBox) {
-      return;
-    }
-
-
-    if (
-      !Array.isArray(
-        recommendations
-      ) ||
-      !recommendations.length
-    ) {
-
-      recommendationsBox.innerHTML = `
-
-        <div class="need-summary">
-
-          برای این نیاز هنوز
-          پیشنهاد مناسبی پیدا نکردیم.
-
-        </div>
-
-      `;
-
-      return;
-
-    }
-
-
-    recommendationsBox.innerHTML =
-      recommendations.map(
-        function (product) {
-
-          const features =
-            Array.isArray(
-              product.features
-            )
-              ? product.features
-              : [];
-
-
-          const reasons =
-            Array.isArray(
-              product.reasons
-            )
-              ? product.reasons
-              : [];
-
-
-          const explanation =
-            getExplanation(
-              product,
-              need
-            );
-
-
-          const price =
-            product.price != null
-
-              ? new Intl.NumberFormat(
-                  "fa-IR"
-                ).format(
-                  product.price
-                ) + " تومان"
-
-              : "قیمت نامشخص";
-
-
-          const productUrl =
-            product.productUrl ||
-            product.url ||
-            "#";
-
-
-          return `
-
-            <article
-              class="recommendation"
-            >
-
-              <div class="score">
-                ${escapeHTML(
-                  product.score ?? 0
-                )}%
-              </div>
-
-
-              <h3>
-                ${escapeHTML(
-                  product.name ||
-                  "محصول پیشنهادی"
-                )}
-              </h3>
-
-
-              <p>
-                ${escapeHTML(
-                  price
-                )}
-              </p>
-
-
-              ${
-                features.length
-                  ? `
-                    <p>
-                      ${escapeHTML(
-                        features.join("، ")
-                      )}
-                    </p>
-                  `
-                  : ""
-              }
-
-
-              ${
-                reasons.length
-                  ? `
-                    <p>
-                      ${escapeHTML(
-                        reasons.join("؛ ")
-                      )}
-                    </p>
-                  `
-                  : ""
-              }
-
-
-              ${
-                explanation
-                  ? `
-                    <p>
-                      ${escapeHTML(
-                        explanation
-                      )}
-                    </p>
-                  `
-                  : ""
-              }
-
-
-              <a
-                href="${escapeHTML(
-                  productUrl
-                )}"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                مشاهده فروشگاه
-              </a>
-
-            </article>
-
-          `;
-
-        }
-      ).join("");
-
-  }
-
-
-  /* =======================================================
-     Profile + Need + Smart Recommendation
+     Profile Rendering
      ======================================================= */
 
   function renderProfile(profile) {
@@ -466,43 +266,14 @@
     }
 
 
-    /* =====================================================
-       V4 Core Dependency Check
-       ===================================================== */
-
     if (
       !window.DigiYarNeedEngine
     ) {
 
-      needSummary.textContent =
-        "Need Engine در دسترس نیست.";
-
-      recommendationsBox.innerHTML =
-        "";
-
       return;
 
     }
 
-
-    if (
-      !window.DigiyarSmartRecommendation
-    ) {
-
-      needSummary.textContent =
-        "Smart Recommendation Engine در دسترس نیست.";
-
-      recommendationsBox.innerHTML =
-        "";
-
-      return;
-
-    }
-
-
-    /* =====================================================
-       Profile → Need
-       ===================================================== */
 
     const need =
       DigiYarNeedEngine
@@ -510,10 +281,6 @@
           profile
         );
 
-
-    /* =====================================================
-       Need Summary
-       ===================================================== */
 
     const budget =
       need.budget &&
@@ -560,8 +327,7 @@
 
       دسته:
       ${escapeHTML(
-        need.category ||
-        "تعیین نشده"
+        need.category || "تعیین نشده"
       )}
 
       |
@@ -590,42 +356,57 @@
 
 
     /* =====================================================
-       V4 Smart Recommendation
-       ===================================================== */
-
-    const result =
-      DigiyarSmartRecommendation
-        .recommend(
-          need,
-          {
-            limit: 3
-          }
-        );
-
-
-    /* =====================================================
-       Waiting For More Information
+       Smart Recommendation Engine
        ===================================================== */
 
     if (
-      result &&
-      result.status ===
-        "waiting_for_answer"
+      !window.DigiyarSmartRecommendation
     ) {
+
+      recommendationsBox.innerHTML =
+        "";
+
+      resultHint.textContent =
+        "موتور پیشنهاد هوشمند در دسترس نیست.";
+
+      return;
+
+    }
+
+
+    const recommendationResult =
+      DigiyarSmartRecommendation
+        .recommend(
+          need
+        );
+
+
+    const recommendations =
+      recommendationResult &&
+      Array.isArray(
+        recommendationResult.recommendations
+      )
+
+        ? recommendationResult.recommendations
+
+        : [];
+
+
+    if (!recommendations.length) {
 
       recommendationsBox.innerHTML = `
 
         <div class="need-summary">
 
-          برای پیشنهاد دقیق‌تر،
-          اطلاعات بیشتری درباره نیازت لازم است.
+          برای این نیاز هنوز
+          پیشنهاد مناسبی پیدا نشد.
 
         </div>
 
       `;
 
       resultHint.textContent =
-        "هنوز نیاز خرید کامل نشده است.";
+        "اطلاعات بیشتری وارد کن تا پیشنهادهای دقیق‌تری ساخته شود.";
 
       return;
 
@@ -633,37 +414,139 @@
 
 
     /* =====================================================
-       Recommendations Ready
+       Render Recommendations
+       فقط Explanation نمایش داده می‌شود.
+       reasons دیگر جداگانه نمایش داده نمی‌شود.
        ===================================================== */
 
-    const recommendations =
-      result &&
-      Array.isArray(
-        result.recommendations
-      )
-        ? result.recommendations
-        : [];
+    recommendationsBox.innerHTML =
+      recommendations.map(
+        function (product) {
+
+          const features =
+            Array.isArray(
+              product.features
+            )
+              ? product.features
+              : [];
 
 
-    renderRecommendations(
-      recommendations,
-      need
-    );
+          const price =
+            product.price != null
+
+              ? new Intl.NumberFormat(
+                  "fa-IR"
+                ).format(
+                  product.price
+                ) + " تومان"
+
+              : "قیمت نامشخص";
 
 
-    if (
-      recommendations.length
-    ) {
+          let explanation = "";
 
-      resultHint.textContent =
-        "پیشنهادها بر اساس Need، بودجه، اولویت‌ها و امتیاز هوشمند مرتب شده‌اند.";
 
-    } else {
+          if (
+            typeof product.explanation ===
+            "string" &&
+            product.explanation.trim()
+          ) {
 
-      resultHint.textContent =
-        "برای این نیاز هنوز پیشنهاد مناسبی پیدا نشد.";
+            explanation =
+              product.explanation;
 
-    }
+          } else if (
+            typeof DigiyarSmartRecommendation
+              .explain === "function"
+          ) {
+
+            explanation =
+              DigiyarSmartRecommendation
+                .explain(
+                  product,
+                  need
+                );
+
+          }
+
+
+          return `
+
+            <article
+              class="recommendation"
+            >
+
+              <div class="score">
+                ${escapeHTML(
+                  product.score ?? 0
+                )}%
+              </div>
+
+
+              <h3>
+                ${escapeHTML(
+                  product.name
+                )}
+              </h3>
+
+
+              <p>
+                ${escapeHTML(
+                  price
+                )}
+              </p>
+
+
+              <p>
+                ${escapeHTML(
+                  features.join("، ")
+                )}
+              </p>
+
+
+              ${
+                explanation
+                  ? `
+                    <p class="recommendation-explanation">
+
+                      <strong>
+                        چرا این محصول پیشنهاد شد؟
+                      </strong>
+
+                      <br>
+
+                      ${escapeHTML(
+                        explanation
+                      )}
+
+                    </p>
+                  `
+                  : ""
+              }
+
+
+              <a
+                href="${escapeHTML(
+                  product.productUrl ||
+                  product.url ||
+                  "#"
+                )}"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                مشاهده فروشگاه
+              </a>
+
+            </article>
+
+          `;
+
+        }
+      ).join("");
+
+
+    resultHint.textContent =
+      "پیشنهادها بر اساس Need، بودجه، اولویت‌ها و امتیاز هوشمند مرتب شده‌اند.";
 
   }
 
