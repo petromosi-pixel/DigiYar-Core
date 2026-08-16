@@ -40,50 +40,60 @@
 
 </head>
 
-
 <body>
 
-  <!-- Splash Screen -->
+  <!-- =====================================================
+       Splash Screen
+       ===================================================== -->
 
-  <div id="splashScreen" class="splash-screen">
+  <div
+    id="splashScreen"
+    class="splash-screen"
+  >
 
-  <div class="splash-content">
+    <div class="splash-content">
 
-    <div class="splash-logo-wrap">
+      <div class="splash-logo-wrap">
 
-      <img
-        class="splash-logo"
-        src="./icon/icon-512.png"
-        alt="DigiYar"
-      >
+        <img
+          class="splash-logo"
+          src="./icon/icon-512.png"
+          alt="DigiYar"
+        >
 
-    </div>
+      </div>
 
-    <div class="splash-brand">
+      <div class="splash-brand">
 
-      <h1>دیجی‌یار</h1>
+        <h1>
+          دیجی‌یار
+        </h1>
 
-      <p>
-        دستیار هوشمندِ خرید اینترنتی تو
-      </p>
+        <p>
+          دستیار هوشمندِ خرید اینترنتی تو
+        </p>
 
-    </div>
+      </div>
 
-    <div class="splash-loader">
-      <span></span>
+      <div class="splash-loader">
+        <span></span>
+      </div>
+
     </div>
 
   </div>
 
-  </div>
 
-
-  <!-- Main Application -->
+  <!-- =====================================================
+       Main Application
+       ===================================================== -->
 
   <main class="app-shell">
 
 
-    <!-- Header -->
+    <!-- ===================================================
+         Header
+         =================================================== -->
 
     <header class="main-header">
 
@@ -101,61 +111,64 @@
 
         </div>
 
-        <!-- PWA Install Notification -->
 
-<div
-  id="installPrompt"
-  class="install-prompt hidden"
-  role="dialog"
-  aria-label="نصب دیجی‌یار"
->
+        <!-- PWA Install -->
 
-  <div class="install-prompt-icon">
+        <div
+          id="installPrompt"
+          class="install-prompt hidden"
+          role="dialog"
+          aria-label="نصب دیجی‌یار"
+        >
 
-    <img
-      src="icon/icon-512.png"
-      alt="دیجی‌یار"
-    >
+          <div class="install-prompt-icon">
 
-  </div>
+            <img
+              src="icon/icon-512.png"
+              alt="دیجی‌یار"
+            >
 
-  <div class="install-prompt-content">
+          </div>
 
-    <strong>
-      دیجی‌یار را نصب کن
-    </strong>
+          <div class="install-prompt-content">
 
-    <span>
-      دستیار خرید هوشمندت همیشه در دسترس تو
-    </span>
+            <strong>
+              دیجی‌یار را نصب کن
+            </strong>
 
-  </div>
+            <span>
+              دستیار خرید هوشمندت همیشه در دسترس تو
+            </span>
 
-  <button
-    id="installBtn"
-    class="install-prompt-button"
-    type="button"
-  >
-    نصب
-  </button>
+          </div>
 
-  <button
-    id="installDismiss"
-    class="install-prompt-close"
-    type="button"
-    aria-label="بستن"
-  >
-    ×
-  </button>
+          <button
+            id="installBtn"
+            class="install-prompt-button"
+            type="button"
+          >
+            نصب
+          </button>
 
-</div>
+          <button
+            id="installDismiss"
+            class="install-prompt-close"
+            type="button"
+            aria-label="بستن"
+          >
+            ×
+          </button>
+
+        </div>
 
       </div>
 
     </header>
 
 
-    <!-- Profile -->
+    <!-- ===================================================
+         Profile / Shopping Assistant
+         =================================================== -->
 
     <section class="card profile-card">
 
@@ -163,12 +176,16 @@
 
         <div>
 
+          <span class="section-kicker">
+            SHOPPING ASSISTANT
+          </span>
+
           <h2>
-            پروفایل خرید
+            دقیقاً دنبال چه چیزی هستی؟
           </h2>
 
           <p>
-            اطلاعات زیر رو کامل کن تا پیشنهادات هوشمندتری دریافت کنی
+            چند اطلاعات کوتاه بده تا دیجی‌یار بهترین گزینه‌ها را برایت پیدا کند.
           </p>
 
         </div>
@@ -180,6 +197,8 @@
 
         <div class="form-grid">
 
+
+          <!-- Category -->
 
           <label>
 
@@ -208,6 +227,8 @@
           </label>
 
 
+          <!-- Budget -->
+
           <label>
 
             حداکثر بودجه
@@ -218,7 +239,7 @@
               min="0"
               max="500000000"
               step="100000"
-              placeholder="مثلاً 15000000"
+              placeholder="مثلاً 25000000"
             >
 
             <small class="input-hint">
@@ -228,9 +249,11 @@
           </label>
 
 
+          <!-- Priorities -->
+
           <label class="full">
 
-            اولویت‌ها
+            مهم‌ترین اولویتت چیست؟
 
             <input
               id="priorities"
@@ -240,6 +263,8 @@
 
           </label>
 
+
+          <!-- Usage -->
 
           <label class="full">
 
@@ -254,6 +279,8 @@
           </label>
 
 
+          <!-- Requirements -->
+
           <label class="full">
 
             نیازهای ضروری
@@ -266,6 +293,8 @@
 
           </label>
 
+
+          <!-- Constraints -->
 
           <label class="full">
 
@@ -280,13 +309,15 @@
           </label>
 
 
+          <!-- Actions -->
+
           <div class="form-actions full">
 
             <button
               class="primary"
               type="submit"
             >
-              ساخت پروفایل و پیشنهاد
+              🎯 پیدا کردن بهترین گزینه
             </button>
 
             <button
@@ -311,7 +342,9 @@
     </section>
 
 
-    <!-- Results -->
+    <!-- ===================================================
+         V4 Recommendation Results
+         =================================================== -->
 
     <section
       id="resultSection"
@@ -322,12 +355,16 @@
 
         <div>
 
+          <span class="section-kicker">
+            SMART RECOMMENDATION
+          </span>
+
           <h2>
             پیشنهادهای دیجی‌یار
           </h2>
 
           <p id="resultHint">
-            برای شروع اطلاعات خریدت را وارد کن.
+            اطلاعات خریدت را وارد کن تا بهترین گزینه را پیدا کنیم.
           </p>
 
         </div>
@@ -335,23 +372,54 @@
       </div>
 
 
+      <!-- Need Summary -->
+
       <div
         id="needSummary"
         class="need-summary empty"
       >
-        هنوز پروفایل خرید ساخته نشده است.
+
+        <div class="need-summary-title">
+          🎯 نیاز خرید شما
+        </div>
+
+        <div class="need-summary-content">
+          هنوز پروفایل خرید ساخته نشده است.
+        </div>
+
       </div>
 
+
+      <!-- Best Match -->
+
+      <div
+        id="bestRecommendation"
+        class="best-recommendation"
+      ></div>
+
+
+      <!-- Alternative Recommendations -->
+
+      <div
+        id="alternativeRecommendations"
+        class="alternative-recommendations"
+      ></div>
+
+
+      <!-- Backward-compatible container -->
 
       <div
         id="recommendations"
         class="recommendations"
+        aria-hidden="true"
       ></div>
 
     </section>
 
 
-    <!-- Shopping Platforms -->
+    <!-- ===================================================
+         Shopping Platforms
+         =================================================== -->
 
     <section class="card platforms-card">
 
@@ -380,6 +448,10 @@
     </section>
 
 
+    <!-- ===================================================
+         Footer
+         =================================================== -->
+
     <footer>
       دیجی‌یار — پلتفرم هوشمند برای تجربه بهترین خرید اینترنتی
     </footer>
@@ -387,15 +459,30 @@
 
   </main>
 
-  <script src="./js/product-data.js"></script>
-<script src="./js/product-retrieval.js"></script>
-<script src="./js/search-engine.js"></script>
-<script src="./js/product-scoring.js"></script>
-<script src="./js/smart-recommendation-engine.js"></script>
-<script src="./js/user-profile.js"></script>
-<script src="./js/need-engine.js"></script>
-<script src="./js/platforms.js"></script>
-<script src="./js/app.js"></script>
+
+  <!-- =====================================================
+       DigiYar Core
+       ترتیب بارگذاری مهم است.
+       ===================================================== -->
+
+  <script src="js/product-data.js"></script>
+
+  <script src="js/product-retrieval.js"></script>
+
+  <script src="js/search-engine.js"></script>
+
+  <script src="js/product-scoring.js"></script>
+
+  <script src="js/smart-recommendation-engine.js"></script>
+
+  <script src="js/user-profile.js"></script>
+
+  <script src="js/need-engine.js"></script>
+
+  <script src="js/platforms.js"></script>
+
+  <script src="js/app.js"></script>
 
 </body>
+
 </html>
