@@ -1,6 +1,7 @@
 /* =========================================================
-   DigiYar V3
+   DigiYar V4
    Main Application
+   Core Integration
    ========================================================= */
 
 (function () {
@@ -73,14 +74,6 @@
   }
 
 
-  /*
-   * Splash حداقل 3.2 ثانیه نمایش داده می‌شود.
-   *
-   * حداکثر حدود 4.5 ثانیه بعد،
-   * حتی اگر load event مشکل داشته باشد،
-   * Splash بسته خواهد شد.
-   */
-
   const splashStartedAt =
     performance.now();
 
@@ -127,14 +120,6 @@
 
   }
 
-
-  /*
-   * Fail-safe
-   *
-   * اگر load event یا بخشی از فرآیند
-   * به هر دلیل گیر کرد، Splash
-   * بیشتر از MAX_SPLASH_TIME باقی نمی‌ماند.
-   */
 
   setTimeout(
     function () {
@@ -237,6 +222,89 @@
 
 
   /* =======================================================
+     Product Retrieval Adapter
+     ======================================================= */
+
+  function retrieveProducts(need) {
+
+    let products = [];
+
+
+    /*
+     * اول تلاش برای استفاده از Product Retrieval
+     */
+
+    if (
+      window.DigiYarProductRetrieval
+    ) {
+
+      try {
+
+        if (
+          typeof DigiYarProductRetrieval.search ===
+          "function"
+        ) {
+
+          products =
+            DigiYarProductRetrieval.search(
+              need.category
+            );
+
+        }
+
+      }
+
+      catch (error) {
+
+        console.warn(
+          "DigiYar Product Retrieval:",
+          error
+        );
+
+        products = [];
+
+      }
+
+    }
+
+
+    /*
+     * Fallback به Product Data محلی
+     *
+     * این بخش عمداً باقی می‌ماند تا اگر
+     * Retrieval خارجی در دسترس نبود،
+     * هسته پیشنهاددهی متوقف نشود.
+     */
+
+    if (
+      !Array.isArray(products) ||
+      !products.length
+    ) {
+
+      if (
+        window.DigiYarProductData &&
+        typeof DigiYarProductData.getByCategory ===
+          "function"
+      ) {
+
+        products =
+          DigiYarProductData.getByCategory(
+            need.category
+          );
+
+      }
+
+    }
+
+
+    return Array.isArray(products)
+      ? products
+      : [];
+
+  }
+
+
+  /* =======================================================
      Profile Rendering
      ======================================================= */
 
@@ -263,6 +331,10 @@
     }
 
 
+    /* =====================================================
+       No Profile
+       ===================================================== */
+
     if (!profile) {
 
       needSummary.className =
@@ -282,14 +354,47 @@
     }
 
 
+    /* =====================================================
+       Need Engine Check
+       ===================================================== */
+
     if (
       !window.DigiYarNeedEngine
     ) {
+
+      recommendationsBox.innerHTML =
+        "";
+
+      resultHint.textContent =
+        "Need Engine در دسترس نیست.";
 
       return;
 
     }
 
+
+    /* =====================================================
+       Smart Recommendation Check
+       ===================================================== */
+
+    if (
+      !window.DigiyarSmartRecommendationEngine
+    ) {
+
+      recommendationsBox.innerHTML =
+        "";
+
+      resultHint.textContent =
+        "Smart Recommendation Engine در دسترس نیست.";
+
+      return;
+
+    }
+
+
+    /* =====================================================
+       Build Need
+       ===================================================== */
 
     const need =
       DigiYarNeedEngine
@@ -297,6 +402,10 @@
           profile
         );
 
+
+    /* =====================================================
+       Need Summary
+       ===================================================== */
 
     const budget =
       need.budget &&
@@ -341,6 +450,15 @@
 
       <br>
 
+      وضعیت:
+      ${escapeHTML(
+        need.ready
+          ? "آماده پیشنهاد"
+          : "نیازمند اطلاعات بیشتر"
+      )}
+
+      <br>
+
       دسته:
       ${escapeHTML(
         need.category || "تعیین نشده"
@@ -371,38 +489,20 @@
     `;
 
 
-    if (
-      !window.DigiYarProductScoring
-    ) {
-
-      recommendationsBox.innerHTML =
-        "";
-
-      return;
-
-    }
-
-
-    const recommendations =
-      DigiYarProductScoring
-        .recommend(
-          need
-        );
-
+    /* =====================================================
+       Incomplete Need Guard
+       ===================================================== */
 
     if (
-      !Array.isArray(
-        recommendations
-      ) ||
-      !recommendations.length
+      !need.ready
     ) {
 
       recommendationsBox.innerHTML = `
 
         <div class="need-summary">
 
-          برای این دسته محصول هنوز
-          پیشنهاد نمونه‌ای نداریم.
+          برای ارائه پیشنهاد دقیق،
+          اطلاعات بیشتری از نیازت لازم است.
 
         </div>
 
@@ -416,84 +516,257 @@
     }
 
 
+    /* =====================================================
+       Product Retrieval
+       ===================================================== */
+
+    const retrievedProducts =
+      retrieveProducts(
+        need
+      );
+
+
+    if (
+      !retrievedProducts.length
+    ) {
+
+      recommendationsBox.innerHTML = `
+
+        <div class="need-summary">
+
+          برای این دسته محصول،
+          محصولی برای بررسی پیدا نشد.
+
+        </div>
+
+      `;
+
+      resultHint.textContent =
+        "فعلاً محصولی برای این نیاز در دسترس نیست.";
+
+      return;
+
+    }
+
+
+    /* =====================================================
+       Smart Recommendation
+       ===================================================== */
+
+    let result;
+
+
+    try {
+
+      result =
+        DigiyarSmartRecommendationEngine
+          .recommend(
+            need,
+            retrievedProducts
+          );
+
+    }
+
+    catch (error) {
+
+      console.error(
+        "DigiYar Smart Recommendation:",
+        error
+      );
+
+      recommendationsBox.innerHTML = `
+
+        <div class="need-summary">
+
+          در پردازش پیشنهادها خطایی رخ داد.
+
+        </div>
+
+      `;
+
+      resultHint.textContent =
+        "لطفاً دوباره تلاش کن.";
+
+      return;
+
+    }
+
+
+    /* =====================================================
+       Recommendation Guard
+       ===================================================== */
+
+    if (
+      !result ||
+      result.status !==
+        "recommendations_ready" ||
+      !Array.isArray(
+        result.recommendations
+      ) ||
+      !result.recommendations.length
+    ) {
+
+      recommendationsBox.innerHTML = `
+
+        <div class="need-summary">
+
+          برای این نیاز هنوز
+          پیشنهاد مناسبی پیدا نشد.
+
+        </div>
+
+      `;
+
+      resultHint.textContent =
+        "با تغییر بودجه یا اولویت‌ها دوباره امتحان کن.";
+
+      return;
+
+    }
+
+
+    /* =====================================================
+       Render Recommendations
+       ===================================================== */
+
     recommendationsBox.innerHTML =
-      recommendations.map(
-        function (product) {
+      result.recommendations
+        .map(
+          function (recommendation) {
 
-          const features =
-            Array.isArray(
-              product.features
-            )
-              ? product.features
-              : [];
+            const product =
+              recommendation.product ||
+              recommendation;
 
 
-          const price =
-            product.price != null
-
-              ? new Intl.NumberFormat(
-                  "fa-IR"
-                ).format(
-                  product.price
-                ) + " تومان"
-
-              : "قیمت نامشخص";
+            const features =
+              Array.isArray(
+                product.features
+              )
+                ? product.features
+                : [];
 
 
-          return `
-
-            <article
-              class="recommendation"
-            >
-
-              <div class="score">
-                ${escapeHTML(
-                  product.score ?? 0
-                )}%
-              </div>
+            const reasons =
+              Array.isArray(
+                recommendation.reasons
+              )
+                ? recommendation.reasons
+                : [];
 
 
-              <h3>
-                ${escapeHTML(
-                  product.name
-                )}
-              </h3>
+            const price =
+              product.price != null
+
+                ? new Intl.NumberFormat(
+                    "fa-IR"
+                  ).format(
+                    product.price
+                  ) + " تومان"
+
+                : "قیمت نامشخص";
 
 
-              <p>
-                ${escapeHTML(
-                  price
-                )}
-              </p>
+            const score =
+              recommendation.score ??
+              product.score ??
+              0;
 
 
-              <p>
-                ${escapeHTML(
-                  features.join("، ")
-                )}
-              </p>
+            const rank =
+              recommendation.rank ??
+              product.rank ??
+              "";
 
 
-              <a
-                href="${escapeHTML(
-                  product.url || "#"
-                )}"
-                target="_blank"
-                rel="noopener noreferrer"
+            const productUrl =
+              product.productUrl ||
+              product.url ||
+              "#";
+
+
+            return `
+
+              <article
+                class="recommendation"
               >
-                مشاهده فروشگاه
-              </a>
 
-            </article>
+                <div class="score">
+                  ${escapeHTML(
+                    score
+                  )}%
+                </div>
 
-          `;
 
-        }
-      ).join("");
+                <div class="recommendation-rank">
+                  ${
+                    rank
+                      ? "پیشنهاد " +
+                        escapeHTML(rank)
+                      : ""
+                  }
+                </div>
 
+
+                <h3>
+                  ${escapeHTML(
+                    product.name
+                  )}
+                </h3>
+
+
+                <p>
+                  ${escapeHTML(
+                    price
+                  )}
+                </p>
+
+
+                <p>
+                  ${escapeHTML(
+                    features.join("، ")
+                  )}
+                </p>
+
+
+                ${
+                  reasons.length
+                    ? `
+                      <p>
+                        ${escapeHTML(
+                          reasons.join("؛ ")
+                        )}
+                      </p>
+                    `
+                    : ""
+                }
+
+
+                <a
+                  href="${escapeHTML(
+                    productUrl
+                  )}"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  مشاهده فروشگاه
+                </a>
+
+              </article>
+
+            `;
+
+          }
+        )
+        .join("");
+
+
+    /* =====================================================
+       Result Hint
+       ===================================================== */
 
     resultHint.textContent =
-      "نتیجه بر اساس پروفایل فعلی محاسبه شده است.";
+      "پیشنهادها بر اساس نیاز، بودجه و امتیاز تطبیق محصول رتبه‌بندی شده‌اند.";
 
   }
 
@@ -771,21 +1044,12 @@
     "beforeinstallprompt",
     function (event) {
 
-      /*
-       * جلوگیری از نمایش خودکار
-       * پنجره نصب مرورگر
-       */
-
       event.preventDefault();
 
 
       deferredInstallPrompt =
         event;
 
-
-      /*
-       * نمایش نوتیفیکیشن اختصاصی DigiYar
-       */
 
       if (installPrompt) {
 
