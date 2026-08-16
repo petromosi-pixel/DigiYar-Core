@@ -168,14 +168,135 @@
   }
 
 
+/* =======================================================
+   Splash Screen — V4
+   ======================================================= */
+
+const splashScreen =
+  $("splashScreen");
+
+let splashClosed =
+  false;
+
+const splashStartedAt =
+  performance.now();
+
+const MIN_SPLASH_TIME =
+  2500;
+
+const MAX_SPLASH_TIME =
+  3500;
+
+
+function hideSplash() {
+
+  if (splashClosed) {
+    return;
+  }
+
+  splashClosed = true;
+
+
+  if (!splashScreen) {
+    return;
+  }
+
+
+  splashScreen.classList.add(
+    "splash-hidden"
+  );
+
+
   /*
-   * Fail-safe نهایی
+   * بعد از fade-out، عنصر کاملاً
+   * از DOM خارج می‌شود.
    */
 
   setTimeout(
-    hideSplash,
-    MAX_SPLASH_TIME
+    function () {
+
+      if (
+        splashScreen &&
+        splashScreen.parentNode
+      ) {
+
+        splashScreen.parentNode
+          .removeChild(
+            splashScreen
+          );
+
+      }
+
+    },
+    700
   );
+
+}
+
+
+function finishSplash() {
+
+  if (splashClosed) {
+    return;
+  }
+
+
+  const elapsed =
+    performance.now() -
+    splashStartedAt;
+
+
+  const remaining =
+    Math.max(
+      0,
+      MIN_SPLASH_TIME -
+      elapsed
+    );
+
+
+  setTimeout(
+    hideSplash,
+    remaining
+  );
+
+}
+
+
+/*
+ * دیگر به window.load وابسته نیستیم.
+ */
+
+if (
+  document.readyState ===
+  "loading"
+) {
+
+  document.addEventListener(
+    "DOMContentLoaded",
+    finishSplash,
+    {
+      once: true
+    }
+  );
+
+} else {
+
+  finishSplash();
+
+}
+
+
+/*
+ * Fail-safe مطلق
+ *
+ * حتی اگر هر چیز دیگری خراب شود،
+ * Splash حداکثر ۳.۵ ثانیه می‌ماند.
+ */
+
+setTimeout(
+  hideSplash,
+  MAX_SPLASH_TIME
+);
 
 
   /* =======================================================
