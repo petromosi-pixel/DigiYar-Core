@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  >
+
+  <title>
+    DigiYar V4 — Product Scoring Engine Test
+  </title>
+
+  <style>
+
+    body {
+      font-family: Tahoma, sans-serif;
+      background: #f5f7fa;
+      padding: 20px;
+      line-height: 1.8;
+    }
+
+    h1 {
+      color: #172033;
+    }
+
+    .summary {
+      padding: 15px;
+      border-radius: 10px;
+      margin-bottom: 20px;
+      font-weight: bold;
+      background: white;
+    }
+
+    .pass {
+      color: #16803c;
+    }
+
+    .fail {
+      color: #c62828;
+    }
+
+    .test {
+      background: white;
+      border-radius: 10px;
+      padding: 15px;
+      margin-bottom: 15px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+    }
+
+    pre {
+      direction: ltr;
+      text-align: left;
+      white-space: pre-wrap;
+      background: #f0f2f5;
+      padding: 12px;
+      border-radius: 8px;
+      overflow-x: auto;
+    }
+
+  </style>
+
+</head>
+
+
+<body>
+
+  <h1>
+    تست Product Scoring Engine — V4
+  </h1>
+
+  <p>
+    <strong>
+      Build 10 — Scoring Validation
+    </strong>
+  </p>
+
+  <div
+    id="summary"
+    class="summary"
+  >
+    در حال اجرای تست‌ها...
+  </div>
+
+  <div id="results"></div>
+
+
+  <!-- =====================================================
+       Dependencies
+       ===================================================== -->
+
+  <script src="./js/product-data.js"></script>
+
+  <script src="./js/product-scoring.js"></script>
+
+
+  <script>
+
+    "use strict";
+
+
+    const results = [];
+
+
+    /* =====================================================
+       Helper
+       ===================================================== */
+
+    function addResult(
+      name,
+      passed,
+      data
+    ) {
+
+      results.push({
+
+        name:
+          name,
+
+        passed:
+          passed,
+
+        data:
+          data
+
+      });
+
+    }
+
+
+    function getProduct(id) {
+
+      if (
+        typeof DigiYarProductData ===
+        "undefined"
+      ) {
+
+        return null;
+
+      }
+
+      return DigiYarProductData.getById(id);
+
+    }
+
+
+   
