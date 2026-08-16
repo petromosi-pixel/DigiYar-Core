@@ -39,56 +39,72 @@
   }
 
 
-  function formatPrice(value) {
-
-    if (value == null || value === "") {
-      return "قیمت نامشخص";
-    }
-
-    return new Intl.NumberFormat("fa-IR")
-      .format(value) + " تومان";
-
-  }
-
-
   function toArray(value) {
 
-    return Array.isArray(value)
-      ? value
-      : [];
+    if (Array.isArray(value)) {
+      return value;
+    }
+
+    return [];
 
   }
 
 
   /* =======================================================
-     Splash Screen
+     Splash Screen — V4
      ======================================================= */
 
   const splashScreen =
     $("splashScreen");
 
+
   const splashStartedAt =
     performance.now();
 
-  const MIN_SPLASH_TIME = 3200;
-  const MAX_SPLASH_TIME = 4500;
+
+  const MIN_SPLASH_TIME =
+    2600;
+
+
+  const MAX_SPLASH_TIME =
+    4000;
+
+
+  let splashClosed =
+    false;
 
 
   function hideSplash() {
 
-    if (!splashScreen) {
+    if (
+      splashClosed ||
+      !splashScreen
+    ) {
+
       return;
+
     }
+
+
+    splashClosed =
+      true;
+
 
     splashScreen.classList.add(
       "splash-hidden"
     );
 
+
     setTimeout(
       function () {
 
-        if (splashScreen) {
+        if (
+          splashScreen &&
+          splashScreen.parentNode
+        ) {
+
           splashScreen.remove();
+
         }
 
       },
@@ -100,15 +116,22 @@
 
   function finishSplash() {
 
+    if (splashClosed) {
+      return;
+    }
+
+
     const elapsed =
       performance.now() -
       splashStartedAt;
+
 
     const remaining =
       Math.max(
         0,
         MIN_SPLASH_TIME - elapsed
       );
+
 
     setTimeout(
       hideSplash,
@@ -118,42 +141,237 @@
   }
 
 
+  /*
+   * دیگر منتظر window.load نمی‌مانیم.
+   * بنابراین خراب شدن یک asset،
+   * API یا Service Worker نمی‌تواند
+   * Splash را برای همیشه نگه دارد.
+   */
+
   if (
     document.readyState ===
-    "complete"
+    "loading"
   ) {
 
-    finishSplash();
-
-  } else {
-
-    window.addEventListener(
-      "load",
+    document.addEventListener(
+      "DOMContentLoaded",
       finishSplash,
       {
         once: true
       }
     );
 
+  } else {
+
+    finishSplash();
+
   }
 
 
+  /*
+   * Fail-safe نهایی
+   */
+
   setTimeout(
-    function () {
+    hideSplash,
+    MAX_SPLASH_TIME
+  );
+
+
+  /* =======================================================
+     Splash Sound
+     ======================================================= */
+
+  let splashSoundPlayed =
+    false;
+
+
+  function playDigiYarChime() {
+
+    if (splashSoundPlayed) {
+      return;
+    }
+
+
+    splashSoundPlayed =
+      true;
+
+
+    try {
+
+      const AudioContext =
+        window.AudioContext ||
+        window.webkitAudioContext;
+
+
+      if (!AudioContext) {
+        return;
+      }
+
+
+      const context =
+        new AudioContext();
+
 
       if (
-        splashScreen &&
-        document.body.contains(
-          splashScreen
-        )
+        context.state ===
+        "suspended"
       ) {
 
-        hideSplash();
+        context.resume();
 
       }
 
-    },
-    MAX_SPLASH_TIME
+
+      const now =
+        context.currentTime;
+
+
+      const master =
+        context.createGain();
+
+
+      master.gain.setValueAtTime(
+        0.0001,
+        now
+      );
+
+
+      master.gain.exponentialRampToValueAtTime(
+        0.055,
+        now + 0.04
+      );
+
+
+      master.gain.exponentialRampToValueAtTime(
+        0.0001,
+        now + 1.1
+      );
+
+
+      master.connect(
+        context.destination
+      );
+
+
+      const frequencies = [
+        523.25,
+        659.25,
+        783.99
+      ];
+
+
+      frequencies.forEach(
+        function (
+          frequency,
+          index
+        ) {
+
+          const oscillator =
+            context.createOscillator();
+
+
+          const gain =
+            context.createGain();
+
+
+          oscillator.type =
+            "sine";
+
+
+          oscillator.frequency.value =
+            frequency;
+
+
+          const start =
+            now +
+            index * 0.13;
+
+
+          const end =
+            start +
+            0.55;
+
+
+          gain.gain.setValueAtTime(
+            0.0001,
+            start
+          );
+
+
+          gain.gain.exponentialRampToValueAtTime(
+            0.18,
+            start + 0.025
+          );
+
+
+          gain.gain.exponentialRampToValueAtTime(
+            0.0001,
+            end
+          );
+
+
+          oscillator.connect(
+            gain
+          );
+
+
+          gain.connect(
+            master
+          );
+
+
+          oscillator.start(
+            start
+          );
+
+
+          oscillator.stop(
+            end
+          );
+
+        }
+      );
+
+
+      setTimeout(
+        function () {
+
+          try {
+            context.close();
+          } catch (error) {
+            /* intentionally ignored */
+          }
+
+        },
+        1400
+      );
+
+
+    } catch (error) {
+
+      console.warn(
+        "DigiYar Splash Sound:",
+        error
+      );
+
+    }
+
+  }
+
+
+  /*
+   * مرورگرهای موبایل معمولاً صدای خودکار
+   * بدون تعامل کاربر را مسدود می‌کنند.
+   */
+
+  window.addEventListener(
+    "pointerdown",
+    playDigiYarChime,
+    {
+      once: true,
+      passive: true
+    }
   );
 
 
@@ -165,6 +383,7 @@
 
     const container =
       $("platforms");
+
 
     if (
       !container ||
@@ -236,184 +455,13 @@
 
 
   /* =======================================================
-     Need Summary
-     ======================================================= */
-
-  function renderNeedSummary(need) {
-
-    const container =
-      $("needSummary");
-
-    if (!container) {
-      return;
-    }
-
-
-    if (!need) {
-
-      container.className =
-        "need-summary empty";
-
-      container.textContent =
-        "هنوز پروفایل خرید ساخته نشده است.";
-
-      return;
-
-    }
-
-
-    const priorities =
-      toArray(
-        need.priorities
-      );
-
-
-    const requirements =
-      toArray(
-        need.requirements
-      );
-
-
-    const constraints =
-      toArray(
-        need.constraints
-      );
-
-
-    const usage =
-      need.context &&
-      need.context.usage
-        ? need.context.usage
-        : "تعیین نشده";
-
-
-    const budget =
-      need.budget &&
-      need.budget.max
-        ? formatPrice(
-            need.budget.max
-          )
-        : "تعیین نشده";
-
-
-    function renderValues(values) {
-
-      return values
-        .map(
-          function (item) {
-
-            const value =
-              item &&
-              typeof item === "object"
-                ? item.value
-                : item;
-
-            return `
-              <span class="need-chip">
-                ${escapeHTML(value)}
-              </span>
-            `;
-
-          }
-        )
-        .join("");
-
-    }
-
-
-    container.className =
-      "need-summary";
-
-
-    container.innerHTML = `
-
-      <div class="need-summary-title">
-        نیاز خریدت آماده است
-      </div>
-
-      <div class="need-summary-content">
-
-        <div class="need-line">
-
-          <span class="need-chip">
-            دسته: ${escapeHTML(
-              need.category || "تعیین نشده"
-            )}
-          </span>
-
-          <span class="need-chip">
-            بودجه: ${escapeHTML(
-              budget
-            )}
-          </span>
-
-          <span class="need-chip">
-            استفاده: ${escapeHTML(
-              usage
-            )}
-          </span>
-
-          <span class="need-chip">
-            کامل بودن: ${escapeHTML(
-              need.completeness ?? 0
-            )}%
-          </span>
-
-        </div>
-
-        ${
-          priorities.length
-            ? `
-              <div class="need-line">
-                ${renderValues(
-                  priorities
-                )}
-              </div>
-            `
-            : ""
-        }
-
-        ${
-          requirements.length
-            ? `
-              <div class="need-line">
-                ${renderValues(
-                  requirements
-                )}
-              </div>
-            `
-            : ""
-        }
-
-        ${
-          constraints.length
-            ? `
-              <div class="need-line">
-                ${renderValues(
-                  constraints
-                )}
-              </div>
-            `
-            : ""
-        }
-
-      </div>
-
-    `;
-
-  }
-
-
-  /* =======================================================
-     Recommendation Engine
+     Smart Recommendation Adapter
      ======================================================= */
 
   function getRecommendations(need) {
 
     /*
-     * V4:
-     * اول Smart Recommendation Engine
-     * سپس fallback به Product Scoring
+     * اولویت با موتور Smart Recommendation V4
      */
 
     if (
@@ -426,31 +474,34 @@
       try {
 
         const result =
-          DigiYarSmartRecommendation
-            .recommend(
-              need
-            );
+          DigiYarSmartRecommendation.recommend(
+            need
+          );
+
+
+        if (
+          Array.isArray(result)
+        ) {
+
+          return result;
+
+        }
 
 
         if (
           result &&
-          result.status ===
-            "recommendations_ready"
+          Array.isArray(
+            result.recommendations
+          )
         ) {
 
-          return {
-            result: result,
-            products:
-              toArray(
-                result.recommendations
-              )
-          };
+          return result.recommendations;
 
         }
 
       } catch (error) {
 
-        console.error(
+        console.warn(
           "DigiYar Smart Recommendation:",
           error
         );
@@ -460,6 +511,61 @@
     }
 
 
+    /*
+     * سازگاری با نام‌های احتمالی دیگر
+     */
+
+    if (
+      window.DigiYarSmartRecommendationEngine &&
+      typeof
+        DigiYarSmartRecommendationEngine.recommend ===
+        "function"
+    ) {
+
+      try {
+
+        const result =
+          DigiYarSmartRecommendationEngine.recommend(
+            need
+          );
+
+
+        if (
+          Array.isArray(result)
+        ) {
+
+          return result;
+
+        }
+
+
+        if (
+          result &&
+          Array.isArray(
+            result.recommendations
+          )
+        ) {
+
+          return result.recommendations;
+
+        }
+
+      } catch (error) {
+
+        console.warn(
+          "DigiYar Smart Recommendation Engine:",
+          error
+        );
+
+      }
+
+    }
+
+
+    /*
+     * Fallback برای سازگاری با Core قبلی
+     */
+
     if (
       window.DigiYarProductScoring &&
       typeof
@@ -467,58 +573,91 @@
         "function"
     ) {
 
-      const products =
-        DigiYarProductScoring
-          .recommend(
+      try {
+
+        const result =
+          DigiYarProductScoring.recommend(
             need
           );
 
 
-      return {
-        result: null,
-        products:
-          toArray(
-            products
-          )
-      };
+        if (
+          Array.isArray(result)
+        ) {
+
+          return result;
+
+        }
+
+      } catch (error) {
+
+        console.warn(
+          "DigiYar Product Scoring:",
+          error
+        );
+
+      }
 
     }
 
 
-    return {
-      result: null,
-      products: []
-    };
+    return [];
 
   }
 
 
   /* =======================================================
-     Best Recommendation
+     Recommendation Explanation
      ======================================================= */
 
-  function renderBestRecommendation(
-    product,
-    result
-  ) {
-
-    const container =
-      $("bestRecommendation");
-
-    if (!container) {
-      return;
-    }
-
+  function getExplanation(product) {
 
     if (!product) {
+      return "";
+    }
 
-      container.innerHTML =
-        "";
 
-      return;
+    if (
+      typeof product.explanation ===
+      "string" &&
+      product.explanation.trim()
+    ) {
+
+      return product.explanation;
 
     }
 
+
+    /*
+     * اگر موتور V4 explanation نداشت،
+     * از reasons فقط یک بار استفاده می‌کنیم.
+     */
+
+    if (
+      Array.isArray(product.reasons) &&
+      product.reasons.length
+    ) {
+
+      return product.reasons
+        .filter(Boolean)
+        .join("؛ ");
+
+    }
+
+
+    return "";
+
+  }
+
+
+  /* =======================================================
+     Product Card
+     ======================================================= */
+
+  function renderRecommendationCard(
+    product,
+    index
+  ) {
 
     const features =
       toArray(
@@ -526,135 +665,118 @@
       );
 
 
-    const reasons =
-      toArray(
-        product.reasons
-      );
+    const score =
+      product.score != null
+        ? product.score
+        : 0;
+
+
+    const price =
+      product.price != null
+
+        ? new Intl.NumberFormat(
+            "fa-IR"
+          ).format(
+            product.price
+          ) + " تومان"
+
+        : "قیمت نامشخص";
 
 
     const explanation =
-      product.explanation ||
-      (
-        result &&
-        result.explanation
-      ) ||
-      reasons.join("؛ ") ||
-      "این محصول بر اساس نیاز فعلی شما انتخاب شده است.";
+      getExplanation(
+        product
+      );
 
 
-    const score =
-      product.score ??
-      product.matchScore ??
-      0;
-
-
-    const url =
+    const productUrl =
       product.productUrl ||
       product.url ||
       "#";
 
 
-    container.innerHTML = `
+    const rank =
+      product.rank ||
+      index + 1;
 
-      <div class="section-title">
 
-        <span class="section-kicker">
-          SMART MATCH
-        </span>
+    return `
 
-        <h2>
-          بهترین انتخاب برای تو
-        </h2>
+      <article
+        class="recommendation"
+        data-rank="${escapeHTML(rank)}"
+      >
+
+        <div class="score">
+
+          ${escapeHTML(score)}%
+
+        </div>
+
+
+        <h3>
+
+          ${escapeHTML(
+            product.name ||
+            "محصول پیشنهادی"
+          )}
+
+        </h3>
+
 
         <p>
-          بر اساس نیاز، بودجه و اولویت‌های خریدت
+
+          ${escapeHTML(price)}
+
         </p>
 
-      </div>
+
+        ${
+          features.length
+
+            ? `
+
+              <p>
+
+                ${escapeHTML(
+                  features.join("، ")
+                )}
+
+              </p>
+
+            `
+
+            : ""
+        }
 
 
-      <article class="best-card">
+        ${
+          explanation
 
-        <span class="best-badge">
-          انتخاب اول دیجی‌یار
-        </span>
+            ? `
 
-        <div class="best-product-layout">
+              <p class="recommendation-explanation">
 
-          <div>
+                ${escapeHTML(
+                  explanation
+                )}
 
-            <h3>
-              ${escapeHTML(
-                product.name
-              )}
-            </h3>
+              </p>
 
-            <p class="best-price">
-              ${escapeHTML(
-                formatPrice(
-                  product.price
-                )
-              )}
-            </p>
+            `
 
-            <div class="best-features">
-
-              ${features.map(
-                function (feature) {
-
-                  return `
-                    <span class="best-feature">
-                      ${escapeHTML(
-                        feature
-                      )}
-                    </span>
-                  `;
-
-                }
-              ).join("")}
-
-            </div>
-
-          </div>
-
-
-          <div class="match-score">
-
-            <strong>
-              ${escapeHTML(
-                score
-              )}%
-            </strong>
-
-            <span>
-              تطابق
-            </span>
-
-          </div>
-
-        </div>
-
-
-        <div class="why-title">
-          چرا این محصول؟
-        </div>
-
-        <p class="explanation">
-          ${escapeHTML(
-            explanation
-          )}
-        </p>
+            : ""
+        }
 
 
         <a
-          class="store-button"
-          href="${escapeHTML(
-            url
-          )}"
+          href="${escapeHTML(productUrl)}"
           target="_blank"
           rel="noopener noreferrer"
         >
-          مشاهده محصول
+
+          مشاهده فروشگاه
+
         </a>
 
       </article>
@@ -665,236 +787,51 @@
 
 
   /* =======================================================
-     Alternative Recommendations
+     Profile Rendering
      ======================================================= */
 
-  function renderAlternatives(
-    products
-  ) {
+  function renderProfile(profile) {
 
-    const container =
-      $("alternativeRecommendations");
-
-    if (!container) {
-      return;
-    }
+    const needSummary =
+      $("needSummary");
 
 
-    const alternatives =
-      toArray(
-        products
-      ).slice(1);
+    const recommendationsBox =
+      $("recommendations");
 
-
-    if (!alternatives.length) {
-
-      container.innerHTML =
-        "";
-
-      return;
-
-    }
-
-
-    container.innerHTML = `
-
-      <div class="alternatives-title">
-        گزینه‌های جایگزین
-      </div>
-
-      ${
-        alternatives.map(
-          function (product) {
-
-            const url =
-              product.productUrl ||
-              product.url ||
-              "#";
-
-
-            return `
-
-              <article
-                class="alternative-card"
-              >
-
-                <div class="alternative-type">
-                  گزینه جایگزین
-                </div>
-
-                <h3>
-                  ${escapeHTML(
-                    product.name
-                  )}
-                </h3>
-
-                <p class="alternative-price">
-                  ${escapeHTML(
-                    formatPrice(
-                      product.price
-                    )
-                  )}
-                </p>
-
-                <div class="alternative-score">
-                  امتیاز تطابق:
-                  ${escapeHTML(
-                    product.score ??
-                    product.matchScore ??
-                    0
-                  )}%
-                </div>
-
-                <a
-                  class="alternative-store"
-                  href="${escapeHTML(
-                    url
-                  )}"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  مشاهده محصول ←
-                </a>
-
-              </article>
-
-            `;
-
-          }
-        ).join("")
-      }
-
-    `;
-
-  }
-
-
-  /* =======================================================
-     Render Recommendations
-     ======================================================= */
-
-  function renderRecommendations(
-    need
-  ) {
-
-    const bestContainer =
-      $("bestRecommendation");
-
-    const alternativesContainer =
-      $("alternativeRecommendations");
 
     const resultHint =
       $("resultHint");
 
 
-    if (!bestContainer) {
-      return;
-    }
-
-
     if (
-      !need ||
-      need.completeness < 100
+      !needSummary ||
+      !recommendationsBox ||
+      !resultHint
     ) {
 
-      bestContainer.innerHTML = `
-
-        <div class="recommendation-message">
-          برای پیشنهاد دقیق‌تر، اطلاعات بیشتری از نیاز خریدت لازم است.
-        </div>
-
-      `;
-
-      if (alternativesContainer) {
-        alternativesContainer.innerHTML =
-          "";
-      }
-
-      if (resultHint) {
-
-        resultHint.textContent =
-          "هنوز اطلاعات خرید کامل نشده است.";
-
-      }
-
       return;
 
     }
 
-
-    const output =
-      getRecommendations(
-        need
-      );
-
-
-    const products =
-      output.products;
-
-
-    if (!products.length) {
-
-      bestContainer.innerHTML = `
-
-        <div class="recommendation-message">
-          فعلاً محصول مناسبی برای این نیاز پیدا نشد.
-        </div>
-
-      `;
-
-      if (alternativesContainer) {
-        alternativesContainer.innerHTML =
-          "";
-      }
-
-      if (resultHint) {
-
-        resultHint.textContent =
-          "با تغییر بودجه یا اولویت‌ها دوباره امتحان کن.";
-
-      }
-
-      return;
-
-    }
-
-
-    renderBestRecommendation(
-      products[0],
-      output.result
-    );
-
-
-    renderAlternatives(
-      products
-    );
-
-
-    if (resultHint) {
-
-      resultHint.textContent =
-        "پیشنهادها بر اساس Need، بودجه، اولویت‌ها و امتیاز هوشمند مرتب شده‌اند.";
-
-    }
-
-  }
-
-
-  /* =======================================================
-     Render Profile
-     ======================================================= */
-
-  function renderProfile(profile) {
 
     if (!profile) {
 
-      renderNeedSummary(
-        null
-      );
+      needSummary.className =
+        "need-summary empty";
 
-      renderRecommendations(
-        null
-      );
+
+      needSummary.textContent =
+        "هنوز پروفایل خرید ساخته نشده است.";
+
+
+      recommendationsBox.innerHTML =
+        "";
+
+
+      resultHint.textContent =
+        "برای شروع اطلاعات خریدت را وارد کن.";
+
 
       return;
 
@@ -905,26 +842,198 @@
       !window.DigiYarNeedEngine
     ) {
 
+      needSummary.className =
+        "need-summary empty";
+
+
+      needSummary.textContent =
+        "موتور تحلیل نیاز در دسترس نیست.";
+
+
+      recommendationsBox.innerHTML =
+        "";
+
+
+      resultHint.textContent =
+        "لطفاً صفحه را دوباره بارگذاری کن.";
+
+
       return;
 
     }
 
 
-    const need =
-      DigiYarNeedEngine
-        .buildNeedFromProfile(
-          profile
-        );
+    let need;
 
 
-    renderNeedSummary(
-      need
-    );
+    try {
+
+      need =
+        DigiYarNeedEngine
+          .buildNeedFromProfile(
+            profile
+          );
+
+    } catch (error) {
+
+      console.error(
+        "DigiYar Need Engine:",
+        error
+      );
 
 
-    renderRecommendations(
-      need
-    );
+      needSummary.className =
+        "need-summary empty";
+
+
+      needSummary.textContent =
+        "خطا در ساخت نیاز خرید.";
+
+
+      recommendationsBox.innerHTML =
+        "";
+
+
+      return;
+
+    }
+
+
+    if (!need) {
+
+      return;
+
+    }
+
+
+    const budget =
+      need.budget &&
+      need.budget.max
+
+        ? new Intl.NumberFormat(
+            "fa-IR"
+          ).format(
+            need.budget.max
+          ) + " تومان"
+
+        : "تعیین نشده";
+
+
+    const priorities =
+      toArray(
+        need.priorities
+      );
+
+
+    const usage =
+      need.context &&
+      need.context.usage
+        ? need.context.usage
+        : "تعیین نشده";
+
+
+    needSummary.className =
+      "need-summary";
+
+
+    needSummary.innerHTML = `
+
+      <strong>
+        کامل بودن نیاز:
+        ${escapeHTML(
+          need.completeness ?? 0
+        )}%
+      </strong>
+
+      <br>
+
+      دسته:
+      ${escapeHTML(
+        need.category ||
+        "تعیین نشده"
+      )}
+
+      |
+
+      بودجه:
+      ${escapeHTML(
+        budget
+      )}
+
+      <br>
+
+      اولویت‌ها:
+      ${escapeHTML(
+        priorities.join("، ") ||
+        "تعیین نشده"
+      )}
+
+      |
+
+      استفاده:
+      ${escapeHTML(
+        usage
+      )}
+
+    `;
+
+
+    /*
+     * V4 Recommendation Chain
+     */
+
+    const recommendations =
+      getRecommendations(
+        need
+      );
+
+
+    if (
+      !Array.isArray(
+        recommendations
+      ) ||
+      !recommendations.length
+    ) {
+
+      recommendationsBox.innerHTML = `
+
+        <div class="need-summary">
+
+          برای این نیاز هنوز
+          پیشنهاد مناسبی پیدا نشد.
+
+        </div>
+
+      `;
+
+
+      resultHint.textContent =
+        "اطلاعات بیشتری وارد کن تا پیشنهادهای دقیق‌تری ساخته شود.";
+
+
+      return;
+
+    }
+
+
+    recommendationsBox.innerHTML =
+      recommendations.map(
+        function (
+          product,
+          index
+        ) {
+
+          return renderRecommendationCard(
+            product,
+            index
+          );
+
+        }
+      ).join("");
+
+
+    resultHint.textContent =
+      "پیشنهادها بر اساس Need، بودجه، اولویت‌ها و امتیاز هوشمند مرتب شده‌اند.";
 
   }
 
@@ -958,7 +1067,9 @@
       $("budgetMax").value =
         declared.budget &&
         declared.budget.max
+
           ? declared.budget.max
+
           : "";
 
     }
@@ -967,8 +1078,9 @@
     if ($("priorities")) {
 
       $("priorities").value =
-        toArray(
-          declared.priorities
+        (
+          declared.priorities ||
+          []
         ).join("، ");
 
     }
@@ -986,8 +1098,9 @@
     if ($("requirements")) {
 
       $("requirements").value =
-        toArray(
-          declared.requirements
+        (
+          declared.requirements ||
+          []
         ).join("، ");
 
     }
@@ -996,8 +1109,9 @@
     if ($("constraints")) {
 
       $("constraints").value =
-        toArray(
-          declared.constraints
+        (
+          declared.constraints ||
+          []
         ).join("، ");
 
     }
@@ -1026,67 +1140,85 @@
           !window.DigiYarUserProfile
         ) {
 
+          console.error(
+            "DigiYarUserProfile is unavailable."
+          );
+
           return;
 
         }
 
 
-        const profile =
-          DigiYarUserProfile.normalize({
-
-            category:
-              $("category")
-                ? $("category").value
-                : "",
-
-            budgetMax:
-              $("budgetMax")
-                ? $("budgetMax").value
-                : "",
-
-            priorities:
-              $("priorities")
-                ? $("priorities").value
-                : "",
-
-            usage:
-              $("usage")
-                ? $("usage").value
-                : "",
-
-            requirements:
-              $("requirements")
-                ? $("requirements").value
-                : "",
-
-            constraints:
-              $("constraints")
-                ? $("constraints").value
-                : ""
-
-          });
+        let profile;
 
 
-        DigiYarUserProfile.save(
-          profile
-        );
+        try {
+
+          profile =
+            DigiYarUserProfile.normalize({
+
+              category:
+                $("category")
+                  ? $("category").value
+                  : "",
+
+              budgetMax:
+                $("budgetMax")
+                  ? $("budgetMax").value
+                  : "",
+
+              priorities:
+                $("priorities")
+                  ? $("priorities").value
+                  : "",
+
+              usage:
+                $("usage")
+                  ? $("usage").value
+                  : "",
+
+              requirements:
+                $("requirements")
+                  ? $("requirements").value
+                  : "",
+
+              constraints:
+                $("constraints")
+                  ? $("constraints").value
+                  : ""
+
+            });
 
 
-        renderProfile(
-          profile
-        );
+          DigiYarUserProfile.save(
+            profile
+          );
 
 
-        const resultSection =
-          $("resultSection");
+          renderProfile(
+            profile
+          );
 
 
-        if (resultSection) {
+          const resultSection =
+            $("resultSection");
 
-          resultSection.scrollIntoView({
-            behavior: "smooth",
-            block: "start"
-          });
+
+          if (resultSection) {
+
+            resultSection.scrollIntoView({
+              behavior: "smooth",
+              block: "start"
+            });
+
+          }
+
+        } catch (error) {
+
+          console.error(
+            "DigiYar Profile:",
+            error
+          );
 
         }
 
@@ -1119,7 +1251,9 @@
         }
 
 
-        if ($("profileForm")) {
+        if (
+          $("profileForm")
+        ) {
 
           $("profileForm").reset();
 
@@ -1137,11 +1271,15 @@
 
 
   /* =======================================================
-     Initialize
+     Initialize Platforms
      ======================================================= */
 
   renderPlatforms();
 
+
+  /* =======================================================
+     Restore Saved Profile
+     ======================================================= */
 
   let savedProfile =
     null;
@@ -1151,9 +1289,23 @@
     window.DigiYarUserProfile
   ) {
 
-    savedProfile =
-      DigiYarUserProfile
-        .getProfile();
+    try {
+
+      savedProfile =
+        DigiYarUserProfile
+          .getProfile();
+
+    } catch (error) {
+
+      console.warn(
+        "DigiYar saved profile:",
+        error
+      );
+
+      savedProfile =
+        null;
+
+    }
 
   }
 
@@ -1179,8 +1331,10 @@
   const installPrompt =
     $("installPrompt");
 
+
   const installBtn =
     $("installBtn");
+
 
   const installDismiss =
     $("installDismiss");
@@ -1192,6 +1346,7 @@
 
       event.preventDefault();
 
+
       deferredInstallPrompt =
         event;
 
@@ -1201,6 +1356,7 @@
         installPrompt.classList.remove(
           "hidden"
         );
+
 
         requestAnimationFrame(
           function () {
@@ -1233,25 +1389,4 @@
         }
 
 
-        deferredInstallPrompt.prompt();
-
-
-        try {
-
-          await deferredInstallPrompt
-            .userChoice;
-
-        } catch (error) {
-
-          console.warn(
-            "DigiYar install:",
-            error
-          );
-
-        }
-
-
-        deferredInstallPrompt =
-          null;
-
-        hideInsta
+      
