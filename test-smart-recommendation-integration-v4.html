@@ -11,7 +11,7 @@
   >
 
   <title>
-    DigiYar V4 — Smart Recommendation Integration Test
+    DigiYar V4 — Smart Recommendation Quality Test
   </title>
 
   <style>
@@ -66,8 +66,8 @@
       border-radius: 10px;
       padding: 15px;
       margin-bottom: 20px;
-      font-weight: bold;
       text-align: center;
+      font-weight: bold;
     }
 
   </style>
@@ -78,12 +78,12 @@
 <body>
 
   <h1>
-    تست Integration — Smart Recommendation Engine V4
+    تست Quality — Smart Recommendation Engine V4
   </h1>
 
   <p>
     <strong>
-      Build 10 — Integration Validation
+      Build 10 — Recommendation Quality Validation
     </strong>
   </p>
 
@@ -91,13 +91,13 @@
   <div class="flow">
     Need
     ↓
-    Product Data
+    Recommendation
     ↓
-    Product Scoring
+    Ranking Quality
     ↓
-    Smart Recommendation
+    Budget
     ↓
-    Ranking
+    Priority / Requirement / Constraint
     ↓
     Explanation
   </div>
@@ -107,7 +107,7 @@
     id="summary"
     class="summary"
   >
-    در حال اجرای تست Integration...
+    در حال اجرای تست‌ها...
   </div>
 
 
@@ -116,7 +116,6 @@
 
   <!-- =====================================================
        Dependencies
-       ترتیب بسیار مهم است
        ===================================================== -->
 
   <script src="./js/product-data.js"></script>
@@ -135,7 +134,7 @@
 
 
     /* =====================================================
-       Helper
+       Helpers
        ===================================================== */
 
     function addResult(
@@ -160,9 +159,41 @@
     }
 
 
-    /* =====================================================
-       Render
-       ===================================================== */
+    function getProduct(
+      item
+    ) {
+
+      if (
+        item &&
+        item.product
+      ) {
+
+        return item.product;
+
+      }
+
+      return item || null;
+
+    }
+
+
+    function getScore(
+      item
+    ) {
+
+      if (
+        item &&
+        typeof item.score === "number"
+      ) {
+
+        return item.score;
+
+      }
+
+      return 0;
+
+    }
+
 
     function renderResults() {
 
@@ -209,11 +240,9 @@
 
             </h3>
 
-
             <strong>
               ${test.name}
             </strong>
-
 
             <pre>${JSON.stringify(
               test.data,
@@ -261,7 +290,7 @@
 
 
         summary.innerHTML =
-          `🎉 ALL INTEGRATION TESTS PASSED — ${passed} از ${total}`;
+          `🎉 ALL QUALITY TESTS PASSED — ${passed} از ${total}`;
 
       }
 
@@ -272,7 +301,7 @@
 
 
         summary.innerHTML =
-          `⚠️ INTEGRATION TEST RESULT — ${passed} از ${total}`;
+          `⚠️ QUALITY TEST RESULT — ${passed} از ${total}`;
 
       }
 
@@ -280,97 +309,92 @@
 
 
     /* =====================================================
-       Shared Need
+       Shared Products
        ===================================================== */
 
-    const completeNeed = {
-
-      category:
-        "mobile",
-
-      budget: {
-
-        min:
-          null,
-
-        max:
-          15000000
-
-      },
-
-      usage: [
-
-        "photography"
-
-      ],
-
-      priorities: [
-
-        "دوربین"
-
-      ],
-
-      requirements: [
-
-        {
-
-          value:
-            "دوربین"
-
-        }
-
-      ],
-
-      constraints: [],
-
-      ready:
-        true,
-
-      nextAction:
-        "retrieve_products"
-
-    };
+    const products =
+      DigiYarProductData.getAll();
 
 
     /* =====================================================
        Scenario 1
-       Dependency Chain
+       Incomplete Need
        ===================================================== */
 
     try {
 
-      const dependencies = {
+      const need = {
 
-        productData:
-          typeof DigiYarProductData !==
-          "undefined",
+        category:
+          "mobile",
 
-        productScoring:
-          typeof DigiYarProductScoring !==
-          "undefined",
+        budget:
+          null,
 
-        smartRecommendation:
-          typeof DigiyarSmartRecommendationEngine !==
-          "undefined"
+        usage: [],
+
+        priorities: [],
+
+        requirements: [],
+
+        constraints: [],
+
+        ready:
+          false,
+
+        nextAction:
+          "ask_user"
 
       };
 
 
-      const passed =
-        Object.values(
-          dependencies
-        ).every(
-          Boolean
+      const result =
+        DigiyarSmartRecommendationEngine.recommend(
+          need,
+          products
         );
+
+
+      const passed =
+
+        result.status ===
+          "waiting_for_answer"
+
+        &&
+
+        result.count ===
+          0
+
+        &&
+
+        Array.isArray(
+          result.recommendations
+        )
+
+        &&
+
+        result.recommendations.length ===
+          0;
 
 
       addResult(
 
-        "بررسی اتصال سه لایه اصلی",
+        "Need ناقص نباید Recommendation تولید کند",
 
         passed,
 
-        dependencies
+        {
+
+          status:
+            result.status,
+
+          count:
+            result.count,
+
+          recommendations:
+            result.recommendations
+
+        }
 
       );
 
@@ -380,7 +404,7 @@
 
       addResult(
 
-        "بررسی اتصال سه لایه اصلی",
+        "Need ناقص نباید Recommendation تولید کند",
 
         false,
 
@@ -399,71 +423,106 @@
 
     /* =====================================================
        Scenario 2
-       Product Data Retrieval
+       Budget Filtering
        ===================================================== */
 
     try {
 
-      const products =
-        DigiYarProductData.getAll();
+      const need = {
+
+        category:
+          "mobile",
+
+        budget: {
+
+          min:
+            null,
+
+          max:
+            10000000
+
+        },
+
+        usage: [],
+
+        priorities: [],
+
+        requirements: [],
+
+        constraints: [],
+
+        ready:
+          true
+
+      };
 
 
-      const mobileProducts =
-        DigiYarProductData.getByCategory(
-          "mobile"
+      const result =
+        DigiyarSmartRecommendationEngine.recommend(
+          need,
+          products
         );
 
 
-      const targetProduct =
-        DigiYarProductData.getById(
-          "mobile-002"
+      const recommendations =
+        Array.isArray(
+          result.recommendations
+        )
+          ? result.recommendations
+          : [];
+
+
+      const insideBudget =
+        recommendations.every(
+          function (item) {
+
+            const product =
+              getProduct(item);
+
+
+            return (
+              Number(
+                product &&
+                product.price || 0
+              ) <=
+              10000000
+            );
+
+          }
         );
 
 
       const passed =
 
-        Array.isArray(
-          products
-        )
+        result.status ===
+          "recommendations_ready"
 
         &&
 
-        products.length ===
-          6
+        recommendations.length >
+          0
 
         &&
 
-        Array.isArray(
-          mobileProducts
-        )
-
-        &&
-
-        mobileProducts.length ===
-          3
-
-        &&
-
-        targetProduct !==
-          null;
+        insideBudget;
 
 
       addResult(
 
-        "دریافت واقعی محصولات از Product Data",
+        "حذف محصولات خارج از سقف بودجه",
 
         passed,
 
         {
 
-          totalProducts:
-            products.length,
+          budgetMax:
+            10000000,
 
-          mobileProducts:
-            mobileProducts.length,
+          insideBudget:
+            insideBudget,
 
-          targetProduct:
-            targetProduct
+          recommendations:
+            recommendations
 
         }
 
@@ -475,7 +534,7 @@
 
       addResult(
 
-        "دریافت واقعی محصولات از Product Data",
+        "حذف محصولات خارج از سقف بودجه",
 
         false,
 
@@ -494,56 +553,95 @@
 
     /* =====================================================
        Scenario 3
-       Real Product Scoring
+       Priority
        ===================================================== */
 
     try {
 
-      const product =
-        DigiYarProductData.getById(
-          "mobile-002"
+      const need = {
+
+        category:
+          "mobile",
+
+        budget: {
+
+          max:
+            15000000
+
+        },
+
+        usage: [],
+
+        priorities: [
+
+          "دوربین"
+
+        ],
+
+        requirements: [],
+
+        constraints: [],
+
+        ready:
+          true
+
+      };
+
+
+      const result =
+        DigiyarSmartRecommendationEngine.recommend(
+          need,
+          products
         );
 
 
-      const score =
-        DigiYarProductScoring.score(
-          product,
-          completeNeed
-        );
+      const top =
+        result.recommendations &&
+        result.recommendations.length
+          ? getProduct(
+              result.recommendations[0]
+            )
+          : null;
 
 
       const passed =
 
-        product !==
+        top !==
           null
 
         &&
 
-        typeof score ===
-          "number"
+        top.id ===
+          "mobile-002"
 
         &&
 
-        score ===
-          53;
+        getScore(
+          result.recommendations[0]
+        ) >
+          30;
 
 
       addResult(
 
-        "امتیازدهی واقعی mobile-002",
+        "Priority باید روی Ranking اثر بگذارد",
 
         passed,
 
         {
 
-          product:
-            product,
+          priority:
+            "دوربین",
 
-          score:
-            score,
+          topProduct:
+            top,
 
-          expectedScore:
-            53
+          topScore:
+            top
+              ? getScore(
+                  result.recommendations[0]
+                )
+              : 0
 
         }
 
@@ -555,7 +653,7 @@
 
       addResult(
 
-        "امتیازدهی واقعی mobile-002",
+        "Priority باید روی Ranking اثر بگذارد",
 
         false,
 
@@ -574,58 +672,100 @@
 
     /* =====================================================
        Scenario 4
-       Smart Recommendation
+       Requirement
        ===================================================== */
 
     try {
 
-      const products =
-        DigiYarProductData.getAll();
+      const need = {
+
+        category:
+          "mobile",
+
+        budget: {
+
+          max:
+            15000000
+
+        },
+
+        usage: [],
+
+        priorities: [],
+
+        requirements: [
+
+          {
+
+            value:
+              "دوربین"
+
+          }
+
+        ],
+
+        constraints: [],
+
+        ready:
+          true
+
+      };
 
 
       const result =
         DigiyarSmartRecommendationEngine.recommend(
-          completeNeed,
+          need,
           products
         );
 
 
+      const top =
+        result.recommendations &&
+        result.recommendations.length
+          ? getProduct(
+              result.recommendations[0]
+            )
+          : null;
+
+
       const passed =
 
-        result.status ===
-          "recommendations_ready"
+        top !==
+          null
 
         &&
 
-        Array.isArray(
-          result.recommendations
-        )
+        top.id ===
+          "mobile-002"
 
         &&
 
-        result.recommendations.length >
-          0;
+        getScore(
+          result.recommendations[0]
+        ) >
+          30;
 
 
       addResult(
 
-        "ارسال Need و دریافت Recommendation",
+        "Requirement باید روی Ranking اثر بگذارد",
 
         passed,
 
         {
 
-          status:
-            result.status,
+          requirement:
+            "دوربین",
 
-          count:
-            result.count,
+          topProduct:
+            top,
 
-          totalProducts:
-            result.totalProducts,
-
-          recommendations:
-            result.recommendations
+          topScore:
+            top
+              ? getScore(
+                  result.recommendations[0]
+                )
+              : 0
 
         }
 
@@ -637,7 +777,7 @@
 
       addResult(
 
-        "ارسال Need و دریافت Recommendation",
+        "Requirement باید روی Ranking اثر بگذارد",
 
         false,
 
@@ -656,67 +796,122 @@
 
     /* =====================================================
        Scenario 5
-       Ranking Validation
+       Constraint
        ===================================================== */
 
     try {
 
-      const products =
-        DigiYarProductData.getAll();
+      const need = {
+
+        category:
+          "mobile",
+
+        budget: {
+
+          max:
+            15000000
+
+        },
+
+        usage: [],
+
+        priorities: [],
+
+        requirements: [],
+
+        constraints: [
+
+          {
+
+            value:
+              "5G"
+
+          }
+
+        ],
+
+        ready:
+          true
+
+      };
 
 
       const result =
         DigiyarSmartRecommendationEngine.recommend(
-          completeNeed,
+          need,
           products
         );
 
 
-      const topProduct =
-        result.recommendations &&
-        result.recommendations.length
-          ? result.recommendations[0]
+      const recommendations =
+        Array.isArray(
+          result.recommendations
+        )
+          ? result.recommendations
+          : [];
+
+
+      const target =
+        recommendations.find(
+          function (item) {
+
+            const product =
+              getProduct(item);
+
+
+            return (
+              product &&
+              product.id ===
+                "mobile-002"
+            );
+
+          }
+        );
+
+
+      const targetScore =
+        target
+          ? getScore(target)
           : null;
 
 
       const passed =
 
-        topProduct !==
-          null
+        recommendations.length >
+          0
 
         &&
 
-        topProduct.id ===
-          "mobile-002"
+        target !==
+          undefined
 
         &&
 
-        topProduct.name ===
-          "موبایل دوربین‌محور"
-
-        &&
-
-        Number(
-          topProduct.score
-        ) > 0;
+        targetScore <
+          30;
 
 
       addResult(
 
-        "اعتبارسنجی Ranking هوشمند",
+        "Constraint باید محصول متعارض را جریمه کند",
 
         passed,
 
         {
 
-          topProduct:
-            topProduct,
+          constraint:
+            "5G",
 
-          expectedId:
-            "mobile-002",
+          targetProduct:
+            target
+              ? getProduct(target)
+              : null,
 
-          expectedName:
-            "موبایل دوربین‌محور"
+          targetScore:
+            targetScore,
+
+          note:
+            "در این تست وجود 5G به‌عنوان Constraint عمداً محصول را جریمه می‌کند."
 
         }
 
@@ -728,7 +923,7 @@
 
       addResult(
 
-        "اعتبارسنجی Ranking هوشمند",
+        "Constraint باید محصول متعارض را جریمه کند",
 
         false,
 
@@ -747,19 +942,45 @@
 
     /* =====================================================
        Scenario 6
-       Budget Validation
+       Recommendation Limit
        ===================================================== */
 
     try {
 
-      const products =
-        DigiYarProductData.getAll();
+      const need = {
+
+        category:
+          "mobile",
+
+        budget: {
+
+          max:
+            15000000
+
+        },
+
+        usage: [],
+
+        priorities: [],
+
+        requirements: [],
+
+        constraints: [],
+
+        ready:
+          true
+
+      };
 
 
       const result =
         DigiyarSmartRecommendationEngine.recommend(
-          completeNeed,
-          products
+          need,
+          products,
+          {
+            limit:
+              1
+          }
         );
 
 
@@ -771,49 +992,25 @@
           : [];
 
 
-      const allInsideBudget =
-        recommendations.every(
-          function (item) {
-
-            const product =
-              item.product ||
-              item;
-
-
-            return (
-              Number(
-                product.price || 0
-              ) <=
-              15000000
-            );
-
-          }
-        );
-
-
       const passed =
 
-        recommendations.length >
-          0
-
-        &&
-
-        allInsideBudget;
+        recommendations.length ===
+          1;
 
 
       addResult(
 
-        "رعایت سقف بودجه در Recommendation",
+        "کنترل دقیق Limit پیشنهادها",
 
         passed,
 
         {
 
-          budgetMax:
-            15000000,
+          requestedLimit:
+            1,
 
-          allInsideBudget:
-            allInsideBudget,
+          actualCount:
+            recommendations.length,
 
           recommendations:
             recommendations
@@ -828,7 +1025,7 @@
 
       addResult(
 
-        "رعایت سقف بودجه در Recommendation",
+        "کنترل دقیق Limit پیشنهادها",
 
         false,
 
@@ -847,23 +1044,191 @@
 
     /* =====================================================
        Scenario 7
+       Ranking Order
+       ===================================================== */
+
+    try {
+
+      const need = {
+
+        category:
+          "mobile",
+
+        budget: {
+
+          max:
+            15000000
+
+        },
+
+        usage: [],
+
+        priorities: [
+
+          "دوربین"
+
+        ],
+
+        requirements: [],
+
+        constraints: [],
+
+        ready:
+          true
+
+      };
+
+
+      const result =
+        DigiyarSmartRecommendationEngine.recommend(
+          need,
+          products
+        );
+
+
+      const recommendations =
+        Array.isArray(
+          result.recommendations
+        )
+          ? result.recommendations
+          : [];
+
+
+      let descending =
+        true;
+
+
+      for (
+        let i = 1;
+        i < recommendations.length;
+        i++
+      ) {
+
+        const previous =
+          getScore(
+            recommendations[i - 1]
+          );
+
+
+        const current =
+          getScore(
+            recommendations[i]
+          );
+
+
+        if (
+          current >
+          previous
+        ) {
+
+          descending =
+            false;
+
+          break;
+
+        }
+
+      }
+
+
+      const passed =
+
+        recommendations.length >
+          0
+
+        &&
+
+        descending;
+
+
+      addResult(
+
+        "ترتیب Recommendationها باید بر اساس Score نزولی باشد",
+
+        passed,
+
+        {
+
+          descending:
+            descending,
+
+          scores:
+            recommendations.map(
+              getScore
+            )
+
+        }
+
+      );
+
+    }
+
+    catch (error) {
+
+      addResult(
+
+        "ترتیب Recommendationها باید بر اساس Score نزولی باشد",
+
+        false,
+
+        {
+
+          error:
+            error.message ||
+            String(error)
+
+        }
+
+      );
+
+    }
+
+
+    /* =====================================================
+       Scenario 8
        Explanation
        ===================================================== */
 
     try {
 
-      const products =
-        DigiYarProductData.getAll();
+      const need = {
+
+        category:
+          "mobile",
+
+        budget: {
+
+          max:
+            15000000
+
+        },
+
+        usage: [],
+
+        priorities: [
+
+          "دوربین"
+
+        ],
+
+        requirements: [],
+
+        constraints: [],
+
+        ready:
+          true
+
+      };
 
 
       const result =
         DigiyarSmartRecommendationEngine.recommend(
-          completeNeed,
+          need,
           products
         );
 
 
-      const topProduct =
+      const top =
         result.recommendations &&
         result.recommendations.length
           ? result.recommendations[0]
@@ -871,9 +1236,9 @@
 
 
       const explanation =
-        topProduct
+        top
           ? DigiyarSmartRecommendationEngine.explain(
-              topProduct
+              top
             )
           : "";
 
@@ -891,7 +1256,7 @@
 
       addResult(
 
-        "تولید Explanation برای Recommendation",
+        "Explanation باید برای Recommendation تولید شود",
 
         passed,
 
@@ -901,7 +1266,9 @@
             explanation,
 
           topProduct:
-            topProduct
+            top
+              ? getProduct(top)
+              : null
 
         }
 
@@ -913,7 +1280,130 @@
 
       addResult(
 
-        "تولید Explanation برای Recommendation",
+        "Explanation باید برای Recommendation تولید شود",
+
+        false,
+
+        {
+
+          error:
+            error.message ||
+            String(error)
+
+        }
+
+      );
+
+    }
+
+
+    /* =====================================================
+       Scenario 9
+       Need Immutability
+       ===================================================== */
+
+    try {
+
+      const need = {
+
+        category:
+          "mobile",
+
+        budget: {
+
+          min:
+            null,
+
+          max:
+            15000000
+
+        },
+
+        usage: [
+
+          "photography"
+
+        ],
+
+        priorities: [
+
+          "دوربین"
+
+        ],
+
+        requirements: [
+
+          {
+
+            value:
+              "دوربین"
+
+          }
+
+        ],
+
+        constraints: [],
+
+        ready:
+          true,
+
+        nextAction:
+          "retrieve_products"
+
+      };
+
+
+      const before =
+        JSON.stringify(
+          need
+        );
+
+
+      DigiyarSmartRecommendationEngine.recommend(
+        need,
+        products
+      );
+
+
+      const after =
+        JSON.stringify(
+          need
+        );
+
+
+      const passed =
+        before ===
+        after;
+
+
+      addResult(
+
+        "Engine نباید Need اصلی را تغییر دهد",
+
+        passed,
+
+        {
+
+          unchanged:
+            passed,
+
+          before:
+            JSON.parse(before),
+
+          after:
+            JSON.parse(after)
+
+        }
+
+      );
+
+    }
+
+    catch (error) {
+
+      addResult(
+
+        "Engine نباید Need اصلی را تغییر دهد",
 
         false,
 
