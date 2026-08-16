@@ -1,17 +1,34 @@
-/* DigiYar V3 - Need Engine */
+/* DigiYar V4 - Need Engine */
 
 (function () {
   "use strict";
 
+
+  /* =======================================================
+     Helpers
+     ======================================================= */
+
   function toList(value) {
-    return Array.isArray(value) ? value : [];
+
+    return Array.isArray(value)
+      ? value
+      : [];
+
   }
+
+
+  /* =======================================================
+     Completeness
+     ======================================================= */
 
   function calculateCompleteness(need) {
 
     const checks = [
 
-      Boolean(need.category),
+      Boolean(
+        need.category &&
+        need.category !== "general"
+      ),
 
       Boolean(
         need.budget &&
@@ -37,93 +54,189 @@
 
     ];
 
-    const total = checks.length;
+
+    const total =
+      checks.length;
+
 
     const completed =
       checks.filter(Boolean).length;
 
+
     return Math.round(
-      (completed / total) * 100
+      (
+        completed /
+        total
+      ) * 100
     );
+
   }
+
+
+  /* =======================================================
+     Need State
+     ======================================================= */
+
+  function updateNeedState(need) {
+
+    /*
+     * Need فقط زمانی آماده Recommendation است
+     * که completeness به 100 درصد رسیده باشد.
+     */
+
+    need.ready =
+      need.completeness >= 100;
+
+
+    need.nextAction =
+      need.ready
+        ? "retrieve_products"
+        : "ask_user";
+
+
+    return need;
+
+  }
+
+
+  /* =======================================================
+     Public API
+     ======================================================= */
 
   const DigiYarNeedEngine = {
 
-    version: "3.0.0",
+    version:
+      "4.0.0-alpha.1",
 
-    createNeed: function (profile) {
 
-      const declared =
-        profile &&
-        profile.declared
-          ? profile.declared
-          : {};
+    /* =====================================================
+       Create Need
+       ===================================================== */
 
-      const need = {
+    createNeed:
+      function (profile) {
 
-        category:
-          declared.category ||
-          "general",
+        const declared =
+          profile &&
+          profile.declared
+            ? profile.declared
+            : {};
 
-        intent:
-          "purchase",
 
-        budget:
-          declared.budget || {
-            min: null,
-            max: null
+        const need = {
+
+          category:
+            declared.category ||
+            "general",
+
+
+          intent:
+            "purchase",
+
+
+          budget:
+            declared.budget || {
+              min: null,
+              max: null
+            },
+
+
+          priorities:
+            toList(
+              declared.priorities
+            ),
+
+
+          requirements:
+            toList(
+              declared.requirements
+            ).map(
+              function (value) {
+
+                return {
+
+                  id:
+                    "requirements",
+
+                  value:
+                    value
+
+                };
+
+              }
+            ),
+
+
+          constraints:
+            toList(
+              declared.constraints
+            ).map(
+              function (value) {
+
+                return {
+
+                  id:
+                    "constraints",
+
+                  value:
+                    value
+
+                };
+
+              }
+            ),
+
+
+          context: {
+
+            usage:
+              declared.usage ||
+              ""
+
           },
 
-        priorities:
-          toList(
-            declared.priorities
-          ),
 
-        requirements:
-          toList(
-            declared.requirements
-          ).map(function (value) {
+          confidence:
+            0
 
-            return {
-              id: "requirements",
-              value: value
-            };
+        };
 
-          }),
 
-        constraints:
-          toList(
-            declared.constraints
-          ).map(function (value) {
+        /*
+         * Completeness
+         */
 
-            return {
-              id: "constraints",
-              value: value
-            };
+        need.completeness =
+          calculateCompleteness(
+            need
+          );
 
-          }),
 
-        context: {
+        /*
+         * Confidence
+         */
 
-          usage:
-            declared.usage || ""
+        need.confidence =
+          need.completeness;
 
-        },
 
-        confidence: 0
+        /*
+         * V4 State
+         */
 
-      };
-
-      need.completeness =
-        calculateCompleteness(
+        updateNeedState(
           need
         );
 
-      need.confidence =
-        need.completeness;
 
-      return need;
-    },
+        return need;
+
+      },
+
+
+    /* =====================================================
+       Build Need From Profile
+       ===================================================== */
 
     buildNeedFromProfile:
       function (profile) {
@@ -132,11 +245,66 @@
           profile
         );
 
+      },
+
+
+    /* =====================================================
+       Readiness
+       ===================================================== */
+
+    isReady:
+      function (need) {
+
+        return !!(
+          need &&
+          need.ready === true
+        );
+
+      },
+
+
+    /* =====================================================
+       Update State
+       ===================================================== */
+
+    updateState:
+      function (need) {
+
+        if (
+          !need ||
+          typeof need !== "object"
+        ) {
+
+          return null;
+
+        }
+
+
+        need.completeness =
+          calculateCompleteness(
+            need
+          );
+
+
+        need.confidence =
+          need.completeness;
+
+
+        return updateNeedState(
+          need
+        );
+
       }
 
   };
 
+
+  /* =======================================================
+     Browser Export
+     ======================================================= */
+
   window.DigiYarNeedEngine =
     DigiYarNeedEngine;
+
 
 })();
