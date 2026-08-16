@@ -79,111 +79,417 @@ a {
 
 
 /* =========================================================
-   Splash Screen — DigiYar V4
+   DigiYar V4 — Splash Screen
    ========================================================= */
 
 .splash-screen {
-
   position: fixed;
-
   inset: 0;
-
-  z-index: 99999;
+  z-index: 999999;
 
   display: flex;
-
   align-items: center;
-
   justify-content: center;
 
   overflow: hidden;
 
   background:
     radial-gradient(
-      circle at center,
-      rgba(36, 65, 112, 0.76) 0%,
-      rgba(16, 28, 53, 0.97) 48%,
-      #101c35 100%
+      circle at 50% 35%,
+      rgba(255, 255, 255, 0.08),
+      transparent 42%
+    ),
+    linear-gradient(
+      145deg,
+      #0b1428 0%,
+      #101c35 55%,
+      #172746 100%
     );
 
   opacity: 1;
-
   visibility: visible;
 
   transition:
     opacity 0.65s ease,
     visibility 0.65s ease;
-
 }
 
+
+/*
+ * پایان Splash
+ */
 
 .splash-screen.splash-hidden {
+  opacity: 0 !important;
+  visibility: hidden !important;
+  pointer-events: none !important;
 
-  opacity: 0;
+  transform: scale(1.015);
 
-  visibility: hidden;
-
-  pointer-events: none;
-
+  transition:
+    opacity 0.65s ease,
+    visibility 0.65s ease,
+    transform 0.65s ease;
 }
 
 
-/* Ambient circles */
+/* =========================================================
+   Splash Content
+   ========================================================= */
 
-.splash-orbit {
+.splash-content {
+  width: 100%;
+
+  display: flex;
+  flex-direction: column;
+
+  align-items: center;
+  justify-content: center;
+
+  text-align: center;
+
+  transform: translateY(-2vh);
+}
+
+
+/* =========================================================
+   Logo Assembly
+   ========================================================= */
+
+.splash-logo-assembly {
+
+  position: relative;
+
+  width: 210px;
+  height: 210px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  margin-bottom: 22px;
+
+  animation:
+    splash-float 3.8s ease-in-out
+    2.2s infinite;
+}
+
+
+/*
+ * هر سه قطعه از همان لوگوی واقعی ساخته می‌شوند.
+ * بنابراین در پایان دقیقاً همان لوگو را تشکیل می‌دهند.
+ */
+
+.logo-piece {
 
   position: absolute;
 
-  left: 50%;
-  top: 50%;
+  inset: 0;
+
+  width: 100%;
+  height: 100%;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  overflow: hidden;
 
   border-radius: 50%;
 
-  border:
-    1px solid
-    rgba(255, 255, 255, 0.08);
-
   pointer-events: none;
+}
+
+
+.logo-piece img {
+
+  width: 170px;
+  height: 170px;
+
+  object-fit: contain;
+
+  display: block;
+
+  user-select: none;
+
+  -webkit-user-drag: none;
+}
+
+
+/* =========================================================
+   Assembly Pieces
+   ========================================================= */
+
+/*
+ * قطعه اول
+ */
+
+.logo-piece-1 {
+
+  clip-path: inset(0 66% 0 0);
+
+  transform:
+    translateX(-70px)
+    rotate(-14deg)
+    scale(0.72);
 
   opacity: 0;
 
+  animation:
+    logo-piece-left
+    1.25s
+    cubic-bezier(.2,.85,.25,1)
+    forwards;
+}
+
+
+/*
+ * قطعه دوم
+ */
+
+.logo-piece-2 {
+
+  clip-path: inset(0 33% 0 33%);
+
   transform:
-    translate(-50%, -50%);
+    translateY(65px)
+    scale(0.72);
+
+  opacity: 0;
 
   animation:
-    orbitAppear 1.4s ease forwards,
-    orbitRotate 12s linear infinite;
-
+    logo-piece-center
+    1.15s
+    cubic-bezier(.2,.85,.25,1)
+    0.12s
+    forwards;
 }
 
 
-.orbit-one {
+/*
+ * قطعه سوم
+ */
 
-  width: 280px;
-  height: 280px;
+.logo-piece-3 {
 
+  clip-path: inset(0 0 0 66%);
+
+  transform:
+    translateX(70px)
+    rotate(14deg)
+    scale(0.72);
+
+  opacity: 0;
+
+  animation:
+    logo-piece-right
+    1.25s
+    cubic-bezier(.2,.85,.25,1)
+    0.2s
+    forwards;
 }
 
 
-.orbit-two {
+/* =========================================================
+   Logo Assembly Animation
+   ========================================================= */
 
-  width: 390px;
-  height: 390px;
+@keyframes logo-piece-left {
 
-  animation-delay: 0.25s;
+  0% {
+    opacity: 0;
 
+    transform:
+      translateX(-70px)
+      rotate(-14deg)
+      scale(0.72);
+  }
+
+  65% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 1;
+
+    transform:
+      translateX(0)
+      rotate(0)
+      scale(1);
+  }
 }
 
 
-@keyframes orbitAppear {
+@keyframes logo-piece-center {
+
+  0% {
+    opacity: 0;
+
+    transform:
+      translateY(65px)
+      scale(0.72);
+  }
+
+  65% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 1;
+
+    transform:
+      translateY(0)
+      scale(1);
+  }
+}
+
+
+@keyframes logo-piece-right {
+
+  0% {
+    opacity: 0;
+
+    transform:
+      translateX(70px)
+      rotate(14deg)
+      scale(0.72);
+  }
+
+  65% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 1;
+
+    transform:
+      translateX(0)
+      rotate(0)
+      scale(1);
+  }
+}
+
+
+/* =========================================================
+   Subtle Logo Glow
+   ========================================================= */
+
+.splash-logo-assembly::after {
+
+  content: "";
+
+  position: absolute;
+
+  width: 150px;
+  height: 150px;
+
+  border-radius: 50%;
+
+  background:
+    radial-gradient(
+      circle,
+      rgba(255,255,255,0.10),
+      transparent 68%
+    );
+
+  filter: blur(18px);
+
+  z-index: -1;
+
+  animation:
+    splash-glow 2.8s ease-in-out
+    1.3s infinite;
+}
+
+
+@keyframes splash-glow {
+
+  0%,
+  100% {
+    transform: scale(0.85);
+    opacity: 0.45;
+  }
+
+  50% {
+    transform: scale(1.15);
+    opacity: 0.9;
+  }
+}
+
+
+/* =========================================================
+   Floating Logo
+   ========================================================= */
+
+@keyframes splash-float {
+
+  0%,
+  100% {
+    transform:
+      translateY(0);
+  }
+
+  50% {
+    transform:
+      translateY(-8px);
+  }
+}
+
+
+/* =========================================================
+   Splash Brand
+   ========================================================= */
+
+.splash-brand {
+
+  opacity: 0;
+
+  animation:
+    splash-brand-in
+    0.9s
+    ease
+    1.05s
+    forwards;
+}
+
+
+.splash-brand h1 {
+
+  margin: 0;
+
+  font-size: 32px;
+
+  font-weight: 800;
+
+  color: #ffffff;
+
+  letter-spacing: -0.5px;
+}
+
+
+.splash-brand p {
+
+  margin: 8px 0 0;
+
+  font-size: 16px;
+
+  color: rgba(
+    255,
+    255,
+    255,
+    0.72
+  );
+}
+
+
+@keyframes splash-brand-in {
 
   from {
 
     opacity: 0;
 
     transform:
-      translate(-50%, -50%)
-      scale(0.72);
+      translateY(12px);
 
   }
 
@@ -192,29 +498,109 @@ a {
     opacity: 1;
 
     transform:
-      translate(-50%, -50%)
-      scale(1);
+      translateY(0);
 
   }
-
 }
 
 
-@keyframes orbitRotate {
+/* =========================================================
+   Splash Loader
+   ========================================================= */
 
-  from {
+.splash-loader {
 
+  width: 90px;
+  height: 3px;
+
+  margin-top: 30px;
+
+  overflow: hidden;
+
+  border-radius: 99px;
+
+  background:
+    rgba(
+      255,
+      255,
+      255,
+      0.12
+    );
+}
+
+
+.splash-loader span {
+
+  display: block;
+
+  width: 35%;
+
+  height: 100%;
+
+  border-radius: inherit;
+
+  background:
+    linear-gradient(
+      90deg,
+      transparent,
+      rgba(255,255,255,0.9),
+      transparent
+    );
+
+  animation:
+    splash-loader
+    1.25s
+    ease-in-out
+    infinite;
+}
+
+
+@keyframes splash-loader {
+
+  0% {
     transform:
-      translate(-50%, -50%)
-      rotate(0deg);
+      translateX(-140%);
+  }
+
+  100% {
+    transform:
+      translateX(390%);
+  }
+}
+
+
+/* =========================================================
+   Mobile
+   ========================================================= */
+
+@media (max-width: 600px) {
+
+  .splash-logo-assembly {
+
+    width: 185px;
+    height: 185px;
 
   }
 
-  to {
 
-    transform:
-      translate(-50%, -50%)
-      rotate(360deg);
+  .logo-piece img {
+
+    width: 150px;
+    height: 150px;
+
+  }
+
+
+  .splash-brand h1 {
+
+    font-size: 28px;
+
+  }
+
+
+  .splash-brand p {
+
+    font-size: 15px;
 
   }
 
