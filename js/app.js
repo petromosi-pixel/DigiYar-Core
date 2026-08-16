@@ -41,21 +41,24 @@
 
   function toArray(value) {
 
-    if (Array.isArray(value)) {
-      return value;
-    }
-
-    return [];
+    return Array.isArray(value)
+      ? value
+      : [];
 
   }
 
 
   /* =======================================================
      Splash Screen — V4
+     Single Controlled Lifecycle
      ======================================================= */
 
   const splashScreen =
     $("splashScreen");
+
+
+  let splashClosed =
+    false;
 
 
   const splashStartedAt =
@@ -63,15 +66,11 @@
 
 
   const MIN_SPLASH_TIME =
-    2600;
+    2800;
 
 
   const MAX_SPLASH_TIME =
-    4000;
-
-
-  let splashClosed =
-    false;
+    5000;
 
 
   function hideSplash() {
@@ -95,6 +94,11 @@
     );
 
 
+    /*
+     * بعد از پایان fade-out،
+     * Splash از DOM حذف می‌شود.
+     */
+
     setTimeout(
       function () {
 
@@ -103,12 +107,14 @@
           splashScreen.parentNode
         ) {
 
-          splashScreen.remove();
+          splashScreen.parentNode.removeChild(
+            splashScreen
+          );
 
         }
 
       },
-      700
+      750
     );
 
   }
@@ -142,15 +148,11 @@
 
 
   /*
-   * دیگر منتظر window.load نمی‌مانیم.
-   * بنابراین خراب شدن یک asset،
-   * API یا Service Worker نمی‌تواند
-   * Splash را برای همیشه نگه دارد.
+   * Splash هرگز منتظر window.load نمی‌ماند.
    */
 
   if (
-    document.readyState ===
-    "loading"
+    document.readyState === "loading"
   ) {
 
     document.addEventListener(
@@ -168,135 +170,16 @@
   }
 
 
-/* =======================================================
-   Splash Screen — V4
-   ======================================================= */
-
-const splashScreen =
-  $("splashScreen");
-
-let splashClosed =
-  false;
-
-const splashStartedAt =
-  performance.now();
-
-const MIN_SPLASH_TIME =
-  2500;
-
-const MAX_SPLASH_TIME =
-  3500;
-
-
-function hideSplash() {
-
-  if (splashClosed) {
-    return;
-  }
-
-  splashClosed = true;
-
-
-  if (!splashScreen) {
-    return;
-  }
-
-
-  splashScreen.classList.add(
-    "splash-hidden"
-  );
-
-
   /*
-   * بعد از fade-out، عنصر کاملاً
-   * از DOM خارج می‌شود.
+   * Fail-safe:
+   * حتی اگر خطایی در Core یا Assetها رخ دهد،
+   * Splash حداکثر بعد از MAX_SPLASH_TIME حذف می‌شود.
    */
 
   setTimeout(
-    function () {
-
-      if (
-        splashScreen &&
-        splashScreen.parentNode
-      ) {
-
-        splashScreen.parentNode
-          .removeChild(
-            splashScreen
-          );
-
-      }
-
-    },
-    700
-  );
-
-}
-
-
-function finishSplash() {
-
-  if (splashClosed) {
-    return;
-  }
-
-
-  const elapsed =
-    performance.now() -
-    splashStartedAt;
-
-
-  const remaining =
-    Math.max(
-      0,
-      MIN_SPLASH_TIME -
-      elapsed
-    );
-
-
-  setTimeout(
     hideSplash,
-    remaining
+    MAX_SPLASH_TIME
   );
-
-}
-
-
-/*
- * دیگر به window.load وابسته نیستیم.
- */
-
-if (
-  document.readyState ===
-  "loading"
-) {
-
-  document.addEventListener(
-    "DOMContentLoaded",
-    finishSplash,
-    {
-      once: true
-    }
-  );
-
-} else {
-
-  finishSplash();
-
-}
-
-
-/*
- * Fail-safe مطلق
- *
- * حتی اگر هر چیز دیگری خراب شود،
- * Splash حداکثر ۳.۵ ثانیه می‌ماند.
- */
-
-setTimeout(
-  hideSplash,
-  MAX_SPLASH_TIME
-);
 
 
   /* =======================================================
@@ -335,8 +218,7 @@ setTimeout(
 
 
       if (
-        context.state ===
-        "suspended"
+        context.state === "suspended"
       ) {
 
         context.resume();
@@ -366,7 +248,7 @@ setTimeout(
 
       master.gain.exponentialRampToValueAtTime(
         0.0001,
-        now + 1.1
+        now + 1.15
       );
 
 
@@ -375,10 +257,16 @@ setTimeout(
       );
 
 
+      /*
+       * نت‌های کوتاه و صعودی:
+       * حس ورود / شکل‌گیری / تأکید برند
+       */
+
       const frequencies = [
         523.25,
         659.25,
-        783.99
+        783.99,
+        1046.50
       ];
 
 
@@ -406,12 +294,12 @@ setTimeout(
 
           const start =
             now +
-            index * 0.13;
+            index * 0.14;
 
 
           const end =
             start +
-            0.55;
+            0.58;
 
 
           gain.gain.setValueAtTime(
@@ -421,7 +309,7 @@ setTimeout(
 
 
           gain.gain.exponentialRampToValueAtTime(
-            0.18,
+            0.16,
             start + 0.025
           );
 
@@ -465,7 +353,7 @@ setTimeout(
           }
 
         },
-        1400
+        1500
       );
 
 
@@ -482,8 +370,10 @@ setTimeout(
 
 
   /*
-   * مرورگرهای موبایل معمولاً صدای خودکار
-   * بدون تعامل کاربر را مسدود می‌کنند.
+   * صدای Splash روی موبایل معمولاً
+   * بدون تعامل کاربر اجازه پخش ندارد.
+   *
+   * بنابراین با اولین لمس/کلیک کاربر فعال می‌شود.
    */
 
   window.addEventListener(
@@ -582,13 +472,12 @@ setTimeout(
   function getRecommendations(need) {
 
     /*
-     * اولویت با موتور Smart Recommendation V4
+     * موتور اصلی V4
      */
 
     if (
       window.DigiYarSmartRecommendation &&
-      typeof
-        DigiYarSmartRecommendation.recommend ===
+      typeof DigiYarSmartRecommendation.recommend ===
         "function"
     ) {
 
@@ -600,12 +489,8 @@ setTimeout(
           );
 
 
-        if (
-          Array.isArray(result)
-        ) {
-
+        if (Array.isArray(result)) {
           return result;
-
         }
 
 
@@ -633,7 +518,7 @@ setTimeout(
 
 
     /*
-     * سازگاری با نام‌های احتمالی دیگر
+     * سازگاری با نام جایگزین
      */
 
     if (
@@ -651,12 +536,8 @@ setTimeout(
           );
 
 
-        if (
-          Array.isArray(result)
-        ) {
-
+        if (Array.isArray(result)) {
           return result;
-
         }
 
 
@@ -684,13 +565,12 @@ setTimeout(
 
 
     /*
-     * Fallback برای سازگاری با Core قبلی
+     * Fallback به موتور امتیازدهی V3/V4
      */
 
     if (
       window.DigiYarProductScoring &&
-      typeof
-        DigiYarProductScoring.recommend ===
+      typeof DigiYarProductScoring.recommend ===
         "function"
     ) {
 
@@ -702,12 +582,8 @@ setTimeout(
           );
 
 
-        if (
-          Array.isArray(result)
-        ) {
-
+        if (Array.isArray(result)) {
           return result;
-
         }
 
       } catch (error) {
@@ -739,8 +615,7 @@ setTimeout(
 
 
     if (
-      typeof product.explanation ===
-      "string" &&
+      typeof product.explanation === "string" &&
       product.explanation.trim()
     ) {
 
@@ -750,8 +625,7 @@ setTimeout(
 
 
     /*
-     * اگر موتور V4 explanation نداشت،
-     * از reasons فقط یک بار استفاده می‌کنیم.
+     * Fallback فقط برای سازگاری با Core قدیمی.
      */
 
     if (
@@ -829,63 +703,45 @@ setTimeout(
       >
 
         <div class="score">
-
           ${escapeHTML(score)}%
-
         </div>
 
 
         <h3>
-
           ${escapeHTML(
             product.name ||
             "محصول پیشنهادی"
           )}
-
         </h3>
 
 
         <p>
-
           ${escapeHTML(price)}
-
         </p>
 
 
         ${
           features.length
-
             ? `
-
               <p>
-
                 ${escapeHTML(
                   features.join("، ")
                 )}
-
               </p>
-
             `
-
             : ""
         }
 
 
         ${
           explanation
-
             ? `
-
               <p class="recommendation-explanation">
-
                 ${escapeHTML(
                   explanation
                 )}
-
               </p>
-
             `
-
             : ""
         }
 
@@ -895,9 +751,7 @@ setTimeout(
           target="_blank"
           rel="noopener noreferrer"
         >
-
           مشاهده فروشگاه
-
         </a>
 
       </article>
@@ -960,7 +814,9 @@ setTimeout(
 
 
     if (
-      !window.DigiYarNeedEngine
+      !window.DigiYarNeedEngine ||
+      typeof DigiYarNeedEngine.buildNeedFromProfile !==
+        "function"
     ) {
 
       needSummary.className =
@@ -990,10 +846,9 @@ setTimeout(
     try {
 
       need =
-        DigiYarNeedEngine
-          .buildNeedFromProfile(
-            profile
-          );
+        DigiYarNeedEngine.buildNeedFromProfile(
+          profile
+        );
 
     } catch (error) {
 
@@ -1021,9 +876,7 @@ setTimeout(
 
 
     if (!need) {
-
       return;
-
     }
 
 
@@ -1099,9 +952,9 @@ setTimeout(
     `;
 
 
-    /*
-     * V4 Recommendation Chain
-     */
+    /* =====================================================
+       V4 Recommendation Chain
+       ===================================================== */
 
     const recommendations =
       getRecommendations(
@@ -1188,9 +1041,7 @@ setTimeout(
       $("budgetMax").value =
         declared.budget &&
         declared.budget.max
-
           ? declared.budget.max
-
           : "";
 
     }
@@ -1270,12 +1121,9 @@ setTimeout(
         }
 
 
-        let profile;
-
-
         try {
 
-          profile =
+          const profile =
             DigiYarUserProfile.normalize({
 
               category:
@@ -1372,9 +1220,7 @@ setTimeout(
         }
 
 
-        if (
-          $("profileForm")
-        ) {
+        if ($("profileForm")) {
 
           $("profileForm").reset();
 
@@ -1413,8 +1259,7 @@ setTimeout(
     try {
 
       savedProfile =
-        DigiYarUserProfile
-          .getProfile();
+        DigiYarUserProfile.getProfile();
 
     } catch (error) {
 
@@ -1478,8 +1323,7 @@ setTimeout(
           "hidden"
         );
 
-
-        requestAnimationFrame(
+   requestAnimationFrame(
           function () {
 
             installPrompt.classList.add(
@@ -1510,4 +1354,91 @@ setTimeout(
         }
 
 
-      
+        try {
+
+          deferredInstallPrompt.prompt();
+
+
+          const choice =
+            await deferredInstallPrompt.userChoice;
+
+
+          if (
+            choice &&
+            choice.outcome === "accepted"
+          ) {
+
+            deferredInstallPrompt =
+              null;
+
+            if (installPrompt) {
+
+              installPrompt.classList.remove(
+                "show"
+              );
+
+              setTimeout(
+                function () {
+
+                  installPrompt.classList.add(
+                    "hidden"
+                  );
+
+                },
+                250
+              );
+
+            }
+
+          }
+
+        } catch (error) {
+
+          console.warn(
+            "DigiYar Install Prompt:",
+            error
+          );
+
+        }
+
+      }
+    );
+
+  }
+
+
+  if (installDismiss) {
+
+    installDismiss.addEventListener(
+      "click",
+      function () {
+
+        if (!installPrompt) {
+          return;
+        }
+
+
+        installPrompt.classList.remove(
+          "show"
+        );
+
+
+        setTimeout(
+          function () {
+
+            installPrompt.classList.add(
+              "hidden"
+            );
+
+          },
+          250
+        );
+
+      }
+    );
+
+  }
+
+
+})();
+       
