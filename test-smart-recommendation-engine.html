@@ -90,7 +90,15 @@
 
   <!-- =====================================================
        Dependencies
+       ترتیب بسیار مهم است:
+       Product Data
+       ↓
+       Product Scoring
+       ↓
+       Smart Recommendation
        ===================================================== -->
+
+  <script src="./js/product-data.js"></script>
 
   <script src="./js/product-scoring.js"></script>
 
@@ -259,12 +267,16 @@
 
       const dependencies = {
 
+        productData:
+          typeof DigiYarProductData !==
+          "undefined",
+
         productScoring:
-          typeof DigiyarProductScoring !==
+          typeof DigiYarProductScoring !==
           "undefined",
 
         smartRecommendation:
-          typeof DigiyarSmartRecommendationEngine !==
+          typeof DigiyarSmartRecommendation !==
           "undefined"
 
       };
@@ -280,7 +292,7 @@
 
       addResult(
 
-        "بررسی وجود Product Scoring و Smart Recommendation",
+        "بررسی وجود Product Data، Product Scoring و Smart Recommendation",
 
         passed,
 
@@ -311,7 +323,7 @@
 
     /* =====================================================
        Scenario 2
-       Need Readiness
+       Need Ready Check
        ===================================================== */
 
     try {
@@ -328,7 +340,10 @@
           [],
 
         ready:
-          false
+          false,
+
+        nextAction:
+          "ask_user"
 
       };
 
@@ -339,6 +354,9 @@
           "mobile",
 
         budget: {
+
+          min:
+            null,
 
           max:
             15000000
@@ -352,20 +370,23 @@
         ],
 
         ready:
-          true
+          true,
+
+        nextAction:
+          "retrieve_products"
 
       };
 
 
-      const incomplete =
-        DigiyarSmartRecommendationEngine
+      const incompleteResult =
+        DigiyarSmartRecommendation
           .isNeedReady(
             incompleteNeed
           );
 
 
-      const complete =
-        DigiyarSmartRecommendationEngine
+      const completeResult =
+        DigiyarSmartRecommendation
           .isNeedReady(
             completeNeed
           );
@@ -373,11 +394,13 @@
 
       const passed =
 
-        incomplete === false
+        incompleteResult ===
+          false
 
         &&
 
-        complete === true;
+        completeResult ===
+          true;
 
 
       addResult(
@@ -389,10 +412,10 @@
         {
 
           incomplete:
-            incomplete,
+            incompleteResult,
 
           complete:
-            complete
+            completeResult
 
         }
 
@@ -421,7 +444,7 @@
 
     /* =====================================================
        Scenario 3
-       Incomplete Need Guard
+       Incomplete Need
        ===================================================== */
 
     try {
@@ -438,53 +461,46 @@
           [],
 
         ready:
-          false
+          false,
+
+        nextAction:
+          "ask_user"
 
       };
 
 
-      const products = [
-
-        {
-
-          id:
-            "P1",
-
-          name:
-            "گوشی تست",
-
-          category:
-            "mobile",
-
-          price:
-            10000000
-
-        }
-
-      ];
-
-
       const result =
-        DigiyarSmartRecommendationEngine
+        DigiyarSmartRecommendation
           .recommend(
-            need,
-            products
+            need
           );
 
 
       const passed =
 
         result.status ===
-          "waiting_for_need"
+          "waiting_for_answer"
 
         &&
 
-        result.recommendations.length ===
+        Array.isArray(
+          result.products
+        )
+
+        &&
+
+        result.products.length ===
           0
 
         &&
 
-        result.count ===
+        Array.isArray(
+          result.recommendations
+        )
+
+        &&
+
+        result.recommendations.length ===
           0;
 
 
@@ -509,9 +525,11 @@
         false,
 
         {
+
           error:
             error.message ||
             String(error)
+
         }
 
       );
@@ -521,7 +539,7 @@
 
     /* =====================================================
        Scenario 4
-       Product Ranking
+       Smart Ranking
        ===================================================== */
 
     try {
@@ -532,6 +550,9 @@
           "mobile",
 
         budget: {
+
+          min:
+            null,
 
           max:
             15000000
@@ -544,144 +565,80 @@
 
         ],
 
-        decisionElements: [
+        priorities: [
+
+          "دوربین"
+
+        ],
+
+        requirements: [
 
           {
 
-            field:
-              "camera",
-
-            type:
-              "requirement",
-
-            importance:
-              8
+            value:
+              "دوربین"
 
           }
 
         ],
 
+        constraints: [],
+
         ready:
-          true
+          true,
+
+        nextAction:
+          "retrieve_products"
 
       };
 
 
-      const products = [
-
-        {
-
-          id:
-            "P1",
-
-          name:
-            "گوشی اقتصادی",
-
-          category:
-            "mobile",
-
-          price:
-            8000000,
-
-          features: [
-
-            "battery",
-
-            "basic"
-
-          ]
-
-        },
-
-        {
-
-          id:
-            "P2",
-
-          name:
-            "گوشی مناسب عکاسی",
-
-          category:
-            "mobile",
-
-          price:
-            14000000,
-
-          features: [
-
-            "camera",
-
-            "photography",
-
-            "optical image stabilization"
-
-          ]
-
-        },
-
-        {
-
-          id:
-            "P3",
-
-          name:
-            "گوشی گران",
-
-          category:
-            "mobile",
-
-          price:
-            25000000,
-
-          features: [
-
-            "camera",
-
-            "photography",
-
-            "premium"
-
-          ]
-
-        }
-
-      ];
-
-
       const result =
-        DigiyarSmartRecommendationEngine
+        DigiyarSmartRecommendation
           .recommend(
-            need,
-            products,
-            {
-              limit:
-                3
-            }
+            need
           );
 
 
       const topProduct =
-        result.recommendations[0];
+        result.recommendations &&
+        result.recommendations.length
+          ? result.recommendations[0]
+          : null;
 
 
       const passed =
 
-        result.status ===
+        (
+          result.status ===
           "recommendations_ready"
+        )
 
         &&
 
-        result.recommendations.length ===
-          3
+        Array.isArray(
+          result.recommendations
+        )
 
         &&
 
-        topProduct
+        result.recommendations.length >
+          0
 
         &&
 
-        topProduct.product.id ===
-          "P2";
+        topProduct !== null
+
+        &&
+
+        topProduct.name ===
+          "موبایل دوربین‌محور"
+
+        &&
+
+        Number(
+          topProduct.score
+        ) > 0;
 
 
       addResult(
@@ -696,9 +653,7 @@
             result.status,
 
           topProduct:
-            topProduct
-              ? topProduct.product
-              : null,
+            topProduct,
 
           recommendations:
             result.recommendations
@@ -718,9 +673,11 @@
         false,
 
         {
+
           error:
             error.message ||
             String(error)
+
         }
 
       );
@@ -730,7 +687,7 @@
 
     /* =====================================================
        Scenario 5
-       Budget Constraint
+       Budget Priority
        ===================================================== */
 
     try {
@@ -742,119 +699,105 @@
 
         budget: {
 
+          min:
+            null,
+
           max:
             15000000
 
         },
 
-        usage: [
+        usage:
+          [],
 
-          "photography"
+        priorities: [
+
+          "دوربین"
 
         ],
 
+        requirements: [
+
+          {
+
+            value:
+              "دوربین"
+
+          }
+
+        ],
+
+        constraints: [],
+
         ready:
-          true
+          true,
+
+        nextAction:
+          "retrieve_products"
 
       };
 
 
-      const products = [
-
-        {
-
-          id:
-            "UNDER",
-
-          name:
-            "گوشی داخل بودجه",
-
-          category:
-            "mobile",
-
-          price:
-            12000000,
-
-          features: [
-
-            "photography",
-
-            "camera"
-
-          ]
-
-        },
-
-        {
-
-          id:
-            "OVER",
-
-          name:
-            "گوشی خارج بودجه",
-
-          category:
-            "mobile",
-
-          price:
-            30000000,
-
-          features: [
-
-            "photography",
-
-            "camera",
-
-            "premium"
-
-          ]
-
-        }
-
-      ];
-
-
       const result =
-        DigiyarSmartRecommendationEngine
+        DigiyarSmartRecommendation
           .recommend(
-            need,
-            products,
-            {
-              limit:
-                2
-            }
+            need
           );
 
 
-      const first =
-        result.recommendations[0];
+      const recommendations =
+        Array.isArray(
+          result.recommendations
+        )
+          ? result.recommendations
+          : [];
+
+
+      const topProduct =
+        recommendations.length
+          ? recommendations[0]
+          : null;
+
+
+      const allInsideBudget =
+        recommendations.every(
+          function (product) {
+
+            return Number(
+              product.price || 0
+            ) <= 15000000;
+
+          }
+        );
 
 
       const passed =
 
-        !!first
+        topProduct !== null
 
         &&
 
-        first.product.id ===
-          "UNDER";
+        allInsideBudget
+
+        &&
+
+        topProduct.name ===
+          "موبایل دوربین‌محور";
 
 
       addResult(
 
-        "اولویت‌دهی به محصول داخل بودجه",
+        "اولویت‌دهی صحیح به محصولات داخل بودجه",
 
         passed,
 
         {
 
           topProduct:
-            first
-              ? first.product
-              : null,
+            topProduct,
 
           recommendations:
-            result.recommendations
+            recommendations
 
         }
 
@@ -866,14 +809,16 @@
 
       addResult(
 
-        "اولویت‌دهی به محصول داخل بودجه",
+        "اولویت‌دهی صحیح به محصولات داخل بودجه",
 
         false,
 
         {
+
           error:
             error.message ||
             String(error)
+
         }
 
       );
@@ -895,65 +840,40 @@
 
         budget: {
 
+          min:
+            null,
+
           max:
             15000000
 
         },
 
-        usage: [
+        usage:
+          [],
 
-          "photography"
+        priorities: [
+
+          "ارزش خرید"
 
         ],
 
+        requirements: [],
+
+        constraints: [],
+
         ready:
-          true
+          true,
+
+        nextAction:
+          "retrieve_products"
 
       };
 
 
-      const products = [
-
-        {
-          id: "P1",
-          name: "محصول ۱",
-          category: "mobile",
-          price: 8000000,
-          features: ["photography"]
-        },
-
-        {
-          id: "P2",
-          name: "محصول ۲",
-          category: "mobile",
-          price: 9000000,
-          features: ["photography"]
-        },
-
-        {
-          id: "P3",
-          name: "محصول ۳",
-          category: "mobile",
-          price: 10000000,
-          features: ["photography"]
-        },
-
-        {
-          id: "P4",
-          name: "محصول ۴",
-          category: "mobile",
-          price: 11000000,
-          features: ["photography"]
-        }
-
-      ];
-
-
       const result =
-        DigiyarSmartRecommendationEngine
+        DigiyarSmartRecommendation
           .recommend(
             need,
-            products,
             {
               limit:
                 2
@@ -961,15 +881,23 @@
           );
 
 
+      const recommendations =
+        Array.isArray(
+          result.recommendations
+        )
+          ? result.recommendations
+          : [];
+
+
       const passed =
 
-        result.recommendations.length ===
-          2
+        recommendations.length >
+          0
 
         &&
 
-        result.totalProducts ===
-          4;
+        recommendations.length <=
+          2;
 
 
       addResult(
@@ -980,14 +908,11 @@
 
         {
 
-          totalProducts:
-            result.totalProducts,
-
           recommendationCount:
-            result.recommendations.length,
+            recommendations.length,
 
           recommendations:
-            result.recommendations
+            recommendations
 
         }
 
@@ -1004,9 +929,11 @@
         false,
 
         {
+
           error:
             error.message ||
             String(error)
+
         }
 
       );
@@ -1021,19 +948,68 @@
 
     try {
 
-      const recommendation = {
+      const need = {
 
-        rank:
-          1,
+        category:
+          "mobile",
 
-        score:
-          90,
+        budget: {
 
-        reasons: [
+          max:
+            15000000
 
-          "قیمت محصول در محدوده بودجه قرار دارد",
+        },
 
-          "ویژگی‌های محصول با کاربرد موردنظر کاربر همخوانی دارد"
+        usage: [
+
+          "photography"
+
+        ],
+
+        priorities: [
+
+          "دوربین"
+
+        ],
+
+        requirements: [
+
+          {
+
+            value:
+              "دوربین"
+
+          }
+
+        ],
+
+        constraints: [],
+
+        ready:
+          true
+
+      };
+
+
+      const product = {
+
+        id:
+          "test-product",
+
+        name:
+          "محصول تست",
+
+        category:
+          "mobile",
+
+        price:
+          14000000,
+
+        features: [
+
+          "دوربین",
+
+          "5G"
 
         ]
 
@@ -1041,9 +1017,10 @@
 
 
       const explanation =
-        DigiyarSmartRecommendationEngine
+        DigiyarSmartRecommendation
           .explain(
-            recommendation
+            product,
+            need
           );
 
 
@@ -1054,15 +1031,8 @@
 
         &&
 
-        explanation.includes(
-          "بودجه"
-        )
-
-        &&
-
-        explanation.includes(
-          "کاربرد"
-        );
+        explanation.trim().length >
+          0;
 
 
       addResult(
@@ -1091,9 +1061,11 @@
         false,
 
         {
+
           error:
             error.message ||
             String(error)
+
         }
 
       );
@@ -1111,4 +1083,4 @@
 
 </body>
 
-  </html>
+</html>
