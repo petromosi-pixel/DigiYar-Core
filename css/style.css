@@ -1,39 +1,6 @@
 /* =========================================================
-   DigiYar V3
-   Brand & Main Stylesheet
-   ========================================================= */
-
-:root {
-  /* DigiYar Brand Colors */
-  --brand-navy: #101c35;
-  --brand-navy-light: #172544;
-  --brand-navy-soft: #223456;
-
-  --brand-orange: #f7941d;
-  --brand-orange-light: #ffb347;
-  --brand-orange-soft: #fff1df;
-
-  --page-bg: #f6f7f9;
-  --white: #ffffff;
-
-  --text-main: #101c35;
-  --text-dark: #202124;
-  --text-secondary: #667085;
-  --text-muted: #858a93;
-
-  --border: #e2e5ea;
-  --border-light: #e5e8ee;
-
-  --shadow-soft:
-    0 4px 18px rgba(16, 28, 53, 0.05);
-
-  --shadow-brand:
-    0 10px 28px rgba(16, 28, 53, 0.18);
-}
-
-
-/* =========================================================
-   Base
+   DigiYar V4
+   Main Application Styles
    ========================================================= */
 
 * {
@@ -46,1079 +13,782 @@ html {
 
 body {
   margin: 0;
-
-  background: var(--page-bg);
-
-  color: var(--text-dark);
-
-  font-family:
-    Tahoma,
-    Arial,
-    sans-serif;
-
-  line-height: 1.7;
+  font-family: Tahoma, Arial, sans-serif;
+  background: #f4f6fa;
+  color: #172033;
+  line-height: 1.8;
 }
 
+button,
+input,
+select {
+  font-family: inherit;
+}
+
+button,
+a {
+  -webkit-tap-highlight-color: transparent;
+}
+
+.app-shell {
+  width: min(100% - 24px, 920px);
+  margin: 0 auto;
+  padding-bottom: 40px;
+}
 
 /* =========================================================
-   Splash Screen
+   Splash
    ========================================================= */
 
 .splash-screen {
   position: fixed;
-
   inset: 0;
-
   z-index: 9999;
-
   display: flex;
-
   align-items: center;
   justify-content: center;
-
   background:
     radial-gradient(
       circle at center,
-      #182746 0%,
-      var(--brand-navy) 55%,
-      #0b1428 100%
+      #263a63 0%,
+      #172542 45%,
+      #101c35 100%
     );
+  transition: opacity 0.7s ease, visibility 0.7s ease;
+}
+
+.splash-screen.splash-hidden {
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
 }
 
 .splash-content {
-  width: min(88%, 430px);
-
+  width: 100%;
+  max-width: 360px;
   text-align: center;
-
-  color: var(--white);
-
-  animation:
-    splashEnter 1s ease both;
+  color: white;
+  padding: 24px;
 }
 
 .splash-logo-wrap {
-  width: 210px;
-  height: 210px;
-
-  margin:
-    0 auto 20px;
-
+  width: 128px;
+  height: 128px;
+  margin: 0 auto 18px;
   display: flex;
-
   align-items: center;
   justify-content: center;
-
-  border-radius: 42px;
-
-  background:
-    rgba(255, 255, 255, 0.08);
-
-  box-shadow:
-    0 0 0 1px rgba(255,255,255,0.08),
-    0 20px 60px rgba(0,0,0,0.3);
-
-  animation:
-    logoFloat 2s ease-in-out infinite;
 }
 
 .splash-logo {
-  width: 178px;
-  height: 178px;
-
+  width: 100%;
+  height: 100%;
   object-fit: contain;
-
-  display: block;
-
-  border-radius: 32px;
 }
 
 .splash-brand h1 {
   margin: 0;
-
-  font-size: 36px;
-
-  font-weight: 900;
-
-  color: var(--brand-orange);
+  font-size: 34px;
 }
 
 .splash-brand p {
-  margin:
-    3px 0 18px;
-
-  font-size: 15px;
-
-  color: var(--white);
+  margin: 4px 0 22px;
+  opacity: 0.85;
 }
 
 .splash-loader {
-  width: 110px;
-  height: 3px;
-
-  margin:
-    27px auto 0;
-
+  width: 120px;
+  height: 4px;
+  margin: auto;
   overflow: hidden;
-
-  border-radius: 10px;
-
-  background:
-    rgba(255,255,255,0.15);
+  border-radius: 20px;
+  background: rgba(255, 255, 255, 0.18);
 }
 
 .splash-loader span {
   display: block;
-
-  width: 40%;
+  width: 45%;
   height: 100%;
-
   border-radius: inherit;
-
-  background: var(--brand-orange);
-
-  animation:
-    loaderMove 1.2s ease-in-out infinite;
+  background: #e6123d;
+  animation: splash-loading 1.2s ease-in-out infinite;
 }
 
-.splash-hidden {
-  animation:
-    splashExit 0.7s ease forwards;
-}
-
-
-/* =========================================================
-   Splash Animations
-   ========================================================= */
-
-@keyframes splashEnter {
-
-  from {
-    opacity: 0;
-
-    transform:
-      translateY(25px)
-      scale(0.94);
-  }
-
-  to {
-    opacity: 1;
-
-    transform:
-      translateY(0)
-      scale(1);
-  }
-
-}
-
-@keyframes logoFloat {
-
-  0%,
-  100% {
-    transform:
-      translateY(0)
-      scale(1);
+@keyframes splash-loading {
+  0% {
+    transform: translateX(220%);
   }
 
   50% {
-    transform:
-      translateY(-8px)
-      scale(1.02);
-  }
-
-}
-
-@keyframes loaderMove {
-
-  0% {
-    transform:
-      translateX(180%);
+    transform: translateX(40%);
   }
 
   100% {
-    transform:
-      translateX(-280%);
+    transform: translateX(-220%);
   }
-
 }
-
-@keyframes splashExit {
-
-  from {
-    opacity: 1;
-
-    visibility: visible;
-  }
-
-  to {
-    opacity: 0;
-
-    visibility: hidden;
-
-    pointer-events: none;
-  }
-
-}
-
-
-/* =========================================================
-   Main Application
-   ========================================================= */
-
-.app-shell {
-  max-width: 980px;
-
-  margin: auto;
-
-  padding:
-    0 18px 18px;
-}
-
 
 /* =========================================================
    Header
    ========================================================= */
 
 .main-header {
-  margin:
-    0 -18px 22px;
-
-  background:
-    linear-gradient(
-      135deg,
-      var(--brand-navy),
-      var(--brand-navy-light)
-    );
-
-  border-radius:
-    0 0 30px 30px;
-
-  box-shadow:
-    var(--shadow-brand);
+  padding: 18px 0 14px;
 }
 
 .header-content {
-  min-height: 150px;
-
-  max-width: 980px;
-
-  margin: auto;
-
-  padding:
-    28px 18px;
-
-  display: flex;
-
-  align-items: center;
-  justify-content: center;
-
   position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  min-height: 58px;
 }
 
 .header-text {
   display: flex;
-
   flex-direction: column;
-
-  align-items: center;
-
-  justify-content: center;
-
-  text-align: center;
+  gap: 2px;
 }
 
 .header-text strong {
-  color: var(--white);
-
-  font-size: 38px;
-
-  line-height: 1.25;
-
-  font-weight: 900;
-
-  letter-spacing: -0.5px;
+  font-size: 24px;
+  color: #101c35;
 }
 
 .header-text span {
-  margin-top: 6px;
-
-  color: #e8edf5;
-
-  font-size: 18px;
-
-  line-height: 1.6;
-
-  font-weight: 500;
+  font-size: 13px;
+  color: #687286;
 }
-
 
 /* =========================================================
    Cards
    ========================================================= */
 
 .card {
-  background: var(--white);
-
-  border:
-    1px solid var(--border-light);
-
-  border-radius: 18px;
-
-  padding: 18px;
-
-  margin-bottom: 16px;
-
-  box-shadow:
-    var(--shadow-soft);
+  margin-bottom: 18px;
+  padding: 20px;
+  background: #ffffff;
+  border: 1px solid #e7eaf0;
+  border-radius: 20px;
+  box-shadow: 0 8px 28px rgba(16, 28, 53, 0.06);
 }
 
 .section-title {
-  display: flex;
+  margin-bottom: 20px;
+}
 
-  align-items: center;
-
-  justify-content: space-between;
-
-  gap: 10px;
-
-  margin-bottom: 14px;
+.section-kicker {
+  display: inline-block;
+  margin-bottom: 4px;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  color: #e6123d;
 }
 
 .section-title h2 {
   margin: 0;
-
-  color: var(--text-main);
-
-  font-size: 18px;
+  font-size: 22px;
+  color: #172033;
 }
 
 .section-title p {
-  margin:
-    3px 0 0;
-
-  color: var(--text-secondary);
-
-  font-size: 12px;
+  margin: 5px 0 0;
+  color: #70798a;
+  font-size: 13px;
 }
 
-
 /* =========================================================
-   Form
+   Profile
    ========================================================= */
 
 .form-grid {
   display: grid;
-
-  grid-template-columns:
-    repeat(2, minmax(0, 1fr));
-
-  gap: 12px;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px;
 }
 
 .form-grid label {
-  color: #50545c;
-
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
   font-size: 13px;
+  font-weight: 700;
+  color: #354057;
 }
 
-.form-grid input,
-.form-grid select {
-  display: block;
+.form-grid .full {
+  grid-column: 1 / -1;
+}
 
+input,
+select {
   width: 100%;
-
-  margin-top: 5px;
-
-  padding: 11px;
-
-  border:
-    1px solid #d9dde5;
-
-  border-radius: 11px;
-
-  background: var(--white);
-
-  color: var(--text-dark);
-
-  font: inherit;
-
+  min-height: 48px;
+  padding: 11px 13px;
+  border: 1px solid #dce1e9;
+  border-radius: 12px;
   outline: none;
-
+  background: #fafbfc;
+  color: #172033;
+  font-size: 14px;
   transition:
     border-color 0.2s ease,
-    box-shadow 0.2s ease;
+    box-shadow 0.2s ease,
+    background 0.2s ease;
 }
 
-.form-grid input:focus,
-.form-grid select:focus {
-  border-color:
-    var(--brand-orange);
-
-  box-shadow:
-    0 0 0 3px
-    rgba(247,148,29,0.14);
+input:focus,
+select:focus {
+  border-color: #e6123d;
+  background: #ffffff;
+  box-shadow: 0 0 0 3px rgba(230, 18, 61, 0.08);
 }
 
 .input-hint {
-  display: block;
-
-  margin-top: 3px;
-
-  color: #999;
-
-  font-size: 10px;
-}
-
-.full {
-  grid-column: 1 / -1;
+  color: #8a92a1;
+  font-size: 11px;
+  font-weight: 400;
 }
 
 .form-actions {
   display: flex;
-
   align-items: center;
-
   gap: 12px;
-
   margin-top: 4px;
 }
 
 .primary {
-  background:
-    var(--brand-orange);
-
-  color: var(--white);
-
+  min-height: 50px;
+  padding: 0 24px;
   border: 0;
-
-  border-radius: 11px;
-
-  padding:
-    11px 16px;
-
-  font-family: inherit;
-
+  border-radius: 13px;
+  background: #e6123d;
+  color: #ffffff;
+  font-size: 14px;
   font-weight: 700;
-
   cursor: pointer;
-
+  box-shadow: 0 7px 18px rgba(230, 18, 61, 0.2);
   transition:
     transform 0.2s ease,
-    filter 0.2s ease,
     box-shadow 0.2s ease;
 }
 
 .primary:hover {
-  filter: brightness(0.96);
-
-  transform:
-    translateY(-1px);
-
-  box-shadow:
-    0 5px 14px
-    rgba(247,148,29,0.25);
-}
-
-.primary:active {
-  transform:
-    translateY(0);
+  transform: translateY(-1px);
+  box-shadow: 0 10px 22px rgba(230, 18, 61, 0.25);
 }
 
 .text-btn {
   border: 0;
-
   background: transparent;
-
-  color: #777;
-
-  font-family: inherit;
-
-  font-size: 12px;
-
+  color: #6f7889;
   cursor: pointer;
+  font-size: 13px;
 }
 
 .storage-note {
-  margin:
-    15px 0 0;
-
-  padding-top: 12px;
-
-  border-top:
-    1px solid #eeeeee;
-
-  text-align: center;
-
-  color: #999;
-
+  margin: 18px 0 0;
+  color: #8a92a1;
   font-size: 11px;
 }
 
-
 /* =========================================================
-   Results
+   Need Summary — V4
    ========================================================= */
 
 .need-summary {
-  padding: 14px;
-
-  border-radius: 13px;
-
-  background: #f7f8fa;
-
-  color: var(--text-main);
-
-  font-size: 14px;
+  margin-bottom: 20px;
+  padding: 18px;
+  border: 1px solid #e2e7ef;
+  border-radius: 16px;
+  background: linear-gradient(
+    135deg,
+    #f8faff,
+    #f4f7fb
+  );
 }
 
 .need-summary.empty {
-  color: #777;
+  color: #7b8494;
 }
 
-.recommendations {
-  display: grid;
-
-  grid-template-columns:
-    repeat(3, minmax(0, 1fr));
-
-  gap: 12px;
-
-  margin-top: 12px;
+.need-summary-title {
+  margin-bottom: 8px;
+  font-size: 16px;
+  font-weight: 800;
+  color: #172033;
 }
 
-.recommendation {
-  border:
-    1px solid var(--border-light);
-
-  border-radius: 14px;
-
-  padding: 14px;
-
-  background: var(--white);
+.need-summary-content {
+  color: #596377;
+  font-size: 13px;
 }
 
-.recommendation .score {
-  color: var(--brand-orange);
+.need-summary-content .need-line {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 7px;
+  margin-top: 9px;
+}
 
-  font-size: 20px;
+.need-chip {
+  display: inline-flex;
+  align-items: center;
+  min-height: 30px;
+  padding: 3px 10px;
+  border-radius: 20px;
+  background: #ffffff;
+  border: 1px solid #e0e5ed;
+  color: #354057;
+  font-size: 11px;
+}
 
+/* =========================================================
+   Best Recommendation
+   ========================================================= */
+
+.best-recommendation {
+  margin-bottom: 22px;
+}
+
+.best-card {
+  position: relative;
+  overflow: hidden;
+  padding: 22px;
+  border: 1px solid #e4e8ef;
+  border-radius: 20px;
+  background: #ffffff;
+  box-shadow: 0 10px 30px rgba(16, 28, 53, 0.08);
+}
+
+.best-card::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  height: 4px;
+  background: #e6123d;
+}
+
+.best-badge {
+  display: inline-flex;
+  align-items: center;
+  min-height: 28px;
+  padding: 3px 10px;
+  margin-bottom: 10px;
+  border-radius: 20px;
+  background: #fff0f3;
+  color: #d90f38;
+  font-size: 11px;
   font-weight: 800;
 }
 
-.recommendation h3 {
-  margin:
-    5px 0;
-
-  color: var(--text-main);
-
-  font-size: 16px;
+.best-product-layout {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 18px;
+  align-items: start;
 }
 
-.recommendation p {
-  margin:
-    3px 0;
+.best-card h3 {
+  margin: 0 0 5px;
+  font-size: 22px;
+  color: #172033;
+}
 
-  color: #666;
+.best-price {
+  margin: 0 0 12px;
+  color: #3f4a60;
+  font-size: 16px;
+  font-weight: 800;
+}
 
+.best-features {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 7px;
+}
+
+.best-feature {
+  padding: 4px 9px;
+  border-radius: 8px;
+  background: #f1f4f8;
+  color: #566176;
+  font-size: 11px;
+}
+
+.match-score {
+  min-width: 82px;
+  min-height: 82px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background: #101c35;
+  color: #ffffff;
+}
+
+.match-score strong {
+  font-size: 22px;
+  line-height: 1.1;
+}
+
+.match-score span {
+  font-size: 9px;
+  opacity: 0.8;
+}
+
+.why-title {
+  margin-top: 18px;
+  margin-bottom: 5px;
+  font-size: 12px;
+  font-weight: 800;
+  color: #172033;
+}
+
+.explanation {
+  margin: 0 0 17px;
+  color: #687286;
   font-size: 12px;
 }
 
-.recommendation a {
-  display: block;
-
-  text-align: center;
-
-  margin-top: 10px;
-
-  padding: 9px;
-
-  border-radius: 9px;
-
-  background:
-    var(--brand-orange-soft);
-
-  color:
-    #b85d00;
-
+.store-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 45px;
+  padding: 0 20px;
+  border-radius: 11px;
+  background: #101c35;
+  color: #ffffff;
   text-decoration: none;
+  font-size: 12px;
+  font-weight: 700;
+  transition: transform 0.2s ease;
+}
 
-  font-size: 13px;
+.store-button:hover {
+  transform: translateY(-1px);
+}
 
+/* =========================================================
+   Alternatives
+   ========================================================= */
+
+.alternative-recommendations {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 13px;
+}
+
+.alternatives-title {
+  grid-column: 1 / -1;
+  margin-bottom: -2px;
+  font-size: 15px;
+  font-weight: 800;
+  color: #172033;
+}
+
+.alternative-card {
+  padding: 16px;
+  border: 1px solid #e4e8ef;
+  border-radius: 16px;
+  background: #ffffff;
+}
+
+.alternative-type {
+  margin-bottom: 7px;
+  color: #e6123d;
+  font-size: 10px;
+  font-weight: 800;
+}
+
+.alternative-card h3 {
+  margin: 0 0 5px;
+  font-size: 15px;
+}
+
+.alternative-price {
+  margin: 0 0 5px;
+  color: #465168;
+  font-size: 12px;
   font-weight: 700;
 }
 
+.alternative-score {
+  color: #7b8494;
+  font-size: 11px;
+}
+
+.alternative-store {
+  display: inline-block;
+  margin-top: 9px;
+  color: #101c35;
+  font-size: 11px;
+  font-weight: 700;
+  text-decoration: none;
+}
 
 /* =========================================================
-   Shopping Platforms
+   Empty / Loading / Error
+   ========================================================= */
+
+.recommendation-message {
+  padding: 18px;
+  border-radius: 14px;
+  background: #f7f8fa;
+  color: #687286;
+  font-size: 13px;
+  text-align: center;
+}
+
+/* =========================================================
+   Legacy Hidden Recommendations Container
+   ========================================================= */
+
+.recommendations {
+  display: none;
+}
+
+/* =========================================================
+   Platforms
    ========================================================= */
 
 .platform-grid {
   display: grid;
-
-  grid-template-columns:
-    repeat(4, minmax(0, 1fr));
-
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 12px;
 }
 
 .platform {
   display: flex;
-
-  flex-direction: column;
-
   align-items: center;
-
   justify-content: space-between;
-
   gap: 10px;
-
-  min-width: 0;
-
-  padding:
-    13px 9px 11px;
-
-  border:
-    1px solid var(--border);
-
-  border-radius: 16px;
-
-  background: var(--white);
-
-  text-decoration: none;
-
+  min-height: 72px;
+  padding: 11px 13px;
+  border: 1px solid #e4e8ef;
+  border-radius: 15px;
+  background: #ffffff;
   color: inherit;
-
+  text-decoration: none;
   transition:
     transform 0.2s ease,
     box-shadow 0.2s ease;
 }
 
 .platform:hover {
-  transform:
-    translateY(-2px);
-
-  box-shadow:
-    0 7px 20px
-    rgba(16,28,53,0.08);
+  transform: translateY(-2px);
+  box-shadow: 0 7px 20px rgba(16, 28, 53, 0.07);
 }
 
 .platform-main {
-  width: 100%;
-
   display: flex;
-
-  flex-direction: column;
-
   align-items: center;
-
-  justify-content: center;
-
-  text-align: center;
-
-  gap: 7px;
+  gap: 9px;
+  min-width: 0;
 }
 
 .platform-logo {
-  width: 54px;
-  height: 54px;
-
-  flex: 0 0 54px;
-
+  width: 38px;
+  height: 38px;
+  flex: 0 0 38px;
   display: flex;
-
   align-items: center;
   justify-content: center;
-
   overflow: hidden;
-
-  border-radius: 14px;
-
-  background: #f5f6f8;
-
-  border:
-    1px solid #eceef2;
+  border-radius: 10px;
+  background: #f3f5f8;
 }
 
 .platform-logo img {
-  display: block;
-
   width: 100%;
   height: 100%;
-
-  padding: 5px;
-
   object-fit: contain;
-
-  border-radius: 10px;
 }
 
 .platform-name {
-  display: block;
-
-  width: 100%;
-
-  text-align: center;
-
-  color: var(--text-dark);
-
-  font-size: 13px;
-
-  line-height: 1.4;
-
+  font-size: 12px;
   font-weight: 800;
 }
 
 .platform-tag {
-  display: block;
-
-  width: 100%;
-
-  text-align: center;
-
-  color: var(--text-muted);
-
-  font-size: 10px;
-
-  line-height: 1.4;
+  color: #8a92a1;
+  font-size: 9px;
 }
 
 .platform-btn {
-  display: flex;
-
-  align-items: center;
-  justify-content: center;
-
-  width:
-    calc(100% - 6px);
-
-  min-height: 32px;
-
-  padding:
-    7px 5px;
-
-  border-radius: 10px;
-
-  background:
-    var(--brand-orange);
-
-  color: var(--white);
-
-  text-align: center;
-
-  font-size: 10px;
-
-  line-height: 1.3;
-
-  font-weight: 800;
-
-  transition:
-    filter 0.2s ease,
-    transform 0.2s ease;
+  flex: 0 0 auto;
+  padding: 5px 8px;
+  border-radius: 8px;
+  background: #f1f3f7;
+  color: #4e586b;
+  font-size: 9px;
+  white-space: nowrap;
 }
-
-.platform:hover .platform-btn {
-  filter: brightness(0.96);
-}
-
 
 /* =========================================================
-   PWA Install Notification
+   Install Prompt
    ========================================================= */
 
 .install-prompt {
   position: fixed;
-
-  left: 16px;
-  right: 16px;
-  bottom: 16px;
-
-  z-index: 9000;
-
-  max-width: 560px;
-
-  margin: auto;
-
+  right: 12px;
+  bottom: 12px;
+  z-index: 5000;
   display: flex;
-
   align-items: center;
-
-  gap: 11px;
-
-  padding:
-    11px 13px;
-
-  background:
-    var(--white);
-
-  border:
-    1px solid
-    rgba(16,28,53,0.12);
-
-  border-radius: 17px;
-
-  box-shadow:
-    0 14px 40px
-    rgba(16,28,53,0.22);
-
+  gap: 10px;
+  width: min(430px, calc(100% - 24px));
+  padding: 11px;
+  border: 1px solid #dfe4ec;
+  border-radius: 15px;
+  background: #ffffff;
+  box-shadow: 0 12px 35px rgba(16, 28, 53, 0.15);
   opacity: 0;
-
-  transform:
-    translateY(25px)
-    scale(0.97);
-
-  pointer-events: none;
-
+  transform: translateY(15px);
   transition:
     opacity 0.35s ease,
     transform 0.35s ease;
 }
 
+.install-prompt.hidden {
+  display: none;
+}
+
 .install-prompt.show {
+  display: flex;
   opacity: 1;
-
-  transform:
-    translateY(0)
-    scale(1);
-
-  pointer-events: auto;
+  transform: translateY(0);
 }
 
 .install-prompt-icon {
-  width: 48px;
-  height: 48px;
-
-  flex: 0 0 48px;
-
-  display: flex;
-
-  align-items: center;
-  justify-content: center;
-
+  width: 42px;
+  height: 42px;
+  flex: 0 0 42px;
   overflow: hidden;
-
-  border-radius: 14px;
-
-  background:
-    var(--brand-navy);
-
-  padding: 3px;
+  border-radius: 10px;
 }
 
 .install-prompt-icon img {
   width: 100%;
   height: 100%;
-
-  display: block;
-
   object-fit: contain;
-
-  border-radius: 10px;
 }
 
 .install-prompt-content {
-  min-width: 0;
-
-  flex: 1;
-
   display: flex;
-
+  flex: 1;
+  min-width: 0;
   flex-direction: column;
 }
 
 .install-prompt-content strong {
-  color:
-    var(--brand-navy);
-
-  font-size: 13px;
-
-  line-height: 1.5;
+  font-size: 12px;
 }
 
 .install-prompt-content span {
-  color:
-    var(--text-secondary);
-
-  font-size: 10px;
-
-  line-height: 1.5;
+  color: #7b8494;
+  font-size: 9px;
 }
 
 .install-prompt-button {
-  flex: 0 0 auto;
-
+  min-height: 36px;
+  padding: 0 13px;
   border: 0;
-
-  border-radius: 10px;
-
-  padding:
-    8px 14px;
-
-  background:
-    var(--brand-orange);
-
-  color:
-    var(--white);
-
-  font-family: inherit;
-
+  border-radius: 9px;
+  background: #e6123d;
+  color: #ffffff;
   font-size: 11px;
-
-  font-weight: 800;
-
+  font-weight: 700;
   cursor: pointer;
 }
 
 .install-prompt-close {
-  width: 27px;
-  height: 27px;
-
-  flex: 0 0 27px;
-
+  width: 25px;
+  height: 25px;
+  padding: 0;
   border: 0;
-
-  border-radius: 50%;
-
-  background: #f1f2f4;
-
-  color: var(--text-secondary);
-
-  font-size: 18px;
-
-  line-height: 1;
-
+  background: transparent;
+  color: #8a92a1;
+  font-size: 20px;
   cursor: pointer;
 }
-
 
 /* =========================================================
    Footer
    ========================================================= */
 
 footer {
-  padding: 12px;
-
+  padding: 12px 0 25px;
+  color: #8a92a1;
+  font-size: 10px;
   text-align: center;
-
-  color: #888;
-
-  font-size: 11px;
 }
 
-
 /* =========================================================
-   Utility
+   Responsive
    ========================================================= */
 
-.hidden {
-  display: none !important;
-}
-
-
-/* =========================================================
-   Mobile
-   ========================================================= */
-
-@media (max-width: 700px) {
+@media (max-width: 680px) {
 
   .app-shell {
-    padding:
-      0 12px 12px;
+    width: min(100% - 16px, 920px);
   }
 
-  .main-header {
-    margin:
-      0 -12px 14px;
-
-    border-radius:
-      0 0 22px 22px;
-  }
-
-  .header-content {
-    min-height: 145px;
-
-    padding:
-      25px 12px;
-  }
-
-  .header-text strong {
-    font-size: 31px;
-  }
-
-  .header-text span {
-    margin-top: 5px;
-
-    font-size: 14px;
-
-    line-height: 1.6;
+  .card {
+    padding: 16px;
+    border-radius: 17px;
   }
 
   .form-grid {
     grid-template-columns: 1fr;
   }
 
-  .recommendations {
+  .form-grid .full {
+    grid-column: auto;
+  }
+
+  .form-actions {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .primary {
+    width: 100%;
+  }
+
+  .best-product-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .match-score {
+    width: 78px;
+    min-width: 78px;
+    min-height: 78px;
+  }
+
+  .alternative-recommendations {
     grid-template-columns: 1fr;
   }
 
   .platform-grid {
-    grid-template-columns:
-      repeat(2, minmax(0, 1fr));
-
-    gap: 9px;
+    grid-template-columns: 1fr;
   }
 
-  .platform {
-    padding:
-      11px 7px 10px;
-  }
-
-  .platform-logo {
-    width: 50px;
-    height: 50px;
-
-    flex-basis: 50px;
-  }
-
-  .card {
-    padding: 14px;
-
-    border-radius: 15px;
-  }
-
-  .splash-logo-wrap {
-    width: 180px;
-    height: 180px;
-  }
-
-  .splash-logo {
-    width: 150px;
-    height: 150px;
-
-    border-radius: 28px;
-  }
-
-  .splash-brand h1 {
-    font-size: 31px;
-  }
-
-  .splash-brand p {
-    font-size: 13px;
-  }
-
-  .install-prompt {
-    left: 10px;
-    right: 10px;
-    bottom: 10px;
-
-    padding: 10px;
-  }
-
-  .install-prompt-content span {
-    font-size: 9px;
-  }
-
-  .install-prompt-button {
-    padding:
-      8px 12px;
+  .header-content {
+    align-items: flex-start;
   }
 
 }
+
+@media (min-width: 681px) {
+
+  .best-product-layout {
+    grid-template-columns: 1fr auto;
+  }
+
+   }
