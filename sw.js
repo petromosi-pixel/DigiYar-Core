@@ -1,24 +1,35 @@
 /* =========================================================
-   DigiYar V3
+   DigiYar V4
    Service Worker
-   Cache Version: 3.1.0
+   Cache Version: 4.0.0-alpha.3
    ========================================================= */
 
-const CACHE_VERSION = "digiyar-v3-3.1.0";
+const CACHE_VERSION = "digiyar-v4-alpha3-1";
 
 const APP_SHELL = [
   "./",
   "./index.html",
   "./css/style.css",
+
+  /* Core */
   "./js/app.js",
   "./js/user-profile.js",
   "./js/need-engine.js",
+
+  /* Product pipeline */
+  "./js/product-data.js",
+  "./js/product-retrieval.js",
   "./js/product-scoring.js",
+  "./js/smart-recommendation-engine.js",
+
+  /* UI */
   "./js/platforms.js",
   "./manifest.json",
 
+  /* Icons */
   "./assets/icon-192.png",
-  "./assets/icon-512.png"
+  "./assets/icon-512.png",
+  "./assets/logos/logo.png"
 ];
 
 
@@ -26,172 +37,110 @@ const APP_SHELL = [
    Install
    ========================================================= */
 
-self.addEventListener(
-  "install",
-  function (event) {
+self.addEventListener("install", function (event) {
 
-    event.waitUntil(
+  event.waitUntil(
 
-      caches.open(CACHE_VERSION)
+    caches.open(CACHE_VERSION)
+      .then(function (cache) {
+        return cache.addAll(APP_SHELL);
+      })
+      .then(function () {
+        return self.skipWaiting();
+      })
 
-        .then(function (cache) {
+  );
 
-          return cache.addAll(APP_SHELL);
-
-        })
-
-        .then(function () {
-
-          return self.skipWaiting();
-
-        })
-
-    );
-
-  }
-);
+});
 
 
 /* =========================================================
    Activate
    ========================================================= */
 
-self.addEventListener(
-  "activate",
-  function (event) {
+self.addEventListener("activate", function (event) {
 
-    event.waitUntil(
+  event.waitUntil(
 
-      caches.keys()
+    caches.keys()
+      .then(function (cacheNames) {
 
-        .then(function (cacheNames) {
+        return Promise.all(
 
-          return Promise.all(
+          cacheNames
+            .filter(function (cacheName) {
+              return cacheName !== CACHE_VERSION;
+            })
+            .map(function (cacheName) {
+              return caches.delete(cacheName);
+            })
 
-            cacheNames
+        );
 
-              .filter(function (cacheName) {
+      })
+      .then(function () {
+        return self.clients.claim();
+      })
 
-                return (
-                  cacheName !== CACHE_VERSION
-                );
+  );
 
-              })
-
-              .map(function (cacheName) {
-
-                return caches.delete(
-                  cacheName
-                );
-
-              })
-
-          );
-
-        })
-
-        .then(function () {
-
-          return self.clients.claim();
-
-        })
-
-    );
-
-  }
-);
+});
 
 
 /* =========================================================
    Fetch
    ========================================================= */
 
-self.addEventListener(
-  "fetch",
-  function (event) {
+self.addEventListener("fetch", function (event) {
 
-    const request = event.request;
+  const request = event.request;
 
-    /*
-     * فقط درخواست‌های GET
-     */
-    if (request.method !== "GET") {
-      return;
-    }
-
-    /*
-     * برای درخواست‌های خارجی مثل
-     * Google یا فروشگاه‌ها،
-     * Service Worker دخالت نمی‌کند.
-     */
-    const url = new URL(
-      request.url
-    );
-
-    if (
-      url.origin !==
-      self.location.origin
-    ) {
-      return;
-    }
-
-
-    /*
-     * Network First
-     *
-     * ابتدا نسخه جدید را از GitHub Pages
-     * می‌گیرد.
-     *
-     * اگر اینترنت در دسترس نبود،
-     * نسخه ذخیره‌شده را استفاده می‌کند.
-     */
-
-    event.respondWith(
-
-      fetch(request)
-
-        .then(function (response) {
-
-          /*
-           * فقط پاسخ معتبر را Cache کن
-           */
-
-          if (
-            response &&
-            response.status === 200 &&
-            response.type === "basic"
-          ) {
-
-            const responseClone =
-              response.clone();
-
-            caches.open(
-              CACHE_VERSION
-            )
-              .then(function (cache) {
-
-                cache.put(
-                  request,
-                  responseClone
-                );
-
-              });
-
-          }
-
-          return response;
-
-        })
-
-        .catch(function () {
-
-          return caches.match(
-            request
-          );
-
-        })
-
-    );
-
+  if (request.method !== "GET") {
+    return;
   }
-);
+
+  const url = new URL(request.url);
+
+  /* فقط منابع همان دامنه */
+  if (url.origin !== self.location.origin) {
+    return;
+  }
+
+  /*
+   * Network First:
+   * نسخه تازه اولویت دارد و در صورت قطعی اینترنت
+   * نسخه cache شده استفاده می‌شود.
+   */
+  event.respondWith(
+
+    fetch(request)
+      .then(function (response) {
+
+        if (
+          response &&
+          response.status === 200 &&
+          response.type === "basic"
+        ) {
+
+          const clone = response.clone();
+
+          caches.open(CACHE_VERSION)
+            .then(function (cache) {
+              return cache.put(request, clone);
+            })
+            .catch(function () {
+              /* Cache failure must not break the response. */
+            });
+
+        }
+
+        return response;
+
+      })
+      .catch(function () {
+        return caches.match(request);
+      })
+
+  );
+
+});
