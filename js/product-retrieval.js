@@ -1,97 +1,93 @@
 /* =========================================================
    DigiYar V4
    Product Retrieval Layer
-   Build 11 — real product identity + image resolver
+   Build 12 — live Digikala response normalization
    ========================================================= */
 
 (function () {
-
   "use strict";
 
   const CONFIG = {
-    digikalaSearchEndpoint:
-      "https://api.digikala.com/v1/search/?q=",
+    digikalaSearchEndpoint: "https://api.digikala.com/v1/search/?q=",
+    digikalaBaseUrl: "https://www.digikala.com",
     timeout: 7000,
     maxResults: 20
   };
 
-
-  /* =======================================================
-     Helpers
-     ======================================================= */
-
   function normalizeText(value) {
-
     return String(value || "")
       .trim()
       .toLowerCase()
       .replace(/ي/g, "ی")
       .replace(/ك/g, "ک");
-
   }
-
 
   function safeNumber(value) {
-
     const number = Number(value);
-
-    return Number.isFinite(number)
-      ? number
-      : 0;
-
+    return Number.isFinite(number) ? number : 0;
   }
 
-
   function firstNonEmpty(values) {
-
     for (let i = 0; i < values.length; i++) {
-
       const value = values[i];
 
-      if (
-        typeof value === "string" &&
-        value.trim()
-      ) {
+      if (typeof value === "string" && value.trim()) {
         return value.trim();
       }
 
-      if (
-        value &&
-        typeof value === "object" &&
-        typeof value.url === "string" &&
-        value.url.trim()
-      ) {
-        return value.url.trim();
-      }
+      if (value && typeof value === "object") {
+        const nested =
+          value.url ||
+          value.src ||
+          value.href ||
+          value.link ||
+          "";
 
+        if (typeof nested === "string" && nested.trim()) {
+          return nested.trim();
+        }
+      }
     }
 
     return "";
-
   }
 
+  function absoluteDigikalaUrl(value) {
+    if (!value) return "";
 
-  /* =======================================================
-     Image Resolver
-     ======================================================= */
+    const text = String(value).trim();
+    if (!text) return "";
+
+    if (/^https?:\/\//i.test(text)) {
+      return text;
+    }
+
+    if (text.charAt(0) === "/") {
+      return CONFIG.digikalaBaseUrl + text;
+    }
+
+    return CONFIG.digikalaBaseUrl + "/" + text;
+  }
 
   function resolveImage(product) {
-
-    if (!product || typeof product !== "object") {
-      return "";
-    }
+    if (!product || typeof product !== "object") return "";
 
     const images = product.images;
-
-    const imageCollections = [];
+    const values = [
+      product.image_url,
+      product.imageUrl,
+      product.image,
+      product.thumbnail_url,
+      product.thumbnailUrl,
+      product.thumbnail,
+      product.photo,
+      product.cover
+    ];
 
     if (Array.isArray(images)) {
-      imageCollections.push(images);
-    }
-
-    if (images && typeof images === "object") {
-
-      imageCollections.push(
+      values.push.apply(values, images);
+    } else if (images && typeof images === "object") {
+      values.push(
         images.main,
         images.primary,
         images.thumbnail,
@@ -99,95 +95,88 @@
         images.medium,
         images.small
       );
-
     }
 
-    const collectionValues = [];
-
-    imageCollections.forEach(function (collection) {
-
-      if (Array.isArray(collection)) {
-        collection.forEach(function (item) {
-          collectionValues.push(item);
-        });
-      } else if (collection) {
-        collectionValues.push(collection);
-      }
-
-    });
-
-    return firstNonEmpty([
-      product.image,
-      product.image_url,
-      product.imageUrl,
-      product.thumbnail,
-      product.thumbnail_url,
-      product.thumbnailUrl,
-      product.photo,
-      product.cover,
-      ...collectionValues
-    ]);
-
+    return firstNonEmpty(values);
   }
-
 
   function resolveProductUrl(product) {
+    if (!product || typeof product !== "object") return "";
 
-    if (!product || typeof product !== "object") {
-      return "";
-    }
-
-    return firstNonEmpty([
-      product.productUrl,
-      product.product_url,
-      product.url,
-      product.web_url,
-      product.link
-    ]);
-
+    return absoluteDigikalaUrl(
+      firstNonEmpty([
+        product.productUrl,
+        product.product_url,
+        product.url,
+        product.web_url,
+        product.link
+      ])
+    );
   }
-
 
   function resolvePrice(product) {
+    if (!product || typeof product !== "object") return 0;
 
-    if (!product || typeof product !== "object") {
-      return 0;
+    const price = product.price;
+    const variant = product.default_variant;
+
+    if (price && typeof price === "object") {
+      const value =
+        safeNumber(price.selling_price) ||
+        safeNumber(price.value) ||
+        safeNumber(price.amount) ||
+        safeNumber(price.final_price);
+
+      if (value > 0) return value;
     }
 
-    const variant = product.default_variant;
-    const priceObject = product.price;
-
-    return safeNumber(
-      typeof priceObject === "object"
-        ? (
-            priceObject.selling_price ||
-            priceObject.value ||
-            priceObject.amount
-          )
-        : priceObject
-    ) || safeNumber(
-      product.default_variant_price
-    ) || safeNumber(
-      product.selling_price
-    ) || safeNumber(
-      variant && (
-        variant.price ||
-        variant.selling_price
-      )
+    return (
+      safeNumber(product.selling_price) ||
+      safeNumber(product.default_variant_price) ||
+      safeNumber(product.price) ||
+      safeNumber(variant && variant.selling_price) ||
+      safeNumber(variant && variant.price)
     );
-
   }
 
+  function resolveName(product) {
+    return firstNonEmpty([
+      product && product.title_fa,
+      product && product.name,
+      product && product.title,
+      product && product.product_name,
+      product && product.title_en
+    ]);
+  }
 
-  /* =======================================================
-     Product Normalization
-     ======================================================= */
+  function resolveFeatures(product) {
+    const features = [];
+
+    if (Array.isArray(product.features)) {
+      product.features.forEach(function (item) {
+        if (typeof item === "string" && item.trim()) {
+          features.push(item.trim());
+        }
+      });
+    }
+
+    if (product.brand && typeof product.brand === "object") {
+      const brand = product.brand.title_fa || product.brand.title;
+      if (brand) features.push(brand);
+    } else if (typeof product.brand === "string" && product.brand.trim()) {
+      features.push(product.brand.trim());
+    }
+
+    if (product.rating && typeof product.rating === "object") {
+      const rate = safeNumber(product.rating.rate);
+      if (rate > 0) features.push("امتیاز " + (rate / 20).toFixed(1) + " از ۵");
+    }
+
+    return features.slice(0, 5);
+  }
 
   function normalizeProduct(product) {
-
-    if (!product || typeof product !== "object") {
-      return null;
-    }
+    if (!product || typeof product !== "object") return null;
 
     const id =
       product.id ||
@@ -196,43 +185,30 @@
       product.code ||
       "";
 
-    const name =
-      product.name ||
-      product.title ||
-      product.product_name ||
-      "";
-
-    const productUrl =
-      resolveProductUrl(product);
-
-    const image =
-      resolveImage(product);
-
-    const features = Array.isArray(product.features)
-      ? product.features.slice()
-      : [];
+    const name = resolveName(product);
+    const image = resolveImage(product);
+    const productUrl = resolveProductUrl(product);
 
     return {
       id: String(id),
-      name: String(name),
-      category: product.category || "general",
+      name: String(name || ""),
+      category:
+        typeof product.category === "string"
+          ? product.category
+          : "general",
       price: resolvePrice(product),
-      store: product.store || "digikala",
+      store: "digikala",
       productUrl: productUrl,
       affiliateUrl: product.affiliateUrl || "",
       image: image,
-      features: features
+      features: resolveFeatures(product),
+      rating: product.rating || null,
+      seller: product.seller || null,
+      status: product.status || ""
     };
-
   }
 
-
-  /* =======================================================
-     Local Search
-     ======================================================= */
-
   function localSearch(query, options) {
-
     if (
       !window.DigiYarProductData ||
       typeof window.DigiYarProductData.search !== "function"
@@ -240,151 +216,85 @@
       return [];
     }
 
-    const results =
-      window.DigiYarProductData.search(
-        query,
-        options || {}
-      );
+    const results = window.DigiYarProductData.search(query, options || {});
 
-    if (!Array.isArray(results)) {
-      return [];
-    }
+    if (!Array.isArray(results)) return [];
 
     return results
       .map(normalizeProduct)
       .filter(function (product) {
-        return (
-          product &&
-          product.name
-        );
+        return product && product.name;
       })
       .slice(0, CONFIG.maxResults);
-
   }
 
-
-  /* =======================================================
-     Remote Fetch
-     ======================================================= */
-
   async function fetchWithTimeout(url, timeout) {
-
     const controller = new AbortController();
-
     const timer = setTimeout(function () {
       controller.abort();
     }, timeout);
 
     try {
-
       const response = await fetch(url, {
         method: "GET",
-        headers: {
-          "Accept": "application/json"
-        },
+        headers: { Accept: "application/json" },
         signal: controller.signal
       });
-
-      clearTimeout(timer);
 
       if (!response.ok) {
         throw new Error("HTTP " + response.status);
       }
 
       return await response.json();
-
-    } catch (error) {
-
+    } finally {
       clearTimeout(timer);
-      throw error;
-
     }
-
   }
 
-
-  /* =======================================================
-     Digikala Response Extraction
-     ======================================================= */
-
   function extractDigikalaProducts(data) {
-
-    if (!data) {
-      return [];
-    }
+    if (!data) return [];
 
     const candidates = [
       data.data && data.data.products,
       data.data && data.data.items,
       data.products,
       data.items,
-      data.data &&
-        data.data.products &&
-        data.data.products.data,
-      data.data &&
-        data.data.products &&
-        data.data.products.items
+      data.data && data.data.products && data.data.products.data,
+      data.data && data.data.products && data.data.products.items
     ];
 
     let products = [];
 
     for (let i = 0; i < candidates.length; i++) {
-
       if (Array.isArray(candidates[i])) {
         products = candidates[i];
         break;
       }
-
     }
 
     return products
-      .map(function (product) {
-        return normalizeProduct(product);
-      })
+      .map(normalizeProduct)
       .filter(function (product) {
-        return (
-          product &&
-          product.name
-        );
+        return product && product.name;
       })
       .slice(0, CONFIG.maxResults);
-
   }
 
-
   async function searchRemote(query) {
-
     const normalizedQuery = normalizeText(query);
-
-    if (!normalizedQuery) {
-      return [];
-    }
+    if (!normalizedQuery) return [];
 
     const url =
       CONFIG.digikalaSearchEndpoint +
       encodeURIComponent(normalizedQuery);
 
-    const data = await fetchWithTimeout(
-      url,
-      CONFIG.timeout
-    );
-
+    const data = await fetchWithTimeout(url, CONFIG.timeout);
     return extractDigikalaProducts(data);
-
   }
 
-
-  /* =======================================================
-     Unified Search
-     ======================================================= */
-
   async function search(query, options) {
-
     const normalizedQuery = normalizeText(query);
-
-    if (!normalizedQuery) {
-      return [];
-    }
+    if (!normalizedQuery) return [];
 
     const settings = options || {};
 
@@ -393,50 +303,30 @@
     }
 
     try {
-
-      const remoteResults = await searchRemote(
-        normalizedQuery
-      );
-
-      if (remoteResults.length) {
-        return remoteResults;
-      }
-
+      const remoteResults = await searchRemote(normalizedQuery);
+      if (remoteResults.length) return remoteResults;
     } catch (error) {
-
       console.warn(
         "DigiYar Product Retrieval: remote source unavailable; using local fallback.",
         error
       );
-
     }
 
-    return localSearch(
-      normalizedQuery,
-      settings
-    );
-
+    return localSearch(normalizedQuery, settings);
   }
 
-
-  /* =======================================================
-     Public API
-     ======================================================= */
-
   const DigiYarProductRetrieval = {
-    version: "4.0.0-alpha.4",
+    version: "4.0.0-alpha.5",
     config: CONFIG,
     normalizeText: normalizeText,
     normalizeProduct: normalizeProduct,
     resolveImage: resolveImage,
     resolveProductUrl: resolveProductUrl,
+    resolvePrice: resolvePrice,
     search: search,
     searchRemote: searchRemote,
     localSearch: localSearch
   };
 
-
-  window.DigiYarProductRetrieval =
-    DigiYarProductRetrieval;
-
+  window.DigiYarProductRetrieval = DigiYarProductRetrieval;
 })();
