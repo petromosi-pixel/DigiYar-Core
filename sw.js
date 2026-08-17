@@ -1,10 +1,10 @@
 /* =========================================================
    DigiYar V4
    Service Worker
-   Cache Version: 4.0.0-alpha.6
+   Cache Version: 4.0.0-alpha.7
    ========================================================= */
 
-const CACHE_VERSION = "digiyar-v4-alpha6-1";
+const CACHE_VERSION = "digiyar-v4-alpha7-1";
 
 const APP_SHELL = [
   "./",
@@ -19,12 +19,11 @@ const APP_SHELL = [
   /* Product pipeline */
   "./js/product-data.js",
   "./js/product-retrieval.js",
+  "./js/search-engine.js",
   "./js/product-scoring.js",
   "./js/smart-recommendation-engine.js",
 
   /* UI */
-  "./js/platforms.js",
-  "./js/search-engine.js",
   "./js/platforms.js",
   "./manifest.json",
 
