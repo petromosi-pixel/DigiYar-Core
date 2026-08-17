@@ -18,7 +18,7 @@
       store: "digikala",
       productUrl: "https://www.digikala.com/",
       affiliateUrl: "",
-      image: "",
+      image: "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=600&q=80",
       features: ["باتری", "ارزش خرید", "5G"]
     },
 
@@ -30,7 +30,7 @@
       store: "digikala",
       productUrl: "https://www.digikala.com/",
       affiliateUrl: "",
-      image: "",
+      image: "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=600&q=80",
       features: ["دوربین", "کیفیت", "5G"]
     },
 
@@ -42,7 +42,7 @@
       store: "snappshop",
       productUrl: "https://snapp.shop/",
       affiliateUrl: "",
-      image: "",
+      image: "https://images.unsplash.com/photo-1565849904461-04a58ad377e0?auto=format&fit=crop&w=600&q=80",
       features: ["باتری", "وزن کم", "ارزش خرید"]
     },
 
@@ -54,7 +54,7 @@
       store: "digikala",
       productUrl: "https://www.digikala.com/",
       affiliateUrl: "",
-      image: "",
+      image: "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=600&q=80",
       features: ["ارزش خرید", "وزن کم", "SSD"]
     },
 
@@ -66,7 +66,7 @@
       store: "digikala",
       productUrl: "https://www.digikala.com/",
       affiliateUrl: "",
-      image: "",
+      image: "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?auto=format&fit=crop&w=600&q=80",
       features: ["کیفیت", "SSD", "باتری"]
     },
 
@@ -78,7 +78,7 @@
       store: "digikala",
       productUrl: "https://www.digikala.com/",
       affiliateUrl: "",
-      image: "",
+      image: "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=600&q=80",
       features: ["باتری", "وزن کم", "کیفیت"]
     }
 
