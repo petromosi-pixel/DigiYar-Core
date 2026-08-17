@@ -1,16 +1,24 @@
 /* =========================================================
    DigiYar V4
    Product Retrieval Layer
-   Build 12 — live Digikala response normalization
+   Build 13 — live source + CORS proxy support
    ========================================================= */
 
 (function () {
   "use strict";
 
   const CONFIG = {
+    /*
+     * After deploying workers/digikala-search-proxy.js,
+     * put the Worker URL here.
+     *
+     * Example:
+     * proxyEndpoint: "https://digiyar-search.example.workers.dev"
+     */
+    proxyEndpoint: "",
     digikalaSearchEndpoint: "https://api.digikala.com/v1/search/?q=",
     digikalaBaseUrl: "https://www.digikala.com",
-    timeout: 7000,
+    timeout: 8000,
     maxResults: 20
   };
 
@@ -58,14 +66,8 @@
     const text = String(value).trim();
     if (!text) return "";
 
-    if (/^https?:\/\//i.test(text)) {
-      return text;
-    }
-
-    if (text.charAt(0) === "/") {
-      return CONFIG.digikalaBaseUrl + text;
-    }
-
+    if (/^https?:\/\//i.test(text)) return text;
+    if (text.charAt(0) === "/") return CONFIG.digikalaBaseUrl + text;
     return CONFIG.digikalaBaseUrl + "/" + text;
   }
 
@@ -154,9 +156,7 @@
 
     if (Array.isArray(product.features)) {
       product.features.forEach(function (item) {
-        if (typeof item === "string" && item.trim()) {
-          features.push(item.trim());
-        }
+        if (typeof item === "string" && item.trim()) features.push(item.trim());
       });
     }
 
@@ -192,10 +192,7 @@
     return {
       id: String(id),
       name: String(name || ""),
-      category:
-        typeof product.category === "string"
-          ? product.category
-          : "general",
+      category: typeof product.category === "string" ? product.category : "general",
       price: resolvePrice(product),
       store: "digikala",
       productUrl: productUrl,
@@ -209,30 +206,22 @@
   }
 
   function localSearch(query, options) {
-    if (
-      !window.DigiYarProductData ||
-      typeof window.DigiYarProductData.search !== "function"
-    ) {
+    if (!window.DigiYarProductData || typeof window.DigiYarProductData.search !== "function") {
       return [];
     }
 
     const results = window.DigiYarProductData.search(query, options || {});
-
     if (!Array.isArray(results)) return [];
 
     return results
       .map(normalizeProduct)
-      .filter(function (product) {
-        return product && product.name;
-      })
+      .filter(function (product) { return product && product.name; })
       .slice(0, CONFIG.maxResults);
   }
 
   async function fetchWithTimeout(url, timeout) {
     const controller = new AbortController();
-    const timer = setTimeout(function () {
-      controller.abort();
-    }, timeout);
+    const timer = setTimeout(function () { controller.abort(); }, timeout);
 
     try {
       const response = await fetch(url, {
@@ -241,10 +230,7 @@
         signal: controller.signal
       });
 
-      if (!response.ok) {
-        throw new Error("HTTP " + response.status);
-      }
-
+      if (!response.ok) throw new Error("HTTP " + response.status);
       return await response.json();
     } finally {
       clearTimeout(timer);
@@ -274,21 +260,46 @@
 
     return products
       .map(normalizeProduct)
-      .filter(function (product) {
-        return product && product.name;
-      })
+      .filter(function (product) { return product && product.name; })
       .slice(0, CONFIG.maxResults);
+  }
+
+  function buildProxyUrl(query) {
+    const base = String(CONFIG.proxyEndpoint || "").trim();
+    if (!base) return "";
+
+    const separator = base.indexOf("?") >= 0 ? "&" : "?";
+    return base.replace(/\/$/, "") + separator + "q=" + encodeURIComponent(query);
   }
 
   async function searchRemote(query) {
     const normalizedQuery = normalizeText(query);
     if (!normalizedQuery) return [];
 
-    const url =
-      CONFIG.digikalaSearchEndpoint +
-      encodeURIComponent(normalizedQuery);
+    const proxyUrl = buildProxyUrl(normalizedQuery);
 
-    const data = await fetchWithTimeout(url, CONFIG.timeout);
+    /*
+     * Preferred path: Cloudflare Worker proxy.
+     * This is the path that removes browser CORS restrictions.
+     */
+    if (proxyUrl) {
+      try {
+        const data = await fetchWithTimeout(proxyUrl, CONFIG.timeout);
+        const proxyResults = extractDigikalaProducts(data);
+        if (proxyResults.length) return proxyResults;
+      } catch (error) {
+        console.warn("DigiYar Product Retrieval: proxy unavailable.", error);
+      }
+    }
+
+    /*
+     * Development fallback: direct Digikala API.
+     * Browsers may reject this because of CORS; that is expected.
+     */
+    const directUrl =
+      CONFIG.digikalaSearchEndpoint + encodeURIComponent(normalizedQuery);
+
+    const data = await fetchWithTimeout(directUrl, CONFIG.timeout);
     return extractDigikalaProducts(data);
   }
 
@@ -307,7 +318,7 @@
       if (remoteResults.length) return remoteResults;
     } catch (error) {
       console.warn(
-        "DigiYar Product Retrieval: remote source unavailable; using local fallback.",
+        "DigiYar Product Retrieval: live source unavailable; using local fallback.",
         error
       );
     }
@@ -315,9 +326,15 @@
     return localSearch(normalizedQuery, settings);
   }
 
+  function setProxyEndpoint(url) {
+    CONFIG.proxyEndpoint = String(url || "").trim().replace(/\/$/, "");
+    return CONFIG.proxyEndpoint;
+  }
+
   const DigiYarProductRetrieval = {
-    version: "4.0.0-alpha.5",
+    version: "4.0.0-alpha.6",
     config: CONFIG,
+    setProxyEndpoint: setProxyEndpoint,
     normalizeText: normalizeText,
     normalizeProduct: normalizeProduct,
     resolveImage: resolveImage,
