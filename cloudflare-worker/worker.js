@@ -10,7 +10,7 @@ export default {
       return json({
         ok: true,
         service: "DigiYar Search Proxy",
-        version: "4.0.0-alpha.2"
+        version: "4.0.0-alpha.3"
       });
     }
 
@@ -25,17 +25,21 @@ export default {
     }
 
     const targetUrl =
-      "https://api.digikala.com/v1/search/?q=" +
-      encodeURIComponent(query.trim());
+      "https://api.digikala.com/v2/category/22/" +
+      "?q=" + encodeURIComponent(query.trim()) +
+      "&page=1";
 
     try {
       const upstream = await fetch(targetUrl, {
         method: "GET",
+        redirect: "manual",
         headers: {
-          "Accept": "application/json"
+          "Accept": "application/json",
+          "User-Agent": "Mozilla/5.0"
         }
       });
 
+      const location = upstream.headers.get("location");
       const text = await upstream.text();
 
       let data;
@@ -50,8 +54,9 @@ export default {
         status: upstream.status,
         query: query.trim(),
         source: targetUrl,
+        redirect: location,
         data
-      }, 200);
+      });
     } catch (error) {
       return json({
         ok: false,
