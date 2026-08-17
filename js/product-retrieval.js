@@ -1,21 +1,15 @@
 /* =========================================================
    DigiYar V4
    Product Retrieval Layer
-   Build 13 — live source + CORS proxy support
+   Build 14 — Cloudflare Worker live source
    ========================================================= */
 
 (function () {
   "use strict";
 
   const CONFIG = {
-    /*
-     * After deploying workers/digikala-search-proxy.js,
-     * put the Worker URL here.
-     *
-     * Example:
-     * proxyEndpoint: "https://digiyar-search.example.workers.dev"
-     */
-    proxyEndpoint: "",
+    /* Live Cloudflare Worker proxy */
+    proxyEndpoint: "https://digiyar-search-proxy.petromosi.workers.dev",
     digikalaSearchEndpoint: "https://api.digikala.com/v1/search/?q=",
     digikalaBaseUrl: "https://www.digikala.com",
     timeout: 8000,
@@ -156,7 +150,9 @@
 
     if (Array.isArray(product.features)) {
       product.features.forEach(function (item) {
-        if (typeof item === "string" && item.trim()) features.push(item.trim());
+        if (typeof item === "string" && item.trim()) {
+          features.push(item.trim());
+        }
       });
     }
 
@@ -169,7 +165,9 @@
 
     if (product.rating && typeof product.rating === "object") {
       const rate = safeNumber(product.rating.rate);
-      if (rate > 0) features.push("امتیاز " + (rate / 20).toFixed(1) + " از ۵");
+      if (rate > 0) {
+        features.push("امتیاز " + (rate / 20).toFixed(1) + " از ۵");
+      }
     }
 
     return features.slice(0, 5);
@@ -215,13 +213,17 @@
 
     return results
       .map(normalizeProduct)
-      .filter(function (product) { return product && product.name; })
+      .filter(function (product) {
+        return product && product.name;
+      })
       .slice(0, CONFIG.maxResults);
   }
 
   async function fetchWithTimeout(url, timeout) {
     const controller = new AbortController();
-    const timer = setTimeout(function () { controller.abort(); }, timeout);
+    const timer = setTimeout(function () {
+      controller.abort();
+    }, timeout);
 
     try {
       const response = await fetch(url, {
@@ -230,7 +232,10 @@
         signal: controller.signal
       });
 
-      if (!response.ok) throw new Error("HTTP " + response.status);
+      if (!response.ok) {
+        throw new Error("HTTP " + response.status);
+      }
+
       return await response.json();
     } finally {
       clearTimeout(timer);
@@ -260,7 +265,9 @@
 
     return products
       .map(normalizeProduct)
-      .filter(function (product) { return product && product.name; })
+      .filter(function (product) {
+        return product && product.name;
+      })
       .slice(0, CONFIG.maxResults);
   }
 
@@ -278,24 +285,24 @@
 
     const proxyUrl = buildProxyUrl(normalizedQuery);
 
-    /*
-     * Preferred path: Cloudflare Worker proxy.
-     * This is the path that removes browser CORS restrictions.
-     */
+    /* Preferred path: Cloudflare Worker proxy. */
     if (proxyUrl) {
       try {
         const data = await fetchWithTimeout(proxyUrl, CONFIG.timeout);
         const proxyResults = extractDigikalaProducts(data);
-        if (proxyResults.length) return proxyResults;
+
+        if (proxyResults.length) {
+          return proxyResults;
+        }
       } catch (error) {
-        console.warn("DigiYar Product Retrieval: proxy unavailable.", error);
+        console.warn(
+          "DigiYar Product Retrieval: proxy unavailable.",
+          error
+        );
       }
     }
 
-    /*
-     * Development fallback: direct Digikala API.
-     * Browsers may reject this because of CORS; that is expected.
-     */
+    /* Development fallback: direct Digikala API. */
     const directUrl =
       CONFIG.digikalaSearchEndpoint + encodeURIComponent(normalizedQuery);
 
@@ -315,7 +322,10 @@
 
     try {
       const remoteResults = await searchRemote(normalizedQuery);
-      if (remoteResults.length) return remoteResults;
+
+      if (remoteResults.length) {
+        return remoteResults;
+      }
     } catch (error) {
       console.warn(
         "DigiYar Product Retrieval: live source unavailable; using local fallback.",
@@ -332,7 +342,7 @@
   }
 
   const DigiYarProductRetrieval = {
-    version: "4.0.0-alpha.6",
+    version: "4.0.0-alpha.7",
     config: CONFIG,
     setProxyEndpoint: setProxyEndpoint,
     normalizeText: normalizeText,
