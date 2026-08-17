@@ -1,7 +1,7 @@
 /* =========================================================
    DigiYar V4
    Product Retrieval Layer
-   Build 10 — unified retrieval API
+   Build 11 — real product identity + image resolver
    ========================================================= */
 
 (function () {
@@ -15,6 +15,10 @@
     maxResults: 20
   };
 
+
+  /* =======================================================
+     Helpers
+     ======================================================= */
 
   function normalizeText(value) {
 
@@ -38,6 +42,147 @@
   }
 
 
+  function firstNonEmpty(values) {
+
+    for (let i = 0; i < values.length; i++) {
+
+      const value = values[i];
+
+      if (
+        typeof value === "string" &&
+        value.trim()
+      ) {
+        return value.trim();
+      }
+
+      if (
+        value &&
+        typeof value === "object" &&
+        typeof value.url === "string" &&
+        value.url.trim()
+      ) {
+        return value.url.trim();
+      }
+
+    }
+
+    return "";
+
+  }
+
+
+  /* =======================================================
+     Image Resolver
+     ======================================================= */
+
+  function resolveImage(product) {
+
+    if (!product || typeof product !== "object") {
+      return "";
+    }
+
+    const images = product.images;
+
+    const imageCollections = [];
+
+    if (Array.isArray(images)) {
+      imageCollections.push(images);
+    }
+
+    if (images && typeof images === "object") {
+
+      imageCollections.push(
+        images.main,
+        images.primary,
+        images.thumbnail,
+        images.large,
+        images.medium,
+        images.small
+      );
+
+    }
+
+    const collectionValues = [];
+
+    imageCollections.forEach(function (collection) {
+
+      if (Array.isArray(collection)) {
+        collection.forEach(function (item) {
+          collectionValues.push(item);
+        });
+      } else if (collection) {
+        collectionValues.push(collection);
+      }
+
+    });
+
+    return firstNonEmpty([
+      product.image,
+      product.image_url,
+      product.imageUrl,
+      product.thumbnail,
+      product.thumbnail_url,
+      product.thumbnailUrl,
+      product.photo,
+      product.cover,
+      ...collectionValues
+    ]);
+
+  }
+
+
+  function resolveProductUrl(product) {
+
+    if (!product || typeof product !== "object") {
+      return "";
+    }
+
+    return firstNonEmpty([
+      product.productUrl,
+      product.product_url,
+      product.url,
+      product.web_url,
+      product.link
+    ]);
+
+  }
+
+
+  function resolvePrice(product) {
+
+    if (!product || typeof product !== "object") {
+      return 0;
+    }
+
+    const variant = product.default_variant;
+    const priceObject = product.price;
+
+    return safeNumber(
+      typeof priceObject === "object"
+        ? (
+            priceObject.selling_price ||
+            priceObject.value ||
+            priceObject.amount
+          )
+        : priceObject
+    ) || safeNumber(
+      product.default_variant_price
+    ) || safeNumber(
+      product.selling_price
+    ) || safeNumber(
+      variant && (
+        variant.price ||
+        variant.selling_price
+      )
+    );
+
+  }
+
+
+  /* =======================================================
+     Product Normalization
+     ======================================================= */
+
   function normalizeProduct(product) {
 
     if (!product || typeof product !== "object") {
@@ -48,38 +193,20 @@
       product.id ||
       product.pk ||
       product.product_id ||
+      product.code ||
       "";
 
     const name =
       product.name ||
       product.title ||
+      product.product_name ||
       "";
-
-    const price = safeNumber(
-      product.price ??
-      product.default_variant_price ??
-      product.selling_price ??
-      (
-        product.default_variant &&
-        product.default_variant.price
-      )
-    );
 
     const productUrl =
-      product.productUrl ||
-      product.url ||
-      product.product_url ||
-      "";
+      resolveProductUrl(product);
 
     const image =
-      product.image ||
-      product.image_url ||
-      product.thumbnail ||
-      (
-        product.images &&
-        product.images.main
-      ) ||
-      "";
+      resolveImage(product);
 
     const features = Array.isArray(product.features)
       ? product.features.slice()
@@ -89,7 +216,7 @@
       id: String(id),
       name: String(name),
       category: product.category || "general",
-      price: price,
+      price: resolvePrice(product),
       store: product.store || "digikala",
       productUrl: productUrl,
       affiliateUrl: product.affiliateUrl || "",
@@ -99,6 +226,10 @@
 
   }
 
+
+  /* =======================================================
+     Local Search
+     ======================================================= */
 
   function localSearch(query, options) {
 
@@ -121,11 +252,20 @@
 
     return results
       .map(normalizeProduct)
-      .filter(Boolean)
+      .filter(function (product) {
+        return (
+          product &&
+          product.name
+        );
+      })
       .slice(0, CONFIG.maxResults);
 
   }
 
+
+  /* =======================================================
+     Remote Fetch
+     ======================================================= */
 
   async function fetchWithTimeout(url, timeout) {
 
@@ -163,6 +303,10 @@
   }
 
 
+  /* =======================================================
+     Digikala Response Extraction
+     ======================================================= */
+
   function extractDigikalaProducts(data) {
 
     if (!data) {
@@ -176,7 +320,10 @@
       data.items,
       data.data &&
         data.data.products &&
-        data.data.products.data
+        data.data.products.data,
+      data.data &&
+        data.data.products &&
+        data.data.products.items
     ];
 
     let products = [];
@@ -192,34 +339,14 @@
 
     return products
       .map(function (product) {
-
-        return normalizeProduct({
-          id: product.id || product.pk,
-          name: product.title || product.name,
-          category: product.category || "general",
-          price:
-            product.price ||
-            (
-              product.default_variant &&
-              product.default_variant.price
-            ),
-          store: "digikala",
-          productUrl:
-            product.url ||
-            product.product_url ||
-            "",
-          image:
-            product.image ||
-            product.image_url ||
-            (
-              product.images &&
-              product.images.main
-            ),
-          features: product.features || []
-        });
-
+        return normalizeProduct(product);
       })
-      .filter(Boolean)
+      .filter(function (product) {
+        return (
+          product &&
+          product.name
+        );
+      })
       .slice(0, CONFIG.maxResults);
 
   }
@@ -247,6 +374,10 @@
   }
 
 
+  /* =======================================================
+     Unified Search
+     ======================================================= */
+
   async function search(query, options) {
 
     const normalizedQuery = normalizeText(query);
@@ -257,18 +388,10 @@
 
     const settings = options || {};
 
-    /*
-     * Local mode is deterministic and is used by the current
-     * Smart Recommendation pipeline and tests.
-     */
     if (settings.remote === false) {
       return localSearch(normalizedQuery, settings);
     }
 
-    /*
-     * Remote source is optional. If CORS/network/API access fails,
-     * the same normalized local schema is returned.
-     */
     try {
 
       const remoteResults = await searchRemote(
@@ -282,7 +405,7 @@
     } catch (error) {
 
       console.warn(
-        "DigiYar Product Retrieval: remote source unavailable.",
+        "DigiYar Product Retrieval: remote source unavailable; using local fallback.",
         error
       );
 
@@ -296,14 +419,22 @@
   }
 
 
+  /* =======================================================
+     Public API
+     ======================================================= */
+
   const DigiYarProductRetrieval = {
-    version: "4.0.0-alpha.3",
+    version: "4.0.0-alpha.4",
     config: CONFIG,
+    normalizeText: normalizeText,
     normalizeProduct: normalizeProduct,
+    resolveImage: resolveImage,
+    resolveProductUrl: resolveProductUrl,
     search: search,
     searchRemote: searchRemote,
     localSearch: localSearch
   };
+
 
   window.DigiYarProductRetrieval =
     DigiYarProductRetrieval;
