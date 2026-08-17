@@ -1,539 +1,178 @@
 <!DOCTYPE html>
 <html lang="fa" dir="rtl">
-
 <head>
-
   <meta charset="UTF-8">
-
-  <meta
-    name="viewport"
-    content="width=device-width, initial-scale=1.0"
-  >
-
-  <meta
-    name="theme-color"
-    content="#101c35"
-  >
-
-  <meta
-    name="description"
-    content="دیجی‌یار؛ دستیار دنیای دیجیتال برای انتخاب هوشمندانه‌تر"
-  >
-
-  <link
-    rel="manifest"
-    href="manifest.json"
-  >
-
-  <link
-    rel="icon"
-    href="assets/logos/logo.png"
-    type="image/png"
-  >
-
-  <link
-    rel="stylesheet"
-    href="css/style.css"
-  >
-
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#101c35">
+  <meta name="description" content="دیجی‌یار؛ دستیار دنیای دیجیتال برای انتخاب هوشمندانه‌تر">
+  <link rel="manifest" href="manifest.json">
+  <link rel="icon" href="assets/logos/logo.png" type="image/png">
+  <link rel="stylesheet" href="css/style.css">
   <title>دیجی‌یار | دستیار دنیای دیجیتال</title>
-
 </head>
-
-
 <body>
 
-
-<!-- =====================================================
-     DigiYar V4 Splash
-     ===================================================== -->
-
-<div
-  id="splashScreen"
-  class="splash-screen"
->
-
-  <div class="splash-content">
-
-    <div
-      class="splash-logo-assembly"
-      aria-label="DigiYar"
-    >
-
-      <div class="logo-piece logo-piece-1">
-        <img
-          src="./assets/logos/logo.png"
-          alt=""
-          draggable="false"
-        >
+  <div id="splashScreen" class="splash-screen">
+    <div class="splash-content">
+      <div class="splash-logo-assembly" aria-label="دیجی‌یار">
+        <div class="logo-piece logo-piece-1"><img src="./assets/logos/logo.png" alt="" draggable="false"></div>
+        <div class="logo-piece logo-piece-2"><img src="./assets/logos/logo.png" alt="" draggable="false"></div>
+        <div class="logo-piece logo-piece-3"><img src="./assets/logos/logo.png" alt="" draggable="false"></div>
       </div>
-
-      <div class="logo-piece logo-piece-2">
-        <img
-          src="./assets/logos/logo.png"
-          alt=""
-          draggable="false"
-        >
+      <div class="splash-brand">
+        <h1>دیجی‌یار</h1>
+        <p>دستیار دنیای دیجیتال</p>
       </div>
-
-      <div class="logo-piece logo-piece-3">
-        <img
-          src="./assets/logos/logo.png"
-          alt=""
-          draggable="false"
-        >
-      </div>
-
+      <div class="splash-loader"><span></span></div>
     </div>
-
-
-    <div class="splash-brand">
-
-      <h1>
-        دیجی‌یار
-      </h1>
-
-      <p>
-        دستیار دنیای دیجیتال
-      </p>
-
-    </div>
-
-
-    <div class="splash-loader">
-      <span></span>
-    </div>
-
   </div>
 
-</div>
-
-
-<!-- =====================================================
-     Main Application
-     ===================================================== -->
-
-<main class="app-shell">
-
-
-  <!-- ===================================================
-       Header
-       =================================================== -->
-
-  <header class="main-header">
-
-    <div class="header-content">
-
-      <div class="header-brand">
-
-        <strong>
-          دیجی‌یار
-        </strong>
-
-        <span>
-          دستیار هوشمند خرید اینترنتی تو
-        </span>
-
-      </div>
-
-
-      <!-- ===============================================
-           PWA Install Notification
-           =============================================== -->
-
-      <div
-        id="installPrompt"
-        class="install-prompt hidden"
-        role="dialog"
-        aria-label="نصب دیجی‌یار"
-      >
-
-        <div class="install-prompt-icon">
-
-          <img
-            src="icon/icon-512.png"
-            alt="دیجی‌یار"
-          >
-
+  <main class="app-shell">
+    <header class="main-header">
+      <div class="header-content">
+        <div class="header-brand">
+          <strong>دیجی‌یار</strong>
+          <span>دستیار هوشمند خرید اینترنتی تو</span>
         </div>
 
-
-        <div class="install-prompt-content">
-
-          <strong>
-            دیجی‌یار رو نصب کن
-          </strong>
-
-          <span>
-            دستیار خرید هوشمندت همیشه در دسترس تو
-          </span>
-
+        <div id="installPrompt" class="install-prompt hidden" role="dialog" aria-label="نصب دیجی‌یار">
+          <div class="install-prompt-icon"><img src="icon/icon-512.png" alt="دیجی‌یار"></div>
+          <div class="install-prompt-content">
+            <strong>دیجی‌یار رو نصب کن</strong>
+            <span>دستیار خرید هوشمندت همیشه در دسترس تو</span>
+          </div>
+          <button id="installBtn" class="install-prompt-button" type="button">نصب</button>
+          <button id="installDismiss" class="install-prompt-close" type="button" aria-label="بستن">×</button>
         </div>
+      </div>
+    </header>
 
-
-        <button
-          id="installBtn"
-          class="install-prompt-button"
-          type="button"
-        >
-          نصب
-        </button>
-
-
-        <button
-          id="installDismiss"
-          class="install-prompt-close"
-          type="button"
-          aria-label="بستن"
-        >
-          ×
-        </button>
-
+    <section class="card profile-card">
+      <div class="section-title">
+        <h2>پروفایل خرید</h2>
+        <p>اطلاعات خریدت رو وارد کن تا دیجی‌یار بهترین گزینه‌ها رو برات پیدا کنه</p>
       </div>
 
-    </div>
+      <form id="profileForm">
+        <div class="form-grid">
+          <label>
+            دسته محصول
+            <span class="select-wrap">
+              <select id="category">
+                <option value="mobile">موبایل</option>
+                <option value="laptop">لپ‌تاپ</option>
+                <option value="tablet">تبلت</option>
+                <option value="general">سایر</option>
+              </select>
+            </span>
+          </label>
 
-  </header>
+          <label>
+            حداکثر بودجه
+            <input id="budgetMax" type="number" min="0" max="500000000" step="100000" placeholder="مثلاً 15000000">
+            <small class="input-hint">حداکثر ۵۰۰ میلیون تومان</small>
+          </label>
 
+          <label>
+            اولویت‌ها
+            <span class="select-wrap">
+              <select id="priorities">
+                <option value="">انتخاب کن</option>
+                <option value="دوربین، باتری">دوربین و باتری</option>
+                <option value="دوربین">دوربین</option>
+                <option value="باتری">باتری</option>
+                <option value="کیفیت">کیفیت</option>
+                <option value="ارزش خرید">ارزش خرید</option>
+              </select>
+            </span>
+          </label>
 
-  <!-- ===================================================
-       Profile
-       =================================================== -->
+          <label>
+            نوع استفاده
+            <span class="select-wrap">
+              <select id="usage">
+                <option value="">انتخاب کن</option>
+                <option value="عکاسی">عکاسی</option>
+                <option value="بازی">بازی</option>
+                <option value="کار روزمره">کار روزمره</option>
+                <option value="تولید محتوا">تولید محتوا</option>
+              </select>
+            </span>
+          </label>
 
-  <section class="card profile-card">
+          <label>
+            نیازهای ضروری
+            <span class="select-wrap">
+              <select id="requirements">
+                <option value="">انتخاب کن</option>
+                <option value="5G">5G</option>
+                <option value="حافظه بالا">حافظه بالا</option>
+                <option value="شارژ سریع">شارژ سریع</option>
+              </select>
+            </span>
+          </label>
 
-    <div class="section-title">
+          <label>
+            محدودیت‌ها
+            <span class="select-wrap">
+              <select id="constraints">
+                <option value="">انتخاب کن</option>
+                <option value="وزن کم">وزن کم</option>
+                <option value="اندازه کوچک">اندازه کوچک</option>
+                <option value="قیمت پایین">قیمت پایین</option>
+              </select>
+            </span>
+          </label>
 
-      <div>
-
-        <h2>
-          پروفایل خرید
-        </h2>
-
-        <p>
-          اطلاعات خریدت رو وارد کن تا دیجی‌یار بهترین گزینه‌ها رو برات پیدا کنه
-        </p>
-
-      </div>
-
-    </div>
-
-
-    <form id="profileForm">
-
-      <div class="form-grid">
-
-
-        <!-- =============================================
-             Category
-             ============================================= -->
-
-        <label>
-
-          دسته محصول
-
-          <select id="category">
-
-            <option value="mobile">
-              موبایل
-            </option>
-
-            <option value="laptop">
-              لپ‌تاپ
-            </option>
-
-            <option value="tablet">
-              تبلت
-            </option>
-
-            <option value="general">
-              سایر
-            </option>
-
-          </select>
-
-        </label>
-
-
-        <!-- =============================================
-             Budget
-             ============================================= -->
-
-        <label>
-
-          حداکثر بودجه
-
-          <input
-            id="budgetMax"
-            type="number"
-            min="0"
-            max="500000000"
-            step="100000"
-            placeholder="مثلاً 15000000"
-          >
-
-          <small class="input-hint">
-            حداکثر ۵۰۰ میلیون تومان
-          </small>
-
-        </label>
-
-
-        <!-- =============================================
-             Priorities
-             ============================================= -->
-
-        <label class="full">
-
-          اولویت‌ها
-
-          <input
-            id="priorities"
-            type="text"
-            placeholder="مثلاً دوربین، باتری، کیفیت"
-          >
-
-        </label>
-
-
-        <!-- =============================================
-             Usage
-             ============================================= -->
-
-        <label class="full">
-
-          نوع استفاده
-
-          <input
-            id="usage"
-            type="text"
-            placeholder="مثلاً عکاسی، بازی، کار روزمره"
-          >
-
-        </label>
-
-
-        <!-- =============================================
-             Requirements
-             ============================================= -->
-
-        <label class="full">
-
-          نیازهای ضروری
-
-          <input
-            id="requirements"
-            type="text"
-            placeholder="مثلاً 5G، حافظه بالا"
-          >
-
-        </label>
-
-
-        <!-- =============================================
-             Constraints
-             ============================================= -->
-
-        <label class="full">
-
-          محدودیت‌ها
-
-          <input
-            id="constraints"
-            type="text"
-            placeholder="مثلاً وزن کم"
-          >
-
-        </label>
-
-
-        <!-- =============================================
-             Form Actions
-             ============================================= -->
-
-        <div class="form-actions full">
-
-          <button
-            class="primary"
-            type="submit"
-          >
-            ساخت پروفایل و پیشنهاد
-          </button>
-
-
-          <button
-            id="resetProfile"
-            class="danger"
-            type="button"
-          >
-            پاک کردن اطلاعات
-          </button>
-
+          <div class="form-actions full">
+            <button class="primary" type="submit">ساخت پروفایل و پیشنهاد</button>
+            <button id="resetProfile" class="danger" type="button">پاک کردن اطلاعات</button>
+          </div>
         </div>
+      </form>
 
+      <p class="storage-note">اطلاعات خریدت روی همین دستگاه ذخیره میشن.</p>
+    </section>
+
+    <section id="resultSection" class="card results-card">
+      <div class="section-title">
+        <h2>پیشنهادات دیجی‌یار</h2>
+        <p id="resultHint">بر اساس اولویت‌های انتخابی تو به ترتیب زیر پیشنهاد میشن</p>
       </div>
+      <div id="needSummary" class="need-summary empty" aria-hidden="true" hidden></div>
+      <div id="recommendations" class="recommendations"></div>
+    </section>
 
-    </form>
-
-
-    <p class="storage-note">
-      اطلاعات خریدت روی همین دستگاه ذخیره میشن.
-    </p>
-
-  </section>
-
-
-  <!-- ===================================================
-       Results
-       =================================================== -->
-
-  <section
-    id="resultSection"
-    class="card results-card"
-  >
-
-    <div class="section-title">
-
-      <div>
-
-        <h2>
-          پیشنهادات دیجی‌یار
-        </h2>
-
-        <p id="resultHint">
-          بر اساس اولویت‌های انتخابی تو به ترتیب زیر پیشنهاد میشن
-        </p>
-
+    <section class="card platforms-card">
+      <div class="section-title">
+        <h2>فروشگاه‌های محبوب</h2>
       </div>
+      <div id="platforms" class="platform-grid"></div>
+    </section>
 
-    </div>
-
-
-    <!--
-      اطلاعات فنی Need دیگر مستقیماً
-      به کاربر نمایش داده نمی‌شود.
-      این عنصر برای سازگاری با app.js
-      حفظ شده اما در UI مخفی است.
-    -->
-
-    <div
-      id="needSummary"
-      class="need-summary empty"
-      aria-hidden="true"
-      hidden
-    ></div>
-
-
-    <div
-      id="recommendations"
-      class="recommendations"
-    ></div>
-
-  </section>
-
-
-  <!-- ===================================================
-       Shopping Platforms
-       =================================================== -->
-
-  <section class="card platforms-card">
-
-    <div class="section-title">
-
-      <div>
-
-        <h2>
-          فروشگاه‌های محبوب
-        </h2>
-
+    <footer class="main-footer">
+      <nav class="footer-links" aria-label="پیوندهای پایانی">
+        <a href="#" class="footer-link">درباره دیجی‌یار</a>
+        <a href="#" class="footer-link">راهنما</a>
+        <a href="#" class="footer-link">قوانین و حریم خصوصی</a>
+        <a href="#" class="footer-link">تماس با ما</a>
+      </nav>
+      <div class="footer-brand">
+        <strong>دیجی‌یار</strong>
+        <span>دستیار دنیای دیجیتال</span>
       </div>
+      <div class="footer-copy">© ۱۴۰۵ دیجی‌یار — همه حقوق محفوظ است</div>
+    </footer>
+  </main>
 
-    </div>
-
-
-    <div
-      id="platforms"
-      class="platform-grid"
-    ></div>
-
-  </section>
-
-
-  <!-- ===================================================
-       Footer
-       =================================================== -->
-
-  <footer class="main-footer">
-
-    <div class="footer-links">
-
-      <a href="#" class="footer-link">
-        درباره دیجی‌یار
-      </a>
-
-      <a href="#" class="footer-link">
-        راهنما
-      </a>
-
-      <a href="#" class="footer-link">
-        قوانین و حریم خصوصی
-      </a>
-
-      <a href="#" class="footer-link">
-        تماس با ما
-      </a>
-
-    </div>
-
-
-    <div class="footer-brand">
-
-      <strong>
-        دیجی‌یار
-      </strong>
-
-      <span>
-        دستیار دنیای دیجیتال
-      </span>
-
-    </div>
-
-
-    <div class="footer-copy">
-
-      © ۱۴۰۵ دیجی‌یار — همه حقوق محفوظ است
-
-    </div>
-
-  </footer>
-
-
-</main>
-
-
-<!-- =====================================================
-     DigiYar Core — Dependency Order
-     ===================================================== -->
-
-<script src="js/product-data.js"></script>
-
-<script src="js/product-retrieval.js"></script>
-
-<script src="js/search-engine.js"></script>
-
-<script src="js/product-scoring.js"></script>
-
-<script src="js/smart-recommendation-engine.js"></script>
-
-<script src="js/user-profile.js"></script>
-
-<script src="js/need-engine.js"></script>
-
-<script src="js/platforms.js"></script>
-
-<script src="js/app.js"></script>
-
-
+  <script src="js/product-data.js"></script>
+  <script src="js/product-retrieval.js"></script>
+  <script src="js/search-engine.js"></script>
+  <script src="js/product-scoring.js"></script>
+  <script src="js/smart-recommendation-engine.js"></script>
+  <script src="js/user-profile.js"></script>
+  <script src="js/need-engine.js"></script>
+  <script src="js/platforms.js"></script>
+  <script src="js/app.js"></script>
 </body>
-
 </html>
