@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>DigiYar Price Policy Test</title></head>
+<body>
+<h1>تست Price Policy — V4</h1>
+<pre id="out">در حال اجرا…</pre>
+<script src="../js/price-policy.js"></script>
+<script>
+(function(){
+  const P = window.DigiYarPricePolicy;
+  const cases = [
+    ["۱۵ میلیون تومان", 15000000],
+    ["15000000 تومان", 15000000],
+    ["150000000 ریال", 15000000],
+    ["۱۵٬۰۰۰٬۰۰۰", 15000000],
+    ["۳۰ میلیون تومان", 30000000],
+    ["۵۰۰ میلیون تومان", 500000000]
+  ];
+  const results = cases.map(function(c){
+    const r = P.parseBudget(c[0]);
+    return {input:c[0], expected:c[1], actual:r && r.max, pass:!!r && r.max===c[1], range:r && r.planningRange};
+  });
+  const passed = results.filter(r=>r.pass).length;
+  document.getElementById('out').textContent =
+    (passed===results.length ? '🎉 ALL TESTS PASSED' : '⚠️ TESTS FAILED') +
+    ' — ' + passed + ' از ' + results.length + '\n\n' + JSON.stringify(results,null,2);
+})();
+</script>
+</body>
+</html>
