@@ -1,113 +1,35 @@
 /* =========================================================
-   DigiYar V3
-   Search Engine
+   DigiYar V4 — Search Engine
+   Build 3 — fixed async retrieval bridge
    ========================================================= */
-
 (function () {
-
   "use strict";
 
-
-  /* =======================================================
-     Helpers
-     ======================================================= */
-
   function normalizeQuery(query) {
-
-    return String(
-      query || ""
-    )
+    return String(query || "")
       .trim()
       .toLowerCase()
       .replace(/ي/g, "ی")
       .replace(/ك/g, "ک");
-
   }
 
+  async function search(query, options) {
+    const normalizedQuery = normalizeQuery(query);
+    if (!normalizedQuery) return [];
 
-  /* =======================================================
-     Search
-     ======================================================= */
-
-  async function search(
-    query,
-    options
-  ) {
-
-    const normalizedQuery =
-      normalizeQuery(query);
-
-
-    if (!normalizedQuery) {
-
-      return [];
-
+    if (window.DigiYarProductRetrieval && typeof window.DigiYarProductRetrieval.search === "function") {
+      return await window.DigiYarProductRetrieval.search(normalizedQuery, options || {});
     }
 
-
-    /*
-     * اولویت با Product Retrieval
-     */
-
-    if (
-      window.DigiYarProductRetrieval &&
-      typeof
-        window.DigiYarProductRetrieval.search ===
-        "function"
-    ) {
-
-      return
-        await window.DigiYarProductRetrieval
-          .search(
-            normalizedQuery,
-            options
-          );
-
+    if (window.DigiYarProductData && typeof window.DigiYarProductData.search === "function") {
+      return window.DigiYarProductData.search(normalizedQuery, options || {});
     }
-
-
-    /*
-     * Fallback نهایی
-     */
-
-    if (
-      window.DigiYarProductData &&
-      typeof
-        window.DigiYarProductData.search ===
-        "function"
-    ) {
-
-      return
-        window.DigiYarProductData
-          .search(
-            normalizedQuery
-          );
-
-    }
-
 
     return [];
-
   }
 
-
-  /* =======================================================
-     Public API
-     ======================================================= */
-
-  const DigiYarSearchEngine = {
-
-    version:
-      "2.0.0",
-
-    search:
-      search
-
+  window.DigiYarSearchEngine = {
+    version: "4.0.0-alpha.3",
+    search: search
   };
-
-
-  window.DigiYarSearchEngine =
-    DigiYarSearchEngine;
-
-
 })();
