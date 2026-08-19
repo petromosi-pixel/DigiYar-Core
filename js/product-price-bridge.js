@@ -20,12 +20,20 @@
 
       const normalized = items.map(function (item) {
         const copy = Object.assign({}, item);
-        copy.price = Policy.productPriceToToman(
-          copy.price,
-          copy.store || "digikala",
-          copy.priceUnit
-        );
+
+        /* Retrieval now guarantees canonical Toman output. Do not run the
+           Digikala Rial heuristic a second time. Future adapters may provide
+           an explicit priceUnit when their source is not already normalized. */
+        if (copy.currency !== "toman") {
+          copy.price = Policy.productPriceToToman(
+            copy.price,
+            copy.store || "",
+            copy.priceUnit
+          );
+        }
+
         copy.currency = "toman";
+        copy.priceUnit = "toman";
         return copy;
       });
 
