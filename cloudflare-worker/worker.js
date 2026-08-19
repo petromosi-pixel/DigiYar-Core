@@ -13,7 +13,7 @@ export default {
     if (request.method !== "GET") return json({ ok: false, error: "Method not allowed" }, 405, cors);
 
     if (url.pathname === "/health") {
-      return json({ ok: true, service: "DigiYar Search Proxy", version: "4.0.0-alpha.12", upstream: "digikala" }, 200, cors);
+      return json({ ok: true, service: "DigiYar Search Proxy", version: "4.0.0-alpha.13", upstream: "digikala" }, 200, cors);
     }
 
     if (url.pathname === "/search" || url.pathname === "/autocomplete") {
@@ -227,25 +227,37 @@ function findRrp(value, depth) {
 }
 
 function findImage(value, depth) {
-  if (depth > 8 || value == null || typeof value !== "object") return null;
-  const direct = value.image_url || value.imageUrl || value.thumbnail || value.image;
-  if (typeof direct === "string" && direct.startsWith("http")) return direct;
-  if (Array.isArray(direct)) {
-    for (const x of direct) if (typeof x === "string" && x.startsWith("http")) return x;
-  }
-  if (value.images) {
-    if (Array.isArray(value.images)) {
-      for (const x of value.images) {
-        if (typeof x === "string" && x.startsWith("http")) return x;
-        if (x?.url?.[0]) return x.url[0];
-        if (typeof x?.url === "string") return x.url;
-      }
-    }
-    if (value.images?.url?.[0]) return value.images.url[0];
-  }
-  for (const key of ["default_variant", "defaultVariant", "variant", "variants", "images"]) {
+  if (depth > 8 || value == null) return null;
+  if (typeof value === "string") return value.startsWith("http") ? value : null;
+  if (typeof value !== "object") return null;
+
+  const direct = value.image_url ?? value.imageUrl ?? value.thumbnail ?? value.image;
+  const directUrl = extractUrlString(direct);
+  if (directUrl) return directUrl;
+
+  for (const key of ["images", "default_variant", "defaultVariant", "variant", "variants"]) {
     if (value[key] != null) {
       const found = findImage(value[key], depth + 1);
+      if (found) return found;
+    }
+  }
+  return null;
+}
+
+function extractUrlString(value) {
+  if (typeof value === "string") return value.startsWith("http") ? value : null;
+  if (Array.isArray(value)) {
+    for (const item of value) {
+      const found = extractUrlString(item);
+      if (found) return found;
+    }
+    return null;
+  }
+  if (!value || typeof value !== "object") return null;
+
+  for (const key of ["url", "uri", "src", "href", "image_url", "imageUrl"]) {
+    if (value[key] != null) {
+      const found = extractUrlString(value[key]);
       if (found) return found;
     }
   }
@@ -329,14 +341,17 @@ function decodeHtml(value) {
 }
 
 function extractId(url) {
-  const match = String(url || "").match(/dkp-(\d+)/i);
+  const raw = extractUrlString(url) || String(url || "");
+  const match = raw.match(/dkp-(\d+)/i);
   return match ? match[1] : null;
 }
 
-function normalizeProductUrl(url) {
+function normalizeProductUrl(value) {
+  const url = extractUrlString(value) || (typeof value === "string" ? value : null);
   if (!url) return null;
-  if (url.startsWith("http")) return url;
+  if (url.startsWith("http://") || url.startsWith("https://")) return url;
   if (url.startsWith("/")) return "https://www.digikala.com" + url;
+  if (url.startsWith("product/")) return "https://www.digikala.com/" + url;
   return url;
 }
 
