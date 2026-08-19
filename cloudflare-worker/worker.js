@@ -13,7 +13,7 @@ export default {
     if (request.method !== "GET") return json({ ok: false, error: "Method not allowed" }, 405, cors);
 
     if (url.pathname === "/health") {
-      return json({ ok: true, service: "DigiYar Search Proxy", version: "4.0.0-alpha.10", upstream: "digikala" }, 200, cors);
+      return json({ ok: true, service: "DigiYar Search Proxy", version: "4.0.0-alpha.11", upstream: "digikala" }, 200, cors);
     }
 
     if (url.pathname === "/search" || url.pathname === "/autocomplete") {
@@ -58,6 +58,7 @@ async function proxySearch(query, cors, endpoint) {
     for (const path of apiPaths) {
       const result = await fetchDigiApi(`https://api.digikala.com${path}?q=${encodeURIComponent(query)}`);
       if (result.ok) {
+        const products = endpoint === "/search" ? extractProductsFromApi(result.data) : [];
         return json({
           ok: true,
           status: result.status,
@@ -66,8 +67,12 @@ async function proxySearch(query, cors, endpoint) {
           source: "digikala",
           apiPath: path,
           cookieEstablished: Boolean(cachedDigiCdnCookie),
-          rawCount: countProducts(result.data),
-          data: result.data
+          rawCount: products.length,
+          products,
+          diagnostics: {
+            extraction: endpoint === "/search" ? (products.length ? "api_products" : "no_product_objects_found") : "autocomplete",
+            apiPayloadStatus: result.data?.status ?? null
+          }
         }, 200, cors);
       }
     }
@@ -90,7 +95,7 @@ async function proxySearch(query, cors, endpoint) {
           extraction: "product_links"
         },
         rawCount: products.length,
-        data: { products }
+        products
       }, 200, cors);
     }
 
@@ -146,6 +151,105 @@ async function fetchDigikalaWeb(query) {
   return { ok: response.ok, status: response.status, url: response.url, html: await response.text() };
 }
 
+function extractProductsFromApi(payload) {
+  const products = [];
+  const seen = new Set();
+
+  // Current search payloads expose the result list under data.data.products.
+  const candidates = [
+    payload?.data?.products,
+    payload?.data?.data?.products,
+    payload?.data?.data?.products?.items,
+    payload?.data?.products?.items
+  ];
+
+  for (const list of candidates) {
+    if (!Array.isArray(list)) continue;
+    for (const item of list) addApiProduct(item, products, seen);
+    if (products.length >= 20) break;
+  }
+
+  // Defensive fallback: walk the JSON, but only accept objects that look like
+  // actual market products rather than category/brand filter objects.
+  if (!products.length) walkApiProducts(payload, products, seen, 0);
+
+  return products.slice(0, 20);
+}
+
+function addApiProduct(item, products, seen) {
+  if (!isProductObject(item)) return;
+
+  const id = item.id ?? item.productId ?? item.product_id ?? extractId(item.url);
+  const title = item.title_fa || item.title || item.name || item.productTitle || item.displayName || item.title_en;
+  const priceObj = item.price || item.offer || item.offers || {};
+  const price = parseMoney(
+    item.selling_price ?? item.sellingPrice ?? item.finalPrice ?? item.salePrice ??
+    priceObj.selling_price ?? priceObj.sellingPrice ?? priceObj.selling_price_rial ?? priceObj.price
+  );
+  const rrp = parseMoney(item.rrp_price ?? item.rrpPrice ?? priceObj.rrp_price ?? priceObj.rrpPrice);
+  const url = normalizeProductUrl(item.url || item.productUrl || item.link || (id ? `/product/dkp-${id}/` : ""));
+  const image = extractImage(item);
+
+  if (!id || !title || !price) return;
+  const key = String(id);
+  if (seen.has(key)) return;
+  seen.add(key);
+
+  products.push({
+    id: Number(id) || id,
+    title: String(title),
+    price,
+    rrpPrice: rrp || null,
+    currency: "IRR",
+    url,
+    image,
+    rating: item.rating?.rate ?? item.rating ?? item.rating_stars ?? null,
+    ratingCount: item.rating?.count ?? item.rating_count ?? null,
+    brand: item.brand?.title_fa ?? item.brand?.title ?? item.brand ?? null,
+    status: item.status ?? null
+  });
+}
+
+function isProductObject(item) {
+  if (!item || typeof item !== "object" || Array.isArray(item)) return false;
+  const id = item.id ?? item.productId ?? item.product_id;
+  const title = item.title_fa || item.title || item.name || item.productTitle;
+  const hasPrice = item.price || item.selling_price || item.sellingPrice || item.finalPrice || item.salePrice || item.offer;
+  const hasProductUrl = typeof item.url === "string" && /dkp-\d+/i.test(item.url);
+  return Boolean(id && title && (hasPrice || hasProductUrl));
+}
+
+function walkApiProducts(value, products, seen, depth) {
+  if (depth > 10 || value == null || products.length >= 20) return;
+  if (Array.isArray(value)) {
+    for (const item of value) walkApiProducts(item, products, seen, depth + 1);
+    return;
+  }
+  if (typeof value !== "object") return;
+  if (isProductObject(value)) addApiProduct(value, products, seen);
+  for (const child of Object.values(value)) walkApiProducts(child, products, seen, depth + 1);
+}
+
+function extractImage(item) {
+  const direct = item.image_url || item.imageUrl || item.image || item.thumbnail;
+  if (typeof direct === "string" && direct) return direct;
+  const images = item.images;
+  if (Array.isArray(images)) {
+    for (const image of images) {
+      if (typeof image === "string" && image) return image;
+      if (image?.url?.[0]) return image.url[0];
+      if (typeof image?.url === "string") return image.url;
+    }
+  }
+  if (images?.url?.[0]) return images.url[0];
+  return null;
+}
+
+function extractId(url) {
+  const match = String(url || "").match(/dkp-(\d+)/i);
+  return match ? match[1] : null;
+}
+
 function extractProductsFromHtml(html) {
   const products = [];
   const seen = new Set();
@@ -165,7 +269,6 @@ function extractProductsFromHtml(html) {
     products.push({ id: item.id ?? item.productId ?? null, title: String(title), price: price || null, currency: item.currency || (typeof offer === "object" ? offer.priceCurrency : null) || "IRR", url: url ? normalizeProductUrl(url) : null, image: typeof image === "string" ? image : null });
   };
 
-  // JSON-LD / embedded JSON objects.
   const jsonLdMatches = html.match(/<script[^>]+type=["']application\/ld\+json["'][^>]*>([\s\S]*?)<\/script>/gi) || [];
   for (const block of jsonLdMatches) {
     const body = block.replace(/^.*?>/s, "").replace(/<\/script>$/i, "");
@@ -180,8 +283,6 @@ function extractProductsFromHtml(html) {
     try { walk(JSON.parse(body), add, 0); } catch (_) {}
   }
 
-  // Current public DigiKala HTML exposes product cards as links. This is the
-  // reliable fallback when the API is challenged and product JSON is absent.
   const anchorRe = /<a\b[^>]*href=["']([^"']*\/product\/dkp-\d+[^"']*)["'][^>]*>([\s\S]*?)<\/a>/gi;
   let match;
   while ((match = anchorRe.exec(html)) !== null && products.length < 20) {
@@ -189,11 +290,9 @@ function extractProductsFromHtml(html) {
     const text = cleanText(match[2]);
     const idMatch = url.match(/dkp-(\d+)/i);
     if (!idMatch || seen.has(idMatch[1])) continue;
-
     const price = extractPriceFromText(text);
     const title = extractTitleFromText(text);
     if (!title || !price) continue;
-
     seen.add(idMatch[1]);
     products.push({ id: Number(idMatch[1]), title, price, currency: "IRR", url: normalizeProductUrl(url), image: null });
   }
@@ -257,28 +356,13 @@ function extractTitleFromText(text) {
   const normalized = normalizeDigits(cleaned);
   const priceIndex = normalized.search(/(?:\d{1,3}(?:,\d{3})+|\d{7,15})/);
   const beforePrice = priceIndex >= 0 ? cleaned.slice(0, priceIndex).trim() : cleaned;
-  return beforePrice
-    .replace(/^(ارسال سریع دیجی‌کالا|موجود در انبار دیجی کالا|موجود در انبار دیجی‌کالا)\s*/i, "")
-    .trim();
+  return beforePrice.replace(/^(ارسال سریع دیجی‌کالا|موجود در انبار دیجی کالا|موجود در انبار دیجی‌کالا)\s*/i, "").trim();
 }
 
 function normalizeProductUrl(url) {
   if (url.startsWith("http")) return url;
   if (url.startsWith("/")) return "https://www.digikala.com" + url;
   return url;
-}
-
-function countProducts(value) {
-  let count = 0;
-  const visit = (v, depth) => {
-    if (depth > 8 || v == null) return;
-    if (Array.isArray(v)) { for (const x of v) visit(x, depth + 1); return; }
-    if (typeof v !== "object") return;
-    if ((v.productId || v.id) && (v.title || v.name || v.productTitle || v.title_fa)) count++;
-    for (const x of Object.values(v)) visit(x, depth + 1);
-  };
-  visit(value, 0);
-  return count;
 }
 
 function json(payload, status = 200, extraHeaders = {}) {
