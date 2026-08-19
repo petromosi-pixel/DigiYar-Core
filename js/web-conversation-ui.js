@@ -20,23 +20,6 @@
       messages.scrollTop = messages.scrollHeight;
     }
 
-    /* Keep the live search query broad enough to find real market inventory.
-       Usage/decision criteria are used after retrieval rather than making the
-       retailer search too restrictive. */
-    function productQuery(need) {
-      if (!need) return 'محصول';
-      if (need.category === 'mobile') return 'گوشی موبایل';
-      if (need.category === 'laptop') return 'لپ تاپ';
-      if (need.category === 'tablet') return 'تبلت';
-      return String(need.category || 'محصول');
-    }
-
-    function showQuestion(result) {
-      if (result && result.question && result.question.question) {
-        addMessage(result.question.question, 'assistant');
-      }
-    }
-
     function priceValue(item) {
       const value = Number(item && item.price);
       return Number.isFinite(value) && value > 0 ? value : 0;
@@ -44,31 +27,46 @@
 
     function applyNeedFilters(items, need) {
       if (!Array.isArray(items)) return [];
-
-      const max = need && need.budget && Number(need.budget.max);
-      if (!Number.isFinite(max) || max <= 0) return items;
-
+      const budget = need && need.budget ? need.budget : null;
+      const min = budget && Number(budget.min);
+      const max = budget && Number(budget.max);
       return items.filter(function (item) {
         const price = priceValue(item);
-        return price > 0 && price <= max;
+        if (price <= 0) return false;
+        if (Number.isFinite(min) && min > 0 && price < min) return false;
+        if (Number.isFinite(max) && max > 0 && price > max) return false;
+        return true;
       });
     }
 
-    function showProducts(items, need) {
+    function diagnosticMessage(diagnostic, need) {
+      if (!diagnostic) return '';
+      const budget = need && need.budget ? need.budget : null;
+      const max = budget && Number(budget.max);
+      const min = budget && Number(budget.min);
+      const range = min > 0 && max > 0
+        ? Number(min).toLocaleString('fa-IR') + ' تا ' + Number(max).toLocaleString('fa-IR')
+        : max > 0 ? 'حداکثر ' + Number(max).toLocaleString('fa-IR') : 'بدون سقف قیمت';
+      return 'تشخیص فنی موقت: منبع «' + (diagnostic.source || 'نامشخص') +
+        '»، دریافت خام: ' + Number(diagnostic.rawCount || 0).toLocaleString('fa-IR') +
+        '، محصول قابل پردازش: ' + Number(diagnostic.normalizedCount || 0).toLocaleString('fa-IR') +
+        '، دارای قیمت: ' + Number(diagnostic.pricedCount || 0).toLocaleString('fa-IR') +
+        '؛ بازه درخواستی: ' + range + ' تومان.';
+    }
+
+    function showProducts(items, need, diagnostic) {
       if (!products) return;
       products.innerHTML = '';
-
       const filtered = applyNeedFilters(items, need);
 
       if (!filtered.length) {
         const max = need && need.budget && Number(need.budget.max);
-        if (max > 0) {
-          addMessage(
-            'در حال حاضر در نتایج زنده، محصولی با قیمت حداکثر ' +
-              Number(max).toLocaleString('fa-IR') +
-              ' تومان پیدا نکردم. اگر بخواهی می‌توانیم بودجه را کمی افزایش دهیم یا معیار دیگری را تغییر دهیم.',
-            'assistant'
-          );
+        const min = need && need.budget && Number(need.budget.min);
+        if (diagnostic) addMessage(diagnosticMessage(diagnostic, need), 'assistant');
+        if (min > 0 && max > 0) {
+          addMessage('در حال حاضر در نتایج زنده، محصولی در بازه ' + Number(min).toLocaleString('fa-IR') + ' تا ' + Number(max).toLocaleString('fa-IR') + ' تومان پیدا نکردم.', 'assistant');
+        } else if (max > 0) {
+          addMessage('در حال حاضر در نتایج زنده، محصولی با قیمت حداکثر ' + Number(max).toLocaleString('fa-IR') + ' تومان پیدا نکردم.', 'assistant');
         } else {
           addMessage('فعلاً محصول مناسبی از منبع جست‌وجو دریافت نشد.', 'assistant');
         }
@@ -84,18 +82,14 @@
         image.loading = 'lazy';
         image.className = 'digiyar-product-image';
         image.src = item.image || '';
-        image.onerror = function () {
-          image.style.display = 'none';
-        };
+        image.onerror = function () { image.style.display = 'none'; };
 
         const title = document.createElement('h3');
         title.textContent = item.name || 'محصول پیشنهادی';
 
         const price = document.createElement('p');
         price.className = 'digiyar-product-price';
-        price.textContent = priceValue(item)
-          ? priceValue(item).toLocaleString('fa-IR') + ' تومان'
-          : 'قیمت نامشخص';
+        price.textContent = priceValue(item) ? priceValue(item).toLocaleString('fa-IR') + ' تومان' : 'قیمت نامشخص';
 
         const link = document.createElement('a');
         link.className = 'digiyar-product-link';
@@ -112,23 +106,26 @@
       });
     }
 
-    function retrieveProducts(need) {
-      if (!window.DigiYarProductRetrieval) {
-        addMessage('موتور جست‌وجوی محصولات هنوز در دسترس نیست.', 'assistant');
+    async function retrieveProducts(need) {
+      const Integration = window.DigiyarProductRetrievalIntegration;
+      if (!Integration || typeof Integration.retrieve !== 'function') {
+        addMessage('اتصال موتور جست‌وجوی محصولات هنوز در دسترس نیست.', 'assistant');
         return;
       }
 
       addMessage('نیازت کامل شد؛ دارم گزینه‌های واقعی بازار را بررسی می‌کنم…', 'assistant');
 
-      window.DigiYarProductRetrieval.search(productQuery(need), {
-        remote: true,
-        maxPrice: need && need.budget ? need.budget.max : null
-      }).then(function (items) {
-        showProducts(items, need);
-      }).catch(function (error) {
+      try {
+        const result = await Integration.retrieve(need, { remote: true });
+        showProducts(result.products || [], need, result.diagnostic || null);
+      } catch (error) {
         console.error(error);
         addMessage('در دریافت محصولات زنده مشکلی پیش آمد؛ دوباره امتحان کن.', 'assistant');
-      });
+      }
+    }
+
+    function showQuestion(result) {
+      if (result && result.question && result.question.question) addMessage(result.question.question, 'assistant');
     }
 
     function handleResult(result) {
@@ -141,11 +138,8 @@
     function process(text) {
       try {
         let result;
-        if (!state) {
-          result = Engine.start(text);
-        } else {
-          result = Engine.continueConversation(state, text);
-        }
+        if (!state) result = Engine.start(text);
+        else result = Engine.continueConversation(state, text);
         handleResult(result);
       } catch (error) {
         console.error(error);
