@@ -43,40 +43,85 @@ function runTests(){
   function add(name,fn){
     try{
       const output=fn();
-      results.push({name,pass:Boolean(output.pass),output:output.state||output});
+      results.push({name,pass:Boolean(output.pass),output:output.result||output});
     }catch(error){
       results.push({name,pass:false,output:String(error)});
     }
   }
 
+  function assertCanonicalResult(result){
+    return Boolean(
+      result &&
+      result.state &&
+      !result.state.state &&
+      typeof result.state.turn==='number' &&
+      Array.isArray(result.state.history)
+    );
+  }
+
   add('سناریو ۱ — شروع گفتگو با نیاز ناقص',()=>{
-    const state=Engine.start('یه گوشی خوب می‌خوام.');
-    return {pass:state.need.category==='mobile'&&state.need.budget===null&&state.need.usage.length===0&&state.question.questionId==='budget'&&state.status==='waiting_for_answer',state};
+    const result=Engine.start('یه گوشی خوب می‌خوام.');
+    const pass=assertCanonicalResult(result)&&
+      result.need.category==='mobile'&&
+      result.need.budget===null&&
+      result.need.usage.length===0&&
+      result.question.questionId==='budget'&&
+      result.status==='waiting_for_answer';
+    return {pass,result};
   });
 
   add('سناریو ۲ — دریافت بودجه و رفتن به سؤال بعدی',()=>{
-    let state=Engine.start('یه گوشی خوب می‌خوام.');
-    state=Engine.continueConversation(state,'تا ۱۵ میلیون');
-    return {pass:state.need.budget!==null&&state.need.budget.max===15000000&&state.question.questionId==='usage'&&state.status==='waiting_for_answer',state};
+    let result=Engine.start('یه گوشی خوب می‌خوام.');
+    let state=result.state;
+    result=Engine.continueConversation(state,'تا ۱۵ میلیون');
+    const pass=assertCanonicalResult(result)&&
+      result.need.budget!==null&&
+      result.need.budget.max===15000000&&
+      result.question.questionId==='usage'&&
+      result.status==='waiting_for_answer';
+    return {pass,result};
   });
 
   add('سناریو ۳ — تکمیل کامل نیاز',()=>{
-    let state=Engine.start('یه گوشی خوب می‌خوام.');
-    state=Engine.continueConversation(state,'تا ۱۵ میلیون');
-    state=Engine.continueConversation(state,'برای عکاسی');
-    return {pass:state.need.category==='mobile'&&state.need.budget&&state.need.budget.max===15000000&&state.need.usage.includes('photography')&&state.status==='complete'&&state.question.ready===true,state};
+    let result=Engine.start('یه گوشی خوب می‌خوام.');
+    let state=result.state;
+    result=Engine.continueConversation(state,'تا ۱۵ میلیون');
+    state=result.state;
+    result=Engine.continueConversation(state,'برای عکاسی');
+    const pass=assertCanonicalResult(result)&&
+      result.need.category==='mobile'&&
+      result.need.budget!==null&&
+      result.need.budget.max===15000000&&
+      result.need.usage.includes('photography')&&
+      result.status==='complete'&&
+      result.question.ready===true&&
+      result.state.turn===3&&
+      result.state.history.length===3;
+    return {pass,result};
   });
 
   add('سناریو ۴ — نیاز کامل در اولین پیام',()=>{
-    const state=Engine.start('یه گوشی تا ۱۵ میلیون برای عکاسی می‌خوام.');
-    return {pass:state.status==='complete'&&state.question.ready===true&&state.question.question===null,state};
+    const result=Engine.start('یه گوشی تا ۱۵ میلیون برای عکاسی می‌خوام.');
+    const pass=assertCanonicalResult(result)&&
+      result.status==='complete'&&
+      result.question.ready===true&&
+      result.question.question===null&&
+      result.state.turn===1;
+    return {pass,result};
   });
 
   add('سناریو ۵ — ثبت تاریخچه گفتگو',()=>{
-    let state=Engine.start('یه گوشی خوب می‌خوام.');
-    state=Engine.continueConversation(state,'تا ۱۵ میلیون');
-    state=Engine.continueConversation(state,'برای عکاسی');
-    return {pass:Array.isArray(state.history)&&state.history.length===3&&state.turn===3,state};
+    let result=Engine.start('یه گوشی خوب می‌خوام.');
+    let state=result.state;
+    result=Engine.continueConversation(state,'تا ۱۵ میلیون');
+    state=result.state;
+    result=Engine.continueConversation(state,'برای عکاسی');
+    const pass=assertCanonicalResult(result)&&
+      Array.isArray(result.state.history)&&
+      result.state.history.length===3&&
+      result.state.turn===3&&
+      !result.state.history.some(item=>item&&item.state);
+    return {pass,result};
   });
 
   let passed=0;
