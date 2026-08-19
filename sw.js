@@ -1,10 +1,10 @@
 /* =========================================================
    DigiYar V4
    Service Worker
-   Cache Version: 4.0.0-alpha.9
+   Cache Version: 4.0.0-alpha.10
    ========================================================= */
 
-const CACHE_VERSION = "digiyar-v4-alpha9-1";
+const CACHE_VERSION = "digiyar-v4-alpha10-1";
 
 const APP_SHELL = [
   "./",
