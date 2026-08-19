@@ -1,582 +1,125 @@
 /* =========================================================
    DigiYar V4 — Product Retrieval Integration
-   Build 7 — Alpha 1
-
-   وظیفه:
-   اتصال Need Engine / Conversation State
-   به Product Retrieval Layer
-
-   Flow:
-
-   Conversation State
-          ↓
-         Need
-          ↓
-   Product Retrieval Integration
-          ↓
-   DigiYarProductRetrieval.search()
-          ↓
-       Products
-
-   نکته:
-   این فایل مسئول Scoring یا Ranking نیست.
+   Build 8 — broad Persian retrieval queries
    ========================================================= */
-
 (function (window) {
-
   "use strict";
 
-
-  /* =======================================================
-     Configuration
-     ======================================================= */
-
-  const VERSION =
-    "4.0.0-alpha.1";
-
-
-  /* =======================================================
-     Helpers
-     ======================================================= */
+  const VERSION = "4.0.0-alpha.2";
 
   function clone(value) {
-
-    if (value === undefined) {
-      return undefined;
-    }
-
-    return JSON.parse(
-      JSON.stringify(value)
-    );
-
+    return value === undefined ? undefined : JSON.parse(JSON.stringify(value));
   }
-
 
   function hasValue(value) {
-
-    if (
-      value === null ||
-      value === undefined
-    ) {
-
-      return false;
-
-    }
-
-
-    if (
-      typeof value === "string"
-    ) {
-
-      return value.trim().length > 0;
-
-    }
-
-
-    if (
-      Array.isArray(value)
-    ) {
-
-      return value.length > 0;
-
-    }
-
-
-    if (
-      typeof value === "object"
-    ) {
-
-      return Object.keys(value).length > 0;
-
-    }
-
-
+    if (value === null || value === undefined) return false;
+    if (typeof value === "string") return value.trim().length > 0;
+    if (Array.isArray(value)) return value.length > 0;
+    if (typeof value === "object") return Object.keys(value).length > 0;
     return true;
-
   }
-
-
-  /* =======================================================
-     Need Validation
-     ======================================================= */
 
   function isNeedReady(need) {
-
-    if (
-      !need ||
-      typeof need !== "object"
-    ) {
-
-      return false;
-
-    }
-
-
-    /*
-     * اگر Need توسط Need Engine
-     * قبلاً آماده اعلام شده باشد.
-     */
-
-    if (
-      need.ready === true &&
-      need.nextAction ===
-        "retrieve_products"
-    ) {
-
-      return true;
-
-    }
-
-
-    /*
-     * بررسی مستقل برای اطمینان
-     */
-
-    if (
-      !hasValue(
-        need.category
-      )
-    ) {
-
-      return false;
-
-    }
-
-
-    if (
-      !hasValue(
-        need.budget
-      )
-    ) {
-
-      return false;
-
-    }
-
-
-    if (
-      !Array.isArray(
-        need.usage
-      ) ||
-      need.usage.length === 0
-    ) {
-
-      return false;
-
-    }
-
-
-    return true;
-
+    return !!(need && typeof need === "object" &&
+      hasValue(need.category) && hasValue(need.budget) &&
+      Array.isArray(need.usage) && need.usage.length > 0);
   }
 
+  function categoryQuery(category) {
+    const map = {
+      mobile: "گوشی موبایل",
+      laptop: "لپ تاپ",
+      tablet: "تبلت",
+      tv: "تلویزیون",
+      camera: "دوربین",
+      headphones: "هدفون",
+      smartwatch: "ساعت هوشمند",
+      monitor: "مانیتور",
+      general: "محصول"
+    };
+    return map[String(category || "").toLowerCase()] || String(category || "محصول");
+  }
 
-  /* =======================================================
-     Query Builder
-     ======================================================= */
+  function usageQuery(usage) {
+    const map = {
+      photography: "دوربین عکاسی فیلمبرداری",
+      gaming: "گیمینگ بازی",
+      work: "کار اداری",
+      study: "دانشجویی مطالعه",
+      battery: "باتری",
+      travel: "سفر",
+      music: "موسیقی"
+    };
+    return map[String(usage || "").toLowerCase()] || String(usage || "");
+  }
 
+  /* Retrieval query must describe the product class in natural Persian.
+     Budget is deliberately NOT sent as a search keyword; it is a canonical
+     post-retrieval constraint, so API search cannot eliminate valid products. */
   function buildQuery(need) {
-
-    if (
-      !need ||
-      typeof need !== "object"
-    ) {
-
-      return "";
-
+    if (!need || typeof need !== "object") return "";
+    const parts = [categoryQuery(need.category)];
+    if (Array.isArray(need.usage)) {
+      need.usage.forEach(function (item) {
+        const q = usageQuery(item);
+        if (q && !parts.includes(q)) parts.push(q);
+      });
     }
-
-
-    const parts = [];
-
-
-    /*
-     * Category
-     */
-
-    if (
-      hasValue(
-        need.category
-      )
-    ) {
-
-      parts.push(
-        String(
-          need.category
-        )
-      );
-
+    if (Array.isArray(need.decisionElements)) {
+      need.decisionElements.forEach(function (element) {
+        if (!element || !element.field) return;
+        const fieldMap = { camera: "دوربین", battery: "باتری", display: "نمایشگر", performance: "پردازنده" };
+        const q = fieldMap[element.field] || String(element.field);
+        if (q && !parts.includes(q)) parts.push(q);
+      });
     }
-
-
-    /*
-     * Usage
-     */
-
-    if (
-      Array.isArray(
-        need.usage
-      )
-    ) {
-
-      need.usage.forEach(
-        function (usage) {
-
-          if (
-            hasValue(usage)
-          ) {
-
-            parts.push(
-              String(usage)
-            );
-
-          }
-
-        }
-      );
-
-    }
-
-
-    /*
-     * Decision Elements
-     */
-
-    if (
-      Array.isArray(
-        need.decisionElements
-      )
-    ) {
-
-      need.decisionElements.forEach(
-        function (element) {
-
-          if (
-            element &&
-            hasValue(
-              element.field
-            )
-          ) {
-
-            parts.push(
-              String(
-                element.field
-              )
-            );
-
-          }
-
-        }
-      );
-
-    }
-
-
-    return parts
-      .join(" ")
-      .trim();
-
+    return parts.join(" ").trim();
   }
 
-
-  /* =======================================================
-     Retrieve Products
-     ======================================================= */
-
-  async function retrieve(
-    need,
-    options
-  ) {
-
-    /*
-     * Need وجود ندارد
-     */
-
-    if (
-      !need
-    ) {
-
-      return {
-
-        version:
-          VERSION,
-
-        status:
-          "waiting_for_answer",
-
-        need:
-          null,
-
-        query:
-          "",
-
-        products:
-          [],
-
-        error:
-          null
-
-      };
-
+  async function retrieve(need, options) {
+    if (!need || !isNeedReady(need)) {
+      return { version: VERSION, status: "waiting_for_answer", need: clone(need || null), query: "", products: [], count: 0, error: null };
     }
 
-
-    /*
-     * Need ناقص است
-     */
-
-    if (
-      !isNeedReady(
-        need
-      )
-    ) {
-
-      return {
-
-        version:
-          VERSION,
-
-        status:
-          "waiting_for_answer",
-
-        need:
-          clone(need),
-
-        query:
-          "",
-
-        products:
-          [],
-
-        error:
-          null
-
-      };
-
+    if (!window.DigiYarProductRetrieval || typeof window.DigiYarProductRetrieval.search !== "function") {
+      return { version: VERSION, status: "retrieval_error", need: clone(need), query: "", products: [], count: 0, error: "DigiYarProductRetrieval.search is not available." };
     }
 
-
-    /*
-     * بررسی وجود Retrieval Engine
-     */
-
-    if (
-      !window.DigiYarProductRetrieval ||
-      typeof
-        window.DigiYarProductRetrieval.search !==
-        "function"
-    ) {
-
-      return {
-
-        version:
-          VERSION,
-
-        status:
-          "retrieval_error",
-
-        need:
-          clone(need),
-
-        query:
-          "",
-
-        products:
-          [],
-
-        error:
-          "DigiYarProductRetrieval.search is not available."
-
-      };
-
+    const query = buildQuery(need);
+    if (!query) {
+      return { version: VERSION, status: "retrieval_error", need: clone(need), query: "", products: [], count: 0, error: "Unable to build retrieval query." };
     }
-
-
-    /*
-     * ساخت Query
-     */
-
-    const query =
-      buildQuery(
-        need
-      );
-
-
-    if (
-      !query
-    ) {
-
-      return {
-
-        version:
-          VERSION,
-
-        status:
-          "retrieval_error",
-
-        need:
-          clone(need),
-
-        query:
-          "",
-
-        products:
-          [],
-
-        error:
-          "Unable to build retrieval query."
-
-      };
-
-    }
-
-
-    /*
-     * اجرای Retrieval
-     */
 
     try {
-
-      const settings =
-        options || {};
-
-
-      const products =
-        await window
-          .DigiYarProductRetrieval
-          .search(
-            query,
-            settings
-          );
-
-
-      /*
-       * Retrieval باید Array
-       * برگرداند.
-       */
-
-      const normalizedProducts =
-        Array.isArray(
-          products
-        )
-          ? products
-          : [];
-
-
+      const products = await window.DigiYarProductRetrieval.search(query, options || {});
+      const normalizedProducts = Array.isArray(products) ? products : [];
       return {
-
-        version:
-          VERSION,
-
-        status:
-          "products_retrieved",
-
-        need:
-          clone(need),
-
-        query:
-          query,
-
-        products:
-          clone(
-            normalizedProducts
-          ),
-
-        count:
-          normalizedProducts.length,
-
-        error:
-          null
-
+        version: VERSION,
+        status: normalizedProducts.length ? "products_retrieved" : "no_products",
+        need: clone(need),
+        query: query,
+        products: clone(normalizedProducts),
+        count: normalizedProducts.length,
+        error: null
       };
-
-    }
-
-    catch (error) {
-
-      /*
-       * خطای Retrieval نباید
-       * Need را خراب کند.
-       */
-
+    } catch (error) {
       return {
-
-        version:
-          VERSION,
-
-        status:
-          "retrieval_error",
-
-        need:
-          clone(need),
-
-        query:
-          query,
-
-        products:
-          [],
-
-        count:
-          0,
-
-        error:
-          error.message ||
-          String(error)
-
+        version: VERSION,
+        status: "retrieval_error",
+        need: clone(need),
+        query: query,
+        products: [],
+        count: 0,
+        error: error && error.message ? error.message : String(error)
       };
-
     }
-
   }
 
-
-  /* =======================================================
-     Integration Alias
-     ======================================================= */
-
-  async function integrate(
-    need,
-    options
-  ) {
-
-    return retrieve(
-      need,
-      options
-    );
-
-  }
-
-
-  /* =======================================================
-     Public API
-     ======================================================= */
-
-  const DigiyarProductRetrievalIntegration = {
-
-    version:
-      VERSION,
-
-    isNeedReady:
-      isNeedReady,
-
-    buildQuery:
-      buildQuery,
-
-    retrieve:
-      retrieve,
-
-    integrate:
-      integrate
-
+  window.DigiyarProductRetrievalIntegration = {
+    version: VERSION,
+    isNeedReady: isNeedReady,
+    buildQuery: buildQuery,
+    retrieve: retrieve,
+    integrate: retrieve
   };
-
-
-  /* =======================================================
-     Browser Export
-     ======================================================= */
-
-  window.DigiyarProductRetrievalIntegration =
-    DigiyarProductRetrievalIntegration;
-
-
 })(window);
