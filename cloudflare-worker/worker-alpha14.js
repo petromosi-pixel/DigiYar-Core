@@ -1,7 +1,8 @@
 let cachedDigiCdnCookie = null;
-const VERSION = "4.0.0-alpha.14";
+const VERSION = "4.0.0-alpha.15";
 const API_BASE = "https://api.digikala.com";
 const DIGI_BASE = "https://www.digikala.com";
+const DETAIL_LIMIT = 5;
 
 export default {
   async fetch(request) {
@@ -86,7 +87,14 @@ async function search(query, cors) {
         extraction: "api_products_enriched",
         apiPayloadStatus: result.data?.status ?? null,
         apiProductCandidates: countCandidates(result.data),
-        enrichment: { attempted: baseProducts.length, completed: enriched.filter(p => p.image).length, urlFallback: true }
+        enrichment: {
+          candidates: baseProducts.length,
+          detailLimit: DETAIL_LIMIT,
+          attempted: Math.min(baseProducts.length, DETAIL_LIMIT),
+          completed: enriched.slice(0, DETAIL_LIMIT).filter(p => p.image).length,
+          urlFallback: true,
+          strategy: "top_candidates_only"
+        }
       }
     }, 200, cors);
   } catch (error) {
@@ -165,10 +173,11 @@ function extractUrl(value) {
 }
 
 async function enrichProducts(products) {
-  const results = [];
+  const results = products.slice();
+  const candidates = results.slice(0, DETAIL_LIMIT);
   const concurrency = 5;
-  for (let i = 0; i < products.length; i += concurrency) {
-    const batch = products.slice(i, i + concurrency);
+  for (let i = 0; i < candidates.length; i += concurrency) {
+    const batch = candidates.slice(i, i + concurrency);
     const enriched = await Promise.all(batch.map(async p => {
       const detail = await getProductDetail(p.id);
       if (detail) {
@@ -179,7 +188,10 @@ async function enrichProducts(products) {
       p.url = p.url || productUrl(p.id, null);
       return p;
     }));
-    results.push(...enriched);
+    enriched.forEach(p => {
+      const index = results.findIndex(x => String(x.id) === String(p.id));
+      if (index >= 0) results[index] = p;
+    });
   }
   return results;
 }
