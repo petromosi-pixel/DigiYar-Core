@@ -11,7 +11,6 @@
   <title>دیجی‌یار | دستیار دنیای دیجیتال</title>
 </head>
 <body>
-
   <div id="splashScreen" class="splash-screen">
     <div class="splash-content">
       <div class="splash-logo-assembly" aria-label="دیجی‌یار">
@@ -19,10 +18,7 @@
         <div class="logo-piece logo-piece-2"><img src="./assets/logos/logo.png" alt="" draggable="false"></div>
         <div class="logo-piece logo-piece-3"><img src="./assets/logos/logo.png" alt="" draggable="false"></div>
       </div>
-      <div class="splash-brand">
-        <h1>دیجی‌یار</h1>
-        <p>دستیار دنیای دیجیتال</p>
-      </div>
+      <div class="splash-brand"><h1>دیجی‌یار</h1><p>دستیار دنیای دیجیتال</p></div>
       <div class="splash-loader"><span></span></div>
     </div>
   </div>
@@ -30,17 +26,10 @@
   <main class="app-shell">
     <header class="main-header">
       <div class="header-content">
-        <div class="header-brand">
-          <strong>دیجی‌یار</strong>
-          <span>دستیار هوشمند خرید اینترنتی تو</span>
-        </div>
-
+        <div class="header-brand"><strong>دیجی‌یار</strong><span>دستیار هوشمند خرید اینترنتی تو</span></div>
         <div id="installPrompt" class="install-prompt hidden" role="dialog" aria-label="نصب دیجی‌یار">
           <div class="install-prompt-icon"><img src="icon/icon-512.png" alt="دیجی‌یار"></div>
-          <div class="install-prompt-content">
-            <strong>دیجی‌یار رو نصب کن</strong>
-            <span>دستیار خرید هوشمندت همیشه در دسترس تو</span>
-          </div>
+          <div class="install-prompt-content"><strong>دیجی‌یار رو نصب کن</strong><span>دستیار خرید هوشمندت همیشه در دسترس تو</span></div>
           <button id="installBtn" class="install-prompt-button" type="button">نصب</button>
           <button id="installDismiss" class="install-prompt-close" type="button" aria-label="بستن">×</button>
         </div>
@@ -48,15 +37,11 @@
     </header>
 
     <section class="card profile-card">
-      <div class="section-title">
-        <h2>پروفایل خرید</h2>
-        <p>اطلاعات خریدت رو وارد کن تا دیجی‌یار بهترین گزینه‌ها رو برات پیدا کنه</p>
-      </div>
-
+      <div class="section-title"><h2>پروفایل خرید</h2><p>اطلاعات خریدت رو وارد کن تا دیجی‌یار بهترین گزینه‌ها رو برات پیدا کنه</p></div>
       <form id="profileForm">
         <div class="form-grid">
           <label>دسته محصول<span class="select-wrap"><select id="category"><option value="mobile">موبایل</option><option value="laptop">لپ‌تاپ</option><option value="tablet">تبلت</option><option value="general">سایر</option></select></span></label>
-          <label>حداکثر بودجه<input id="budgetMax" type="number" min="0" max="500000000" step="100000" placeholder="مثلاً 15000000"><small class="input-hint">حداکثر ۵۰۰ میلیون تومان</small></label>
+          <label>حداکثر بودجه<input id="budgetMax" type="number" min="0" max="500000000" step="100000" placeholder="مثلاً 15000000"><small class="input-hint">بازه پیشنهادی: ۱۵ تا ۵۰۰ میلیون تومان</small></label>
           <label>اولویت‌ها<span class="select-wrap"><select id="priorities"><option value="">انتخاب کن</option><option value="دوربین، باتری">دوربین و باتری</option><option value="دوربین">دوربین</option><option value="باتری">باتری</option><option value="کیفیت">کیفیت</option><option value="ارزش خرید">ارزش خرید</option></select></span></label>
           <label>نوع استفاده<span class="select-wrap"><select id="usage"><option value="">انتخاب کن</option><option value="عکاسی">عکاسی</option><option value="بازی">بازی</option><option value="کار روزمره">کار روزمره</option><option value="تولید محتوا">تولید محتوا</option></select></span></label>
           <label>نیازهای ضروری<span class="select-wrap"><select id="requirements"><option value="">انتخاب کن</option><option value="5G">5G</option><option value="حافظه بالا">حافظه بالا</option><option value="شارژ سریع">شارژ سریع</option></select></span></label>
@@ -68,10 +53,7 @@
     </section>
 
     <section class="card digiyar-conversation-card" id="digiyarConversation">
-      <div class="section-title">
-        <h2>💬 با دیجی‌یار حرف بزن</h2>
-        <p>نیازت رو خودمونی بنویس؛ دیجی‌یار با چند سؤال کوتاه دقیق‌تر راهنماییت می‌کنه.</p>
-      </div>
+      <div class="section-title"><h2>💬 با دیجی‌یار حرف بزن</h2><p>نیازت رو خودمونی بنویس؛ دیجی‌یار با چند سؤال کوتاه دقیق‌تر راهنماییت می‌کنه.</p></div>
       <div id="digiyar-chat-messages" class="digiyar-chat-messages" aria-live="polite"></div>
       <form id="digiyar-chat-form" class="digiyar-chat-form">
         <input id="digiyar-chat-input" type="text" autocomplete="off" placeholder="مثلاً: یه گوشی خوب می‌خوام" aria-label="درخواست خرید">
@@ -92,6 +74,8 @@
 
   <script src="js/product-data.js"></script>
   <script src="js/product-retrieval.js"></script>
+  <script src="js/price-policy.js"></script>
+  <script src="js/product-price-bridge.js"></script>
   <script src="js/search-engine.js"></script>
   <script src="js/product-scoring.js"></script>
   <script src="js/smart-recommendation-engine.js"></script>
@@ -100,6 +84,7 @@
   <script src="js/platforms.js"></script>
   <script src="js/app.js"></script>
   <script src="js/conversation-engine.js"></script>
+  <script src="js/price-policy-bridge.js"></script>
   <script src="js/web-conversation-ui.js"></script>
 </body>
 </html>
