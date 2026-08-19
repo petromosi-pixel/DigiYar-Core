@@ -55,114 +55,39 @@
 
       <form id="profileForm">
         <div class="form-grid">
-          <label>
-            دسته محصول
-            <span class="select-wrap">
-              <select id="category">
-                <option value="mobile">موبایل</option>
-                <option value="laptop">لپ‌تاپ</option>
-                <option value="tablet">تبلت</option>
-                <option value="general">سایر</option>
-              </select>
-            </span>
-          </label>
-
-          <label>
-            حداکثر بودجه
-            <input id="budgetMax" type="number" min="0" max="500000000" step="100000" placeholder="مثلاً 15000000">
-            <small class="input-hint">حداکثر ۵۰۰ میلیون تومان</small>
-          </label>
-
-          <label>
-            اولویت‌ها
-            <span class="select-wrap">
-              <select id="priorities">
-                <option value="">انتخاب کن</option>
-                <option value="دوربین، باتری">دوربین و باتری</option>
-                <option value="دوربین">دوربین</option>
-                <option value="باتری">باتری</option>
-                <option value="کیفیت">کیفیت</option>
-                <option value="ارزش خرید">ارزش خرید</option>
-              </select>
-            </span>
-          </label>
-
-          <label>
-            نوع استفاده
-            <span class="select-wrap">
-              <select id="usage">
-                <option value="">انتخاب کن</option>
-                <option value="عکاسی">عکاسی</option>
-                <option value="بازی">بازی</option>
-                <option value="کار روزمره">کار روزمره</option>
-                <option value="تولید محتوا">تولید محتوا</option>
-              </select>
-            </span>
-          </label>
-
-          <label>
-            نیازهای ضروری
-            <span class="select-wrap">
-              <select id="requirements">
-                <option value="">انتخاب کن</option>
-                <option value="5G">5G</option>
-                <option value="حافظه بالا">حافظه بالا</option>
-                <option value="شارژ سریع">شارژ سریع</option>
-              </select>
-            </span>
-          </label>
-
-          <label>
-            محدودیت‌ها
-            <span class="select-wrap">
-              <select id="constraints">
-                <option value="">انتخاب کن</option>
-                <option value="وزن کم">وزن کم</option>
-                <option value="اندازه کوچک">اندازه کوچک</option>
-                <option value="قیمت پایین">قیمت پایین</option>
-              </select>
-            </span>
-          </label>
-
-          <div class="form-actions full">
-            <button class="primary" type="submit">ساخت پروفایل و پیشنهاد</button>
-            <button id="resetProfile" class="danger" type="button">پاک کردن اطلاعات</button>
-          </div>
+          <label>دسته محصول<span class="select-wrap"><select id="category"><option value="mobile">موبایل</option><option value="laptop">لپ‌تاپ</option><option value="tablet">تبلت</option><option value="general">سایر</option></select></span></label>
+          <label>حداکثر بودجه<input id="budgetMax" type="number" min="0" max="500000000" step="100000" placeholder="مثلاً 15000000"><small class="input-hint">حداکثر ۵۰۰ میلیون تومان</small></label>
+          <label>اولویت‌ها<span class="select-wrap"><select id="priorities"><option value="">انتخاب کن</option><option value="دوربین، باتری">دوربین و باتری</option><option value="دوربین">دوربین</option><option value="باتری">باتری</option><option value="کیفیت">کیفیت</option><option value="ارزش خرید">ارزش خرید</option></select></span></label>
+          <label>نوع استفاده<span class="select-wrap"><select id="usage"><option value="">انتخاب کن</option><option value="عکاسی">عکاسی</option><option value="بازی">بازی</option><option value="کار روزمره">کار روزمره</option><option value="تولید محتوا">تولید محتوا</option></select></span></label>
+          <label>نیازهای ضروری<span class="select-wrap"><select id="requirements"><option value="">انتخاب کن</option><option value="5G">5G</option><option value="حافظه بالا">حافظه بالا</option><option value="شارژ سریع">شارژ سریع</option></select></span></label>
+          <label>محدودیت‌ها<span class="select-wrap"><select id="constraints"><option value="">انتخاب کن</option><option value="وزن کم">وزن کم</option><option value="اندازه کوچک">اندازه کوچک</option><option value="قیمت پایین">قیمت پایین</option></select></span></label>
+          <div class="form-actions full"><button class="primary" type="submit">ساخت پروفایل و پیشنهاد</button><button id="resetProfile" class="danger" type="button">پاک کردن اطلاعات</button></div>
         </div>
       </form>
-
       <p class="storage-note">اطلاعات خریدت روی همین دستگاه ذخیره میشن.</p>
     </section>
 
-    <section id="resultSection" class="card results-card">
+    <section class="card digiyar-conversation-card" id="digiyarConversation">
       <div class="section-title">
-        <h2>پیشنهادات دیجی‌یار</h2>
-        <p id="resultHint">بر اساس اولویت‌های انتخابی تو به ترتیب زیر پیشنهاد میشن</p>
+        <h2>💬 با دیجی‌یار حرف بزن</h2>
+        <p>نیازت رو خودمونی بنویس؛ دیجی‌یار با چند سؤال کوتاه دقیق‌تر راهنماییت می‌کنه.</p>
       </div>
+      <div id="digiyar-chat-messages" class="digiyar-chat-messages" aria-live="polite"></div>
+      <form id="digiyar-chat-form" class="digiyar-chat-form">
+        <input id="digiyar-chat-input" type="text" autocomplete="off" placeholder="مثلاً: یه گوشی خوب می‌خوام" aria-label="درخواست خرید">
+        <button type="submit" class="primary">ارسال</button>
+      </form>
+      <div id="digiyar-products" class="digiyar-products" aria-live="polite"></div>
+    </section>
+
+    <section id="resultSection" class="card results-card">
+      <div class="section-title"><h2>پیشنهادات دیجی‌یار</h2><p id="resultHint">بر اساس اولویت‌های انتخابی تو به ترتیب زیر پیشنهاد میشن</p></div>
       <div id="needSummary" class="need-summary empty" aria-hidden="true" hidden></div>
       <div id="recommendations" class="recommendations"></div>
     </section>
 
-    <section class="card platforms-card">
-      <div class="section-title">
-        <h2>فروشگاه‌های محبوب</h2>
-      </div>
-      <div id="platforms" class="platform-grid"></div>
-    </section>
-
-    <footer class="main-footer">
-      <nav class="footer-links" aria-label="پیوندهای پایانی">
-        <a href="#" class="footer-link">درباره دیجی‌یار</a>
-        <a href="#" class="footer-link">راهنما</a>
-        <a href="#" class="footer-link">قوانین و حریم خصوصی</a>
-        <a href="#" class="footer-link">تماس با ما</a>
-      </nav>
-      <div class="footer-brand">
-        <strong>دیجی‌یار</strong>
-        <span>دستیار دنیای دیجیتال</span>
-      </div>
-      <div class="footer-copy">© ۱۴۰۵ دیجی‌یار — همه حقوق محفوظ است</div>
-    </footer>
+    <section class="card platforms-card"><div class="section-title"><h2>فروشگاه‌های محبوب</h2></div><div id="platforms" class="platform-grid"></div></section>
+    <footer class="main-footer"><nav class="footer-links" aria-label="پیوندهای پایانی"><a href="#" class="footer-link">درباره دیجی‌یار</a><a href="#" class="footer-link">راهنما</a><a href="#" class="footer-link">قوانین و حریم خصوصی</a><a href="#" class="footer-link">تماس با ما</a></nav><div class="footer-brand"><strong>دیجی‌یار</strong><span>دستیار دنیای دیجیتال</span></div><div class="footer-copy">© ۱۴۰۵ دیجی‌یار — همه حقوق محفوظ است</div></footer>
   </main>
 
   <script src="js/product-data.js"></script>
@@ -174,5 +99,7 @@
   <script src="js/need-engine.js"></script>
   <script src="js/platforms.js"></script>
   <script src="js/app.js"></script>
+  <script src="js/conversation-engine.js"></script>
+  <script src="js/web-conversation-ui.js"></script>
 </body>
 </html>
