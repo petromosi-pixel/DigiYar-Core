@@ -1,5 +1,5 @@
 let cachedDigiCdnCookie = null;
-const VERSION = "4.0.0-alpha.17";
+const VERSION = "4.0.0-alpha.18";
 const API_BASE = "https://api.digikala.com";
 const DIGI_BASE = "https://www.digikala.com";
 const DETAIL_LIMIT = 2;
@@ -24,13 +24,10 @@ export default {
 function headers() { return { "Accept": "application/json, text/plain, */*", "Accept-Language": "fa-IR,fa;q=0.9,en;q=0.8", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/143 Safari/537.36", "X-Web-Client-Id": "web", "X-Web-Client": "desktop", "X-Web-Optimize-Response": "1", "Origin": DIGI_BASE, "Referer": DIGI_BASE + "/", ...(cachedDigiCdnCookie ? { "Cookie": `digicdn_cookie=${cachedDigiCdnCookie}` } : {}) }; }
 function updateCookie(response) { const value = response.headers.get("set-cookie") || ""; const match = value.match(/(?:^|,\s*)digicdn_cookie=([^;\s,]+)/i); if (match?.[1]) cachedDigiCdnCookie = match[1]; }
 
-// Let the Fetch runtime handle the upstream 307/308 redirect. The previous
-// manual redirect loop could terminate on a repeated 307 and report the API
-// as unavailable even though the endpoint is reachable.
 async function fetchJson(target) {
-  const response = await fetch(target, { method: "GET", redirect: "follow", headers: headers() });
+  const response = await fetch(target, { method: "GET", redirect: "manual", headers: headers() });
   updateCookie(response);
-  if (!response.ok) return { ok: false, status: response.status, location: response.url };
+  if (!response.ok) return { ok: false, status: response.status, location: response.headers.get("location") || response.url };
   const text = await response.text();
   try { return { ok: true, status: response.status, data: JSON.parse(text), location: response.url }; }
   catch { return { ok: false, status: response.status, location: response.url }; }
@@ -38,12 +35,12 @@ async function fetchJson(target) {
 
 async function search(query, cors) {
   try {
-    const apiPath = "/v1/search/";
+    const apiPath = "/v2/search/";
     const result = await fetchJson(`${API_BASE}${apiPath}?q=${encodeURIComponent(query)}`);
-    if (!result.ok) return json({ ok: false, endpoint: "/search", query, source: "digikala", error: "Search API unavailable", diagnostics: { apiPath, upstreamStatus: result.status ?? null, finalUrl: result.location ?? null } }, 502, cors);
+    if (!result.ok) return json({ ok: false, endpoint: "/search", query, source: "digikala", error: "Search API unavailable", diagnostics: { apiPath, upstreamStatus: result.status ?? null, redirectLocation: result.location ?? null, strategy: "v2_no_follow" } }, 502, cors);
     const baseProducts = extractProducts(result.data).slice(0, 20);
     const enriched = await enrichProducts(baseProducts);
-    return json({ ok: true, status: result.status, endpoint: "/search", query, source: "digikala", apiPath, cookieEstablished: Boolean(cachedDigiCdnCookie), rawCount: enriched.length, products: enriched, diagnostics: { extraction: "api_products_enriched", apiPayloadStatus: result.data?.status ?? null, apiProductCandidates: countCandidates(result.data), enrichment: { candidates: baseProducts.length, detailLimit: DETAIL_LIMIT, attempted: Math.min(baseProducts.length, DETAIL_LIMIT), completed: enriched.slice(0, DETAIL_LIMIT).filter(p => p.image).length, urlFallback: true, strategy: "top_candidates_only_low_subrequest" } } }, 200, cors);
+    return json({ ok: true, status: result.status, endpoint: "/search", query, source: "digikala", apiPath, cookieEstablished: Boolean(cachedDigiCdnCookie), rawCount: enriched.length, products: enriched, diagnostics: { extraction: "api_products_enriched", apiPayloadStatus: result.data?.status ?? null, apiProductCandidates: countCandidates(result.data), enrichment: { candidates: baseProducts.length, detailLimit: DETAIL_LIMIT, attempted: Math.min(baseProducts.length, DETAIL_LIMIT), completed: enriched.slice(0, DETAIL_LIMIT).filter(p => p.image).length, urlFallback: true, strategy: "v2_top_candidates_only_low_subrequest" } } }, 200, cors);
   } catch (error) { return json({ ok: false, endpoint: "/search", query, source: "digikala", error: error instanceof Error ? error.message : String(error) }, 502, cors); }
 }
 function extractProducts(payload) { const out = [], seen = new Set(); walk(payload, out, seen, 0); return out; }
