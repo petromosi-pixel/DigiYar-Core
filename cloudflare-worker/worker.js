@@ -1,5 +1,5 @@
 let cachedDigiCdnCookie = null;
-const VERSION = "4.0.0-alpha.16";
+const VERSION = "4.0.0-alpha.17";
 const API_BASE = "https://api.digikala.com";
 const DIGI_BASE = "https://www.digikala.com";
 const DETAIL_LIMIT = 2;
@@ -23,15 +23,24 @@ export default {
 
 function headers() { return { "Accept": "application/json, text/plain, */*", "Accept-Language": "fa-IR,fa;q=0.9,en;q=0.8", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/143 Safari/537.36", "X-Web-Client-Id": "web", "X-Web-Client": "desktop", "X-Web-Optimize-Response": "1", "Origin": DIGI_BASE, "Referer": DIGI_BASE + "/", ...(cachedDigiCdnCookie ? { "Cookie": `digicdn_cookie=${cachedDigiCdnCookie}` } : {}) }; }
 function updateCookie(response) { const value = response.headers.get("set-cookie") || ""; const match = value.match(/(?:^|,\s*)digicdn_cookie=([^;\s,]+)/i); if (match?.[1]) cachedDigiCdnCookie = match[1]; }
-async function fetchJson(target) { let response = await fetch(target, { method: "GET", redirect: "manual", headers: headers() }); updateCookie(response); for (let i = 0; i < 2 && (response.status === 307 || response.status === 308); i++) { const location = response.headers.get("location"); if (!location) break; response = await fetch(new URL(location, target).toString(), { method: "GET", redirect: "manual", headers: headers() }); updateCookie(response); } if (!response.ok) return { ok: false, status: response.status }; const text = await response.text(); try { return { ok: true, status: response.status, data: JSON.parse(text) }; } catch { return { ok: false, status: response.status }; } }
+
+// Let the Fetch runtime handle the upstream 307/308 redirect. The previous
+// manual redirect loop could terminate on a repeated 307 and report the API
+// as unavailable even though the endpoint is reachable.
+async function fetchJson(target) {
+  const response = await fetch(target, { method: "GET", redirect: "follow", headers: headers() });
+  updateCookie(response);
+  if (!response.ok) return { ok: false, status: response.status, location: response.url };
+  const text = await response.text();
+  try { return { ok: true, status: response.status, data: JSON.parse(text), location: response.url }; }
+  catch { return { ok: false, status: response.status, location: response.url }; }
+}
 
 async function search(query, cors) {
   try {
-    // Use the known-working v1 endpoint first. Avoid probing v2 on every request;
-    // each upstream attempt and redirect consumes Worker subrequests.
     const apiPath = "/v1/search/";
     const result = await fetchJson(`${API_BASE}${apiPath}?q=${encodeURIComponent(query)}`);
-    if (!result.ok) return json({ ok: false, endpoint: "/search", query, source: "digikala", error: "Search API unavailable", diagnostics: { apiPath, upstreamStatus: result.status ?? null } }, 502, cors);
+    if (!result.ok) return json({ ok: false, endpoint: "/search", query, source: "digikala", error: "Search API unavailable", diagnostics: { apiPath, upstreamStatus: result.status ?? null, finalUrl: result.location ?? null } }, 502, cors);
     const baseProducts = extractProducts(result.data).slice(0, 20);
     const enriched = await enrichProducts(baseProducts);
     return json({ ok: true, status: result.status, endpoint: "/search", query, source: "digikala", apiPath, cookieEstablished: Boolean(cachedDigiCdnCookie), rawCount: enriched.length, products: enriched, diagnostics: { extraction: "api_products_enriched", apiPayloadStatus: result.data?.status ?? null, apiProductCandidates: countCandidates(result.data), enrichment: { candidates: baseProducts.length, detailLimit: DETAIL_LIMIT, attempted: Math.min(baseProducts.length, DETAIL_LIMIT), completed: enriched.slice(0, DETAIL_LIMIT).filter(p => p.image).length, urlFallback: true, strategy: "top_candidates_only_low_subrequest" } } }, 200, cors);
@@ -45,22 +54,7 @@ function findMoney(value, depth) { if (depth > 8 || value == null) return 0; if 
 function findRrp(value, depth) { if (depth > 8 || value == null || typeof value !== "object") return 0; for (const key of ["rrp_price", "rrpPrice", "rrp_price_rial", "original_price", "originalPrice"]) { if (value[key] != null) { const n = parseMoney(value[key]); if (n) return n; } } for (const key of ["default_variant", "defaultVariant", "variants", "variant", "offers", "offer", "prices", "price"]) { if (value[key] != null) { const n = findRrp(value[key], depth + 1); if (n) return n; } } return 0; }
 function findImage(value, depth) { if (depth > 10 || value == null) return null; if (typeof value === "string") return /^https?:\/\//i.test(value) ? value : null; if (typeof value !== "object") return null; for (const key of ["image_url", "imageUrl", "thumbnail_url", "thumbnailUrl", "thumbnail", "image", "photo", "cover"]) { const found = extractUrl(value[key]); if (found) return found; } for (const key of ["images", "default_variant", "defaultVariant", "variant", "variants", "media"]) { if (value[key] != null) { const found = findImage(value[key], depth + 1); if (found) return found; } } return null; }
 function extractUrl(value) { if (typeof value === "string") return /^https?:\/\//i.test(value) ? value : null; if (Array.isArray(value)) { for (const x of value) { const u = extractUrl(x); if (u) return u; } return null; } if (!value || typeof value !== "object") return null; for (const key of ["url", "uri", "src", "href", "image_url", "imageUrl"]) { if (value[key] != null) { const u = extractUrl(value[key]); if (u) return u; } } return null; }
-
-async function enrichProducts(products) {
-  const results = products.slice();
-  const candidates = results.slice(0, DETAIL_LIMIT);
-  // Sequential detail calls keep the Worker subrequest footprint predictable.
-  for (const p of candidates) {
-    const detail = await getProductDetail(p.id);
-    if (detail) {
-      p.image = findImage(detail, 0) || p.image || null;
-      const detailUrl = extractProductUrl(detail);
-      if (detailUrl) p.url = detailUrl;
-    }
-    p.url = p.url || productUrl(p.id, null);
-  }
-  return results;
-}
+async function enrichProducts(products) { const results = products.slice(); const candidates = results.slice(0, DETAIL_LIMIT); for (const p of candidates) { const detail = await getProductDetail(p.id); if (detail) { p.image = findImage(detail, 0) || p.image || null; const detailUrl = extractProductUrl(detail); if (detailUrl) p.url = detailUrl; } p.url = p.url || productUrl(p.id, null); } return results; }
 async function getProductDetail(id) { const path = `/v1/product/${id}/`; const result = await fetchJson(API_BASE + path); return result.ok ? result.data : null; }
 function extractProductUrl(payload) { const product = payload?.data?.product || payload?.product || payload?.data; if (!product || typeof product !== "object") return null; const raw = product.url || product.product_url || product.web_url || product.link; return raw ? productUrl(product.id, raw) : null; }
 function extractId(value) { const m = String(value || "").match(/dkp-(\d+)/i); return m ? m[1] : null; }
