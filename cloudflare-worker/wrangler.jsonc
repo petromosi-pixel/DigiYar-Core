@@ -1,7 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "digiyar-search-proxy",
-  "main": "worker-alpha20.js",
-  "compatibility_date": "2026-08-17"
-  // Alpha 20 redeploy trigger: keep the production entry-point explicit.
+  "main": "worker-alpha21.js",
+  "compatibility_date": "2026-08-21"
 }
