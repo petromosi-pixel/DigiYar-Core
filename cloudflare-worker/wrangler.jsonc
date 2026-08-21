@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "digiyar-search-proxy",
-  "main": "worker-alpha19.js",
+  "main": "worker-alpha20.js",
   "compatibility_date": "2026-08-17"
 }
