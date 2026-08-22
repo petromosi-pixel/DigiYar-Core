@@ -1,6 +1,6 @@
 {
   "schema_version": "1.2",
-  "catalog_version": "mvp-online-4",
+  "catalog_version": "mvp-online-5",
   "category": "smartphone",
   "source_mode": "curated_online_snapshot",
   "price_unit": "toman",
@@ -37,8 +37,8 @@
       "pros": ["108MP main camera", "5030mAh battery", "256GB storage"],
       "cons": ["4G", "Performance below Redmi Note 14 5G"],
       "store": "market_reference",
-      "affiliate": {"network": "digikala", "url": null},
-      "product_url": "https://abtahishop.com/mobile/1036-%DA%AF%D9%88%D8%B4%DB%8C-%D8%B4%DB%8C%D8%A7%D8%A6%D9%88%D9%85%DB%8C-Xiaomi-Redmi-13",
+      "affiliate": {"network": "digikala", "url": "https://aflo.ir/103HUHqAh"},
+      "product_url": "https://www.digikala.com/search/?q=Redmi%2013%208GB%20256GB",
       "product_id": null
     },
     {
@@ -55,8 +55,8 @@
       "pros": ["50MP camera", "5000mAh battery", "5G", "25W charging"],
       "cons": ["LCD display", "Camera is a budget compromise"],
       "store": "market_reference",
-      "affiliate": {"network": "digikala", "url": null},
-      "product_url": "https://abtahishop.com/compare/1114-980-%D9%85%D9%82%D8%A7%DB%8C%D8%B3%D9%87-%DA%AF%D9%88%D8%B4%DB%8C-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF-samsung-galaxy-a06-5g-%D9%88-%DA%AF%D9%88%DA%AF%D9%84-google-pixel-8",
+      "affiliate": {"network": "digikala", "url": "https://aflo.ir/hHuzOXaz"},
+      "product_url": "https://www.digikala.com/search/?q=Samsung%20Galaxy%20A06%205G%20128GB%204GB",
       "product_id": null
     }
   ]
