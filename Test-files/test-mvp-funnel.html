@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>DigiYar — MVP Funnel Test</title>
 <style>
-body{font-family:system-ui,sans-serif;max-width:760px;margin:auto;padding:20px;background:#f6f7f9;color:#111}button{padding:12px 18px;border:0;border-radius:10px;background:#111;color:#fff;font-size:16px}input{width:100%;padding:13px;border:1px solid #ccc;border-radius:10px;margin:8px 0 14px;box-sizing:border-box}.card{background:#fff;border-radius:16px;padding:16px;margin-top:14px;box-shadow:0 2px 12px #0001}.muted{color:#666;font-size:13px}.price{font-weight:700;font-size:18px}.cta{display:inline-block;margin-top:12px;padding:11px 15px;background:#0a7;color:#fff;border-radius:10px;text-decoration:none}.ok{color:#087f5b}.warn{color:#9a6700}.bad{color:#b42318}
+body{font-family:system-ui,sans-serif;max-width:760px;margin:auto;padding:20px;background:#f6f7f9;color:#111}button{padding:12px 18px;border:0;border-radius:10px;background:#111;color:#fff;font-size:16px;margin:4px}input{width:100%;padding:13px;border:1px solid #ccc;border-radius:10px;margin:8px 0 14px;box-sizing:border-box}.card{background:#fff;border-radius:16px;padding:16px;margin-top:14px;box-shadow:0 2px 12px #0001}.muted{color:#666;font-size:13px}.price{font-weight:700;font-size:18px}.cta{display:inline-block;margin-top:12px;padding:11px 15px;background:#0a7;color:#fff;border-radius:10px;text-decoration:none}.ok{color:#087f5b}.warn{color:#9a6700}.bad{color:#b42318}
 </style>
 </head>
 <body>
@@ -14,6 +14,7 @@ body{font-family:system-ui,sans-serif;max-width:760px;margin:auto;padding:20px;b
 <label>نیاز کاربر</label>
 <input id="need" value="یه گوشی برای عکاسی تا ۱۵ میلیون می‌خوام">
 <button id="run">پیشنهاد بده</button>
+<button id="run30">تست بازار تا ۳۰ میلیون</button>
 <div id="out"></div>
 <script src="../js/price-policy.js"></script>
 <script>
@@ -45,7 +46,7 @@ function displayPrice(toman){return Number(toman||0).toLocaleString('fa-IR')+' �
 async function run(){
  const out=$('out');out.innerHTML='<div class="card">در حال ساخت پیشنهاد...</div>';
  const need=parseNeed($('need').value);
- let data;try{data=await fetch(CATALOG_URL).then(r=>r.json())}catch(e){out.innerHTML='<div class="card warn">Online Catalog بارگذاری نشد.</div>';return}
+ let data;try{const r=await fetch(CATALOG_URL);if(!r.ok)throw new Error('catalog '+r.status);data=await r.json()}catch(e){out.innerHTML='<div class="card warn">Online Catalog بارگذاری نشد.</div>';return}
  const hasBudget=need.budget>0;
  const products=(data.products||[])
    .filter(p=>p.category==='smartphone')
@@ -61,6 +62,8 @@ async function run(){
    (realEligible?'<p class="ok">✓ محصول داخل Budget است؛ لینک Affiliate قابل تست است.</p><a class="cta" href="'+affiliate(REAL_PRODUCT.store,REAL_PRODUCT.productUrl)+'" target="_blank" rel="noopener">مشاهده از مسیر Affiliate</a>':'<p class="bad">✗ این محصول به دلیل عبور از سقف بودجه، نباید در Recommendation نمایش داده شود.</p>')+
    '<p class="muted">مقدار خام منبع Digikala: '+REAL_PRODUCT.price_source_value.toLocaleString('en-US')+' Rial → '+realPrice.toLocaleString('en-US')+' Toman</p></div>';
 }
-$('run').onclick=run;run();
+$('run').onclick=run;
+$('run30').onclick=()=>{$('need').value='یه گوشی برای عکاسی تا ۳۰ میلیون می‌خوام';run()};
+run();
 </script>
 </body></html>
