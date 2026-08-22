@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "catalog_version": "mvp-online-1",
+  "category": "smartphone",
+  "source_mode": "curated_online_snapshot",
+  "price_unit": "toman",
+  "products": [
+    {
+      "id": "comtel-tivo-core-64-4",
+      "brand": "Comtel",
+      "model": "Tivo Core",
+      "variant": "4GB/64GB",
+      "category": "smartphone",
+      "price_toman": 14580000,
+      "price_source": "Farna",
+      "price_checked_at": "2026-08-05",
+      "best_for": ["budget", "battery", "everyday_use"],
+      "scores": {"value": 8.4, "camera": 6.0, "performance": 5.8, "battery": 8.4, "display": 6.5, "reliability": 6.8},
+      "pros": ["5000mAh battery", "13MP main camera", "64GB storage with microSD", "Android"],
+      "cons": ["10W charging", "HD+ display", "Camera is not suitable for demanding photography"],
+      "store": "market_reference",
+      "affiliate": {"network": "digikala", "url": null},
+      "product_url": null,
+      "product_id": null
+    },
+    {
+      "id": "xiaomi-redmi-note-14-5g-256-8",
+      "brand": "Xiaomi",
+      "model": "Redmi Note 14 5G",
+      "variant": "8GB/256GB",
+      "category": "smartphone",
+      "price_toman": 16995000,
+      "price_source": "Farna",
+      "price_checked_at": "2026-08-05",
+      "best_for": ["balanced", "camera", "display", "value"],
+      "scores": {"value": 8.8, "camera": 8.2, "performance": 7.8, "battery": 8.6, "display": 8.8, "reliability": 7.5},
+      "pros": ["Strong overall balance", "Good camera for its class", "256GB storage", "5G"],
+      "cons": ["Price is above a 15M budget", "Software preference varies"],
+      "store": "market_reference",
+      "affiliate": {"network": "digikala", "url": null},
+      "product_url": null,
+      "product_id": null
+    }
+  ]
+}
