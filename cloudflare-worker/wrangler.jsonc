@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "digiyar-search-proxy",
+  "name": "digiyar-core",
   "main": "worker-alpha21.js",
   "compatibility_date": "2026-08-22",
   "compatibility_flags": ["nodejs_compat"],
