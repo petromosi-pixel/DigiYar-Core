@@ -1,64 +1,66 @@
-const VERSION = "4.0.0-alpha.21.1";
+const VERSION = "4.0.0-alpha.21.2";
 const API_BASE = "https://api.digikala.com";
 const DIGI_BASE = "https://www.digikala.com";
-const CORS = {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Methods":"GET, OPTIONS","Access-Control-Allow-Headers":"Content-Type","Cache-Control":"no-store"};
+const CORS = {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Methods":"GET, POST, OPTIONS","Access-Control-Allow-Headers":"Content-Type","Cache-Control":"no-store"};
 
-export default { async fetch(request) {
+export default { async fetch(request, env) {
   const url = new URL(request.url);
   if (request.method === "OPTIONS") return new Response(null,{status:204,headers:CORS});
+  if (url.pathname === "/track" && request.method === "POST") return track(request, env);
   if (request.method !== "GET") return json({ok:false,error:"Method not allowed"},405);
-  if (url.pathname === "/health") return json({ok:true,service:"DigiYar Search Proxy",version:VERSION,upstream:"digikala",strategy:"canonical_search_api_then_product_hydration"});
+  if (url.pathname === "/health") return json({ok:true,service:"DigiYar Search Proxy",version:VERSION,upstream:"digikala",strategy:"canonical_search_api_then_product_hydration",tracking:"analytics_engine"});
   const q = String(url.searchParams.get("q")||"").trim();
   if (!q) return json({ok:false,error:"Missing q parameter"},400);
   if (url.pathname === "/forensics") return forensics(q);
   if (url.pathname === "/discovery") return discovery(q);
   if (url.pathname === "/search") return search(q);
-  if (url.pathname === "/autocomplete") return json({ok:false,error:"Autocomplete disabled in alpha.21.1"},501);
-  return json({ok:false,error:"Unknown endpoint",endpoints:["/health","/forensics?q=گوشی","/search?q=گوشی","/discovery?q=گوشی"]},404);
+  if (url.pathname === "/autocomplete") return json({ok:false,error:"Autocomplete disabled in alpha.21.2"},501);
+  return json({ok:false,error:"Unknown endpoint",endpoints:["/health","/track","/forensics?q=گوشی","/search?q=گوشی","/discovery?q=گوشی"]},404);
 } };
+
+async function track(request, env){
+  try{
+    const body=await request.json();
+    const productId=String(body?.product_id||"").trim();
+    const affiliateUrl=String(body?.affiliate_url||"").trim();
+    if(!productId||!affiliateUrl)return json({ok:false,error:"product_id and affiliate_url are required"},400);
+    if(!/^https:\/\/aflo\.ir\//i.test(affiliateUrl))return json({ok:false,error:"Invalid affiliate URL"},400);
+    if(!env.ANALYTICS)return json({ok:false,error:"Analytics binding unavailable"},503);
+    const eventId=crypto.randomUUID();
+    env.ANALYTICS.writeDataPoint({
+      blobs:[
+        "affiliate_click",
+        productId,
+        String(body?.brand||""),
+        String(body?.model||""),
+        String(body?.variant||""),
+        String(body?.affiliate_network||""),
+        affiliateUrl,
+        String(body?.need_category||""),
+        String(body?.budget||""),
+        eventId
+      ],
+      doubles:[1],
+      indexes:[productId]
+    });
+    return json({ok:true,event:"affiliate_click",product_id:productId,event_id:eventId,stored:true},202);
+  }catch(e){return json({ok:false,error:e instanceof Error?e.message:String(e)},400);}
+}
 
 function headers(){return {"Accept":"application/json,text/html,application/xhtml+xml,text/plain,*/*","Accept-Language":"fa-IR,fa;q=0.9,en;q=0.8","User-Agent":"Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 Chrome/143 Mobile Safari/537.36","Referer":DIGI_BASE+"/","Origin":DIGI_BASE};}
 async function fetchPage(q){const page=`${DIGI_BASE}/search/?q=${encodeURIComponent(q)}`;const r=await fetch(page,{redirect:"follow",headers:headers()});return {r,html:await r.text(),page};}
 
 async function apiSearch(q){
-  const candidates=[
-    `${API_BASE}/v1/search/?q=${encodeURIComponent(q)}&page=1`,
-    `${API_BASE}/v2/search/?q=${encodeURIComponent(q)}&page=1`
-  ];
+  const candidates=[`${API_BASE}/v1/search/?q=${encodeURIComponent(q)}&page=1`,`${API_BASE}/v2/search/?q=${encodeURIComponent(q)}&page=1`];
   const attempts=[];
-  for(const endpoint of candidates){
-    try{
-      const r=await fetch(endpoint,{redirect:"manual",headers:headers()});
-      const location=r.headers.get("location");
-      const text=await r.text();
-      attempts.push({endpoint,status:r.status,location:location||null,contentType:r.headers.get("content-type")||"",bytes:text.length});
-      if(r.status>=300&&r.status<400) continue;
-      if(!r.ok) continue;
-      let data;try{data=JSON.parse(text);}catch(_){continue;}
-      const products=normalizeProducts(data);
-      if(products.length)return {products,attempts,rawShape:shape(data)};
-    }catch(e){attempts.push({endpoint,error:e instanceof Error?e.message:String(e)});}
-  }
+  for(const endpoint of candidates){try{const r=await fetch(endpoint,{redirect:"manual",headers:headers()});const location=r.headers.get("location");const text=await r.text();attempts.push({endpoint,status:r.status,location:location||null,contentType:r.headers.get("content-type")||"",bytes:text.length});if(r.status>=300&&r.status<400)continue;if(!r.ok)continue;let data;try{data=JSON.parse(text);}catch(_){continue;}const products=normalizeProducts(data);if(products.length)return {products,attempts,rawShape:shape(data)};}catch(e){attempts.push({endpoint,error:e instanceof Error?e.message:String(e)});}}
   return {products:[],attempts};
 }
 
-function normalizeProducts(data){
-  const pools=[];
-  const walk=(x,depth=0)=>{if(depth>8||x==null)return;if(Array.isArray(x)){for(const v of x)walk(v,depth+1);return;}if(typeof x!=="object")return;if((x.id||x.product_id||x.pk)&&((x.title_fa||x.title||x.name||x.title_en)&&(x.url||x.uri||x.product_url||x.images||x.image)))pools.push(x);for(const k of Object.keys(x))walk(x[k],depth+1);};
-  walk(data);const seen=new Set();
-  return pools.map(x=>{const id=Number(x.id||x.product_id||x.pk);const title=x.title_fa||x.title||x.name||x.title_en||"";const uri=x.url?.uri||x.uri||x.product_url||x.url;const image=x.images?.main?.url?.[0]||x.images?.main?.webp_url?.[0]||x.image||x.images?.[0]?.url||x.thumbnail||null;const price=x.price?.selling_price??x.selling_price??x.selling_price_rial??x.price?.rrp_price??null;if(!id||seen.has(id))return null;seen.add(id);return {id,title_fa:title,url:typeof uri==="string"?(uri.startsWith("http")?uri:DIGI_BASE+uri):`${DIGI_BASE}/product/dkp-${id}/`,image,price};}).filter(Boolean).slice(0,20);
-}
+function normalizeProducts(data){const pools=[];const walk=(x,depth=0)=>{if(depth>8||x==null)return;if(Array.isArray(x)){for(const v of x)walk(v,depth+1);return;}if(typeof x!=="object")return;if((x.id||x.product_id||x.pk)&&((x.title_fa||x.title||x.name||x.title_en)&&(x.url||x.uri||x.product_url||x.images||x.image)))pools.push(x);for(const k of Object.keys(x))walk(x[k],depth+1);};walk(data);const seen=new Set();return pools.map(x=>{const id=Number(x.id||x.product_id||x.pk);const title=x.title_fa||x.title||x.name||x.title_en||"";const uri=x.url?.uri||x.uri||x.product_url||x.url;const image=x.images?.main?.url?.[0]||x.images?.main?.webp_url?.[0]||x.image||x.images?.[0]?.url||x.thumbnail||null;const price=x.price?.selling_price??x.selling_price??x.selling_price_rial??x.price?.rrp_price??null;if(!id||seen.has(id))return null;seen.add(id);return {id,title_fa:title,url:typeof uri==="string"?(uri.startsWith("http")?uri:DIGI_BASE+uri):`${DIGI_BASE}/product/dkp-${id}/`,image,price};}).filter(Boolean).slice(0,20);}
 function shape(x){if(Array.isArray(x))return "array";if(x&&typeof x==="object")return Object.keys(x).slice(0,20);return typeof x;}
 
-async function search(q){
-  try{
-    const api=await apiSearch(q);
-    if(api.products.length)return json({ok:true,endpoint:"/search",query:q,source:"digikala",strategy:"canonical_search_api",products:api.products,diagnostics:{attempts:api.attempts,rawShape:api.rawShape}});
-    const d=await discovery(q);
-    if(d.ok)return d.response;
-    return json({ok:false,endpoint:"/search",query:q,source:"digikala",error:"Search unavailable",diagnostics:{apiAttempts:api.attempts,discovery:d.diagnostics}},502);
-  }catch(e){return json({ok:false,endpoint:"/search",query:q,error:e instanceof Error?e.message:String(e)},502);}
-}
+async function search(q){try{const api=await apiSearch(q);if(api.products.length)return json({ok:true,endpoint:"/search",query:q,source:"digikala",strategy:"canonical_search_api",products:api.products,diagnostics:{attempts:api.attempts,rawShape:api.rawShape}});const d=await discovery(q);if(d.ok)return d.response;return json({ok:false,endpoint:"/search",query:q,source:"digikala",error:"Search unavailable",diagnostics:{apiAttempts:api.attempts,discovery:d.diagnostics}},502);}catch(e){return json({ok:false,endpoint:"/search",query:q,error:e instanceof Error?e.message:String(e)},502);}}
 
 async function discovery(q){try{const {r,html,page}=await fetchPage(q);const ids=[...html.matchAll(/(?:\/product\/)?dkp-(\d+)/gi)].map(m=>Number(m[1])).filter((v,i,a)=>a.indexOf(v)===i).slice(0,10);const diagnostics={stage:"search_page",pageUrl:page,finalUrl:r.url,upstreamStatus:r.status,htmlBytes:html.length,productIdCount:ids.length};if(r.ok&&ids.length>0){const products=await hydrate(ids);return {ok:true,response:json({ok:true,endpoint:"/discovery",query:q,source:"digikala",strategy:"search_page_then_product",diagnostics,products})};}return {ok:false,diagnostics};}catch(e){return {ok:false,diagnostics:{error:e instanceof Error?e.message:String(e)}};}}
 async function hydrate(ids){const out=[];for(const id of ids.slice(0,10)){try{const r=await fetch(`${API_BASE}/v2/product/${id}/`,{redirect:"manual",headers:headers()});if(r.status>=300&&r.status<400)continue;if(!r.ok)continue;const d=await r.json();const p=d?.data?.product||d?.product||d?.data||d;const n=normalizeProducts(p);if(n[0])out.push(n[0]);}catch(_){} }return out;}
