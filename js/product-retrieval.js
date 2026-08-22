@@ -8,7 +8,7 @@
   "use strict";
 
   const CONFIG = {
-    proxyEndpoint: "https://digiyar-search-proxy.petromosi.workers.dev/search",
+    proxyEndpoint: "https://digiyar-core.petromosi.workers.dev/search",
     digikalaSearchEndpoint: "https://api.digikala.com/v1/search/?q=",
     digikalaBaseUrl: "https://www.digikala.com",
     timeout: 8000,
