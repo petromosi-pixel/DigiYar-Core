@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="fa" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>DigiYar — MVP Funnel Test</title>
+<style>
+body{font-family:system-ui,sans-serif;max-width:760px;margin:auto;padding:20px;background:#f6f7f9;color:#111}button{padding:12px 18px;border:0;border-radius:10px;background:#111;color:#fff;font-size:16px}input{width:100%;padding:13px;border:1px solid #ccc;border-radius:10px;margin:8px 0 14px;box-sizing:border-box}.card{background:#fff;border-radius:16px;padding:16px;margin-top:14px;box-shadow:0 2px 12px #0001}.muted{color:#666;font-size:13px}.price{font-weight:700;font-size:18px}.cta{display:inline-block;margin-top:12px;padding:11px 15px;background:#0a7;color:#fff;border-radius:10px;text-decoration:none}.ok{color:#087f5b}.warn{color:#9a6700}
+</style>
+</head>
+<body>
+<h1>🔥 DigiYar MVP Funnel</h1>
+<p>Need → Recommendation → Real Product → Affiliate</p>
+<label>نیاز کاربر</label>
+<input id="need" value="یه گوشی برای عکاسی تا ۱۵ میلیون می‌خوام">
+<button id="run">پیشنهاد بده</button>
+<div id="out"></div>
+<script>
+const REAL_PRODUCT={
+ id:"digikala-22118709",
+ name:"گوشی موبایل سامسونگ Galaxy A57، حافظه 256GB، رم 8GB",
+ category:"mobile",
+ price:1144000000,
+ store:"digikala",
+ productUrl:"https://www.digikala.com/product/dkp-22118709/",
+ features:["دوربین","کیفیت","نمایشگر","سامسونگ"]
+};
+const CATALOG_URL="../data/products.json";
+const $=id=>document.getElementById(id);
+function normalize(s){return String(s||'').toLowerCase().replace(/ي/g,'ی').replace(/ك/g,'ک')}
+function affiliate(store,url){if(!url)return '';if(store==='digikala')return 'https://aflo.ir/V5hl8DUI?p='+encodeURIComponent(url);if(store==='snappshop')return 'https://aflo.ir/1COBTqeMV?p='+encodeURIComponent(url);return url}
+function parseNeed(text){const n=normalize(text);const max=(n.match(/(?:تا|حدود|زیر)\s*(\d+(?:\.\d+)?)\s*(میلیون|م|میلیارد)?/)||[]);let budget=0;if(max[1]){budget=Number(max[1]);if(max[2]==='میلیون'||max[2]==='م')budget*=1000000;if(max[2]==='میلیارد')budget*=1000000000}const priorities=[];if(n.includes('عکاسی')||n.includes('دوربین'))priorities.push('camera');if(n.includes('بازی')||n.includes('گیم'))priorities.push('gaming');if(n.includes('باتری'))priorities.push('battery');return {category:'smartphone',budget,priorities}}
+function score(p,need){let s=0;const best=(p.best_for||[]).map(normalize);if(need.priorities.includes('camera')&&(best.includes('camera')||best.includes('photography')||best.includes('portrait')))s+=35;if(need.priorities.includes('gaming')&&best.includes('gaming'))s+=35;if(need.priorities.includes('battery')&&best.includes('battery'))s+=30;if(best.includes('balanced'))s+=12;s+=Number(p.scores?.value||0)*3;return Math.round(s)}
+async function run(){const out=$('out');out.innerHTML='<div class="card">در حال ساخت پیشنهاد...</div>';const need=parseNeed($('need').value);let data;try{data=await fetch(CATALOG_URL).then(r=>r.json())}catch(e){out.innerHTML='<div class="card warn">Catalog بارگذاری نشد.</div>';return}const products=(data.products||[]).filter(p=>p.category==='smartphone').map(p=>({...p,score:score(p,need)})).sort((a,b)=>b.score-a.score).slice(0,3);const real={...REAL_PRODUCT,score:need.priorities.includes('camera')?92:80};out.innerHTML='<div class="card"><b>Need</b><br>'+JSON.stringify(need)+'</div>'+products.map((p,i)=>'<div class="card"><b>#'+(i+1)+' '+p.brand+' '+p.model+'</b><p>'+((p.best_for||[]).join('، '))+'</p><div>Recommendation score: <b>'+p.score+'</b></div><p class="muted">این مورد از Catalog هسته DigiYar آمده است.</p></div>').join('')+'<div class="card"><h2>محصول واقعی — تست Affiliate</h2><b>'+real.name+'</b><p class="price">قیمت تست: '+real.price.toLocaleString('fa-IR')+' تومان</p><p class="ok">✓ محصول واقعی Digikala شناسایی شد</p><a class="cta" href="'+affiliate(real.store,real.productUrl)+'" target="_blank" rel="noopener">مشاهده از مسیر Affiliate</a><p class="muted">این لینک عمداً برای تست Funnel است.</p></div>'}
+$('run').onclick=run;run();
+</script>
+</body></html>
