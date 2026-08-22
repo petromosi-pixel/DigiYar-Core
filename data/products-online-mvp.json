@@ -1,6 +1,6 @@
 {
   "schema_version": "1.2",
-  "catalog_version": "mvp-online-3",
+  "catalog_version": "mvp-online-4",
   "category": "smartphone",
   "source_mode": "curated_online_snapshot",
   "price_unit": "toman",
@@ -18,9 +18,9 @@
       "scores": {"value": 8.8, "camera": 8.2, "performance": 7.8, "battery": 8.6, "display": 8.8, "reliability": 7.5},
       "pros": ["50MP main camera", "5110mAh battery", "256GB storage", "5G", "AMOLED display"],
       "cons": ["Regional variants differ", "Price varies by seller"],
-      "store": "market_reference",
-      "affiliate": {"network": "digikala", "url": null},
-      "product_url": "https://abtahishop.com/mobile/1057-%DA%AF%D9%88%D8%B4%DB%8C-%D8%B4%DB%8C%D8%A7%D8%A6%D9%88%D9%85%DB%8C-Xiaomi-Redmi-Note-14-5G-%28China%29",
+      "store": "digikala",
+      "affiliate": {"network": "digikala", "url": "https://aflo.ir/6JJ4avlC"},
+      "product_url": "https://www.digikala.com/search/?q=Redmi%20Note%2014%205G",
       "product_id": null
     },
     {
