@@ -17,6 +17,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
       - name: Validate Cloudflare credentials
         shell: bash
         env:
@@ -26,10 +31,15 @@ jobs:
           test -n "$CF_API_TOKEN" || { echo "Missing repository secret: CLOUDFLARE_API_TOKEN"; exit 1; }
           test -n "$CF_ACCOUNT_ID" || { echo "Missing repository secret: CLOUDFLARE_ACCOUNT_ID"; exit 1; }
 
+      - name: Install latest Wrangler
+        run: npm install --global wrangler@latest
+
+      - name: Verify Wrangler
+        run: wrangler --version
+
       - name: Deploy DigiYar Core
-        uses: cloudflare/wrangler-action@v3
-        with:
-          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          workingDirectory: cloudflare-worker
-          command: deploy
+        working-directory: cloudflare-worker
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: wrangler deploy --config wrangler.jsonc
