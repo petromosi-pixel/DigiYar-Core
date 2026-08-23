@@ -1,16 +1,22 @@
-/* DigiYar V4 — Web Conversation UI */
+/* =========================================================
+   DigiYar V5 — Web Conversation UI
+   Alpha 0.1 — End-to-End Core bridge
+   ========================================================= */
 (function () {
   'use strict';
 
   function boot() {
     const Engine = window.DigiYarConversationEngine || window.DigiyarConversationEngine;
+    const Integration = window.DigiyarProductRetrievalIntegration;
     const form = document.getElementById('digiyar-chat-form');
     const input = document.getElementById('digiyar-chat-input');
     const messages = document.getElementById('digiyar-chat-messages');
     const products = document.getElementById('digiyar-products');
+
     if (!Engine || !form || !input || !messages) return;
 
     let state = null;
+    let busy = false;
 
     function addMessage(text, role) {
       const el = document.createElement('div');
@@ -18,6 +24,14 @@
       el.textContent = text;
       messages.appendChild(el);
       messages.scrollTop = messages.scrollHeight;
+      return el;
+    }
+
+    function setBusy(value) {
+      busy = value;
+      input.disabled = value;
+      const submit = form.querySelector('button[type="submit"]');
+      if (submit) submit.disabled = value;
     }
 
     function priceValue(item) {
@@ -39,41 +53,17 @@
       });
     }
 
-    function diagnosticMessage(diagnostic, need) {
-      if (!diagnostic) return '';
-      const budget = need && need.budget ? need.budget : null;
-      const max = budget && Number(budget.max);
-      const min = budget && Number(budget.min);
-      const range = min > 0 && max > 0
-        ? Number(min).toLocaleString('fa-IR') + ' تا ' + Number(max).toLocaleString('fa-IR')
-        : max > 0 ? 'حداکثر ' + Number(max).toLocaleString('fa-IR') : 'بدون سقف قیمت';
-      return 'تشخیص فنی موقت: منبع «' + (diagnostic.source || 'نامشخص') +
-        '»، دریافت خام: ' + Number(diagnostic.rawCount || 0).toLocaleString('fa-IR') +
-        '، محصول قابل پردازش: ' + Number(diagnostic.normalizedCount || 0).toLocaleString('fa-IR') +
-        '، دارای قیمت: ' + Number(diagnostic.pricedCount || 0).toLocaleString('fa-IR') +
-        '؛ بازه درخواستی: ' + range + ' تومان.';
-    }
-
-    function showProducts(items, need, diagnostic) {
+    function renderProducts(items, need) {
       if (!products) return;
       products.innerHTML = '';
-      const filtered = applyNeedFilters(items, need);
+      const filtered = applyNeedFilters(items, need).slice(0, 3);
 
       if (!filtered.length) {
-        const max = need && need.budget && Number(need.budget.max);
-        const min = need && need.budget && Number(need.budget.min);
-        if (diagnostic) addMessage(diagnosticMessage(diagnostic, need), 'assistant');
-        if (min > 0 && max > 0) {
-          addMessage('در حال حاضر در نتایج زنده، محصولی در بازه ' + Number(min).toLocaleString('fa-IR') + ' تا ' + Number(max).toLocaleString('fa-IR') + ' تومان پیدا نکردم.', 'assistant');
-        } else if (max > 0) {
-          addMessage('در حال حاضر در نتایج زنده، محصولی با قیمت حداکثر ' + Number(max).toLocaleString('fa-IR') + ' تومان پیدا نکردم.', 'assistant');
-        } else {
-          addMessage('فعلاً محصول مناسبی از منبع جست‌وجو دریافت نشد.', 'assistant');
-        }
+        addMessage('برای نیاز کامل‌شده، فعلاً محصول قابل نمایش پیدا نشد.', 'assistant');
         return;
       }
 
-      filtered.slice(0, 3).forEach(function (item) {
+      filtered.forEach(function (item) {
         const card = document.createElement('article');
         card.className = 'digiyar-product-card';
 
@@ -89,14 +79,16 @@
 
         const price = document.createElement('p');
         price.className = 'digiyar-product-price';
-        price.textContent = priceValue(item) ? priceValue(item).toLocaleString('fa-IR') + ' تومان' : 'قیمت نامشخص';
+        price.textContent = priceValue(item)
+          ? priceValue(item).toLocaleString('fa-IR') + ' تومان'
+          : 'قیمت نامشخص';
 
         const link = document.createElement('a');
         link.className = 'digiyar-product-link';
         link.target = '_blank';
-        link.rel = 'noopener';
+        link.rel = 'noopener noreferrer';
         link.textContent = 'مشاهده کالا';
-        link.href = item.affiliateUrl || item.productUrl || '#';
+        link.href = item.affiliateUrl || item.productUrl || item.url || '#';
 
         card.appendChild(image);
         card.appendChild(title);
@@ -107,54 +99,65 @@
     }
 
     async function retrieveProducts(need) {
-      const Integration = window.DigiyarProductRetrievalIntegration;
       if (!Integration || typeof Integration.retrieve !== 'function') {
-        addMessage('اتصال موتور جست‌وجوی محصولات هنوز در دسترس نیست.', 'assistant');
+        addMessage('اتصال موتور جست‌وجوی محصولات در Web App در دسترس نیست.', 'assistant');
         return;
       }
 
       addMessage('نیازت کامل شد؛ دارم گزینه‌های واقعی بازار را بررسی می‌کنم…', 'assistant');
+      setBusy(true);
 
       try {
         const result = await Integration.retrieve(need, { remote: true });
-        showProducts(result.products || [], need, result.diagnostic || null);
+        if (!result || result.status === 'retrieval_error') {
+          addMessage('در دریافت محصولات زنده مشکلی پیش آمد؛ دوباره امتحان کن.', 'assistant');
+          return;
+        }
+        renderProducts(result.products || [], need);
       } catch (error) {
-        console.error(error);
+        console.error('DigiYar V5 Retrieval:', error);
         addMessage('در دریافت محصولات زنده مشکلی پیش آمد؛ دوباره امتحان کن.', 'assistant');
+      } finally {
+        setBusy(false);
+        input.focus();
       }
     }
 
     function showQuestion(result) {
-      if (result && result.question && result.question.question) addMessage(result.question.question, 'assistant');
+      if (result && result.question && result.question.question) {
+        addMessage(result.question.question, 'assistant');
+      }
     }
 
-    function handleResult(result) {
+    async function handleResult(result) {
       if (!result) return;
       state = result.state || state;
       showQuestion(result);
-      if (result.status === 'complete' && result.need) retrieveProducts(result.need);
+      if (result.status === 'complete' && result.need) {
+        await retrieveProducts(result.need);
+      }
     }
 
-    function process(text) {
+    async function process(text) {
       try {
         let result;
         if (!state) result = Engine.start(text);
         else result = Engine.continueConversation(state, text);
-        handleResult(result);
+        await handleResult(result);
       } catch (error) {
-        console.error(error);
+        console.error('DigiYar V5 Conversation:', error);
         addMessage('در پردازش درخواست مشکلی پیش آمد. دوباره امتحان کن.', 'assistant');
       }
     }
 
-    form.addEventListener('submit', function (event) {
+    form.addEventListener('submit', async function (event) {
       event.preventDefault();
+      if (busy) return;
       const text = input.value.trim();
       if (!text) return;
       addMessage(text, 'user');
       input.value = '';
-      input.focus();
-      process(text);
+      await process(text);
     });
   }
 
