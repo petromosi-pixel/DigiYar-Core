@@ -1,4 +1,4 @@
-/* DigiYar V5 — Splash final copy bridge */
+/* DigiYar V5 — Splash copy bridge */
 (function () {
   'use strict';
   function apply() {
@@ -6,7 +6,7 @@
     if (!splash) return;
     splash.classList.add('v5-splash-screen');
     var brand = splash.querySelector('.splash-brand p');
-    if (brand) brand.textContent = 'دستیار هوشمندِ خرید اینترنتی تو';
+    if (brand) brand.textContent = 'دستیار دنیای دیجیتال';
   }
   if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', apply);
