@@ -5,10 +5,19 @@
 (function () {
   'use strict';
 
+  function loadV5SplashStyles() {
+    if (document.querySelector('link[data-v5-splash]')) return;
+    const link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = 'css/v5-splash.css';
+    link.dataset.v5Splash = 'true';
+    document.head.appendChild(link);
+  }
+
   function bootV5Splash() {
     const splash = document.getElementById('splashScreen');
     if (!splash) return;
-
+    loadV5SplashStyles();
     splash.className = 'v5-splash-screen';
     splash.innerHTML = '' +
       '<div class="v5-splash-content">' +
