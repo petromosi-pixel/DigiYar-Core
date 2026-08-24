@@ -1,0 +1,98 @@
+/* =========================================================
+   DigiYar V5 — Step 1: Splash Screen
+   Based on V3 splash structure; V4 copy; lighter navy brand
+   ========================================================= */
+
+.v5-splash-screen {
+  position: fixed;
+  inset: 0;
+  z-index: 99999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: radial-gradient(circle at center, #223456 0%, #182746 58%, #10203a 100%);
+  color: #fff;
+  opacity: 1;
+  visibility: visible;
+  transition: opacity .7s ease, visibility .7s ease;
+}
+
+.v5-splash-screen.splash-hidden,
+.v5-splash-screen.v5-splash-hidden {
+  opacity: 0 !important;
+  visibility: hidden !important;
+  pointer-events: none;
+}
+
+.v5-splash-content {
+  width: min(88%, 430px);
+  text-align: center;
+  animation: v5SplashEnter 1s ease both;
+}
+
+.v5-splash-logo-wrap {
+  width: 210px;
+  height: 210px;
+  margin: 0 auto 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 42px;
+  background: rgba(255,255,255,.08);
+  box-shadow: 0 0 0 1px rgba(255,255,255,.08), 0 20px 60px rgba(0,0,0,.3);
+  animation: v5LogoFloat 2s ease-in-out infinite;
+}
+
+.v5-splash-logo {
+  width: 178px;
+  height: 178px;
+  object-fit: contain;
+  display: block;
+  border-radius: 32px;
+}
+
+.v5-splash-brand h1 {
+  margin: 0;
+  font-size: 36px;
+  font-weight: 900;
+  color: #f7941d;
+}
+
+.v5-splash-brand p {
+  margin: 3px 0 18px;
+  font-size: 15px;
+  color: #fff;
+}
+
+.v5-splash-loader {
+  width: 110px;
+  height: 3px;
+  margin: 27px auto 0;
+  overflow: hidden;
+  border-radius: 10px;
+  background: rgba(255,255,255,.15);
+}
+
+.v5-splash-loader span {
+  display: block;
+  width: 40%;
+  height: 100%;
+  border-radius: inherit;
+  background: #f7941d;
+  animation: v5LoaderMove 1.2s ease-in-out infinite;
+}
+
+@keyframes v5SplashEnter {
+  from { opacity: 0; transform: translateY(25px) scale(.94); }
+  to { opacity: 1; transform: translateY(0) scale(1); }
+}
+
+@keyframes v5LogoFloat {
+  0%, 100% { transform: translateY(0) scale(1); }
+  50% { transform: translateY(-8px) scale(1.02); }
+}
+
+@keyframes v5LoaderMove {
+  0% { transform: translateX(180%); }
+  100% { transform: translateX(-280%); }
+}
