@@ -1,49 +1,10 @@
-/* =========================================================
-   DigiYar V5 — Steps 3–10 UI orchestration
-   ========================================================= */
+/* DigiYar V5 — Steps 3–10 UI orchestration */
 (function(){
-  'use strict';
-  const $=id=>document.getElementById(id);
-  const esc=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'}[c]));
-
-  function initDeals(){
-    const track=$('v5DealTrack'); if(!track)return;
-    let index=0;
-    const cards=[...track.children];
-    const render=()=>{ const w=cards[0]?.getBoundingClientRect().width||0; track.style.transform=`translateX(${index*(w+12)}px)`; };
-    $('v5DealNext')?.addEventListener('click',()=>{index=Math.min(index+1,Math.max(0,cards.length-(innerWidth<761?1:3)));render();});
-    $('v5DealPrev')?.addEventListener('click',()=>{index=Math.max(0,index-1);render();});
-    addEventListener('resize',render); render();
-  }
-
-  function initDynamicFields(){
-    const store=$('storeSelect'), category=$('v5Category');
-    const categoryFields={mobile:[['priorities','اولویت خرید','دوربین، باتری','ارزش خرید','باتری','کیفیت'],['usage','نوع استفاده','عکاسی','بازی','کار روزمره','تولید محتوا'],['requirements','نیاز ضروری','5G','حافظه بالا','شارژ سریع'],['constraints','محدودیت','وزن کم','اندازه کوچک','قیمت پایین']],laptop:[['priorities','اولویت خرید','قدرت پردازش','باتری','صفحه‌نمایش','ارزش خرید'],['usage','نوع استفاده','کار روزمره','برنامه‌نویسی','طراحی','بازی'],['requirements','نیاز ضروری','رم بالا','SSD','وزن کم'],['constraints','محدودیت','وزن کم','اندازه کوچک','قیمت پایین']],tablet:[['priorities','اولویت خرید','نمایشگر','باتری','وزن','ارزش خرید'],['usage','نوع استفاده','مطالعه','طراحی','سرگرمی','کار روزمره'],['requirements','نیاز ضروری','حافظه بالا','قلم','سیم‌کارت'],['constraints','محدودیت','وزن کم','اندازه کوچک','قیمت پایین']],other:[['priorities','اولویت خرید','کیفیت','ارزش خرید','قیمت'],['usage','نوع استفاده','کار روزمره','مصرف شخصی','هدیه'],['requirements','نیاز ضروری','گارانتی','ارسال سریع'],['constraints','محدودیت','قیمت پایین','اندازه کوچک']]};
-    function draw(){
-      const box=$('v5DynamicFields'); if(!box)return; const rows=categoryFields[category?.value]||categoryFields.other;
-      box.innerHTML=rows.map(([id,label,...opts])=>`<label class="v5-field"><span>${esc(label)}</span><select id="${id}"><option value="">انتخاب کن</option>${opts.map(o=>`<option>${esc(o)}</option>`).join('')}</select></label>`).join('');
-      $('requirements')?.setAttribute('data-v5','1');
-    }
-    category?.addEventListener('change',draw); store?.addEventListener('change',()=>{ const hint=$('v5StoreHint'); if(hint)hint.textContent=store.value==='all'?'مقایسه از میان فروشگاه‌های متصل انجام می‌شود.':'نتایج بر اساس فروشگاه انتخابی اولویت‌بندی می‌شوند.'; }); draw();
-  }
-
-  function moveRecommendations(){
-    const result=$('resultSection'), target=$('v5InlineResults');
-    if(result&&target){ const rec=$('recommendations'); if(rec)target.appendChild(rec); result.remove(); }
-  }
-
-  function initChat(){
-    const form=$('digiyar-chat-form'), btn=form?.querySelector('button'); if(!form)return;
-    if(btn){btn.setAttribute('aria-label','ارسال پیام');btn.innerHTML='<span>ارسال</span><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M21 3 9.4 14.6M21 3l-7.4 18-4.2-6.4L3 10.4 21 3Z" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>';}
-  }
-
-  function initProfileSave(){
-    const form=$('v5ProfileCompletionForm'); if(!form)return;
-    const status=$('v5ProfileSaveStatus'); form.addEventListener('submit',e=>{e.preventDefault(); const data=Object.fromEntries(new FormData(form).entries()); localStorage.setItem('digiyar-v5-profile',JSON.stringify(data)); if(status){status.textContent='پروفایل ذخیره شد؛ خبرهای جذاب را بر اساس آن برایت آماده می‌کنیم.';setTimeout(()=>status.textContent='',3000);}});
-  }
-
-  function init(){
-    initDeals();initDynamicFields();moveRecommendations();initChat();initProfileSave();
-  }
-  if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',init,{once:true});else init();
+'use strict'; const $=id=>document.getElementById(id); const esc=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'}[c]));
+function initDeals(){const track=$('v5DealTrack');if(!track)return;let index=0;const cards=[...track.children];const render=()=>{const w=cards[0]?.getBoundingClientRect().width||0;track.style.transform=`translateX(${index*(w+12)}px)`};$('v5DealNext')?.addEventListener('click',()=>{index=Math.min(index+1,Math.max(0,cards.length-(innerWidth<761?1:3)));render()});$('v5DealPrev')?.addEventListener('click',()=>{index=Math.max(0,index-1);render()});addEventListener('resize',render);render()}
+function initDynamicFields(){const store=$('storeSelect'),category=$('category');const fields={mobile:[['priorities','اولویت خرید','دوربین، باتری','ارزش خرید','باتری','کیفیت'],['usage','نوع استفاده','عکاسی','بازی','کار روزمره','تولید محتوا'],['requirements','نیاز ضروری','5G','حافظه بالا','شارژ سریع'],['constraints','محدودیت','وزن کم','اندازه کوچک','قیمت پایین']],laptop:[['priorities','اولویت خرید','قدرت پردازش','باتری','صفحه‌نمایش','ارزش خرید'],['usage','نوع استفاده','کار روزمره','برنامه‌نویسی','طراحی','بازی'],['requirements','نیاز ضروری','رم بالا','SSD','وزن کم'],['constraints','محدودیت','وزن کم','اندازه کوچک','قیمت پایین']],tablet:[['priorities','اولویت خرید','نمایشگر','باتری','وزن','ارزش خرید'],['usage','نوع استفاده','مطالعه','طراحی','سرگرمی','کار روزمره'],['requirements','نیاز ضروری','حافظه بالا','قلم','سیم‌کارت'],['constraints','محدودیت','وزن کم','اندازه کوچک','قیمت پایین']],other:[['priorities','اولویت خرید','کیفیت','ارزش خرید','قیمت'],['usage','نوع استفاده','کار روزمره','مصرف شخصی','هدیه'],['requirements','نیاز ضروری','گارانتی','ارسال سریع'],['constraints','محدودیت','قیمت پایین','اندازه کوچک']]};function draw(){const box=$('v5DynamicFields');if(!box)return;const rows=fields[category?.value]||fields.other;box.innerHTML=rows.map(([id,label,...opts])=>`<label class="v5-field"><span>${esc(label)}</span><select id="${id}"><option value="">انتخاب کن</option>${opts.map(o=>`<option>${esc(o)}</option>`).join('')}</select></label>`).join('')}category?.addEventListener('change',draw);store?.addEventListener('change',()=>{const hint=$('v5StoreHint');if(hint)hint.textContent=store.value==='all'?'مقایسه از میان فروشگاه‌های متصل انجام می‌شود.':'نتایج بر اساس فروشگاه انتخابی اولویت‌بندی می‌شوند.'});draw()}
+function moveRecommendations(){const result=$('resultSection'),target=$('v5InlineResults'),rec=$('recommendations');if(result&&target&&rec){target.appendChild(rec);result.classList.add('v5-result-card')}}
+function initChat(){const form=$('digiyar-chat-form'),btn=form?.querySelector('button');if(btn){btn.setAttribute('aria-label','ارسال پیام');btn.innerHTML='<svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M21 3 9.4 14.6M21 3l-7.4 18-4.2-6.4L3 10.4 21 3Z" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>'}}
+function initProfileSave(){const form=$('v5ProfileCompletionForm');if(!form)return;const status=$('v5ProfileSaveStatus');form.addEventListener('submit',e=>{e.preventDefault();const data=Object.fromEntries(new FormData(form).entries());localStorage.setItem('digiyar-v5-profile',JSON.stringify(data));if(status){status.textContent='پروفایل ذخیره شد؛ خبرهای جذاب را بر اساس آن برایت آماده می‌کنیم.';setTimeout(()=>status.textContent='',3000)}})}
+function init(){initDeals();initDynamicFields();moveRecommendations();initChat();initProfileSave()}if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',init,{once:true});else init();
 })();
