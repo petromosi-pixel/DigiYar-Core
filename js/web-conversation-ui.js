@@ -5,7 +5,27 @@
 (function () {
   'use strict';
 
+  function bootV5Splash() {
+    const splash = document.getElementById('splashScreen');
+    if (!splash) return;
+
+    splash.className = 'v5-splash-screen';
+    splash.innerHTML = '' +
+      '<div class="v5-splash-content">' +
+        '<div class="v5-splash-logo-wrap">' +
+          '<img class="v5-splash-logo" src="./icon/icon-512.png" alt="DigiYar">' +
+        '</div>' +
+        '<div class="v5-splash-brand">' +
+          '<h1>دیجی‌یار</h1>' +
+          '<p>دستیار هوشمندِ خرید اینترنتی تو</p>' +
+        '</div>' +
+        '<div class="v5-splash-loader"><span></span></div>' +
+      '</div>';
+  }
+
   function boot() {
+    bootV5Splash();
+
     const Engine = window.DigiYarConversationEngine || window.DigiyarConversationEngine;
     const Integration = window.DigiyarProductRetrievalIntegration;
     const form = document.getElementById('digiyar-chat-form');
