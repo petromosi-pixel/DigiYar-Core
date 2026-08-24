@@ -1,44 +1,7 @@
-/* DigiYar V5 — Step 2: Full-width header */
-.main-header {
-  width: 100vw;
-  max-width: none;
-  margin-left: calc(50% - 50vw);
-  margin-right: calc(50% - 50vw);
-  margin-top: 0;
-  margin-bottom: 22px;
-  border-radius: 0 0 20px 20px;
-}
-
-.header-content {
-  width: min(100%, 980px);
-  min-height: 150px;
-  margin: 0 auto;
-  padding: 28px 18px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  position: relative;
-}
-
-.header-brand strong {
-  color: #fff;
-  font-size: 28px;
-  font-weight: 800;
-  line-height: 1.25;
-}
-
-.header-brand span {
-  margin-top: 4px;
-  color: #d9e3f3;
-  font-size: 14px;
-  line-height: 1.5;
-}
-
-@media (max-width: 430px) {
-  .header-content {
-    min-height: 130px;
-    padding: 22px 15px;
-  }
-  .header-brand strong { font-size: 24px; }
-  .header-brand span { font-size: 11px; }
-}
+/* DigiYar V5 — Step 2: compact full-width dynamic header */
+.main-header{width:100vw!important;max-width:none!important;height:15mm;min-height:15mm;margin:0 0 14px!important;padding:0!important;border-radius:0!important;box-sizing:border-box;position:relative;left:50%;transform:translateX(-50%);overflow:hidden}
+.header-content{width:100%!important;max-width:none!important;height:100%;min-height:0!important;margin:0!important;padding:0 12px!important;display:flex;align-items:center;justify-content:center;box-sizing:border-box}
+.header-brand{display:flex;align-items:center;justify-content:center;gap:9px;width:100%;white-space:nowrap;overflow:hidden}.header-brand strong{color:#fff;font-size:17px!important;font-weight:900;line-height:1;display:inline-block;transform-origin:center;animation:v5BrandPulse 4.8s ease-in-out infinite}.header-brand span{margin:0!important;color:#dce6f5;font-size:11px!important;line-height:1;display:inline-block;opacity:0;animation:v5TagReveal 4.8s ease-in-out infinite}
+@keyframes v5BrandPulse{0%,100%{transform:scale(.92);opacity:.88}18%{transform:scale(1.08);opacity:1}38%{transform:scale(1);opacity:1}55%,100%{transform:scale(.96);opacity:.92}}
+@keyframes v5TagReveal{0%,25%{opacity:0;transform:translateY(3px)}35%,75%{opacity:1;transform:translateY(0)}90%,100%{opacity:0;transform:translateY(-2px)}}
+@media(max-width:430px){.header-content{padding:0 8px!important}.header-brand{gap:7px}.header-brand strong{font-size:16px!important}.header-brand span{font-size:10px!important}}
