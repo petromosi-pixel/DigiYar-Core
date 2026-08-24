@@ -1,95 +1,19 @@
 <!DOCTYPE html>
 <html lang="fa" dir="rtl">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="theme-color" content="#2a4169">
-  <meta name="description" content="دیجی‌یار؛ دستیار دنیای دیجیتال برای انتخاب هوشمندانه‌تر">
-  <link rel="manifest" href="manifest.json">
-  <link rel="icon" href="assets/logos/logo.png" type="image/png">
-  <link rel="stylesheet" href="css/style.css">
-  <link rel="stylesheet" href="css/v5-splash.css">
-  <link rel="stylesheet" href="css/v5-step2-header.css">
-  <title>دیجی‌یار | دستیار دنیای دیجیتال</title>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta name="theme-color" content="#2a4169"><meta name="description" content="دیجی‌یار؛ دستیار دنیای دیجیتال برای انتخاب هوشمندانه‌تر"><link rel="manifest" href="manifest.json"><link rel="icon" href="assets/logos/logo.png" type="image/png"><link rel="stylesheet" href="css/style.css"><link rel="stylesheet" href="css/v5-splash.css"><link rel="stylesheet" href="css/v5-step2-header.css"><link rel="stylesheet" href="css/v5-ui.css"><title>دیجی‌یار | دستیار دنیای دیجیتال</title>
 </head>
 <body>
-  <div id="splashScreen" class="splash-screen v5-splash-screen">
-    <div class="splash-content v5-splash-content">
-      <div class="v5-splash-logo-wrap" aria-label="دیجی‌یار">
-        <img class="v5-splash-logo" src="./icon/icon-512.png" alt="دیجی‌یار" draggable="false">
-      </div>
-      <div class="splash-brand v5-splash-brand">
-        <h1>دیجی‌یار</h1>
-        <p>دستیار دنیای دیجیتال</p>
-      </div>
-      <div class="splash-loader v5-splash-loader"><span></span></div>
-    </div>
-  </div>
-
-  <main class="app-shell">
-    <header class="main-header">
-      <div class="header-content">
-        <div class="header-brand"><strong>دیجی‌یار</strong><span>دستیار هوشمند خرید اینترنتی تو</span></div>
-        <div id="installPrompt" class="install-prompt hidden" role="dialog" aria-label="نصب دیجی‌یار">
-          <div class="install-prompt-icon"><img src="icon/icon-512.png" alt="دیجی‌یار"></div>
-          <div class="install-prompt-content"><strong>دیجی‌یار رو نصب کن</strong><span>دستیار خرید هوشمندت همیشه در دسترس تو</span></div>
-          <button id="installBtn" class="install-prompt-button" type="button">نصب</button>
-          <button id="installDismiss" class="install-prompt-close" type="button" aria-label="بستن">×</button>
-        </div>
-      </div>
-    </header>
-
-    <section class="card profile-card">
-      <div class="section-title"><h2>پروفایل خرید</h2><p>اطلاعات خریدت رو وارد کن تا دیجی‌یار بهترین گزینه‌ها رو برات پیدا کنه</p></div>
-      <form id="profileForm">
-        <div class="form-grid">
-          <label>دسته محصول<span class="select-wrap"><select id="category"><option value="mobile">موبایل</option><option value="laptop">لپ‌تاپ</option><option value="tablet">تبلت</option><option value="general">سایر</option></select></span></label>
-          <label>حداکثر بودجه<input id="budgetMax" type="number" min="0" max="500000000" step="100000" placeholder="مثلاً 15000000"><small class="input-hint">بازه پیشنهادی: ۱۵ تا ۵۰۰ میلیون تومان</small></label>
-          <label>اولویت‌ها<span class="select-wrap"><select id="priorities"><option value="">انتخاب کن</option><option value="دوربین، باتری">دوربین و باتری</option><option value="دوربین">دوربین</option><option value="باتری">باتری</option><option value="کیفیت">کیفیت</option><option value="ارزش خرید">ارزش خرید</option></select></span></label>
-          <label>نوع استفاده<span class="select-wrap"><select id="usage"><option value="">انتخاب کن</option><option value="عکاسی">عکاسی</option><option value="بازی">بازی</option><option value="کار روزمره">کار روزمره</option><option value="تولید محتوا">تولید محتوا</option></select></span></label>
-          <label>نیازهای ضروری<span class="select-wrap"><select id="requirements"><option value="">انتخاب کن</option><option value="5G">5G</option><option value="حافظه بالا">حافظه بالا</option><option value="شارژ سریع">شارژ سریع</option></select></span></label>
-          <label>محدودیت‌ها<span class="select-wrap"><select id="constraints"><option value="">انتخاب کن</option><option value="وزن کم">وزن کم</option><option value="اندازه کوچک">اندازه کوچک</option><option value="قیمت پایین">قیمت پایین</option></select></span></label>
-          <div class="form-actions full"><button class="primary" type="submit">ساخت پروفایل و پیشنهاد</button><button id="resetProfile" class="danger" type="button">پاک کردن اطلاعات</button></div>
-        </div>
-      </form>
-      <p class="storage-note">اطلاعات خریدت روی همین دستگاه ذخیره میشن.</p>
-    </section>
-
-    <section class="card digiyar-conversation-card" id="digiyarConversation">
-      <div class="section-title"><h2>💬 با دیجی‌یار حرف بزن</h2><p>نیازت رو خودمونی بنویس؛ دیجی‌یار با چند سؤال کوتاه دقیق‌تر راهنماییت می‌کنه.</p></div>
-      <div id="digiyar-chat-messages" class="digiyar-chat-messages" aria-live="polite"></div>
-      <form id="digiyar-chat-form" class="digiyar-chat-form">
-        <input id="digiyar-chat-input" type="text" autocomplete="off" placeholder="مثلاً: یه گوشی خوب می‌خوام" aria-label="درخواست خرید">
-        <button type="submit" class="primary">ارسال</button>
-      </form>
-      <div id="digiyar-products" class="digiyar-products" aria-live="polite"></div>
-    </section>
-
-    <section id="resultSection" class="card results-card">
-      <div class="section-title"><h2>پیشنهادات دیجی‌یار</h2><p id="resultHint">بر اساس اولویت‌های انتخابی تو به ترتیب زیر پیشنهاد میشن</p></div>
-      <div id="needSummary" class="need-summary empty" aria-hidden="true" hidden></div>
-      <div id="recommendations" class="recommendations"></div>
-    </section>
-
-    <section class="card platforms-card"><div class="section-title"><h2>فروشگاه‌های محبوب</h2></div><div id="platforms" class="platform-grid"></div></section>
-    <footer class="main-footer"><nav class="footer-links" aria-label="پیوندهای پایانی"><a href="#" class="footer-link">درباره دیجی‌یار</a><a href="#" class="footer-link">راهنما</a><a href="#" class="footer-link">قوانین و حریم خصوصی</a><a href="#" class="footer-link">تماس با ما</a></nav><div class="footer-brand"><strong>دیجی‌یار</strong><span>دستیار دنیای دیجیتال</span></div><div class="footer-copy">© ۱۴۰۵ دیجی‌یار — همه حقوق محفوظ است</div></footer>
-  </main>
-
-  <script src="js/product-data.js"></script>
-  <script src="js/product-retrieval.js"></script>
-  <script src="js/price-policy.js"></script>
-  <script src="js/product-price-bridge.js"></script>
-  <script src="js/search-engine.js"></script>
-  <script src="js/product-scoring.js"></script>
-  <script src="js/smart-recommendation-engine.js"></script>
-  <script src="js/user-profile.js"></script>
-  <script src="js/need-engine.js"></script>
-  <script src="js/platforms.js"></script>
-  <script src="js/app.js"></script>
-  <script src="js/conversation-engine.js"></script>
-  <script src="js/price-policy-bridge.js"></script>
-  <script src="js/product-retrieval-integration.js"></script>
-  <script src="js/web-conversation-ui.js"></script>
-  <script src="js/v5-splash-fix.js"></script>
-</body>
-</html>
+<div id="splashScreen" class="splash-screen v5-splash-screen"><div class="splash-content v5-splash-content"><div class="v5-splash-logo-wrap"><img class="v5-splash-logo" src="./icon/icon-512.png" alt="دیجی‌یار"></div><div class="splash-brand v5-splash-brand"><h1>دیجی‌یار</h1><p>دستیار دنیای دیجیتال</p></div><div class="splash-loader v5-splash-loader"><span></span></div></div></div>
+<main class="app-shell">
+<header class="main-header"><div class="header-content"><div class="header-brand"><strong>دیجی‌یار</strong><span>دستیار هوشمند خرید اینترنتی تو</span></div><div id="installPrompt" class="install-prompt hidden"><div class="install-prompt-icon"><img src="icon/icon-512.png" alt="دیجی‌یار"></div><div class="install-prompt-content"><strong>دیجی‌یار رو نصب کن</strong><span>دستیار خرید هوشمندت همیشه در دسترس تو</span></div><button id="installBtn" class="install-prompt-button" type="button">نصب</button><button id="installDismiss" class="install-prompt-close" type="button">×</button></div></div></header>
+<section class="card v5-deals-card"><div class="v5-section-heading"><div><h2>بدون تخفیف چیزی نخر</h2><p>تخفیف‌های فروشگاه‌های متصل را قبل از خرید ببین.</p></div><div class="v5-slider-controls"><button id="v5DealPrev" type="button">‹</button><button id="v5DealNext" type="button">›</button></div></div><div class="v5-deal-viewport"><div class="v5-deal-track" id="v5DealTrack"><article class="v5-deal"><span class="v5-deal-badge">ویژه</span><div><strong>دیجی‌کالا</strong><span>پیشنهادهای ویژه</span></div><a href="https://www.digikala.com/" target="_blank">مشاهده</a></article><article class="v5-deal"><span class="v5-deal-badge">ویژه</span><div><strong>اسنپ‌شاپ</strong><span>پیشنهادهای خرید آنلاین</span></div><a href="https://snapp.shop/" target="_blank">مشاهده</a></article><article class="v5-deal"><span class="v5-deal-badge">مقایسه</span><div><strong>ترب</strong><span>پیشنهادهای قیمت</span></div><a href="https://torob.com/" target="_blank">مشاهده</a></article><article class="v5-deal"><span class="v5-deal-badge">بازار</span><div><strong>باسلام</strong><span>پیشنهادهای فروشندگان</span></div><a href="https://basalam.com/" target="_blank">مشاهده</a></article></div></div></section>
+<section class="card v5-profile-card profile-card"><div class="section-title"><h2>دنبال چی می‌گردی؟</h2><p>اطلاعات خریدتو وارد کن تا دیجی‌یار برات پیداش کنه</p></div><form id="profileForm"><div class="form-grid"><label class="v5-field full"><span>فروشگاهتو انتخاب کن</span><select id="storeSelect"><option value="all">همه فروشگاه‌های متصل</option><option value="digikala">دیجی‌کالا</option><option value="snappshop">اسنپ‌شاپ</option><option value="torob">ترب</option><option value="basalam">باسلام</option></select><small id="v5StoreHint" class="input-hint">مقایسه از میان فروشگاه‌های متصل انجام می‌شود.</small></label><label class="v5-field"><span>دسته‌بندی</span><select id="v5Category"><option value="mobile">موبایل</option><option value="laptop">لپ‌تاپ</option><option value="tablet">تبلت</option><option value="smartwatch">ساعت هوشمند</option><option value="headphones">هدفون و هندزفری</option><option value="tv">تلویزیون</option><option value="camera">دوربین</option><option value="accessories">لوازم جانبی</option><option value="gaming">کنسول و گیم</option><option value="smart-home">خانه هوشمند</option><option value="general">سایر</option></select></label><label class="v5-field"><span>حداکثر بودجه</span><input id="budgetMax" type="number" min="0" max="500000000" step="100000" placeholder="مثلاً 15000000"></label><div id="v5DynamicFields" class="v5-dynamic-fields"></div><div class="form-actions full"><button class="primary v5-primary" type="submit">نمایش نتایج</button><button id="resetProfile" class="danger v5-danger" type="button">پاک کردن اطلاعات</button></div></div></form><p class="v5-storage-note">اطلاعات خریدت روی همین دستگاه ذخیره میشن.</p></section>
+<section class="card v5-chat-card digiyar-conversation-card" id="digiyarConversation"><div class="v5-chat-head"><div class="v5-chat-avatar">✦</div><div class="section-title"><h2>با دیجی‌یار حرف بزن</h2><p>نیازت رو خودمونی بنویس؛ دیجی‌یار با چند سؤال کوتاه دقیق‌تر راهنماییت می‌کنه.</p></div></div><div id="digiyar-chat-messages" class="digiyar-chat-messages"></div><form id="digiyar-chat-form" class="digiyar-chat-form v5-chat-composer"><input id="digiyar-chat-input" type="text" autocomplete="off" placeholder="مثلاً: یه گوشی تا ۱۵ میلیون برای عکاسی می‌خوام"><button type="submit" class="primary" aria-label="ارسال پیام">➤</button></form><div id="v5InlineResults" class="v5-inline-results"><div id="digiyar-products" class="digiyar-products"></div><div id="recommendations" class="recommendations"></div></div></section>
+<section id="resultSection" class="card v5-result-card"><div class="section-title"><h2>پیشنهادات دیجی‌یار</h2><p id="resultHint">بر اساس اولویت‌های انتخابی تو به ترتیب زیر پیشنهاد میشن</p></div><div id="needSummary" class="need-summary empty" hidden></div></section>
+<section class="card v5-popular-card platforms-card"><div class="section-title"><h2>فروشگاه‌های محبوب</h2></div><div id="platforms" class="platform-grid"></div></section>
+<section class="card v5-profile-completion"><div class="section-title"><h2>از پیشنهادات جذاب جا نمونی</h2><p>پروفایل زیرو کامل کن تا زودتر از همه خبرشو برات بفرستم</p></div><form id="v5ProfileCompletionForm" class="v5-profile-completion-form"><label>نام<input name="name" type="text" placeholder="نام شما"></label><label>شماره موبایل<input name="phone" type="tel" placeholder="شماره موبایل"></label><label>دسته‌های مورد علاقه<input name="interests" type="text" placeholder="مثلاً موبایل، لپ‌تاپ"></label><label>سقف بودجه مورد علاقه<input name="budget" type="number" placeholder="مثلاً 15000000"></label><div class="full"><button class="v5-save-profile" type="submit">ذخیره پروفایل</button><div id="v5ProfileSaveStatus" class="v5-save-status"></div></div></form></section>
+<footer class="main-footer"><nav class="footer-links"><a href="#" class="footer-link">درباره دیجی‌یار</a><a href="#" class="footer-link">راهنما</a><a href="#" class="footer-link">قوانین و حریم خصوصی</a><a href="#" class="footer-link">تماس با ما</a></nav><div class="footer-brand"><strong>دیجی‌یار</strong><span>دستیار دنیای دیجیتال</span></div><div class="footer-copy">© ۱۴۰۵ دیجی‌یار — همه حقوق محفوظ است</div></footer>
+</main>
+<script src="js/product-data.js"></script><script src="js/product-retrieval.js"></script><script src="js/price-policy.js"></script><script src="js/product-price-bridge.js"></script><script src="js/search-engine.js"></script><script src="js/product-scoring.js"></script><script src="js/smart-recommendation-engine.js"></script><script src="js/user-profile.js"></script><script src="js/need-engine.js"></script><script src="js/platforms.js"></script><script src="js/app.js"></script><script src="js/conversation-engine.js"></script><script src="js/price-policy-bridge.js"></script><script src="js/product-retrieval-integration.js"></script><script src="js/web-conversation-ui.js"></script><script src="js/v5-splash-fix.js"></script><script src="js/v5-ui.js"></script>
+</body></html>
