@@ -1,0 +1,33 @@
+/* =========================================================
+   DigiYar V5 — Steps 3–10 UI layer
+   Keeps V4/Core logic intact; V5 presentation + interaction only.
+   ========================================================= */
+:root{--v5-navy:#2a4169;--v5-navy2:#38547f;--v5-orange:#f7941d;--v5-bg:#f5f8fc;--v5-soft:#69778d}
+body{background:linear-gradient(180deg,#f5f8fc,#fff);}
+.app-shell{width:100%;max-width:1180px;padding:0 18px 42px}
+.main-header{width:100%;max-width:none;margin:0 0 22px;padding:16px 24px;background:linear-gradient(135deg,var(--v5-navy),var(--v5-navy2));border-bottom:4px solid var(--v5-orange);border-radius:0 0 20px 20px}
+.header-content{max-width:1180px;margin:auto}
+.v5-deals-card{position:relative;overflow:hidden;padding:20px}
+.v5-section-heading{display:flex;align-items:end;justify-content:space-between;gap:12px;margin-bottom:14px}
+.v5-section-heading h2{margin:0;color:var(--v5-navy);font-size:21px}
+.v5-section-heading p{margin:3px 0 0;color:var(--v5-soft);font-size:12px}
+.v5-slider-controls{display:flex;gap:6px;direction:ltr}
+.v5-slider-controls button{width:34px;height:34px;border:1px solid #dce4ef;border-radius:10px;background:#fff;color:var(--v5-navy);font-size:18px}
+.v5-deal-viewport{overflow:hidden;border-radius:16px}
+.v5-deal-track{display:flex;gap:12px;transition:transform .35s ease;direction:ltr}
+.v5-deal{min-width:calc((100% - 24px)/3);direction:rtl;display:flex;align-items:center;gap:12px;padding:14px;border:1px solid #e2e8f1;border-radius:15px;background:linear-gradient(135deg,#fff,#f7faff);box-shadow:0 6px 18px rgba(42,65,105,.07)}
+.v5-deal-badge{padding:5px 8px;border-radius:8px;background:#fff0df;color:#bd6500;font-size:11px;font-weight:900;white-space:nowrap}
+.v5-deal strong{display:block;color:var(--v5-navy);font-size:13px}.v5-deal span{display:block;color:var(--v5-soft);font-size:10px;margin-top:2px}.v5-deal a{margin-right:auto;padding:7px 10px;border-radius:9px;background:var(--v5-orange);color:#fff;font-size:10px;font-weight:800;white-space:nowrap}
+.v5-profile-card .section-title h2{font-size:23px}.v5-profile-card .section-title p{font-size:13px}
+.v5-field{display:flex;flex-direction:column;gap:7px;color:#182235;font-size:13px;font-weight:700}.v5-field.full{grid-column:1/-1}
+.v5-field select,.v5-field input{width:100%;min-height:48px;border:1px solid #dfe6f0;border-radius:12px;background:#f8fafd;color:#182235;padding:10px 13px;font-size:14px;outline:0}.v5-field select:focus,.v5-field input:focus{border-color:var(--v5-orange);box-shadow:0 0 0 3px rgba(247,148,29,.12);background:#fff}
+.v5-dynamic-fields{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:15px;grid-column:1/-1}.v5-hidden{display:none!important}
+.v5-primary{background:linear-gradient(135deg,var(--v5-navy),var(--v5-navy2))!important}.v5-danger{background:linear-gradient(135deg,#d86a42,#b94e2f)!important}.v5-storage-note{color:var(--v5-soft);font-size:11px;text-align:center;margin:14px 0 0}
+.v5-chat-card{border:1px solid #dfe7f2;background:linear-gradient(180deg,#fff,#f9fbfe);box-shadow:0 10px 30px rgba(42,65,105,.09)}
+.v5-chat-head{display:flex;align-items:center;gap:12px}.v5-chat-avatar{width:48px;height:48px;border-radius:15px;display:grid;place-items:center;background:linear-gradient(135deg,var(--v5-navy),var(--v5-navy2));color:#fff;font-size:22px;box-shadow:0 7px 18px rgba(42,65,105,.18)}
+.v5-chat-composer{display:flex;align-items:center;gap:8px;padding:7px;border:1px solid #dce5f0;border-radius:16px;background:#fff}.v5-chat-composer input{flex:1;min-width:0;border:0!important;background:transparent!important;box-shadow:none!important;outline:0;padding:11px 10px}.v5-chat-composer button{width:46px;height:46px;border:0;border-radius:13px;background:var(--v5-orange);color:#fff;display:grid;place-items:center;font-size:20px;line-height:1}.v5-chat-composer button span{display:none}
+.v5-inline-results{margin-top:16px}.v5-inline-results:empty{display:none}.v5-inline-results .digiyar-product-card{box-shadow:0 5px 18px rgba(42,65,105,.07)}
+.v5-result-card{display:none!important}
+.v5-popular-card{margin-top:18px}
+.v5-profile-completion{position:relative}.v5-profile-completion .section-title{margin-bottom:14px}.v5-profile-completion-form{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}.v5-profile-completion-form label{display:flex;flex-direction:column;gap:6px;color:#182235;font-size:12px;font-weight:700}.v5-profile-completion-form input{min-height:44px;padding:9px 11px;border:1px solid #dfe6f0;border-radius:11px;background:#f8fafd;outline:0}.v5-profile-completion-form input:focus{border-color:var(--v5-orange);box-shadow:0 0 0 3px rgba(247,148,29,.1);background:#fff}.v5-profile-completion-form .full{grid-column:1/-1}.v5-save-profile{border:0;border-radius:11px;padding:11px 18px;background:var(--v5-navy);color:#fff;font-weight:800}.v5-save-status{font-size:11px;color:#4c7b59;min-height:20px}
+@media(max-width:760px){.app-shell{padding-left:12px;padding-right:12px}.v5-deal{min-width:100%}.v5-dynamic-fields,.v5-profile-completion-form{grid-template-columns:1fr}.v5-field.full,.v5-profile-completion-form .full{grid-column:auto}.v5-section-heading{align-items:flex-start}.v5-chat-head{align-items:flex-start}}
