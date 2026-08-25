@@ -13,7 +13,7 @@ permissions:
 
 concurrency:
   group: pages-v5
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   deploy:
@@ -24,15 +24,12 @@ jobs:
     steps:
       - name: Checkout V5
         uses: actions/checkout@v4
-
       - name: Configure Pages
         uses: actions/configure-pages@v5
-
       - name: Upload V5 artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: .
-
       - name: Deploy V5 to Pages
         id: deployment
         uses: actions/deploy-pages@v4
