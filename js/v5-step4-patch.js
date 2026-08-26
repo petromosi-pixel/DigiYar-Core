@@ -14,13 +14,12 @@ function init(){
  if(!card||!form||!grid||!store||!cat||!budget||!dyn||!toggle)return;
  const budgetField=budget.closest('.v5-field'),catField=cat.closest('.v5-field'),subField=sub&&sub.closest('.v5-field');
  const freshToggle=toggle.cloneNode(true);toggle.replaceWith(freshToggle);const t=freshToggle;
- t.classList.add('v5-step4-final-toggle');t.innerHTML='<span class="v5-step4-toggle-icon" aria-hidden="true">⌄</span>';
+ t.classList.add('v5-step4-final-toggle');t.innerHTML='<span class="v5-step4-toggle-icon" aria-hidden="true"><i>⟨</i><i>⟨</i><i>⟨</i></span>';
  if(budgetField&&subField)subField.insertAdjacentElement('afterend',budgetField);
  if(sub){const label=subField&&subField.querySelector('span');if(label)label.textContent='انتخاب کالا';}
  if(budgetField){const label=budgetField.querySelector('span');if(label)label.textContent='چقدر می‌خوای هزینه کنی؟';}
- /* The toggle belongs to the bottom of the Step 4 card, not beside the store field. */
  card.appendChild(t);
- function syncIcon(open){const icon=t.querySelector('.v5-step4-toggle-icon');if(icon)icon.textContent=open?'⌃':'⌄';t.setAttribute('aria-expanded',String(open));t.setAttribute('aria-label',open?'بستن جزئیات خرید':'باز کردن جزئیات خرید');}
+ function syncIcon(open){t.setAttribute('aria-expanded',String(open));t.setAttribute('aria-label',open?'بستن جزئیات خرید':'باز کردن جزئیات خرید');}
  function budgetState(){const visible=cat.value==='digital';if(budgetField){budgetField.hidden=!visible;budgetField.style.display=visible?'flex':'none';}}
  function setOpen(open){if(catField)catField.hidden=!open;if(subField)subField.hidden=!open||!cat.value;if(dyn){dyn.hidden=!open||!dyn.children.length;dyn.style.display=open&&dyn.children.length?'grid':'none';}budgetState();t.classList.toggle('is-open',open);syncIcon(open);}
  function clearResults(){['digiyar-products','recommendations'].forEach(id=>{const el=document.getElementById(id);if(el)el.innerHTML='';});const inline=document.getElementById('v5InlineResults');if(inline)inline.hidden=true;const summary=document.getElementById('needSummary');if(summary){summary.innerHTML='';summary.classList.add('empty');summary.hidden=true;}const result=document.getElementById('resultSection');if(result)result.hidden=true;}
