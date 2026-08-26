@@ -14,7 +14,7 @@ function init(){
  if(!card||!form||!grid||!store||!cat||!budget||!dyn||!toggle)return;
  const budgetField=budget.closest('.v5-field'),catField=cat.closest('.v5-field'),subField=sub&&sub.closest('.v5-field');
  const freshToggle=toggle.cloneNode(true);toggle.replaceWith(freshToggle);const t=freshToggle;
- t.classList.add('v5-step4-final-toggle');t.innerHTML='<span class="v5-step4-toggle-icon" aria-hidden="true"><i>⟨</i><i>⟨</i><i>⟨</i></span>';
+ t.classList.add('v5-step4-final-toggle');t.innerHTML='<span class="v5-step4-toggle-icon" aria-hidden="true"><i></i><i></i><i></i></span>';
  if(budgetField&&subField)subField.insertAdjacentElement('afterend',budgetField);
  if(sub){const label=subField&&subField.querySelector('span');if(label)label.textContent='انتخاب کالا';}
  if(budgetField){const label=budgetField.querySelector('span');if(label)label.textContent='چقدر می‌خوای هزینه کنی؟';}
