@@ -10,4 +10,5 @@
 .v5-profile-card .section-title,.v5-popular-card .section-title,.v5-profile-completion .section-title{position:relative;z-index:1}
 .v5-profile-card.is-open #profileForm{display:grid!important}
 .v5-profile-completion.is-open #v5ProfileCompletionForm{display:grid!important}
+.v5-popular-card .v5-profile-completion-toggle{display:flex!important;visibility:visible!important;opacity:1!important;position:absolute!important;z-index:20!important;align-items:center!important;justify-content:center!important}
 @media(max-width:760px){.v5-profile-card .section-title h2,.v5-popular-card .section-title h2,.v5-profile-completion .section-title h2{font-size:19px}.v5-profile-card .section-title p,.v5-popular-card .section-title p,.v5-profile-completion .section-title p{font-size:11px}}
