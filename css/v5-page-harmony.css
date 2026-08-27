@@ -1,0 +1,59 @@
+/* V5 homepage visual harmony — excludes the deals widget card */
+.v5-profile-card,
+.v5-popular-card,
+.v5-profile-completion{
+  box-sizing:border-box;
+}
+
+.v5-profile-card .section-title,
+.v5-popular-card .section-title,
+.v5-profile-completion .section-title{
+  text-align:center;
+  margin:0;
+}
+
+.v5-profile-card .section-title h2,
+.v5-popular-card .section-title h2,
+.v5-profile-completion .section-title h2{
+  margin:0;
+  font-size:19px;
+  line-height:1.25;
+  text-align:center;
+}
+
+.v5-profile-card .section-title p,
+.v5-popular-card .section-title p,
+.v5-profile-completion .section-title p{
+  margin:3px 0 0;
+  font-size:11px;
+  line-height:1.35;
+  color:var(--v5-soft);
+  text-align:center;
+  white-space:nowrap;
+}
+
+/* Keep the three cards visually consistent while leaving their internal structures intact. */
+.v5-profile-card,
+.v5-popular-card,
+.v5-profile-completion{
+  padding-top:12px;
+  padding-bottom:10px;
+}
+
+/* Closed states: only the main title and subtitle remain visible. */
+.v5-profile-card:not(.is-open) #profileForm,
+.v5-profile-card:not(.is-open) .v5-storage-note,
+.v5-popular-card:not(.is-open) #platforms,
+.v5-profile-completion:not(.is-open) #v5ProfileCompletionForm,
+.v5-profile-completion:not(.is-open) .v5-save-status{
+  display:none!important;
+}
+
+@media(max-width:760px){
+  .v5-profile-card .section-title h2,
+  .v5-popular-card .section-title h2,
+  .v5-profile-completion .section-title h2{font-size:19px}
+  .v5-profile-card .section-title p,
+  .v5-popular-card .section-title p,
+  .v5-profile-completion .section-title p{font-size:11px}
+}
