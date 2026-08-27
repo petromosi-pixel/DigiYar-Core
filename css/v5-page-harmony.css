@@ -10,5 +10,9 @@
 .v5-profile-card .section-title,.v5-popular-card .section-title,.v5-profile-completion .section-title{position:relative;z-index:1}
 .v5-profile-card.is-open #profileForm{display:grid!important}
 .v5-profile-completion.is-open #v5ProfileCompletionForm{display:grid!important}
-.v5-profile-completion .v5-profile-completion-toggle{display:flex!important;visibility:visible!important;opacity:1!important;position:absolute!important;z-index:20!important;align-items:center!important;justify-content:center!important}
+.v5-profile-completion .v5-profile-completion-toggle{display:flex!important;visibility:visible!important;opacity:1!important;position:relative!important;z-index:20!important;align-items:center!important;justify-content:center!important;width:48px!important;height:24px!important;margin:1px auto 0!important;padding:0!important;border:0!important;background:transparent!important;color:var(--v5-navy)!important;cursor:pointer!important;overflow:visible!important}
+.v5-profile-completion .v5-profile-completion-toggle-icon{display:flex!important;visibility:visible!important;opacity:1!important;align-items:center!important;justify-content:center!important;direction:ltr!important;width:38px!important;height:24px!important;line-height:1!important;font-size:14px!important;font-weight:700!important;color:var(--v5-navy)!important}
+.v5-profile-completion .v5-profile-completion-toggle-icon i{display:block!important;font-style:normal!important;margin:0 -1px!important;color:inherit!important;visibility:visible!important;opacity:1!important}
+.v5-profile-completion .v5-profile-completion-toggle[aria-expanded="false"] .v5-profile-completion-toggle-icon{transform:rotate(90deg)!important}
+.v5-profile-completion .v5-profile-completion-toggle[aria-expanded="true"] .v5-profile-completion-toggle-icon{transform:rotate(-90deg)!important}
 @media(max-width:760px){.v5-profile-card .section-title h2,.v5-popular-card .section-title h2,.v5-profile-completion .section-title h2{font-size:19px}.v5-profile-card .section-title p,.v5-popular-card .section-title p,.v5-profile-completion .section-title p{font-size:11px}}
