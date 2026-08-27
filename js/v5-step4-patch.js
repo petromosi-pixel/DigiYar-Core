@@ -25,7 +25,18 @@ function init(){
  normalizeTopFields();
  function syncIcon(open){t.setAttribute('aria-expanded',String(open));t.setAttribute('aria-label',open?'بستن جزئیات خرید':'باز کردن جزئیات خرید');}
  function clearResults(){['digiyar-products','recommendations'].forEach(id=>{const el=document.getElementById(id);if(el)el.innerHTML='';});const inline=document.getElementById('v5InlineResults');if(inline)inline.hidden=true;const summary=document.getElementById('needSummary');if(summary){summary.innerHTML='';summary.classList.add('empty');summary.hidden=true;}const result=document.getElementById('resultSection');if(result)result.hidden=true;}
- function setOpen(open){card.classList.toggle('is-open',open);form.hidden=!open;form.setAttribute('aria-hidden',String(!open));form.style.display=open?'block':'none';if(catField)catField.hidden=!open;if(subField)subField.hidden=!open||!cat.value;if(budgetField)budgetField.hidden=!open||cat.value!=='digital';if(dyn){dyn.hidden=!open||!dyn.children.length;dyn.style.display=open&&dyn.children.length?'grid':'none';}if(!open){cat.disabled=true;if(sub)sub.disabled=true}else cat.disabled=!store.value;syncIcon(open);}
+ function setOpen(open){
+   card.classList.toggle('is-open',open);
+   form.hidden=false;
+   form.setAttribute('aria-hidden',String(!open));
+   form.style.display='block';
+   if(catField)catField.hidden=!open;
+   if(subField)subField.hidden=!open||!cat.value;
+   if(budgetField)budgetField.hidden=!open||cat.value!=='digital';
+   if(dyn){dyn.hidden=!open||!dyn.children.length;dyn.style.display=open&&dyn.children.length?'grid':'none';}
+   if(!open){cat.disabled=true;if(sub)sub.disabled=true}else cat.disabled=!store.value;
+   syncIcon(open);
+ }
  function clearInputsOnly(){store.value='';cat.value='';cat.disabled=true;if(sub){sub.value='';sub.disabled=true;sub.innerHTML='<option data-v5-placeholder="true" value="">انتخاب کالا</option>';}budget.value='';dyn.innerHTML='';dyn.hidden=true;dyn.style.display='none';if(catField)catField.hidden=true;if(subField)subField.hidden=true;if(budgetField)budgetField.hidden=true;clearResults();normalizeTopFields();setOpen(false);}
  if(reset){const freshReset=reset.cloneNode(true);reset.replaceWith(freshReset);freshReset.addEventListener('click',function(ev){ev.preventDefault();ev.stopImmediatePropagation();clearInputsOnly();},true);}
  t.addEventListener('click',function(ev){ev.preventDefault();ev.stopImmediatePropagation();setOpen(t.getAttribute('aria-expanded')!=='true');},true);
