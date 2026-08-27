@@ -47,5 +47,22 @@ function init(){
  const observer=new MutationObserver(normalizeFunctionLabels);observer.observe(dyn,{childList:true,subtree:true});normalizeFunctionLabels();
  setOpen(false);
 }
-if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',init,{once:true});else setTimeout(init,0);
+function initCompletionCardToggle(){
+ const card=document.querySelector('.v5-profile-completion');
+ const form=document.getElementById('v5ProfileCompletionForm');
+ if(!card||!form)return;
+ const old=card.querySelector('.v5-profile-completion-toggle');
+ if(old)old.remove();
+ const toggle=document.createElement('button');
+ toggle.type='button';
+ toggle.className='v5-step4-toggle v5-profile-completion-toggle v5-step4-final-toggle';
+ toggle.setAttribute('aria-expanded','false');
+ toggle.setAttribute('aria-label','باز کردن تکمیل پروفایل');
+ toggle.innerHTML='<span class="v5-step4-toggle-icon" aria-hidden="true"><i>⟨</i><i>⟨</i><i>⟨</i></span>';
+ card.appendChild(toggle);
+ const setOpen=open=>{card.classList.toggle('is-open',open);form.hidden=!open;form.setAttribute('aria-hidden',String(!open));form.style.display=open?'grid':'';toggle.setAttribute('aria-expanded',String(open));toggle.setAttribute('aria-label',open?'بستن تکمیل پروفایل':'باز کردن تکمیل پروفایل')};
+ toggle.addEventListener('click',()=>setOpen(toggle.getAttribute('aria-expanded')!=='true'));
+ setOpen(false);
+}
+if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',()=>{init();initCompletionCardToggle()},{once:true});else setTimeout(()=>{init();initCompletionCardToggle()},0);
 })();
