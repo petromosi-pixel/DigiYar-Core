@@ -15,13 +15,9 @@
 .v5-profile-completion .v5-profile-completion-toggle-icon i{display:block!important;font-style:normal!important;margin:0 -1px!important;color:inherit!important;visibility:visible!important;opacity:1!important}
 .v5-profile-completion .v5-profile-completion-toggle[aria-expanded="false"] .v5-profile-completion-toggle-icon{transform:rotate(90deg)!important}
 .v5-profile-completion .v5-profile-completion-toggle[aria-expanded="true"] .v5-profile-completion-toggle-icon{transform:rotate(-90deg)!important}
-/* Popular stores card — centered content and corrected toggle direction */
+/* Popular stores: preserve the original logo/layout geometry; center text only */
 .v5-popular-card .section-title,.v5-popular-card .section-title h2,.v5-popular-card .section-title p{text-align:center!important}
-.v5-popular-card #platforms,.v5-popular-card #platforms .platform,.v5-popular-card #platforms .platform-main,.v5-popular-card #platforms .platform-name,.v5-popular-card #platforms .platform-tag,.v5-popular-card #platforms .platform-btn{text-align:center!important}
-.v5-popular-card #platforms .platform{justify-items:center!important}
-.v5-popular-card #platforms .platform-main{justify-items:center!important}
-.v5-popular-card #platforms .platform-name,.v5-popular-card #platforms .platform-tag{justify-self:center!important;text-align:center!important}
-.v5-popular-card #platforms .platform-btn{justify-self:center!important;text-align:center!important}
-.v5-popular-card .v5-popular-toggle[aria-expanded="false"] .v5-popular-toggle-icon{transform:rotate(-90deg)!important}
-.v5-popular-card .v5-popular-toggle[aria-expanded="true"] .v5-popular-toggle-icon{transform:rotate(90deg)!important}
+.v5-profile-completion #v5ProfileCompletionForm,.v5-profile-completion #v5ProfileCompletionForm .v5-field,.v5-profile-completion #v5ProfileCompletionForm label,.v5-profile-completion #v5ProfileCompletionForm input,.v5-profile-completion #v5ProfileCompletionForm select,.v5-profile-completion #v5ProfileCompletionForm textarea{text-align:center!important}
+.v5-profile-completion #v5ProfileCompletionForm input,.v5-profile-completion #v5ProfileCompletionForm select,.v5-profile-completion #v5ProfileCompletionForm textarea{text-align-last:center!important}
+.v5-profile-completion #v5ProfileCompletionForm option{text-align:center!important}
 @media(max-width:760px){.v5-profile-card .section-title h2,.v5-popular-card .section-title h2,.v5-profile-completion .section-title h2{font-size:19px}.v5-profile-card .section-title p,.v5-popular-card .section-title p,.v5-profile-completion .section-title p{font-size:11px}}
