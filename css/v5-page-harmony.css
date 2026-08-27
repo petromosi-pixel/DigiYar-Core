@@ -1,32 +1,13 @@
 /* V5 homepage visual harmony — excludes the deals widget card */
-.v5-profile-card,
-.v5-popular-card,
-.v5-profile-completion{box-sizing:border-box}
-.v5-profile-card .section-title,
-.v5-popular-card .section-title,
-.v5-profile-completion .section-title{text-align:center;margin:0}
-.v5-profile-card .section-title h2,
-.v5-popular-card .section-title h2,
-.v5-profile-completion .section-title h2{margin:0;font-size:19px;line-height:1.25;text-align:center}
-.v5-profile-card .section-title p,
-.v5-popular-card .section-title p,
-.v5-profile-completion .section-title p{margin:3px 0 0;font-size:11px;line-height:1.35;color:var(--v5-soft);text-align:center;white-space:nowrap}
-.v5-profile-card,
-.v5-popular-card,
-.v5-profile-completion{padding-top:12px;padding-bottom:10px}
-/* Closed state: profile content is hidden, but the expandable form remains available when opened. */
-.v5-profile-card:not(.is-open) #profileForm,
-.v5-profile-card:not(.is-open) .v5-storage-note,
-.v5-popular-card:not(.is-open) #platforms,
-.v5-profile-completion:not(.is-open) #v5ProfileCompletionForm,
-.v5-profile-completion:not(.is-open) .v5-save-status{display:none!important}
-/* Do not globally hide the profile card's fields; the Step 4 toggle controls their visibility. */
+.v5-profile-card,.v5-popular-card,.v5-profile-completion{box-sizing:border-box}
+.v5-profile-card .section-title,.v5-popular-card .section-title,.v5-profile-completion .section-title{text-align:center;margin:0}
+.v5-profile-card .section-title h2,.v5-popular-card .section-title h2,.v5-profile-completion .section-title h2{margin:0;font-size:19px;line-height:1.25;text-align:center}
+.v5-profile-card .section-title p,.v5-popular-card .section-title p,.v5-profile-completion .section-title p{margin:3px 0 0;font-size:11px;line-height:1.35;color:var(--v5-soft);text-align:center;white-space:nowrap}
+.v5-profile-card,.v5-popular-card,.v5-profile-completion{padding-top:12px;padding-bottom:10px}
+.v5-profile-card:not(.is-open) .v5-profile-completion-form,.v5-profile-card:not(.is-open) #profileForm,.v5-popular-card:not(.is-open) #platforms,.v5-profile-completion:not(.is-open) #v5ProfileCompletionForm{max-height:0!important;opacity:0!important;overflow:hidden!important;visibility:hidden!important;margin-top:0!important;margin-bottom:0!important;pointer-events:none!important;transition:max-height .38s cubic-bezier(.4,0,.2,1),opacity .24s ease,margin .38s ease,visibility 0s linear .38s!important}
+.v5-profile-card.is-open .v5-profile-completion-form,.v5-profile-card.is-open #profileForm,.v5-popular-card.is-open #platforms,.v5-profile-completion.is-open #v5ProfileCompletionForm{max-height:1200px!important;opacity:1!important;overflow:visible!important;visibility:visible!important;pointer-events:auto!important;transition:max-height .48s cubic-bezier(.22,1,.36,1),opacity .28s ease,margin .48s ease,visibility 0s!important}
+.v5-profile-card .v5-profile-completion-form,.v5-profile-card #profileForm,.v5-popular-card #platforms,.v5-profile-completion #v5ProfileCompletionForm{transition:max-height .48s cubic-bezier(.22,1,.36,1),opacity .28s ease,margin .48s ease,visibility 0s!important}
+.v5-profile-card .section-title,.v5-popular-card .section-title,.v5-profile-completion .section-title{position:relative;z-index:1}
 .v5-profile-card.is-open #profileForm{display:grid!important}
-@media(max-width:760px){
-.v5-profile-card .section-title h2,
-.v5-popular-card .section-title h2,
-.v5-profile-completion .section-title h2{font-size:19px}
-.v5-profile-card .section-title p,
-.v5-popular-card .section-title p,
-.v5-profile-completion .section-title p{font-size:11px}
-}
+.v5-profile-completion.is-open #v5ProfileCompletionForm{display:grid!important}
+@media(max-width:760px){.v5-profile-card .section-title h2,.v5-popular-card .section-title h2,.v5-profile-completion .section-title h2{font-size:19px}.v5-profile-card .section-title p,.v5-popular-card .section-title p,.v5-profile-completion .section-title p{font-size:11px}}
