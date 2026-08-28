@@ -1,36 +1,44 @@
 /* =========================================================
-   DigiYar V4
+   DigiYar V5
    Service Worker
-   Cache Version: 4.0.0-alpha.12
+   Cache Version: 5.0.2
    ========================================================= */
 
-const CACHE_VERSION = "digiyar-v4-alpha12-1";
+const CACHE_VERSION = "digiyar-v5-5.0.2";
 
 const APP_SHELL = [
   "./",
   "./index.html",
+  "./manifest.json",
   "./css/style.css",
-  "./js/app.js",
-  "./js/user-profile.js",
-  "./js/need-engine.js",
-  "./js/conversation-engine.js",
-  "./js/price-policy.js",
-  "./js/price-policy-bridge.js",
-  "./js/product-price-bridge.js",
+  "./css/v5-splash.css",
+  "./css/v5-step2-header.css",
+  "./css/v5-ui.css",
+  "./css/v5-step4.css",
+  "./css/v5-step4-toggle-direction.css",
+  "./css/v5-smart-search.css",
   "./js/product-data.js",
   "./js/product-retrieval.js",
-  "./js/product-retrieval-integration.js",
+  "./js/price-policy.js",
+  "./js/product-price-bridge.js",
   "./js/search-engine.js",
   "./js/product-scoring.js",
   "./js/smart-recommendation-engine.js",
+  "./js/user-profile.js",
+  "./js/need-engine.js",
   "./js/platforms.js",
-  "./js/web-conversation-ui.js",
+  "./js/app.js",
+  "./js/conversation-engine.js",
+  "./js/price-policy-bridge.js",
   "./js/product-retrieval-integration.js",
-  "./js/product-retrieval.js",
-  "./js/search-engine.js",
-  "./manifest.json",
-  "./assets/icon-192.png",
-  "./assets/icon-512.png",
+  "./js/web-conversation-ui.js",
+  "./js/v5-splash-fix.js",
+  "./js/v5-ui.js",
+  "./js/v5-step4-final.js",
+  "./js/v5-step4-patch.js",
+  "./js/v5-footer.js",
+  "./js/v5-smart-search.js",
+  "./icon/icon-512.png",
   "./assets/logos/logo.png"
 ];
 
