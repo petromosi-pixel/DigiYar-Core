@@ -69,7 +69,7 @@ function displayResults(products, query) {
 function createAffiliateLink(product) {
     const storeConfig = affiliateConfig[product.store];
     if (!storeConfig) return product.url || '#';
-    return `${storeConfig.affiliateLink}?p=${encodeURIComponent(product.url)}`;
+    return `${storeConfig.affiliateLink}?p=${product.url}`;
 }
 function formatPrice(price) { if (!price || price === 0) return 'نامشخص'; return new Intl.NumberFormat('fa-IR').format(price) + ' تومان'; }
 function showLoading() { document.getElementById('searchResults').innerHTML = '<div class="loading"><div class="spinner"></div><p>در حال جستجوی زنده...</p></div>'; }
