@@ -39,11 +39,20 @@ function displayResults(products, query) {
     resultsDiv.scrollIntoView({behavior:'smooth',block:'start'});
 }
 
+// ساخت لینک افیلیت
 function createAffiliateLink(product) {
-    const storeConfig=affiliateConfig[product.store];
-    if(!storeConfig)return '#';
-    return `${storeConfig.affiliateLink}?redirect_to=${encodeURIComponent(product.url)}`;
+    const storeConfig = affiliateConfig[product.store];
+    
+    if (!storeConfig) {
+        return product.url || '#';
+    }
+    
+    // ساخت لینک افیلیت با redirect_to
+    // ساختار صحیح Aflo
+    const redirectUrl = encodeURIComponent(product.url);
+    return `${storeConfig.affiliateLink}?redirect_to=${redirectUrl}`;
 }
+
 function formatPrice(price){if(!price||price===0)return 'نامشخص';return new Intl.NumberFormat('fa-IR').format(price)+' تومان';}
 function showLoading(){document.getElementById('searchResults').innerHTML='<div class="loading"><div class="spinner"></div><p>در حال جستجوی زنده...</p></div>';}
 function showError(){document.getElementById('searchResults').innerHTML='<div class="error"><p>⚠️ خطا در ارتباط با سرور</p><p>لطفاً دوباره تلاش کنید</p></div>';}
