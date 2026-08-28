@@ -1,54 +1,47 @@
 // api/search.js
 
 export default async function handler(req, res) {
-    // فعال‌سازی CORS
     res.setHeader('Access-Control-Allow-Origin', '*');
     res.setHeader('Access-Control-Allow-Methods', 'GET, OPTIONS');
-
+    
     const { q } = req.query;
-
+    
     if (!q) {
-        return res.status(400).json({
-            success: false,
-            error: 'Query parameter is required'
+        return res.status(400).json({ 
+            success: false, 
+            error: 'Query parameter is required' 
         });
     }
-
+    
     try {
         // جستجو در دیجی‌کالا
         const digikalaResults = await searchDigikala(q);
-
-        // جستجو در اسنپ‌شاپ (اگه در دسترس بود)
-        const snappResults = await searchSnappShop(q);
-
-        // ترکیب نتایج
-        const allResults = [
-            ...digikalaResults,
-            ...snappResults
-        ];
-
-        // فیلتر محصولات موجود
+        
+        // ترکیب نتایج (فعلاً فقط دیجیکالا)
+        const allResults = [...digikalaResults];
+        
+        // فیلتر محصولات موجود و دارای قیمت
         const availableProducts = allResults.filter(p => p.available && p.price > 0);
-
-        // مرتب‌سازی بر اساس قیمت
+        
+        // مرتب‌سازی بر اساس قیمت (ارزان به گران)
         availableProducts.sort((a, b) => a.price - b.price);
-
+        
         // برگرداندن ۳ نتیجه برتر
         const topResults = availableProducts.slice(0, 3);
-
+        
         res.json({
             success: true,
             results: topResults,
             total: availableProducts.length,
             query: q
         });
-
+        
     } catch (error) {
         console.error('Search error:', error);
-        res.status(500).json({
-            success: false,
+        res.status(500).json({ 
+            success: false, 
             error: 'Search failed',
-            message: error.message
+            message: error.message 
         });
     }
 }
@@ -61,58 +54,56 @@ async function searchDigikala(query) {
             {
                 headers: {
                     'Accept': 'application/json',
-                    'User-Agent': 'Mozilla/5.0'
+                    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
                 }
             }
         );
-
+        
         if (!response.ok) {
             console.error('Digikala API error:', response.status);
             return [];
         }
-
+        
         const data = await response.json();
-
-        // بررسی ساختار داده دیجی‌کالا
+        
+        // بررسی ساختار صحیح دیجی‌کالا
         if (!data.data || !data.data.products) {
             console.error('No products in Digikala response');
             return [];
         }
-
+        
         // استخراج محصولات
         return data.data.products.map(product => {
-            // استخراج قیمت از ساختار صحیح
-            const price = product.default_variant?.price?.selling_price ||
-                         product.default_variant?.price?.rrp_price ||
-                         product.price ||
-                         0;
-
-            const originalPrice = product.default_variant?.price?.rrp_price ||
-                                 product.price ||
-                                 price;
-
+            // استخراج قیمت
+            let price = 0;
+            let originalPrice = 0;
+            
+            if (product.default_variant && product.default_variant.price) {
+                price = product.default_variant.price.selling_price || 0;
+                originalPrice = product.default_variant.price.rrp_price || price;
+            }
+            
             // استخراج تصویر
-            const image = product.images?.main?.url?.[0] ||
-                         product.images?.list?.[0]?.url?.[0] ||
-                         '';
-
+            let image = '';
+            if (product.images && product.images.main && product.images.main.url) {
+                image = product.images.main.url[0] || '';
+            }
+            
             // استخراج امتیاز
-            const rating = product.rating?.rate ||
-                          product.rate ||
-                          0;
-
-            const reviews = product.rating?.count ||
-                           product.review_count ||
-                           0;
-
-            // ساختار نهایی
+            const rating = product.rating?.rate || 0;
+            const reviews = product.rating?.count || 0;
+            
+            // ساخت URL صحیح
+            const productUrl = product.url?.uri || 
+                              `https://www.digikala.com/product/dkp-${product.id}`;
+            
             return {
                 id: product.id,
-                title: product.title_fa || product.title || 'بدون عنوان',
+                title: product.title_fa || product.title_en || 'بدون عنوان',
                 price: price,
                 originalPrice: originalPrice,
                 image: image,
-                url: `https://www.digikala.com/product/dkp-${product.id}`,
+                url: productUrl.startsWith('http') ? productUrl : `https://www.digikala.com${productUrl}`,
                 available: price > 0,
                 rating: rating,
                 reviews: reviews,
@@ -120,65 +111,9 @@ async function searchDigikala(query) {
                 storeName: 'دیجی‌کالا'
             };
         });
-
+        
     } catch (error) {
         console.error('Digikala search error:', error);
-        return [];
-    }
-}
-
-// جستجو در اسنپ‌شاپ
-async function searchSnappShop(query) {
-    try {
-        const response = await fetch(
-            `https://snapp.shop/api/search?q=${encodeURIComponent(query)}`,
-            {
-                headers: {
-                    'Accept': 'application/json',
-                    'User-Agent': 'Mozilla/5.0'
-                }
-            }
-        );
-
-        if (!response.ok) {
-            console.error('SnappShop API error:', response.status);
-            return [];
-        }
-
-        const data = await response.json();
-
-        // بررسی ساختارهای مختلف پاسخ اسنپ‌شاپ
-        let products = [];
-
-        if (data.products) {
-            products = data.products;
-        } else if (data.results) {
-            products = data.results;
-        } else if (data.data && data.data.products) {
-            products = data.data.products;
-        } else if (Array.isArray(data)) {
-            products = data;
-        }
-
-        // استخراج محصولات
-        return products.map(product => {
-            return {
-                id: product.id || Math.random().toString(36),
-                title: product.name || product.title || product.title_fa || 'بدون عنوان',
-                price: product.price || product.selling_price || 0,
-                originalPrice: product.original_price || product.rrp_price || 0,
-                image: product.image_url || product.image || product.images?.main?.url?.[0] || '',
-                url: product.product_url || product.url || `https://snapp.shop/product/${product.id}`,
-                available: product.in_stock !== undefined ? product.in_stock : true,
-                rating: product.rating || 0,
-                reviews: product.review_count || 0,
-                store: 'snappshop',
-                storeName: 'اسنپ‌شاپ'
-            };
-        });
-
-    } catch (error) {
-        console.error('SnappShop search error:', error);
         return [];
     }
 }
