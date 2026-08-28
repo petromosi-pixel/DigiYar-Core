@@ -16,6 +16,8 @@ function init(){
   }catch(err){box.innerHTML='<div class="v5-smart-search-empty">ارتباط با جستجوی زنده برقرار نشد؛ دوباره امتحان کن.</div>';console.error(err)}finally{input.disabled=false;input.placeholder=old;}
  });
 }
-function esc(v){return String(v??'').replace(/[&<>'"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c]))}function price(v){return v?new Intl.NumberFormat('fa-IR').format(v)+' تومان':'نامشخص'}function affiliate(p){const base=p.store==='digikala'?'https://aflo.ir/TrvNHEN8':p.store==='snappshop'?'https://aflo.ir/1COBTqeMV':'#';return base+'?redirect_to='+encodeURIComponent(p.url||'')}
+function esc(v){return String(v??'').replace(/[&<>'"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c]))}
+function price(v){return v?new Intl.NumberFormat('fa-IR').format(v)+' تومان':'نامشخص'}
+function affiliate(p){const base=p.store==='digikala'?'https://aflo.ir/TrvNHEN8':p.store==='snappshop'?'https://aflo.ir/1COBTqeMV':'';if(!base)return p.url||'#';return base+'?p='+(p.url||'')}
 if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',init,{once:true});else init();
 })();
