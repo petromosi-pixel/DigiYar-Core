@@ -1,7 +1,6 @@
 /* =========================================================
-   DigiYar V3
+   DigiYar V5
    Affiliate Link Manager
-   Version: 1.0.0
    ========================================================= */
 
 (function () {
@@ -12,14 +11,12 @@
 
     digikala: {
       name: "دیجی‌کالا",
-      affiliateUrl:
-        "https://aflo.ir/V5hl8DUI?p={redirect_to}"
+      affiliateUrl: "https://aflo.ir/TrvNHEN8"
     },
 
     snappshop: {
       name: "اسنپ‌شاپ",
-      affiliateUrl:
-        "https://aflo.ir/1COBTqeMV?p={redirect_to}"
+      affiliateUrl: "https://aflo.ir/1COBTqeMV"
     }
 
   };
@@ -30,50 +27,27 @@
       return productUrl || "";
     }
 
-    const config = AFFILIATE_CONFIG[
-      String(store).toLowerCase()
-    ];
+    const config = AFFILIATE_CONFIG[String(store).toLowerCase()];
 
     if (!config || !config.affiliateUrl) {
       return productUrl;
     }
 
-    const encodedUrl = encodeURIComponent(productUrl);
-
-    return config.affiliateUrl.replace(
-      "{redirect_to}",
-      encodedUrl
-    );
-
+    return `${config.affiliateUrl}?p=${encodeURIComponent(productUrl)}`;
   }
 
   function hasAffiliate(store) {
-
-    if (!store) {
-      return false;
-    }
-
-    return Boolean(
-      AFFILIATE_CONFIG[String(store).toLowerCase()]
-    );
-
+    if (!store) return false;
+    return Boolean(AFFILIATE_CONFIG[String(store).toLowerCase()]);
   }
 
   function getStoreConfig(store) {
-
-    if (!store) {
-      return null;
-    }
-
-    return (
-      AFFILIATE_CONFIG[String(store).toLowerCase()] ||
-      null
-    );
-
+    if (!store) return null;
+    return AFFILIATE_CONFIG[String(store).toLowerCase()] || null;
   }
 
   window.DigiYarAffiliate = {
-    version: "1.0.0",
+    version: "5.0.1",
     buildLink: buildAffiliateLink,
     hasAffiliate: hasAffiliate,
     getStoreConfig: getStoreConfig
