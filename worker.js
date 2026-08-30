@@ -6,42 +6,28 @@ export default {
       'Access-Control-Allow-Headers': 'Content-Type'
     };
 
-    if (request.method === 'OPTIONS') {
-      return new Response(null, { headers: corsHeaders });
-    }
-
+    if (request.method === 'OPTIONS') return new Response(null, { headers: corsHeaders });
     const url = new URL(request.url);
     const path = url.pathname;
     const query = url.searchParams.get('q');
 
-    if (path === '/health') {
-      return json({ status: 'ok' }, corsHeaders);
-    }
-
+    if (path === '/health') return json({ status: 'ok' }, corsHeaders);
     if (path === '/api/search') {
       if (!query) return json({ error: 'Missing q' }, corsHeaders);
-
       try {
-        const [digikala, snappshop] = await Promise.all([
-          searchDigikala(query),
-          searchSnappShop(query)
-        ]);
+        const [digikala, snappshop] = await Promise.all([searchDigikala(query), searchSnappShop(query)]);
         const products = [...digikala, ...snappshop].slice(0, 6);
-
         return json({ success: true, results: products, total: products.length, query }, corsHeaders);
       } catch (error) {
         return json({ success: false, error: error.message }, corsHeaders);
       }
     }
-
     return json({ error: 'Unknown endpoint' }, corsHeaders);
   }
 };
 
 function json(data, corsHeaders) {
-  return new Response(JSON.stringify(data), {
-    headers: { ...corsHeaders, 'Content-Type': 'application/json' }
-  });
+  return new Response(JSON.stringify(data), { headers: { ...corsHeaders, 'Content-Type': 'application/json' } });
 }
 
 async function searchDigikala(query) {
@@ -52,7 +38,6 @@ async function searchDigikala(query) {
     `https://www.digikala.com/api/search/?q=${encodeURIComponent(query)}&page=1`,
     `https://search.digikala.com/api/search/?q=${encodeURIComponent(query)}&page=1`
   ];
-
   for (const apiUrl of urls) {
     try {
       const response = await fetch(apiUrl, {
@@ -65,22 +50,21 @@ async function searchDigikala(query) {
         },
         redirect: 'follow'
       });
-
       if (!response.ok) continue;
       const data = await response.json();
       const source = data?.data?.products;
       if (!Array.isArray(source) || !source.length) continue;
-
       return source.slice(0, 3).map(function (p) {
         const image = p?.images?.main?.url?.[0] || '';
         const price = p?.default_variant?.price?.selling_price || 0;
+        const productUrl = `https://www.digikala.com/product/dkp-${p.id}`;
         return {
           id: p.id,
           name: p.title_fa || p.title_en || 'بدون عنوان',
           price,
           image,
-          productUrl: `https://www.digikala.com/product/dkp-${p.id}`,
-          url: `https://www.digikala.com/product/dkp-${p.id}`,
+          productUrl,
+          url: productUrl,
           available: price > 0,
           rating: p?.rating?.rate || 0,
           reviews: p?.rating?.count || 0,
@@ -88,18 +72,13 @@ async function searchDigikala(query) {
           storeName: 'دیجی‌کالا'
         };
       });
-    } catch (e) {
-      console.error('Digikala URL failed:', apiUrl, e.message);
-    }
+    } catch (e) { console.error('Digikala URL failed:', apiUrl, e.message); }
   }
-
   return [];
 }
 
 async function searchSnappShop(query) {
-  // SnappShop is intentionally isolated behind its adapter. The public search
-  // page is not a product API, so do not fabricate product IDs or product URLs.
-  // Until a verified product-search endpoint/source is available, this adapter
-  // returns no products rather than producing misleading search links.
+  // Adapter boundary for V5. No unverified product IDs/URLs are fabricated.
+  // This remains empty until a verified SnappShop product-search source is wired in.
   return [];
 }
