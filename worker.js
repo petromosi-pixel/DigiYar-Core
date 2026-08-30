@@ -28,69 +28,13 @@ export default {
       }
 
       try {
-        const response = await fetch(
-          `https://api.digikala.com/v1/search/?q=${encodeURIComponent(query)}&page=1`,
-          {
-            method: 'GET',
-            headers: {
-              'Accept': 'application/json',
-              'User-Agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36',
-              'Accept-Language': 'fa-IR,fa;q=0.9'
-            },
-            redirect: 'manual'
-          }
-        );
-
-        console.log('Status:', response.status);
-
-        if ([301, 302, 307, 308].includes(response.status)) {
-          const location = response.headers.get('location');
-          console.log('Redirect to:', location);
-
-          if (location) {
-            const finalResponse = await fetch(location, {
-              headers: {
-                'Accept': 'application/json',
-                'User-Agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36'
-              }
-            });
-
-            console.log('Final status:', finalResponse.status);
-
-            if (finalResponse.ok) {
-              const data = await finalResponse.json();
-              const products = extractProducts(data);
-
-              return new Response(JSON.stringify({
-                success: true,
-                results: products,
-                total: products.length,
-                query: query
-              }), {
-                headers: { ...corsHeaders, 'Content-Type': 'application/json' }
-              });
-            }
-          }
-        }
-
-        if (response.ok) {
-          const data = await response.json();
-          const products = extractProducts(data);
-
-          return new Response(JSON.stringify({
-            success: true,
-            results: products,
-            total: products.length,
-            query: query
-          }), {
-            headers: { ...corsHeaders, 'Content-Type': 'application/json' }
-          });
-        }
-
+        const products = await searchDigikala(query);
+        
         return new Response(JSON.stringify({
-          success: false,
-          error: 'API error: ' + response.status,
-          status: response.status
+          success: true,
+          results: products,
+          total: products.length,
+          query: query
         }), {
           headers: { ...corsHeaders, 'Content-Type': 'application/json' }
         });
@@ -111,8 +55,28 @@ export default {
   }
 };
 
-function extractProducts(data) {
-  if (!data || !data.data || !data.data.products) {
+async function searchDigikala(query) {
+  // استفاده از redirect: 'error' تا redirect رو کاملاً رد کنه
+  const response = await fetch(
+    `https://api.digikala.com/v1/search/?q=${encodeURIComponent(query)}&page=1`,
+    {
+      method: 'GET',
+      headers: {
+        'Accept': 'application/json',
+        'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15',
+        'Accept-Language': 'fa-IR,fa;q=0.9'
+      },
+      redirect: 'error'
+    }
+  );
+
+  if (!response.ok) {
+    throw new Error('API error: ' + response.status);
+  }
+
+  const data = await response.json();
+  
+  if (!data.data || !data.data.products) {
     return [];
   }
 
@@ -138,7 +102,7 @@ function extractProducts(data) {
       rating: p.rating?.rate || 0,
       reviews: p.rating?.count || 0,
       store: 'digikala',
-      storeName: 'دیجی‌کالا'
+      storeName: 'دیجیکالا'
     };
   });
 }
