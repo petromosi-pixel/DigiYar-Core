@@ -56,7 +56,7 @@ export default {
 };
 
 async function searchDigikala(query) {
-  // استفاده از redirect: 'error' تا redirect رو کاملاً رد کنه
+  // استفاده از manual و بررسی status
   const response = await fetch(
     `https://api.digikala.com/v1/search/?q=${encodeURIComponent(query)}&page=1`,
     {
@@ -66,9 +66,14 @@ async function searchDigikala(query) {
         'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15',
         'Accept-Language': 'fa-IR,fa;q=0.9'
       },
-      redirect: 'error'
+      redirect: 'manual'
     }
   );
+
+  // اگه redirect بود، خطا بده
+  if (response.status === 301 || response.status === 302 || response.status === 307 || response.status === 308) {
+    throw new Error('Redirect detected: ' + response.status);
+  }
 
   if (!response.ok) {
     throw new Error('API error: ' + response.status);
