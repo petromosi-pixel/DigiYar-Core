@@ -7,38 +7,37 @@
     <link rel="stylesheet" href="css/search.css">
 </head>
 <body>
-    <div class="smart-search-container">
-        <div class="smart-search-header">
-            <h1>🧠 هوش یار</h1>
-            <p>جستجوی هوشمند محصولات با بهترین قیمت</p>
-        </div>
-        
-        <div class="smart-search-box">
-            <input type="text" 
-                   id="smartSearchInput" 
-                   placeholder="چی می‌خوای بخری؟ مثلاً: گوشی سامسونگ..."
-                   oninput="handleSearchInput(this.value)"
-                   onkeyup="handleSearchKey(event)">
-            <button onclick="performSmartSearch()">
-                🔍 جستجو
-            </button>
-        </div>
-        
-        <div id="searchResults" class="search-results"></div>
-        
-        <div class="popular-searches">
-            <h3>🔥 جستجوهای محبوب:</h3>
-            <div class="popular-tags">
-                <button onclick="quickSearch('گوشی موبایل')">📱 گوشی</button>
-                <button onclick="quickSearch('لپ تاپ')">💻 لپ تاپ</button>
-                <button onclick="quickSearch('هدفون')">🎧 هدفون</button>
-                <button onclick="quickSearch('ساعت هوشمند')">⌚ ساعت</button>
-                <button onclick="quickSearch('کتاب')">📚 کتاب</button>
-                <button onclick="quickSearch('کفش')">👟 کفش</button>
+    <section class="smart-search-section">
+        <div class="smart-search-container">
+            <div class="smart-search-header">
+                <h2>🧠 هوش یار</h2>
+                <p>جستجوی هوشمند محصولات با بهترین قیمت</p>
+            </div>
+            
+            <div class="smart-search-box">
+                <input type="text" 
+                       id="smartSearchInput" 
+                       placeholder="چی می‌خوای بخری؟ مثلاً: گوشی سامسونگ..."
+                       oninput="handleSearchInput(this.value)"
+                       onkeyup="handleSearchKey(event)">
+                <button onclick="performSmartSearch()">🔍 جستجو</button>
+            </div>
+            
+            <div id="searchResults" class="search-results"></div>
+            
+            <div class="popular-searches">
+                <h3>🔥 جستجوهای محبوب:</h3>
+                <div class="popular-tags">
+                    <button onclick="quickSearch('گوشی موبایل')">📱 گوشی</button>
+                    <button onclick="quickSearch('لپ تاپ')">💻 لپ تاپ</button>
+                    <button onclick="quickSearch('هدفون')">🎧 هدفون</button>
+                    <button onclick="quickSearch('ساعت هوشمند')">⌚ ساعت</button>
+                    <button onclick="quickSearch('کتاب')">📚 کتاب</button>
+                    <button onclick="quickSearch('کفش')">👟 کفش</button>
+                </div>
             </div>
         </div>
-    </div>
-    
+    </section>
     <script src="js/search.js"></script>
 </body>
 </html>
