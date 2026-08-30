@@ -9,11 +9,13 @@ const affiliateConfig = {
     },
     snappshop: {
         name: "اسنپ‌شاپ",
-        affiliateLink: "https://publisher.affilio.ir/click?utm_data=64H8mevKRT-KySEyorVpdQAAAQGakeOqw3HCl3O6DlbIue4BAAAAAAAAArcBAAAAAAAAEs4BVPiXZwwFTOihY9sRNDcjJQ&utm_signature=g6NNdECCXZs5gxuqi10qFEFFR-m_0BLqtE8yntdKdnqWB9dr8vx8S5KcEff2KhsMoHYLk9FY3-Kn2-mvldhlRZhhbQ3eV8x-D-K9CVJJ8q0ek2DDy4XNOQLiMUi-UZ1g4W0F4AJHLMU6vQUzce3JJwIJmQ8UrU_RuhtX1BzG2vk&utm_term=لینک+عمومی+افیلیت+اسنپ+شاپ",
+        affiliateLink: "https://aflo.ir/YPN05dL7",
         logo: "🛍️",
         color: "#00d170"
     }
 };
+
+let searchTimeout;
 
 function searchProducts(query) {
     const resultsDiv = document.getElementById('searchResults');
@@ -22,9 +24,9 @@ function searchProducts(query) {
     const digikalaSearchUrl = `https://www.digikala.com/search/?q=${encodeURIComponent(query)}`;
     const digikalaAffiliateUrl = `${affiliateConfig.digikala.affiliateLink}?p=${encodeURIComponent(digikalaSearchUrl)}`;
     
-    // اسنپشاپ
-    const snappSearchUrl = `https://snapp.shop/search?q=${encodeURIComponent(query)}`;
-    const snappAffiliateUrl = `${affiliateConfig.snappshop.affiliateLink}&p=${encodeURIComponent(snappSearchUrl)}`;
+    // اسنپ‌شاپ
+    const snappSearchUrl = `https://snappshop.ir/?utm_source=4814&utm_medium=Affilio&utm_id=695&affid=NjMxZWFjNjAtMTIwNC00NDk1LTlmMGYtNzY0NjgxM2RhYmRh`;
+    const snappAffiliateUrl = `${affiliateConfig.snappshop.affiliateLink}?p=${encodeURIComponent(snappSearchUrl)}`;
     
     resultsDiv.innerHTML = `
         <h2 style="margin-bottom: 10px; color: #333;">
@@ -71,7 +73,7 @@ function searchProducts(query) {
         </div>
         
         <div class="search-note">
-            <p>💡 با کلیک روی هر دکمه، به صفحه جستجوی همان فروشگاه با نتایج زنده منتقل می‌شوید.</p>
+            <p>💡 با کلیک روی هر دکمه، به فروشگاه مورد نظر منتقل می‌شوید.</p>
         </div>
     `;
 }
