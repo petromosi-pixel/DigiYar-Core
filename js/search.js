@@ -20,12 +20,12 @@ let searchTimeout;
 function searchProducts(query) {
     const resultsDiv = document.getElementById('searchResults');
     
-    // دیجیکالا
+    // دیجیکالا - جستجوی دقیق
     const digikalaSearchUrl = `https://www.digikala.com/search/?q=${encodeURIComponent(query)}`;
     const digikalaAffiliateUrl = `${affiliateConfig.digikala.affiliateLink}?p=${encodeURIComponent(digikalaSearchUrl)}`;
     
-    // اسنپ‌شاپ
-    const snappSearchUrl = `https://snappshop.ir/?utm_source=4814&utm_medium=Affilio&utm_id=695&affid=NjMxZWFjNjAtMTIwNC00NDk1LTlmMGYtNzY0NjgxM2RhYmRh`;
+    // اسنپ‌شاپ - جستجوی دقیق
+    const snappSearchUrl = `https://snappshop.ir/search?q=${encodeURIComponent(query)}`;
     const snappAffiliateUrl = `${affiliateConfig.snappshop.affiliateLink}?p=${encodeURIComponent(snappSearchUrl)}`;
     
     resultsDiv.innerHTML = `
@@ -73,7 +73,7 @@ function searchProducts(query) {
         </div>
         
         <div class="search-note">
-            <p>💡 با کلیک روی هر دکمه، به فروشگاه مورد نظر منتقل می‌شوید.</p>
+            <p>💡 با کلیک روی هر دکمه، به صفحه جستجوی همان فروشگاه منتقل می‌شوید.</p>
         </div>
     `;
 }
