@@ -1,14 +1,13 @@
 /* =========================================================
-   DigiYar V4
+   DigiYar V5
    Product Retrieval Layer
-   Build 16 — proxy envelope handling
+   Live Worker + direct browser fallback + local fallback
    ========================================================= */
-
 (function () {
   "use strict";
 
   const CONFIG = {
-    proxyEndpoint: "https://digiyar-core.petromosi.workers.dev/search",
+    proxyEndpoint: "https://digiyar-v5.petromosi.workers.dev/api/search",
     digikalaSearchEndpoint: "https://api.digikala.com/v1/search/?q=",
     digikalaBaseUrl: "https://www.digikala.com",
     timeout: 8000,
@@ -69,10 +68,17 @@
     const settings = options || {};
     return {
       id: String(product.id || product.pk || product.product_id || product.code || ""),
-      name: String(resolveName(product) || ""), category: typeof product.category === "string" ? product.category : "general",
-      price: resolvePrice(product, settings.currency || "toman"), store: settings.store || "digikala",
-      productUrl: resolveProductUrl(product), affiliateUrl: product.affiliateUrl || "", image: resolveImage(product),
-      features: resolveFeatures(product), rating: product.rating || null, seller: product.seller || null, status: product.status || ""
+      name: String(resolveName(product) || ""),
+      category: typeof product.category === "string" ? product.category : "general",
+      price: resolvePrice(product, settings.currency || "toman"),
+      store: settings.store || "digikala",
+      productUrl: resolveProductUrl(product),
+      affiliateUrl: product.affiliateUrl || "",
+      image: resolveImage(product),
+      features: resolveFeatures(product),
+      rating: product.rating || null,
+      seller: product.seller || null,
+      status: product.status || ""
     };
   }
   function localSearch(query, options) {
@@ -82,36 +88,87 @@
   }
   async function fetchWithTimeout(url, timeout) {
     const controller = new AbortController(), timer = setTimeout(function () { controller.abort(); }, timeout);
-    try { const response = await fetch(url, { method: "GET", headers: { Accept: "application/json" }, signal: controller.signal }); if (!response.ok) throw new Error("HTTP " + response.status); return await response.json(); }
-    finally { clearTimeout(timer); }
+    try {
+      const response = await fetch(url, { method: "GET", headers: { Accept: "application/json" }, signal: controller.signal });
+      if (!response.ok) throw new Error("HTTP " + response.status);
+      return await response.json();
+    } finally { clearTimeout(timer); }
   }
   function unwrapProxy(data) { return data && data.data && typeof data.data === "object" ? data.data : data; }
   function extractDigikalaProducts(data) {
     const payload = unwrapProxy(data);
     if (!payload) return [];
-    const candidates = [payload.data && payload.data.products, payload.data && payload.data.items, payload.products, payload.items, payload.data && payload.data.products && payload.data.products.data, payload.data && payload.data.products && payload.data.products.items];
+    const candidates = [
+      payload.data && payload.data.products,
+      payload.data && payload.data.items,
+      payload.products,
+      payload.items,
+      payload.data && payload.data.products && payload.data.products.data,
+      payload.data && payload.data.products && payload.data.products.items
+    ];
     let products = [];
-    for (let i = 0; i < candidates.length; i++) if (Array.isArray(candidates[i])) { products = candidates[i]; break; }
-    return products.map(function (p) { return normalizeProduct(p, { currency: CONFIG.digikalaRemoteCurrency, store: "digikala" }); }).filter(function (p) { return p && p.name; }).slice(0, CONFIG.maxResults);
+    for (let i = 0; i < candidates.length; i++) {
+      if (Array.isArray(candidates[i])) { products = candidates[i]; break; }
+    }
+    return products.map(function (p) {
+      return normalizeProduct(p, { currency: CONFIG.digikalaRemoteCurrency, store: "digikala" });
+    }).filter(function (p) { return p && p.name; }).slice(0, CONFIG.maxResults);
   }
-  async function searchRemote(query) {
+  async function searchWorker(query) {
+    const normalizedQuery = normalizeText(query);
+    if (!normalizedQuery || !CONFIG.proxyEndpoint) return [];
+    try {
+      return extractDigikalaProducts(await fetchWithTimeout(CONFIG.proxyEndpoint + "?q=" + encodeURIComponent(normalizedQuery), CONFIG.timeout));
+    } catch (error) {
+      console.warn("DigiYar Product Retrieval: V5 Worker unavailable.", error);
+      return [];
+    }
+  }
+  async function searchDirectFromDigikala(query) {
     const normalizedQuery = normalizeText(query);
     if (!normalizedQuery) return [];
-    if (CONFIG.proxyEndpoint) {
-      try { const proxyResults = extractDigikalaProducts(await fetchWithTimeout(CONFIG.proxyEndpoint + "?q=" + encodeURIComponent(normalizedQuery), CONFIG.timeout)); if (proxyResults.length) return proxyResults; }
-      catch (error) { console.warn("DigiYar Product Retrieval: proxy unavailable.", error); }
+    try {
+      const data = await fetchWithTimeout(CONFIG.digikalaSearchEndpoint + encodeURIComponent(normalizedQuery) + "&page=1&size=10", CONFIG.timeout);
+      return extractDigikalaProducts(data).slice(0, 3);
+    } catch (error) {
+      console.warn("DigiYar Product Retrieval: direct Digikala API unavailable.", error);
+      return [];
     }
-    return extractDigikalaProducts(await fetchWithTimeout(CONFIG.digikalaSearchEndpoint + encodeURIComponent(normalizedQuery), CONFIG.timeout));
+  }
+  async function searchRemote(query) {
+    const workerResults = await searchWorker(query);
+    if (workerResults.length) return workerResults;
+    return await searchDirectFromDigikala(query);
   }
   async function search(query, options) {
-    const normalizedQuery = normalizeText(query); if (!normalizedQuery) return [];
+    const normalizedQuery = normalizeText(query);
+    if (!normalizedQuery) return [];
     const settings = options || {};
     if (settings.remote === false) return localSearch(normalizedQuery, settings);
-    try { const remoteResults = await searchRemote(normalizedQuery); if (remoteResults.length) return remoteResults; }
-    catch (error) { console.warn("DigiYar Product Retrieval: live source unavailable; using local fallback.", error); }
+    try {
+      const remoteResults = await searchRemote(normalizedQuery);
+      if (remoteResults.length) return remoteResults;
+    } catch (error) {
+      console.warn("DigiYar Product Retrieval: live sources unavailable; using local fallback.", error);
+    }
     return localSearch(normalizedQuery, settings);
   }
   function setProxyEndpoint(url) { CONFIG.proxyEndpoint = String(url || "").trim().replace(/\/$/, ""); return CONFIG.proxyEndpoint; }
 
-  window.DigiYarProductRetrieval = { version: "4.0.0-alpha.8", config: CONFIG, setProxyEndpoint, normalizeText, normalizeProduct, normalizePrice, resolveImage, resolveProductUrl, resolvePrice, search, searchRemote, localSearch };
+  window.DigiYarProductRetrieval = {
+    version: "5.0.0-alpha.1",
+    config: CONFIG,
+    setProxyEndpoint,
+    normalizeText,
+    normalizeProduct,
+    normalizePrice,
+    resolveImage,
+    resolveProductUrl,
+    resolvePrice,
+    search,
+    searchRemote,
+    searchWorker,
+    searchDirectFromDigikala,
+    localSearch
+  };
 })();
