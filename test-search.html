@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>تست جستجو</title>
+    <style>
+        body { font-family: Tahoma, sans-serif; max-width: 800px; margin: 50px auto; padding: 20px; }
+        input { width: 70%; padding: 10px; font-size: 16px; }
+        button { padding: 10px 20px; font-size: 16px; background: #ef4056; color: white; border: none; cursor: pointer; }
+        .product { border: 1px solid #ddd; padding: 15px; margin: 10px 0; border-radius: 10px; }
+        img { width: 100px; height: 100px; object-fit: cover; }
+    </style>
+</head>
+<body>
+    <h1>🧠 تست جستجوی زنده</h1>
+    <input type="text" id="q" placeholder="مثلاً: گوشی سامسونگ">
+    <button onclick="search()">جستجو</button>
+    <div id="result"></div>
+    <script>
+        async function search() {
+            const q = document.getElementById('q').value.trim();
+            if (!q) { alert('لطفاً نام محصول را وارد کنید'); return; }
+            document.getElementById('result').innerHTML = '<p>در حال جستجو...</p>';
+            try {
+                const response = await fetch(`https://api.digikala.com/v1/search/?q=${encodeURIComponent(q)}&page=1&size=10`);
+                console.log('Status:', response.status);
+                if (!response.ok) { document.getElementById('result').innerHTML = `<p>خطا: ${response.status}</p>`; return; }
+                const data = await response.json();
+                if (!data.data || !data.data.products || data.data.products.length === 0) { document.getElementById('result').innerHTML = '<p>نتیجه‌ای یافت نشد</p>'; return; }
+                const products = data.data.products.slice(0, 3);
+                document.getElementById('result').innerHTML = products.map((p, i) => {
+                    const price = p.default_variant?.price?.selling_price || 0;
+                    const image = p.images?.main?.url?.[0] || '';
+                    const title = p.title_fa || p.title_en || 'بدون عنوان';
+                    return `<div class="product">${image ? `<img src="${image}" alt="${title}">` : '<p>📷</p>'}<h3>${i + 1}. ${title}</h3><p>قیمت: ${price.toLocaleString('fa-IR')} تومان</p><a href="https://aflo.ir/TrvNHEN8?p=https://www.digikala.com/product/dkp-${p.id}" target="_blank" style="color:#ef4056;font-weight:bold;">🛒 مشاهده و خرید</a></div>`;
+                }).join('');
+            } catch (error) {
+                console.error('Error:', error);
+                document.getElementById('result').innerHTML = `<p>خطا: ${error.message}</p>`;
+            }
+        }
+    </script>
+</body>
+</html>
