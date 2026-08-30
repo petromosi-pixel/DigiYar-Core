@@ -32,9 +32,16 @@ export default {
 
       try {
         const products = await searchDigikala(query);
-        return new Response(JSON.stringify({ success: true, results: products, total: products.length, query }), {
+        
+        return new Response(JSON.stringify({
+          success: true,
+          results: products,
+          total: products.length,
+          query: query
+        }), {
           headers: { ...corsHeaders, 'Content-Type': 'application/json' }
         });
+
       } catch (error) {
         return new Response(JSON.stringify({ success: false, error: error.message }), {
           status: 500,
@@ -50,42 +57,41 @@ export default {
 };
 
 async function searchDigikala(query) {
-  const attempts = [
+  // استفاده از روش بدون redirect
+  const urls = [
     `https://api.digikala.com/v1/search/?q=${encodeURIComponent(query)}&page=1&size=10`,
-    `https://api.digikala.com/v2/search/?q=${encodeURIComponent(query)}&page=1&size=10`
+    `https://api.digikala.com/v2/search/?q=${encodeURIComponent(query)}&page=1&size=10`,
+    `https://www.digikala.com/search/?q=${encodeURIComponent(query)}`
   ];
 
-  for (const url of attempts) {
+  for (const url of urls) {
     try {
       const response = await fetch(url, {
         headers: {
           'Accept': 'application/json',
-          'User-Agent': 'Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36',
-          'Accept-Language': 'fa-IR,fa;q=0.9'
+          'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15',
+          'Accept-Language': 'fa'
         },
-        redirect: 'manual'
+        redirect: 'error'
       });
 
-      if (response.status === 301 || response.status === 302 || response.status === 307) {
-        const location = response.headers.get('location');
-        if (location) {
-          const finalResponse = await fetch(location, {
-            headers: { 'Accept': 'application/json', 'User-Agent': 'Mozilla/5.0' }
-          });
-          if (finalResponse.ok) {
-            const products = extractProducts(await finalResponse.json());
-            if (products.length > 0) return products;
-          }
+      if (response.ok) {
+        const text = await response.text();
+        
+        // بررسی اگه JSON هست
+        try {
+          const data = JSON.parse(text);
+          const products = extractProducts(data);
+          if (products.length > 0) return products;
+        } catch (e) {
+          // اگه HTML بود، ادامه بده
+          continue;
         }
-        continue;
       }
 
-      if (response.ok) {
-        const products = extractProducts(await response.json());
-        if (products.length > 0) return products;
-      }
     } catch (e) {
       console.error('Attempt failed:', e.message);
+      continue;
     }
   }
 
@@ -93,20 +99,25 @@ async function searchDigikala(query) {
 }
 
 function extractProducts(data) {
-  if (!data?.data?.products) return [];
+  if (!data.data || !data.data.products) return [];
+  
   return data.data.products.slice(0, 3).map(function(p) {
     let image = '';
-    if (p.images?.main?.url?.length > 0) image = p.images.main.url[0];
-
+    if (p.images && p.images.main && p.images.main.url && p.images.main.url.length > 0) {
+      image = p.images.main.url[0];
+    }
+    
     let price = 0;
-    if (p.default_variant?.price) price = p.default_variant.price.selling_price || 0;
-
+    if (p.default_variant && p.default_variant.price) {
+      price = p.default_variant.price.selling_price || 0;
+    }
+    
     return {
       id: p.id,
       title: p.title_fa || p.title_en || 'بدون عنوان',
-      price,
+      price: price,
       originalPrice: price,
-      image,
+      image: image,
       url: `https://www.digikala.com/product/dkp-${p.id}`,
       available: price > 0,
       rating: p.rating?.rate || 0,
