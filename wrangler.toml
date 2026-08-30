@@ -1,0 +1,7 @@
+name = "digiyar-v5"
+main = "worker.js"
+compatibility_date = "2026-08-28"
+
+[assets]
+directory = "./public"
+not_found_handling = "none"
