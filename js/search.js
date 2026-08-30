@@ -9,26 +9,23 @@ const affiliateConfig = {
     },
     snappshop: {
         name: "اسنپ‌شاپ",
-        affiliateLink: "https://aflo.ir/1COBTqeMV",
+        affiliateLink: "https://publisher.affilio.ir/click?utm_data=64H8mevKRT-KySEyorVpdQAAAQGakeOqw3HCl3O6DlbIue4BAAAAAAAAArcBAAAAAAAAEs4BVPiXZwwFTOihY9sRNDcjJQ&utm_signature=g6NNdECCXZs5gxuqi10qFEFFR-m_0BLqtE8yntdKdnqWB9dr8vx8S5KcEff2KhsMoHYLk9FY3-Kn2-mvldhlRZhhbQ3eV8x-D-K9CVJJ8q0ek2DDy4XNOQLiMUi-UZ1g4W0F4AJHLMU6vQUzce3JJwIJmQ8UrU_RuhtX1BzG2vk&utm_term=لینک+عمومی+افیلیت+اسنپ+شاپ",
         logo: "🛍️",
         color: "#00d170"
     }
 };
 
-let searchTimeout;
-
-// تابع جستجو
 function searchProducts(query) {
     const resultsDiv = document.getElementById('searchResults');
     
-    // ساخت لینک‌های افیلیت
+    // دیجیکالا
     const digikalaSearchUrl = `https://www.digikala.com/search/?q=${encodeURIComponent(query)}`;
     const digikalaAffiliateUrl = `${affiliateConfig.digikala.affiliateLink}?p=${encodeURIComponent(digikalaSearchUrl)}`;
     
+    // اسنپشاپ
     const snappSearchUrl = `https://snapp.shop/search?q=${encodeURIComponent(query)}`;
-    const snappAffiliateUrl = `${affiliateConfig.snappshop.affiliateLink}?p=${encodeURIComponent(snappSearchUrl)}`;
+    const snappAffiliateUrl = `${affiliateConfig.snappshop.affiliateLink}&p=${encodeURIComponent(snappSearchUrl)}`;
     
-    // نمایش نتایج
     resultsDiv.innerHTML = `
         <h2 style="margin-bottom: 10px; color: #333;">
             جستجوی "${query}"
@@ -79,7 +76,6 @@ function searchProducts(query) {
     `;
 }
 
-// نمایش لودینگ
 function showLoading() {
     document.getElementById('searchResults').innerHTML = `
         <div class="loading">
@@ -89,19 +85,16 @@ function showLoading() {
     `;
 }
 
-// مدیریت ورودی
 function handleSearchInput(query) {
     clearTimeout(searchTimeout);
     if (query.length < 3) return;
     searchTimeout = setTimeout(() => searchProducts(query), 300);
 }
 
-// مدیریت کلیدها
 function handleSearchKey(event) {
     if (event.key === 'Enter') performSmartSearch();
 }
 
-// جستجوی فوری
 function performSmartSearch() {
     const query = document.getElementById('smartSearchInput').value.trim();
     if (!query) return alert('لطفاً نام محصول را وارد کنید');
@@ -109,7 +102,6 @@ function performSmartSearch() {
     setTimeout(() => searchProducts(query), 300);
 }
 
-// جستجوی سریع
 function quickSearch(term) {
     document.getElementById('smartSearchInput').value = term;
     performSmartSearch();
