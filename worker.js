@@ -57,56 +57,139 @@ export default {
 };
 
 async function searchDigikala(query) {
-  const url = `https://api.digikala.com/v1/search/?q=${encodeURIComponent(query)}&page=1&size=10`;
+  const methods = [
+    async function() {
+      const response = await fetch(
+        `https://api.digikala.com/v1/search/?q=${encodeURIComponent(query)}&page=1&size=10`,
+        {
+          headers: {
+            'Accept': 'application/json',
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+          },
+          redirect: 'follow'
+        }
+      );
 
-  try {
-    const response = await fetch(url, {
-      headers: {
-        'Accept': 'application/json',
-        'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15',
-        'Accept-Language': 'fa'
-      },
-      redirect: 'error'
-    });
+      if (!response.ok) return [];
+      const data = await response.json();
+      return extractProducts(data);
+    },
 
-    if (!response.ok) {
-      throw new Error('API error: ' + response.status);
-    }
+    async function() {
+      const response = await fetch(
+        `https://api.digikala.com/v2/search/?q=${encodeURIComponent(query)}&page=1`,
+        {
+          headers: {
+            'Accept': 'application/json',
+            'User-Agent': 'Mozilla/5.0'
+          },
+          redirect: 'follow'
+        }
+      );
 
-    const data = await response.json();
+      if (!response.ok) return [];
+      const data = await response.json();
+      return extractProducts(data);
+    },
 
-    if (!data.data || !data.data.products) {
+    async function() {
+      const response = await fetch(
+        `https://www.digikala.com/search/?q=${encodeURIComponent(query)}`,
+        {
+          headers: {
+            'Accept': 'text/html',
+            'User-Agent': 'Mozilla/5.0'
+          }
+        }
+      );
+
+      if (!response.ok) return [];
+      const text = await response.text();
+      const match = text.match(/__NEXT_DATA__\s*=\s*({.*?})\s*<\/script>/);
+
+      if (match) {
+        const data = JSON.parse(match[1]);
+        return extractProductsFromNextData(data);
+      }
+
       return [];
     }
+  ];
 
-    return data.data.products.slice(0, 3).map(function(p) {
+  for (const method of methods) {
+    try {
+      const products = await method();
+      if (products.length > 0) return products;
+    } catch (e) {
+      console.error('Method failed:', e.message);
+    }
+  }
+
+  return [];
+}
+
+function extractProducts(data) {
+  if (!data?.data?.products || !Array.isArray(data.data.products)) return [];
+
+  return data.data.products.slice(0, 3).map(function(p) {
+    let image = '';
+    const imageUrl = p?.images?.main?.url;
+
+    if (Array.isArray(imageUrl) && imageUrl.length > 0) {
+      image = imageUrl[0];
+    } else if (typeof imageUrl === 'string') {
+      image = imageUrl;
+    }
+
+    const price = p?.default_variant?.price?.selling_price || 0;
+
+    return {
+      id: p.id,
+      title: p.title_fa || p.title_en || 'بدون عنوان',
+      price: price,
+      originalPrice: p?.default_variant?.price?.rrp_price || price,
+      image: image,
+      url: `https://www.digikala.com/product/dkp-${p.id}`,
+      available: price > 0,
+      rating: p?.rating?.rate || 0,
+      reviews: p?.rating?.count || 0,
+      store: 'digikala',
+      storeName: 'دیجی‌کالا'
+    };
+  });
+}
+
+function extractProductsFromNextData(data) {
+  try {
+    const products = data?.props?.pageProps?.data?.products || [];
+
+    return products.slice(0, 3).map(function(p) {
+      const imageUrl = p?.images?.main?.url;
       let image = '';
-      if (p.images && p.images.main && p.images.main.url && p.images.main.url.length > 0) {
-        image = p.images.main.url[0];
+
+      if (Array.isArray(imageUrl) && imageUrl.length > 0) {
+        image = imageUrl[0];
+      } else if (typeof imageUrl === 'string') {
+        image = imageUrl;
       }
 
-      let price = 0;
-      if (p.default_variant && p.default_variant.price) {
-        price = p.default_variant.price.selling_price || 0;
-      }
+      const price = p?.default_variant?.price?.selling_price || 0;
 
       return {
         id: p.id,
         title: p.title_fa || p.title_en || 'بدون عنوان',
         price: price,
-        originalPrice: price,
+        originalPrice: p?.default_variant?.price?.rrp_price || price,
         image: image,
         url: `https://www.digikala.com/product/dkp-${p.id}`,
         available: price > 0,
-        rating: p.rating?.rate || 0,
-        reviews: p.rating?.count || 0,
+        rating: p?.rating?.rate || 0,
+        reviews: p?.rating?.count || 0,
         store: 'digikala',
-        storeName: 'دیجیکالا'
+        storeName: 'دیجی‌کالا'
       };
     });
-
-  } catch (error) {
-    console.error('Search error:', error.message);
+  } catch (e) {
     return [];
   }
 }
