@@ -4,7 +4,8 @@
   "description": "Smart product search with affiliate links",
   "scripts": {
     "dev": "vercel dev",
-    "deploy": "vercel deploy --prod"
+    "deploy": "vercel deploy --prod",
+    "test:v5.1": "node tests/v5.1-health.test.mjs"
   },
   "dependencies": {
     "@vercel/node": "^2.0.0"
