@@ -1,0 +1,19 @@
+{
+  "version":"5.1",
+  "maxProductsPerCategory":500,
+  "categories":[
+    {"id":"mobile","name":"موبایل و تبلت","file":"data/catalog/mobile.json"},
+    {"id":"laptop-computer","name":"لپ تاپ، کامپیوتر و اداری","file":"data/catalog/laptop-computer.json"},
+    {"id":"home-appliances","name":"لوازم خانگی","file":"data/catalog/home-appliances.json"},
+    {"id":"digital","name":"کالای دیجیتال و لوازم جانبی","file":"data/catalog/digital.json"},
+    {"id":"audio-video","name":"صوتی و تصویری","file":"data/catalog/audio-video.json"},
+    {"id":"fashion","name":"مد و پوشاک","file":"data/catalog/fashion.json"},
+    {"id":"beauty-health","name":"زیبایی، بهداشت و سلامت","file":"data/catalog/beauty-health.json"},
+    {"id":"supermarket","name":"سوپرمارکت و خوراکی","file":"data/catalog/supermarket.json"},
+    {"id":"sports-travel","name":"ورزش و سفر","file":"data/catalog/sports-travel.json"},
+    {"id":"tools-industrial","name":"ابزار و تجهیزات صنعتی","file":"data/catalog/tools-industrial.json"},
+    {"id":"books-stationery","name":"کتاب، لوازم تحریر و هنر","file":"data/catalog/books-stationery.json"},
+    {"id":"kids-toys","name":"اسباب بازی، کودک و نوزاد","file":"data/catalog/kids-toys.json"},
+    {"id":"auto","name":"خودرو و موتورسیکلت","file":"data/catalog/auto.json"}
+  ]
+}
