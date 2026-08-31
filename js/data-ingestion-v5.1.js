@@ -2,6 +2,7 @@
 // Source-agnostic: adapters supply product/offer observations; engine normalizes,
 // validates freshness, merges products and updates availability/price without
 // fabricating market data.
+// Deployment trigger: V5 Worker ingestion route verification.
 
 export const MAX_PRODUCTS_PER_CATEGORY=500;
 export const SOURCE_TTL_MS=6*60*60*1000;
