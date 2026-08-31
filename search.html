@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>هوش یار - جستجوی هوشمند</title>
+    <title>هوش یار - جستجوی داخلی دیجی‌یار</title>
     <link rel="stylesheet" href="css/search.css">
 </head>
 <body>
@@ -11,20 +11,13 @@
         <div class="smart-search-container">
             <div class="smart-search-header">
                 <h2>🧠 هوش یار</h2>
-                <p>جستجوی هوشمند محصولات با بهترین قیمت</p>
+                <p>جستجوی هوشمند محصولات در پایگاه داخلی دیجی‌یار</p>
             </div>
-            
             <div class="smart-search-box">
-                <input type="text" 
-                       id="smartSearchInput" 
-                       placeholder="چی می‌خوای بخری؟ مثلاً: گوشی سامسونگ..."
-                       oninput="handleSearchInput(this.value)"
-                       onkeyup="handleSearchKey(event)">
+                <input type="text" id="smartSearchInput" placeholder="چی می‌خوای بخری؟ مثلاً: گوشی سامسونگ..." oninput="handleSearchInput(this.value)" onkeyup="handleSearchKey(event)">
                 <button onclick="performSmartSearch()">🔍 جستجو</button>
             </div>
-            
             <div id="searchResults" class="search-results"></div>
-            
             <div class="popular-searches">
                 <h3>🔥 جستجوهای محبوب:</h3>
                 <div class="popular-tags">
@@ -38,6 +31,7 @@
             </div>
         </div>
     </section>
+    <script src="js/digiyar-product-index.js"></script>
     <script src="js/search.js"></script>
 </body>
 </html>
