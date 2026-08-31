@@ -1,0 +1,41 @@
+name: DigiYar V5.1 Catalog Ingestion
+
+on:
+  push:
+    branches: [v5]
+    paths-ignore:
+      - 'data/catalog/**'
+      - 'js/*-product-index-v5.1.js'
+      - 'js/product-index-generated-v5.1.js'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  ingest-catalog:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout v5
+        uses: actions/checkout@v4
+        with:
+          ref: v5
+          fetch-depth: 1
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Build web catalogs
+        run: node scripts/catalog-ingest-v5.1.mjs
+
+      - name: Commit generated catalogs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/catalog js/*-product-index-v5.1.js js/product-index-generated-v5.1.js
+          git diff --cached --quiet && exit 0
+          git commit -m "data(v5.1): refresh mobile and laptop product catalogs"
+          git push origin v5
