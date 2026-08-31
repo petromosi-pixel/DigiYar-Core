@@ -14,7 +14,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.317Z"
+    "observedAt": "2026-08-31T22:31:45.075Z"
   },
   {
     "id": "web-mobile-13992d92c945a3cc",
@@ -30,7 +30,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.318Z"
+    "observedAt": "2026-08-31T22:31:45.075Z"
   },
   {
     "id": "web-mobile-780f91dd4105af59",
@@ -46,7 +46,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.318Z"
+    "observedAt": "2026-08-31T22:31:45.076Z"
   },
   {
     "id": "web-mobile-25b1953482f093ca",
@@ -62,7 +62,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.318Z"
+    "observedAt": "2026-08-31T22:31:45.076Z"
   },
   {
     "id": "web-mobile-a489143c03de23b7",
@@ -78,7 +78,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.318Z"
+    "observedAt": "2026-08-31T22:31:45.076Z"
   },
   {
     "id": "web-mobile-4f722fec7469dce7",
@@ -94,7 +94,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.318Z"
+    "observedAt": "2026-08-31T22:31:45.077Z"
   },
   {
     "id": "web-mobile-4052069ff3093f19",
@@ -110,7 +110,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.318Z"
+    "observedAt": "2026-08-31T22:31:45.077Z"
   },
   {
     "id": "web-mobile-84a692bdecd5d9dc",
@@ -126,7 +126,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.318Z"
+    "observedAt": "2026-08-31T22:31:45.077Z"
   },
   {
     "id": "web-mobile-7dd4e0dc1cb7cde3",
@@ -142,7 +142,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.318Z"
+    "observedAt": "2026-08-31T22:31:45.078Z"
   },
   {
     "id": "web-mobile-7fd7cdf8b555694c",
@@ -158,7 +158,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.318Z"
+    "observedAt": "2026-08-31T22:31:45.078Z"
   },
   {
     "id": "web-mobile-6ecf98fd018e431e",
@@ -174,7 +174,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.319Z"
+    "observedAt": "2026-08-31T22:31:45.078Z"
   },
   {
     "id": "web-mobile-bd398e36e9f5159a",
@@ -190,7 +190,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.319Z"
+    "observedAt": "2026-08-31T22:31:45.078Z"
   },
   {
     "id": "web-mobile-84057a25ee94111b",
@@ -206,7 +206,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.319Z"
+    "observedAt": "2026-08-31T22:31:45.078Z"
   },
   {
     "id": "web-mobile-3ccae5a4e3222368",
@@ -222,7 +222,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.319Z"
+    "observedAt": "2026-08-31T22:31:45.079Z"
   },
   {
     "id": "web-mobile-f6f50135d4f3e8e3",
@@ -238,7 +238,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.319Z"
+    "observedAt": "2026-08-31T22:31:45.079Z"
   },
   {
     "id": "web-mobile-e4ca5fdfb7fce775",
@@ -254,7 +254,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.319Z"
+    "observedAt": "2026-08-31T22:31:45.079Z"
   },
   {
     "id": "web-mobile-2d3e09123882061e",
@@ -270,7 +270,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.319Z"
+    "observedAt": "2026-08-31T22:31:45.079Z"
   },
   {
     "id": "web-mobile-64c4a245724d320a",
@@ -286,7 +286,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.319Z"
+    "observedAt": "2026-08-31T22:31:45.079Z"
   },
   {
     "id": "web-mobile-5e7f430a37ad7c71",
@@ -302,7 +302,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.319Z"
+    "observedAt": "2026-08-31T22:31:45.080Z"
   },
   {
     "id": "web-mobile-408400f8843525f9",
@@ -318,7 +318,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.319Z"
+    "observedAt": "2026-08-31T22:31:45.080Z"
   },
   {
     "id": "web-mobile-9bf0f7624053e3a4",
@@ -334,7 +334,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.319Z"
+    "observedAt": "2026-08-31T22:31:45.080Z"
   },
   {
     "id": "web-mobile-0026d2c2934cfc4e",
@@ -350,7 +350,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.319Z"
+    "observedAt": "2026-08-31T22:31:45.080Z"
   },
   {
     "id": "web-mobile-538057dfb89f97da",
@@ -366,7 +366,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.319Z"
+    "observedAt": "2026-08-31T22:31:45.080Z"
   },
   {
     "id": "web-mobile-43ddc9f0610ea9af",
@@ -382,7 +382,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.319Z"
+    "observedAt": "2026-08-31T22:31:45.080Z"
   },
   {
     "id": "web-mobile-e27b7cc9346e2d08",
@@ -398,7 +398,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.319Z"
+    "observedAt": "2026-08-31T22:31:45.081Z"
   },
   {
     "id": "web-mobile-19711fa2673174ac",
@@ -414,7 +414,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.319Z"
+    "observedAt": "2026-08-31T22:31:45.081Z"
   },
   {
     "id": "web-mobile-71fa0dd77134c4de",
@@ -430,7 +430,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.319Z"
+    "observedAt": "2026-08-31T22:31:45.081Z"
   },
   {
     "id": "web-mobile-ecdd00048f65eec5",
@@ -446,7 +446,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.320Z"
+    "observedAt": "2026-08-31T22:31:45.082Z"
   },
   {
     "id": "web-mobile-5a533d496d705583",
@@ -462,7 +462,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.320Z"
+    "observedAt": "2026-08-31T22:31:45.082Z"
   },
   {
     "id": "web-mobile-d2a05191d88daae0",
@@ -478,7 +478,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.321Z"
+    "observedAt": "2026-08-31T22:31:45.084Z"
   },
   {
     "id": "web-mobile-a65d511c4af377fe",
@@ -494,7 +494,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.321Z"
+    "observedAt": "2026-08-31T22:31:45.084Z"
   },
   {
     "id": "web-mobile-4a5d08eed91a6e42",
@@ -510,7 +510,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.321Z"
+    "observedAt": "2026-08-31T22:31:45.084Z"
   },
   {
     "id": "web-mobile-6d48134b1885bfc7",
@@ -526,7 +526,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.321Z"
+    "observedAt": "2026-08-31T22:31:45.085Z"
   },
   {
     "id": "web-mobile-28e95a592713f822",
@@ -542,7 +542,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.321Z"
+    "observedAt": "2026-08-31T22:31:45.085Z"
   },
   {
     "id": "web-mobile-2707da138d2c79d3",
@@ -558,7 +558,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.321Z"
+    "observedAt": "2026-08-31T22:31:45.085Z"
   },
   {
     "id": "web-mobile-87ebb1ca6378a710",
@@ -574,7 +574,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.321Z"
+    "observedAt": "2026-08-31T22:31:45.086Z"
   },
   {
     "id": "web-mobile-6588e1ee788cc10c",
@@ -590,7 +590,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.321Z"
+    "observedAt": "2026-08-31T22:31:45.086Z"
   },
   {
     "id": "web-mobile-dc0c5f8a23f05fe5",
@@ -606,7 +606,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.321Z"
+    "observedAt": "2026-08-31T22:31:45.087Z"
   },
   {
     "id": "web-mobile-7a60a1525049772a",
@@ -622,7 +622,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.321Z"
+    "observedAt": "2026-08-31T22:31:45.087Z"
   },
   {
     "id": "web-mobile-71147f0397e56106",
@@ -638,7 +638,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.321Z"
+    "observedAt": "2026-08-31T22:31:45.087Z"
   },
   {
     "id": "web-mobile-5c883b7ce8d82540",
@@ -654,7 +654,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.322Z"
+    "observedAt": "2026-08-31T22:31:45.087Z"
   },
   {
     "id": "web-mobile-3d4b745e87f64f66",
@@ -670,7 +670,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.322Z"
+    "observedAt": "2026-08-31T22:31:45.088Z"
   },
   {
     "id": "web-mobile-8d5a84d79a333ced",
@@ -686,7 +686,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.322Z"
+    "observedAt": "2026-08-31T22:31:45.088Z"
   },
   {
     "id": "web-mobile-a682f91647473ae9",
@@ -702,7 +702,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.322Z"
+    "observedAt": "2026-08-31T22:31:45.088Z"
   },
   {
     "id": "web-mobile-17bdc327674873a8",
@@ -718,7 +718,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.322Z"
+    "observedAt": "2026-08-31T22:31:45.088Z"
   },
   {
     "id": "web-mobile-9c9fd9d00575924f",
@@ -734,7 +734,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.322Z"
+    "observedAt": "2026-08-31T22:31:45.088Z"
   },
   {
     "id": "web-mobile-bc58dc86fa5d6933",
@@ -750,7 +750,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.322Z"
+    "observedAt": "2026-08-31T22:31:45.088Z"
   },
   {
     "id": "web-mobile-d19a27c1b5f15cff",
@@ -766,7 +766,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.322Z"
+    "observedAt": "2026-08-31T22:31:45.089Z"
   },
   {
     "id": "web-mobile-1e4e1bc3b083e716",
@@ -782,7 +782,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.322Z"
+    "observedAt": "2026-08-31T22:31:45.089Z"
   },
   {
     "id": "web-mobile-29adbe97235c5dbe",
@@ -798,7 +798,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.322Z"
+    "observedAt": "2026-08-31T22:31:45.089Z"
   },
   {
     "id": "web-mobile-0564ce149bb4d0d4",
@@ -814,7 +814,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.322Z"
+    "observedAt": "2026-08-31T22:31:45.089Z"
   },
   {
     "id": "web-mobile-343c6e484774f027",
@@ -830,7 +830,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.322Z"
+    "observedAt": "2026-08-31T22:31:45.089Z"
   },
   {
     "id": "web-mobile-53018be997139f5a",
@@ -846,7 +846,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.322Z"
+    "observedAt": "2026-08-31T22:31:45.089Z"
   },
   {
     "id": "web-mobile-faa5b066ac22b612",
@@ -862,7 +862,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.323Z"
+    "observedAt": "2026-08-31T22:31:45.091Z"
   },
   {
     "id": "web-mobile-8b96e0d4409b9fa1",
@@ -878,7 +878,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.323Z"
+    "observedAt": "2026-08-31T22:31:45.093Z"
   },
   {
     "id": "web-mobile-46fa0d1f3d29d6cc",
@@ -894,7 +894,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.324Z"
+    "observedAt": "2026-08-31T22:31:45.094Z"
   },
   {
     "id": "web-mobile-af8dea85eb29c980",
@@ -910,7 +910,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.324Z"
+    "observedAt": "2026-08-31T22:31:45.095Z"
   },
   {
     "id": "web-mobile-29d3b967ae6c2438",
@@ -926,7 +926,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.324Z"
+    "observedAt": "2026-08-31T22:31:45.095Z"
   },
   {
     "id": "web-mobile-bffa0ca05e8fd5af",
@@ -942,7 +942,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.324Z"
+    "observedAt": "2026-08-31T22:31:45.095Z"
   },
   {
     "id": "web-mobile-2805ca4467e2a869",
@@ -958,7 +958,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.324Z"
+    "observedAt": "2026-08-31T22:31:45.095Z"
   },
   {
     "id": "web-mobile-f914b9c66b3d05c6",
@@ -974,7 +974,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.325Z"
+    "observedAt": "2026-08-31T22:31:45.097Z"
   },
   {
     "id": "web-mobile-7d3ed426efa189a9",
@@ -990,7 +990,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.326Z"
+    "observedAt": "2026-08-31T22:31:45.098Z"
   },
   {
     "id": "web-mobile-3a59d18699902df1",
@@ -1006,7 +1006,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.326Z"
+    "observedAt": "2026-08-31T22:31:45.098Z"
   },
   {
     "id": "web-mobile-005fdbbb4e0042a5",
@@ -1022,7 +1022,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.326Z"
+    "observedAt": "2026-08-31T22:31:45.099Z"
   },
   {
     "id": "web-mobile-f06e87c50a07e6c5",
@@ -1038,7 +1038,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.327Z"
+    "observedAt": "2026-08-31T22:31:45.100Z"
   },
   {
     "id": "web-mobile-6d7e8792ab6d5d4b",
@@ -1054,7 +1054,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.327Z"
+    "observedAt": "2026-08-31T22:31:45.102Z"
   },
   {
     "id": "web-mobile-3772570ed18659af",
@@ -1070,7 +1070,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.327Z"
+    "observedAt": "2026-08-31T22:31:45.102Z"
   },
   {
     "id": "web-mobile-334db9565efd3f2c",
@@ -1086,7 +1086,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.327Z"
+    "observedAt": "2026-08-31T22:31:45.102Z"
   },
   {
     "id": "web-mobile-1606242d82149c99",
@@ -1102,7 +1102,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.327Z"
+    "observedAt": "2026-08-31T22:31:45.102Z"
   },
   {
     "id": "web-mobile-6af6e8401f6d880c",
@@ -1118,7 +1118,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.327Z"
+    "observedAt": "2026-08-31T22:31:45.102Z"
   },
   {
     "id": "web-mobile-b1790e2c32cdf2ce",
@@ -1134,7 +1134,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.327Z"
+    "observedAt": "2026-08-31T22:31:45.102Z"
   },
   {
     "id": "web-mobile-3f79a36d3cad4564",
@@ -1150,7 +1150,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.328Z"
+    "observedAt": "2026-08-31T22:31:45.102Z"
   },
   {
     "id": "web-mobile-758184b80b94b114",
@@ -1166,7 +1166,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.328Z"
+    "observedAt": "2026-08-31T22:31:45.104Z"
   },
   {
     "id": "web-mobile-f5fe70e7a2fc88ff",
@@ -1182,7 +1182,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.329Z"
+    "observedAt": "2026-08-31T22:31:45.104Z"
   },
   {
     "id": "web-mobile-3657a26a277e2a57",
@@ -1198,7 +1198,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.329Z"
+    "observedAt": "2026-08-31T22:31:45.104Z"
   },
   {
     "id": "web-mobile-bbb538061adc7f06",
@@ -1214,7 +1214,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.329Z"
+    "observedAt": "2026-08-31T22:31:45.104Z"
   },
   {
     "id": "web-mobile-cbe9e3fcc33531dd",
@@ -1230,7 +1230,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.329Z"
+    "observedAt": "2026-08-31T22:31:45.104Z"
   },
   {
     "id": "web-mobile-990bef63d6e7b0bc",
@@ -1246,7 +1246,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.329Z"
+    "observedAt": "2026-08-31T22:31:45.104Z"
   },
   {
     "id": "web-mobile-3d875f6dfe205f1c",
@@ -1262,7 +1262,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.329Z"
+    "observedAt": "2026-08-31T22:31:45.105Z"
   },
   {
     "id": "web-mobile-60d4b1cd6a3a02dd",
@@ -1278,7 +1278,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.330Z"
+    "observedAt": "2026-08-31T22:31:45.105Z"
   },
   {
     "id": "web-mobile-75bc80b5c6d04814",
@@ -1294,7 +1294,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.330Z"
+    "observedAt": "2026-08-31T22:31:45.105Z"
   },
   {
     "id": "web-mobile-d6e94196d75119f2",
@@ -1310,7 +1310,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.750Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-dc2da4675090301e",
@@ -1326,7 +1326,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.750Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-47a4bf99ec690cde",
@@ -1342,7 +1342,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.750Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-98fb24f98ad1e8ee",
@@ -1358,7 +1358,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.750Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-f28f8a2fb5e6ab83",
@@ -1374,7 +1374,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.750Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-c1a27f5477def1d1",
@@ -1390,7 +1390,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.750Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-daff285cb6795d3c",
@@ -1406,7 +1406,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.750Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-1fe5cd6a2bd7cf1c",
@@ -1422,7 +1422,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.750Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-a93ee12f2a84c73e",
@@ -1438,7 +1438,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.750Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-d705ab8b6e4ebfcc",
@@ -1454,7 +1454,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.750Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-951caf83db5563a0",
@@ -1470,7 +1470,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.750Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-c88e8df7525ddc04",
@@ -1486,7 +1486,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.750Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-6f0b6b7198341504",
@@ -1502,7 +1502,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.750Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-419c1e5d6880d6a8",
@@ -1518,7 +1518,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.750Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-583d30762bc06070",
@@ -1534,7 +1534,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.750Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-ad3f0e7eb9194545",
@@ -1550,7 +1550,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.750Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-62a935f9545431f3",
@@ -1566,7 +1566,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.750Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-8edaad25ab114efc",
@@ -1582,7 +1582,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.750Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-34af5338aaf0b14f",
@@ -1598,7 +1598,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-81a3cfaf07729276",
@@ -1614,7 +1614,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-220a96b3d20fde16",
@@ -1630,7 +1630,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-5b7baa7b30323484",
@@ -1646,7 +1646,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-99eb7cfefebea4e5",
@@ -1662,7 +1662,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-f73ce79e3b2e5156",
@@ -1678,7 +1678,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-760097705a007369",
@@ -1694,7 +1694,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-37e444ead0b33b2b",
@@ -1710,7 +1710,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-2766abafd36825a4",
@@ -1726,7 +1726,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-36e66101b9d11991",
@@ -1742,7 +1742,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-720b6a4604d461df",
@@ -1758,7 +1758,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-c79da22833b83868",
@@ -1774,7 +1774,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-fa0953ea33e79399",
@@ -1790,7 +1790,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-3f2161aeab3baf6b",
@@ -1806,7 +1806,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-fa602a708780b8be",
@@ -1822,7 +1822,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-20a209c677814dda",
@@ -1838,7 +1838,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-070ed70aeb203eca",
@@ -1854,7 +1854,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-f368fa59e12f287a",
@@ -1870,7 +1870,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-4e5119b7b79b60a5",
@@ -1886,7 +1886,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-a55b26a57c95779b",
@@ -1902,7 +1902,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-ecd1b932c16852aa",
@@ -1918,7 +1918,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-96563c7d7223f28b",
@@ -1934,7 +1934,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-999349dc89e4db9f",
@@ -1950,7 +1950,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-79804d309a4c9cbb",
@@ -1966,7 +1966,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-df1a4bb57f509c8a",
@@ -1982,7 +1982,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-8dce6f9be7a4aa0e",
@@ -1998,7 +1998,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-4ed431e5c8bd4ca4",
@@ -2014,7 +2014,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-e8cb7c3b9082fd44",
@@ -2030,7 +2030,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-96353d55fd75b7ae",
@@ -2046,7 +2046,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-33cbb86c4ec1aa5c",
@@ -2062,7 +2062,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-3db4366eac360c5e",
@@ -2078,7 +2078,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-413118fc4f736a0c",
@@ -2094,7 +2094,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-6ba9c41fa68d38ec",
@@ -2110,7 +2110,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-76e352a5813b3ca7",
@@ -2126,7 +2126,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-3378e21ead9aa4b7",
@@ -2142,7 +2142,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-9fb11a3461ca464c",
@@ -2158,7 +2158,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-c5a391ec5449c32b",
@@ -2174,7 +2174,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-bb0d04c60ced4a6b",
@@ -2190,7 +2190,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-0e677e4e05d39499",
@@ -2206,7 +2206,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-d66dee94ff270432",
@@ -2222,7 +2222,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-09c3c2795f9041b7",
@@ -2238,7 +2238,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-85a31972165bf7c4",
@@ -2254,7 +2254,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-2a8dcae7daf7281d",
@@ -2270,7 +2270,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-049d5f96017b071d",
@@ -2286,7 +2286,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-2fc592b5957fa549",
@@ -2302,7 +2302,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-4376660a2c01f499",
@@ -2318,7 +2318,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-435f3a5aff0bd46c",
@@ -2334,7 +2334,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-55ecf22c1e661ffb",
@@ -2350,7 +2350,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-0544af51c64d155d",
@@ -2366,7 +2366,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-6116e7ac90495a09",
@@ -2382,7 +2382,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-49349d462e9d302c",
@@ -2398,7 +2398,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-fbe1cf370108c2bb",
@@ -2414,7 +2414,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-5ab616d64faa5e4d",
@@ -2430,7 +2430,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-bfa6c473bcb41614",
@@ -2446,7 +2446,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-d29fa18c31dd505e",
@@ -2462,7 +2462,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-31795d31500a24fe",
@@ -2478,7 +2478,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-182cf2a6dd8445fd",
@@ -2494,7 +2494,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-d814a41549c0ff75",
@@ -2510,7 +2510,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-bb22bc181f1d68a9",
@@ -2526,7 +2526,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-199e97dd6754fe61",
@@ -2542,7 +2542,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-6c627a972e8da0a5",
@@ -2558,7 +2558,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-6ef3e2232005d822",
@@ -2574,7 +2574,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-210063150cac8e79",
@@ -2590,7 +2590,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-c202b3d79ec28469",
@@ -2606,7 +2606,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-7fd3e0a188158e66",
@@ -2622,7 +2622,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-d9fd22d02915b3a1",
@@ -2638,7 +2638,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-85015828ffbe6a89",
@@ -2654,7 +2654,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-33288d2cb6677b57",
@@ -2670,7 +2670,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-86565cb78279d9f5",
@@ -2686,7 +2686,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-a731c2b0109ab798",
@@ -2702,7 +2702,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-0e49e0fe5b34dc2e",
@@ -2718,7 +2718,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-6c639f5ad715ba20",
@@ -2734,7 +2734,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-c4f82ef311d37eb6",
@@ -2750,7 +2750,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-38d3cba72f55ae5e",
@@ -2766,7 +2766,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-11f57a261a7601f9",
@@ -2782,7 +2782,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-03141ef25a240e77",
@@ -2798,7 +2798,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-c8c7600b334500f6",
@@ -2814,7 +2814,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-fa58e8242ce2aa1d",
@@ -2830,7 +2830,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-7215913030cd5418",
@@ -2846,7 +2846,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-46e1a1323aed1a9a",
@@ -2862,7 +2862,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-2c4d16c584357cef",
@@ -2878,7 +2878,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-a8d0c49ab9120bb6",
@@ -2894,7 +2894,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-a91d13b4226fafa5",
@@ -2910,7 +2910,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-afaf245d62909595",
@@ -2926,7 +2926,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-c9739b68c5b578e8",
@@ -2942,7 +2942,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-278c72bfb401b8d7",
@@ -2958,7 +2958,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-68a3e816cd375738",
@@ -2974,7 +2974,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-67af44777b2018a2",
@@ -2990,7 +2990,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-656a48148df8260b",
@@ -3006,7 +3006,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-e610895a08af9bec",
@@ -3022,7 +3022,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-cc872f69c435112f",
@@ -3038,7 +3038,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-cc8317e32b7e9c0c",
@@ -3054,7 +3054,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-d7142bd905b19956",
@@ -3070,7 +3070,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-68d1a916e6dcca06",
@@ -3086,7 +3086,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-69bf2b687a3f96de",
@@ -3102,7 +3102,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-706ef9e2a64afac2",
@@ -3118,7 +3118,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-9e591ec0ffaee2e7",
@@ -3134,7 +3134,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-8b85f44e12b7c0f0",
@@ -3150,7 +3150,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-a012b4866647060f",
@@ -3166,7 +3166,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-253035d9ccec65cf",
@@ -3182,7 +3182,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-dea138bc29b7ad4e",
@@ -3198,7 +3198,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-4fd3b6457d87c9bf",
@@ -3214,7 +3214,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-c78f642e9c31dde5",
@@ -3230,7 +3230,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-deaa1c71e80302b1",
@@ -3246,7 +3246,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-f4d1fb4573dbbc46",
@@ -3262,7 +3262,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-895debfc3641b5fe",
@@ -3278,7 +3278,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-a08629d7b5c7914b",
@@ -3294,7 +3294,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-275896d8bf6fe9da",
@@ -3310,7 +3310,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-e4938103ddec92a0",
@@ -3326,7 +3326,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-1848c45045fd6e7d",
@@ -3342,7 +3342,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-bcd898764f8f79e5",
@@ -3358,7 +3358,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-afe324c515ec0b50",
@@ -3374,7 +3374,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-7b847fb1c997b8be",
@@ -3390,7 +3390,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-624a7a2efdb96830",
@@ -3406,7 +3406,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-88ae21fbc8fc17b2",
@@ -3422,7 +3422,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-160cd4f597260b48",
@@ -3438,7 +3438,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-df6ab139ea7573f8",
@@ -3454,7 +3454,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-8f47a967fde9ad13",
@@ -3470,7 +3470,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-9daabe17765030d3",
@@ -3486,7 +3486,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-9f7c735b3bb647e2",
@@ -3502,7 +3502,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-ce24923c7bb3158a",
@@ -3518,7 +3518,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-03130403fd6c2781",
@@ -3534,7 +3534,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-64af5163492282e7",
@@ -3550,7 +3550,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-2fcdd54c75ad77f2",
@@ -3566,7 +3566,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-63edb05b9f11de45",
@@ -3582,7 +3582,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-b4650869d285abd0",
@@ -3598,7 +3598,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-f5c836495c0358ad",
@@ -3614,7 +3614,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-f613c8df1dc5390a",
@@ -3630,7 +3630,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-10ed5044ac0e10d1",
@@ -3646,7 +3646,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-0bf41687d06bb3f2",
@@ -3662,7 +3662,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.418Z"
   },
   {
     "id": "web-mobile-b7187056b1405e13",
@@ -3678,7 +3678,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.418Z"
   },
   {
     "id": "web-mobile-215e3d55173b65ff",
@@ -3694,7 +3694,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.418Z"
   },
   {
     "id": "web-mobile-e5bedde7fee935ba",
@@ -3710,7 +3710,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.418Z"
   },
   {
     "id": "web-mobile-aab38913ca0b2e22",
@@ -3726,7 +3726,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.418Z"
   },
   {
     "id": "web-mobile-2e227c37cb0b25ae",
@@ -3742,7 +3742,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.418Z"
   },
   {
     "id": "web-mobile-e6f525d58886324b",
@@ -3758,7 +3758,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.418Z"
   },
   {
     "id": "web-mobile-35b93010114879e0",
@@ -3774,7 +3774,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.418Z"
   },
   {
     "id": "web-mobile-ada592d0b05c2ee4",
@@ -3790,7 +3790,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.418Z"
   },
   {
     "id": "web-mobile-53d47abc4e3de14e",
@@ -3806,7 +3806,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.418Z"
   },
   {
     "id": "web-mobile-91e74e80ee2605dc",
@@ -3822,7 +3822,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.418Z"
   },
   {
     "id": "web-mobile-8bc484c45c54c8af",
@@ -3838,7 +3838,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.418Z"
   },
   {
     "id": "web-mobile-6ca27cd40da2f4be",
@@ -3854,7 +3854,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.418Z"
   },
   {
     "id": "web-mobile-ff1f5e99486b30ec",
@@ -3870,7 +3870,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.418Z"
   },
   {
     "id": "web-mobile-477565f53b10c708",
@@ -3886,7 +3886,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.753Z"
+    "observedAt": "2026-08-31T22:31:50.418Z"
   },
   {
     "id": "web-mobile-5618b8f990510e1c",
@@ -3902,7 +3902,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.753Z"
+    "observedAt": "2026-08-31T22:31:50.418Z"
   },
   {
     "id": "web-mobile-1a3b56d15da8bcad",
@@ -3918,7 +3918,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:09.933Z"
+    "observedAt": "2026-08-31T22:31:54.874Z"
   },
   {
     "id": "web-mobile-5d98ef7ed0e84f22",
@@ -3934,7 +3934,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:09.937Z"
+    "observedAt": "2026-08-31T22:31:54.875Z"
   },
   {
     "id": "web-mobile-691a9e47b7ca30db",
@@ -3950,7 +3950,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:09.937Z"
+    "observedAt": "2026-08-31T22:31:54.875Z"
   },
   {
     "id": "web-mobile-48c19ad9413c939d",
@@ -3966,7 +3966,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:09.937Z"
+    "observedAt": "2026-08-31T22:31:54.875Z"
   },
   {
     "id": "web-mobile-ced993e1747ed64b",
@@ -3982,7 +3982,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:09.937Z"
+    "observedAt": "2026-08-31T22:31:54.875Z"
   },
   {
     "id": "web-mobile-c86445d320af8212",
@@ -3998,7 +3998,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:09.937Z"
+    "observedAt": "2026-08-31T22:31:54.875Z"
   },
   {
     "id": "web-mobile-583dbcd64a61f540",
@@ -4014,7 +4014,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:09.937Z"
+    "observedAt": "2026-08-31T22:31:54.875Z"
   },
   {
     "id": "web-mobile-059a88d2aab6638e",
@@ -4030,7 +4030,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:09.937Z"
+    "observedAt": "2026-08-31T22:31:54.876Z"
   },
   {
     "id": "web-mobile-b0106823239d4842",
@@ -4046,7 +4046,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:09.937Z"
+    "observedAt": "2026-08-31T22:31:54.876Z"
   },
   {
     "id": "web-mobile-c63ac2ce6f999f26",
@@ -4062,7 +4062,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:09.937Z"
+    "observedAt": "2026-08-31T22:31:54.876Z"
   },
   {
     "id": "web-mobile-3d4aa43885355e00",
@@ -4078,7 +4078,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:09.937Z"
+    "observedAt": "2026-08-31T22:31:54.876Z"
   },
   {
     "id": "web-mobile-d91e5d69c8fffa03",
@@ -4094,7 +4094,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:09.937Z"
+    "observedAt": "2026-08-31T22:31:54.876Z"
   },
   {
     "id": "web-mobile-04c6c3292a1fe74c",
@@ -4110,7 +4110,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:09.937Z"
+    "observedAt": "2026-08-31T22:31:54.876Z"
   },
   {
     "id": "web-mobile-925148ae0c9738b2",
@@ -4126,7 +4126,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:09.937Z"
+    "observedAt": "2026-08-31T22:31:54.876Z"
   },
   {
     "id": "web-mobile-adb62c5d6cd35d6c",
@@ -4142,7 +4142,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:09.937Z"
+    "observedAt": "2026-08-31T22:31:54.876Z"
   },
   {
     "id": "web-mobile-254de582b7867d50",
@@ -4158,7 +4158,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:09.937Z"
+    "observedAt": "2026-08-31T22:31:54.876Z"
   },
   {
     "id": "web-mobile-e7a80e5ceef17aac",
@@ -4174,7 +4174,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:09.937Z"
+    "observedAt": "2026-08-31T22:31:54.876Z"
   },
   {
     "id": "web-mobile-2cb536dc7eda625f",
@@ -4190,7 +4190,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:09.937Z"
+    "observedAt": "2026-08-31T22:31:54.876Z"
   },
   {
     "id": "web-mobile-47d900cab32567da",
@@ -4206,7 +4206,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:09.937Z"
+    "observedAt": "2026-08-31T22:31:54.876Z"
   },
   {
     "id": "web-mobile-989fd9b537503f34",
@@ -4222,7 +4222,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:09.937Z"
+    "observedAt": "2026-08-31T22:31:54.876Z"
   },
   {
     "id": "web-mobile-e0ebaa93564bbf3d",
@@ -4238,7 +4238,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:09.937Z"
+    "observedAt": "2026-08-31T22:31:54.876Z"
   },
   {
     "id": "web-mobile-10c6dab365059306",
@@ -4254,7 +4254,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:09.937Z"
+    "observedAt": "2026-08-31T22:31:54.876Z"
   },
   {
     "id": "web-mobile-a81e277f971b2aa5",
@@ -4270,7 +4270,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:09.937Z"
+    "observedAt": "2026-08-31T22:31:54.876Z"
   },
   {
     "id": "web-mobile-d8e4850987bf7453",
@@ -4286,7 +4286,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:09.937Z"
+    "observedAt": "2026-08-31T22:31:54.876Z"
   },
   {
     "id": "web-mobile-2053a28c5ce6bcc3",
@@ -4302,7 +4302,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:09.937Z"
+    "observedAt": "2026-08-31T22:31:54.876Z"
   },
   {
     "id": "web-mobile-ee3d6046f8d3e175",
@@ -4318,7 +4318,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/3/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:12.543Z"
+    "observedAt": "2026-08-31T22:31:57.684Z"
   },
   {
     "id": "web-mobile-15d2bae42d6e76b6",
@@ -4334,7 +4334,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/3/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:12.545Z"
+    "observedAt": "2026-08-31T22:31:57.688Z"
   },
   {
     "id": "web-mobile-8d38ee6026798718",
@@ -4350,7 +4350,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/3/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:12.545Z"
+    "observedAt": "2026-08-31T22:31:57.688Z"
   },
   {
     "id": "web-mobile-bda10d3b76cc11d4",
@@ -4366,7 +4366,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/3/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:12.545Z"
+    "observedAt": "2026-08-31T22:31:57.688Z"
   },
   {
     "id": "web-mobile-9d339ab00650458e",
@@ -4382,7 +4382,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "bprshop",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop",
-    "observedAt": "2026-08-31T22:10:15.443Z"
+    "observedAt": "2026-08-31T22:32:00.686Z"
   },
   {
     "id": "web-mobile-89d10a412be81fa2",
@@ -4398,7 +4398,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "bprshop",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop",
-    "observedAt": "2026-08-31T22:10:15.443Z"
+    "observedAt": "2026-08-31T22:32:00.686Z"
   },
   {
     "id": "web-mobile-88539d3edfd06105",
@@ -4414,7 +4414,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "bprshop",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop",
-    "observedAt": "2026-08-31T22:10:15.443Z"
+    "observedAt": "2026-08-31T22:32:00.686Z"
   },
   {
     "id": "web-mobile-e92490ac7d6e5556",
@@ -4430,7 +4430,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "bprshop",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop",
-    "observedAt": "2026-08-31T22:10:15.443Z"
+    "observedAt": "2026-08-31T22:32:00.686Z"
   },
   {
     "id": "web-mobile-5e568e7546d03654",
@@ -4446,7 +4446,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "bprshop",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop",
-    "observedAt": "2026-08-31T22:10:15.443Z"
+    "observedAt": "2026-08-31T22:32:00.686Z"
   },
   {
     "id": "web-mobile-52eec7474332a8a5",
@@ -4462,7 +4462,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "bprshop",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop",
-    "observedAt": "2026-08-31T22:10:15.443Z"
+    "observedAt": "2026-08-31T22:32:00.686Z"
   },
   {
     "id": "web-mobile-2ef4a854480c0492",
@@ -4478,7 +4478,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "bprshop",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop",
-    "observedAt": "2026-08-31T22:10:15.443Z"
+    "observedAt": "2026-08-31T22:32:00.687Z"
   },
   {
     "id": "web-mobile-9811052e5831f6f9",
@@ -4494,7 +4494,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "bprshop",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop",
-    "observedAt": "2026-08-31T22:10:15.443Z"
+    "observedAt": "2026-08-31T22:32:00.687Z"
   },
   {
     "id": "web-mobile-95be281bd40b2069",
@@ -4510,7 +4510,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "bprshop",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop",
-    "observedAt": "2026-08-31T22:10:15.443Z"
+    "observedAt": "2026-08-31T22:32:00.687Z"
   },
   {
     "id": "web-mobile-493cc3d7fc5e0c4d",
@@ -4526,7 +4526,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "bprshop",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop",
-    "observedAt": "2026-08-31T22:10:15.443Z"
+    "observedAt": "2026-08-31T22:32:00.687Z"
   },
   {
     "id": "web-mobile-28e50df4ae0c29c7",
@@ -4542,7 +4542,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "bprshop",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop",
-    "observedAt": "2026-08-31T22:10:15.443Z"
+    "observedAt": "2026-08-31T22:32:00.687Z"
   },
   {
     "id": "web-mobile-7cc711049aef9728",
@@ -4558,7 +4558,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "bprshop",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop",
-    "observedAt": "2026-08-31T22:10:15.443Z"
+    "observedAt": "2026-08-31T22:32:00.687Z"
   },
   {
     "id": "web-mobile-d0d351e60fadf08b",
@@ -4574,7 +4574,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "bprshop",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop",
-    "observedAt": "2026-08-31T22:10:15.443Z"
+    "observedAt": "2026-08-31T22:32:00.687Z"
   },
   {
     "id": "web-mobile-35a23e95fda75300",
@@ -4590,7 +4590,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "bprshop",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop",
-    "observedAt": "2026-08-31T22:10:15.443Z"
+    "observedAt": "2026-08-31T22:32:00.687Z"
   },
   {
     "id": "web-mobile-602f9ea6e92b451b",
@@ -4606,7 +4606,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "bprshop",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop",
-    "observedAt": "2026-08-31T22:10:15.443Z"
+    "observedAt": "2026-08-31T22:32:00.687Z"
   },
   {
     "id": "web-mobile-c0c76cbbec6d5303",
@@ -4622,7 +4622,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "bprshop",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop",
-    "observedAt": "2026-08-31T22:10:15.443Z"
+    "observedAt": "2026-08-31T22:32:00.687Z"
   },
   {
     "id": "web-laptop-8e6327b3953853ba",
@@ -4638,7 +4638,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment/laptop",
     "source": "web-catalog:technolife",
-    "observedAt": "2026-08-31T22:10:16.298Z"
+    "observedAt": "2026-08-31T22:32:01.554Z"
   },
   {
     "id": "web-laptop-8fe6583c97c6b074",
@@ -4654,7 +4654,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment/laptop",
     "source": "web-catalog:technolife",
-    "observedAt": "2026-08-31T22:10:16.298Z"
+    "observedAt": "2026-08-31T22:32:01.554Z"
   },
   {
     "id": "web-laptop-8a5d9b3500f284db",
@@ -4670,7 +4670,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment/laptop",
     "source": "web-catalog:technolife",
-    "observedAt": "2026-08-31T22:10:16.298Z"
+    "observedAt": "2026-08-31T22:32:01.554Z"
   },
   {
     "id": "web-laptop-9c2e2b2cede5ba79",
@@ -4686,7 +4686,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment/laptop",
     "source": "web-catalog:technolife",
-    "observedAt": "2026-08-31T22:10:16.298Z"
+    "observedAt": "2026-08-31T22:32:01.554Z"
   },
   {
     "id": "web-laptop-9b301a64c1d0094f",
@@ -4702,7 +4702,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment/laptop",
     "source": "web-catalog:technolife",
-    "observedAt": "2026-08-31T22:10:16.298Z"
+    "observedAt": "2026-08-31T22:32:01.554Z"
   },
   {
     "id": "web-laptop-1f920af63589acd4",
@@ -4718,7 +4718,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment/laptop",
     "source": "web-catalog:technolife",
-    "observedAt": "2026-08-31T22:10:16.298Z"
+    "observedAt": "2026-08-31T22:32:01.554Z"
   },
   {
     "id": "web-laptop-894f64ac2aa71142",
@@ -4734,7 +4734,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment/laptop",
     "source": "web-catalog:technolife",
-    "observedAt": "2026-08-31T22:10:16.298Z"
+    "observedAt": "2026-08-31T22:32:01.554Z"
   },
   {
     "id": "web-laptop-49c5179219408d79",
@@ -4750,7 +4750,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment/laptop",
     "source": "web-catalog:technolife",
-    "observedAt": "2026-08-31T22:10:16.298Z"
+    "observedAt": "2026-08-31T22:32:01.554Z"
   },
   {
     "id": "web-laptop-cd1b7bf5f0c0ac48",
@@ -4766,7 +4766,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment/laptop",
     "source": "web-catalog:technolife",
-    "observedAt": "2026-08-31T22:10:16.298Z"
+    "observedAt": "2026-08-31T22:32:01.554Z"
   },
   {
     "id": "web-laptop-79d91a025ebd1a64",
@@ -4782,7 +4782,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment/laptop",
     "source": "web-catalog:technolife",
-    "observedAt": "2026-08-31T22:10:16.298Z"
+    "observedAt": "2026-08-31T22:32:01.554Z"
   },
   {
     "id": "web-laptop-7e7234f83f0f1fa5",
@@ -4798,7 +4798,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment/laptop",
     "source": "web-catalog:technolife",
-    "observedAt": "2026-08-31T22:10:16.298Z"
+    "observedAt": "2026-08-31T22:32:01.554Z"
   },
   {
     "id": "web-laptop-a5eecb391139a75b",
@@ -4814,7 +4814,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment/laptop",
     "source": "web-catalog:technolife",
-    "observedAt": "2026-08-31T22:10:16.298Z"
+    "observedAt": "2026-08-31T22:32:01.554Z"
   },
   {
     "id": "web-laptop-912afe390e4e554c",
@@ -4830,7 +4830,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment/laptop",
     "source": "web-catalog:technolife",
-    "observedAt": "2026-08-31T22:10:16.298Z"
+    "observedAt": "2026-08-31T22:32:01.554Z"
   },
   {
     "id": "web-laptop-643dcb1acabfc19b",
@@ -4846,7 +4846,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment/laptop",
     "source": "web-catalog:technolife",
-    "observedAt": "2026-08-31T22:10:16.298Z"
+    "observedAt": "2026-08-31T22:32:01.554Z"
   },
   {
     "id": "web-laptop-4a4809420eb93780",
@@ -4862,7 +4862,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment/laptop",
     "source": "web-catalog:technolife",
-    "observedAt": "2026-08-31T22:10:16.298Z"
+    "observedAt": "2026-08-31T22:32:01.554Z"
   },
   {
     "id": "web-laptop-f05ac508b0ab505e",
@@ -4878,7 +4878,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment/laptop",
     "source": "web-catalog:technolife",
-    "observedAt": "2026-08-31T22:10:16.298Z"
+    "observedAt": "2026-08-31T22:32:01.554Z"
   },
   {
     "id": "web-laptop-3ba12eecabae4ec5",
@@ -4894,7 +4894,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment/laptop",
     "source": "web-catalog:technolife",
-    "observedAt": "2026-08-31T22:10:16.298Z"
+    "observedAt": "2026-08-31T22:32:01.554Z"
   },
   {
     "id": "web-laptop-c29d26c35c56fa45",
@@ -4910,7 +4910,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment/laptop",
     "source": "web-catalog:technolife",
-    "observedAt": "2026-08-31T22:10:16.298Z"
+    "observedAt": "2026-08-31T22:32:01.554Z"
   },
   {
     "id": "web-laptop-f195d3a01f48bdf4",
@@ -4926,7 +4926,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment/laptop",
     "source": "web-catalog:technolife",
-    "observedAt": "2026-08-31T22:10:16.298Z"
+    "observedAt": "2026-08-31T22:32:01.554Z"
   },
   {
     "id": "web-laptop-ad3a05f50afd4c79",
@@ -4942,7 +4942,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment/laptop",
     "source": "web-catalog:technolife",
-    "observedAt": "2026-08-31T22:10:16.298Z"
+    "observedAt": "2026-08-31T22:32:01.554Z"
   },
   {
     "id": "web-laptop-80b95ac11d187522",
@@ -4958,7 +4958,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment/laptop",
     "source": "web-catalog:technolife",
-    "observedAt": "2026-08-31T22:10:16.298Z"
+    "observedAt": "2026-08-31T22:32:01.554Z"
   },
   {
     "id": "web-laptop-944da847cd6cba23",
@@ -4974,7 +4974,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment/laptop",
     "source": "web-catalog:technolife",
-    "observedAt": "2026-08-31T22:10:16.298Z"
+    "observedAt": "2026-08-31T22:32:01.554Z"
   },
   {
     "id": "web-laptop-1364429c2a17ea82",
@@ -4990,7 +4990,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment/laptop",
     "source": "web-catalog:technolife",
-    "observedAt": "2026-08-31T22:10:16.298Z"
+    "observedAt": "2026-08-31T22:32:01.554Z"
   },
   {
     "id": "web-laptop-5373de308952ac16",
@@ -5006,7 +5006,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment/laptop",
     "source": "web-catalog:technolife",
-    "observedAt": "2026-08-31T22:10:16.298Z"
+    "observedAt": "2026-08-31T22:32:01.554Z"
   },
   {
     "id": "web-laptop-ae0612546176c9e9",
@@ -5022,7 +5022,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment/laptop",
     "source": "web-catalog:technolife",
-    "observedAt": "2026-08-31T22:10:16.298Z"
+    "observedAt": "2026-08-31T22:32:01.554Z"
   },
   {
     "id": "web-laptop-a19250288da5f90d",
@@ -5038,7 +5038,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment/laptop",
     "source": "web-catalog:technolife",
-    "observedAt": "2026-08-31T22:10:16.298Z"
+    "observedAt": "2026-08-31T22:32:01.554Z"
   },
   {
     "id": "web-laptop-311d5e6c771df5fd",
@@ -5054,7 +5054,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment/laptop",
     "source": "web-catalog:technolife",
-    "observedAt": "2026-08-31T22:10:16.298Z"
+    "observedAt": "2026-08-31T22:32:01.554Z"
   },
   {
     "id": "web-laptop-4dbdd0e5d1d0e728",
@@ -5070,7 +5070,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment/laptop",
     "source": "web-catalog:technolife",
-    "observedAt": "2026-08-31T22:10:16.298Z"
+    "observedAt": "2026-08-31T22:32:01.554Z"
   },
   {
     "id": "web-laptop-a1d8fc5d938ae405",
@@ -5086,7 +5086,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment/laptop",
     "source": "web-catalog:technolife",
-    "observedAt": "2026-08-31T22:10:16.298Z"
+    "observedAt": "2026-08-31T22:32:01.554Z"
   },
   {
     "id": "web-laptop-1305bf9a066b92dd",
@@ -5102,7 +5102,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment/laptop",
     "source": "web-catalog:technolife",
-    "observedAt": "2026-08-31T22:10:16.298Z"
+    "observedAt": "2026-08-31T22:32:01.554Z"
   },
   {
     "id": "web-laptop-ecf416a7494efb85",
@@ -5118,7 +5118,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment/laptop",
     "source": "web-catalog:technolife",
-    "observedAt": "2026-08-31T22:10:16.298Z"
+    "observedAt": "2026-08-31T22:32:01.554Z"
   },
   {
     "id": "web-laptop-026682e4358caeef",
@@ -5134,7 +5134,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.742Z"
+    "observedAt": "2026-08-31T22:32:06.442Z"
   },
   {
     "id": "web-laptop-dc2da4675090301e",
@@ -5150,7 +5150,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.742Z"
+    "observedAt": "2026-08-31T22:32:06.442Z"
   },
   {
     "id": "web-laptop-47a4bf99ec690cde",
@@ -5166,7 +5166,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.742Z"
+    "observedAt": "2026-08-31T22:32:06.442Z"
   },
   {
     "id": "web-laptop-98fb24f98ad1e8ee",
@@ -5182,7 +5182,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.742Z"
+    "observedAt": "2026-08-31T22:32:06.442Z"
   },
   {
     "id": "web-laptop-f28f8a2fb5e6ab83",
@@ -5198,7 +5198,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.742Z"
+    "observedAt": "2026-08-31T22:32:06.442Z"
   },
   {
     "id": "web-laptop-c1a27f5477def1d1",
@@ -5214,7 +5214,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.742Z"
+    "observedAt": "2026-08-31T22:32:06.442Z"
   },
   {
     "id": "web-laptop-daff285cb6795d3c",
@@ -5230,7 +5230,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.742Z"
+    "observedAt": "2026-08-31T22:32:06.442Z"
   },
   {
     "id": "web-laptop-1fe5cd6a2bd7cf1c",
@@ -5246,7 +5246,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.742Z"
+    "observedAt": "2026-08-31T22:32:06.442Z"
   },
   {
     "id": "web-laptop-a93ee12f2a84c73e",
@@ -5262,7 +5262,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.742Z"
+    "observedAt": "2026-08-31T22:32:06.442Z"
   },
   {
     "id": "web-laptop-d705ab8b6e4ebfcc",
@@ -5278,7 +5278,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.742Z"
+    "observedAt": "2026-08-31T22:32:06.442Z"
   },
   {
     "id": "web-laptop-951caf83db5563a0",
@@ -5294,7 +5294,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.742Z"
+    "observedAt": "2026-08-31T22:32:06.442Z"
   },
   {
     "id": "web-laptop-c88e8df7525ddc04",
@@ -5310,7 +5310,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.742Z"
+    "observedAt": "2026-08-31T22:32:06.442Z"
   },
   {
     "id": "web-laptop-6f0b6b7198341504",
@@ -5326,7 +5326,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.742Z"
+    "observedAt": "2026-08-31T22:32:06.442Z"
   },
   {
     "id": "web-laptop-419c1e5d6880d6a8",
@@ -5342,7 +5342,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.742Z"
+    "observedAt": "2026-08-31T22:32:06.442Z"
   },
   {
     "id": "web-laptop-583d30762bc06070",
@@ -5358,7 +5358,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.742Z"
+    "observedAt": "2026-08-31T22:32:06.442Z"
   },
   {
     "id": "web-laptop-ad3f0e7eb9194545",
@@ -5374,7 +5374,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.742Z"
+    "observedAt": "2026-08-31T22:32:06.442Z"
   },
   {
     "id": "web-laptop-62a935f9545431f3",
@@ -5390,7 +5390,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.742Z"
+    "observedAt": "2026-08-31T22:32:06.442Z"
   },
   {
     "id": "web-laptop-8edaad25ab114efc",
@@ -5406,7 +5406,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.742Z"
+    "observedAt": "2026-08-31T22:32:06.442Z"
   },
   {
     "id": "web-laptop-34af5338aaf0b14f",
@@ -5422,7 +5422,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.742Z"
+    "observedAt": "2026-08-31T22:32:06.442Z"
   },
   {
     "id": "web-laptop-81a3cfaf07729276",
@@ -5438,7 +5438,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.742Z"
+    "observedAt": "2026-08-31T22:32:06.442Z"
   },
   {
     "id": "web-laptop-220a96b3d20fde16",
@@ -5454,7 +5454,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.742Z"
+    "observedAt": "2026-08-31T22:32:06.442Z"
   },
   {
     "id": "web-laptop-5b7baa7b30323484",
@@ -5470,7 +5470,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.742Z"
+    "observedAt": "2026-08-31T22:32:06.442Z"
   },
   {
     "id": "web-laptop-99eb7cfefebea4e5",
@@ -5486,7 +5486,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.742Z"
+    "observedAt": "2026-08-31T22:32:06.442Z"
   },
   {
     "id": "web-laptop-f73ce79e3b2e5156",
@@ -5502,7 +5502,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.742Z"
+    "observedAt": "2026-08-31T22:32:06.442Z"
   },
   {
     "id": "web-laptop-760097705a007369",
@@ -5518,7 +5518,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.742Z"
+    "observedAt": "2026-08-31T22:32:06.442Z"
   },
   {
     "id": "web-laptop-37e444ead0b33b2b",
@@ -5534,7 +5534,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.742Z"
+    "observedAt": "2026-08-31T22:32:06.442Z"
   },
   {
     "id": "web-laptop-2766abafd36825a4",
@@ -5550,7 +5550,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.742Z"
+    "observedAt": "2026-08-31T22:32:06.443Z"
   },
   {
     "id": "web-laptop-36e66101b9d11991",
@@ -5566,7 +5566,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.742Z"
+    "observedAt": "2026-08-31T22:32:06.443Z"
   },
   {
     "id": "web-laptop-720b6a4604d461df",
@@ -5582,7 +5582,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.742Z"
+    "observedAt": "2026-08-31T22:32:06.443Z"
   },
   {
     "id": "web-laptop-c79da22833b83868",
@@ -5598,7 +5598,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.742Z"
+    "observedAt": "2026-08-31T22:32:06.443Z"
   },
   {
     "id": "web-laptop-fa0953ea33e79399",
@@ -5614,7 +5614,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.742Z"
+    "observedAt": "2026-08-31T22:32:06.443Z"
   },
   {
     "id": "web-laptop-3f2161aeab3baf6b",
@@ -5630,7 +5630,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.742Z"
+    "observedAt": "2026-08-31T22:32:06.443Z"
   },
   {
     "id": "web-laptop-fa602a708780b8be",
@@ -5646,7 +5646,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.742Z"
+    "observedAt": "2026-08-31T22:32:06.443Z"
   },
   {
     "id": "web-laptop-20a209c677814dda",
@@ -5662,7 +5662,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.742Z"
+    "observedAt": "2026-08-31T22:32:06.443Z"
   },
   {
     "id": "web-laptop-070ed70aeb203eca",
@@ -5678,7 +5678,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.742Z"
+    "observedAt": "2026-08-31T22:32:06.443Z"
   },
   {
     "id": "web-laptop-f368fa59e12f287a",
@@ -5694,7 +5694,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.742Z"
+    "observedAt": "2026-08-31T22:32:06.443Z"
   },
   {
     "id": "web-laptop-4e5119b7b79b60a5",
@@ -5710,7 +5710,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.742Z"
+    "observedAt": "2026-08-31T22:32:06.443Z"
   },
   {
     "id": "web-laptop-a55b26a57c95779b",
@@ -5726,7 +5726,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.742Z"
+    "observedAt": "2026-08-31T22:32:06.443Z"
   },
   {
     "id": "web-laptop-ecd1b932c16852aa",
@@ -5742,7 +5742,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.742Z"
+    "observedAt": "2026-08-31T22:32:06.443Z"
   },
   {
     "id": "web-laptop-96563c7d7223f28b",
@@ -5758,7 +5758,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.742Z"
+    "observedAt": "2026-08-31T22:32:06.443Z"
   },
   {
     "id": "web-laptop-999349dc89e4db9f",
@@ -5774,7 +5774,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.742Z"
+    "observedAt": "2026-08-31T22:32:06.443Z"
   },
   {
     "id": "web-laptop-79804d309a4c9cbb",
@@ -5790,7 +5790,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.742Z"
+    "observedAt": "2026-08-31T22:32:06.443Z"
   },
   {
     "id": "web-laptop-df1a4bb57f509c8a",
@@ -5806,7 +5806,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.742Z"
+    "observedAt": "2026-08-31T22:32:06.443Z"
   },
   {
     "id": "web-laptop-8dce6f9be7a4aa0e",
@@ -5822,7 +5822,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.742Z"
+    "observedAt": "2026-08-31T22:32:06.443Z"
   },
   {
     "id": "web-laptop-4ed431e5c8bd4ca4",
@@ -5838,7 +5838,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.743Z"
+    "observedAt": "2026-08-31T22:32:06.443Z"
   },
   {
     "id": "web-laptop-e8cb7c3b9082fd44",
@@ -5854,7 +5854,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.743Z"
+    "observedAt": "2026-08-31T22:32:06.443Z"
   },
   {
     "id": "web-laptop-96353d55fd75b7ae",
@@ -5870,7 +5870,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.743Z"
+    "observedAt": "2026-08-31T22:32:06.443Z"
   },
   {
     "id": "web-laptop-33cbb86c4ec1aa5c",
@@ -5886,7 +5886,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.743Z"
+    "observedAt": "2026-08-31T22:32:06.443Z"
   },
   {
     "id": "web-laptop-3db4366eac360c5e",
@@ -5902,7 +5902,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.743Z"
+    "observedAt": "2026-08-31T22:32:06.443Z"
   },
   {
     "id": "web-laptop-413118fc4f736a0c",
@@ -5918,7 +5918,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.743Z"
+    "observedAt": "2026-08-31T22:32:06.443Z"
   },
   {
     "id": "web-laptop-6ba9c41fa68d38ec",
@@ -5934,7 +5934,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.743Z"
+    "observedAt": "2026-08-31T22:32:06.443Z"
   },
   {
     "id": "web-laptop-76e352a5813b3ca7",
@@ -5950,7 +5950,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.743Z"
+    "observedAt": "2026-08-31T22:32:06.443Z"
   },
   {
     "id": "web-laptop-3378e21ead9aa4b7",
@@ -5966,7 +5966,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.743Z"
+    "observedAt": "2026-08-31T22:32:06.443Z"
   },
   {
     "id": "web-laptop-9fb11a3461ca464c",
@@ -5982,7 +5982,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.743Z"
+    "observedAt": "2026-08-31T22:32:06.443Z"
   },
   {
     "id": "web-laptop-c5a391ec5449c32b",
@@ -5998,7 +5998,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.743Z"
+    "observedAt": "2026-08-31T22:32:06.443Z"
   },
   {
     "id": "web-laptop-bb0d04c60ced4a6b",
@@ -6014,7 +6014,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.743Z"
+    "observedAt": "2026-08-31T22:32:06.443Z"
   },
   {
     "id": "web-laptop-0e677e4e05d39499",
@@ -6030,7 +6030,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.743Z"
+    "observedAt": "2026-08-31T22:32:06.443Z"
   },
   {
     "id": "web-laptop-d66dee94ff270432",
@@ -6046,7 +6046,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.743Z"
+    "observedAt": "2026-08-31T22:32:06.443Z"
   },
   {
     "id": "web-laptop-09c3c2795f9041b7",
@@ -6062,7 +6062,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.743Z"
+    "observedAt": "2026-08-31T22:32:06.443Z"
   },
   {
     "id": "web-laptop-85a31972165bf7c4",
@@ -6078,7 +6078,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.743Z"
+    "observedAt": "2026-08-31T22:32:06.443Z"
   },
   {
     "id": "web-laptop-2a8dcae7daf7281d",
@@ -6094,7 +6094,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.743Z"
+    "observedAt": "2026-08-31T22:32:06.443Z"
   },
   {
     "id": "web-laptop-049d5f96017b071d",
@@ -6110,7 +6110,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.743Z"
+    "observedAt": "2026-08-31T22:32:06.443Z"
   },
   {
     "id": "web-laptop-2fc592b5957fa549",
@@ -6126,7 +6126,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.743Z"
+    "observedAt": "2026-08-31T22:32:06.443Z"
   },
   {
     "id": "web-laptop-4376660a2c01f499",
@@ -6142,7 +6142,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.743Z"
+    "observedAt": "2026-08-31T22:32:06.443Z"
   },
   {
     "id": "web-laptop-435f3a5aff0bd46c",
@@ -6158,7 +6158,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.743Z"
+    "observedAt": "2026-08-31T22:32:06.443Z"
   },
   {
     "id": "web-laptop-55ecf22c1e661ffb",
@@ -6174,7 +6174,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.743Z"
+    "observedAt": "2026-08-31T22:32:06.443Z"
   },
   {
     "id": "web-laptop-0544af51c64d155d",
@@ -6190,7 +6190,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.743Z"
+    "observedAt": "2026-08-31T22:32:06.443Z"
   },
   {
     "id": "web-laptop-6116e7ac90495a09",
@@ -6206,7 +6206,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.743Z"
+    "observedAt": "2026-08-31T22:32:06.443Z"
   },
   {
     "id": "web-laptop-49349d462e9d302c",
@@ -6222,7 +6222,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.743Z"
+    "observedAt": "2026-08-31T22:32:06.443Z"
   },
   {
     "id": "web-laptop-fbe1cf370108c2bb",
@@ -6238,7 +6238,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.743Z"
+    "observedAt": "2026-08-31T22:32:06.443Z"
   },
   {
     "id": "web-laptop-5ab616d64faa5e4d",
@@ -6254,7 +6254,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.743Z"
+    "observedAt": "2026-08-31T22:32:06.443Z"
   },
   {
     "id": "web-laptop-fbc4461707cfef0a",
@@ -6270,7 +6270,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.743Z"
+    "observedAt": "2026-08-31T22:32:06.443Z"
   },
   {
     "id": "web-laptop-b0891181055873c7",
@@ -6286,7 +6286,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.743Z"
+    "observedAt": "2026-08-31T22:32:06.443Z"
   },
   {
     "id": "web-laptop-5d47a8e8b905b05f",
@@ -6302,7 +6302,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.743Z"
+    "observedAt": "2026-08-31T22:32:06.443Z"
   },
   {
     "id": "web-laptop-fe1900fbb7893525",
@@ -6318,7 +6318,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.743Z"
+    "observedAt": "2026-08-31T22:32:06.443Z"
   },
   {
     "id": "web-laptop-30c4794c959ba79f",
@@ -6334,7 +6334,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.743Z"
+    "observedAt": "2026-08-31T22:32:06.443Z"
   },
   {
     "id": "web-laptop-52af4a84831f4321",
@@ -6350,7 +6350,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.743Z"
+    "observedAt": "2026-08-31T22:32:06.443Z"
   },
   {
     "id": "web-laptop-304a7a4299dffc0d",
@@ -6366,7 +6366,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.743Z"
+    "observedAt": "2026-08-31T22:32:06.443Z"
   },
   {
     "id": "web-laptop-c3557f48b9bb3f4c",
@@ -6382,7 +6382,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.743Z"
+    "observedAt": "2026-08-31T22:32:06.443Z"
   },
   {
     "id": "web-laptop-09edcff08af938f9",
@@ -6398,7 +6398,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.743Z"
+    "observedAt": "2026-08-31T22:32:06.443Z"
   },
   {
     "id": "web-laptop-72e7cbb708e6e201",
@@ -6414,7 +6414,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.743Z"
+    "observedAt": "2026-08-31T22:32:06.443Z"
   },
   {
     "id": "web-laptop-f3ffccb21b712179",
@@ -6430,7 +6430,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.743Z"
+    "observedAt": "2026-08-31T22:32:06.443Z"
   },
   {
     "id": "web-laptop-ac94c7ba7a578396",
@@ -6446,7 +6446,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.743Z"
+    "observedAt": "2026-08-31T22:32:06.443Z"
   },
   {
     "id": "web-laptop-c27f62cc4d935ca3",
@@ -6462,7 +6462,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.743Z"
+    "observedAt": "2026-08-31T22:32:06.443Z"
   },
   {
     "id": "web-laptop-72b9ec1fcb305dae",
@@ -6478,7 +6478,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.743Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-8fa9f77b395dd30b",
@@ -6494,7 +6494,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.743Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-211e38d34c3b1966",
@@ -6510,7 +6510,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.743Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-1986e0c19bfc684a",
@@ -6526,7 +6526,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.743Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-ed8a34ed931304aa",
@@ -6542,7 +6542,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.743Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-505d4ce5aeba2ea6",
@@ -6558,7 +6558,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.743Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-e5ee4b6771e58031",
@@ -6574,7 +6574,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.743Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-61259a72d0051122",
@@ -6590,7 +6590,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.743Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-b920208c2745f322",
@@ -6606,7 +6606,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-f77806bc4ab3577a",
@@ -6622,7 +6622,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-a3974cefed0510ee",
@@ -6638,7 +6638,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-5b69134708224816",
@@ -6654,7 +6654,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-7f3fb3d34e85b906",
@@ -6670,7 +6670,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-654c1c76cc6fe44d",
@@ -6686,7 +6686,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-585a017486e2308e",
@@ -6702,7 +6702,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-171f118dd4cc2183",
@@ -6718,7 +6718,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-e8f11428afe68452",
@@ -6734,7 +6734,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-a1c81632bbdb3a4c",
@@ -6750,7 +6750,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-6c61bec16c2118e5",
@@ -6766,7 +6766,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-57bb9bc1a74ef478",
@@ -6782,7 +6782,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-2c6630c61c4bc800",
@@ -6798,7 +6798,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-3f748b80c913163f",
@@ -6814,7 +6814,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-605be6afc04ed6c7",
@@ -6830,7 +6830,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-eb3176ceed7ff982",
@@ -6846,7 +6846,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-19c7937880d58f04",
@@ -6862,7 +6862,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-8b54688974975201",
@@ -6878,7 +6878,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-36bc55fe3da612f9",
@@ -6894,7 +6894,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-b4866b65573b15d4",
@@ -6910,7 +6910,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-c869b22c9c62cd48",
@@ -6926,7 +6926,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-2488cdade8efc137",
@@ -6942,7 +6942,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-cab5e38c413d3e3b",
@@ -6958,7 +6958,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-93a6d1b221b1abd1",
@@ -6974,7 +6974,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-6e8f1fe665a95dbb",
@@ -6990,7 +6990,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-5dbe8b3479eca9ec",
@@ -7006,7 +7006,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-58f42fcaa73d2ba5",
@@ -7022,7 +7022,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-c9b53d6da9c7c6aa",
@@ -7038,7 +7038,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-85aef74a072c67b1",
@@ -7054,7 +7054,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-565d9fc968ec91ed",
@@ -7070,7 +7070,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-76d44b609dcd7f02",
@@ -7086,7 +7086,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-81c2361d46e4da4b",
@@ -7102,7 +7102,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-9232079e5fb76c82",
@@ -7118,7 +7118,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-a0583184fc51fa7f",
@@ -7134,7 +7134,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-2efd292571ae8499",
@@ -7150,7 +7150,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-bc4769264045c527",
@@ -7166,7 +7166,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-9453b27190fa5520",
@@ -7182,7 +7182,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-55b686676d8ab659",
@@ -7198,7 +7198,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-e49e066382be0abd",
@@ -7214,7 +7214,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-3056fc2efb898c6f",
@@ -7230,7 +7230,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-eeb6a067580572ed",
@@ -7246,7 +7246,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-3f7f35863a5542d3",
@@ -7262,7 +7262,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-5b3c77b755225def",
@@ -7278,7 +7278,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-99005c4e164ab1be",
@@ -7294,7 +7294,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-ebf35fff6618bf00",
@@ -7310,7 +7310,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-04dec9c2cb6b5dde",
@@ -7326,7 +7326,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-0e61d579f91d65ed",
@@ -7342,7 +7342,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-ffc7099a169246f8",
@@ -7358,7 +7358,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-e30c647ac0c2873a",
@@ -7374,7 +7374,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-94e803435efdc829",
@@ -7390,7 +7390,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-8b02ba7dcbd0c4ec",
@@ -7406,7 +7406,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-c62cecaad586c1b6",
@@ -7422,7 +7422,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-105a0be6b6ef2897",
@@ -7438,7 +7438,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-48e47ff4669482d1",
@@ -7454,7 +7454,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-ee6a15658dd41635",
@@ -7470,7 +7470,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-b7e91636a12acd3b",
@@ -7486,7 +7486,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-632bde44c7aa3419",
@@ -7502,7 +7502,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-83ebda45fb976935",
@@ -7518,7 +7518,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-6ee5d45244cde4d7",
@@ -7534,7 +7534,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-ac055fe984a6375b",
@@ -7550,7 +7550,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-45437b75fe039b91",
@@ -7566,7 +7566,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-1adbf8dd4aea0954",
@@ -7582,7 +7582,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-56e47b2d4d2816fd",
@@ -7598,7 +7598,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-a4ef12f1cdca99ed",
@@ -7614,7 +7614,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-850784ce98257343",
@@ -7630,7 +7630,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-535e0ff5ffc44af0",
@@ -7646,7 +7646,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-a4a7c4cfeedfe7d0",
@@ -7662,7 +7662,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-10d16b87eb98b657",
@@ -7678,7 +7678,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-521786d5885b99e5",
@@ -7694,7 +7694,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.444Z"
   },
   {
     "id": "web-laptop-6dffdf165a92ac8a",
@@ -7710,7 +7710,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.445Z"
   },
   {
     "id": "web-laptop-d445cade5e93776a",
@@ -7726,7 +7726,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.445Z"
   },
   {
     "id": "web-laptop-7d7fb00dfc18f7b5",
@@ -7742,7 +7742,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.445Z"
   },
   {
     "id": "web-laptop-a5bc0a0f0a98080b",
@@ -7758,7 +7758,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.744Z"
+    "observedAt": "2026-08-31T22:32:06.445Z"
   },
   {
     "id": "web-laptop-96df8f98f159912a",
@@ -7774,7 +7774,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.745Z"
+    "observedAt": "2026-08-31T22:32:06.445Z"
   },
   {
     "id": "web-laptop-ebca8b97cef68eba",
@@ -7790,7 +7790,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.745Z"
+    "observedAt": "2026-08-31T22:32:06.445Z"
   },
   {
     "id": "web-laptop-7f8b3f9f42f2b0ac",
@@ -7806,7 +7806,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.745Z"
+    "observedAt": "2026-08-31T22:32:06.445Z"
   },
   {
     "id": "web-laptop-a2dd89ee362aa281",
@@ -7822,7 +7822,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.745Z"
+    "observedAt": "2026-08-31T22:32:06.445Z"
   },
   {
     "id": "web-laptop-3e0d312cebf3d6f4",
@@ -7838,7 +7838,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.745Z"
+    "observedAt": "2026-08-31T22:32:06.445Z"
   },
   {
     "id": "web-laptop-8c3004ea62a7d2d4",
@@ -7854,7 +7854,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.745Z"
+    "observedAt": "2026-08-31T22:32:06.445Z"
   },
   {
     "id": "web-laptop-789f8db4a7ffc07d",
@@ -7870,7 +7870,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.745Z"
+    "observedAt": "2026-08-31T22:32:06.445Z"
   },
   {
     "id": "web-laptop-e7d3ba55f35a5a13",
@@ -7886,7 +7886,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.745Z"
+    "observedAt": "2026-08-31T22:32:06.445Z"
   },
   {
     "id": "web-laptop-e7d8fe46f4c7df64",
@@ -7902,7 +7902,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.745Z"
+    "observedAt": "2026-08-31T22:32:06.445Z"
   },
   {
     "id": "web-laptop-eef704cc565341df",
@@ -7918,7 +7918,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.745Z"
+    "observedAt": "2026-08-31T22:32:06.445Z"
   },
   {
     "id": "web-laptop-efa60c75f5558d1a",
@@ -7934,7 +7934,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.745Z"
+    "observedAt": "2026-08-31T22:32:06.445Z"
   },
   {
     "id": "web-laptop-37482e2e11f648e2",
@@ -7950,7 +7950,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.745Z"
+    "observedAt": "2026-08-31T22:32:06.445Z"
   },
   {
     "id": "web-laptop-87c8cd8f3bb6fe67",
@@ -7966,7 +7966,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.745Z"
+    "observedAt": "2026-08-31T22:32:06.445Z"
   },
   {
     "id": "web-laptop-0b8d934f98dc7b49",
@@ -7982,7 +7982,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.745Z"
+    "observedAt": "2026-08-31T22:32:06.445Z"
   },
   {
     "id": "web-laptop-131cc4ed4c2f5faf",
@@ -7998,7 +7998,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.745Z"
+    "observedAt": "2026-08-31T22:32:06.445Z"
   },
   {
     "id": "web-laptop-10deb138304773ba",
@@ -8014,7 +8014,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.745Z"
+    "observedAt": "2026-08-31T22:32:06.445Z"
   },
   {
     "id": "web-laptop-21fc6ef47fb8d66b",
@@ -8030,7 +8030,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.745Z"
+    "observedAt": "2026-08-31T22:32:06.445Z"
   },
   {
     "id": "web-laptop-020ed310c70d3f72",
@@ -8046,7 +8046,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.745Z"
+    "observedAt": "2026-08-31T22:32:06.445Z"
   },
   {
     "id": "web-laptop-b4af2cb64c95e795",
@@ -8062,7 +8062,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.745Z"
+    "observedAt": "2026-08-31T22:32:06.445Z"
   },
   {
     "id": "web-laptop-261c04f550825851",
@@ -8078,7 +8078,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.745Z"
+    "observedAt": "2026-08-31T22:32:06.445Z"
   },
   {
     "id": "web-laptop-4f094238631bd236",
@@ -8094,7 +8094,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.745Z"
+    "observedAt": "2026-08-31T22:32:06.445Z"
   },
   {
     "id": "web-laptop-71de15566b2a4d70",
@@ -8110,7 +8110,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.745Z"
+    "observedAt": "2026-08-31T22:32:06.445Z"
   },
   {
     "id": "web-laptop-30fb94d1b72fc800",
@@ -8126,7 +8126,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.745Z"
+    "observedAt": "2026-08-31T22:32:06.445Z"
   },
   {
     "id": "web-laptop-79f7662885aaea40",
@@ -8142,7 +8142,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.745Z"
+    "observedAt": "2026-08-31T22:32:06.445Z"
   },
   {
     "id": "web-laptop-977fdcb237539df7",
@@ -8158,7 +8158,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.745Z"
+    "observedAt": "2026-08-31T22:32:06.445Z"
   },
   {
     "id": "web-laptop-82a6f21b0455eb63",
@@ -8174,7 +8174,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.745Z"
+    "observedAt": "2026-08-31T22:32:06.445Z"
   },
   {
     "id": "web-laptop-2e4ee0d8aa410572",
@@ -8190,7 +8190,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.745Z"
+    "observedAt": "2026-08-31T22:32:06.445Z"
   },
   {
     "id": "web-laptop-0f00bacfb8398588",
@@ -8206,7 +8206,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.745Z"
+    "observedAt": "2026-08-31T22:32:06.446Z"
   },
   {
     "id": "web-laptop-e69ad66e79df79ca",
@@ -8222,7 +8222,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.745Z"
+    "observedAt": "2026-08-31T22:32:06.446Z"
   },
   {
     "id": "web-laptop-d07b98064e577714",
@@ -8238,7 +8238,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.745Z"
+    "observedAt": "2026-08-31T22:32:06.446Z"
   },
   {
     "id": "web-laptop-a71069a0bb18f371",
@@ -8254,7 +8254,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.745Z"
+    "observedAt": "2026-08-31T22:32:06.446Z"
   },
   {
     "id": "web-laptop-51c937a253df33f3",
@@ -8270,7 +8270,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.745Z"
+    "observedAt": "2026-08-31T22:32:06.446Z"
   },
   {
     "id": "web-laptop-d7ced1f205d4ce57",
@@ -8286,7 +8286,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.745Z"
+    "observedAt": "2026-08-31T22:32:06.446Z"
   },
   {
     "id": "web-laptop-ab620970b952993b",
@@ -8302,7 +8302,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.745Z"
+    "observedAt": "2026-08-31T22:32:06.446Z"
   },
   {
     "id": "web-laptop-d910bb57f146e162",
@@ -8318,7 +8318,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.745Z"
+    "observedAt": "2026-08-31T22:32:06.446Z"
   },
   {
     "id": "web-laptop-5c44cb8cc81e2c63",
@@ -8334,7 +8334,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.745Z"
+    "observedAt": "2026-08-31T22:32:06.446Z"
   },
   {
     "id": "web-laptop-72b84ff7961a74d4",
@@ -8350,7 +8350,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.745Z"
+    "observedAt": "2026-08-31T22:32:06.446Z"
   },
   {
     "id": "web-laptop-899b4fdd33764976",
@@ -8366,7 +8366,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.745Z"
+    "observedAt": "2026-08-31T22:32:06.446Z"
   },
   {
     "id": "web-laptop-eeeea150502f2f8d",
@@ -8382,7 +8382,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:20.745Z"
+    "observedAt": "2026-08-31T22:32:06.446Z"
   },
   {
     "id": "web-laptop-4bdbb4873a985364",
@@ -8398,7 +8398,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:24.811Z"
+    "observedAt": "2026-08-31T22:32:10.591Z"
   },
   {
     "id": "web-laptop-d127e9a6dbfec127",
@@ -8414,7 +8414,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:24.813Z"
+    "observedAt": "2026-08-31T22:32:10.594Z"
   },
   {
     "id": "web-laptop-010e9243280e1fac",
@@ -8430,7 +8430,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:24.813Z"
+    "observedAt": "2026-08-31T22:32:10.594Z"
   },
   {
     "id": "web-laptop-83265f98d194d1a6",
@@ -8446,7 +8446,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:24.813Z"
+    "observedAt": "2026-08-31T22:32:10.594Z"
   },
   {
     "id": "web-laptop-8a1211bf3528f490",
@@ -8462,7 +8462,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:24.813Z"
+    "observedAt": "2026-08-31T22:32:10.594Z"
   },
   {
     "id": "web-laptop-fe7d28dcb8d2615c",
@@ -8478,7 +8478,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:24.813Z"
+    "observedAt": "2026-08-31T22:32:10.594Z"
   },
   {
     "id": "web-laptop-16678c1cbadc9a9f",
@@ -8494,7 +8494,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:24.813Z"
+    "observedAt": "2026-08-31T22:32:10.594Z"
   },
   {
     "id": "web-laptop-fa7a4aae85f11769",
@@ -8510,7 +8510,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:24.813Z"
+    "observedAt": "2026-08-31T22:32:10.594Z"
   },
   {
     "id": "web-laptop-3e01d41a9492b0e8",
@@ -8526,7 +8526,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:24.813Z"
+    "observedAt": "2026-08-31T22:32:10.594Z"
   },
   {
     "id": "web-laptop-db8c510563f292db",
@@ -8542,7 +8542,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:24.813Z"
+    "observedAt": "2026-08-31T22:32:10.595Z"
   },
   {
     "id": "web-laptop-b440eda6fbdba8d3",
@@ -8558,7 +8558,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:24.813Z"
+    "observedAt": "2026-08-31T22:32:10.595Z"
   },
   {
     "id": "web-laptop-9dca6f43c3959276",
@@ -8574,7 +8574,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:24.813Z"
+    "observedAt": "2026-08-31T22:32:10.595Z"
   },
   {
     "id": "web-laptop-aa393df1f9827f8d",
@@ -8590,7 +8590,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:24.813Z"
+    "observedAt": "2026-08-31T22:32:10.595Z"
   },
   {
     "id": "web-laptop-1bd1302c9744f0bb",
@@ -8606,7 +8606,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:24.813Z"
+    "observedAt": "2026-08-31T22:32:10.595Z"
   },
   {
     "id": "web-laptop-902af572d0736544",
@@ -8622,7 +8622,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:24.813Z"
+    "observedAt": "2026-08-31T22:32:10.595Z"
   },
   {
     "id": "web-laptop-775cd9fc2bbd9403",
@@ -8638,7 +8638,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:24.813Z"
+    "observedAt": "2026-08-31T22:32:10.595Z"
   },
   {
     "id": "web-laptop-0bbfbf420a8f5718",
@@ -8654,7 +8654,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:24.813Z"
+    "observedAt": "2026-08-31T22:32:10.595Z"
   },
   {
     "id": "web-laptop-727ea70fba2f9397",
@@ -8670,7 +8670,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:24.813Z"
+    "observedAt": "2026-08-31T22:32:10.595Z"
   },
   {
     "id": "web-laptop-9c9c50948de68ca2",
@@ -8686,7 +8686,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:24.814Z"
+    "observedAt": "2026-08-31T22:32:10.595Z"
   },
   {
     "id": "web-laptop-73784d39d4164d4d",
@@ -8702,7 +8702,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:24.814Z"
+    "observedAt": "2026-08-31T22:32:10.595Z"
   },
   {
     "id": "web-laptop-0cbfb263dcde4278",
@@ -8718,7 +8718,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:24.814Z"
+    "observedAt": "2026-08-31T22:32:10.595Z"
   },
   {
     "id": "web-laptop-0f6a789ac5bee746",
@@ -8734,7 +8734,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:24.814Z"
+    "observedAt": "2026-08-31T22:32:10.595Z"
   },
   {
     "id": "web-laptop-420812971fa5def5",
@@ -8750,7 +8750,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:24.814Z"
+    "observedAt": "2026-08-31T22:32:10.595Z"
   },
   {
     "id": "web-laptop-336c8f296e8bd0bf",
@@ -8766,7 +8766,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:24.814Z"
+    "observedAt": "2026-08-31T22:32:10.595Z"
   },
   {
     "id": "web-laptop-d084c7b7ad3e4a0a",
@@ -8782,7 +8782,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:24.814Z"
+    "observedAt": "2026-08-31T22:32:10.595Z"
   },
   {
     "id": "web-laptop-8608dc8331620ca5",
@@ -8798,7 +8798,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/3/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:29.319Z"
+    "observedAt": "2026-08-31T22:32:14.342Z"
   },
   {
     "id": "web-laptop-32f45969f4158155",
@@ -8814,7 +8814,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/3/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:29.321Z"
+    "observedAt": "2026-08-31T22:32:14.344Z"
   },
   {
     "id": "web-laptop-a67e3a81946b4bdc",
@@ -8830,7 +8830,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/3/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:29.321Z"
+    "observedAt": "2026-08-31T22:32:14.344Z"
   },
   {
     "id": "web-laptop-58cb9d2d040e2c44",
@@ -8846,7 +8846,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/3/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:29.321Z"
+    "observedAt": "2026-08-31T22:32:14.344Z"
   },
   {
     "id": "web-laptop-4529bd7e84a97507",
@@ -8862,7 +8862,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/3/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:29.321Z"
+    "observedAt": "2026-08-31T22:32:14.344Z"
   },
   {
     "id": "web-laptop-f1f5f5b037b8c01d",
@@ -8878,7 +8878,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/3/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:29.321Z"
+    "observedAt": "2026-08-31T22:32:14.344Z"
   },
   {
     "id": "web-laptop-de2fcc2a7fcf81ca",
@@ -8894,7 +8894,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/3/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:29.321Z"
+    "observedAt": "2026-08-31T22:32:14.344Z"
   },
   {
     "id": "web-laptop-c5409c0ce9301fdc",
@@ -8910,7 +8910,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/3/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:29.321Z"
+    "observedAt": "2026-08-31T22:32:14.344Z"
   },
   {
     "id": "web-laptop-b9c539b53357b8c8",
@@ -8926,7 +8926,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/3/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:29.321Z"
+    "observedAt": "2026-08-31T22:32:14.344Z"
   },
   {
     "id": "web-laptop-43b3a9ce1b61d743",
@@ -8942,7 +8942,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/3/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:29.321Z"
+    "observedAt": "2026-08-31T22:32:14.344Z"
   },
   {
     "id": "web-laptop-fd3d25dd13c5dc0d",
@@ -8958,7 +8958,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/3/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:29.321Z"
+    "observedAt": "2026-08-31T22:32:14.344Z"
   },
   {
     "id": "web-laptop-793b234d1bae8a6e",
@@ -8974,7 +8974,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/3/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:29.321Z"
+    "observedAt": "2026-08-31T22:32:14.344Z"
   },
   {
     "id": "web-laptop-3f3adcb714a7a474",
@@ -8990,7 +8990,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/3/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:29.321Z"
+    "observedAt": "2026-08-31T22:32:14.344Z"
   },
   {
     "id": "web-laptop-abb78c847314edb2",
@@ -9006,7 +9006,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/3/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:29.321Z"
+    "observedAt": "2026-08-31T22:32:14.344Z"
   },
   {
     "id": "web-laptop-f3b2bcbc3268da15",
@@ -9022,7 +9022,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/3/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:29.321Z"
+    "observedAt": "2026-08-31T22:32:14.344Z"
   },
   {
     "id": "web-laptop-a0bd523fc02a630f",
@@ -9038,7 +9038,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/3/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:29.321Z"
+    "observedAt": "2026-08-31T22:32:14.344Z"
   },
   {
     "id": "web-laptop-d336ac85958faf58",
@@ -9054,7 +9054,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/3/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:29.321Z"
+    "observedAt": "2026-08-31T22:32:14.344Z"
   },
   {
     "id": "web-laptop-fca2beff1511e689",
@@ -9070,7 +9070,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/3/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:29.321Z"
+    "observedAt": "2026-08-31T22:32:14.344Z"
   },
   {
     "id": "web-laptop-b29147e745ec906a",
@@ -9086,7 +9086,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/3/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:29.321Z"
+    "observedAt": "2026-08-31T22:32:14.344Z"
   },
   {
     "id": "web-laptop-a9b8815c9598d4a4",
@@ -9102,7 +9102,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/3/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:29.321Z"
+    "observedAt": "2026-08-31T22:32:14.344Z"
   },
   {
     "id": "web-laptop-638aa8df9460d58f",
@@ -9118,7 +9118,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/3/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:29.321Z"
+    "observedAt": "2026-08-31T22:32:14.344Z"
   },
   {
     "id": "web-laptop-064fb6ca4f01681b",
@@ -9134,7 +9134,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/3/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:29.321Z"
+    "observedAt": "2026-08-31T22:32:14.344Z"
   },
   {
     "id": "web-laptop-8b4556781af48e1a",
@@ -9150,7 +9150,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/3/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:29.321Z"
+    "observedAt": "2026-08-31T22:32:14.344Z"
   },
   {
     "id": "web-laptop-84c74e576dc55f2a",
@@ -9166,7 +9166,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/3/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:29.321Z"
+    "observedAt": "2026-08-31T22:32:14.344Z"
   },
   {
     "id": "web-laptop-b0e35dfa77a3fec5",
@@ -9182,7 +9182,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/4/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:33.570Z"
+    "observedAt": "2026-08-31T22:32:18.663Z"
   },
   {
     "id": "web-laptop-033a31e68e50057d",
@@ -9198,7 +9198,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/4/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:33.572Z"
+    "observedAt": "2026-08-31T22:32:18.665Z"
   },
   {
     "id": "web-laptop-52cf87074e96c6ce",
@@ -9214,7 +9214,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/4/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:33.572Z"
+    "observedAt": "2026-08-31T22:32:18.665Z"
   },
   {
     "id": "web-laptop-a7f9d9b9ed76ddf9",
@@ -9230,7 +9230,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/4/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:33.572Z"
+    "observedAt": "2026-08-31T22:32:18.665Z"
   },
   {
     "id": "web-laptop-68c30413e4b1dddd",
@@ -9246,7 +9246,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/4/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:33.572Z"
+    "observedAt": "2026-08-31T22:32:18.665Z"
   },
   {
     "id": "web-laptop-5b2fcd3458e4d4b6",
@@ -9262,7 +9262,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/4/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:33.572Z"
+    "observedAt": "2026-08-31T22:32:18.665Z"
   },
   {
     "id": "web-laptop-03bd52365cf6ad17",
@@ -9278,7 +9278,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/4/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:33.572Z"
+    "observedAt": "2026-08-31T22:32:18.665Z"
   },
   {
     "id": "web-laptop-950f1fe43fc54095",
@@ -9294,7 +9294,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/4/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:33.572Z"
+    "observedAt": "2026-08-31T22:32:18.665Z"
   },
   {
     "id": "web-laptop-696141ac9c0fcb7f",
@@ -9310,7 +9310,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/4/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:33.572Z"
+    "observedAt": "2026-08-31T22:32:18.665Z"
   },
   {
     "id": "web-laptop-1fa35a6f9ba716e7",
@@ -9326,7 +9326,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/4/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:33.572Z"
+    "observedAt": "2026-08-31T22:32:18.665Z"
   },
   {
     "id": "web-laptop-843a59b9dc0e01e4",
@@ -9342,7 +9342,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/4/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:33.572Z"
+    "observedAt": "2026-08-31T22:32:18.665Z"
   },
   {
     "id": "web-laptop-617b167a1db09ea2",
@@ -9358,7 +9358,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/4/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:33.572Z"
+    "observedAt": "2026-08-31T22:32:18.665Z"
   },
   {
     "id": "web-laptop-d70e2bfad6470d07",
@@ -9374,7 +9374,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/4/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:33.572Z"
+    "observedAt": "2026-08-31T22:32:18.665Z"
   },
   {
     "id": "web-laptop-896c89ccc54a523c",
@@ -9390,7 +9390,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/4/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:33.572Z"
+    "observedAt": "2026-08-31T22:32:18.665Z"
   },
   {
     "id": "web-laptop-ba9bb1799f43afb9",
@@ -9406,7 +9406,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/4/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:33.572Z"
+    "observedAt": "2026-08-31T22:32:18.665Z"
   },
   {
     "id": "web-laptop-79f38034b56c5c35",
@@ -9422,7 +9422,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/4/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:33.572Z"
+    "observedAt": "2026-08-31T22:32:18.665Z"
   },
   {
     "id": "web-laptop-d22197633c39654f",
@@ -9438,7 +9438,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/4/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:33.573Z"
+    "observedAt": "2026-08-31T22:32:18.666Z"
   },
   {
     "id": "web-laptop-356ca42d6d0e3668",
@@ -9454,7 +9454,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/4/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:33.573Z"
+    "observedAt": "2026-08-31T22:32:18.666Z"
   },
   {
     "id": "web-laptop-6ae4d6fea36640b4",
@@ -9470,7 +9470,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/4/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:33.573Z"
+    "observedAt": "2026-08-31T22:32:18.666Z"
   },
   {
     "id": "web-laptop-a5ca10f636b4f12b",
@@ -9486,7 +9486,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/4/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:33.573Z"
+    "observedAt": "2026-08-31T22:32:18.666Z"
   },
   {
     "id": "web-laptop-0b3cef3d75963ff7",
@@ -9502,7 +9502,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/4/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:33.573Z"
+    "observedAt": "2026-08-31T22:32:18.666Z"
   },
   {
     "id": "web-laptop-4b52ca118d257868",
@@ -9518,7 +9518,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/4/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:33.573Z"
+    "observedAt": "2026-08-31T22:32:18.666Z"
   },
   {
     "id": "web-laptop-b3098955abe1a493",
@@ -9534,7 +9534,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/4/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:33.573Z"
+    "observedAt": "2026-08-31T22:32:18.666Z"
   },
   {
     "id": "web-laptop-36d786c75014418e",
@@ -9550,7 +9550,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/4/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:33.573Z"
+    "observedAt": "2026-08-31T22:32:18.666Z"
   },
   {
     "id": "web-laptop-3ae6b4fb01e26318",
@@ -9566,7 +9566,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/5/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:37.564Z"
+    "observedAt": "2026-08-31T22:32:22.981Z"
   },
   {
     "id": "web-laptop-57123e3374d1c09d",
@@ -9582,7 +9582,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/5/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:37.566Z"
+    "observedAt": "2026-08-31T22:32:22.983Z"
   },
   {
     "id": "web-laptop-8c9d1cfec9d7648c",
@@ -9598,7 +9598,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/5/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:37.566Z"
+    "observedAt": "2026-08-31T22:32:22.983Z"
   },
   {
     "id": "web-laptop-5241f0f3d122bfd9",
@@ -9614,7 +9614,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/5/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:37.566Z"
+    "observedAt": "2026-08-31T22:32:22.983Z"
   },
   {
     "id": "web-laptop-841138ee20bd021c",
@@ -9630,7 +9630,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/5/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:37.566Z"
+    "observedAt": "2026-08-31T22:32:22.983Z"
   },
   {
     "id": "web-laptop-ed843e57ec684357",
@@ -9646,7 +9646,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/5/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:37.566Z"
+    "observedAt": "2026-08-31T22:32:22.983Z"
   },
   {
     "id": "web-laptop-ba22495e2675aa12",
@@ -9662,7 +9662,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/5/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:37.566Z"
+    "observedAt": "2026-08-31T22:32:22.983Z"
   },
   {
     "id": "web-laptop-af1242ee638fd1e4",
@@ -9678,7 +9678,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/5/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:37.566Z"
+    "observedAt": "2026-08-31T22:32:22.983Z"
   },
   {
     "id": "web-laptop-8b4aa85480337558",
@@ -9694,7 +9694,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/5/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:37.566Z"
+    "observedAt": "2026-08-31T22:32:22.983Z"
   },
   {
     "id": "web-laptop-2269f9267324a54f",
@@ -9710,7 +9710,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/5/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:37.566Z"
+    "observedAt": "2026-08-31T22:32:22.983Z"
   },
   {
     "id": "web-laptop-08c9cd78f239b852",
@@ -9726,7 +9726,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/5/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:37.566Z"
+    "observedAt": "2026-08-31T22:32:22.983Z"
   },
   {
     "id": "web-laptop-6b183414e76e607b",
@@ -9742,7 +9742,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/5/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:37.566Z"
+    "observedAt": "2026-08-31T22:32:22.983Z"
   },
   {
     "id": "web-laptop-c553456749be4a6d",
@@ -9758,7 +9758,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/5/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:37.566Z"
+    "observedAt": "2026-08-31T22:32:22.983Z"
   },
   {
     "id": "web-laptop-9b7e2371366dbe99",
@@ -9774,7 +9774,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/5/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:37.566Z"
+    "observedAt": "2026-08-31T22:32:22.983Z"
   },
   {
     "id": "web-laptop-ee89271ec5153800",
@@ -9790,7 +9790,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/5/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:37.566Z"
+    "observedAt": "2026-08-31T22:32:22.983Z"
   },
   {
     "id": "web-laptop-d145a38902c3ff60",
@@ -9806,7 +9806,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/5/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:37.566Z"
+    "observedAt": "2026-08-31T22:32:22.983Z"
   },
   {
     "id": "web-laptop-62f68ecce1726e2f",
@@ -9822,7 +9822,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/5/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:37.566Z"
+    "observedAt": "2026-08-31T22:32:22.983Z"
   },
   {
     "id": "web-laptop-71ab4e97e983393c",
@@ -9838,7 +9838,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/5/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:37.566Z"
+    "observedAt": "2026-08-31T22:32:22.983Z"
   },
   {
     "id": "web-laptop-222379cc2cf6cfd5",
@@ -9854,7 +9854,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/5/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:37.566Z"
+    "observedAt": "2026-08-31T22:32:22.983Z"
   },
   {
     "id": "web-laptop-d9ca280fd6617a0b",
@@ -9870,7 +9870,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/5/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:37.566Z"
+    "observedAt": "2026-08-31T22:32:22.983Z"
   },
   {
     "id": "web-laptop-09d8efa6f8d3f5c0",
@@ -9886,7 +9886,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/5/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:37.567Z"
+    "observedAt": "2026-08-31T22:32:22.983Z"
   },
   {
     "id": "web-laptop-d1c3010075d0c16a",
@@ -9902,7 +9902,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/5/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:37.567Z"
+    "observedAt": "2026-08-31T22:32:22.983Z"
   },
   {
     "id": "web-laptop-994f0fa58c3c1af2",
@@ -9918,7 +9918,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/5/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:37.567Z"
+    "observedAt": "2026-08-31T22:32:22.983Z"
   },
   {
     "id": "web-laptop-24f7cf9b72128f5d",
@@ -9934,7 +9934,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/5/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:37.567Z"
+    "observedAt": "2026-08-31T22:32:22.983Z"
   },
   {
     "id": "web-laptop-6cd7a4fa1ce0cebe",
@@ -9950,7 +9950,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/6/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:41.468Z"
+    "observedAt": "2026-08-31T22:32:26.883Z"
   },
   {
     "id": "web-laptop-95dd29d0f6d9ce21",
@@ -9966,7 +9966,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/6/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:41.470Z"
+    "observedAt": "2026-08-31T22:32:26.884Z"
   },
   {
     "id": "web-laptop-c58aa6b9c6341497",
@@ -9982,7 +9982,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/6/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:41.470Z"
+    "observedAt": "2026-08-31T22:32:26.884Z"
   },
   {
     "id": "web-laptop-62fce5aa36d4b2b8",
@@ -9998,7 +9998,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/6/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:41.470Z"
+    "observedAt": "2026-08-31T22:32:26.884Z"
   },
   {
     "id": "web-laptop-538332822b0a057f",
@@ -10014,7 +10014,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/6/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:41.470Z"
+    "observedAt": "2026-08-31T22:32:26.884Z"
   },
   {
     "id": "web-laptop-8684469724db0572",
@@ -10030,7 +10030,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/6/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:41.470Z"
+    "observedAt": "2026-08-31T22:32:26.884Z"
   },
   {
     "id": "web-laptop-5a9946c3f6f5ffe2",
@@ -10046,7 +10046,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/6/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:41.470Z"
+    "observedAt": "2026-08-31T22:32:26.884Z"
   },
   {
     "id": "web-laptop-4cefb76cf8762d19",
@@ -10062,7 +10062,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/6/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:41.470Z"
+    "observedAt": "2026-08-31T22:32:26.885Z"
   },
   {
     "id": "web-laptop-9ada57452182a2af",
@@ -10078,7 +10078,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/6/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:41.470Z"
+    "observedAt": "2026-08-31T22:32:26.885Z"
   },
   {
     "id": "web-laptop-16cab3ec68be5d63",
@@ -10094,7 +10094,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/6/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:41.470Z"
+    "observedAt": "2026-08-31T22:32:26.885Z"
   },
   {
     "id": "web-laptop-96ccd6f42cf1a6b6",
@@ -10110,7 +10110,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/6/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:41.470Z"
+    "observedAt": "2026-08-31T22:32:26.885Z"
   },
   {
     "id": "web-laptop-620bd0401319d494",
@@ -10126,7 +10126,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/6/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:41.470Z"
+    "observedAt": "2026-08-31T22:32:26.885Z"
   },
   {
     "id": "web-laptop-0cd2b49db95afee1",
@@ -10142,7 +10142,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/6/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:41.470Z"
+    "observedAt": "2026-08-31T22:32:26.885Z"
   },
   {
     "id": "web-laptop-e1912bb511d41b34",
@@ -10158,7 +10158,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/6/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:41.470Z"
+    "observedAt": "2026-08-31T22:32:26.885Z"
   },
   {
     "id": "web-laptop-f3407f72bbde2e91",
@@ -10174,7 +10174,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/6/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:41.470Z"
+    "observedAt": "2026-08-31T22:32:26.885Z"
   },
   {
     "id": "web-laptop-85ce04e0f3e72597",
@@ -10190,7 +10190,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/6/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:41.470Z"
+    "observedAt": "2026-08-31T22:32:26.885Z"
   },
   {
     "id": "web-laptop-ba5923f76280cd7b",
@@ -10206,7 +10206,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/6/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:41.470Z"
+    "observedAt": "2026-08-31T22:32:26.885Z"
   },
   {
     "id": "web-laptop-a81c5d03be11e123",
@@ -10222,7 +10222,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/6/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:41.470Z"
+    "observedAt": "2026-08-31T22:32:26.885Z"
   },
   {
     "id": "web-laptop-974c2b014df89857",
@@ -10238,7 +10238,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/6/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:41.470Z"
+    "observedAt": "2026-08-31T22:32:26.885Z"
   },
   {
     "id": "web-laptop-53789346e3a3241e",
@@ -10254,7 +10254,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/6/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:41.470Z"
+    "observedAt": "2026-08-31T22:32:26.885Z"
   },
   {
     "id": "web-laptop-d0ce4b74858ec4e4",
@@ -10270,7 +10270,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/6/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:41.470Z"
+    "observedAt": "2026-08-31T22:32:26.885Z"
   },
   {
     "id": "web-laptop-cb5715bd3f8fb7c0",
@@ -10286,7 +10286,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/6/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:41.470Z"
+    "observedAt": "2026-08-31T22:32:26.885Z"
   },
   {
     "id": "web-laptop-639bb9799432e51b",
@@ -10302,7 +10302,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/6/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:41.470Z"
+    "observedAt": "2026-08-31T22:32:26.885Z"
   },
   {
     "id": "web-laptop-ac50078e7c6949a6",
@@ -10318,7 +10318,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/6/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:41.470Z"
+    "observedAt": "2026-08-31T22:32:26.885Z"
   },
   {
     "id": "web-laptop-1fb1eb79e14a5613",
@@ -10334,7 +10334,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/7/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:45.390Z"
+    "observedAt": "2026-08-31T22:32:31.118Z"
   },
   {
     "id": "web-laptop-dd1c5902f546de88",
@@ -10350,7 +10350,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/7/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:45.392Z"
+    "observedAt": "2026-08-31T22:32:31.120Z"
   },
   {
     "id": "web-laptop-919fcc819efc1ba1",
@@ -10366,7 +10366,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/7/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:45.392Z"
+    "observedAt": "2026-08-31T22:32:31.120Z"
   },
   {
     "id": "web-laptop-63b559c9778db026",
@@ -10382,7 +10382,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/7/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:45.393Z"
+    "observedAt": "2026-08-31T22:32:31.120Z"
   },
   {
     "id": "web-laptop-053752fcbb865c23",
@@ -10398,7 +10398,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/7/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:45.393Z"
+    "observedAt": "2026-08-31T22:32:31.120Z"
   },
   {
     "id": "web-laptop-6483adc78ba871e7",
@@ -10414,7 +10414,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/7/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:45.393Z"
+    "observedAt": "2026-08-31T22:32:31.120Z"
   },
   {
     "id": "web-laptop-ae49294c842ab818",
@@ -10430,7 +10430,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/7/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:45.393Z"
+    "observedAt": "2026-08-31T22:32:31.120Z"
   },
   {
     "id": "web-laptop-e1adb73b0b5aaee7",
@@ -10446,7 +10446,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/7/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:45.393Z"
+    "observedAt": "2026-08-31T22:32:31.120Z"
   },
   {
     "id": "web-laptop-af54bb6d114e4440",
@@ -10462,7 +10462,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/7/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:45.393Z"
+    "observedAt": "2026-08-31T22:32:31.120Z"
   },
   {
     "id": "web-laptop-8bab17cf31ee88bc",
@@ -10478,7 +10478,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/7/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:45.393Z"
+    "observedAt": "2026-08-31T22:32:31.120Z"
   },
   {
     "id": "web-laptop-4564b23e2de9556d",
@@ -10494,7 +10494,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/7/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:45.393Z"
+    "observedAt": "2026-08-31T22:32:31.120Z"
   },
   {
     "id": "web-laptop-5e693b7f9c08857f",
@@ -10510,7 +10510,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/7/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:45.393Z"
+    "observedAt": "2026-08-31T22:32:31.120Z"
   },
   {
     "id": "web-laptop-5f51a6003ab2a7a3",
@@ -10526,7 +10526,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/7/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:45.393Z"
+    "observedAt": "2026-08-31T22:32:31.120Z"
   },
   {
     "id": "web-laptop-969d0da7c9821e69",
@@ -10542,7 +10542,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/7/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:45.393Z"
+    "observedAt": "2026-08-31T22:32:31.120Z"
   },
   {
     "id": "web-laptop-f316a2ec717e3269",
@@ -10558,7 +10558,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/7/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:45.393Z"
+    "observedAt": "2026-08-31T22:32:31.120Z"
   },
   {
     "id": "web-laptop-d22d26b9bdc9ea43",
@@ -10574,7 +10574,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/7/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:45.393Z"
+    "observedAt": "2026-08-31T22:32:31.120Z"
   },
   {
     "id": "web-laptop-16ba789be3abfe20",
@@ -10590,7 +10590,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/7/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:45.393Z"
+    "observedAt": "2026-08-31T22:32:31.120Z"
   },
   {
     "id": "web-laptop-c19db7f19ee2d8da",
@@ -10606,7 +10606,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/7/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:45.393Z"
+    "observedAt": "2026-08-31T22:32:31.120Z"
   },
   {
     "id": "web-laptop-59b34ce2a330b413",
@@ -10622,7 +10622,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/7/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:45.393Z"
+    "observedAt": "2026-08-31T22:32:31.120Z"
   },
   {
     "id": "web-laptop-61ebfc48c4f48de9",
@@ -10638,7 +10638,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/7/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:45.393Z"
+    "observedAt": "2026-08-31T22:32:31.120Z"
   },
   {
     "id": "web-laptop-c2cb093f00d7b16b",
@@ -10654,7 +10654,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/7/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:45.393Z"
+    "observedAt": "2026-08-31T22:32:31.120Z"
   },
   {
     "id": "web-laptop-e1c78ef4f26a04c0",
@@ -10670,7 +10670,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/7/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:45.393Z"
+    "observedAt": "2026-08-31T22:32:31.120Z"
   },
   {
     "id": "web-laptop-77a832439773659a",
@@ -10686,7 +10686,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/7/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:45.393Z"
+    "observedAt": "2026-08-31T22:32:31.120Z"
   },
   {
     "id": "web-laptop-abb7743bd3bc4afd",
@@ -10702,7 +10702,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/7/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:45.393Z"
+    "observedAt": "2026-08-31T22:32:31.120Z"
   },
   {
     "id": "web-laptop-82e1da692434a82d",
@@ -10718,7 +10718,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/8/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:49.109Z"
+    "observedAt": "2026-08-31T22:32:35.174Z"
   },
   {
     "id": "web-laptop-d4e632df24ecd223",
@@ -10734,7 +10734,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/8/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:49.110Z"
+    "observedAt": "2026-08-31T22:32:35.176Z"
   },
   {
     "id": "web-laptop-da3300005767811f",
@@ -10750,7 +10750,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/8/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:49.110Z"
+    "observedAt": "2026-08-31T22:32:35.176Z"
   },
   {
     "id": "web-laptop-5c71a8ba067735cf",
@@ -10766,7 +10766,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/8/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:49.110Z"
+    "observedAt": "2026-08-31T22:32:35.176Z"
   },
   {
     "id": "web-laptop-6e74954fcc3bd907",
@@ -10782,7 +10782,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/8/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:49.110Z"
+    "observedAt": "2026-08-31T22:32:35.176Z"
   },
   {
     "id": "web-laptop-c747ca77e165a7d6",
@@ -10798,7 +10798,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/8/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:49.110Z"
+    "observedAt": "2026-08-31T22:32:35.176Z"
   },
   {
     "id": "web-laptop-c80b5d07f69ee34a",
@@ -10814,7 +10814,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/8/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:49.110Z"
+    "observedAt": "2026-08-31T22:32:35.176Z"
   },
   {
     "id": "web-laptop-6dbf14ddf8313d0a",
@@ -10830,7 +10830,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/8/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:49.110Z"
+    "observedAt": "2026-08-31T22:32:35.176Z"
   },
   {
     "id": "web-laptop-1c1aa6e622117fc5",
@@ -10846,7 +10846,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/8/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:49.110Z"
+    "observedAt": "2026-08-31T22:32:35.176Z"
   },
   {
     "id": "web-laptop-a4f71c471cd92714",
@@ -10862,7 +10862,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/8/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:49.110Z"
+    "observedAt": "2026-08-31T22:32:35.176Z"
   },
   {
     "id": "web-laptop-df730447ba9370e0",
@@ -10878,7 +10878,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/8/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:49.110Z"
+    "observedAt": "2026-08-31T22:32:35.176Z"
   },
   {
     "id": "web-laptop-24705ced3c33cc48",
@@ -10894,7 +10894,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/8/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:49.110Z"
+    "observedAt": "2026-08-31T22:32:35.176Z"
   },
   {
     "id": "web-laptop-27cfcda75097a65f",
@@ -10910,7 +10910,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/8/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:49.110Z"
+    "observedAt": "2026-08-31T22:32:35.176Z"
   },
   {
     "id": "web-laptop-032dbed1cad1865a",
@@ -10926,7 +10926,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/8/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:49.110Z"
+    "observedAt": "2026-08-31T22:32:35.176Z"
   },
   {
     "id": "web-laptop-95f42b2d683963f1",
@@ -10942,7 +10942,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/8/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:49.110Z"
+    "observedAt": "2026-08-31T22:32:35.176Z"
   },
   {
     "id": "web-laptop-8ef4558d50df5eaa",
@@ -10958,7 +10958,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/8/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:49.110Z"
+    "observedAt": "2026-08-31T22:32:35.176Z"
   },
   {
     "id": "web-laptop-d533f82d866e5ade",
@@ -10974,7 +10974,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/8/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:49.110Z"
+    "observedAt": "2026-08-31T22:32:35.176Z"
   },
   {
     "id": "web-laptop-5d4fe40b686da1fa",
@@ -10990,7 +10990,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/8/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:49.110Z"
+    "observedAt": "2026-08-31T22:32:35.176Z"
   },
   {
     "id": "web-laptop-c509b3f980446455",
@@ -11006,7 +11006,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/8/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:49.110Z"
+    "observedAt": "2026-08-31T22:32:35.176Z"
   },
   {
     "id": "web-laptop-6dba3fd80a922c87",
@@ -11022,7 +11022,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/8/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:49.110Z"
+    "observedAt": "2026-08-31T22:32:35.176Z"
   },
   {
     "id": "web-laptop-938666a22b33a716",
@@ -11038,7 +11038,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/8/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:49.110Z"
+    "observedAt": "2026-08-31T22:32:35.176Z"
   },
   {
     "id": "web-laptop-f0c62001717b314a",
@@ -11054,7 +11054,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/8/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:49.111Z"
+    "observedAt": "2026-08-31T22:32:35.176Z"
   },
   {
     "id": "web-laptop-35f9a06efef79c67",
@@ -11070,7 +11070,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/8/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:49.111Z"
+    "observedAt": "2026-08-31T22:32:35.176Z"
   },
   {
     "id": "web-laptop-c3e33d150aad2b16",
@@ -11086,7 +11086,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/8/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:49.111Z"
+    "observedAt": "2026-08-31T22:32:35.176Z"
   },
   {
     "id": "web-laptop-36e016e91d619f42",
@@ -11102,7 +11102,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/9/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:51.914Z"
+    "observedAt": "2026-08-31T22:32:38.203Z"
   },
   {
     "id": "web-laptop-92109ee3cfc5479c",
@@ -11118,7 +11118,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/9/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:51.916Z"
+    "observedAt": "2026-08-31T22:32:38.205Z"
   },
   {
     "id": "web-laptop-0e0c62e7186333cb",
@@ -11134,7 +11134,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/9/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:51.916Z"
+    "observedAt": "2026-08-31T22:32:38.205Z"
   },
   {
     "id": "web-laptop-55efab5321e82ba2",
@@ -11150,11 +11150,11 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/9/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:51.916Z"
+    "observedAt": "2026-08-31T22:32:38.205Z"
   }
 ];
 export const INDEX_META = {
-  "generatedAt": "2026-08-31T22:10:54.937Z",
+  "generatedAt": "2026-08-31T22:32:41.594Z",
   "mobile": 289,
   "laptop": 408,
   "maxPerCategory": 500

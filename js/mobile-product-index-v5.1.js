@@ -13,7 +13,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.317Z"
+    "observedAt": "2026-08-31T22:31:45.075Z"
   },
   {
     "id": "web-mobile-13992d92c945a3cc",
@@ -29,7 +29,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.318Z"
+    "observedAt": "2026-08-31T22:31:45.075Z"
   },
   {
     "id": "web-mobile-780f91dd4105af59",
@@ -45,7 +45,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.318Z"
+    "observedAt": "2026-08-31T22:31:45.076Z"
   },
   {
     "id": "web-mobile-25b1953482f093ca",
@@ -61,7 +61,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.318Z"
+    "observedAt": "2026-08-31T22:31:45.076Z"
   },
   {
     "id": "web-mobile-a489143c03de23b7",
@@ -77,7 +77,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.318Z"
+    "observedAt": "2026-08-31T22:31:45.076Z"
   },
   {
     "id": "web-mobile-4f722fec7469dce7",
@@ -93,7 +93,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.318Z"
+    "observedAt": "2026-08-31T22:31:45.077Z"
   },
   {
     "id": "web-mobile-4052069ff3093f19",
@@ -109,7 +109,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.318Z"
+    "observedAt": "2026-08-31T22:31:45.077Z"
   },
   {
     "id": "web-mobile-84a692bdecd5d9dc",
@@ -125,7 +125,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.318Z"
+    "observedAt": "2026-08-31T22:31:45.077Z"
   },
   {
     "id": "web-mobile-7dd4e0dc1cb7cde3",
@@ -141,7 +141,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.318Z"
+    "observedAt": "2026-08-31T22:31:45.078Z"
   },
   {
     "id": "web-mobile-7fd7cdf8b555694c",
@@ -157,7 +157,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.318Z"
+    "observedAt": "2026-08-31T22:31:45.078Z"
   },
   {
     "id": "web-mobile-6ecf98fd018e431e",
@@ -173,7 +173,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.319Z"
+    "observedAt": "2026-08-31T22:31:45.078Z"
   },
   {
     "id": "web-mobile-bd398e36e9f5159a",
@@ -189,7 +189,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.319Z"
+    "observedAt": "2026-08-31T22:31:45.078Z"
   },
   {
     "id": "web-mobile-84057a25ee94111b",
@@ -205,7 +205,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.319Z"
+    "observedAt": "2026-08-31T22:31:45.078Z"
   },
   {
     "id": "web-mobile-3ccae5a4e3222368",
@@ -221,7 +221,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.319Z"
+    "observedAt": "2026-08-31T22:31:45.079Z"
   },
   {
     "id": "web-mobile-f6f50135d4f3e8e3",
@@ -237,7 +237,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.319Z"
+    "observedAt": "2026-08-31T22:31:45.079Z"
   },
   {
     "id": "web-mobile-e4ca5fdfb7fce775",
@@ -253,7 +253,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.319Z"
+    "observedAt": "2026-08-31T22:31:45.079Z"
   },
   {
     "id": "web-mobile-2d3e09123882061e",
@@ -269,7 +269,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.319Z"
+    "observedAt": "2026-08-31T22:31:45.079Z"
   },
   {
     "id": "web-mobile-64c4a245724d320a",
@@ -285,7 +285,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.319Z"
+    "observedAt": "2026-08-31T22:31:45.079Z"
   },
   {
     "id": "web-mobile-5e7f430a37ad7c71",
@@ -301,7 +301,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.319Z"
+    "observedAt": "2026-08-31T22:31:45.080Z"
   },
   {
     "id": "web-mobile-408400f8843525f9",
@@ -317,7 +317,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.319Z"
+    "observedAt": "2026-08-31T22:31:45.080Z"
   },
   {
     "id": "web-mobile-9bf0f7624053e3a4",
@@ -333,7 +333,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.319Z"
+    "observedAt": "2026-08-31T22:31:45.080Z"
   },
   {
     "id": "web-mobile-0026d2c2934cfc4e",
@@ -349,7 +349,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.319Z"
+    "observedAt": "2026-08-31T22:31:45.080Z"
   },
   {
     "id": "web-mobile-538057dfb89f97da",
@@ -365,7 +365,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.319Z"
+    "observedAt": "2026-08-31T22:31:45.080Z"
   },
   {
     "id": "web-mobile-43ddc9f0610ea9af",
@@ -381,7 +381,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.319Z"
+    "observedAt": "2026-08-31T22:31:45.080Z"
   },
   {
     "id": "web-mobile-e27b7cc9346e2d08",
@@ -397,7 +397,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.319Z"
+    "observedAt": "2026-08-31T22:31:45.081Z"
   },
   {
     "id": "web-mobile-19711fa2673174ac",
@@ -413,7 +413,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.319Z"
+    "observedAt": "2026-08-31T22:31:45.081Z"
   },
   {
     "id": "web-mobile-71fa0dd77134c4de",
@@ -429,7 +429,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.319Z"
+    "observedAt": "2026-08-31T22:31:45.081Z"
   },
   {
     "id": "web-mobile-ecdd00048f65eec5",
@@ -445,7 +445,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.320Z"
+    "observedAt": "2026-08-31T22:31:45.082Z"
   },
   {
     "id": "web-mobile-5a533d496d705583",
@@ -461,7 +461,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.320Z"
+    "observedAt": "2026-08-31T22:31:45.082Z"
   },
   {
     "id": "web-mobile-d2a05191d88daae0",
@@ -477,7 +477,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.321Z"
+    "observedAt": "2026-08-31T22:31:45.084Z"
   },
   {
     "id": "web-mobile-a65d511c4af377fe",
@@ -493,7 +493,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.321Z"
+    "observedAt": "2026-08-31T22:31:45.084Z"
   },
   {
     "id": "web-mobile-4a5d08eed91a6e42",
@@ -509,7 +509,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.321Z"
+    "observedAt": "2026-08-31T22:31:45.084Z"
   },
   {
     "id": "web-mobile-6d48134b1885bfc7",
@@ -525,7 +525,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.321Z"
+    "observedAt": "2026-08-31T22:31:45.085Z"
   },
   {
     "id": "web-mobile-28e95a592713f822",
@@ -541,7 +541,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.321Z"
+    "observedAt": "2026-08-31T22:31:45.085Z"
   },
   {
     "id": "web-mobile-2707da138d2c79d3",
@@ -557,7 +557,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.321Z"
+    "observedAt": "2026-08-31T22:31:45.085Z"
   },
   {
     "id": "web-mobile-87ebb1ca6378a710",
@@ -573,7 +573,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.321Z"
+    "observedAt": "2026-08-31T22:31:45.086Z"
   },
   {
     "id": "web-mobile-6588e1ee788cc10c",
@@ -589,7 +589,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.321Z"
+    "observedAt": "2026-08-31T22:31:45.086Z"
   },
   {
     "id": "web-mobile-dc0c5f8a23f05fe5",
@@ -605,7 +605,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.321Z"
+    "observedAt": "2026-08-31T22:31:45.087Z"
   },
   {
     "id": "web-mobile-7a60a1525049772a",
@@ -621,7 +621,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.321Z"
+    "observedAt": "2026-08-31T22:31:45.087Z"
   },
   {
     "id": "web-mobile-71147f0397e56106",
@@ -637,7 +637,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.321Z"
+    "observedAt": "2026-08-31T22:31:45.087Z"
   },
   {
     "id": "web-mobile-5c883b7ce8d82540",
@@ -653,7 +653,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.322Z"
+    "observedAt": "2026-08-31T22:31:45.087Z"
   },
   {
     "id": "web-mobile-3d4b745e87f64f66",
@@ -669,7 +669,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.322Z"
+    "observedAt": "2026-08-31T22:31:45.088Z"
   },
   {
     "id": "web-mobile-8d5a84d79a333ced",
@@ -685,7 +685,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.322Z"
+    "observedAt": "2026-08-31T22:31:45.088Z"
   },
   {
     "id": "web-mobile-a682f91647473ae9",
@@ -701,7 +701,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.322Z"
+    "observedAt": "2026-08-31T22:31:45.088Z"
   },
   {
     "id": "web-mobile-17bdc327674873a8",
@@ -717,7 +717,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.322Z"
+    "observedAt": "2026-08-31T22:31:45.088Z"
   },
   {
     "id": "web-mobile-9c9fd9d00575924f",
@@ -733,7 +733,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.322Z"
+    "observedAt": "2026-08-31T22:31:45.088Z"
   },
   {
     "id": "web-mobile-bc58dc86fa5d6933",
@@ -749,7 +749,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.322Z"
+    "observedAt": "2026-08-31T22:31:45.088Z"
   },
   {
     "id": "web-mobile-d19a27c1b5f15cff",
@@ -765,7 +765,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.322Z"
+    "observedAt": "2026-08-31T22:31:45.089Z"
   },
   {
     "id": "web-mobile-1e4e1bc3b083e716",
@@ -781,7 +781,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.322Z"
+    "observedAt": "2026-08-31T22:31:45.089Z"
   },
   {
     "id": "web-mobile-29adbe97235c5dbe",
@@ -797,7 +797,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.322Z"
+    "observedAt": "2026-08-31T22:31:45.089Z"
   },
   {
     "id": "web-mobile-0564ce149bb4d0d4",
@@ -813,7 +813,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.322Z"
+    "observedAt": "2026-08-31T22:31:45.089Z"
   },
   {
     "id": "web-mobile-343c6e484774f027",
@@ -829,7 +829,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.322Z"
+    "observedAt": "2026-08-31T22:31:45.089Z"
   },
   {
     "id": "web-mobile-53018be997139f5a",
@@ -845,7 +845,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.322Z"
+    "observedAt": "2026-08-31T22:31:45.089Z"
   },
   {
     "id": "web-mobile-faa5b066ac22b612",
@@ -861,7 +861,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.323Z"
+    "observedAt": "2026-08-31T22:31:45.091Z"
   },
   {
     "id": "web-mobile-8b96e0d4409b9fa1",
@@ -877,7 +877,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.323Z"
+    "observedAt": "2026-08-31T22:31:45.093Z"
   },
   {
     "id": "web-mobile-46fa0d1f3d29d6cc",
@@ -893,7 +893,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.324Z"
+    "observedAt": "2026-08-31T22:31:45.094Z"
   },
   {
     "id": "web-mobile-af8dea85eb29c980",
@@ -909,7 +909,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.324Z"
+    "observedAt": "2026-08-31T22:31:45.095Z"
   },
   {
     "id": "web-mobile-29d3b967ae6c2438",
@@ -925,7 +925,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.324Z"
+    "observedAt": "2026-08-31T22:31:45.095Z"
   },
   {
     "id": "web-mobile-bffa0ca05e8fd5af",
@@ -941,7 +941,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.324Z"
+    "observedAt": "2026-08-31T22:31:45.095Z"
   },
   {
     "id": "web-mobile-2805ca4467e2a869",
@@ -957,7 +957,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.324Z"
+    "observedAt": "2026-08-31T22:31:45.095Z"
   },
   {
     "id": "web-mobile-f914b9c66b3d05c6",
@@ -973,7 +973,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.325Z"
+    "observedAt": "2026-08-31T22:31:45.097Z"
   },
   {
     "id": "web-mobile-7d3ed426efa189a9",
@@ -989,7 +989,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.326Z"
+    "observedAt": "2026-08-31T22:31:45.098Z"
   },
   {
     "id": "web-mobile-3a59d18699902df1",
@@ -1005,7 +1005,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.326Z"
+    "observedAt": "2026-08-31T22:31:45.098Z"
   },
   {
     "id": "web-mobile-005fdbbb4e0042a5",
@@ -1021,7 +1021,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.326Z"
+    "observedAt": "2026-08-31T22:31:45.099Z"
   },
   {
     "id": "web-mobile-f06e87c50a07e6c5",
@@ -1037,7 +1037,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.327Z"
+    "observedAt": "2026-08-31T22:31:45.100Z"
   },
   {
     "id": "web-mobile-6d7e8792ab6d5d4b",
@@ -1053,7 +1053,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.327Z"
+    "observedAt": "2026-08-31T22:31:45.102Z"
   },
   {
     "id": "web-mobile-3772570ed18659af",
@@ -1069,7 +1069,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.327Z"
+    "observedAt": "2026-08-31T22:31:45.102Z"
   },
   {
     "id": "web-mobile-334db9565efd3f2c",
@@ -1085,7 +1085,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.327Z"
+    "observedAt": "2026-08-31T22:31:45.102Z"
   },
   {
     "id": "web-mobile-1606242d82149c99",
@@ -1101,7 +1101,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.327Z"
+    "observedAt": "2026-08-31T22:31:45.102Z"
   },
   {
     "id": "web-mobile-6af6e8401f6d880c",
@@ -1117,7 +1117,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.327Z"
+    "observedAt": "2026-08-31T22:31:45.102Z"
   },
   {
     "id": "web-mobile-b1790e2c32cdf2ce",
@@ -1133,7 +1133,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.327Z"
+    "observedAt": "2026-08-31T22:31:45.102Z"
   },
   {
     "id": "web-mobile-3f79a36d3cad4564",
@@ -1149,7 +1149,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.328Z"
+    "observedAt": "2026-08-31T22:31:45.102Z"
   },
   {
     "id": "web-mobile-758184b80b94b114",
@@ -1165,7 +1165,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.328Z"
+    "observedAt": "2026-08-31T22:31:45.104Z"
   },
   {
     "id": "web-mobile-f5fe70e7a2fc88ff",
@@ -1181,7 +1181,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.329Z"
+    "observedAt": "2026-08-31T22:31:45.104Z"
   },
   {
     "id": "web-mobile-3657a26a277e2a57",
@@ -1197,7 +1197,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.329Z"
+    "observedAt": "2026-08-31T22:31:45.104Z"
   },
   {
     "id": "web-mobile-bbb538061adc7f06",
@@ -1213,7 +1213,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.329Z"
+    "observedAt": "2026-08-31T22:31:45.104Z"
   },
   {
     "id": "web-mobile-cbe9e3fcc33531dd",
@@ -1229,7 +1229,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.329Z"
+    "observedAt": "2026-08-31T22:31:45.104Z"
   },
   {
     "id": "web-mobile-990bef63d6e7b0bc",
@@ -1245,7 +1245,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.329Z"
+    "observedAt": "2026-08-31T22:31:45.104Z"
   },
   {
     "id": "web-mobile-3d875f6dfe205f1c",
@@ -1261,7 +1261,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.329Z"
+    "observedAt": "2026-08-31T22:31:45.105Z"
   },
   {
     "id": "web-mobile-60d4b1cd6a3a02dd",
@@ -1277,7 +1277,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.330Z"
+    "observedAt": "2026-08-31T22:31:45.105Z"
   },
   {
     "id": "web-mobile-75bc80b5c6d04814",
@@ -1293,7 +1293,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:09:59.330Z"
+    "observedAt": "2026-08-31T22:31:45.105Z"
   },
   {
     "id": "web-mobile-d6e94196d75119f2",
@@ -1309,7 +1309,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.750Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-dc2da4675090301e",
@@ -1325,7 +1325,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.750Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-47a4bf99ec690cde",
@@ -1341,7 +1341,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.750Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-98fb24f98ad1e8ee",
@@ -1357,7 +1357,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.750Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-f28f8a2fb5e6ab83",
@@ -1373,7 +1373,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.750Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-c1a27f5477def1d1",
@@ -1389,7 +1389,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.750Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-daff285cb6795d3c",
@@ -1405,7 +1405,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.750Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-1fe5cd6a2bd7cf1c",
@@ -1421,7 +1421,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.750Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-a93ee12f2a84c73e",
@@ -1437,7 +1437,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.750Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-d705ab8b6e4ebfcc",
@@ -1453,7 +1453,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.750Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-951caf83db5563a0",
@@ -1469,7 +1469,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.750Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-c88e8df7525ddc04",
@@ -1485,7 +1485,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.750Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-6f0b6b7198341504",
@@ -1501,7 +1501,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.750Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-419c1e5d6880d6a8",
@@ -1517,7 +1517,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.750Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-583d30762bc06070",
@@ -1533,7 +1533,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.750Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-ad3f0e7eb9194545",
@@ -1549,7 +1549,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.750Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-62a935f9545431f3",
@@ -1565,7 +1565,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.750Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-8edaad25ab114efc",
@@ -1581,7 +1581,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.750Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-34af5338aaf0b14f",
@@ -1597,7 +1597,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-81a3cfaf07729276",
@@ -1613,7 +1613,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-220a96b3d20fde16",
@@ -1629,7 +1629,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-5b7baa7b30323484",
@@ -1645,7 +1645,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-99eb7cfefebea4e5",
@@ -1661,7 +1661,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-f73ce79e3b2e5156",
@@ -1677,7 +1677,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-760097705a007369",
@@ -1693,7 +1693,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-37e444ead0b33b2b",
@@ -1709,7 +1709,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-2766abafd36825a4",
@@ -1725,7 +1725,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-36e66101b9d11991",
@@ -1741,7 +1741,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-720b6a4604d461df",
@@ -1757,7 +1757,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-c79da22833b83868",
@@ -1773,7 +1773,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-fa0953ea33e79399",
@@ -1789,7 +1789,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-3f2161aeab3baf6b",
@@ -1805,7 +1805,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-fa602a708780b8be",
@@ -1821,7 +1821,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-20a209c677814dda",
@@ -1837,7 +1837,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-070ed70aeb203eca",
@@ -1853,7 +1853,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-f368fa59e12f287a",
@@ -1869,7 +1869,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-4e5119b7b79b60a5",
@@ -1885,7 +1885,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-a55b26a57c95779b",
@@ -1901,7 +1901,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-ecd1b932c16852aa",
@@ -1917,7 +1917,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-96563c7d7223f28b",
@@ -1933,7 +1933,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-999349dc89e4db9f",
@@ -1949,7 +1949,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-79804d309a4c9cbb",
@@ -1965,7 +1965,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-df1a4bb57f509c8a",
@@ -1981,7 +1981,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-8dce6f9be7a4aa0e",
@@ -1997,7 +1997,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-4ed431e5c8bd4ca4",
@@ -2013,7 +2013,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-e8cb7c3b9082fd44",
@@ -2029,7 +2029,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-96353d55fd75b7ae",
@@ -2045,7 +2045,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-33cbb86c4ec1aa5c",
@@ -2061,7 +2061,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-3db4366eac360c5e",
@@ -2077,7 +2077,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-413118fc4f736a0c",
@@ -2093,7 +2093,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-6ba9c41fa68d38ec",
@@ -2109,7 +2109,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-76e352a5813b3ca7",
@@ -2125,7 +2125,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-3378e21ead9aa4b7",
@@ -2141,7 +2141,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-9fb11a3461ca464c",
@@ -2157,7 +2157,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-c5a391ec5449c32b",
@@ -2173,7 +2173,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-bb0d04c60ced4a6b",
@@ -2189,7 +2189,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-0e677e4e05d39499",
@@ -2205,7 +2205,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-d66dee94ff270432",
@@ -2221,7 +2221,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-09c3c2795f9041b7",
@@ -2237,7 +2237,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-85a31972165bf7c4",
@@ -2253,7 +2253,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-2a8dcae7daf7281d",
@@ -2269,7 +2269,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-049d5f96017b071d",
@@ -2285,7 +2285,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-2fc592b5957fa549",
@@ -2301,7 +2301,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-4376660a2c01f499",
@@ -2317,7 +2317,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-435f3a5aff0bd46c",
@@ -2333,7 +2333,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-55ecf22c1e661ffb",
@@ -2349,7 +2349,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-0544af51c64d155d",
@@ -2365,7 +2365,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.416Z"
   },
   {
     "id": "web-mobile-6116e7ac90495a09",
@@ -2381,7 +2381,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-49349d462e9d302c",
@@ -2397,7 +2397,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-fbe1cf370108c2bb",
@@ -2413,7 +2413,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-5ab616d64faa5e4d",
@@ -2429,7 +2429,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-bfa6c473bcb41614",
@@ -2445,7 +2445,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-d29fa18c31dd505e",
@@ -2461,7 +2461,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-31795d31500a24fe",
@@ -2477,7 +2477,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-182cf2a6dd8445fd",
@@ -2493,7 +2493,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-d814a41549c0ff75",
@@ -2509,7 +2509,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-bb22bc181f1d68a9",
@@ -2525,7 +2525,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-199e97dd6754fe61",
@@ -2541,7 +2541,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-6c627a972e8da0a5",
@@ -2557,7 +2557,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-6ef3e2232005d822",
@@ -2573,7 +2573,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-210063150cac8e79",
@@ -2589,7 +2589,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-c202b3d79ec28469",
@@ -2605,7 +2605,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-7fd3e0a188158e66",
@@ -2621,7 +2621,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-d9fd22d02915b3a1",
@@ -2637,7 +2637,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-85015828ffbe6a89",
@@ -2653,7 +2653,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-33288d2cb6677b57",
@@ -2669,7 +2669,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-86565cb78279d9f5",
@@ -2685,7 +2685,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-a731c2b0109ab798",
@@ -2701,7 +2701,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-0e49e0fe5b34dc2e",
@@ -2717,7 +2717,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-6c639f5ad715ba20",
@@ -2733,7 +2733,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-c4f82ef311d37eb6",
@@ -2749,7 +2749,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-38d3cba72f55ae5e",
@@ -2765,7 +2765,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-11f57a261a7601f9",
@@ -2781,7 +2781,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-03141ef25a240e77",
@@ -2797,7 +2797,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-c8c7600b334500f6",
@@ -2813,7 +2813,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-fa58e8242ce2aa1d",
@@ -2829,7 +2829,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-7215913030cd5418",
@@ -2845,7 +2845,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-46e1a1323aed1a9a",
@@ -2861,7 +2861,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-2c4d16c584357cef",
@@ -2877,7 +2877,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-a8d0c49ab9120bb6",
@@ -2893,7 +2893,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-a91d13b4226fafa5",
@@ -2909,7 +2909,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-afaf245d62909595",
@@ -2925,7 +2925,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-c9739b68c5b578e8",
@@ -2941,7 +2941,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-278c72bfb401b8d7",
@@ -2957,7 +2957,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-68a3e816cd375738",
@@ -2973,7 +2973,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-67af44777b2018a2",
@@ -2989,7 +2989,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-656a48148df8260b",
@@ -3005,7 +3005,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-e610895a08af9bec",
@@ -3021,7 +3021,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-cc872f69c435112f",
@@ -3037,7 +3037,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-cc8317e32b7e9c0c",
@@ -3053,7 +3053,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-d7142bd905b19956",
@@ -3069,7 +3069,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-68d1a916e6dcca06",
@@ -3085,7 +3085,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-69bf2b687a3f96de",
@@ -3101,7 +3101,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-706ef9e2a64afac2",
@@ -3117,7 +3117,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-9e591ec0ffaee2e7",
@@ -3133,7 +3133,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.751Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-8b85f44e12b7c0f0",
@@ -3149,7 +3149,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-a012b4866647060f",
@@ -3165,7 +3165,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-253035d9ccec65cf",
@@ -3181,7 +3181,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-dea138bc29b7ad4e",
@@ -3197,7 +3197,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-4fd3b6457d87c9bf",
@@ -3213,7 +3213,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-c78f642e9c31dde5",
@@ -3229,7 +3229,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-deaa1c71e80302b1",
@@ -3245,7 +3245,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-f4d1fb4573dbbc46",
@@ -3261,7 +3261,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-895debfc3641b5fe",
@@ -3277,7 +3277,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-a08629d7b5c7914b",
@@ -3293,7 +3293,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-275896d8bf6fe9da",
@@ -3309,7 +3309,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-e4938103ddec92a0",
@@ -3325,7 +3325,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-1848c45045fd6e7d",
@@ -3341,7 +3341,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-bcd898764f8f79e5",
@@ -3357,7 +3357,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-afe324c515ec0b50",
@@ -3373,7 +3373,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-7b847fb1c997b8be",
@@ -3389,7 +3389,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-624a7a2efdb96830",
@@ -3405,7 +3405,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-88ae21fbc8fc17b2",
@@ -3421,7 +3421,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-160cd4f597260b48",
@@ -3437,7 +3437,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-df6ab139ea7573f8",
@@ -3453,7 +3453,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-8f47a967fde9ad13",
@@ -3469,7 +3469,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-9daabe17765030d3",
@@ -3485,7 +3485,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-9f7c735b3bb647e2",
@@ -3501,7 +3501,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-ce24923c7bb3158a",
@@ -3517,7 +3517,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-03130403fd6c2781",
@@ -3533,7 +3533,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-64af5163492282e7",
@@ -3549,7 +3549,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-2fcdd54c75ad77f2",
@@ -3565,7 +3565,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-63edb05b9f11de45",
@@ -3581,7 +3581,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-b4650869d285abd0",
@@ -3597,7 +3597,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-f5c836495c0358ad",
@@ -3613,7 +3613,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-f613c8df1dc5390a",
@@ -3629,7 +3629,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-10ed5044ac0e10d1",
@@ -3645,7 +3645,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.417Z"
   },
   {
     "id": "web-mobile-0bf41687d06bb3f2",
@@ -3661,7 +3661,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.418Z"
   },
   {
     "id": "web-mobile-b7187056b1405e13",
@@ -3677,7 +3677,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.418Z"
   },
   {
     "id": "web-mobile-215e3d55173b65ff",
@@ -3693,7 +3693,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.418Z"
   },
   {
     "id": "web-mobile-e5bedde7fee935ba",
@@ -3709,7 +3709,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.418Z"
   },
   {
     "id": "web-mobile-aab38913ca0b2e22",
@@ -3725,7 +3725,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.418Z"
   },
   {
     "id": "web-mobile-2e227c37cb0b25ae",
@@ -3741,7 +3741,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.418Z"
   },
   {
     "id": "web-mobile-e6f525d58886324b",
@@ -3757,7 +3757,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.418Z"
   },
   {
     "id": "web-mobile-35b93010114879e0",
@@ -3773,7 +3773,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.418Z"
   },
   {
     "id": "web-mobile-ada592d0b05c2ee4",
@@ -3789,7 +3789,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.418Z"
   },
   {
     "id": "web-mobile-53d47abc4e3de14e",
@@ -3805,7 +3805,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.418Z"
   },
   {
     "id": "web-mobile-91e74e80ee2605dc",
@@ -3821,7 +3821,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.418Z"
   },
   {
     "id": "web-mobile-8bc484c45c54c8af",
@@ -3837,7 +3837,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.418Z"
   },
   {
     "id": "web-mobile-6ca27cd40da2f4be",
@@ -3853,7 +3853,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.418Z"
   },
   {
     "id": "web-mobile-ff1f5e99486b30ec",
@@ -3869,7 +3869,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.752Z"
+    "observedAt": "2026-08-31T22:31:50.418Z"
   },
   {
     "id": "web-mobile-477565f53b10c708",
@@ -3885,7 +3885,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.753Z"
+    "observedAt": "2026-08-31T22:31:50.418Z"
   },
   {
     "id": "web-mobile-5618b8f990510e1c",
@@ -3901,7 +3901,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:04.753Z"
+    "observedAt": "2026-08-31T22:31:50.418Z"
   },
   {
     "id": "web-mobile-1a3b56d15da8bcad",
@@ -3917,7 +3917,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:09.933Z"
+    "observedAt": "2026-08-31T22:31:54.874Z"
   },
   {
     "id": "web-mobile-5d98ef7ed0e84f22",
@@ -3933,7 +3933,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:09.937Z"
+    "observedAt": "2026-08-31T22:31:54.875Z"
   },
   {
     "id": "web-mobile-691a9e47b7ca30db",
@@ -3949,7 +3949,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:09.937Z"
+    "observedAt": "2026-08-31T22:31:54.875Z"
   },
   {
     "id": "web-mobile-48c19ad9413c939d",
@@ -3965,7 +3965,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:09.937Z"
+    "observedAt": "2026-08-31T22:31:54.875Z"
   },
   {
     "id": "web-mobile-ced993e1747ed64b",
@@ -3981,7 +3981,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:09.937Z"
+    "observedAt": "2026-08-31T22:31:54.875Z"
   },
   {
     "id": "web-mobile-c86445d320af8212",
@@ -3997,7 +3997,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:09.937Z"
+    "observedAt": "2026-08-31T22:31:54.875Z"
   },
   {
     "id": "web-mobile-583dbcd64a61f540",
@@ -4013,7 +4013,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:09.937Z"
+    "observedAt": "2026-08-31T22:31:54.875Z"
   },
   {
     "id": "web-mobile-059a88d2aab6638e",
@@ -4029,7 +4029,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:09.937Z"
+    "observedAt": "2026-08-31T22:31:54.876Z"
   },
   {
     "id": "web-mobile-b0106823239d4842",
@@ -4045,7 +4045,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:09.937Z"
+    "observedAt": "2026-08-31T22:31:54.876Z"
   },
   {
     "id": "web-mobile-c63ac2ce6f999f26",
@@ -4061,7 +4061,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:09.937Z"
+    "observedAt": "2026-08-31T22:31:54.876Z"
   },
   {
     "id": "web-mobile-3d4aa43885355e00",
@@ -4077,7 +4077,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:09.937Z"
+    "observedAt": "2026-08-31T22:31:54.876Z"
   },
   {
     "id": "web-mobile-d91e5d69c8fffa03",
@@ -4093,7 +4093,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:09.937Z"
+    "observedAt": "2026-08-31T22:31:54.876Z"
   },
   {
     "id": "web-mobile-04c6c3292a1fe74c",
@@ -4109,7 +4109,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:09.937Z"
+    "observedAt": "2026-08-31T22:31:54.876Z"
   },
   {
     "id": "web-mobile-925148ae0c9738b2",
@@ -4125,7 +4125,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:09.937Z"
+    "observedAt": "2026-08-31T22:31:54.876Z"
   },
   {
     "id": "web-mobile-adb62c5d6cd35d6c",
@@ -4141,7 +4141,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:09.937Z"
+    "observedAt": "2026-08-31T22:31:54.876Z"
   },
   {
     "id": "web-mobile-254de582b7867d50",
@@ -4157,7 +4157,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:09.937Z"
+    "observedAt": "2026-08-31T22:31:54.876Z"
   },
   {
     "id": "web-mobile-e7a80e5ceef17aac",
@@ -4173,7 +4173,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:09.937Z"
+    "observedAt": "2026-08-31T22:31:54.876Z"
   },
   {
     "id": "web-mobile-2cb536dc7eda625f",
@@ -4189,7 +4189,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:09.937Z"
+    "observedAt": "2026-08-31T22:31:54.876Z"
   },
   {
     "id": "web-mobile-47d900cab32567da",
@@ -4205,7 +4205,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:09.937Z"
+    "observedAt": "2026-08-31T22:31:54.876Z"
   },
   {
     "id": "web-mobile-989fd9b537503f34",
@@ -4221,7 +4221,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:09.937Z"
+    "observedAt": "2026-08-31T22:31:54.876Z"
   },
   {
     "id": "web-mobile-e0ebaa93564bbf3d",
@@ -4237,7 +4237,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:09.937Z"
+    "observedAt": "2026-08-31T22:31:54.876Z"
   },
   {
     "id": "web-mobile-10c6dab365059306",
@@ -4253,7 +4253,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:09.937Z"
+    "observedAt": "2026-08-31T22:31:54.876Z"
   },
   {
     "id": "web-mobile-a81e277f971b2aa5",
@@ -4269,7 +4269,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:09.937Z"
+    "observedAt": "2026-08-31T22:31:54.876Z"
   },
   {
     "id": "web-mobile-d8e4850987bf7453",
@@ -4285,7 +4285,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:09.937Z"
+    "observedAt": "2026-08-31T22:31:54.876Z"
   },
   {
     "id": "web-mobile-2053a28c5ce6bcc3",
@@ -4301,7 +4301,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:09.937Z"
+    "observedAt": "2026-08-31T22:31:54.876Z"
   },
   {
     "id": "web-mobile-ee3d6046f8d3e175",
@@ -4317,7 +4317,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/3/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:12.543Z"
+    "observedAt": "2026-08-31T22:31:57.684Z"
   },
   {
     "id": "web-mobile-15d2bae42d6e76b6",
@@ -4333,7 +4333,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/3/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:12.545Z"
+    "observedAt": "2026-08-31T22:31:57.688Z"
   },
   {
     "id": "web-mobile-8d38ee6026798718",
@@ -4349,7 +4349,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/3/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:12.545Z"
+    "observedAt": "2026-08-31T22:31:57.688Z"
   },
   {
     "id": "web-mobile-bda10d3b76cc11d4",
@@ -4365,7 +4365,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/3/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:10:12.545Z"
+    "observedAt": "2026-08-31T22:31:57.688Z"
   },
   {
     "id": "web-mobile-9d339ab00650458e",
@@ -4381,7 +4381,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "bprshop",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop",
-    "observedAt": "2026-08-31T22:10:15.443Z"
+    "observedAt": "2026-08-31T22:32:00.686Z"
   },
   {
     "id": "web-mobile-89d10a412be81fa2",
@@ -4397,7 +4397,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "bprshop",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop",
-    "observedAt": "2026-08-31T22:10:15.443Z"
+    "observedAt": "2026-08-31T22:32:00.686Z"
   },
   {
     "id": "web-mobile-88539d3edfd06105",
@@ -4413,7 +4413,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "bprshop",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop",
-    "observedAt": "2026-08-31T22:10:15.443Z"
+    "observedAt": "2026-08-31T22:32:00.686Z"
   },
   {
     "id": "web-mobile-e92490ac7d6e5556",
@@ -4429,7 +4429,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "bprshop",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop",
-    "observedAt": "2026-08-31T22:10:15.443Z"
+    "observedAt": "2026-08-31T22:32:00.686Z"
   },
   {
     "id": "web-mobile-5e568e7546d03654",
@@ -4445,7 +4445,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "bprshop",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop",
-    "observedAt": "2026-08-31T22:10:15.443Z"
+    "observedAt": "2026-08-31T22:32:00.686Z"
   },
   {
     "id": "web-mobile-52eec7474332a8a5",
@@ -4461,7 +4461,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "bprshop",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop",
-    "observedAt": "2026-08-31T22:10:15.443Z"
+    "observedAt": "2026-08-31T22:32:00.686Z"
   },
   {
     "id": "web-mobile-2ef4a854480c0492",
@@ -4477,7 +4477,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "bprshop",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop",
-    "observedAt": "2026-08-31T22:10:15.443Z"
+    "observedAt": "2026-08-31T22:32:00.687Z"
   },
   {
     "id": "web-mobile-9811052e5831f6f9",
@@ -4493,7 +4493,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "bprshop",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop",
-    "observedAt": "2026-08-31T22:10:15.443Z"
+    "observedAt": "2026-08-31T22:32:00.687Z"
   },
   {
     "id": "web-mobile-95be281bd40b2069",
@@ -4509,7 +4509,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "bprshop",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop",
-    "observedAt": "2026-08-31T22:10:15.443Z"
+    "observedAt": "2026-08-31T22:32:00.687Z"
   },
   {
     "id": "web-mobile-493cc3d7fc5e0c4d",
@@ -4525,7 +4525,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "bprshop",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop",
-    "observedAt": "2026-08-31T22:10:15.443Z"
+    "observedAt": "2026-08-31T22:32:00.687Z"
   },
   {
     "id": "web-mobile-28e50df4ae0c29c7",
@@ -4541,7 +4541,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "bprshop",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop",
-    "observedAt": "2026-08-31T22:10:15.443Z"
+    "observedAt": "2026-08-31T22:32:00.687Z"
   },
   {
     "id": "web-mobile-7cc711049aef9728",
@@ -4557,7 +4557,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "bprshop",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop",
-    "observedAt": "2026-08-31T22:10:15.443Z"
+    "observedAt": "2026-08-31T22:32:00.687Z"
   },
   {
     "id": "web-mobile-d0d351e60fadf08b",
@@ -4573,7 +4573,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "bprshop",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop",
-    "observedAt": "2026-08-31T22:10:15.443Z"
+    "observedAt": "2026-08-31T22:32:00.687Z"
   },
   {
     "id": "web-mobile-35a23e95fda75300",
@@ -4589,7 +4589,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "bprshop",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop",
-    "observedAt": "2026-08-31T22:10:15.443Z"
+    "observedAt": "2026-08-31T22:32:00.687Z"
   },
   {
     "id": "web-mobile-602f9ea6e92b451b",
@@ -4605,7 +4605,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "bprshop",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop",
-    "observedAt": "2026-08-31T22:10:15.443Z"
+    "observedAt": "2026-08-31T22:32:00.687Z"
   },
   {
     "id": "web-mobile-c0c76cbbec6d5303",
@@ -4621,6 +4621,6 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "bprshop",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop",
-    "observedAt": "2026-08-31T22:10:15.443Z"
+    "observedAt": "2026-08-31T22:32:00.687Z"
   }
 ];
