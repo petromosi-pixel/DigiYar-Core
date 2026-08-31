@@ -13,7 +13,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.075Z"
+    "observedAt": "2026-08-31T22:47:41.846Z"
   },
   {
     "id": "web-mobile-13992d92c945a3cc",
@@ -29,7 +29,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.075Z"
+    "observedAt": "2026-08-31T22:47:41.846Z"
   },
   {
     "id": "web-mobile-780f91dd4105af59",
@@ -45,7 +45,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.076Z"
+    "observedAt": "2026-08-31T22:47:41.847Z"
   },
   {
     "id": "web-mobile-25b1953482f093ca",
@@ -61,7 +61,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.076Z"
+    "observedAt": "2026-08-31T22:47:41.847Z"
   },
   {
     "id": "web-mobile-a489143c03de23b7",
@@ -77,7 +77,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.076Z"
+    "observedAt": "2026-08-31T22:47:41.847Z"
   },
   {
     "id": "web-mobile-4f722fec7469dce7",
@@ -93,7 +93,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.077Z"
+    "observedAt": "2026-08-31T22:47:41.847Z"
   },
   {
     "id": "web-mobile-4052069ff3093f19",
@@ -109,7 +109,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.077Z"
+    "observedAt": "2026-08-31T22:47:41.847Z"
   },
   {
     "id": "web-mobile-84a692bdecd5d9dc",
@@ -125,7 +125,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.077Z"
+    "observedAt": "2026-08-31T22:47:41.847Z"
   },
   {
     "id": "web-mobile-7dd4e0dc1cb7cde3",
@@ -141,7 +141,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.078Z"
+    "observedAt": "2026-08-31T22:47:41.847Z"
   },
   {
     "id": "web-mobile-7fd7cdf8b555694c",
@@ -157,7 +157,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.078Z"
+    "observedAt": "2026-08-31T22:47:41.847Z"
   },
   {
     "id": "web-mobile-6ecf98fd018e431e",
@@ -173,7 +173,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.078Z"
+    "observedAt": "2026-08-31T22:47:41.847Z"
   },
   {
     "id": "web-mobile-bd398e36e9f5159a",
@@ -189,7 +189,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.078Z"
+    "observedAt": "2026-08-31T22:47:41.847Z"
   },
   {
     "id": "web-mobile-84057a25ee94111b",
@@ -205,7 +205,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.078Z"
+    "observedAt": "2026-08-31T22:47:41.847Z"
   },
   {
     "id": "web-mobile-3ccae5a4e3222368",
@@ -221,7 +221,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.079Z"
+    "observedAt": "2026-08-31T22:47:41.847Z"
   },
   {
     "id": "web-mobile-f6f50135d4f3e8e3",
@@ -237,7 +237,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.079Z"
+    "observedAt": "2026-08-31T22:47:41.847Z"
   },
   {
     "id": "web-mobile-e4ca5fdfb7fce775",
@@ -253,7 +253,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.079Z"
+    "observedAt": "2026-08-31T22:47:41.847Z"
   },
   {
     "id": "web-mobile-2d3e09123882061e",
@@ -269,7 +269,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.079Z"
+    "observedAt": "2026-08-31T22:47:41.847Z"
   },
   {
     "id": "web-mobile-64c4a245724d320a",
@@ -285,7 +285,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.079Z"
+    "observedAt": "2026-08-31T22:47:41.847Z"
   },
   {
     "id": "web-mobile-5e7f430a37ad7c71",
@@ -301,7 +301,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.080Z"
+    "observedAt": "2026-08-31T22:47:41.847Z"
   },
   {
     "id": "web-mobile-408400f8843525f9",
@@ -317,7 +317,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.080Z"
+    "observedAt": "2026-08-31T22:47:41.848Z"
   },
   {
     "id": "web-mobile-9bf0f7624053e3a4",
@@ -333,7 +333,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.080Z"
+    "observedAt": "2026-08-31T22:47:41.848Z"
   },
   {
     "id": "web-mobile-0026d2c2934cfc4e",
@@ -349,7 +349,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.080Z"
+    "observedAt": "2026-08-31T22:47:41.848Z"
   },
   {
     "id": "web-mobile-538057dfb89f97da",
@@ -365,7 +365,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.080Z"
+    "observedAt": "2026-08-31T22:47:41.848Z"
   },
   {
     "id": "web-mobile-43ddc9f0610ea9af",
@@ -381,7 +381,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.080Z"
+    "observedAt": "2026-08-31T22:47:41.848Z"
   },
   {
     "id": "web-mobile-e27b7cc9346e2d08",
@@ -397,7 +397,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.081Z"
+    "observedAt": "2026-08-31T22:47:41.848Z"
   },
   {
     "id": "web-mobile-19711fa2673174ac",
@@ -413,7 +413,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.081Z"
+    "observedAt": "2026-08-31T22:47:41.848Z"
   },
   {
     "id": "web-mobile-71fa0dd77134c4de",
@@ -429,7 +429,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.081Z"
+    "observedAt": "2026-08-31T22:47:41.848Z"
   },
   {
     "id": "web-mobile-ecdd00048f65eec5",
@@ -445,7 +445,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.082Z"
+    "observedAt": "2026-08-31T22:47:41.848Z"
   },
   {
     "id": "web-mobile-5a533d496d705583",
@@ -461,7 +461,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.082Z"
+    "observedAt": "2026-08-31T22:47:41.848Z"
   },
   {
     "id": "web-mobile-d2a05191d88daae0",
@@ -477,7 +477,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.084Z"
+    "observedAt": "2026-08-31T22:47:41.849Z"
   },
   {
     "id": "web-mobile-a65d511c4af377fe",
@@ -493,7 +493,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.084Z"
+    "observedAt": "2026-08-31T22:47:41.849Z"
   },
   {
     "id": "web-mobile-4a5d08eed91a6e42",
@@ -509,7 +509,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.084Z"
+    "observedAt": "2026-08-31T22:47:41.849Z"
   },
   {
     "id": "web-mobile-6d48134b1885bfc7",
@@ -525,7 +525,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.085Z"
+    "observedAt": "2026-08-31T22:47:41.849Z"
   },
   {
     "id": "web-mobile-28e95a592713f822",
@@ -541,7 +541,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.085Z"
+    "observedAt": "2026-08-31T22:47:41.849Z"
   },
   {
     "id": "web-mobile-2707da138d2c79d3",
@@ -557,7 +557,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.085Z"
+    "observedAt": "2026-08-31T22:47:41.849Z"
   },
   {
     "id": "web-mobile-87ebb1ca6378a710",
@@ -573,7 +573,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.086Z"
+    "observedAt": "2026-08-31T22:47:41.849Z"
   },
   {
     "id": "web-mobile-6588e1ee788cc10c",
@@ -589,7 +589,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.086Z"
+    "observedAt": "2026-08-31T22:47:41.849Z"
   },
   {
     "id": "web-mobile-dc0c5f8a23f05fe5",
@@ -605,7 +605,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.087Z"
+    "observedAt": "2026-08-31T22:47:41.849Z"
   },
   {
     "id": "web-mobile-7a60a1525049772a",
@@ -621,7 +621,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.087Z"
+    "observedAt": "2026-08-31T22:47:41.849Z"
   },
   {
     "id": "web-mobile-71147f0397e56106",
@@ -637,7 +637,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.087Z"
+    "observedAt": "2026-08-31T22:47:41.849Z"
   },
   {
     "id": "web-mobile-5c883b7ce8d82540",
@@ -653,7 +653,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.087Z"
+    "observedAt": "2026-08-31T22:47:41.849Z"
   },
   {
     "id": "web-mobile-3d4b745e87f64f66",
@@ -669,7 +669,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.088Z"
+    "observedAt": "2026-08-31T22:47:41.849Z"
   },
   {
     "id": "web-mobile-8d5a84d79a333ced",
@@ -685,7 +685,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.088Z"
+    "observedAt": "2026-08-31T22:47:41.849Z"
   },
   {
     "id": "web-mobile-a682f91647473ae9",
@@ -701,7 +701,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.088Z"
+    "observedAt": "2026-08-31T22:47:41.849Z"
   },
   {
     "id": "web-mobile-17bdc327674873a8",
@@ -717,7 +717,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.088Z"
+    "observedAt": "2026-08-31T22:47:41.849Z"
   },
   {
     "id": "web-mobile-9c9fd9d00575924f",
@@ -733,7 +733,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.088Z"
+    "observedAt": "2026-08-31T22:47:41.850Z"
   },
   {
     "id": "web-mobile-bc58dc86fa5d6933",
@@ -749,7 +749,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.088Z"
+    "observedAt": "2026-08-31T22:47:41.850Z"
   },
   {
     "id": "web-mobile-d19a27c1b5f15cff",
@@ -765,7 +765,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.089Z"
+    "observedAt": "2026-08-31T22:47:41.850Z"
   },
   {
     "id": "web-mobile-1e4e1bc3b083e716",
@@ -781,7 +781,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.089Z"
+    "observedAt": "2026-08-31T22:47:41.850Z"
   },
   {
     "id": "web-mobile-29adbe97235c5dbe",
@@ -797,7 +797,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.089Z"
+    "observedAt": "2026-08-31T22:47:41.850Z"
   },
   {
     "id": "web-mobile-0564ce149bb4d0d4",
@@ -813,7 +813,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.089Z"
+    "observedAt": "2026-08-31T22:47:41.850Z"
   },
   {
     "id": "web-mobile-343c6e484774f027",
@@ -829,7 +829,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.089Z"
+    "observedAt": "2026-08-31T22:47:41.850Z"
   },
   {
     "id": "web-mobile-53018be997139f5a",
@@ -845,7 +845,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.089Z"
+    "observedAt": "2026-08-31T22:47:41.850Z"
   },
   {
     "id": "web-mobile-faa5b066ac22b612",
@@ -861,7 +861,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.091Z"
+    "observedAt": "2026-08-31T22:47:41.850Z"
   },
   {
     "id": "web-mobile-8b96e0d4409b9fa1",
@@ -877,7 +877,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.093Z"
+    "observedAt": "2026-08-31T22:47:41.850Z"
   },
   {
     "id": "web-mobile-46fa0d1f3d29d6cc",
@@ -893,7 +893,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.094Z"
+    "observedAt": "2026-08-31T22:47:41.851Z"
   },
   {
     "id": "web-mobile-af8dea85eb29c980",
@@ -909,7 +909,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.095Z"
+    "observedAt": "2026-08-31T22:47:41.851Z"
   },
   {
     "id": "web-mobile-29d3b967ae6c2438",
@@ -925,7 +925,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.095Z"
+    "observedAt": "2026-08-31T22:47:41.851Z"
   },
   {
     "id": "web-mobile-bffa0ca05e8fd5af",
@@ -941,7 +941,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.095Z"
+    "observedAt": "2026-08-31T22:47:41.851Z"
   },
   {
     "id": "web-mobile-2805ca4467e2a869",
@@ -957,7 +957,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.095Z"
+    "observedAt": "2026-08-31T22:47:41.851Z"
   },
   {
     "id": "web-mobile-f914b9c66b3d05c6",
@@ -973,7 +973,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.097Z"
+    "observedAt": "2026-08-31T22:47:41.851Z"
   },
   {
     "id": "web-mobile-7d3ed426efa189a9",
@@ -989,7 +989,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.098Z"
+    "observedAt": "2026-08-31T22:47:41.852Z"
   },
   {
     "id": "web-mobile-3a59d18699902df1",
@@ -1005,7 +1005,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.098Z"
+    "observedAt": "2026-08-31T22:47:41.852Z"
   },
   {
     "id": "web-mobile-005fdbbb4e0042a5",
@@ -1021,7 +1021,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.099Z"
+    "observedAt": "2026-08-31T22:47:41.852Z"
   },
   {
     "id": "web-mobile-f06e87c50a07e6c5",
@@ -1037,7 +1037,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.100Z"
+    "observedAt": "2026-08-31T22:47:41.852Z"
   },
   {
     "id": "web-mobile-6d7e8792ab6d5d4b",
@@ -1053,7 +1053,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.102Z"
+    "observedAt": "2026-08-31T22:47:41.853Z"
   },
   {
     "id": "web-mobile-3772570ed18659af",
@@ -1069,7 +1069,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.102Z"
+    "observedAt": "2026-08-31T22:47:41.853Z"
   },
   {
     "id": "web-mobile-334db9565efd3f2c",
@@ -1085,7 +1085,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.102Z"
+    "observedAt": "2026-08-31T22:47:41.853Z"
   },
   {
     "id": "web-mobile-1606242d82149c99",
@@ -1101,7 +1101,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.102Z"
+    "observedAt": "2026-08-31T22:47:41.853Z"
   },
   {
     "id": "web-mobile-6af6e8401f6d880c",
@@ -1117,7 +1117,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.102Z"
+    "observedAt": "2026-08-31T22:47:41.854Z"
   },
   {
     "id": "web-mobile-b1790e2c32cdf2ce",
@@ -1133,7 +1133,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.102Z"
+    "observedAt": "2026-08-31T22:47:41.854Z"
   },
   {
     "id": "web-mobile-3f79a36d3cad4564",
@@ -1149,7 +1149,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.102Z"
+    "observedAt": "2026-08-31T22:47:41.854Z"
   },
   {
     "id": "web-mobile-758184b80b94b114",
@@ -1165,7 +1165,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.104Z"
+    "observedAt": "2026-08-31T22:47:41.854Z"
   },
   {
     "id": "web-mobile-f5fe70e7a2fc88ff",
@@ -1181,7 +1181,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.104Z"
+    "observedAt": "2026-08-31T22:47:41.854Z"
   },
   {
     "id": "web-mobile-3657a26a277e2a57",
@@ -1197,7 +1197,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.104Z"
+    "observedAt": "2026-08-31T22:47:41.854Z"
   },
   {
     "id": "web-mobile-bbb538061adc7f06",
@@ -1213,7 +1213,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.104Z"
+    "observedAt": "2026-08-31T22:47:41.854Z"
   },
   {
     "id": "web-mobile-cbe9e3fcc33531dd",
@@ -1229,7 +1229,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.104Z"
+    "observedAt": "2026-08-31T22:47:41.854Z"
   },
   {
     "id": "web-mobile-990bef63d6e7b0bc",
@@ -1245,7 +1245,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.104Z"
+    "observedAt": "2026-08-31T22:47:41.855Z"
   },
   {
     "id": "web-mobile-3d875f6dfe205f1c",
@@ -1261,7 +1261,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.105Z"
+    "observedAt": "2026-08-31T22:47:41.855Z"
   },
   {
     "id": "web-mobile-60d4b1cd6a3a02dd",
@@ -1277,7 +1277,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.105Z"
+    "observedAt": "2026-08-31T22:47:41.855Z"
   },
   {
     "id": "web-mobile-75bc80b5c6d04814",
@@ -1293,2247 +1293,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.105Z"
-  },
-  {
-    "id": "web-mobile-d6e94196d75119f2",
-    "productId": "web-mobile-d6e94196d75119f2",
-    "name": "دسته بندی کالاها",
-    "brand": "",
-    "model": "دسته بندی کالاها",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/#",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-dc2da4675090301e",
-    "productId": "web-mobile-dc2da4675090301e",
-    "name": "اپل",
-    "brand": "اپل",
-    "model": "اپل",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/apple-mobile/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-47a4bf99ec690cde",
-    "productId": "web-mobile-47a4bf99ec690cde",
-    "name": "iPhone Series",
-    "brand": "",
-    "model": "iPhone Series",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/apple-mobile/iphone-series/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-98fb24f98ad1e8ee",
-    "productId": "web-mobile-98fb24f98ad1e8ee",
-    "name": "iPhone Pro Series",
-    "brand": "",
-    "model": "iPhone Pro Series",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/apple-mobile/iphone-pro-series/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-f28f8a2fb5e6ab83",
-    "productId": "web-mobile-f28f8a2fb5e6ab83",
-    "name": "سامسونگ",
-    "brand": "سامسونگ",
-    "model": "سامسونگ",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/samsung-mobile/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-c1a27f5477def1d1",
-    "productId": "web-mobile-c1a27f5477def1d1",
-    "name": "Galaxy A series",
-    "brand": "",
-    "model": "Galaxy A series",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/samsung-mobile/galaxy-a-series/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-daff285cb6795d3c",
-    "productId": "web-mobile-daff285cb6795d3c",
-    "name": "Galaxy S series",
-    "brand": "",
-    "model": "Galaxy S series",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/samsung-mobile/galaxy-s-series/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-1fe5cd6a2bd7cf1c",
-    "productId": "web-mobile-1fe5cd6a2bd7cf1c",
-    "name": "شیائومی",
-    "brand": "شیائومی",
-    "model": "شیائومی",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/xiami-mobile/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-a93ee12f2a84c73e",
-    "productId": "web-mobile-a93ee12f2a84c73e",
-    "name": "Redmi Series",
-    "brand": "",
-    "model": "Redmi Series",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/xiami-mobile/redmi-series/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-d705ab8b6e4ebfcc",
-    "productId": "web-mobile-d705ab8b6e4ebfcc",
-    "name": "Poco Series",
-    "brand": "",
-    "model": "Poco Series",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/xiami-mobile/poco-series/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-951caf83db5563a0",
-    "productId": "web-mobile-951caf83db5563a0",
-    "name": "لپ تاپ",
-    "brand": "",
-    "model": "لپ تاپ",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-c88e8df7525ddc04",
-    "productId": "web-mobile-c88e8df7525ddc04",
-    "name": "اپل",
-    "brand": "اپل",
-    "model": "اپل",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/apple-laptop/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-6f0b6b7198341504",
-    "productId": "web-mobile-6f0b6b7198341504",
-    "name": "Macbook Air Series",
-    "brand": "",
-    "model": "Macbook Air Series",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/apple-laptop/macbook/macbook-air-series/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-419c1e5d6880d6a8",
-    "productId": "web-mobile-419c1e5d6880d6a8",
-    "name": "Macbook Pro Series",
-    "brand": "",
-    "model": "Macbook Pro Series",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/apple-laptop/macbook/macbook-pro-series/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-583d30762bc06070",
-    "productId": "web-mobile-583d30762bc06070",
-    "name": "ایسوس",
-    "brand": "ایسوس",
-    "model": "ایسوس",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/asus-laptop/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-ad3f0e7eb9194545",
-    "productId": "web-mobile-ad3f0e7eb9194545",
-    "name": "Vivobook Series",
-    "brand": "",
-    "model": "Vivobook Series",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/asus-laptop/vivobook-series/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-62a935f9545431f3",
-    "productId": "web-mobile-62a935f9545431f3",
-    "name": "TUF Series",
-    "brand": "",
-    "model": "TUF Series",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/asus-laptop/tuf-series/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-8edaad25ab114efc",
-    "productId": "web-mobile-8edaad25ab114efc",
-    "name": "ROG Strix G16",
-    "brand": "",
-    "model": "ROG Strix G16",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/asus-laptop/rog-strix-g16/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-34af5338aaf0b14f",
-    "productId": "web-mobile-34af5338aaf0b14f",
-    "name": "ROG Strix Series",
-    "brand": "",
-    "model": "ROG Strix Series",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/asus-laptop/rog-strix-series/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-81a3cfaf07729276",
-    "productId": "web-mobile-81a3cfaf07729276",
-    "name": "Zenbook Series",
-    "brand": "",
-    "model": "Zenbook Series",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/asus-laptop/zenbook-series/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-220a96b3d20fde16",
-    "productId": "web-mobile-220a96b3d20fde16",
-    "name": "لنوو",
-    "brand": "لنوو",
-    "model": "لنوو",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/lenovo-laptop/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-5b7baa7b30323484",
-    "productId": "web-mobile-5b7baa7b30323484",
-    "name": "IdeaPad Slim 3 Series",
-    "brand": "",
-    "model": "IdeaPad Slim 3 Series",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/lenovo-laptop/ideapad-slim-3-series/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-99eb7cfefebea4e5",
-    "productId": "web-mobile-99eb7cfefebea4e5",
-    "name": "V Series",
-    "brand": "",
-    "model": "V Series",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/lenovo-laptop/v-series/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-f73ce79e3b2e5156",
-    "productId": "web-mobile-f73ce79e3b2e5156",
-    "name": "Thinkbook Series",
-    "brand": "",
-    "model": "Thinkbook Series",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/lenovo-laptop/thinkbook-series/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-760097705a007369",
-    "productId": "web-mobile-760097705a007369",
-    "name": "LOQ Series",
-    "brand": "",
-    "model": "LOQ Series",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/lenovo-laptop/loq-series/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-37e444ead0b33b2b",
-    "productId": "web-mobile-37e444ead0b33b2b",
-    "name": "Legion Series",
-    "brand": "",
-    "model": "Legion Series",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/lenovo-laptop/legion-series/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-2766abafd36825a4",
-    "productId": "web-mobile-2766abafd36825a4",
-    "name": "اچ پی",
-    "brand": "اچ‌پی",
-    "model": "اچ پی",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/hp-laptop/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-36e66101b9d11991",
-    "productId": "web-mobile-36e66101b9d11991",
-    "name": "OmniBook Series",
-    "brand": "",
-    "model": "OmniBook Series",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/hp-laptop/omnibook-series/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-720b6a4604d461df",
-    "productId": "web-mobile-720b6a4604d461df",
-    "name": "Victus Series",
-    "brand": "",
-    "model": "Victus Series",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/hp-laptop/victus-series/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-c79da22833b83868",
-    "productId": "web-mobile-c79da22833b83868",
-    "name": "Omen Series",
-    "brand": "",
-    "model": "Omen Series",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/hp-laptop/omen-series/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-fa0953ea33e79399",
-    "productId": "web-mobile-fa0953ea33e79399",
-    "name": "ایسر",
-    "brand": "ایسر",
-    "model": "ایسر",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/accer-laptop/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-3f2161aeab3baf6b",
-    "productId": "web-mobile-3f2161aeab3baf6b",
-    "name": "Nitro Series",
-    "brand": "",
-    "model": "Nitro Series",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/accer-laptop/nitro-series/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-fa602a708780b8be",
-    "productId": "web-mobile-fa602a708780b8be",
-    "name": "مایکروسافت",
-    "brand": "مایکروسافت",
-    "model": "مایکروسافت",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/microsoft-laptop/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-20a209c677814dda",
-    "productId": "web-mobile-20a209c677814dda",
-    "name": "تبلت",
-    "brand": "",
-    "model": "تبلت",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/tablet/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-070ed70aeb203eca",
-    "productId": "web-mobile-070ed70aeb203eca",
-    "name": "اپل",
-    "brand": "اپل",
-    "model": "اپل",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/tablet/apple-tablet/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-f368fa59e12f287a",
-    "productId": "web-mobile-f368fa59e12f287a",
-    "name": "iPad Mini",
-    "brand": "",
-    "model": "iPad Mini",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/tablet/apple-tablet/ipad/ipad-mini/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-4e5119b7b79b60a5",
-    "productId": "web-mobile-4e5119b7b79b60a5",
-    "name": "مایکروسافت",
-    "brand": "مایکروسافت",
-    "model": "مایکروسافت",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/tablet/micorsoft-tablet/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-a55b26a57c95779b",
-    "productId": "web-mobile-a55b26a57c95779b",
-    "name": "surface pro 8",
-    "brand": "",
-    "model": "surface pro 8",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/tablet/micorsoft-tablet/surface-pro-8/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-ecd1b932c16852aa",
-    "productId": "web-mobile-ecd1b932c16852aa",
-    "name": "سامسونگ",
-    "brand": "سامسونگ",
-    "model": "سامسونگ",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/tablet/samsung-tablet/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-96563c7d7223f28b",
-    "productId": "web-mobile-96563c7d7223f28b",
-    "name": "Galaxy Tab A Series",
-    "brand": "",
-    "model": "Galaxy Tab A Series",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/tablet/samsung-tablet/galaxy-tab-a-series/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-999349dc89e4db9f",
-    "productId": "web-mobile-999349dc89e4db9f",
-    "name": "کنسول بازی",
-    "brand": "",
-    "model": "کنسول بازی",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/console/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-79804d309a4c9cbb",
-    "productId": "web-mobile-79804d309a4c9cbb",
-    "name": "پلی استیشن",
-    "brand": "",
-    "model": "پلی استیشن",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/console/playstation/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-df1a4bb57f509c8a",
-    "productId": "web-mobile-df1a4bb57f509c8a",
-    "name": "ایکس باکس",
-    "brand": "",
-    "model": "ایکس باکس",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/console/xbox/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-8dce6f9be7a4aa0e",
-    "productId": "web-mobile-8dce6f9be7a4aa0e",
-    "name": "گجت",
-    "brand": "",
-    "model": "گجت",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/gadget/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-4ed431e5c8bd4ca4",
-    "productId": "web-mobile-4ed431e5c8bd4ca4",
-    "name": "ساعت هوشمند",
-    "brand": "",
-    "model": "ساعت هوشمند",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/gadget/smart-watch/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-e8cb7c3b9082fd44",
-    "productId": "web-mobile-e8cb7c3b9082fd44",
-    "name": "اپل واچ",
-    "brand": "اپل",
-    "model": "اپل واچ",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/gadget/smart-watch/apple-watch/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-96353d55fd75b7ae",
-    "productId": "web-mobile-96353d55fd75b7ae",
-    "name": "ساعت هوشمند شیائومی",
-    "brand": "شیائومی",
-    "model": "ساعت هوشمند شیائومی",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/gadget/smart-watch/xiaomi-watch/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-33cbb86c4ec1aa5c",
-    "productId": "web-mobile-33cbb86c4ec1aa5c",
-    "name": "ساعت هوشمند گلوریمی",
-    "brand": "",
-    "model": "ساعت هوشمند گلوریمی",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/gadget/smart-watch/glorimi-smart-watch/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-3db4366eac360c5e",
-    "productId": "web-mobile-3db4366eac360c5e",
-    "name": "ساعت هوشمند کیسلکت",
-    "brand": "",
-    "model": "ساعت هوشمند کیسلکت",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/gadget/smart-watch/%d8%b3%d8%a7%d8%b9%d8%aa-%d9%87%d9%88%d8%b4%d9%85%d9%86%d8%af-%da%a9%db%8c%d8%b3%d9%84%da%a9%d8%aa/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-413118fc4f736a0c",
-    "productId": "web-mobile-413118fc4f736a0c",
-    "name": "ایربادز",
-    "brand": "",
-    "model": "ایربادز",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/gadget/airbuds/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-6ba9c41fa68d38ec",
-    "productId": "web-mobile-6ba9c41fa68d38ec",
-    "name": "ایرپاد اپل",
-    "brand": "اپل",
-    "model": "ایرپاد اپل",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/gadget/airbuds/apple-airpods/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-76e352a5813b3ca7",
-    "productId": "web-mobile-76e352a5813b3ca7",
-    "name": "ایربادز سامسونگ",
-    "brand": "سامسونگ",
-    "model": "ایربادز سامسونگ",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/gadget/airbuds/galaxy-buds/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-3378e21ead9aa4b7",
-    "productId": "web-mobile-3378e21ead9aa4b7",
-    "name": "ایربادز شیائومی",
-    "brand": "شیائومی",
-    "model": "ایربادز شیائومی",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/gadget/airbuds/xiaomi-airbuds/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-9fb11a3461ca464c",
-    "productId": "web-mobile-9fb11a3461ca464c",
-    "name": "ایربادز انکر",
-    "brand": "",
-    "model": "ایربادز انکر",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/gadget/airbuds/%d8%a7%db%8c%d8%b1%d8%a8%d8%a7%d8%af%d8%b2-%d8%a7%d9%86%da%a9%d8%b1/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-c5a391ec5449c32b",
-    "productId": "web-mobile-c5a391ec5449c32b",
-    "name": "ایربادز هایلو",
-    "brand": "",
-    "model": "ایربادز هایلو",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/gadget/airbuds/haylou-airbuds/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-bb0d04c60ced4a6b",
-    "productId": "web-mobile-bb0d04c60ced4a6b",
-    "name": "ایربادز کیو سی وای",
-    "brand": "",
-    "model": "ایربادز کیو سی وای",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/gadget/airbuds/%d8%a7%db%8c%d8%b1%d8%a8%d8%a7%d8%af%d8%b2-%da%a9%db%8c%d9%88-%d8%b3%db%8c-%d9%88%d8%a7%db%8c/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-0e677e4e05d39499",
-    "productId": "web-mobile-0e677e4e05d39499",
-    "name": "ایربادز مک دودو",
-    "brand": "",
-    "model": "ایربادز مک دودو",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/gadget/airbuds/mcdodo-airbuds/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-d66dee94ff270432",
-    "productId": "web-mobile-d66dee94ff270432",
-    "name": "لوازم جانبی",
-    "brand": "",
-    "model": "لوازم جانبی",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/accessories/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-09c3c2795f9041b7",
-    "productId": "web-mobile-09c3c2795f9041b7",
-    "name": "پاوربانک",
-    "brand": "",
-    "model": "پاوربانک",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/accessories/powerbank/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-85a31972165bf7c4",
-    "productId": "web-mobile-85a31972165bf7c4",
-    "name": "پاوربانک شیائومی",
-    "brand": "شیائومی",
-    "model": "پاوربانک شیائومی",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/accessories/xiaomi-powerbank/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-2a8dcae7daf7281d",
-    "productId": "web-mobile-2a8dcae7daf7281d",
-    "name": "هدفون",
-    "brand": "",
-    "model": "هدفون",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/gadget/%d9%87%d8%af%d9%81%d9%88%d9%86/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-049d5f96017b071d",
-    "productId": "web-mobile-049d5f96017b071d",
-    "name": "هدفون انکر",
-    "brand": "",
-    "model": "هدفون انکر",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/gadget/headphone/anker-headphone/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-2fc592b5957fa549",
-    "productId": "web-mobile-2fc592b5957fa549",
-    "name": "هدفون ادیفایر",
-    "brand": "",
-    "model": "هدفون ادیفایر",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/accessories/headphone/edifire-headphone/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-4376660a2c01f499",
-    "productId": "web-mobile-4376660a2c01f499",
-    "name": "هدفون مک‌ دودو",
-    "brand": "",
-    "model": "هدفون مک‌ دودو",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/gadget/%d9%87%d8%af%d9%81%d9%88%d9%86/%d9%87%d8%af%d9%81%d9%88%d9%86-%d9%85%da%a9-%d8%af%d9%88%d8%af%d9%88/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-435f3a5aff0bd46c",
-    "productId": "web-mobile-435f3a5aff0bd46c",
-    "name": "اسپیکر",
-    "brand": "",
-    "model": "اسپیکر",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/accessories/speaker/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-55ecf22c1e661ffb",
-    "productId": "web-mobile-55ecf22c1e661ffb",
-    "name": "اسپیکر بلوتوثی کینگ استار",
-    "brand": "",
-    "model": "اسپیکر بلوتوثی کینگ استار",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/accessories/speaker/kingstar-bluetooth-speaker/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-0544af51c64d155d",
-    "productId": "web-mobile-0544af51c64d155d",
-    "name": "اسپیکر انکر",
-    "brand": "",
-    "model": "اسپیکر انکر",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/accessories/speaker/anker-speaker/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-6116e7ac90495a09",
-    "productId": "web-mobile-6116e7ac90495a09",
-    "name": "هارد اکسترنال",
-    "brand": "",
-    "model": "هارد اکسترنال",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/accessories/hard/external-hard/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-49349d462e9d302c",
-    "productId": "web-mobile-49349d462e9d302c",
-    "name": "هارد اکسترنال ای دیتا",
-    "brand": "",
-    "model": "هارد اکسترنال ای دیتا",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/accessories/hard/external-hard/adata-external-hard/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-fbe1cf370108c2bb",
-    "productId": "web-mobile-fbe1cf370108c2bb",
-    "name": "هارد اکسترنال توشیبا",
-    "brand": "",
-    "model": "هارد اکسترنال توشیبا",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/accessories/hard/external-hard/toshiba-external-hard/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-5ab616d64faa5e4d",
-    "productId": "web-mobile-5ab616d64faa5e4d",
-    "name": "هارد اکسترنال سیلیکون پاور",
-    "brand": "",
-    "model": "هارد اکسترنال سیلیکون پاور",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/accessories/hard/external-hard/silicon-power-external-hard/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-bfa6c473bcb41614",
-    "productId": "web-mobile-bfa6c473bcb41614",
-    "name": "Apple GPU (5-core graphics)",
-    "brand": "اپل",
-    "model": "Apple GPU (5-core graphics)",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_gpu-model=apple-gpu-5-core-graphics",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-d29fa18c31dd505e",
-    "productId": "web-mobile-d29fa18c31dd505e",
-    "name": "Adreno 710",
-    "brand": "",
-    "model": "Adreno 710",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_gpu-model=adreno-710",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-31795d31500a24fe",
-    "productId": "web-mobile-31795d31500a24fe",
-    "name": "Adreno 830",
-    "brand": "",
-    "model": "Adreno 830",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_gpu-model=adreno-830",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-182cf2a6dd8445fd",
-    "productId": "web-mobile-182cf2a6dd8445fd",
-    "name": "Apple GPU (6-core graphics)",
-    "brand": "اپل",
-    "model": "Apple GPU (6-core graphics)",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_gpu-model=apple-gpu-6-core-graphics",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-d814a41549c0ff75",
-    "productId": "web-mobile-d814a41549c0ff75",
-    "name": "Mali-G52 MC2",
-    "brand": "",
-    "model": "Mali-G52 MC2",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_gpu-model=mali-g52-mc2",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-bb22bc181f1d68a9",
-    "productId": "web-mobile-bb22bc181f1d68a9",
-    "name": "Mali-G57 MC2",
-    "brand": "",
-    "model": "Mali-G57 MC2",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_gpu-model=mali-g57-mc2",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-199e97dd6754fe61",
-    "productId": "web-mobile-199e97dd6754fe61",
-    "name": "Mali-G57 MP1",
-    "brand": "",
-    "model": "Mali-G57 MP1",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_gpu-model=mali-g57-mp1",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-6c627a972e8da0a5",
-    "productId": "web-mobile-6c627a972e8da0a5",
-    "name": "Mali-G615 MC2",
-    "brand": "",
-    "model": "Mali-G615 MC2",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_gpu-model=mali-g615-mc2",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-6ef3e2232005d822",
-    "productId": "web-mobile-6ef3e2232005d822",
-    "name": "Mali-G68 MP5",
-    "brand": "",
-    "model": "Mali-G68 MP5",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_gpu-model=mali-g68-mp5",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-210063150cac8e79",
-    "productId": "web-mobile-210063150cac8e79",
-    "name": "PowerVR GE8320",
-    "brand": "",
-    "model": "PowerVR GE8320",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_gpu-model=powervr-ge8320",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-c202b3d79ec28469",
-    "productId": "web-mobile-c202b3d79ec28469",
-    "name": "Xclipse 530",
-    "brand": "",
-    "model": "Xclipse 530",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_gpu-model=xclipse-530",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-7fd3e0a188158e66",
-    "productId": "web-mobile-7fd3e0a188158e66",
-    "name": "Xclipse 540",
-    "brand": "",
-    "model": "Xclipse 540",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_gpu-model=xclipse-540",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-d9fd22d02915b3a1",
-    "productId": "web-mobile-d9fd22d02915b3a1",
-    "name": "Xclipse 940",
-    "brand": "",
-    "model": "Xclipse 940",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_gpu-model=xclipse-940",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-85015828ffbe6a89",
-    "productId": "web-mobile-85015828ffbe6a89",
-    "name": "6.1 اینچ",
-    "brand": "",
-    "model": "6.1 اینچ",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_screen-size-inches=6-1",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-33288d2cb6677b57",
-    "productId": "web-mobile-33288d2cb6677b57",
-    "name": "6.3 اینچ",
-    "brand": "",
-    "model": "6.3 اینچ",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_screen-size-inches=6-3",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-86565cb78279d9f5",
-    "productId": "web-mobile-86565cb78279d9f5",
-    "name": "6.5 اینچ",
-    "brand": "",
-    "model": "6.5 اینچ",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_screen-size-inches=6-5",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-a731c2b0109ab798",
-    "productId": "web-mobile-a731c2b0109ab798",
-    "name": "6.6 اینچ",
-    "brand": "",
-    "model": "6.6 اینچ",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_screen-size-inches=6-6",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-0e49e0fe5b34dc2e",
-    "productId": "web-mobile-0e49e0fe5b34dc2e",
-    "name": "6.67 اینچ",
-    "brand": "",
-    "model": "6.67 اینچ",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_screen-size-inches=6-67",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-6c639f5ad715ba20",
-    "productId": "web-mobile-6c639f5ad715ba20",
-    "name": "6.7 اینچ",
-    "brand": "",
-    "model": "6.7 اینچ",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_screen-size-inches=6-7",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-c4f82ef311d37eb6",
-    "productId": "web-mobile-c4f82ef311d37eb6",
-    "name": "6.71",
-    "brand": "",
-    "model": "6.71",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_screen-size-inches=6-71",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-38d3cba72f55ae5e",
-    "productId": "web-mobile-38d3cba72f55ae5e",
-    "name": "6.79",
-    "brand": "",
-    "model": "6.79",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_screen-size-inches=6-79",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-11f57a261a7601f9",
-    "productId": "web-mobile-11f57a261a7601f9",
-    "name": "6.88 اینچ",
-    "brand": "",
-    "model": "6.88 اینچ",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_screen-size-inches=6-88",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-03141ef25a240e77",
-    "productId": "web-mobile-03141ef25a240e77",
-    "name": "6.9 اینچ",
-    "brand": "",
-    "model": "6.9 اینچ",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_screen-size-inches=6-9",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-c8c7600b334500f6",
-    "productId": "web-mobile-c8c7600b334500f6",
-    "name": "8GB",
-    "brand": "",
-    "model": "8GB",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_the-amount-of-ram-memory=8gb",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-fa58e8242ce2aa1d",
-    "productId": "web-mobile-fa58e8242ce2aa1d",
-    "name": "12GB",
-    "brand": "",
-    "model": "12GB",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_the-amount-of-ram-memory=12gb",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-7215913030cd5418",
-    "productId": "web-mobile-7215913030cd5418",
-    "name": "3GB",
-    "brand": "",
-    "model": "3GB",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_the-amount-of-ram-memory=3gb",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-46e1a1323aed1a9a",
-    "productId": "web-mobile-46e1a1323aed1a9a",
-    "name": "4GB",
-    "brand": "",
-    "model": "4GB",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_the-amount-of-ram-memory=4gb",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-2c4d16c584357cef",
-    "productId": "web-mobile-2c4d16c584357cef",
-    "name": "6GB",
-    "brand": "",
-    "model": "6GB",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_the-amount-of-ram-memory=6gb",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-a8d0c49ab9120bb6",
-    "productId": "web-mobile-a8d0c49ab9120bb6",
-    "name": "60Hz",
-    "brand": "",
-    "model": "60Hz",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_image-rate=60hz",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-a91d13b4226fafa5",
-    "productId": "web-mobile-a91d13b4226fafa5",
-    "name": "120Hz",
-    "brand": "",
-    "model": "120Hz",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_image-rate=120hz",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-afaf245d62909595",
-    "productId": "web-mobile-afaf245d62909595",
-    "name": "90Hz",
-    "brand": "",
-    "model": "90Hz",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_image-rate=90hz",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-c9739b68c5b578e8",
-    "productId": "web-mobile-c9739b68c5b578e8",
-    "name": "ندارد",
-    "brand": "",
-    "model": "ندارد",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_fingerprint-sensor=%d9%86%d8%af%d8%a7%d8%b1%d8%af",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-278c72bfb401b8d7",
-    "productId": "web-mobile-278c72bfb401b8d7",
-    "name": "دارد",
-    "brand": "",
-    "model": "دارد",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_fingerprint-sensor=%d8%af%d8%a7%d8%b1%d8%af",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-68a3e816cd375738",
-    "productId": "web-mobile-68a3e816cd375738",
-    "name": "1179x2556",
-    "brand": "",
-    "model": "1179x2556",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_resolution=1179x2556",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-67af44777b2018a2",
-    "productId": "web-mobile-67af44777b2018a2",
-    "name": "1080x2340",
-    "brand": "",
-    "model": "1080x2340",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_resolution=1080x2340",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-656a48148df8260b",
-    "productId": "web-mobile-656a48148df8260b",
-    "name": "1080x2400",
-    "brand": "",
-    "model": "1080x2400",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_resolution=1080x2400",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-e610895a08af9bec",
-    "productId": "web-mobile-e610895a08af9bec",
-    "name": "1080x2460",
-    "brand": "",
-    "model": "1080x2460",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_resolution=1080x2460",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-cc872f69c435112f",
-    "productId": "web-mobile-cc872f69c435112f",
-    "name": "1206x2622",
-    "brand": "",
-    "model": "1206x2622",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_resolution=1206x2622",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-cc8317e32b7e9c0c",
-    "productId": "web-mobile-cc8317e32b7e9c0c",
-    "name": "1220x2712",
-    "brand": "",
-    "model": "1220x2712",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_resolution=1220x2712",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-d7142bd905b19956",
-    "productId": "web-mobile-d7142bd905b19956",
-    "name": "1260x2736",
-    "brand": "",
-    "model": "1260x2736",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_resolution=1260x2736",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-68d1a916e6dcca06",
-    "productId": "web-mobile-68d1a916e6dcca06",
-    "name": "1320x2868",
-    "brand": "",
-    "model": "1320x2868",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_resolution=1320x2868",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-69bf2b687a3f96de",
-    "productId": "web-mobile-69bf2b687a3f96de",
-    "name": "1440x3120",
-    "brand": "",
-    "model": "1440x3120",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_resolution=1440x3120",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-706ef9e2a64afac2",
-    "productId": "web-mobile-706ef9e2a64afac2",
-    "name": "720x1600",
-    "brand": "",
-    "model": "720x1600",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_resolution=720x1600",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-9e591ec0ffaee2e7",
-    "productId": "web-mobile-9e591ec0ffaee2e7",
-    "name": "720x1640",
-    "brand": "",
-    "model": "720x1640",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_resolution=720x1640",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-8b85f44e12b7c0f0",
-    "productId": "web-mobile-8b85f44e12b7c0f0",
-    "name": "720x1650",
-    "brand": "",
-    "model": "720x1650",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_resolution=720x1650",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-a012b4866647060f",
-    "productId": "web-mobile-a012b4866647060f",
-    "name": "آبی",
-    "brand": "",
-    "model": "آبی",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_color-selector=%d8%a2%d8%a8%db%8c",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-253035d9ccec65cf",
-    "productId": "web-mobile-253035d9ccec65cf",
-    "name": "سبز",
-    "brand": "",
-    "model": "سبز",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_color-selector=%d8%b3%d8%a8%d8%b2",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-dea138bc29b7ad4e",
-    "productId": "web-mobile-dea138bc29b7ad4e",
-    "name": "سفید",
-    "brand": "",
-    "model": "سفید",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_color-selector=%d8%b3%d9%81%db%8c%d8%af",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-4fd3b6457d87c9bf",
-    "productId": "web-mobile-4fd3b6457d87c9bf",
-    "name": "صورتی",
-    "brand": "",
-    "model": "صورتی",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_color-selector=%d8%b5%d9%88%d8%b1%d8%aa%db%8c",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-c78f642e9c31dde5",
-    "productId": "web-mobile-c78f642e9c31dde5",
-    "name": "مشکی",
-    "brand": "",
-    "model": "مشکی",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_color-selector=%d9%85%d8%b4%da%a9%db%8c",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-deaa1c71e80302b1",
-    "productId": "web-mobile-deaa1c71e80302b1",
-    "name": "آبی روشن",
-    "brand": "",
-    "model": "آبی روشن",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_color-selector=%d8%a2%d8%a8%db%8c-%d8%b1%d9%88%d8%b4%d9%86",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-f4d1fb4573dbbc46",
-    "productId": "web-mobile-f4d1fb4573dbbc46",
-    "name": "اقیانوسی",
-    "brand": "",
-    "model": "اقیانوسی",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_color-selector=%d8%a7%d9%82%db%8c%d8%a7%d9%86%d9%88%d8%b3%db%8c",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-895debfc3641b5fe",
-    "productId": "web-mobile-895debfc3641b5fe",
-    "name": "بنفش",
-    "brand": "",
-    "model": "بنفش",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_color-selector=%d8%a8%d9%86%d9%81%d8%b4",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-a08629d7b5c7914b",
-    "productId": "web-mobile-a08629d7b5c7914b",
-    "name": "جت بلک",
-    "brand": "",
-    "model": "جت بلک",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_color-selector=%d8%ac%d8%aa-%d8%a8%d9%84%da%a9",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-275896d8bf6fe9da",
-    "productId": "web-mobile-275896d8bf6fe9da",
-    "name": "خاکی",
-    "brand": "",
-    "model": "خاکی",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_color-selector=%d8%ae%d8%a7%da%a9%db%8c",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-e4938103ddec92a0",
-    "productId": "web-mobile-e4938103ddec92a0",
-    "name": "زرد",
-    "brand": "",
-    "model": "زرد",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_color-selector=%d8%b2%d8%b1%d8%af",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-1848c45045fd6e7d",
-    "productId": "web-mobile-1848c45045fd6e7d",
-    "name": "سرمه ای",
-    "brand": "",
-    "model": "سرمه ای",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_color-selector=%d8%b3%d8%b1%d9%85%d9%87-%d8%a7%db%8c",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-bcd898764f8f79e5",
-    "productId": "web-mobile-bcd898764f8f79e5",
-    "name": "طلایی",
-    "brand": "",
-    "model": "طلایی",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_color-selector=%d8%b7%d9%84%d8%a7%db%8c%db%8c",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-afe324c515ec0b50",
-    "productId": "web-mobile-afe324c515ec0b50",
-    "name": "طوسی",
-    "brand": "",
-    "model": "طوسی",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_color-selector=%d8%b7%d9%88%d8%b3%db%8c",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-7b847fb1c997b8be",
-    "productId": "web-mobile-7b847fb1c997b8be",
-    "name": "لیمویی",
-    "brand": "",
-    "model": "لیمویی",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_color-selector=%d9%84%db%8c%d9%85%d9%88%db%8c%db%8c",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-624a7a2efdb96830",
-    "productId": "web-mobile-624a7a2efdb96830",
-    "name": "نارنجی",
-    "brand": "",
-    "model": "نارنجی",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_color-selector=%d9%86%d8%a7%d8%b1%d9%86%d8%ac%db%8c",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-88ae21fbc8fc17b2",
-    "productId": "web-mobile-88ae21fbc8fc17b2",
-    "name": "نقره ای",
-    "brand": "",
-    "model": "نقره ای",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_color-selector=%d9%86%d9%82%d8%b1%d9%87-%d8%a7%db%8c",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-160cd4f597260b48",
-    "productId": "web-mobile-160cd4f597260b48",
-    "name": "یاسی",
-    "brand": "",
-    "model": "یاسی",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_color-selector=%db%8c%d8%a7%d8%b3%db%8c",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-df6ab139ea7573f8",
-    "productId": "web-mobile-df6ab139ea7573f8",
-    "name": "پیشفرض",
-    "brand": "",
-    "model": "پیشفرض",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-8f47a967fde9ad13",
-    "productId": "web-mobile-8f47a967fde9ad13",
-    "name": "محبوبیت",
-    "brand": "",
-    "model": "محبوبیت",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?orderby=rating",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-9daabe17765030d3",
-    "productId": "web-mobile-9daabe17765030d3",
-    "name": "پربازدیدترین",
-    "brand": "",
-    "model": "پربازدیدترین",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?orderby=popularity",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-9f7c735b3bb647e2",
-    "productId": "web-mobile-9f7c735b3bb647e2",
-    "name": "جدیدترین",
-    "brand": "",
-    "model": "جدیدترین",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?orderby=date",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-ce24923c7bb3158a",
-    "productId": "web-mobile-ce24923c7bb3158a",
-    "name": "ارزانترین",
-    "brand": "",
-    "model": "ارزانترین",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?orderby=price",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-03130403fd6c2781",
-    "productId": "web-mobile-03130403fd6c2781",
-    "name": "گرانترین",
-    "brand": "",
-    "model": "گرانترین",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?orderby=price-desc",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
+    "observedAt": "2026-08-31T22:47:41.855Z"
   },
   {
     "id": "web-mobile-64af5163492282e7",
@@ -3549,7 +1309,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
+    "observedAt": "2026-08-31T22:47:47.448Z"
   },
   {
     "id": "web-mobile-2fcdd54c75ad77f2",
@@ -3565,7 +1325,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
+    "observedAt": "2026-08-31T22:47:47.449Z"
   },
   {
     "id": "web-mobile-63edb05b9f11de45",
@@ -3581,7 +1341,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
+    "observedAt": "2026-08-31T22:47:47.449Z"
   },
   {
     "id": "web-mobile-b4650869d285abd0",
@@ -3597,7 +1357,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
+    "observedAt": "2026-08-31T22:47:47.449Z"
   },
   {
     "id": "web-mobile-f5c836495c0358ad",
@@ -3613,7 +1373,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
+    "observedAt": "2026-08-31T22:47:47.449Z"
   },
   {
     "id": "web-mobile-f613c8df1dc5390a",
@@ -3629,7 +1389,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
+    "observedAt": "2026-08-31T22:47:47.449Z"
   },
   {
     "id": "web-mobile-10ed5044ac0e10d1",
@@ -3645,7 +1405,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
+    "observedAt": "2026-08-31T22:47:47.449Z"
   },
   {
     "id": "web-mobile-0bf41687d06bb3f2",
@@ -3661,7 +1421,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.418Z"
+    "observedAt": "2026-08-31T22:47:47.449Z"
   },
   {
     "id": "web-mobile-b7187056b1405e13",
@@ -3677,7 +1437,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.418Z"
+    "observedAt": "2026-08-31T22:47:47.449Z"
   },
   {
     "id": "web-mobile-215e3d55173b65ff",
@@ -3693,7 +1453,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.418Z"
+    "observedAt": "2026-08-31T22:47:47.449Z"
   },
   {
     "id": "web-mobile-e5bedde7fee935ba",
@@ -3709,7 +1469,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.418Z"
+    "observedAt": "2026-08-31T22:47:47.449Z"
   },
   {
     "id": "web-mobile-aab38913ca0b2e22",
@@ -3725,7 +1485,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.418Z"
+    "observedAt": "2026-08-31T22:47:47.449Z"
   },
   {
     "id": "web-mobile-2e227c37cb0b25ae",
@@ -3741,7 +1501,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.418Z"
+    "observedAt": "2026-08-31T22:47:47.449Z"
   },
   {
     "id": "web-mobile-e6f525d58886324b",
@@ -3757,7 +1517,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.418Z"
+    "observedAt": "2026-08-31T22:47:47.449Z"
   },
   {
     "id": "web-mobile-35b93010114879e0",
@@ -3773,7 +1533,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.418Z"
+    "observedAt": "2026-08-31T22:47:47.449Z"
   },
   {
     "id": "web-mobile-ada592d0b05c2ee4",
@@ -3789,7 +1549,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.418Z"
+    "observedAt": "2026-08-31T22:47:47.449Z"
   },
   {
     "id": "web-mobile-53d47abc4e3de14e",
@@ -3805,7 +1565,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.418Z"
+    "observedAt": "2026-08-31T22:47:47.449Z"
   },
   {
     "id": "web-mobile-91e74e80ee2605dc",
@@ -3821,7 +1581,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.418Z"
+    "observedAt": "2026-08-31T22:47:47.449Z"
   },
   {
     "id": "web-mobile-8bc484c45c54c8af",
@@ -3837,7 +1597,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.418Z"
+    "observedAt": "2026-08-31T22:47:47.449Z"
   },
   {
     "id": "web-mobile-6ca27cd40da2f4be",
@@ -3853,71 +1613,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.418Z"
-  },
-  {
-    "id": "web-mobile-ff1f5e99486b30ec",
-    "productId": "web-mobile-ff1f5e99486b30ec",
-    "name": "&larr;",
-    "brand": "",
-    "model": "&larr;",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/page/2/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.418Z"
-  },
-  {
-    "id": "web-mobile-477565f53b10c708",
-    "productId": "web-mobile-477565f53b10c708",
-    "name": "بازگشت به بالا",
-    "brand": "",
-    "model": "بازگشت به بالا",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/#tops",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.418Z"
-  },
-  {
-    "id": "web-mobile-5618b8f990510e1c",
-    "productId": "web-mobile-5618b8f990510e1c",
-    "name": "{{p_name}}",
-    "brand": "",
-    "model": "{{p_name}}",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/%7B%7Bp_url%7D%7D",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.418Z"
-  },
-  {
-    "id": "web-mobile-1a3b56d15da8bcad",
-    "productId": "web-mobile-1a3b56d15da8bcad",
-    "name": "دسته بندی کالاها",
-    "brand": "",
-    "model": "دسته بندی کالاها",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/page/2/#",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:54.874Z"
+    "observedAt": "2026-08-31T22:47:47.449Z"
   },
   {
     "id": "web-mobile-5d98ef7ed0e84f22",
@@ -3933,7 +1629,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:54.875Z"
+    "observedAt": "2026-08-31T22:47:52.124Z"
   },
   {
     "id": "web-mobile-691a9e47b7ca30db",
@@ -3949,7 +1645,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:54.875Z"
+    "observedAt": "2026-08-31T22:47:52.124Z"
   },
   {
     "id": "web-mobile-48c19ad9413c939d",
@@ -3965,7 +1661,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:54.875Z"
+    "observedAt": "2026-08-31T22:47:52.124Z"
   },
   {
     "id": "web-mobile-ced993e1747ed64b",
@@ -3981,7 +1677,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:54.875Z"
+    "observedAt": "2026-08-31T22:47:52.124Z"
   },
   {
     "id": "web-mobile-c86445d320af8212",
@@ -3997,7 +1693,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:54.875Z"
+    "observedAt": "2026-08-31T22:47:52.124Z"
   },
   {
     "id": "web-mobile-583dbcd64a61f540",
@@ -4013,7 +1709,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:54.875Z"
+    "observedAt": "2026-08-31T22:47:52.124Z"
   },
   {
     "id": "web-mobile-059a88d2aab6638e",
@@ -4029,7 +1725,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:54.876Z"
+    "observedAt": "2026-08-31T22:47:52.124Z"
   },
   {
     "id": "web-mobile-b0106823239d4842",
@@ -4045,7 +1741,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:54.876Z"
+    "observedAt": "2026-08-31T22:47:52.124Z"
   },
   {
     "id": "web-mobile-c63ac2ce6f999f26",
@@ -4061,7 +1757,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:54.876Z"
+    "observedAt": "2026-08-31T22:47:52.124Z"
   },
   {
     "id": "web-mobile-3d4aa43885355e00",
@@ -4077,7 +1773,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:54.876Z"
+    "observedAt": "2026-08-31T22:47:52.124Z"
   },
   {
     "id": "web-mobile-d91e5d69c8fffa03",
@@ -4093,7 +1789,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:54.876Z"
+    "observedAt": "2026-08-31T22:47:52.124Z"
   },
   {
     "id": "web-mobile-04c6c3292a1fe74c",
@@ -4109,7 +1805,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:54.876Z"
+    "observedAt": "2026-08-31T22:47:52.124Z"
   },
   {
     "id": "web-mobile-925148ae0c9738b2",
@@ -4125,7 +1821,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:54.876Z"
+    "observedAt": "2026-08-31T22:47:52.124Z"
   },
   {
     "id": "web-mobile-adb62c5d6cd35d6c",
@@ -4141,7 +1837,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:54.876Z"
+    "observedAt": "2026-08-31T22:47:52.124Z"
   },
   {
     "id": "web-mobile-254de582b7867d50",
@@ -4157,7 +1853,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:54.876Z"
+    "observedAt": "2026-08-31T22:47:52.124Z"
   },
   {
     "id": "web-mobile-e7a80e5ceef17aac",
@@ -4173,7 +1869,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:54.876Z"
+    "observedAt": "2026-08-31T22:47:52.124Z"
   },
   {
     "id": "web-mobile-2cb536dc7eda625f",
@@ -4189,7 +1885,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:54.876Z"
+    "observedAt": "2026-08-31T22:47:52.124Z"
   },
   {
     "id": "web-mobile-47d900cab32567da",
@@ -4205,7 +1901,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:54.876Z"
+    "observedAt": "2026-08-31T22:47:52.124Z"
   },
   {
     "id": "web-mobile-989fd9b537503f34",
@@ -4221,7 +1917,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:54.876Z"
+    "observedAt": "2026-08-31T22:47:52.124Z"
   },
   {
     "id": "web-mobile-e0ebaa93564bbf3d",
@@ -4237,87 +1933,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:54.876Z"
-  },
-  {
-    "id": "web-mobile-10c6dab365059306",
-    "productId": "web-mobile-10c6dab365059306",
-    "name": "&rarr;",
-    "brand": "",
-    "model": "&rarr;",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/page/1/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:54.876Z"
-  },
-  {
-    "id": "web-mobile-a81e277f971b2aa5",
-    "productId": "web-mobile-a81e277f971b2aa5",
-    "name": "&larr;",
-    "brand": "",
-    "model": "&larr;",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/page/3/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:54.876Z"
-  },
-  {
-    "id": "web-mobile-d8e4850987bf7453",
-    "productId": "web-mobile-d8e4850987bf7453",
-    "name": "بازگشت به بالا",
-    "brand": "",
-    "model": "بازگشت به بالا",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/page/2/#tops",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:54.876Z"
-  },
-  {
-    "id": "web-mobile-2053a28c5ce6bcc3",
-    "productId": "web-mobile-2053a28c5ce6bcc3",
-    "name": "{{p_name}}",
-    "brand": "",
-    "model": "{{p_name}}",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/page/2/%7B%7Bp_url%7D%7D",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:54.876Z"
-  },
-  {
-    "id": "web-mobile-ee3d6046f8d3e175",
-    "productId": "web-mobile-ee3d6046f8d3e175",
-    "name": "دسته بندی کالاها",
-    "brand": "",
-    "model": "دسته بندی کالاها",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/page/3/#",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/page/3/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:57.684Z"
+    "observedAt": "2026-08-31T22:47:52.124Z"
   },
   {
     "id": "web-mobile-15d2bae42d6e76b6",
@@ -4333,39 +1949,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/3/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:57.688Z"
-  },
-  {
-    "id": "web-mobile-8d38ee6026798718",
-    "productId": "web-mobile-8d38ee6026798718",
-    "name": "بازگشت به بالا",
-    "brand": "",
-    "model": "بازگشت به بالا",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/page/3/#tops",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/page/3/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:57.688Z"
-  },
-  {
-    "id": "web-mobile-bda10d3b76cc11d4",
-    "productId": "web-mobile-bda10d3b76cc11d4",
-    "name": "{{p_name}}",
-    "brand": "",
-    "model": "{{p_name}}",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/page/3/%7B%7Bp_url%7D%7D",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/page/3/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:57.688Z"
+    "observedAt": "2026-08-31T22:47:55.208Z"
   },
   {
     "id": "web-mobile-9d339ab00650458e",
@@ -4381,7 +1965,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "bprshop",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop",
-    "observedAt": "2026-08-31T22:32:00.686Z"
+    "observedAt": "2026-08-31T22:47:58.245Z"
   },
   {
     "id": "web-mobile-89d10a412be81fa2",
@@ -4397,7 +1981,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "bprshop",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop",
-    "observedAt": "2026-08-31T22:32:00.686Z"
+    "observedAt": "2026-08-31T22:47:58.245Z"
   },
   {
     "id": "web-mobile-88539d3edfd06105",
@@ -4413,7 +1997,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "bprshop",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop",
-    "observedAt": "2026-08-31T22:32:00.686Z"
+    "observedAt": "2026-08-31T22:47:58.245Z"
   },
   {
     "id": "web-mobile-e92490ac7d6e5556",
@@ -4429,7 +2013,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "bprshop",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop",
-    "observedAt": "2026-08-31T22:32:00.686Z"
+    "observedAt": "2026-08-31T22:47:58.245Z"
   },
   {
     "id": "web-mobile-5e568e7546d03654",
@@ -4445,7 +2029,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "bprshop",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop",
-    "observedAt": "2026-08-31T22:32:00.686Z"
+    "observedAt": "2026-08-31T22:47:58.245Z"
   },
   {
     "id": "web-mobile-52eec7474332a8a5",
@@ -4461,7 +2045,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "bprshop",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop",
-    "observedAt": "2026-08-31T22:32:00.686Z"
+    "observedAt": "2026-08-31T22:47:58.245Z"
   },
   {
     "id": "web-mobile-2ef4a854480c0492",
@@ -4477,7 +2061,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "bprshop",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop",
-    "observedAt": "2026-08-31T22:32:00.687Z"
+    "observedAt": "2026-08-31T22:47:58.245Z"
   },
   {
     "id": "web-mobile-9811052e5831f6f9",
@@ -4493,7 +2077,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "bprshop",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop",
-    "observedAt": "2026-08-31T22:32:00.687Z"
+    "observedAt": "2026-08-31T22:47:58.245Z"
   },
   {
     "id": "web-mobile-95be281bd40b2069",
@@ -4509,7 +2093,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "bprshop",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop",
-    "observedAt": "2026-08-31T22:32:00.687Z"
+    "observedAt": "2026-08-31T22:47:58.245Z"
   },
   {
     "id": "web-mobile-493cc3d7fc5e0c4d",
@@ -4525,7 +2109,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "bprshop",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop",
-    "observedAt": "2026-08-31T22:32:00.687Z"
+    "observedAt": "2026-08-31T22:47:58.245Z"
   },
   {
     "id": "web-mobile-28e50df4ae0c29c7",
@@ -4541,7 +2125,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "bprshop",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop",
-    "observedAt": "2026-08-31T22:32:00.687Z"
+    "observedAt": "2026-08-31T22:47:58.245Z"
   },
   {
     "id": "web-mobile-7cc711049aef9728",
@@ -4557,7 +2141,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "bprshop",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop",
-    "observedAt": "2026-08-31T22:32:00.687Z"
+    "observedAt": "2026-08-31T22:47:58.245Z"
   },
   {
     "id": "web-mobile-d0d351e60fadf08b",
@@ -4573,7 +2157,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "bprshop",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop",
-    "observedAt": "2026-08-31T22:32:00.687Z"
+    "observedAt": "2026-08-31T22:47:58.245Z"
   },
   {
     "id": "web-mobile-35a23e95fda75300",
@@ -4589,7 +2173,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "bprshop",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop",
-    "observedAt": "2026-08-31T22:32:00.687Z"
+    "observedAt": "2026-08-31T22:47:58.245Z"
   },
   {
     "id": "web-mobile-602f9ea6e92b451b",
@@ -4605,7 +2189,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "bprshop",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop",
-    "observedAt": "2026-08-31T22:32:00.687Z"
+    "observedAt": "2026-08-31T22:47:58.245Z"
   },
   {
     "id": "web-mobile-c0c76cbbec6d5303",
@@ -4621,6 +2205,6 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "bprshop",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop",
-    "observedAt": "2026-08-31T22:32:00.687Z"
+    "observedAt": "2026-08-31T22:47:58.245Z"
   }
 ];

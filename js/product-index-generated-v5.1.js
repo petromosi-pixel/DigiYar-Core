@@ -14,7 +14,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.075Z"
+    "observedAt": "2026-08-31T22:47:41.846Z"
   },
   {
     "id": "web-mobile-13992d92c945a3cc",
@@ -30,7 +30,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.075Z"
+    "observedAt": "2026-08-31T22:47:41.846Z"
   },
   {
     "id": "web-mobile-780f91dd4105af59",
@@ -46,7 +46,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.076Z"
+    "observedAt": "2026-08-31T22:47:41.847Z"
   },
   {
     "id": "web-mobile-25b1953482f093ca",
@@ -62,7 +62,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.076Z"
+    "observedAt": "2026-08-31T22:47:41.847Z"
   },
   {
     "id": "web-mobile-a489143c03de23b7",
@@ -78,7 +78,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.076Z"
+    "observedAt": "2026-08-31T22:47:41.847Z"
   },
   {
     "id": "web-mobile-4f722fec7469dce7",
@@ -94,7 +94,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.077Z"
+    "observedAt": "2026-08-31T22:47:41.847Z"
   },
   {
     "id": "web-mobile-4052069ff3093f19",
@@ -110,7 +110,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.077Z"
+    "observedAt": "2026-08-31T22:47:41.847Z"
   },
   {
     "id": "web-mobile-84a692bdecd5d9dc",
@@ -126,7 +126,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.077Z"
+    "observedAt": "2026-08-31T22:47:41.847Z"
   },
   {
     "id": "web-mobile-7dd4e0dc1cb7cde3",
@@ -142,7 +142,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.078Z"
+    "observedAt": "2026-08-31T22:47:41.847Z"
   },
   {
     "id": "web-mobile-7fd7cdf8b555694c",
@@ -158,7 +158,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.078Z"
+    "observedAt": "2026-08-31T22:47:41.847Z"
   },
   {
     "id": "web-mobile-6ecf98fd018e431e",
@@ -174,7 +174,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.078Z"
+    "observedAt": "2026-08-31T22:47:41.847Z"
   },
   {
     "id": "web-mobile-bd398e36e9f5159a",
@@ -190,7 +190,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.078Z"
+    "observedAt": "2026-08-31T22:47:41.847Z"
   },
   {
     "id": "web-mobile-84057a25ee94111b",
@@ -206,7 +206,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.078Z"
+    "observedAt": "2026-08-31T22:47:41.847Z"
   },
   {
     "id": "web-mobile-3ccae5a4e3222368",
@@ -222,7 +222,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.079Z"
+    "observedAt": "2026-08-31T22:47:41.847Z"
   },
   {
     "id": "web-mobile-f6f50135d4f3e8e3",
@@ -238,7 +238,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.079Z"
+    "observedAt": "2026-08-31T22:47:41.847Z"
   },
   {
     "id": "web-mobile-e4ca5fdfb7fce775",
@@ -254,7 +254,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.079Z"
+    "observedAt": "2026-08-31T22:47:41.847Z"
   },
   {
     "id": "web-mobile-2d3e09123882061e",
@@ -270,7 +270,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.079Z"
+    "observedAt": "2026-08-31T22:47:41.847Z"
   },
   {
     "id": "web-mobile-64c4a245724d320a",
@@ -286,7 +286,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.079Z"
+    "observedAt": "2026-08-31T22:47:41.847Z"
   },
   {
     "id": "web-mobile-5e7f430a37ad7c71",
@@ -302,7 +302,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.080Z"
+    "observedAt": "2026-08-31T22:47:41.847Z"
   },
   {
     "id": "web-mobile-408400f8843525f9",
@@ -318,7 +318,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.080Z"
+    "observedAt": "2026-08-31T22:47:41.848Z"
   },
   {
     "id": "web-mobile-9bf0f7624053e3a4",
@@ -334,7 +334,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.080Z"
+    "observedAt": "2026-08-31T22:47:41.848Z"
   },
   {
     "id": "web-mobile-0026d2c2934cfc4e",
@@ -350,7 +350,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.080Z"
+    "observedAt": "2026-08-31T22:47:41.848Z"
   },
   {
     "id": "web-mobile-538057dfb89f97da",
@@ -366,7 +366,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.080Z"
+    "observedAt": "2026-08-31T22:47:41.848Z"
   },
   {
     "id": "web-mobile-43ddc9f0610ea9af",
@@ -382,7 +382,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.080Z"
+    "observedAt": "2026-08-31T22:47:41.848Z"
   },
   {
     "id": "web-mobile-e27b7cc9346e2d08",
@@ -398,7 +398,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.081Z"
+    "observedAt": "2026-08-31T22:47:41.848Z"
   },
   {
     "id": "web-mobile-19711fa2673174ac",
@@ -414,7 +414,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.081Z"
+    "observedAt": "2026-08-31T22:47:41.848Z"
   },
   {
     "id": "web-mobile-71fa0dd77134c4de",
@@ -430,7 +430,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.081Z"
+    "observedAt": "2026-08-31T22:47:41.848Z"
   },
   {
     "id": "web-mobile-ecdd00048f65eec5",
@@ -446,7 +446,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.082Z"
+    "observedAt": "2026-08-31T22:47:41.848Z"
   },
   {
     "id": "web-mobile-5a533d496d705583",
@@ -462,7 +462,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.082Z"
+    "observedAt": "2026-08-31T22:47:41.848Z"
   },
   {
     "id": "web-mobile-d2a05191d88daae0",
@@ -478,7 +478,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.084Z"
+    "observedAt": "2026-08-31T22:47:41.849Z"
   },
   {
     "id": "web-mobile-a65d511c4af377fe",
@@ -494,7 +494,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.084Z"
+    "observedAt": "2026-08-31T22:47:41.849Z"
   },
   {
     "id": "web-mobile-4a5d08eed91a6e42",
@@ -510,7 +510,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.084Z"
+    "observedAt": "2026-08-31T22:47:41.849Z"
   },
   {
     "id": "web-mobile-6d48134b1885bfc7",
@@ -526,7 +526,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.085Z"
+    "observedAt": "2026-08-31T22:47:41.849Z"
   },
   {
     "id": "web-mobile-28e95a592713f822",
@@ -542,7 +542,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.085Z"
+    "observedAt": "2026-08-31T22:47:41.849Z"
   },
   {
     "id": "web-mobile-2707da138d2c79d3",
@@ -558,7 +558,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.085Z"
+    "observedAt": "2026-08-31T22:47:41.849Z"
   },
   {
     "id": "web-mobile-87ebb1ca6378a710",
@@ -574,7 +574,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.086Z"
+    "observedAt": "2026-08-31T22:47:41.849Z"
   },
   {
     "id": "web-mobile-6588e1ee788cc10c",
@@ -590,7 +590,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.086Z"
+    "observedAt": "2026-08-31T22:47:41.849Z"
   },
   {
     "id": "web-mobile-dc0c5f8a23f05fe5",
@@ -606,7 +606,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.087Z"
+    "observedAt": "2026-08-31T22:47:41.849Z"
   },
   {
     "id": "web-mobile-7a60a1525049772a",
@@ -622,7 +622,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.087Z"
+    "observedAt": "2026-08-31T22:47:41.849Z"
   },
   {
     "id": "web-mobile-71147f0397e56106",
@@ -638,7 +638,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.087Z"
+    "observedAt": "2026-08-31T22:47:41.849Z"
   },
   {
     "id": "web-mobile-5c883b7ce8d82540",
@@ -654,7 +654,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.087Z"
+    "observedAt": "2026-08-31T22:47:41.849Z"
   },
   {
     "id": "web-mobile-3d4b745e87f64f66",
@@ -670,7 +670,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.088Z"
+    "observedAt": "2026-08-31T22:47:41.849Z"
   },
   {
     "id": "web-mobile-8d5a84d79a333ced",
@@ -686,7 +686,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.088Z"
+    "observedAt": "2026-08-31T22:47:41.849Z"
   },
   {
     "id": "web-mobile-a682f91647473ae9",
@@ -702,7 +702,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.088Z"
+    "observedAt": "2026-08-31T22:47:41.849Z"
   },
   {
     "id": "web-mobile-17bdc327674873a8",
@@ -718,7 +718,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.088Z"
+    "observedAt": "2026-08-31T22:47:41.849Z"
   },
   {
     "id": "web-mobile-9c9fd9d00575924f",
@@ -734,7 +734,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.088Z"
+    "observedAt": "2026-08-31T22:47:41.850Z"
   },
   {
     "id": "web-mobile-bc58dc86fa5d6933",
@@ -750,7 +750,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.088Z"
+    "observedAt": "2026-08-31T22:47:41.850Z"
   },
   {
     "id": "web-mobile-d19a27c1b5f15cff",
@@ -766,7 +766,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.089Z"
+    "observedAt": "2026-08-31T22:47:41.850Z"
   },
   {
     "id": "web-mobile-1e4e1bc3b083e716",
@@ -782,7 +782,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.089Z"
+    "observedAt": "2026-08-31T22:47:41.850Z"
   },
   {
     "id": "web-mobile-29adbe97235c5dbe",
@@ -798,7 +798,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.089Z"
+    "observedAt": "2026-08-31T22:47:41.850Z"
   },
   {
     "id": "web-mobile-0564ce149bb4d0d4",
@@ -814,7 +814,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.089Z"
+    "observedAt": "2026-08-31T22:47:41.850Z"
   },
   {
     "id": "web-mobile-343c6e484774f027",
@@ -830,7 +830,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.089Z"
+    "observedAt": "2026-08-31T22:47:41.850Z"
   },
   {
     "id": "web-mobile-53018be997139f5a",
@@ -846,7 +846,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.089Z"
+    "observedAt": "2026-08-31T22:47:41.850Z"
   },
   {
     "id": "web-mobile-faa5b066ac22b612",
@@ -862,7 +862,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.091Z"
+    "observedAt": "2026-08-31T22:47:41.850Z"
   },
   {
     "id": "web-mobile-8b96e0d4409b9fa1",
@@ -878,7 +878,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.093Z"
+    "observedAt": "2026-08-31T22:47:41.850Z"
   },
   {
     "id": "web-mobile-46fa0d1f3d29d6cc",
@@ -894,7 +894,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.094Z"
+    "observedAt": "2026-08-31T22:47:41.851Z"
   },
   {
     "id": "web-mobile-af8dea85eb29c980",
@@ -910,7 +910,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.095Z"
+    "observedAt": "2026-08-31T22:47:41.851Z"
   },
   {
     "id": "web-mobile-29d3b967ae6c2438",
@@ -926,7 +926,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.095Z"
+    "observedAt": "2026-08-31T22:47:41.851Z"
   },
   {
     "id": "web-mobile-bffa0ca05e8fd5af",
@@ -942,7 +942,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.095Z"
+    "observedAt": "2026-08-31T22:47:41.851Z"
   },
   {
     "id": "web-mobile-2805ca4467e2a869",
@@ -958,7 +958,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.095Z"
+    "observedAt": "2026-08-31T22:47:41.851Z"
   },
   {
     "id": "web-mobile-f914b9c66b3d05c6",
@@ -974,7 +974,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.097Z"
+    "observedAt": "2026-08-31T22:47:41.851Z"
   },
   {
     "id": "web-mobile-7d3ed426efa189a9",
@@ -990,7 +990,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.098Z"
+    "observedAt": "2026-08-31T22:47:41.852Z"
   },
   {
     "id": "web-mobile-3a59d18699902df1",
@@ -1006,7 +1006,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.098Z"
+    "observedAt": "2026-08-31T22:47:41.852Z"
   },
   {
     "id": "web-mobile-005fdbbb4e0042a5",
@@ -1022,7 +1022,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.099Z"
+    "observedAt": "2026-08-31T22:47:41.852Z"
   },
   {
     "id": "web-mobile-f06e87c50a07e6c5",
@@ -1038,7 +1038,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.100Z"
+    "observedAt": "2026-08-31T22:47:41.852Z"
   },
   {
     "id": "web-mobile-6d7e8792ab6d5d4b",
@@ -1054,7 +1054,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.102Z"
+    "observedAt": "2026-08-31T22:47:41.853Z"
   },
   {
     "id": "web-mobile-3772570ed18659af",
@@ -1070,7 +1070,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.102Z"
+    "observedAt": "2026-08-31T22:47:41.853Z"
   },
   {
     "id": "web-mobile-334db9565efd3f2c",
@@ -1086,7 +1086,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.102Z"
+    "observedAt": "2026-08-31T22:47:41.853Z"
   },
   {
     "id": "web-mobile-1606242d82149c99",
@@ -1102,7 +1102,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.102Z"
+    "observedAt": "2026-08-31T22:47:41.853Z"
   },
   {
     "id": "web-mobile-6af6e8401f6d880c",
@@ -1118,7 +1118,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.102Z"
+    "observedAt": "2026-08-31T22:47:41.854Z"
   },
   {
     "id": "web-mobile-b1790e2c32cdf2ce",
@@ -1134,7 +1134,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.102Z"
+    "observedAt": "2026-08-31T22:47:41.854Z"
   },
   {
     "id": "web-mobile-3f79a36d3cad4564",
@@ -1150,7 +1150,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.102Z"
+    "observedAt": "2026-08-31T22:47:41.854Z"
   },
   {
     "id": "web-mobile-758184b80b94b114",
@@ -1166,7 +1166,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.104Z"
+    "observedAt": "2026-08-31T22:47:41.854Z"
   },
   {
     "id": "web-mobile-f5fe70e7a2fc88ff",
@@ -1182,7 +1182,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.104Z"
+    "observedAt": "2026-08-31T22:47:41.854Z"
   },
   {
     "id": "web-mobile-3657a26a277e2a57",
@@ -1198,7 +1198,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.104Z"
+    "observedAt": "2026-08-31T22:47:41.854Z"
   },
   {
     "id": "web-mobile-bbb538061adc7f06",
@@ -1214,7 +1214,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.104Z"
+    "observedAt": "2026-08-31T22:47:41.854Z"
   },
   {
     "id": "web-mobile-cbe9e3fcc33531dd",
@@ -1230,7 +1230,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.104Z"
+    "observedAt": "2026-08-31T22:47:41.854Z"
   },
   {
     "id": "web-mobile-990bef63d6e7b0bc",
@@ -1246,7 +1246,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.104Z"
+    "observedAt": "2026-08-31T22:47:41.855Z"
   },
   {
     "id": "web-mobile-3d875f6dfe205f1c",
@@ -1262,7 +1262,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.105Z"
+    "observedAt": "2026-08-31T22:47:41.855Z"
   },
   {
     "id": "web-mobile-60d4b1cd6a3a02dd",
@@ -1278,7 +1278,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.105Z"
+    "observedAt": "2026-08-31T22:47:41.855Z"
   },
   {
     "id": "web-mobile-75bc80b5c6d04814",
@@ -1294,2247 +1294,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-08-31T22:31:45.105Z"
-  },
-  {
-    "id": "web-mobile-d6e94196d75119f2",
-    "productId": "web-mobile-d6e94196d75119f2",
-    "name": "دسته بندی کالاها",
-    "brand": "",
-    "model": "دسته بندی کالاها",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/#",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-dc2da4675090301e",
-    "productId": "web-mobile-dc2da4675090301e",
-    "name": "اپل",
-    "brand": "اپل",
-    "model": "اپل",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/apple-mobile/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-47a4bf99ec690cde",
-    "productId": "web-mobile-47a4bf99ec690cde",
-    "name": "iPhone Series",
-    "brand": "",
-    "model": "iPhone Series",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/apple-mobile/iphone-series/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-98fb24f98ad1e8ee",
-    "productId": "web-mobile-98fb24f98ad1e8ee",
-    "name": "iPhone Pro Series",
-    "brand": "",
-    "model": "iPhone Pro Series",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/apple-mobile/iphone-pro-series/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-f28f8a2fb5e6ab83",
-    "productId": "web-mobile-f28f8a2fb5e6ab83",
-    "name": "سامسونگ",
-    "brand": "سامسونگ",
-    "model": "سامسونگ",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/samsung-mobile/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-c1a27f5477def1d1",
-    "productId": "web-mobile-c1a27f5477def1d1",
-    "name": "Galaxy A series",
-    "brand": "",
-    "model": "Galaxy A series",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/samsung-mobile/galaxy-a-series/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-daff285cb6795d3c",
-    "productId": "web-mobile-daff285cb6795d3c",
-    "name": "Galaxy S series",
-    "brand": "",
-    "model": "Galaxy S series",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/samsung-mobile/galaxy-s-series/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-1fe5cd6a2bd7cf1c",
-    "productId": "web-mobile-1fe5cd6a2bd7cf1c",
-    "name": "شیائومی",
-    "brand": "شیائومی",
-    "model": "شیائومی",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/xiami-mobile/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-a93ee12f2a84c73e",
-    "productId": "web-mobile-a93ee12f2a84c73e",
-    "name": "Redmi Series",
-    "brand": "",
-    "model": "Redmi Series",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/xiami-mobile/redmi-series/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-d705ab8b6e4ebfcc",
-    "productId": "web-mobile-d705ab8b6e4ebfcc",
-    "name": "Poco Series",
-    "brand": "",
-    "model": "Poco Series",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/xiami-mobile/poco-series/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-951caf83db5563a0",
-    "productId": "web-mobile-951caf83db5563a0",
-    "name": "لپ تاپ",
-    "brand": "",
-    "model": "لپ تاپ",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-c88e8df7525ddc04",
-    "productId": "web-mobile-c88e8df7525ddc04",
-    "name": "اپل",
-    "brand": "اپل",
-    "model": "اپل",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/apple-laptop/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-6f0b6b7198341504",
-    "productId": "web-mobile-6f0b6b7198341504",
-    "name": "Macbook Air Series",
-    "brand": "",
-    "model": "Macbook Air Series",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/apple-laptop/macbook/macbook-air-series/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-419c1e5d6880d6a8",
-    "productId": "web-mobile-419c1e5d6880d6a8",
-    "name": "Macbook Pro Series",
-    "brand": "",
-    "model": "Macbook Pro Series",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/apple-laptop/macbook/macbook-pro-series/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-583d30762bc06070",
-    "productId": "web-mobile-583d30762bc06070",
-    "name": "ایسوس",
-    "brand": "ایسوس",
-    "model": "ایسوس",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/asus-laptop/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-ad3f0e7eb9194545",
-    "productId": "web-mobile-ad3f0e7eb9194545",
-    "name": "Vivobook Series",
-    "brand": "",
-    "model": "Vivobook Series",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/asus-laptop/vivobook-series/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-62a935f9545431f3",
-    "productId": "web-mobile-62a935f9545431f3",
-    "name": "TUF Series",
-    "brand": "",
-    "model": "TUF Series",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/asus-laptop/tuf-series/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-8edaad25ab114efc",
-    "productId": "web-mobile-8edaad25ab114efc",
-    "name": "ROG Strix G16",
-    "brand": "",
-    "model": "ROG Strix G16",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/asus-laptop/rog-strix-g16/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-34af5338aaf0b14f",
-    "productId": "web-mobile-34af5338aaf0b14f",
-    "name": "ROG Strix Series",
-    "brand": "",
-    "model": "ROG Strix Series",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/asus-laptop/rog-strix-series/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-81a3cfaf07729276",
-    "productId": "web-mobile-81a3cfaf07729276",
-    "name": "Zenbook Series",
-    "brand": "",
-    "model": "Zenbook Series",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/asus-laptop/zenbook-series/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-220a96b3d20fde16",
-    "productId": "web-mobile-220a96b3d20fde16",
-    "name": "لنوو",
-    "brand": "لنوو",
-    "model": "لنوو",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/lenovo-laptop/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-5b7baa7b30323484",
-    "productId": "web-mobile-5b7baa7b30323484",
-    "name": "IdeaPad Slim 3 Series",
-    "brand": "",
-    "model": "IdeaPad Slim 3 Series",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/lenovo-laptop/ideapad-slim-3-series/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-99eb7cfefebea4e5",
-    "productId": "web-mobile-99eb7cfefebea4e5",
-    "name": "V Series",
-    "brand": "",
-    "model": "V Series",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/lenovo-laptop/v-series/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-f73ce79e3b2e5156",
-    "productId": "web-mobile-f73ce79e3b2e5156",
-    "name": "Thinkbook Series",
-    "brand": "",
-    "model": "Thinkbook Series",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/lenovo-laptop/thinkbook-series/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-760097705a007369",
-    "productId": "web-mobile-760097705a007369",
-    "name": "LOQ Series",
-    "brand": "",
-    "model": "LOQ Series",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/lenovo-laptop/loq-series/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-37e444ead0b33b2b",
-    "productId": "web-mobile-37e444ead0b33b2b",
-    "name": "Legion Series",
-    "brand": "",
-    "model": "Legion Series",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/lenovo-laptop/legion-series/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-2766abafd36825a4",
-    "productId": "web-mobile-2766abafd36825a4",
-    "name": "اچ پی",
-    "brand": "اچ‌پی",
-    "model": "اچ پی",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/hp-laptop/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-36e66101b9d11991",
-    "productId": "web-mobile-36e66101b9d11991",
-    "name": "OmniBook Series",
-    "brand": "",
-    "model": "OmniBook Series",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/hp-laptop/omnibook-series/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-720b6a4604d461df",
-    "productId": "web-mobile-720b6a4604d461df",
-    "name": "Victus Series",
-    "brand": "",
-    "model": "Victus Series",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/hp-laptop/victus-series/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-c79da22833b83868",
-    "productId": "web-mobile-c79da22833b83868",
-    "name": "Omen Series",
-    "brand": "",
-    "model": "Omen Series",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/hp-laptop/omen-series/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-fa0953ea33e79399",
-    "productId": "web-mobile-fa0953ea33e79399",
-    "name": "ایسر",
-    "brand": "ایسر",
-    "model": "ایسر",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/accer-laptop/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-3f2161aeab3baf6b",
-    "productId": "web-mobile-3f2161aeab3baf6b",
-    "name": "Nitro Series",
-    "brand": "",
-    "model": "Nitro Series",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/accer-laptop/nitro-series/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-fa602a708780b8be",
-    "productId": "web-mobile-fa602a708780b8be",
-    "name": "مایکروسافت",
-    "brand": "مایکروسافت",
-    "model": "مایکروسافت",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/microsoft-laptop/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-20a209c677814dda",
-    "productId": "web-mobile-20a209c677814dda",
-    "name": "تبلت",
-    "brand": "",
-    "model": "تبلت",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/tablet/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-070ed70aeb203eca",
-    "productId": "web-mobile-070ed70aeb203eca",
-    "name": "اپل",
-    "brand": "اپل",
-    "model": "اپل",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/tablet/apple-tablet/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-f368fa59e12f287a",
-    "productId": "web-mobile-f368fa59e12f287a",
-    "name": "iPad Mini",
-    "brand": "",
-    "model": "iPad Mini",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/tablet/apple-tablet/ipad/ipad-mini/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-4e5119b7b79b60a5",
-    "productId": "web-mobile-4e5119b7b79b60a5",
-    "name": "مایکروسافت",
-    "brand": "مایکروسافت",
-    "model": "مایکروسافت",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/tablet/micorsoft-tablet/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-a55b26a57c95779b",
-    "productId": "web-mobile-a55b26a57c95779b",
-    "name": "surface pro 8",
-    "brand": "",
-    "model": "surface pro 8",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/tablet/micorsoft-tablet/surface-pro-8/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-ecd1b932c16852aa",
-    "productId": "web-mobile-ecd1b932c16852aa",
-    "name": "سامسونگ",
-    "brand": "سامسونگ",
-    "model": "سامسونگ",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/tablet/samsung-tablet/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-96563c7d7223f28b",
-    "productId": "web-mobile-96563c7d7223f28b",
-    "name": "Galaxy Tab A Series",
-    "brand": "",
-    "model": "Galaxy Tab A Series",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/tablet/samsung-tablet/galaxy-tab-a-series/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-999349dc89e4db9f",
-    "productId": "web-mobile-999349dc89e4db9f",
-    "name": "کنسول بازی",
-    "brand": "",
-    "model": "کنسول بازی",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/console/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-79804d309a4c9cbb",
-    "productId": "web-mobile-79804d309a4c9cbb",
-    "name": "پلی استیشن",
-    "brand": "",
-    "model": "پلی استیشن",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/console/playstation/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-df1a4bb57f509c8a",
-    "productId": "web-mobile-df1a4bb57f509c8a",
-    "name": "ایکس باکس",
-    "brand": "",
-    "model": "ایکس باکس",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/console/xbox/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-8dce6f9be7a4aa0e",
-    "productId": "web-mobile-8dce6f9be7a4aa0e",
-    "name": "گجت",
-    "brand": "",
-    "model": "گجت",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/gadget/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-4ed431e5c8bd4ca4",
-    "productId": "web-mobile-4ed431e5c8bd4ca4",
-    "name": "ساعت هوشمند",
-    "brand": "",
-    "model": "ساعت هوشمند",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/gadget/smart-watch/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-e8cb7c3b9082fd44",
-    "productId": "web-mobile-e8cb7c3b9082fd44",
-    "name": "اپل واچ",
-    "brand": "اپل",
-    "model": "اپل واچ",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/gadget/smart-watch/apple-watch/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-96353d55fd75b7ae",
-    "productId": "web-mobile-96353d55fd75b7ae",
-    "name": "ساعت هوشمند شیائومی",
-    "brand": "شیائومی",
-    "model": "ساعت هوشمند شیائومی",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/gadget/smart-watch/xiaomi-watch/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-33cbb86c4ec1aa5c",
-    "productId": "web-mobile-33cbb86c4ec1aa5c",
-    "name": "ساعت هوشمند گلوریمی",
-    "brand": "",
-    "model": "ساعت هوشمند گلوریمی",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/gadget/smart-watch/glorimi-smart-watch/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-3db4366eac360c5e",
-    "productId": "web-mobile-3db4366eac360c5e",
-    "name": "ساعت هوشمند کیسلکت",
-    "brand": "",
-    "model": "ساعت هوشمند کیسلکت",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/gadget/smart-watch/%d8%b3%d8%a7%d8%b9%d8%aa-%d9%87%d9%88%d8%b4%d9%85%d9%86%d8%af-%da%a9%db%8c%d8%b3%d9%84%da%a9%d8%aa/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-413118fc4f736a0c",
-    "productId": "web-mobile-413118fc4f736a0c",
-    "name": "ایربادز",
-    "brand": "",
-    "model": "ایربادز",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/gadget/airbuds/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-6ba9c41fa68d38ec",
-    "productId": "web-mobile-6ba9c41fa68d38ec",
-    "name": "ایرپاد اپل",
-    "brand": "اپل",
-    "model": "ایرپاد اپل",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/gadget/airbuds/apple-airpods/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-76e352a5813b3ca7",
-    "productId": "web-mobile-76e352a5813b3ca7",
-    "name": "ایربادز سامسونگ",
-    "brand": "سامسونگ",
-    "model": "ایربادز سامسونگ",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/gadget/airbuds/galaxy-buds/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-3378e21ead9aa4b7",
-    "productId": "web-mobile-3378e21ead9aa4b7",
-    "name": "ایربادز شیائومی",
-    "brand": "شیائومی",
-    "model": "ایربادز شیائومی",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/gadget/airbuds/xiaomi-airbuds/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-9fb11a3461ca464c",
-    "productId": "web-mobile-9fb11a3461ca464c",
-    "name": "ایربادز انکر",
-    "brand": "",
-    "model": "ایربادز انکر",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/gadget/airbuds/%d8%a7%db%8c%d8%b1%d8%a8%d8%a7%d8%af%d8%b2-%d8%a7%d9%86%da%a9%d8%b1/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-c5a391ec5449c32b",
-    "productId": "web-mobile-c5a391ec5449c32b",
-    "name": "ایربادز هایلو",
-    "brand": "",
-    "model": "ایربادز هایلو",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/gadget/airbuds/haylou-airbuds/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-bb0d04c60ced4a6b",
-    "productId": "web-mobile-bb0d04c60ced4a6b",
-    "name": "ایربادز کیو سی وای",
-    "brand": "",
-    "model": "ایربادز کیو سی وای",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/gadget/airbuds/%d8%a7%db%8c%d8%b1%d8%a8%d8%a7%d8%af%d8%b2-%da%a9%db%8c%d9%88-%d8%b3%db%8c-%d9%88%d8%a7%db%8c/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-0e677e4e05d39499",
-    "productId": "web-mobile-0e677e4e05d39499",
-    "name": "ایربادز مک دودو",
-    "brand": "",
-    "model": "ایربادز مک دودو",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/gadget/airbuds/mcdodo-airbuds/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-d66dee94ff270432",
-    "productId": "web-mobile-d66dee94ff270432",
-    "name": "لوازم جانبی",
-    "brand": "",
-    "model": "لوازم جانبی",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/accessories/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-09c3c2795f9041b7",
-    "productId": "web-mobile-09c3c2795f9041b7",
-    "name": "پاوربانک",
-    "brand": "",
-    "model": "پاوربانک",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/accessories/powerbank/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-85a31972165bf7c4",
-    "productId": "web-mobile-85a31972165bf7c4",
-    "name": "پاوربانک شیائومی",
-    "brand": "شیائومی",
-    "model": "پاوربانک شیائومی",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/accessories/xiaomi-powerbank/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-2a8dcae7daf7281d",
-    "productId": "web-mobile-2a8dcae7daf7281d",
-    "name": "هدفون",
-    "brand": "",
-    "model": "هدفون",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/gadget/%d9%87%d8%af%d9%81%d9%88%d9%86/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-049d5f96017b071d",
-    "productId": "web-mobile-049d5f96017b071d",
-    "name": "هدفون انکر",
-    "brand": "",
-    "model": "هدفون انکر",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/gadget/headphone/anker-headphone/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-2fc592b5957fa549",
-    "productId": "web-mobile-2fc592b5957fa549",
-    "name": "هدفون ادیفایر",
-    "brand": "",
-    "model": "هدفون ادیفایر",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/accessories/headphone/edifire-headphone/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-4376660a2c01f499",
-    "productId": "web-mobile-4376660a2c01f499",
-    "name": "هدفون مک‌ دودو",
-    "brand": "",
-    "model": "هدفون مک‌ دودو",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/gadget/%d9%87%d8%af%d9%81%d9%88%d9%86/%d9%87%d8%af%d9%81%d9%88%d9%86-%d9%85%da%a9-%d8%af%d9%88%d8%af%d9%88/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-435f3a5aff0bd46c",
-    "productId": "web-mobile-435f3a5aff0bd46c",
-    "name": "اسپیکر",
-    "brand": "",
-    "model": "اسپیکر",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/accessories/speaker/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-55ecf22c1e661ffb",
-    "productId": "web-mobile-55ecf22c1e661ffb",
-    "name": "اسپیکر بلوتوثی کینگ استار",
-    "brand": "",
-    "model": "اسپیکر بلوتوثی کینگ استار",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/accessories/speaker/kingstar-bluetooth-speaker/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-0544af51c64d155d",
-    "productId": "web-mobile-0544af51c64d155d",
-    "name": "اسپیکر انکر",
-    "brand": "",
-    "model": "اسپیکر انکر",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/accessories/speaker/anker-speaker/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.416Z"
-  },
-  {
-    "id": "web-mobile-6116e7ac90495a09",
-    "productId": "web-mobile-6116e7ac90495a09",
-    "name": "هارد اکسترنال",
-    "brand": "",
-    "model": "هارد اکسترنال",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/accessories/hard/external-hard/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-49349d462e9d302c",
-    "productId": "web-mobile-49349d462e9d302c",
-    "name": "هارد اکسترنال ای دیتا",
-    "brand": "",
-    "model": "هارد اکسترنال ای دیتا",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/accessories/hard/external-hard/adata-external-hard/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-fbe1cf370108c2bb",
-    "productId": "web-mobile-fbe1cf370108c2bb",
-    "name": "هارد اکسترنال توشیبا",
-    "brand": "",
-    "model": "هارد اکسترنال توشیبا",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/accessories/hard/external-hard/toshiba-external-hard/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-5ab616d64faa5e4d",
-    "productId": "web-mobile-5ab616d64faa5e4d",
-    "name": "هارد اکسترنال سیلیکون پاور",
-    "brand": "",
-    "model": "هارد اکسترنال سیلیکون پاور",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/accessories/hard/external-hard/silicon-power-external-hard/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-bfa6c473bcb41614",
-    "productId": "web-mobile-bfa6c473bcb41614",
-    "name": "Apple GPU (5-core graphics)",
-    "brand": "اپل",
-    "model": "Apple GPU (5-core graphics)",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_gpu-model=apple-gpu-5-core-graphics",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-d29fa18c31dd505e",
-    "productId": "web-mobile-d29fa18c31dd505e",
-    "name": "Adreno 710",
-    "brand": "",
-    "model": "Adreno 710",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_gpu-model=adreno-710",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-31795d31500a24fe",
-    "productId": "web-mobile-31795d31500a24fe",
-    "name": "Adreno 830",
-    "brand": "",
-    "model": "Adreno 830",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_gpu-model=adreno-830",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-182cf2a6dd8445fd",
-    "productId": "web-mobile-182cf2a6dd8445fd",
-    "name": "Apple GPU (6-core graphics)",
-    "brand": "اپل",
-    "model": "Apple GPU (6-core graphics)",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_gpu-model=apple-gpu-6-core-graphics",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-d814a41549c0ff75",
-    "productId": "web-mobile-d814a41549c0ff75",
-    "name": "Mali-G52 MC2",
-    "brand": "",
-    "model": "Mali-G52 MC2",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_gpu-model=mali-g52-mc2",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-bb22bc181f1d68a9",
-    "productId": "web-mobile-bb22bc181f1d68a9",
-    "name": "Mali-G57 MC2",
-    "brand": "",
-    "model": "Mali-G57 MC2",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_gpu-model=mali-g57-mc2",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-199e97dd6754fe61",
-    "productId": "web-mobile-199e97dd6754fe61",
-    "name": "Mali-G57 MP1",
-    "brand": "",
-    "model": "Mali-G57 MP1",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_gpu-model=mali-g57-mp1",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-6c627a972e8da0a5",
-    "productId": "web-mobile-6c627a972e8da0a5",
-    "name": "Mali-G615 MC2",
-    "brand": "",
-    "model": "Mali-G615 MC2",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_gpu-model=mali-g615-mc2",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-6ef3e2232005d822",
-    "productId": "web-mobile-6ef3e2232005d822",
-    "name": "Mali-G68 MP5",
-    "brand": "",
-    "model": "Mali-G68 MP5",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_gpu-model=mali-g68-mp5",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-210063150cac8e79",
-    "productId": "web-mobile-210063150cac8e79",
-    "name": "PowerVR GE8320",
-    "brand": "",
-    "model": "PowerVR GE8320",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_gpu-model=powervr-ge8320",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-c202b3d79ec28469",
-    "productId": "web-mobile-c202b3d79ec28469",
-    "name": "Xclipse 530",
-    "brand": "",
-    "model": "Xclipse 530",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_gpu-model=xclipse-530",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-7fd3e0a188158e66",
-    "productId": "web-mobile-7fd3e0a188158e66",
-    "name": "Xclipse 540",
-    "brand": "",
-    "model": "Xclipse 540",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_gpu-model=xclipse-540",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-d9fd22d02915b3a1",
-    "productId": "web-mobile-d9fd22d02915b3a1",
-    "name": "Xclipse 940",
-    "brand": "",
-    "model": "Xclipse 940",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_gpu-model=xclipse-940",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-85015828ffbe6a89",
-    "productId": "web-mobile-85015828ffbe6a89",
-    "name": "6.1 اینچ",
-    "brand": "",
-    "model": "6.1 اینچ",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_screen-size-inches=6-1",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-33288d2cb6677b57",
-    "productId": "web-mobile-33288d2cb6677b57",
-    "name": "6.3 اینچ",
-    "brand": "",
-    "model": "6.3 اینچ",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_screen-size-inches=6-3",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-86565cb78279d9f5",
-    "productId": "web-mobile-86565cb78279d9f5",
-    "name": "6.5 اینچ",
-    "brand": "",
-    "model": "6.5 اینچ",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_screen-size-inches=6-5",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-a731c2b0109ab798",
-    "productId": "web-mobile-a731c2b0109ab798",
-    "name": "6.6 اینچ",
-    "brand": "",
-    "model": "6.6 اینچ",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_screen-size-inches=6-6",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-0e49e0fe5b34dc2e",
-    "productId": "web-mobile-0e49e0fe5b34dc2e",
-    "name": "6.67 اینچ",
-    "brand": "",
-    "model": "6.67 اینچ",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_screen-size-inches=6-67",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-6c639f5ad715ba20",
-    "productId": "web-mobile-6c639f5ad715ba20",
-    "name": "6.7 اینچ",
-    "brand": "",
-    "model": "6.7 اینچ",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_screen-size-inches=6-7",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-c4f82ef311d37eb6",
-    "productId": "web-mobile-c4f82ef311d37eb6",
-    "name": "6.71",
-    "brand": "",
-    "model": "6.71",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_screen-size-inches=6-71",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-38d3cba72f55ae5e",
-    "productId": "web-mobile-38d3cba72f55ae5e",
-    "name": "6.79",
-    "brand": "",
-    "model": "6.79",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_screen-size-inches=6-79",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-11f57a261a7601f9",
-    "productId": "web-mobile-11f57a261a7601f9",
-    "name": "6.88 اینچ",
-    "brand": "",
-    "model": "6.88 اینچ",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_screen-size-inches=6-88",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-03141ef25a240e77",
-    "productId": "web-mobile-03141ef25a240e77",
-    "name": "6.9 اینچ",
-    "brand": "",
-    "model": "6.9 اینچ",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_screen-size-inches=6-9",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-c8c7600b334500f6",
-    "productId": "web-mobile-c8c7600b334500f6",
-    "name": "8GB",
-    "brand": "",
-    "model": "8GB",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_the-amount-of-ram-memory=8gb",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-fa58e8242ce2aa1d",
-    "productId": "web-mobile-fa58e8242ce2aa1d",
-    "name": "12GB",
-    "brand": "",
-    "model": "12GB",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_the-amount-of-ram-memory=12gb",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-7215913030cd5418",
-    "productId": "web-mobile-7215913030cd5418",
-    "name": "3GB",
-    "brand": "",
-    "model": "3GB",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_the-amount-of-ram-memory=3gb",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-46e1a1323aed1a9a",
-    "productId": "web-mobile-46e1a1323aed1a9a",
-    "name": "4GB",
-    "brand": "",
-    "model": "4GB",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_the-amount-of-ram-memory=4gb",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-2c4d16c584357cef",
-    "productId": "web-mobile-2c4d16c584357cef",
-    "name": "6GB",
-    "brand": "",
-    "model": "6GB",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_the-amount-of-ram-memory=6gb",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-a8d0c49ab9120bb6",
-    "productId": "web-mobile-a8d0c49ab9120bb6",
-    "name": "60Hz",
-    "brand": "",
-    "model": "60Hz",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_image-rate=60hz",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-a91d13b4226fafa5",
-    "productId": "web-mobile-a91d13b4226fafa5",
-    "name": "120Hz",
-    "brand": "",
-    "model": "120Hz",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_image-rate=120hz",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-afaf245d62909595",
-    "productId": "web-mobile-afaf245d62909595",
-    "name": "90Hz",
-    "brand": "",
-    "model": "90Hz",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_image-rate=90hz",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-c9739b68c5b578e8",
-    "productId": "web-mobile-c9739b68c5b578e8",
-    "name": "ندارد",
-    "brand": "",
-    "model": "ندارد",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_fingerprint-sensor=%d9%86%d8%af%d8%a7%d8%b1%d8%af",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-278c72bfb401b8d7",
-    "productId": "web-mobile-278c72bfb401b8d7",
-    "name": "دارد",
-    "brand": "",
-    "model": "دارد",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_fingerprint-sensor=%d8%af%d8%a7%d8%b1%d8%af",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-68a3e816cd375738",
-    "productId": "web-mobile-68a3e816cd375738",
-    "name": "1179x2556",
-    "brand": "",
-    "model": "1179x2556",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_resolution=1179x2556",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-67af44777b2018a2",
-    "productId": "web-mobile-67af44777b2018a2",
-    "name": "1080x2340",
-    "brand": "",
-    "model": "1080x2340",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_resolution=1080x2340",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-656a48148df8260b",
-    "productId": "web-mobile-656a48148df8260b",
-    "name": "1080x2400",
-    "brand": "",
-    "model": "1080x2400",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_resolution=1080x2400",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-e610895a08af9bec",
-    "productId": "web-mobile-e610895a08af9bec",
-    "name": "1080x2460",
-    "brand": "",
-    "model": "1080x2460",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_resolution=1080x2460",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-cc872f69c435112f",
-    "productId": "web-mobile-cc872f69c435112f",
-    "name": "1206x2622",
-    "brand": "",
-    "model": "1206x2622",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_resolution=1206x2622",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-cc8317e32b7e9c0c",
-    "productId": "web-mobile-cc8317e32b7e9c0c",
-    "name": "1220x2712",
-    "brand": "",
-    "model": "1220x2712",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_resolution=1220x2712",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-d7142bd905b19956",
-    "productId": "web-mobile-d7142bd905b19956",
-    "name": "1260x2736",
-    "brand": "",
-    "model": "1260x2736",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_resolution=1260x2736",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-68d1a916e6dcca06",
-    "productId": "web-mobile-68d1a916e6dcca06",
-    "name": "1320x2868",
-    "brand": "",
-    "model": "1320x2868",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_resolution=1320x2868",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-69bf2b687a3f96de",
-    "productId": "web-mobile-69bf2b687a3f96de",
-    "name": "1440x3120",
-    "brand": "",
-    "model": "1440x3120",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_resolution=1440x3120",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-706ef9e2a64afac2",
-    "productId": "web-mobile-706ef9e2a64afac2",
-    "name": "720x1600",
-    "brand": "",
-    "model": "720x1600",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_resolution=720x1600",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-9e591ec0ffaee2e7",
-    "productId": "web-mobile-9e591ec0ffaee2e7",
-    "name": "720x1640",
-    "brand": "",
-    "model": "720x1640",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_resolution=720x1640",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-8b85f44e12b7c0f0",
-    "productId": "web-mobile-8b85f44e12b7c0f0",
-    "name": "720x1650",
-    "brand": "",
-    "model": "720x1650",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_resolution=720x1650",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-a012b4866647060f",
-    "productId": "web-mobile-a012b4866647060f",
-    "name": "آبی",
-    "brand": "",
-    "model": "آبی",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_color-selector=%d8%a2%d8%a8%db%8c",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-253035d9ccec65cf",
-    "productId": "web-mobile-253035d9ccec65cf",
-    "name": "سبز",
-    "brand": "",
-    "model": "سبز",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_color-selector=%d8%b3%d8%a8%d8%b2",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-dea138bc29b7ad4e",
-    "productId": "web-mobile-dea138bc29b7ad4e",
-    "name": "سفید",
-    "brand": "",
-    "model": "سفید",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_color-selector=%d8%b3%d9%81%db%8c%d8%af",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-4fd3b6457d87c9bf",
-    "productId": "web-mobile-4fd3b6457d87c9bf",
-    "name": "صورتی",
-    "brand": "",
-    "model": "صورتی",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_color-selector=%d8%b5%d9%88%d8%b1%d8%aa%db%8c",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-c78f642e9c31dde5",
-    "productId": "web-mobile-c78f642e9c31dde5",
-    "name": "مشکی",
-    "brand": "",
-    "model": "مشکی",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_color-selector=%d9%85%d8%b4%da%a9%db%8c",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-deaa1c71e80302b1",
-    "productId": "web-mobile-deaa1c71e80302b1",
-    "name": "آبی روشن",
-    "brand": "",
-    "model": "آبی روشن",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_color-selector=%d8%a2%d8%a8%db%8c-%d8%b1%d9%88%d8%b4%d9%86",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-f4d1fb4573dbbc46",
-    "productId": "web-mobile-f4d1fb4573dbbc46",
-    "name": "اقیانوسی",
-    "brand": "",
-    "model": "اقیانوسی",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_color-selector=%d8%a7%d9%82%db%8c%d8%a7%d9%86%d9%88%d8%b3%db%8c",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-895debfc3641b5fe",
-    "productId": "web-mobile-895debfc3641b5fe",
-    "name": "بنفش",
-    "brand": "",
-    "model": "بنفش",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_color-selector=%d8%a8%d9%86%d9%81%d8%b4",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-a08629d7b5c7914b",
-    "productId": "web-mobile-a08629d7b5c7914b",
-    "name": "جت بلک",
-    "brand": "",
-    "model": "جت بلک",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_color-selector=%d8%ac%d8%aa-%d8%a8%d9%84%da%a9",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-275896d8bf6fe9da",
-    "productId": "web-mobile-275896d8bf6fe9da",
-    "name": "خاکی",
-    "brand": "",
-    "model": "خاکی",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_color-selector=%d8%ae%d8%a7%da%a9%db%8c",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-e4938103ddec92a0",
-    "productId": "web-mobile-e4938103ddec92a0",
-    "name": "زرد",
-    "brand": "",
-    "model": "زرد",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_color-selector=%d8%b2%d8%b1%d8%af",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-1848c45045fd6e7d",
-    "productId": "web-mobile-1848c45045fd6e7d",
-    "name": "سرمه ای",
-    "brand": "",
-    "model": "سرمه ای",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_color-selector=%d8%b3%d8%b1%d9%85%d9%87-%d8%a7%db%8c",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-bcd898764f8f79e5",
-    "productId": "web-mobile-bcd898764f8f79e5",
-    "name": "طلایی",
-    "brand": "",
-    "model": "طلایی",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_color-selector=%d8%b7%d9%84%d8%a7%db%8c%db%8c",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-afe324c515ec0b50",
-    "productId": "web-mobile-afe324c515ec0b50",
-    "name": "طوسی",
-    "brand": "",
-    "model": "طوسی",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_color-selector=%d8%b7%d9%88%d8%b3%db%8c",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-7b847fb1c997b8be",
-    "productId": "web-mobile-7b847fb1c997b8be",
-    "name": "لیمویی",
-    "brand": "",
-    "model": "لیمویی",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_color-selector=%d9%84%db%8c%d9%85%d9%88%db%8c%db%8c",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-624a7a2efdb96830",
-    "productId": "web-mobile-624a7a2efdb96830",
-    "name": "نارنجی",
-    "brand": "",
-    "model": "نارنجی",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_color-selector=%d9%86%d8%a7%d8%b1%d9%86%d8%ac%db%8c",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-88ae21fbc8fc17b2",
-    "productId": "web-mobile-88ae21fbc8fc17b2",
-    "name": "نقره ای",
-    "brand": "",
-    "model": "نقره ای",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_color-selector=%d9%86%d9%82%d8%b1%d9%87-%d8%a7%db%8c",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-160cd4f597260b48",
-    "productId": "web-mobile-160cd4f597260b48",
-    "name": "یاسی",
-    "brand": "",
-    "model": "یاسی",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?filter_color-selector=%db%8c%d8%a7%d8%b3%db%8c",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-df6ab139ea7573f8",
-    "productId": "web-mobile-df6ab139ea7573f8",
-    "name": "پیشفرض",
-    "brand": "",
-    "model": "پیشفرض",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-8f47a967fde9ad13",
-    "productId": "web-mobile-8f47a967fde9ad13",
-    "name": "محبوبیت",
-    "brand": "",
-    "model": "محبوبیت",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?orderby=rating",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-9daabe17765030d3",
-    "productId": "web-mobile-9daabe17765030d3",
-    "name": "پربازدیدترین",
-    "brand": "",
-    "model": "پربازدیدترین",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?orderby=popularity",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-9f7c735b3bb647e2",
-    "productId": "web-mobile-9f7c735b3bb647e2",
-    "name": "جدیدترین",
-    "brand": "",
-    "model": "جدیدترین",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?orderby=date",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-ce24923c7bb3158a",
-    "productId": "web-mobile-ce24923c7bb3158a",
-    "name": "ارزانترین",
-    "brand": "",
-    "model": "ارزانترین",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?orderby=price",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
-  },
-  {
-    "id": "web-mobile-03130403fd6c2781",
-    "productId": "web-mobile-03130403fd6c2781",
-    "name": "گرانترین",
-    "brand": "",
-    "model": "گرانترین",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/?orderby=price-desc",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
+    "observedAt": "2026-08-31T22:47:41.855Z"
   },
   {
     "id": "web-mobile-64af5163492282e7",
@@ -3550,7 +1310,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
+    "observedAt": "2026-08-31T22:47:47.448Z"
   },
   {
     "id": "web-mobile-2fcdd54c75ad77f2",
@@ -3566,7 +1326,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
+    "observedAt": "2026-08-31T22:47:47.449Z"
   },
   {
     "id": "web-mobile-63edb05b9f11de45",
@@ -3582,7 +1342,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
+    "observedAt": "2026-08-31T22:47:47.449Z"
   },
   {
     "id": "web-mobile-b4650869d285abd0",
@@ -3598,7 +1358,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
+    "observedAt": "2026-08-31T22:47:47.449Z"
   },
   {
     "id": "web-mobile-f5c836495c0358ad",
@@ -3614,7 +1374,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
+    "observedAt": "2026-08-31T22:47:47.449Z"
   },
   {
     "id": "web-mobile-f613c8df1dc5390a",
@@ -3630,7 +1390,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
+    "observedAt": "2026-08-31T22:47:47.449Z"
   },
   {
     "id": "web-mobile-10ed5044ac0e10d1",
@@ -3646,7 +1406,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.417Z"
+    "observedAt": "2026-08-31T22:47:47.449Z"
   },
   {
     "id": "web-mobile-0bf41687d06bb3f2",
@@ -3662,7 +1422,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.418Z"
+    "observedAt": "2026-08-31T22:47:47.449Z"
   },
   {
     "id": "web-mobile-b7187056b1405e13",
@@ -3678,7 +1438,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.418Z"
+    "observedAt": "2026-08-31T22:47:47.449Z"
   },
   {
     "id": "web-mobile-215e3d55173b65ff",
@@ -3694,7 +1454,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.418Z"
+    "observedAt": "2026-08-31T22:47:47.449Z"
   },
   {
     "id": "web-mobile-e5bedde7fee935ba",
@@ -3710,7 +1470,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.418Z"
+    "observedAt": "2026-08-31T22:47:47.449Z"
   },
   {
     "id": "web-mobile-aab38913ca0b2e22",
@@ -3726,7 +1486,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.418Z"
+    "observedAt": "2026-08-31T22:47:47.449Z"
   },
   {
     "id": "web-mobile-2e227c37cb0b25ae",
@@ -3742,7 +1502,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.418Z"
+    "observedAt": "2026-08-31T22:47:47.449Z"
   },
   {
     "id": "web-mobile-e6f525d58886324b",
@@ -3758,7 +1518,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.418Z"
+    "observedAt": "2026-08-31T22:47:47.449Z"
   },
   {
     "id": "web-mobile-35b93010114879e0",
@@ -3774,7 +1534,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.418Z"
+    "observedAt": "2026-08-31T22:47:47.449Z"
   },
   {
     "id": "web-mobile-ada592d0b05c2ee4",
@@ -3790,7 +1550,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.418Z"
+    "observedAt": "2026-08-31T22:47:47.449Z"
   },
   {
     "id": "web-mobile-53d47abc4e3de14e",
@@ -3806,7 +1566,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.418Z"
+    "observedAt": "2026-08-31T22:47:47.449Z"
   },
   {
     "id": "web-mobile-91e74e80ee2605dc",
@@ -3822,7 +1582,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.418Z"
+    "observedAt": "2026-08-31T22:47:47.449Z"
   },
   {
     "id": "web-mobile-8bc484c45c54c8af",
@@ -3838,7 +1598,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.418Z"
+    "observedAt": "2026-08-31T22:47:47.449Z"
   },
   {
     "id": "web-mobile-6ca27cd40da2f4be",
@@ -3854,71 +1614,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.418Z"
-  },
-  {
-    "id": "web-mobile-ff1f5e99486b30ec",
-    "productId": "web-mobile-ff1f5e99486b30ec",
-    "name": "&larr;",
-    "brand": "",
-    "model": "&larr;",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/page/2/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.418Z"
-  },
-  {
-    "id": "web-mobile-477565f53b10c708",
-    "productId": "web-mobile-477565f53b10c708",
-    "name": "بازگشت به بالا",
-    "brand": "",
-    "model": "بازگشت به بالا",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/#tops",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.418Z"
-  },
-  {
-    "id": "web-mobile-5618b8f990510e1c",
-    "productId": "web-mobile-5618b8f990510e1c",
-    "name": "{{p_name}}",
-    "brand": "",
-    "model": "{{p_name}}",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/%7B%7Bp_url%7D%7D",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:50.418Z"
-  },
-  {
-    "id": "web-mobile-1a3b56d15da8bcad",
-    "productId": "web-mobile-1a3b56d15da8bcad",
-    "name": "دسته بندی کالاها",
-    "brand": "",
-    "model": "دسته بندی کالاها",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/page/2/#",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:54.874Z"
+    "observedAt": "2026-08-31T22:47:47.449Z"
   },
   {
     "id": "web-mobile-5d98ef7ed0e84f22",
@@ -3934,7 +1630,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:54.875Z"
+    "observedAt": "2026-08-31T22:47:52.124Z"
   },
   {
     "id": "web-mobile-691a9e47b7ca30db",
@@ -3950,7 +1646,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:54.875Z"
+    "observedAt": "2026-08-31T22:47:52.124Z"
   },
   {
     "id": "web-mobile-48c19ad9413c939d",
@@ -3966,7 +1662,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:54.875Z"
+    "observedAt": "2026-08-31T22:47:52.124Z"
   },
   {
     "id": "web-mobile-ced993e1747ed64b",
@@ -3982,7 +1678,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:54.875Z"
+    "observedAt": "2026-08-31T22:47:52.124Z"
   },
   {
     "id": "web-mobile-c86445d320af8212",
@@ -3998,7 +1694,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:54.875Z"
+    "observedAt": "2026-08-31T22:47:52.124Z"
   },
   {
     "id": "web-mobile-583dbcd64a61f540",
@@ -4014,7 +1710,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:54.875Z"
+    "observedAt": "2026-08-31T22:47:52.124Z"
   },
   {
     "id": "web-mobile-059a88d2aab6638e",
@@ -4030,7 +1726,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:54.876Z"
+    "observedAt": "2026-08-31T22:47:52.124Z"
   },
   {
     "id": "web-mobile-b0106823239d4842",
@@ -4046,7 +1742,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:54.876Z"
+    "observedAt": "2026-08-31T22:47:52.124Z"
   },
   {
     "id": "web-mobile-c63ac2ce6f999f26",
@@ -4062,7 +1758,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:54.876Z"
+    "observedAt": "2026-08-31T22:47:52.124Z"
   },
   {
     "id": "web-mobile-3d4aa43885355e00",
@@ -4078,7 +1774,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:54.876Z"
+    "observedAt": "2026-08-31T22:47:52.124Z"
   },
   {
     "id": "web-mobile-d91e5d69c8fffa03",
@@ -4094,7 +1790,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:54.876Z"
+    "observedAt": "2026-08-31T22:47:52.124Z"
   },
   {
     "id": "web-mobile-04c6c3292a1fe74c",
@@ -4110,7 +1806,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:54.876Z"
+    "observedAt": "2026-08-31T22:47:52.124Z"
   },
   {
     "id": "web-mobile-925148ae0c9738b2",
@@ -4126,7 +1822,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:54.876Z"
+    "observedAt": "2026-08-31T22:47:52.124Z"
   },
   {
     "id": "web-mobile-adb62c5d6cd35d6c",
@@ -4142,7 +1838,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:54.876Z"
+    "observedAt": "2026-08-31T22:47:52.124Z"
   },
   {
     "id": "web-mobile-254de582b7867d50",
@@ -4158,7 +1854,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:54.876Z"
+    "observedAt": "2026-08-31T22:47:52.124Z"
   },
   {
     "id": "web-mobile-e7a80e5ceef17aac",
@@ -4174,7 +1870,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:54.876Z"
+    "observedAt": "2026-08-31T22:47:52.124Z"
   },
   {
     "id": "web-mobile-2cb536dc7eda625f",
@@ -4190,7 +1886,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:54.876Z"
+    "observedAt": "2026-08-31T22:47:52.124Z"
   },
   {
     "id": "web-mobile-47d900cab32567da",
@@ -4206,7 +1902,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:54.876Z"
+    "observedAt": "2026-08-31T22:47:52.124Z"
   },
   {
     "id": "web-mobile-989fd9b537503f34",
@@ -4222,7 +1918,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:54.876Z"
+    "observedAt": "2026-08-31T22:47:52.124Z"
   },
   {
     "id": "web-mobile-e0ebaa93564bbf3d",
@@ -4238,87 +1934,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:54.876Z"
-  },
-  {
-    "id": "web-mobile-10c6dab365059306",
-    "productId": "web-mobile-10c6dab365059306",
-    "name": "&rarr;",
-    "brand": "",
-    "model": "&rarr;",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/page/1/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:54.876Z"
-  },
-  {
-    "id": "web-mobile-a81e277f971b2aa5",
-    "productId": "web-mobile-a81e277f971b2aa5",
-    "name": "&larr;",
-    "brand": "",
-    "model": "&larr;",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/page/3/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:54.876Z"
-  },
-  {
-    "id": "web-mobile-d8e4850987bf7453",
-    "productId": "web-mobile-d8e4850987bf7453",
-    "name": "بازگشت به بالا",
-    "brand": "",
-    "model": "بازگشت به بالا",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/page/2/#tops",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:54.876Z"
-  },
-  {
-    "id": "web-mobile-2053a28c5ce6bcc3",
-    "productId": "web-mobile-2053a28c5ce6bcc3",
-    "name": "{{p_name}}",
-    "brand": "",
-    "model": "{{p_name}}",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/page/2/%7B%7Bp_url%7D%7D",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/page/2/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:54.876Z"
-  },
-  {
-    "id": "web-mobile-ee3d6046f8d3e175",
-    "productId": "web-mobile-ee3d6046f8d3e175",
-    "name": "دسته بندی کالاها",
-    "brand": "",
-    "model": "دسته بندی کالاها",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/page/3/#",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/page/3/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:57.684Z"
+    "observedAt": "2026-08-31T22:47:52.124Z"
   },
   {
     "id": "web-mobile-15d2bae42d6e76b6",
@@ -4334,39 +1950,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/mobile/page/3/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:57.688Z"
-  },
-  {
-    "id": "web-mobile-8d38ee6026798718",
-    "productId": "web-mobile-8d38ee6026798718",
-    "name": "بازگشت به بالا",
-    "brand": "",
-    "model": "بازگشت به بالا",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/page/3/#tops",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/page/3/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:57.688Z"
-  },
-  {
-    "id": "web-mobile-bda10d3b76cc11d4",
-    "productId": "web-mobile-bda10d3b76cc11d4",
-    "name": "{{p_name}}",
-    "brand": "",
-    "model": "{{p_name}}",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/page/3/%7B%7Bp_url%7D%7D",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/page/3/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:31:57.688Z"
+    "observedAt": "2026-08-31T22:47:55.208Z"
   },
   {
     "id": "web-mobile-9d339ab00650458e",
@@ -4382,7 +1966,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "bprshop",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop",
-    "observedAt": "2026-08-31T22:32:00.686Z"
+    "observedAt": "2026-08-31T22:47:58.245Z"
   },
   {
     "id": "web-mobile-89d10a412be81fa2",
@@ -4398,7 +1982,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "bprshop",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop",
-    "observedAt": "2026-08-31T22:32:00.686Z"
+    "observedAt": "2026-08-31T22:47:58.245Z"
   },
   {
     "id": "web-mobile-88539d3edfd06105",
@@ -4414,7 +1998,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "bprshop",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop",
-    "observedAt": "2026-08-31T22:32:00.686Z"
+    "observedAt": "2026-08-31T22:47:58.245Z"
   },
   {
     "id": "web-mobile-e92490ac7d6e5556",
@@ -4430,7 +2014,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "bprshop",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop",
-    "observedAt": "2026-08-31T22:32:00.686Z"
+    "observedAt": "2026-08-31T22:47:58.245Z"
   },
   {
     "id": "web-mobile-5e568e7546d03654",
@@ -4446,7 +2030,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "bprshop",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop",
-    "observedAt": "2026-08-31T22:32:00.686Z"
+    "observedAt": "2026-08-31T22:47:58.245Z"
   },
   {
     "id": "web-mobile-52eec7474332a8a5",
@@ -4462,7 +2046,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "bprshop",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop",
-    "observedAt": "2026-08-31T22:32:00.686Z"
+    "observedAt": "2026-08-31T22:47:58.245Z"
   },
   {
     "id": "web-mobile-2ef4a854480c0492",
@@ -4478,7 +2062,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "bprshop",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop",
-    "observedAt": "2026-08-31T22:32:00.687Z"
+    "observedAt": "2026-08-31T22:47:58.245Z"
   },
   {
     "id": "web-mobile-9811052e5831f6f9",
@@ -4494,7 +2078,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "bprshop",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop",
-    "observedAt": "2026-08-31T22:32:00.687Z"
+    "observedAt": "2026-08-31T22:47:58.245Z"
   },
   {
     "id": "web-mobile-95be281bd40b2069",
@@ -4510,7 +2094,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "bprshop",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop",
-    "observedAt": "2026-08-31T22:32:00.687Z"
+    "observedAt": "2026-08-31T22:47:58.245Z"
   },
   {
     "id": "web-mobile-493cc3d7fc5e0c4d",
@@ -4526,7 +2110,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "bprshop",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop",
-    "observedAt": "2026-08-31T22:32:00.687Z"
+    "observedAt": "2026-08-31T22:47:58.245Z"
   },
   {
     "id": "web-mobile-28e50df4ae0c29c7",
@@ -4542,7 +2126,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "bprshop",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop",
-    "observedAt": "2026-08-31T22:32:00.687Z"
+    "observedAt": "2026-08-31T22:47:58.245Z"
   },
   {
     "id": "web-mobile-7cc711049aef9728",
@@ -4558,7 +2142,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "bprshop",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop",
-    "observedAt": "2026-08-31T22:32:00.687Z"
+    "observedAt": "2026-08-31T22:47:58.245Z"
   },
   {
     "id": "web-mobile-d0d351e60fadf08b",
@@ -4574,7 +2158,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "bprshop",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop",
-    "observedAt": "2026-08-31T22:32:00.687Z"
+    "observedAt": "2026-08-31T22:47:58.245Z"
   },
   {
     "id": "web-mobile-35a23e95fda75300",
@@ -4590,7 +2174,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "bprshop",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop",
-    "observedAt": "2026-08-31T22:32:00.687Z"
+    "observedAt": "2026-08-31T22:47:58.245Z"
   },
   {
     "id": "web-mobile-602f9ea6e92b451b",
@@ -4606,7 +2190,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "bprshop",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop",
-    "observedAt": "2026-08-31T22:32:00.687Z"
+    "observedAt": "2026-08-31T22:47:58.245Z"
   },
   {
     "id": "web-mobile-c0c76cbbec6d5303",
@@ -4622,7 +2206,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "bprshop",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop",
-    "observedAt": "2026-08-31T22:32:00.687Z"
+    "observedAt": "2026-08-31T22:47:58.245Z"
   },
   {
     "id": "web-laptop-8e6327b3953853ba",
@@ -4638,7 +2222,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment/laptop",
     "source": "web-catalog:technolife",
-    "observedAt": "2026-08-31T22:32:01.554Z"
+    "observedAt": "2026-08-31T22:47:59.365Z"
   },
   {
     "id": "web-laptop-8fe6583c97c6b074",
@@ -4654,7 +2238,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment/laptop",
     "source": "web-catalog:technolife",
-    "observedAt": "2026-08-31T22:32:01.554Z"
+    "observedAt": "2026-08-31T22:47:59.365Z"
   },
   {
     "id": "web-laptop-8a5d9b3500f284db",
@@ -4670,7 +2254,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment/laptop",
     "source": "web-catalog:technolife",
-    "observedAt": "2026-08-31T22:32:01.554Z"
+    "observedAt": "2026-08-31T22:47:59.365Z"
   },
   {
     "id": "web-laptop-9c2e2b2cede5ba79",
@@ -4686,7 +2270,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment/laptop",
     "source": "web-catalog:technolife",
-    "observedAt": "2026-08-31T22:32:01.554Z"
+    "observedAt": "2026-08-31T22:47:59.365Z"
   },
   {
     "id": "web-laptop-9b301a64c1d0094f",
@@ -4702,7 +2286,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment/laptop",
     "source": "web-catalog:technolife",
-    "observedAt": "2026-08-31T22:32:01.554Z"
+    "observedAt": "2026-08-31T22:47:59.365Z"
   },
   {
     "id": "web-laptop-1f920af63589acd4",
@@ -4718,7 +2302,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment/laptop",
     "source": "web-catalog:technolife",
-    "observedAt": "2026-08-31T22:32:01.554Z"
+    "observedAt": "2026-08-31T22:47:59.365Z"
   },
   {
     "id": "web-laptop-894f64ac2aa71142",
@@ -4734,7 +2318,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment/laptop",
     "source": "web-catalog:technolife",
-    "observedAt": "2026-08-31T22:32:01.554Z"
+    "observedAt": "2026-08-31T22:47:59.365Z"
   },
   {
     "id": "web-laptop-49c5179219408d79",
@@ -4750,7 +2334,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment/laptop",
     "source": "web-catalog:technolife",
-    "observedAt": "2026-08-31T22:32:01.554Z"
+    "observedAt": "2026-08-31T22:47:59.365Z"
   },
   {
     "id": "web-laptop-cd1b7bf5f0c0ac48",
@@ -4766,7 +2350,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment/laptop",
     "source": "web-catalog:technolife",
-    "observedAt": "2026-08-31T22:32:01.554Z"
+    "observedAt": "2026-08-31T22:47:59.365Z"
   },
   {
     "id": "web-laptop-79d91a025ebd1a64",
@@ -4782,7 +2366,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment/laptop",
     "source": "web-catalog:technolife",
-    "observedAt": "2026-08-31T22:32:01.554Z"
+    "observedAt": "2026-08-31T22:47:59.365Z"
   },
   {
     "id": "web-laptop-7e7234f83f0f1fa5",
@@ -4798,7 +2382,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment/laptop",
     "source": "web-catalog:technolife",
-    "observedAt": "2026-08-31T22:32:01.554Z"
+    "observedAt": "2026-08-31T22:47:59.365Z"
   },
   {
     "id": "web-laptop-a5eecb391139a75b",
@@ -4814,7 +2398,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment/laptop",
     "source": "web-catalog:technolife",
-    "observedAt": "2026-08-31T22:32:01.554Z"
+    "observedAt": "2026-08-31T22:47:59.365Z"
   },
   {
     "id": "web-laptop-912afe390e4e554c",
@@ -4830,7 +2414,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment/laptop",
     "source": "web-catalog:technolife",
-    "observedAt": "2026-08-31T22:32:01.554Z"
+    "observedAt": "2026-08-31T22:47:59.365Z"
   },
   {
     "id": "web-laptop-643dcb1acabfc19b",
@@ -4846,7 +2430,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment/laptop",
     "source": "web-catalog:technolife",
-    "observedAt": "2026-08-31T22:32:01.554Z"
+    "observedAt": "2026-08-31T22:47:59.365Z"
   },
   {
     "id": "web-laptop-4a4809420eb93780",
@@ -4862,7 +2446,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment/laptop",
     "source": "web-catalog:technolife",
-    "observedAt": "2026-08-31T22:32:01.554Z"
+    "observedAt": "2026-08-31T22:47:59.365Z"
   },
   {
     "id": "web-laptop-f05ac508b0ab505e",
@@ -4878,7 +2462,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment/laptop",
     "source": "web-catalog:technolife",
-    "observedAt": "2026-08-31T22:32:01.554Z"
+    "observedAt": "2026-08-31T22:47:59.365Z"
   },
   {
     "id": "web-laptop-3ba12eecabae4ec5",
@@ -4894,7 +2478,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment/laptop",
     "source": "web-catalog:technolife",
-    "observedAt": "2026-08-31T22:32:01.554Z"
+    "observedAt": "2026-08-31T22:47:59.365Z"
   },
   {
     "id": "web-laptop-c29d26c35c56fa45",
@@ -4910,7 +2494,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment/laptop",
     "source": "web-catalog:technolife",
-    "observedAt": "2026-08-31T22:32:01.554Z"
+    "observedAt": "2026-08-31T22:47:59.365Z"
   },
   {
     "id": "web-laptop-f195d3a01f48bdf4",
@@ -4926,7 +2510,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment/laptop",
     "source": "web-catalog:technolife",
-    "observedAt": "2026-08-31T22:32:01.554Z"
+    "observedAt": "2026-08-31T22:47:59.365Z"
   },
   {
     "id": "web-laptop-ad3a05f50afd4c79",
@@ -4942,7 +2526,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment/laptop",
     "source": "web-catalog:technolife",
-    "observedAt": "2026-08-31T22:32:01.554Z"
+    "observedAt": "2026-08-31T22:47:59.365Z"
   },
   {
     "id": "web-laptop-80b95ac11d187522",
@@ -4958,7 +2542,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment/laptop",
     "source": "web-catalog:technolife",
-    "observedAt": "2026-08-31T22:32:01.554Z"
+    "observedAt": "2026-08-31T22:47:59.365Z"
   },
   {
     "id": "web-laptop-944da847cd6cba23",
@@ -4974,7 +2558,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment/laptop",
     "source": "web-catalog:technolife",
-    "observedAt": "2026-08-31T22:32:01.554Z"
+    "observedAt": "2026-08-31T22:47:59.366Z"
   },
   {
     "id": "web-laptop-1364429c2a17ea82",
@@ -4990,7 +2574,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment/laptop",
     "source": "web-catalog:technolife",
-    "observedAt": "2026-08-31T22:32:01.554Z"
+    "observedAt": "2026-08-31T22:47:59.366Z"
   },
   {
     "id": "web-laptop-5373de308952ac16",
@@ -5006,7 +2590,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment/laptop",
     "source": "web-catalog:technolife",
-    "observedAt": "2026-08-31T22:32:01.554Z"
+    "observedAt": "2026-08-31T22:47:59.366Z"
   },
   {
     "id": "web-laptop-ae0612546176c9e9",
@@ -5022,7 +2606,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment/laptop",
     "source": "web-catalog:technolife",
-    "observedAt": "2026-08-31T22:32:01.554Z"
+    "observedAt": "2026-08-31T22:47:59.366Z"
   },
   {
     "id": "web-laptop-a19250288da5f90d",
@@ -5038,7 +2622,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment/laptop",
     "source": "web-catalog:technolife",
-    "observedAt": "2026-08-31T22:32:01.554Z"
+    "observedAt": "2026-08-31T22:47:59.366Z"
   },
   {
     "id": "web-laptop-311d5e6c771df5fd",
@@ -5054,7 +2638,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment/laptop",
     "source": "web-catalog:technolife",
-    "observedAt": "2026-08-31T22:32:01.554Z"
+    "observedAt": "2026-08-31T22:47:59.366Z"
   },
   {
     "id": "web-laptop-4dbdd0e5d1d0e728",
@@ -5070,7 +2654,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment/laptop",
     "source": "web-catalog:technolife",
-    "observedAt": "2026-08-31T22:32:01.554Z"
+    "observedAt": "2026-08-31T22:47:59.366Z"
   },
   {
     "id": "web-laptop-a1d8fc5d938ae405",
@@ -5086,7 +2670,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment/laptop",
     "source": "web-catalog:technolife",
-    "observedAt": "2026-08-31T22:32:01.554Z"
+    "observedAt": "2026-08-31T22:47:59.366Z"
   },
   {
     "id": "web-laptop-1305bf9a066b92dd",
@@ -5102,7 +2686,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment/laptop",
     "source": "web-catalog:technolife",
-    "observedAt": "2026-08-31T22:32:01.554Z"
+    "observedAt": "2026-08-31T22:47:59.366Z"
   },
   {
     "id": "web-laptop-ecf416a7494efb85",
@@ -5118,2903 +2702,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment/laptop",
     "source": "web-catalog:technolife",
-    "observedAt": "2026-08-31T22:32:01.554Z"
-  },
-  {
-    "id": "web-laptop-026682e4358caeef",
-    "productId": "web-laptop-026682e4358caeef",
-    "name": "دسته بندی کالاها",
-    "brand": "",
-    "model": "دسته بندی کالاها",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/#",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.442Z"
-  },
-  {
-    "id": "web-laptop-dc2da4675090301e",
-    "productId": "web-laptop-dc2da4675090301e",
-    "name": "اپل",
-    "brand": "اپل",
-    "model": "اپل",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/apple-mobile/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.442Z"
-  },
-  {
-    "id": "web-laptop-47a4bf99ec690cde",
-    "productId": "web-laptop-47a4bf99ec690cde",
-    "name": "iPhone Series",
-    "brand": "",
-    "model": "iPhone Series",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/apple-mobile/iphone-series/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.442Z"
-  },
-  {
-    "id": "web-laptop-98fb24f98ad1e8ee",
-    "productId": "web-laptop-98fb24f98ad1e8ee",
-    "name": "iPhone Pro Series",
-    "brand": "",
-    "model": "iPhone Pro Series",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/apple-mobile/iphone-pro-series/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.442Z"
-  },
-  {
-    "id": "web-laptop-f28f8a2fb5e6ab83",
-    "productId": "web-laptop-f28f8a2fb5e6ab83",
-    "name": "سامسونگ",
-    "brand": "سامسونگ",
-    "model": "سامسونگ",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/samsung-mobile/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.442Z"
-  },
-  {
-    "id": "web-laptop-c1a27f5477def1d1",
-    "productId": "web-laptop-c1a27f5477def1d1",
-    "name": "Galaxy A series",
-    "brand": "",
-    "model": "Galaxy A series",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/samsung-mobile/galaxy-a-series/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.442Z"
-  },
-  {
-    "id": "web-laptop-daff285cb6795d3c",
-    "productId": "web-laptop-daff285cb6795d3c",
-    "name": "Galaxy S series",
-    "brand": "",
-    "model": "Galaxy S series",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/samsung-mobile/galaxy-s-series/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.442Z"
-  },
-  {
-    "id": "web-laptop-1fe5cd6a2bd7cf1c",
-    "productId": "web-laptop-1fe5cd6a2bd7cf1c",
-    "name": "شیائومی",
-    "brand": "شیائومی",
-    "model": "شیائومی",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/xiami-mobile/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.442Z"
-  },
-  {
-    "id": "web-laptop-a93ee12f2a84c73e",
-    "productId": "web-laptop-a93ee12f2a84c73e",
-    "name": "Redmi Series",
-    "brand": "",
-    "model": "Redmi Series",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/xiami-mobile/redmi-series/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.442Z"
-  },
-  {
-    "id": "web-laptop-d705ab8b6e4ebfcc",
-    "productId": "web-laptop-d705ab8b6e4ebfcc",
-    "name": "Poco Series",
-    "brand": "",
-    "model": "Poco Series",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/mobile/xiami-mobile/poco-series/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.442Z"
-  },
-  {
-    "id": "web-laptop-951caf83db5563a0",
-    "productId": "web-laptop-951caf83db5563a0",
-    "name": "لپ تاپ",
-    "brand": "",
-    "model": "لپ تاپ",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.442Z"
-  },
-  {
-    "id": "web-laptop-c88e8df7525ddc04",
-    "productId": "web-laptop-c88e8df7525ddc04",
-    "name": "اپل",
-    "brand": "اپل",
-    "model": "اپل",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/apple-laptop/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.442Z"
-  },
-  {
-    "id": "web-laptop-6f0b6b7198341504",
-    "productId": "web-laptop-6f0b6b7198341504",
-    "name": "Macbook Air Series",
-    "brand": "",
-    "model": "Macbook Air Series",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/apple-laptop/macbook/macbook-air-series/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.442Z"
-  },
-  {
-    "id": "web-laptop-419c1e5d6880d6a8",
-    "productId": "web-laptop-419c1e5d6880d6a8",
-    "name": "Macbook Pro Series",
-    "brand": "",
-    "model": "Macbook Pro Series",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/apple-laptop/macbook/macbook-pro-series/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.442Z"
-  },
-  {
-    "id": "web-laptop-583d30762bc06070",
-    "productId": "web-laptop-583d30762bc06070",
-    "name": "ایسوس",
-    "brand": "ایسوس",
-    "model": "ایسوس",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/asus-laptop/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.442Z"
-  },
-  {
-    "id": "web-laptop-ad3f0e7eb9194545",
-    "productId": "web-laptop-ad3f0e7eb9194545",
-    "name": "Vivobook Series",
-    "brand": "",
-    "model": "Vivobook Series",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/asus-laptop/vivobook-series/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.442Z"
-  },
-  {
-    "id": "web-laptop-62a935f9545431f3",
-    "productId": "web-laptop-62a935f9545431f3",
-    "name": "TUF Series",
-    "brand": "",
-    "model": "TUF Series",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/asus-laptop/tuf-series/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.442Z"
-  },
-  {
-    "id": "web-laptop-8edaad25ab114efc",
-    "productId": "web-laptop-8edaad25ab114efc",
-    "name": "ROG Strix G16",
-    "brand": "",
-    "model": "ROG Strix G16",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/asus-laptop/rog-strix-g16/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.442Z"
-  },
-  {
-    "id": "web-laptop-34af5338aaf0b14f",
-    "productId": "web-laptop-34af5338aaf0b14f",
-    "name": "ROG Strix Series",
-    "brand": "",
-    "model": "ROG Strix Series",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/asus-laptop/rog-strix-series/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.442Z"
-  },
-  {
-    "id": "web-laptop-81a3cfaf07729276",
-    "productId": "web-laptop-81a3cfaf07729276",
-    "name": "Zenbook Series",
-    "brand": "",
-    "model": "Zenbook Series",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/asus-laptop/zenbook-series/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.442Z"
-  },
-  {
-    "id": "web-laptop-220a96b3d20fde16",
-    "productId": "web-laptop-220a96b3d20fde16",
-    "name": "لنوو",
-    "brand": "لنوو",
-    "model": "لنوو",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/lenovo-laptop/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.442Z"
-  },
-  {
-    "id": "web-laptop-5b7baa7b30323484",
-    "productId": "web-laptop-5b7baa7b30323484",
-    "name": "IdeaPad Slim 3 Series",
-    "brand": "",
-    "model": "IdeaPad Slim 3 Series",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/lenovo-laptop/ideapad-slim-3-series/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.442Z"
-  },
-  {
-    "id": "web-laptop-99eb7cfefebea4e5",
-    "productId": "web-laptop-99eb7cfefebea4e5",
-    "name": "V Series",
-    "brand": "",
-    "model": "V Series",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/lenovo-laptop/v-series/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.442Z"
-  },
-  {
-    "id": "web-laptop-f73ce79e3b2e5156",
-    "productId": "web-laptop-f73ce79e3b2e5156",
-    "name": "Thinkbook Series",
-    "brand": "",
-    "model": "Thinkbook Series",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/lenovo-laptop/thinkbook-series/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.442Z"
-  },
-  {
-    "id": "web-laptop-760097705a007369",
-    "productId": "web-laptop-760097705a007369",
-    "name": "LOQ Series",
-    "brand": "",
-    "model": "LOQ Series",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/lenovo-laptop/loq-series/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.442Z"
-  },
-  {
-    "id": "web-laptop-37e444ead0b33b2b",
-    "productId": "web-laptop-37e444ead0b33b2b",
-    "name": "Legion Series",
-    "brand": "",
-    "model": "Legion Series",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/lenovo-laptop/legion-series/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.442Z"
-  },
-  {
-    "id": "web-laptop-2766abafd36825a4",
-    "productId": "web-laptop-2766abafd36825a4",
-    "name": "اچ پی",
-    "brand": "اچ‌پی",
-    "model": "اچ پی",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/hp-laptop/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.443Z"
-  },
-  {
-    "id": "web-laptop-36e66101b9d11991",
-    "productId": "web-laptop-36e66101b9d11991",
-    "name": "OmniBook Series",
-    "brand": "",
-    "model": "OmniBook Series",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/hp-laptop/omnibook-series/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.443Z"
-  },
-  {
-    "id": "web-laptop-720b6a4604d461df",
-    "productId": "web-laptop-720b6a4604d461df",
-    "name": "Victus Series",
-    "brand": "",
-    "model": "Victus Series",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/hp-laptop/victus-series/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.443Z"
-  },
-  {
-    "id": "web-laptop-c79da22833b83868",
-    "productId": "web-laptop-c79da22833b83868",
-    "name": "Omen Series",
-    "brand": "",
-    "model": "Omen Series",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/hp-laptop/omen-series/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.443Z"
-  },
-  {
-    "id": "web-laptop-fa0953ea33e79399",
-    "productId": "web-laptop-fa0953ea33e79399",
-    "name": "ایسر",
-    "brand": "ایسر",
-    "model": "ایسر",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/accer-laptop/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.443Z"
-  },
-  {
-    "id": "web-laptop-3f2161aeab3baf6b",
-    "productId": "web-laptop-3f2161aeab3baf6b",
-    "name": "Nitro Series",
-    "brand": "",
-    "model": "Nitro Series",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/accer-laptop/nitro-series/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.443Z"
-  },
-  {
-    "id": "web-laptop-fa602a708780b8be",
-    "productId": "web-laptop-fa602a708780b8be",
-    "name": "مایکروسافت",
-    "brand": "مایکروسافت",
-    "model": "مایکروسافت",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/microsoft-laptop/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.443Z"
-  },
-  {
-    "id": "web-laptop-20a209c677814dda",
-    "productId": "web-laptop-20a209c677814dda",
-    "name": "تبلت",
-    "brand": "",
-    "model": "تبلت",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/tablet/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.443Z"
-  },
-  {
-    "id": "web-laptop-070ed70aeb203eca",
-    "productId": "web-laptop-070ed70aeb203eca",
-    "name": "اپل",
-    "brand": "اپل",
-    "model": "اپل",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/tablet/apple-tablet/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.443Z"
-  },
-  {
-    "id": "web-laptop-f368fa59e12f287a",
-    "productId": "web-laptop-f368fa59e12f287a",
-    "name": "iPad Mini",
-    "brand": "",
-    "model": "iPad Mini",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/tablet/apple-tablet/ipad/ipad-mini/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.443Z"
-  },
-  {
-    "id": "web-laptop-4e5119b7b79b60a5",
-    "productId": "web-laptop-4e5119b7b79b60a5",
-    "name": "مایکروسافت",
-    "brand": "مایکروسافت",
-    "model": "مایکروسافت",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/tablet/micorsoft-tablet/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.443Z"
-  },
-  {
-    "id": "web-laptop-a55b26a57c95779b",
-    "productId": "web-laptop-a55b26a57c95779b",
-    "name": "surface pro 8",
-    "brand": "",
-    "model": "surface pro 8",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/tablet/micorsoft-tablet/surface-pro-8/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.443Z"
-  },
-  {
-    "id": "web-laptop-ecd1b932c16852aa",
-    "productId": "web-laptop-ecd1b932c16852aa",
-    "name": "سامسونگ",
-    "brand": "سامسونگ",
-    "model": "سامسونگ",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/tablet/samsung-tablet/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.443Z"
-  },
-  {
-    "id": "web-laptop-96563c7d7223f28b",
-    "productId": "web-laptop-96563c7d7223f28b",
-    "name": "Galaxy Tab A Series",
-    "brand": "",
-    "model": "Galaxy Tab A Series",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/tablet/samsung-tablet/galaxy-tab-a-series/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.443Z"
-  },
-  {
-    "id": "web-laptop-999349dc89e4db9f",
-    "productId": "web-laptop-999349dc89e4db9f",
-    "name": "کنسول بازی",
-    "brand": "",
-    "model": "کنسول بازی",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/console/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.443Z"
-  },
-  {
-    "id": "web-laptop-79804d309a4c9cbb",
-    "productId": "web-laptop-79804d309a4c9cbb",
-    "name": "پلی استیشن",
-    "brand": "",
-    "model": "پلی استیشن",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/console/playstation/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.443Z"
-  },
-  {
-    "id": "web-laptop-df1a4bb57f509c8a",
-    "productId": "web-laptop-df1a4bb57f509c8a",
-    "name": "ایکس باکس",
-    "brand": "",
-    "model": "ایکس باکس",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/console/xbox/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.443Z"
-  },
-  {
-    "id": "web-laptop-8dce6f9be7a4aa0e",
-    "productId": "web-laptop-8dce6f9be7a4aa0e",
-    "name": "گجت",
-    "brand": "",
-    "model": "گجت",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/gadget/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.443Z"
-  },
-  {
-    "id": "web-laptop-4ed431e5c8bd4ca4",
-    "productId": "web-laptop-4ed431e5c8bd4ca4",
-    "name": "ساعت هوشمند",
-    "brand": "",
-    "model": "ساعت هوشمند",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/gadget/smart-watch/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.443Z"
-  },
-  {
-    "id": "web-laptop-e8cb7c3b9082fd44",
-    "productId": "web-laptop-e8cb7c3b9082fd44",
-    "name": "اپل واچ",
-    "brand": "اپل",
-    "model": "اپل واچ",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/gadget/smart-watch/apple-watch/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.443Z"
-  },
-  {
-    "id": "web-laptop-96353d55fd75b7ae",
-    "productId": "web-laptop-96353d55fd75b7ae",
-    "name": "ساعت هوشمند شیائومی",
-    "brand": "شیائومی",
-    "model": "ساعت هوشمند شیائومی",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/gadget/smart-watch/xiaomi-watch/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.443Z"
-  },
-  {
-    "id": "web-laptop-33cbb86c4ec1aa5c",
-    "productId": "web-laptop-33cbb86c4ec1aa5c",
-    "name": "ساعت هوشمند گلوریمی",
-    "brand": "",
-    "model": "ساعت هوشمند گلوریمی",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/gadget/smart-watch/glorimi-smart-watch/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.443Z"
-  },
-  {
-    "id": "web-laptop-3db4366eac360c5e",
-    "productId": "web-laptop-3db4366eac360c5e",
-    "name": "ساعت هوشمند کیسلکت",
-    "brand": "",
-    "model": "ساعت هوشمند کیسلکت",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/gadget/smart-watch/%d8%b3%d8%a7%d8%b9%d8%aa-%d9%87%d9%88%d8%b4%d9%85%d9%86%d8%af-%da%a9%db%8c%d8%b3%d9%84%da%a9%d8%aa/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.443Z"
-  },
-  {
-    "id": "web-laptop-413118fc4f736a0c",
-    "productId": "web-laptop-413118fc4f736a0c",
-    "name": "ایربادز",
-    "brand": "",
-    "model": "ایربادز",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/gadget/airbuds/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.443Z"
-  },
-  {
-    "id": "web-laptop-6ba9c41fa68d38ec",
-    "productId": "web-laptop-6ba9c41fa68d38ec",
-    "name": "ایرپاد اپل",
-    "brand": "اپل",
-    "model": "ایرپاد اپل",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/gadget/airbuds/apple-airpods/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.443Z"
-  },
-  {
-    "id": "web-laptop-76e352a5813b3ca7",
-    "productId": "web-laptop-76e352a5813b3ca7",
-    "name": "ایربادز سامسونگ",
-    "brand": "سامسونگ",
-    "model": "ایربادز سامسونگ",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/gadget/airbuds/galaxy-buds/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.443Z"
-  },
-  {
-    "id": "web-laptop-3378e21ead9aa4b7",
-    "productId": "web-laptop-3378e21ead9aa4b7",
-    "name": "ایربادز شیائومی",
-    "brand": "شیائومی",
-    "model": "ایربادز شیائومی",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/gadget/airbuds/xiaomi-airbuds/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.443Z"
-  },
-  {
-    "id": "web-laptop-9fb11a3461ca464c",
-    "productId": "web-laptop-9fb11a3461ca464c",
-    "name": "ایربادز انکر",
-    "brand": "",
-    "model": "ایربادز انکر",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/gadget/airbuds/%d8%a7%db%8c%d8%b1%d8%a8%d8%a7%d8%af%d8%b2-%d8%a7%d9%86%da%a9%d8%b1/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.443Z"
-  },
-  {
-    "id": "web-laptop-c5a391ec5449c32b",
-    "productId": "web-laptop-c5a391ec5449c32b",
-    "name": "ایربادز هایلو",
-    "brand": "",
-    "model": "ایربادز هایلو",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/gadget/airbuds/haylou-airbuds/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.443Z"
-  },
-  {
-    "id": "web-laptop-bb0d04c60ced4a6b",
-    "productId": "web-laptop-bb0d04c60ced4a6b",
-    "name": "ایربادز کیو سی وای",
-    "brand": "",
-    "model": "ایربادز کیو سی وای",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/gadget/airbuds/%d8%a7%db%8c%d8%b1%d8%a8%d8%a7%d8%af%d8%b2-%da%a9%db%8c%d9%88-%d8%b3%db%8c-%d9%88%d8%a7%db%8c/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.443Z"
-  },
-  {
-    "id": "web-laptop-0e677e4e05d39499",
-    "productId": "web-laptop-0e677e4e05d39499",
-    "name": "ایربادز مک دودو",
-    "brand": "",
-    "model": "ایربادز مک دودو",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/gadget/airbuds/mcdodo-airbuds/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.443Z"
-  },
-  {
-    "id": "web-laptop-d66dee94ff270432",
-    "productId": "web-laptop-d66dee94ff270432",
-    "name": "لوازم جانبی",
-    "brand": "",
-    "model": "لوازم جانبی",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/accessories/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.443Z"
-  },
-  {
-    "id": "web-laptop-09c3c2795f9041b7",
-    "productId": "web-laptop-09c3c2795f9041b7",
-    "name": "پاوربانک",
-    "brand": "",
-    "model": "پاوربانک",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/accessories/powerbank/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.443Z"
-  },
-  {
-    "id": "web-laptop-85a31972165bf7c4",
-    "productId": "web-laptop-85a31972165bf7c4",
-    "name": "پاوربانک شیائومی",
-    "brand": "شیائومی",
-    "model": "پاوربانک شیائومی",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/accessories/xiaomi-powerbank/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.443Z"
-  },
-  {
-    "id": "web-laptop-2a8dcae7daf7281d",
-    "productId": "web-laptop-2a8dcae7daf7281d",
-    "name": "هدفون",
-    "brand": "",
-    "model": "هدفون",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/gadget/%d9%87%d8%af%d9%81%d9%88%d9%86/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.443Z"
-  },
-  {
-    "id": "web-laptop-049d5f96017b071d",
-    "productId": "web-laptop-049d5f96017b071d",
-    "name": "هدفون انکر",
-    "brand": "",
-    "model": "هدفون انکر",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/gadget/headphone/anker-headphone/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.443Z"
-  },
-  {
-    "id": "web-laptop-2fc592b5957fa549",
-    "productId": "web-laptop-2fc592b5957fa549",
-    "name": "هدفون ادیفایر",
-    "brand": "",
-    "model": "هدفون ادیفایر",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/accessories/headphone/edifire-headphone/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.443Z"
-  },
-  {
-    "id": "web-laptop-4376660a2c01f499",
-    "productId": "web-laptop-4376660a2c01f499",
-    "name": "هدفون مک‌ دودو",
-    "brand": "",
-    "model": "هدفون مک‌ دودو",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/gadget/%d9%87%d8%af%d9%81%d9%88%d9%86/%d9%87%d8%af%d9%81%d9%88%d9%86-%d9%85%da%a9-%d8%af%d9%88%d8%af%d9%88/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.443Z"
-  },
-  {
-    "id": "web-laptop-435f3a5aff0bd46c",
-    "productId": "web-laptop-435f3a5aff0bd46c",
-    "name": "اسپیکر",
-    "brand": "",
-    "model": "اسپیکر",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/accessories/speaker/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.443Z"
-  },
-  {
-    "id": "web-laptop-55ecf22c1e661ffb",
-    "productId": "web-laptop-55ecf22c1e661ffb",
-    "name": "اسپیکر بلوتوثی کینگ استار",
-    "brand": "",
-    "model": "اسپیکر بلوتوثی کینگ استار",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/accessories/speaker/kingstar-bluetooth-speaker/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.443Z"
-  },
-  {
-    "id": "web-laptop-0544af51c64d155d",
-    "productId": "web-laptop-0544af51c64d155d",
-    "name": "اسپیکر انکر",
-    "brand": "",
-    "model": "اسپیکر انکر",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/accessories/speaker/anker-speaker/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.443Z"
-  },
-  {
-    "id": "web-laptop-6116e7ac90495a09",
-    "productId": "web-laptop-6116e7ac90495a09",
-    "name": "هارد اکسترنال",
-    "brand": "",
-    "model": "هارد اکسترنال",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/accessories/hard/external-hard/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.443Z"
-  },
-  {
-    "id": "web-laptop-49349d462e9d302c",
-    "productId": "web-laptop-49349d462e9d302c",
-    "name": "هارد اکسترنال ای دیتا",
-    "brand": "",
-    "model": "هارد اکسترنال ای دیتا",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/accessories/hard/external-hard/adata-external-hard/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.443Z"
-  },
-  {
-    "id": "web-laptop-fbe1cf370108c2bb",
-    "productId": "web-laptop-fbe1cf370108c2bb",
-    "name": "هارد اکسترنال توشیبا",
-    "brand": "",
-    "model": "هارد اکسترنال توشیبا",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/accessories/hard/external-hard/toshiba-external-hard/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.443Z"
-  },
-  {
-    "id": "web-laptop-5ab616d64faa5e4d",
-    "productId": "web-laptop-5ab616d64faa5e4d",
-    "name": "هارد اکسترنال سیلیکون پاور",
-    "brand": "",
-    "model": "هارد اکسترنال سیلیکون پاور",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/accessories/hard/external-hard/silicon-power-external-hard/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.443Z"
-  },
-  {
-    "id": "web-laptop-fbc4461707cfef0a",
-    "productId": "web-laptop-fbc4461707cfef0a",
-    "name": "Surface Laptop 4 1",
-    "brand": "",
-    "model": "Surface Laptop 4 1",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/surface-laptop-4/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.443Z"
-  },
-  {
-    "id": "web-laptop-b0891181055873c7",
-    "productId": "web-laptop-b0891181055873c7",
-    "name": "پیش فروش 0",
-    "brand": "",
-    "model": "پیش فروش 0",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/preorder/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.443Z"
-  },
-  {
-    "id": "web-laptop-5d47a8e8b905b05f",
-    "productId": "web-laptop-5d47a8e8b905b05f",
-    "name": "لپ تاپ برنامه نویسی 10",
-    "brand": "",
-    "model": "لپ تاپ برنامه نویسی 10",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/programing-laptops/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.443Z"
-  },
-  {
-    "id": "web-laptop-fe1900fbb7893525",
-    "productId": "web-laptop-fe1900fbb7893525",
-    "name": "لپ تاپ دانشجویی 12",
-    "brand": "",
-    "model": "لپ تاپ دانشجویی 12",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/student-laptops/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.443Z"
-  },
-  {
-    "id": "web-laptop-30c4794c959ba79f",
-    "productId": "web-laptop-30c4794c959ba79f",
-    "name": "لپ تاپ گیمینگ 31",
-    "brand": "",
-    "model": "لپ تاپ گیمینگ 31",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/gaming-laptop/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.443Z"
-  },
-  {
-    "id": "web-laptop-52af4a84831f4321",
-    "productId": "web-laptop-52af4a84831f4321",
-    "name": "لپ تاپ مخصوص طراحی 2",
-    "brand": "",
-    "model": "لپ تاپ مخصوص طراحی 2",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/design-laptop/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.443Z"
-  },
-  {
-    "id": "web-laptop-304a7a4299dffc0d",
-    "productId": "web-laptop-304a7a4299dffc0d",
-    "name": "لپ تاپ های 2024 28",
-    "brand": "",
-    "model": "لپ تاپ های 2024 28",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/2024-laptops/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.443Z"
-  },
-  {
-    "id": "web-laptop-c3557f48b9bb3f4c",
-    "productId": "web-laptop-c3557f48b9bb3f4c",
-    "name": "لپ تاپ های 2025 18",
-    "brand": "",
-    "model": "لپ تاپ های 2025 18",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/2025-laptops/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.443Z"
-  },
-  {
-    "id": "web-laptop-09edcff08af938f9",
-    "productId": "web-laptop-09edcff08af938f9",
-    "name": "لپ تاپ های اچ پی 2025 2",
-    "brand": "اچ‌پی",
-    "model": "لپ تاپ های اچ پی 2025 2",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/hp-laptop-2025/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.443Z"
-  },
-  {
-    "id": "web-laptop-72e7cbb708e6e201",
-    "productId": "web-laptop-72e7cbb708e6e201",
-    "name": "لپ تاپ های گیمینگ 2024 21",
-    "brand": "",
-    "model": "لپ تاپ های گیمینگ 2024 21",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/2024-gaming-laptops/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.443Z"
-  },
-  {
-    "id": "web-laptop-f3ffccb21b712179",
-    "productId": "web-laptop-f3ffccb21b712179",
-    "name": "آهنگسازی",
-    "brand": "",
-    "model": "آهنگسازی",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_user=%d8%a2%d9%87%d9%86%da%af%d8%b3%d8%a7%d8%b2%db%8c",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.443Z"
-  },
-  {
-    "id": "web-laptop-ac94c7ba7a578396",
-    "productId": "web-laptop-ac94c7ba7a578396",
-    "name": "اداری",
-    "brand": "",
-    "model": "اداری",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_user=%d8%a7%d8%af%d8%a7%d8%b1%db%8c",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.443Z"
-  },
-  {
-    "id": "web-laptop-c27f62cc4d935ca3",
-    "productId": "web-laptop-c27f62cc4d935ca3",
-    "name": "برنامه نویسی",
-    "brand": "",
-    "model": "برنامه نویسی",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_user=%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d9%87-%d9%86%d9%88%db%8c%d8%b3%db%8c",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.443Z"
-  },
-  {
-    "id": "web-laptop-72b9ec1fcb305dae",
-    "productId": "web-laptop-72b9ec1fcb305dae",
-    "name": "تدوین",
-    "brand": "",
-    "model": "تدوین",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_user=%d8%aa%d8%af%d9%88%db%8c%d9%86",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-8fa9f77b395dd30b",
-    "productId": "web-laptop-8fa9f77b395dd30b",
-    "name": "حسابداری",
-    "brand": "",
-    "model": "حسابداری",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_user=%d8%ad%d8%b3%d8%a7%d8%a8%d8%af%d8%a7%d8%b1%db%8c",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-211e38d34c3b1966",
-    "productId": "web-laptop-211e38d34c3b1966",
-    "name": "دانش آموزی",
-    "brand": "",
-    "model": "دانش آموزی",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_user=%d8%af%d8%a7%d9%86%d8%b4-%d8%a2%d9%85%d9%88%d8%b2%db%8c",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-1986e0c19bfc684a",
-    "productId": "web-laptop-1986e0c19bfc684a",
-    "name": "دانشجویی",
-    "brand": "",
-    "model": "دانشجویی",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_user=%d8%af%d8%a7%d9%86%d8%b4%d8%ac%d9%88%db%8c%db%8c",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-ed8a34ed931304aa",
-    "productId": "web-laptop-ed8a34ed931304aa",
-    "name": "روزمره",
-    "brand": "",
-    "model": "روزمره",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_user=%d8%b1%d9%88%d8%b2%d9%85%d8%b1%d9%87",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-505d4ce5aeba2ea6",
-    "productId": "web-laptop-505d4ce5aeba2ea6",
-    "name": "صنعتی",
-    "brand": "",
-    "model": "صنعتی",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_user=%d8%b5%d9%86%d8%b9%d8%aa%db%8c",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-e5ee4b6771e58031",
-    "productId": "web-laptop-e5ee4b6771e58031",
-    "name": "طراحی",
-    "brand": "",
-    "model": "طراحی",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_user=%d8%b7%d8%b1%d8%a7%d8%ad%db%8c",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-61259a72d0051122",
-    "productId": "web-laptop-61259a72d0051122",
-    "name": "طراحی سنگین",
-    "brand": "",
-    "model": "طراحی سنگین",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_user=%d8%b7%d8%b1%d8%a7%d8%ad%db%8c-%d8%b3%d9%86%da%af%db%8c%d9%86",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-b920208c2745f322",
-    "productId": "web-laptop-b920208c2745f322",
-    "name": "گیمینگ",
-    "brand": "",
-    "model": "گیمینگ",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_user=%da%af%db%8c%d9%85%db%8c%d9%86%da%af",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-f77806bc4ab3577a",
-    "productId": "web-laptop-f77806bc4ab3577a",
-    "name": "مالتی مدیا",
-    "brand": "",
-    "model": "مالتی مدیا",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_user=%d9%85%d8%a7%d9%84%d8%aa%db%8c-%d9%85%d8%af%db%8c%d8%a7",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-a3974cefed0510ee",
-    "productId": "web-laptop-a3974cefed0510ee",
-    "name": "مدیریتی",
-    "brand": "",
-    "model": "مدیریتی",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_user=%d9%85%d8%af%db%8c%d8%b1%db%8c%d8%aa%db%8c",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-5b69134708224816",
-    "productId": "web-laptop-5b69134708224816",
-    "name": "وب گردی",
-    "brand": "",
-    "model": "وب گردی",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_user=%d9%88%d8%a8-%da%af%d8%b1%d8%af%db%8c",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-7f3fb3d34e85b906",
-    "productId": "web-laptop-7f3fb3d34e85b906",
-    "name": "13.3 اینچ",
-    "brand": "",
-    "model": "13.3 اینچ",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_screen-size-inches=13-3",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-654c1c76cc6fe44d",
-    "productId": "web-laptop-654c1c76cc6fe44d",
-    "name": "13.6 اینچ",
-    "brand": "",
-    "model": "13.6 اینچ",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_screen-size-inches=13-6",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-585a017486e2308e",
-    "productId": "web-laptop-585a017486e2308e",
-    "name": "14.0",
-    "brand": "",
-    "model": "14.0",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_screen-size-inches=14-0",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-171f118dd4cc2183",
-    "productId": "web-laptop-171f118dd4cc2183",
-    "name": "14.2 اینچ",
-    "brand": "",
-    "model": "14.2 اینچ",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_screen-size-inches=14-2",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-e8f11428afe68452",
-    "productId": "web-laptop-e8f11428afe68452",
-    "name": "14.5",
-    "brand": "",
-    "model": "14.5",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_screen-size-inches=14-5",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-a1c81632bbdb3a4c",
-    "productId": "web-laptop-a1c81632bbdb3a4c",
-    "name": "15 اینچ",
-    "brand": "",
-    "model": "15 اینچ",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_screen-size-inches=15",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-6c61bec16c2118e5",
-    "productId": "web-laptop-6c61bec16c2118e5",
-    "name": "15.3 اینچ",
-    "brand": "",
-    "model": "15.3 اینچ",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_screen-size-inches=15-3",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-57bb9bc1a74ef478",
-    "productId": "web-laptop-57bb9bc1a74ef478",
-    "name": "15.6 اینچ",
-    "brand": "",
-    "model": "15.6 اینچ",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_screen-size-inches=15-6",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-2c6630c61c4bc800",
-    "productId": "web-laptop-2c6630c61c4bc800",
-    "name": "16.0 اینچ",
-    "brand": "",
-    "model": "16.0 اینچ",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_screen-size-inches=16-0",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-3f748b80c913163f",
-    "productId": "web-laptop-3f748b80c913163f",
-    "name": "16.2 اینچ",
-    "brand": "",
-    "model": "16.2 اینچ",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_screen-size-inches=16-2",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-605be6afc04ed6c7",
-    "productId": "web-laptop-605be6afc04ed6c7",
-    "name": "AMD Dragon Range",
-    "brand": "",
-    "model": "AMD Dragon Range",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_name-of-the-processor-series=amd-dragon-range",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-eb3176ceed7ff982",
-    "productId": "web-laptop-eb3176ceed7ff982",
-    "name": "AMD Hawk Point",
-    "brand": "",
-    "model": "AMD Hawk Point",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_name-of-the-processor-series=amd-hawk-point",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-19c7937880d58f04",
-    "productId": "web-laptop-19c7937880d58f04",
-    "name": "AMD Rembrandt (Zen 3+)",
-    "brand": "",
-    "model": "AMD Rembrandt (Zen 3+)",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_name-of-the-processor-series=amd-rembrandt-zen-3",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-8b54688974975201",
-    "productId": "web-laptop-8b54688974975201",
-    "name": "Apple M1",
-    "brand": "اپل",
-    "model": "Apple M1",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_name-of-the-processor-series=apple-m1",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-36bc55fe3da612f9",
-    "productId": "web-laptop-36bc55fe3da612f9",
-    "name": "Apple M2",
-    "brand": "اپل",
-    "model": "Apple M2",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_name-of-the-processor-series=apple-m2",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-b4866b65573b15d4",
-    "productId": "web-laptop-b4866b65573b15d4",
-    "name": "Apple M3",
-    "brand": "اپل",
-    "model": "Apple M3",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_name-of-the-processor-series=apple-m3",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-c869b22c9c62cd48",
-    "productId": "web-laptop-c869b22c9c62cd48",
-    "name": "Apple M3 Max",
-    "brand": "اپل",
-    "model": "Apple M3 Max",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_name-of-the-processor-series=apple-m3-max",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-2488cdade8efc137",
-    "productId": "web-laptop-2488cdade8efc137",
-    "name": "Apple M3 Pro",
-    "brand": "اپل",
-    "model": "Apple M3 Pro",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_name-of-the-processor-series=apple-m3-pro",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-cab5e38c413d3e3b",
-    "productId": "web-laptop-cab5e38c413d3e3b",
-    "name": "Arrow Lake",
-    "brand": "",
-    "model": "Arrow Lake",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_name-of-the-processor-series=arrow-lake",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-93a6d1b221b1abd1",
-    "productId": "web-laptop-93a6d1b221b1abd1",
-    "name": "Dragon Range (Zen 4)",
-    "brand": "",
-    "model": "Dragon Range (Zen 4)",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_name-of-the-processor-series=dragon-range-zen-4",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-6e8f1fe665a95dbb",
-    "productId": "web-laptop-6e8f1fe665a95dbb",
-    "name": "Hawk Point-HS (Zen 4)",
-    "brand": "",
-    "model": "Hawk Point-HS (Zen 4)",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_name-of-the-processor-series=hawk-point-hs-zen-4",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-5dbe8b3479eca9ec",
-    "productId": "web-laptop-5dbe8b3479eca9ec",
-    "name": "Krackan Point",
-    "brand": "",
-    "model": "Krackan Point",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_name-of-the-processor-series=krackan-point",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-58f42fcaa73d2ba5",
-    "productId": "web-laptop-58f42fcaa73d2ba5",
-    "name": "M4 Max",
-    "brand": "",
-    "model": "M4 Max",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_name-of-the-processor-series=m4-max",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-c9b53d6da9c7c6aa",
-    "productId": "web-laptop-c9b53d6da9c7c6aa",
-    "name": "M4 Pro",
-    "brand": "",
-    "model": "M4 Pro",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_name-of-the-processor-series=m4-pro",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-85aef74a072c67b1",
-    "productId": "web-laptop-85aef74a072c67b1",
-    "name": "Meteor Lake-H",
-    "brand": "",
-    "model": "Meteor Lake-H",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_name-of-the-processor-series=meteor-lake-h",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-565d9fc968ec91ed",
-    "productId": "web-laptop-565d9fc968ec91ed",
-    "name": "Raptor Lake",
-    "brand": "",
-    "model": "Raptor Lake",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_name-of-the-processor-series=raptor-lake",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-76d44b609dcd7f02",
-    "productId": "web-laptop-76d44b609dcd7f02",
-    "name": "Raptor Lake-H",
-    "brand": "",
-    "model": "Raptor Lake-H",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_name-of-the-processor-series=raptor-lake-h",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-81c2361d46e4da4b",
-    "productId": "web-laptop-81c2361d46e4da4b",
-    "name": "Raptor Lake-HX",
-    "brand": "",
-    "model": "Raptor Lake-HX",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_name-of-the-processor-series=raptor-lake-hx",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-9232079e5fb76c82",
-    "productId": "web-laptop-9232079e5fb76c82",
-    "name": "Tiger Lake",
-    "brand": "",
-    "model": "Tiger Lake",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_name-of-the-processor-series=tiger-lake",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-a0583184fc51fa7f",
-    "productId": "web-laptop-a0583184fc51fa7f",
-    "name": "1TB",
-    "brand": "",
-    "model": "1TB",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_ssd-capacity=1tb",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-2efd292571ae8499",
-    "productId": "web-laptop-2efd292571ae8499",
-    "name": "256GB",
-    "brand": "",
-    "model": "256GB",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_ssd-capacity=256gb",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-bc4769264045c527",
-    "productId": "web-laptop-bc4769264045c527",
-    "name": "2TB",
-    "brand": "",
-    "model": "2TB",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_ssd-capacity=2tb",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-9453b27190fa5520",
-    "productId": "web-laptop-9453b27190fa5520",
-    "name": "512GB",
-    "brand": "",
-    "model": "512GB",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_ssd-capacity=512gb",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-55b686676d8ab659",
-    "productId": "web-laptop-55b686676d8ab659",
-    "name": "8GB",
-    "brand": "",
-    "model": "8GB",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_the-amount-of-ram-memory=8gb",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-e49e066382be0abd",
-    "productId": "web-laptop-e49e066382be0abd",
-    "name": "16GB",
-    "brand": "",
-    "model": "16GB",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_the-amount-of-ram-memory=16gb",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-3056fc2efb898c6f",
-    "productId": "web-laptop-3056fc2efb898c6f",
-    "name": "18GB",
-    "brand": "",
-    "model": "18GB",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_the-amount-of-ram-memory=18gb",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-eeb6a067580572ed",
-    "productId": "web-laptop-eeb6a067580572ed",
-    "name": "24GB",
-    "brand": "",
-    "model": "24GB",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_the-amount-of-ram-memory=24gb",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-3f7f35863a5542d3",
-    "productId": "web-laptop-3f7f35863a5542d3",
-    "name": "32GB",
-    "brand": "",
-    "model": "32GB",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_the-amount-of-ram-memory=32gb",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-5b3c77b755225def",
-    "productId": "web-laptop-5b3c77b755225def",
-    "name": "36GB",
-    "brand": "",
-    "model": "36GB",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_the-amount-of-ram-memory=36gb",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-99005c4e164ab1be",
-    "productId": "web-laptop-99005c4e164ab1be",
-    "name": "48GB",
-    "brand": "",
-    "model": "48GB",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_the-amount-of-ram-memory=48gb",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-ebf35fff6618bf00",
-    "productId": "web-laptop-ebf35fff6618bf00",
-    "name": "64GB",
-    "brand": "",
-    "model": "64GB",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_the-amount-of-ram-memory=64gb",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-04dec9c2cb6b5dde",
-    "productId": "web-laptop-04dec9c2cb6b5dde",
-    "name": "ندارد",
-    "brand": "",
-    "model": "ندارد",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_hdd-capacity=%d9%86%d8%af%d8%a7%d8%b1%d8%af",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-0e61d579f91d65ed",
-    "productId": "web-laptop-0e61d579f91d65ed",
-    "name": "60Hz",
-    "brand": "",
-    "model": "60Hz",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_image-rate=60hz",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-ffc7099a169246f8",
-    "productId": "web-laptop-ffc7099a169246f8",
-    "name": "120Hz",
-    "brand": "",
-    "model": "120Hz",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_image-rate=120hz",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-e30c647ac0c2873a",
-    "productId": "web-laptop-e30c647ac0c2873a",
-    "name": "144Hz",
-    "brand": "",
-    "model": "144Hz",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_image-rate=144hz",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-94e803435efdc829",
-    "productId": "web-laptop-94e803435efdc829",
-    "name": "165Hz",
-    "brand": "",
-    "model": "165Hz",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_image-rate=165hz",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-8b02ba7dcbd0c4ec",
-    "productId": "web-laptop-8b02ba7dcbd0c4ec",
-    "name": "240Hz",
-    "brand": "",
-    "model": "240Hz",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_image-rate=240hz",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-c62cecaad586c1b6",
-    "productId": "web-laptop-c62cecaad586c1b6",
-    "name": "IPS",
-    "brand": "",
-    "model": "IPS",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_image-panel=ips",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-105a0be6b6ef2897",
-    "productId": "web-laptop-105a0be6b6ef2897",
-    "name": "Liquid Retina Display",
-    "brand": "",
-    "model": "Liquid Retina Display",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_image-panel=liquid-retina-display",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-48e47ff4669482d1",
-    "productId": "web-laptop-48e47ff4669482d1",
-    "name": "Liquid Retina XDR display",
-    "brand": "",
-    "model": "Liquid Retina XDR display",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_image-panel=liquid-retina-xdr-display",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-ee6a15658dd41635",
-    "productId": "web-laptop-ee6a15658dd41635",
-    "name": "OLED",
-    "brand": "",
-    "model": "OLED",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_image-panel=oled",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-b7e91636a12acd3b",
-    "productId": "web-laptop-b7e91636a12acd3b",
-    "name": "Retina",
-    "brand": "",
-    "model": "Retina",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_image-panel=retina",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-632bde44c7aa3419",
-    "productId": "web-laptop-632bde44c7aa3419",
-    "name": "دارد",
-    "brand": "",
-    "model": "دارد",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_touch-screen=%d8%af%d8%a7%d8%b1%d8%af",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-83ebda45fb976935",
-    "productId": "web-laptop-83ebda45fb976935",
-    "name": "ندارد",
-    "brand": "",
-    "model": "ندارد",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_touch-screen=%d9%86%d8%af%d8%a7%d8%b1%d8%af",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-6ee5d45244cde4d7",
-    "productId": "web-laptop-6ee5d45244cde4d7",
-    "name": "دارد",
-    "brand": "",
-    "model": "دارد",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_keyboard-light=%d8%af%d8%a7%d8%b1%d8%af",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-ac055fe984a6375b",
-    "productId": "web-laptop-ac055fe984a6375b",
-    "name": "ندارد",
-    "brand": "",
-    "model": "ندارد",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_keyboard-light=%d9%86%d8%af%d8%a7%d8%b1%d8%af",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-45437b75fe039b91",
-    "productId": "web-laptop-45437b75fe039b91",
-    "name": "دارد",
-    "brand": "",
-    "model": "دارد",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_lan=%d8%af%d8%a7%d8%b1%d8%af",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-1adbf8dd4aea0954",
-    "productId": "web-laptop-1adbf8dd4aea0954",
-    "name": "ندارد",
-    "brand": "",
-    "model": "ندارد",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_lan=%d9%86%d8%af%d8%a7%d8%b1%d8%af",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-56e47b2d4d2816fd",
-    "productId": "web-laptop-56e47b2d4d2816fd",
-    "name": "دارد",
-    "brand": "",
-    "model": "دارد",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_webcam=%d8%af%d8%a7%d8%b1%d8%af",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-a4ef12f1cdca99ed",
-    "productId": "web-laptop-a4ef12f1cdca99ed",
-    "name": "ندارد",
-    "brand": "",
-    "model": "ندارد",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_fingerprint-sensor=%d9%86%d8%af%d8%a7%d8%b1%d8%af",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-850784ce98257343",
-    "productId": "web-laptop-850784ce98257343",
-    "name": "دارد",
-    "brand": "",
-    "model": "دارد",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_fingerprint-sensor=%d8%af%d8%a7%d8%b1%d8%af",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-535e0ff5ffc44af0",
-    "productId": "web-laptop-535e0ff5ffc44af0",
-    "name": "1920x1080",
-    "brand": "",
-    "model": "1920x1080",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_resolution=1920x1080",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-a4a7c4cfeedfe7d0",
-    "productId": "web-laptop-a4a7c4cfeedfe7d0",
-    "name": "1920x1200",
-    "brand": "",
-    "model": "1920x1200",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_resolution=1920x1200",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-10d16b87eb98b657",
-    "productId": "web-laptop-10d16b87eb98b657",
-    "name": "2496x1664",
-    "brand": "",
-    "model": "2496x1664",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_resolution=2496x1664",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-521786d5885b99e5",
-    "productId": "web-laptop-521786d5885b99e5",
-    "name": "2560x1600",
-    "brand": "",
-    "model": "2560x1600",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_resolution=2560x1600",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.444Z"
-  },
-  {
-    "id": "web-laptop-6dffdf165a92ac8a",
-    "productId": "web-laptop-6dffdf165a92ac8a",
-    "name": "2560x1664",
-    "brand": "",
-    "model": "2560x1664",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_resolution=2560x1664",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.445Z"
-  },
-  {
-    "id": "web-laptop-d445cade5e93776a",
-    "productId": "web-laptop-d445cade5e93776a",
-    "name": "2880x1620",
-    "brand": "",
-    "model": "2880x1620",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_resolution=2880x1620",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.445Z"
-  },
-  {
-    "id": "web-laptop-7d7fb00dfc18f7b5",
-    "productId": "web-laptop-7d7fb00dfc18f7b5",
-    "name": "2880x1800",
-    "brand": "",
-    "model": "2880x1800",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_resolution=2880x1800",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.445Z"
-  },
-  {
-    "id": "web-laptop-a5bc0a0f0a98080b",
-    "productId": "web-laptop-a5bc0a0f0a98080b",
-    "name": "2880x1864",
-    "brand": "",
-    "model": "2880x1864",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_resolution=2880x1864",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.445Z"
-  },
-  {
-    "id": "web-laptop-96df8f98f159912a",
-    "productId": "web-laptop-96df8f98f159912a",
-    "name": "3024x1964",
-    "brand": "",
-    "model": "3024x1964",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_resolution=3024x1964",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.445Z"
-  },
-  {
-    "id": "web-laptop-ebca8b97cef68eba",
-    "productId": "web-laptop-ebca8b97cef68eba",
-    "name": "3456x2234",
-    "brand": "",
-    "model": "3456x2234",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_resolution=3456x2234",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.445Z"
-  },
-  {
-    "id": "web-laptop-7f8b3f9f42f2b0ac",
-    "productId": "web-laptop-7f8b3f9f42f2b0ac",
-    "name": "آبی",
-    "brand": "",
-    "model": "آبی",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_color-selector=%d8%a2%d8%a8%db%8c",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.445Z"
-  },
-  {
-    "id": "web-laptop-a2dd89ee362aa281",
-    "productId": "web-laptop-a2dd89ee362aa281",
-    "name": "مشکی",
-    "brand": "",
-    "model": "مشکی",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_color-selector=%d9%85%d8%b4%da%a9%db%8c",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.445Z"
-  },
-  {
-    "id": "web-laptop-3e0d312cebf3d6f4",
-    "productId": "web-laptop-3e0d312cebf3d6f4",
-    "name": "آبی روشن",
-    "brand": "",
-    "model": "آبی روشن",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_color-selector=%d8%a2%d8%a8%db%8c-%d8%b1%d9%88%d8%b4%d9%86",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.445Z"
-  },
-  {
-    "id": "web-laptop-8c3004ea62a7d2d4",
-    "productId": "web-laptop-8c3004ea62a7d2d4",
-    "name": "خاکستری",
-    "brand": "",
-    "model": "خاکستری",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_color-selector=%d8%ae%d8%a7%da%a9%d8%b3%d8%aa%d8%b1%db%8c",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.445Z"
-  },
-  {
-    "id": "web-laptop-789f8db4a7ffc07d",
-    "productId": "web-laptop-789f8db4a7ffc07d",
-    "name": "سرمه ای",
-    "brand": "",
-    "model": "سرمه ای",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_color-selector=%d8%b3%d8%b1%d9%85%d9%87-%d8%a7%db%8c",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.445Z"
-  },
-  {
-    "id": "web-laptop-e7d3ba55f35a5a13",
-    "productId": "web-laptop-e7d3ba55f35a5a13",
-    "name": "طلایی",
-    "brand": "",
-    "model": "طلایی",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_color-selector=%d8%b7%d9%84%d8%a7%db%8c%db%8c",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.445Z"
-  },
-  {
-    "id": "web-laptop-e7d8fe46f4c7df64",
-    "productId": "web-laptop-e7d8fe46f4c7df64",
-    "name": "طوسی",
-    "brand": "",
-    "model": "طوسی",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_color-selector=%d8%b7%d9%88%d8%b3%db%8c",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.445Z"
-  },
-  {
-    "id": "web-laptop-eef704cc565341df",
-    "productId": "web-laptop-eef704cc565341df",
-    "name": "نقره ای",
-    "brand": "",
-    "model": "نقره ای",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?filter_color-selector=%d9%86%d9%82%d8%b1%d9%87-%d8%a7%db%8c",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.445Z"
-  },
-  {
-    "id": "web-laptop-efa60c75f5558d1a",
-    "productId": "web-laptop-efa60c75f5558d1a",
-    "name": "پیشفرض",
-    "brand": "",
-    "model": "پیشفرض",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.445Z"
-  },
-  {
-    "id": "web-laptop-37482e2e11f648e2",
-    "productId": "web-laptop-37482e2e11f648e2",
-    "name": "محبوبیت",
-    "brand": "",
-    "model": "محبوبیت",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?orderby=rating",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.445Z"
-  },
-  {
-    "id": "web-laptop-87c8cd8f3bb6fe67",
-    "productId": "web-laptop-87c8cd8f3bb6fe67",
-    "name": "پربازدیدترین",
-    "brand": "",
-    "model": "پربازدیدترین",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?orderby=popularity",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.445Z"
-  },
-  {
-    "id": "web-laptop-0b8d934f98dc7b49",
-    "productId": "web-laptop-0b8d934f98dc7b49",
-    "name": "جدیدترین",
-    "brand": "",
-    "model": "جدیدترین",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?orderby=date",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.445Z"
-  },
-  {
-    "id": "web-laptop-131cc4ed4c2f5faf",
-    "productId": "web-laptop-131cc4ed4c2f5faf",
-    "name": "ارزانترین",
-    "brand": "",
-    "model": "ارزانترین",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?orderby=price",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.445Z"
-  },
-  {
-    "id": "web-laptop-10deb138304773ba",
-    "productId": "web-laptop-10deb138304773ba",
-    "name": "گرانترین",
-    "brand": "",
-    "model": "گرانترین",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/?orderby=price-desc",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.445Z"
+    "observedAt": "2026-08-31T22:47:59.366Z"
   },
   {
     "id": "web-laptop-21fc6ef47fb8d66b",
@@ -8030,7 +2718,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.445Z"
+    "observedAt": "2026-08-31T22:48:04.242Z"
   },
   {
     "id": "web-laptop-020ed310c70d3f72",
@@ -8046,7 +2734,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.445Z"
+    "observedAt": "2026-08-31T22:48:04.242Z"
   },
   {
     "id": "web-laptop-b4af2cb64c95e795",
@@ -8062,7 +2750,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.445Z"
+    "observedAt": "2026-08-31T22:48:04.242Z"
   },
   {
     "id": "web-laptop-261c04f550825851",
@@ -8078,7 +2766,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.445Z"
+    "observedAt": "2026-08-31T22:48:04.242Z"
   },
   {
     "id": "web-laptop-4f094238631bd236",
@@ -8094,7 +2782,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.445Z"
+    "observedAt": "2026-08-31T22:48:04.242Z"
   },
   {
     "id": "web-laptop-71de15566b2a4d70",
@@ -8110,7 +2798,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.445Z"
+    "observedAt": "2026-08-31T22:48:04.242Z"
   },
   {
     "id": "web-laptop-30fb94d1b72fc800",
@@ -8126,7 +2814,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.445Z"
+    "observedAt": "2026-08-31T22:48:04.242Z"
   },
   {
     "id": "web-laptop-79f7662885aaea40",
@@ -8142,7 +2830,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.445Z"
+    "observedAt": "2026-08-31T22:48:04.242Z"
   },
   {
     "id": "web-laptop-977fdcb237539df7",
@@ -8158,7 +2846,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.445Z"
+    "observedAt": "2026-08-31T22:48:04.242Z"
   },
   {
     "id": "web-laptop-82a6f21b0455eb63",
@@ -8174,7 +2862,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.445Z"
+    "observedAt": "2026-08-31T22:48:04.242Z"
   },
   {
     "id": "web-laptop-2e4ee0d8aa410572",
@@ -8190,7 +2878,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.445Z"
+    "observedAt": "2026-08-31T22:48:04.242Z"
   },
   {
     "id": "web-laptop-0f00bacfb8398588",
@@ -8206,7 +2894,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.446Z"
+    "observedAt": "2026-08-31T22:48:04.242Z"
   },
   {
     "id": "web-laptop-e69ad66e79df79ca",
@@ -8222,7 +2910,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.446Z"
+    "observedAt": "2026-08-31T22:48:04.242Z"
   },
   {
     "id": "web-laptop-d07b98064e577714",
@@ -8238,7 +2926,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.446Z"
+    "observedAt": "2026-08-31T22:48:04.242Z"
   },
   {
     "id": "web-laptop-a71069a0bb18f371",
@@ -8254,7 +2942,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.446Z"
+    "observedAt": "2026-08-31T22:48:04.242Z"
   },
   {
     "id": "web-laptop-51c937a253df33f3",
@@ -8270,7 +2958,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.446Z"
+    "observedAt": "2026-08-31T22:48:04.242Z"
   },
   {
     "id": "web-laptop-d7ced1f205d4ce57",
@@ -8286,7 +2974,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.446Z"
+    "observedAt": "2026-08-31T22:48:04.242Z"
   },
   {
     "id": "web-laptop-ab620970b952993b",
@@ -8302,7 +2990,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.446Z"
+    "observedAt": "2026-08-31T22:48:04.242Z"
   },
   {
     "id": "web-laptop-d910bb57f146e162",
@@ -8318,7 +3006,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.446Z"
+    "observedAt": "2026-08-31T22:48:04.242Z"
   },
   {
     "id": "web-laptop-5c44cb8cc81e2c63",
@@ -8334,71 +3022,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.446Z"
-  },
-  {
-    "id": "web-laptop-72b84ff7961a74d4",
-    "productId": "web-laptop-72b84ff7961a74d4",
-    "name": "&larr;",
-    "brand": "",
-    "model": "&larr;",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/page/2/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.446Z"
-  },
-  {
-    "id": "web-laptop-899b4fdd33764976",
-    "productId": "web-laptop-899b4fdd33764976",
-    "name": "بازگشت به بالا",
-    "brand": "",
-    "model": "بازگشت به بالا",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/#tops",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.446Z"
-  },
-  {
-    "id": "web-laptop-eeeea150502f2f8d",
-    "productId": "web-laptop-eeeea150502f2f8d",
-    "name": "{{p_name}}",
-    "brand": "",
-    "model": "{{p_name}}",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/%7B%7Bp_url%7D%7D",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:06.446Z"
-  },
-  {
-    "id": "web-laptop-4bdbb4873a985364",
-    "productId": "web-laptop-4bdbb4873a985364",
-    "name": "دسته بندی کالاها",
-    "brand": "",
-    "model": "دسته بندی کالاها",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/page/2/#",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/page/2/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:10.591Z"
+    "observedAt": "2026-08-31T22:48:04.242Z"
   },
   {
     "id": "web-laptop-d127e9a6dbfec127",
@@ -8414,7 +3038,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:10.594Z"
+    "observedAt": "2026-08-31T22:48:08.636Z"
   },
   {
     "id": "web-laptop-010e9243280e1fac",
@@ -8430,7 +3054,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:10.594Z"
+    "observedAt": "2026-08-31T22:48:08.636Z"
   },
   {
     "id": "web-laptop-83265f98d194d1a6",
@@ -8446,7 +3070,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:10.594Z"
+    "observedAt": "2026-08-31T22:48:08.636Z"
   },
   {
     "id": "web-laptop-8a1211bf3528f490",
@@ -8462,7 +3086,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:10.594Z"
+    "observedAt": "2026-08-31T22:48:08.636Z"
   },
   {
     "id": "web-laptop-fe7d28dcb8d2615c",
@@ -8478,7 +3102,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:10.594Z"
+    "observedAt": "2026-08-31T22:48:08.636Z"
   },
   {
     "id": "web-laptop-16678c1cbadc9a9f",
@@ -8494,7 +3118,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:10.594Z"
+    "observedAt": "2026-08-31T22:48:08.636Z"
   },
   {
     "id": "web-laptop-fa7a4aae85f11769",
@@ -8510,7 +3134,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:10.594Z"
+    "observedAt": "2026-08-31T22:48:08.636Z"
   },
   {
     "id": "web-laptop-3e01d41a9492b0e8",
@@ -8526,7 +3150,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:10.594Z"
+    "observedAt": "2026-08-31T22:48:08.636Z"
   },
   {
     "id": "web-laptop-db8c510563f292db",
@@ -8542,7 +3166,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:10.595Z"
+    "observedAt": "2026-08-31T22:48:08.636Z"
   },
   {
     "id": "web-laptop-b440eda6fbdba8d3",
@@ -8558,7 +3182,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:10.595Z"
+    "observedAt": "2026-08-31T22:48:08.636Z"
   },
   {
     "id": "web-laptop-9dca6f43c3959276",
@@ -8574,7 +3198,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:10.595Z"
+    "observedAt": "2026-08-31T22:48:08.636Z"
   },
   {
     "id": "web-laptop-aa393df1f9827f8d",
@@ -8590,7 +3214,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:10.595Z"
+    "observedAt": "2026-08-31T22:48:08.636Z"
   },
   {
     "id": "web-laptop-1bd1302c9744f0bb",
@@ -8606,7 +3230,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:10.595Z"
+    "observedAt": "2026-08-31T22:48:08.636Z"
   },
   {
     "id": "web-laptop-902af572d0736544",
@@ -8622,7 +3246,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:10.595Z"
+    "observedAt": "2026-08-31T22:48:08.636Z"
   },
   {
     "id": "web-laptop-775cd9fc2bbd9403",
@@ -8638,7 +3262,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:10.595Z"
+    "observedAt": "2026-08-31T22:48:08.636Z"
   },
   {
     "id": "web-laptop-0bbfbf420a8f5718",
@@ -8654,7 +3278,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:10.595Z"
+    "observedAt": "2026-08-31T22:48:08.636Z"
   },
   {
     "id": "web-laptop-727ea70fba2f9397",
@@ -8670,7 +3294,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:10.595Z"
+    "observedAt": "2026-08-31T22:48:08.636Z"
   },
   {
     "id": "web-laptop-9c9c50948de68ca2",
@@ -8686,7 +3310,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:10.595Z"
+    "observedAt": "2026-08-31T22:48:08.636Z"
   },
   {
     "id": "web-laptop-73784d39d4164d4d",
@@ -8702,7 +3326,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:10.595Z"
+    "observedAt": "2026-08-31T22:48:08.636Z"
   },
   {
     "id": "web-laptop-0cbfb263dcde4278",
@@ -8718,87 +3342,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/2/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:10.595Z"
-  },
-  {
-    "id": "web-laptop-0f6a789ac5bee746",
-    "productId": "web-laptop-0f6a789ac5bee746",
-    "name": "&rarr;",
-    "brand": "",
-    "model": "&rarr;",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/page/1/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/page/2/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:10.595Z"
-  },
-  {
-    "id": "web-laptop-420812971fa5def5",
-    "productId": "web-laptop-420812971fa5def5",
-    "name": "&larr;",
-    "brand": "",
-    "model": "&larr;",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/page/3/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/page/2/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:10.595Z"
-  },
-  {
-    "id": "web-laptop-336c8f296e8bd0bf",
-    "productId": "web-laptop-336c8f296e8bd0bf",
-    "name": "بازگشت به بالا",
-    "brand": "",
-    "model": "بازگشت به بالا",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/page/2/#tops",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/page/2/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:10.595Z"
-  },
-  {
-    "id": "web-laptop-d084c7b7ad3e4a0a",
-    "productId": "web-laptop-d084c7b7ad3e4a0a",
-    "name": "{{p_name}}",
-    "brand": "",
-    "model": "{{p_name}}",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/page/2/%7B%7Bp_url%7D%7D",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/page/2/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:10.595Z"
-  },
-  {
-    "id": "web-laptop-8608dc8331620ca5",
-    "productId": "web-laptop-8608dc8331620ca5",
-    "name": "دسته بندی کالاها",
-    "brand": "",
-    "model": "دسته بندی کالاها",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/page/3/#",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/page/3/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:14.342Z"
+    "observedAt": "2026-08-31T22:48:08.637Z"
   },
   {
     "id": "web-laptop-32f45969f4158155",
@@ -8814,7 +3358,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/3/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:14.344Z"
+    "observedAt": "2026-08-31T22:48:13.469Z"
   },
   {
     "id": "web-laptop-a67e3a81946b4bdc",
@@ -8830,7 +3374,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/3/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:14.344Z"
+    "observedAt": "2026-08-31T22:48:13.469Z"
   },
   {
     "id": "web-laptop-58cb9d2d040e2c44",
@@ -8846,7 +3390,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/3/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:14.344Z"
+    "observedAt": "2026-08-31T22:48:13.469Z"
   },
   {
     "id": "web-laptop-4529bd7e84a97507",
@@ -8862,7 +3406,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/3/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:14.344Z"
+    "observedAt": "2026-08-31T22:48:13.469Z"
   },
   {
     "id": "web-laptop-f1f5f5b037b8c01d",
@@ -8878,7 +3422,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/3/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:14.344Z"
+    "observedAt": "2026-08-31T22:48:13.469Z"
   },
   {
     "id": "web-laptop-de2fcc2a7fcf81ca",
@@ -8894,7 +3438,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/3/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:14.344Z"
+    "observedAt": "2026-08-31T22:48:13.469Z"
   },
   {
     "id": "web-laptop-c5409c0ce9301fdc",
@@ -8910,7 +3454,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/3/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:14.344Z"
+    "observedAt": "2026-08-31T22:48:13.469Z"
   },
   {
     "id": "web-laptop-b9c539b53357b8c8",
@@ -8926,7 +3470,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/3/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:14.344Z"
+    "observedAt": "2026-08-31T22:48:13.469Z"
   },
   {
     "id": "web-laptop-43b3a9ce1b61d743",
@@ -8942,7 +3486,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/3/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:14.344Z"
+    "observedAt": "2026-08-31T22:48:13.469Z"
   },
   {
     "id": "web-laptop-fd3d25dd13c5dc0d",
@@ -8958,7 +3502,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/3/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:14.344Z"
+    "observedAt": "2026-08-31T22:48:13.469Z"
   },
   {
     "id": "web-laptop-793b234d1bae8a6e",
@@ -8974,7 +3518,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/3/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:14.344Z"
+    "observedAt": "2026-08-31T22:48:13.469Z"
   },
   {
     "id": "web-laptop-3f3adcb714a7a474",
@@ -8990,7 +3534,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/3/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:14.344Z"
+    "observedAt": "2026-08-31T22:48:13.469Z"
   },
   {
     "id": "web-laptop-abb78c847314edb2",
@@ -9006,7 +3550,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/3/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:14.344Z"
+    "observedAt": "2026-08-31T22:48:13.469Z"
   },
   {
     "id": "web-laptop-f3b2bcbc3268da15",
@@ -9022,7 +3566,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/3/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:14.344Z"
+    "observedAt": "2026-08-31T22:48:13.469Z"
   },
   {
     "id": "web-laptop-a0bd523fc02a630f",
@@ -9038,7 +3582,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/3/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:14.344Z"
+    "observedAt": "2026-08-31T22:48:13.469Z"
   },
   {
     "id": "web-laptop-d336ac85958faf58",
@@ -9054,7 +3598,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/3/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:14.344Z"
+    "observedAt": "2026-08-31T22:48:13.469Z"
   },
   {
     "id": "web-laptop-fca2beff1511e689",
@@ -9070,7 +3614,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/3/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:14.344Z"
+    "observedAt": "2026-08-31T22:48:13.469Z"
   },
   {
     "id": "web-laptop-b29147e745ec906a",
@@ -9086,7 +3630,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/3/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:14.344Z"
+    "observedAt": "2026-08-31T22:48:13.469Z"
   },
   {
     "id": "web-laptop-a9b8815c9598d4a4",
@@ -9102,7 +3646,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/3/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:14.344Z"
+    "observedAt": "2026-08-31T22:48:13.469Z"
   },
   {
     "id": "web-laptop-638aa8df9460d58f",
@@ -9118,71 +3662,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/3/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:14.344Z"
-  },
-  {
-    "id": "web-laptop-064fb6ca4f01681b",
-    "productId": "web-laptop-064fb6ca4f01681b",
-    "name": "&larr;",
-    "brand": "",
-    "model": "&larr;",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/page/4/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/page/3/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:14.344Z"
-  },
-  {
-    "id": "web-laptop-8b4556781af48e1a",
-    "productId": "web-laptop-8b4556781af48e1a",
-    "name": "بازگشت به بالا",
-    "brand": "",
-    "model": "بازگشت به بالا",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/page/3/#tops",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/page/3/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:14.344Z"
-  },
-  {
-    "id": "web-laptop-84c74e576dc55f2a",
-    "productId": "web-laptop-84c74e576dc55f2a",
-    "name": "{{p_name}}",
-    "brand": "",
-    "model": "{{p_name}}",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/page/3/%7B%7Bp_url%7D%7D",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/page/3/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:14.344Z"
-  },
-  {
-    "id": "web-laptop-b0e35dfa77a3fec5",
-    "productId": "web-laptop-b0e35dfa77a3fec5",
-    "name": "دسته بندی کالاها",
-    "brand": "",
-    "model": "دسته بندی کالاها",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/page/4/#",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/page/4/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:18.663Z"
+    "observedAt": "2026-08-31T22:48:13.469Z"
   },
   {
     "id": "web-laptop-033a31e68e50057d",
@@ -9198,7 +3678,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/4/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:18.665Z"
+    "observedAt": "2026-08-31T22:48:18.463Z"
   },
   {
     "id": "web-laptop-52cf87074e96c6ce",
@@ -9214,7 +3694,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/4/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:18.665Z"
+    "observedAt": "2026-08-31T22:48:18.463Z"
   },
   {
     "id": "web-laptop-a7f9d9b9ed76ddf9",
@@ -9230,7 +3710,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/4/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:18.665Z"
+    "observedAt": "2026-08-31T22:48:18.463Z"
   },
   {
     "id": "web-laptop-68c30413e4b1dddd",
@@ -9246,7 +3726,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/4/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:18.665Z"
+    "observedAt": "2026-08-31T22:48:18.463Z"
   },
   {
     "id": "web-laptop-5b2fcd3458e4d4b6",
@@ -9262,7 +3742,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/4/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:18.665Z"
+    "observedAt": "2026-08-31T22:48:18.463Z"
   },
   {
     "id": "web-laptop-03bd52365cf6ad17",
@@ -9278,7 +3758,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/4/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:18.665Z"
+    "observedAt": "2026-08-31T22:48:18.463Z"
   },
   {
     "id": "web-laptop-950f1fe43fc54095",
@@ -9294,7 +3774,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/4/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:18.665Z"
+    "observedAt": "2026-08-31T22:48:18.463Z"
   },
   {
     "id": "web-laptop-696141ac9c0fcb7f",
@@ -9310,7 +3790,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/4/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:18.665Z"
+    "observedAt": "2026-08-31T22:48:18.463Z"
   },
   {
     "id": "web-laptop-1fa35a6f9ba716e7",
@@ -9326,7 +3806,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/4/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:18.665Z"
+    "observedAt": "2026-08-31T22:48:18.463Z"
   },
   {
     "id": "web-laptop-843a59b9dc0e01e4",
@@ -9342,7 +3822,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/4/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:18.665Z"
+    "observedAt": "2026-08-31T22:48:18.463Z"
   },
   {
     "id": "web-laptop-617b167a1db09ea2",
@@ -9358,7 +3838,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/4/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:18.665Z"
+    "observedAt": "2026-08-31T22:48:18.463Z"
   },
   {
     "id": "web-laptop-d70e2bfad6470d07",
@@ -9374,7 +3854,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/4/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:18.665Z"
+    "observedAt": "2026-08-31T22:48:18.463Z"
   },
   {
     "id": "web-laptop-896c89ccc54a523c",
@@ -9390,7 +3870,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/4/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:18.665Z"
+    "observedAt": "2026-08-31T22:48:18.463Z"
   },
   {
     "id": "web-laptop-ba9bb1799f43afb9",
@@ -9406,7 +3886,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/4/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:18.665Z"
+    "observedAt": "2026-08-31T22:48:18.463Z"
   },
   {
     "id": "web-laptop-79f38034b56c5c35",
@@ -9422,7 +3902,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/4/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:18.665Z"
+    "observedAt": "2026-08-31T22:48:18.463Z"
   },
   {
     "id": "web-laptop-d22197633c39654f",
@@ -9438,7 +3918,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/4/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:18.666Z"
+    "observedAt": "2026-08-31T22:48:18.463Z"
   },
   {
     "id": "web-laptop-356ca42d6d0e3668",
@@ -9454,7 +3934,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/4/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:18.666Z"
+    "observedAt": "2026-08-31T22:48:18.463Z"
   },
   {
     "id": "web-laptop-6ae4d6fea36640b4",
@@ -9470,7 +3950,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/4/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:18.666Z"
+    "observedAt": "2026-08-31T22:48:18.463Z"
   },
   {
     "id": "web-laptop-a5ca10f636b4f12b",
@@ -9486,7 +3966,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/4/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:18.666Z"
+    "observedAt": "2026-08-31T22:48:18.463Z"
   },
   {
     "id": "web-laptop-0b3cef3d75963ff7",
@@ -9502,71 +3982,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/4/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:18.666Z"
-  },
-  {
-    "id": "web-laptop-4b52ca118d257868",
-    "productId": "web-laptop-4b52ca118d257868",
-    "name": "&larr;",
-    "brand": "",
-    "model": "&larr;",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/page/5/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/page/4/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:18.666Z"
-  },
-  {
-    "id": "web-laptop-b3098955abe1a493",
-    "productId": "web-laptop-b3098955abe1a493",
-    "name": "بازگشت به بالا",
-    "brand": "",
-    "model": "بازگشت به بالا",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/page/4/#tops",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/page/4/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:18.666Z"
-  },
-  {
-    "id": "web-laptop-36d786c75014418e",
-    "productId": "web-laptop-36d786c75014418e",
-    "name": "{{p_name}}",
-    "brand": "",
-    "model": "{{p_name}}",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/page/4/%7B%7Bp_url%7D%7D",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/page/4/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:18.666Z"
-  },
-  {
-    "id": "web-laptop-3ae6b4fb01e26318",
-    "productId": "web-laptop-3ae6b4fb01e26318",
-    "name": "دسته بندی کالاها",
-    "brand": "",
-    "model": "دسته بندی کالاها",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/page/5/#",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/page/5/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:22.981Z"
+    "observedAt": "2026-08-31T22:48:18.463Z"
   },
   {
     "id": "web-laptop-57123e3374d1c09d",
@@ -9582,7 +3998,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/5/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:22.983Z"
+    "observedAt": "2026-08-31T22:48:22.737Z"
   },
   {
     "id": "web-laptop-8c9d1cfec9d7648c",
@@ -9598,7 +4014,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/5/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:22.983Z"
+    "observedAt": "2026-08-31T22:48:22.737Z"
   },
   {
     "id": "web-laptop-5241f0f3d122bfd9",
@@ -9614,7 +4030,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/5/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:22.983Z"
+    "observedAt": "2026-08-31T22:48:22.737Z"
   },
   {
     "id": "web-laptop-841138ee20bd021c",
@@ -9630,7 +4046,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/5/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:22.983Z"
+    "observedAt": "2026-08-31T22:48:22.737Z"
   },
   {
     "id": "web-laptop-ed843e57ec684357",
@@ -9646,7 +4062,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/5/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:22.983Z"
+    "observedAt": "2026-08-31T22:48:22.737Z"
   },
   {
     "id": "web-laptop-ba22495e2675aa12",
@@ -9662,7 +4078,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/5/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:22.983Z"
+    "observedAt": "2026-08-31T22:48:22.737Z"
   },
   {
     "id": "web-laptop-af1242ee638fd1e4",
@@ -9678,7 +4094,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/5/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:22.983Z"
+    "observedAt": "2026-08-31T22:48:22.737Z"
   },
   {
     "id": "web-laptop-8b4aa85480337558",
@@ -9694,7 +4110,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/5/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:22.983Z"
+    "observedAt": "2026-08-31T22:48:22.737Z"
   },
   {
     "id": "web-laptop-2269f9267324a54f",
@@ -9710,7 +4126,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/5/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:22.983Z"
+    "observedAt": "2026-08-31T22:48:22.737Z"
   },
   {
     "id": "web-laptop-08c9cd78f239b852",
@@ -9726,7 +4142,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/5/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:22.983Z"
+    "observedAt": "2026-08-31T22:48:22.737Z"
   },
   {
     "id": "web-laptop-6b183414e76e607b",
@@ -9742,7 +4158,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/5/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:22.983Z"
+    "observedAt": "2026-08-31T22:48:22.737Z"
   },
   {
     "id": "web-laptop-c553456749be4a6d",
@@ -9758,7 +4174,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/5/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:22.983Z"
+    "observedAt": "2026-08-31T22:48:22.737Z"
   },
   {
     "id": "web-laptop-9b7e2371366dbe99",
@@ -9774,7 +4190,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/5/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:22.983Z"
+    "observedAt": "2026-08-31T22:48:22.737Z"
   },
   {
     "id": "web-laptop-ee89271ec5153800",
@@ -9790,7 +4206,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/5/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:22.983Z"
+    "observedAt": "2026-08-31T22:48:22.737Z"
   },
   {
     "id": "web-laptop-d145a38902c3ff60",
@@ -9806,7 +4222,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/5/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:22.983Z"
+    "observedAt": "2026-08-31T22:48:22.737Z"
   },
   {
     "id": "web-laptop-62f68ecce1726e2f",
@@ -9822,7 +4238,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/5/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:22.983Z"
+    "observedAt": "2026-08-31T22:48:22.737Z"
   },
   {
     "id": "web-laptop-71ab4e97e983393c",
@@ -9838,7 +4254,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/5/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:22.983Z"
+    "observedAt": "2026-08-31T22:48:22.737Z"
   },
   {
     "id": "web-laptop-222379cc2cf6cfd5",
@@ -9854,7 +4270,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/5/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:22.983Z"
+    "observedAt": "2026-08-31T22:48:22.737Z"
   },
   {
     "id": "web-laptop-d9ca280fd6617a0b",
@@ -9870,7 +4286,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/5/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:22.983Z"
+    "observedAt": "2026-08-31T22:48:22.737Z"
   },
   {
     "id": "web-laptop-09d8efa6f8d3f5c0",
@@ -9886,71 +4302,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/5/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:22.983Z"
-  },
-  {
-    "id": "web-laptop-d1c3010075d0c16a",
-    "productId": "web-laptop-d1c3010075d0c16a",
-    "name": "&larr;",
-    "brand": "",
-    "model": "&larr;",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/page/6/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/page/5/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:22.983Z"
-  },
-  {
-    "id": "web-laptop-994f0fa58c3c1af2",
-    "productId": "web-laptop-994f0fa58c3c1af2",
-    "name": "بازگشت به بالا",
-    "brand": "",
-    "model": "بازگشت به بالا",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/page/5/#tops",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/page/5/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:22.983Z"
-  },
-  {
-    "id": "web-laptop-24f7cf9b72128f5d",
-    "productId": "web-laptop-24f7cf9b72128f5d",
-    "name": "{{p_name}}",
-    "brand": "",
-    "model": "{{p_name}}",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/page/5/%7B%7Bp_url%7D%7D",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/page/5/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:22.983Z"
-  },
-  {
-    "id": "web-laptop-6cd7a4fa1ce0cebe",
-    "productId": "web-laptop-6cd7a4fa1ce0cebe",
-    "name": "دسته بندی کالاها",
-    "brand": "",
-    "model": "دسته بندی کالاها",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/page/6/#",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/page/6/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:26.883Z"
+    "observedAt": "2026-08-31T22:48:22.737Z"
   },
   {
     "id": "web-laptop-95dd29d0f6d9ce21",
@@ -9966,7 +4318,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/6/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:26.884Z"
+    "observedAt": "2026-08-31T22:48:27.179Z"
   },
   {
     "id": "web-laptop-c58aa6b9c6341497",
@@ -9982,7 +4334,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/6/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:26.884Z"
+    "observedAt": "2026-08-31T22:48:27.179Z"
   },
   {
     "id": "web-laptop-62fce5aa36d4b2b8",
@@ -9998,7 +4350,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/6/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:26.884Z"
+    "observedAt": "2026-08-31T22:48:27.179Z"
   },
   {
     "id": "web-laptop-538332822b0a057f",
@@ -10014,7 +4366,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/6/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:26.884Z"
+    "observedAt": "2026-08-31T22:48:27.179Z"
   },
   {
     "id": "web-laptop-8684469724db0572",
@@ -10030,7 +4382,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/6/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:26.884Z"
+    "observedAt": "2026-08-31T22:48:27.179Z"
   },
   {
     "id": "web-laptop-5a9946c3f6f5ffe2",
@@ -10046,7 +4398,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/6/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:26.884Z"
+    "observedAt": "2026-08-31T22:48:27.179Z"
   },
   {
     "id": "web-laptop-4cefb76cf8762d19",
@@ -10062,7 +4414,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/6/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:26.885Z"
+    "observedAt": "2026-08-31T22:48:27.179Z"
   },
   {
     "id": "web-laptop-9ada57452182a2af",
@@ -10078,7 +4430,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/6/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:26.885Z"
+    "observedAt": "2026-08-31T22:48:27.179Z"
   },
   {
     "id": "web-laptop-16cab3ec68be5d63",
@@ -10094,7 +4446,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/6/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:26.885Z"
+    "observedAt": "2026-08-31T22:48:27.179Z"
   },
   {
     "id": "web-laptop-96ccd6f42cf1a6b6",
@@ -10110,7 +4462,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/6/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:26.885Z"
+    "observedAt": "2026-08-31T22:48:27.179Z"
   },
   {
     "id": "web-laptop-620bd0401319d494",
@@ -10126,7 +4478,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/6/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:26.885Z"
+    "observedAt": "2026-08-31T22:48:27.179Z"
   },
   {
     "id": "web-laptop-0cd2b49db95afee1",
@@ -10142,7 +4494,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/6/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:26.885Z"
+    "observedAt": "2026-08-31T22:48:27.179Z"
   },
   {
     "id": "web-laptop-e1912bb511d41b34",
@@ -10158,7 +4510,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/6/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:26.885Z"
+    "observedAt": "2026-08-31T22:48:27.179Z"
   },
   {
     "id": "web-laptop-f3407f72bbde2e91",
@@ -10174,7 +4526,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/6/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:26.885Z"
+    "observedAt": "2026-08-31T22:48:27.179Z"
   },
   {
     "id": "web-laptop-85ce04e0f3e72597",
@@ -10190,7 +4542,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/6/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:26.885Z"
+    "observedAt": "2026-08-31T22:48:27.179Z"
   },
   {
     "id": "web-laptop-ba5923f76280cd7b",
@@ -10206,7 +4558,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/6/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:26.885Z"
+    "observedAt": "2026-08-31T22:48:27.179Z"
   },
   {
     "id": "web-laptop-a81c5d03be11e123",
@@ -10222,7 +4574,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/6/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:26.885Z"
+    "observedAt": "2026-08-31T22:48:27.179Z"
   },
   {
     "id": "web-laptop-974c2b014df89857",
@@ -10238,7 +4590,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/6/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:26.885Z"
+    "observedAt": "2026-08-31T22:48:27.179Z"
   },
   {
     "id": "web-laptop-53789346e3a3241e",
@@ -10254,7 +4606,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/6/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:26.885Z"
+    "observedAt": "2026-08-31T22:48:27.179Z"
   },
   {
     "id": "web-laptop-d0ce4b74858ec4e4",
@@ -10270,71 +4622,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/6/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:26.885Z"
-  },
-  {
-    "id": "web-laptop-cb5715bd3f8fb7c0",
-    "productId": "web-laptop-cb5715bd3f8fb7c0",
-    "name": "&larr;",
-    "brand": "",
-    "model": "&larr;",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/page/7/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/page/6/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:26.885Z"
-  },
-  {
-    "id": "web-laptop-639bb9799432e51b",
-    "productId": "web-laptop-639bb9799432e51b",
-    "name": "بازگشت به بالا",
-    "brand": "",
-    "model": "بازگشت به بالا",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/page/6/#tops",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/page/6/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:26.885Z"
-  },
-  {
-    "id": "web-laptop-ac50078e7c6949a6",
-    "productId": "web-laptop-ac50078e7c6949a6",
-    "name": "{{p_name}}",
-    "brand": "",
-    "model": "{{p_name}}",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/page/6/%7B%7Bp_url%7D%7D",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/page/6/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:26.885Z"
-  },
-  {
-    "id": "web-laptop-1fb1eb79e14a5613",
-    "productId": "web-laptop-1fb1eb79e14a5613",
-    "name": "دسته بندی کالاها",
-    "brand": "",
-    "model": "دسته بندی کالاها",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/page/7/#",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/page/7/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:31.118Z"
+    "observedAt": "2026-08-31T22:48:27.179Z"
   },
   {
     "id": "web-laptop-dd1c5902f546de88",
@@ -10350,7 +4638,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/7/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:31.120Z"
+    "observedAt": "2026-08-31T22:48:32.044Z"
   },
   {
     "id": "web-laptop-919fcc819efc1ba1",
@@ -10366,7 +4654,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/7/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:31.120Z"
+    "observedAt": "2026-08-31T22:48:32.044Z"
   },
   {
     "id": "web-laptop-63b559c9778db026",
@@ -10382,7 +4670,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/7/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:31.120Z"
+    "observedAt": "2026-08-31T22:48:32.044Z"
   },
   {
     "id": "web-laptop-053752fcbb865c23",
@@ -10398,7 +4686,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/7/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:31.120Z"
+    "observedAt": "2026-08-31T22:48:32.044Z"
   },
   {
     "id": "web-laptop-6483adc78ba871e7",
@@ -10414,7 +4702,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/7/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:31.120Z"
+    "observedAt": "2026-08-31T22:48:32.044Z"
   },
   {
     "id": "web-laptop-ae49294c842ab818",
@@ -10430,7 +4718,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/7/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:31.120Z"
+    "observedAt": "2026-08-31T22:48:32.044Z"
   },
   {
     "id": "web-laptop-e1adb73b0b5aaee7",
@@ -10446,7 +4734,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/7/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:31.120Z"
+    "observedAt": "2026-08-31T22:48:32.044Z"
   },
   {
     "id": "web-laptop-af54bb6d114e4440",
@@ -10462,7 +4750,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/7/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:31.120Z"
+    "observedAt": "2026-08-31T22:48:32.044Z"
   },
   {
     "id": "web-laptop-8bab17cf31ee88bc",
@@ -10478,7 +4766,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/7/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:31.120Z"
+    "observedAt": "2026-08-31T22:48:32.044Z"
   },
   {
     "id": "web-laptop-4564b23e2de9556d",
@@ -10494,7 +4782,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/7/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:31.120Z"
+    "observedAt": "2026-08-31T22:48:32.044Z"
   },
   {
     "id": "web-laptop-5e693b7f9c08857f",
@@ -10510,7 +4798,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/7/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:31.120Z"
+    "observedAt": "2026-08-31T22:48:32.044Z"
   },
   {
     "id": "web-laptop-5f51a6003ab2a7a3",
@@ -10526,7 +4814,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/7/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:31.120Z"
+    "observedAt": "2026-08-31T22:48:32.044Z"
   },
   {
     "id": "web-laptop-969d0da7c9821e69",
@@ -10542,7 +4830,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/7/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:31.120Z"
+    "observedAt": "2026-08-31T22:48:32.044Z"
   },
   {
     "id": "web-laptop-f316a2ec717e3269",
@@ -10558,7 +4846,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/7/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:31.120Z"
+    "observedAt": "2026-08-31T22:48:32.044Z"
   },
   {
     "id": "web-laptop-d22d26b9bdc9ea43",
@@ -10574,7 +4862,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/7/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:31.120Z"
+    "observedAt": "2026-08-31T22:48:32.044Z"
   },
   {
     "id": "web-laptop-16ba789be3abfe20",
@@ -10590,7 +4878,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/7/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:31.120Z"
+    "observedAt": "2026-08-31T22:48:32.044Z"
   },
   {
     "id": "web-laptop-c19db7f19ee2d8da",
@@ -10606,7 +4894,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/7/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:31.120Z"
+    "observedAt": "2026-08-31T22:48:32.044Z"
   },
   {
     "id": "web-laptop-59b34ce2a330b413",
@@ -10622,7 +4910,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/7/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:31.120Z"
+    "observedAt": "2026-08-31T22:48:32.044Z"
   },
   {
     "id": "web-laptop-61ebfc48c4f48de9",
@@ -10638,7 +4926,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/7/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:31.120Z"
+    "observedAt": "2026-08-31T22:48:32.044Z"
   },
   {
     "id": "web-laptop-c2cb093f00d7b16b",
@@ -10654,71 +4942,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/7/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:31.120Z"
-  },
-  {
-    "id": "web-laptop-e1c78ef4f26a04c0",
-    "productId": "web-laptop-e1c78ef4f26a04c0",
-    "name": "&larr;",
-    "brand": "",
-    "model": "&larr;",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/page/8/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/page/7/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:31.120Z"
-  },
-  {
-    "id": "web-laptop-77a832439773659a",
-    "productId": "web-laptop-77a832439773659a",
-    "name": "بازگشت به بالا",
-    "brand": "",
-    "model": "بازگشت به بالا",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/page/7/#tops",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/page/7/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:31.120Z"
-  },
-  {
-    "id": "web-laptop-abb7743bd3bc4afd",
-    "productId": "web-laptop-abb7743bd3bc4afd",
-    "name": "{{p_name}}",
-    "brand": "",
-    "model": "{{p_name}}",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/page/7/%7B%7Bp_url%7D%7D",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/page/7/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:31.120Z"
-  },
-  {
-    "id": "web-laptop-82e1da692434a82d",
-    "productId": "web-laptop-82e1da692434a82d",
-    "name": "دسته بندی کالاها",
-    "brand": "",
-    "model": "دسته بندی کالاها",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/page/8/#",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/page/8/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:35.174Z"
+    "observedAt": "2026-08-31T22:48:32.044Z"
   },
   {
     "id": "web-laptop-d4e632df24ecd223",
@@ -10734,7 +4958,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/8/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:35.176Z"
+    "observedAt": "2026-08-31T22:48:36.042Z"
   },
   {
     "id": "web-laptop-da3300005767811f",
@@ -10750,7 +4974,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/8/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:35.176Z"
+    "observedAt": "2026-08-31T22:48:36.042Z"
   },
   {
     "id": "web-laptop-5c71a8ba067735cf",
@@ -10766,7 +4990,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/8/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:35.176Z"
+    "observedAt": "2026-08-31T22:48:36.042Z"
   },
   {
     "id": "web-laptop-6e74954fcc3bd907",
@@ -10782,7 +5006,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/8/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:35.176Z"
+    "observedAt": "2026-08-31T22:48:36.042Z"
   },
   {
     "id": "web-laptop-c747ca77e165a7d6",
@@ -10798,7 +5022,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/8/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:35.176Z"
+    "observedAt": "2026-08-31T22:48:36.042Z"
   },
   {
     "id": "web-laptop-c80b5d07f69ee34a",
@@ -10814,7 +5038,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/8/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:35.176Z"
+    "observedAt": "2026-08-31T22:48:36.042Z"
   },
   {
     "id": "web-laptop-6dbf14ddf8313d0a",
@@ -10830,7 +5054,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/8/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:35.176Z"
+    "observedAt": "2026-08-31T22:48:36.042Z"
   },
   {
     "id": "web-laptop-1c1aa6e622117fc5",
@@ -10846,7 +5070,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/8/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:35.176Z"
+    "observedAt": "2026-08-31T22:48:36.042Z"
   },
   {
     "id": "web-laptop-a4f71c471cd92714",
@@ -10862,7 +5086,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/8/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:35.176Z"
+    "observedAt": "2026-08-31T22:48:36.042Z"
   },
   {
     "id": "web-laptop-df730447ba9370e0",
@@ -10878,7 +5102,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/8/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:35.176Z"
+    "observedAt": "2026-08-31T22:48:36.042Z"
   },
   {
     "id": "web-laptop-24705ced3c33cc48",
@@ -10894,7 +5118,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/8/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:35.176Z"
+    "observedAt": "2026-08-31T22:48:36.042Z"
   },
   {
     "id": "web-laptop-27cfcda75097a65f",
@@ -10910,7 +5134,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/8/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:35.176Z"
+    "observedAt": "2026-08-31T22:48:36.042Z"
   },
   {
     "id": "web-laptop-032dbed1cad1865a",
@@ -10926,7 +5150,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/8/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:35.176Z"
+    "observedAt": "2026-08-31T22:48:36.042Z"
   },
   {
     "id": "web-laptop-95f42b2d683963f1",
@@ -10942,7 +5166,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/8/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:35.176Z"
+    "observedAt": "2026-08-31T22:48:36.042Z"
   },
   {
     "id": "web-laptop-8ef4558d50df5eaa",
@@ -10958,7 +5182,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/8/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:35.176Z"
+    "observedAt": "2026-08-31T22:48:36.042Z"
   },
   {
     "id": "web-laptop-d533f82d866e5ade",
@@ -10974,7 +5198,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/8/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:35.176Z"
+    "observedAt": "2026-08-31T22:48:36.042Z"
   },
   {
     "id": "web-laptop-5d4fe40b686da1fa",
@@ -10990,7 +5214,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/8/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:35.176Z"
+    "observedAt": "2026-08-31T22:48:36.042Z"
   },
   {
     "id": "web-laptop-c509b3f980446455",
@@ -11006,7 +5230,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/8/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:35.176Z"
+    "observedAt": "2026-08-31T22:48:36.042Z"
   },
   {
     "id": "web-laptop-6dba3fd80a922c87",
@@ -11022,7 +5246,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/8/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:35.176Z"
+    "observedAt": "2026-08-31T22:48:36.042Z"
   },
   {
     "id": "web-laptop-938666a22b33a716",
@@ -11038,71 +5262,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/8/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:35.176Z"
-  },
-  {
-    "id": "web-laptop-f0c62001717b314a",
-    "productId": "web-laptop-f0c62001717b314a",
-    "name": "&larr;",
-    "brand": "",
-    "model": "&larr;",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/page/9/",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/page/8/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:35.176Z"
-  },
-  {
-    "id": "web-laptop-35f9a06efef79c67",
-    "productId": "web-laptop-35f9a06efef79c67",
-    "name": "بازگشت به بالا",
-    "brand": "",
-    "model": "بازگشت به بالا",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/page/8/#tops",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/page/8/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:35.176Z"
-  },
-  {
-    "id": "web-laptop-c3e33d150aad2b16",
-    "productId": "web-laptop-c3e33d150aad2b16",
-    "name": "{{p_name}}",
-    "brand": "",
-    "model": "{{p_name}}",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/page/8/%7B%7Bp_url%7D%7D",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/page/8/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:35.176Z"
-  },
-  {
-    "id": "web-laptop-36e016e91d619f42",
-    "productId": "web-laptop-36e016e91d619f42",
-    "name": "دسته بندی کالاها",
-    "brand": "",
-    "model": "دسته بندی کالاها",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/page/9/#",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/page/9/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:38.203Z"
+    "observedAt": "2026-08-31T22:48:36.042Z"
   },
   {
     "id": "web-laptop-92109ee3cfc5479c",
@@ -11118,44 +5278,12 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo",
     "sourceUrl": "https://digizo.shop/product-category/laptop/page/9/",
     "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:38.205Z"
-  },
-  {
-    "id": "web-laptop-0e0c62e7186333cb",
-    "productId": "web-laptop-0e0c62e7186333cb",
-    "name": "بازگشت به بالا",
-    "brand": "",
-    "model": "بازگشت به بالا",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/page/9/#tops",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/page/9/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:38.205Z"
-  },
-  {
-    "id": "web-laptop-55efab5321e82ba2",
-    "productId": "web-laptop-55efab5321e82ba2",
-    "name": "{{p_name}}",
-    "brand": "",
-    "model": "{{p_name}}",
-    "category": "laptop",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product-category/laptop/page/9/%7B%7Bp_url%7D%7D",
-    "sourceId": "digizo",
-    "sourceUrl": "https://digizo.shop/product-category/laptop/page/9/",
-    "source": "web-catalog:digizo",
-    "observedAt": "2026-08-31T22:32:38.205Z"
+    "observedAt": "2026-08-31T22:48:38.841Z"
   }
 ];
 export const INDEX_META = {
-  "generatedAt": "2026-08-31T22:32:41.594Z",
-  "mobile": 289,
-  "laptop": 408,
+  "generatedAt": "2026-08-31T22:48:42.553Z",
+  "mobile": 138,
+  "laptop": 192,
   "maxPerCategory": 500
 };
