@@ -5,7 +5,8 @@
   "scripts": {
     "dev": "vercel dev",
     "deploy": "vercel deploy --prod",
-    "test:v5.1": "node tests/v5.1-health.test.mjs"
+    "test:v5.1": "node tests/v5.1-health.test.mjs",
+    "audit:v5.1": "node tests/v5.1-catalog-audit.mjs"
   },
   "dependencies": {
     "@vercel/node": "^2.0.0"
