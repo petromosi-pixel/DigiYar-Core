@@ -1,108 +1,12 @@
-// js/search.js
-
-const affiliateConfig = {
-    digikala: {
-        name: "دیجی‌کالا",
-        affiliateLink: "https://aflo.ir/TrvNHEN8",
-        logo: "🛒",
-        color: "#ef4056"
-    },
-    snappshop: {
-        name: "اسنپ‌شاپ",
-        affiliateLink: "https://aflo.ir/YPN05dL7",
-        logo: "🛍️",
-        color: "#00d170"
-    }
-};
-
+// DigiYar V5 — Housh Yar internal Product Index
+const affiliateConfig={digikala:{name:'دیجی‌کالا',affiliateLink:'https://aflo.ir/TrvNHEN8',logo:'🛒',color:'#ef4056'},snappshop:{name:'اسنپ‌شاپ',affiliateLink:'https://aflo.ir/YPN05dL7',logo:'🛍️',color:'#00d170'}};
 let searchTimeout;
-
-function searchProducts(query) {
-    const resultsDiv = document.getElementById('searchResults');
-    
-    const digikalaSearchUrl = `https://www.digikala.com/search/?q=${encodeURIComponent(query)}`;
-    const digikalaAffiliateUrl = `${affiliateConfig.digikala.affiliateLink}?p=${encodeURIComponent(digikalaSearchUrl)}`;
-    
-    const snappSearchUrl = `https://snappshop.ir/search?q=${encodeURIComponent(query)}`;
-    const snappAffiliateUrl = `${affiliateConfig.snappshop.affiliateLink}?p=${encodeURIComponent(snappSearchUrl)}`;
-    
-    resultsDiv.innerHTML = `
-        <h3 style="margin-bottom: 10px; color: #333; text-align: center;">
-            نتایج جستجوی "${query}"
-        </h3>
-        <p style="color: #666; font-size: 13px; margin-bottom: 15px; text-align: center;">
-            برای مشاهده نتایج زنده روی فروشگاه مورد نظر کلیک کنید:
-        </p>
-        
-        <div class="store-buttons">
-            <div class="store-card">
-                <div class="store-logo" style="background: ${affiliateConfig.digikala.color}">
-                    ${affiliateConfig.digikala.logo}
-                </div>
-                <div class="store-info">
-                    <h3>${affiliateConfig.digikala.name}</h3>
-                    <p>بزرگترین فروشگاه آنلاین ایران</p>
-                    <p class="store-features">✅ قیمت واقعی | ✅ موجودی زنده</p>
-                </div>
-                <a href="${digikalaAffiliateUrl}" 
-                   target="_blank" 
-                   class="store-button" 
-                   style="background: ${affiliateConfig.digikala.color}">
-                    مشاهده نتایج
-                </a>
-            </div>
-              
-            <div class="store-card">
-                <div class="store-logo" style="background: ${affiliateConfig.snappshop.color}">
-                    ${affiliateConfig.snappshop.logo}
-                </div>
-                <div class="store-info">
-                    <h3>${affiliateConfig.snappshop.name}</h3>
-                    <p>خرید سریع و آسان</p>
-                    <p class="store-features">✅ قیمت واقعی | ✅ ارسال فوری</p>
-                </div>
-                <a href="${snappAffiliateUrl}" 
-                   target="_blank" 
-                   class="store-button" 
-                   style="background: ${affiliateConfig.snappshop.color}">
-                    مشاهده نتایج
-                </a>
-            </div>
-        </div>
-          
-        <div class="search-note">
-            <p>💡 با کلیک روی هر دکمه، به صفحه فروشگاه منتقل می‌شوید.</p>
-        </div>
-    `;
-}
-
-function showLoading() {
-    document.getElementById('searchResults').innerHTML = `
-        <div class="loading">
-            <div class="spinner"></div>
-            <p>در حال آماده‌سازی...</p>
-        </div>
-    `;
-}
-
-function handleSearchInput(query) {
-    clearTimeout(searchTimeout);
-    if (query.length < 3) return;
-    searchTimeout = setTimeout(() => searchProducts(query), 300);
-}
-
-function handleSearchKey(event) {
-    if (event.key === 'Enter') performSmartSearch();
-}
-
-function performSmartSearch() {
-    const query = document.getElementById('smartSearchInput').value.trim();
-    if (!query) return alert('لطفاً نام محصول را وارد کنید');
-    showLoading();
-    setTimeout(() => searchProducts(query), 300);
-}
-
-function quickSearch(term) {
-    document.getElementById('smartSearchInput').value = term;
-    performSmartSearch();
-}
+function esc(v){return String(v??'').replace(/[&<>\"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','\\':'&#92;','"':'&quot;'}[c]));}
+function offerUrl(o){const target=o?.affiliateUrl||o?.productUrl||o?.url;return target||'';}
+async function searchProducts(query){const resultsDiv=document.getElementById('searchResults');if(!resultsDiv)return;showLoading();try{const index=await DigiYarInternalSearch.loadIndex();const products=DigiYarInternalSearch.search(query,index);if(!products.length){resultsDiv.innerHTML=`<div class="search-note"><p>برای «${esc(query)}» در فهرست فعلی دیجی‌یار نتیجه‌ای پیدا نشد.</p></div>`;return;}resultsDiv.innerHTML=`<h3 style="margin-bottom:10px;color:#333;text-align:center">نتایج هوش‌یار برای «${esc(query)}»</h3><p style="color:#666;font-size:13px;margin-bottom:15px;text-align:center">نتایج از پایگاه محصولات داخلی دیجی‌یار</p><div class="store-buttons">${products.map(renderProduct).join('')}</div><div class="search-note"><p>💡 اطلاعات محصول از ایندکس دیجی‌یار ارائه شده و پیشنهادها بر اساس تطبیق جستجو رتبه‌بندی شده‌اند.</p></div>`;}catch(e){console.error('DigiYar index search:',e);resultsDiv.innerHTML='<div class="search-note"><p>پایگاه محصولات دیجی‌یار در دسترس نیست. دوباره تلاش کنید.</p></div>';}}
+function renderProduct(p){const offers=(p.offers||[]).filter(o=>o.available!==false);const offer=offers[0];const cfg=offer&&affiliateConfig[offer.store]?affiliateConfig[offer.store]:{name:'فروشگاه',logo:'🛍️',color:'#667eea'};const url=offerUrl(offer);const attrs=Object.entries(p.attributes||{}).slice(0,4).map(([k,v])=>`${esc(k)}: ${esc(v)}`).join(' · ');return `<div class="store-card"><div class="store-logo" style="background:${cfg.color}">${cfg.logo}</div><div class="store-info"><h3>${esc(p.name)}</h3><p>${esc(p.brand||'')} · ${esc(p.category==='mobile'?'موبایل':'لپ‌تاپ')}</p><p class="store-features">${attrs||'اطلاعات محصول موجود است'}</p></div>${url?`<a href="${esc(url)}" target="_blank" rel="noopener noreferrer" class="store-button" style="background:${cfg.color}">مشاهده و خرید</a>`:'<span class="store-button" style="background:#999">فروشنده متصل نیست</span>'}</div>`;}
+function showLoading(){const el=document.getElementById('searchResults');if(el)el.innerHTML='<div class="loading"><div class="spinner"></div><p>در حال جستجو در پایگاه دیجی‌یار...</p></div>';}
+function handleSearchInput(query){clearTimeout(searchTimeout);if(query.trim().length<3)return;searchTimeout=setTimeout(()=>searchProducts(query.trim()),300);}
+function handleSearchKey(event){if(event.key==='Enter'){event.preventDefault();performSmartSearch();}}
+function performSmartSearch(){const input=document.getElementById('smartSearchInput');const query=input?.value.trim();if(!query)return alert('لطفاً نام محصول را وارد کنید');searchProducts(query);}
+function quickSearch(term){const input=document.getElementById('smartSearchInput');if(input)input.value=term;performSmartSearch();}
