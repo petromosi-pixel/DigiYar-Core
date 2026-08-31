@@ -1,0 +1,13 @@
+{
+  "version":"5.1",
+  "policy":{"maxProductsPerCategory":500,"freshnessHours":6,"requireRealProductUrl":true,"requireObservedPrice":false,"neverFabricatePrice":true},
+  "sources":[
+    {"id":"torob","priority":1,"mode":"search/index"},
+    {"id":"digikala","priority":2,"mode":"search/index"},
+    {"id":"snappshop","priority":3,"mode":"search/index"},
+    {"id":"technolife","priority":4,"mode":"category/search"},
+    {"id":"ekalato","priority":5,"mode":"category/search"}
+  ],
+  "refresh":{"enabled":true,"strategy":"stale-while-refresh","priceRecheckHours":6,"availabilityRecheckHours":3},
+  "dedupe":{"keyOrder":["gtin","productIdBySource","normalizedBrandModel","normalizedName"]}
+}
