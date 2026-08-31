@@ -1,6 +1,7 @@
-/* DigiYar V5 — Housh Yar internal Product Index */
+/* DigiYar V5.1 — Housh Yar internal Product Search UI */
 (function(){'use strict';
 const hints=['چی می‌خوای بخری؟','مثلاً: گوشی سامسونگ تا ۱۵ میلیون','دنبال لپ‌تاپ مناسب می‌گردی؟','اسم محصولت رو بنویس...'];
+const affiliateConfig={digikala:{name:'دیجی‌کالا',affiliateLink:'https://aflo.ir/TrvNHEN8'},snappshop:{name:'اسنپ‌شاپ',affiliateLink:'https://aflo.ir/YPN05dL7'}};
 let i=0,timer,indexReady=null;
 function ensureIndex(){
  if(window.DigiYarInternalSearch)return Promise.resolve();
@@ -14,10 +15,23 @@ function ensureIndex(){
  });
  return indexReady;
 }
+function bestOffer(p){
+ const offers=(p.offers||[]).filter(o=>o.available!==false&&Number.isFinite(Number(o.price))&&Number(o.price)>0);
+ return offers.sort((a,b)=>Number(a.price)-Number(b.price))[0]||null;
+}
+function toman(v){return Math.round(Number(v)/10).toLocaleString('fa-IR')+' تومان';}
+function getAffiliateUrl(offer){
+ if(!offer)return '';
+ const target=offer.productUrl||offer.url||'';
+ if(!target)return '';
+ if(offer.affiliateUrl)return offer.affiliateUrl;
+ const cfg=affiliateConfig[offer.store];
+ return cfg?cfg.affiliateLink+'?p='+encodeURIComponent(target):target;
+}
 function init(){
  const form=document.getElementById('v5SmartSearchForm'),input=document.getElementById('v5SmartSearchInput'),hint=document.getElementById('v5SmartSearchHint');
  if(!form||!input||!hint)return;
- const stale=document.getElementById('v5SmartSearchResults'); if(stale)stale.remove();
+ const stale=document.getElementById('v5SmartSearchResults');if(stale)stale.remove();
  hint.textContent=hints[0];
  timer=setInterval(()=>{if(!input.value.trim()){i=(i+1)%hints.length;hint.classList.remove('v5-hint-show');void hint.offsetWidth;hint.textContent=hints[i];hint.classList.add('v5-hint-show')}},2600);
  const syncHint=()=>{const hasText=!!input.value.trim();hint.style.opacity=hasText?'0':'1';hint.style.visibility=hasText?'hidden':'visible'};
@@ -39,7 +53,13 @@ function init(){
   }finally{input.disabled=false;input.placeholder=old;syncHint()}
  });
 }
-function renderProduct(p){const attrs=Object.entries(p.attributes||{}).slice(0,4).map(([k,v])=>esc(k)+': '+esc(v)).join(' · ');const offers=(p.offers||[]).filter(o=>o.available!==false),offer=offers[0],url=offer?.affiliateUrl||offer?.productUrl||offer?.url||'';return '<article class="v5-smart-result"><div class="v5-smart-result-title">'+esc(p.name)+'</div><div class="v5-smart-result-meta">'+esc(p.brand||'')+' · '+(p.category==='mobile'?'موبایل':'لپ‌تاپ')+'</div><div class="v5-smart-result-meta">'+(attrs||'اطلاعات محصول موجود است')+'</div>'+(url?'<a target="_blank" rel="noopener noreferrer" href="'+esc(url)+'">مشاهده و خرید</a>':'<span>فروشنده متصل نیست</span>')+'</article>'}
+function renderProduct(p){
+ const attrs=Object.entries(p.attributes||{}).slice(0,4).map(([k,v])=>esc(k)+': '+esc(v)).join(' · ');
+ const offer=bestOffer(p),url=getAffiliateUrl(offer),price=offer?toman(offer.price):'قیمت موجود نیست';
+ const store=offer&&affiliateConfig[offer.store]?affiliateConfig[offer.store].name:'فروشگاه متصل';
+ const category=p.category==='mobile'?'موبایل':p.category==='laptop'?'لپ‌تاپ':p.category||'محصول';
+ return '<article class="v5-smart-result"><div class="v5-smart-result-title">'+esc(p.name)+'</div><div class="v5-smart-result-meta">'+esc(p.brand||'')+' · '+esc(category)+'</div><div class="v5-smart-result-price"><strong>'+esc(price)+'</strong> · '+esc(store)+'</div><div class="v5-smart-result-meta">'+(attrs||'اطلاعات محصول موجود است')+'</div>'+(url?'<a target="_blank" rel="noopener noreferrer" href="'+esc(url)+'">مشاهده و خرید</a>':'<span>فروشنده متصل نیست</span>')+'</article>';
+}
 function esc(v){return String(v??'').replace(/[&<>'"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c]))}
 if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',init,{once:true});else init();
 })();
