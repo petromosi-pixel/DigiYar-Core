@@ -1,7 +1,6 @@
 /* =========================================================
    DigiYar V5.1 — Splash System
-   Single owner: js/v5-splash-fix.js
-   The legacy splash DOM is replaced before animation starts.
+   Single source of truth for the new Splash.
    ========================================================= */
 
 #splashScreen.v5-splash-root {
@@ -29,193 +28,189 @@
   pointer-events: none !important;
 }
 
-#splashScreen.v5-splash-root * {
-  box-sizing: border-box;
+#splashScreen.v5-splash-root .splash-content,
+#splashScreen.v5-splash-root .v5-splash-content {
+  width: min(92vw, 430px) !important;
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: center !important;
+  justify-content: center !important;
+  text-align: center !important;
 }
 
-.v5-splash-stage {
-  width: min(92vw, 430px);
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
-  transform: translateY(-1vh);
+#splashScreen.v5-splash-root .v5-splash-logo-stage {
+  position: relative !important;
+  width: 300px !important;
+  height: 300px !important;
+  margin: 0 auto !important;
+  padding: 0 !important;
+  overflow: visible !important;
+  background: transparent !important;
+  border: 0 !important;
+  outline: 0 !important;
+  box-shadow: none !important;
+  border-radius: 0 !important;
 }
 
-.v5-splash-logo-stage {
-  position: relative;
-  width: 250px;
-  height: 250px;
-  display: block;
-  overflow: visible;
+#splashScreen.v5-splash-root .v5-splash-logo-stage::before,
+#splashScreen.v5-splash-root .v5-splash-logo-stage::after,
+#splashScreen.v5-splash-root .v5-splash-layer::before,
+#splashScreen.v5-splash-root .v5-splash-layer::after {
+  content: none !important;
+  display: none !important;
 }
 
-.v5-splash-layer {
-  position: absolute;
-  left: 50%;
-  top: 50%;
-  width: 250px;
-  height: 250px;
-  margin: -125px 0 0 -125px;
-  object-fit: contain;
-  object-position: center;
-  display: block;
-  padding: 0;
-  border: 0;
-  outline: 0;
-  border-radius: 0;
-  background: transparent;
-  box-shadow: none;
-  pointer-events: none;
-  user-select: none;
-  -webkit-user-drag: none;
-  opacity: 0;
+#splashScreen.v5-splash-root .v5-splash-layer {
+  position: absolute !important;
+  left: 0 !important;
+  top: 0 !important;
+  width: 300px !important;
+  height: 300px !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  object-fit: contain !important;
+  object-position: center !important;
+  display: block !important;
+  border: 0 !important;
+  outline: 0 !important;
+  border-radius: 0 !important;
+  background: transparent !important;
+  box-shadow: none !important;
+  pointer-events: none !important;
+  user-select: none !important;
+  -webkit-user-drag: none !important;
+  transform-origin: 50% 50% !important;
+  will-change: transform, opacity !important;
 }
 
-/* The original logo image is used only as a source and is partitioned into
-   three non-overlapping visual regions. */
-.v5-splash-basket {
-  clip-path: polygon(
-    24% 3%, 76% 3%, 78% 25%, 82% 39%, 84% 58%,
-    78% 62%, 70% 63%, 63% 57%, 56% 53%, 49% 50%,
-    41% 47%, 35% 48%, 29% 51%, 22% 51%, 17% 47%,
-    17% 38%, 21% 30%
-  );
-  z-index: 1;
-  animation: dyBasket 1.15s cubic-bezier(.16,.84,.25,1) .10s both;
+/* Component masks are deliberately non-overlapping at rest.
+   They are masks of the single transparent logo artwork, not three copies
+   that are allowed to paint over one another. */
+#splashScreen.v5-splash-root .v5-splash-basket {
+  z-index: 1 !important;
+  clip-path: polygon(22% 0%, 78% 0%, 82% 24%, 86% 42%, 86% 58%, 80% 62%, 72% 63%, 65% 59%, 57% 53%, 50% 50%, 43% 49%, 35% 51%, 27% 52%, 20% 49%, 16% 43%, 17% 31%);
+  animation: dyBasket .95s cubic-bezier(.18,.84,.22,1) .08s both;
 }
 
-.v5-splash-white-hand {
-  clip-path: polygon(
-    43% 28%, 69% 28%, 77% 34%, 79% 43%, 76% 51%,
-    69% 57%, 62% 59%, 57% 55%, 52% 51%, 48% 55%,
-    44% 55%, 40% 52%, 41% 47%, 45% 42%, 48% 39%,
-    45% 36%
-  );
-  z-index: 3;
-  animation: dyWhiteHand 1.35s cubic-bezier(.15,.82,.22,1) 1.00s both;
+#splashScreen.v5-splash-root .v5-splash-white-hand {
+  z-index: 2 !important;
+  clip-path: polygon(42% 25%, 72% 25%, 80% 31%, 82% 40%, 80% 50%, 73% 57%, 66% 60%, 59% 56%, 53% 51%, 49% 49%, 46% 55%, 42% 56%, 39% 52%, 40% 47%, 44% 42%, 48% 39%, 46% 35%);
+  animation: dyWhite .95s cubic-bezier(.16,.84,.2,1) 1.10s both;
 }
 
-.v5-splash-orange-hand {
-  clip-path: polygon(
-    14% 45%, 42% 45%, 50% 48%, 57% 55%, 64% 60%,
-    66% 67%, 62% 72%, 55% 70%, 50% 65%, 46% 61%,
-    40% 60%, 34% 57%, 26% 57%, 19% 55%, 14% 53%
-  );
-  z-index: 4;
-  animation: dyOrangeHand 1.45s cubic-bezier(.15,.82,.22,1) 1.75s both;
+#splashScreen.v5-splash-root .v5-splash-orange-hand {
+  z-index: 3 !important;
+  clip-path: polygon(13% 43%, 40% 43%, 48% 47%, 54% 52%, 61% 59%, 66% 65%, 66% 70%, 61% 73%, 55% 69%, 50% 64%, 45% 60%, 39% 59%, 32% 56%, 24% 56%, 17% 53%, 13% 50%);
+  animation: dyOrange 1.05s cubic-bezier(.16,.84,.2,1) 2.05s both;
 }
-
-.v5-splash-brand {
-  margin-top: -5px;
-  min-height: 76px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: flex-start;
-}
-
-.v5-splash-brand h1,
-.v5-splash-brand p {
-  opacity: 0;
-  margin: 0;
-  padding: 0;
-}
-
-.v5-splash-brand h1 {
-  color: #fff;
-  font-family: Tahoma, Arial, sans-serif;
-  font-size: 32px;
-  font-weight: 900;
-  line-height: 1.35;
-  animation: dyBrand 0.72s ease 3.55s both;
-}
-
-.v5-splash-brand p {
-  margin-top: 2px;
-  color: #fff;
-  font-family: Tahoma, Arial, sans-serif;
-  font-size: 15px;
-  font-weight: 700;
-  line-height: 1.7;
-  animation: dyTagline 1.05s ease 3.95s both;
-}
-
-.v5-splash-loader {
-  width: 58px;
-  height: 10px;
-  margin-top: 14px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 7px;
-  background: transparent;
-}
-
-.v5-splash-loader i {
-  width: 7px;
-  height: 7px;
-  flex: 0 0 7px;
-  display: block;
-  border: 1px solid #fff;
-  border-radius: 50%;
-  background: transparent;
-  animation: dyLoader 1.6s ease-in-out infinite;
-}
-.v5-splash-loader i:nth-child(1) { animation-delay: 0s; }
-.v5-splash-loader i:nth-child(2) { animation-delay: .16s; }
-.v5-splash-loader i:nth-child(3) { animation-delay: .32s; }
-.v5-splash-loader i:nth-child(4) { animation-delay: .48s; }
 
 @keyframes dyBasket {
-  0% { opacity: 0; transform: translateY(18px) scale(.90); }
-  68% { opacity: 1; transform: translateY(-2px) scale(1.015); }
+  0% { opacity: 0; transform: translateY(18px) scale(.72); }
+  65% { opacity: 1; transform: translateY(-2px) scale(1.025); }
   100% { opacity: 1; transform: translateY(0) scale(1); }
 }
 
-@keyframes dyWhiteHand {
-  0% { opacity: 0; transform: translateX(82px) translateY(-6px) rotate(8deg) scale(.94); }
-  38% { opacity: 1; transform: translateX(28px) translateY(0) rotate(3deg) scale(1); }
-  70% { opacity: 1; transform: translateX(-4px) translateY(1px) rotate(-1deg) scale(1.01); }
+@keyframes dyWhite {
+  0% { opacity: 0; transform: translateX(118px) translateY(2px) rotate(5deg) scale(.92); }
+  42% { opacity: 1; transform: translateX(20px) translateY(0) rotate(1deg) scale(1.01); }
+  68% { transform: translateX(-8px) translateY(1px) rotate(-2deg) scale(1.025); }
+  82% { transform: translateX(4px) translateY(-1px) rotate(1deg) scale(1.01); }
   100% { opacity: 1; transform: translateX(0) translateY(0) rotate(0) scale(1); }
 }
 
-@keyframes dyOrangeHand {
-  0% { opacity: 0; transform: translateX(-90px) translateY(8px) rotate(-4deg) scale(.92); }
-  35% { opacity: 1; transform: translateX(-35px) translateY(2px) rotate(-1deg) scale(1); }
-  56% { opacity: 1; transform: translateX(8px) translateY(-2px) rotate(2deg) scale(1.04); }
-  72% { opacity: 1; transform: translateX(-3px) translateY(1px) rotate(-1deg) scale(1.02); }
+@keyframes dyOrange {
+  0% { opacity: 0; transform: translateX(-125px) translateY(4px) rotate(-4deg) scale(.92); }
+  42% { opacity: 1; transform: translateX(-18px) translateY(1px) rotate(-1deg) scale(1); }
+  62% { transform: translateX(20px) translateY(-1px) rotate(3deg) scale(1.035); }
+  78% { transform: translateX(-4px) translateY(0) rotate(-1deg) scale(1.01); }
   100% { opacity: 1; transform: translateX(0) translateY(0) rotate(0) scale(1); }
 }
 
-@keyframes dyBrand {
-  from { opacity: 0; transform: translateY(9px) scale(.96); }
+#splashScreen.v5-splash-root .v5-splash-brand {
+  min-height: 76px !important;
+  margin-top: -12px !important;
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: center !important;
+  text-align: center !important;
+}
+
+#splashScreen.v5-splash-root .v5-splash-brand h1,
+#splashScreen.v5-splash-root .v5-splash-brand p {
+  opacity: 0 !important;
+  margin: 0 !important;
+}
+
+#splashScreen.v5-splash-root .v5-splash-brand h1 {
+  color: #ff8a00 !important;
+  font-size: 34px !important;
+  font-weight: 900 !important;
+  line-height: 1.3 !important;
+  animation: dyTitle .7s ease 3.55s both !important;
+}
+
+#splashScreen.v5-splash-root .v5-splash-brand p {
+  margin-top: 4px !important;
+  color: #fff !important;
+  font-size: 14px !important;
+  font-weight: 700 !important;
+  line-height: 1.5 !important;
+  animation: dyTagline 1s ease 3.95s both !important;
+}
+
+@keyframes dyTitle {
+  from { opacity: 0; transform: translateY(8px) scale(.96); }
   to { opacity: 1; transform: translateY(0) scale(1); }
 }
 
 @keyframes dyTagline {
-  0% { opacity: 0; transform: translateY(8px); text-shadow: none; }
-  50% { opacity: 1; transform: translateY(0); text-shadow: 0 0 10px rgba(255,255,255,.78), 0 0 22px rgba(255,138,0,.65); }
-  100% { opacity: 1; transform: translateY(0); text-shadow: 0 0 6px rgba(255,138,0,.38); }
+  0% { opacity: 0; transform: translateY(8px); text-shadow: 0 0 0 rgba(255,138,0,0); }
+  45% { opacity: 1; transform: translateY(0); text-shadow: 0 0 14px rgba(255,138,0,.85), 0 0 26px rgba(255,255,255,.25); }
+  100% { opacity: 1; transform: translateY(0); text-shadow: 0 0 6px rgba(255,138,0,.34); }
 }
 
+#splashScreen.v5-splash-root .v5-splash-loader {
+  width: 64px !important;
+  height: 10px !important;
+  margin: 15px auto 0 !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  gap: 7px !important;
+  padding: 0 !important;
+  background: transparent !important;
+  border: 0 !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+}
+
+#splashScreen.v5-splash-root .v5-splash-loader i {
+  width: 7px !important;
+  height: 7px !important;
+  flex: 0 0 7px !important;
+  display: block !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  border: 1px solid #fff !important;
+  border-radius: 50% !important;
+  background: transparent !important;
+  animation: dyLoader 1.55s ease-in-out infinite !important;
+}
+
+#splashScreen.v5-splash-root .v5-splash-loader i:nth-child(1) { animation-delay: 0s !important; }
+#splashScreen.v5-splash-root .v5-splash-loader i:nth-child(2) { animation-delay: .17s !important; }
+#splashScreen.v5-splash-root .v5-splash-loader i:nth-child(3) { animation-delay: .34s !important; }
+#splashScreen.v5-splash-root .v5-splash-loader i:nth-child(4) { animation-delay: .51s !important; }
+
 @keyframes dyLoader {
-  0%, 18% { background: transparent; border-color: #fff; transform: scale(1); }
-  42%, 68% { background: #ff8a00; border-color: #ff8a00; transform: scale(1.08); }
+  0%, 20% { background: transparent; border-color: #fff; transform: scale(1); }
+  43%, 68% { background: #ff8a00; border-color: #ff8a00; transform: scale(1.08); }
   90%, 100% { background: transparent; border-color: #fff; transform: scale(1); }
 }
 
 @media (max-width: 430px) {
-  .v5-splash-logo-stage { width: 225px; height: 225px; }
-  .v5-splash-layer { width: 225px; height: 225px; margin: -112.5px 0 0 -112.5px; }
-  .v5-splash-brand h1 { font-size: 30px; }
-  .v5-splash-brand p { font-size: 14px; }
-}
-
-@media (prefers-reduced-motion: reduce) {
-  .v5-splash-layer,
-  .v5-splash-brand h1,
-  .v5-splash-brand p,
-  .v5-splash-loader i { animation-duration: .01ms !important; animation-iteration-count: 1 !important; }
+  #splashScreen.v5-splash-root .v5-splash-logo-stage { width: 250px !important; height: 250px !important; }
+  #splashScreen.v5-splash-root .v5-splash-layer { width: 250px !important; height: 250px !important; }
+  #splashScreen.v5-splash-root .v5-splash-brand h1 { font-size: 30px !important; }
+  #splashScreen.v5-splash-root .v5-splash-brand p { font-size: 13px !important; }
 }
