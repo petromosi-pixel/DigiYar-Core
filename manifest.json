@@ -1,27 +1,13 @@
 {
-  "name": "DigiYar V3",
+  "name": "DigiYar V5",
   "short_name": "DigiYar",
   "description": "پلتفرم هوشمند برای تجربه بهترین خرید اینترنتی",
   "start_url": "./",
   "scope": "./",
-  "display": "standalone",
+  "display": "browser",
   "orientation": "portrait",
   "dir": "rtl",
   "lang": "fa",
-  "theme_color": "#e6123d",
-  "background_color": "#f6f7f9",
-  "icons": [
-    {
-      "src": "icon/icon-192.png",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any maskable"
-    },
-    {
-      "src": "icon/icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any"
-    }
-  ]
+  "theme_color": "#2a4169",
+  "background_color": "#ffffff"
 }
