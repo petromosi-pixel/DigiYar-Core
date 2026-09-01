@@ -95,7 +95,7 @@
   content: "";
   position: absolute;
   inset: 0;
-  z-index: 3;
+  z-index: 4;
   background: url("../icon/icon-512.png") center / contain no-repeat;
   clip-path: polygon(47% 29%, 100% 28%, 100% 77%, 73% 82%, 57% 68%, 46% 56%);
   transform: translateX(52%);
@@ -110,7 +110,7 @@
   content: "";
   position: absolute;
   inset: 0;
-  z-index: 4;
+  z-index: 3;
   background: url("../icon/icon-512.png") center / contain no-repeat;
   clip-path: polygon(0 45%, 58% 47%, 61% 80%, 46% 96%, 0 78%);
   transform: translateX(-58%);
