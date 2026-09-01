@@ -5,7 +5,7 @@
 (function () {
   "use strict";
   function $(id){return document.getElementById(id);}
-  function escapeHTML(value){return String(value??"").replace(/[&<>"']/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[c];});}
+  function escapeHTML(value){return String(value??"").replace(/[&<>"']/g,function(c){return{"&":"&amp;","<":"&lt;","/":">",'"':"&quot;","'":"&#039;"}[c];});}
   function toArray(value){return Array.isArray(value)?value:[];}
   function getProductImage(product){return product&&(product.image||product.imageUrl||product.thumbnail||product.thumbnailUrl||product.photo||"");}
   function priorityLabel(index){return ["اولویت اول","اولویت دوم","اولویت سوم"][index]||"اولویت "+(index+1);}
@@ -14,9 +14,9 @@
   const splashStarted=performance.now();
   let splashClosed=false;
   function hideSplash(){if(splashClosed||!splash)return;splashClosed=true;splash.classList.add("splash-hidden");setTimeout(function(){if(splash.parentNode)splash.parentNode.removeChild(splash);},700);}
-  function finishSplash(){if(splashClosed)return;setTimeout(hideSplash,Math.max(0,5000-(performance.now()-splashStarted)));}
+  function finishSplash(){if(splashClosed)return;setTimeout(hideSplash,Math.max(0,6500-(performance.now()-splashStarted)));}
   if(document.readyState==="loading")document.addEventListener("DOMContentLoaded",finishSplash,{once:true});else finishSplash();
-  setTimeout(hideSplash,6000);
+  setTimeout(hideSplash,7200);
 
   function renderPlatforms(){
     const container=$("platforms");if(!container||!window.DigiYarPlatforms)return;
