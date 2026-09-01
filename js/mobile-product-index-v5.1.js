@@ -15,7 +15,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:19.399Z"
+    "observedAt": "2026-09-01T19:00:16.505Z"
   },
   {
     "id": "torobshop-mobile-fa1582c2d324f606",
@@ -33,7 +33,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:19.399Z"
+    "observedAt": "2026-09-01T19:00:16.505Z"
   },
   {
     "id": "torobshop-mobile-994e1f249cd8e320",
@@ -51,7 +51,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:19.399Z"
+    "observedAt": "2026-09-01T19:00:16.505Z"
   },
   {
     "id": "torobshop-mobile-6d0853b3192da02a",
@@ -69,7 +69,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:19.399Z"
+    "observedAt": "2026-09-01T19:00:16.505Z"
   },
   {
     "id": "torobshop-mobile-716dda0dbff9c54f",
@@ -87,7 +87,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.236Z"
+    "observedAt": "2026-09-01T19:00:21.917Z"
   },
   {
     "id": "torobshop-mobile-42afd1ca9ea774d6",
@@ -105,7 +105,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.237Z"
+    "observedAt": "2026-09-01T19:00:21.917Z"
   },
   {
     "id": "torobshop-mobile-3930a114dca5ba93",
@@ -123,7 +123,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.237Z"
+    "observedAt": "2026-09-01T19:00:21.917Z"
   },
   {
     "id": "torobshop-mobile-aaa22eb952374f54",
@@ -141,7 +141,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.237Z"
+    "observedAt": "2026-09-01T19:00:21.917Z"
   },
   {
     "id": "torobshop-mobile-6313ab97d41a2b56",
@@ -159,7 +159,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.237Z"
+    "observedAt": "2026-09-01T19:00:21.917Z"
   },
   {
     "id": "torobshop-mobile-f6f4fe1c061400be",
@@ -177,7 +177,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.237Z"
+    "observedAt": "2026-09-01T19:00:21.917Z"
   },
   {
     "id": "torobshop-mobile-f84a10872070200f",
@@ -195,7 +195,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.237Z"
+    "observedAt": "2026-09-01T19:00:21.917Z"
   },
   {
     "id": "torobshop-mobile-be5c8240bad9b96b",
@@ -213,7 +213,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.237Z"
+    "observedAt": "2026-09-01T19:00:21.917Z"
   },
   {
     "id": "torobshop-mobile-6ea4ce76135ec585",
@@ -231,7 +231,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.237Z"
+    "observedAt": "2026-09-01T19:00:21.917Z"
   },
   {
     "id": "torobshop-mobile-66ec5ac305e2c66d",
@@ -249,7 +249,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.237Z"
+    "observedAt": "2026-09-01T19:00:21.917Z"
   },
   {
     "id": "torobshop-mobile-550a8f87070e67b2",
@@ -267,7 +267,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.237Z"
+    "observedAt": "2026-09-01T19:00:21.917Z"
   },
   {
     "id": "torobshop-mobile-82dd733a006aec80",
@@ -285,7 +285,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.237Z"
+    "observedAt": "2026-09-01T19:00:21.917Z"
   },
   {
     "id": "torobshop-mobile-b0ab596ed23cc867",
@@ -303,7 +303,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.237Z"
+    "observedAt": "2026-09-01T19:00:21.917Z"
   },
   {
     "id": "torobshop-mobile-81b8042dfd25e040",
@@ -321,7 +321,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.237Z"
+    "observedAt": "2026-09-01T19:00:21.917Z"
   },
   {
     "id": "torobshop-mobile-971de75d275ec060",
@@ -339,7 +339,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.237Z"
+    "observedAt": "2026-09-01T19:00:21.917Z"
   },
   {
     "id": "torobshop-mobile-6984e0fba2f0f5ab",
@@ -357,7 +357,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.237Z"
+    "observedAt": "2026-09-01T19:00:21.917Z"
   },
   {
     "id": "torobshop-mobile-043774655c5e9707",
@@ -375,7 +375,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.237Z"
+    "observedAt": "2026-09-01T19:00:21.917Z"
   },
   {
     "id": "torobshop-mobile-96e722182c1b89a6",
@@ -393,7 +393,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.237Z"
+    "observedAt": "2026-09-01T19:00:21.917Z"
   },
   {
     "id": "torobshop-mobile-d62f3f3a89e25a47",
@@ -411,7 +411,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.237Z"
+    "observedAt": "2026-09-01T19:00:21.917Z"
   },
   {
     "id": "torobshop-mobile-c91c69b83e4ddd45",
@@ -429,7 +429,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.237Z"
+    "observedAt": "2026-09-01T19:00:21.917Z"
   },
   {
     "id": "torobshop-mobile-6d073e89debc0957",
@@ -447,7 +447,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.237Z"
+    "observedAt": "2026-09-01T19:00:21.917Z"
   },
   {
     "id": "torobshop-mobile-2f1de49dbfea70aa",
@@ -465,7 +465,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.237Z"
+    "observedAt": "2026-09-01T19:00:21.917Z"
   },
   {
     "id": "torobshop-mobile-688de6c889730421",
@@ -483,7 +483,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.237Z"
+    "observedAt": "2026-09-01T19:00:21.917Z"
   },
   {
     "id": "torobshop-mobile-6f75db36753d61cb",
@@ -501,7 +501,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.237Z"
+    "observedAt": "2026-09-01T19:00:21.917Z"
   },
   {
     "id": "torobshop-mobile-1d0f8b752067584c",
@@ -519,7 +519,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.237Z"
+    "observedAt": "2026-09-01T19:00:21.917Z"
   },
   {
     "id": "torobshop-mobile-9588e88bfa202297",
@@ -537,7 +537,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.237Z"
+    "observedAt": "2026-09-01T19:00:21.917Z"
   },
   {
     "id": "torobshop-mobile-564f6efd33ed7c72",
@@ -555,7 +555,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.237Z"
+    "observedAt": "2026-09-01T19:00:21.917Z"
   },
   {
     "id": "torobshop-mobile-db51956256cf2a9e",
@@ -573,7 +573,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.237Z"
+    "observedAt": "2026-09-01T19:00:21.917Z"
   },
   {
     "id": "torobshop-mobile-6c602e399b74265b",
@@ -591,7 +591,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.237Z"
+    "observedAt": "2026-09-01T19:00:21.917Z"
   },
   {
     "id": "torobshop-mobile-69bf454eaf5c015b",
@@ -609,7 +609,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.237Z"
+    "observedAt": "2026-09-01T19:00:21.917Z"
   },
   {
     "id": "torobshop-mobile-9b36373adadaf4fd",
@@ -627,7 +627,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.237Z"
+    "observedAt": "2026-09-01T19:00:21.918Z"
   },
   {
     "id": "torobshop-mobile-f566f758ccfcc717",
@@ -645,7 +645,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.237Z"
+    "observedAt": "2026-09-01T19:00:21.918Z"
   },
   {
     "id": "torobshop-mobile-964ece0d8e9f6669",
@@ -663,7 +663,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.237Z"
+    "observedAt": "2026-09-01T19:00:21.918Z"
   },
   {
     "id": "torobshop-mobile-4cef33429e237704",
@@ -681,7 +681,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.237Z"
+    "observedAt": "2026-09-01T19:00:21.918Z"
   },
   {
     "id": "torobshop-mobile-e4a2bc7cbee474b2",
@@ -699,7 +699,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.237Z"
+    "observedAt": "2026-09-01T19:00:21.918Z"
   },
   {
     "id": "torobshop-mobile-3be15395be038aca",
@@ -717,7 +717,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.237Z"
+    "observedAt": "2026-09-01T19:00:21.918Z"
   },
   {
     "id": "torobshop-mobile-77f61ec7f8b8b73d",
@@ -735,7 +735,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.237Z"
+    "observedAt": "2026-09-01T19:00:21.918Z"
   },
   {
     "id": "torobshop-mobile-a09bc08624899ff4",
@@ -753,7 +753,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.237Z"
+    "observedAt": "2026-09-01T19:00:21.918Z"
   },
   {
     "id": "torobshop-mobile-bbd449ed50b3d540",
@@ -771,7 +771,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.237Z"
+    "observedAt": "2026-09-01T19:00:21.918Z"
   },
   {
     "id": "torobshop-mobile-50ddbf6ac385797f",
@@ -789,7 +789,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.237Z"
+    "observedAt": "2026-09-01T19:00:21.918Z"
   },
   {
     "id": "torobshop-mobile-80a52ed3a08cda77",
@@ -807,7 +807,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.237Z"
+    "observedAt": "2026-09-01T19:00:21.918Z"
   },
   {
     "id": "torobshop-mobile-039d5e6addbbd691",
@@ -825,7 +825,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.237Z"
+    "observedAt": "2026-09-01T19:00:21.918Z"
   },
   {
     "id": "torobshop-mobile-35ed38f253e56a81",
@@ -843,7 +843,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.237Z"
+    "observedAt": "2026-09-01T19:00:21.918Z"
   },
   {
     "id": "torobshop-mobile-81294b2d39671c7a",
@@ -861,7 +861,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.237Z"
+    "observedAt": "2026-09-01T19:00:21.918Z"
   },
   {
     "id": "torobshop-mobile-aa508f6b8b35e109",
@@ -879,7 +879,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.237Z"
+    "observedAt": "2026-09-01T19:00:21.918Z"
   },
   {
     "id": "torobshop-mobile-6ec47a3d62be5701",
@@ -897,7 +897,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.237Z"
+    "observedAt": "2026-09-01T19:00:21.918Z"
   },
   {
     "id": "torobshop-mobile-7b66ea2c8fd4c6a4",
@@ -915,7 +915,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.918Z"
   },
   {
     "id": "torobshop-mobile-d49e2d4bb6f40cd4",
@@ -933,7 +933,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.918Z"
   },
   {
     "id": "torobshop-mobile-189f8d80d22fa44f",
@@ -951,7 +951,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.918Z"
   },
   {
     "id": "torobshop-mobile-5b8fa53f836d0f0c",
@@ -969,7 +969,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.918Z"
   },
   {
     "id": "torobshop-mobile-547d268a4387e8cb",
@@ -987,7 +987,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.918Z"
   },
   {
     "id": "torobshop-mobile-4192b4da9c3a842b",
@@ -1005,7 +1005,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.918Z"
   },
   {
     "id": "torobshop-mobile-d81ab9c86f172992",
@@ -1023,7 +1023,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.918Z"
   },
   {
     "id": "torobshop-mobile-c2621badab7154db",
@@ -1041,7 +1041,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.918Z"
   },
   {
     "id": "torobshop-mobile-e61e8163e0053f8c",
@@ -1059,7 +1059,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.918Z"
   },
   {
     "id": "torobshop-mobile-0a6f99bfb7c72378",
@@ -1077,7 +1077,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.918Z"
   },
   {
     "id": "torobshop-mobile-17b433396f0dd8b8",
@@ -1095,7 +1095,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.918Z"
   },
   {
     "id": "torobshop-mobile-70f796097c7bfa77",
@@ -1113,7 +1113,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.918Z"
   },
   {
     "id": "torobshop-mobile-792d9fda0d1edf60",
@@ -1131,7 +1131,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.918Z"
   },
   {
     "id": "torobshop-mobile-0540c2016311432d",
@@ -1149,7 +1149,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.918Z"
   },
   {
     "id": "torobshop-mobile-ea7e49d4888f5500",
@@ -1167,7 +1167,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.918Z"
   },
   {
     "id": "torobshop-mobile-a7031b2d2c098e3a",
@@ -1185,7 +1185,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.918Z"
   },
   {
     "id": "torobshop-mobile-b280052ba623afe6",
@@ -1203,7 +1203,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.918Z"
   },
   {
     "id": "torobshop-mobile-f65d7089e1b75967",
@@ -1221,7 +1221,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.918Z"
   },
   {
     "id": "torobshop-mobile-682b567d27e46eb9",
@@ -1239,7 +1239,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.918Z"
   },
   {
     "id": "torobshop-mobile-1a199d11167496a7",
@@ -1257,7 +1257,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.918Z"
   },
   {
     "id": "torobshop-mobile-e7562a4a47affbdf",
@@ -1275,7 +1275,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.918Z"
   },
   {
     "id": "torobshop-mobile-5681fc33ebc4a2c4",
@@ -1293,7 +1293,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.918Z"
   },
   {
     "id": "torobshop-mobile-eb3156af454255af",
@@ -1311,7 +1311,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.918Z"
   },
   {
     "id": "torobshop-mobile-3f60763e8c1f61db",
@@ -1329,7 +1329,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.918Z"
   },
   {
     "id": "torobshop-mobile-8b667a7c5d48a018",
@@ -1347,7 +1347,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.918Z"
   },
   {
     "id": "torobshop-mobile-c28d9ee4867587e0",
@@ -1365,7 +1365,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.918Z"
   },
   {
     "id": "torobshop-mobile-135cb4370d26107e",
@@ -1383,7 +1383,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.918Z"
   },
   {
     "id": "torobshop-mobile-ea6561f27fcae338",
@@ -1401,7 +1401,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.918Z"
   },
   {
     "id": "torobshop-mobile-9da6cf5207d19dc6",
@@ -1419,7 +1419,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.918Z"
   },
   {
     "id": "torobshop-mobile-973da9b66d30f98f",
@@ -1437,7 +1437,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.918Z"
   },
   {
     "id": "torobshop-mobile-27a7ab064979e19e",
@@ -1455,7 +1455,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.918Z"
   },
   {
     "id": "torobshop-mobile-426ac503c83523da",
@@ -1473,7 +1473,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.918Z"
   },
   {
     "id": "torobshop-mobile-93f0314c16b9cade",
@@ -1491,7 +1491,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.918Z"
   },
   {
     "id": "torobshop-mobile-e546c7ee2f25cccb",
@@ -1509,7 +1509,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.918Z"
   },
   {
     "id": "torobshop-mobile-06e9af83157d59bf",
@@ -1527,7 +1527,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.918Z"
   },
   {
     "id": "torobshop-mobile-7dd02e17fa5ae720",
@@ -1545,7 +1545,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-67b089d5840c00b5",
@@ -1563,7 +1563,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-16617f0cd6242c17",
@@ -1581,7 +1581,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-aab6f7ca65634b77",
@@ -1599,7 +1599,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-1a813253cc64f657",
@@ -1617,7 +1617,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-9059c9b93ab4f1ba",
@@ -1635,7 +1635,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-e32be49c851fd92b",
@@ -1653,7 +1653,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-6d358d3b62e49898",
@@ -1671,7 +1671,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-b728ddb50480ae10",
@@ -1689,7 +1689,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-f5aaf2d36131adb9",
@@ -1707,7 +1707,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-230290bd87eab562",
@@ -1725,7 +1725,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-697a2934ffba6321",
@@ -1743,7 +1743,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-54f5e9ae596669e0",
@@ -1761,7 +1761,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-12112ebd794aebfe",
@@ -1779,7 +1779,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-936307be3dbff4d8",
@@ -1797,7 +1797,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-6e9b5969bf806a83",
@@ -1815,7 +1815,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-e8fbb91576830b01",
@@ -1833,7 +1833,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-46604b56d19bc98e",
@@ -1851,7 +1851,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-c0da7c6caaaabe22",
@@ -1869,7 +1869,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-b0d9a8bce5b96da9",
@@ -1887,7 +1887,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-5aade8dcb399df70",
@@ -1905,7 +1905,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-5793143473c0cf7d",
@@ -1923,7 +1923,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-338927d0838a0440",
@@ -1941,7 +1941,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-5f8b7d12315d211b",
@@ -1959,7 +1959,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-01db327156bef7cb",
@@ -1977,7 +1977,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-bbcc82316e14ad0c",
@@ -1995,7 +1995,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-7bcf4d86c8897e89",
@@ -2013,7 +2013,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-c0ed70988a23d716",
@@ -2031,7 +2031,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-c4764ab021d7047d",
@@ -2049,7 +2049,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-60d6e587231ae5e2",
@@ -2067,7 +2067,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-4bcca73578b5dd16",
@@ -2085,7 +2085,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-6ae0fa5e11f4b4e4",
@@ -2103,7 +2103,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-60af1d85416ddb75",
@@ -2121,7 +2121,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-6e06ceda384f61d3",
@@ -2139,7 +2139,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-d6020856dbe3939e",
@@ -2157,7 +2157,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-5d82b44892bc11b9",
@@ -2175,7 +2175,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-f9bbe058bc1d2128",
@@ -2193,7 +2193,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-e0190c6b09b72f84",
@@ -2211,7 +2211,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-55066b4800c9da01",
@@ -2229,7 +2229,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-f9b72003ee046406",
@@ -2247,7 +2247,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-dab9eb8721316f5c",
@@ -2265,7 +2265,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-e314f2beea5b98b5",
@@ -2283,7 +2283,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-e05ea902bac411c1",
@@ -2301,7 +2301,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-d17a16a92c427af7",
@@ -2319,7 +2319,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-7039563646d2a08c",
@@ -2337,7 +2337,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-b5bb3ef74c64016f",
@@ -2355,7 +2355,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.238Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-9f8dba1c4be0543f",
@@ -2373,7 +2373,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-13383e2908795ceb",
@@ -2391,7 +2391,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-222c5f1f48a7811a",
@@ -2409,7 +2409,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-fed9304ce636fd70",
@@ -2427,7 +2427,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-7dda1ee3ebe3337d",
@@ -2445,7 +2445,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-73f54a12bc87541c",
@@ -2463,7 +2463,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-d5861c5eae980acb",
@@ -2481,7 +2481,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-56d2262c04bf40b1",
@@ -2499,25 +2499,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
-  },
-  {
-    "id": "torobshop-mobile-3a354858143bf5bf",
-    "productId": "torobshop-3a354858143bf5bf",
-    "name": "اسپرسو ساز اسمگ ایتالیا مدل Smeg ECF02RDEU رنگ قرمز با طراحی کلاسیک دهه ۵۰",
-    "brand": "",
-    "model": "اسپرسو ساز اسمگ ایتالیا مدل Smeg ECF02RDEU رنگ قرمز با طراحی کلاسیک دهه ۵۰",
-    "category": "mobile",
-    "subcategory": "لوازم جانبی موبایل",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%A7%D8%B3%D9%BE%D8%B1%D8%B3%D9%88-%D8%B3%D8%A7%D8%B2-%D8%A7%D8%B3%D9%85%DA%AF-%D8%A7%DB%8C%D8%AA%D8%A7%D9%84%DB%8C%D8%A7-%D9%85%D8%AF%D9%84-Smeg-ECF02RDEU-%D8%B1%D9%86%DA%AF-%D9%82%D8%B1%D9%85%D8%B2-%D8%A8%D8%A7-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%DA%A9%D9%84%D8%A7%D8%B3%DB%8C%DA%A9-%D8%AF%D9%87%D9%87-%DB%B5%DB%B0",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-1d09296a1209f7ae",
@@ -2535,7 +2517,25 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
+  },
+  {
+    "id": "torobshop-mobile-3a354858143bf5bf",
+    "productId": "torobshop-3a354858143bf5bf",
+    "name": "اسپرسو ساز اسمگ ایتالیا مدل Smeg ECF02RDEU رنگ قرمز با طراحی کلاسیک دهه ۵۰",
+    "brand": "",
+    "model": "اسپرسو ساز اسمگ ایتالیا مدل Smeg ECF02RDEU رنگ قرمز با طراحی کلاسیک دهه ۵۰",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D8%B3%D9%BE%D8%B1%D8%B3%D9%88-%D8%B3%D8%A7%D8%B2-%D8%A7%D8%B3%D9%85%DA%AF-%D8%A7%DB%8C%D8%AA%D8%A7%D9%84%DB%8C%D8%A7-%D9%85%D8%AF%D9%84-Smeg-ECF02RDEU-%D8%B1%D9%86%DA%AF-%D9%82%D8%B1%D9%85%D8%B2-%D8%A8%D8%A7-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%DA%A9%D9%84%D8%A7%D8%B3%DB%8C%DA%A9-%D8%AF%D9%87%D9%87-%DB%B5%DB%B0",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-3d432c8dbd69eefb",
@@ -2553,7 +2553,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-2278a7dbec8ed7cd",
@@ -2571,7 +2571,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-3b108c60419c6b3e",
@@ -2589,7 +2589,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-386045fed7109b6c",
@@ -2607,7 +2607,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-66634e26dfb49c04",
@@ -2625,7 +2625,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-bcf3455eedcf96e7",
@@ -2643,7 +2643,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-bab25203513b93bb",
@@ -2661,7 +2661,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-3dd1b99a47f6c6d1",
@@ -2679,7 +2679,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-40f557a46b915c21",
@@ -2697,7 +2697,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-fbd5e1832a592f6d",
@@ -2715,7 +2715,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-685fccacbb18ee43",
@@ -2733,7 +2733,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-9c9a87a898bad342",
@@ -2751,7 +2751,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-1cb6df1aed563bee",
@@ -2769,7 +2769,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-993ee35f4a561a10",
@@ -2787,7 +2787,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-37fd983abaa93a3b",
@@ -2805,7 +2805,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-cc5a74ea332cb871",
@@ -2823,7 +2823,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-5e97e30e4af5e35a",
@@ -2841,7 +2841,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-557954e4838db8ec",
@@ -2859,7 +2859,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-deb4652ab7b20c96",
@@ -2877,7 +2877,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-ac5e0f9a687acc9d",
@@ -2895,7 +2895,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-f5c373b20c89f3cf",
@@ -2913,7 +2913,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-174296fd490ce4c6",
@@ -2931,7 +2931,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-ca40f9691c169854",
@@ -2949,7 +2949,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-24ee5f250564a2b6",
@@ -2967,7 +2967,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-eb2d1bdae18ab641",
@@ -2985,7 +2985,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-9526bc50db1d2b71",
@@ -3003,7 +3003,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-17aea0c096f3fbb1",
@@ -3021,7 +3021,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-dab36535df580dd9",
@@ -3039,7 +3039,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-bb07ff83203ce817",
@@ -3057,7 +3057,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-23a08ed4a54c1bf3",
@@ -3075,7 +3075,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-86394f5b0d453ade",
@@ -3093,7 +3093,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-ec7446a90d887300",
@@ -3111,7 +3111,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-add12b5339d41d54",
@@ -3129,7 +3129,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-bf9b6308d5e6e4a3",
@@ -3147,7 +3147,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-a936b9d4fccda9ec",
@@ -3165,7 +3165,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-f676e23d1f151190",
@@ -3183,7 +3183,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-3debd7458ec254ad",
@@ -3201,7 +3201,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-bf0ff9604c787d7f",
@@ -3219,7 +3219,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-ffccfb4b61d564f3",
@@ -3237,7 +3237,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-e89541bdd38935d2",
@@ -3255,7 +3255,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-20506e6b258fcb0c",
@@ -3273,7 +3273,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-9f1357a1a5ec15c3",
@@ -3291,7 +3291,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.919Z"
   },
   {
     "id": "torobshop-mobile-b93b2b7b8a52ead7",
@@ -3309,7 +3309,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.920Z"
   },
   {
     "id": "torobshop-mobile-469010b14dce1518",
@@ -3327,7 +3327,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.920Z"
   },
   {
     "id": "torobshop-mobile-ec9957a5ab556a59",
@@ -3345,7 +3345,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.920Z"
   },
   {
     "id": "torobshop-mobile-d622f60b84a25c29",
@@ -3363,7 +3363,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.920Z"
   },
   {
     "id": "torobshop-mobile-7362b68fe582e1ef",
@@ -3381,7 +3381,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.920Z"
   },
   {
     "id": "torobshop-mobile-8b4d268dc0b50dc9",
@@ -3399,7 +3399,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.920Z"
   },
   {
     "id": "torobshop-mobile-8ad1b620c2984c64",
@@ -3417,7 +3417,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.920Z"
   },
   {
     "id": "torobshop-mobile-bc5ad78acdc13550",
@@ -3435,7 +3435,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.920Z"
   },
   {
     "id": "torobshop-mobile-2961f6c161810850",
@@ -3453,7 +3453,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.920Z"
   },
   {
     "id": "torobshop-mobile-b59055b4a9ca5ed0",
@@ -3471,7 +3471,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.920Z"
   },
   {
     "id": "torobshop-mobile-8cd92a01eb7c25f2",
@@ -3489,7 +3489,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.920Z"
   },
   {
     "id": "torobshop-mobile-712138d0bed8d76a",
@@ -3507,7 +3507,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.920Z"
   },
   {
     "id": "torobshop-mobile-42a978739edad1b3",
@@ -3525,7 +3525,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.920Z"
   },
   {
     "id": "torobshop-mobile-d1db9fdb0a981eb7",
@@ -3543,7 +3543,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.920Z"
   },
   {
     "id": "torobshop-mobile-13177f1a3461cbf8",
@@ -3561,7 +3561,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.920Z"
   },
   {
     "id": "torobshop-mobile-2aa12aa20262b96c",
@@ -3579,7 +3579,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.920Z"
   },
   {
     "id": "torobshop-mobile-10055e541e3441a4",
@@ -3597,7 +3597,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.920Z"
   },
   {
     "id": "torobshop-mobile-9b16b6ebae742a59",
@@ -3615,7 +3615,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.920Z"
   },
   {
     "id": "torobshop-mobile-f241bfdbdc958cdb",
@@ -3633,7 +3633,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.920Z"
   },
   {
     "id": "torobshop-mobile-a0357d058917fff7",
@@ -3651,7 +3651,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.920Z"
   },
   {
     "id": "torobshop-mobile-2734ee381987f71a",
@@ -3669,7 +3669,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.920Z"
   },
   {
     "id": "torobshop-mobile-caf67fb53869dc8d",
@@ -3687,7 +3687,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.239Z"
+    "observedAt": "2026-09-01T19:00:21.920Z"
   },
   {
     "id": "torobshop-mobile-5219a65546b1a882",
@@ -3705,7 +3705,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.240Z"
+    "observedAt": "2026-09-01T19:00:21.920Z"
   },
   {
     "id": "torobshop-mobile-f6139cf71fa544af",
@@ -3723,7 +3723,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.240Z"
+    "observedAt": "2026-09-01T19:00:21.920Z"
   },
   {
     "id": "torobshop-mobile-2e4aeaf94d879ff9",
@@ -3741,7 +3741,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.240Z"
+    "observedAt": "2026-09-01T19:00:21.920Z"
   },
   {
     "id": "torobshop-mobile-226a6dfcab93ffe2",
@@ -3759,7 +3759,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.240Z"
+    "observedAt": "2026-09-01T19:00:21.920Z"
   },
   {
     "id": "torobshop-mobile-1b01f5a6fb5eb1c5",
@@ -3777,7 +3777,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.240Z"
+    "observedAt": "2026-09-01T19:00:21.920Z"
   },
   {
     "id": "torobshop-mobile-1acb3967a4975e9e",
@@ -3795,7 +3795,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.240Z"
+    "observedAt": "2026-09-01T19:00:21.920Z"
   },
   {
     "id": "torobshop-mobile-db75e7774c65ead5",
@@ -3813,7 +3813,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.240Z"
+    "observedAt": "2026-09-01T19:00:21.920Z"
   },
   {
     "id": "torobshop-mobile-1ac684a13e625548",
@@ -3831,7 +3831,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.240Z"
+    "observedAt": "2026-09-01T19:00:21.920Z"
   },
   {
     "id": "torobshop-mobile-231a8680a663a06f",
@@ -3849,7 +3849,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.240Z"
+    "observedAt": "2026-09-01T19:00:21.920Z"
   },
   {
     "id": "torobshop-mobile-7406803b18ab5cc6",
@@ -3867,7 +3867,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.240Z"
+    "observedAt": "2026-09-01T19:00:21.920Z"
   },
   {
     "id": "torobshop-mobile-176747b2a6b3c8bf",
@@ -3885,7 +3885,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.240Z"
+    "observedAt": "2026-09-01T19:00:21.920Z"
   },
   {
     "id": "torobshop-mobile-667b222bc82da779",
@@ -3903,7 +3903,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.240Z"
+    "observedAt": "2026-09-01T19:00:21.920Z"
   },
   {
     "id": "torobshop-mobile-7400212af3648c0e",
@@ -3921,7 +3921,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.240Z"
+    "observedAt": "2026-09-01T19:00:21.920Z"
   },
   {
     "id": "torobshop-mobile-34bb04f7987b2eb8",
@@ -3939,7 +3939,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.240Z"
+    "observedAt": "2026-09-01T19:00:21.920Z"
   },
   {
     "id": "torobshop-mobile-0a56e024ea7c3e6c",
@@ -3957,7 +3957,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.240Z"
+    "observedAt": "2026-09-01T19:00:21.920Z"
   },
   {
     "id": "torobshop-mobile-f2475d629ba82cb9",
@@ -3975,7 +3975,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.240Z"
+    "observedAt": "2026-09-01T19:00:21.920Z"
   },
   {
     "id": "torobshop-mobile-0ef7eb89998918af",
@@ -3993,7 +3993,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.240Z"
+    "observedAt": "2026-09-01T19:00:21.920Z"
   },
   {
     "id": "torobshop-mobile-28fa9f296d3edd2c",
@@ -4011,7 +4011,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.240Z"
+    "observedAt": "2026-09-01T19:00:21.920Z"
   },
   {
     "id": "torobshop-mobile-1123da8edef7210f",
@@ -4029,7 +4029,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.240Z"
+    "observedAt": "2026-09-01T19:00:21.920Z"
   },
   {
     "id": "torobshop-mobile-32430a6532934fe7",
@@ -4047,7 +4047,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.240Z"
+    "observedAt": "2026-09-01T19:00:21.920Z"
   },
   {
     "id": "torobshop-mobile-4fcaa05ae27e136c",
@@ -4065,7 +4065,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.240Z"
+    "observedAt": "2026-09-01T19:00:21.920Z"
   },
   {
     "id": "torobshop-mobile-93c18ce837ff5f57",
@@ -4083,7 +4083,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.240Z"
+    "observedAt": "2026-09-01T19:00:21.920Z"
   },
   {
     "id": "torobshop-mobile-c73bf4fc0db498be",
@@ -4101,7 +4101,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.240Z"
+    "observedAt": "2026-09-01T19:00:21.920Z"
   },
   {
     "id": "torobshop-mobile-76f3e4ef7a8810f3",
@@ -4119,7 +4119,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.240Z"
+    "observedAt": "2026-09-01T19:00:21.920Z"
   },
   {
     "id": "torobshop-mobile-8f566ccc32f52f97",
@@ -4137,7 +4137,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.240Z"
+    "observedAt": "2026-09-01T19:00:21.920Z"
   },
   {
     "id": "torobshop-mobile-2dee2c9f6fb222d1",
@@ -4155,7 +4155,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.240Z"
+    "observedAt": "2026-09-01T19:00:21.920Z"
   },
   {
     "id": "torobshop-mobile-05d539a087d0640e",
@@ -4173,7 +4173,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.240Z"
+    "observedAt": "2026-09-01T19:00:21.920Z"
   },
   {
     "id": "torobshop-mobile-a40b1cc8eb60dfd3",
@@ -4191,7 +4191,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.240Z"
+    "observedAt": "2026-09-01T19:00:21.920Z"
   },
   {
     "id": "torobshop-mobile-827984c7bc2a588b",
@@ -4209,7 +4209,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.240Z"
+    "observedAt": "2026-09-01T19:00:21.920Z"
   },
   {
     "id": "torobshop-mobile-b1ad0ea7d3ae35d7",
@@ -4227,7 +4227,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.240Z"
+    "observedAt": "2026-09-01T19:00:21.920Z"
   },
   {
     "id": "torobshop-mobile-01fd4211de27a0d5",
@@ -4245,7 +4245,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.240Z"
+    "observedAt": "2026-09-01T19:00:21.920Z"
   },
   {
     "id": "torobshop-mobile-4c20864969491062",
@@ -4263,7 +4263,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.240Z"
+    "observedAt": "2026-09-01T19:00:21.920Z"
   },
   {
     "id": "torobshop-mobile-6e8f969763fb12ec",
@@ -4281,7 +4281,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.240Z"
+    "observedAt": "2026-09-01T19:00:21.920Z"
   },
   {
     "id": "torobshop-mobile-611344efb1bd3888",
@@ -4299,7 +4299,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.240Z"
+    "observedAt": "2026-09-01T19:00:21.920Z"
   },
   {
     "id": "torobshop-mobile-c4ddc017f41906f6",
@@ -4317,7 +4317,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.240Z"
+    "observedAt": "2026-09-01T19:00:21.920Z"
   },
   {
     "id": "torobshop-mobile-90fcbe8687059a30",
@@ -4335,7 +4335,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.240Z"
+    "observedAt": "2026-09-01T19:00:21.920Z"
   },
   {
     "id": "torobshop-mobile-c0007aaa6ab91bb2",
@@ -4353,7 +4353,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.240Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-34386721a691d178",
@@ -4371,7 +4371,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.240Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-b8bd6a4d5ecca799",
@@ -4389,7 +4389,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.241Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-9c72d8fb3f6a2ba1",
@@ -4407,7 +4407,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.241Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-87cbcd550df2c8fa",
@@ -4425,7 +4425,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.241Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-bb3d87082eb1a040",
@@ -4443,7 +4443,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.241Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-af253d8db86172d9",
@@ -4461,7 +4461,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.241Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-faf54d1de5277c91",
@@ -4479,7 +4479,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.241Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-bed024ff9dfbc191",
@@ -4497,7 +4497,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.241Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-12108326787ffaf6",
@@ -4515,7 +4515,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.241Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-9706ad3cf0976481",
@@ -4533,7 +4533,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.241Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-a78de50e19375b85",
@@ -4551,7 +4551,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.241Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-b572c0c74ec7e1ee",
@@ -4569,7 +4569,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.241Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-387754e6b4491f58",
@@ -4587,7 +4587,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.241Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-39e57f782fd26013",
@@ -4605,7 +4605,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.241Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-1ed3ae617a915858",
@@ -4623,7 +4623,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.241Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-aed9f18e5d887270",
@@ -4641,7 +4641,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.241Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-d62ad3ee5759fcbd",
@@ -4659,7 +4659,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.241Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-569f3d7e67640e5c",
@@ -4677,7 +4677,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.241Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-aa03a6c561a55d60",
@@ -4695,7 +4695,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.241Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-ad6f3f422d15a766",
@@ -4713,7 +4713,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.241Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-0cfaef0e68debb8e",
@@ -4731,7 +4731,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.241Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-dfa4bdc99016ca7e",
@@ -4749,7 +4749,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.241Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-0ff8a8fc1fbd561e",
@@ -4767,7 +4767,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.241Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-921dfbcc90d038a0",
@@ -4785,7 +4785,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.241Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-6e397f6c85f56e0e",
@@ -4803,7 +4803,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.241Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-9318a28bbba0fe53",
@@ -4821,7 +4821,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.241Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-fa434e6aa57c4be7",
@@ -4839,7 +4839,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.241Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-c9e212e51e3633db",
@@ -4857,7 +4857,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.241Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-abdc2adccad9c33d",
@@ -4875,7 +4875,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.241Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-4b7348b541c036cd",
@@ -4893,7 +4893,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.241Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-695cd4ce1cd48f20",
@@ -4911,7 +4911,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.241Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-7464bedef3ecb51e",
@@ -4929,7 +4929,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.241Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-51009350b9f240d2",
@@ -4947,7 +4947,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.241Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-924e8879fd31e680",
@@ -4965,7 +4965,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.241Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-ae3ba973ea2911ee",
@@ -4983,7 +4983,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.241Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-45c64009916028ba",
@@ -5001,7 +5001,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.241Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-15def7d563b1e542",
@@ -5019,7 +5019,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.241Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-835b00c0d36d8e10",
@@ -5037,7 +5037,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.241Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-da199e6690f1c782",
@@ -5055,7 +5055,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.241Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-37de96dd1d4a33c3",
@@ -5073,7 +5073,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.241Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-35f3e181350a9721",
@@ -5091,7 +5091,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.241Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-843617a20d001e4c",
@@ -5109,7 +5109,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.241Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-9311f0ec7504f24b",
@@ -5127,7 +5127,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.241Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-ee166c5666efcec5",
@@ -5145,7 +5145,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.241Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-67d9add46426dfe8",
@@ -5163,7 +5163,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.241Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-e2467d5cbf85ce81",
@@ -5181,7 +5181,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.241Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-3877183810368792",
@@ -5199,7 +5199,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.241Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-fc88260817f3414e",
@@ -5217,7 +5217,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.241Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-cb9e4b877badae34",
@@ -5235,7 +5235,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.241Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-d68b8e3ac997acb1",
@@ -5253,7 +5253,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.241Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-30d122f629f89166",
@@ -5271,7 +5271,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.241Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-bbb69afb3e332a2c",
@@ -5289,7 +5289,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.241Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-05c540b60ea3624b",
@@ -5307,7 +5307,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.241Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-f8b7784f8ba04a47",
@@ -5325,7 +5325,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.241Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-e4088b7a2b6ea10b",
@@ -5343,7 +5343,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.241Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-e0d95c7bfcafe827",
@@ -5361,7 +5361,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.241Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-5cab57205d377e1f",
@@ -5379,7 +5379,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.241Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-ef26e366fa305ced",
@@ -5397,7 +5397,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.241Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-4415e2cd944c4e59",
@@ -5415,7 +5415,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.241Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-3e03d59443676707",
@@ -5433,7 +5433,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.241Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-07103c8f0e3ce377",
@@ -5451,7 +5451,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.241Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-d9fbeecaba31c602",
@@ -5469,7 +5469,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.241Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-c8ae91ddddbffeeb",
@@ -5487,7 +5487,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.241Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-d397df756b9f1338",
@@ -5505,61 +5505,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.241Z"
-  },
-  {
-    "id": "torobshop-mobile-c4580b999e737ac3",
-    "productId": "torobshop-c4580b999e737ac3",
-    "name": "سرویس قاشق و چنگال وی ام اف آلمان WMF Cutlery Set ( 60 پارچه، 12 نفره )",
-    "brand": "",
-    "model": "سرویس قاشق و چنگال وی ام اف آلمان WMF Cutlery Set ( 60 پارچه، 12 نفره )",
-    "category": "mobile",
-    "subcategory": "لوازم جانبی موبایل",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%DA%A9%D8%A7%D8%B1%D8%AF-%D9%88-%DA%86%D9%86%DA%AF%D8%A7%D9%84-WMF-60-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-12-%D9%86%D9%81%D8%B1%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-Atria-Cromargan-18-10-%D8%A8%D8%B1%D8%A7%D9%82",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.241Z"
-  },
-  {
-    "id": "torobshop-mobile-0674abec1e1ff3bb",
-    "productId": "torobshop-0674abec1e1ff3bb",
-    "name": "سرویس قابلمه 5 پارچه فیسلر آلمان اینتنسا Fissler Intensa با درب فلزی (3 قابلمه، 1 قابلمه کوچک، 1 تابه - بدون درب) سازگار با اجاق القایی",
-    "brand": "",
-    "model": "سرویس قابلمه 5 پارچه فیسلر آلمان اینتنسا Fissler Intensa با درب فلزی (3 قابلمه، 1 قابلمه کوچک، 1 تابه - بدون درب) سازگار با اجاق القایی",
-    "category": "mobile",
-    "subcategory": "لوازم جانبی موبایل",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%A7%DB%8C%D9%86%D8%AA%D9%86%D8%B3%D8%A7-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-5-%D8%AA%DA%A9%D9%87-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%81%D9%84%D8%B2%DB%8C-3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-1-%D8%AA%D8%A7%D8%A8%D9%87-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%B1%D8%A8-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-5-%D8%AA%DA%A9%D9%87-3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-1-%D8%AA%D8%A7%D8%A8%D9%87",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.241Z"
-  },
-  {
-    "id": "torobshop-mobile-9d8fbc8c7f0b6991",
-    "productId": "torobshop-9d8fbc8c7f0b6991",
-    "name": "قیچی خیاطی کلاسیک زولینگ آلمان ZWILLING Superfection، قیچی پارچه، 21 سانتی متر، استیل ضد زنگ مخصوص، ساخت آلمان، مشکی",
-    "brand": "",
-    "model": "قیچی خیاطی کلاسیک زولینگ آلمان ZWILLING Superfection، قیچی پارچه، 21 سانتی متر، استیل ضد زنگ مخصوص، ساخت آلمان، مشکی",
-    "category": "mobile",
-    "subcategory": "لوازم جانبی موبایل",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%82%DB%8C%DA%86%DB%8C-%D8%AE%DB%8C%D8%A7%D8%B7%DB%8C-%DA%A9%D9%84%D8%A7%D8%B3%DB%8C%DA%A9-ZWILLING-Superfection-%D9%82%DB%8C%DA%86%DB%8C-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-21-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.241Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-b0b661c9d6dfca29",
@@ -5577,7 +5523,61 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.241Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
+  },
+  {
+    "id": "torobshop-mobile-c4580b999e737ac3",
+    "productId": "torobshop-c4580b999e737ac3",
+    "name": "سرویس قاشق و چنگال وی ام اف آلمان WMF Cutlery Set ( 60 پارچه، 12 نفره )",
+    "brand": "",
+    "model": "سرویس قاشق و چنگال وی ام اف آلمان WMF Cutlery Set ( 60 پارچه، 12 نفره )",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%DA%A9%D8%A7%D8%B1%D8%AF-%D9%88-%DA%86%D9%86%DA%AF%D8%A7%D9%84-WMF-60-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-12-%D9%86%D9%81%D8%B1%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-Atria-Cromargan-18-10-%D8%A8%D8%B1%D8%A7%D9%82",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T19:00:21.921Z"
+  },
+  {
+    "id": "torobshop-mobile-0674abec1e1ff3bb",
+    "productId": "torobshop-0674abec1e1ff3bb",
+    "name": "سرویس قابلمه 5 پارچه فیسلر آلمان اینتنسا Fissler Intensa با درب فلزی (3 قابلمه، 1 قابلمه کوچک، 1 تابه - بدون درب) سازگار با اجاق القایی",
+    "brand": "",
+    "model": "سرویس قابلمه 5 پارچه فیسلر آلمان اینتنسا Fissler Intensa با درب فلزی (3 قابلمه، 1 قابلمه کوچک، 1 تابه - بدون درب) سازگار با اجاق القایی",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%A7%DB%8C%D9%86%D8%AA%D9%86%D8%B3%D8%A7-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-5-%D8%AA%DA%A9%D9%87-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%81%D9%84%D8%B2%DB%8C-3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-1-%D8%AA%D8%A7%D8%A8%D9%87-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%B1%D8%A8-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-5-%D8%AA%DA%A9%D9%87-3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-1-%D8%AA%D8%A7%D8%A8%D9%87",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T19:00:21.921Z"
+  },
+  {
+    "id": "torobshop-mobile-9d8fbc8c7f0b6991",
+    "productId": "torobshop-9d8fbc8c7f0b6991",
+    "name": "قیچی خیاطی کلاسیک زولینگ آلمان ZWILLING Superfection، قیچی پارچه، 21 سانتی متر، استیل ضد زنگ مخصوص، ساخت آلمان، مشکی",
+    "brand": "",
+    "model": "قیچی خیاطی کلاسیک زولینگ آلمان ZWILLING Superfection، قیچی پارچه، 21 سانتی متر، استیل ضد زنگ مخصوص، ساخت آلمان، مشکی",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%82%DB%8C%DA%86%DB%8C-%D8%AE%DB%8C%D8%A7%D8%B7%DB%8C-%DA%A9%D9%84%D8%A7%D8%B3%DB%8C%DA%A9-ZWILLING-Superfection-%D9%82%DB%8C%DA%86%DB%8C-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-21-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-40f09e3a04b68146",
@@ -5595,7 +5595,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.242Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-d39a2f5ac6cd9a7f",
@@ -5613,7 +5613,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.242Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-280503308950a13c",
@@ -5631,7 +5631,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.242Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-aa2dfdb88af5c975",
@@ -5649,7 +5649,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.242Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-0e4d04ef83a810db",
@@ -5667,7 +5667,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.242Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-9087741222a89b21",
@@ -5685,7 +5685,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.242Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-eb3d93fc719b9727",
@@ -5703,7 +5703,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.242Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-00bf5776f339768d",
@@ -5721,7 +5721,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.242Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-1fd1146f6f750aa9",
@@ -5739,7 +5739,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.242Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-1e0602d76b0e257a",
@@ -5757,7 +5757,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.242Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-412e480ec7918302",
@@ -5775,7 +5775,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.242Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-2be1976c83ad17a1",
@@ -5793,7 +5793,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.242Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-4dd091835a22ff69",
@@ -5811,7 +5811,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.242Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-97e8accc87d0f8bf",
@@ -5829,7 +5829,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.242Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-d99c3943bcec9400",
@@ -5847,7 +5847,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.242Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-56cac7936a06e3f1",
@@ -5865,7 +5865,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.242Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-ace9b88e93544c94",
@@ -5883,7 +5883,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.242Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-8a5c15c91c1a9329",
@@ -5901,7 +5901,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.242Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-ffbee63b50d31684",
@@ -5919,7 +5919,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.242Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-e02164e6665f61ef",
@@ -5937,7 +5937,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.242Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-3644b82267dd5165",
@@ -5955,7 +5955,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.242Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-1dfcfd9dee587f60",
@@ -5973,7 +5973,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.242Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-ef0157b54bf022f6",
@@ -5991,7 +5991,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.242Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-b131b88e24438d96",
@@ -6009,7 +6009,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.242Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-f4ac0f14bd21c6cf",
@@ -6027,7 +6027,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.242Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-2f0597d05addbba1",
@@ -6045,7 +6045,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.242Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-a218f27039422c46",
@@ -6063,7 +6063,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.242Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-22200afc1cbeec02",
@@ -6081,7 +6081,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.242Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-595f1b954d0611bd",
@@ -6099,7 +6099,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.242Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-f26fbc6e8dbee708",
@@ -6117,7 +6117,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.242Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-fda1fe8cf4de5c5d",
@@ -6135,7 +6135,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.242Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-f06d188d530004ad",
@@ -6153,7 +6153,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.242Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-4bffdb79ac43fe15",
@@ -6171,7 +6171,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.242Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-3d13a34700e027c0",
@@ -6189,7 +6189,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.242Z"
+    "observedAt": "2026-09-01T19:00:21.921Z"
   },
   {
     "id": "torobshop-mobile-f4e7843bb5d4eb60",
@@ -6207,7 +6207,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.242Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-fbbfc333137fef0f",
@@ -6225,7 +6225,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.242Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-19319bed3e2f6069",
@@ -6243,7 +6243,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.242Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-a02082729540664c",
@@ -6261,7 +6261,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.242Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-f091c9e920c8e1fb",
@@ -6279,7 +6279,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.242Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-736fe4049676a61e",
@@ -6297,7 +6297,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.242Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-4b3421328c1ce066",
@@ -6315,7 +6315,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.242Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-be60227182487367",
@@ -6333,7 +6333,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.242Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-98b213756a0f63d3",
@@ -6351,7 +6351,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.242Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-f596668a95c6181a",
@@ -6369,7 +6369,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.242Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-d3f802410104b943",
@@ -6387,7 +6387,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.242Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-0f347f93a4676672",
@@ -6405,7 +6405,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.243Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-cb5f45612fc319e4",
@@ -6423,7 +6423,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.243Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-a447d48449c2d499",
@@ -6441,7 +6441,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.243Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-71ebfae235e91ed5",
@@ -6459,7 +6459,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.243Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-51edff8c55bfb262",
@@ -6477,7 +6477,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.243Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-f99dae95f9641652",
@@ -6495,7 +6495,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.243Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-6bc05672d0e139cd",
@@ -6513,7 +6513,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.243Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-6b776fc230756800",
@@ -6531,7 +6531,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.243Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-f2622dc414824191",
@@ -6549,7 +6549,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.243Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-640c8324f81a46bb",
@@ -6567,7 +6567,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.243Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-43b61e0733cc7171",
@@ -6585,7 +6585,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.243Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-c54b5b958054a1a2",
@@ -6603,7 +6603,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.243Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-7f66ba1a4f7ddbfb",
@@ -6621,7 +6621,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.243Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-7c82cddc2d9efd1c",
@@ -6639,7 +6639,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.243Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-af7462ce98ee2999",
@@ -6657,7 +6657,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.243Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-f699a00edc06f489",
@@ -6675,7 +6675,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.243Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-a942a79dda5b87df",
@@ -6693,7 +6693,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.243Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-e4ec7bd10ffa8b50",
@@ -6711,7 +6711,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.243Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-f6c6e72a28882975",
@@ -6729,7 +6729,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.243Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-5bc21e4edaa526cc",
@@ -6747,7 +6747,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.243Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-7bbb1f19505b28fd",
@@ -6765,7 +6765,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.243Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-a59cff30443c154a",
@@ -6783,7 +6783,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.243Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-45d6aa9c3fd53ad4",
@@ -6801,7 +6801,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.243Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-c876f51b5b5d7dae",
@@ -6819,7 +6819,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.243Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-1abb58c93aa4d049",
@@ -6837,7 +6837,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.243Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-27109e9fc58673fd",
@@ -6855,7 +6855,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.243Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-400b05dca029ee01",
@@ -6873,7 +6873,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.243Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-9d62a66000d436e1",
@@ -6891,7 +6891,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.243Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-d6551c8766b38613",
@@ -6909,7 +6909,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.243Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-766b0f80e67074f9",
@@ -6927,7 +6927,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.243Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-967849182031e292",
@@ -6945,7 +6945,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.243Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-6c0960e9008fddf6",
@@ -6963,43 +6963,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.243Z"
-  },
-  {
-    "id": "torobshop-mobile-074febbf09bd3065",
-    "productId": "torobshop-074febbf09bd3065",
-    "name": "دستگاه رفع موهای زائد Braun Smart IPL Silk·expert Pro 5 — لیزر حرفه‌ای دائمی موهای زائد برای استفاده در منزل، طراحی شده در آلمان — شامل کیف، تیغ Venus، 4 قطعه الحاقی — PL5431، سفید/طلایی",
-    "brand": "",
-    "model": "دستگاه رفع موهای زائد Braun Smart IPL Silk·expert Pro 5 — لیزر حرفه‌ای دائمی موهای زائد برای استفاده در منزل، طراحی شده در آلمان — شامل کیف، تیغ Venus، 4 قطعه الحاقی — PL5431، سفید/طلایی",
-    "category": "mobile",
-    "subcategory": "لوازم جانبی موبایل",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Braun-Smart-IPL-Silk-expert-Pro-5-%D9%84%DB%8C%D8%B2%D8%B1-%D8%AD%D8%B1%D9%81%D9%87-%D8%A7%DB%8C-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%85%D9%86%D8%B2%D9%84-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B4%D8%AF%D9%87-%D8%AF%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%B4%D8%A7%D9%85%D9%84-%DA%A9%DB%8C%D9%81-%D8%AA%DB%8C%D8%BA-Venus-4-%D9%82%D8%B7%D8%B9%D9%87-%D8%A7%D9%84%D8%AD%D8%A7%D9%82%DB%8C-PL5431-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.243Z"
-  },
-  {
-    "id": "torobshop-mobile-508a955227952a9d",
-    "productId": "torobshop-508a955227952a9d",
-    "name": "اپیلاتور براون سیلک-اپیل ۵ مخصوص خانم‌ها، موبر برای رفع موهای زائد با ماندگاری طولانی، اصلاح بانوان، ضد آب - شامل اصلاح‌کننده بیکینی، سری اصلاح و سری اصلاح - ۵-۲۳۰، سفید/صورتی فلامینگو + اصلاح‌کننده بیکینی",
-    "brand": "",
-    "model": "اپیلاتور براون سیلک-اپیل ۵ مخصوص خانم‌ها، موبر برای رفع موهای زائد با ماندگاری طولانی، اصلاح بانوان، ضد آب - شامل اصلاح‌کننده بیکینی، سری اصلاح و سری اصلاح - ۵-۲۳۰، سفید/صورتی فلامینگو + اصلاح‌کننده بیکینی",
-    "category": "mobile",
-    "subcategory": "لوازم جانبی موبایل",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B3%DB%8C%D9%84%DA%A9-%D8%A7%D9%BE%DB%8C%D9%84-%DB%B5-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%AE%D8%A7%D9%86%D9%85-%D9%87%D8%A7-%D9%85%D9%88%D8%A8%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%D8%A7-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1%DB%8C-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D8%B6%D8%AF-%D8%A2%D8%A8-%D8%B4%D8%A7%D9%85%D9%84-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%A8%DB%8C%DA%A9%DB%8C%D9%86%DB%8C-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DB%B5-%DB%B2%DB%B3%DB%B0-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B5%D9%88%D8%B1%D8%AA%DB%8C-%D9%81%D9%84%D8%A7%D9%85%DB%8C%D9%86%DA%AF%D9%88-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%A8%DB%8C%DA%A9%DB%8C%D9%86%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.243Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-dc3a8d1c6feb961b",
@@ -7017,7 +6981,43 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.243Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
+  },
+  {
+    "id": "torobshop-mobile-074febbf09bd3065",
+    "productId": "torobshop-074febbf09bd3065",
+    "name": "دستگاه رفع موهای زائد Braun Smart IPL Silk·expert Pro 5 — لیزر حرفه‌ای دائمی موهای زائد برای استفاده در منزل، طراحی شده در آلمان — شامل کیف، تیغ Venus، 4 قطعه الحاقی — PL5431، سفید/طلایی",
+    "brand": "",
+    "model": "دستگاه رفع موهای زائد Braun Smart IPL Silk·expert Pro 5 — لیزر حرفه‌ای دائمی موهای زائد برای استفاده در منزل، طراحی شده در آلمان — شامل کیف، تیغ Venus، 4 قطعه الحاقی — PL5431، سفید/طلایی",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Braun-Smart-IPL-Silk-expert-Pro-5-%D9%84%DB%8C%D8%B2%D8%B1-%D8%AD%D8%B1%D9%81%D9%87-%D8%A7%DB%8C-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%85%D9%86%D8%B2%D9%84-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B4%D8%AF%D9%87-%D8%AF%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%B4%D8%A7%D9%85%D9%84-%DA%A9%DB%8C%D9%81-%D8%AA%DB%8C%D8%BA-Venus-4-%D9%82%D8%B7%D8%B9%D9%87-%D8%A7%D9%84%D8%AD%D8%A7%D9%82%DB%8C-PL5431-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T19:00:21.922Z"
+  },
+  {
+    "id": "torobshop-mobile-508a955227952a9d",
+    "productId": "torobshop-508a955227952a9d",
+    "name": "اپیلاتور براون سیلک-اپیل ۵ مخصوص خانم‌ها، موبر برای رفع موهای زائد با ماندگاری طولانی، اصلاح بانوان، ضد آب - شامل اصلاح‌کننده بیکینی، سری اصلاح و سری اصلاح - ۵-۲۳۰، سفید/صورتی فلامینگو + اصلاح‌کننده بیکینی",
+    "brand": "",
+    "model": "اپیلاتور براون سیلک-اپیل ۵ مخصوص خانم‌ها، موبر برای رفع موهای زائد با ماندگاری طولانی، اصلاح بانوان، ضد آب - شامل اصلاح‌کننده بیکینی، سری اصلاح و سری اصلاح - ۵-۲۳۰، سفید/صورتی فلامینگو + اصلاح‌کننده بیکینی",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B3%DB%8C%D9%84%DA%A9-%D8%A7%D9%BE%DB%8C%D9%84-%DB%B5-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%AE%D8%A7%D9%86%D9%85-%D9%87%D8%A7-%D9%85%D9%88%D8%A8%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%D8%A7-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1%DB%8C-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D8%B6%D8%AF-%D8%A2%D8%A8-%D8%B4%D8%A7%D9%85%D9%84-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%A8%DB%8C%DA%A9%DB%8C%D9%86%DB%8C-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DB%B5-%DB%B2%DB%B3%DB%B0-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B5%D9%88%D8%B1%D8%AA%DB%8C-%D9%81%D9%84%D8%A7%D9%85%DB%8C%D9%86%DA%AF%D9%88-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%A8%DB%8C%DA%A9%DB%8C%D9%86%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-6e4a2eb26d23a745",
@@ -7035,7 +7035,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.243Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-5e70d562a3ef7192",
@@ -7053,7 +7053,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.243Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-2cb3b869608c8a13",
@@ -7071,7 +7071,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.243Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-52384f9bcf5e57ca",
@@ -7089,7 +7089,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.243Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-2182240d0b4b05fe",
@@ -7107,7 +7107,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.243Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-6ba05ec79330884d",
@@ -7125,7 +7125,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.243Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-b6d1e42e39dc67ab",
@@ -7143,7 +7143,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.243Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-8b93c7ea550544bf",
@@ -7161,7 +7161,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.243Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-e93d0f8dd3711a93",
@@ -7179,7 +7179,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.243Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-7c140bba2434e29a",
@@ -7197,7 +7197,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.243Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-733ef1e66d9b337b",
@@ -7215,7 +7215,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.243Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-f0ab07848df05c09",
@@ -7233,7 +7233,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.243Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-391c9855ce3adbee",
@@ -7251,7 +7251,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.243Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-e364f422cc177d5d",
@@ -7269,7 +7269,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.244Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-9195692751acb6cb",
@@ -7287,7 +7287,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.244Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-80504a6da4da0683",
@@ -7305,7 +7305,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.244Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-b6f7b97e0a41fcce",
@@ -7323,7 +7323,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.244Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-f7e7ecdbe9c782b9",
@@ -7341,7 +7341,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.244Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-7f7cef16b95ceef4",
@@ -7359,7 +7359,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.244Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-333eed5c812fb391",
@@ -7377,7 +7377,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.244Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-d5e3206967150e5a",
@@ -7395,7 +7395,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.244Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-fb66328b02aeada9",
@@ -7413,7 +7413,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.244Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-4b1136653b8c3865",
@@ -7431,7 +7431,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.244Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-bff623028ca50588",
@@ -7449,7 +7449,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.244Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-1abc4d3d93984fc9",
@@ -7467,7 +7467,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.244Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-99dbc61e2d2488d7",
@@ -7485,7 +7485,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.244Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-ec0c6101e09fd316",
@@ -7503,7 +7503,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.244Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-45f8a3eeff0791c7",
@@ -7521,7 +7521,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.244Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-2a6259b902f04fb9",
@@ -7539,7 +7539,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.244Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-3fe480d61f801988",
@@ -7557,7 +7557,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.244Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-ef59c7447c918481",
@@ -7575,7 +7575,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.244Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-591d2fa02319cbe4",
@@ -7593,7 +7593,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.244Z"
+    "observedAt": "2026-09-01T19:00:21.922Z"
   },
   {
     "id": "torobshop-mobile-74fc37b5d70bd7c1",
@@ -7611,7 +7611,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.244Z"
+    "observedAt": "2026-09-01T19:00:21.923Z"
   },
   {
     "id": "torobshop-mobile-9c53c942a980e1d6",
@@ -7629,7 +7629,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.244Z"
+    "observedAt": "2026-09-01T19:00:21.923Z"
   },
   {
     "id": "torobshop-mobile-acc19b901c8b2ad8",
@@ -7647,7 +7647,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.244Z"
+    "observedAt": "2026-09-01T19:00:21.923Z"
   },
   {
     "id": "torobshop-mobile-ac9daafe2ea5d5bc",
@@ -7665,7 +7665,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.244Z"
+    "observedAt": "2026-09-01T19:00:21.923Z"
   },
   {
     "id": "torobshop-mobile-69bba0d6d694a47d",
@@ -7683,7 +7683,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.244Z"
+    "observedAt": "2026-09-01T19:00:21.923Z"
   },
   {
     "id": "torobshop-mobile-01be123cfbff3d67",
@@ -7701,7 +7701,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.244Z"
+    "observedAt": "2026-09-01T19:00:21.923Z"
   },
   {
     "id": "torobshop-mobile-27f7af68d3543ffb",
@@ -7719,7 +7719,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.244Z"
+    "observedAt": "2026-09-01T19:00:21.923Z"
   },
   {
     "id": "torobshop-mobile-20c5a20079487b1a",
@@ -7737,7 +7737,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.244Z"
+    "observedAt": "2026-09-01T19:00:21.923Z"
   },
   {
     "id": "torobshop-mobile-091330dc970a0bbe",
@@ -7755,7 +7755,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.244Z"
+    "observedAt": "2026-09-01T19:00:21.923Z"
   },
   {
     "id": "torobshop-mobile-215471b6024642b7",
@@ -7773,7 +7773,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.244Z"
+    "observedAt": "2026-09-01T19:00:21.923Z"
   },
   {
     "id": "torobshop-mobile-db81d40bcc397e16",
@@ -7791,7 +7791,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.244Z"
+    "observedAt": "2026-09-01T19:00:21.923Z"
   },
   {
     "id": "torobshop-mobile-a95fac45da84a72b",
@@ -7809,7 +7809,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.244Z"
+    "observedAt": "2026-09-01T19:00:21.923Z"
   },
   {
     "id": "torobshop-mobile-ed3206a7c4997ceb",
@@ -7827,7 +7827,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.244Z"
+    "observedAt": "2026-09-01T19:00:21.923Z"
   },
   {
     "id": "torobshop-mobile-ab3241a3e4a91b6d",
@@ -7845,7 +7845,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.244Z"
+    "observedAt": "2026-09-01T19:00:21.923Z"
   },
   {
     "id": "torobshop-mobile-08320ee86e550b3d",
@@ -7863,7 +7863,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.244Z"
+    "observedAt": "2026-09-01T19:00:21.923Z"
   },
   {
     "id": "torobshop-mobile-5939ecdc87bd4f0d",
@@ -7881,7 +7881,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.244Z"
+    "observedAt": "2026-09-01T19:00:21.923Z"
   },
   {
     "id": "torobshop-mobile-3e4d9495e052b1b8",
@@ -7899,7 +7899,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.244Z"
+    "observedAt": "2026-09-01T19:00:21.923Z"
   },
   {
     "id": "torobshop-mobile-1059c1f184e3d8b3",
@@ -7917,7 +7917,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.244Z"
+    "observedAt": "2026-09-01T19:00:21.923Z"
   },
   {
     "id": "torobshop-mobile-a5fddfc8c0c99048",
@@ -7935,7 +7935,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.244Z"
+    "observedAt": "2026-09-01T19:00:21.923Z"
   },
   {
     "id": "torobshop-mobile-301beb96f2df717f",
@@ -7953,7 +7953,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.244Z"
+    "observedAt": "2026-09-01T19:00:21.923Z"
   },
   {
     "id": "torobshop-mobile-834858ae4530d775",
@@ -7971,7 +7971,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.244Z"
+    "observedAt": "2026-09-01T19:00:21.923Z"
   },
   {
     "id": "torobshop-mobile-2798976de6f0cc81",
@@ -7989,7 +7989,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.244Z"
+    "observedAt": "2026-09-01T19:00:21.923Z"
   },
   {
     "id": "torobshop-mobile-d8e34bb113f4f352",
@@ -8007,7 +8007,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.244Z"
+    "observedAt": "2026-09-01T19:00:21.923Z"
   },
   {
     "id": "torobshop-mobile-707702931ea634d8",
@@ -8025,7 +8025,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.244Z"
+    "observedAt": "2026-09-01T19:00:21.923Z"
   },
   {
     "id": "torobshop-mobile-d5b957f7df4ff03f",
@@ -8043,7 +8043,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.244Z"
+    "observedAt": "2026-09-01T19:00:21.923Z"
   },
   {
     "id": "torobshop-mobile-2a3268e48e6a43b8",
@@ -8061,7 +8061,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.244Z"
+    "observedAt": "2026-09-01T19:00:21.923Z"
   },
   {
     "id": "torobshop-mobile-68a4dab928f7c962",
@@ -8079,7 +8079,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.245Z"
+    "observedAt": "2026-09-01T19:00:21.923Z"
   },
   {
     "id": "torobshop-mobile-28255666c26f658a",
@@ -8097,7 +8097,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.245Z"
+    "observedAt": "2026-09-01T19:00:21.923Z"
   },
   {
     "id": "torobshop-mobile-9a0fccac9db69875",
@@ -8115,7 +8115,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.245Z"
+    "observedAt": "2026-09-01T19:00:21.923Z"
   },
   {
     "id": "torobshop-mobile-93e51ab5d27d6671",
@@ -8133,7 +8133,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T18:24:24.245Z"
+    "observedAt": "2026-09-01T19:00:21.923Z"
   },
   {
     "id": "web-mobile-cdf893eea13aa859",
@@ -8150,7 +8150,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T18:17:07.719Z"
+    "observedAt": "2026-09-01T18:53:23.905Z"
   },
   {
     "id": "web-mobile-a67667ec5ee8e0cf",
@@ -8167,7 +8167,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T18:17:07.719Z"
+    "observedAt": "2026-09-01T18:53:23.905Z"
   },
   {
     "id": "web-mobile-5cbc6a775b0d3181",
@@ -8184,7 +8184,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T18:17:07.720Z"
+    "observedAt": "2026-09-01T18:53:23.906Z"
   },
   {
     "id": "web-mobile-7e1144b5d3f571c7",
@@ -8201,7 +8201,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T18:17:07.720Z"
+    "observedAt": "2026-09-01T18:53:23.906Z"
   },
   {
     "id": "web-mobile-d829bc3137878b9a",
@@ -8218,7 +8218,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T18:17:07.720Z"
+    "observedAt": "2026-09-01T18:53:23.906Z"
   },
   {
     "id": "web-mobile-f8d7c8083e637920",
@@ -8235,7 +8235,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T18:17:07.720Z"
+    "observedAt": "2026-09-01T18:53:23.906Z"
   },
   {
     "id": "web-mobile-d55bc670163620e0",
@@ -8252,7 +8252,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T18:17:07.720Z"
+    "observedAt": "2026-09-01T18:53:23.907Z"
   },
   {
     "id": "web-mobile-e9a326c3c7d6fe53",
@@ -8269,7 +8269,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T18:17:07.720Z"
+    "observedAt": "2026-09-01T18:53:23.907Z"
   },
   {
     "id": "web-mobile-391897cfece882b3",
@@ -8286,7 +8286,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T18:17:07.720Z"
+    "observedAt": "2026-09-01T18:53:23.907Z"
   },
   {
     "id": "web-mobile-d978e5a3debb468a",
@@ -8303,7 +8303,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T18:17:07.720Z"
+    "observedAt": "2026-09-01T18:53:23.907Z"
   },
   {
     "id": "web-mobile-7973ba8559b15b73",
@@ -8320,7 +8320,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T18:17:07.721Z"
+    "observedAt": "2026-09-01T18:53:23.907Z"
   },
   {
     "id": "web-mobile-cba530f01ba3a0a4",
@@ -8337,7 +8337,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T18:17:07.721Z"
+    "observedAt": "2026-09-01T18:53:23.907Z"
   },
   {
     "id": "web-mobile-8640a54577c0c17f",
@@ -8354,7 +8354,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T18:17:07.721Z"
+    "observedAt": "2026-09-01T18:53:23.907Z"
   },
   {
     "id": "web-mobile-edca128508bd5d03",
@@ -8371,7 +8371,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T18:17:07.721Z"
+    "observedAt": "2026-09-01T18:53:23.907Z"
   },
   {
     "id": "web-mobile-17ea427c9c05e59c",
@@ -8388,7 +8388,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T18:17:07.721Z"
+    "observedAt": "2026-09-01T18:53:23.907Z"
   },
   {
     "id": "web-mobile-395da285e176aaa3",
@@ -8405,7 +8405,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T18:17:07.721Z"
+    "observedAt": "2026-09-01T18:53:23.907Z"
   },
   {
     "id": "web-mobile-075acb00fe05e53c",
@@ -8422,7 +8422,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T18:17:07.722Z"
+    "observedAt": "2026-09-01T18:53:23.907Z"
   },
   {
     "id": "web-mobile-68a9da007e1633c8",
@@ -8439,7 +8439,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T18:17:07.722Z"
+    "observedAt": "2026-09-01T18:53:23.907Z"
   },
   {
     "id": "web-mobile-f1de1aad54d5129d",
@@ -8456,7 +8456,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T18:17:07.722Z"
+    "observedAt": "2026-09-01T18:53:23.907Z"
   },
   {
     "id": "web-mobile-3fa35e3433f82c28",
@@ -8473,7 +8473,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T18:17:07.722Z"
+    "observedAt": "2026-09-01T18:53:23.907Z"
   },
   {
     "id": "web-mobile-9157b39ec8ea1282",
@@ -8490,7 +8490,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T18:17:07.722Z"
+    "observedAt": "2026-09-01T18:53:23.907Z"
   },
   {
     "id": "web-mobile-16878911b2ae7579",
@@ -8507,7 +8507,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T18:17:07.722Z"
+    "observedAt": "2026-09-01T18:53:23.907Z"
   },
   {
     "id": "web-mobile-3f647d18b55f732a",
@@ -8524,7 +8524,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T18:17:07.722Z"
+    "observedAt": "2026-09-01T18:53:23.907Z"
   },
   {
     "id": "web-mobile-e62e88dc93424657",
@@ -8541,7 +8541,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T18:17:07.722Z"
+    "observedAt": "2026-09-01T18:53:23.907Z"
   },
   {
     "id": "web-mobile-0b2dfa583dca18be",
@@ -8558,7 +8558,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T18:17:07.722Z"
+    "observedAt": "2026-09-01T18:53:23.907Z"
   },
   {
     "id": "web-mobile-f4cd91c8a9ee95d7",
@@ -8575,7 +8575,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T18:17:07.722Z"
+    "observedAt": "2026-09-01T18:53:23.907Z"
   },
   {
     "id": "web-mobile-2a5e6b6350e5ae6b",
@@ -8592,7 +8592,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T18:17:07.722Z"
+    "observedAt": "2026-09-01T18:53:23.907Z"
   },
   {
     "id": "web-mobile-53d28b75c3506e0b",
@@ -8609,7 +8609,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T18:17:07.722Z"
+    "observedAt": "2026-09-01T18:53:23.907Z"
   },
   {
     "id": "web-mobile-ce6e1027ba5d1d24",
@@ -8626,7 +8626,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T18:17:07.722Z"
+    "observedAt": "2026-09-01T18:53:23.907Z"
   },
   {
     "id": "web-mobile-740550742a7083b0",
@@ -8643,7 +8643,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T18:17:07.722Z"
+    "observedAt": "2026-09-01T18:53:23.907Z"
   },
   {
     "id": "web-mobile-89a0c25e07e3ad3c",
@@ -8660,7 +8660,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T18:17:54.284Z"
+    "observedAt": "2026-09-01T18:54:07.454Z"
   },
   {
     "id": "web-mobile-eeae69fba7ca59f5",
@@ -8677,7 +8677,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T18:17:54.284Z"
+    "observedAt": "2026-09-01T18:54:07.455Z"
   },
   {
     "id": "web-mobile-b56b93b186c4a653",
@@ -8694,7 +8694,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T18:17:54.284Z"
+    "observedAt": "2026-09-01T18:54:07.455Z"
   },
   {
     "id": "web-mobile-ba354c1fbf83f865",
@@ -8711,7 +8711,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T18:17:54.285Z"
+    "observedAt": "2026-09-01T18:54:07.455Z"
   },
   {
     "id": "web-mobile-baaa8119b28aa041",
@@ -8728,7 +8728,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T18:17:54.285Z"
+    "observedAt": "2026-09-01T18:54:07.455Z"
   },
   {
     "id": "web-mobile-db953e92ce7d3ddd",
@@ -8745,7 +8745,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T18:17:54.285Z"
+    "observedAt": "2026-09-01T18:54:07.455Z"
   },
   {
     "id": "web-mobile-7856c5cdae5b46ea",
@@ -8762,7 +8762,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T18:17:54.285Z"
+    "observedAt": "2026-09-01T18:54:07.455Z"
   },
   {
     "id": "web-mobile-9943cedaaabc73fa",
@@ -8779,7 +8779,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T18:17:54.286Z"
+    "observedAt": "2026-09-01T18:54:07.456Z"
   },
   {
     "id": "web-mobile-49ac5921d76f0e5b",
@@ -8796,7 +8796,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T18:17:54.286Z"
+    "observedAt": "2026-09-01T18:54:07.456Z"
   },
   {
     "id": "web-mobile-888a8eaa500fb9fe",
@@ -8813,7 +8813,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T18:17:54.286Z"
+    "observedAt": "2026-09-01T18:54:07.456Z"
   },
   {
     "id": "web-mobile-8143c283a7ffd6e7",
@@ -8830,7 +8830,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T18:17:54.287Z"
+    "observedAt": "2026-09-01T18:54:07.457Z"
   },
   {
     "id": "web-mobile-18630865144df600",
@@ -8847,7 +8847,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T18:17:54.287Z"
+    "observedAt": "2026-09-01T18:54:07.457Z"
   },
   {
     "id": "web-mobile-cc3a4ed40f46bfb9",
@@ -8864,7 +8864,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T18:17:54.287Z"
+    "observedAt": "2026-09-01T18:54:07.457Z"
   },
   {
     "id": "web-mobile-4d0d8b847cd39075",
@@ -8881,7 +8881,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T18:17:54.288Z"
+    "observedAt": "2026-09-01T18:54:07.458Z"
   },
   {
     "id": "web-mobile-1922ffc0ad9c175d",
@@ -8898,7 +8898,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T18:17:54.288Z"
+    "observedAt": "2026-09-01T18:54:07.458Z"
   },
   {
     "id": "web-mobile-02e3c9834275c5a3",
@@ -8915,7 +8915,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T18:17:54.289Z"
+    "observedAt": "2026-09-01T18:54:07.458Z"
   },
   {
     "id": "web-mobile-11c79ea44f98c5ee",
@@ -8932,7 +8932,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T18:17:54.289Z"
+    "observedAt": "2026-09-01T18:54:07.458Z"
   },
   {
     "id": "web-mobile-24a4910cd35fbd9f",
@@ -8949,6 +8949,6 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T18:17:54.289Z"
+    "observedAt": "2026-09-01T18:54:07.459Z"
   }
 ];
