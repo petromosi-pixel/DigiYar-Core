@@ -6,11 +6,12 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  background: #8ea2bb;
+  background: #aebdcc;
   color: #fff;
   opacity: 1;
   visibility: visible;
   transition: opacity .7s ease, visibility .7s ease;
+  overflow: hidden;
 }
 
 .v5-splash-screen.splash-hidden,
@@ -22,66 +23,44 @@
 
 .v5-splash-screen .v5-splash-content,
 .v5-splash-screen .splash-content {
-  width: min(90vw, 390px);
+  width: min(92vw, 430px);
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: center;
   text-align: center;
   color: #fff;
 }
 
-/* No decorative ring, border, card or shadow around the logo. */
-.v5-splash-screen .v5-splash-logo-wrap {
-  width: 250px;
-  height: 250px;
-  margin: 0 auto 14px;
-  padding: 0;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background: transparent;
-  border: 0;
-  border-radius: 0;
-  box-shadow: none;
-  overflow: visible;
-}
-
+/* The legacy single image is intentionally hidden immediately.
+   The final runtime inserts the three isolated SVG component layers. */
 .v5-splash-screen .v5-splash-logo {
-  width: 242px;
-  height: 242px;
-  object-fit: contain;
-  display: block;
-  margin: 0;
-  padding: 0;
-  border: 0;
-  border-radius: 0;
-  box-shadow: none;
-}
-
-.v5-splash-screen .v5-splash-brand h1,
-.v5-splash-screen .v5-splash-brand p {
-  margin-left: 0;
-  margin-right: 0;
-}
-
-/* Loader is owned by v5-splash-fix.js. Keep the legacy bar visually inert. */
-.v5-splash-screen .v5-splash-loader,
-.v5-splash-screen .splash-loader {
-  background: transparent;
-  border: 0;
-  box-shadow: none;
-}
-.v5-splash-screen .v5-splash-loader > span:not(.v5-loader-dots) {
   display: none !important;
 }
 
+/* Absolutely no decorative ring/card/border/shadow around the logo. */
+.v5-splash-screen .v5-splash-logo-wrap,
+.v5-splash-screen .v5-splash-logo-wrap::before,
+.v5-splash-screen .v5-splash-logo-wrap::after,
+.v5-splash-screen .splash-logo-assembly,
+.v5-splash-screen .splash-logo-assembly::before,
+.v5-splash-screen .splash-logo-assembly::after {
+  background: transparent !important;
+  border: 0 !important;
+  outline: 0 !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+}
+
+.v5-splash-screen .v5-splash-loader,
+.v5-splash-screen .splash-loader {
+  background: transparent !important;
+  border: 0 !important;
+  box-shadow: none !important;
+  border-radius: 0 !important;
+}
+
 @media (max-width: 430px) {
-  .v5-splash-screen .v5-splash-logo-wrap {
-    width: 225px;
-    height: 225px;
-  }
-  .v5-splash-screen .v5-splash-logo {
-    width: 218px;
-    height: 218px;
-  }
+  .v5-splash-screen .v5-splash-content,
+  .v5-splash-screen .splash-content { width: 94vw; }
 }
