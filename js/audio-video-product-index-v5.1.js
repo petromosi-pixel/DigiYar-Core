@@ -1,532 +1,5 @@
 export const AUDIO_VIDEO_PRODUCTS = [
   {
-    "id": "web-audio-video-4cf3bfbe7d507a31",
-    "productId": "web-audio-video-4cf3bfbe7d507a31",
-    "name": "اسپیکر قابل حمل انکر مدل Select 4 Go A31X1",
-    "brand": "دل",
-    "model": "اسپیکر قابل حمل انکر مدل Select 4 Go A31X1",
-    "category": "audio-video",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-109050/%D8%A7%D8%B3%D9%BE%DB%8C%DA%A9%D8%B1-%D9%82%D8%A7%D8%A8%D9%84-%D8%AD%D9%85%D9%84-%D8%A7%D9%86%DA%A9%D8%B1-%D9%85%D8%AF%D9%84-select-4-go-a31x1",
-    "image": "",
-    "sourceId": "technolife-multimedia",
-    "sourceUrl": "https://www.technolife.com/category/multimedia",
-    "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-01T10:57:18.922Z"
-  },
-  {
-    "id": "web-audio-video-a3d7a68050b672d2",
-    "productId": "web-audio-video-a3d7a68050b672d2",
-    "name": "اسپیکر بلوتوثی قابل حمل جی بی ال مدل Charge 6",
-    "brand": "دل",
-    "model": "اسپیکر بلوتوثی قابل حمل جی بی ال مدل Charge 6",
-    "category": "audio-video",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-100984/%D8%A7%D8%B3%D9%BE%DB%8C%DA%A9%D8%B1-%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%AD%D9%85%D9%84-%D8%AC%DB%8C-%D8%A8%DB%8C-%D8%A7%D9%84-%D9%85%D8%AF%D9%84-charge-6",
-    "image": "",
-    "sourceId": "technolife-multimedia",
-    "sourceUrl": "https://www.technolife.com/category/multimedia",
-    "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-01T10:57:18.922Z"
-  },
-  {
-    "id": "web-audio-video-8a63c133e1932a8c",
-    "productId": "web-audio-video-8a63c133e1932a8c",
-    "name": "اسپیکر بلوتوثی قابل حمل جی بی ال مدل Flip 7",
-    "brand": "دل",
-    "model": "اسپیکر بلوتوثی قابل حمل جی بی ال مدل Flip 7",
-    "category": "audio-video",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-100996/%D8%A7%D8%B3%D9%BE%DB%8C%DA%A9%D8%B1-%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%AD%D9%85%D9%84-%D8%AC%DB%8C-%D8%A8%DB%8C-%D8%A7%D9%84-%D9%85%D8%AF%D9%84-flip-7",
-    "image": "",
-    "sourceId": "technolife-multimedia",
-    "sourceUrl": "https://www.technolife.com/category/multimedia",
-    "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-01T10:57:18.922Z"
-  },
-  {
-    "id": "web-audio-video-d6adbb368eff7219",
-    "productId": "web-audio-video-d6adbb368eff7219",
-    "name": "اسپیکر بلوتوثی قابل حمل جی بی ال مدل Clip 5",
-    "brand": "دل",
-    "model": "اسپیکر بلوتوثی قابل حمل جی بی ال مدل Clip 5",
-    "category": "audio-video",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-49519/%D8%A7%D8%B3%D9%BE%DB%8C%DA%A9%D8%B1-%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%AD%D9%85%D9%84-%D8%AC%DB%8C-%D8%A8%DB%8C-%D8%A7%D9%84-%D9%85%D8%AF%D9%84-clip-5",
-    "image": "",
-    "sourceId": "technolife-multimedia",
-    "sourceUrl": "https://www.technolife.com/category/multimedia",
-    "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-01T10:57:18.922Z"
-  },
-  {
-    "id": "web-audio-video-3057322e80c83a5d",
-    "productId": "web-audio-video-3057322e80c83a5d",
-    "name": "اسپیکر بلوتوثی هارمن کاردن مدل Aura Studio 5",
-    "brand": "دل",
-    "model": "اسپیکر بلوتوثی هارمن کاردن مدل Aura Studio 5",
-    "category": "audio-video",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-297053/%D8%A7%D8%B3%D9%BE%DB%8C%DA%A9%D8%B1-%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB%DB%8C-%D9%87%D8%A7%D8%B1%D9%85%D9%86-%DA%A9%D8%A7%D8%B1%D8%AF%D9%86-%D9%85%D8%AF%D9%84-aura-studio-5",
-    "image": "",
-    "sourceId": "technolife-multimedia",
-    "sourceUrl": "https://www.technolife.com/category/multimedia",
-    "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-01T10:57:18.922Z"
-  },
-  {
-    "id": "web-audio-video-2909e941d387fcd2",
-    "productId": "web-audio-video-2909e941d387fcd2",
-    "name": "پارتی باکس جی بی ال مدل partybox Stage 320",
-    "brand": "دل",
-    "model": "پارتی باکس جی بی ال مدل partybox Stage 320",
-    "category": "audio-video",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-38805/%D9%BE%D8%A7%D8%B1%D8%AA%DB%8C-%D8%A8%D8%A7%DA%A9%D8%B3-%D8%AC%DB%8C-%D8%A8%DB%8C-%D8%A7%D9%84-%D9%85%D8%AF%D9%84-partybox-stage-320-",
-    "image": "",
-    "sourceId": "technolife-multimedia",
-    "sourceUrl": "https://www.technolife.com/category/multimedia",
-    "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-01T10:57:18.922Z"
-  },
-  {
-    "id": "web-audio-video-d2fb2d935b7cdf01",
-    "productId": "web-audio-video-d2fb2d935b7cdf01",
-    "name": "اسپیکر بلوتوثی قابل حمل جی بی ال مدل Go 5",
-    "brand": "دل",
-    "model": "اسپیکر بلوتوثی قابل حمل جی بی ال مدل Go 5",
-    "category": "audio-video",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-479562/%D8%A7%D8%B3%D9%BE%DB%8C%DA%A9%D8%B1-%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%AD%D9%85%D9%84-%D8%AC%DB%8C-%D8%A8%DB%8C-%D8%A7%D9%84-%D9%85%D8%AF%D9%84-go-5",
-    "image": "",
-    "sourceId": "technolife-multimedia",
-    "sourceUrl": "https://www.technolife.com/category/multimedia",
-    "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-01T10:57:18.922Z"
-  },
-  {
-    "id": "web-audio-video-edc206a57d081dbb",
-    "productId": "web-audio-video-edc206a57d081dbb",
-    "name": "تلویزیون هوشمند جی پلاس مدل GTV-32SD648N سایز 32 اینچ",
-    "brand": "دل",
-    "model": "تلویزیون هوشمند جی پلاس مدل GTV-32SD648N سایز 32 اینچ",
-    "category": "audio-video",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-471607/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%D8%AC%DB%8C-%D9%BE%D9%84%D8%A7%D8%B3-%D9%85%D8%AF%D9%84-gtv-32sd648n-%D8%B3%D8%A7%DB%8C%D8%B2-32-%D8%A7%DB%8C%D9%86%DA%86",
-    "image": "",
-    "sourceId": "technolife-multimedia",
-    "sourceUrl": "https://www.technolife.com/category/multimedia",
-    "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-01T10:57:18.922Z"
-  },
-  {
-    "id": "web-audio-video-aaac7b20f2318897",
-    "productId": "web-audio-video-aaac7b20f2318897",
-    "name": "پارتی باکس جی بی ال مدل PartyBox Club 120",
-    "brand": "دل",
-    "model": "پارتی باکس جی بی ال مدل PartyBox Club 120",
-    "category": "audio-video",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-38776/%D9%BE%D8%A7%D8%B1%D8%AA%DB%8C-%D8%A8%D8%A7%DA%A9%D8%B3-%D8%AC%DB%8C-%D8%A8%DB%8C-%D8%A7%D9%84-%D9%85%D8%AF%D9%84-partybox-club-120",
-    "image": "",
-    "sourceId": "technolife-multimedia",
-    "sourceUrl": "https://www.technolife.com/category/multimedia",
-    "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-01T10:57:18.922Z"
-  },
-  {
-    "id": "web-audio-video-95f067e3efb8f966",
-    "productId": "web-audio-video-95f067e3efb8f966",
-    "name": "اسپیکر بلوتوثی شیائومی مدل Sound Outdoor",
-    "brand": "شیائومی",
-    "model": "اسپیکر بلوتوثی شیائومی مدل Sound Outdoor",
-    "category": "audio-video",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-53073/%D8%A7%D8%B3%D9%BE%DB%8C%DA%A9%D8%B1-%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB%DB%8C-%D8%B4%DB%8C%D8%A7%D8%A6%D9%88%D9%85%DB%8C-%D9%85%D8%AF%D9%84-sound-outdoor",
-    "image": "",
-    "sourceId": "technolife-multimedia",
-    "sourceUrl": "https://www.technolife.com/category/multimedia",
-    "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-01T10:57:18.922Z"
-  },
-  {
-    "id": "web-audio-video-fb9309c5cf41fffb",
-    "productId": "web-audio-video-fb9309c5cf41fffb",
-    "name": "تلویزیون ال ای دی دوو مدل 75DM4500 سایز 75 اینچ",
-    "brand": "دل",
-    "model": "تلویزیون ال ای دی دوو مدل 75DM4500 سایز 75 اینچ",
-    "category": "audio-video",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-446805/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-%D8%A7%D9%84-%D8%A7%DB%8C-%D8%AF%DB%8C-%D8%AF%D9%88%D9%88-%D9%85%D8%AF%D9%84-75dm4500-%D8%B3%D8%A7%DB%8C%D8%B2-75-%D8%A7%DB%8C%D9%86%DA%86",
-    "image": "",
-    "sourceId": "technolife-multimedia",
-    "sourceUrl": "https://www.technolife.com/category/multimedia",
-    "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-01T10:57:18.923Z"
-  },
-  {
-    "id": "web-audio-video-4d4cf06d249d38e1",
-    "productId": "web-audio-video-4d4cf06d249d38e1",
-    "name": "تلویزیون سونی LED سایز 65 اینچ مدل KD-65X80L",
-    "brand": "دل",
-    "model": "تلویزیون سونی LED سایز 65 اینچ مدل KD-65X80L",
-    "category": "audio-video",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-49947/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-%D8%B3%D9%88%D9%86%DB%8C-led-%D8%B3%D8%A7%DB%8C%D8%B2-65-%D8%A7%DB%8C%D9%86%DA%86-%D9%85%D8%AF%D9%84-kd-65x80l",
-    "image": "",
-    "sourceId": "technolife-multimedia",
-    "sourceUrl": "https://www.technolife.com/category/multimedia",
-    "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-01T10:57:18.923Z"
-  },
-  {
-    "id": "web-audio-video-f2b141967326c494",
-    "productId": "web-audio-video-f2b141967326c494",
-    "name": "اندروید باکس شیائومی مدل TV Box S 3rd Gen",
-    "brand": "شیائومی",
-    "model": "اندروید باکس شیائومی مدل TV Box S 3rd Gen",
-    "category": "audio-video",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-110861/%D8%A7%D9%86%D8%AF%D8%B1%D9%88%DB%8C%D8%AF-%D8%A8%D8%A7%DA%A9%D8%B3-%D8%B4%DB%8C%D8%A7%D8%A6%D9%88%D9%85%DB%8C-%D9%85%D8%AF%D9%84-tv-box-s-3rd-gen",
-    "image": "",
-    "sourceId": "technolife-multimedia",
-    "sourceUrl": "https://www.technolife.com/category/multimedia",
-    "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-01T10:57:18.923Z"
-  },
-  {
-    "id": "web-audio-video-9410484f256089ef",
-    "productId": "web-audio-video-9410484f256089ef",
-    "name": "اسپیکر بلوتوثی جی بی ال مدل Go 4",
-    "brand": "دل",
-    "model": "اسپیکر بلوتوثی جی بی ال مدل Go 4",
-    "category": "audio-video",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-42745/%D8%A7%D8%B3%D9%BE%DB%8C%DA%A9%D8%B1-%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB%DB%8C-%D8%AC%DB%8C-%D8%A8%DB%8C-%D8%A7%D9%84-%D9%85%D8%AF%D9%84-go-4",
-    "image": "",
-    "sourceId": "technolife-multimedia",
-    "sourceUrl": "https://www.technolife.com/category/multimedia",
-    "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-01T10:57:18.923Z"
-  },
-  {
-    "id": "web-audio-video-ee04719471cae2f8",
-    "productId": "web-audio-video-ee04719471cae2f8",
-    "name": "اسپیکر بلوتوثی مدل GTS-1360",
-    "brand": "دل",
-    "model": "اسپیکر بلوتوثی مدل GTS-1360",
-    "category": "audio-video",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-58045/%D8%A7%D8%B3%D9%BE%DB%8C%DA%A9%D8%B1-%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB%DB%8C-%D9%85%D8%AF%D9%84-gts-1360",
-    "image": "",
-    "sourceId": "technolife-multimedia",
-    "sourceUrl": "https://www.technolife.com/category/multimedia",
-    "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-01T10:57:18.923Z"
-  },
-  {
-    "id": "web-audio-video-b0edc84b061114ab",
-    "productId": "web-audio-video-b0edc84b061114ab",
-    "name": "اسپیکر بلوتوثی قابل حمل تسکو مدل TS 23362",
-    "brand": "دل",
-    "model": "اسپیکر بلوتوثی قابل حمل تسکو مدل TS 23362",
-    "category": "audio-video",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-301259/%D8%A7%D8%B3%D9%BE%DB%8C%DA%A9%D8%B1-%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%AD%D9%85%D9%84-%D8%AA%D8%B3%DA%A9%D9%88-%D9%85%D8%AF%D9%84-ts-23362",
-    "image": "",
-    "sourceId": "technolife-multimedia",
-    "sourceUrl": "https://www.technolife.com/category/multimedia",
-    "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-01T10:57:18.923Z"
-  },
-  {
-    "id": "web-audio-video-292677c9248e62f4",
-    "productId": "web-audio-video-292677c9248e62f4",
-    "name": "تلویزیون ایکس ویژن مدل 55XYU720 سایز 55 اینچ",
-    "brand": "دل",
-    "model": "تلویزیون ایکس ویژن مدل 55XYU720 سایز 55 اینچ",
-    "category": "audio-video",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-578163/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-%D8%A7%DB%8C%DA%A9%D8%B3-%D9%88%DB%8C%DA%98%D9%86-%D9%85%D8%AF%D9%84-55xyu720-%D8%B3%D8%A7%DB%8C%D8%B2-55-%D8%A7%DB%8C%D9%86%DA%86",
-    "image": "",
-    "sourceId": "technolife-multimedia",
-    "sourceUrl": "https://www.technolife.com/category/multimedia",
-    "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-01T10:57:18.923Z"
-  },
-  {
-    "id": "web-audio-video-df06092300a2779b",
-    "productId": "web-audio-video-df06092300a2779b",
-    "name": "تلویزیون ال ای دی سونی مدل KD-55X80L سایز 55 اینچ",
-    "brand": "دل",
-    "model": "تلویزیون ال ای دی سونی مدل KD-55X80L سایز 55 اینچ",
-    "category": "audio-video",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-36234/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-%D8%A7%D9%84-%D8%A7%DB%8C-%D8%AF%DB%8C-%D8%B3%D9%88%D9%86%DB%8C-%D9%85%D8%AF%D9%84-kd-55x80l-%D8%B3%D8%A7%DB%8C%D8%B2-55-%D8%A7%DB%8C%D9%86%DA%86",
-    "image": "",
-    "sourceId": "technolife-multimedia",
-    "sourceUrl": "https://www.technolife.com/category/multimedia",
-    "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-01T10:57:18.923Z"
-  },
-  {
-    "id": "web-audio-video-638d1da40dff21f6",
-    "productId": "web-audio-video-638d1da40dff21f6",
-    "name": "تلویزیون هوشمند 43 اینچ ال ای دی جی پلاس مدل GTV-43SH648NP",
-    "brand": "دل",
-    "model": "تلویزیون هوشمند 43 اینچ ال ای دی جی پلاس مدل GTV-43SH648NP",
-    "category": "audio-video",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-578743/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-43-%D8%A7%DB%8C%D9%86%DA%86-%D8%A7%D9%84-%D8%A7%DB%8C-%D8%AF%DB%8C-%D8%AC%DB%8C-%D9%BE%D9%84%D8%A7%D8%B3-%D9%85%D8%AF%D9%84-gtv-43sh648np",
-    "image": "",
-    "sourceId": "technolife-multimedia",
-    "sourceUrl": "https://www.technolife.com/category/multimedia",
-    "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-01T10:57:18.923Z"
-  },
-  {
-    "id": "web-audio-video-11bbd4f79a3d1d3a",
-    "productId": "web-audio-video-11bbd4f79a3d1d3a",
-    "name": "اسپیکر بلوتوثی انکر مدل Soundcore Boom 3i",
-    "brand": "دل",
-    "model": "اسپیکر بلوتوثی انکر مدل Soundcore Boom 3i",
-    "category": "audio-video",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-161205/%D8%A7%D8%B3%D9%BE%DB%8C%DA%A9%D8%B1-%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB%DB%8C-%D8%A7%D9%86%DA%A9%D8%B1-%D9%85%D8%AF%D9%84-soundcore-boom-3i",
-    "image": "",
-    "sourceId": "technolife-multimedia",
-    "sourceUrl": "https://www.technolife.com/category/multimedia",
-    "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-01T10:57:18.923Z"
-  },
-  {
-    "id": "web-audio-video-984b9367f5530285",
-    "productId": "web-audio-video-984b9367f5530285",
-    "name": "تلویزیون هوشمند ایکس ویژن مدل XC660B سایز 43 اینچ",
-    "brand": "دل",
-    "model": "تلویزیون هوشمند ایکس ویژن مدل XC660B سایز 43 اینچ",
-    "category": "audio-video",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-578168/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%D8%A7%DB%8C%DA%A9%D8%B3-%D9%88%DB%8C%DA%98%D9%86-%D9%85%D8%AF%D9%84-xc660b-%D8%B3%D8%A7%DB%8C%D8%B2-43-%D8%A7%DB%8C%D9%86%DA%86",
-    "image": "",
-    "sourceId": "technolife-multimedia",
-    "sourceUrl": "https://www.technolife.com/category/multimedia",
-    "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-01T10:57:18.923Z"
-  },
-  {
-    "id": "web-audio-video-d11a4e834435f72f",
-    "productId": "web-audio-video-d11a4e834435f72f",
-    "name": "اسپیکر بلوتوثی تسکو مدل TS 23358",
-    "brand": "دل",
-    "model": "اسپیکر بلوتوثی تسکو مدل TS 23358",
-    "category": "audio-video",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-442235/%D8%A7%D8%B3%D9%BE%DB%8C%DA%A9%D8%B1-%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB%DB%8C-%D8%AA%D8%B3%DA%A9%D9%88-%D9%85%D8%AF%D9%84-ts-23358",
-    "image": "",
-    "sourceId": "technolife-multimedia",
-    "sourceUrl": "https://www.technolife.com/category/multimedia",
-    "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-01T10:57:18.923Z"
-  },
-  {
-    "id": "web-audio-video-6597fb614f0b0987",
-    "productId": "web-audio-video-6597fb614f0b0987",
-    "name": "اسپیکر بلوتوثی قابل حمل هارمن کاردن مدل Onyx Studio 9",
-    "brand": "دل",
-    "model": "اسپیکر بلوتوثی قابل حمل هارمن کاردن مدل Onyx Studio 9",
-    "category": "audio-video",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-116670/%D8%A7%D8%B3%D9%BE%DB%8C%DA%A9%D8%B1-%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%AD%D9%85%D9%84-%D9%87%D8%A7%D8%B1%D9%85%D9%86-%DA%A9%D8%A7%D8%B1%D8%AF%D9%86-%D9%85%D8%AF%D9%84-onyx-studio-9",
-    "image": "",
-    "sourceId": "technolife-multimedia",
-    "sourceUrl": "https://www.technolife.com/category/multimedia",
-    "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-01T10:57:18.923Z"
-  },
-  {
-    "id": "web-audio-video-248f0a9fa81ca0c0",
-    "productId": "web-audio-video-248f0a9fa81ca0c0",
-    "name": "تلویزیون ایکس ویژن مدل 43XC605 سایز 43 اینچ",
-    "brand": "دل",
-    "model": "تلویزیون ایکس ویژن مدل 43XC605 سایز 43 اینچ",
-    "category": "audio-video",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-426153/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-%D8%A7%DB%8C%DA%A9%D8%B3-%D9%88%DB%8C%DA%98%D9%86-%D9%85%D8%AF%D9%84-43xc605-%D8%B3%D8%A7%DB%8C%D8%B2-43-%D8%A7%DB%8C%D9%86%DA%86",
-    "image": "",
-    "sourceId": "technolife-multimedia",
-    "sourceUrl": "https://www.technolife.com/category/multimedia",
-    "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-01T10:57:18.923Z"
-  },
-  {
-    "id": "web-audio-video-5e27802d2f4bbed7",
-    "productId": "web-audio-video-5e27802d2f4bbed7",
-    "name": "تلویزیون سونی LED سایز 65 اینچ مدل KD-65X85L",
-    "brand": "دل",
-    "model": "تلویزیون سونی LED سایز 65 اینچ مدل KD-65X85L",
-    "category": "audio-video",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-47975/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-%D8%B3%D9%88%D9%86%DB%8C-led-%D8%B3%D8%A7%DB%8C%D8%B2-65-%D8%A7%DB%8C%D9%86%DA%86-%D9%85%D8%AF%D9%84-kd-65x85l",
-    "image": "",
-    "sourceId": "technolife-multimedia",
-    "sourceUrl": "https://www.technolife.com/category/multimedia",
-    "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-01T10:57:18.923Z"
-  },
-  {
-    "id": "web-audio-video-509f23a86bee738e",
-    "productId": "web-audio-video-509f23a86bee738e",
-    "name": "اسپیکر بلوتوثی انکر مدل SoundCore Select 3",
-    "brand": "دل",
-    "model": "اسپیکر بلوتوثی انکر مدل SoundCore Select 3",
-    "category": "audio-video",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-179585/%D8%A7%D8%B3%D9%BE%DB%8C%DA%A9%D8%B1-%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB%DB%8C-%D8%A7%D9%86%DA%A9%D8%B1-%D9%85%D8%AF%D9%84-soundcore-select-3",
-    "image": "",
-    "sourceId": "technolife-multimedia",
-    "sourceUrl": "https://www.technolife.com/category/multimedia",
-    "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-01T10:57:18.923Z"
-  },
-  {
-    "id": "web-audio-video-5699e9a576ce59d0",
-    "productId": "web-audio-video-5699e9a576ce59d0",
-    "name": "تلویزیون هوشمند ایکس ویژن مدل XC660G سایز 43 اینچ",
-    "brand": "دل",
-    "model": "تلویزیون هوشمند ایکس ویژن مدل XC660G سایز 43 اینچ",
-    "category": "audio-video",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-518272/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%D8%A7%DB%8C%DA%A9%D8%B3-%D9%88%DB%8C%DA%98%D9%86-%D9%85%D8%AF%D9%84-xc660g-%D8%B3%D8%A7%DB%8C%D8%B2-43-%D8%A7%DB%8C%D9%86%DA%86",
-    "image": "",
-    "sourceId": "technolife-multimedia",
-    "sourceUrl": "https://www.technolife.com/category/multimedia",
-    "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-01T10:57:18.923Z"
-  },
-  {
-    "id": "web-audio-video-1ee38f9411543549",
-    "productId": "web-audio-video-1ee38f9411543549",
-    "name": "تلویزیون کیو ال ای دی ایکس ویژن مدل XYU880B سایز 55 اینچ",
-    "brand": "دل",
-    "model": "تلویزیون کیو ال ای دی ایکس ویژن مدل XYU880B سایز 55 اینچ",
-    "category": "audio-video",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-518179/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-%DA%A9%DB%8C%D9%88-%D8%A7%D9%84-%D8%A7%DB%8C-%D8%AF%DB%8C-%D8%A7%DB%8C%DA%A9%D8%B3-%D9%88%DB%8C%DA%98%D9%86-%D9%85%D8%AF%D9%84-xyu880b-%D8%B3%D8%A7%DB%8C%D8%B2-55-%D8%A7%DB%8C%D9%86%DA%86",
-    "image": "",
-    "sourceId": "technolife-multimedia",
-    "sourceUrl": "https://www.technolife.com/category/multimedia",
-    "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-01T10:57:18.923Z"
-  },
-  {
-    "id": "web-audio-video-b1f5cfa1fe12762c",
-    "productId": "web-audio-video-b1f5cfa1fe12762c",
-    "name": "اندروید باکس نت باکس مدل شاین یو",
-    "brand": "دل",
-    "model": "اندروید باکس نت باکس مدل شاین یو",
-    "category": "audio-video",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-392362/%D8%A7%D9%86%D8%AF%D8%B1%D9%88%DB%8C%D8%AF-%D8%A8%D8%A7%DA%A9%D8%B3-%D9%86%D8%AA-%D8%A8%D8%A7%DA%A9%D8%B3-%D9%85%D8%AF%D9%84-%D8%B4%D8%A7%DB%8C%D9%86-%DB%8C%D9%88",
-    "image": "",
-    "sourceId": "technolife-multimedia",
-    "sourceUrl": "https://www.technolife.com/category/multimedia",
-    "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-01T10:57:18.923Z"
-  },
-  {
-    "id": "web-audio-video-d87636424728846c",
-    "productId": "web-audio-video-d87636424728846c",
-    "name": "تلویزیون شیائومی مدل A 55 2025 سایز 55 اینچ",
-    "brand": "شیائومی",
-    "model": "تلویزیون شیائومی مدل A 55 2025 سایز 55 اینچ",
-    "category": "audio-video",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-382336/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-%D8%B4%DB%8C%D8%A7%D8%A6%D9%88%D9%85%DB%8C-%D9%85%D8%AF%D9%84-a-55-2025-%D8%B3%D8%A7%DB%8C%D8%B2-55-%D8%A7%DB%8C%D9%86%DA%86",
-    "image": "",
-    "sourceId": "technolife-multimedia",
-    "sourceUrl": "https://www.technolife.com/category/multimedia",
-    "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-01T10:57:18.923Z"
-  },
-  {
-    "id": "web-audio-video-b05d64cfdc843fd7",
-    "productId": "web-audio-video-b05d64cfdc843fd7",
-    "name": "گوشی s2۵ fe",
-    "brand": "",
-    "model": "گوشی s2۵ fe",
-    "category": "audio-video",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-165916/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF-%D9%85%D8%AF%D9%84-galaxy-s25-fe-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-256-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-8-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA---%D9%88%DB%8C%D8%AA%D9%86%D8%A7%D9%85",
-    "image": "",
-    "sourceId": "technolife-multimedia",
-    "sourceUrl": "https://www.technolife.com/category/multimedia",
-    "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-01T10:57:18.923Z"
-  },
-  {
     "id": "torobshop-audio-video-716dda0dbff9c54f",
     "productId": "torobshop-716dda0dbff9c54f",
     "name": "بلندگوهای بی‌سیم HiFi KEF LSX II LT (سفید سنگی، جفت)",
@@ -542,7 +15,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.407Z"
+    "observedAt": "2026-09-01T12:39:23.931Z"
   },
   {
     "id": "torobshop-audio-video-42afd1ca9ea774d6",
@@ -560,7 +33,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.407Z"
+    "observedAt": "2026-09-01T12:39:23.931Z"
   },
   {
     "id": "torobshop-audio-video-3930a114dca5ba93",
@@ -578,7 +51,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.407Z"
+    "observedAt": "2026-09-01T12:39:23.931Z"
   },
   {
     "id": "torobshop-audio-video-aaa22eb952374f54",
@@ -596,7 +69,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.407Z"
+    "observedAt": "2026-09-01T12:39:23.931Z"
   },
   {
     "id": "torobshop-audio-video-6313ab97d41a2b56",
@@ -614,7 +87,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.407Z"
+    "observedAt": "2026-09-01T12:39:23.931Z"
   },
   {
     "id": "torobshop-audio-video-f6f4fe1c061400be",
@@ -632,7 +105,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.407Z"
+    "observedAt": "2026-09-01T12:39:23.931Z"
   },
   {
     "id": "torobshop-audio-video-f84a10872070200f",
@@ -650,7 +123,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.407Z"
+    "observedAt": "2026-09-01T12:39:23.931Z"
   },
   {
     "id": "torobshop-audio-video-be5c8240bad9b96b",
@@ -668,7 +141,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.407Z"
+    "observedAt": "2026-09-01T12:39:23.931Z"
   },
   {
     "id": "torobshop-audio-video-6ea4ce76135ec585",
@@ -686,7 +159,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.407Z"
+    "observedAt": "2026-09-01T12:39:23.931Z"
   },
   {
     "id": "torobshop-audio-video-66ec5ac305e2c66d",
@@ -704,7 +177,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.407Z"
+    "observedAt": "2026-09-01T12:39:23.931Z"
   },
   {
     "id": "torobshop-audio-video-550a8f87070e67b2",
@@ -722,7 +195,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.407Z"
+    "observedAt": "2026-09-01T12:39:23.931Z"
   },
   {
     "id": "torobshop-audio-video-82dd733a006aec80",
@@ -740,7 +213,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.407Z"
+    "observedAt": "2026-09-01T12:39:23.931Z"
   },
   {
     "id": "torobshop-audio-video-b0ab596ed23cc867",
@@ -758,7 +231,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.407Z"
+    "observedAt": "2026-09-01T12:39:23.931Z"
   },
   {
     "id": "torobshop-audio-video-81b8042dfd25e040",
@@ -776,7 +249,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.407Z"
+    "observedAt": "2026-09-01T12:39:23.931Z"
   },
   {
     "id": "torobshop-audio-video-971de75d275ec060",
@@ -794,7 +267,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.407Z"
+    "observedAt": "2026-09-01T12:39:23.931Z"
   },
   {
     "id": "torobshop-audio-video-6984e0fba2f0f5ab",
@@ -812,7 +285,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.407Z"
+    "observedAt": "2026-09-01T12:39:23.931Z"
   },
   {
     "id": "torobshop-audio-video-043774655c5e9707",
@@ -830,7 +303,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.407Z"
+    "observedAt": "2026-09-01T12:39:23.931Z"
   },
   {
     "id": "torobshop-audio-video-96e722182c1b89a6",
@@ -848,7 +321,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.407Z"
+    "observedAt": "2026-09-01T12:39:23.931Z"
   },
   {
     "id": "torobshop-audio-video-d62f3f3a89e25a47",
@@ -866,7 +339,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.407Z"
+    "observedAt": "2026-09-01T12:39:23.931Z"
   },
   {
     "id": "torobshop-audio-video-c91c69b83e4ddd45",
@@ -884,7 +357,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.407Z"
+    "observedAt": "2026-09-01T12:39:23.931Z"
   },
   {
     "id": "torobshop-audio-video-6d073e89debc0957",
@@ -902,7 +375,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.407Z"
+    "observedAt": "2026-09-01T12:39:23.931Z"
   },
   {
     "id": "torobshop-audio-video-2f1de49dbfea70aa",
@@ -920,7 +393,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.407Z"
+    "observedAt": "2026-09-01T12:39:23.931Z"
   },
   {
     "id": "torobshop-audio-video-688de6c889730421",
@@ -938,7 +411,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-6f75db36753d61cb",
@@ -956,7 +429,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-1d0f8b752067584c",
@@ -974,7 +447,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-9588e88bfa202297",
@@ -992,7 +465,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-564f6efd33ed7c72",
@@ -1010,7 +483,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-db51956256cf2a9e",
@@ -1028,7 +501,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-6c602e399b74265b",
@@ -1046,7 +519,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-69bf454eaf5c015b",
@@ -1064,7 +537,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-9b36373adadaf4fd",
@@ -1082,7 +555,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-f566f758ccfcc717",
@@ -1100,7 +573,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-964ece0d8e9f6669",
@@ -1118,7 +591,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-4cef33429e237704",
@@ -1136,7 +609,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-e4a2bc7cbee474b2",
@@ -1154,7 +627,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-3be15395be038aca",
@@ -1172,7 +645,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-77f61ec7f8b8b73d",
@@ -1190,7 +663,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-a09bc08624899ff4",
@@ -1208,7 +681,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-bbd449ed50b3d540",
@@ -1226,7 +699,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-50ddbf6ac385797f",
@@ -1244,7 +717,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-80a52ed3a08cda77",
@@ -1262,7 +735,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-039d5e6addbbd691",
@@ -1280,7 +753,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-35ed38f253e56a81",
@@ -1298,7 +771,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-81294b2d39671c7a",
@@ -1316,7 +789,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-aa508f6b8b35e109",
@@ -1334,7 +807,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-6ec47a3d62be5701",
@@ -1352,7 +825,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-7b66ea2c8fd4c6a4",
@@ -1370,7 +843,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-d49e2d4bb6f40cd4",
@@ -1388,7 +861,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-189f8d80d22fa44f",
@@ -1406,7 +879,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-5b8fa53f836d0f0c",
@@ -1424,7 +897,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-547d268a4387e8cb",
@@ -1442,7 +915,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-4192b4da9c3a842b",
@@ -1460,7 +933,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-d81ab9c86f172992",
@@ -1478,7 +951,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-c2621badab7154db",
@@ -1496,7 +969,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-e61e8163e0053f8c",
@@ -1514,7 +987,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-0a6f99bfb7c72378",
@@ -1532,7 +1005,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-17b433396f0dd8b8",
@@ -1550,7 +1023,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-70f796097c7bfa77",
@@ -1568,7 +1041,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-792d9fda0d1edf60",
@@ -1586,7 +1059,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-0540c2016311432d",
@@ -1604,7 +1077,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-ea7e49d4888f5500",
@@ -1622,7 +1095,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-a7031b2d2c098e3a",
@@ -1640,7 +1113,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-b280052ba623afe6",
@@ -1658,7 +1131,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-f65d7089e1b75967",
@@ -1676,7 +1149,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-682b567d27e46eb9",
@@ -1694,7 +1167,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-1a199d11167496a7",
@@ -1712,7 +1185,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-e7562a4a47affbdf",
@@ -1730,7 +1203,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-5681fc33ebc4a2c4",
@@ -1748,7 +1221,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-eb3156af454255af",
@@ -1766,7 +1239,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-3f60763e8c1f61db",
@@ -1784,7 +1257,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-8b667a7c5d48a018",
@@ -1802,7 +1275,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-c28d9ee4867587e0",
@@ -1820,7 +1293,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-135cb4370d26107e",
@@ -1838,7 +1311,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-ea6561f27fcae338",
@@ -1856,7 +1329,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-9da6cf5207d19dc6",
@@ -1874,7 +1347,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-973da9b66d30f98f",
@@ -1892,7 +1365,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-27a7ab064979e19e",
@@ -1910,7 +1383,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-426ac503c83523da",
@@ -1928,7 +1401,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-93f0314c16b9cade",
@@ -1946,7 +1419,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-e546c7ee2f25cccb",
@@ -1964,7 +1437,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-06e9af83157d59bf",
@@ -1982,7 +1455,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-7dd02e17fa5ae720",
@@ -2000,7 +1473,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-67b089d5840c00b5",
@@ -2018,7 +1491,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-16617f0cd6242c17",
@@ -2036,7 +1509,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-aab6f7ca65634b77",
@@ -2054,7 +1527,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-1a813253cc64f657",
@@ -2072,7 +1545,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-9059c9b93ab4f1ba",
@@ -2090,7 +1563,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-e32be49c851fd92b",
@@ -2108,7 +1581,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-6d358d3b62e49898",
@@ -2126,7 +1599,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-b728ddb50480ae10",
@@ -2144,7 +1617,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-f5aaf2d36131adb9",
@@ -2162,7 +1635,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-230290bd87eab562",
@@ -2180,7 +1653,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-697a2934ffba6321",
@@ -2198,7 +1671,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-54f5e9ae596669e0",
@@ -2216,7 +1689,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-12112ebd794aebfe",
@@ -2234,7 +1707,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-936307be3dbff4d8",
@@ -2252,7 +1725,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-6e9b5969bf806a83",
@@ -2270,7 +1743,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-e8fbb91576830b01",
@@ -2288,7 +1761,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-46604b56d19bc98e",
@@ -2306,7 +1779,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-c0da7c6caaaabe22",
@@ -2324,7 +1797,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-b0d9a8bce5b96da9",
@@ -2342,7 +1815,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-5aade8dcb399df70",
@@ -2360,7 +1833,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-5793143473c0cf7d",
@@ -2378,7 +1851,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-338927d0838a0440",
@@ -2396,7 +1869,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-5f8b7d12315d211b",
@@ -2414,7 +1887,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-01db327156bef7cb",
@@ -2432,7 +1905,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-bbcc82316e14ad0c",
@@ -2450,7 +1923,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-7bcf4d86c8897e89",
@@ -2468,7 +1941,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-c0ed70988a23d716",
@@ -2486,7 +1959,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-c4764ab021d7047d",
@@ -2504,7 +1977,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-60d6e587231ae5e2",
@@ -2522,7 +1995,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-6ae0fa5e11f4b4e4",
@@ -2540,7 +2013,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-60af1d85416ddb75",
@@ -2558,7 +2031,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-4bcca73578b5dd16",
@@ -2576,7 +2049,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-6e06ceda384f61d3",
@@ -2594,7 +2067,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-d6020856dbe3939e",
@@ -2612,7 +2085,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-5d82b44892bc11b9",
@@ -2630,7 +2103,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-f9bbe058bc1d2128",
@@ -2648,7 +2121,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-e0190c6b09b72f84",
@@ -2666,7 +2139,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-55066b4800c9da01",
@@ -2684,7 +2157,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-f9b72003ee046406",
@@ -2702,7 +2175,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-dab9eb8721316f5c",
@@ -2720,7 +2193,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-e314f2beea5b98b5",
@@ -2738,7 +2211,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-e05ea902bac411c1",
@@ -2756,7 +2229,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-d17a16a92c427af7",
@@ -2774,7 +2247,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-7039563646d2a08c",
@@ -2792,7 +2265,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-b5bb3ef74c64016f",
@@ -2810,7 +2283,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-9f8dba1c4be0543f",
@@ -2828,7 +2301,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-13383e2908795ceb",
@@ -2846,7 +2319,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-222c5f1f48a7811a",
@@ -2864,7 +2337,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-fed9304ce636fd70",
@@ -2882,7 +2355,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-7dda1ee3ebe3337d",
@@ -2900,7 +2373,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-73f54a12bc87541c",
@@ -2918,7 +2391,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-d5861c5eae980acb",
@@ -2936,7 +2409,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-56d2262c04bf40b1",
@@ -2954,7 +2427,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-3a354858143bf5bf",
@@ -2972,7 +2445,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-3d432c8dbd69eefb",
@@ -2990,7 +2463,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-1d09296a1209f7ae",
@@ -3008,7 +2481,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-2278a7dbec8ed7cd",
@@ -3026,7 +2499,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.932Z"
   },
   {
     "id": "torobshop-audio-video-386045fed7109b6c",
@@ -3044,7 +2517,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-3b108c60419c6b3e",
@@ -3062,7 +2535,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-66634e26dfb49c04",
@@ -3080,7 +2553,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-bcf3455eedcf96e7",
@@ -3098,7 +2571,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-3dd1b99a47f6c6d1",
@@ -3116,7 +2589,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-bab25203513b93bb",
@@ -3134,7 +2607,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-40f557a46b915c21",
@@ -3152,7 +2625,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-fbd5e1832a592f6d",
@@ -3170,7 +2643,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-685fccacbb18ee43",
@@ -3188,7 +2661,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-1cb6df1aed563bee",
@@ -3206,7 +2679,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-9c9a87a898bad342",
@@ -3224,7 +2697,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-993ee35f4a561a10",
@@ -3242,7 +2715,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-37fd983abaa93a3b",
@@ -3260,7 +2733,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-cc5a74ea332cb871",
@@ -3278,7 +2751,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-5e97e30e4af5e35a",
@@ -3296,7 +2769,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-557954e4838db8ec",
@@ -3314,7 +2787,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-deb4652ab7b20c96",
@@ -3332,7 +2805,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-ac5e0f9a687acc9d",
@@ -3350,7 +2823,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-f5c373b20c89f3cf",
@@ -3368,7 +2841,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-174296fd490ce4c6",
@@ -3386,7 +2859,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-ca40f9691c169854",
@@ -3404,7 +2877,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-24ee5f250564a2b6",
@@ -3422,7 +2895,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-eb2d1bdae18ab641",
@@ -3440,7 +2913,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-9526bc50db1d2b71",
@@ -3458,7 +2931,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-17aea0c096f3fbb1",
@@ -3476,7 +2949,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-dab36535df580dd9",
@@ -3494,7 +2967,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-bb07ff83203ce817",
@@ -3512,7 +2985,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-23a08ed4a54c1bf3",
@@ -3530,7 +3003,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-86394f5b0d453ade",
@@ -3548,7 +3021,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-ec7446a90d887300",
@@ -3566,7 +3039,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-add12b5339d41d54",
@@ -3584,7 +3057,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-a936b9d4fccda9ec",
@@ -3602,7 +3075,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-f676e23d1f151190",
@@ -3620,7 +3093,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-3debd7458ec254ad",
@@ -3638,7 +3111,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-bf9b6308d5e6e4a3",
@@ -3656,7 +3129,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-bf0ff9604c787d7f",
@@ -3674,7 +3147,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-ffccfb4b61d564f3",
@@ -3692,7 +3165,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-e89541bdd38935d2",
@@ -3710,7 +3183,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-20506e6b258fcb0c",
@@ -3728,7 +3201,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-9f1357a1a5ec15c3",
@@ -3746,25 +3219,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
-  },
-  {
-    "id": "torobshop-audio-video-469010b14dce1518",
-    "productId": "torobshop-469010b14dce1518",
-    "name": "هدفون فیلیپس مدل TAE1126BK - دارای میکروفون - جک 3.5 میلی‌متری - مشکی",
-    "brand": "",
-    "model": "هدفون فیلیپس مدل TAE1126BK - دارای میکروفون - جک 3.5 میلی‌متری - مشکی",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%87%D8%AF%D9%81%D9%88%D9%86-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%85%D8%AF%D9%84-TAE1126BK-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C-%D9%85%DB%8C%DA%A9%D8%B1%D9%88%D9%81%D9%88%D9%86-%D8%AC%DA%A9-3-5-%D9%85%DB%8C%D9%84%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-b93b2b7b8a52ead7",
@@ -3782,7 +3237,25 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
+  },
+  {
+    "id": "torobshop-audio-video-469010b14dce1518",
+    "productId": "torobshop-469010b14dce1518",
+    "name": "هدفون فیلیپس مدل TAE1126BK - دارای میکروفون - جک 3.5 میلی‌متری - مشکی",
+    "brand": "",
+    "model": "هدفون فیلیپس مدل TAE1126BK - دارای میکروفون - جک 3.5 میلی‌متری - مشکی",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%87%D8%AF%D9%81%D9%88%D9%86-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%85%D8%AF%D9%84-TAE1126BK-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C-%D9%85%DB%8C%DA%A9%D8%B1%D9%88%D9%81%D9%88%D9%86-%D8%AC%DA%A9-3-5-%D9%85%DB%8C%D9%84%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-ec9957a5ab556a59",
@@ -3800,7 +3273,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-d622f60b84a25c29",
@@ -3818,7 +3291,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-7362b68fe582e1ef",
@@ -3836,7 +3309,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-8b4d268dc0b50dc9",
@@ -3854,7 +3327,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-8ad1b620c2984c64",
@@ -3872,7 +3345,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-2961f6c161810850",
@@ -3890,7 +3363,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-b59055b4a9ca5ed0",
@@ -3908,7 +3381,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-8cd92a01eb7c25f2",
@@ -3926,7 +3399,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-bc5ad78acdc13550",
@@ -3944,7 +3417,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-712138d0bed8d76a",
@@ -3962,7 +3435,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-d1db9fdb0a981eb7",
@@ -3980,7 +3453,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-13177f1a3461cbf8",
@@ -3998,7 +3471,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-2aa12aa20262b96c",
@@ -4016,7 +3489,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-f241bfdbdc958cdb",
@@ -4034,7 +3507,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-a0357d058917fff7",
@@ -4052,7 +3525,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-2734ee381987f71a",
@@ -4070,7 +3543,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-caf67fb53869dc8d",
@@ -4088,7 +3561,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-2e4aeaf94d879ff9",
@@ -4106,7 +3579,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.408Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-10055e541e3441a4",
@@ -4124,7 +3597,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-9b16b6ebae742a59",
@@ -4142,7 +3615,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-42a978739edad1b3",
@@ -4160,7 +3633,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-226a6dfcab93ffe2",
@@ -4178,7 +3651,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-f6139cf71fa544af",
@@ -4196,7 +3669,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-1b01f5a6fb5eb1c5",
@@ -4214,7 +3687,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-db75e7774c65ead5",
@@ -4232,7 +3705,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-1ac684a13e625548",
@@ -4250,7 +3723,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-5219a65546b1a882",
@@ -4268,7 +3741,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-231a8680a663a06f",
@@ -4286,7 +3759,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-1acb3967a4975e9e",
@@ -4304,7 +3777,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-7406803b18ab5cc6",
@@ -4322,7 +3795,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-176747b2a6b3c8bf",
@@ -4340,7 +3813,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-667b222bc82da779",
@@ -4358,7 +3831,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-34bb04f7987b2eb8",
@@ -4376,7 +3849,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-7400212af3648c0e",
@@ -4394,7 +3867,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-0a56e024ea7c3e6c",
@@ -4412,7 +3885,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-f2475d629ba82cb9",
@@ -4430,7 +3903,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-0ef7eb89998918af",
@@ -4448,7 +3921,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-1123da8edef7210f",
@@ -4466,7 +3939,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-28fa9f296d3edd2c",
@@ -4484,7 +3957,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-32430a6532934fe7",
@@ -4502,7 +3975,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-4fcaa05ae27e136c",
@@ -4520,7 +3993,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-93c18ce837ff5f57",
@@ -4538,7 +4011,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-c73bf4fc0db498be",
@@ -4556,7 +4029,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-76f3e4ef7a8810f3",
@@ -4574,7 +4047,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-8f566ccc32f52f97",
@@ -4592,7 +4065,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.933Z"
   },
   {
     "id": "torobshop-audio-video-2dee2c9f6fb222d1",
@@ -4610,7 +4083,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-05d539a087d0640e",
@@ -4628,7 +4101,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-a40b1cc8eb60dfd3",
@@ -4646,7 +4119,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-827984c7bc2a588b",
@@ -4664,7 +4137,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-b1ad0ea7d3ae35d7",
@@ -4682,7 +4155,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-01fd4211de27a0d5",
@@ -4700,7 +4173,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-4c20864969491062",
@@ -4718,7 +4191,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-6e8f969763fb12ec",
@@ -4736,7 +4209,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-611344efb1bd3888",
@@ -4754,7 +4227,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-c4ddc017f41906f6",
@@ -4772,7 +4245,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-90fcbe8687059a30",
@@ -4790,7 +4263,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-c0007aaa6ab91bb2",
@@ -4808,7 +4281,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-34386721a691d178",
@@ -4826,7 +4299,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-b8bd6a4d5ecca799",
@@ -4844,7 +4317,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-9c72d8fb3f6a2ba1",
@@ -4862,7 +4335,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-87cbcd550df2c8fa",
@@ -4880,7 +4353,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-bb3d87082eb1a040",
@@ -4898,7 +4371,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-af253d8db86172d9",
@@ -4916,7 +4389,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-faf54d1de5277c91",
@@ -4934,7 +4407,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-bed024ff9dfbc191",
@@ -4952,7 +4425,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-12108326787ffaf6",
@@ -4970,7 +4443,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-9706ad3cf0976481",
@@ -4988,7 +4461,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-a78de50e19375b85",
@@ -5006,7 +4479,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-b572c0c74ec7e1ee",
@@ -5024,7 +4497,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-387754e6b4491f58",
@@ -5042,7 +4515,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-39e57f782fd26013",
@@ -5060,7 +4533,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-1ed3ae617a915858",
@@ -5078,43 +4551,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
-  },
-  {
-    "id": "torobshop-audio-video-d62ad3ee5759fcbd",
-    "productId": "torobshop-d62ad3ee5759fcbd",
-    "name": "ماهیتابه درب دار فیسلر آلمان Fissler Original-Profi Collection (قطر 28 سانتی‌متر)، ماهیتابه بدون روکش + درب بلند القایی",
-    "brand": "",
-    "model": "ماهیتابه درب دار فیسلر آلمان Fissler Original-Profi Collection (قطر 28 سانتی‌متر)، ماهیتابه بدون روکش + درب بلند القایی",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%85%D8%AF%D9%84-Original-Profi-Collection-2-%D8%AA%DA%A9%D9%87-%D9%82%D8%B7%D8%B1-28-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%DA%A9%D8%B4-%D8%AF%D8%B1%D8%A8-%D8%A8%D9%84%D9%86%D8%AF-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
-  },
-  {
-    "id": "torobshop-audio-video-569f3d7e67640e5c",
-    "productId": "torobshop-569f3d7e67640e5c",
-    "name": "سرویس قابلمه سه پارچه زولینگ آلمان ZWILLING TrueFlow با درب شیشه‌ای",
-    "brand": "",
-    "model": "سرویس قابلمه سه پارچه زولینگ آلمان ZWILLING TrueFlow با درب شیشه‌ای",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%B3%D9%87-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D8%B2%D9%88%D9%84%DB%8C%D9%86%DA%AF-%D8%A2%D9%84%D9%85%D8%A7%D9%86-ZWILLING-TrueFlow-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-aed9f18e5d887270",
@@ -5132,7 +4569,43 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
+  },
+  {
+    "id": "torobshop-audio-video-d62ad3ee5759fcbd",
+    "productId": "torobshop-d62ad3ee5759fcbd",
+    "name": "ماهیتابه درب دار فیسلر آلمان Fissler Original-Profi Collection (قطر 28 سانتی‌متر)، ماهیتابه بدون روکش + درب بلند القایی",
+    "brand": "",
+    "model": "ماهیتابه درب دار فیسلر آلمان Fissler Original-Profi Collection (قطر 28 سانتی‌متر)، ماهیتابه بدون روکش + درب بلند القایی",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%85%D8%AF%D9%84-Original-Profi-Collection-2-%D8%AA%DA%A9%D9%87-%D9%82%D8%B7%D8%B1-28-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%DA%A9%D8%B4-%D8%AF%D8%B1%D8%A8-%D8%A8%D9%84%D9%86%D8%AF-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:39:23.934Z"
+  },
+  {
+    "id": "torobshop-audio-video-569f3d7e67640e5c",
+    "productId": "torobshop-569f3d7e67640e5c",
+    "name": "سرویس قابلمه سه پارچه زولینگ آلمان ZWILLING TrueFlow با درب شیشه‌ای",
+    "brand": "",
+    "model": "سرویس قابلمه سه پارچه زولینگ آلمان ZWILLING TrueFlow با درب شیشه‌ای",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%B3%D9%87-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D8%B2%D9%88%D9%84%DB%8C%D9%86%DA%AF-%D8%A2%D9%84%D9%85%D8%A7%D9%86-ZWILLING-TrueFlow-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-aa03a6c561a55d60",
@@ -5150,7 +4623,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-ad6f3f422d15a766",
@@ -5168,7 +4641,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-0cfaef0e68debb8e",
@@ -5186,7 +4659,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-dfa4bdc99016ca7e",
@@ -5204,7 +4677,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-0ff8a8fc1fbd561e",
@@ -5222,7 +4695,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-921dfbcc90d038a0",
@@ -5240,7 +4713,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-6e397f6c85f56e0e",
@@ -5258,7 +4731,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-9318a28bbba0fe53",
@@ -5276,7 +4749,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-fa434e6aa57c4be7",
@@ -5294,7 +4767,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-c9e212e51e3633db",
@@ -5312,7 +4785,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-4b7348b541c036cd",
@@ -5330,7 +4803,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-695cd4ce1cd48f20",
@@ -5348,7 +4821,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-abdc2adccad9c33d",
@@ -5366,7 +4839,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-7464bedef3ecb51e",
@@ -5384,7 +4857,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-51009350b9f240d2",
@@ -5402,7 +4875,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-924e8879fd31e680",
@@ -5420,7 +4893,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-ae3ba973ea2911ee",
@@ -5438,7 +4911,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-45c64009916028ba",
@@ -5456,7 +4929,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-15def7d563b1e542",
@@ -5474,7 +4947,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-835b00c0d36d8e10",
@@ -5492,7 +4965,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-35f3e181350a9721",
@@ -5510,7 +4983,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-da199e6690f1c782",
@@ -5528,7 +5001,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-843617a20d001e4c",
@@ -5546,7 +5019,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-37de96dd1d4a33c3",
@@ -5564,7 +5037,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-ee166c5666efcec5",
@@ -5582,7 +5055,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-9311f0ec7504f24b",
@@ -5600,7 +5073,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-e2467d5cbf85ce81",
@@ -5618,7 +5091,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-67d9add46426dfe8",
@@ -5636,7 +5109,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-3877183810368792",
@@ -5654,7 +5127,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-fc88260817f3414e",
@@ -5672,7 +5145,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-cb9e4b877badae34",
@@ -5690,7 +5163,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-d68b8e3ac997acb1",
@@ -5708,7 +5181,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-bbb69afb3e332a2c",
@@ -5726,7 +5199,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-f8b7784f8ba04a47",
@@ -5744,7 +5217,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-e4088b7a2b6ea10b",
@@ -5762,7 +5235,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-5cab57205d377e1f",
@@ -5780,7 +5253,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-30d122f629f89166",
@@ -5798,7 +5271,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-ef26e366fa305ced",
@@ -5816,43 +5289,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
-  },
-  {
-    "id": "torobshop-audio-video-05c540b60ea3624b",
-    "productId": "torobshop-05c540b60ea3624b",
-    "name": "ماهیتابه استیل ضد زنگ فیسلر سانفرانسیسکو، 16 سانتی‌متر (1.2 لیتر) با درب شیشه‌ای - استیل ضد زنگ 18/10، پایه سوپرترمیک، پیمانه، لبه ریختن، سازگار با القایی",
-    "brand": "",
-    "model": "ماهیتابه استیل ضد زنگ فیسلر سانفرانسیسکو، 16 سانتی‌متر (1.2 لیتر) با درب شیشه‌ای - استیل ضد زنگ 18/10، پایه سوپرترمیک، پیمانه، لبه ریختن، سازگار با القایی",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%B3%D8%A7%D9%86%D9%81%D8%B1%D8%A7%D9%86%D8%B3%DB%8C%D8%B3%DA%A9%D9%88-16-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-1-2-%D9%84%DB%8C%D8%AA%D8%B1-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-18-10-%D9%BE%D8%A7%DB%8C%D9%87-%D8%B3%D9%88%D9%BE%D8%B1%D8%AA%D8%B1%D9%85%DB%8C%DA%A9-%D9%BE%DB%8C%D9%85%D8%A7%D9%86%D9%87-%D9%84%D8%A8%D9%87-%D8%B1%DB%8C%D8%AE%D8%AA%D9%86-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
-  },
-  {
-    "id": "torobshop-audio-video-e0d95c7bfcafe827",
-    "productId": "torobshop-e0d95c7bfcafe827",
-    "name": "سرویس قابلمه 5 پارچه فیسلر آلمان Fissler Original Collection 5-teilig با درب فلزی (3 قابلمه، 1 قابلمه کوچک، 1 تابه کوچک - بدون درب) القایی",
-    "brand": "",
-    "model": "سرویس قابلمه 5 پارچه فیسلر آلمان Fissler Original Collection 5-teilig با درب فلزی (3 قابلمه، 1 قابلمه کوچک، 1 تابه کوچک - بدون درب) القایی",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-5-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-Fissler-Original-Collection-5-teilig-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%81%D9%84%D8%B2%DB%8C-3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-1-%D8%AA%D8%A7%D8%A8%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%B1%D8%A8-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-4415e2cd944c4e59",
@@ -5870,7 +5307,43 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
+  },
+  {
+    "id": "torobshop-audio-video-05c540b60ea3624b",
+    "productId": "torobshop-05c540b60ea3624b",
+    "name": "ماهیتابه استیل ضد زنگ فیسلر سانفرانسیسکو، 16 سانتی‌متر (1.2 لیتر) با درب شیشه‌ای - استیل ضد زنگ 18/10، پایه سوپرترمیک، پیمانه، لبه ریختن، سازگار با القایی",
+    "brand": "",
+    "model": "ماهیتابه استیل ضد زنگ فیسلر سانفرانسیسکو، 16 سانتی‌متر (1.2 لیتر) با درب شیشه‌ای - استیل ضد زنگ 18/10، پایه سوپرترمیک، پیمانه، لبه ریختن، سازگار با القایی",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%B3%D8%A7%D9%86%D9%81%D8%B1%D8%A7%D9%86%D8%B3%DB%8C%D8%B3%DA%A9%D9%88-16-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-1-2-%D9%84%DB%8C%D8%AA%D8%B1-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-18-10-%D9%BE%D8%A7%DB%8C%D9%87-%D8%B3%D9%88%D9%BE%D8%B1%D8%AA%D8%B1%D9%85%DB%8C%DA%A9-%D9%BE%DB%8C%D9%85%D8%A7%D9%86%D9%87-%D9%84%D8%A8%D9%87-%D8%B1%DB%8C%D8%AE%D8%AA%D9%86-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:39:23.934Z"
+  },
+  {
+    "id": "torobshop-audio-video-e0d95c7bfcafe827",
+    "productId": "torobshop-e0d95c7bfcafe827",
+    "name": "سرویس قابلمه 5 پارچه فیسلر آلمان Fissler Original Collection 5-teilig با درب فلزی (3 قابلمه، 1 قابلمه کوچک، 1 تابه کوچک - بدون درب) القایی",
+    "brand": "",
+    "model": "سرویس قابلمه 5 پارچه فیسلر آلمان Fissler Original Collection 5-teilig با درب فلزی (3 قابلمه، 1 قابلمه کوچک، 1 تابه کوچک - بدون درب) القایی",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-5-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-Fissler-Original-Collection-5-teilig-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%81%D9%84%D8%B2%DB%8C-3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-1-%D8%AA%D8%A7%D8%A8%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%B1%D8%A8-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-d9fbeecaba31c602",
@@ -5888,7 +5361,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-3e03d59443676707",
@@ -5906,7 +5379,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-c8ae91ddddbffeeb",
@@ -5924,7 +5397,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-07103c8f0e3ce377",
@@ -5942,7 +5415,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-d397df756b9f1338",
@@ -5960,7 +5433,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-c4580b999e737ac3",
@@ -5978,7 +5451,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-0674abec1e1ff3bb",
@@ -5996,7 +5469,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-b0b661c9d6dfca29",
@@ -6014,79 +5487,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
-  },
-  {
-    "id": "torobshop-audio-video-d39a2f5ac6cd9a7f",
-    "productId": "torobshop-d39a2f5ac6cd9a7f",
-    "name": "سرویس قابلمه 3 پارچه فیسلر آلمان Fissler Original-Profi Collection القایی",
-    "brand": "",
-    "model": "سرویس قابلمه 3 پارچه فیسلر آلمان Fissler Original-Profi Collection القایی",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D8%A7%D8%B5%D9%84%DB%8C-%D8%AD%D8%B1%D9%81%D9%87-%D8%A7%DB%8C-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%DB%B3-%D8%AA%DA%A9%D9%87-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%81%D9%84%D8%B2%DB%8C-%DB%B1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%DB%B1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%DB%B3-%D8%AA%DA%A9%D9%87-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
-  },
-  {
-    "id": "torobshop-audio-video-280503308950a13c",
-    "productId": "torobshop-280503308950a13c",
-    "name": "کتری ZWILLING، ۱.۲ لیتر، ۱۵۵۰-۱۸۵۰ وات، استیل ضد زنگ/پلاستیک، نقره‌ای/مشکی",
-    "brand": "",
-    "model": "کتری ZWILLING، ۱.۲ لیتر، ۱۵۵۰-۱۸۵۰ وات، استیل ضد زنگ/پلاستیک، نقره‌ای/مشکی",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%DA%A9%D8%AA%D8%B1%DB%8C-ZWILLING-%DB%B1-%DB%B2-%D9%84%DB%8C%D8%AA%D8%B1-%DB%B1%DB%B5%DB%B5%DB%B0-%DB%B1%DB%B8%DB%B5%DB%B0-%D9%88%D8%A7%D8%AA-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
-  },
-  {
-    "id": "torobshop-audio-video-aa2dfdb88af5c975",
-    "productId": "torobshop-aa2dfdb88af5c975",
-    "name": "ماهیتابه ZWILLING جوی پلاس 24 سانتی متری",
-    "brand": "",
-    "model": "ماهیتابه ZWILLING جوی پلاس 24 سانتی متری",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-ZWILLING-%D8%AC%D9%88%DB%8C-%D9%BE%D9%84%D8%A7%D8%B3-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
-  },
-  {
-    "id": "torobshop-audio-video-9d8fbc8c7f0b6991",
-    "productId": "torobshop-9d8fbc8c7f0b6991",
-    "name": "قیچی خیاطی کلاسیک زولینگ آلمان ZWILLING Superfection، قیچی پارچه، 21 سانتی متر، استیل ضد زنگ مخصوص، ساخت آلمان، مشکی",
-    "brand": "",
-    "model": "قیچی خیاطی کلاسیک زولینگ آلمان ZWILLING Superfection، قیچی پارچه، 21 سانتی متر، استیل ضد زنگ مخصوص، ساخت آلمان، مشکی",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%82%DB%8C%DA%86%DB%8C-%D8%AE%DB%8C%D8%A7%D8%B7%DB%8C-%DA%A9%D9%84%D8%A7%D8%B3%DB%8C%DA%A9-ZWILLING-Superfection-%D9%82%DB%8C%DA%86%DB%8C-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-21-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-40f09e3a04b68146",
@@ -6104,7 +5505,79 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
+  },
+  {
+    "id": "torobshop-audio-video-d39a2f5ac6cd9a7f",
+    "productId": "torobshop-d39a2f5ac6cd9a7f",
+    "name": "سرویس قابلمه 3 پارچه فیسلر آلمان Fissler Original-Profi Collection القایی",
+    "brand": "",
+    "model": "سرویس قابلمه 3 پارچه فیسلر آلمان Fissler Original-Profi Collection القایی",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D8%A7%D8%B5%D9%84%DB%8C-%D8%AD%D8%B1%D9%81%D9%87-%D8%A7%DB%8C-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%DB%B3-%D8%AA%DA%A9%D9%87-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%81%D9%84%D8%B2%DB%8C-%DB%B1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%DB%B1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%DB%B3-%D8%AA%DA%A9%D9%87-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:39:23.934Z"
+  },
+  {
+    "id": "torobshop-audio-video-280503308950a13c",
+    "productId": "torobshop-280503308950a13c",
+    "name": "کتری ZWILLING، ۱.۲ لیتر، ۱۵۵۰-۱۸۵۰ وات، استیل ضد زنگ/پلاستیک، نقره‌ای/مشکی",
+    "brand": "",
+    "model": "کتری ZWILLING، ۱.۲ لیتر، ۱۵۵۰-۱۸۵۰ وات، استیل ضد زنگ/پلاستیک، نقره‌ای/مشکی",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%DA%A9%D8%AA%D8%B1%DB%8C-ZWILLING-%DB%B1-%DB%B2-%D9%84%DB%8C%D8%AA%D8%B1-%DB%B1%DB%B5%DB%B5%DB%B0-%DB%B1%DB%B8%DB%B5%DB%B0-%D9%88%D8%A7%D8%AA-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:39:23.934Z"
+  },
+  {
+    "id": "torobshop-audio-video-aa2dfdb88af5c975",
+    "productId": "torobshop-aa2dfdb88af5c975",
+    "name": "ماهیتابه ZWILLING جوی پلاس 24 سانتی متری",
+    "brand": "",
+    "model": "ماهیتابه ZWILLING جوی پلاس 24 سانتی متری",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-ZWILLING-%D8%AC%D9%88%DB%8C-%D9%BE%D9%84%D8%A7%D8%B3-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:39:23.934Z"
+  },
+  {
+    "id": "torobshop-audio-video-9d8fbc8c7f0b6991",
+    "productId": "torobshop-9d8fbc8c7f0b6991",
+    "name": "قیچی خیاطی کلاسیک زولینگ آلمان ZWILLING Superfection، قیچی پارچه، 21 سانتی متر، استیل ضد زنگ مخصوص، ساخت آلمان، مشکی",
+    "brand": "",
+    "model": "قیچی خیاطی کلاسیک زولینگ آلمان ZWILLING Superfection، قیچی پارچه، 21 سانتی متر، استیل ضد زنگ مخصوص، ساخت آلمان، مشکی",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%82%DB%8C%DA%86%DB%8C-%D8%AE%DB%8C%D8%A7%D8%B7%DB%8C-%DA%A9%D9%84%D8%A7%D8%B3%DB%8C%DA%A9-ZWILLING-Superfection-%D9%82%DB%8C%DA%86%DB%8C-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-21-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-0e4d04ef83a810db",
@@ -6122,7 +5595,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-00bf5776f339768d",
@@ -6140,7 +5613,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-9087741222a89b21",
@@ -6158,7 +5631,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-eb3d93fc719b9727",
@@ -6176,7 +5649,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-1fd1146f6f750aa9",
@@ -6194,7 +5667,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-1e0602d76b0e257a",
@@ -6212,7 +5685,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-412e480ec7918302",
@@ -6230,61 +5703,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
-  },
-  {
-    "id": "torobshop-audio-video-97e8accc87d0f8bf",
-    "productId": "torobshop-97e8accc87d0f8bf",
-    "name": "ماهیتابه دو دسته درب دار فیسلر آلمان Fissler Original-Profi Collection (قطر ۲۸ سانتی‌متر، ۳ لیتر) – کباب‌پز استیل با درب بلند",
-    "brand": "",
-    "model": "ماهیتابه دو دسته درب دار فیسلر آلمان Fissler Original-Profi Collection (قطر ۲۸ سانتی‌متر، ۳ لیتر) – کباب‌پز استیل با درب بلند",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%85%D8%AF%D9%84-Original-Profi-Collection-%D9%82%D8%B7%D8%B1-%DB%B2%DB%B8-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%DB%B3-%D9%84%DB%8C%D8%AA%D8%B1-%DA%A9%D8%A8%D8%A7%D8%A8-%D9%BE%D8%B2-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%A8%D9%84%D9%86%D8%AF-%D8%A8%D8%AF%D9%88%D9%86-%D9%BE%D9%88%D8%B4%D8%B4-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C-%D8%AD%D8%B1%D8%A7%D8%B1%D8%AA%DB%8C-%DB%B2%DB%B8-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%85%D8%AF%D9%84-%D8%AC%D8%AF%DB%8C%D8%AF",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
-  },
-  {
-    "id": "torobshop-audio-video-d99c3943bcec9400",
-    "productId": "torobshop-d99c3943bcec9400",
-    "name": "چاقوی خود تیز شونده چهار ستاره ZWILLING با مجموعه چاقوی 7 تکه، استیل ضد زنگ، ساخت آلمان، مشکی چهار ستاره مشکی",
-    "brand": "",
-    "model": "چاقوی خود تیز شونده چهار ستاره ZWILLING با مجموعه چاقوی 7 تکه، استیل ضد زنگ، ساخت آلمان، مشکی چهار ستاره مشکی",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%AE%D9%88%D8%AF-%D8%AA%DB%8C%D8%B2-%D8%B4%D9%88%D9%86%D8%AF%D9%87-%DA%86%D9%87%D8%A7%D8%B1-%D8%B3%D8%AA%D8%A7%D8%B1%D9%87-ZWILLING-%D8%A8%D8%A7-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%DA%86%D8%A7%D9%82%D9%88%DB%8C-7-%D8%AA%DA%A9%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%B4%DA%A9%DB%8C-%DA%86%D9%87%D8%A7%D8%B1-%D8%B3%D8%AA%D8%A7%D8%B1%D9%87-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
-  },
-  {
-    "id": "torobshop-audio-video-56cac7936a06e3f1",
-    "productId": "torobshop-56cac7936a06e3f1",
-    "name": "اتو بخار مخزن دار تفال فرانسه مدل TEF SV8027 ws/beige",
-    "brand": "",
-    "model": "اتو بخار مخزن دار تفال فرانسه مدل TEF SV8027 ws/beige",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%A8%D8%AE%D8%A7%D8%B1%D8%B4%D9%88%DB%8C-%D8%AA%D9%81%D8%A7%D9%84-%D9%85%D8%AF%D9%84-TEF-SV8027-ws-beige",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-2be1976c83ad17a1",
@@ -6302,7 +5721,61 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
+  },
+  {
+    "id": "torobshop-audio-video-97e8accc87d0f8bf",
+    "productId": "torobshop-97e8accc87d0f8bf",
+    "name": "ماهیتابه دو دسته درب دار فیسلر آلمان Fissler Original-Profi Collection (قطر ۲۸ سانتی‌متر، ۳ لیتر) – کباب‌پز استیل با درب بلند",
+    "brand": "",
+    "model": "ماهیتابه دو دسته درب دار فیسلر آلمان Fissler Original-Profi Collection (قطر ۲۸ سانتی‌متر، ۳ لیتر) – کباب‌پز استیل با درب بلند",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%85%D8%AF%D9%84-Original-Profi-Collection-%D9%82%D8%B7%D8%B1-%DB%B2%DB%B8-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%DB%B3-%D9%84%DB%8C%D8%AA%D8%B1-%DA%A9%D8%A8%D8%A7%D8%A8-%D9%BE%D8%B2-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%A8%D9%84%D9%86%D8%AF-%D8%A8%D8%AF%D9%88%D9%86-%D9%BE%D9%88%D8%B4%D8%B4-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C-%D8%AD%D8%B1%D8%A7%D8%B1%D8%AA%DB%8C-%DB%B2%DB%B8-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%85%D8%AF%D9%84-%D8%AC%D8%AF%DB%8C%D8%AF",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:39:23.934Z"
+  },
+  {
+    "id": "torobshop-audio-video-d99c3943bcec9400",
+    "productId": "torobshop-d99c3943bcec9400",
+    "name": "چاقوی خود تیز شونده چهار ستاره ZWILLING با مجموعه چاقوی 7 تکه، استیل ضد زنگ، ساخت آلمان، مشکی چهار ستاره مشکی",
+    "brand": "",
+    "model": "چاقوی خود تیز شونده چهار ستاره ZWILLING با مجموعه چاقوی 7 تکه، استیل ضد زنگ، ساخت آلمان، مشکی چهار ستاره مشکی",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%AE%D9%88%D8%AF-%D8%AA%DB%8C%D8%B2-%D8%B4%D9%88%D9%86%D8%AF%D9%87-%DA%86%D9%87%D8%A7%D8%B1-%D8%B3%D8%AA%D8%A7%D8%B1%D9%87-ZWILLING-%D8%A8%D8%A7-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%DA%86%D8%A7%D9%82%D9%88%DB%8C-7-%D8%AA%DA%A9%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%B4%DA%A9%DB%8C-%DA%86%D9%87%D8%A7%D8%B1-%D8%B3%D8%AA%D8%A7%D8%B1%D9%87-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:39:23.934Z"
+  },
+  {
+    "id": "torobshop-audio-video-56cac7936a06e3f1",
+    "productId": "torobshop-56cac7936a06e3f1",
+    "name": "اتو بخار مخزن دار تفال فرانسه مدل TEF SV8027 ws/beige",
+    "brand": "",
+    "model": "اتو بخار مخزن دار تفال فرانسه مدل TEF SV8027 ws/beige",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A8%D8%AE%D8%A7%D8%B1%D8%B4%D9%88%DB%8C-%D8%AA%D9%81%D8%A7%D9%84-%D9%85%D8%AF%D9%84-TEF-SV8027-ws-beige",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-ace9b88e93544c94",
@@ -6320,7 +5793,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-4dd091835a22ff69",
@@ -6338,7 +5811,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-e02164e6665f61ef",
@@ -6356,7 +5829,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-3644b82267dd5165",
@@ -6374,7 +5847,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-8a5c15c91c1a9329",
@@ -6392,7 +5865,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-ffbee63b50d31684",
@@ -6410,7 +5883,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-1dfcfd9dee587f60",
@@ -6428,7 +5901,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-ef0157b54bf022f6",
@@ -6446,7 +5919,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-b131b88e24438d96",
@@ -6464,7 +5937,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-f4ac0f14bd21c6cf",
@@ -6482,7 +5955,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-2f0597d05addbba1",
@@ -6500,7 +5973,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-a218f27039422c46",
@@ -6518,7 +5991,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-22200afc1cbeec02",
@@ -6536,7 +6009,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-595f1b954d0611bd",
@@ -6554,7 +6027,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-f26fbc6e8dbee708",
@@ -6572,7 +6045,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-fda1fe8cf4de5c5d",
@@ -6590,7 +6063,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-3d13a34700e027c0",
@@ -6608,7 +6081,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-f06d188d530004ad",
@@ -6626,7 +6099,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-4bffdb79ac43fe15",
@@ -6644,7 +6117,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-f4e7843bb5d4eb60",
@@ -6662,7 +6135,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-fbbfc333137fef0f",
@@ -6680,7 +6153,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.934Z"
   },
   {
     "id": "torobshop-audio-video-19319bed3e2f6069",
@@ -6698,7 +6171,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-736fe4049676a61e",
@@ -6716,7 +6189,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-a02082729540664c",
@@ -6734,7 +6207,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-f091c9e920c8e1fb",
@@ -6752,7 +6225,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-4b3421328c1ce066",
@@ -6770,7 +6243,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-be60227182487367",
@@ -6788,7 +6261,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-98b213756a0f63d3",
@@ -6806,7 +6279,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-f596668a95c6181a",
@@ -6824,7 +6297,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-d3f802410104b943",
@@ -6842,7 +6315,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.409Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-0f347f93a4676672",
@@ -6860,7 +6333,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-cb5f45612fc319e4",
@@ -6878,7 +6351,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-a447d48449c2d499",
@@ -6896,7 +6369,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-71ebfae235e91ed5",
@@ -6914,7 +6387,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-51edff8c55bfb262",
@@ -6932,7 +6405,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-f99dae95f9641652",
@@ -6950,7 +6423,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-6b776fc230756800",
@@ -6968,7 +6441,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-6bc05672d0e139cd",
@@ -6986,7 +6459,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-f2622dc414824191",
@@ -7004,7 +6477,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-640c8324f81a46bb",
@@ -7022,7 +6495,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-43b61e0733cc7171",
@@ -7040,7 +6513,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-c54b5b958054a1a2",
@@ -7058,7 +6531,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-7f66ba1a4f7ddbfb",
@@ -7076,7 +6549,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-7c82cddc2d9efd1c",
@@ -7094,7 +6567,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-af7462ce98ee2999",
@@ -7112,7 +6585,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-f699a00edc06f489",
@@ -7130,43 +6603,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
-  },
-  {
-    "id": "torobshop-audio-video-e4ec7bd10ffa8b50",
-    "productId": "torobshop-e4ec7bd10ffa8b50",
-    "name": "لیزر بدن بانوان رفع موهای زائد فیلیپس هلند Philips BRI950/02 برای داشتن پوستی ابریشمی و صاف تا 2 سال",
-    "brand": "",
-    "model": "لیزر بدن بانوان رفع موهای زائد فیلیپس هلند Philips BRI950/02 برای داشتن پوستی ابریشمی و صاف تا 2 سال",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%DB%8C-Philips-Lumea-IPL-9900-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-IPL-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AF%D8%A7%D8%B4%D8%AA%D9%86-%D9%BE%D9%88%D8%B3%D8%AA%DB%8C-%D8%A7%D8%A8%D8%B1%DB%8C%D8%B4%D9%85%DB%8C-%D9%88-%D8%B5%D8%A7%D9%81-%D8%AA%D8%A7-2-%D8%B3%D8%A7%D9%84-%D8%A8%D8%A7-2-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A8%D8%AF%D9%86-%D9%88-%D8%B5%D9%88%D8%B1%D8%AA-%D8%A8%D8%AF%D9%88%D9%86-%D8%B3%DB%8C%D9%85-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D9%84%DB%8C%D8%B2%D8%B1-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-BRI950-02",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
-  },
-  {
-    "id": "torobshop-audio-video-f6c6e72a28882975",
-    "productId": "torobshop-f6c6e72a28882975",
-    "name": "دستگاه رفع موهای زائد Braun Smart IPL Silk·expert Pro 5 — لیزر موهای زائد دائمی حرفه‌ای برای استفاده در منزل، طراحی شده در آلمان — شامل کیف، تیغ ونوس، 2 قطعه جانبی — PL5234، سفید/نقره‌ای",
-    "brand": "",
-    "model": "دستگاه رفع موهای زائد Braun Smart IPL Silk·expert Pro 5 — لیزر موهای زائد دائمی حرفه‌ای برای استفاده در منزل، طراحی شده در آلمان — شامل کیف، تیغ ونوس، 2 قطعه جانبی — PL5234، سفید/نقره‌ای",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Braun-Smart-IPL-Silk-expert-Pro-5-%D9%84%DB%8C%D8%B2%D8%B1-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D8%AD%D8%B1%D9%81%D9%87-%D8%A7%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%85%D9%86%D8%B2%D9%84-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B4%D8%AF%D9%87-%D8%AF%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%B4%D8%A7%D9%85%D9%84-%DA%A9%DB%8C%D9%81-%D8%AA%DB%8C%D8%BA-%D9%88%D9%86%D9%88%D8%B3-2-%D9%82%D8%B7%D8%B9%D9%87-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-PL5234-%D8%B3%D9%81%DB%8C%D8%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-a942a79dda5b87df",
@@ -7184,7 +6621,43 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
+  },
+  {
+    "id": "torobshop-audio-video-e4ec7bd10ffa8b50",
+    "productId": "torobshop-e4ec7bd10ffa8b50",
+    "name": "لیزر بدن بانوان رفع موهای زائد فیلیپس هلند Philips BRI950/02 برای داشتن پوستی ابریشمی و صاف تا 2 سال",
+    "brand": "",
+    "model": "لیزر بدن بانوان رفع موهای زائد فیلیپس هلند Philips BRI950/02 برای داشتن پوستی ابریشمی و صاف تا 2 سال",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%DB%8C-Philips-Lumea-IPL-9900-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-IPL-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AF%D8%A7%D8%B4%D8%AA%D9%86-%D9%BE%D9%88%D8%B3%D8%AA%DB%8C-%D8%A7%D8%A8%D8%B1%DB%8C%D8%B4%D9%85%DB%8C-%D9%88-%D8%B5%D8%A7%D9%81-%D8%AA%D8%A7-2-%D8%B3%D8%A7%D9%84-%D8%A8%D8%A7-2-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A8%D8%AF%D9%86-%D9%88-%D8%B5%D9%88%D8%B1%D8%AA-%D8%A8%D8%AF%D9%88%D9%86-%D8%B3%DB%8C%D9%85-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D9%84%DB%8C%D8%B2%D8%B1-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-BRI950-02",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:39:23.935Z"
+  },
+  {
+    "id": "torobshop-audio-video-f6c6e72a28882975",
+    "productId": "torobshop-f6c6e72a28882975",
+    "name": "دستگاه رفع موهای زائد Braun Smart IPL Silk·expert Pro 5 — لیزر موهای زائد دائمی حرفه‌ای برای استفاده در منزل، طراحی شده در آلمان — شامل کیف، تیغ ونوس، 2 قطعه جانبی — PL5234، سفید/نقره‌ای",
+    "brand": "",
+    "model": "دستگاه رفع موهای زائد Braun Smart IPL Silk·expert Pro 5 — لیزر موهای زائد دائمی حرفه‌ای برای استفاده در منزل، طراحی شده در آلمان — شامل کیف، تیغ ونوس، 2 قطعه جانبی — PL5234، سفید/نقره‌ای",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Braun-Smart-IPL-Silk-expert-Pro-5-%D9%84%DB%8C%D8%B2%D8%B1-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D8%AD%D8%B1%D9%81%D9%87-%D8%A7%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%85%D9%86%D8%B2%D9%84-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B4%D8%AF%D9%87-%D8%AF%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%B4%D8%A7%D9%85%D9%84-%DA%A9%DB%8C%D9%81-%D8%AA%DB%8C%D8%BA-%D9%88%D9%86%D9%88%D8%B3-2-%D9%82%D8%B7%D8%B9%D9%87-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-PL5234-%D8%B3%D9%81%DB%8C%D8%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-5bc21e4edaa526cc",
@@ -7202,7 +6675,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-7bbb1f19505b28fd",
@@ -7220,7 +6693,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-a59cff30443c154a",
@@ -7238,7 +6711,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-45d6aa9c3fd53ad4",
@@ -7256,7 +6729,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-1abb58c93aa4d049",
@@ -7274,7 +6747,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-27109e9fc58673fd",
@@ -7292,7 +6765,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-c876f51b5b5d7dae",
@@ -7310,7 +6783,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-400b05dca029ee01",
@@ -7328,7 +6801,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-9d62a66000d436e1",
@@ -7346,7 +6819,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-d6551c8766b38613",
@@ -7364,7 +6837,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-766b0f80e67074f9",
@@ -7382,25 +6855,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
-  },
-  {
-    "id": "torobshop-audio-video-6c0960e9008fddf6",
-    "productId": "torobshop-6c0960e9008fddf6",
-    "name": "دستگاه رفع موهای زائد Philips Lumea Advanced IPL، مدل BRI921/00، با ۲ سری برای بدن، صورت و ۱ ماشین اصلاح دقیق - سیمی",
-    "brand": "",
-    "model": "دستگاه رفع موهای زائد Philips Lumea Advanced IPL، مدل BRI921/00، با ۲ سری برای بدن، صورت و ۱ ماشین اصلاح دقیق - سیمی",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Philips-Lumea-Advanced-IPL-%D9%85%D8%AF%D9%84-BRI921-00-%D8%A8%D8%A7-%DB%B2-%D8%B3%D8%B1%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A8%D8%AF%D9%86-%D8%B5%D9%88%D8%B1%D8%AA-%D9%88-%DB%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%AF%D9%82%DB%8C%D9%82-%D8%B3%DB%8C%D9%85%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-967849182031e292",
@@ -7418,7 +6873,25 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
+  },
+  {
+    "id": "torobshop-audio-video-6c0960e9008fddf6",
+    "productId": "torobshop-6c0960e9008fddf6",
+    "name": "دستگاه رفع موهای زائد Philips Lumea Advanced IPL، مدل BRI921/00، با ۲ سری برای بدن، صورت و ۱ ماشین اصلاح دقیق - سیمی",
+    "brand": "",
+    "model": "دستگاه رفع موهای زائد Philips Lumea Advanced IPL، مدل BRI921/00، با ۲ سری برای بدن، صورت و ۱ ماشین اصلاح دقیق - سیمی",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Philips-Lumea-Advanced-IPL-%D9%85%D8%AF%D9%84-BRI921-00-%D8%A8%D8%A7-%DB%B2-%D8%B3%D8%B1%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A8%D8%AF%D9%86-%D8%B5%D9%88%D8%B1%D8%AA-%D9%88-%DB%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%AF%D9%82%DB%8C%D9%82-%D8%B3%DB%8C%D9%85%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-074febbf09bd3065",
@@ -7436,7 +6909,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-508a955227952a9d",
@@ -7454,7 +6927,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-dc3a8d1c6feb961b",
@@ -7472,7 +6945,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-5e70d562a3ef7192",
@@ -7490,7 +6963,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-2cb3b869608c8a13",
@@ -7508,7 +6981,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-6e4a2eb26d23a745",
@@ -7526,7 +6999,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-52384f9bcf5e57ca",
@@ -7544,7 +7017,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-2182240d0b4b05fe",
@@ -7562,7 +7035,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-6ba05ec79330884d",
@@ -7580,7 +7053,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-8b93c7ea550544bf",
@@ -7598,7 +7071,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-b6d1e42e39dc67ab",
@@ -7616,7 +7089,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-7c140bba2434e29a",
@@ -7634,7 +7107,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-733ef1e66d9b337b",
@@ -7652,7 +7125,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-e93d0f8dd3711a93",
@@ -7670,7 +7143,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-f0ab07848df05c09",
@@ -7688,7 +7161,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-e364f422cc177d5d",
@@ -7706,7 +7179,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-9195692751acb6cb",
@@ -7724,7 +7197,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-80504a6da4da0683",
@@ -7742,7 +7215,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-b6f7b97e0a41fcce",
@@ -7760,7 +7233,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-391c9855ce3adbee",
@@ -7778,7 +7251,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-7f7cef16b95ceef4",
@@ -7796,7 +7269,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-333eed5c812fb391",
@@ -7814,7 +7287,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-d5e3206967150e5a",
@@ -7832,7 +7305,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-f7e7ecdbe9c782b9",
@@ -7850,7 +7323,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-fb66328b02aeada9",
@@ -7868,7 +7341,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-4b1136653b8c3865",
@@ -7886,7 +7359,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-bff623028ca50588",
@@ -7904,7 +7377,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-1abc4d3d93984fc9",
@@ -7922,7 +7395,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-99dbc61e2d2488d7",
@@ -7940,7 +7413,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-ec0c6101e09fd316",
@@ -7958,7 +7431,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-45f8a3eeff0791c7",
@@ -7976,43 +7449,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
-  },
-  {
-    "id": "torobshop-audio-video-3fe480d61f801988",
-    "productId": "torobshop-3fe480d61f801988",
-    "name": "اپیلاتور زنانه براون آلمان Braun Silk·épil 9 SkinSpa، مجموعه همه کاره، سر چرخان، رفع موهای زائد خشک و مرطوب، ضد آب، شامل برس لایه بردار، پد ماساژ، تیغ، ماشین اصلاح، ماشین اصلاح صورت، 9-381، نقره ای",
-    "brand": "",
-    "model": "اپیلاتور زنانه براون آلمان Braun Silk·épil 9 SkinSpa، مجموعه همه کاره، سر چرخان، رفع موهای زائد خشک و مرطوب، ضد آب، شامل برس لایه بردار، پد ماساژ، تیغ، ماشین اصلاح، ماشین اصلاح صورت، 9-381، نقره ای",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-Braun-Silk-pil-9-SkinSpa-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D9%87%D9%85%D9%87-%DA%A9%D8%A7%D8%B1%D9%87-%D8%B3%D8%B1-%DA%86%D8%B1%D8%AE%D8%A7%D9%86-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AE%D8%B4%DA%A9-%D9%88-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D8%B6%D8%AF-%D8%A2%D8%A8-%D8%B4%D8%A7%D9%85%D9%84-%D8%A8%D8%B1%D8%B3-%D9%84%D8%A7%DB%8C%D9%87-%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1-%D9%BE%D8%AF-%D9%85%D8%A7%D8%B3%D8%A7%DA%98-%D8%AA%DB%8C%D8%BA-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%B5%D9%88%D8%B1%D8%AA-9-381-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
-  },
-  {
-    "id": "torobshop-audio-video-ef59c7447c918481",
-    "productId": "torobshop-ef59c7447c918481",
-    "name": "اپیلاتور زنانه براون آلمان Braun Silk·épil 9 SkinSpa، مجموعه همه کاره، سر چرخان برای رفع موهای زائد مرطوب و خشک، ضد آب، شامل برس لایه بردار، پد ماساژ، سری اصلاح، سری اصلاح - 9-080، نقره ای",
-    "brand": "",
-    "model": "اپیلاتور زنانه براون آلمان Braun Silk·épil 9 SkinSpa، مجموعه همه کاره، سر چرخان برای رفع موهای زائد مرطوب و خشک، ضد آب، شامل برس لایه بردار، پد ماساژ، سری اصلاح، سری اصلاح - 9-080، نقره ای",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-Braun-Silk-pil-9-SkinSpa-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D9%87%D9%85%D9%87-%DA%A9%D8%A7%D8%B1%D9%87-%D8%B3%D8%B1-%DA%86%D8%B1%D8%AE%D8%A7%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D9%88-%D8%AE%D8%B4%DA%A9-%D8%B6%D8%AF-%D8%A2%D8%A8-%D8%B4%D8%A7%D9%85%D9%84-%D8%A8%D8%B1%D8%B3-%D9%84%D8%A7%DB%8C%D9%87-%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1-%D9%BE%D8%AF-%D9%85%D8%A7%D8%B3%D8%A7%DA%98-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-9-080-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-2a6259b902f04fb9",
@@ -8030,7 +7467,43 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
+  },
+  {
+    "id": "torobshop-audio-video-3fe480d61f801988",
+    "productId": "torobshop-3fe480d61f801988",
+    "name": "اپیلاتور زنانه براون آلمان Braun Silk·épil 9 SkinSpa، مجموعه همه کاره، سر چرخان، رفع موهای زائد خشک و مرطوب، ضد آب، شامل برس لایه بردار، پد ماساژ، تیغ، ماشین اصلاح، ماشین اصلاح صورت، 9-381، نقره ای",
+    "brand": "",
+    "model": "اپیلاتور زنانه براون آلمان Braun Silk·épil 9 SkinSpa، مجموعه همه کاره، سر چرخان، رفع موهای زائد خشک و مرطوب، ضد آب، شامل برس لایه بردار، پد ماساژ، تیغ، ماشین اصلاح، ماشین اصلاح صورت، 9-381، نقره ای",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-Braun-Silk-pil-9-SkinSpa-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D9%87%D9%85%D9%87-%DA%A9%D8%A7%D8%B1%D9%87-%D8%B3%D8%B1-%DA%86%D8%B1%D8%AE%D8%A7%D9%86-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AE%D8%B4%DA%A9-%D9%88-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D8%B6%D8%AF-%D8%A2%D8%A8-%D8%B4%D8%A7%D9%85%D9%84-%D8%A8%D8%B1%D8%B3-%D9%84%D8%A7%DB%8C%D9%87-%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1-%D9%BE%D8%AF-%D9%85%D8%A7%D8%B3%D8%A7%DA%98-%D8%AA%DB%8C%D8%BA-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%B5%D9%88%D8%B1%D8%AA-9-381-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:39:23.935Z"
+  },
+  {
+    "id": "torobshop-audio-video-ef59c7447c918481",
+    "productId": "torobshop-ef59c7447c918481",
+    "name": "اپیلاتور زنانه براون آلمان Braun Silk·épil 9 SkinSpa، مجموعه همه کاره، سر چرخان برای رفع موهای زائد مرطوب و خشک، ضد آب، شامل برس لایه بردار، پد ماساژ، سری اصلاح، سری اصلاح - 9-080، نقره ای",
+    "brand": "",
+    "model": "اپیلاتور زنانه براون آلمان Braun Silk·épil 9 SkinSpa، مجموعه همه کاره، سر چرخان برای رفع موهای زائد مرطوب و خشک، ضد آب، شامل برس لایه بردار، پد ماساژ، سری اصلاح، سری اصلاح - 9-080، نقره ای",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-Braun-Silk-pil-9-SkinSpa-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D9%87%D9%85%D9%87-%DA%A9%D8%A7%D8%B1%D9%87-%D8%B3%D8%B1-%DA%86%D8%B1%D8%AE%D8%A7%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D9%88-%D8%AE%D8%B4%DA%A9-%D8%B6%D8%AF-%D8%A2%D8%A8-%D8%B4%D8%A7%D9%85%D9%84-%D8%A8%D8%B1%D8%B3-%D9%84%D8%A7%DB%8C%D9%87-%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1-%D9%BE%D8%AF-%D9%85%D8%A7%D8%B3%D8%A7%DA%98-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-9-080-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-591d2fa02319cbe4",
@@ -8048,7 +7521,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-74fc37b5d70bd7c1",
@@ -8066,7 +7539,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-9c53c942a980e1d6",
@@ -8084,7 +7557,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-acc19b901c8b2ad8",
@@ -8102,7 +7575,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-ac9daafe2ea5d5bc",
@@ -8120,7 +7593,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-69bba0d6d694a47d",
@@ -8138,7 +7611,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-01be123cfbff3d67",
@@ -8156,7 +7629,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-091330dc970a0bbe",
@@ -8174,7 +7647,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-215471b6024642b7",
@@ -8192,7 +7665,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-db81d40bcc397e16",
@@ -8210,7 +7683,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-a95fac45da84a72b",
@@ -8228,7 +7701,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-ed3206a7c4997ceb",
@@ -8246,7 +7719,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-27f7af68d3543ffb",
@@ -8264,7 +7737,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-20c5a20079487b1a",
@@ -8282,7 +7755,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-ab3241a3e4a91b6d",
@@ -8300,7 +7773,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-5939ecdc87bd4f0d",
@@ -8318,7 +7791,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-08320ee86e550b3d",
@@ -8336,7 +7809,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-3e4d9495e052b1b8",
@@ -8354,7 +7827,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-1059c1f184e3d8b3",
@@ -8372,7 +7845,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-301beb96f2df717f",
@@ -8390,7 +7863,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-834858ae4530d775",
@@ -8408,7 +7881,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-a5fddfc8c0c99048",
@@ -8426,7 +7899,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-2798976de6f0cc81",
@@ -8444,7 +7917,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-d8e34bb113f4f352",
@@ -8462,7 +7935,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-707702931ea634d8",
@@ -8480,7 +7953,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-d5b957f7df4ff03f",
@@ -8498,7 +7971,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-2a3268e48e6a43b8",
@@ -8516,7 +7989,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-68a4dab928f7c962",
@@ -8534,7 +8007,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-28255666c26f658a",
@@ -8552,7 +8025,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-9a0fccac9db69875",
@@ -8570,7 +8043,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
   },
   {
     "id": "torobshop-audio-video-93e51ab5d27d6671",
@@ -8588,6 +8061,533 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:09:16.410Z"
+    "observedAt": "2026-09-01T12:39:23.935Z"
+  },
+  {
+    "id": "web-audio-video-4cf3bfbe7d507a31",
+    "productId": "web-audio-video-4cf3bfbe7d507a31",
+    "name": "اسپیکر قابل حمل انکر مدل Select 4 Go A31X1",
+    "brand": "دل",
+    "model": "اسپیکر قابل حمل انکر مدل Select 4 Go A31X1",
+    "category": "audio-video",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-109050/%D8%A7%D8%B3%D9%BE%DB%8C%DA%A9%D8%B1-%D9%82%D8%A7%D8%A8%D9%84-%D8%AD%D9%85%D9%84-%D8%A7%D9%86%DA%A9%D8%B1-%D9%85%D8%AF%D9%84-select-4-go-a31x1",
+    "image": "",
+    "sourceId": "technolife-multimedia",
+    "sourceUrl": "https://www.technolife.com/category/multimedia",
+    "source": "web-catalog:technolife-multimedia",
+    "observedAt": "2026-09-01T12:27:14.779Z"
+  },
+  {
+    "id": "web-audio-video-a3d7a68050b672d2",
+    "productId": "web-audio-video-a3d7a68050b672d2",
+    "name": "اسپیکر بلوتوثی قابل حمل جی بی ال مدل Charge 6",
+    "brand": "دل",
+    "model": "اسپیکر بلوتوثی قابل حمل جی بی ال مدل Charge 6",
+    "category": "audio-video",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-100984/%D8%A7%D8%B3%D9%BE%DB%8C%DA%A9%D8%B1-%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%AD%D9%85%D9%84-%D8%AC%DB%8C-%D8%A8%DB%8C-%D8%A7%D9%84-%D9%85%D8%AF%D9%84-charge-6",
+    "image": "",
+    "sourceId": "technolife-multimedia",
+    "sourceUrl": "https://www.technolife.com/category/multimedia",
+    "source": "web-catalog:technolife-multimedia",
+    "observedAt": "2026-09-01T12:27:14.779Z"
+  },
+  {
+    "id": "web-audio-video-8a63c133e1932a8c",
+    "productId": "web-audio-video-8a63c133e1932a8c",
+    "name": "اسپیکر بلوتوثی قابل حمل جی بی ال مدل Flip 7",
+    "brand": "دل",
+    "model": "اسپیکر بلوتوثی قابل حمل جی بی ال مدل Flip 7",
+    "category": "audio-video",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-100996/%D8%A7%D8%B3%D9%BE%DB%8C%DA%A9%D8%B1-%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%AD%D9%85%D9%84-%D8%AC%DB%8C-%D8%A8%DB%8C-%D8%A7%D9%84-%D9%85%D8%AF%D9%84-flip-7",
+    "image": "",
+    "sourceId": "technolife-multimedia",
+    "sourceUrl": "https://www.technolife.com/category/multimedia",
+    "source": "web-catalog:technolife-multimedia",
+    "observedAt": "2026-09-01T12:27:14.779Z"
+  },
+  {
+    "id": "web-audio-video-d6adbb368eff7219",
+    "productId": "web-audio-video-d6adbb368eff7219",
+    "name": "اسپیکر بلوتوثی قابل حمل جی بی ال مدل Clip 5",
+    "brand": "دل",
+    "model": "اسپیکر بلوتوثی قابل حمل جی بی ال مدل Clip 5",
+    "category": "audio-video",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-49519/%D8%A7%D8%B3%D9%BE%DB%8C%DA%A9%D8%B1-%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%AD%D9%85%D9%84-%D8%AC%DB%8C-%D8%A8%DB%8C-%D8%A7%D9%84-%D9%85%D8%AF%D9%84-clip-5",
+    "image": "",
+    "sourceId": "technolife-multimedia",
+    "sourceUrl": "https://www.technolife.com/category/multimedia",
+    "source": "web-catalog:technolife-multimedia",
+    "observedAt": "2026-09-01T12:27:14.779Z"
+  },
+  {
+    "id": "web-audio-video-3057322e80c83a5d",
+    "productId": "web-audio-video-3057322e80c83a5d",
+    "name": "اسپیکر بلوتوثی هارمن کاردن مدل Aura Studio 5",
+    "brand": "دل",
+    "model": "اسپیکر بلوتوثی هارمن کاردن مدل Aura Studio 5",
+    "category": "audio-video",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-297053/%D8%A7%D8%B3%D9%BE%DB%8C%DA%A9%D8%B1-%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB%DB%8C-%D9%87%D8%A7%D8%B1%D9%85%D9%86-%DA%A9%D8%A7%D8%B1%D8%AF%D9%86-%D9%85%D8%AF%D9%84-aura-studio-5",
+    "image": "",
+    "sourceId": "technolife-multimedia",
+    "sourceUrl": "https://www.technolife.com/category/multimedia",
+    "source": "web-catalog:technolife-multimedia",
+    "observedAt": "2026-09-01T12:27:14.779Z"
+  },
+  {
+    "id": "web-audio-video-2909e941d387fcd2",
+    "productId": "web-audio-video-2909e941d387fcd2",
+    "name": "پارتی باکس جی بی ال مدل partybox Stage 320",
+    "brand": "دل",
+    "model": "پارتی باکس جی بی ال مدل partybox Stage 320",
+    "category": "audio-video",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-38805/%D9%BE%D8%A7%D8%B1%D8%AA%DB%8C-%D8%A8%D8%A7%DA%A9%D8%B3-%D8%AC%DB%8C-%D8%A8%DB%8C-%D8%A7%D9%84-%D9%85%D8%AF%D9%84-partybox-stage-320-",
+    "image": "",
+    "sourceId": "technolife-multimedia",
+    "sourceUrl": "https://www.technolife.com/category/multimedia",
+    "source": "web-catalog:technolife-multimedia",
+    "observedAt": "2026-09-01T12:27:14.779Z"
+  },
+  {
+    "id": "web-audio-video-edc206a57d081dbb",
+    "productId": "web-audio-video-edc206a57d081dbb",
+    "name": "تلویزیون هوشمند جی پلاس مدل GTV-32SD648N سایز 32 اینچ",
+    "brand": "دل",
+    "model": "تلویزیون هوشمند جی پلاس مدل GTV-32SD648N سایز 32 اینچ",
+    "category": "audio-video",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-471607/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%D8%AC%DB%8C-%D9%BE%D9%84%D8%A7%D8%B3-%D9%85%D8%AF%D9%84-gtv-32sd648n-%D8%B3%D8%A7%DB%8C%D8%B2-32-%D8%A7%DB%8C%D9%86%DA%86",
+    "image": "",
+    "sourceId": "technolife-multimedia",
+    "sourceUrl": "https://www.technolife.com/category/multimedia",
+    "source": "web-catalog:technolife-multimedia",
+    "observedAt": "2026-09-01T12:27:14.779Z"
+  },
+  {
+    "id": "web-audio-video-d2fb2d935b7cdf01",
+    "productId": "web-audio-video-d2fb2d935b7cdf01",
+    "name": "اسپیکر بلوتوثی قابل حمل جی بی ال مدل Go 5",
+    "brand": "دل",
+    "model": "اسپیکر بلوتوثی قابل حمل جی بی ال مدل Go 5",
+    "category": "audio-video",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-479562/%D8%A7%D8%B3%D9%BE%DB%8C%DA%A9%D8%B1-%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%AD%D9%85%D9%84-%D8%AC%DB%8C-%D8%A8%DB%8C-%D8%A7%D9%84-%D9%85%D8%AF%D9%84-go-5",
+    "image": "",
+    "sourceId": "technolife-multimedia",
+    "sourceUrl": "https://www.technolife.com/category/multimedia",
+    "source": "web-catalog:technolife-multimedia",
+    "observedAt": "2026-09-01T12:27:14.779Z"
+  },
+  {
+    "id": "web-audio-video-aaac7b20f2318897",
+    "productId": "web-audio-video-aaac7b20f2318897",
+    "name": "پارتی باکس جی بی ال مدل PartyBox Club 120",
+    "brand": "دل",
+    "model": "پارتی باکس جی بی ال مدل PartyBox Club 120",
+    "category": "audio-video",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-38776/%D9%BE%D8%A7%D8%B1%D8%AA%DB%8C-%D8%A8%D8%A7%DA%A9%D8%B3-%D8%AC%DB%8C-%D8%A8%DB%8C-%D8%A7%D9%84-%D9%85%D8%AF%D9%84-partybox-club-120",
+    "image": "",
+    "sourceId": "technolife-multimedia",
+    "sourceUrl": "https://www.technolife.com/category/multimedia",
+    "source": "web-catalog:technolife-multimedia",
+    "observedAt": "2026-09-01T12:27:14.779Z"
+  },
+  {
+    "id": "web-audio-video-95f067e3efb8f966",
+    "productId": "web-audio-video-95f067e3efb8f966",
+    "name": "اسپیکر بلوتوثی شیائومی مدل Sound Outdoor",
+    "brand": "شیائومی",
+    "model": "اسپیکر بلوتوثی شیائومی مدل Sound Outdoor",
+    "category": "audio-video",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-53073/%D8%A7%D8%B3%D9%BE%DB%8C%DA%A9%D8%B1-%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB%DB%8C-%D8%B4%DB%8C%D8%A7%D8%A6%D9%88%D9%85%DB%8C-%D9%85%D8%AF%D9%84-sound-outdoor",
+    "image": "",
+    "sourceId": "technolife-multimedia",
+    "sourceUrl": "https://www.technolife.com/category/multimedia",
+    "source": "web-catalog:technolife-multimedia",
+    "observedAt": "2026-09-01T12:27:14.779Z"
+  },
+  {
+    "id": "web-audio-video-fb9309c5cf41fffb",
+    "productId": "web-audio-video-fb9309c5cf41fffb",
+    "name": "تلویزیون ال ای دی دوو مدل 75DM4500 سایز 75 اینچ",
+    "brand": "دل",
+    "model": "تلویزیون ال ای دی دوو مدل 75DM4500 سایز 75 اینچ",
+    "category": "audio-video",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-446805/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-%D8%A7%D9%84-%D8%A7%DB%8C-%D8%AF%DB%8C-%D8%AF%D9%88%D9%88-%D9%85%D8%AF%D9%84-75dm4500-%D8%B3%D8%A7%DB%8C%D8%B2-75-%D8%A7%DB%8C%D9%86%DA%86",
+    "image": "",
+    "sourceId": "technolife-multimedia",
+    "sourceUrl": "https://www.technolife.com/category/multimedia",
+    "source": "web-catalog:technolife-multimedia",
+    "observedAt": "2026-09-01T12:27:14.779Z"
+  },
+  {
+    "id": "web-audio-video-4d4cf06d249d38e1",
+    "productId": "web-audio-video-4d4cf06d249d38e1",
+    "name": "تلویزیون سونی LED سایز 65 اینچ مدل KD-65X80L",
+    "brand": "دل",
+    "model": "تلویزیون سونی LED سایز 65 اینچ مدل KD-65X80L",
+    "category": "audio-video",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-49947/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-%D8%B3%D9%88%D9%86%DB%8C-led-%D8%B3%D8%A7%DB%8C%D8%B2-65-%D8%A7%DB%8C%D9%86%DA%86-%D9%85%D8%AF%D9%84-kd-65x80l",
+    "image": "",
+    "sourceId": "technolife-multimedia",
+    "sourceUrl": "https://www.technolife.com/category/multimedia",
+    "source": "web-catalog:technolife-multimedia",
+    "observedAt": "2026-09-01T12:27:14.780Z"
+  },
+  {
+    "id": "web-audio-video-f2b141967326c494",
+    "productId": "web-audio-video-f2b141967326c494",
+    "name": "اندروید باکس شیائومی مدل TV Box S 3rd Gen",
+    "brand": "شیائومی",
+    "model": "اندروید باکس شیائومی مدل TV Box S 3rd Gen",
+    "category": "audio-video",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-110861/%D8%A7%D9%86%D8%AF%D8%B1%D9%88%DB%8C%D8%AF-%D8%A8%D8%A7%DA%A9%D8%B3-%D8%B4%DB%8C%D8%A7%D8%A6%D9%88%D9%85%DB%8C-%D9%85%D8%AF%D9%84-tv-box-s-3rd-gen",
+    "image": "",
+    "sourceId": "technolife-multimedia",
+    "sourceUrl": "https://www.technolife.com/category/multimedia",
+    "source": "web-catalog:technolife-multimedia",
+    "observedAt": "2026-09-01T12:27:14.780Z"
+  },
+  {
+    "id": "web-audio-video-9410484f256089ef",
+    "productId": "web-audio-video-9410484f256089ef",
+    "name": "اسپیکر بلوتوثی جی بی ال مدل Go 4",
+    "brand": "دل",
+    "model": "اسپیکر بلوتوثی جی بی ال مدل Go 4",
+    "category": "audio-video",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-42745/%D8%A7%D8%B3%D9%BE%DB%8C%DA%A9%D8%B1-%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB%DB%8C-%D8%AC%DB%8C-%D8%A8%DB%8C-%D8%A7%D9%84-%D9%85%D8%AF%D9%84-go-4",
+    "image": "",
+    "sourceId": "technolife-multimedia",
+    "sourceUrl": "https://www.technolife.com/category/multimedia",
+    "source": "web-catalog:technolife-multimedia",
+    "observedAt": "2026-09-01T12:27:14.780Z"
+  },
+  {
+    "id": "web-audio-video-ee04719471cae2f8",
+    "productId": "web-audio-video-ee04719471cae2f8",
+    "name": "اسپیکر بلوتوثی مدل GTS-1360",
+    "brand": "دل",
+    "model": "اسپیکر بلوتوثی مدل GTS-1360",
+    "category": "audio-video",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-58045/%D8%A7%D8%B3%D9%BE%DB%8C%DA%A9%D8%B1-%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB%DB%8C-%D9%85%D8%AF%D9%84-gts-1360",
+    "image": "",
+    "sourceId": "technolife-multimedia",
+    "sourceUrl": "https://www.technolife.com/category/multimedia",
+    "source": "web-catalog:technolife-multimedia",
+    "observedAt": "2026-09-01T12:27:14.780Z"
+  },
+  {
+    "id": "web-audio-video-b0edc84b061114ab",
+    "productId": "web-audio-video-b0edc84b061114ab",
+    "name": "اسپیکر بلوتوثی قابل حمل تسکو مدل TS 23362",
+    "brand": "دل",
+    "model": "اسپیکر بلوتوثی قابل حمل تسکو مدل TS 23362",
+    "category": "audio-video",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-301259/%D8%A7%D8%B3%D9%BE%DB%8C%DA%A9%D8%B1-%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%AD%D9%85%D9%84-%D8%AA%D8%B3%DA%A9%D9%88-%D9%85%D8%AF%D9%84-ts-23362",
+    "image": "",
+    "sourceId": "technolife-multimedia",
+    "sourceUrl": "https://www.technolife.com/category/multimedia",
+    "source": "web-catalog:technolife-multimedia",
+    "observedAt": "2026-09-01T12:27:14.780Z"
+  },
+  {
+    "id": "web-audio-video-292677c9248e62f4",
+    "productId": "web-audio-video-292677c9248e62f4",
+    "name": "تلویزیون ایکس ویژن مدل 55XYU720 سایز 55 اینچ",
+    "brand": "دل",
+    "model": "تلویزیون ایکس ویژن مدل 55XYU720 سایز 55 اینچ",
+    "category": "audio-video",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-578163/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-%D8%A7%DB%8C%DA%A9%D8%B3-%D9%88%DB%8C%DA%98%D9%86-%D9%85%D8%AF%D9%84-55xyu720-%D8%B3%D8%A7%DB%8C%D8%B2-55-%D8%A7%DB%8C%D9%86%DA%86",
+    "image": "",
+    "sourceId": "technolife-multimedia",
+    "sourceUrl": "https://www.technolife.com/category/multimedia",
+    "source": "web-catalog:technolife-multimedia",
+    "observedAt": "2026-09-01T12:27:14.780Z"
+  },
+  {
+    "id": "web-audio-video-df06092300a2779b",
+    "productId": "web-audio-video-df06092300a2779b",
+    "name": "تلویزیون ال ای دی سونی مدل KD-55X80L سایز 55 اینچ",
+    "brand": "دل",
+    "model": "تلویزیون ال ای دی سونی مدل KD-55X80L سایز 55 اینچ",
+    "category": "audio-video",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-36234/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-%D8%A7%D9%84-%D8%A7%DB%8C-%D8%AF%DB%8C-%D8%B3%D9%88%D9%86%DB%8C-%D9%85%D8%AF%D9%84-kd-55x80l-%D8%B3%D8%A7%DB%8C%D8%B2-55-%D8%A7%DB%8C%D9%86%DA%86",
+    "image": "",
+    "sourceId": "technolife-multimedia",
+    "sourceUrl": "https://www.technolife.com/category/multimedia",
+    "source": "web-catalog:technolife-multimedia",
+    "observedAt": "2026-09-01T12:27:14.780Z"
+  },
+  {
+    "id": "web-audio-video-638d1da40dff21f6",
+    "productId": "web-audio-video-638d1da40dff21f6",
+    "name": "تلویزیون هوشمند 43 اینچ ال ای دی جی پلاس مدل GTV-43SH648NP",
+    "brand": "دل",
+    "model": "تلویزیون هوشمند 43 اینچ ال ای دی جی پلاس مدل GTV-43SH648NP",
+    "category": "audio-video",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-578743/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-43-%D8%A7%DB%8C%D9%86%DA%86-%D8%A7%D9%84-%D8%A7%DB%8C-%D8%AF%DB%8C-%D8%AC%DB%8C-%D9%BE%D9%84%D8%A7%D8%B3-%D9%85%D8%AF%D9%84-gtv-43sh648np",
+    "image": "",
+    "sourceId": "technolife-multimedia",
+    "sourceUrl": "https://www.technolife.com/category/multimedia",
+    "source": "web-catalog:technolife-multimedia",
+    "observedAt": "2026-09-01T12:27:14.780Z"
+  },
+  {
+    "id": "web-audio-video-11bbd4f79a3d1d3a",
+    "productId": "web-audio-video-11bbd4f79a3d1d3a",
+    "name": "اسپیکر بلوتوثی انکر مدل Soundcore Boom 3i",
+    "brand": "دل",
+    "model": "اسپیکر بلوتوثی انکر مدل Soundcore Boom 3i",
+    "category": "audio-video",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-161205/%D8%A7%D8%B3%D9%BE%DB%8C%DA%A9%D8%B1-%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB%DB%8C-%D8%A7%D9%86%DA%A9%D8%B1-%D9%85%D8%AF%D9%84-soundcore-boom-3i",
+    "image": "",
+    "sourceId": "technolife-multimedia",
+    "sourceUrl": "https://www.technolife.com/category/multimedia",
+    "source": "web-catalog:technolife-multimedia",
+    "observedAt": "2026-09-01T12:27:14.780Z"
+  },
+  {
+    "id": "web-audio-video-984b9367f5530285",
+    "productId": "web-audio-video-984b9367f5530285",
+    "name": "تلویزیون هوشمند ایکس ویژن مدل XC660B سایز 43 اینچ",
+    "brand": "دل",
+    "model": "تلویزیون هوشمند ایکس ویژن مدل XC660B سایز 43 اینچ",
+    "category": "audio-video",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-578168/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%D8%A7%DB%8C%DA%A9%D8%B3-%D9%88%DB%8C%DA%98%D9%86-%D9%85%D8%AF%D9%84-xc660b-%D8%B3%D8%A7%DB%8C%D8%B2-43-%D8%A7%DB%8C%D9%86%DA%86",
+    "image": "",
+    "sourceId": "technolife-multimedia",
+    "sourceUrl": "https://www.technolife.com/category/multimedia",
+    "source": "web-catalog:technolife-multimedia",
+    "observedAt": "2026-09-01T12:27:14.780Z"
+  },
+  {
+    "id": "web-audio-video-d11a4e834435f72f",
+    "productId": "web-audio-video-d11a4e834435f72f",
+    "name": "اسپیکر بلوتوثی تسکو مدل TS 23358",
+    "brand": "دل",
+    "model": "اسپیکر بلوتوثی تسکو مدل TS 23358",
+    "category": "audio-video",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-442235/%D8%A7%D8%B3%D9%BE%DB%8C%DA%A9%D8%B1-%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB%DB%8C-%D8%AA%D8%B3%DA%A9%D9%88-%D9%85%D8%AF%D9%84-ts-23358",
+    "image": "",
+    "sourceId": "technolife-multimedia",
+    "sourceUrl": "https://www.technolife.com/category/multimedia",
+    "source": "web-catalog:technolife-multimedia",
+    "observedAt": "2026-09-01T12:27:14.780Z"
+  },
+  {
+    "id": "web-audio-video-6597fb614f0b0987",
+    "productId": "web-audio-video-6597fb614f0b0987",
+    "name": "اسپیکر بلوتوثی قابل حمل هارمن کاردن مدل Onyx Studio 9",
+    "brand": "دل",
+    "model": "اسپیکر بلوتوثی قابل حمل هارمن کاردن مدل Onyx Studio 9",
+    "category": "audio-video",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-116670/%D8%A7%D8%B3%D9%BE%DB%8C%DA%A9%D8%B1-%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%AD%D9%85%D9%84-%D9%87%D8%A7%D8%B1%D9%85%D9%86-%DA%A9%D8%A7%D8%B1%D8%AF%D9%86-%D9%85%D8%AF%D9%84-onyx-studio-9",
+    "image": "",
+    "sourceId": "technolife-multimedia",
+    "sourceUrl": "https://www.technolife.com/category/multimedia",
+    "source": "web-catalog:technolife-multimedia",
+    "observedAt": "2026-09-01T12:27:14.780Z"
+  },
+  {
+    "id": "web-audio-video-5e27802d2f4bbed7",
+    "productId": "web-audio-video-5e27802d2f4bbed7",
+    "name": "تلویزیون سونی LED سایز 65 اینچ مدل KD-65X85L",
+    "brand": "دل",
+    "model": "تلویزیون سونی LED سایز 65 اینچ مدل KD-65X85L",
+    "category": "audio-video",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-47975/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-%D8%B3%D9%88%D9%86%DB%8C-led-%D8%B3%D8%A7%DB%8C%D8%B2-65-%D8%A7%DB%8C%D9%86%DA%86-%D9%85%D8%AF%D9%84-kd-65x85l",
+    "image": "",
+    "sourceId": "technolife-multimedia",
+    "sourceUrl": "https://www.technolife.com/category/multimedia",
+    "source": "web-catalog:technolife-multimedia",
+    "observedAt": "2026-09-01T12:27:14.780Z"
+  },
+  {
+    "id": "web-audio-video-248f0a9fa81ca0c0",
+    "productId": "web-audio-video-248f0a9fa81ca0c0",
+    "name": "تلویزیون ایکس ویژن مدل 43XC605 سایز 43 اینچ",
+    "brand": "دل",
+    "model": "تلویزیون ایکس ویژن مدل 43XC605 سایز 43 اینچ",
+    "category": "audio-video",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-426153/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-%D8%A7%DB%8C%DA%A9%D8%B3-%D9%88%DB%8C%DA%98%D9%86-%D9%85%D8%AF%D9%84-43xc605-%D8%B3%D8%A7%DB%8C%D8%B2-43-%D8%A7%DB%8C%D9%86%DA%86",
+    "image": "",
+    "sourceId": "technolife-multimedia",
+    "sourceUrl": "https://www.technolife.com/category/multimedia",
+    "source": "web-catalog:technolife-multimedia",
+    "observedAt": "2026-09-01T12:27:14.780Z"
+  },
+  {
+    "id": "web-audio-video-509f23a86bee738e",
+    "productId": "web-audio-video-509f23a86bee738e",
+    "name": "اسپیکر بلوتوثی انکر مدل SoundCore Select 3",
+    "brand": "دل",
+    "model": "اسپیکر بلوتوثی انکر مدل SoundCore Select 3",
+    "category": "audio-video",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-179585/%D8%A7%D8%B3%D9%BE%DB%8C%DA%A9%D8%B1-%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB%DB%8C-%D8%A7%D9%86%DA%A9%D8%B1-%D9%85%D8%AF%D9%84-soundcore-select-3",
+    "image": "",
+    "sourceId": "technolife-multimedia",
+    "sourceUrl": "https://www.technolife.com/category/multimedia",
+    "source": "web-catalog:technolife-multimedia",
+    "observedAt": "2026-09-01T12:27:14.780Z"
+  },
+  {
+    "id": "web-audio-video-43af89eeef6707b7",
+    "productId": "web-audio-video-43af89eeef6707b7",
+    "name": "پارتی باکس جی بی ال مدل PartyBox 520",
+    "brand": "دل",
+    "model": "پارتی باکس جی بی ال مدل PartyBox 520",
+    "category": "audio-video",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-124840/%D9%BE%D8%A7%D8%B1%D8%AA%DB%8C-%D8%A8%D8%A7%DA%A9%D8%B3-%D8%AC%DB%8C-%D8%A8%DB%8C-%D8%A7%D9%84-%D9%85%D8%AF%D9%84-partybox-520",
+    "image": "",
+    "sourceId": "technolife-multimedia",
+    "sourceUrl": "https://www.technolife.com/category/multimedia",
+    "source": "web-catalog:technolife-multimedia",
+    "observedAt": "2026-09-01T12:27:14.780Z"
+  },
+  {
+    "id": "web-audio-video-5699e9a576ce59d0",
+    "productId": "web-audio-video-5699e9a576ce59d0",
+    "name": "تلویزیون هوشمند ایکس ویژن مدل XC660G سایز 43 اینچ",
+    "brand": "دل",
+    "model": "تلویزیون هوشمند ایکس ویژن مدل XC660G سایز 43 اینچ",
+    "category": "audio-video",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-518272/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%D8%A7%DB%8C%DA%A9%D8%B3-%D9%88%DB%8C%DA%98%D9%86-%D9%85%D8%AF%D9%84-xc660g-%D8%B3%D8%A7%DB%8C%D8%B2-43-%D8%A7%DB%8C%D9%86%DA%86",
+    "image": "",
+    "sourceId": "technolife-multimedia",
+    "sourceUrl": "https://www.technolife.com/category/multimedia",
+    "source": "web-catalog:technolife-multimedia",
+    "observedAt": "2026-09-01T12:27:14.780Z"
+  },
+  {
+    "id": "web-audio-video-1ee38f9411543549",
+    "productId": "web-audio-video-1ee38f9411543549",
+    "name": "تلویزیون کیو ال ای دی ایکس ویژن مدل XYU880B سایز 55 اینچ",
+    "brand": "دل",
+    "model": "تلویزیون کیو ال ای دی ایکس ویژن مدل XYU880B سایز 55 اینچ",
+    "category": "audio-video",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-518179/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-%DA%A9%DB%8C%D9%88-%D8%A7%D9%84-%D8%A7%DB%8C-%D8%AF%DB%8C-%D8%A7%DB%8C%DA%A9%D8%B3-%D9%88%DB%8C%DA%98%D9%86-%D9%85%D8%AF%D9%84-xyu880b-%D8%B3%D8%A7%DB%8C%D8%B2-55-%D8%A7%DB%8C%D9%86%DA%86",
+    "image": "",
+    "sourceId": "technolife-multimedia",
+    "sourceUrl": "https://www.technolife.com/category/multimedia",
+    "source": "web-catalog:technolife-multimedia",
+    "observedAt": "2026-09-01T12:27:14.780Z"
+  },
+  {
+    "id": "web-audio-video-b1f5cfa1fe12762c",
+    "productId": "web-audio-video-b1f5cfa1fe12762c",
+    "name": "اندروید باکس نت باکس مدل شاین یو",
+    "brand": "دل",
+    "model": "اندروید باکس نت باکس مدل شاین یو",
+    "category": "audio-video",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-392362/%D8%A7%D9%86%D8%AF%D8%B1%D9%88%DB%8C%D8%AF-%D8%A8%D8%A7%DA%A9%D8%B3-%D9%86%D8%AA-%D8%A8%D8%A7%DA%A9%D8%B3-%D9%85%D8%AF%D9%84-%D8%B4%D8%A7%DB%8C%D9%86-%DB%8C%D9%88",
+    "image": "",
+    "sourceId": "technolife-multimedia",
+    "sourceUrl": "https://www.technolife.com/category/multimedia",
+    "source": "web-catalog:technolife-multimedia",
+    "observedAt": "2026-09-01T12:27:14.781Z"
+  },
+  {
+    "id": "web-audio-video-b05d64cfdc843fd7",
+    "productId": "web-audio-video-b05d64cfdc843fd7",
+    "name": "گوشی s2۵ fe",
+    "brand": "",
+    "model": "گوشی s2۵ fe",
+    "category": "audio-video",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-165916/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF-%D9%85%D8%AF%D9%84-galaxy-s25-fe-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-256-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-8-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA---%D9%88%DB%8C%D8%AA%D9%86%D8%A7%D9%85",
+    "image": "",
+    "sourceId": "technolife-multimedia",
+    "sourceUrl": "https://www.technolife.com/category/multimedia",
+    "source": "web-catalog:technolife-multimedia",
+    "observedAt": "2026-09-01T12:27:14.781Z"
   }
 ];

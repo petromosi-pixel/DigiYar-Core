@@ -1,2657 +1,5 @@
 export const MOBILE_PRODUCTS = [
   {
-    "id": "web-mobile-cdf893eea13aa859",
-    "productId": "web-mobile-cdf893eea13aa859",
-    "name": "گوشی موبايل شیائومی مدل Redmi Note 15 4G ظرفیت 256 گیگابایت رم 8 گیگابایت",
-    "brand": "شیائومی",
-    "model": "گوشی موبايل شیائومی مدل Redmi Note 15 4G ظرفیت 256 گیگابایت رم 8 گیگابایت",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-314976/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%D9%8A%D9%84-%D8%B4%DB%8C%D8%A7%D8%A6%D9%88%D9%85%DB%8C-%D9%85%D8%AF%D9%84-redmi-note-15-4g-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-256-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-8-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
-    "image": "",
-    "sourceId": "technolife-mobile",
-    "sourceUrl": "https://www.technolife.com/category/mobile",
-    "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T10:52:44.053Z"
-  },
-  {
-    "id": "web-mobile-7e1144b5d3f571c7",
-    "productId": "web-mobile-7e1144b5d3f571c7",
-    "name": "گوشی موبايل سامسونگ مدل Galaxy A07 4G ظرفیت 64 گیگابایت رم 4 گیگابایت",
-    "brand": "سامسونگ",
-    "model": "گوشی موبايل سامسونگ مدل Galaxy A07 4G ظرفیت 64 گیگابایت رم 4 گیگابایت",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-149347/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF-%D9%85%D8%AF%D9%84-galaxy-a07-4g-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-64-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-4-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
-    "image": "",
-    "sourceId": "technolife-mobile",
-    "sourceUrl": "https://www.technolife.com/category/mobile",
-    "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T10:52:44.053Z"
-  },
-  {
-    "id": "web-mobile-5cbc6a775b0d3181",
-    "productId": "web-mobile-5cbc6a775b0d3181",
-    "name": "گوشی موبایل نوکیا مدل (2024) 105 دو سیم کارت مونتاژ ایران",
-    "brand": "دل",
-    "model": "گوشی موبایل نوکیا مدل (2024) 105 دو سیم کارت مونتاژ ایران",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-435247/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84-%D9%86%D9%88%DA%A9%DB%8C%D8%A7-%D9%85%D8%AF%D9%84-(2024)-105-%D8%AF%D9%88-%D8%B3%DB%8C%D9%85-%DA%A9%D8%A7%D8%B1%D8%AA-%D9%85%D9%88%D9%86%D8%AA%D8%A7%DA%98-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
-    "image": "",
-    "sourceId": "technolife-mobile",
-    "sourceUrl": "https://www.technolife.com/category/mobile",
-    "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T10:52:44.053Z"
-  },
-  {
-    "id": "web-mobile-d55bc670163620e0",
-    "productId": "web-mobile-d55bc670163620e0",
-    "name": "گوشی موبايل سامسونگ مدل Galaxy S25 FE ظرفیت 256 گیگابایت رم 8 گیگابایت - ویتنام",
-    "brand": "سامسونگ",
-    "model": "گوشی موبايل سامسونگ مدل Galaxy S25 FE ظرفیت 256 گیگابایت رم 8 گیگابایت - ویتنام",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-165916/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF-%D9%85%D8%AF%D9%84-galaxy-s25-fe-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-256-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-8-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA---%D9%88%DB%8C%D8%AA%D9%86%D8%A7%D9%85",
-    "image": "",
-    "sourceId": "technolife-mobile",
-    "sourceUrl": "https://www.technolife.com/category/mobile",
-    "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T10:52:44.053Z"
-  },
-  {
-    "id": "web-mobile-e9a326c3c7d6fe53",
-    "productId": "web-mobile-e9a326c3c7d6fe53",
-    "name": "گوشی موبايل سامسونگ مدل Galaxy A07 4G ظرفیت 128 گیگابایت رم 4 گیگابایت",
-    "brand": "سامسونگ",
-    "model": "گوشی موبايل سامسونگ مدل Galaxy A07 4G ظرفیت 128 گیگابایت رم 4 گیگابایت",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-149351/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF-%D9%85%D8%AF%D9%84-galaxy-a07-4g-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-128-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-4-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
-    "image": "",
-    "sourceId": "technolife-mobile",
-    "sourceUrl": "https://www.technolife.com/category/mobile",
-    "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T10:52:44.053Z"
-  },
-  {
-    "id": "web-mobile-d978e5a3debb468a",
-    "productId": "web-mobile-d978e5a3debb468a",
-    "name": "گوشی موبايل سامسونگ Galaxy A57 5G ظرفیت 256 گیگابایت رم 8 گیگابایت - ویتنام",
-    "brand": "سامسونگ",
-    "model": "گوشی موبايل سامسونگ Galaxy A57 5G ظرفیت 256 گیگابایت رم 8 گیگابایت - ویتنام",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-400671/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF-galaxy-a57-5g-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-256-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-8-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA---%D9%88%DB%8C%D8%AA%D9%86%D8%A7%D9%85",
-    "image": "",
-    "sourceId": "technolife-mobile",
-    "sourceUrl": "https://www.technolife.com/category/mobile",
-    "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T10:52:44.053Z"
-  },
-  {
-    "id": "web-mobile-7973ba8559b15b73",
-    "productId": "web-mobile-7973ba8559b15b73",
-    "name": "گوشی موبايل سامسونگ مدل Galaxy A07 4G ظرفیت 128 گیگابایت رم 6 گیگابایت همراه با شارژر داخل جعبه",
-    "brand": "سامسونگ",
-    "model": "گوشی موبايل سامسونگ مدل Galaxy A07 4G ظرفیت 128 گیگابایت رم 6 گیگابایت همراه با شارژر داخل جعبه",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-279434/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF-%D9%85%D8%AF%D9%84-galaxy-a07-4g-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-128-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-6-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D9%87%D9%85%D8%B1%D8%A7%D9%87-%D8%A8%D8%A7-%D8%B4%D8%A7%D8%B1%DA%98%D8%B1-%D8%AF%D8%A7%D8%AE%D9%84-%D8%AC%D8%B9%D8%A8%D9%87",
-    "image": "",
-    "sourceId": "technolife-mobile",
-    "sourceUrl": "https://www.technolife.com/category/mobile",
-    "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T10:52:44.053Z"
-  },
-  {
-    "id": "web-mobile-cba530f01ba3a0a4",
-    "productId": "web-mobile-cba530f01ba3a0a4",
-    "name": "گوشی موبایل پوکو مدل C85 4G دو سیم کارت ظرفیت 256 گیگابایت رم 8 گیگابایت",
-    "brand": "دل",
-    "model": "گوشی موبایل پوکو مدل C85 4G دو سیم کارت ظرفیت 256 گیگابایت رم 8 گیگابایت",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-166041/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84-%D9%BE%D9%88%DA%A9%D9%88-%D9%85%D8%AF%D9%84-c85-4g-%D8%AF%D9%88-%D8%B3%DB%8C%D9%85-%DA%A9%D8%A7%D8%B1%D8%AA-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-256-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-8-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
-    "image": "",
-    "sourceId": "technolife-mobile",
-    "sourceUrl": "https://www.technolife.com/category/mobile",
-    "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T10:52:44.054Z"
-  },
-  {
-    "id": "web-mobile-edca128508bd5d03",
-    "productId": "web-mobile-edca128508bd5d03",
-    "name": "شارژر دیواری اپل 20 وات مدل 3 پین B/A - اورجینال",
-    "brand": "اپل",
-    "model": "شارژر دیواری اپل 20 وات مدل 3 پین B/A - اورجینال",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-115770/%D8%B4%D8%A7%D8%B1%DA%98%D8%B1-%D8%AF%DB%8C%D9%88%D8%A7%D8%B1%DB%8C-%D8%A7%D9%BE%D9%84-20-%D9%88%D8%A7%D8%AA-%D9%85%D8%AF%D9%84-3-%D9%BE%DB%8C%D9%86-b-a---%D8%A7%D9%88%D8%B1%D8%AC%DB%8C%D9%86%D8%A7%D9%84",
-    "image": "",
-    "sourceId": "technolife-mobile",
-    "sourceUrl": "https://www.technolife.com/category/mobile",
-    "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T10:52:44.054Z"
-  },
-  {
-    "id": "web-mobile-17ea427c9c05e59c",
-    "productId": "web-mobile-17ea427c9c05e59c",
-    "name": "گوشی موبايل شیائومی مدل Redmi Note 15 Pro 4G ظرفیت 256 گیگابایت رم 8 گیگابایت",
-    "brand": "شیائومی",
-    "model": "گوشی موبايل شیائومی مدل Redmi Note 15 Pro 4G ظرفیت 256 گیگابایت رم 8 گیگابایت",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-301544/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%D9%8A%D9%84-%D8%B4%DB%8C%D8%A7%D8%A6%D9%88%D9%85%DB%8C-%D9%85%D8%AF%D9%84-redmi-note-15-pro-4g-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-256-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-8-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
-    "image": "",
-    "sourceId": "technolife-mobile",
-    "sourceUrl": "https://www.technolife.com/category/mobile",
-    "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T10:52:44.054Z"
-  },
-  {
-    "id": "web-mobile-395da285e176aaa3",
-    "productId": "web-mobile-395da285e176aaa3",
-    "name": "گوشی موبایل آنر مدل Play10 دو سيم‌ کارت ظرفیت 64 گیگابایت رم 3 گیگابایت",
-    "brand": "دل",
-    "model": "گوشی موبایل آنر مدل Play10 دو سيم‌ کارت ظرفیت 64 گیگابایت رم 3 گیگابایت",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-168682/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84-%D8%A2%D9%86%D8%B1-%D9%85%D8%AF%D9%84-play10-%D8%AF%D9%88-%D8%B3%D9%8A%D9%85%E2%80%8C-%DA%A9%D8%A7%D8%B1%D8%AA-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-64-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-3-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
-    "image": "",
-    "sourceId": "technolife-mobile",
-    "sourceUrl": "https://www.technolife.com/category/mobile",
-    "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T10:52:44.054Z"
-  },
-  {
-    "id": "web-mobile-68a9da007e1633c8",
-    "productId": "web-mobile-68a9da007e1633c8",
-    "name": "گوشی موبایل شیائومی Redmi 15C 4G دو سیم کارت ظرفیت 256 گیگابایت رم 8 گیگابایت",
-    "brand": "شیائومی",
-    "model": "گوشی موبایل شیائومی Redmi 15C 4G دو سیم کارت ظرفیت 256 گیگابایت رم 8 گیگابایت",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-166010/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84-%D8%B4%DB%8C%D8%A7%D8%A6%D9%88%D9%85%DB%8C-redmi-15c-4g-%D8%AF%D9%88-%D8%B3%DB%8C%D9%85-%DA%A9%D8%A7%D8%B1%D8%AA-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-256-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-8-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
-    "image": "",
-    "sourceId": "technolife-mobile",
-    "sourceUrl": "https://www.technolife.com/category/mobile",
-    "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T10:52:44.054Z"
-  },
-  {
-    "id": "web-mobile-075acb00fe05e53c",
-    "productId": "web-mobile-075acb00fe05e53c",
-    "name": "شارژر دیواری 45 وات انکر مدل Nano Charger A121D",
-    "brand": "دل",
-    "model": "شارژر دیواری 45 وات انکر مدل Nano Charger A121D",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-379528/%D8%B4%D8%A7%D8%B1%DA%98%D8%B1-%D8%AF%DB%8C%D9%88%D8%A7%D8%B1%DB%8C-45-%D9%88%D8%A7%D8%AA-%D8%A7%D9%86%DA%A9%D8%B1-%D9%85%D8%AF%D9%84-nano-charger-a121d",
-    "image": "",
-    "sourceId": "technolife-mobile",
-    "sourceUrl": "https://www.technolife.com/category/mobile",
-    "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T10:52:44.054Z"
-  },
-  {
-    "id": "web-mobile-f1de1aad54d5129d",
-    "productId": "web-mobile-f1de1aad54d5129d",
-    "name": "گوشی موبايل سامسونگ Galaxy A26 5G ظرفیت 256 گیگابایت رم 8 گیگابایت - ویتنام",
-    "brand": "سامسونگ",
-    "model": "گوشی موبايل سامسونگ Galaxy A26 5G ظرفیت 256 گیگابایت رم 8 گیگابایت - ویتنام",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-99217/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF-galaxy-a26-5g-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-256-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-8-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA---%D9%88%DB%8C%D8%AA%D9%86%D8%A7%D9%85",
-    "image": "",
-    "sourceId": "technolife-mobile",
-    "sourceUrl": "https://www.technolife.com/category/mobile",
-    "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T10:52:44.054Z"
-  },
-  {
-    "id": "web-mobile-3fa35e3433f82c28",
-    "productId": "web-mobile-3fa35e3433f82c28",
-    "name": "گوشی موبايل سامسونگ Galaxy A56 5G ظرفیت 256 گیگابایت رم 8 گیگابایت - ویتنام",
-    "brand": "سامسونگ",
-    "model": "گوشی موبايل سامسونگ Galaxy A56 5G ظرفیت 256 گیگابایت رم 8 گیگابایت - ویتنام",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-99485/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF-galaxy-a56-5g-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-256-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-8-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA---%D9%88%DB%8C%D8%AA%D9%86%D8%A7%D9%85",
-    "image": "",
-    "sourceId": "technolife-mobile",
-    "sourceUrl": "https://www.technolife.com/category/mobile",
-    "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T10:52:44.054Z"
-  },
-  {
-    "id": "web-mobile-9157b39ec8ea1282",
-    "productId": "web-mobile-9157b39ec8ea1282",
-    "name": "گوشی موبايل شیائومی مدل Redmi Note 14 4G ظرفیت 256 گیگابایت رم 8 گیگابایت",
-    "brand": "شیائومی",
-    "model": "گوشی موبايل شیائومی مدل Redmi Note 14 4G ظرفیت 256 گیگابایت رم 8 گیگابایت",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-76419/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%D9%8A%D9%84-%D8%B4%DB%8C%D8%A7%D8%A6%D9%88%D9%85%DB%8C-%D9%85%D8%AF%D9%84-redmi-note-14-4g-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-256-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-8-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
-    "image": "",
-    "sourceId": "technolife-mobile",
-    "sourceUrl": "https://www.technolife.com/category/mobile",
-    "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T10:52:44.054Z"
-  },
-  {
-    "id": "web-mobile-16878911b2ae7579",
-    "productId": "web-mobile-16878911b2ae7579",
-    "name": "گوشی موبایل اپل مد‌ل iPhone 17 CH/A ظرفیت 256 گیگابایت رم 8 گیگابایت - Not Active رجیستر شده",
-    "brand": "اپل",
-    "model": "گوشی موبایل اپل مد‌ل iPhone 17 CH/A ظرفیت 256 گیگابایت رم 8 گیگابایت - Not Active رجیستر شده",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-165487/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84-%D8%A7%D9%BE%D9%84-%D9%85%D8%AF%E2%80%8C%D9%84-iphone-17-ch-a-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-256-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-8-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA---not-active-%D8%B1%D8%AC%DB%8C%D8%B3%D8%AA%D8%B1-%D8%B4%D8%AF%D9%87",
-    "image": "",
-    "sourceId": "technolife-mobile",
-    "sourceUrl": "https://www.technolife.com/category/mobile",
-    "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T10:52:44.054Z"
-  },
-  {
-    "id": "web-mobile-e62e88dc93424657",
-    "productId": "web-mobile-e62e88dc93424657",
-    "name": "پاوربانک شیائومی مدل Redmi PB200LZM ظرفیت 20000 میلی آمپرساعت به همراه کابل تبدیل microUSB",
-    "brand": "شیائومی",
-    "model": "پاوربانک شیائومی مدل Redmi PB200LZM ظرفیت 20000 میلی آمپرساعت به همراه کابل تبدیل microUSB",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-2165/%D9%BE%D8%A7%D9%88%D8%B1%D8%A8%D8%A7%D9%86%DA%A9-%D8%B4%DB%8C%D8%A7%D8%A6%D9%88%D9%85%DB%8C-%D9%85%D8%AF%D9%84-redmi-pb200lzm-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-20000-%D9%85%DB%8C%D9%84%DB%8C-%D8%A2%D9%85%D9%BE%D8%B1%D8%B3%D8%A7%D8%B9%D8%AA-%D8%A8%D9%87-%D9%87%D9%85%D8%B1%D8%A7%D9%87-%DA%A9%D8%A7%D8%A8%D9%84-%D8%AA%D8%A8%D8%AF%DB%8C%D9%84-microusb",
-    "image": "",
-    "sourceId": "technolife-mobile",
-    "sourceUrl": "https://www.technolife.com/category/mobile",
-    "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T10:52:44.054Z"
-  },
-  {
-    "id": "web-mobile-3f647d18b55f732a",
-    "productId": "web-mobile-3f647d18b55f732a",
-    "name": "گوشی موبايل سامسونگ مدل Galaxy A07 4G ظرفیت 128 گیگابایت رم 6 گیگابایت",
-    "brand": "سامسونگ",
-    "model": "گوشی موبايل سامسونگ مدل Galaxy A07 4G ظرفیت 128 گیگابایت رم 6 گیگابایت",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-149352/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF-%D9%85%D8%AF%D9%84-galaxy-a07-4g-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-128-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-6-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
-    "image": "",
-    "sourceId": "technolife-mobile",
-    "sourceUrl": "https://www.technolife.com/category/mobile",
-    "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T10:52:44.054Z"
-  },
-  {
-    "id": "web-mobile-f4cd91c8a9ee95d7",
-    "productId": "web-mobile-f4cd91c8a9ee95d7",
-    "name": "شارژر دیواری سامسونگ 25 وات مدل EP-TA800 دو پین - Original",
-    "brand": "سامسونگ",
-    "model": "شارژر دیواری سامسونگ 25 وات مدل EP-TA800 دو پین - Original",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-166585/%D8%B4%D8%A7%D8%B1%DA%98%D8%B1-%D8%AF%DB%8C%D9%88%D8%A7%D8%B1%DB%8C-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF-25-%D9%88%D8%A7%D8%AA-%D9%85%D8%AF%D9%84-ep-ta800-%D8%AF%D9%88-%D9%BE%DB%8C%D9%86---original",
-    "image": "",
-    "sourceId": "technolife-mobile",
-    "sourceUrl": "https://www.technolife.com/category/mobile",
-    "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T10:52:44.054Z"
-  },
-  {
-    "id": "web-mobile-0b2dfa583dca18be",
-    "productId": "web-mobile-0b2dfa583dca18be",
-    "name": "گوشی موبايل نوکيا مدل 106 (2018) ظرفیت 4 مگابایت رم 4 مگابایت - مونتاژ ایران",
-    "brand": "دل",
-    "model": "گوشی موبايل نوکيا مدل 106 (2018) ظرفیت 4 مگابایت رم 4 مگابایت - مونتاژ ایران",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-24143/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%D9%8A%D9%84-%D9%86%D9%88%DA%A9%D9%8A%D8%A7-%D9%85%D8%AF%D9%84-106-(2018)-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-4-%D9%85%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-4-%D9%85%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA---%D9%85%D9%88%D9%86%D8%AA%D8%A7%DA%98-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
-    "image": "",
-    "sourceId": "technolife-mobile",
-    "sourceUrl": "https://www.technolife.com/category/mobile",
-    "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T10:52:44.054Z"
-  },
-  {
-    "id": "web-mobile-2a5e6b6350e5ae6b",
-    "productId": "web-mobile-2a5e6b6350e5ae6b",
-    "name": "گوشی موبایل ژوبیتر مدل jPhone K10 دو سیم کارت ظرفیت 64 گیگابایت رم 3 گیگابایت + 3 گیگابایت رم مجازی",
-    "brand": "دل",
-    "model": "گوشی موبایل ژوبیتر مدل jPhone K10 دو سیم کارت ظرفیت 64 گیگابایت رم 3 گیگابایت + 3 گیگابایت رم مجازی",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-420649/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84-%DA%98%D9%88%D8%A8%DB%8C%D8%AA%D8%B1-%D9%85%D8%AF%D9%84-jphone-k10-%D8%AF%D9%88-%D8%B3%DB%8C%D9%85-%DA%A9%D8%A7%D8%B1%D8%AA-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-64-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-3-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-+-3-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-%D9%85%D8%AC%D8%A7%D8%B2%DB%8C",
-    "image": "",
-    "sourceId": "technolife-mobile",
-    "sourceUrl": "https://www.technolife.com/category/mobile",
-    "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T10:52:44.054Z"
-  },
-  {
-    "id": "web-mobile-53d28b75c3506e0b",
-    "productId": "web-mobile-53d28b75c3506e0b",
-    "name": "گوشی موبایل سامسونگ Galaxy A37 ظرفیت 256 گیگابایت رم 8 گیگابایت - ویتنام",
-    "brand": "سامسونگ",
-    "model": "گوشی موبایل سامسونگ Galaxy A37 ظرفیت 256 گیگابایت رم 8 گیگابایت - ویتنام",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-400669/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF-galaxy-a37-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-256-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-8-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA---%D9%88%DB%8C%D8%AA%D9%86%D8%A7%D9%85",
-    "image": "",
-    "sourceId": "technolife-mobile",
-    "sourceUrl": "https://www.technolife.com/category/mobile",
-    "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T10:52:44.054Z"
-  },
-  {
-    "id": "web-mobile-740550742a7083b0",
-    "productId": "web-mobile-740550742a7083b0",
-    "name": "گوشی موبايل سامسونگ Galaxy A26 5G ظرفیت 128 گیگابایت رم 6 گیگابایت - ویتنام",
-    "brand": "سامسونگ",
-    "model": "گوشی موبايل سامسونگ Galaxy A26 5G ظرفیت 128 گیگابایت رم 6 گیگابایت - ویتنام",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-99215/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF-galaxy-a26-5g-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-128-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-6-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA---%D9%88%DB%8C%D8%AA%D9%86%D8%A7%D9%85",
-    "image": "",
-    "sourceId": "technolife-mobile",
-    "sourceUrl": "https://www.technolife.com/category/mobile",
-    "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T10:52:44.054Z"
-  },
-  {
-    "id": "web-mobile-ce6e1027ba5d1d24",
-    "productId": "web-mobile-ce6e1027ba5d1d24",
-    "name": "گوشی موبایل شیائومی مدل Redmi Note 14S 4G ظرفیت 256 گیگابایت رم 8 گیگابایت",
-    "brand": "شیائومی",
-    "model": "گوشی موبایل شیائومی مدل Redmi Note 14S 4G ظرفیت 256 گیگابایت رم 8 گیگابایت",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-107882/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84-%D8%B4%DB%8C%D8%A7%D8%A6%D9%88%D9%85%DB%8C-%D9%85%D8%AF%D9%84-redmi-note-14s-4g-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-256-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-8-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
-    "image": "",
-    "sourceId": "technolife-mobile",
-    "sourceUrl": "https://www.technolife.com/category/mobile",
-    "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T10:52:44.054Z"
-  },
-  {
-    "id": "web-mobile-7a0bf05c95e91c56",
-    "productId": "web-mobile-7a0bf05c95e91c56",
-    "name": "گوشی موبایل آنر مدل X7d 4G ظرفیت 256 گیگابایت رم 8 گیگابایت",
-    "brand": "دل",
-    "model": "گوشی موبایل آنر مدل X7d 4G ظرفیت 256 گیگابایت رم 8 گیگابایت",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-179562/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84-%D8%A2%D9%86%D8%B1-%D9%85%D8%AF%D9%84-x7d-4g-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-256-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-8-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
-    "image": "",
-    "sourceId": "technolife-mobile",
-    "sourceUrl": "https://www.technolife.com/category/mobile",
-    "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T10:52:44.054Z"
-  },
-  {
-    "id": "web-mobile-af983247c0fd66d2",
-    "productId": "web-mobile-af983247c0fd66d2",
-    "name": "گوشی موبایل سامسونگ مدل Galaxy A17 4G ظرفیت 256 گیگابایت رم 8 گیگابایت - ویتنام",
-    "brand": "سامسونگ",
-    "model": "گوشی موبایل سامسونگ مدل Galaxy A17 4G ظرفیت 256 گیگابایت رم 8 گیگابایت - ویتنام",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-167563/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF-%D9%85%D8%AF%D9%84-galaxy-a17-4g-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-256-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-8-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA---%D9%88%DB%8C%D8%AA%D9%86%D8%A7%D9%85-",
-    "image": "",
-    "sourceId": "technolife-mobile",
-    "sourceUrl": "https://www.technolife.com/category/mobile",
-    "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T10:52:44.054Z"
-  },
-  {
-    "id": "web-mobile-32ba16c0c7c8f5a5",
-    "productId": "web-mobile-32ba16c0c7c8f5a5",
-    "name": "شارژر دیواری اپل 40 وات مدل Dynamic Power Adapter - اورجینال",
-    "brand": "اپل",
-    "model": "شارژر دیواری اپل 40 وات مدل Dynamic Power Adapter - اورجینال",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-301487/%D8%B4%D8%A7%D8%B1%DA%98%D8%B1-%D8%AF%DB%8C%D9%88%D8%A7%D8%B1%DB%8C-%D8%A7%D9%BE%D9%84-40-%D9%88%D8%A7%D8%AA-%D9%85%D8%AF%D9%84-dynamic-power-adapter---%D8%A7%D9%88%D8%B1%D8%AC%DB%8C%D9%86%D8%A7%D9%84",
-    "image": "",
-    "sourceId": "technolife-mobile",
-    "sourceUrl": "https://www.technolife.com/category/mobile",
-    "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T10:52:44.054Z"
-  },
-  {
-    "id": "web-mobile-5d5f7dd023b8a101",
-    "productId": "web-mobile-5d5f7dd023b8a101",
-    "name": "شارژر دیواری سامسونگ 25 وات مدل EP-T2510 - اورجینال",
-    "brand": "سامسونگ",
-    "model": "شارژر دیواری سامسونگ 25 وات مدل EP-T2510 - اورجینال",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-124974/%D8%B4%D8%A7%D8%B1%DA%98%D8%B1-%D8%AF%DB%8C%D9%88%D8%A7%D8%B1%DB%8C-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF-25-%D9%88%D8%A7%D8%AA-%D9%85%D8%AF%D9%84-ep-t2510---%D8%A7%D9%88%D8%B1%D8%AC%DB%8C%D9%86%D8%A7%D9%84",
-    "image": "",
-    "sourceId": "technolife-mobile",
-    "sourceUrl": "https://www.technolife.com/category/mobile",
-    "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T10:52:44.054Z"
-  },
-  {
-    "id": "web-mobile-55507fedc753a301",
-    "productId": "web-mobile-55507fedc753a301",
-    "name": "گوشی موبایل پوکو مدل X7 Pro ظرفیت 512 گیگابایت رم 12 گیگابایت",
-    "brand": "دل",
-    "model": "گوشی موبایل پوکو مدل X7 Pro ظرفیت 512 گیگابایت رم 12 گیگابایت",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-75952/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84-%D9%BE%D9%88%DA%A9%D9%88-%D9%85%D8%AF%D9%84-x7-pro-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-512-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-12-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
-    "image": "",
-    "sourceId": "technolife-mobile",
-    "sourceUrl": "https://www.technolife.com/category/mobile",
-    "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T10:52:44.054Z"
-  },
-  {
-    "id": "web-mobile-89a0c25e07e3ad3c",
-    "productId": "web-mobile-89a0c25e07e3ad3c",
-    "name": "Samsung Galaxy A36",
-    "brand": "سامسونگ",
-    "model": "Samsung Galaxy A36",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40711-samsung-galaxy-a36.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.384Z"
-  },
-  {
-    "id": "web-mobile-eeae69fba7ca59f5",
-    "productId": "web-mobile-eeae69fba7ca59f5",
-    "name": "Samsung Galaxy S26 Ultra",
-    "brand": "سامسونگ",
-    "model": "Samsung Galaxy S26 Ultra",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-41113-samsung-galaxy-s26-ultra.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.384Z"
-  },
-  {
-    "id": "web-mobile-b56b93b186c4a653",
-    "productId": "web-mobile-b56b93b186c4a653",
-    "name": "Xiaomi Redmi Note 15 Pro",
-    "brand": "شیائومی",
-    "model": "Xiaomi Redmi Note 15 Pro",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-41046-xiaomi-redmi-note-15-pro.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.384Z"
-  },
-  {
-    "id": "web-mobile-ba354c1fbf83f865",
-    "productId": "web-mobile-ba354c1fbf83f865",
-    "name": "Xiaomi Redmi Note 15",
-    "brand": "شیائومی",
-    "model": "Xiaomi Redmi Note 15",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-41047-xiaomi-redmi-note-15.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.384Z"
-  },
-  {
-    "id": "web-mobile-baaa8119b28aa041",
-    "productId": "web-mobile-baaa8119b28aa041",
-    "name": "Samsung Galaxy A56",
-    "brand": "سامسونگ",
-    "model": "Samsung Galaxy A56",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40710-samsung-galaxy-a56.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.385Z"
-  },
-  {
-    "id": "web-mobile-1922ffc0ad9c175d",
-    "productId": "web-mobile-1922ffc0ad9c175d",
-    "name": "Xiaomi 17 Pro Max",
-    "brand": "شیائومی",
-    "model": "Xiaomi 17 Pro Max",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40962-xiaomi-17-pro-max.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.385Z"
-  },
-  {
-    "id": "web-mobile-02e3c9834275c5a3",
-    "productId": "web-mobile-02e3c9834275c5a3",
-    "name": "Xiaomi Poco X8 Pro Max",
-    "brand": "شیائومی",
-    "model": "Xiaomi Poco X8 Pro Max",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-41130-xiaomi-poco-x8-pro-max.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.385Z"
-  },
-  {
-    "id": "web-mobile-11c79ea44f98c5ee",
-    "productId": "web-mobile-11c79ea44f98c5ee",
-    "name": "Xiaomi Redmi Note 14 Pro+",
-    "brand": "شیائومی",
-    "model": "Xiaomi Redmi Note 14 Pro+",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40574-xiaomi-redmi-note-14-pro.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.385Z"
-  },
-  {
-    "id": "web-mobile-49ac5921d76f0e5b",
-    "productId": "web-mobile-49ac5921d76f0e5b",
-    "name": "Apple iPhone 16",
-    "brand": "اپل",
-    "model": "Apple iPhone 16",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40553-apple-iphone-16.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.385Z"
-  },
-  {
-    "id": "web-mobile-24a4910cd35fbd9f",
-    "productId": "web-mobile-24a4910cd35fbd9f",
-    "name": "Samsung Galaxy S25 Ultra",
-    "brand": "سامسونگ",
-    "model": "Samsung Galaxy S25 Ultra",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40683-samsung-galaxy-s25-ultra.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.385Z"
-  },
-  {
-    "id": "web-mobile-0c45dd47971d4f19",
-    "productId": "web-mobile-0c45dd47971d4f19",
-    "name": "Xiaomi Redmi K90",
-    "brand": "شیائومی",
-    "model": "Xiaomi Redmi K90",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-41002-xiaomi-redmi-k90.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.386Z"
-  },
-  {
-    "id": "web-mobile-69190324295dc966",
-    "productId": "web-mobile-69190324295dc966",
-    "name": "Apple iPhone 13 Pro",
-    "brand": "اپل",
-    "model": "Apple iPhone 13 Pro",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-39403-apple-iphone-13-pro.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.386Z"
-  },
-  {
-    "id": "web-mobile-37c553113ea1e9ce",
-    "productId": "web-mobile-37c553113ea1e9ce",
-    "name": "Realme Note 60x",
-    "brand": "",
-    "model": "Realme Note 60x",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40646-realme-note-60x.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.386Z"
-  },
-  {
-    "id": "web-mobile-82828cfda327147a",
-    "productId": "web-mobile-82828cfda327147a",
-    "name": "Motorola Razr Fold",
-    "brand": "",
-    "model": "Motorola Razr Fold",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-41211-motorola-razr-fold.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.386Z"
-  },
-  {
-    "id": "web-mobile-2b1f216d684f3e93",
-    "productId": "web-mobile-2b1f216d684f3e93",
-    "name": "Motorola Edge 70 Pro",
-    "brand": "",
-    "model": "Motorola Edge 70 Pro",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-41202-motorola-edge-70-pro.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.386Z"
-  },
-  {
-    "id": "web-mobile-2d60484322ff9f5e",
-    "productId": "web-mobile-2d60484322ff9f5e",
-    "name": "Xiaomi Redmi Turbo 5 Max",
-    "brand": "شیائومی",
-    "model": "Xiaomi Redmi Turbo 5 Max",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-41091-xiaomi-redmi-turbo-5-max.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.386Z"
-  },
-  {
-    "id": "web-mobile-54bde84dfbf9893c",
-    "productId": "web-mobile-54bde84dfbf9893c",
-    "name": "Xiaomi 17 Pro",
-    "brand": "شیائومی",
-    "model": "Xiaomi 17 Pro",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40963-xiaomi-17-pro.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.386Z"
-  },
-  {
-    "id": "web-mobile-6bcb705d00e5fd51",
-    "productId": "web-mobile-6bcb705d00e5fd51",
-    "name": "Honor X5b Plus",
-    "brand": "",
-    "model": "Honor X5b Plus",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40595-honor-x5b-plus.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.387Z"
-  },
-  {
-    "id": "web-mobile-6b39cadb640e5d45",
-    "productId": "web-mobile-6b39cadb640e5d45",
-    "name": "Realme Note 60",
-    "brand": "",
-    "model": "Realme Note 60",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40544-realme-note-60.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.387Z"
-  },
-  {
-    "id": "web-mobile-9848bd9020c39c08",
-    "productId": "web-mobile-9848bd9020c39c08",
-    "name": "Samsung Galaxy A17 4G",
-    "brand": "سامسونگ",
-    "model": "Samsung Galaxy A17 4G",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40951-samsung-galaxy-a17-4g.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.387Z"
-  },
-  {
-    "id": "web-mobile-25429aeb291a3b7e",
-    "productId": "web-mobile-25429aeb291a3b7e",
-    "name": "Realme C75",
-    "brand": "",
-    "model": "Realme C75",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40644-realme-c75.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.387Z"
-  },
-  {
-    "id": "web-mobile-18630865144df600",
-    "productId": "web-mobile-18630865144df600",
-    "name": "Apple iPhone 17",
-    "brand": "اپل",
-    "model": "Apple iPhone 17",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40933-apple-iphone-17.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.387Z"
-  },
-  {
-    "id": "web-mobile-dff617860844098c",
-    "productId": "web-mobile-dff617860844098c",
-    "name": "Samsung Galaxy Z Flip7",
-    "brand": "سامسونگ",
-    "model": "Samsung Galaxy Z Flip7",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40870-samsung-galaxy-z-flip7.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.387Z"
-  },
-  {
-    "id": "web-mobile-4d0d8b847cd39075",
-    "productId": "web-mobile-4d0d8b847cd39075",
-    "name": "Apple iPhone 17 Pro Max",
-    "brand": "اپل",
-    "model": "Apple iPhone 17 Pro Max",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40934-apple-iphone-17-pro-max.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.387Z"
-  },
-  {
-    "id": "web-mobile-cc3a4ed40f46bfb9",
-    "productId": "web-mobile-cc3a4ed40f46bfb9",
-    "name": "Apple iPhone 17 Pro",
-    "brand": "اپل",
-    "model": "Apple iPhone 17 Pro",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40935-apple-iphone-17-pro.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.387Z"
-  },
-  {
-    "id": "web-mobile-92ac4d2ed2ad08d1",
-    "productId": "web-mobile-92ac4d2ed2ad08d1",
-    "name": "Samsung Galaxy A16",
-    "brand": "سامسونگ",
-    "model": "Samsung Galaxy A16",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40587-samsung-galaxy-a16.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.387Z"
-  },
-  {
-    "id": "web-mobile-4856504ba4e0c5c2",
-    "productId": "web-mobile-4856504ba4e0c5c2",
-    "name": "Samsung Galaxy A26",
-    "brand": "سامسونگ",
-    "model": "Samsung Galaxy A26",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40709-samsung-galaxy-a26.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.388Z"
-  },
-  {
-    "id": "web-mobile-669f129d2ec217fd",
-    "productId": "web-mobile-669f129d2ec217fd",
-    "name": "Samsung Galaxy S25 FE",
-    "brand": "سامسونگ",
-    "model": "Samsung Galaxy S25 FE",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40925-samsung-galaxy-s25-fe.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.388Z"
-  },
-  {
-    "id": "web-mobile-aae673c016acf543",
-    "productId": "web-mobile-aae673c016acf543",
-    "name": "Samsung Galaxy A07 4G",
-    "brand": "سامسونگ",
-    "model": "Samsung Galaxy A07 4G",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40917-samsung-galaxy-a07-4g.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.388Z"
-  },
-  {
-    "id": "web-mobile-e96074679c827376",
-    "productId": "web-mobile-e96074679c827376",
-    "name": "Xiaomi Poco C71",
-    "brand": "شیائومی",
-    "model": "Xiaomi Poco C71",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40751-xiaomi-poco-c71.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.389Z"
-  },
-  {
-    "id": "web-mobile-69f5acc08a043fac",
-    "productId": "web-mobile-69f5acc08a043fac",
-    "name": "Xiaomi Poco X7 Pro",
-    "brand": "شیائومی",
-    "model": "Xiaomi Poco X7 Pro",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40672-xiaomi-poco-x7-pro.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.389Z"
-  },
-  {
-    "id": "web-mobile-d0f83da1bb7b3714",
-    "productId": "web-mobile-d0f83da1bb7b3714",
-    "name": "Xiaomi Redmi A5 4G",
-    "brand": "شیائومی",
-    "model": "Xiaomi Redmi A5 4G",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40743-xiaomi-redmi-a5-4g.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.389Z"
-  },
-  {
-    "id": "web-mobile-b0937fd00988e05a",
-    "productId": "web-mobile-b0937fd00988e05a",
-    "name": "Xiaomi Redmi Note 14S",
-    "brand": "شیائومی",
-    "model": "Xiaomi Redmi Note 14S",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40727-xiaomi-redmi-note-14s.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.389Z"
-  },
-  {
-    "id": "web-mobile-6bd1f7b5f3aa31c1",
-    "productId": "web-mobile-6bd1f7b5f3aa31c1",
-    "name": "Xiaomi Poco C85 4G",
-    "brand": "شیائومی",
-    "model": "Xiaomi Poco C85 4G",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40922-xiaomi-poco-c85-4g.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.389Z"
-  },
-  {
-    "id": "web-mobile-96483f618195db4e",
-    "productId": "web-mobile-96483f618195db4e",
-    "name": "Xiaomi Poco M8 Pro",
-    "brand": "شیائومی",
-    "model": "Xiaomi Poco M8 Pro",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-41072-xiaomi-poco-m8-pro.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.390Z"
-  },
-  {
-    "id": "web-mobile-f8acb2c0c4a0ddce",
-    "productId": "web-mobile-f8acb2c0c4a0ddce",
-    "name": "Samsung Galaxy A27",
-    "brand": "سامسونگ",
-    "model": "Samsung Galaxy A27",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-41236-samsung-galaxy-a27.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.390Z"
-  },
-  {
-    "id": "web-mobile-03acdee43b4c0c2c",
-    "productId": "web-mobile-03acdee43b4c0c2c",
-    "name": "Samsung Galaxy A37",
-    "brand": "سامسونگ",
-    "model": "Samsung Galaxy A37",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-41120-samsung-galaxy-a37.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.391Z"
-  },
-  {
-    "id": "web-mobile-09f0ffe6e4cc8be1",
-    "productId": "web-mobile-09f0ffe6e4cc8be1",
-    "name": "Samsung Galaxy A55",
-    "brand": "سامسونگ",
-    "model": "Samsung Galaxy A55",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40357-samsung-galaxy-a55.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.391Z"
-  },
-  {
-    "id": "web-mobile-f37a0a0142ed6638",
-    "productId": "web-mobile-f37a0a0142ed6638",
-    "name": "Samsung Galaxy S26+",
-    "brand": "سامسونگ",
-    "model": "Samsung Galaxy S26+",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-41114-samsung-galaxy-s26.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.392Z"
-  },
-  {
-    "id": "web-mobile-389dad479b6de6a0",
-    "productId": "web-mobile-389dad479b6de6a0",
-    "name": "Samsung Galaxy A57",
-    "brand": "سامسونگ",
-    "model": "Samsung Galaxy A57",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-41119-samsung-galaxy-a57.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.392Z"
-  },
-  {
-    "id": "web-mobile-8a9cb3bdae6af1ac",
-    "productId": "web-mobile-8a9cb3bdae6af1ac",
-    "name": "Xiaomi Redmi Note 15 4G",
-    "brand": "شیائومی",
-    "model": "Xiaomi Redmi Note 15 4G",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-41049-xiaomi-redmi-note-15-4g.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.393Z"
-  },
-  {
-    "id": "web-mobile-438a7fdeef2b2a93",
-    "productId": "web-mobile-438a7fdeef2b2a93",
-    "name": "Xiaomi Redmi Note 15 Pro 4G",
-    "brand": "شیائومی",
-    "model": "Xiaomi Redmi Note 15 Pro 4G",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-41048-xiaomi-redmi-note-15-pro-4g.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.393Z"
-  },
-  {
-    "id": "web-mobile-0c228896a3422e74",
-    "productId": "web-mobile-0c228896a3422e74",
-    "name": "Xiaomi Redmi Note 15 Pro+",
-    "brand": "شیائومی",
-    "model": "Xiaomi Redmi Note 15 Pro+",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-41045-xiaomi-redmi-note-15-pro.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.393Z"
-  },
-  {
-    "id": "web-mobile-bd6bb8c861ddc51b",
-    "productId": "web-mobile-bd6bb8c861ddc51b",
-    "name": "Xiaomi Poco X8 Pro",
-    "brand": "شیائومی",
-    "model": "Xiaomi Poco X8 Pro",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-41131-xiaomi-poco-x8-pro.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.393Z"
-  },
-  {
-    "id": "web-mobile-c67adb364563567e",
-    "productId": "web-mobile-c67adb364563567e",
-    "name": "Xiaomi Redmi A3",
-    "brand": "شیائومی",
-    "model": "Xiaomi Redmi A3",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40335-xiaomi-redmi-a3.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.393Z"
-  },
-  {
-    "id": "web-mobile-cf5195c36af2450a",
-    "productId": "web-mobile-cf5195c36af2450a",
-    "name": "Xiaomi Redmi Note 14 4G (Global)",
-    "brand": "شیائومی",
-    "model": "Xiaomi Redmi Note 14 4G (Global)",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40678-xiaomi-redmi-note-14-4g-global.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.393Z"
-  },
-  {
-    "id": "web-mobile-b8c547a8846bb7e1",
-    "productId": "web-mobile-b8c547a8846bb7e1",
-    "name": "Xiaomi Redmi Note 14 Pro 4G (Global)",
-    "brand": "شیائومی",
-    "model": "Xiaomi Redmi Note 14 Pro 4G (Global)",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40676-xiaomi-redmi-note-14-pro-4g-global.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.393Z"
-  },
-  {
-    "id": "web-mobile-d12d0171283e3aa5",
-    "productId": "web-mobile-d12d0171283e3aa5",
-    "name": "Xiaomi Redmi Note 14 Pro 5G (Global)",
-    "brand": "شیائومی",
-    "model": "Xiaomi Redmi Note 14 Pro 5G (Global)",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40675-xiaomi-redmi-note-14-pro-5g-global.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.394Z"
-  },
-  {
-    "id": "web-mobile-59027dae399e5258",
-    "productId": "web-mobile-59027dae399e5258",
-    "name": "Xiaomi Redmi 13x",
-    "brand": "شیائومی",
-    "model": "Xiaomi Redmi 13x",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40742-xiaomi-redmi-13x.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.394Z"
-  },
-  {
-    "id": "web-mobile-e11bf46c0e9677f4",
-    "productId": "web-mobile-e11bf46c0e9677f4",
-    "name": "Xiaomi Redmi 15C 4G",
-    "brand": "شیائومی",
-    "model": "Xiaomi Redmi 15C 4G",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40890-xiaomi-redmi-15c-4g.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.394Z"
-  },
-  {
-    "id": "web-mobile-55a22895d03d8ab8",
-    "productId": "web-mobile-55a22895d03d8ab8",
-    "name": "Xiaomi Redmi 15 4G",
-    "brand": "شیائومی",
-    "model": "Xiaomi Redmi 15 4G",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40888-xiaomi-redmi-15-4g.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.394Z"
-  },
-  {
-    "id": "web-mobile-a6011e190252de8c",
-    "productId": "web-mobile-a6011e190252de8c",
-    "name": "Apple iPhone 14",
-    "brand": "اپل",
-    "model": "Apple iPhone 14",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "in_stock",
-    "productUrl": "https://www.mobile.ir/phones/shops-39805-apple-iphone-14.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.394Z"
-  },
-  {
-    "id": "web-mobile-96dfa114ec5b041d",
-    "productId": "web-mobile-96dfa114ec5b041d",
-    "name": "Apple iPhone 16 Pro Max",
-    "brand": "اپل",
-    "model": "Apple iPhone 16 Pro Max",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40550-apple-iphone-16-pro-max.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.394Z"
-  },
-  {
-    "id": "web-mobile-888a8eaa500fb9fe",
-    "productId": "web-mobile-888a8eaa500fb9fe",
-    "name": "Apple iPhone 16 Pro",
-    "brand": "اپل",
-    "model": "Apple iPhone 16 Pro",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40551-apple-iphone-16-pro.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.394Z"
-  },
-  {
-    "id": "web-mobile-878db945e33531aa",
-    "productId": "web-mobile-878db945e33531aa",
-    "name": "Apple iPhone 15",
-    "brand": "اپل",
-    "model": "Apple iPhone 15",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40173-apple-iphone-15.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.394Z"
-  },
-  {
-    "id": "web-mobile-72094adf3944b0ed",
-    "productId": "web-mobile-72094adf3944b0ed",
-    "name": "Honor 400",
-    "brand": "",
-    "model": "Honor 400",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40805-honor-400.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.395Z"
-  },
-  {
-    "id": "web-mobile-88dee6e5899efb59",
-    "productId": "web-mobile-88dee6e5899efb59",
-    "name": "Apple iPhone 16e",
-    "brand": "اپل",
-    "model": "Apple iPhone 16e",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40697-apple-iphone-16e.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.395Z"
-  },
-  {
-    "id": "web-mobile-461fe33c3a219c7a",
-    "productId": "web-mobile-461fe33c3a219c7a",
-    "name": "Honor X6c",
-    "brand": "",
-    "model": "Honor X6c",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40846-honor-x6c.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.395Z"
-  },
-  {
-    "id": "web-mobile-93cf620fce547cf6",
-    "productId": "web-mobile-93cf620fce547cf6",
-    "name": "Honor 400 Lite",
-    "brand": "",
-    "model": "Honor 400 Lite",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40749-honor-400-lite.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.396Z"
-  },
-  {
-    "id": "web-mobile-f239e6cc10f6d19f",
-    "productId": "web-mobile-f239e6cc10f6d19f",
-    "name": "Honor Play10 4G",
-    "brand": "",
-    "model": "Honor Play10 4G",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40946-honor-play10-4g.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.396Z"
-  },
-  {
-    "id": "web-mobile-77ea3d5c9c8fbdaf",
-    "productId": "web-mobile-77ea3d5c9c8fbdaf",
-    "name": "Honor X7d 4G",
-    "brand": "",
-    "model": "Honor X7d 4G",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40919-honor-x7d-4g.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.396Z"
-  },
-  {
-    "id": "web-mobile-5d23f1e8301453d2",
-    "productId": "web-mobile-5d23f1e8301453d2",
-    "name": "Honor X5c Plus",
-    "brand": "",
-    "model": "Honor X5c Plus",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40968-honor-x5c-plus.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.396Z"
-  },
-  {
-    "id": "web-mobile-e7c8a985c4dd9ac4",
-    "productId": "web-mobile-e7c8a985c4dd9ac4",
-    "name": "Honor 600",
-    "brand": "",
-    "model": "Honor 600",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-41168-honor-600.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.397Z"
-  },
-  {
-    "id": "web-mobile-a29cb80b4a92517d",
-    "productId": "web-mobile-a29cb80b4a92517d",
-    "name": "Honor 600 Lite",
-    "brand": "",
-    "model": "Honor 600 Lite",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-41136-honor-600-lite.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.397Z"
-  },
-  {
-    "id": "web-mobile-12c8dd8ce7245017",
-    "productId": "web-mobile-12c8dd8ce7245017",
-    "name": "Honor X7e",
-    "brand": "",
-    "model": "Honor X7e",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-41228-honor-x7e.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.397Z"
-  },
-  {
-    "id": "web-mobile-59f6968b56f7b5cd",
-    "productId": "web-mobile-59f6968b56f7b5cd",
-    "name": "Realme C71",
-    "brand": "",
-    "model": "Realme C71",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40843-realme-c71.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.397Z"
-  },
-  {
-    "id": "web-mobile-7d6ed3be5a1bf95d",
-    "productId": "web-mobile-7d6ed3be5a1bf95d",
-    "name": "Honor X9d",
-    "brand": "",
-    "model": "Honor X9d",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-41017-honor-x9d.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.398Z"
-  },
-  {
-    "id": "web-mobile-72c5de09bac4d8b3",
-    "productId": "web-mobile-72c5de09bac4d8b3",
-    "name": "Honor 600 Pro",
-    "brand": "",
-    "model": "Honor 600 Pro",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-41167-honor-600-pro.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.398Z"
-  },
-  {
-    "id": "web-mobile-8253fb0dce5f3bdf",
-    "productId": "web-mobile-8253fb0dce5f3bdf",
-    "name": "Honor Win RT",
-    "brand": "",
-    "model": "Honor Win RT",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-41055-honor-win-rt.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.398Z"
-  },
-  {
-    "id": "web-mobile-15bb4b8ecebc2ce2",
-    "productId": "web-mobile-15bb4b8ecebc2ce2",
-    "name": "Vivo iQOO 15",
-    "brand": "",
-    "model": "Vivo iQOO 15",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40992-vivo-iqoo-15.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.398Z"
-  },
-  {
-    "id": "web-mobile-69312dc6ad0fa187",
-    "productId": "web-mobile-69312dc6ad0fa187",
-    "name": "Vivo X300 Pro",
-    "brand": "",
-    "model": "Vivo X300 Pro",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40975-vivo-x300-pro.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.398Z"
-  },
-  {
-    "id": "web-mobile-1638a5fcef41f946",
-    "productId": "web-mobile-1638a5fcef41f946",
-    "name": "OnePlus Ace 6T",
-    "brand": "",
-    "model": "OnePlus Ace 6T",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-41033-oneplus-ace-6t.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.398Z"
-  },
-  {
-    "id": "web-mobile-c5a26e9862c3382d",
-    "productId": "web-mobile-c5a26e9862c3382d",
-    "name": "Motorola Edge 60 Fusion",
-    "brand": "",
-    "model": "Motorola Edge 60 Fusion",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40738-motorola-edge-60-fusion.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.398Z"
-  },
-  {
-    "id": "web-mobile-5f67af8fa58e5a73",
-    "productId": "web-mobile-5f67af8fa58e5a73",
-    "name": "Honor X8d",
-    "brand": "",
-    "model": "Honor X8d",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-41038-honor-x8d.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.399Z"
-  },
-  {
-    "id": "web-mobile-73f02edaa77cdda7",
-    "productId": "web-mobile-73f02edaa77cdda7",
-    "name": "Samsung Galaxy A05",
-    "brand": "سامسونگ",
-    "model": "Samsung Galaxy A05",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40198-samsung-galaxy-a05.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.399Z"
-  },
-  {
-    "id": "web-mobile-cee538d2dfe63627",
-    "productId": "web-mobile-cee538d2dfe63627",
-    "name": "Samsung Galaxy A06",
-    "brand": "سامسونگ",
-    "model": "Samsung Galaxy A06",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40523-samsung-galaxy-a06.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.399Z"
-  },
-  {
-    "id": "web-mobile-21f2f5cd482677d0",
-    "productId": "web-mobile-21f2f5cd482677d0",
-    "name": "Realme Note 50",
-    "brand": "",
-    "model": "Realme Note 50",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40339-realme-note-50.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.399Z"
-  },
-  {
-    "id": "web-mobile-ce6f17bf9e4a9854",
-    "productId": "web-mobile-ce6f17bf9e4a9854",
-    "name": "Samsung Galaxy A06 5G",
-    "brand": "سامسونگ",
-    "model": "Samsung Galaxy A06 5G",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40699-samsung-galaxy-a06-5g.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.399Z"
-  },
-  {
-    "id": "web-mobile-1aae7badc92d21bc",
-    "productId": "web-mobile-1aae7badc92d21bc",
-    "name": "Xiaomi 15T Pro",
-    "brand": "شیائومی",
-    "model": "Xiaomi 15T Pro",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40958-xiaomi-15t-pro.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.399Z"
-  },
-  {
-    "id": "web-mobile-9efd47b828b0adf9",
-    "productId": "web-mobile-9efd47b828b0adf9",
-    "name": "Xiaomi Poco F6 Pro",
-    "brand": "شیائومی",
-    "model": "Xiaomi Poco F6 Pro",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40448-xiaomi-poco-f6-pro.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.399Z"
-  },
-  {
-    "id": "web-mobile-bd36d5d728534272",
-    "productId": "web-mobile-bd36d5d728534272",
-    "name": "Xiaomi Poco X7",
-    "brand": "شیائومی",
-    "model": "Xiaomi Poco X7",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40673-xiaomi-poco-x7.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.400Z"
-  },
-  {
-    "id": "web-mobile-b4437917e0a4fb1e",
-    "productId": "web-mobile-b4437917e0a4fb1e",
-    "name": "Xiaomi Poco M7 pro 5G",
-    "brand": "شیائومی",
-    "model": "Xiaomi Poco M7 pro 5G",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40650-xiaomi-poco-m7-pro-5g.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.400Z"
-  },
-  {
-    "id": "web-mobile-cabde82a5e189fea",
-    "productId": "web-mobile-cabde82a5e189fea",
-    "name": "Xiaomi Poco M7",
-    "brand": "شیائومی",
-    "model": "Xiaomi Poco M7",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40712-xiaomi-poco-m7.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.400Z"
-  },
-  {
-    "id": "web-mobile-8b31587e917db628",
-    "productId": "web-mobile-8b31587e917db628",
-    "name": "Xiaomi Poco F6",
-    "brand": "شیائومی",
-    "model": "Xiaomi Poco F6",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40449-xiaomi-poco-f6.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.400Z"
-  },
-  {
-    "id": "web-mobile-0d5a256a0819845c",
-    "productId": "web-mobile-0d5a256a0819845c",
-    "name": "Xiaomi Redmi Note 14",
-    "brand": "شیائومی",
-    "model": "Xiaomi Redmi Note 14",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40645-xiaomi-redmi-note-14.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.400Z"
-  },
-  {
-    "id": "web-mobile-b9d42e3327daa055",
-    "productId": "web-mobile-b9d42e3327daa055",
-    "name": "Honor Magic8 Pro",
-    "brand": "",
-    "model": "Honor Magic8 Pro",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40982-honor-magic8-pro.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.400Z"
-  },
-  {
-    "id": "web-mobile-eb3c5bbf87be8775",
-    "productId": "web-mobile-eb3c5bbf87be8775",
-    "name": "Xiaomi 17 Ultra",
-    "brand": "شیائومی",
-    "model": "Xiaomi 17 Ultra",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-41053-xiaomi-17-ultra.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.400Z"
-  },
-  {
-    "id": "web-mobile-623d62ab70d679c0",
-    "productId": "web-mobile-623d62ab70d679c0",
-    "name": "Xiaomi 17T Pro",
-    "brand": "شیائومی",
-    "model": "Xiaomi 17T Pro",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-41217-xiaomi-17t-pro.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.401Z"
-  },
-  {
-    "id": "web-mobile-b7bc899a31121804",
-    "productId": "web-mobile-b7bc899a31121804",
-    "name": "Xiaomi 17T",
-    "brand": "شیائومی",
-    "model": "Xiaomi 17T",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-41218-xiaomi-17t.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.401Z"
-  },
-  {
-    "id": "web-mobile-33924a044c03bfcb",
-    "productId": "web-mobile-33924a044c03bfcb",
-    "name": "Huawei Pura 90s Pro Max",
-    "brand": "",
-    "model": "Huawei Pura 90s Pro Max",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-41262-huawei-pura-90s-pro-max.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T10:53:30.401Z"
-  },
-  {
-    "id": "web-mobile-1b21267829f3863e",
-    "productId": "web-mobile-1b21267829f3863e",
-    "name": "خاکی نقره ای مشکی گوشی موبایل اپل iPhone 16 Pro Max 8GB 1TB ZA/A Dual Sim نات اکتیو",
-    "brand": "اپل",
-    "model": "خاکی نقره ای مشکی گوشی موبایل اپل iPhone 16 Pro Max 8GB 1TB ZA/A Dual Sim نات اکتیو",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product/dgp-3106-3107-3108-iphone-16-8gb-1tb-ch-a-dual-sim/",
-    "image": "",
-    "sourceId": "digizo-mobile",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo-mobile",
-    "observedAt": "2026-09-01T10:53:36.220Z"
-  },
-  {
-    "id": "web-mobile-60e576464099d3ea",
-    "productId": "web-mobile-60e576464099d3ea",
-    "name": "آبی سبز سفید یاسی مشکی گوشی موبایل اپل iPhone 17 8GB 256GB Dual Sim نات اکتیو",
-    "brand": "اپل",
-    "model": "آبی سبز سفید یاسی مشکی گوشی موبایل اپل iPhone 17 8GB 256GB Dual Sim نات اکتیو",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product/dgp-6518-6519-6520-6521-6522-iphone-17-8gb-256gb-dual-sim-not-active/",
-    "image": "",
-    "sourceId": "digizo-mobile",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo-mobile",
-    "observedAt": "2026-09-01T10:53:36.221Z"
-  },
-  {
-    "id": "web-mobile-f4c2995227e48efb",
-    "productId": "web-mobile-f4c2995227e48efb",
-    "name": "سرمه ای نارنجی نقره ای گوشی موبایل اپل iPhone 17 Pro Max 12GB 256GB Dual Sim نات اکتیو",
-    "brand": "اپل",
-    "model": "سرمه ای نارنجی نقره ای گوشی موبایل اپل iPhone 17 Pro Max 12GB 256GB Dual Sim نات اکتیو",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product/dgp-6599-6600-6001-iphone-17-pro-max-12gb-256gb-dual-sim-not-active/",
-    "image": "",
-    "sourceId": "digizo-mobile",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo-mobile",
-    "observedAt": "2026-09-01T10:53:36.221Z"
-  },
-  {
-    "id": "web-mobile-7b22e71d1c1b2909",
-    "productId": "web-mobile-7b22e71d1c1b2909",
-    "name": "سبز مشکی بنفش گوشی موبایل سامسونگ Galaxy A07 6GB 128GB",
-    "brand": "سامسونگ",
-    "model": "سبز مشکی بنفش گوشی موبایل سامسونگ Galaxy A07 6GB 128GB",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product/dgp-7792-7793-7794-galaxy-a07-6gb-128gb/",
-    "image": "",
-    "sourceId": "digizo-mobile",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo-mobile",
-    "observedAt": "2026-09-01T10:53:36.221Z"
-  },
-  {
-    "id": "web-mobile-d6a45bb9a3a832d1",
-    "productId": "web-mobile-d6a45bb9a3a832d1",
-    "name": "آبی طوسی مشکی گوشی موبایل سامسونگ Galaxy A17 6GB 128GB (ویتنام)",
-    "brand": "سامسونگ",
-    "model": "آبی طوسی مشکی گوشی موبایل سامسونگ Galaxy A17 6GB 128GB (ویتنام)",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product/dgp-9844-9845-9846-galaxy-a17-6gb-128gb/",
-    "image": "",
-    "sourceId": "digizo-mobile",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo-mobile",
-    "observedAt": "2026-09-01T10:53:36.221Z"
-  },
-  {
-    "id": "web-mobile-35e929d790274be1",
-    "productId": "web-mobile-35e929d790274be1",
-    "name": "صورتی مشکی گوشی موبایل سامسونگ Galaxy A26 6GB 128GB",
-    "brand": "سامسونگ",
-    "model": "صورتی مشکی گوشی موبایل سامسونگ Galaxy A26 6GB 128GB",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "in_stock",
-    "productUrl": "https://digizo.shop/product/dgp-7984-7985-galaxy-a26-6gb-128gb/",
-    "image": "",
-    "sourceId": "digizo-mobile",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo-mobile",
-    "observedAt": "2026-09-01T10:53:36.221Z"
-  },
-  {
-    "id": "web-mobile-21bbba2305930d54",
-    "productId": "web-mobile-21bbba2305930d54",
-    "name": "لیمویی یاسی سفید مشکی گوشی موبایل سامسونگ Galaxy A36 8GB 256GB (2025) (ویتنام)",
-    "brand": "سامسونگ",
-    "model": "لیمویی یاسی سفید مشکی گوشی موبایل سامسونگ Galaxy A36 8GB 256GB (2025) (ویتنام)",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product/dgp-9458-9459-9434-9435-galaxy-a36-8gb-256gb/",
-    "image": "",
-    "sourceId": "digizo-mobile",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo-mobile",
-    "observedAt": "2026-09-01T10:53:36.221Z"
-  },
-  {
-    "id": "web-mobile-7831a9e3035640f7",
-    "productId": "web-mobile-7831a9e3035640f7",
-    "name": "سبز طوسی صورتی مشکی گوشی موبایل سامسونگ Galaxy A56 12GB 256GB (2025) (ویتنام)",
-    "brand": "سامسونگ",
-    "model": "سبز طوسی صورتی مشکی گوشی موبایل سامسونگ Galaxy A56 12GB 256GB (2025) (ویتنام)",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product/dgp-9760-9761-galaxy-a56-12gb-256gb/",
-    "image": "",
-    "sourceId": "digizo-mobile",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo-mobile",
-    "observedAt": "2026-09-01T10:53:36.221Z"
-  },
-  {
-    "id": "web-mobile-0d30afd9c7703fcf",
-    "productId": "web-mobile-0d30afd9c7703fcf",
-    "name": "سبز طوسی صورتی مشکی گوشی موبایل سامسونگ Galaxy A56 8GB 256GB (2025) (ویتنام)",
-    "brand": "سامسونگ",
-    "model": "سبز طوسی صورتی مشکی گوشی موبایل سامسونگ Galaxy A56 8GB 256GB (2025) (ویتنام)",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product/dgp-10353-10354-10355-10356-galaxy-a56-12gb-256gb/",
-    "image": "",
-    "sourceId": "digizo-mobile",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo-mobile",
-    "observedAt": "2026-09-01T10:53:36.221Z"
-  },
-  {
-    "id": "web-mobile-c9a5e581fba18baf",
-    "productId": "web-mobile-c9a5e581fba18baf",
-    "name": "مشکی آبی روشن سرمه ای گوشی موبایل سامسونگ Galaxy S25 FE 8GB 256GB (ویتنام)",
-    "brand": "سامسونگ",
-    "model": "مشکی آبی روشن سرمه ای گوشی موبایل سامسونگ Galaxy S25 FE 8GB 256GB (ویتنام)",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product/dgp-7876-7877-7878-galaxy-s25-fe-8gb-256gb/",
-    "image": "",
-    "sourceId": "digizo-mobile",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo-mobile",
-    "observedAt": "2026-09-01T10:53:36.221Z"
-  },
-  {
-    "id": "web-mobile-212432229fee4f0f",
-    "productId": "web-mobile-212432229fee4f0f",
-    "name": "مشکی طوسی اقیانوسی جت بلک گوشی موبایل سامسونگ Galaxy S25 Ultra 12GB 256GB (2025)",
-    "brand": "سامسونگ",
-    "model": "مشکی طوسی اقیانوسی جت بلک گوشی موبایل سامسونگ Galaxy S25 Ultra 12GB 256GB (2025)",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product/dgp-3126-3127-3128-3129-samsung-galaxy-s25-ultra-12gb-256gb-2025/",
-    "image": "",
-    "sourceId": "digizo-mobile",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo-mobile",
-    "observedAt": "2026-09-01T10:53:36.221Z"
-  },
-  {
-    "id": "web-mobile-4d83917959f282d3",
-    "productId": "web-mobile-4d83917959f282d3",
-    "name": "آبی مشکی طلایی گوشی موبایل شیائومی Poco C71 4G 3GB 64GB (گلوبال)",
-    "brand": "شیائومی",
-    "model": "آبی مشکی طلایی گوشی موبایل شیائومی Poco C71 4G 3GB 64GB (گلوبال)",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "in_stock",
-    "productUrl": "https://digizo.shop/product/dgp-10916-10917-10918-poco-c71-unisoc-t7250-3gb-64gb/",
-    "image": "",
-    "sourceId": "digizo-mobile",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo-mobile",
-    "observedAt": "2026-09-01T10:53:36.221Z"
-  },
-  {
-    "id": "web-mobile-81c6996c0d58e9a9",
-    "productId": "web-mobile-81c6996c0d58e9a9",
-    "name": "نارنجی مشکی آبی سبز گوشی موبایل شیائومی Redmi 15C 4GB 128GB (گلوبال)",
-    "brand": "شیائومی",
-    "model": "نارنجی مشکی آبی سبز گوشی موبایل شیائومی Redmi 15C 4GB 128GB (گلوبال)",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product/dgp-9695-9696-9699-9700-redmi-15c-4gb-128gb-global/",
-    "image": "",
-    "sourceId": "digizo-mobile",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo-mobile",
-    "observedAt": "2026-09-01T10:53:36.221Z"
-  },
-  {
-    "id": "web-mobile-bf019cc847fbcdfa",
-    "productId": "web-mobile-bf019cc847fbcdfa",
-    "name": "مشکی آبی گوشی موبایل شیائومی Redmi A3 4GB 128GB (گلوبال)",
-    "brand": "شیائومی",
-    "model": "مشکی آبی گوشی موبایل شیائومی Redmi A3 4GB 128GB (گلوبال)",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "in_stock",
-    "productUrl": "https://digizo.shop/product/dgp-9031-9032-redmi-a3-4gb-128gb-global/",
-    "image": "",
-    "sourceId": "digizo-mobile",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo-mobile",
-    "observedAt": "2026-09-01T10:53:36.221Z"
-  },
-  {
-    "id": "web-mobile-40997aaa0031a712",
-    "productId": "web-mobile-40997aaa0031a712",
-    "name": "بنفش مشکی آبی روشن لیمویی گوشی موبایل شیائومی Redmi Note 14 4G 8GB 256GB (گلوبال)",
-    "brand": "شیائومی",
-    "model": "بنفش مشکی آبی روشن لیمویی گوشی موبایل شیائومی Redmi Note 14 4G 8GB 256GB (گلوبال)",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product/dgp-3482-3483-3484-xiaomi-redmi-note-14-4g-8gb-256gb-global/",
-    "image": "",
-    "sourceId": "digizo-mobile",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo-mobile",
-    "observedAt": "2026-09-01T10:53:36.221Z"
-  },
-  {
-    "id": "web-mobile-28b9c24c7c495a2f",
-    "productId": "web-mobile-28b9c24c7c495a2f",
-    "name": "مشکی آبی روشن بنفش گوشی موبایل شیائومی Redmi Note 14 Pro 4G 8GB 256GB (گلوبال)",
-    "brand": "شیائومی",
-    "model": "مشکی آبی روشن بنفش گوشی موبایل شیائومی Redmi Note 14 Pro 4G 8GB 256GB (گلوبال)",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product/dgp-3500-3501-3502-xiaomi-redmi-note-14-pro-4g-8gb-256gb-global/",
-    "image": "",
-    "sourceId": "digizo-mobile",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo-mobile",
-    "observedAt": "2026-09-01T10:53:36.221Z"
-  },
-  {
-    "id": "web-mobile-0ad2c98fef8132e0",
-    "productId": "web-mobile-0ad2c98fef8132e0",
-    "name": "آبی سبز سفید صورتی مشکی گوشی موبایل اپل iPhone 16 8GB 128GB CH/A Dual Sim نات اکتیو",
-    "brand": "اپل",
-    "model": "آبی سبز سفید صورتی مشکی گوشی موبایل اپل iPhone 16 8GB 128GB CH/A Dual Sim نات اکتیو",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product/dgp-3019-3020-3021-3022-3023-iphone-16-8gb-256gb-ch-a-dual-sim/",
-    "image": "",
-    "sourceId": "digizo-mobile",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo-mobile",
-    "observedAt": "2026-09-01T10:53:36.221Z"
-  },
-  {
-    "id": "web-mobile-0423919eb8ce8083",
-    "productId": "web-mobile-0423919eb8ce8083",
-    "name": "آبی سبز سفید مشکی گوشی موبایل اپل iPhone 16 8GB 256GB CH/A Dual Sim نات اکتیو",
-    "brand": "اپل",
-    "model": "آبی سبز سفید مشکی گوشی موبایل اپل iPhone 16 8GB 256GB CH/A Dual Sim نات اکتیو",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product/dgp-2990-iphone-16-8gb-256gb-ch-a-dual-sim/",
-    "image": "",
-    "sourceId": "digizo-mobile",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo-mobile",
-    "observedAt": "2026-09-01T10:53:36.221Z"
-  },
-  {
-    "id": "web-mobile-0faf234b86e6c40b",
-    "productId": "web-mobile-0faf234b86e6c40b",
-    "name": "خاکی نقره ای مشکی گوشی موبایل اپل iPhone 16 Pro 8GB 256GB ZA/A Dual Sim نات اکتیو",
-    "brand": "اپل",
-    "model": "خاکی نقره ای مشکی گوشی موبایل اپل iPhone 16 Pro 8GB 256GB ZA/A Dual Sim نات اکتیو",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product/dgp-3166-3167-3168-iphone-16-pro-8gb-256gb-ch-a-dual-sim/",
-    "image": "",
-    "sourceId": "digizo-mobile",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo-mobile",
-    "observedAt": "2026-09-01T10:53:36.222Z"
-  },
-  {
-    "id": "web-mobile-87763c1551633858",
-    "productId": "web-mobile-87763c1551633858",
-    "name": "سفید خاکی نقره ای مشکی گوشی موبایل اپل iPhone 16 Pro 8GB 512GB ZA/A Dual Sim نات اکتیو",
-    "brand": "اپل",
-    "model": "سفید خاکی نقره ای مشکی گوشی موبایل اپل iPhone 16 Pro 8GB 512GB ZA/A Dual Sim نات اکتیو",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://digizo.shop/product/dgp-3279-3280-3281-3282-apple-iphone-16-pro-8gb-512gb-za-a-dual-sim/",
-    "image": "",
-    "sourceId": "digizo-mobile",
-    "sourceUrl": "https://digizo.shop/product-category/mobile/",
-    "source": "web-catalog:digizo-mobile",
-    "observedAt": "2026-09-01T10:53:36.222Z"
-  },
-  {
-    "id": "web-mobile-da94f314412a9e50",
-    "productId": "web-mobile-da94f314412a9e50",
-    "name": "Xiaomi Poco F7 Pro 12 512GB 5G",
-    "brand": "شیائومی",
-    "model": "Xiaomi Poco F7 Pro 12 512GB 5G",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.bprshop.com/product/12945-Xiaomi-Poco-F7-Pro-12-512",
-    "image": "",
-    "sourceId": "bprshop-mobile",
-    "sourceUrl": "https://www.bprshop.com/mobile",
-    "source": "web-catalog:bprshop-mobile",
-    "observedAt": "2026-09-01T10:53:57.825Z"
-  },
-  {
-    "id": "web-mobile-135436ae50d310e7",
-    "productId": "web-mobile-135436ae50d310e7",
-    "name": "Xiaomi Redmi Note 14 Pro 12 512GB 4G",
-    "brand": "شیائومی",
-    "model": "Xiaomi Redmi Note 14 Pro 12 512GB 4G",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.bprshop.com/product/12943-Xiaomi-Note-14-Pro-12-512-4G",
-    "image": "",
-    "sourceId": "bprshop-mobile",
-    "sourceUrl": "https://www.bprshop.com/mobile",
-    "source": "web-catalog:bprshop-mobile",
-    "observedAt": "2026-09-01T10:53:57.825Z"
-  },
-  {
-    "id": "web-mobile-287b92ef2349d985",
-    "productId": "web-mobile-287b92ef2349d985",
-    "name": "Xiaomi Redmi Note 14 Pro 12 512GB 5G",
-    "brand": "شیائومی",
-    "model": "Xiaomi Redmi Note 14 Pro 12 512GB 5G",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.bprshop.com/product/12942-Xiaomi-Note-14-Pro-12-512",
-    "image": "",
-    "sourceId": "bprshop-mobile",
-    "sourceUrl": "https://www.bprshop.com/mobile",
-    "source": "web-catalog:bprshop-mobile",
-    "observedAt": "2026-09-01T10:53:57.825Z"
-  },
-  {
-    "id": "web-mobile-1bd696db97fc967b",
-    "productId": "web-mobile-1bd696db97fc967b",
-    "name": "Xiaomi Poco X7 8 256GB 5G",
-    "brand": "شیائومی",
-    "model": "Xiaomi Poco X7 8 256GB 5G",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.bprshop.com/product/12940-Xiaomi-Poco-X7-8-256",
-    "image": "",
-    "sourceId": "bprshop-mobile",
-    "sourceUrl": "https://www.bprshop.com/mobile",
-    "source": "web-catalog:bprshop-mobile",
-    "observedAt": "2026-09-01T10:53:57.825Z"
-  },
-  {
-    "id": "web-mobile-bba006f6772a2a1f",
-    "productId": "web-mobile-bba006f6772a2a1f",
-    "name": "Xiaomi Poco X7 Pro 12 512GB 5G",
-    "brand": "شیائومی",
-    "model": "Xiaomi Poco X7 Pro 12 512GB 5G",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.bprshop.com/product/12938-Xiaomi-Poco-X7-Pro-12-512",
-    "image": "",
-    "sourceId": "bprshop-mobile",
-    "sourceUrl": "https://www.bprshop.com/mobile",
-    "source": "web-catalog:bprshop-mobile",
-    "observedAt": "2026-09-01T10:53:57.825Z"
-  },
-  {
-    "id": "web-mobile-d8fc8128278eda95",
-    "productId": "web-mobile-d8fc8128278eda95",
-    "name": "Samsung Galaxy A06 4 128 4G",
-    "brand": "سامسونگ",
-    "model": "Samsung Galaxy A06 4 128 4G",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.bprshop.com/product/12935-Samsung-A06-4-128",
-    "image": "",
-    "sourceId": "bprshop-mobile",
-    "sourceUrl": "https://www.bprshop.com/mobile",
-    "source": "web-catalog:bprshop-mobile",
-    "observedAt": "2026-09-01T10:53:57.825Z"
-  },
-  {
-    "id": "web-mobile-49673bcec8bc3ef5",
-    "productId": "web-mobile-49673bcec8bc3ef5",
-    "name": "Samsung Galaxy A07 4 64 4G",
-    "brand": "سامسونگ",
-    "model": "Samsung Galaxy A07 4 64 4G",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.bprshop.com/product/12933-Samsung-A07-4-64",
-    "image": "",
-    "sourceId": "bprshop-mobile",
-    "sourceUrl": "https://www.bprshop.com/mobile",
-    "source": "web-catalog:bprshop-mobile",
-    "observedAt": "2026-09-01T10:53:57.825Z"
-  },
-  {
-    "id": "web-mobile-5afd7cad38534892",
-    "productId": "web-mobile-5afd7cad38534892",
-    "name": "Samsung Galaxy A07 4 128 4G",
-    "brand": "سامسونگ",
-    "model": "Samsung Galaxy A07 4 128 4G",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.bprshop.com/product/12932-Samsung-Galaxy-A07-4-128",
-    "image": "",
-    "sourceId": "bprshop-mobile",
-    "sourceUrl": "https://www.bprshop.com/mobile",
-    "source": "web-catalog:bprshop-mobile",
-    "observedAt": "2026-09-01T10:53:57.825Z"
-  },
-  {
-    "id": "web-mobile-a73c4a796fe71230",
-    "productId": "web-mobile-a73c4a796fe71230",
-    "name": "Samsung Galaxy A07 6 128 4G",
-    "brand": "سامسونگ",
-    "model": "Samsung Galaxy A07 6 128 4G",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.bprshop.com/product/12931-Samsung-A07-6-128",
-    "image": "",
-    "sourceId": "bprshop-mobile",
-    "sourceUrl": "https://www.bprshop.com/mobile",
-    "source": "web-catalog:bprshop-mobile",
-    "observedAt": "2026-09-01T10:53:57.825Z"
-  },
-  {
-    "id": "web-mobile-85139ef66697942a",
-    "productId": "web-mobile-85139ef66697942a",
-    "name": "Samsung Galaxy A16 4 128 4G",
-    "brand": "سامسونگ",
-    "model": "Samsung Galaxy A16 4 128 4G",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.bprshop.com/product/12929-Samsung-A16-4-128",
-    "image": "",
-    "sourceId": "bprshop-mobile",
-    "sourceUrl": "https://www.bprshop.com/mobile",
-    "source": "web-catalog:bprshop-mobile",
-    "observedAt": "2026-09-01T10:53:57.826Z"
-  },
-  {
-    "id": "web-mobile-3b350cc0483bcbdf",
-    "productId": "web-mobile-3b350cc0483bcbdf",
-    "name": "Samsung Galaxy A17 4 128 4G",
-    "brand": "سامسونگ",
-    "model": "Samsung Galaxy A17 4 128 4G",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.bprshop.com/product/12928-Samsung-A17-4-128",
-    "image": "",
-    "sourceId": "bprshop-mobile",
-    "sourceUrl": "https://www.bprshop.com/mobile",
-    "source": "web-catalog:bprshop-mobile",
-    "observedAt": "2026-09-01T10:53:57.826Z"
-  },
-  {
-    "id": "web-mobile-60ff6a41c95b06a4",
-    "productId": "web-mobile-60ff6a41c95b06a4",
-    "name": "Samsung Galaxy A17 8 256 4G",
-    "brand": "سامسونگ",
-    "model": "Samsung Galaxy A17 8 256 4G",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.bprshop.com/product/12927-Samsung-A17-8-256",
-    "image": "",
-    "sourceId": "bprshop-mobile",
-    "sourceUrl": "https://www.bprshop.com/mobile",
-    "source": "web-catalog:bprshop-mobile",
-    "observedAt": "2026-09-01T10:53:57.826Z"
-  },
-  {
-    "id": "web-mobile-f8f060fe9febac9f",
-    "productId": "web-mobile-f8f060fe9febac9f",
-    "name": "Samsung Galaxy A17 6 128 4G",
-    "brand": "سامسونگ",
-    "model": "Samsung Galaxy A17 6 128 4G",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.bprshop.com/product/12926-Samsung-A17-6-128",
-    "image": "",
-    "sourceId": "bprshop-mobile",
-    "sourceUrl": "https://www.bprshop.com/mobile",
-    "source": "web-catalog:bprshop-mobile",
-    "observedAt": "2026-09-01T10:53:57.826Z"
-  },
-  {
-    "id": "web-mobile-2c40a7e1cc9041bd",
-    "productId": "web-mobile-2c40a7e1cc9041bd",
-    "name": "Samsung Galaxy A26 6 128 5G",
-    "brand": "سامسونگ",
-    "model": "Samsung Galaxy A26 6 128 5G",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.bprshop.com/product/12925-Samsung-A26-6-128",
-    "image": "",
-    "sourceId": "bprshop-mobile",
-    "sourceUrl": "https://www.bprshop.com/mobile",
-    "source": "web-catalog:bprshop-mobile",
-    "observedAt": "2026-09-01T10:53:57.826Z"
-  },
-  {
-    "id": "web-mobile-12aecb3a9f6e4cbf",
-    "productId": "web-mobile-12aecb3a9f6e4cbf",
-    "name": "Samsung Galaxy A26 8 256 5G",
-    "brand": "سامسونگ",
-    "model": "Samsung Galaxy A26 8 256 5G",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.bprshop.com/product/12924-Samsung-A26-8-256",
-    "image": "",
-    "sourceId": "bprshop-mobile",
-    "sourceUrl": "https://www.bprshop.com/mobile",
-    "source": "web-catalog:bprshop-mobile",
-    "observedAt": "2026-09-01T10:53:57.826Z"
-  },
-  {
-    "id": "web-mobile-0ccfc50fb488f847",
-    "productId": "web-mobile-0ccfc50fb488f847",
-    "name": "Samsung Galaxy A36 8 128 5G",
-    "brand": "سامسونگ",
-    "model": "Samsung Galaxy A36 8 128 5G",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.bprshop.com/product/12923-Samsung-A36-8-128",
-    "image": "",
-    "sourceId": "bprshop-mobile",
-    "sourceUrl": "https://www.bprshop.com/mobile",
-    "source": "web-catalog:bprshop-mobile",
-    "observedAt": "2026-09-01T10:53:57.826Z"
-  },
-  {
     "id": "torobshop-mobile-f687e65efba94b6d",
     "productId": "torobshop-f687e65efba94b6d",
     "name": "گوشی موبایل ویوو X300 FE ظرفیت ۵۱۲ گیگابایت رم ۱۲ گیگابایت 5G با دوربین ZEISS",
@@ -2667,7 +15,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:09.942Z"
+    "observedAt": "2026-09-01T12:30:36.067Z"
   },
   {
     "id": "torobshop-mobile-fa1582c2d324f606",
@@ -2685,7 +33,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:09.942Z"
+    "observedAt": "2026-09-01T12:30:36.067Z"
   },
   {
     "id": "torobshop-mobile-994e1f249cd8e320",
@@ -2703,7 +51,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:09.943Z"
+    "observedAt": "2026-09-01T12:30:36.067Z"
   },
   {
     "id": "torobshop-mobile-6d0853b3192da02a",
@@ -2721,7 +69,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:09.943Z"
+    "observedAt": "2026-09-01T12:30:36.067Z"
   },
   {
     "id": "torobshop-mobile-716dda0dbff9c54f",
@@ -2739,7 +87,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.084Z"
   },
   {
     "id": "torobshop-mobile-42afd1ca9ea774d6",
@@ -2757,7 +105,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.085Z"
   },
   {
     "id": "torobshop-mobile-3930a114dca5ba93",
@@ -2775,7 +123,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.085Z"
   },
   {
     "id": "torobshop-mobile-aaa22eb952374f54",
@@ -2793,7 +141,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.085Z"
   },
   {
     "id": "torobshop-mobile-6313ab97d41a2b56",
@@ -2811,7 +159,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.085Z"
   },
   {
     "id": "torobshop-mobile-f6f4fe1c061400be",
@@ -2829,7 +177,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.085Z"
   },
   {
     "id": "torobshop-mobile-f84a10872070200f",
@@ -2847,7 +195,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.085Z"
   },
   {
     "id": "torobshop-mobile-be5c8240bad9b96b",
@@ -2865,7 +213,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.085Z"
   },
   {
     "id": "torobshop-mobile-6ea4ce76135ec585",
@@ -2883,7 +231,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.085Z"
   },
   {
     "id": "torobshop-mobile-66ec5ac305e2c66d",
@@ -2901,7 +249,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.085Z"
   },
   {
     "id": "torobshop-mobile-550a8f87070e67b2",
@@ -2919,7 +267,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.085Z"
   },
   {
     "id": "torobshop-mobile-82dd733a006aec80",
@@ -2937,7 +285,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.085Z"
   },
   {
     "id": "torobshop-mobile-b0ab596ed23cc867",
@@ -2955,7 +303,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.085Z"
   },
   {
     "id": "torobshop-mobile-81b8042dfd25e040",
@@ -2973,7 +321,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.085Z"
   },
   {
     "id": "torobshop-mobile-971de75d275ec060",
@@ -2991,7 +339,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.085Z"
   },
   {
     "id": "torobshop-mobile-6984e0fba2f0f5ab",
@@ -3009,7 +357,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.085Z"
   },
   {
     "id": "torobshop-mobile-043774655c5e9707",
@@ -3027,7 +375,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.085Z"
   },
   {
     "id": "torobshop-mobile-96e722182c1b89a6",
@@ -3045,7 +393,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.085Z"
   },
   {
     "id": "torobshop-mobile-d62f3f3a89e25a47",
@@ -3063,7 +411,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.085Z"
   },
   {
     "id": "torobshop-mobile-c91c69b83e4ddd45",
@@ -3081,7 +429,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.085Z"
   },
   {
     "id": "torobshop-mobile-6d073e89debc0957",
@@ -3099,7 +447,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.085Z"
   },
   {
     "id": "torobshop-mobile-2f1de49dbfea70aa",
@@ -3117,7 +465,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.085Z"
   },
   {
     "id": "torobshop-mobile-688de6c889730421",
@@ -3135,7 +483,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.085Z"
   },
   {
     "id": "torobshop-mobile-6f75db36753d61cb",
@@ -3153,7 +501,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.085Z"
   },
   {
     "id": "torobshop-mobile-1d0f8b752067584c",
@@ -3171,7 +519,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.085Z"
   },
   {
     "id": "torobshop-mobile-9588e88bfa202297",
@@ -3189,7 +537,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.085Z"
   },
   {
     "id": "torobshop-mobile-564f6efd33ed7c72",
@@ -3207,7 +555,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.085Z"
   },
   {
     "id": "torobshop-mobile-db51956256cf2a9e",
@@ -3225,7 +573,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.085Z"
   },
   {
     "id": "torobshop-mobile-6c602e399b74265b",
@@ -3243,7 +591,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.085Z"
   },
   {
     "id": "torobshop-mobile-69bf454eaf5c015b",
@@ -3261,7 +609,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.085Z"
   },
   {
     "id": "torobshop-mobile-9b36373adadaf4fd",
@@ -3279,7 +627,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.085Z"
   },
   {
     "id": "torobshop-mobile-f566f758ccfcc717",
@@ -3297,7 +645,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.085Z"
   },
   {
     "id": "torobshop-mobile-964ece0d8e9f6669",
@@ -3315,7 +663,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.085Z"
   },
   {
     "id": "torobshop-mobile-4cef33429e237704",
@@ -3333,7 +681,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.085Z"
   },
   {
     "id": "torobshop-mobile-e4a2bc7cbee474b2",
@@ -3351,7 +699,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.085Z"
   },
   {
     "id": "torobshop-mobile-3be15395be038aca",
@@ -3369,7 +717,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.085Z"
   },
   {
     "id": "torobshop-mobile-77f61ec7f8b8b73d",
@@ -3387,7 +735,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.085Z"
   },
   {
     "id": "torobshop-mobile-a09bc08624899ff4",
@@ -3405,7 +753,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.085Z"
   },
   {
     "id": "torobshop-mobile-bbd449ed50b3d540",
@@ -3423,7 +771,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.085Z"
   },
   {
     "id": "torobshop-mobile-50ddbf6ac385797f",
@@ -3441,7 +789,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.085Z"
   },
   {
     "id": "torobshop-mobile-80a52ed3a08cda77",
@@ -3459,7 +807,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.085Z"
   },
   {
     "id": "torobshop-mobile-039d5e6addbbd691",
@@ -3477,7 +825,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.085Z"
   },
   {
     "id": "torobshop-mobile-35ed38f253e56a81",
@@ -3495,7 +843,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.085Z"
   },
   {
     "id": "torobshop-mobile-81294b2d39671c7a",
@@ -3513,7 +861,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.085Z"
   },
   {
     "id": "torobshop-mobile-aa508f6b8b35e109",
@@ -3531,7 +879,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.085Z"
   },
   {
     "id": "torobshop-mobile-6ec47a3d62be5701",
@@ -3549,7 +897,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.085Z"
   },
   {
     "id": "torobshop-mobile-7b66ea2c8fd4c6a4",
@@ -3567,7 +915,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.085Z"
   },
   {
     "id": "torobshop-mobile-d49e2d4bb6f40cd4",
@@ -3585,7 +933,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.085Z"
   },
   {
     "id": "torobshop-mobile-189f8d80d22fa44f",
@@ -3603,7 +951,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.085Z"
   },
   {
     "id": "torobshop-mobile-5b8fa53f836d0f0c",
@@ -3621,7 +969,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.085Z"
   },
   {
     "id": "torobshop-mobile-547d268a4387e8cb",
@@ -3639,7 +987,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.085Z"
   },
   {
     "id": "torobshop-mobile-4192b4da9c3a842b",
@@ -3657,7 +1005,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.085Z"
   },
   {
     "id": "torobshop-mobile-d81ab9c86f172992",
@@ -3675,7 +1023,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.085Z"
   },
   {
     "id": "torobshop-mobile-c2621badab7154db",
@@ -3693,7 +1041,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.085Z"
   },
   {
     "id": "torobshop-mobile-e61e8163e0053f8c",
@@ -3711,7 +1059,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.085Z"
   },
   {
     "id": "torobshop-mobile-0a6f99bfb7c72378",
@@ -3729,7 +1077,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.085Z"
   },
   {
     "id": "torobshop-mobile-17b433396f0dd8b8",
@@ -3747,7 +1095,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.085Z"
   },
   {
     "id": "torobshop-mobile-70f796097c7bfa77",
@@ -3765,7 +1113,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.085Z"
   },
   {
     "id": "torobshop-mobile-792d9fda0d1edf60",
@@ -3783,7 +1131,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.085Z"
   },
   {
     "id": "torobshop-mobile-0540c2016311432d",
@@ -3801,7 +1149,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-ea7e49d4888f5500",
@@ -3819,7 +1167,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-a7031b2d2c098e3a",
@@ -3837,7 +1185,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-b280052ba623afe6",
@@ -3855,7 +1203,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-f65d7089e1b75967",
@@ -3873,7 +1221,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-682b567d27e46eb9",
@@ -3891,7 +1239,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-1a199d11167496a7",
@@ -3909,7 +1257,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-e7562a4a47affbdf",
@@ -3927,7 +1275,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-5681fc33ebc4a2c4",
@@ -3945,7 +1293,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-eb3156af454255af",
@@ -3963,7 +1311,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.806Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-3f60763e8c1f61db",
@@ -3981,7 +1329,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-8b667a7c5d48a018",
@@ -3999,7 +1347,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-c28d9ee4867587e0",
@@ -4017,7 +1365,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-135cb4370d26107e",
@@ -4035,7 +1383,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-ea6561f27fcae338",
@@ -4053,7 +1401,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-9da6cf5207d19dc6",
@@ -4071,7 +1419,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-973da9b66d30f98f",
@@ -4089,7 +1437,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-27a7ab064979e19e",
@@ -4107,7 +1455,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-426ac503c83523da",
@@ -4125,7 +1473,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-93f0314c16b9cade",
@@ -4143,7 +1491,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-e546c7ee2f25cccb",
@@ -4161,7 +1509,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-06e9af83157d59bf",
@@ -4179,7 +1527,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-7dd02e17fa5ae720",
@@ -4197,7 +1545,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-67b089d5840c00b5",
@@ -4215,7 +1563,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-16617f0cd6242c17",
@@ -4233,7 +1581,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-aab6f7ca65634b77",
@@ -4251,7 +1599,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-1a813253cc64f657",
@@ -4269,7 +1617,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-9059c9b93ab4f1ba",
@@ -4287,7 +1635,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-e32be49c851fd92b",
@@ -4305,7 +1653,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-6d358d3b62e49898",
@@ -4323,7 +1671,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-b728ddb50480ae10",
@@ -4341,7 +1689,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-f5aaf2d36131adb9",
@@ -4359,7 +1707,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-230290bd87eab562",
@@ -4377,7 +1725,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-697a2934ffba6321",
@@ -4395,7 +1743,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-54f5e9ae596669e0",
@@ -4413,7 +1761,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-12112ebd794aebfe",
@@ -4431,7 +1779,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-936307be3dbff4d8",
@@ -4449,7 +1797,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-6e9b5969bf806a83",
@@ -4467,7 +1815,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-e8fbb91576830b01",
@@ -4485,7 +1833,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-46604b56d19bc98e",
@@ -4503,7 +1851,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-c0da7c6caaaabe22",
@@ -4521,7 +1869,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-b0d9a8bce5b96da9",
@@ -4539,7 +1887,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-5aade8dcb399df70",
@@ -4557,7 +1905,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-5793143473c0cf7d",
@@ -4575,7 +1923,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-338927d0838a0440",
@@ -4593,7 +1941,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-5f8b7d12315d211b",
@@ -4611,7 +1959,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-01db327156bef7cb",
@@ -4629,7 +1977,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-bbcc82316e14ad0c",
@@ -4647,7 +1995,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-7bcf4d86c8897e89",
@@ -4665,7 +2013,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-c0ed70988a23d716",
@@ -4683,7 +2031,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-c4764ab021d7047d",
@@ -4701,7 +2049,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-60d6e587231ae5e2",
@@ -4719,7 +2067,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-6ae0fa5e11f4b4e4",
@@ -4737,7 +2085,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-60af1d85416ddb75",
@@ -4755,7 +2103,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-4bcca73578b5dd16",
@@ -4773,7 +2121,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-6e06ceda384f61d3",
@@ -4791,7 +2139,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-d6020856dbe3939e",
@@ -4809,7 +2157,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-5d82b44892bc11b9",
@@ -4827,7 +2175,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-f9bbe058bc1d2128",
@@ -4845,7 +2193,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-e0190c6b09b72f84",
@@ -4863,7 +2211,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-55066b4800c9da01",
@@ -4881,7 +2229,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-f9b72003ee046406",
@@ -4899,7 +2247,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-dab9eb8721316f5c",
@@ -4917,7 +2265,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-e314f2beea5b98b5",
@@ -4935,7 +2283,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-e05ea902bac411c1",
@@ -4953,7 +2301,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-d17a16a92c427af7",
@@ -4971,7 +2319,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-7039563646d2a08c",
@@ -4989,7 +2337,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-b5bb3ef74c64016f",
@@ -5007,7 +2355,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-9f8dba1c4be0543f",
@@ -5025,7 +2373,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-13383e2908795ceb",
@@ -5043,7 +2391,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-222c5f1f48a7811a",
@@ -5061,7 +2409,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-fed9304ce636fd70",
@@ -5079,7 +2427,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-7dda1ee3ebe3337d",
@@ -5097,7 +2445,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-73f54a12bc87541c",
@@ -5115,7 +2463,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-d5861c5eae980acb",
@@ -5133,7 +2481,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-56d2262c04bf40b1",
@@ -5151,7 +2499,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-3a354858143bf5bf",
@@ -5169,7 +2517,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-3d432c8dbd69eefb",
@@ -5187,7 +2535,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-1d09296a1209f7ae",
@@ -5205,7 +2553,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-2278a7dbec8ed7cd",
@@ -5223,7 +2571,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-386045fed7109b6c",
@@ -5241,7 +2589,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-3b108c60419c6b3e",
@@ -5259,7 +2607,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-66634e26dfb49c04",
@@ -5277,7 +2625,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-bcf3455eedcf96e7",
@@ -5295,7 +2643,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-3dd1b99a47f6c6d1",
@@ -5313,7 +2661,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-bab25203513b93bb",
@@ -5331,7 +2679,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-40f557a46b915c21",
@@ -5349,7 +2697,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-fbd5e1832a592f6d",
@@ -5367,7 +2715,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-685fccacbb18ee43",
@@ -5385,7 +2733,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-1cb6df1aed563bee",
@@ -5403,7 +2751,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-9c9a87a898bad342",
@@ -5421,7 +2769,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-993ee35f4a561a10",
@@ -5439,7 +2787,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-37fd983abaa93a3b",
@@ -5457,7 +2805,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-cc5a74ea332cb871",
@@ -5475,7 +2823,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-5e97e30e4af5e35a",
@@ -5493,7 +2841,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-557954e4838db8ec",
@@ -5511,7 +2859,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-deb4652ab7b20c96",
@@ -5529,7 +2877,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-ac5e0f9a687acc9d",
@@ -5547,7 +2895,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-f5c373b20c89f3cf",
@@ -5565,7 +2913,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-174296fd490ce4c6",
@@ -5583,7 +2931,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-ca40f9691c169854",
@@ -5601,7 +2949,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.086Z"
   },
   {
     "id": "torobshop-mobile-24ee5f250564a2b6",
@@ -5619,7 +2967,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.087Z"
   },
   {
     "id": "torobshop-mobile-eb2d1bdae18ab641",
@@ -5637,7 +2985,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.087Z"
   },
   {
     "id": "torobshop-mobile-9526bc50db1d2b71",
@@ -5655,7 +3003,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.087Z"
   },
   {
     "id": "torobshop-mobile-17aea0c096f3fbb1",
@@ -5673,7 +3021,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.087Z"
   },
   {
     "id": "torobshop-mobile-dab36535df580dd9",
@@ -5691,7 +3039,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.087Z"
   },
   {
     "id": "torobshop-mobile-bb07ff83203ce817",
@@ -5709,7 +3057,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.087Z"
   },
   {
     "id": "torobshop-mobile-23a08ed4a54c1bf3",
@@ -5727,7 +3075,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.087Z"
   },
   {
     "id": "torobshop-mobile-86394f5b0d453ade",
@@ -5745,7 +3093,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.087Z"
   },
   {
     "id": "torobshop-mobile-ec7446a90d887300",
@@ -5763,7 +3111,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.087Z"
   },
   {
     "id": "torobshop-mobile-add12b5339d41d54",
@@ -5781,7 +3129,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.087Z"
   },
   {
     "id": "torobshop-mobile-a936b9d4fccda9ec",
@@ -5799,7 +3147,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.087Z"
   },
   {
     "id": "torobshop-mobile-f676e23d1f151190",
@@ -5817,7 +3165,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.087Z"
   },
   {
     "id": "torobshop-mobile-3debd7458ec254ad",
@@ -5835,7 +3183,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.087Z"
   },
   {
     "id": "torobshop-mobile-bf9b6308d5e6e4a3",
@@ -5853,7 +3201,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.087Z"
   },
   {
     "id": "torobshop-mobile-bf0ff9604c787d7f",
@@ -5871,7 +3219,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.087Z"
   },
   {
     "id": "torobshop-mobile-ffccfb4b61d564f3",
@@ -5889,7 +3237,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.087Z"
   },
   {
     "id": "torobshop-mobile-e89541bdd38935d2",
@@ -5907,7 +3255,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.087Z"
   },
   {
     "id": "torobshop-mobile-20506e6b258fcb0c",
@@ -5925,7 +3273,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.087Z"
   },
   {
     "id": "torobshop-mobile-9f1357a1a5ec15c3",
@@ -5943,25 +3291,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
-  },
-  {
-    "id": "torobshop-mobile-469010b14dce1518",
-    "productId": "torobshop-469010b14dce1518",
-    "name": "هدفون فیلیپس مدل TAE1126BK - دارای میکروفون - جک 3.5 میلی‌متری - مشکی",
-    "brand": "",
-    "model": "هدفون فیلیپس مدل TAE1126BK - دارای میکروفون - جک 3.5 میلی‌متری - مشکی",
-    "category": "mobile",
-    "subcategory": "لوازم جانبی موبایل",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%87%D8%AF%D9%81%D9%88%D9%86-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%85%D8%AF%D9%84-TAE1126BK-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C-%D9%85%DB%8C%DA%A9%D8%B1%D9%88%D9%81%D9%88%D9%86-%D8%AC%DA%A9-3-5-%D9%85%DB%8C%D9%84%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.087Z"
   },
   {
     "id": "torobshop-mobile-b93b2b7b8a52ead7",
@@ -5979,7 +3309,25 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.087Z"
+  },
+  {
+    "id": "torobshop-mobile-469010b14dce1518",
+    "productId": "torobshop-469010b14dce1518",
+    "name": "هدفون فیلیپس مدل TAE1126BK - دارای میکروفون - جک 3.5 میلی‌متری - مشکی",
+    "brand": "",
+    "model": "هدفون فیلیپس مدل TAE1126BK - دارای میکروفون - جک 3.5 میلی‌متری - مشکی",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%87%D8%AF%D9%81%D9%88%D9%86-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%85%D8%AF%D9%84-TAE1126BK-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C-%D9%85%DB%8C%DA%A9%D8%B1%D9%88%D9%81%D9%88%D9%86-%D8%AC%DA%A9-3-5-%D9%85%DB%8C%D9%84%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.087Z"
   },
   {
     "id": "torobshop-mobile-ec9957a5ab556a59",
@@ -5997,7 +3345,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.087Z"
   },
   {
     "id": "torobshop-mobile-d622f60b84a25c29",
@@ -6015,7 +3363,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.087Z"
   },
   {
     "id": "torobshop-mobile-7362b68fe582e1ef",
@@ -6033,7 +3381,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.087Z"
   },
   {
     "id": "torobshop-mobile-8b4d268dc0b50dc9",
@@ -6051,7 +3399,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.087Z"
   },
   {
     "id": "torobshop-mobile-8ad1b620c2984c64",
@@ -6069,7 +3417,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.087Z"
   },
   {
     "id": "torobshop-mobile-2961f6c161810850",
@@ -6087,7 +3435,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.087Z"
   },
   {
     "id": "torobshop-mobile-b59055b4a9ca5ed0",
@@ -6105,7 +3453,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.087Z"
   },
   {
     "id": "torobshop-mobile-8cd92a01eb7c25f2",
@@ -6123,7 +3471,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.087Z"
   },
   {
     "id": "torobshop-mobile-bc5ad78acdc13550",
@@ -6141,7 +3489,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.087Z"
   },
   {
     "id": "torobshop-mobile-712138d0bed8d76a",
@@ -6159,7 +3507,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.087Z"
   },
   {
     "id": "torobshop-mobile-d1db9fdb0a981eb7",
@@ -6177,7 +3525,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.087Z"
   },
   {
     "id": "torobshop-mobile-13177f1a3461cbf8",
@@ -6195,7 +3543,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.087Z"
   },
   {
     "id": "torobshop-mobile-2aa12aa20262b96c",
@@ -6213,7 +3561,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.087Z"
   },
   {
     "id": "torobshop-mobile-f241bfdbdc958cdb",
@@ -6231,7 +3579,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.087Z"
   },
   {
     "id": "torobshop-mobile-a0357d058917fff7",
@@ -6249,7 +3597,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.087Z"
   },
   {
     "id": "torobshop-mobile-2734ee381987f71a",
@@ -6267,7 +3615,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.087Z"
   },
   {
     "id": "torobshop-mobile-caf67fb53869dc8d",
@@ -6285,7 +3633,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.087Z"
   },
   {
     "id": "torobshop-mobile-2e4aeaf94d879ff9",
@@ -6303,7 +3651,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.087Z"
   },
   {
     "id": "torobshop-mobile-10055e541e3441a4",
@@ -6321,7 +3669,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.087Z"
   },
   {
     "id": "torobshop-mobile-9b16b6ebae742a59",
@@ -6339,7 +3687,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.807Z"
+    "observedAt": "2026-09-01T12:30:43.087Z"
   },
   {
     "id": "torobshop-mobile-42a978739edad1b3",
@@ -6357,7 +3705,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.087Z"
   },
   {
     "id": "torobshop-mobile-226a6dfcab93ffe2",
@@ -6375,7 +3723,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.087Z"
   },
   {
     "id": "torobshop-mobile-f6139cf71fa544af",
@@ -6393,7 +3741,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.087Z"
   },
   {
     "id": "torobshop-mobile-1b01f5a6fb5eb1c5",
@@ -6411,7 +3759,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.087Z"
   },
   {
     "id": "torobshop-mobile-db75e7774c65ead5",
@@ -6429,7 +3777,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.087Z"
   },
   {
     "id": "torobshop-mobile-1ac684a13e625548",
@@ -6447,7 +3795,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.087Z"
   },
   {
     "id": "torobshop-mobile-5219a65546b1a882",
@@ -6465,7 +3813,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.087Z"
   },
   {
     "id": "torobshop-mobile-231a8680a663a06f",
@@ -6483,7 +3831,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.087Z"
   },
   {
     "id": "torobshop-mobile-1acb3967a4975e9e",
@@ -6501,7 +3849,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.087Z"
   },
   {
     "id": "torobshop-mobile-7406803b18ab5cc6",
@@ -6519,7 +3867,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.087Z"
   },
   {
     "id": "torobshop-mobile-176747b2a6b3c8bf",
@@ -6537,7 +3885,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.087Z"
   },
   {
     "id": "torobshop-mobile-667b222bc82da779",
@@ -6555,7 +3903,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.087Z"
   },
   {
     "id": "torobshop-mobile-34bb04f7987b2eb8",
@@ -6573,7 +3921,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.087Z"
   },
   {
     "id": "torobshop-mobile-7400212af3648c0e",
@@ -6591,7 +3939,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.087Z"
   },
   {
     "id": "torobshop-mobile-0a56e024ea7c3e6c",
@@ -6609,7 +3957,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.087Z"
   },
   {
     "id": "torobshop-mobile-f2475d629ba82cb9",
@@ -6627,7 +3975,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.088Z"
   },
   {
     "id": "torobshop-mobile-0ef7eb89998918af",
@@ -6645,7 +3993,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.088Z"
   },
   {
     "id": "torobshop-mobile-1123da8edef7210f",
@@ -6663,7 +4011,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.088Z"
   },
   {
     "id": "torobshop-mobile-28fa9f296d3edd2c",
@@ -6681,7 +4029,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.088Z"
   },
   {
     "id": "torobshop-mobile-32430a6532934fe7",
@@ -6699,7 +4047,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.088Z"
   },
   {
     "id": "torobshop-mobile-4fcaa05ae27e136c",
@@ -6717,7 +4065,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.088Z"
   },
   {
     "id": "torobshop-mobile-93c18ce837ff5f57",
@@ -6735,7 +4083,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.088Z"
   },
   {
     "id": "torobshop-mobile-c73bf4fc0db498be",
@@ -6753,7 +4101,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.088Z"
   },
   {
     "id": "torobshop-mobile-76f3e4ef7a8810f3",
@@ -6771,7 +4119,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.088Z"
   },
   {
     "id": "torobshop-mobile-8f566ccc32f52f97",
@@ -6789,7 +4137,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.088Z"
   },
   {
     "id": "torobshop-mobile-2dee2c9f6fb222d1",
@@ -6807,7 +4155,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.088Z"
   },
   {
     "id": "torobshop-mobile-05d539a087d0640e",
@@ -6825,7 +4173,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.088Z"
   },
   {
     "id": "torobshop-mobile-a40b1cc8eb60dfd3",
@@ -6843,7 +4191,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.088Z"
   },
   {
     "id": "torobshop-mobile-827984c7bc2a588b",
@@ -6861,7 +4209,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.088Z"
   },
   {
     "id": "torobshop-mobile-b1ad0ea7d3ae35d7",
@@ -6879,7 +4227,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.088Z"
   },
   {
     "id": "torobshop-mobile-01fd4211de27a0d5",
@@ -6897,7 +4245,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.088Z"
   },
   {
     "id": "torobshop-mobile-4c20864969491062",
@@ -6915,7 +4263,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.088Z"
   },
   {
     "id": "torobshop-mobile-6e8f969763fb12ec",
@@ -6933,7 +4281,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.088Z"
   },
   {
     "id": "torobshop-mobile-611344efb1bd3888",
@@ -6951,7 +4299,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.088Z"
   },
   {
     "id": "torobshop-mobile-c4ddc017f41906f6",
@@ -6969,7 +4317,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.089Z"
   },
   {
     "id": "torobshop-mobile-90fcbe8687059a30",
@@ -6987,7 +4335,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.089Z"
   },
   {
     "id": "torobshop-mobile-c0007aaa6ab91bb2",
@@ -7005,7 +4353,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.089Z"
   },
   {
     "id": "torobshop-mobile-34386721a691d178",
@@ -7023,7 +4371,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.089Z"
   },
   {
     "id": "torobshop-mobile-b8bd6a4d5ecca799",
@@ -7041,7 +4389,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.089Z"
   },
   {
     "id": "torobshop-mobile-9c72d8fb3f6a2ba1",
@@ -7059,7 +4407,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.089Z"
   },
   {
     "id": "torobshop-mobile-87cbcd550df2c8fa",
@@ -7077,7 +4425,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.089Z"
   },
   {
     "id": "torobshop-mobile-bb3d87082eb1a040",
@@ -7095,7 +4443,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.089Z"
   },
   {
     "id": "torobshop-mobile-af253d8db86172d9",
@@ -7113,7 +4461,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.089Z"
   },
   {
     "id": "torobshop-mobile-faf54d1de5277c91",
@@ -7131,7 +4479,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.089Z"
   },
   {
     "id": "torobshop-mobile-bed024ff9dfbc191",
@@ -7149,7 +4497,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.089Z"
   },
   {
     "id": "torobshop-mobile-12108326787ffaf6",
@@ -7167,7 +4515,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.089Z"
   },
   {
     "id": "torobshop-mobile-9706ad3cf0976481",
@@ -7185,7 +4533,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.089Z"
   },
   {
     "id": "torobshop-mobile-a78de50e19375b85",
@@ -7203,7 +4551,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.089Z"
   },
   {
     "id": "torobshop-mobile-b572c0c74ec7e1ee",
@@ -7221,7 +4569,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.089Z"
   },
   {
     "id": "torobshop-mobile-387754e6b4491f58",
@@ -7239,7 +4587,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.089Z"
   },
   {
     "id": "torobshop-mobile-39e57f782fd26013",
@@ -7257,7 +4605,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.089Z"
   },
   {
     "id": "torobshop-mobile-1ed3ae617a915858",
@@ -7275,43 +4623,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
-  },
-  {
-    "id": "torobshop-mobile-d62ad3ee5759fcbd",
-    "productId": "torobshop-d62ad3ee5759fcbd",
-    "name": "ماهیتابه درب دار فیسلر آلمان Fissler Original-Profi Collection (قطر 28 سانتی‌متر)، ماهیتابه بدون روکش + درب بلند القایی",
-    "brand": "",
-    "model": "ماهیتابه درب دار فیسلر آلمان Fissler Original-Profi Collection (قطر 28 سانتی‌متر)، ماهیتابه بدون روکش + درب بلند القایی",
-    "category": "mobile",
-    "subcategory": "لوازم جانبی موبایل",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%85%D8%AF%D9%84-Original-Profi-Collection-2-%D8%AA%DA%A9%D9%87-%D9%82%D8%B7%D8%B1-28-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%DA%A9%D8%B4-%D8%AF%D8%B1%D8%A8-%D8%A8%D9%84%D9%86%D8%AF-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
-  },
-  {
-    "id": "torobshop-mobile-569f3d7e67640e5c",
-    "productId": "torobshop-569f3d7e67640e5c",
-    "name": "سرویس قابلمه سه پارچه زولینگ آلمان ZWILLING TrueFlow با درب شیشه‌ای",
-    "brand": "",
-    "model": "سرویس قابلمه سه پارچه زولینگ آلمان ZWILLING TrueFlow با درب شیشه‌ای",
-    "category": "mobile",
-    "subcategory": "لوازم جانبی موبایل",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%B3%D9%87-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D8%B2%D9%88%D9%84%DB%8C%D9%86%DA%AF-%D8%A2%D9%84%D9%85%D8%A7%D9%86-ZWILLING-TrueFlow-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.089Z"
   },
   {
     "id": "torobshop-mobile-aed9f18e5d887270",
@@ -7329,7 +4641,43 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.089Z"
+  },
+  {
+    "id": "torobshop-mobile-d62ad3ee5759fcbd",
+    "productId": "torobshop-d62ad3ee5759fcbd",
+    "name": "ماهیتابه درب دار فیسلر آلمان Fissler Original-Profi Collection (قطر 28 سانتی‌متر)، ماهیتابه بدون روکش + درب بلند القایی",
+    "brand": "",
+    "model": "ماهیتابه درب دار فیسلر آلمان Fissler Original-Profi Collection (قطر 28 سانتی‌متر)، ماهیتابه بدون روکش + درب بلند القایی",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%85%D8%AF%D9%84-Original-Profi-Collection-2-%D8%AA%DA%A9%D9%87-%D9%82%D8%B7%D8%B1-28-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%DA%A9%D8%B4-%D8%AF%D8%B1%D8%A8-%D8%A8%D9%84%D9%86%D8%AF-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.089Z"
+  },
+  {
+    "id": "torobshop-mobile-569f3d7e67640e5c",
+    "productId": "torobshop-569f3d7e67640e5c",
+    "name": "سرویس قابلمه سه پارچه زولینگ آلمان ZWILLING TrueFlow با درب شیشه‌ای",
+    "brand": "",
+    "model": "سرویس قابلمه سه پارچه زولینگ آلمان ZWILLING TrueFlow با درب شیشه‌ای",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%B3%D9%87-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D8%B2%D9%88%D9%84%DB%8C%D9%86%DA%AF-%D8%A2%D9%84%D9%85%D8%A7%D9%86-ZWILLING-TrueFlow-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.089Z"
   },
   {
     "id": "torobshop-mobile-aa03a6c561a55d60",
@@ -7347,7 +4695,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.089Z"
   },
   {
     "id": "torobshop-mobile-ad6f3f422d15a766",
@@ -7365,7 +4713,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.089Z"
   },
   {
     "id": "torobshop-mobile-0cfaef0e68debb8e",
@@ -7383,7 +4731,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.089Z"
   },
   {
     "id": "torobshop-mobile-dfa4bdc99016ca7e",
@@ -7401,7 +4749,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.089Z"
   },
   {
     "id": "torobshop-mobile-0ff8a8fc1fbd561e",
@@ -7419,7 +4767,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.089Z"
   },
   {
     "id": "torobshop-mobile-921dfbcc90d038a0",
@@ -7437,7 +4785,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.089Z"
   },
   {
     "id": "torobshop-mobile-6e397f6c85f56e0e",
@@ -7455,7 +4803,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.089Z"
   },
   {
     "id": "torobshop-mobile-9318a28bbba0fe53",
@@ -7473,7 +4821,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.089Z"
   },
   {
     "id": "torobshop-mobile-fa434e6aa57c4be7",
@@ -7491,7 +4839,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.089Z"
   },
   {
     "id": "torobshop-mobile-c9e212e51e3633db",
@@ -7509,7 +4857,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.089Z"
   },
   {
     "id": "torobshop-mobile-4b7348b541c036cd",
@@ -7527,7 +4875,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.089Z"
   },
   {
     "id": "torobshop-mobile-695cd4ce1cd48f20",
@@ -7545,7 +4893,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.089Z"
   },
   {
     "id": "torobshop-mobile-abdc2adccad9c33d",
@@ -7563,7 +4911,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.089Z"
   },
   {
     "id": "torobshop-mobile-7464bedef3ecb51e",
@@ -7581,7 +4929,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.089Z"
   },
   {
     "id": "torobshop-mobile-51009350b9f240d2",
@@ -7599,7 +4947,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.089Z"
   },
   {
     "id": "torobshop-mobile-924e8879fd31e680",
@@ -7617,7 +4965,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.089Z"
   },
   {
     "id": "torobshop-mobile-ae3ba973ea2911ee",
@@ -7635,7 +4983,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.089Z"
   },
   {
     "id": "torobshop-mobile-45c64009916028ba",
@@ -7653,7 +5001,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.089Z"
   },
   {
     "id": "torobshop-mobile-15def7d563b1e542",
@@ -7671,7 +5019,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.089Z"
   },
   {
     "id": "torobshop-mobile-835b00c0d36d8e10",
@@ -7689,7 +5037,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.089Z"
   },
   {
     "id": "torobshop-mobile-35f3e181350a9721",
@@ -7707,7 +5055,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.089Z"
   },
   {
     "id": "torobshop-mobile-da199e6690f1c782",
@@ -7725,7 +5073,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.089Z"
   },
   {
     "id": "torobshop-mobile-843617a20d001e4c",
@@ -7743,7 +5091,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.089Z"
   },
   {
     "id": "torobshop-mobile-37de96dd1d4a33c3",
@@ -7761,7 +5109,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.089Z"
   },
   {
     "id": "torobshop-mobile-ee166c5666efcec5",
@@ -7779,7 +5127,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.089Z"
   },
   {
     "id": "torobshop-mobile-9311f0ec7504f24b",
@@ -7797,7 +5145,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.089Z"
   },
   {
     "id": "torobshop-mobile-e2467d5cbf85ce81",
@@ -7815,7 +5163,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.089Z"
   },
   {
     "id": "torobshop-mobile-67d9add46426dfe8",
@@ -7833,25 +5181,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
-  },
-  {
-    "id": "torobshop-mobile-fc88260817f3414e",
-    "productId": "torobshop-fc88260817f3414e",
-    "name": "چاقوی خود تیز شونده ZWILLING Gourmet با مجموعه 7 تکه چاقو، استیل ضد زنگ، ساخت آلمان، براون Gourmet Braun",
-    "brand": "",
-    "model": "چاقوی خود تیز شونده ZWILLING Gourmet با مجموعه 7 تکه چاقو، استیل ضد زنگ، ساخت آلمان، براون Gourmet Braun",
-    "category": "mobile",
-    "subcategory": "لوازم جانبی موبایل",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%AE%D9%88%D8%AF-%D8%AA%DB%8C%D8%B2-%D8%B4%D9%88%D9%86%D8%AF%D9%87-ZWILLING-Gourmet-%D8%A8%D8%A7-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-7-%D8%AA%DA%A9%D9%87-%DA%86%D8%A7%D9%82%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-Gourmet-Braun",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.089Z"
   },
   {
     "id": "torobshop-mobile-3877183810368792",
@@ -7869,7 +5199,25 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.089Z"
+  },
+  {
+    "id": "torobshop-mobile-fc88260817f3414e",
+    "productId": "torobshop-fc88260817f3414e",
+    "name": "چاقوی خود تیز شونده ZWILLING Gourmet با مجموعه 7 تکه چاقو، استیل ضد زنگ، ساخت آلمان، براون Gourmet Braun",
+    "brand": "",
+    "model": "چاقوی خود تیز شونده ZWILLING Gourmet با مجموعه 7 تکه چاقو، استیل ضد زنگ، ساخت آلمان، براون Gourmet Braun",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%AE%D9%88%D8%AF-%D8%AA%DB%8C%D8%B2-%D8%B4%D9%88%D9%86%D8%AF%D9%87-ZWILLING-Gourmet-%D8%A8%D8%A7-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-7-%D8%AA%DA%A9%D9%87-%DA%86%D8%A7%D9%82%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-Gourmet-Braun",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.089Z"
   },
   {
     "id": "torobshop-mobile-cb9e4b877badae34",
@@ -7887,7 +5235,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.089Z"
   },
   {
     "id": "torobshop-mobile-d68b8e3ac997acb1",
@@ -7905,7 +5253,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.089Z"
   },
   {
     "id": "torobshop-mobile-bbb69afb3e332a2c",
@@ -7923,7 +5271,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.089Z"
   },
   {
     "id": "torobshop-mobile-f8b7784f8ba04a47",
@@ -7941,7 +5289,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.089Z"
   },
   {
     "id": "torobshop-mobile-e4088b7a2b6ea10b",
@@ -7959,7 +5307,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.089Z"
   },
   {
     "id": "torobshop-mobile-5cab57205d377e1f",
@@ -7977,7 +5325,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.089Z"
   },
   {
     "id": "torobshop-mobile-30d122f629f89166",
@@ -7995,7 +5343,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.089Z"
   },
   {
     "id": "torobshop-mobile-ef26e366fa305ced",
@@ -8013,43 +5361,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
-  },
-  {
-    "id": "torobshop-mobile-05c540b60ea3624b",
-    "productId": "torobshop-05c540b60ea3624b",
-    "name": "ماهیتابه استیل ضد زنگ فیسلر سانفرانسیسکو، 16 سانتی‌متر (1.2 لیتر) با درب شیشه‌ای - استیل ضد زنگ 18/10، پایه سوپرترمیک، پیمانه، لبه ریختن، سازگار با القایی",
-    "brand": "",
-    "model": "ماهیتابه استیل ضد زنگ فیسلر سانفرانسیسکو، 16 سانتی‌متر (1.2 لیتر) با درب شیشه‌ای - استیل ضد زنگ 18/10، پایه سوپرترمیک، پیمانه، لبه ریختن، سازگار با القایی",
-    "category": "mobile",
-    "subcategory": "لوازم جانبی موبایل",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%B3%D8%A7%D9%86%D9%81%D8%B1%D8%A7%D9%86%D8%B3%DB%8C%D8%B3%DA%A9%D9%88-16-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-1-2-%D9%84%DB%8C%D8%AA%D8%B1-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-18-10-%D9%BE%D8%A7%DB%8C%D9%87-%D8%B3%D9%88%D9%BE%D8%B1%D8%AA%D8%B1%D9%85%DB%8C%DA%A9-%D9%BE%DB%8C%D9%85%D8%A7%D9%86%D9%87-%D9%84%D8%A8%D9%87-%D8%B1%DB%8C%D8%AE%D8%AA%D9%86-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
-  },
-  {
-    "id": "torobshop-mobile-e0d95c7bfcafe827",
-    "productId": "torobshop-e0d95c7bfcafe827",
-    "name": "سرویس قابلمه 5 پارچه فیسلر آلمان Fissler Original Collection 5-teilig با درب فلزی (3 قابلمه، 1 قابلمه کوچک، 1 تابه کوچک - بدون درب) القایی",
-    "brand": "",
-    "model": "سرویس قابلمه 5 پارچه فیسلر آلمان Fissler Original Collection 5-teilig با درب فلزی (3 قابلمه، 1 قابلمه کوچک، 1 تابه کوچک - بدون درب) القایی",
-    "category": "mobile",
-    "subcategory": "لوازم جانبی موبایل",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-5-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-Fissler-Original-Collection-5-teilig-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%81%D9%84%D8%B2%DB%8C-3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-1-%D8%AA%D8%A7%D8%A8%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%B1%D8%A8-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.089Z"
   },
   {
     "id": "torobshop-mobile-4415e2cd944c4e59",
@@ -8067,7 +5379,43 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.089Z"
+  },
+  {
+    "id": "torobshop-mobile-05c540b60ea3624b",
+    "productId": "torobshop-05c540b60ea3624b",
+    "name": "ماهیتابه استیل ضد زنگ فیسلر سانفرانسیسکو، 16 سانتی‌متر (1.2 لیتر) با درب شیشه‌ای - استیل ضد زنگ 18/10، پایه سوپرترمیک، پیمانه، لبه ریختن، سازگار با القایی",
+    "brand": "",
+    "model": "ماهیتابه استیل ضد زنگ فیسلر سانفرانسیسکو، 16 سانتی‌متر (1.2 لیتر) با درب شیشه‌ای - استیل ضد زنگ 18/10، پایه سوپرترمیک، پیمانه، لبه ریختن، سازگار با القایی",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%B3%D8%A7%D9%86%D9%81%D8%B1%D8%A7%D9%86%D8%B3%DB%8C%D8%B3%DA%A9%D9%88-16-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-1-2-%D9%84%DB%8C%D8%AA%D8%B1-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-18-10-%D9%BE%D8%A7%DB%8C%D9%87-%D8%B3%D9%88%D9%BE%D8%B1%D8%AA%D8%B1%D9%85%DB%8C%DA%A9-%D9%BE%DB%8C%D9%85%D8%A7%D9%86%D9%87-%D9%84%D8%A8%D9%87-%D8%B1%DB%8C%D8%AE%D8%AA%D9%86-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.089Z"
+  },
+  {
+    "id": "torobshop-mobile-e0d95c7bfcafe827",
+    "productId": "torobshop-e0d95c7bfcafe827",
+    "name": "سرویس قابلمه 5 پارچه فیسلر آلمان Fissler Original Collection 5-teilig با درب فلزی (3 قابلمه، 1 قابلمه کوچک، 1 تابه کوچک - بدون درب) القایی",
+    "brand": "",
+    "model": "سرویس قابلمه 5 پارچه فیسلر آلمان Fissler Original Collection 5-teilig با درب فلزی (3 قابلمه، 1 قابلمه کوچک، 1 تابه کوچک - بدون درب) القایی",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-5-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-Fissler-Original-Collection-5-teilig-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%81%D9%84%D8%B2%DB%8C-3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-1-%D8%AA%D8%A7%D8%A8%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%B1%D8%A8-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.089Z"
   },
   {
     "id": "torobshop-mobile-d9fbeecaba31c602",
@@ -8085,7 +5433,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.089Z"
   },
   {
     "id": "torobshop-mobile-3e03d59443676707",
@@ -8103,7 +5451,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.089Z"
   },
   {
     "id": "torobshop-mobile-c8ae91ddddbffeeb",
@@ -8121,7 +5469,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.089Z"
   },
   {
     "id": "torobshop-mobile-07103c8f0e3ce377",
@@ -8139,7 +5487,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.089Z"
   },
   {
     "id": "torobshop-mobile-d397df756b9f1338",
@@ -8157,7 +5505,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.090Z"
   },
   {
     "id": "torobshop-mobile-c4580b999e737ac3",
@@ -8175,7 +5523,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.808Z"
+    "observedAt": "2026-09-01T12:30:43.090Z"
   },
   {
     "id": "torobshop-mobile-0674abec1e1ff3bb",
@@ -8193,7 +5541,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.809Z"
+    "observedAt": "2026-09-01T12:30:43.090Z"
   },
   {
     "id": "torobshop-mobile-b0b661c9d6dfca29",
@@ -8211,79 +5559,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.809Z"
-  },
-  {
-    "id": "torobshop-mobile-d39a2f5ac6cd9a7f",
-    "productId": "torobshop-d39a2f5ac6cd9a7f",
-    "name": "سرویس قابلمه 3 پارچه فیسلر آلمان Fissler Original-Profi Collection القایی",
-    "brand": "",
-    "model": "سرویس قابلمه 3 پارچه فیسلر آلمان Fissler Original-Profi Collection القایی",
-    "category": "mobile",
-    "subcategory": "لوازم جانبی موبایل",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D8%A7%D8%B5%D9%84%DB%8C-%D8%AD%D8%B1%D9%81%D9%87-%D8%A7%DB%8C-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%DB%B3-%D8%AA%DA%A9%D9%87-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%81%D9%84%D8%B2%DB%8C-%DB%B1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%DB%B1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%DB%B3-%D8%AA%DA%A9%D9%87-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.809Z"
-  },
-  {
-    "id": "torobshop-mobile-280503308950a13c",
-    "productId": "torobshop-280503308950a13c",
-    "name": "کتری ZWILLING، ۱.۲ لیتر، ۱۵۵۰-۱۸۵۰ وات، استیل ضد زنگ/پلاستیک، نقره‌ای/مشکی",
-    "brand": "",
-    "model": "کتری ZWILLING، ۱.۲ لیتر، ۱۵۵۰-۱۸۵۰ وات، استیل ضد زنگ/پلاستیک، نقره‌ای/مشکی",
-    "category": "mobile",
-    "subcategory": "لوازم جانبی موبایل",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%DA%A9%D8%AA%D8%B1%DB%8C-ZWILLING-%DB%B1-%DB%B2-%D9%84%DB%8C%D8%AA%D8%B1-%DB%B1%DB%B5%DB%B5%DB%B0-%DB%B1%DB%B8%DB%B5%DB%B0-%D9%88%D8%A7%D8%AA-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.809Z"
-  },
-  {
-    "id": "torobshop-mobile-aa2dfdb88af5c975",
-    "productId": "torobshop-aa2dfdb88af5c975",
-    "name": "ماهیتابه ZWILLING جوی پلاس 24 سانتی متری",
-    "brand": "",
-    "model": "ماهیتابه ZWILLING جوی پلاس 24 سانتی متری",
-    "category": "mobile",
-    "subcategory": "لوازم جانبی موبایل",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-ZWILLING-%D8%AC%D9%88%DB%8C-%D9%BE%D9%84%D8%A7%D8%B3-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.809Z"
-  },
-  {
-    "id": "torobshop-mobile-9d8fbc8c7f0b6991",
-    "productId": "torobshop-9d8fbc8c7f0b6991",
-    "name": "قیچی خیاطی کلاسیک زولینگ آلمان ZWILLING Superfection، قیچی پارچه، 21 سانتی متر، استیل ضد زنگ مخصوص، ساخت آلمان، مشکی",
-    "brand": "",
-    "model": "قیچی خیاطی کلاسیک زولینگ آلمان ZWILLING Superfection، قیچی پارچه، 21 سانتی متر، استیل ضد زنگ مخصوص، ساخت آلمان، مشکی",
-    "category": "mobile",
-    "subcategory": "لوازم جانبی موبایل",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%82%DB%8C%DA%86%DB%8C-%D8%AE%DB%8C%D8%A7%D8%B7%DB%8C-%DA%A9%D9%84%D8%A7%D8%B3%DB%8C%DA%A9-ZWILLING-Superfection-%D9%82%DB%8C%DA%86%DB%8C-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-21-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.809Z"
+    "observedAt": "2026-09-01T12:30:43.090Z"
   },
   {
     "id": "torobshop-mobile-40f09e3a04b68146",
@@ -8301,7 +5577,79 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.809Z"
+    "observedAt": "2026-09-01T12:30:43.090Z"
+  },
+  {
+    "id": "torobshop-mobile-d39a2f5ac6cd9a7f",
+    "productId": "torobshop-d39a2f5ac6cd9a7f",
+    "name": "سرویس قابلمه 3 پارچه فیسلر آلمان Fissler Original-Profi Collection القایی",
+    "brand": "",
+    "model": "سرویس قابلمه 3 پارچه فیسلر آلمان Fissler Original-Profi Collection القایی",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D8%A7%D8%B5%D9%84%DB%8C-%D8%AD%D8%B1%D9%81%D9%87-%D8%A7%DB%8C-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%DB%B3-%D8%AA%DA%A9%D9%87-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%81%D9%84%D8%B2%DB%8C-%DB%B1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%DB%B1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%DB%B3-%D8%AA%DA%A9%D9%87-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.090Z"
+  },
+  {
+    "id": "torobshop-mobile-280503308950a13c",
+    "productId": "torobshop-280503308950a13c",
+    "name": "کتری ZWILLING، ۱.۲ لیتر، ۱۵۵۰-۱۸۵۰ وات، استیل ضد زنگ/پلاستیک، نقره‌ای/مشکی",
+    "brand": "",
+    "model": "کتری ZWILLING، ۱.۲ لیتر، ۱۵۵۰-۱۸۵۰ وات، استیل ضد زنگ/پلاستیک، نقره‌ای/مشکی",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%DA%A9%D8%AA%D8%B1%DB%8C-ZWILLING-%DB%B1-%DB%B2-%D9%84%DB%8C%D8%AA%D8%B1-%DB%B1%DB%B5%DB%B5%DB%B0-%DB%B1%DB%B8%DB%B5%DB%B0-%D9%88%D8%A7%D8%AA-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.090Z"
+  },
+  {
+    "id": "torobshop-mobile-aa2dfdb88af5c975",
+    "productId": "torobshop-aa2dfdb88af5c975",
+    "name": "ماهیتابه ZWILLING جوی پلاس 24 سانتی متری",
+    "brand": "",
+    "model": "ماهیتابه ZWILLING جوی پلاس 24 سانتی متری",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-ZWILLING-%D8%AC%D9%88%DB%8C-%D9%BE%D9%84%D8%A7%D8%B3-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.090Z"
+  },
+  {
+    "id": "torobshop-mobile-9d8fbc8c7f0b6991",
+    "productId": "torobshop-9d8fbc8c7f0b6991",
+    "name": "قیچی خیاطی کلاسیک زولینگ آلمان ZWILLING Superfection، قیچی پارچه، 21 سانتی متر، استیل ضد زنگ مخصوص، ساخت آلمان، مشکی",
+    "brand": "",
+    "model": "قیچی خیاطی کلاسیک زولینگ آلمان ZWILLING Superfection، قیچی پارچه، 21 سانتی متر، استیل ضد زنگ مخصوص، ساخت آلمان، مشکی",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%82%DB%8C%DA%86%DB%8C-%D8%AE%DB%8C%D8%A7%D8%B7%DB%8C-%DA%A9%D9%84%D8%A7%D8%B3%DB%8C%DA%A9-ZWILLING-Superfection-%D9%82%DB%8C%DA%86%DB%8C-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-21-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.090Z"
   },
   {
     "id": "torobshop-mobile-0e4d04ef83a810db",
@@ -8319,7 +5667,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.809Z"
+    "observedAt": "2026-09-01T12:30:43.090Z"
   },
   {
     "id": "torobshop-mobile-00bf5776f339768d",
@@ -8337,7 +5685,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.809Z"
+    "observedAt": "2026-09-01T12:30:43.090Z"
   },
   {
     "id": "torobshop-mobile-9087741222a89b21",
@@ -8355,7 +5703,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.809Z"
+    "observedAt": "2026-09-01T12:30:43.090Z"
   },
   {
     "id": "torobshop-mobile-eb3d93fc719b9727",
@@ -8373,7 +5721,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.809Z"
+    "observedAt": "2026-09-01T12:30:43.090Z"
   },
   {
     "id": "torobshop-mobile-1fd1146f6f750aa9",
@@ -8391,7 +5739,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.809Z"
+    "observedAt": "2026-09-01T12:30:43.090Z"
   },
   {
     "id": "torobshop-mobile-1e0602d76b0e257a",
@@ -8409,7 +5757,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.809Z"
+    "observedAt": "2026-09-01T12:30:43.090Z"
   },
   {
     "id": "torobshop-mobile-412e480ec7918302",
@@ -8427,61 +5775,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.809Z"
-  },
-  {
-    "id": "torobshop-mobile-97e8accc87d0f8bf",
-    "productId": "torobshop-97e8accc87d0f8bf",
-    "name": "ماهیتابه دو دسته درب دار فیسلر آلمان Fissler Original-Profi Collection (قطر ۲۸ سانتی‌متر، ۳ لیتر) – کباب‌پز استیل با درب بلند",
-    "brand": "",
-    "model": "ماهیتابه دو دسته درب دار فیسلر آلمان Fissler Original-Profi Collection (قطر ۲۸ سانتی‌متر، ۳ لیتر) – کباب‌پز استیل با درب بلند",
-    "category": "mobile",
-    "subcategory": "لوازم جانبی موبایل",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%85%D8%AF%D9%84-Original-Profi-Collection-%D9%82%D8%B7%D8%B1-%DB%B2%DB%B8-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%DB%B3-%D9%84%DB%8C%D8%AA%D8%B1-%DA%A9%D8%A8%D8%A7%D8%A8-%D9%BE%D8%B2-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%A8%D9%84%D9%86%D8%AF-%D8%A8%D8%AF%D9%88%D9%86-%D9%BE%D9%88%D8%B4%D8%B4-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C-%D8%AD%D8%B1%D8%A7%D8%B1%D8%AA%DB%8C-%DB%B2%DB%B8-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%85%D8%AF%D9%84-%D8%AC%D8%AF%DB%8C%D8%AF",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.809Z"
-  },
-  {
-    "id": "torobshop-mobile-d99c3943bcec9400",
-    "productId": "torobshop-d99c3943bcec9400",
-    "name": "چاقوی خود تیز شونده چهار ستاره ZWILLING با مجموعه چاقوی 7 تکه، استیل ضد زنگ، ساخت آلمان، مشکی چهار ستاره مشکی",
-    "brand": "",
-    "model": "چاقوی خود تیز شونده چهار ستاره ZWILLING با مجموعه چاقوی 7 تکه، استیل ضد زنگ، ساخت آلمان، مشکی چهار ستاره مشکی",
-    "category": "mobile",
-    "subcategory": "لوازم جانبی موبایل",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%AE%D9%88%D8%AF-%D8%AA%DB%8C%D8%B2-%D8%B4%D9%88%D9%86%D8%AF%D9%87-%DA%86%D9%87%D8%A7%D8%B1-%D8%B3%D8%AA%D8%A7%D8%B1%D9%87-ZWILLING-%D8%A8%D8%A7-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%DA%86%D8%A7%D9%82%D9%88%DB%8C-7-%D8%AA%DA%A9%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%B4%DA%A9%DB%8C-%DA%86%D9%87%D8%A7%D8%B1-%D8%B3%D8%AA%D8%A7%D8%B1%D9%87-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.809Z"
-  },
-  {
-    "id": "torobshop-mobile-56cac7936a06e3f1",
-    "productId": "torobshop-56cac7936a06e3f1",
-    "name": "اتو بخار مخزن دار تفال فرانسه مدل TEF SV8027 ws/beige",
-    "brand": "",
-    "model": "اتو بخار مخزن دار تفال فرانسه مدل TEF SV8027 ws/beige",
-    "category": "mobile",
-    "subcategory": "لوازم جانبی موبایل",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%A8%D8%AE%D8%A7%D8%B1%D8%B4%D9%88%DB%8C-%D8%AA%D9%81%D8%A7%D9%84-%D9%85%D8%AF%D9%84-TEF-SV8027-ws-beige",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.809Z"
+    "observedAt": "2026-09-01T12:30:43.090Z"
   },
   {
     "id": "torobshop-mobile-2be1976c83ad17a1",
@@ -8499,7 +5793,61 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.809Z"
+    "observedAt": "2026-09-01T12:30:43.090Z"
+  },
+  {
+    "id": "torobshop-mobile-97e8accc87d0f8bf",
+    "productId": "torobshop-97e8accc87d0f8bf",
+    "name": "ماهیتابه دو دسته درب دار فیسلر آلمان Fissler Original-Profi Collection (قطر ۲۸ سانتی‌متر، ۳ لیتر) – کباب‌پز استیل با درب بلند",
+    "brand": "",
+    "model": "ماهیتابه دو دسته درب دار فیسلر آلمان Fissler Original-Profi Collection (قطر ۲۸ سانتی‌متر، ۳ لیتر) – کباب‌پز استیل با درب بلند",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%85%D8%AF%D9%84-Original-Profi-Collection-%D9%82%D8%B7%D8%B1-%DB%B2%DB%B8-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%DB%B3-%D9%84%DB%8C%D8%AA%D8%B1-%DA%A9%D8%A8%D8%A7%D8%A8-%D9%BE%D8%B2-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%A8%D9%84%D9%86%D8%AF-%D8%A8%D8%AF%D9%88%D9%86-%D9%BE%D9%88%D8%B4%D8%B4-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C-%D8%AD%D8%B1%D8%A7%D8%B1%D8%AA%DB%8C-%DB%B2%DB%B8-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%85%D8%AF%D9%84-%D8%AC%D8%AF%DB%8C%D8%AF",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.090Z"
+  },
+  {
+    "id": "torobshop-mobile-d99c3943bcec9400",
+    "productId": "torobshop-d99c3943bcec9400",
+    "name": "چاقوی خود تیز شونده چهار ستاره ZWILLING با مجموعه چاقوی 7 تکه، استیل ضد زنگ، ساخت آلمان، مشکی چهار ستاره مشکی",
+    "brand": "",
+    "model": "چاقوی خود تیز شونده چهار ستاره ZWILLING با مجموعه چاقوی 7 تکه، استیل ضد زنگ، ساخت آلمان، مشکی چهار ستاره مشکی",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%AE%D9%88%D8%AF-%D8%AA%DB%8C%D8%B2-%D8%B4%D9%88%D9%86%D8%AF%D9%87-%DA%86%D9%87%D8%A7%D8%B1-%D8%B3%D8%AA%D8%A7%D8%B1%D9%87-ZWILLING-%D8%A8%D8%A7-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%DA%86%D8%A7%D9%82%D9%88%DB%8C-7-%D8%AA%DA%A9%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%B4%DA%A9%DB%8C-%DA%86%D9%87%D8%A7%D8%B1-%D8%B3%D8%AA%D8%A7%D8%B1%D9%87-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.090Z"
+  },
+  {
+    "id": "torobshop-mobile-56cac7936a06e3f1",
+    "productId": "torobshop-56cac7936a06e3f1",
+    "name": "اتو بخار مخزن دار تفال فرانسه مدل TEF SV8027 ws/beige",
+    "brand": "",
+    "model": "اتو بخار مخزن دار تفال فرانسه مدل TEF SV8027 ws/beige",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A8%D8%AE%D8%A7%D8%B1%D8%B4%D9%88%DB%8C-%D8%AA%D9%81%D8%A7%D9%84-%D9%85%D8%AF%D9%84-TEF-SV8027-ws-beige",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.090Z"
   },
   {
     "id": "torobshop-mobile-ace9b88e93544c94",
@@ -8517,7 +5865,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.809Z"
+    "observedAt": "2026-09-01T12:30:43.090Z"
   },
   {
     "id": "torobshop-mobile-4dd091835a22ff69",
@@ -8535,7 +5883,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.809Z"
+    "observedAt": "2026-09-01T12:30:43.090Z"
   },
   {
     "id": "torobshop-mobile-e02164e6665f61ef",
@@ -8553,7 +5901,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.809Z"
+    "observedAt": "2026-09-01T12:30:43.090Z"
   },
   {
     "id": "torobshop-mobile-3644b82267dd5165",
@@ -8571,7 +5919,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.809Z"
+    "observedAt": "2026-09-01T12:30:43.090Z"
   },
   {
     "id": "torobshop-mobile-8a5c15c91c1a9329",
@@ -8589,7 +5937,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.809Z"
+    "observedAt": "2026-09-01T12:30:43.090Z"
   },
   {
     "id": "torobshop-mobile-ffbee63b50d31684",
@@ -8607,7 +5955,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.809Z"
+    "observedAt": "2026-09-01T12:30:43.090Z"
   },
   {
     "id": "torobshop-mobile-1dfcfd9dee587f60",
@@ -8625,7 +5973,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.809Z"
+    "observedAt": "2026-09-01T12:30:43.090Z"
   },
   {
     "id": "torobshop-mobile-ef0157b54bf022f6",
@@ -8643,7 +5991,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.809Z"
+    "observedAt": "2026-09-01T12:30:43.090Z"
   },
   {
     "id": "torobshop-mobile-b131b88e24438d96",
@@ -8661,7 +6009,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.809Z"
+    "observedAt": "2026-09-01T12:30:43.090Z"
   },
   {
     "id": "torobshop-mobile-f4ac0f14bd21c6cf",
@@ -8679,7 +6027,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.809Z"
+    "observedAt": "2026-09-01T12:30:43.090Z"
   },
   {
     "id": "torobshop-mobile-2f0597d05addbba1",
@@ -8697,7 +6045,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.809Z"
+    "observedAt": "2026-09-01T12:30:43.090Z"
   },
   {
     "id": "torobshop-mobile-a218f27039422c46",
@@ -8715,7 +6063,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.809Z"
+    "observedAt": "2026-09-01T12:30:43.090Z"
   },
   {
     "id": "torobshop-mobile-22200afc1cbeec02",
@@ -8733,7 +6081,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.809Z"
+    "observedAt": "2026-09-01T12:30:43.090Z"
   },
   {
     "id": "torobshop-mobile-595f1b954d0611bd",
@@ -8751,7 +6099,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.809Z"
+    "observedAt": "2026-09-01T12:30:43.090Z"
   },
   {
     "id": "torobshop-mobile-f26fbc6e8dbee708",
@@ -8769,7 +6117,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.809Z"
+    "observedAt": "2026-09-01T12:30:43.090Z"
   },
   {
     "id": "torobshop-mobile-fda1fe8cf4de5c5d",
@@ -8787,7 +6135,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.809Z"
+    "observedAt": "2026-09-01T12:30:43.090Z"
   },
   {
     "id": "torobshop-mobile-3d13a34700e027c0",
@@ -8805,7 +6153,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.809Z"
+    "observedAt": "2026-09-01T12:30:43.090Z"
   },
   {
     "id": "torobshop-mobile-f06d188d530004ad",
@@ -8823,7 +6171,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.809Z"
+    "observedAt": "2026-09-01T12:30:43.090Z"
   },
   {
     "id": "torobshop-mobile-4bffdb79ac43fe15",
@@ -8841,6 +6189,2766 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-01T11:00:16.809Z"
+    "observedAt": "2026-09-01T12:30:43.090Z"
+  },
+  {
+    "id": "torobshop-mobile-f4e7843bb5d4eb60",
+    "productId": "torobshop-f4e7843bb5d4eb60",
+    "name": "قیچی چند منظوره زولینگ آلمان ZWILLING، قیچی جهانی، طول: 20 سانتی متر، استیل ضد زنگ مخصوص، کمک آشپزخانه، قرمز",
+    "brand": "",
+    "model": "قیچی چند منظوره زولینگ آلمان ZWILLING، قیچی جهانی، طول: 20 سانتی متر، استیل ضد زنگ مخصوص، کمک آشپزخانه، قرمز",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%82%DB%8C%DA%86%DB%8C-%DA%86%D9%86%D8%AF-%D9%85%D9%86%D8%B8%D9%88%D8%B1%D9%87-ZWILLING-%D9%82%DB%8C%DA%86%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%B7%D9%88%D9%84-20-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%DA%A9%D9%85%DA%A9-%D8%A2%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87-%D9%82%D8%B1%D9%85%D8%B2",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.090Z"
+  },
+  {
+    "id": "torobshop-mobile-fbbfc333137fef0f",
+    "productId": "torobshop-fbbfc333137fef0f",
+    "name": "ماهیتابه دو دسته فیسلر آلمان Fissler Pure Collection/Edelstahl (قطر ۲۴ سانتی‌متر) بدون پوشش",
+    "brand": "",
+    "model": "ماهیتابه دو دسته فیسلر آلمان Fissler Pure Collection/Edelstahl (قطر ۲۴ سانتی‌متر) بدون پوشش",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D8%AE%D8%A7%D9%84%D8%B5-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%82%D8%B7%D8%B1-%DB%B2%DB%B4-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A8%D8%AF%D9%88%D9%86-%D9%BE%D9%88%D8%B4%D8%B4-%D9%BE%DB%8C%D9%85%D8%A7%D9%86%D9%87-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D9%84%D8%A8%D9%87-%D8%A8%D9%84%D9%86%D8%AF-%DB%B1%DB%B0-%D8%B3%D8%A7%D9%84-%DA%AF%D8%A7%D8%B1%D8%A7%D9%86%D8%AA%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.090Z"
+  },
+  {
+    "id": "torobshop-mobile-19319bed3e2f6069",
+    "productId": "torobshop-19319bed3e2f6069",
+    "name": "سرویس قابلمه ۵ تکه ZWILLING PURE، استیل ضد زنگ ۱۸/۱۰، دسته‌های خنک‌شونده، قابل شستشو در ماشین ظرفشویی، خط پرکننده یکپارچه، نقره‌ای",
+    "brand": "",
+    "model": "سرویس قابلمه ۵ تکه ZWILLING PURE، استیل ضد زنگ ۱۸/۱۰، دسته‌های خنک‌شونده، قابل شستشو در ماشین ظرفشویی، خط پرکننده یکپارچه، نقره‌ای",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B5-%D8%AA%DA%A9%D9%87-ZWILLING-PURE-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%DB%B1%DB%B8-%DB%B1%DB%B0-%D8%AF%D8%B3%D8%AA%D9%87-%D9%87%D8%A7%DB%8C-%D8%AE%D9%86%DA%A9-%D8%B4%D9%88%D9%86%D8%AF%D9%87-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D8%AE%D8%B7-%D9%BE%D8%B1%DA%A9%D9%86%D9%86%D8%AF%D9%87-%DB%8C%DA%A9%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.090Z"
+  },
+  {
+    "id": "torobshop-mobile-736fe4049676a61e",
+    "productId": "torobshop-736fe4049676a61e",
+    "name": "زودپز القایی وی ام اف آلمان WMF Perfect One Pot 8.5 L، زودپز، سیگنال پخت بزرگ، 2 طبقه پخت، دسته درب جداشدنی، استیل ضد زنگ Cromargan",
+    "brand": "",
+    "model": "زودپز القایی وی ام اف آلمان WMF Perfect One Pot 8.5 L، زودپز، سیگنال پخت بزرگ، 2 طبقه پخت، دسته درب جداشدنی، استیل ضد زنگ Cromargan",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B2%D9%88%D8%AF%D9%BE%D8%B2-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-WMF-Perfect-One-Pot-8-5-L-%D8%B2%D9%88%D8%AF%D9%BE%D8%B2-%D8%B3%DB%8C%DA%AF%D9%86%D8%A7%D9%84-%D9%BE%D8%AE%D8%AA-%D8%A8%D8%B2%D8%B1%DA%AF-2-%D8%B7%D8%A8%D9%82%D9%87-%D9%BE%D8%AE%D8%AA-%D8%AF%D8%B3%D8%AA%D9%87-%D8%AF%D8%B1%D8%A8-%D8%AC%D8%AF%D8%A7%D8%B4%D8%AF%D9%86%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-Cromargan",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.090Z"
+  },
+  {
+    "id": "torobshop-mobile-a02082729540664c",
+    "productId": "torobshop-a02082729540664c",
+    "name": "ست کامل وکیوم زولینگ آلمان ZWILLING Fresh & Save - شامل ۱۱ عدد کاسه شیشه‌ای و ۴ عدد کاسه سرامیکی - پمپ وکیوم",
+    "brand": "",
+    "model": "ست کامل وکیوم زولینگ آلمان ZWILLING Fresh & Save - شامل ۱۱ عدد کاسه شیشه‌ای و ۴ عدد کاسه سرامیکی - پمپ وکیوم",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%AA-%DA%A9%D8%A7%D9%85%D9%84-%D9%88%DA%A9%DB%8C%D9%88%D9%85-ZWILLING-Fresh-Save-%D8%B4%D8%A7%D9%85%D9%84-%DB%B1%DB%B1-%D8%B9%D8%AF%D8%AF-%DA%A9%D8%A7%D8%B3%D9%87-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D9%88-%DB%B4-%D8%B9%D8%AF%D8%AF-%DA%A9%D8%A7%D8%B3%D9%87-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%BE%D9%85%D9%BE-%D9%88%DA%A9%DB%8C%D9%88%D9%85",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.090Z"
+  },
+  {
+    "id": "torobshop-mobile-f091c9e920c8e1fb",
+    "productId": "torobshop-f091c9e920c8e1fb",
+    "name": "Tefal Easy Fry Max فریزر هواپیمایی گرم — 5-L Airfryer، کمپیکت برای بطری های خرد و گوشت جوانه با روغن کمی پوسته شده ، ضدچسبنده ، سبد مقاوم به ماشین ظرفشویی ، انرژی صرفه جویی می کند ، سیاه EY2458",
+    "brand": "",
+    "model": "Tefal Easy Fry Max فریزر هواپیمایی گرم — 5-L Airfryer، کمپیکت برای بطری های خرد و گوشت جوانه با روغن کمی پوسته شده ، ضدچسبنده ، سبد مقاوم به ماشین ظرفشویی ، انرژی صرفه جویی می کند ، سیاه EY2458",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/Tefal-Easy-Fry-Max-%D9%81%D8%B1%DB%8C%D8%B2%D8%B1-%D9%87%D9%88%D8%A7%D9%BE%DB%8C%D9%85%D8%A7%DB%8C%DB%8C-%DA%AF%D8%B1%D9%85-5-L-Airfryer-%DA%A9%D9%85%D9%BE%DB%8C%DA%A9%D8%AA-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A8%D8%B7%D8%B1%DB%8C-%D9%87%D8%A7%DB%8C-%D8%AE%D8%B1%D8%AF-%D9%88-%DA%AF%D9%88%D8%B4%D8%AA-%D8%AC%D9%88%D8%A7%D9%86%D9%87-%D8%A8%D8%A7-%D8%B1%D9%88%D8%BA%D9%86-%DA%A9%D9%85%DB%8C-%D9%BE%D9%88%D8%B3%D8%AA%D9%87-%D8%B4%D8%AF%D9%87-%D8%B6%D8%AF%DA%86%D8%B3%D8%A8%D9%86%D8%AF%D9%87-%D8%B3%D8%A8%D8%AF-%D9%85%D9%82%D8%A7%D9%88%D9%85-%D8%A8%D9%87-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D8%A7%D9%86%D8%B1%DA%98%DB%8C-%D8%B5%D8%B1%D9%81%D9%87-%D8%AC%D9%88%DB%8C%DB%8C-%D9%85%DB%8C-%DA%A9%D9%86%D8%AF-%D8%B3%DB%8C%D8%A7%D9%87-EY2458",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.090Z"
+  },
+  {
+    "id": "torobshop-mobile-4b3421328c1ce066",
+    "productId": "torobshop-4b3421328c1ce066",
+    "name": "قیچی چند منظوره زولینگ آلمان ZWILLING، قیچی جهانی، طول: 20 سانتی متر، استیل ضد زنگ مخصوص، کمک آشپزخانه، مشکی",
+    "brand": "",
+    "model": "قیچی چند منظوره زولینگ آلمان ZWILLING، قیچی جهانی، طول: 20 سانتی متر، استیل ضد زنگ مخصوص، کمک آشپزخانه، مشکی",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%82%DB%8C%DA%86%DB%8C-%DA%86%D9%86%D8%AF-%D9%85%D9%86%D8%B8%D9%88%D8%B1%D9%87-ZWILLING-%D9%82%DB%8C%DA%86%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%B7%D9%88%D9%84-20-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%DA%A9%D9%85%DA%A9-%D8%A2%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.090Z"
+  },
+  {
+    "id": "torobshop-mobile-be60227182487367",
+    "productId": "torobshop-be60227182487367",
+    "name": "ماهیتابه فیسلر کاتانیا آلمان Fissler Catania/Edelstahl-Bratpfanne (28 سانتی‌متر)",
+    "brand": "",
+    "model": "ماهیتابه فیسلر کاتانیا آلمان Fissler Catania/Edelstahl-Bratpfanne (28 سانتی‌متر)",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%DA%A9%D8%A7%D8%AA%D8%A7%D9%86%DB%8C%D8%A7-28-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%85%D8%AD%DA%A9%D9%85-%D9%88-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%D8%A7%D8%AE%D8%AA%D9%87-%D8%B4%D8%AF%D9%87-%D8%A7%D8%B2-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%A8%D8%A7-%DA%A9%DB%8C%D9%81%DB%8C%D8%AA-%D8%A8%D8%A7%D9%84%D8%A7-18-10-%D9%BE%D8%A7%DB%8C%D9%87-%D8%AD%D8%B1%D8%A7%D8%B1%D8%AA%DB%8C-%D9%85%D9%82%D8%A7%D9%88%D9%85-%D8%AF%D8%B1-%D8%A8%D8%B1%D8%A7%D8%A8%D8%B1-%D8%AD%D8%B1%D8%A7%D8%B1%D8%AA-%D8%AA%D8%A7-230-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2%D9%87%D8%A7%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.090Z"
+  },
+  {
+    "id": "torobshop-mobile-98b213756a0f63d3",
+    "productId": "torobshop-98b213756a0f63d3",
+    "name": "سرویس قابلمه ۵ تکه ZWILLING PURE، استیل ضد زنگ ۱۸/۱۰، پوشش بیرونی سرامیکی، دسته‌های خنک‌شونده، قابل شستشو در ماشین ظرفشویی، صورتی رزگلد",
+    "brand": "",
+    "model": "سرویس قابلمه ۵ تکه ZWILLING PURE، استیل ضد زنگ ۱۸/۱۰، پوشش بیرونی سرامیکی، دسته‌های خنک‌شونده، قابل شستشو در ماشین ظرفشویی، صورتی رزگلد",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B5-%D8%AA%DA%A9%D9%87-ZWILLING-PURE-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%DB%B1%DB%B8-%DB%B1%DB%B0-%D9%BE%D9%88%D8%B4%D8%B4-%D8%A8%DB%8C%D8%B1%D9%88%D9%86%DB%8C-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D8%AF%D8%B3%D8%AA%D9%87-%D9%87%D8%A7%DB%8C-%D8%AE%D9%86%DA%A9-%D8%B4%D9%88%D9%86%D8%AF%D9%87-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D8%B5%D9%88%D8%B1%D8%AA%DB%8C-%D8%B1%D8%B2%DA%AF%D9%84%D8%AF",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.090Z"
+  },
+  {
+    "id": "torobshop-mobile-f596668a95c6181a",
+    "productId": "torobshop-f596668a95c6181a",
+    "name": "قیچی خانگی زولینگ آلمان ZWILLING Twin L، استیل ضد زنگ، دسته پلاستیکی، ۱۳۰ میلی‌متر، مشکی",
+    "brand": "",
+    "model": "قیچی خانگی زولینگ آلمان ZWILLING Twin L، استیل ضد زنگ، دسته پلاستیکی، ۱۳۰ میلی‌متر، مشکی",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%82%DB%8C%DA%86%DB%8C-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C-ZWILLING-Twin-L-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%AF%D8%B3%D8%AA%D9%87-%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9%DB%8C-%DB%B1%DB%B3%DB%B0-%D9%85%DB%8C%D9%84%DB%8C-%D9%85%D8%AA%D8%B1-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.090Z"
+  },
+  {
+    "id": "torobshop-mobile-d3f802410104b943",
+    "productId": "torobshop-d3f802410104b943",
+    "name": "دستگاه لیزر خانگی براون مدل IPL Smart Silk·expert Pro 5، رفع دائمی موهای زائد، دارای کیف، 2 عدد لوازم جانبی، مدل PL5210",
+    "brand": "",
+    "model": "دستگاه لیزر خانگی براون مدل IPL Smart Silk·expert Pro 5، رفع دائمی موهای زائد، دارای کیف، 2 عدد لوازم جانبی، مدل PL5210",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%84%DB%8C%D8%B2%D8%B1-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D9%85%D8%AF%D9%84-IPL-Smart-Silk-expert-Pro-5-%D8%B1%D9%81%D8%B9-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C-%DA%A9%DB%8C%D9%81-2-%D8%B9%D8%AF%D8%AF-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D8%AF%D9%84-PL5210",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.090Z"
+  },
+  {
+    "id": "torobshop-mobile-0f347f93a4676672",
+    "productId": "torobshop-0f347f93a4676672",
+    "name": "اپیلاتور براون مدل Silk-épil 9 Flex برای خانم‌ها با سری انعطاف‌پذیر ۳۶۰ درجه، قابلیت استفاده به صورت خشک و مرطوب، پوستی صاف و نرم با ماندگاری طولانی، مخصوص بانوان، سری اصلاح و سری اصلاح، ساخت آلمان، ۹-۰۴۱ سه‌بعدی، سفید/طلایی + سری اصلاح و کیف نگهداری",
+    "brand": "",
+    "model": "اپیلاتور براون مدل Silk-épil 9 Flex برای خانم‌ها با سری انعطاف‌پذیر ۳۶۰ درجه، قابلیت استفاده به صورت خشک و مرطوب، پوستی صاف و نرم با ماندگاری طولانی، مخصوص بانوان، سری اصلاح و سری اصلاح، ساخت آلمان، ۹-۰۴۱ سه‌بعدی، سفید/طلایی + سری اصلاح و کیف نگهداری",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D9%85%D8%AF%D9%84-Silk-pil-9-Flex-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AE%D8%A7%D9%86%D9%85-%D9%87%D8%A7-%D8%A8%D8%A7-%D8%B3%D8%B1%DB%8C-%D8%A7%D9%86%D8%B9%D8%B7%D8%A7%D9%81-%D9%BE%D8%B0%DB%8C%D8%B1-%DB%B3%DB%B6%DB%B0-%D8%AF%D8%B1%D8%AC%D9%87-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A8%D9%87-%D8%B5%D9%88%D8%B1%D8%AA-%D8%AE%D8%B4%DA%A9-%D9%88-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D9%BE%D9%88%D8%B3%D8%AA%DB%8C-%D8%B5%D8%A7%D9%81-%D9%88-%D9%86%D8%B1%D9%85-%D8%A8%D8%A7-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1%DB%8C-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%DB%B9-%DB%B0%DB%B4%DB%B1-%D8%B3%D9%87-%D8%A8%D8%B9%D8%AF%DB%8C-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%DA%A9%DB%8C%D9%81-%D9%86%DA%AF%D9%87%D8%AF%D8%A7%D8%B1%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.090Z"
+  },
+  {
+    "id": "torobshop-mobile-cb5f45612fc319e4",
+    "productId": "torobshop-cb5f45612fc319e4",
+    "name": "فرکننده حالت دهنده مو اتوماتیک فیلیپس هلند Philips BHB876/00",
+    "brand": "",
+    "model": "فرکننده حالت دهنده مو اتوماتیک فیلیپس هلند Philips BHB876/00",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%81%D8%B1%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D9%85%D9%88%DB%8C-%D8%A7%D8%AA%D9%88%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%B3%D8%B1%DB%8C-8000-%D9%81%D8%B1%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D9%81%D8%B1%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D9%85%D9%88-27-%D8%AD%D8%A7%D9%84%D8%AA-%D8%AF%D9%87%D9%86%D8%AF%D9%87-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D9%85%D8%B4%DA%A9%DB%8C-%D9%85%D8%AF%D9%84-BHB876-00",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.090Z"
+  },
+  {
+    "id": "torobshop-mobile-a447d48449c2d499",
+    "productId": "torobshop-a447d48449c2d499",
+    "name": "دستگاه لیزر خانگی حذف موهای زائد بانوان براون آلمان مدل Braun PL7253",
+    "brand": "",
+    "model": "دستگاه لیزر خانگی حذف موهای زائد بانوان براون آلمان مدل Braun PL7253",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%84%DB%8C%D8%B2%D8%B1-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C-%D8%AD%D8%B0%D9%81-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%AF%D9%84-Braun-PL7253",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.090Z"
+  },
+  {
+    "id": "torobshop-mobile-71ebfae235e91ed5",
+    "productId": "torobshop-71ebfae235e91ed5",
+    "name": "سشوار فیلیپس هلند Philips BHD510/00",
+    "brand": "",
+    "model": "سشوار فیلیپس هلند Philips BHD510/00",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B4%D9%88%D8%A7%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%B3%D8%B1%DB%8C-5000-%D8%A8%D8%A7-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-ThermoShield-3-%D8%AD%D8%A7%D9%84%D8%AA-%D8%AD%D8%B1%D8%A7%D8%B1%D8%AA-%D9%88-2-%D8%AD%D8%A7%D9%84%D8%AA-%D8%B3%D8%B1%D8%B9%D8%AA-%D9%82%D8%AF%D8%B1%D8%AA-%D8%AE%D8%B4%DA%A9-%DA%A9%D9%86-2300-%D9%88%D8%A7%D8%AA-BHD510-00",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.090Z"
+  },
+  {
+    "id": "torobshop-mobile-51edff8c55bfb262",
+    "productId": "torobshop-51edff8c55bfb262",
+    "name": "اپیلاتور فیلیپس سری 8000، اپیلاتور بی‌سیم خشک و مرطوب برای پاها و بدن، دستگاه رفع موهای زائد زنانه BRE700/00",
+    "brand": "",
+    "model": "اپیلاتور فیلیپس سری 8000، اپیلاتور بی‌سیم خشک و مرطوب برای پاها و بدن، دستگاه رفع موهای زائد زنانه BRE700/00",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%B3%D8%B1%DB%8C-8000-%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%A8%DB%8C-%D8%B3%DB%8C%D9%85-%D8%AE%D8%B4%DA%A9-%D9%88-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D8%A7%D9%87%D8%A7-%D9%88-%D8%A8%D8%AF%D9%86-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%B2%D9%86%D8%A7%D9%86%D9%87-BRE700-00",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.090Z"
+  },
+  {
+    "id": "torobshop-mobile-f99dae95f9641652",
+    "productId": "torobshop-f99dae95f9641652",
+    "name": "لیزر بدن بانوان فیلیپس هلند Philips IPL 8000 BRI948/00 رفع موهای زائد برای داشتن پوستی ابریشمی و صاف تا 2 سال",
+    "brand": "",
+    "model": "لیزر بدن بانوان فیلیپس هلند Philips IPL 8000 BRI948/00 رفع موهای زائد برای داشتن پوستی ابریشمی و صاف تا 2 سال",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%DB%8C-Philips-Lumea-IPL-8000-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-IPL-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AF%D8%A7%D8%B4%D8%AA%D9%86-%D9%BE%D9%88%D8%B3%D8%AA%DB%8C-%D8%A7%D8%A8%D8%B1%DB%8C%D8%B4%D9%85%DB%8C-%D9%88-%D8%B5%D8%A7%D9%81-%D8%AA%D8%A7-2-%D8%B3%D8%A7%D9%84-%D8%A8%D8%A7-4-%D8%B3%D8%B1%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A8%D8%AF%D9%86-%D9%88-%D8%B5%D9%88%D8%B1%D8%AA-%D8%A8%D8%AF%D9%88%D9%86-%D8%B3%DB%8C%D9%85-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D9%84%DB%8C%D8%B2%D8%B1-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-BRI948-00",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.090Z"
+  },
+  {
+    "id": "torobshop-mobile-6b776fc230756800",
+    "productId": "torobshop-6b776fc230756800",
+    "name": "فیلیپس",
+    "brand": "",
+    "model": "فیلیپس",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-2",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.090Z"
+  },
+  {
+    "id": "torobshop-mobile-6bc05672d0e139cd",
+    "productId": "torobshop-6bc05672d0e139cd",
+    "name": "اپیلاتور فیلیپس هلند Philips BRE729/00 استفاده خشک و مرطوب، رفع موهای زائد بدن",
+    "brand": "",
+    "model": "اپیلاتور فیلیپس هلند Philips BRE729/00 استفاده خشک و مرطوب، رفع موهای زائد بدن",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%B3%D8%B1%DB%8C-9000-%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%A8%DB%8C-%D8%B3%DB%8C%D9%85-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AE%D8%B4%DA%A9-%D9%88-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%D8%AF%D9%86-%D8%B5%D9%88%D8%B1%D8%AA-%D9%88-%D9%86%D8%A7%D8%AD%DB%8C%D9%87-%D8%A8%DB%8C%DA%A9%DB%8C%D9%86%DB%8C-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C-ProGuide-9-%D9%82%D8%B7%D8%B9%D9%87-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D8%A8%D8%A7%D8%AA%D8%B1%DB%8C-60-%D8%AF%D9%82%DB%8C%D9%82%D9%87-%D8%A7%DB%8C-%D9%85%D8%AF%D9%84-BRE729-00",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.090Z"
+  },
+  {
+    "id": "torobshop-mobile-f2622dc414824191",
+    "productId": "torobshop-f2622dc414824191",
+    "name": "اپیلاتو و پاکسازی صورت براون آلمان فیس اسپا",
+    "brand": "",
+    "model": "اپیلاتو و پاکسازی صورت براون آلمان فیس اسپا",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D9%81%DB%8C%D8%B3-%D8%A7%D8%B3%D9%BE%D8%A7",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.090Z"
+  },
+  {
+    "id": "torobshop-mobile-640c8324f81a46bb",
+    "productId": "torobshop-640c8324f81a46bb",
+    "name": "لیزر بدن بانوان رفع موهای زائد فیلیپس هلند Philips BRI951/00 برای داشتن پوستی ابریشمی و نرم تا 2 سال",
+    "brand": "",
+    "model": "لیزر بدن بانوان رفع موهای زائد فیلیپس هلند Philips BRI951/00 برای داشتن پوستی ابریشمی و نرم تا 2 سال",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%DB%8C-Philips-Lumea-IPL-9900-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-IPL-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AF%D8%A7%D8%B4%D8%AA%D9%86-%D9%BE%D9%88%D8%B3%D8%AA%DB%8C-%D8%A7%D8%A8%D8%B1%DB%8C%D8%B4%D9%85%DB%8C-%D9%88-%D9%86%D8%B1%D9%85-%D8%AA%D8%A7-2-%D8%B3%D8%A7%D9%84-%D8%A8%D8%A7-4-%D8%B3%D8%B1%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A8%D8%AF%D9%86-%D9%88-%D8%B5%D9%88%D8%B1%D8%AA-%D8%A8%D8%AF%D9%88%D9%86-%D8%B3%DB%8C%D9%85-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D9%84%DB%8C%D8%B2%D8%B1-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-BRI951-00",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.090Z"
+  },
+  {
+    "id": "torobshop-mobile-43b61e0733cc7171",
+    "productId": "torobshop-43b61e0733cc7171",
+    "name": "اتو موی فیلیپس ترموپروتکت - موهایی نرم و براق به لطف عملکرد یونیزاسیون، فناوری ترموپروتکت (مدل BHS378/00) BHS378/00 با عملکرد یونیزاسیون",
+    "brand": "",
+    "model": "اتو موی فیلیپس ترموپروتکت - موهایی نرم و براق به لطف عملکرد یونیزاسیون، فناوری ترموپروتکت (مدل BHS378/00) BHS378/00 با عملکرد یونیزاسیون",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D8%AA%D9%88-%D9%85%D9%88%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%AA%D8%B1%D9%85%D9%88%D9%BE%D8%B1%D9%88%D8%AA%DA%A9%D8%AA-%D9%85%D9%88%D9%87%D8%A7%DB%8C%DB%8C-%D9%86%D8%B1%D9%85-%D9%88-%D8%A8%D8%B1%D8%A7%D9%82-%D8%A8%D9%87-%D9%84%D8%B7%D9%81-%D8%B9%D9%85%D9%84%DA%A9%D8%B1%D8%AF-%DB%8C%D9%88%D9%86%DB%8C%D8%B2%D8%A7%D8%B3%DB%8C%D9%88%D9%86-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-%D8%AA%D8%B1%D9%85%D9%88%D9%BE%D8%B1%D9%88%D8%AA%DA%A9%D8%AA-%D9%85%D8%AF%D9%84-BHS378-00-BHS378-00-%D8%A8%D8%A7-%D8%B9%D9%85%D9%84%DA%A9%D8%B1%D8%AF-%DB%8C%D9%88%D9%86%DB%8C%D8%B2%D8%A7%D8%B3%DB%8C%D9%88%D9%86",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.090Z"
+  },
+  {
+    "id": "torobshop-mobile-c54b5b958054a1a2",
+    "productId": "torobshop-c54b5b958054a1a2",
+    "name": "فر کننده و موج دهنده فیلیپس هلند Philips BHB968/10 با فناوری SenseIQ",
+    "brand": "",
+    "model": "فر کننده و موج دهنده فیلیپس هلند Philips BHB968/10 با فناوری SenseIQ",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/Philips-WavePro-Styler-9000-%D8%A8%D8%A7-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-SenseIQ-%D9%88-%D9%84%D9%88%D9%84%D9%87-%D9%82%D8%A7%D8%A8%D9%84-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D9%88-%D9%85%D9%88%D8%AC-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-%D8%AD%D8%A7%D9%84%D8%AA-%D8%AF%D9%87%DB%8C-%DB%B3%DB%B6%DB%B0-%D8%AF%D8%B1%D8%AC%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AD%D8%A7%D9%84%D8%AA-%D9%87%D8%A7%DB%8C-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1-%D8%B3%D9%81%DB%8C%D8%AF-%D8%A7%D8%A8%D8%B1%DB%8C%D8%B4%D9%85%DB%8C-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C-%DA%A9%DB%8C%D9%81-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%A2%D8%B1%D8%A7%DB%8C%D8%B4-%D9%85%D8%AF%D9%84-BHB968-10",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.090Z"
+  },
+  {
+    "id": "torobshop-mobile-7f66ba1a4f7ddbfb",
+    "productId": "torobshop-7f66ba1a4f7ddbfb",
+    "name": "لیزر بدن بانوان رفع موهای زائد فیلیپس هلند Philips BRI953/02 برای داشتن پوستی ابریشمی و صاف تا 2 سال",
+    "brand": "",
+    "model": "لیزر بدن بانوان رفع موهای زائد فیلیپس هلند Philips BRI953/02 برای داشتن پوستی ابریشمی و صاف تا 2 سال",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%DB%8C-Philips-Lumea-IPL-9900-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-IPL-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AF%D8%A7%D8%B4%D8%AA%D9%86-%D9%BE%D9%88%D8%B3%D8%AA%DB%8C-%D8%A7%D8%A8%D8%B1%DB%8C%D8%B4%D9%85%DB%8C-%D9%88-%D8%B5%D8%A7%D9%81-%D8%AA%D8%A7-2-%D8%B3%D8%A7%D9%84-%D8%A8%D8%A7-3-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A8%D8%AF%D9%86-%D9%88-%D8%B5%D9%88%D8%B1%D8%AA-%D8%A8%D8%AF%D9%88%D9%86-%D8%B3%DB%8C%D9%85-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D9%84%DB%8C%D8%B2%D8%B1-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-BRI953-02",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.090Z"
+  },
+  {
+    "id": "torobshop-mobile-7c82cddc2d9efd1c",
+    "productId": "torobshop-7c82cddc2d9efd1c",
+    "name": "اپیلاتور فیلیپس سری ۲۰۰۰، اپیلاتور سیم‌دار برای بدن و نواحی حساس، اپیلاسیون و اصلاح، موبر زنانه، مدل BRE237/00",
+    "brand": "",
+    "model": "اپیلاتور فیلیپس سری ۲۰۰۰، اپیلاتور سیم‌دار برای بدن و نواحی حساس، اپیلاسیون و اصلاح، موبر زنانه، مدل BRE237/00",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%B3%D8%B1%DB%8C-%DB%B2%DB%B0%DB%B0%DB%B0-%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B3%DB%8C%D9%85-%D8%AF%D8%A7%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A8%D8%AF%D9%86-%D9%88-%D9%86%D9%88%D8%A7%D8%AD%DB%8C-%D8%AD%D8%B3%D8%A7%D8%B3-%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%B3%DB%8C%D9%88%D9%86-%D9%88-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%85%D9%88%D8%A8%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D9%85%D8%AF%D9%84-BRE237-00",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.090Z"
+  },
+  {
+    "id": "torobshop-mobile-af7462ce98ee2999",
+    "productId": "torobshop-af7462ce98ee2999",
+    "name": "اپیلاتور صورت براون فیس اسپا مخصوص بانوان، برس پاکسازی صورت، پد ماساژ، آینه و کیف، رفع موهای زائد و پاکسازی، ضد آب — ۸۵۱ ولت، سفید/برنزی ۳ در ۱ ۸۵۱ ولت",
+    "brand": "",
+    "model": "اپیلاتور صورت براون فیس اسپا مخصوص بانوان، برس پاکسازی صورت، پد ماساژ، آینه و کیف، رفع موهای زائد و پاکسازی، ضد آب — ۸۵۱ ولت، سفید/برنزی ۳ در ۱ ۸۵۱ ولت",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B5%D9%88%D8%B1%D8%AA-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D9%81%DB%8C%D8%B3-%D8%A7%D8%B3%D9%BE%D8%A7-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D8%A8%D8%B1%D8%B3-%D9%BE%D8%A7%DA%A9%D8%B3%D8%A7%D8%B2%DB%8C-%D8%B5%D9%88%D8%B1%D8%AA-%D9%BE%D8%AF-%D9%85%D8%A7%D8%B3%D8%A7%DA%98-%D8%A2%DB%8C%D9%86%D9%87-%D9%88-%DA%A9%DB%8C%D9%81-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D9%88-%D9%BE%D8%A7%DA%A9%D8%B3%D8%A7%D8%B2%DB%8C-%D8%B6%D8%AF-%D8%A2%D8%A8-%DB%B8%DB%B5%DB%B1-%D9%88%D9%84%D8%AA-%D8%B3%D9%81%DB%8C%D8%AF-%D8%A8%D8%B1%D9%86%D8%B2%DB%8C-%DB%B3-%D8%AF%D8%B1-%DB%B1-%DB%B8%DB%B5%DB%B1-%D9%88%D9%84%D8%AA",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.090Z"
+  },
+  {
+    "id": "torobshop-mobile-f699a00edc06f489",
+    "productId": "torobshop-f699a00edc06f489",
+    "name": "اپیلاتور براون سیلک-اپیل ۷ مخصوص خانم‌ها، موبر برای رفع موهای زائد با ماندگاری طولانی، اصلاح بانوان، ضد آب - شامل سری اصلاح و سری اصلاح - ۷-۰۳۰، سفید/صورتی فلامینگو + ۳ لوازم جانبی + سری اصلاح",
+    "brand": "",
+    "model": "اپیلاتور براون سیلک-اپیل ۷ مخصوص خانم‌ها، موبر برای رفع موهای زائد با ماندگاری طولانی، اصلاح بانوان، ضد آب - شامل سری اصلاح و سری اصلاح - ۷-۰۳۰، سفید/صورتی فلامینگو + ۳ لوازم جانبی + سری اصلاح",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B3%DB%8C%D9%84%DA%A9-%D8%A7%D9%BE%DB%8C%D9%84-%DB%B7-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%AE%D8%A7%D9%86%D9%85-%D9%87%D8%A7-%D9%85%D9%88%D8%A8%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%D8%A7-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1%DB%8C-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D8%B6%D8%AF-%D8%A2%D8%A8-%D8%B4%D8%A7%D9%85%D9%84-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DB%B7-%DB%B0%DB%B3%DB%B0-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B5%D9%88%D8%B1%D8%AA%DB%8C-%D9%81%D9%84%D8%A7%D9%85%DB%8C%D9%86%DA%AF%D9%88-%DB%B3-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.090Z"
+  },
+  {
+    "id": "torobshop-mobile-a942a79dda5b87df",
+    "productId": "torobshop-a942a79dda5b87df",
+    "name": "اپیلاتور فیلیپس هلند Philips BRE740/10 خشک و تر برای پاها و بدن، با 9 لوازم جانبی",
+    "brand": "",
+    "model": "اپیلاتور فیلیپس هلند Philips BRE740/10 خشک و تر برای پاها و بدن، با 9 لوازم جانبی",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%B3%D8%B1%DB%8C-8000-%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%A8%DB%8C-%D8%B3%DB%8C%D9%85-%D8%AE%D8%B4%DA%A9-%D9%88-%D8%AA%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D8%A7%D9%87%D8%A7-%D9%88-%D8%A8%D8%AF%D9%86-%D8%A8%D8%A7-9-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%85%D9%88%DB%8C-%D8%A8%D9%84%D9%86%D8%AF-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%BE%D8%AF%DB%8C%DA%A9%D9%88%D8%B1-%D9%88-%D8%A7%D8%B3%DA%A9%D8%B1%D8%A7%D8%A8-%D8%A8%D8%AF%D9%86-%D9%85%D8%AF%D9%84-BRE740-10",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.090Z"
+  },
+  {
+    "id": "torobshop-mobile-e4ec7bd10ffa8b50",
+    "productId": "torobshop-e4ec7bd10ffa8b50",
+    "name": "لیزر بدن بانوان رفع موهای زائد فیلیپس هلند Philips BRI950/02 برای داشتن پوستی ابریشمی و صاف تا 2 سال",
+    "brand": "",
+    "model": "لیزر بدن بانوان رفع موهای زائد فیلیپس هلند Philips BRI950/02 برای داشتن پوستی ابریشمی و صاف تا 2 سال",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%DB%8C-Philips-Lumea-IPL-9900-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-IPL-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AF%D8%A7%D8%B4%D8%AA%D9%86-%D9%BE%D9%88%D8%B3%D8%AA%DB%8C-%D8%A7%D8%A8%D8%B1%DB%8C%D8%B4%D9%85%DB%8C-%D9%88-%D8%B5%D8%A7%D9%81-%D8%AA%D8%A7-2-%D8%B3%D8%A7%D9%84-%D8%A8%D8%A7-2-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A8%D8%AF%D9%86-%D9%88-%D8%B5%D9%88%D8%B1%D8%AA-%D8%A8%D8%AF%D9%88%D9%86-%D8%B3%DB%8C%D9%85-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D9%84%DB%8C%D8%B2%D8%B1-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-BRI950-02",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.090Z"
+  },
+  {
+    "id": "torobshop-mobile-f6c6e72a28882975",
+    "productId": "torobshop-f6c6e72a28882975",
+    "name": "دستگاه رفع موهای زائد Braun Smart IPL Silk·expert Pro 5 — لیزر موهای زائد دائمی حرفه‌ای برای استفاده در منزل، طراحی شده در آلمان — شامل کیف، تیغ ونوس، 2 قطعه جانبی — PL5234، سفید/نقره‌ای",
+    "brand": "",
+    "model": "دستگاه رفع موهای زائد Braun Smart IPL Silk·expert Pro 5 — لیزر موهای زائد دائمی حرفه‌ای برای استفاده در منزل، طراحی شده در آلمان — شامل کیف، تیغ ونوس، 2 قطعه جانبی — PL5234، سفید/نقره‌ای",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Braun-Smart-IPL-Silk-expert-Pro-5-%D9%84%DB%8C%D8%B2%D8%B1-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D8%AD%D8%B1%D9%81%D9%87-%D8%A7%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%85%D9%86%D8%B2%D9%84-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B4%D8%AF%D9%87-%D8%AF%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%B4%D8%A7%D9%85%D9%84-%DA%A9%DB%8C%D9%81-%D8%AA%DB%8C%D8%BA-%D9%88%D9%86%D9%88%D8%B3-2-%D9%82%D8%B7%D8%B9%D9%87-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-PL5234-%D8%B3%D9%81%DB%8C%D8%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.090Z"
+  },
+  {
+    "id": "torobshop-mobile-5bc21e4edaa526cc",
+    "productId": "torobshop-5bc21e4edaa526cc",
+    "name": "سشوار فیلیپس سری 5000 با فناوری ترموشیلد، 2100 وات، 6 حالت تنظیم حرارت و سرعت (مدل BHD500/20)",
+    "brand": "",
+    "model": "سشوار فیلیپس سری 5000 با فناوری ترموشیلد، 2100 وات، 6 حالت تنظیم حرارت و سرعت (مدل BHD500/20)",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B4%D9%88%D8%A7%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%B3%D8%B1%DB%8C-5000-%D8%A8%D8%A7-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-%D8%AA%D8%B1%D9%85%D9%88%D8%B4%DB%8C%D9%84%D8%AF-2100-%D9%88%D8%A7%D8%AA-6-%D8%AD%D8%A7%D9%84%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%AD%D8%B1%D8%A7%D8%B1%D8%AA-%D9%88-%D8%B3%D8%B1%D8%B9%D8%AA-%D9%85%D8%AF%D9%84-BHD500-20",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.090Z"
+  },
+  {
+    "id": "torobshop-mobile-7bbb1f19505b28fd",
+    "productId": "torobshop-7bbb1f19505b28fd",
+    "name": "اتو موی فیلیپس سری 5000 با فناوری ترموشیلد، سفید [مدل BHS520/00]",
+    "brand": "",
+    "model": "اتو موی فیلیپس سری 5000 با فناوری ترموشیلد، سفید [مدل BHS520/00]",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D8%AA%D9%88-%D9%85%D9%88%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%B3%D8%B1%DB%8C-5000-%D8%A8%D8%A7-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-%D8%AA%D8%B1%D9%85%D9%88%D8%B4%DB%8C%D9%84%D8%AF-%D8%B3%D9%81%DB%8C%D8%AF-%D9%85%D8%AF%D9%84-BHS520-00",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.090Z"
+  },
+  {
+    "id": "torobshop-mobile-a59cff30443c154a",
+    "productId": "torobshop-a59cff30443c154a",
+    "name": "سشوار فیلیپس هلند Philips BHD510/20 فناوری ترموشیلد، عملکرد یونیزاسیون",
+    "brand": "",
+    "model": "سشوار فیلیپس هلند Philips BHD510/20 فناوری ترموشیلد، عملکرد یونیزاسیون",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B4%D9%88%D8%A7%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%B3%D8%B1%DB%8C-5000-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-%D8%AA%D8%B1%D9%85%D9%88%D8%B4%DB%8C%D9%84%D8%AF-%D8%B9%D9%85%D9%84%DA%A9%D8%B1%D8%AF-%DB%8C%D9%88%D9%86%DB%8C%D8%B2%D8%A7%D8%B3%DB%8C%D9%88%D9%86-2300-%D9%88%D8%A7%D8%AA-%D8%A2%D8%A8%DB%8C-%D9%85%D8%AA%D8%A7%D9%84%DB%8C%DA%A9-%D8%A8%D8%A7-%D9%86%D8%A7%D8%B2%D9%84-%D9%87%D8%A7%DB%8C-%D8%AD%D8%A7%D9%84%D8%AA-%D8%AF%D9%87%D9%86%D8%AF%D9%87-9-%D9%88-11-%D9%85%DB%8C%D9%84%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C-%D9%BE%D8%AE%D8%B4-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%AD%D8%AC%D9%85-%D9%85%D9%88-BHD510-20",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.090Z"
+  },
+  {
+    "id": "torobshop-mobile-45d6aa9c3fd53ad4",
+    "productId": "torobshop-45d6aa9c3fd53ad4",
+    "name": "اپیلاتور فیلیپس هلند Philips BRE709/00 خشک و مرطوب، رفع موهای زائد پا و بدن",
+    "brand": "",
+    "model": "اپیلاتور فیلیپس هلند Philips BRE709/00 خشک و مرطوب، رفع موهای زائد پا و بدن",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%B3%D8%B1%DB%8C-8000-%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%A8%DB%8C-%D8%B3%DB%8C%D9%85-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AE%D8%B4%DA%A9-%D9%88-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D9%BE%D8%A7-%D9%88-%D8%A8%D8%AF%D9%86-%D8%A8%D8%A7-ProGuide-5-%D9%82%D8%B7%D8%B9%D9%87-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D8%A8%D8%A7%D8%AA%D8%B1%DB%8C-60-%D8%AF%D9%82%DB%8C%D9%82%D9%87-%D8%A7%DB%8C-%D9%85%D8%AF%D9%84-BRE709-00",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.090Z"
+  },
+  {
+    "id": "torobshop-mobile-1abb58c93aa4d049",
+    "productId": "torobshop-1abb58c93aa4d049",
+    "name": "اپیلاتور زنانه Braun Silk·épil 9 Flex SkinSpa، مجموعه همه کاره، سر قابل انعطاف 360 درجه برای اصلاح آسان مو، حالت مرطوب و خشک، اصلاح بانوان، ضد آب - شامل اصلاح بدن - 9-481 3D، طلایی + 5 لوازم جانبی و اصلاح صورت OLD",
+    "brand": "",
+    "model": "اپیلاتور زنانه Braun Silk·épil 9 Flex SkinSpa، مجموعه همه کاره، سر قابل انعطاف 360 درجه برای اصلاح آسان مو، حالت مرطوب و خشک، اصلاح بانوان، ضد آب - شامل اصلاح بدن - 9-481 3D، طلایی + 5 لوازم جانبی و اصلاح صورت OLD",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-Braun-Silk-pil-9-Flex-SkinSpa-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D9%87%D9%85%D9%87-%DA%A9%D8%A7%D8%B1%D9%87-%D8%B3%D8%B1-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D9%86%D8%B9%D8%B7%D8%A7%D9%81-360-%D8%AF%D8%B1%D8%AC%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%A2%D8%B3%D8%A7%D9%86-%D9%85%D9%88-%D8%AD%D8%A7%D9%84%D8%AA-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D9%88-%D8%AE%D8%B4%DA%A9-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D8%B6%D8%AF-%D8%A2%D8%A8-%D8%B4%D8%A7%D9%85%D9%84-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%A8%D8%AF%D9%86-9-481-3D-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C-5-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%88-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%B5%D9%88%D8%B1%D8%AA-OLD",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.090Z"
+  },
+  {
+    "id": "torobshop-mobile-27109e9fc58673fd",
+    "productId": "torobshop-27109e9fc58673fd",
+    "name": "فیلیپس",
+    "brand": "",
+    "model": "فیلیپس",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.090Z"
+  },
+  {
+    "id": "torobshop-mobile-c876f51b5b5d7dae",
+    "productId": "torobshop-c876f51b5b5d7dae",
+    "name": "سشوار فیلیپس سری ۳۰۰۰ – سشوار با عملکرد یونیزاسیون (مدل BHD360/20)",
+    "brand": "",
+    "model": "سشوار فیلیپس سری ۳۰۰۰ – سشوار با عملکرد یونیزاسیون (مدل BHD360/20)",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B4%D9%88%D8%A7%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%B3%D8%B1%DB%8C-%DB%B3%DB%B0%DB%B0%DB%B0-%D8%B3%D8%B4%D9%88%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%B9%D9%85%D9%84%DA%A9%D8%B1%D8%AF-%DB%8C%D9%88%D9%86%DB%8C%D8%B2%D8%A7%D8%B3%DB%8C%D9%88%D9%86-%D9%85%D8%AF%D9%84-BHD360-20",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.090Z"
+  },
+  {
+    "id": "torobshop-mobile-400b05dca029ee01",
+    "productId": "torobshop-400b05dca029ee01",
+    "name": "اپیلاتور زنانه براون مدل Silk-épil 5، رفع موهای زائد، دارای لوازم جانبی برای اصلاح، ماشین اصلاح و ماساژ، بدن، کیف، 5-625، سفید/خاکستری + 4 لوازم جانبی",
+    "brand": "",
+    "model": "اپیلاتور زنانه براون مدل Silk-épil 5، رفع موهای زائد، دارای لوازم جانبی برای اصلاح، ماشین اصلاح و ماساژ، بدن، کیف، 5-625، سفید/خاکستری + 4 لوازم جانبی",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D9%85%D8%AF%D9%84-Silk-pil-5-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D9%85%D8%A7%D8%B3%D8%A7%DA%98-%D8%A8%D8%AF%D9%86-%DA%A9%DB%8C%D9%81-5-625-%D8%B3%D9%81%DB%8C%D8%AF-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C-4-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.090Z"
+  },
+  {
+    "id": "torobshop-mobile-9d62a66000d436e1",
+    "productId": "torobshop-9d62a66000d436e1",
+    "name": "دستگاه‌ لیزر بدن خانگی بانوان IPL هوشمند براون آلمان Braun Smart IPL PL7387 رفع موهای زائد پوست",
+    "brand": "",
+    "model": "دستگاه‌ لیزر بدن خانگی بانوان IPL هوشمند براون آلمان Braun Smart IPL PL7387 رفع موهای زائد پوست",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-IPL-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D9%BE%D9%88%D8%B3%D8%AA-i-expert-7-PL7387-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B1%D8%B2%DA%AF%D9%84%D8%AF-%D9%84%DB%8C%D8%B2%D8%B1-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C-%D8%B1%D9%81%D8%B9-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%B4%D8%A7%D9%85%D9%84-%D9%82%D8%A7%D8%A8-%D8%AA%DB%8C%D8%BA-%D9%88%D9%86%D9%88%D8%B3-%D9%88-4-%D9%88%D8%B3%DB%8C%D9%84%D9%87-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.090Z"
+  },
+  {
+    "id": "torobshop-mobile-d6551c8766b38613",
+    "productId": "torobshop-d6551c8766b38613",
+    "name": "دستگاه رفع موهای زائد Philips Lumea IPL سری 9900 مدل BRI950/02 به همراه شیور زنانه BRL149/00 - جایگزین لیزر موهای زائد - 2 سری برای بدن و صورت",
+    "brand": "",
+    "model": "دستگاه رفع موهای زائد Philips Lumea IPL سری 9900 مدل BRI950/02 به همراه شیور زنانه BRL149/00 - جایگزین لیزر موهای زائد - 2 سری برای بدن و صورت",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Philips-Lumea-IPL-%D8%B3%D8%B1%DB%8C-9900-%D9%85%D8%AF%D9%84-BRI950-02-%D8%A8%D9%87-%D9%87%D9%85%D8%B1%D8%A7%D9%87-%D8%B4%DB%8C%D9%88%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-BRL149-00-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D9%84%DB%8C%D8%B2%D8%B1-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-2-%D8%B3%D8%B1%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A8%D8%AF%D9%86-%D9%88-%D8%B5%D9%88%D8%B1%D8%AA",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.090Z"
+  },
+  {
+    "id": "torobshop-mobile-766b0f80e67074f9",
+    "productId": "torobshop-766b0f80e67074f9",
+    "name": "ریش‌تراش فیلیپس سری ۸۰۰۰ مدل لیدی - ریش‌تراش برقی بی‌سیم، مناسب برای اصلاح خشک و مرطوب، ۳ تیغه، سر اصلاح انعطاف‌پذیر، چراغ LED، صورت/پا/بدن/ناحیه بیکینی، ۱۰۰ دقیقه کارکرد، مدل BRL159/00",
+    "brand": "",
+    "model": "ریش‌تراش فیلیپس سری ۸۰۰۰ مدل لیدی - ریش‌تراش برقی بی‌سیم، مناسب برای اصلاح خشک و مرطوب، ۳ تیغه، سر اصلاح انعطاف‌پذیر، چراغ LED، صورت/پا/بدن/ناحیه بیکینی، ۱۰۰ دقیقه کارکرد، مدل BRL159/00",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%B3%D8%B1%DB%8C-%DB%B8%DB%B0%DB%B0%DB%B0-%D9%85%D8%AF%D9%84-%D9%84%DB%8C%D8%AF%DB%8C-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D8%A8%D8%B1%D9%82%DB%8C-%D8%A8%DB%8C-%D8%B3%DB%8C%D9%85-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%AE%D8%B4%DA%A9-%D9%88-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%DB%B3-%D8%AA%DB%8C%D8%BA%D9%87-%D8%B3%D8%B1-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%A7%D9%86%D8%B9%D8%B7%D8%A7%D9%81-%D9%BE%D8%B0%DB%8C%D8%B1-%DA%86%D8%B1%D8%A7%D8%BA-LED-%D8%B5%D9%88%D8%B1%D8%AA-%D9%BE%D8%A7-%D8%A8%D8%AF%D9%86-%D9%86%D8%A7%D8%AD%DB%8C%D9%87-%D8%A8%DB%8C%DA%A9%DB%8C%D9%86%DB%8C-%DB%B1%DB%B0%DB%B0-%D8%AF%D9%82%DB%8C%D9%82%D9%87-%DA%A9%D8%A7%D8%B1%DA%A9%D8%B1%D8%AF-%D9%85%D8%AF%D9%84-BRL159-00",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.090Z"
+  },
+  {
+    "id": "torobshop-mobile-967849182031e292",
+    "productId": "torobshop-967849182031e292",
+    "name": "ست اپیلاتور/موبر زنانه Braun Silk-épil 9 Skinspa، با کنترل فشار، اپیلاتور خشک و مرطوب با ۱۳ وسیله اضافی، ۹-۹۹۰، رز/طلایی",
+    "brand": "",
+    "model": "ست اپیلاتور/موبر زنانه Braun Silk-épil 9 Skinspa، با کنترل فشار، اپیلاتور خشک و مرطوب با ۱۳ وسیله اضافی، ۹-۹۹۰، رز/طلایی",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%AA-%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D9%85%D9%88%D8%A8%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-Braun-Silk-pil-9-Skinspa-%D8%A8%D8%A7-%DA%A9%D9%86%D8%AA%D8%B1%D9%84-%D9%81%D8%B4%D8%A7%D8%B1-%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%AE%D8%B4%DA%A9-%D9%88-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D8%A8%D8%A7-%DB%B1%DB%B3-%D9%88%D8%B3%DB%8C%D9%84%D9%87-%D8%A7%D8%B6%D8%A7%D9%81%DB%8C-%DB%B9-%DB%B9%DB%B9%DB%B0-%D8%B1%D8%B2-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.090Z"
+  },
+  {
+    "id": "torobshop-mobile-6c0960e9008fddf6",
+    "productId": "torobshop-6c0960e9008fddf6",
+    "name": "دستگاه رفع موهای زائد Philips Lumea Advanced IPL، مدل BRI921/00، با ۲ سری برای بدن، صورت و ۱ ماشین اصلاح دقیق - سیمی",
+    "brand": "",
+    "model": "دستگاه رفع موهای زائد Philips Lumea Advanced IPL، مدل BRI921/00، با ۲ سری برای بدن، صورت و ۱ ماشین اصلاح دقیق - سیمی",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Philips-Lumea-Advanced-IPL-%D9%85%D8%AF%D9%84-BRI921-00-%D8%A8%D8%A7-%DB%B2-%D8%B3%D8%B1%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A8%D8%AF%D9%86-%D8%B5%D9%88%D8%B1%D8%AA-%D9%88-%DB%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%AF%D9%82%DB%8C%D9%82-%D8%B3%DB%8C%D9%85%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.090Z"
+  },
+  {
+    "id": "torobshop-mobile-074febbf09bd3065",
+    "productId": "torobshop-074febbf09bd3065",
+    "name": "دستگاه رفع موهای زائد Braun Smart IPL Silk·expert Pro 5 — لیزر حرفه‌ای دائمی موهای زائد برای استفاده در منزل، طراحی شده در آلمان — شامل کیف، تیغ Venus، 4 قطعه الحاقی — PL5431، سفید/طلایی",
+    "brand": "",
+    "model": "دستگاه رفع موهای زائد Braun Smart IPL Silk·expert Pro 5 — لیزر حرفه‌ای دائمی موهای زائد برای استفاده در منزل، طراحی شده در آلمان — شامل کیف، تیغ Venus، 4 قطعه الحاقی — PL5431، سفید/طلایی",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Braun-Smart-IPL-Silk-expert-Pro-5-%D9%84%DB%8C%D8%B2%D8%B1-%D8%AD%D8%B1%D9%81%D9%87-%D8%A7%DB%8C-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%85%D9%86%D8%B2%D9%84-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B4%D8%AF%D9%87-%D8%AF%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%B4%D8%A7%D9%85%D9%84-%DA%A9%DB%8C%D9%81-%D8%AA%DB%8C%D8%BA-Venus-4-%D9%82%D8%B7%D8%B9%D9%87-%D8%A7%D9%84%D8%AD%D8%A7%D9%82%DB%8C-PL5431-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.090Z"
+  },
+  {
+    "id": "torobshop-mobile-508a955227952a9d",
+    "productId": "torobshop-508a955227952a9d",
+    "name": "اپیلاتور براون سیلک-اپیل ۵ مخصوص خانم‌ها، موبر برای رفع موهای زائد با ماندگاری طولانی، اصلاح بانوان، ضد آب - شامل اصلاح‌کننده بیکینی، سری اصلاح و سری اصلاح - ۵-۲۳۰، سفید/صورتی فلامینگو + اصلاح‌کننده بیکینی",
+    "brand": "",
+    "model": "اپیلاتور براون سیلک-اپیل ۵ مخصوص خانم‌ها، موبر برای رفع موهای زائد با ماندگاری طولانی، اصلاح بانوان، ضد آب - شامل اصلاح‌کننده بیکینی، سری اصلاح و سری اصلاح - ۵-۲۳۰، سفید/صورتی فلامینگو + اصلاح‌کننده بیکینی",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B3%DB%8C%D9%84%DA%A9-%D8%A7%D9%BE%DB%8C%D9%84-%DB%B5-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%AE%D8%A7%D9%86%D9%85-%D9%87%D8%A7-%D9%85%D9%88%D8%A8%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%D8%A7-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1%DB%8C-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D8%B6%D8%AF-%D8%A2%D8%A8-%D8%B4%D8%A7%D9%85%D9%84-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%A8%DB%8C%DA%A9%DB%8C%D9%86%DB%8C-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DB%B5-%DB%B2%DB%B3%DB%B0-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B5%D9%88%D8%B1%D8%AA%DB%8C-%D9%81%D9%84%D8%A7%D9%85%DB%8C%D9%86%DA%AF%D9%88-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%A8%DB%8C%DA%A9%DB%8C%D9%86%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.090Z"
+  },
+  {
+    "id": "torobshop-mobile-dc3a8d1c6feb961b",
+    "productId": "torobshop-dc3a8d1c6feb961b",
+    "name": "اپیلاتور براون سیلک-اپیل ۵ مخصوص خانم‌ها، اصلاح خشک و مرطوب برای رفع آسان موهای زائد و پوستی ابریشمی و نرم، اصلاح بانوان، ضد آب - شامل سری اصلاح و سری اصلاح - ۵-۰۴۱، سفید/خاکستری + ۳ لوازم جانبی",
+    "brand": "",
+    "model": "اپیلاتور براون سیلک-اپیل ۵ مخصوص خانم‌ها، اصلاح خشک و مرطوب برای رفع آسان موهای زائد و پوستی ابریشمی و نرم، اصلاح بانوان، ضد آب - شامل سری اصلاح و سری اصلاح - ۵-۰۴۱، سفید/خاکستری + ۳ لوازم جانبی",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B3%DB%8C%D9%84%DA%A9-%D8%A7%D9%BE%DB%8C%D9%84-%DB%B5-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%AE%D8%A7%D9%86%D9%85-%D9%87%D8%A7-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%AE%D8%B4%DA%A9-%D9%88-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D8%A2%D8%B3%D8%A7%D9%86-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D9%88-%D9%BE%D9%88%D8%B3%D8%AA%DB%8C-%D8%A7%D8%A8%D8%B1%DB%8C%D8%B4%D9%85%DB%8C-%D9%88-%D9%86%D8%B1%D9%85-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D8%B6%D8%AF-%D8%A2%D8%A8-%D8%B4%D8%A7%D9%85%D9%84-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DB%B5-%DB%B0%DB%B4%DB%B1-%D8%B3%D9%81%DB%8C%D8%AF-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C-%DB%B3-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.090Z"
+  },
+  {
+    "id": "torobshop-mobile-5e70d562a3ef7192",
+    "productId": "torobshop-5e70d562a3ef7192",
+    "name": "اپیلاتور زنانه براون آلمان Silk·épil 9 Flex، مخصوص بانوان 9-041 3D، طلایی - سر انعطاف‌پذیر 360 درجه برای رفع آسان موهای زائد، پوستی صاف و ماندگار، ضد آب، شامل قاب و سری اصلاح",
+    "brand": "",
+    "model": "اپیلاتور زنانه براون آلمان Silk·épil 9 Flex، مخصوص بانوان 9-041 3D، طلایی - سر انعطاف‌پذیر 360 درجه برای رفع آسان موهای زائد، پوستی صاف و ماندگار، ضد آب، شامل قاب و سری اصلاح",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D9%85%D8%AF%D9%84-Silk-pil-9-Flex-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-9-041-3D-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C-%D8%B3%D8%B1-%D8%A7%D9%86%D8%B9%D8%B7%D8%A7%D9%81-%D9%BE%D8%B0%DB%8C%D8%B1-360-%D8%AF%D8%B1%D8%AC%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D8%A2%D8%B3%D8%A7%D9%86-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D9%BE%D9%88%D8%B3%D8%AA%DB%8C-%D8%B5%D8%A7%D9%81-%D9%88-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1-%D8%B6%D8%AF-%D8%A2%D8%A8-%D8%B4%D8%A7%D9%85%D9%84-%D9%82%D8%A7%D8%A8-%D9%88-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.090Z"
+  },
+  {
+    "id": "torobshop-mobile-2cb3b869608c8a13",
+    "productId": "torobshop-2cb3b869608c8a13",
+    "name": "اپیلاتور و ریش‌تراش زنانه براون مدل Silk-épil 5، ریش‌تراش برقی ناحیه تناسلی برای خانم‌ها، جایگزین اپیلاسیون، شامل ماشین اصلاح بیکینی زنانه، سری ماساژور، سری چرخشی، 5-820، سفید/صورتی",
+    "brand": "",
+    "model": "اپیلاتور و ریش‌تراش زنانه براون مدل Silk-épil 5، ریش‌تراش برقی ناحیه تناسلی برای خانم‌ها، جایگزین اپیلاسیون، شامل ماشین اصلاح بیکینی زنانه، سری ماساژور، سری چرخشی، 5-820، سفید/صورتی",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D9%85%D8%AF%D9%84-Silk-pil-5-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D8%A8%D8%B1%D9%82%DB%8C-%D9%86%D8%A7%D8%AD%DB%8C%D9%87-%D8%AA%D9%86%D8%A7%D8%B3%D9%84%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AE%D8%A7%D9%86%D9%85-%D9%87%D8%A7-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%B3%DB%8C%D9%88%D9%86-%D8%B4%D8%A7%D9%85%D9%84-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%A8%DB%8C%DA%A9%DB%8C%D9%86%DB%8C-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D8%B3%D8%B1%DB%8C-%D9%85%D8%A7%D8%B3%D8%A7%DA%98%D9%88%D8%B1-%D8%B3%D8%B1%DB%8C-%DA%86%D8%B1%D8%AE%D8%B4%DB%8C-5-820-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B5%D9%88%D8%B1%D8%AA%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.090Z"
+  },
+  {
+    "id": "torobshop-mobile-6e4a2eb26d23a745",
+    "productId": "torobshop-6e4a2eb26d23a745",
+    "name": "دستگاه رفع موهای زائد Braun IPL Silk Expert Pro 5 برای خانم‌ها/آقایان، ۳ سری، رفع موهای زائد قابل مشاهده، طراحی شده در آلمان، ماشین اصلاح ونوس، جایگزین لیزر موهای زائد، PL5267، سفید/طلایی",
+    "brand": "",
+    "model": "دستگاه رفع موهای زائد Braun IPL Silk Expert Pro 5 برای خانم‌ها/آقایان، ۳ سری، رفع موهای زائد قابل مشاهده، طراحی شده در آلمان، ماشین اصلاح ونوس، جایگزین لیزر موهای زائد، PL5267، سفید/طلایی",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Braun-IPL-Silk-Expert-Pro-5-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AE%D8%A7%D9%86%D9%85-%D9%87%D8%A7-%D8%A2%D9%82%D8%A7%DB%8C%D8%A7%D9%86-%DB%B3-%D8%B3%D8%B1%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D9%82%D8%A7%D8%A8%D9%84-%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D9%87-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B4%D8%AF%D9%87-%D8%AF%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88%D9%86%D9%88%D8%B3-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D9%84%DB%8C%D8%B2%D8%B1-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-PL5267-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.090Z"
+  },
+  {
+    "id": "torobshop-mobile-52384f9bcf5e57ca",
+    "productId": "torobshop-52384f9bcf5e57ca",
+    "name": "اپیلاتور زنانه براون مدل Silk-épil 7، رفع موهای زائد با ماندگاری طولانی، سری پهن، پوستی ابریشمی و نرم، مخصوص بانوان، قابل استفاده به صورت خشک و مرطوب، ضد آب، ساخت آلمان — 7-011، سفید/نقره‌ای + 2 عدد لوازم جانبی",
+    "brand": "",
+    "model": "اپیلاتور زنانه براون مدل Silk-épil 7، رفع موهای زائد با ماندگاری طولانی، سری پهن، پوستی ابریشمی و نرم، مخصوص بانوان، قابل استفاده به صورت خشک و مرطوب، ضد آب، ساخت آلمان — 7-011، سفید/نقره‌ای + 2 عدد لوازم جانبی",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D9%85%D8%AF%D9%84-Silk-pil-7-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%D8%A7-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1%DB%8C-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%D8%B3%D8%B1%DB%8C-%D9%BE%D9%87%D9%86-%D9%BE%D9%88%D8%B3%D8%AA%DB%8C-%D8%A7%D8%A8%D8%B1%DB%8C%D8%B4%D9%85%DB%8C-%D9%88-%D9%86%D8%B1%D9%85-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A8%D9%87-%D8%B5%D9%88%D8%B1%D8%AA-%D8%AE%D8%B4%DA%A9-%D9%88-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D8%B6%D8%AF-%D8%A2%D8%A8-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-7-011-%D8%B3%D9%81%DB%8C%D8%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C-2-%D8%B9%D8%AF%D8%AF-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.090Z"
+  },
+  {
+    "id": "torobshop-mobile-2182240d0b4b05fe",
+    "productId": "torobshop-2182240d0b4b05fe",
+    "name": "دستگاه رفع موهای زائد Braun Smart IPL Skin i·expert 7، PL7442، سفید/رزگلد - جایگزین لیزر موهای زائد، رفع دائمی موهای زائد، شامل قاب، تیغ کوچک، تیغ ونوس و 4 ضمیمه سفید/برنزی 4 ضمیمه",
+    "brand": "",
+    "model": "دستگاه رفع موهای زائد Braun Smart IPL Skin i·expert 7، PL7442، سفید/رزگلد - جایگزین لیزر موهای زائد، رفع دائمی موهای زائد، شامل قاب، تیغ کوچک، تیغ ونوس و 4 ضمیمه سفید/برنزی 4 ضمیمه",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Braun-Smart-IPL-Skin-i-expert-7-PL7442-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B1%D8%B2%DA%AF%D9%84%D8%AF-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D9%84%DB%8C%D8%B2%D8%B1-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%B1%D9%81%D8%B9-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%B4%D8%A7%D9%85%D9%84-%D9%82%D8%A7%D8%A8-%D8%AA%DB%8C%D8%BA-%DA%A9%D9%88%DA%86%DA%A9-%D8%AA%DB%8C%D8%BA-%D9%88%D9%86%D9%88%D8%B3-%D9%88-4-%D8%B6%D9%85%DB%8C%D9%85%D9%87-%D8%B3%D9%81%DB%8C%D8%AF-%D8%A8%D8%B1%D9%86%D8%B2%DB%8C-4-%D8%B6%D9%85%DB%8C%D9%85%D9%87",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.091Z"
+  },
+  {
+    "id": "torobshop-mobile-6ba05ec79330884d",
+    "productId": "torobshop-6ba05ec79330884d",
+    "name": "اپیلاتور زنانه براون آلمان Braun Silk-épil 9، موبر با سر چرخان، رفع موهای زائد با ماندگاری طولانی، پوستی ابریشمی و نرم، مرطوب و خشک، ضد آب، دارای قاب، ساخت آلمان، 9-011، سفید/نقره‌ای",
+    "brand": "",
+    "model": "اپیلاتور زنانه براون آلمان Braun Silk-épil 9، موبر با سر چرخان، رفع موهای زائد با ماندگاری طولانی، پوستی ابریشمی و نرم، مرطوب و خشک، ضد آب، دارای قاب، ساخت آلمان، 9-011، سفید/نقره‌ای",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-Braun-Silk-pil-9-%D9%85%D9%88%D8%A8%D8%B1-%D8%A8%D8%A7-%D8%B3%D8%B1-%DA%86%D8%B1%D8%AE%D8%A7%D9%86-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%D8%A7-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1%DB%8C-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%D9%BE%D9%88%D8%B3%D8%AA%DB%8C-%D8%A7%D8%A8%D8%B1%DB%8C%D8%B4%D9%85%DB%8C-%D9%88-%D9%86%D8%B1%D9%85-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D9%88-%D8%AE%D8%B4%DA%A9-%D8%B6%D8%AF-%D8%A2%D8%A8-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C-%D9%82%D8%A7%D8%A8-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-9-011-%D8%B3%D9%81%DB%8C%D8%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.091Z"
+  },
+  {
+    "id": "torobshop-mobile-8b93c7ea550544bf",
+    "productId": "torobshop-8b93c7ea550544bf",
+    "name": "اپیلاتور زنانه براون مدل Silk·épil 7، سری پهن برای رفع آسان موهای زائد، مناسب برای پوست‌های خشک و مرطوب، پوستی صاف و لطیف با ماندگاری طولانی، اصلاح بانوان، ضد آب — 7-011، نقره‌ای",
+    "brand": "",
+    "model": "اپیلاتور زنانه براون مدل Silk·épil 7، سری پهن برای رفع آسان موهای زائد، مناسب برای پوست‌های خشک و مرطوب، پوستی صاف و لطیف با ماندگاری طولانی، اصلاح بانوان، ضد آب — 7-011، نقره‌ای",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D9%85%D8%AF%D9%84-Silk-pil-7-%D8%B3%D8%B1%DB%8C-%D9%BE%D9%87%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D8%A2%D8%B3%D8%A7%D9%86-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D9%88%D8%B3%D8%AA-%D9%87%D8%A7%DB%8C-%D8%AE%D8%B4%DA%A9-%D9%88-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D9%BE%D9%88%D8%B3%D8%AA%DB%8C-%D8%B5%D8%A7%D9%81-%D9%88-%D9%84%D8%B7%DB%8C%D9%81-%D8%A8%D8%A7-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1%DB%8C-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D8%B6%D8%AF-%D8%A2%D8%A8-7-011-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.091Z"
+  },
+  {
+    "id": "torobshop-mobile-b6d1e42e39dc67ab",
+    "productId": "torobshop-b6d1e42e39dc67ab",
+    "name": "سری Philips Lumea IPL 8000 - دستگاه‌های IPL رفع موهای زائد تا 2 سال، پوستی ابریشمی و صاف با 3 سری برای بدن و صورت، جایگزین لیزر موهای زائد (BRI946/00)",
+    "brand": "",
+    "model": "سری Philips Lumea IPL 8000 - دستگاه‌های IPL رفع موهای زائد تا 2 سال، پوستی ابریشمی و صاف با 3 سری برای بدن و صورت، جایگزین لیزر موهای زائد (BRI946/00)",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%DB%8C-Philips-Lumea-IPL-8000-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-IPL-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AA%D8%A7-2-%D8%B3%D8%A7%D9%84-%D9%BE%D9%88%D8%B3%D8%AA%DB%8C-%D8%A7%D8%A8%D8%B1%DB%8C%D8%B4%D9%85%DB%8C-%D9%88-%D8%B5%D8%A7%D9%81-%D8%A8%D8%A7-3-%D8%B3%D8%B1%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A8%D8%AF%D9%86-%D9%88-%D8%B5%D9%88%D8%B1%D8%AA-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D9%84%DB%8C%D8%B2%D8%B1-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-BRI946-00",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.091Z"
+  },
+  {
+    "id": "torobshop-mobile-7c140bba2434e29a",
+    "productId": "torobshop-7c140bba2434e29a",
+    "name": "دستگاه‌های رفع موهای زائد فیلیپس لومیای آی‌پی‌ال سری ۹۰۰۰",
+    "brand": "",
+    "model": "دستگاه‌های رفع موهای زائد فیلیپس لومیای آی‌پی‌ال سری ۹۰۰۰",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%84%D9%88%D9%85%DB%8C%D8%A7%DB%8C-%D8%A2%DB%8C-%D9%BE%DB%8C-%D8%A7%D9%84-%D8%B3%D8%B1%DB%8C-%DB%B9%DB%B0%DB%B0%DB%B0",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.091Z"
+  },
+  {
+    "id": "torobshop-mobile-733ef1e66d9b337b",
+    "productId": "torobshop-733ef1e66d9b337b",
+    "name": "دستگاه رفع موهای زائد Braun IPL مدل Silk·expert Pro 5 — رفع دائمی و بدون درد موهای زائد برای استفاده در منزل — شامل قاب، تیغ ژیلت ونوس، ۳ قطعه جانبی، طراحی شده در آلمان — PL5262، سفید/طلایی",
+    "brand": "",
+    "model": "دستگاه رفع موهای زائد Braun IPL مدل Silk·expert Pro 5 — رفع دائمی و بدون درد موهای زائد برای استفاده در منزل — شامل قاب، تیغ ژیلت ونوس، ۳ قطعه جانبی، طراحی شده در آلمان — PL5262، سفید/طلایی",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Braun-IPL-%D9%85%D8%AF%D9%84-Silk-expert-Pro-5-%D8%B1%D9%81%D8%B9-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%88-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%B1%D8%AF-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%85%D9%86%D8%B2%D9%84-%D8%B4%D8%A7%D9%85%D9%84-%D9%82%D8%A7%D8%A8-%D8%AA%DB%8C%D8%BA-%DA%98%DB%8C%D9%84%D8%AA-%D9%88%D9%86%D9%88%D8%B3-%DB%B3-%D9%82%D8%B7%D8%B9%D9%87-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B4%D8%AF%D9%87-%D8%AF%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-PL5262-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.091Z"
+  },
+  {
+    "id": "torobshop-mobile-e93d0f8dd3711a93",
+    "productId": "torobshop-e93d0f8dd3711a93",
+    "name": "ست زیبایی براون سیلک-اپیل ۹-۹۹۵ لوکس ۹ کاره، رفع موهای زائد خشک و مرطوب بی‌سیم - اپیلاتور، تیغ، لایه‌برداری، کیت تمیزکننده برای صورت و بدن",
+    "brand": "",
+    "model": "ست زیبایی براون سیلک-اپیل ۹-۹۹۵ لوکس ۹ کاره، رفع موهای زائد خشک و مرطوب بی‌سیم - اپیلاتور، تیغ، لایه‌برداری، کیت تمیزکننده برای صورت و بدن",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%AA-%D8%B2%DB%8C%D8%A8%D8%A7%DB%8C%DB%8C-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B3%DB%8C%D9%84%DA%A9-%D8%A7%D9%BE%DB%8C%D9%84-%DB%B9-%DB%B9%DB%B9%DB%B5-%D9%84%D9%88%DA%A9%D8%B3-%DB%B9-%DA%A9%D8%A7%D8%B1%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AE%D8%B4%DA%A9-%D9%88-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D8%A8%DB%8C-%D8%B3%DB%8C%D9%85-%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%AA%DB%8C%D8%BA-%D9%84%D8%A7%DB%8C%D9%87-%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C-%DA%A9%DB%8C%D8%AA-%D8%AA%D9%85%DB%8C%D8%B2%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B5%D9%88%D8%B1%D8%AA-%D9%88-%D8%A8%D8%AF%D9%86",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.091Z"
+  },
+  {
+    "id": "torobshop-mobile-f0ab07848df05c09",
+    "productId": "torobshop-f0ab07848df05c09",
+    "name": "دستگاه‌های IPL براون، رفع موهای زائد، Silk·expert Pro 5 - رفع دائمی و بدون درد موهای زائد در منزل - شامل کیف با تیغ ژیلت ونوس، 2 قطعه جانبی، طراحی شده در آلمان - PL5152، سفید/طلایی",
+    "brand": "",
+    "model": "دستگاه‌های IPL براون، رفع موهای زائد، Silk·expert Pro 5 - رفع دائمی و بدون درد موهای زائد در منزل - شامل کیف با تیغ ژیلت ونوس، 2 قطعه جانبی، طراحی شده در آلمان - PL5152، سفید/طلایی",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-IPL-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Silk-expert-Pro-5-%D8%B1%D9%81%D8%B9-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%88-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%B1%D8%AF-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AF%D8%B1-%D9%85%D9%86%D8%B2%D9%84-%D8%B4%D8%A7%D9%85%D9%84-%DA%A9%DB%8C%D9%81-%D8%A8%D8%A7-%D8%AA%DB%8C%D8%BA-%DA%98%DB%8C%D9%84%D8%AA-%D9%88%D9%86%D9%88%D8%B3-2-%D9%82%D8%B7%D8%B9%D9%87-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B4%D8%AF%D9%87-%D8%AF%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-PL5152-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.091Z"
+  },
+  {
+    "id": "torobshop-mobile-e364f422cc177d5d",
+    "productId": "torobshop-e364f422cc177d5d",
+    "name": "دستگاه لیزر بدن بانوان براون آلمان IPL Braun Silk Expert Pro 5 - رفع موهای زائد، رفع دائمی و بدون درد موهای زائد در منزل - شامل کیف، 2 تیغ ونوس، 2 قطعه جانبی، طراحی شده در آلمان - PL5157، سفید/طلایی",
+    "brand": "",
+    "model": "دستگاه لیزر بدن بانوان براون آلمان IPL Braun Silk Expert Pro 5 - رفع موهای زائد، رفع دائمی و بدون درد موهای زائد در منزل - شامل کیف، 2 تیغ ونوس، 2 قطعه جانبی، طراحی شده در آلمان - PL5157، سفید/طلایی",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-IPL-Braun-Silk-Expert-Pro-5-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%B1%D9%81%D8%B9-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%88-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%B1%D8%AF-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AF%D8%B1-%D9%85%D9%86%D8%B2%D9%84-%D8%B4%D8%A7%D9%85%D9%84-%DA%A9%DB%8C%D9%81-2-%D8%AA%DB%8C%D8%BA-%D9%88%D9%86%D9%88%D8%B3-2-%D9%82%D8%B7%D8%B9%D9%87-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B4%D8%AF%D9%87-%D8%AF%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-PL5157-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.091Z"
+  },
+  {
+    "id": "torobshop-mobile-9195692751acb6cb",
+    "productId": "torobshop-9195692751acb6cb",
+    "name": "اپیلاتور زنانه براون آلمان Silk-épil 9، مخصوص بانوان با سری چرخان، اصلاح آسان مو، مناسب برای استفاده خشک و مرطوب، ضد آب، شامل ریش‌تراش و اصلاح‌کننده ژیلت ونوس، 9-130، سفید/صورتی",
+    "brand": "",
+    "model": "اپیلاتور زنانه براون آلمان Silk-épil 9، مخصوص بانوان با سری چرخان، اصلاح آسان مو، مناسب برای استفاده خشک و مرطوب، ضد آب، شامل ریش‌تراش و اصلاح‌کننده ژیلت ونوس، 9-130، سفید/صورتی",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D9%85%D8%AF%D9%84-Silk-pil-9-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D8%A8%D8%A7-%D8%B3%D8%B1%DB%8C-%DA%86%D8%B1%D8%AE%D8%A7%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%A2%D8%B3%D8%A7%D9%86-%D9%85%D9%88-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AE%D8%B4%DA%A9-%D9%88-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D8%B6%D8%AF-%D8%A2%D8%A8-%D8%B4%D8%A7%D9%85%D9%84-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D9%88-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%DA%98%DB%8C%D9%84%D8%AA-%D9%88%D9%86%D9%88%D8%B3-9-130-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B5%D9%88%D8%B1%D8%AA%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.091Z"
+  },
+  {
+    "id": "torobshop-mobile-80504a6da4da0683",
+    "productId": "torobshop-80504a6da4da0683",
+    "name": "اپیلاتور زنانه براون آلمان Silk épil Lady Shaver 5 – صورتی",
+    "brand": "",
+    "model": "اپیلاتور زنانه براون آلمان Silk épil Lady Shaver 5 – صورتی",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D9%88-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%A8%D8%B1%D9%82%DB%8C-%D8%A8%DB%8C-%D8%B3%DB%8C%D9%85-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D9%85%D8%AF%D9%84-Silk-pil-Lady-Shaver-5-%D8%B5%D9%88%D8%B1%D8%AA%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.091Z"
+  },
+  {
+    "id": "torobshop-mobile-b6f7b97e0a41fcce",
+    "productId": "torobshop-b6f7b97e0a41fcce",
+    "name": "دستگاه اپیلاتور سیمی فیلیپس سری 2000 مدل BRE229/00 مشکی",
+    "brand": "",
+    "model": "دستگاه اپیلاتور سیمی فیلیپس سری 2000 مدل BRE229/00 مشکی",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B3%DB%8C%D9%85%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%B3%D8%B1%DB%8C-2000-%D9%85%D8%AF%D9%84-BRE229-00-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.091Z"
+  },
+  {
+    "id": "torobshop-mobile-391c9855ce3adbee",
+    "productId": "torobshop-391c9855ce3adbee",
+    "name": "اتو موی فیلیپس سری 5000 با فناوری ترموشیلد، مشکی [مدل BHS510/00]",
+    "brand": "",
+    "model": "اتو موی فیلیپس سری 5000 با فناوری ترموشیلد، مشکی [مدل BHS510/00]",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D8%AA%D9%88-%D9%85%D9%88%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%B3%D8%B1%DB%8C-5000-%D8%A8%D8%A7-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-%D8%AA%D8%B1%D9%85%D9%88%D8%B4%DB%8C%D9%84%D8%AF-%D9%85%D8%B4%DA%A9%DB%8C-%D9%85%D8%AF%D9%84-BHS510-00",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.091Z"
+  },
+  {
+    "id": "torobshop-mobile-7f7cef16b95ceef4",
+    "productId": "torobshop-7f7cef16b95ceef4",
+    "name": "دستگاه رفع موهای زائد Braun Smart IPL Skin i·expert 7، PL7387، سفید/رزگلد - لیزر جایگزین برای رفع موهای زائد خانگی، رفع دائمی موهای زائد، شامل جعبه، تیغ Venus و 4 ضمیمه، بسته بندی مقوایی",
+    "brand": "",
+    "model": "دستگاه رفع موهای زائد Braun Smart IPL Skin i·expert 7، PL7387، سفید/رزگلد - لیزر جایگزین برای رفع موهای زائد خانگی، رفع دائمی موهای زائد، شامل جعبه، تیغ Venus و 4 ضمیمه، بسته بندی مقوایی",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Braun-Smart-IPL-Skin-i-expert-7-PL7387-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B1%D8%B2%DA%AF%D9%84%D8%AF-%D9%84%DB%8C%D8%B2%D8%B1-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C-%D8%B1%D9%81%D8%B9-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%B4%D8%A7%D9%85%D9%84-%D8%AC%D8%B9%D8%A8%D9%87-%D8%AA%DB%8C%D8%BA-Venus-%D9%88-4-%D8%B6%D9%85%DB%8C%D9%85%D9%87-%D8%A8%D8%B3%D8%AA%D9%87-%D8%A8%D9%86%D8%AF%DB%8C-%D9%85%D9%82%D9%88%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.091Z"
+  },
+  {
+    "id": "torobshop-mobile-333eed5c812fb391",
+    "productId": "torobshop-333eed5c812fb391",
+    "name": "دستگاه لیزر بدن بانوان براون آلمان رفع موهای زائد، Silk·expert Pro 5، PL5442، سفید/طلایی - لیزر جایگزین برای رفع موهای زائد خانگی، رفع دائمی موهای زائد، شامل کیف، مینی ریش‌تراش، تیغ ونوس و 4 وسیله جانبی",
+    "brand": "",
+    "model": "دستگاه لیزر بدن بانوان براون آلمان رفع موهای زائد، Silk·expert Pro 5، PL5442، سفید/طلایی - لیزر جایگزین برای رفع موهای زائد خانگی، رفع دائمی موهای زائد، شامل کیف، مینی ریش‌تراش، تیغ ونوس و 4 وسیله جانبی",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-IPL-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Silk-expert-Pro-5-PL5442-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C-%D9%84%DB%8C%D8%B2%D8%B1-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C-%D8%B1%D9%81%D8%B9-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%B4%D8%A7%D9%85%D9%84-%DA%A9%DB%8C%D9%81-%D9%85%DB%8C%D9%86%DB%8C-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D8%AA%DB%8C%D8%BA-%D9%88%D9%86%D9%88%D8%B3-%D9%88-4-%D9%88%D8%B3%DB%8C%D9%84%D9%87-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.091Z"
+  },
+  {
+    "id": "torobshop-mobile-d5e3206967150e5a",
+    "productId": "torobshop-d5e3206967150e5a",
+    "name": "دستگاه‌های IPL هوشمند براون، حذف موهای زائد Silk·expert Pro 5 - لیزر حرفه‌ای دائمی و بدون درد موهای زائد برای خانه، طراحی شده در آلمان - شامل جعبه، 1 قطعه الحاقی - PL5100، سفید/طلایی",
+    "brand": "",
+    "model": "دستگاه‌های IPL هوشمند براون، حذف موهای زائد Silk·expert Pro 5 - لیزر حرفه‌ای دائمی و بدون درد موهای زائد برای خانه، طراحی شده در آلمان - شامل جعبه، 1 قطعه الحاقی - PL5100، سفید/طلایی",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-IPL-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%AD%D8%B0%D9%81-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Silk-expert-Pro-5-%D9%84%DB%8C%D8%B2%D8%B1-%D8%AD%D8%B1%D9%81%D9%87-%D8%A7%DB%8C-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%88-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%B1%D8%AF-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AE%D8%A7%D9%86%D9%87-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B4%D8%AF%D9%87-%D8%AF%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%B4%D8%A7%D9%85%D9%84-%D8%AC%D8%B9%D8%A8%D9%87-1-%D9%82%D8%B7%D8%B9%D9%87-%D8%A7%D9%84%D8%AD%D8%A7%D9%82%DB%8C-PL5100-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.091Z"
+  },
+  {
+    "id": "torobshop-mobile-f7e7ecdbe9c782b9",
+    "productId": "torobshop-f7e7ecdbe9c782b9",
+    "name": "دستگاه‌های IPL براون، رفع موهای زائد، Silk·expert Pro 5، PL5321، سفید/طلایی، لیزر جایگزین برای خانه، دائمی، شامل قاب، تیغ ونوس و 3 وسیله جانبی",
+    "brand": "",
+    "model": "دستگاه‌های IPL براون، رفع موهای زائد، Silk·expert Pro 5، PL5321، سفید/طلایی، لیزر جایگزین برای خانه، دائمی، شامل قاب، تیغ ونوس و 3 وسیله جانبی",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-IPL-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Silk-expert-Pro-5-PL5321-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C-%D9%84%DB%8C%D8%B2%D8%B1-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AE%D8%A7%D9%86%D9%87-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D8%B4%D8%A7%D9%85%D9%84-%D9%82%D8%A7%D8%A8-%D8%AA%DB%8C%D8%BA-%D9%88%D9%86%D9%88%D8%B3-%D9%88-3-%D9%88%D8%B3%DB%8C%D9%84%D9%87-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.091Z"
+  },
+  {
+    "id": "torobshop-mobile-fb66328b02aeada9",
+    "productId": "torobshop-fb66328b02aeada9",
+    "name": "اپیلاتور برقی براون مدل Silk-épil 5-825 Power، مخصوص خانم‌ها، رفع موهای زائد ملایم، قدرت مداوم با سیم، سری تیغ و کلاهک، ناحیه بیکینی، سفید/بنفش. قدرت مداوم با سیم، سری تیغ و کلاهک، ناحیه بیکینی.",
+    "brand": "",
+    "model": "اپیلاتور برقی براون مدل Silk-épil 5-825 Power، مخصوص خانم‌ها، رفع موهای زائد ملایم، قدرت مداوم با سیم، سری تیغ و کلاهک، ناحیه بیکینی، سفید/بنفش. قدرت مداوم با سیم، سری تیغ و کلاهک، ناحیه بیکینی.",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%A8%D8%B1%D9%82%DB%8C-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D9%85%D8%AF%D9%84-Silk-pil-5-825-Power-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%AE%D8%A7%D9%86%D9%85-%D9%87%D8%A7-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D9%85%D9%84%D8%A7%DB%8C%D9%85-%D9%82%D8%AF%D8%B1%D8%AA-%D9%85%D8%AF%D8%A7%D9%88%D9%85-%D8%A8%D8%A7-%D8%B3%DB%8C%D9%85-%D8%B3%D8%B1%DB%8C-%D8%AA%DB%8C%D8%BA-%D9%88-%DA%A9%D9%84%D8%A7%D9%87%DA%A9-%D9%86%D8%A7%D8%AD%DB%8C%D9%87-%D8%A8%DB%8C%DA%A9%DB%8C%D9%86%DB%8C-%D8%B3%D9%81%DB%8C%D8%AF-%D8%A8%D9%86%D9%81%D8%B4-%D9%82%D8%AF%D8%B1%D8%AA-%D9%85%D8%AF%D8%A7%D9%88%D9%85-%D8%A8%D8%A7-%D8%B3%DB%8C%D9%85-%D8%B3%D8%B1%DB%8C-%D8%AA%DB%8C%D8%BA-%D9%88-%DA%A9%D9%84%D8%A7%D9%87%DA%A9-%D9%86%D8%A7%D8%AD%DB%8C%D9%87-%D8%A8%DB%8C%DA%A9%DB%8C%D9%86%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.091Z"
+  },
+  {
+    "id": "torobshop-mobile-4b1136653b8c3865",
+    "productId": "torobshop-4b1136653b8c3865",
+    "name": "دستگاه لیزر بدن بانوان براون آلمان رفع موهای زائد، Silk·expert Pro 3، PL3230، سفید/نقره‌ای، لیزر جایگزین برای رفع موهای زائد خانگی، رفع دائمی موهای زائد، شامل قاب و 3 قطعه جانبی",
+    "brand": "",
+    "model": "دستگاه لیزر بدن بانوان براون آلمان رفع موهای زائد، Silk·expert Pro 3، PL3230، سفید/نقره‌ای، لیزر جایگزین برای رفع موهای زائد خانگی، رفع دائمی موهای زائد، شامل قاب و 3 قطعه جانبی",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-IPL-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Silk-expert-Pro-3-PL3230-%D8%B3%D9%81%DB%8C%D8%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C-%D9%84%DB%8C%D8%B2%D8%B1-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C-%D8%B1%D9%81%D8%B9-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%B4%D8%A7%D9%85%D9%84-%D9%82%D8%A7%D8%A8-%D9%88-3-%D9%82%D8%B7%D8%B9%D9%87-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.091Z"
+  },
+  {
+    "id": "torobshop-mobile-bff623028ca50588",
+    "productId": "torobshop-bff623028ca50588",
+    "name": "ریش‌تراش برقی بی‌سیم فیلیپس سری لیدی شیور ۸۰۰۰، مناسب برای اصلاح صورت خشک و تر، سر اصلاح انعطاف‌پذیر با ۳ تیغه، چراغ LED برای پاها و بدن، زمان کارکرد ۱۰۰ دقیقه، مدل BRL129/00",
+    "brand": "",
+    "model": "ریش‌تراش برقی بی‌سیم فیلیپس سری لیدی شیور ۸۰۰۰، مناسب برای اصلاح صورت خشک و تر، سر اصلاح انعطاف‌پذیر با ۳ تیغه، چراغ LED برای پاها و بدن، زمان کارکرد ۱۰۰ دقیقه، مدل BRL129/00",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D8%A8%D8%B1%D9%82%DB%8C-%D8%A8%DB%8C-%D8%B3%DB%8C%D9%85-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%B3%D8%B1%DB%8C-%D9%84%DB%8C%D8%AF%DB%8C-%D8%B4%DB%8C%D9%88%D8%B1-%DB%B8%DB%B0%DB%B0%DB%B0-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%B5%D9%88%D8%B1%D8%AA-%D8%AE%D8%B4%DA%A9-%D9%88-%D8%AA%D8%B1-%D8%B3%D8%B1-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%A7%D9%86%D8%B9%D8%B7%D8%A7%D9%81-%D9%BE%D8%B0%DB%8C%D8%B1-%D8%A8%D8%A7-%DB%B3-%D8%AA%DB%8C%D8%BA%D9%87-%DA%86%D8%B1%D8%A7%D8%BA-LED-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D8%A7%D9%87%D8%A7-%D9%88-%D8%A8%D8%AF%D9%86-%D8%B2%D9%85%D8%A7%D9%86-%DA%A9%D8%A7%D8%B1%DA%A9%D8%B1%D8%AF-%DB%B1%DB%B0%DB%B0-%D8%AF%D9%82%DB%8C%D9%82%D9%87-%D9%85%D8%AF%D9%84-BRL129-00",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.091Z"
+  },
+  {
+    "id": "torobshop-mobile-1abc4d3d93984fc9",
+    "productId": "torobshop-1abc4d3d93984fc9",
+    "name": "ریش‌تراش برقی بی‌سیم فیلیپس لیدی شیور سری 6000 برای اصلاح خشک و مرطوب، سیستم اصلاح 3 تیغه، برای پاها و بدن، 80 دقیقه زمان کارکرد، مدل BRL127/00",
+    "brand": "",
+    "model": "ریش‌تراش برقی بی‌سیم فیلیپس لیدی شیور سری 6000 برای اصلاح خشک و مرطوب، سیستم اصلاح 3 تیغه، برای پاها و بدن، 80 دقیقه زمان کارکرد، مدل BRL127/00",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D8%A8%D8%B1%D9%82%DB%8C-%D8%A8%DB%8C-%D8%B3%DB%8C%D9%85-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%84%DB%8C%D8%AF%DB%8C-%D8%B4%DB%8C%D9%88%D8%B1-%D8%B3%D8%B1%DB%8C-6000-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%AE%D8%B4%DA%A9-%D9%88-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D8%B3%DB%8C%D8%B3%D8%AA%D9%85-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-3-%D8%AA%DB%8C%D8%BA%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D8%A7%D9%87%D8%A7-%D9%88-%D8%A8%D8%AF%D9%86-80-%D8%AF%D9%82%DB%8C%D9%82%D9%87-%D8%B2%D9%85%D8%A7%D9%86-%DA%A9%D8%A7%D8%B1%DA%A9%D8%B1%D8%AF-%D9%85%D8%AF%D9%84-BRL127-00",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.091Z"
+  },
+  {
+    "id": "torobshop-mobile-99dbc61e2d2488d7",
+    "productId": "torobshop-99dbc61e2d2488d7",
+    "name": "اپیلاتور زنانه براون آلمان سیلک-اپیل ۵، برای رفع موهای زائد با ماندگاری طولانی، مخصوص بانوان، مدل ۵-۲۵۱، سفید/خاکستری",
+    "brand": "",
+    "model": "اپیلاتور زنانه براون آلمان سیلک-اپیل ۵، برای رفع موهای زائد با ماندگاری طولانی، مخصوص بانوان، مدل ۵-۲۵۱، سفید/خاکستری",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D9%85%D9%88%D8%A8%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B3%DB%8C%D9%84%DA%A9-%D8%A7%D9%BE%DB%8C%D9%84-%DB%B5-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%D8%A7-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1%DB%8C-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D9%85%D8%AF%D9%84-%DB%B5-%DB%B2%DB%B5%DB%B1-%D8%B3%D9%81%DB%8C%D8%AF-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.091Z"
+  },
+  {
+    "id": "torobshop-mobile-ec0c6101e09fd316",
+    "productId": "torobshop-ec0c6101e09fd316",
+    "name": "اپیلاتور زنانه براون آلمان سیلک-اپیل ۵، اپیلاتور/موبر زنانه، لوازم جانبی برای تیغ، لایه برداری، تمیز کردن صورت و بدن، کیف، ۵-۸۹۵، سفید/فلامینگو",
+    "brand": "",
+    "model": "اپیلاتور زنانه براون آلمان سیلک-اپیل ۵، اپیلاتور/موبر زنانه، لوازم جانبی برای تیغ، لایه برداری، تمیز کردن صورت و بدن، کیف، ۵-۸۹۵، سفید/فلامینگو",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%AA-%D8%B2%DB%8C%D8%A8%D8%A7%DB%8C%DB%8C-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B3%DB%8C%D9%84%DA%A9-%D8%A7%D9%BE%DB%8C%D9%84-%DB%B5-%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D9%85%D9%88%D8%A8%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%DB%8C%D8%BA-%D9%84%D8%A7%DB%8C%D9%87-%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C-%D8%AA%D9%85%DB%8C%D8%B2-%DA%A9%D8%B1%D8%AF%D9%86-%D8%B5%D9%88%D8%B1%D8%AA-%D9%88-%D8%A8%D8%AF%D9%86-%DA%A9%DB%8C%D9%81-%DB%B5-%DB%B8%DB%B9%DB%B5-%D8%B3%D9%81%DB%8C%D8%AF-%D9%81%D9%84%D8%A7%D9%85%DB%8C%D9%86%DA%AF%D9%88",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.091Z"
+  },
+  {
+    "id": "torobshop-mobile-45f8a3eeff0791c7",
+    "productId": "torobshop-45f8a3eeff0791c7",
+    "name": "سشوار فیلیپس مدل Airstyler 3000، 3 سری، برس هوای گرم 800 واتی (مدل BHA305/00)",
+    "brand": "",
+    "model": "سشوار فیلیپس مدل Airstyler 3000، 3 سری، برس هوای گرم 800 واتی (مدل BHA305/00)",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B4%D9%88%D8%A7%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%85%D8%AF%D9%84-Airstyler-3000-3-%D8%B3%D8%B1%DB%8C-%D8%A8%D8%B1%D8%B3-%D9%87%D9%88%D8%A7%DB%8C-%DA%AF%D8%B1%D9%85-800-%D9%88%D8%A7%D8%AA%DB%8C-%D9%85%D8%AF%D9%84-BHA305-00",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.091Z"
+  },
+  {
+    "id": "torobshop-mobile-2a6259b902f04fb9",
+    "productId": "torobshop-2a6259b902f04fb9",
+    "name": "سشوار فیلیپس درای‌کر پرو با موتور قدرتمند AC (مدل BHD272/00)",
+    "brand": "",
+    "model": "سشوار فیلیپس درای‌کر پرو با موتور قدرتمند AC (مدل BHD272/00)",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B4%D9%88%D8%A7%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%AF%D8%B1%D8%A7%DB%8C-%DA%A9%D8%B1-%D9%BE%D8%B1%D9%88-%D8%A8%D8%A7-%D9%85%D9%88%D8%AA%D9%88%D8%B1-%D9%82%D8%AF%D8%B1%D8%AA%D9%85%D9%86%D8%AF-AC-%D9%85%D8%AF%D9%84-BHD272-00",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.091Z"
+  },
+  {
+    "id": "torobshop-mobile-3fe480d61f801988",
+    "productId": "torobshop-3fe480d61f801988",
+    "name": "اپیلاتور زنانه براون آلمان Braun Silk·épil 9 SkinSpa، مجموعه همه کاره، سر چرخان، رفع موهای زائد خشک و مرطوب، ضد آب، شامل برس لایه بردار، پد ماساژ، تیغ، ماشین اصلاح، ماشین اصلاح صورت، 9-381، نقره ای",
+    "brand": "",
+    "model": "اپیلاتور زنانه براون آلمان Braun Silk·épil 9 SkinSpa، مجموعه همه کاره، سر چرخان، رفع موهای زائد خشک و مرطوب، ضد آب، شامل برس لایه بردار، پد ماساژ، تیغ، ماشین اصلاح، ماشین اصلاح صورت، 9-381، نقره ای",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-Braun-Silk-pil-9-SkinSpa-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D9%87%D9%85%D9%87-%DA%A9%D8%A7%D8%B1%D9%87-%D8%B3%D8%B1-%DA%86%D8%B1%D8%AE%D8%A7%D9%86-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AE%D8%B4%DA%A9-%D9%88-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D8%B6%D8%AF-%D8%A2%D8%A8-%D8%B4%D8%A7%D9%85%D9%84-%D8%A8%D8%B1%D8%B3-%D9%84%D8%A7%DB%8C%D9%87-%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1-%D9%BE%D8%AF-%D9%85%D8%A7%D8%B3%D8%A7%DA%98-%D8%AA%DB%8C%D8%BA-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%B5%D9%88%D8%B1%D8%AA-9-381-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.091Z"
+  },
+  {
+    "id": "torobshop-mobile-ef59c7447c918481",
+    "productId": "torobshop-ef59c7447c918481",
+    "name": "اپیلاتور زنانه براون آلمان Braun Silk·épil 9 SkinSpa، مجموعه همه کاره، سر چرخان برای رفع موهای زائد مرطوب و خشک، ضد آب، شامل برس لایه بردار، پد ماساژ، سری اصلاح، سری اصلاح - 9-080، نقره ای",
+    "brand": "",
+    "model": "اپیلاتور زنانه براون آلمان Braun Silk·épil 9 SkinSpa، مجموعه همه کاره، سر چرخان برای رفع موهای زائد مرطوب و خشک، ضد آب، شامل برس لایه بردار، پد ماساژ، سری اصلاح، سری اصلاح - 9-080، نقره ای",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-Braun-Silk-pil-9-SkinSpa-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D9%87%D9%85%D9%87-%DA%A9%D8%A7%D8%B1%D9%87-%D8%B3%D8%B1-%DA%86%D8%B1%D8%AE%D8%A7%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D9%88-%D8%AE%D8%B4%DA%A9-%D8%B6%D8%AF-%D8%A2%D8%A8-%D8%B4%D8%A7%D9%85%D9%84-%D8%A8%D8%B1%D8%B3-%D9%84%D8%A7%DB%8C%D9%87-%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1-%D9%BE%D8%AF-%D9%85%D8%A7%D8%B3%D8%A7%DA%98-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-9-080-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.091Z"
+  },
+  {
+    "id": "torobshop-mobile-591d2fa02319cbe4",
+    "productId": "torobshop-591d2fa02319cbe4",
+    "name": "حالت دهنده مو فیلیپس ایراستایلر سری 7000 – دارای 2 سری حالت دهنده (مدل BHA710/00)",
+    "brand": "",
+    "model": "حالت دهنده مو فیلیپس ایراستایلر سری 7000 – دارای 2 سری حالت دهنده (مدل BHA710/00)",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AD%D8%A7%D9%84%D8%AA-%D8%AF%D9%87%D9%86%D8%AF%D9%87-%D9%85%D9%88-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%A7%DB%8C%D8%B1%D8%A7%D8%B3%D8%AA%D8%A7%DB%8C%D9%84%D8%B1-%D8%B3%D8%B1%DB%8C-7000-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C-2-%D8%B3%D8%B1%DB%8C-%D8%AD%D8%A7%D9%84%D8%AA-%D8%AF%D9%87%D9%86%D8%AF%D9%87-%D9%85%D8%AF%D9%84-BHA710-00",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.091Z"
+  },
+  {
+    "id": "torobshop-mobile-74fc37b5d70bd7c1",
+    "productId": "torobshop-74fc37b5d70bd7c1",
+    "name": "اپیلاتور صورت براون فیس اسپا مخصوص خانم‌ها، موبر صورت، برس پاک‌کننده صورت، موبر و پاک‌کننده مو، ضد آب — 810، سفید/نقره‌ای 2 در 1 810",
+    "brand": "",
+    "model": "اپیلاتور صورت براون فیس اسپا مخصوص خانم‌ها، موبر صورت، برس پاک‌کننده صورت، موبر و پاک‌کننده مو، ضد آب — 810، سفید/نقره‌ای 2 در 1 810",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B5%D9%88%D8%B1%D8%AA-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D9%81%DB%8C%D8%B3-%D8%A7%D8%B3%D9%BE%D8%A7-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%AE%D8%A7%D9%86%D9%85-%D9%87%D8%A7-%D9%85%D9%88%D8%A8%D8%B1-%D8%B5%D9%88%D8%B1%D8%AA-%D8%A8%D8%B1%D8%B3-%D9%BE%D8%A7%DA%A9-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%B5%D9%88%D8%B1%D8%AA-%D9%85%D9%88%D8%A8%D8%B1-%D9%88-%D9%BE%D8%A7%DA%A9-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D9%85%D9%88-%D8%B6%D8%AF-%D8%A2%D8%A8-810-%D8%B3%D9%81%DB%8C%D8%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C-2-%D8%AF%D8%B1-1-810",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.091Z"
+  },
+  {
+    "id": "torobshop-mobile-9c53c942a980e1d6",
+    "productId": "torobshop-9c53c942a980e1d6",
+    "name": "دستگاه رفع موهای زائد Braun Smart IPL Skin i·expert 7، PL7311، سفید/رزگلد - لیزر جایگزین برای رفع موهای زائد خانگی، رفع دائمی موهای زائد، شامل قاب، تیغ Venus و 3 وسیله جانبی",
+    "brand": "",
+    "model": "دستگاه رفع موهای زائد Braun Smart IPL Skin i·expert 7، PL7311، سفید/رزگلد - لیزر جایگزین برای رفع موهای زائد خانگی، رفع دائمی موهای زائد، شامل قاب، تیغ Venus و 3 وسیله جانبی",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Braun-Smart-IPL-Skin-i-expert-7-PL7311-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B1%D8%B2%DA%AF%D9%84%D8%AF-%D9%84%DB%8C%D8%B2%D8%B1-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C-%D8%B1%D9%81%D8%B9-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%B4%D8%A7%D9%85%D9%84-%D9%82%D8%A7%D8%A8-%D8%AA%DB%8C%D8%BA-Venus-%D9%88-3-%D9%88%D8%B3%DB%8C%D9%84%D9%87-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.091Z"
+  },
+  {
+    "id": "torobshop-mobile-acc19b901c8b2ad8",
+    "productId": "torobshop-acc19b901c8b2ad8",
+    "name": "اپیلاتور صورت براون فیس اسپا پرو مخصوص خانم‌ها، ست زیبایی SE921، برنز - موبر صورت، برس پاکسازی صورت، جعبه نگهداری، موبر، پاکسازی و سفت کردن پوست، ضد آب 3 در 1 SE921",
+    "brand": "",
+    "model": "اپیلاتور صورت براون فیس اسپا پرو مخصوص خانم‌ها، ست زیبایی SE921، برنز - موبر صورت، برس پاکسازی صورت، جعبه نگهداری، موبر، پاکسازی و سفت کردن پوست، ضد آب 3 در 1 SE921",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B5%D9%88%D8%B1%D8%AA-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D9%81%DB%8C%D8%B3-%D8%A7%D8%B3%D9%BE%D8%A7-%D9%BE%D8%B1%D9%88-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%AE%D8%A7%D9%86%D9%85-%D9%87%D8%A7-%D8%B3%D8%AA-%D8%B2%DB%8C%D8%A8%D8%A7%DB%8C%DB%8C-SE921-%D8%A8%D8%B1%D9%86%D8%B2-%D9%85%D9%88%D8%A8%D8%B1-%D8%B5%D9%88%D8%B1%D8%AA-%D8%A8%D8%B1%D8%B3-%D9%BE%D8%A7%DA%A9%D8%B3%D8%A7%D8%B2%DB%8C-%D8%B5%D9%88%D8%B1%D8%AA-%D8%AC%D8%B9%D8%A8%D9%87-%D9%86%DA%AF%D9%87%D8%AF%D8%A7%D8%B1%DB%8C-%D9%85%D9%88%D8%A8%D8%B1-%D9%BE%D8%A7%DA%A9%D8%B3%D8%A7%D8%B2%DB%8C-%D9%88-%D8%B3%D9%81%D8%AA-%DA%A9%D8%B1%D8%AF%D9%86-%D9%BE%D9%88%D8%B3%D8%AA-%D8%B6%D8%AF-%D8%A2%D8%A8-3-%D8%AF%D8%B1-1-SE921",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.091Z"
+  },
+  {
+    "id": "torobshop-mobile-ac9daafe2ea5d5bc",
+    "productId": "torobshop-ac9daafe2ea5d5bc",
+    "name": "دستگاه لیزر بدن بانوان براون آلمان Braun IPL Silk Expert Pro 3، دارای ۲ سری، رفع موهای زائد قابل مشاهده، طراحی شده در آلمان، رفع موهای زائد صورت، جایگزین لیزر موهای زائد، PL3139، سفید/نقره‌ای",
+    "brand": "",
+    "model": "دستگاه لیزر بدن بانوان براون آلمان Braun IPL Silk Expert Pro 3، دارای ۲ سری، رفع موهای زائد قابل مشاهده، طراحی شده در آلمان، رفع موهای زائد صورت، جایگزین لیزر موهای زائد، PL3139، سفید/نقره‌ای",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%B2%D9%86%D8%A7%D9%86%D9%87-Braun-IPL-Silk-Expert-Pro-3-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C-%DB%B2-%D8%B3%D8%B1%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D9%82%D8%A7%D8%A8%D9%84-%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D9%87-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B4%D8%AF%D9%87-%D8%AF%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%B5%D9%88%D8%B1%D8%AA-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D9%84%DB%8C%D8%B2%D8%B1-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-PL3139-%D8%B3%D9%81%DB%8C%D8%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.091Z"
+  },
+  {
+    "id": "torobshop-mobile-69bba0d6d694a47d",
+    "productId": "torobshop-69bba0d6d694a47d",
+    "name": "مجموعه همه کاره Braun Silk-épil 7 SkinSpa، اپیلاتور/موبر زنانه برای رفع موهای زائد با ماندگاری طولانی، ریش تراش زنانه، سری اصلاح، سری ماساژ، 7-081، سفید/نقره‌ای",
+    "brand": "",
+    "model": "مجموعه همه کاره Braun Silk-épil 7 SkinSpa، اپیلاتور/موبر زنانه برای رفع موهای زائد با ماندگاری طولانی، ریش تراش زنانه، سری اصلاح، سری ماساژ، 7-081، سفید/نقره‌ای",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D9%87%D9%85%D9%87-%DA%A9%D8%A7%D8%B1%D9%87-Braun-Silk-pil-7-SkinSpa-%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D9%85%D9%88%D8%A8%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%D8%A7-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1%DB%8C-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%B3%D8%B1%DB%8C-%D9%85%D8%A7%D8%B3%D8%A7%DA%98-7-081-%D8%B3%D9%81%DB%8C%D8%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.091Z"
+  },
+  {
+    "id": "torobshop-mobile-01be123cfbff3d67",
+    "productId": "torobshop-01be123cfbff3d67",
+    "name": "اپیلاتور زنانه براون آلمان Silk-épil 9 برای رفع موهای زائد با ماندگاری طولانی، ریش‌تراش زنانه، سری اصلاح، سری اصلاح، مدل 9-041، سفید/نقره‌ای",
+    "brand": "",
+    "model": "اپیلاتور زنانه براون آلمان Silk-épil 9 برای رفع موهای زائد با ماندگاری طولانی، ریش‌تراش زنانه، سری اصلاح، سری اصلاح، مدل 9-041، سفید/نقره‌ای",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D9%85%D9%88%D8%A8%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D9%85%D8%AF%D9%84-Silk-pil-9-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%D8%A7-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1%DB%8C-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%85%D8%AF%D9%84-9-041-%D8%B3%D9%81%DB%8C%D8%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.091Z"
+  },
+  {
+    "id": "torobshop-mobile-091330dc970a0bbe",
+    "productId": "torobshop-091330dc970a0bbe",
+    "name": "حالت دهنده مو فیلیپس ایر استایلر سری ۵۰۰۰ – با ۵ سری حالت دهنده (مدل BHA530/00)",
+    "brand": "",
+    "model": "حالت دهنده مو فیلیپس ایر استایلر سری ۵۰۰۰ – با ۵ سری حالت دهنده (مدل BHA530/00)",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AD%D8%A7%D9%84%D8%AA-%D8%AF%D9%87%D9%86%D8%AF%D9%87-%D9%85%D9%88-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%A7%DB%8C%D8%B1-%D8%A7%D8%B3%D8%AA%D8%A7%DB%8C%D9%84%D8%B1-%D8%B3%D8%B1%DB%8C-%DB%B5%DB%B0%DB%B0%DB%B0-%D8%A8%D8%A7-%DB%B5-%D8%B3%D8%B1%DB%8C-%D8%AD%D8%A7%D9%84%D8%AA-%D8%AF%D9%87%D9%86%D8%AF%D9%87-%D9%85%D8%AF%D9%84-BHA530-00",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.091Z"
+  },
+  {
+    "id": "torobshop-mobile-215471b6024642b7",
+    "productId": "torobshop-215471b6024642b7",
+    "name": "دستگاه لیزر بدن بانوان براون آلمان رفع موهای زائد، Silk·expert Pro 5، PL5382، سفید/طلایی - لیزر جایگزین موهای زائد خانگی، رفع دائمی موهای زائد، شامل قاب، تیغ ونوس و 3 وسیله جانبی",
+    "brand": "",
+    "model": "دستگاه لیزر بدن بانوان براون آلمان رفع موهای زائد، Silk·expert Pro 5، PL5382، سفید/طلایی - لیزر جایگزین موهای زائد خانگی، رفع دائمی موهای زائد، شامل قاب، تیغ ونوس و 3 وسیله جانبی",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-IPL-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Silk-expert-Pro-5-PL5382-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C-%D9%84%DB%8C%D8%B2%D8%B1-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C-%D8%B1%D9%81%D8%B9-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%B4%D8%A7%D9%85%D9%84-%D9%82%D8%A7%D8%A8-%D8%AA%DB%8C%D8%BA-%D9%88%D9%86%D9%88%D8%B3-%D9%88-3-%D9%88%D8%B3%DB%8C%D9%84%D9%87-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.091Z"
+  },
+  {
+    "id": "torobshop-mobile-db81d40bcc397e16",
+    "productId": "torobshop-db81d40bcc397e16",
+    "name": "اپیلاتور زنانه براون آلمان Silk·épil 5، رفع آسان موهای زائد، پوستی صاف و ماندگار، مناسب برای استفاده خشک و مرطوب، مخصوص بانوان، ضد آب - شامل سری اصلاح، سری اصلاح و برس لایه بردار - 5-060، صورتی",
+    "brand": "",
+    "model": "اپیلاتور زنانه براون آلمان Silk·épil 5، رفع آسان موهای زائد، پوستی صاف و ماندگار، مناسب برای استفاده خشک و مرطوب، مخصوص بانوان، ضد آب - شامل سری اصلاح، سری اصلاح و برس لایه بردار - 5-060، صورتی",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D9%85%D8%AF%D9%84-Silk-pil-5-%D8%B1%D9%81%D8%B9-%D8%A2%D8%B3%D8%A7%D9%86-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D9%BE%D9%88%D8%B3%D8%AA%DB%8C-%D8%B5%D8%A7%D9%81-%D9%88-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AE%D8%B4%DA%A9-%D9%88-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D8%B6%D8%AF-%D8%A2%D8%A8-%D8%B4%D8%A7%D9%85%D9%84-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%A8%D8%B1%D8%B3-%D9%84%D8%A7%DB%8C%D9%87-%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1-5-060-%D8%B5%D9%88%D8%B1%D8%AA%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.091Z"
+  },
+  {
+    "id": "torobshop-mobile-a95fac45da84a72b",
+    "productId": "torobshop-a95fac45da84a72b",
+    "name": "اپیلاتور زنانه Braun Silk-épil 9 SkinSpa، مجموعه همه کاره، موبر برای رفع موهای زائد طولانی مدت، ریش تراش زنانه، ضد آب، شامل تیغ و ماساژور، 9-080، سفید/صورتی",
+    "brand": "",
+    "model": "اپیلاتور زنانه Braun Silk-épil 9 SkinSpa، مجموعه همه کاره، موبر برای رفع موهای زائد طولانی مدت، ریش تراش زنانه، ضد آب، شامل تیغ و ماساژور، 9-080، سفید/صورتی",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-Braun-Silk-pil-9-SkinSpa-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D9%87%D9%85%D9%87-%DA%A9%D8%A7%D8%B1%D9%87-%D9%85%D9%88%D8%A8%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%D9%85%D8%AF%D8%AA-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D8%B6%D8%AF-%D8%A2%D8%A8-%D8%B4%D8%A7%D9%85%D9%84-%D8%AA%DB%8C%D8%BA-%D9%88-%D9%85%D8%A7%D8%B3%D8%A7%DA%98%D9%88%D8%B1-9-080-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B5%D9%88%D8%B1%D8%AA%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.091Z"
+  },
+  {
+    "id": "torobshop-mobile-ed3206a7c4997ceb",
+    "productId": "torobshop-ed3206a7c4997ceb",
+    "name": "دستگاه‌های IPL براون، حذف موهای زائد، Silk·expert Mini، PL1100، سفید/نقره‌ای، لیزر جایگزین برای حذف موهای زائد در منزل، حذف دائمی موهای زائد، اندازه جمع و جور برای استفاده در حال حرکت، آسان و ایمن",
+    "brand": "",
+    "model": "دستگاه‌های IPL براون، حذف موهای زائد، Silk·expert Mini، PL1100، سفید/نقره‌ای، لیزر جایگزین برای حذف موهای زائد در منزل، حذف دائمی موهای زائد، اندازه جمع و جور برای استفاده در حال حرکت، آسان و ایمن",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-IPL-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%AD%D8%B0%D9%81-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Silk-expert-Mini-PL1100-%D8%B3%D9%81%DB%8C%D8%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C-%D9%84%DB%8C%D8%B2%D8%B1-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AD%D8%B0%D9%81-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AF%D8%B1-%D9%85%D9%86%D8%B2%D9%84-%D8%AD%D8%B0%D9%81-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%D9%87-%D8%AC%D9%85%D8%B9-%D9%88-%D8%AC%D9%88%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D8%AD%D8%A7%D9%84-%D8%AD%D8%B1%DA%A9%D8%AA-%D8%A2%D8%B3%D8%A7%D9%86-%D9%88-%D8%A7%DB%8C%D9%85%D9%86",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.091Z"
+  },
+  {
+    "id": "torobshop-mobile-27f7af68d3543ffb",
+    "productId": "torobshop-27f7af68d3543ffb",
+    "name": "ست زیبایی فیلیپس سری 9000 - همه کاره برای بدن، صورت و پا، اپیلاتور بی‌سیم، خشک و مرطوب با 6 لوازم جانبی، مدل BRE770/92",
+    "brand": "",
+    "model": "ست زیبایی فیلیپس سری 9000 - همه کاره برای بدن، صورت و پا، اپیلاتور بی‌سیم، خشک و مرطوب با 6 لوازم جانبی، مدل BRE770/92",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%AA-%D8%B2%DB%8C%D8%A8%D8%A7%DB%8C%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%B3%D8%B1%DB%8C-9000-%D9%87%D9%85%D9%87-%DA%A9%D8%A7%D8%B1%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A8%D8%AF%D9%86-%D8%B5%D9%88%D8%B1%D8%AA-%D9%88-%D9%BE%D8%A7-%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%A8%DB%8C-%D8%B3%DB%8C%D9%85-%D8%AE%D8%B4%DA%A9-%D9%88-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D8%A8%D8%A7-6-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D8%AF%D9%84-BRE770-92",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.091Z"
+  },
+  {
+    "id": "torobshop-mobile-20c5a20079487b1a",
+    "productId": "torobshop-20c5a20079487b1a",
+    "name": "فرکننده موی اتوماتیک فیلیپس مدل BHB878 / 00 MoistureProtect",
+    "brand": "",
+    "model": "فرکننده موی اتوماتیک فیلیپس مدل BHB878 / 00 MoistureProtect",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%81%D8%B1%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D9%85%D9%88%DB%8C-%D8%A7%D8%AA%D9%88%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%85%D8%AF%D9%84-BHB878-00-MoistureProtect",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.091Z"
+  },
+  {
+    "id": "torobshop-mobile-ab3241a3e4a91b6d",
+    "productId": "torobshop-ab3241a3e4a91b6d",
+    "name": "سشوار Philips DryCare Prestige با سنسور MoistureProtect HP8280 / 00، 2300 وات، موتور DC و 2 سری اتصال",
+    "brand": "",
+    "model": "سشوار Philips DryCare Prestige با سنسور MoistureProtect HP8280 / 00، 2300 وات، موتور DC و 2 سری اتصال",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B4%D9%88%D8%A7%D8%B1-Philips-DryCare-Prestige-%D8%A8%D8%A7-%D8%B3%D9%86%D8%B3%D9%88%D8%B1-MoistureProtect-HP8280-00-2300-%D9%88%D8%A7%D8%AA-%D9%85%D9%88%D8%AA%D9%88%D8%B1-DC-%D9%88-2-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.091Z"
+  },
+  {
+    "id": "torobshop-mobile-5939ecdc87bd4f0d",
+    "productId": "torobshop-5939ecdc87bd4f0d",
+    "name": "سشوار فیلیپس سری ۳۰۰۰ با سیستم یون پیشرفته (مدل BHD351/10)",
+    "brand": "",
+    "model": "سشوار فیلیپس سری ۳۰۰۰ با سیستم یون پیشرفته (مدل BHD351/10)",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B4%D9%88%D8%A7%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%B3%D8%B1%DB%8C-%DB%B3%DB%B0%DB%B0%DB%B0-%D8%A8%D8%A7-%D8%B3%DB%8C%D8%B3%D8%AA%D9%85-%DB%8C%D9%88%D9%86-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87-%D9%85%D8%AF%D9%84-BHD351-10",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.091Z"
+  },
+  {
+    "id": "torobshop-mobile-08320ee86e550b3d",
+    "productId": "torobshop-08320ee86e550b3d",
+    "name": "دستگاه رفع موهای زائد Philips Lumea Prestige IPL با فناوری SenseIQ [مدل BRI944/00]",
+    "brand": "",
+    "model": "دستگاه رفع موهای زائد Philips Lumea Prestige IPL با فناوری SenseIQ [مدل BRI944/00]",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Philips-Lumea-Prestige-IPL-%D8%A8%D8%A7-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-SenseIQ-%D9%85%D8%AF%D9%84-BRI944-00",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.091Z"
+  },
+  {
+    "id": "torobshop-mobile-3e4d9495e052b1b8",
+    "productId": "torobshop-3e4d9495e052b1b8",
+    "name": "سشوار فیلیپس درای‌کر پرو با موتور قدرتمند AC (مدل BHD274/00)",
+    "brand": "",
+    "model": "سشوار فیلیپس درای‌کر پرو با موتور قدرتمند AC (مدل BHD274/00)",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B4%D9%88%D8%A7%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%AF%D8%B1%D8%A7%DB%8C-%DA%A9%D8%B1-%D9%BE%D8%B1%D9%88-%D8%A8%D8%A7-%D9%85%D9%88%D8%AA%D9%88%D8%B1-%D9%82%D8%AF%D8%B1%D8%AA%D9%85%D9%86%D8%AF-AC-%D9%85%D8%AF%D9%84-BHD274-00",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.091Z"
+  },
+  {
+    "id": "torobshop-mobile-1059c1f184e3d8b3",
+    "productId": "torobshop-1059c1f184e3d8b3",
+    "name": "اپیلاتور زنانه Braun Silk·épil 9 Flex SkinSpa، مجموعه همه کاره، 9-681 3D، طلایی، سری 360 درجه برای رفع آسان موهای زائد، ضد آب، شامل دستگاه رفع موهای زائد FaceSpa و ماشین اصلاح صورت کوچک",
+    "brand": "",
+    "model": "اپیلاتور زنانه Braun Silk·épil 9 Flex SkinSpa، مجموعه همه کاره، 9-681 3D، طلایی، سری 360 درجه برای رفع آسان موهای زائد، ضد آب، شامل دستگاه رفع موهای زائد FaceSpa و ماشین اصلاح صورت کوچک",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-Braun-Silk-pil-9-Flex-SkinSpa-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D9%87%D9%85%D9%87-%DA%A9%D8%A7%D8%B1%D9%87-9-681-3D-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C-%D8%B3%D8%B1%DB%8C-360-%D8%AF%D8%B1%D8%AC%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D8%A2%D8%B3%D8%A7%D9%86-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%B6%D8%AF-%D8%A2%D8%A8-%D8%B4%D8%A7%D9%85%D9%84-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-FaceSpa-%D9%88-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%B5%D9%88%D8%B1%D8%AA-%DA%A9%D9%88%DA%86%DA%A9",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.091Z"
+  },
+  {
+    "id": "torobshop-mobile-301beb96f2df717f",
+    "productId": "torobshop-301beb96f2df717f",
+    "name": "دستگاه IPL Braun Silk·expert Pro 5 - دستگاه رفع موهای زائد IPL، رفع دائمی و بدون درد موهای زائد در منزل - شامل کیف، تیغ ونوس، 2 قطعه جانبی، طراحی شده در آلمان - PL5156، سفید/طلایی",
+    "brand": "",
+    "model": "دستگاه IPL Braun Silk·expert Pro 5 - دستگاه رفع موهای زائد IPL، رفع دائمی و بدون درد موهای زائد در منزل - شامل کیف، تیغ ونوس، 2 قطعه جانبی، طراحی شده در آلمان - PL5156، سفید/طلایی",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-IPL-Braun-Silk-expert-Pro-5-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-IPL-%D8%B1%D9%81%D8%B9-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%88-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%B1%D8%AF-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AF%D8%B1-%D9%85%D9%86%D8%B2%D9%84-%D8%B4%D8%A7%D9%85%D9%84-%DA%A9%DB%8C%D9%81-%D8%AA%DB%8C%D8%BA-%D9%88%D9%86%D9%88%D8%B3-2-%D9%82%D8%B7%D8%B9%D9%87-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B4%D8%AF%D9%87-%D8%AF%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-PL5156-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.091Z"
+  },
+  {
+    "id": "torobshop-mobile-834858ae4530d775",
+    "productId": "torobshop-834858ae4530d775",
+    "name": "اپیلاتور براون سیلک-اپیل ۷ مخصوص خانم‌ها، موبر برای رفع موهای زائد با ماندگاری طولانی، اصلاح بانوان، ضد آب - شامل اصلاح‌کننده بیکینی (اصلاح‌کننده موهای ناحیه تناسلی)، ۷-۲۱۰، سفید/صورتی + ۸ مورد اضافی + اصلاح‌کننده بیکینی",
+    "brand": "",
+    "model": "اپیلاتور براون سیلک-اپیل ۷ مخصوص خانم‌ها، موبر برای رفع موهای زائد با ماندگاری طولانی، اصلاح بانوان، ضد آب - شامل اصلاح‌کننده بیکینی (اصلاح‌کننده موهای ناحیه تناسلی)، ۷-۲۱۰، سفید/صورتی + ۸ مورد اضافی + اصلاح‌کننده بیکینی",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B3%DB%8C%D9%84%DA%A9-%D8%A7%D9%BE%DB%8C%D9%84-%DB%B7-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%AE%D8%A7%D9%86%D9%85-%D9%87%D8%A7-%D9%85%D9%88%D8%A8%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%D8%A7-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1%DB%8C-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D8%B6%D8%AF-%D8%A2%D8%A8-%D8%B4%D8%A7%D9%85%D9%84-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%A8%DB%8C%DA%A9%DB%8C%D9%86%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D9%86%D8%A7%D8%AD%DB%8C%D9%87-%D8%AA%D9%86%D8%A7%D8%B3%D9%84%DB%8C-%DB%B7-%DB%B2%DB%B1%DB%B0-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B5%D9%88%D8%B1%D8%AA%DB%8C-%DB%B8-%D9%85%D9%88%D8%B1%D8%AF-%D8%A7%D8%B6%D8%A7%D9%81%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%A8%DB%8C%DA%A9%DB%8C%D9%86%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.091Z"
+  },
+  {
+    "id": "torobshop-mobile-a5fddfc8c0c99048",
+    "productId": "torobshop-a5fddfc8c0c99048",
+    "name": "ست همه کاره Braun Silk-épil 9 SkinSpa: اپیلاتور، تیغ، ماشین اصلاح، اصلاح کننده موی بانوان، اصلاح کننده موی صورت Facespa، ساخت آلمان، 9-381، سفید/نقره‌ای",
+    "brand": "",
+    "model": "ست همه کاره Braun Silk-épil 9 SkinSpa: اپیلاتور، تیغ، ماشین اصلاح، اصلاح کننده موی بانوان، اصلاح کننده موی صورت Facespa، ساخت آلمان، 9-381، سفید/نقره‌ای",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%AA-%D9%87%D9%85%D9%87-%DA%A9%D8%A7%D8%B1%D9%87-Braun-Silk-pil-9-SkinSpa-%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%AA%DB%8C%D8%BA-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D9%85%D9%88%DB%8C-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D9%85%D9%88%DB%8C-%D8%B5%D9%88%D8%B1%D8%AA-Facespa-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-9-381-%D8%B3%D9%81%DB%8C%D8%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.091Z"
+  },
+  {
+    "id": "torobshop-mobile-2798976de6f0cc81",
+    "productId": "torobshop-2798976de6f0cc81",
+    "name": "دستگاه‌های IPL براون، رفع موهای زائد، Silk·expert Pro 3 - رفع دائمی و بدون درد موهای زائد در منزل - شامل کیف نگهداری، تیغ ژیلت ونوس و 3 وسیله جانبی - PL3222، سفید/نقره‌ای",
+    "brand": "",
+    "model": "دستگاه‌های IPL براون، رفع موهای زائد، Silk·expert Pro 3 - رفع دائمی و بدون درد موهای زائد در منزل - شامل کیف نگهداری، تیغ ژیلت ونوس و 3 وسیله جانبی - PL3222، سفید/نقره‌ای",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-IPL-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Silk-expert-Pro-3-%D8%B1%D9%81%D8%B9-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%88-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%B1%D8%AF-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AF%D8%B1-%D9%85%D9%86%D8%B2%D9%84-%D8%B4%D8%A7%D9%85%D9%84-%DA%A9%DB%8C%D9%81-%D9%86%DA%AF%D9%87%D8%AF%D8%A7%D8%B1%DB%8C-%D8%AA%DB%8C%D8%BA-%DA%98%DB%8C%D9%84%D8%AA-%D9%88%D9%86%D9%88%D8%B3-%D9%88-3-%D9%88%D8%B3%DB%8C%D9%84%D9%87-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-PL3222-%D8%B3%D9%81%DB%8C%D8%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.091Z"
+  },
+  {
+    "id": "torobshop-mobile-d8e34bb113f4f352",
+    "productId": "torobshop-d8e34bb113f4f352",
+    "name": "دستگاه لیزر بدن بانوان براون آلمان رفع موهای زائد، Silk·expert Pro 5، PL5140، سفید/طلایی - لیزر جایگزین رفع موهای زائد خانگی، رفع دائمی موهای زائد، شامل قاب و 2 قطعه جانبی",
+    "brand": "",
+    "model": "دستگاه لیزر بدن بانوان براون آلمان رفع موهای زائد، Silk·expert Pro 5، PL5140، سفید/طلایی - لیزر جایگزین رفع موهای زائد خانگی، رفع دائمی موهای زائد، شامل قاب و 2 قطعه جانبی",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-IPL-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Silk-expert-Pro-5-PL5140-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C-%D9%84%DB%8C%D8%B2%D8%B1-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C-%D8%B1%D9%81%D8%B9-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%B4%D8%A7%D9%85%D9%84-%D9%82%D8%A7%D8%A8-%D9%88-2-%D9%82%D8%B7%D8%B9%D9%87-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.091Z"
+  },
+  {
+    "id": "torobshop-mobile-707702931ea634d8",
+    "productId": "torobshop-707702931ea634d8",
+    "name": "اپیلاتور براون سیلک-اپیل ۵ مخصوص خانم‌ها، موبر برای رفع موهای زائد با ماندگاری طولانی، اصلاح بانوان، ضد آب - شامل سری اصلاح و لایه بردار، ساخت آلمان - ۵-۰۶۰، سفید/صورتی فلامینگو + ۳ سری اضافی + سری لایه بردار",
+    "brand": "",
+    "model": "اپیلاتور براون سیلک-اپیل ۵ مخصوص خانم‌ها، موبر برای رفع موهای زائد با ماندگاری طولانی، اصلاح بانوان، ضد آب - شامل سری اصلاح و لایه بردار، ساخت آلمان - ۵-۰۶۰، سفید/صورتی فلامینگو + ۳ سری اضافی + سری لایه بردار",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B3%DB%8C%D9%84%DA%A9-%D8%A7%D9%BE%DB%8C%D9%84-%DB%B5-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%AE%D8%A7%D9%86%D9%85-%D9%87%D8%A7-%D9%85%D9%88%D8%A8%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%D8%A7-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1%DB%8C-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D8%B6%D8%AF-%D8%A2%D8%A8-%D8%B4%D8%A7%D9%85%D9%84-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D9%84%D8%A7%DB%8C%D9%87-%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%DB%B5-%DB%B0%DB%B6%DB%B0-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B5%D9%88%D8%B1%D8%AA%DB%8C-%D9%81%D9%84%D8%A7%D9%85%DB%8C%D9%86%DA%AF%D9%88-%DB%B3-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B6%D8%A7%D9%81%DB%8C-%D8%B3%D8%B1%DB%8C-%D9%84%D8%A7%DB%8C%D9%87-%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.091Z"
+  },
+  {
+    "id": "torobshop-mobile-d5b957f7df4ff03f",
+    "productId": "torobshop-d5b957f7df4ff03f",
+    "name": "دستگاه لیزر بدن بانوان براون آلمان رفع موهای زائد، Silk·expert Pro 3، PL3136، سفید/نقره‌ای، لیزر جایگزین برای رفع موهای زائد خانگی، رفع دائمی موهای زائد، شامل کیف، مینی ریش‌تراش، تیغ ونوس، 2 وسیله جانبی",
+    "brand": "",
+    "model": "دستگاه لیزر بدن بانوان براون آلمان رفع موهای زائد، Silk·expert Pro 3، PL3136، سفید/نقره‌ای، لیزر جایگزین برای رفع موهای زائد خانگی، رفع دائمی موهای زائد، شامل کیف، مینی ریش‌تراش، تیغ ونوس، 2 وسیله جانبی",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-IPL-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Silk-expert-Pro-3-PL3136-%D8%B3%D9%81%DB%8C%D8%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C-%D9%84%DB%8C%D8%B2%D8%B1-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C-%D8%B1%D9%81%D8%B9-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%B4%D8%A7%D9%85%D9%84-%DA%A9%DB%8C%D9%81-%D9%85%DB%8C%D9%86%DB%8C-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D8%AA%DB%8C%D8%BA-%D9%88%D9%86%D9%88%D8%B3-2-%D9%88%D8%B3%DB%8C%D9%84%D9%87-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.091Z"
+  },
+  {
+    "id": "torobshop-mobile-2a3268e48e6a43b8",
+    "productId": "torobshop-2a3268e48e6a43b8",
+    "name": "دستگاه‌های IPL براون، موهای زائد، Silk·expert Mini، PL1104، سفید، لیزر جایگزین موهای زائد خانگی، رفع دائمی موهای زائد، شامل تیغ ونوس",
+    "brand": "",
+    "model": "دستگاه‌های IPL براون، موهای زائد، Silk·expert Mini، PL1104، سفید، لیزر جایگزین موهای زائد خانگی، رفع دائمی موهای زائد، شامل تیغ ونوس",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-IPL-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Silk-expert-Mini-PL1104-%D8%B3%D9%81%DB%8C%D8%AF-%D9%84%DB%8C%D8%B2%D8%B1-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C-%D8%B1%D9%81%D8%B9-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%B4%D8%A7%D9%85%D9%84-%D8%AA%DB%8C%D8%BA-%D9%88%D9%86%D9%88%D8%B3",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.091Z"
+  },
+  {
+    "id": "torobshop-mobile-68a4dab928f7c962",
+    "productId": "torobshop-68a4dab928f7c962",
+    "name": "اپیلاتور براون سیلک-اپیل ۷، اپیلاتور زنانه، موبر برای رفع موهای زائد با ماندگاری طولانی، اصلاح کننده بدن کوچک، اصلاح کننده بانوان، سری اصلاح و سری اصلاح، ۷-۴۴۱، سفید و نقره‌ای + ۶ لوازم جانبی + اصلاح کننده بدن",
+    "brand": "",
+    "model": "اپیلاتور براون سیلک-اپیل ۷، اپیلاتور زنانه، موبر برای رفع موهای زائد با ماندگاری طولانی، اصلاح کننده بدن کوچک، اصلاح کننده بانوان، سری اصلاح و سری اصلاح، ۷-۴۴۱، سفید و نقره‌ای + ۶ لوازم جانبی + اصلاح کننده بدن",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B3%DB%8C%D9%84%DA%A9-%D8%A7%D9%BE%DB%8C%D9%84-%DB%B7-%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D9%85%D9%88%D8%A8%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%D8%A7-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1%DB%8C-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%A8%D8%AF%D9%86-%DA%A9%D9%88%DA%86%DA%A9-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DB%B7-%DB%B4%DB%B4%DB%B1-%D8%B3%D9%81%DB%8C%D8%AF-%D9%88-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C-%DB%B6-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%A8%D8%AF%D9%86",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.091Z"
+  },
+  {
+    "id": "torobshop-mobile-28255666c26f658a",
+    "productId": "torobshop-28255666c26f658a",
+    "name": "دستگاه‌های IPL براون، رفع موهای زائد، Silk·expert Pro 5، PL5145، سفید/نقره‌ای، لیزر جایگزین برای رفع موهای زائد خانگی، رفع دائمی موهای زائد، شامل جعبه، تیغ ژیلت و 2 قطعه جانبی",
+    "brand": "",
+    "model": "دستگاه‌های IPL براون، رفع موهای زائد، Silk·expert Pro 5، PL5145، سفید/نقره‌ای، لیزر جایگزین برای رفع موهای زائد خانگی، رفع دائمی موهای زائد، شامل جعبه، تیغ ژیلت و 2 قطعه جانبی",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-IPL-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Silk-expert-Pro-5-PL5145-%D8%B3%D9%81%DB%8C%D8%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C-%D9%84%DB%8C%D8%B2%D8%B1-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C-%D8%B1%D9%81%D8%B9-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%B4%D8%A7%D9%85%D9%84-%D8%AC%D8%B9%D8%A8%D9%87-%D8%AA%DB%8C%D8%BA-%DA%98%DB%8C%D9%84%D8%AA-%D9%88-2-%D9%82%D8%B7%D8%B9%D9%87-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.091Z"
+  },
+  {
+    "id": "torobshop-mobile-9a0fccac9db69875",
+    "productId": "torobshop-9a0fccac9db69875",
+    "name": "دستگاه رفع موهای زائد Philips Lumea Advanced IPL BRI923 - رفع موهای زائد بدون درد و با پایه نور برای پوستی صاف و دائمی - شامل 3 سری مخصوص برای بدن، صورت و ناحیه بیکینی",
+    "brand": "",
+    "model": "دستگاه رفع موهای زائد Philips Lumea Advanced IPL BRI923 - رفع موهای زائد بدون درد و با پایه نور برای پوستی صاف و دائمی - شامل 3 سری مخصوص برای بدن، صورت و ناحیه بیکینی",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Philips-Lumea-Advanced-IPL-BRI923-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%B1%D8%AF-%D9%88-%D8%A8%D8%A7-%D9%BE%D8%A7%DB%8C%D9%87-%D9%86%D9%88%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D9%88%D8%B3%D8%AA%DB%8C-%D8%B5%D8%A7%D9%81-%D9%88-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D8%B4%D8%A7%D9%85%D9%84-3-%D8%B3%D8%B1%DB%8C-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A8%D8%AF%D9%86-%D8%B5%D9%88%D8%B1%D8%AA-%D9%88-%D9%86%D8%A7%D8%AD%DB%8C%D9%87-%D8%A8%DB%8C%DA%A9%DB%8C%D9%86%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.091Z"
+  },
+  {
+    "id": "torobshop-mobile-93e51ab5d27d6671",
+    "productId": "torobshop-93e51ab5d27d6671",
+    "name": "دستگاه رفع موهای زائد Philips Lumea IPL سری 9000، رفع موهای زائد بی‌سیم مبتنی بر نور برای پوستی صاف و ماندگار، شامل 3 سری برای بدن، صورت، Precision، رنگ رز، BRI955",
+    "brand": "",
+    "model": "دستگاه رفع موهای زائد Philips Lumea IPL سری 9000، رفع موهای زائد بی‌سیم مبتنی بر نور برای پوستی صاف و ماندگار، شامل 3 سری برای بدن، صورت، Precision، رنگ رز، BRI955",
+    "category": "mobile",
+    "subcategory": "لوازم جانبی موبایل",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Philips-Lumea-IPL-%D8%B3%D8%B1%DB%8C-9000-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%DB%8C-%D8%B3%DB%8C%D9%85-%D9%85%D8%A8%D8%AA%D9%86%DB%8C-%D8%A8%D8%B1-%D9%86%D9%88%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D9%88%D8%B3%D8%AA%DB%8C-%D8%B5%D8%A7%D9%81-%D9%88-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1-%D8%B4%D8%A7%D9%85%D9%84-3-%D8%B3%D8%B1%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A8%D8%AF%D9%86-%D8%B5%D9%88%D8%B1%D8%AA-Precision-%D8%B1%D9%86%DA%AF-%D8%B1%D8%B2-BRI955",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-01T12:30:43.091Z"
+  },
+  {
+    "id": "web-mobile-cdf893eea13aa859",
+    "productId": "web-mobile-cdf893eea13aa859",
+    "name": "گوشی موبايل شیائومی مدل Redmi Note 15 4G ظرفیت 256 گیگابایت رم 8 گیگابایت",
+    "brand": "شیائومی",
+    "model": "گوشی موبايل شیائومی مدل Redmi Note 15 4G ظرفیت 256 گیگابایت رم 8 گیگابایت",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-314976/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%D9%8A%D9%84-%D8%B4%DB%8C%D8%A7%D8%A6%D9%88%D9%85%DB%8C-%D9%85%D8%AF%D9%84-redmi-note-15-4g-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-256-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-8-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
+    "image": "",
+    "sourceId": "technolife-mobile",
+    "sourceUrl": "https://www.technolife.com/category/mobile",
+    "source": "web-catalog:technolife-mobile",
+    "observedAt": "2026-09-01T12:22:04.733Z"
+  },
+  {
+    "id": "web-mobile-7e1144b5d3f571c7",
+    "productId": "web-mobile-7e1144b5d3f571c7",
+    "name": "گوشی موبايل سامسونگ مدل Galaxy A07 4G ظرفیت 64 گیگابایت رم 4 گیگابایت",
+    "brand": "سامسونگ",
+    "model": "گوشی موبايل سامسونگ مدل Galaxy A07 4G ظرفیت 64 گیگابایت رم 4 گیگابایت",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-149347/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF-%D9%85%D8%AF%D9%84-galaxy-a07-4g-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-64-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-4-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
+    "image": "",
+    "sourceId": "technolife-mobile",
+    "sourceUrl": "https://www.technolife.com/category/mobile",
+    "source": "web-catalog:technolife-mobile",
+    "observedAt": "2026-09-01T12:22:04.733Z"
+  },
+  {
+    "id": "web-mobile-5cbc6a775b0d3181",
+    "productId": "web-mobile-5cbc6a775b0d3181",
+    "name": "گوشی موبایل نوکیا مدل (2024) 105 دو سیم کارت مونتاژ ایران",
+    "brand": "دل",
+    "model": "گوشی موبایل نوکیا مدل (2024) 105 دو سیم کارت مونتاژ ایران",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-435247/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84-%D9%86%D9%88%DA%A9%DB%8C%D8%A7-%D9%85%D8%AF%D9%84-(2024)-105-%D8%AF%D9%88-%D8%B3%DB%8C%D9%85-%DA%A9%D8%A7%D8%B1%D8%AA-%D9%85%D9%88%D9%86%D8%AA%D8%A7%DA%98-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+    "image": "",
+    "sourceId": "technolife-mobile",
+    "sourceUrl": "https://www.technolife.com/category/mobile",
+    "source": "web-catalog:technolife-mobile",
+    "observedAt": "2026-09-01T12:22:04.733Z"
+  },
+  {
+    "id": "web-mobile-d829bc3137878b9a",
+    "productId": "web-mobile-d829bc3137878b9a",
+    "name": "گوشی موبایل سامسونگ مدل Galaxy A17 4G ظرفیت 128 گیگابایت رم 6 گیگابایت - ویتنام",
+    "brand": "سامسونگ",
+    "model": "گوشی موبایل سامسونگ مدل Galaxy A17 4G ظرفیت 128 گیگابایت رم 6 گیگابایت - ویتنام",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-167567/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF-%D9%85%D8%AF%D9%84-galaxy-a17-4g-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-128-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-6-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA---%D9%88%DB%8C%D8%AA%D9%86%D8%A7%D9%85",
+    "image": "",
+    "sourceId": "technolife-mobile",
+    "sourceUrl": "https://www.technolife.com/category/mobile",
+    "source": "web-catalog:technolife-mobile",
+    "observedAt": "2026-09-01T12:22:04.733Z"
+  },
+  {
+    "id": "web-mobile-f8d7c8083e637920",
+    "productId": "web-mobile-f8d7c8083e637920",
+    "name": "گوشی موبایل شیائومی مدل Poco C71 ظرفیت 128 گیگابایت رم 4 گیگابایت",
+    "brand": "شیائومی",
+    "model": "گوشی موبایل شیائومی مدل Poco C71 ظرفیت 128 گیگابایت رم 4 گیگابایت",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-116578/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84-%D8%B4%DB%8C%D8%A7%D8%A6%D9%88%D9%85%DB%8C-%D9%85%D8%AF%D9%84-poco-c71-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-128-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-4-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
+    "image": "",
+    "sourceId": "technolife-mobile",
+    "sourceUrl": "https://www.technolife.com/category/mobile",
+    "source": "web-catalog:technolife-mobile",
+    "observedAt": "2026-09-01T12:22:04.733Z"
+  },
+  {
+    "id": "web-mobile-d55bc670163620e0",
+    "productId": "web-mobile-d55bc670163620e0",
+    "name": "گوشی موبايل سامسونگ مدل Galaxy S25 FE ظرفیت 256 گیگابایت رم 8 گیگابایت - ویتنام",
+    "brand": "سامسونگ",
+    "model": "گوشی موبايل سامسونگ مدل Galaxy S25 FE ظرفیت 256 گیگابایت رم 8 گیگابایت - ویتنام",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-165916/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF-%D9%85%D8%AF%D9%84-galaxy-s25-fe-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-256-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-8-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA---%D9%88%DB%8C%D8%AA%D9%86%D8%A7%D9%85",
+    "image": "",
+    "sourceId": "technolife-mobile",
+    "sourceUrl": "https://www.technolife.com/category/mobile",
+    "source": "web-catalog:technolife-mobile",
+    "observedAt": "2026-09-01T12:22:04.733Z"
+  },
+  {
+    "id": "web-mobile-e9a326c3c7d6fe53",
+    "productId": "web-mobile-e9a326c3c7d6fe53",
+    "name": "گوشی موبايل سامسونگ مدل Galaxy A07 4G ظرفیت 128 گیگابایت رم 4 گیگابایت",
+    "brand": "سامسونگ",
+    "model": "گوشی موبايل سامسونگ مدل Galaxy A07 4G ظرفیت 128 گیگابایت رم 4 گیگابایت",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-149351/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF-%D9%85%D8%AF%D9%84-galaxy-a07-4g-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-128-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-4-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
+    "image": "",
+    "sourceId": "technolife-mobile",
+    "sourceUrl": "https://www.technolife.com/category/mobile",
+    "source": "web-catalog:technolife-mobile",
+    "observedAt": "2026-09-01T12:22:04.734Z"
+  },
+  {
+    "id": "web-mobile-d978e5a3debb468a",
+    "productId": "web-mobile-d978e5a3debb468a",
+    "name": "گوشی موبايل سامسونگ Galaxy A57 5G ظرفیت 256 گیگابایت رم 8 گیگابایت - ویتنام",
+    "brand": "سامسونگ",
+    "model": "گوشی موبايل سامسونگ Galaxy A57 5G ظرفیت 256 گیگابایت رم 8 گیگابایت - ویتنام",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-400671/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF-galaxy-a57-5g-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-256-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-8-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA---%D9%88%DB%8C%D8%AA%D9%86%D8%A7%D9%85",
+    "image": "",
+    "sourceId": "technolife-mobile",
+    "sourceUrl": "https://www.technolife.com/category/mobile",
+    "source": "web-catalog:technolife-mobile",
+    "observedAt": "2026-09-01T12:22:04.734Z"
+  },
+  {
+    "id": "web-mobile-7973ba8559b15b73",
+    "productId": "web-mobile-7973ba8559b15b73",
+    "name": "گوشی موبايل سامسونگ مدل Galaxy A07 4G ظرفیت 128 گیگابایت رم 6 گیگابایت همراه با شارژر داخل جعبه",
+    "brand": "سامسونگ",
+    "model": "گوشی موبايل سامسونگ مدل Galaxy A07 4G ظرفیت 128 گیگابایت رم 6 گیگابایت همراه با شارژر داخل جعبه",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-279434/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF-%D9%85%D8%AF%D9%84-galaxy-a07-4g-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-128-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-6-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D9%87%D9%85%D8%B1%D8%A7%D9%87-%D8%A8%D8%A7-%D8%B4%D8%A7%D8%B1%DA%98%D8%B1-%D8%AF%D8%A7%D8%AE%D9%84-%D8%AC%D8%B9%D8%A8%D9%87",
+    "image": "",
+    "sourceId": "technolife-mobile",
+    "sourceUrl": "https://www.technolife.com/category/mobile",
+    "source": "web-catalog:technolife-mobile",
+    "observedAt": "2026-09-01T12:22:04.734Z"
+  },
+  {
+    "id": "web-mobile-cba530f01ba3a0a4",
+    "productId": "web-mobile-cba530f01ba3a0a4",
+    "name": "گوشی موبایل پوکو مدل C85 4G دو سیم کارت ظرفیت 256 گیگابایت رم 8 گیگابایت",
+    "brand": "دل",
+    "model": "گوشی موبایل پوکو مدل C85 4G دو سیم کارت ظرفیت 256 گیگابایت رم 8 گیگابایت",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-166041/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84-%D9%BE%D9%88%DA%A9%D9%88-%D9%85%D8%AF%D9%84-c85-4g-%D8%AF%D9%88-%D8%B3%DB%8C%D9%85-%DA%A9%D8%A7%D8%B1%D8%AA-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-256-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-8-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
+    "image": "",
+    "sourceId": "technolife-mobile",
+    "sourceUrl": "https://www.technolife.com/category/mobile",
+    "source": "web-catalog:technolife-mobile",
+    "observedAt": "2026-09-01T12:22:04.735Z"
+  },
+  {
+    "id": "web-mobile-edca128508bd5d03",
+    "productId": "web-mobile-edca128508bd5d03",
+    "name": "شارژر دیواری اپل 20 وات مدل 3 پین B/A - اورجینال",
+    "brand": "اپل",
+    "model": "شارژر دیواری اپل 20 وات مدل 3 پین B/A - اورجینال",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-115770/%D8%B4%D8%A7%D8%B1%DA%98%D8%B1-%D8%AF%DB%8C%D9%88%D8%A7%D8%B1%DB%8C-%D8%A7%D9%BE%D9%84-20-%D9%88%D8%A7%D8%AA-%D9%85%D8%AF%D9%84-3-%D9%BE%DB%8C%D9%86-b-a---%D8%A7%D9%88%D8%B1%D8%AC%DB%8C%D9%86%D8%A7%D9%84",
+    "image": "",
+    "sourceId": "technolife-mobile",
+    "sourceUrl": "https://www.technolife.com/category/mobile",
+    "source": "web-catalog:technolife-mobile",
+    "observedAt": "2026-09-01T12:22:04.735Z"
+  },
+  {
+    "id": "web-mobile-17ea427c9c05e59c",
+    "productId": "web-mobile-17ea427c9c05e59c",
+    "name": "گوشی موبايل شیائومی مدل Redmi Note 15 Pro 4G ظرفیت 256 گیگابایت رم 8 گیگابایت",
+    "brand": "شیائومی",
+    "model": "گوشی موبايل شیائومی مدل Redmi Note 15 Pro 4G ظرفیت 256 گیگابایت رم 8 گیگابایت",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-301544/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%D9%8A%D9%84-%D8%B4%DB%8C%D8%A7%D8%A6%D9%88%D9%85%DB%8C-%D9%85%D8%AF%D9%84-redmi-note-15-pro-4g-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-256-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-8-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
+    "image": "",
+    "sourceId": "technolife-mobile",
+    "sourceUrl": "https://www.technolife.com/category/mobile",
+    "source": "web-catalog:technolife-mobile",
+    "observedAt": "2026-09-01T12:22:04.735Z"
+  },
+  {
+    "id": "web-mobile-395da285e176aaa3",
+    "productId": "web-mobile-395da285e176aaa3",
+    "name": "گوشی موبایل آنر مدل Play10 دو سيم‌ کارت ظرفیت 64 گیگابایت رم 3 گیگابایت",
+    "brand": "دل",
+    "model": "گوشی موبایل آنر مدل Play10 دو سيم‌ کارت ظرفیت 64 گیگابایت رم 3 گیگابایت",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-168682/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84-%D8%A2%D9%86%D8%B1-%D9%85%D8%AF%D9%84-play10-%D8%AF%D9%88-%D8%B3%D9%8A%D9%85%E2%80%8C-%DA%A9%D8%A7%D8%B1%D8%AA-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-64-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-3-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
+    "image": "",
+    "sourceId": "technolife-mobile",
+    "sourceUrl": "https://www.technolife.com/category/mobile",
+    "source": "web-catalog:technolife-mobile",
+    "observedAt": "2026-09-01T12:22:04.735Z"
+  },
+  {
+    "id": "web-mobile-68a9da007e1633c8",
+    "productId": "web-mobile-68a9da007e1633c8",
+    "name": "گوشی موبایل شیائومی Redmi 15C 4G دو سیم کارت ظرفیت 256 گیگابایت رم 8 گیگابایت",
+    "brand": "شیائومی",
+    "model": "گوشی موبایل شیائومی Redmi 15C 4G دو سیم کارت ظرفیت 256 گیگابایت رم 8 گیگابایت",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-166010/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84-%D8%B4%DB%8C%D8%A7%D8%A6%D9%88%D9%85%DB%8C-redmi-15c-4g-%D8%AF%D9%88-%D8%B3%DB%8C%D9%85-%DA%A9%D8%A7%D8%B1%D8%AA-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-256-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-8-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
+    "image": "",
+    "sourceId": "technolife-mobile",
+    "sourceUrl": "https://www.technolife.com/category/mobile",
+    "source": "web-catalog:technolife-mobile",
+    "observedAt": "2026-09-01T12:22:04.735Z"
+  },
+  {
+    "id": "web-mobile-075acb00fe05e53c",
+    "productId": "web-mobile-075acb00fe05e53c",
+    "name": "شارژر دیواری 45 وات انکر مدل Nano Charger A121D",
+    "brand": "دل",
+    "model": "شارژر دیواری 45 وات انکر مدل Nano Charger A121D",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-379528/%D8%B4%D8%A7%D8%B1%DA%98%D8%B1-%D8%AF%DB%8C%D9%88%D8%A7%D8%B1%DB%8C-45-%D9%88%D8%A7%D8%AA-%D8%A7%D9%86%DA%A9%D8%B1-%D9%85%D8%AF%D9%84-nano-charger-a121d",
+    "image": "",
+    "sourceId": "technolife-mobile",
+    "sourceUrl": "https://www.technolife.com/category/mobile",
+    "source": "web-catalog:technolife-mobile",
+    "observedAt": "2026-09-01T12:22:04.735Z"
+  },
+  {
+    "id": "web-mobile-f1de1aad54d5129d",
+    "productId": "web-mobile-f1de1aad54d5129d",
+    "name": "گوشی موبايل سامسونگ Galaxy A26 5G ظرفیت 256 گیگابایت رم 8 گیگابایت - ویتنام",
+    "brand": "سامسونگ",
+    "model": "گوشی موبايل سامسونگ Galaxy A26 5G ظرفیت 256 گیگابایت رم 8 گیگابایت - ویتنام",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-99217/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF-galaxy-a26-5g-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-256-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-8-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA---%D9%88%DB%8C%D8%AA%D9%86%D8%A7%D9%85",
+    "image": "",
+    "sourceId": "technolife-mobile",
+    "sourceUrl": "https://www.technolife.com/category/mobile",
+    "source": "web-catalog:technolife-mobile",
+    "observedAt": "2026-09-01T12:22:04.735Z"
+  },
+  {
+    "id": "web-mobile-3fa35e3433f82c28",
+    "productId": "web-mobile-3fa35e3433f82c28",
+    "name": "گوشی موبايل سامسونگ Galaxy A56 5G ظرفیت 256 گیگابایت رم 8 گیگابایت - ویتنام",
+    "brand": "سامسونگ",
+    "model": "گوشی موبايل سامسونگ Galaxy A56 5G ظرفیت 256 گیگابایت رم 8 گیگابایت - ویتنام",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-99485/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF-galaxy-a56-5g-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-256-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-8-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA---%D9%88%DB%8C%D8%AA%D9%86%D8%A7%D9%85",
+    "image": "",
+    "sourceId": "technolife-mobile",
+    "sourceUrl": "https://www.technolife.com/category/mobile",
+    "source": "web-catalog:technolife-mobile",
+    "observedAt": "2026-09-01T12:22:04.735Z"
+  },
+  {
+    "id": "web-mobile-9157b39ec8ea1282",
+    "productId": "web-mobile-9157b39ec8ea1282",
+    "name": "گوشی موبايل شیائومی مدل Redmi Note 14 4G ظرفیت 256 گیگابایت رم 8 گیگابایت",
+    "brand": "شیائومی",
+    "model": "گوشی موبايل شیائومی مدل Redmi Note 14 4G ظرفیت 256 گیگابایت رم 8 گیگابایت",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-76419/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%D9%8A%D9%84-%D8%B4%DB%8C%D8%A7%D8%A6%D9%88%D9%85%DB%8C-%D9%85%D8%AF%D9%84-redmi-note-14-4g-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-256-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-8-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
+    "image": "",
+    "sourceId": "technolife-mobile",
+    "sourceUrl": "https://www.technolife.com/category/mobile",
+    "source": "web-catalog:technolife-mobile",
+    "observedAt": "2026-09-01T12:22:04.735Z"
+  },
+  {
+    "id": "web-mobile-16878911b2ae7579",
+    "productId": "web-mobile-16878911b2ae7579",
+    "name": "گوشی موبایل اپل مد‌ل iPhone 17 CH/A ظرفیت 256 گیگابایت رم 8 گیگابایت - Not Active رجیستر شده",
+    "brand": "اپل",
+    "model": "گوشی موبایل اپل مد‌ل iPhone 17 CH/A ظرفیت 256 گیگابایت رم 8 گیگابایت - Not Active رجیستر شده",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-165487/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84-%D8%A7%D9%BE%D9%84-%D9%85%D8%AF%E2%80%8C%D9%84-iphone-17-ch-a-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-256-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-8-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA---not-active-%D8%B1%D8%AC%DB%8C%D8%B3%D8%AA%D8%B1-%D8%B4%D8%AF%D9%87",
+    "image": "",
+    "sourceId": "technolife-mobile",
+    "sourceUrl": "https://www.technolife.com/category/mobile",
+    "source": "web-catalog:technolife-mobile",
+    "observedAt": "2026-09-01T12:22:04.735Z"
+  },
+  {
+    "id": "web-mobile-3f647d18b55f732a",
+    "productId": "web-mobile-3f647d18b55f732a",
+    "name": "گوشی موبايل سامسونگ مدل Galaxy A07 4G ظرفیت 128 گیگابایت رم 6 گیگابایت",
+    "brand": "سامسونگ",
+    "model": "گوشی موبايل سامسونگ مدل Galaxy A07 4G ظرفیت 128 گیگابایت رم 6 گیگابایت",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-149352/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF-%D9%85%D8%AF%D9%84-galaxy-a07-4g-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-128-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-6-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
+    "image": "",
+    "sourceId": "technolife-mobile",
+    "sourceUrl": "https://www.technolife.com/category/mobile",
+    "source": "web-catalog:technolife-mobile",
+    "observedAt": "2026-09-01T12:22:04.735Z"
+  },
+  {
+    "id": "web-mobile-f4cd91c8a9ee95d7",
+    "productId": "web-mobile-f4cd91c8a9ee95d7",
+    "name": "شارژر دیواری سامسونگ 25 وات مدل EP-TA800 دو پین - Original",
+    "brand": "سامسونگ",
+    "model": "شارژر دیواری سامسونگ 25 وات مدل EP-TA800 دو پین - Original",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-166585/%D8%B4%D8%A7%D8%B1%DA%98%D8%B1-%D8%AF%DB%8C%D9%88%D8%A7%D8%B1%DB%8C-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF-25-%D9%88%D8%A7%D8%AA-%D9%85%D8%AF%D9%84-ep-ta800-%D8%AF%D9%88-%D9%BE%DB%8C%D9%86---original",
+    "image": "",
+    "sourceId": "technolife-mobile",
+    "sourceUrl": "https://www.technolife.com/category/mobile",
+    "source": "web-catalog:technolife-mobile",
+    "observedAt": "2026-09-01T12:22:04.735Z"
+  },
+  {
+    "id": "web-mobile-0b2dfa583dca18be",
+    "productId": "web-mobile-0b2dfa583dca18be",
+    "name": "گوشی موبايل نوکيا مدل 106 (2018) ظرفیت 4 مگابایت رم 4 مگابایت - مونتاژ ایران",
+    "brand": "دل",
+    "model": "گوشی موبايل نوکيا مدل 106 (2018) ظرفیت 4 مگابایت رم 4 مگابایت - مونتاژ ایران",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-24143/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%D9%8A%D9%84-%D9%86%D9%88%DA%A9%D9%8A%D8%A7-%D9%85%D8%AF%D9%84-106-(2018)-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-4-%D9%85%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-4-%D9%85%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA---%D9%85%D9%88%D9%86%D8%AA%D8%A7%DA%98-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+    "image": "",
+    "sourceId": "technolife-mobile",
+    "sourceUrl": "https://www.technolife.com/category/mobile",
+    "source": "web-catalog:technolife-mobile",
+    "observedAt": "2026-09-01T12:22:04.735Z"
+  },
+  {
+    "id": "web-mobile-e62e88dc93424657",
+    "productId": "web-mobile-e62e88dc93424657",
+    "name": "پاوربانک شیائومی مدل Redmi PB200LZM ظرفیت 20000 میلی آمپرساعت به همراه کابل تبدیل microUSB",
+    "brand": "شیائومی",
+    "model": "پاوربانک شیائومی مدل Redmi PB200LZM ظرفیت 20000 میلی آمپرساعت به همراه کابل تبدیل microUSB",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-2165/%D9%BE%D8%A7%D9%88%D8%B1%D8%A8%D8%A7%D9%86%DA%A9-%D8%B4%DB%8C%D8%A7%D8%A6%D9%88%D9%85%DB%8C-%D9%85%D8%AF%D9%84-redmi-pb200lzm-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-20000-%D9%85%DB%8C%D9%84%DB%8C-%D8%A2%D9%85%D9%BE%D8%B1%D8%B3%D8%A7%D8%B9%D8%AA-%D8%A8%D9%87-%D9%87%D9%85%D8%B1%D8%A7%D9%87-%DA%A9%D8%A7%D8%A8%D9%84-%D8%AA%D8%A8%D8%AF%DB%8C%D9%84-microusb",
+    "image": "",
+    "sourceId": "technolife-mobile",
+    "sourceUrl": "https://www.technolife.com/category/mobile",
+    "source": "web-catalog:technolife-mobile",
+    "observedAt": "2026-09-01T12:22:04.735Z"
+  },
+  {
+    "id": "web-mobile-2a5e6b6350e5ae6b",
+    "productId": "web-mobile-2a5e6b6350e5ae6b",
+    "name": "گوشی موبایل ژوبیتر مدل jPhone K10 دو سیم کارت ظرفیت 64 گیگابایت رم 3 گیگابایت + 3 گیگابایت رم مجازی",
+    "brand": "دل",
+    "model": "گوشی موبایل ژوبیتر مدل jPhone K10 دو سیم کارت ظرفیت 64 گیگابایت رم 3 گیگابایت + 3 گیگابایت رم مجازی",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-420649/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84-%DA%98%D9%88%D8%A8%DB%8C%D8%AA%D8%B1-%D9%85%D8%AF%D9%84-jphone-k10-%D8%AF%D9%88-%D8%B3%DB%8C%D9%85-%DA%A9%D8%A7%D8%B1%D8%AA-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-64-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-3-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-+-3-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-%D9%85%D8%AC%D8%A7%D8%B2%DB%8C",
+    "image": "",
+    "sourceId": "technolife-mobile",
+    "sourceUrl": "https://www.technolife.com/category/mobile",
+    "source": "web-catalog:technolife-mobile",
+    "observedAt": "2026-09-01T12:22:04.735Z"
+  },
+  {
+    "id": "web-mobile-53d28b75c3506e0b",
+    "productId": "web-mobile-53d28b75c3506e0b",
+    "name": "گوشی موبایل سامسونگ Galaxy A37 ظرفیت 256 گیگابایت رم 8 گیگابایت - ویتنام",
+    "brand": "سامسونگ",
+    "model": "گوشی موبایل سامسونگ Galaxy A37 ظرفیت 256 گیگابایت رم 8 گیگابایت - ویتنام",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-400669/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF-galaxy-a37-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-256-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-8-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA---%D9%88%DB%8C%D8%AA%D9%86%D8%A7%D9%85",
+    "image": "",
+    "sourceId": "technolife-mobile",
+    "sourceUrl": "https://www.technolife.com/category/mobile",
+    "source": "web-catalog:technolife-mobile",
+    "observedAt": "2026-09-01T12:22:04.735Z"
+  },
+  {
+    "id": "web-mobile-ce6e1027ba5d1d24",
+    "productId": "web-mobile-ce6e1027ba5d1d24",
+    "name": "گوشی موبایل شیائومی مدل Redmi Note 14S 4G ظرفیت 256 گیگابایت رم 8 گیگابایت",
+    "brand": "شیائومی",
+    "model": "گوشی موبایل شیائومی مدل Redmi Note 14S 4G ظرفیت 256 گیگابایت رم 8 گیگابایت",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-107882/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84-%D8%B4%DB%8C%D8%A7%D8%A6%D9%88%D9%85%DB%8C-%D9%85%D8%AF%D9%84-redmi-note-14s-4g-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-256-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-8-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
+    "image": "",
+    "sourceId": "technolife-mobile",
+    "sourceUrl": "https://www.technolife.com/category/mobile",
+    "source": "web-catalog:technolife-mobile",
+    "observedAt": "2026-09-01T12:22:04.735Z"
+  },
+  {
+    "id": "web-mobile-740550742a7083b0",
+    "productId": "web-mobile-740550742a7083b0",
+    "name": "گوشی موبايل سامسونگ Galaxy A26 5G ظرفیت 128 گیگابایت رم 6 گیگابایت - ویتنام",
+    "brand": "سامسونگ",
+    "model": "گوشی موبايل سامسونگ Galaxy A26 5G ظرفیت 128 گیگابایت رم 6 گیگابایت - ویتنام",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-99215/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF-galaxy-a26-5g-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-128-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-6-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA---%D9%88%DB%8C%D8%AA%D9%86%D8%A7%D9%85",
+    "image": "",
+    "sourceId": "technolife-mobile",
+    "sourceUrl": "https://www.technolife.com/category/mobile",
+    "source": "web-catalog:technolife-mobile",
+    "observedAt": "2026-09-01T12:22:04.735Z"
+  },
+  {
+    "id": "web-mobile-7a0bf05c95e91c56",
+    "productId": "web-mobile-7a0bf05c95e91c56",
+    "name": "گوشی موبایل آنر مدل X7d 4G ظرفیت 256 گیگابایت رم 8 گیگابایت",
+    "brand": "دل",
+    "model": "گوشی موبایل آنر مدل X7d 4G ظرفیت 256 گیگابایت رم 8 گیگابایت",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-179562/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84-%D8%A2%D9%86%D8%B1-%D9%85%D8%AF%D9%84-x7d-4g-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-256-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-8-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
+    "image": "",
+    "sourceId": "technolife-mobile",
+    "sourceUrl": "https://www.technolife.com/category/mobile",
+    "source": "web-catalog:technolife-mobile",
+    "observedAt": "2026-09-01T12:22:04.735Z"
+  },
+  {
+    "id": "web-mobile-af983247c0fd66d2",
+    "productId": "web-mobile-af983247c0fd66d2",
+    "name": "گوشی موبایل سامسونگ مدل Galaxy A17 4G ظرفیت 256 گیگابایت رم 8 گیگابایت - ویتنام",
+    "brand": "سامسونگ",
+    "model": "گوشی موبایل سامسونگ مدل Galaxy A17 4G ظرفیت 256 گیگابایت رم 8 گیگابایت - ویتنام",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-167563/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF-%D9%85%D8%AF%D9%84-galaxy-a17-4g-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-256-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-8-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA---%D9%88%DB%8C%D8%AA%D9%86%D8%A7%D9%85-",
+    "image": "",
+    "sourceId": "technolife-mobile",
+    "sourceUrl": "https://www.technolife.com/category/mobile",
+    "source": "web-catalog:technolife-mobile",
+    "observedAt": "2026-09-01T12:22:04.735Z"
+  },
+  {
+    "id": "web-mobile-32ba16c0c7c8f5a5",
+    "productId": "web-mobile-32ba16c0c7c8f5a5",
+    "name": "شارژر دیواری اپل 40 وات مدل Dynamic Power Adapter - اورجینال",
+    "brand": "اپل",
+    "model": "شارژر دیواری اپل 40 وات مدل Dynamic Power Adapter - اورجینال",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-301487/%D8%B4%D8%A7%D8%B1%DA%98%D8%B1-%D8%AF%DB%8C%D9%88%D8%A7%D8%B1%DB%8C-%D8%A7%D9%BE%D9%84-40-%D9%88%D8%A7%D8%AA-%D9%85%D8%AF%D9%84-dynamic-power-adapter---%D8%A7%D9%88%D8%B1%D8%AC%DB%8C%D9%86%D8%A7%D9%84",
+    "image": "",
+    "sourceId": "technolife-mobile",
+    "sourceUrl": "https://www.technolife.com/category/mobile",
+    "source": "web-catalog:technolife-mobile",
+    "observedAt": "2026-09-01T12:22:04.735Z"
+  },
+  {
+    "id": "web-mobile-89a0c25e07e3ad3c",
+    "productId": "web-mobile-89a0c25e07e3ad3c",
+    "name": "Samsung Galaxy A36",
+    "brand": "سامسونگ",
+    "model": "Samsung Galaxy A36",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40711-samsung-galaxy-a36.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T12:22:52.948Z"
+  },
+  {
+    "id": "web-mobile-baaa8119b28aa041",
+    "productId": "web-mobile-baaa8119b28aa041",
+    "name": "Samsung Galaxy A56",
+    "brand": "سامسونگ",
+    "model": "Samsung Galaxy A56",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40710-samsung-galaxy-a56.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T12:22:52.948Z"
+  },
+  {
+    "id": "web-mobile-eeae69fba7ca59f5",
+    "productId": "web-mobile-eeae69fba7ca59f5",
+    "name": "Samsung Galaxy S26 Ultra",
+    "brand": "سامسونگ",
+    "model": "Samsung Galaxy S26 Ultra",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-41113-samsung-galaxy-s26-ultra.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T12:22:52.948Z"
+  },
+  {
+    "id": "web-mobile-b56b93b186c4a653",
+    "productId": "web-mobile-b56b93b186c4a653",
+    "name": "Xiaomi Redmi Note 15 Pro",
+    "brand": "شیائومی",
+    "model": "Xiaomi Redmi Note 15 Pro",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-41046-xiaomi-redmi-note-15-pro.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T12:22:52.949Z"
+  },
+  {
+    "id": "web-mobile-ba354c1fbf83f865",
+    "productId": "web-mobile-ba354c1fbf83f865",
+    "name": "Xiaomi Redmi Note 15",
+    "brand": "شیائومی",
+    "model": "Xiaomi Redmi Note 15",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-41047-xiaomi-redmi-note-15.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T12:22:52.949Z"
+  },
+  {
+    "id": "web-mobile-1922ffc0ad9c175d",
+    "productId": "web-mobile-1922ffc0ad9c175d",
+    "name": "Xiaomi 17 Pro Max",
+    "brand": "شیائومی",
+    "model": "Xiaomi 17 Pro Max",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40962-xiaomi-17-pro-max.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T12:22:52.950Z"
+  },
+  {
+    "id": "web-mobile-02e3c9834275c5a3",
+    "productId": "web-mobile-02e3c9834275c5a3",
+    "name": "Xiaomi Poco X8 Pro Max",
+    "brand": "شیائومی",
+    "model": "Xiaomi Poco X8 Pro Max",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-41130-xiaomi-poco-x8-pro-max.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T12:22:52.950Z"
+  },
+  {
+    "id": "web-mobile-11c79ea44f98c5ee",
+    "productId": "web-mobile-11c79ea44f98c5ee",
+    "name": "Xiaomi Redmi Note 14 Pro+",
+    "brand": "شیائومی",
+    "model": "Xiaomi Redmi Note 14 Pro+",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40574-xiaomi-redmi-note-14-pro.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T12:22:52.950Z"
+  },
+  {
+    "id": "web-mobile-49ac5921d76f0e5b",
+    "productId": "web-mobile-49ac5921d76f0e5b",
+    "name": "Apple iPhone 16",
+    "brand": "اپل",
+    "model": "Apple iPhone 16",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40553-apple-iphone-16.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T12:22:52.950Z"
+  },
+  {
+    "id": "web-mobile-24a4910cd35fbd9f",
+    "productId": "web-mobile-24a4910cd35fbd9f",
+    "name": "Samsung Galaxy S25 Ultra",
+    "brand": "سامسونگ",
+    "model": "Samsung Galaxy S25 Ultra",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40683-samsung-galaxy-s25-ultra.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T12:22:52.951Z"
+  },
+  {
+    "id": "web-mobile-0c45dd47971d4f19",
+    "productId": "web-mobile-0c45dd47971d4f19",
+    "name": "Xiaomi Redmi K90",
+    "brand": "شیائومی",
+    "model": "Xiaomi Redmi K90",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-41002-xiaomi-redmi-k90.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T12:22:52.951Z"
+  },
+  {
+    "id": "web-mobile-69190324295dc966",
+    "productId": "web-mobile-69190324295dc966",
+    "name": "Apple iPhone 13 Pro",
+    "brand": "اپل",
+    "model": "Apple iPhone 13 Pro",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-39403-apple-iphone-13-pro.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T12:22:52.951Z"
+  },
+  {
+    "id": "web-mobile-37c553113ea1e9ce",
+    "productId": "web-mobile-37c553113ea1e9ce",
+    "name": "Realme Note 60x",
+    "brand": "",
+    "model": "Realme Note 60x",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40646-realme-note-60x.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T12:22:52.951Z"
+  },
+  {
+    "id": "web-mobile-82828cfda327147a",
+    "productId": "web-mobile-82828cfda327147a",
+    "name": "Motorola Razr Fold",
+    "brand": "",
+    "model": "Motorola Razr Fold",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-41211-motorola-razr-fold.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T12:22:52.951Z"
+  },
+  {
+    "id": "web-mobile-2b1f216d684f3e93",
+    "productId": "web-mobile-2b1f216d684f3e93",
+    "name": "Motorola Edge 70 Pro",
+    "brand": "",
+    "model": "Motorola Edge 70 Pro",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-41202-motorola-edge-70-pro.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T12:22:52.951Z"
+  },
+  {
+    "id": "web-mobile-2d60484322ff9f5e",
+    "productId": "web-mobile-2d60484322ff9f5e",
+    "name": "Xiaomi Redmi Turbo 5 Max",
+    "brand": "شیائومی",
+    "model": "Xiaomi Redmi Turbo 5 Max",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-41091-xiaomi-redmi-turbo-5-max.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T12:22:52.951Z"
+  },
+  {
+    "id": "web-mobile-54bde84dfbf9893c",
+    "productId": "web-mobile-54bde84dfbf9893c",
+    "name": "Xiaomi 17 Pro",
+    "brand": "شیائومی",
+    "model": "Xiaomi 17 Pro",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40963-xiaomi-17-pro.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T12:22:52.952Z"
+  },
+  {
+    "id": "web-mobile-6bcb705d00e5fd51",
+    "productId": "web-mobile-6bcb705d00e5fd51",
+    "name": "Honor X5b Plus",
+    "brand": "",
+    "model": "Honor X5b Plus",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40595-honor-x5b-plus.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T12:22:52.952Z"
   }
 ];
