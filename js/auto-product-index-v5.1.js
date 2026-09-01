@@ -14,7 +14,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-01T05:09:51.693Z"
+    "observedAt": "2026-09-01T10:36:30.145Z"
   },
   {
     "id": "web-auto-03dd3c3ec42208f6",
@@ -31,7 +31,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-01T05:09:51.693Z"
+    "observedAt": "2026-09-01T10:36:30.145Z"
   },
   {
     "id": "web-auto-38d13aadfc9611e9",
@@ -48,7 +48,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-01T05:09:51.693Z"
+    "observedAt": "2026-09-01T10:36:30.145Z"
   },
   {
     "id": "web-auto-88da4f2a8f1766a7",
@@ -65,7 +65,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-01T05:09:51.693Z"
+    "observedAt": "2026-09-01T10:36:30.145Z"
   },
   {
     "id": "web-auto-e5b9060bc45609d2",
@@ -82,7 +82,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-01T05:09:51.693Z"
+    "observedAt": "2026-09-01T10:36:30.145Z"
   },
   {
     "id": "web-auto-aae5046f6cb390b4",
@@ -99,7 +99,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-01T05:09:51.693Z"
+    "observedAt": "2026-09-01T10:36:30.145Z"
   },
   {
     "id": "web-auto-a69eeb67769a9511",
@@ -116,7 +116,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-01T05:09:51.693Z"
+    "observedAt": "2026-09-01T10:36:30.145Z"
   },
   {
     "id": "web-auto-a7556396a2d63ab9",
@@ -133,7 +133,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-01T05:09:51.693Z"
+    "observedAt": "2026-09-01T10:36:30.145Z"
   },
   {
     "id": "web-auto-b6e8b1b0af6b196d",
@@ -150,7 +150,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-01T05:09:51.693Z"
+    "observedAt": "2026-09-01T10:36:30.145Z"
   },
   {
     "id": "web-auto-e74f081e35e275f8",
@@ -167,7 +167,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-01T05:09:51.693Z"
+    "observedAt": "2026-09-01T10:36:30.145Z"
   },
   {
     "id": "web-auto-1bc95ca2c0e43a64",
@@ -184,7 +184,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-01T05:09:51.693Z"
+    "observedAt": "2026-09-01T10:36:30.145Z"
   },
   {
     "id": "web-auto-c2ff57a4aa0cda5d",
@@ -201,7 +201,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-01T05:09:51.693Z"
+    "observedAt": "2026-09-01T10:36:30.145Z"
   },
   {
     "id": "web-auto-c8cd29ceca46bb74",
@@ -218,7 +218,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-01T05:09:51.693Z"
+    "observedAt": "2026-09-01T10:36:30.145Z"
   },
   {
     "id": "web-auto-a93bf7eeca4f6948",
@@ -235,7 +235,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-01T05:09:51.693Z"
+    "observedAt": "2026-09-01T10:36:30.145Z"
   },
   {
     "id": "web-auto-35a7d30b2c4c2fa5",
@@ -252,7 +252,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-01T05:09:51.693Z"
+    "observedAt": "2026-09-01T10:36:30.145Z"
   },
   {
     "id": "web-auto-bdfd776acf21e8a2",
@@ -269,7 +269,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-01T05:09:51.693Z"
+    "observedAt": "2026-09-01T10:36:30.145Z"
   },
   {
     "id": "web-auto-d76914d97998a134",
@@ -286,7 +286,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-01T05:09:51.693Z"
+    "observedAt": "2026-09-01T10:36:30.145Z"
   },
   {
     "id": "web-auto-9eceaf281b731e00",
@@ -303,7 +303,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-01T05:09:51.693Z"
+    "observedAt": "2026-09-01T10:36:30.145Z"
   },
   {
     "id": "web-auto-16884c81434050d5",
@@ -320,7 +320,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-01T05:09:51.693Z"
+    "observedAt": "2026-09-01T10:36:30.145Z"
   },
   {
     "id": "web-auto-f9c406821eee023d",
@@ -337,7 +337,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-01T05:09:51.693Z"
+    "observedAt": "2026-09-01T10:36:30.145Z"
   },
   {
     "id": "web-auto-6e0c1809c20ae99c",
@@ -354,7 +354,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-01T05:09:51.693Z"
+    "observedAt": "2026-09-01T10:36:30.145Z"
   },
   {
     "id": "web-auto-3389fab22b60d0ff",
@@ -371,7 +371,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-01T05:09:51.694Z"
+    "observedAt": "2026-09-01T10:36:30.145Z"
   },
   {
     "id": "web-auto-7da4c7c665d04de9",
@@ -388,7 +388,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-01T05:09:51.694Z"
+    "observedAt": "2026-09-01T10:36:30.145Z"
   },
   {
     "id": "web-auto-9a58e5a83ecf5913",
@@ -405,7 +405,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-01T05:09:51.694Z"
+    "observedAt": "2026-09-01T10:36:30.145Z"
   },
   {
     "id": "web-auto-1204563bd6a75f66",
@@ -422,7 +422,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-01T05:09:51.694Z"
+    "observedAt": "2026-09-01T10:36:30.146Z"
   },
   {
     "id": "web-auto-35f57f87d50fc0d7",
@@ -439,7 +439,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-01T05:09:51.694Z"
+    "observedAt": "2026-09-01T10:36:30.146Z"
   },
   {
     "id": "web-auto-b39be8bafb2c0026",
@@ -456,7 +456,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-01T05:09:51.694Z"
+    "observedAt": "2026-09-01T10:36:30.146Z"
   },
   {
     "id": "web-auto-99deb7eb4944089a",
@@ -473,7 +473,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-01T05:09:51.694Z"
+    "observedAt": "2026-09-01T10:36:30.146Z"
   },
   {
     "id": "web-auto-89126bad201dabcd",
@@ -490,7 +490,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-01T05:09:51.694Z"
+    "observedAt": "2026-09-01T10:36:30.146Z"
   },
   {
     "id": "web-auto-1f3d63b2fdf8cf68",
@@ -507,7 +507,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-01T05:09:51.694Z"
+    "observedAt": "2026-09-01T10:36:30.146Z"
   },
   {
     "id": "web-auto-39564c5b3e0848bb",
@@ -524,7 +524,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-01T05:09:51.694Z"
+    "observedAt": "2026-09-01T10:36:30.146Z"
   },
   {
     "id": "web-auto-ec74e7db32084402",
@@ -541,7 +541,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-car-parts",
     "sourceUrl": "https://www.technolife.com/category/car-motor/car-utilities",
     "source": "web-catalog:technolife-car-parts",
-    "observedAt": "2026-09-01T05:10:09.330Z"
+    "observedAt": "2026-09-01T10:36:48.398Z"
   },
   {
     "id": "web-auto-9898df8b85fbdbee",
@@ -558,7 +558,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-car-parts",
     "sourceUrl": "https://www.technolife.com/category/car-motor/car-utilities",
     "source": "web-catalog:technolife-car-parts",
-    "observedAt": "2026-09-01T05:10:09.330Z"
+    "observedAt": "2026-09-01T10:36:48.398Z"
   },
   {
     "id": "web-auto-e985d32e92689233",
@@ -575,7 +575,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-car-parts",
     "sourceUrl": "https://www.technolife.com/category/car-motor/car-utilities",
     "source": "web-catalog:technolife-car-parts",
-    "observedAt": "2026-09-01T05:10:09.330Z"
+    "observedAt": "2026-09-01T10:36:48.398Z"
   },
   {
     "id": "web-auto-8ffac6b018aa67d3",
@@ -592,7 +592,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-car-parts",
     "sourceUrl": "https://www.technolife.com/category/car-motor/car-utilities",
     "source": "web-catalog:technolife-car-parts",
-    "observedAt": "2026-09-01T05:10:09.330Z"
+    "observedAt": "2026-09-01T10:36:48.398Z"
   },
   {
     "id": "web-auto-f6a5ec3ff2af2498",
@@ -609,7 +609,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-car-parts",
     "sourceUrl": "https://www.technolife.com/category/car-motor/car-utilities",
     "source": "web-catalog:technolife-car-parts",
-    "observedAt": "2026-09-01T05:10:09.330Z"
+    "observedAt": "2026-09-01T10:36:48.398Z"
   },
   {
     "id": "web-auto-e3593acb2143ac21",
@@ -626,6 +626,6 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-car-parts",
     "sourceUrl": "https://www.technolife.com/category/car-motor/car-utilities",
     "source": "web-catalog:technolife-car-parts",
-    "observedAt": "2026-09-01T05:10:09.330Z"
+    "observedAt": "2026-09-01T10:36:48.398Z"
   }
 ];

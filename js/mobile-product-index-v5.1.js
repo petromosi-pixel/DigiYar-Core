@@ -14,7 +14,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T05:02:57.906Z"
+    "observedAt": "2026-09-01T10:29:38.215Z"
   },
   {
     "id": "web-mobile-7e1144b5d3f571c7",
@@ -31,7 +31,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T05:02:57.906Z"
+    "observedAt": "2026-09-01T10:29:38.216Z"
   },
   {
     "id": "web-mobile-5cbc6a775b0d3181",
@@ -48,24 +48,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T05:02:57.906Z"
-  },
-  {
-    "id": "web-mobile-d829bc3137878b9a",
-    "productId": "web-mobile-d829bc3137878b9a",
-    "name": "گوشی موبایل سامسونگ مدل Galaxy A17 4G ظرفیت 128 گیگابایت رم 6 گیگابایت - ویتنام",
-    "brand": "سامسونگ",
-    "model": "گوشی موبایل سامسونگ مدل Galaxy A17 4G ظرفیت 128 گیگابایت رم 6 گیگابایت - ویتنام",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-167567/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF-%D9%85%D8%AF%D9%84-galaxy-a17-4g-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-128-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-6-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA---%D9%88%DB%8C%D8%AA%D9%86%D8%A7%D9%85",
-    "image": "",
-    "sourceId": "technolife-mobile",
-    "sourceUrl": "https://www.technolife.com/category/mobile",
-    "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T05:02:57.906Z"
+    "observedAt": "2026-09-01T10:29:38.216Z"
   },
   {
     "id": "web-mobile-d55bc670163620e0",
@@ -82,24 +65,24 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T05:02:57.906Z"
+    "observedAt": "2026-09-01T10:29:38.216Z"
   },
   {
-    "id": "web-mobile-7973ba8559b15b73",
-    "productId": "web-mobile-7973ba8559b15b73",
-    "name": "گوشی موبايل سامسونگ مدل Galaxy A07 4G ظرفیت 128 گیگابایت رم 6 گیگابایت همراه با شارژر داخل جعبه",
+    "id": "web-mobile-e9a326c3c7d6fe53",
+    "productId": "web-mobile-e9a326c3c7d6fe53",
+    "name": "گوشی موبايل سامسونگ مدل Galaxy A07 4G ظرفیت 128 گیگابایت رم 4 گیگابایت",
     "brand": "سامسونگ",
-    "model": "گوشی موبايل سامسونگ مدل Galaxy A07 4G ظرفیت 128 گیگابایت رم 6 گیگابایت همراه با شارژر داخل جعبه",
+    "model": "گوشی موبايل سامسونگ مدل Galaxy A07 4G ظرفیت 128 گیگابایت رم 4 گیگابایت",
     "category": "mobile",
     "price": 0,
     "currency": "IRR",
     "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-279434/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF-%D9%85%D8%AF%D9%84-galaxy-a07-4g-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-128-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-6-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D9%87%D9%85%D8%B1%D8%A7%D9%87-%D8%A8%D8%A7-%D8%B4%D8%A7%D8%B1%DA%98%D8%B1-%D8%AF%D8%A7%D8%AE%D9%84-%D8%AC%D8%B9%D8%A8%D9%87",
+    "productUrl": "https://www.technolife.com/product-149351/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF-%D9%85%D8%AF%D9%84-galaxy-a07-4g-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-128-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-4-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
     "image": "",
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T05:02:57.906Z"
+    "observedAt": "2026-09-01T10:29:38.216Z"
   },
   {
     "id": "web-mobile-d978e5a3debb468a",
@@ -116,24 +99,24 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T05:02:57.906Z"
+    "observedAt": "2026-09-01T10:29:38.216Z"
   },
   {
-    "id": "web-mobile-edca128508bd5d03",
-    "productId": "web-mobile-edca128508bd5d03",
-    "name": "شارژر دیواری اپل 20 وات مدل 3 پین B/A - اورجینال",
-    "brand": "اپل",
-    "model": "شارژر دیواری اپل 20 وات مدل 3 پین B/A - اورجینال",
+    "id": "web-mobile-7973ba8559b15b73",
+    "productId": "web-mobile-7973ba8559b15b73",
+    "name": "گوشی موبايل سامسونگ مدل Galaxy A07 4G ظرفیت 128 گیگابایت رم 6 گیگابایت همراه با شارژر داخل جعبه",
+    "brand": "سامسونگ",
+    "model": "گوشی موبايل سامسونگ مدل Galaxy A07 4G ظرفیت 128 گیگابایت رم 6 گیگابایت همراه با شارژر داخل جعبه",
     "category": "mobile",
     "price": 0,
     "currency": "IRR",
     "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-115770/%D8%B4%D8%A7%D8%B1%DA%98%D8%B1-%D8%AF%DB%8C%D9%88%D8%A7%D8%B1%DB%8C-%D8%A7%D9%BE%D9%84-20-%D9%88%D8%A7%D8%AA-%D9%85%D8%AF%D9%84-3-%D9%BE%DB%8C%D9%86-b-a---%D8%A7%D9%88%D8%B1%D8%AC%DB%8C%D9%86%D8%A7%D9%84",
+    "productUrl": "https://www.technolife.com/product-279434/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF-%D9%85%D8%AF%D9%84-galaxy-a07-4g-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-128-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-6-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D9%87%D9%85%D8%B1%D8%A7%D9%87-%D8%A8%D8%A7-%D8%B4%D8%A7%D8%B1%DA%98%D8%B1-%D8%AF%D8%A7%D8%AE%D9%84-%D8%AC%D8%B9%D8%A8%D9%87",
     "image": "",
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T05:02:57.907Z"
+    "observedAt": "2026-09-01T10:29:38.217Z"
   },
   {
     "id": "web-mobile-cba530f01ba3a0a4",
@@ -150,7 +133,24 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T05:02:57.907Z"
+    "observedAt": "2026-09-01T10:29:38.217Z"
+  },
+  {
+    "id": "web-mobile-edca128508bd5d03",
+    "productId": "web-mobile-edca128508bd5d03",
+    "name": "شارژر دیواری اپل 20 وات مدل 3 پین B/A - اورجینال",
+    "brand": "اپل",
+    "model": "شارژر دیواری اپل 20 وات مدل 3 پین B/A - اورجینال",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-115770/%D8%B4%D8%A7%D8%B1%DA%98%D8%B1-%D8%AF%DB%8C%D9%88%D8%A7%D8%B1%DB%8C-%D8%A7%D9%BE%D9%84-20-%D9%88%D8%A7%D8%AA-%D9%85%D8%AF%D9%84-3-%D9%BE%DB%8C%D9%86-b-a---%D8%A7%D9%88%D8%B1%D8%AC%DB%8C%D9%86%D8%A7%D9%84",
+    "image": "",
+    "sourceId": "technolife-mobile",
+    "sourceUrl": "https://www.technolife.com/category/mobile",
+    "source": "web-catalog:technolife-mobile",
+    "observedAt": "2026-09-01T10:29:38.217Z"
   },
   {
     "id": "web-mobile-17ea427c9c05e59c",
@@ -167,7 +167,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T05:02:57.908Z"
+    "observedAt": "2026-09-01T10:29:38.217Z"
   },
   {
     "id": "web-mobile-395da285e176aaa3",
@@ -184,7 +184,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T05:02:57.908Z"
+    "observedAt": "2026-09-01T10:29:38.217Z"
   },
   {
     "id": "web-mobile-68a9da007e1633c8",
@@ -201,7 +201,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T05:02:57.908Z"
+    "observedAt": "2026-09-01T10:29:38.217Z"
   },
   {
     "id": "web-mobile-075acb00fe05e53c",
@@ -218,7 +218,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T05:02:57.908Z"
+    "observedAt": "2026-09-01T10:29:38.217Z"
   },
   {
     "id": "web-mobile-f1de1aad54d5129d",
@@ -235,7 +235,24 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T05:02:57.908Z"
+    "observedAt": "2026-09-01T10:29:38.217Z"
+  },
+  {
+    "id": "web-mobile-3fa35e3433f82c28",
+    "productId": "web-mobile-3fa35e3433f82c28",
+    "name": "گوشی موبايل سامسونگ Galaxy A56 5G ظرفیت 256 گیگابایت رم 8 گیگابایت - ویتنام",
+    "brand": "سامسونگ",
+    "model": "گوشی موبايل سامسونگ Galaxy A56 5G ظرفیت 256 گیگابایت رم 8 گیگابایت - ویتنام",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-99485/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF-galaxy-a56-5g-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-256-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-8-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA---%D9%88%DB%8C%D8%AA%D9%86%D8%A7%D9%85",
+    "image": "",
+    "sourceId": "technolife-mobile",
+    "sourceUrl": "https://www.technolife.com/category/mobile",
+    "source": "web-catalog:technolife-mobile",
+    "observedAt": "2026-09-01T10:29:38.217Z"
   },
   {
     "id": "web-mobile-9157b39ec8ea1282",
@@ -252,24 +269,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T05:02:57.908Z"
-  },
-  {
-    "id": "web-mobile-b08aa6b3d727bc23",
-    "productId": "web-mobile-b08aa6b3d727bc23",
-    "name": "گوشی موبایل سامسونگ مدل Galaxy A17 4G ظرفیت 128 گیگابایت رم 4 گیگابایت",
-    "brand": "سامسونگ",
-    "model": "گوشی موبایل سامسونگ مدل Galaxy A17 4G ظرفیت 128 گیگابایت رم 4 گیگابایت",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-382583/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF-%D9%85%D8%AF%D9%84-galaxy-a17-4g-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-128-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-4-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
-    "image": "",
-    "sourceId": "technolife-mobile",
-    "sourceUrl": "https://www.technolife.com/category/mobile",
-    "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T05:02:57.908Z"
+    "observedAt": "2026-09-01T10:29:38.217Z"
   },
   {
     "id": "web-mobile-16878911b2ae7579",
@@ -286,7 +286,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T05:02:57.908Z"
+    "observedAt": "2026-09-01T10:29:38.218Z"
   },
   {
     "id": "web-mobile-e62e88dc93424657",
@@ -303,24 +303,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T05:02:57.908Z"
-  },
-  {
-    "id": "web-mobile-f4cd91c8a9ee95d7",
-    "productId": "web-mobile-f4cd91c8a9ee95d7",
-    "name": "شارژر دیواری سامسونگ 25 وات مدل EP-TA800 دو پین - Original",
-    "brand": "سامسونگ",
-    "model": "شارژر دیواری سامسونگ 25 وات مدل EP-TA800 دو پین - Original",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-166585/%D8%B4%D8%A7%D8%B1%DA%98%D8%B1-%D8%AF%DB%8C%D9%88%D8%A7%D8%B1%DB%8C-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF-25-%D9%88%D8%A7%D8%AA-%D9%85%D8%AF%D9%84-ep-ta800-%D8%AF%D9%88-%D9%BE%DB%8C%D9%86---original",
-    "image": "",
-    "sourceId": "technolife-mobile",
-    "sourceUrl": "https://www.technolife.com/category/mobile",
-    "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T05:02:57.908Z"
+    "observedAt": "2026-09-01T10:29:38.218Z"
   },
   {
     "id": "web-mobile-3f647d18b55f732a",
@@ -337,7 +320,24 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T05:02:57.908Z"
+    "observedAt": "2026-09-01T10:29:38.218Z"
+  },
+  {
+    "id": "web-mobile-f4cd91c8a9ee95d7",
+    "productId": "web-mobile-f4cd91c8a9ee95d7",
+    "name": "شارژر دیواری سامسونگ 25 وات مدل EP-TA800 دو پین - Original",
+    "brand": "سامسونگ",
+    "model": "شارژر دیواری سامسونگ 25 وات مدل EP-TA800 دو پین - Original",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-166585/%D8%B4%D8%A7%D8%B1%DA%98%D8%B1-%D8%AF%DB%8C%D9%88%D8%A7%D8%B1%DB%8C-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF-25-%D9%88%D8%A7%D8%AA-%D9%85%D8%AF%D9%84-ep-ta800-%D8%AF%D9%88-%D9%BE%DB%8C%D9%86---original",
+    "image": "",
+    "sourceId": "technolife-mobile",
+    "sourceUrl": "https://www.technolife.com/category/mobile",
+    "source": "web-catalog:technolife-mobile",
+    "observedAt": "2026-09-01T10:29:38.218Z"
   },
   {
     "id": "web-mobile-0b2dfa583dca18be",
@@ -354,7 +354,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T05:02:57.908Z"
+    "observedAt": "2026-09-01T10:29:38.218Z"
   },
   {
     "id": "web-mobile-2a5e6b6350e5ae6b",
@@ -371,7 +371,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T05:02:57.908Z"
+    "observedAt": "2026-09-01T10:29:38.218Z"
   },
   {
     "id": "web-mobile-53d28b75c3506e0b",
@@ -388,24 +388,24 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T05:02:57.908Z"
+    "observedAt": "2026-09-01T10:29:38.218Z"
   },
   {
-    "id": "web-mobile-ce6e1027ba5d1d24",
-    "productId": "web-mobile-ce6e1027ba5d1d24",
-    "name": "گوشی موبایل شیائومی مدل Redmi Note 14S 4G ظرفیت 256 گیگابایت رم 8 گیگابایت",
-    "brand": "شیائومی",
-    "model": "گوشی موبایل شیائومی مدل Redmi Note 14S 4G ظرفیت 256 گیگابایت رم 8 گیگابایت",
+    "id": "web-mobile-740550742a7083b0",
+    "productId": "web-mobile-740550742a7083b0",
+    "name": "گوشی موبايل سامسونگ Galaxy A26 5G ظرفیت 128 گیگابایت رم 6 گیگابایت - ویتنام",
+    "brand": "سامسونگ",
+    "model": "گوشی موبايل سامسونگ Galaxy A26 5G ظرفیت 128 گیگابایت رم 6 گیگابایت - ویتنام",
     "category": "mobile",
     "price": 0,
     "currency": "IRR",
     "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-107882/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84-%D8%B4%DB%8C%D8%A7%D8%A6%D9%88%D9%85%DB%8C-%D9%85%D8%AF%D9%84-redmi-note-14s-4g-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-256-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-8-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
+    "productUrl": "https://www.technolife.com/product-99215/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF-galaxy-a26-5g-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-128-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-6-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA---%D9%88%DB%8C%D8%AA%D9%86%D8%A7%D9%85",
     "image": "",
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T05:02:57.908Z"
+    "observedAt": "2026-09-01T10:29:38.218Z"
   },
   {
     "id": "web-mobile-7a0bf05c95e91c56",
@@ -422,24 +422,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T05:02:57.908Z"
-  },
-  {
-    "id": "web-mobile-7ee2b896c6bcfab1",
-    "productId": "web-mobile-7ee2b896c6bcfab1",
-    "name": "گوشی موبایل شیائومی مدل Redmi A5 4G ظرفیت 64 گیگابایت رم 3 گیگابایت",
-    "brand": "شیائومی",
-    "model": "گوشی موبایل شیائومی مدل Redmi A5 4G ظرفیت 64 گیگابایت رم 3 گیگابایت",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-107883/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84-%D8%B4%DB%8C%D8%A7%D8%A6%D9%88%D9%85%DB%8C-%D9%85%D8%AF%D9%84-redmi-a5-4g-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-64-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-3-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
-    "image": "",
-    "sourceId": "technolife-mobile",
-    "sourceUrl": "https://www.technolife.com/category/mobile",
-    "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T05:02:57.908Z"
+    "observedAt": "2026-09-01T10:29:38.218Z"
   },
   {
     "id": "web-mobile-af983247c0fd66d2",
@@ -456,7 +439,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T05:02:57.908Z"
+    "observedAt": "2026-09-01T10:29:38.218Z"
   },
   {
     "id": "web-mobile-32ba16c0c7c8f5a5",
@@ -473,24 +456,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T05:02:57.908Z"
-  },
-  {
-    "id": "web-mobile-8ff2a86839a782b6",
-    "productId": "web-mobile-8ff2a86839a782b6",
-    "name": "گوشی موبایل آنر X6c ظرفیت 128 گیگابایت رم 6 گیگابایت",
-    "brand": "",
-    "model": "گوشی موبایل آنر X6c ظرفیت 128 گیگابایت رم 6 گیگابایت",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-127181/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84-%D8%A2%D9%86%D8%B1-x6c-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-128-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-6-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
-    "image": "",
-    "sourceId": "technolife-mobile",
-    "sourceUrl": "https://www.technolife.com/category/mobile",
-    "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T05:02:57.908Z"
+    "observedAt": "2026-09-01T10:29:38.218Z"
   },
   {
     "id": "web-mobile-5d5f7dd023b8a101",
@@ -507,58 +473,41 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T05:02:57.908Z"
+    "observedAt": "2026-09-01T10:29:38.218Z"
   },
   {
-    "id": "web-mobile-eeae69fba7ca59f5",
-    "productId": "web-mobile-eeae69fba7ca59f5",
-    "name": "Samsung Galaxy S26 Ultra",
-    "brand": "سامسونگ",
-    "model": "Samsung Galaxy S26 Ultra",
+    "id": "web-mobile-55507fedc753a301",
+    "productId": "web-mobile-55507fedc753a301",
+    "name": "گوشی موبایل پوکو مدل X7 Pro ظرفیت 512 گیگابایت رم 12 گیگابایت",
+    "brand": "دل",
+    "model": "گوشی موبایل پوکو مدل X7 Pro ظرفیت 512 گیگابایت رم 12 گیگابایت",
     "category": "mobile",
     "price": 0,
     "currency": "IRR",
     "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-41113-samsung-galaxy-s26-ultra.aspx",
+    "productUrl": "https://www.technolife.com/product-75952/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84-%D9%BE%D9%88%DA%A9%D9%88-%D9%85%D8%AF%D9%84-x7-pro-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-512-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-12-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
     "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.068Z"
+    "sourceId": "technolife-mobile",
+    "sourceUrl": "https://www.technolife.com/category/mobile",
+    "source": "web-catalog:technolife-mobile",
+    "observedAt": "2026-09-01T10:29:38.218Z"
   },
   {
-    "id": "web-mobile-b56b93b186c4a653",
-    "productId": "web-mobile-b56b93b186c4a653",
-    "name": "Xiaomi Redmi Note 15 Pro",
-    "brand": "شیائومی",
-    "model": "Xiaomi Redmi Note 15 Pro",
+    "id": "web-mobile-33a12f3e7c57bbbc",
+    "productId": "web-mobile-33a12f3e7c57bbbc",
+    "name": "گوشی موبایل اپل iPhone 17 Pro Max ZA/A ظرفیت 256 گیگابایت رم 12 گیگابایت - Not Active رجیستر شده",
+    "brand": "اپل",
+    "model": "گوشی موبایل اپل iPhone 17 Pro Max ZA/A ظرفیت 256 گیگابایت رم 12 گیگابایت - Not Active رجیستر شده",
     "category": "mobile",
     "price": 0,
     "currency": "IRR",
     "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-41046-xiaomi-redmi-note-15-pro.aspx",
+    "productUrl": "https://www.technolife.com/product-149697/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84-%D8%A7%D9%BE%D9%84-iphone-17-pro-max-za-a-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-256-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-12-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA---not-active-%D8%B1%D8%AC%DB%8C%D8%B3%D8%AA%D8%B1-%D8%B4%D8%AF%D9%87",
     "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.068Z"
-  },
-  {
-    "id": "web-mobile-ba354c1fbf83f865",
-    "productId": "web-mobile-ba354c1fbf83f865",
-    "name": "Xiaomi Redmi Note 15",
-    "brand": "شیائومی",
-    "model": "Xiaomi Redmi Note 15",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-41047-xiaomi-redmi-note-15.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.068Z"
+    "sourceId": "technolife-mobile",
+    "sourceUrl": "https://www.technolife.com/category/mobile",
+    "source": "web-catalog:technolife-mobile",
+    "observedAt": "2026-09-01T10:29:38.218Z"
   },
   {
     "id": "web-mobile-89a0c25e07e3ad3c",
@@ -575,7 +524,58 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.069Z"
+    "observedAt": "2026-09-01T10:29:55.589Z"
+  },
+  {
+    "id": "web-mobile-eeae69fba7ca59f5",
+    "productId": "web-mobile-eeae69fba7ca59f5",
+    "name": "Samsung Galaxy S26 Ultra",
+    "brand": "سامسونگ",
+    "model": "Samsung Galaxy S26 Ultra",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-41113-samsung-galaxy-s26-ultra.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.589Z"
+  },
+  {
+    "id": "web-mobile-b56b93b186c4a653",
+    "productId": "web-mobile-b56b93b186c4a653",
+    "name": "Xiaomi Redmi Note 15 Pro",
+    "brand": "شیائومی",
+    "model": "Xiaomi Redmi Note 15 Pro",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-41046-xiaomi-redmi-note-15-pro.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.590Z"
+  },
+  {
+    "id": "web-mobile-ba354c1fbf83f865",
+    "productId": "web-mobile-ba354c1fbf83f865",
+    "name": "Xiaomi Redmi Note 15",
+    "brand": "شیائومی",
+    "model": "Xiaomi Redmi Note 15",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-41047-xiaomi-redmi-note-15.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.590Z"
   },
   {
     "id": "web-mobile-baaa8119b28aa041",
@@ -592,551 +592,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.069Z"
-  },
-  {
-    "id": "web-mobile-4856504ba4e0c5c2",
-    "productId": "web-mobile-4856504ba4e0c5c2",
-    "name": "Samsung Galaxy A26",
-    "brand": "سامسونگ",
-    "model": "Samsung Galaxy A26",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40709-samsung-galaxy-a26.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.069Z"
-  },
-  {
-    "id": "web-mobile-5d23f1e8301453d2",
-    "productId": "web-mobile-5d23f1e8301453d2",
-    "name": "Honor X5c Plus",
-    "brand": "",
-    "model": "Honor X5c Plus",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40968-honor-x5c-plus.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.069Z"
-  },
-  {
-    "id": "web-mobile-c5a26e9862c3382d",
-    "productId": "web-mobile-c5a26e9862c3382d",
-    "name": "Motorola Edge 60 Fusion",
-    "brand": "",
-    "model": "Motorola Edge 60 Fusion",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40738-motorola-edge-60-fusion.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.070Z"
-  },
-  {
-    "id": "web-mobile-a29cb80b4a92517d",
-    "productId": "web-mobile-a29cb80b4a92517d",
-    "name": "Honor 600 Lite",
-    "brand": "",
-    "model": "Honor 600 Lite",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-41136-honor-600-lite.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.070Z"
-  },
-  {
-    "id": "web-mobile-59f6968b56f7b5cd",
-    "productId": "web-mobile-59f6968b56f7b5cd",
-    "name": "Realme C71",
-    "brand": "",
-    "model": "Realme C71",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40843-realme-c71.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.070Z"
-  },
-  {
-    "id": "web-mobile-e7c8a985c4dd9ac4",
-    "productId": "web-mobile-e7c8a985c4dd9ac4",
-    "name": "Honor 600",
-    "brand": "",
-    "model": "Honor 600",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-41168-honor-600.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.070Z"
-  },
-  {
-    "id": "web-mobile-12c8dd8ce7245017",
-    "productId": "web-mobile-12c8dd8ce7245017",
-    "name": "Honor X7e",
-    "brand": "",
-    "model": "Honor X7e",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-41228-honor-x7e.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.070Z"
-  },
-  {
-    "id": "web-mobile-5f67af8fa58e5a73",
-    "productId": "web-mobile-5f67af8fa58e5a73",
-    "name": "Honor X8d",
-    "brand": "",
-    "model": "Honor X8d",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-41038-honor-x8d.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.071Z"
-  },
-  {
-    "id": "web-mobile-669f129d2ec217fd",
-    "productId": "web-mobile-669f129d2ec217fd",
-    "name": "Samsung Galaxy S25 FE",
-    "brand": "سامسونگ",
-    "model": "Samsung Galaxy S25 FE",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40925-samsung-galaxy-s25-fe.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.071Z"
-  },
-  {
-    "id": "web-mobile-59027dae399e5258",
-    "productId": "web-mobile-59027dae399e5258",
-    "name": "Xiaomi Redmi 13x",
-    "brand": "شیائومی",
-    "model": "Xiaomi Redmi 13x",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40742-xiaomi-redmi-13x.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.071Z"
-  },
-  {
-    "id": "web-mobile-69f5acc08a043fac",
-    "productId": "web-mobile-69f5acc08a043fac",
-    "name": "Xiaomi Poco X7 Pro",
-    "brand": "شیائومی",
-    "model": "Xiaomi Poco X7 Pro",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40672-xiaomi-poco-x7-pro.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.071Z"
-  },
-  {
-    "id": "web-mobile-438a7fdeef2b2a93",
-    "productId": "web-mobile-438a7fdeef2b2a93",
-    "name": "Xiaomi Redmi Note 15 Pro 4G",
-    "brand": "شیائومی",
-    "model": "Xiaomi Redmi Note 15 Pro 4G",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-41048-xiaomi-redmi-note-15-pro-4g.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.071Z"
-  },
-  {
-    "id": "web-mobile-d12d0171283e3aa5",
-    "productId": "web-mobile-d12d0171283e3aa5",
-    "name": "Xiaomi Redmi Note 14 Pro 5G (Global)",
-    "brand": "شیائومی",
-    "model": "Xiaomi Redmi Note 14 Pro 5G (Global)",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40675-xiaomi-redmi-note-14-pro-5g-global.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.072Z"
-  },
-  {
-    "id": "web-mobile-49ac5921d76f0e5b",
-    "productId": "web-mobile-49ac5921d76f0e5b",
-    "name": "Apple iPhone 16",
-    "brand": "اپل",
-    "model": "Apple iPhone 16",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40553-apple-iphone-16.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.072Z"
-  },
-  {
-    "id": "web-mobile-a6011e190252de8c",
-    "productId": "web-mobile-a6011e190252de8c",
-    "name": "Apple iPhone 14",
-    "brand": "اپل",
-    "model": "Apple iPhone 14",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "in_stock",
-    "productUrl": "https://www.mobile.ir/phones/shops-39805-apple-iphone-14.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.072Z"
-  },
-  {
-    "id": "web-mobile-4d0d8b847cd39075",
-    "productId": "web-mobile-4d0d8b847cd39075",
-    "name": "Apple iPhone 17 Pro Max",
-    "brand": "اپل",
-    "model": "Apple iPhone 17 Pro Max",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40934-apple-iphone-17-pro-max.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.072Z"
-  },
-  {
-    "id": "web-mobile-18630865144df600",
-    "productId": "web-mobile-18630865144df600",
-    "name": "Apple iPhone 17",
-    "brand": "اپل",
-    "model": "Apple iPhone 17",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40933-apple-iphone-17.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.072Z"
-  },
-  {
-    "id": "web-mobile-cc3a4ed40f46bfb9",
-    "productId": "web-mobile-cc3a4ed40f46bfb9",
-    "name": "Apple iPhone 17 Pro",
-    "brand": "اپل",
-    "model": "Apple iPhone 17 Pro",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40935-apple-iphone-17-pro.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.073Z"
-  },
-  {
-    "id": "web-mobile-72094adf3944b0ed",
-    "productId": "web-mobile-72094adf3944b0ed",
-    "name": "Honor 400",
-    "brand": "",
-    "model": "Honor 400",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40805-honor-400.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.073Z"
-  },
-  {
-    "id": "web-mobile-88dee6e5899efb59",
-    "productId": "web-mobile-88dee6e5899efb59",
-    "name": "Apple iPhone 16e",
-    "brand": "اپل",
-    "model": "Apple iPhone 16e",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40697-apple-iphone-16e.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.074Z"
-  },
-  {
-    "id": "web-mobile-461fe33c3a219c7a",
-    "productId": "web-mobile-461fe33c3a219c7a",
-    "name": "Honor X6c",
-    "brand": "",
-    "model": "Honor X6c",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40846-honor-x6c.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.074Z"
-  },
-  {
-    "id": "web-mobile-93cf620fce547cf6",
-    "productId": "web-mobile-93cf620fce547cf6",
-    "name": "Honor 400 Lite",
-    "brand": "",
-    "model": "Honor 400 Lite",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40749-honor-400-lite.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.075Z"
-  },
-  {
-    "id": "web-mobile-f239e6cc10f6d19f",
-    "productId": "web-mobile-f239e6cc10f6d19f",
-    "name": "Honor Play10 4G",
-    "brand": "",
-    "model": "Honor Play10 4G",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40946-honor-play10-4g.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.075Z"
-  },
-  {
-    "id": "web-mobile-77ea3d5c9c8fbdaf",
-    "productId": "web-mobile-77ea3d5c9c8fbdaf",
-    "name": "Honor X7d 4G",
-    "brand": "",
-    "model": "Honor X7d 4G",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40919-honor-x7d-4g.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.075Z"
-  },
-  {
-    "id": "web-mobile-7d6ed3be5a1bf95d",
-    "productId": "web-mobile-7d6ed3be5a1bf95d",
-    "name": "Honor X9d",
-    "brand": "",
-    "model": "Honor X9d",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-41017-honor-x9d.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.077Z"
-  },
-  {
-    "id": "web-mobile-389dad479b6de6a0",
-    "productId": "web-mobile-389dad479b6de6a0",
-    "name": "Samsung Galaxy A57",
-    "brand": "سامسونگ",
-    "model": "Samsung Galaxy A57",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-41119-samsung-galaxy-a57.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.077Z"
-  },
-  {
-    "id": "web-mobile-72c5de09bac4d8b3",
-    "productId": "web-mobile-72c5de09bac4d8b3",
-    "name": "Honor 600 Pro",
-    "brand": "",
-    "model": "Honor 600 Pro",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-41167-honor-600-pro.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.077Z"
-  },
-  {
-    "id": "web-mobile-8253fb0dce5f3bdf",
-    "productId": "web-mobile-8253fb0dce5f3bdf",
-    "name": "Honor Win RT",
-    "brand": "",
-    "model": "Honor Win RT",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-41055-honor-win-rt.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.077Z"
-  },
-  {
-    "id": "web-mobile-15bb4b8ecebc2ce2",
-    "productId": "web-mobile-15bb4b8ecebc2ce2",
-    "name": "Vivo iQOO 15",
-    "brand": "",
-    "model": "Vivo iQOO 15",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40992-vivo-iqoo-15.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.077Z"
-  },
-  {
-    "id": "web-mobile-69312dc6ad0fa187",
-    "productId": "web-mobile-69312dc6ad0fa187",
-    "name": "Vivo X300 Pro",
-    "brand": "",
-    "model": "Vivo X300 Pro",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40975-vivo-x300-pro.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.078Z"
-  },
-  {
-    "id": "web-mobile-1638a5fcef41f946",
-    "productId": "web-mobile-1638a5fcef41f946",
-    "name": "OnePlus Ace 6T",
-    "brand": "",
-    "model": "OnePlus Ace 6T",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-41033-oneplus-ace-6t.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.078Z"
-  },
-  {
-    "id": "web-mobile-21f2f5cd482677d0",
-    "productId": "web-mobile-21f2f5cd482677d0",
-    "name": "Realme Note 50",
-    "brand": "",
-    "model": "Realme Note 50",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "in_stock",
-    "productUrl": "https://www.mobile.ir/phones/shops-40339-realme-note-50.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.078Z"
+    "observedAt": "2026-09-01T10:29:55.591Z"
   },
   {
     "id": "web-mobile-1922ffc0ad9c175d",
@@ -1153,7 +609,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.079Z"
+    "observedAt": "2026-09-01T10:29:55.592Z"
   },
   {
     "id": "web-mobile-02e3c9834275c5a3",
@@ -1170,7 +626,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.079Z"
+    "observedAt": "2026-09-01T10:29:55.592Z"
   },
   {
     "id": "web-mobile-11c79ea44f98c5ee",
@@ -1187,7 +643,24 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.079Z"
+    "observedAt": "2026-09-01T10:29:55.592Z"
+  },
+  {
+    "id": "web-mobile-49ac5921d76f0e5b",
+    "productId": "web-mobile-49ac5921d76f0e5b",
+    "name": "Apple iPhone 16",
+    "brand": "اپل",
+    "model": "Apple iPhone 16",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40553-apple-iphone-16.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.592Z"
   },
   {
     "id": "web-mobile-24a4910cd35fbd9f",
@@ -1204,7 +677,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.080Z"
+    "observedAt": "2026-09-01T10:29:55.593Z"
   },
   {
     "id": "web-mobile-0c45dd47971d4f19",
@@ -1221,7 +694,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.080Z"
+    "observedAt": "2026-09-01T10:29:55.593Z"
   },
   {
     "id": "web-mobile-69190324295dc966",
@@ -1238,7 +711,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.080Z"
+    "observedAt": "2026-09-01T10:29:55.593Z"
   },
   {
     "id": "web-mobile-37c553113ea1e9ce",
@@ -1255,7 +728,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.080Z"
+    "observedAt": "2026-09-01T10:29:55.593Z"
   },
   {
     "id": "web-mobile-82828cfda327147a",
@@ -1272,7 +745,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.081Z"
+    "observedAt": "2026-09-01T10:29:55.593Z"
   },
   {
     "id": "web-mobile-2b1f216d684f3e93",
@@ -1289,7 +762,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.081Z"
+    "observedAt": "2026-09-01T10:29:55.593Z"
   },
   {
     "id": "web-mobile-2d60484322ff9f5e",
@@ -1306,7 +779,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.081Z"
+    "observedAt": "2026-09-01T10:29:55.594Z"
   },
   {
     "id": "web-mobile-54bde84dfbf9893c",
@@ -1323,7 +796,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.081Z"
+    "observedAt": "2026-09-01T10:29:55.594Z"
   },
   {
     "id": "web-mobile-6bcb705d00e5fd51",
@@ -1340,7 +813,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.082Z"
+    "observedAt": "2026-09-01T10:29:55.594Z"
   },
   {
     "id": "web-mobile-6b39cadb640e5d45",
@@ -1357,7 +830,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.082Z"
+    "observedAt": "2026-09-01T10:29:55.594Z"
   },
   {
     "id": "web-mobile-9848bd9020c39c08",
@@ -1374,7 +847,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.082Z"
+    "observedAt": "2026-09-01T10:29:55.595Z"
   },
   {
     "id": "web-mobile-25429aeb291a3b7e",
@@ -1391,7 +864,24 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.082Z"
+    "observedAt": "2026-09-01T10:29:55.595Z"
+  },
+  {
+    "id": "web-mobile-18630865144df600",
+    "productId": "web-mobile-18630865144df600",
+    "name": "Apple iPhone 17",
+    "brand": "اپل",
+    "model": "Apple iPhone 17",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40933-apple-iphone-17.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.595Z"
   },
   {
     "id": "web-mobile-dff617860844098c",
@@ -1408,7 +898,41 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.082Z"
+    "observedAt": "2026-09-01T10:29:55.595Z"
+  },
+  {
+    "id": "web-mobile-4d0d8b847cd39075",
+    "productId": "web-mobile-4d0d8b847cd39075",
+    "name": "Apple iPhone 17 Pro Max",
+    "brand": "اپل",
+    "model": "Apple iPhone 17 Pro Max",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40934-apple-iphone-17-pro-max.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.596Z"
+  },
+  {
+    "id": "web-mobile-cc3a4ed40f46bfb9",
+    "productId": "web-mobile-cc3a4ed40f46bfb9",
+    "name": "Apple iPhone 17 Pro",
+    "brand": "اپل",
+    "model": "Apple iPhone 17 Pro",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40935-apple-iphone-17-pro.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.596Z"
   },
   {
     "id": "web-mobile-92ac4d2ed2ad08d1",
@@ -1425,7 +949,41 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.083Z"
+    "observedAt": "2026-09-01T10:29:55.596Z"
+  },
+  {
+    "id": "web-mobile-4856504ba4e0c5c2",
+    "productId": "web-mobile-4856504ba4e0c5c2",
+    "name": "Samsung Galaxy A26",
+    "brand": "سامسونگ",
+    "model": "Samsung Galaxy A26",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40709-samsung-galaxy-a26.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.597Z"
+  },
+  {
+    "id": "web-mobile-669f129d2ec217fd",
+    "productId": "web-mobile-669f129d2ec217fd",
+    "name": "Samsung Galaxy S25 FE",
+    "brand": "سامسونگ",
+    "model": "Samsung Galaxy S25 FE",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40925-samsung-galaxy-s25-fe.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.598Z"
   },
   {
     "id": "web-mobile-aae673c016acf543",
@@ -1442,7 +1000,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.084Z"
+    "observedAt": "2026-09-01T10:29:55.598Z"
   },
   {
     "id": "web-mobile-e96074679c827376",
@@ -1459,7 +1017,24 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.086Z"
+    "observedAt": "2026-09-01T10:29:55.600Z"
+  },
+  {
+    "id": "web-mobile-69f5acc08a043fac",
+    "productId": "web-mobile-69f5acc08a043fac",
+    "name": "Xiaomi Poco X7 Pro",
+    "brand": "شیائومی",
+    "model": "Xiaomi Poco X7 Pro",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40672-xiaomi-poco-x7-pro.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.600Z"
   },
   {
     "id": "web-mobile-d0f83da1bb7b3714",
@@ -1476,7 +1051,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.087Z"
+    "observedAt": "2026-09-01T10:29:55.600Z"
   },
   {
     "id": "web-mobile-b0937fd00988e05a",
@@ -1493,7 +1068,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.087Z"
+    "observedAt": "2026-09-01T10:29:55.600Z"
   },
   {
     "id": "web-mobile-6bd1f7b5f3aa31c1",
@@ -1510,7 +1085,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.087Z"
+    "observedAt": "2026-09-01T10:29:55.601Z"
   },
   {
     "id": "web-mobile-96483f618195db4e",
@@ -1527,7 +1102,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.087Z"
+    "observedAt": "2026-09-01T10:29:55.601Z"
   },
   {
     "id": "web-mobile-f8acb2c0c4a0ddce",
@@ -1544,7 +1119,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.089Z"
+    "observedAt": "2026-09-01T10:29:55.603Z"
   },
   {
     "id": "web-mobile-03acdee43b4c0c2c",
@@ -1561,7 +1136,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.090Z"
+    "observedAt": "2026-09-01T10:29:55.605Z"
   },
   {
     "id": "web-mobile-09f0ffe6e4cc8be1",
@@ -1578,279 +1153,41 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.090Z"
+    "observedAt": "2026-09-01T10:29:55.606Z"
   },
   {
-    "id": "web-mobile-5c6e97c8bd2cca2d",
-    "productId": "web-mobile-5c6e97c8bd2cca2d",
-    "name": "Samsung Galaxy A35",
+    "id": "web-mobile-f37a0a0142ed6638",
+    "productId": "web-mobile-f37a0a0142ed6638",
+    "name": "Samsung Galaxy S26+",
     "brand": "سامسونگ",
-    "model": "Samsung Galaxy A35",
+    "model": "Samsung Galaxy S26+",
     "category": "mobile",
     "price": 0,
     "currency": "IRR",
     "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40358-samsung-galaxy-a35.aspx",
+    "productUrl": "https://www.mobile.ir/phones/shops-41114-samsung-galaxy-s26.aspx",
     "image": "",
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.091Z"
+    "observedAt": "2026-09-01T10:29:55.607Z"
   },
   {
-    "id": "web-mobile-0417592ce5f3a1ca",
-    "productId": "web-mobile-0417592ce5f3a1ca",
-    "name": "Samsung Galaxy S26",
+    "id": "web-mobile-389dad479b6de6a0",
+    "productId": "web-mobile-389dad479b6de6a0",
+    "name": "Samsung Galaxy A57",
     "brand": "سامسونگ",
-    "model": "Samsung Galaxy S26",
+    "model": "Samsung Galaxy A57",
     "category": "mobile",
     "price": 0,
     "currency": "IRR",
     "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-41115-samsung-galaxy-s26.aspx",
+    "productUrl": "https://www.mobile.ir/phones/shops-41119-samsung-galaxy-a57.aspx",
     "image": "",
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.092Z"
-  },
-  {
-    "id": "web-mobile-fee6d9da2c06870a",
-    "productId": "web-mobile-fee6d9da2c06870a",
-    "name": "Samsung Galaxy Z Fold7",
-    "brand": "سامسونگ",
-    "model": "Samsung Galaxy Z Fold7",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40869-samsung-galaxy-z-fold7.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.094Z"
-  },
-  {
-    "id": "web-mobile-1aae7badc92d21bc",
-    "productId": "web-mobile-1aae7badc92d21bc",
-    "name": "Xiaomi 15T Pro",
-    "brand": "شیائومی",
-    "model": "Xiaomi 15T Pro",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40958-xiaomi-15t-pro.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.094Z"
-  },
-  {
-    "id": "web-mobile-7cd9ecdcd55bccea",
-    "productId": "web-mobile-7cd9ecdcd55bccea",
-    "name": "Samsung Galaxy Z Fold8",
-    "brand": "سامسونگ",
-    "model": "Samsung Galaxy Z Fold8",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-41270-samsung-galaxy-z-fold8.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.094Z"
-  },
-  {
-    "id": "web-mobile-7e260a4ae04efe32",
-    "productId": "web-mobile-7e260a4ae04efe32",
-    "name": "Samsung Galaxy Z Fold8 Ultra",
-    "brand": "سامسونگ",
-    "model": "Samsung Galaxy Z Fold8 Ultra",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-41269-samsung-galaxy-z-fold8-ultra.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.094Z"
-  },
-  {
-    "id": "web-mobile-81b918fadf23bbb4",
-    "productId": "web-mobile-81b918fadf23bbb4",
-    "name": "Samsung Galaxy Z Flip8",
-    "brand": "سامسونگ",
-    "model": "Samsung Galaxy Z Flip8",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-41271-samsung-galaxy-z-flip8.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.095Z"
-  },
-  {
-    "id": "web-mobile-f4f9e7fcb1da1a3c",
-    "productId": "web-mobile-f4f9e7fcb1da1a3c",
-    "name": "Xiaomi Poco M5s",
-    "brand": "شیائومی",
-    "model": "Xiaomi Poco M5s",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-39798-xiaomi-poco-m5s.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.095Z"
-  },
-  {
-    "id": "web-mobile-c66199eb07a8f63e",
-    "productId": "web-mobile-c66199eb07a8f63e",
-    "name": "Xiaomi Poco C75",
-    "brand": "شیائومی",
-    "model": "Xiaomi Poco C75",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40606-xiaomi-poco-c75.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.095Z"
-  },
-  {
-    "id": "web-mobile-55a22895d03d8ab8",
-    "productId": "web-mobile-55a22895d03d8ab8",
-    "name": "Xiaomi Redmi 15 4G",
-    "brand": "شیائومی",
-    "model": "Xiaomi Redmi 15 4G",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40888-xiaomi-redmi-15-4g.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.095Z"
-  },
-  {
-    "id": "web-mobile-e11bf46c0e9677f4",
-    "productId": "web-mobile-e11bf46c0e9677f4",
-    "name": "Xiaomi Redmi 15C 4G",
-    "brand": "شیائومی",
-    "model": "Xiaomi Redmi 15C 4G",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40890-xiaomi-redmi-15c-4g.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.095Z"
-  },
-  {
-    "id": "web-mobile-cabde82a5e189fea",
-    "productId": "web-mobile-cabde82a5e189fea",
-    "name": "Xiaomi Poco M7",
-    "brand": "شیائومی",
-    "model": "Xiaomi Poco M7",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40712-xiaomi-poco-m7.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.095Z"
-  },
-  {
-    "id": "web-mobile-9efd47b828b0adf9",
-    "productId": "web-mobile-9efd47b828b0adf9",
-    "name": "Xiaomi Poco F6 Pro",
-    "brand": "شیائومی",
-    "model": "Xiaomi Poco F6 Pro",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40448-xiaomi-poco-f6-pro.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.096Z"
-  },
-  {
-    "id": "web-mobile-de4eee5db40aa957",
-    "productId": "web-mobile-de4eee5db40aa957",
-    "name": "Xiaomi Poco F7 Pro",
-    "brand": "شیائومی",
-    "model": "Xiaomi Poco F7 Pro",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40734-xiaomi-poco-f7-pro.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.096Z"
-  },
-  {
-    "id": "web-mobile-bd6bb8c861ddc51b",
-    "productId": "web-mobile-bd6bb8c861ddc51b",
-    "name": "Xiaomi Poco X8 Pro",
-    "brand": "شیائومی",
-    "model": "Xiaomi Poco X8 Pro",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-41131-xiaomi-poco-x8-pro.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.097Z"
-  },
-  {
-    "id": "web-mobile-cf5195c36af2450a",
-    "productId": "web-mobile-cf5195c36af2450a",
-    "name": "Xiaomi Redmi Note 14 4G (Global)",
-    "brand": "شیائومی",
-    "model": "Xiaomi Redmi Note 14 4G (Global)",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40678-xiaomi-redmi-note-14-4g-global.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.097Z"
+    "observedAt": "2026-09-01T10:29:55.607Z"
   },
   {
     "id": "web-mobile-8a9cb3bdae6af1ac",
@@ -1867,7 +1204,24 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.098Z"
+    "observedAt": "2026-09-01T10:29:55.608Z"
+  },
+  {
+    "id": "web-mobile-438a7fdeef2b2a93",
+    "productId": "web-mobile-438a7fdeef2b2a93",
+    "name": "Xiaomi Redmi Note 15 Pro 4G",
+    "brand": "شیائومی",
+    "model": "Xiaomi Redmi Note 15 Pro 4G",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-41048-xiaomi-redmi-note-15-pro-4g.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.608Z"
   },
   {
     "id": "web-mobile-0c228896a3422e74",
@@ -1884,7 +1238,687 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.098Z"
+    "observedAt": "2026-09-01T10:29:55.608Z"
+  },
+  {
+    "id": "web-mobile-bd6bb8c861ddc51b",
+    "productId": "web-mobile-bd6bb8c861ddc51b",
+    "name": "Xiaomi Poco X8 Pro",
+    "brand": "شیائومی",
+    "model": "Xiaomi Poco X8 Pro",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-41131-xiaomi-poco-x8-pro.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.608Z"
+  },
+  {
+    "id": "web-mobile-c67adb364563567e",
+    "productId": "web-mobile-c67adb364563567e",
+    "name": "Xiaomi Redmi A3",
+    "brand": "شیائومی",
+    "model": "Xiaomi Redmi A3",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40335-xiaomi-redmi-a3.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.608Z"
+  },
+  {
+    "id": "web-mobile-cf5195c36af2450a",
+    "productId": "web-mobile-cf5195c36af2450a",
+    "name": "Xiaomi Redmi Note 14 4G (Global)",
+    "brand": "شیائومی",
+    "model": "Xiaomi Redmi Note 14 4G (Global)",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40678-xiaomi-redmi-note-14-4g-global.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.609Z"
+  },
+  {
+    "id": "web-mobile-b8c547a8846bb7e1",
+    "productId": "web-mobile-b8c547a8846bb7e1",
+    "name": "Xiaomi Redmi Note 14 Pro 4G (Global)",
+    "brand": "شیائومی",
+    "model": "Xiaomi Redmi Note 14 Pro 4G (Global)",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40676-xiaomi-redmi-note-14-pro-4g-global.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.609Z"
+  },
+  {
+    "id": "web-mobile-d12d0171283e3aa5",
+    "productId": "web-mobile-d12d0171283e3aa5",
+    "name": "Xiaomi Redmi Note 14 Pro 5G (Global)",
+    "brand": "شیائومی",
+    "model": "Xiaomi Redmi Note 14 Pro 5G (Global)",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40675-xiaomi-redmi-note-14-pro-5g-global.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.609Z"
+  },
+  {
+    "id": "web-mobile-59027dae399e5258",
+    "productId": "web-mobile-59027dae399e5258",
+    "name": "Xiaomi Redmi 13x",
+    "brand": "شیائومی",
+    "model": "Xiaomi Redmi 13x",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40742-xiaomi-redmi-13x.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.609Z"
+  },
+  {
+    "id": "web-mobile-e11bf46c0e9677f4",
+    "productId": "web-mobile-e11bf46c0e9677f4",
+    "name": "Xiaomi Redmi 15C 4G",
+    "brand": "شیائومی",
+    "model": "Xiaomi Redmi 15C 4G",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40890-xiaomi-redmi-15c-4g.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.609Z"
+  },
+  {
+    "id": "web-mobile-55a22895d03d8ab8",
+    "productId": "web-mobile-55a22895d03d8ab8",
+    "name": "Xiaomi Redmi 15 4G",
+    "brand": "شیائومی",
+    "model": "Xiaomi Redmi 15 4G",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40888-xiaomi-redmi-15-4g.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.610Z"
+  },
+  {
+    "id": "web-mobile-a6011e190252de8c",
+    "productId": "web-mobile-a6011e190252de8c",
+    "name": "Apple iPhone 14",
+    "brand": "اپل",
+    "model": "Apple iPhone 14",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "in_stock",
+    "productUrl": "https://www.mobile.ir/phones/shops-39805-apple-iphone-14.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.610Z"
+  },
+  {
+    "id": "web-mobile-96dfa114ec5b041d",
+    "productId": "web-mobile-96dfa114ec5b041d",
+    "name": "Apple iPhone 16 Pro Max",
+    "brand": "اپل",
+    "model": "Apple iPhone 16 Pro Max",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40550-apple-iphone-16-pro-max.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.610Z"
+  },
+  {
+    "id": "web-mobile-888a8eaa500fb9fe",
+    "productId": "web-mobile-888a8eaa500fb9fe",
+    "name": "Apple iPhone 16 Pro",
+    "brand": "اپل",
+    "model": "Apple iPhone 16 Pro",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40551-apple-iphone-16-pro.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.610Z"
+  },
+  {
+    "id": "web-mobile-878db945e33531aa",
+    "productId": "web-mobile-878db945e33531aa",
+    "name": "Apple iPhone 15",
+    "brand": "اپل",
+    "model": "Apple iPhone 15",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40173-apple-iphone-15.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.610Z"
+  },
+  {
+    "id": "web-mobile-fee6d9da2c06870a",
+    "productId": "web-mobile-fee6d9da2c06870a",
+    "name": "Samsung Galaxy Z Fold7",
+    "brand": "سامسونگ",
+    "model": "Samsung Galaxy Z Fold7",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40869-samsung-galaxy-z-fold7.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.613Z"
+  },
+  {
+    "id": "web-mobile-1aae7badc92d21bc",
+    "productId": "web-mobile-1aae7badc92d21bc",
+    "name": "Xiaomi 15T Pro",
+    "brand": "شیائومی",
+    "model": "Xiaomi 15T Pro",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40958-xiaomi-15t-pro.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.614Z"
+  },
+  {
+    "id": "web-mobile-7cd9ecdcd55bccea",
+    "productId": "web-mobile-7cd9ecdcd55bccea",
+    "name": "Samsung Galaxy Z Fold8",
+    "brand": "سامسونگ",
+    "model": "Samsung Galaxy Z Fold8",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-41270-samsung-galaxy-z-fold8.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.614Z"
+  },
+  {
+    "id": "web-mobile-7e260a4ae04efe32",
+    "productId": "web-mobile-7e260a4ae04efe32",
+    "name": "Samsung Galaxy Z Fold8 Ultra",
+    "brand": "سامسونگ",
+    "model": "Samsung Galaxy Z Fold8 Ultra",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-41269-samsung-galaxy-z-fold8-ultra.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.614Z"
+  },
+  {
+    "id": "web-mobile-81b918fadf23bbb4",
+    "productId": "web-mobile-81b918fadf23bbb4",
+    "name": "Samsung Galaxy Z Flip8",
+    "brand": "سامسونگ",
+    "model": "Samsung Galaxy Z Flip8",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-41271-samsung-galaxy-z-flip8.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.614Z"
+  },
+  {
+    "id": "web-mobile-72094adf3944b0ed",
+    "productId": "web-mobile-72094adf3944b0ed",
+    "name": "Honor 400",
+    "brand": "",
+    "model": "Honor 400",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40805-honor-400.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.616Z"
+  },
+  {
+    "id": "web-mobile-854b2eb39453963c",
+    "productId": "web-mobile-854b2eb39453963c",
+    "name": "Google Pixel 10a",
+    "brand": "",
+    "model": "Google Pixel 10a",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-41108-google-pixel-10a.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.617Z"
+  },
+  {
+    "id": "web-mobile-3c5c183d905cc67f",
+    "productId": "web-mobile-3c5c183d905cc67f",
+    "name": "Google Pixel 10",
+    "brand": "",
+    "model": "Google Pixel 10",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40909-google-pixel-10.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.617Z"
+  },
+  {
+    "id": "web-mobile-72c5de09bac4d8b3",
+    "productId": "web-mobile-72c5de09bac4d8b3",
+    "name": "Honor 600 Pro",
+    "brand": "",
+    "model": "Honor 600 Pro",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-41167-honor-600-pro.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.617Z"
+  },
+  {
+    "id": "web-mobile-e7c8a985c4dd9ac4",
+    "productId": "web-mobile-e7c8a985c4dd9ac4",
+    "name": "Honor 600",
+    "brand": "",
+    "model": "Honor 600",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-41168-honor-600.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.617Z"
+  },
+  {
+    "id": "web-mobile-a29cb80b4a92517d",
+    "productId": "web-mobile-a29cb80b4a92517d",
+    "name": "Honor 600 Lite",
+    "brand": "",
+    "model": "Honor 600 Lite",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-41136-honor-600-lite.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.617Z"
+  },
+  {
+    "id": "web-mobile-7549babf4f657d86",
+    "productId": "web-mobile-7549babf4f657d86",
+    "name": "Nothing Phone (2a)",
+    "brand": "",
+    "model": "Nothing Phone (2a)",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40349-nothing-phone-2a.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.617Z"
+  },
+  {
+    "id": "web-mobile-bd0cef96f4b2c510",
+    "productId": "web-mobile-bd0cef96f4b2c510",
+    "name": "Nothing CMF Phone 1",
+    "brand": "",
+    "model": "Nothing CMF Phone 1",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40487-nothing-cmf-phone-1.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.618Z"
+  },
+  {
+    "id": "web-mobile-dfeb18bd426871e0",
+    "productId": "web-mobile-dfeb18bd426871e0",
+    "name": "Nothing Phone (2a) Plus",
+    "brand": "",
+    "model": "Nothing Phone (2a) Plus",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40508-nothing-phone-2a-plus.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.618Z"
+  },
+  {
+    "id": "web-mobile-8bd1efa28d69a04a",
+    "productId": "web-mobile-8bd1efa28d69a04a",
+    "name": "Nothing Phone (3a) Pro",
+    "brand": "",
+    "model": "Nothing Phone (3a) Pro",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40713-nothing-phone-3a-pro.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.618Z"
+  },
+  {
+    "id": "web-mobile-c74c6ca4df1bd149",
+    "productId": "web-mobile-c74c6ca4df1bd149",
+    "name": "Honor X9c",
+    "brand": "",
+    "model": "Honor X9c",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40619-honor-x9c.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.618Z"
+  },
+  {
+    "id": "web-mobile-77ea3d5c9c8fbdaf",
+    "productId": "web-mobile-77ea3d5c9c8fbdaf",
+    "name": "Honor X7d 4G",
+    "brand": "",
+    "model": "Honor X7d 4G",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40919-honor-x7d-4g.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.618Z"
+  },
+  {
+    "id": "web-mobile-461fe33c3a219c7a",
+    "productId": "web-mobile-461fe33c3a219c7a",
+    "name": "Honor X6c",
+    "brand": "",
+    "model": "Honor X6c",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40846-honor-x6c.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.618Z"
+  },
+  {
+    "id": "web-mobile-7d6ed3be5a1bf95d",
+    "productId": "web-mobile-7d6ed3be5a1bf95d",
+    "name": "Honor X9d",
+    "brand": "",
+    "model": "Honor X9d",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-41017-honor-x9d.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.618Z"
+  },
+  {
+    "id": "web-mobile-6b0a146e4db7f043",
+    "productId": "web-mobile-6b0a146e4db7f043",
+    "name": "Nothing CMF Phone 2 Pro",
+    "brand": "",
+    "model": "Nothing CMF Phone 2 Pro",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40777-nothing-cmf-phone-2-pro.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.619Z"
+  },
+  {
+    "id": "web-mobile-5bff2be45602c3b8",
+    "productId": "web-mobile-5bff2be45602c3b8",
+    "name": "Nothing Phone (4a) Pro",
+    "brand": "",
+    "model": "Nothing Phone (4a) Pro",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-41128-nothing-phone-4a-pro.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.619Z"
+  },
+  {
+    "id": "web-mobile-5d08b4d8a5088815",
+    "productId": "web-mobile-5d08b4d8a5088815",
+    "name": "OnePlus 15",
+    "brand": "",
+    "model": "OnePlus 15",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40999-oneplus-15.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.619Z"
+  },
+  {
+    "id": "web-mobile-a2543e54ab99587e",
+    "productId": "web-mobile-a2543e54ab99587e",
+    "name": "Nothing Phone (4a)",
+    "brand": "",
+    "model": "Nothing Phone (4a)",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-41129-nothing-phone-4a.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.619Z"
+  },
+  {
+    "id": "web-mobile-5f67af8fa58e5a73",
+    "productId": "web-mobile-5f67af8fa58e5a73",
+    "name": "Honor X8d",
+    "brand": "",
+    "model": "Honor X8d",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-41038-honor-x8d.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.619Z"
+  },
+  {
+    "id": "web-mobile-12c8dd8ce7245017",
+    "productId": "web-mobile-12c8dd8ce7245017",
+    "name": "Honor X7e",
+    "brand": "",
+    "model": "Honor X7e",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-41228-honor-x7e.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.619Z"
+  },
+  {
+    "id": "web-mobile-cee538d2dfe63627",
+    "productId": "web-mobile-cee538d2dfe63627",
+    "name": "Samsung Galaxy A06",
+    "brand": "سامسونگ",
+    "model": "Samsung Galaxy A06",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40523-samsung-galaxy-a06.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.619Z"
+  },
+  {
+    "id": "web-mobile-6a6a4963e4fda4e0",
+    "productId": "web-mobile-6a6a4963e4fda4e0",
+    "name": "OnePlus 15R",
+    "brand": "",
+    "model": "OnePlus 15R",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-41041-oneplus-15r.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.621Z"
+  },
+  {
+    "id": "web-mobile-5c6e97c8bd2cca2d",
+    "productId": "web-mobile-5c6e97c8bd2cca2d",
+    "name": "Samsung Galaxy A35",
+    "brand": "سامسونگ",
+    "model": "Samsung Galaxy A35",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40358-samsung-galaxy-a35.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.621Z"
   },
   {
     "id": "web-mobile-1b21267829f3863e",
@@ -1901,7 +1935,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo-mobile",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo-mobile",
-    "observedAt": "2026-09-01T05:03:32.318Z"
+    "observedAt": "2026-09-01T10:30:01.440Z"
   },
   {
     "id": "web-mobile-60e576464099d3ea",
@@ -1918,7 +1952,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo-mobile",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo-mobile",
-    "observedAt": "2026-09-01T05:03:32.319Z"
+    "observedAt": "2026-09-01T10:30:01.440Z"
   },
   {
     "id": "web-mobile-f4c2995227e48efb",
@@ -1935,7 +1969,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo-mobile",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo-mobile",
-    "observedAt": "2026-09-01T05:03:32.319Z"
+    "observedAt": "2026-09-01T10:30:01.440Z"
   },
   {
     "id": "web-mobile-7b22e71d1c1b2909",
@@ -1952,7 +1986,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo-mobile",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo-mobile",
-    "observedAt": "2026-09-01T05:03:32.319Z"
+    "observedAt": "2026-09-01T10:30:01.440Z"
   },
   {
     "id": "web-mobile-d6a45bb9a3a832d1",
@@ -1969,7 +2003,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo-mobile",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo-mobile",
-    "observedAt": "2026-09-01T05:03:32.319Z"
+    "observedAt": "2026-09-01T10:30:01.441Z"
   },
   {
     "id": "web-mobile-35e929d790274be1",
@@ -1986,7 +2020,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo-mobile",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo-mobile",
-    "observedAt": "2026-09-01T05:03:32.319Z"
+    "observedAt": "2026-09-01T10:30:01.441Z"
   },
   {
     "id": "web-mobile-21bbba2305930d54",
@@ -2003,7 +2037,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo-mobile",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo-mobile",
-    "observedAt": "2026-09-01T05:03:32.319Z"
+    "observedAt": "2026-09-01T10:30:01.441Z"
   },
   {
     "id": "web-mobile-7831a9e3035640f7",
@@ -2020,7 +2054,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo-mobile",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo-mobile",
-    "observedAt": "2026-09-01T05:03:32.319Z"
+    "observedAt": "2026-09-01T10:30:01.441Z"
   },
   {
     "id": "web-mobile-0d30afd9c7703fcf",
@@ -2037,7 +2071,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo-mobile",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo-mobile",
-    "observedAt": "2026-09-01T05:03:32.319Z"
+    "observedAt": "2026-09-01T10:30:01.441Z"
   },
   {
     "id": "web-mobile-c9a5e581fba18baf",
@@ -2054,7 +2088,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo-mobile",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo-mobile",
-    "observedAt": "2026-09-01T05:03:32.319Z"
+    "observedAt": "2026-09-01T10:30:01.441Z"
   },
   {
     "id": "web-mobile-212432229fee4f0f",
@@ -2071,7 +2105,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo-mobile",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo-mobile",
-    "observedAt": "2026-09-01T05:03:32.320Z"
+    "observedAt": "2026-09-01T10:30:01.441Z"
   },
   {
     "id": "web-mobile-4d83917959f282d3",
@@ -2088,7 +2122,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo-mobile",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo-mobile",
-    "observedAt": "2026-09-01T05:03:32.320Z"
+    "observedAt": "2026-09-01T10:30:01.441Z"
   },
   {
     "id": "web-mobile-81c6996c0d58e9a9",
@@ -2105,7 +2139,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo-mobile",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo-mobile",
-    "observedAt": "2026-09-01T05:03:32.320Z"
+    "observedAt": "2026-09-01T10:30:01.441Z"
   },
   {
     "id": "web-mobile-bf019cc847fbcdfa",
@@ -2122,7 +2156,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo-mobile",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo-mobile",
-    "observedAt": "2026-09-01T05:03:32.320Z"
+    "observedAt": "2026-09-01T10:30:01.441Z"
   },
   {
     "id": "web-mobile-40997aaa0031a712",
@@ -2139,7 +2173,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo-mobile",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo-mobile",
-    "observedAt": "2026-09-01T05:03:32.320Z"
+    "observedAt": "2026-09-01T10:30:01.442Z"
   },
   {
     "id": "web-mobile-28b9c24c7c495a2f",
@@ -2156,7 +2190,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo-mobile",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo-mobile",
-    "observedAt": "2026-09-01T05:03:32.320Z"
+    "observedAt": "2026-09-01T10:30:01.442Z"
   },
   {
     "id": "web-mobile-0ad2c98fef8132e0",
@@ -2173,7 +2207,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo-mobile",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo-mobile",
-    "observedAt": "2026-09-01T05:03:32.320Z"
+    "observedAt": "2026-09-01T10:30:01.442Z"
   },
   {
     "id": "web-mobile-0423919eb8ce8083",
@@ -2190,7 +2224,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo-mobile",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo-mobile",
-    "observedAt": "2026-09-01T05:03:32.320Z"
+    "observedAt": "2026-09-01T10:30:01.442Z"
   },
   {
     "id": "web-mobile-0faf234b86e6c40b",
@@ -2207,7 +2241,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo-mobile",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo-mobile",
-    "observedAt": "2026-09-01T05:03:32.320Z"
+    "observedAt": "2026-09-01T10:30:01.442Z"
   },
   {
     "id": "web-mobile-87763c1551633858",
@@ -2224,7 +2258,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "digizo-mobile",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo-mobile",
-    "observedAt": "2026-09-01T05:03:32.321Z"
+    "observedAt": "2026-09-01T10:30:01.442Z"
   },
   {
     "id": "web-mobile-da94f314412a9e50",
@@ -2241,7 +2275,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "bprshop-mobile",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop-mobile",
-    "observedAt": "2026-09-01T05:03:53.341Z"
+    "observedAt": "2026-09-01T10:30:27.149Z"
   },
   {
     "id": "web-mobile-135436ae50d310e7",
@@ -2258,7 +2292,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "bprshop-mobile",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop-mobile",
-    "observedAt": "2026-09-01T05:03:53.341Z"
+    "observedAt": "2026-09-01T10:30:27.149Z"
   },
   {
     "id": "web-mobile-287b92ef2349d985",
@@ -2275,7 +2309,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "bprshop-mobile",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop-mobile",
-    "observedAt": "2026-09-01T05:03:53.341Z"
+    "observedAt": "2026-09-01T10:30:27.149Z"
   },
   {
     "id": "web-mobile-1bd696db97fc967b",
@@ -2292,7 +2326,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "bprshop-mobile",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop-mobile",
-    "observedAt": "2026-09-01T05:03:53.341Z"
+    "observedAt": "2026-09-01T10:30:27.149Z"
   },
   {
     "id": "web-mobile-bba006f6772a2a1f",
@@ -2309,7 +2343,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "bprshop-mobile",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop-mobile",
-    "observedAt": "2026-09-01T05:03:53.342Z"
+    "observedAt": "2026-09-01T10:30:27.149Z"
   },
   {
     "id": "web-mobile-d8fc8128278eda95",
@@ -2326,7 +2360,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "bprshop-mobile",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop-mobile",
-    "observedAt": "2026-09-01T05:03:53.342Z"
+    "observedAt": "2026-09-01T10:30:27.149Z"
   },
   {
     "id": "web-mobile-49673bcec8bc3ef5",
@@ -2343,7 +2377,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "bprshop-mobile",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop-mobile",
-    "observedAt": "2026-09-01T05:03:53.342Z"
+    "observedAt": "2026-09-01T10:30:27.149Z"
   },
   {
     "id": "web-mobile-5afd7cad38534892",
@@ -2360,7 +2394,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "bprshop-mobile",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop-mobile",
-    "observedAt": "2026-09-01T05:03:53.342Z"
+    "observedAt": "2026-09-01T10:30:27.149Z"
   },
   {
     "id": "web-mobile-a73c4a796fe71230",
@@ -2377,7 +2411,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "bprshop-mobile",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop-mobile",
-    "observedAt": "2026-09-01T05:03:53.342Z"
+    "observedAt": "2026-09-01T10:30:27.149Z"
   },
   {
     "id": "web-mobile-85139ef66697942a",
@@ -2394,7 +2428,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "bprshop-mobile",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop-mobile",
-    "observedAt": "2026-09-01T05:03:53.342Z"
+    "observedAt": "2026-09-01T10:30:27.149Z"
   },
   {
     "id": "web-mobile-3b350cc0483bcbdf",
@@ -2411,7 +2445,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "bprshop-mobile",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop-mobile",
-    "observedAt": "2026-09-01T05:03:53.342Z"
+    "observedAt": "2026-09-01T10:30:27.149Z"
   },
   {
     "id": "web-mobile-60ff6a41c95b06a4",
@@ -2428,7 +2462,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "bprshop-mobile",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop-mobile",
-    "observedAt": "2026-09-01T05:03:53.342Z"
+    "observedAt": "2026-09-01T10:30:27.150Z"
   },
   {
     "id": "web-mobile-f8f060fe9febac9f",
@@ -2445,7 +2479,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "bprshop-mobile",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop-mobile",
-    "observedAt": "2026-09-01T05:03:53.342Z"
+    "observedAt": "2026-09-01T10:30:27.150Z"
   },
   {
     "id": "web-mobile-2c40a7e1cc9041bd",
@@ -2462,7 +2496,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "bprshop-mobile",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop-mobile",
-    "observedAt": "2026-09-01T05:03:53.342Z"
+    "observedAt": "2026-09-01T10:30:27.150Z"
   },
   {
     "id": "web-mobile-12aecb3a9f6e4cbf",
@@ -2479,7 +2513,7 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "bprshop-mobile",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop-mobile",
-    "observedAt": "2026-09-01T05:03:53.342Z"
+    "observedAt": "2026-09-01T10:30:27.150Z"
   },
   {
     "id": "web-mobile-0ccfc50fb488f847",
@@ -2496,6 +2530,6 @@ export const MOBILE_PRODUCTS = [
     "sourceId": "bprshop-mobile",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop-mobile",
-    "observedAt": "2026-09-01T05:03:53.342Z"
+    "observedAt": "2026-09-01T10:30:27.150Z"
   }
 ];

@@ -1,22 +1,5 @@
 export const TOOLS_INDUSTRIAL_PRODUCTS = [
   {
-    "id": "web-tools-industrial-af6e4fcbc4d32bcd",
-    "productId": "web-tools-industrial-af6e4fcbc4d32bcd",
-    "name": "دریل چکشی رونیکس 13 میلی‌ متر 750 وات مدل 2260",
-    "brand": "دل",
-    "model": "دریل چکشی رونیکس 13 میلی‌ متر 750 وات مدل 2260",
-    "category": "tools-industrial",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-41868/%D8%AF%D8%B1%DB%8C%D9%84-%DA%86%DA%A9%D8%B4%DB%8C-%D8%B1%D9%88%D9%86%DB%8C%DA%A9%D8%B3-13-%D9%85%DB%8C%D9%84%DB%8C%E2%80%8C-%D9%85%D8%AA%D8%B1-750-%D9%88%D8%A7%D8%AA-%D9%85%D8%AF%D9%84-2260",
-    "image": "",
-    "sourceId": "technolife-tools",
-    "sourceUrl": "https://www.technolife.com/category/tools",
-    "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-01T05:08:50.660Z"
-  },
-  {
     "id": "web-tools-industrial-b6e21d47c4352f66",
     "productId": "web-tools-industrial-b6e21d47c4352f66",
     "name": "آچار فرانسه سایز 12 رونیکس مدل RH-2404",
@@ -31,7 +14,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-01T05:08:50.660Z"
+    "observedAt": "2026-09-01T10:35:22.455Z"
   },
   {
     "id": "web-tools-industrial-2ecc2b96704d5873",
@@ -48,7 +31,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-01T05:08:50.660Z"
+    "observedAt": "2026-09-01T10:35:22.455Z"
   },
   {
     "id": "web-tools-industrial-184ee1b4a070c75c",
@@ -65,7 +48,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-01T05:08:50.660Z"
+    "observedAt": "2026-09-01T10:35:22.455Z"
   },
   {
     "id": "web-tools-industrial-fb0ee332d78384ef",
@@ -82,7 +65,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-01T05:08:50.660Z"
+    "observedAt": "2026-09-01T10:35:22.455Z"
   },
   {
     "id": "web-tools-industrial-596c2272ae36f68a",
@@ -99,7 +82,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-01T05:08:50.660Z"
+    "observedAt": "2026-09-01T10:35:22.455Z"
   },
   {
     "id": "web-tools-industrial-d677728b78405be3",
@@ -116,7 +99,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-01T05:08:50.660Z"
+    "observedAt": "2026-09-01T10:35:22.455Z"
   },
   {
     "id": "web-tools-industrial-739452393cf8f453",
@@ -133,7 +116,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-01T05:08:50.660Z"
+    "observedAt": "2026-09-01T10:35:22.455Z"
   },
   {
     "id": "web-tools-industrial-d02958127f3682d6",
@@ -150,7 +133,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-01T05:08:50.660Z"
+    "observedAt": "2026-09-01T10:35:22.455Z"
   },
   {
     "id": "web-tools-industrial-09a686b8631c0209",
@@ -167,7 +150,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-01T05:08:50.660Z"
+    "observedAt": "2026-09-01T10:35:22.455Z"
   },
   {
     "id": "web-tools-industrial-4746121cf2fe4500",
@@ -184,7 +167,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-01T05:08:50.660Z"
+    "observedAt": "2026-09-01T10:35:22.455Z"
   },
   {
     "id": "web-tools-industrial-55a605032bc8fb0a",
@@ -201,7 +184,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-01T05:08:50.660Z"
+    "observedAt": "2026-09-01T10:35:22.455Z"
   },
   {
     "id": "web-tools-industrial-f385520070afef67",
@@ -218,7 +201,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-01T05:08:50.660Z"
+    "observedAt": "2026-09-01T10:35:22.455Z"
   },
   {
     "id": "web-tools-industrial-e0c58b65898152e5",
@@ -235,7 +218,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-01T05:08:50.661Z"
+    "observedAt": "2026-09-01T10:35:22.455Z"
   },
   {
     "id": "web-tools-industrial-f4bc1c5ee1343061",
@@ -252,7 +235,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-01T05:08:50.661Z"
+    "observedAt": "2026-09-01T10:35:22.455Z"
   },
   {
     "id": "web-tools-industrial-ec0bf8934cc3b1df",
@@ -269,7 +252,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-01T05:08:50.661Z"
+    "observedAt": "2026-09-01T10:35:22.455Z"
   },
   {
     "id": "web-tools-industrial-a3ff6ee5a2c351ad",
@@ -286,7 +269,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-01T05:08:50.661Z"
+    "observedAt": "2026-09-01T10:35:22.455Z"
   },
   {
     "id": "web-tools-industrial-6f826e3762f99fed",
@@ -303,7 +286,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-01T05:08:50.661Z"
+    "observedAt": "2026-09-01T10:35:22.455Z"
   },
   {
     "id": "web-tools-industrial-941be01a51dcdcfc",
@@ -320,7 +303,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-01T05:08:50.661Z"
+    "observedAt": "2026-09-01T10:35:22.455Z"
   },
   {
     "id": "web-tools-industrial-061c31bb04cb39c3",
@@ -337,58 +320,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-01T05:08:50.661Z"
-  },
-  {
-    "id": "web-tools-industrial-0d7255d392029871",
-    "productId": "web-tools-industrial-0d7255d392029871",
-    "name": "فازمتر رونیکس مدل RH-2714",
-    "brand": "دل",
-    "model": "فازمتر رونیکس مدل RH-2714",
-    "category": "tools-industrial",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-41957/%D9%81%D8%A7%D8%B2%D9%85%D8%AA%D8%B1-%D8%B1%D9%88%D9%86%DB%8C%DA%A9%D8%B3-%D9%85%D8%AF%D9%84-rh-2714",
-    "image": "",
-    "sourceId": "technolife-tools",
-    "sourceUrl": "https://www.technolife.com/category/tools",
-    "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-01T05:08:50.661Z"
-  },
-  {
-    "id": "web-tools-industrial-bdb5c416bba8b7e9",
-    "productId": "web-tools-industrial-bdb5c416bba8b7e9",
-    "name": "کاتر 18 میلی متری رونیکس مدل RH-3007",
-    "brand": "دل",
-    "model": "کاتر 18 میلی متری رونیکس مدل RH-3007",
-    "category": "tools-industrial",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-41604/%DA%A9%D8%A7%D8%AA%D8%B1-18-%D9%85%DB%8C%D9%84%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C-%D8%B1%D9%88%D9%86%DB%8C%DA%A9%D8%B3-%D9%85%D8%AF%D9%84-rh-3007",
-    "image": "",
-    "sourceId": "technolife-tools",
-    "sourceUrl": "https://www.technolife.com/category/tools",
-    "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-01T05:08:50.661Z"
-  },
-  {
-    "id": "web-tools-industrial-b87cacae78e233a4",
-    "productId": "web-tools-industrial-b87cacae78e233a4",
-    "name": "روغن دان رونیکس مدل RH-4331",
-    "brand": "دل",
-    "model": "روغن دان رونیکس مدل RH-4331",
-    "category": "tools-industrial",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-274438/%D8%B1%D9%88%D8%BA%D9%86-%D8%AF%D8%A7%D9%86-%D8%B1%D9%88%D9%86%DB%8C%DA%A9%D8%B3-%D9%85%D8%AF%D9%84-rh-4331",
-    "image": "",
-    "sourceId": "technolife-tools",
-    "sourceUrl": "https://www.technolife.com/category/tools",
-    "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-01T05:08:50.661Z"
+    "observedAt": "2026-09-01T10:35:22.455Z"
   },
   {
     "id": "web-tools-industrial-fedff538d07264d9",
@@ -405,7 +337,58 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-01T05:08:50.661Z"
+    "observedAt": "2026-09-01T10:35:22.455Z"
+  },
+  {
+    "id": "web-tools-industrial-0d7255d392029871",
+    "productId": "web-tools-industrial-0d7255d392029871",
+    "name": "فازمتر رونیکس مدل RH-2714",
+    "brand": "دل",
+    "model": "فازمتر رونیکس مدل RH-2714",
+    "category": "tools-industrial",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-41957/%D9%81%D8%A7%D8%B2%D9%85%D8%AA%D8%B1-%D8%B1%D9%88%D9%86%DB%8C%DA%A9%D8%B3-%D9%85%D8%AF%D9%84-rh-2714",
+    "image": "",
+    "sourceId": "technolife-tools",
+    "sourceUrl": "https://www.technolife.com/category/tools",
+    "source": "web-catalog:technolife-tools",
+    "observedAt": "2026-09-01T10:35:22.455Z"
+  },
+  {
+    "id": "web-tools-industrial-bdb5c416bba8b7e9",
+    "productId": "web-tools-industrial-bdb5c416bba8b7e9",
+    "name": "کاتر 18 میلی متری رونیکس مدل RH-3007",
+    "brand": "دل",
+    "model": "کاتر 18 میلی متری رونیکس مدل RH-3007",
+    "category": "tools-industrial",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-41604/%DA%A9%D8%A7%D8%AA%D8%B1-18-%D9%85%DB%8C%D9%84%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C-%D8%B1%D9%88%D9%86%DB%8C%DA%A9%D8%B3-%D9%85%D8%AF%D9%84-rh-3007",
+    "image": "",
+    "sourceId": "technolife-tools",
+    "sourceUrl": "https://www.technolife.com/category/tools",
+    "source": "web-catalog:technolife-tools",
+    "observedAt": "2026-09-01T10:35:22.455Z"
+  },
+  {
+    "id": "web-tools-industrial-b87cacae78e233a4",
+    "productId": "web-tools-industrial-b87cacae78e233a4",
+    "name": "روغن دان رونیکس مدل RH-4331",
+    "brand": "دل",
+    "model": "روغن دان رونیکس مدل RH-4331",
+    "category": "tools-industrial",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-274438/%D8%B1%D9%88%D8%BA%D9%86-%D8%AF%D8%A7%D9%86-%D8%B1%D9%88%D9%86%DB%8C%DA%A9%D8%B3-%D9%85%D8%AF%D9%84-rh-4331",
+    "image": "",
+    "sourceId": "technolife-tools",
+    "sourceUrl": "https://www.technolife.com/category/tools",
+    "source": "web-catalog:technolife-tools",
+    "observedAt": "2026-09-01T10:35:22.455Z"
   },
   {
     "id": "web-tools-industrial-606a68a83f4e1901",
@@ -422,7 +405,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-01T05:08:50.661Z"
+    "observedAt": "2026-09-01T10:35:22.455Z"
   },
   {
     "id": "web-tools-industrial-785bffc397374771",
@@ -439,7 +422,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-01T05:08:50.661Z"
+    "observedAt": "2026-09-01T10:35:22.455Z"
   },
   {
     "id": "web-tools-industrial-a577eff03911337c",
@@ -456,7 +439,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-01T05:08:50.661Z"
+    "observedAt": "2026-09-01T10:35:22.455Z"
   },
   {
     "id": "web-tools-industrial-e07b91ccc42796da",
@@ -473,7 +456,41 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-01T05:08:50.661Z"
+    "observedAt": "2026-09-01T10:35:22.455Z"
+  },
+  {
+    "id": "web-tools-industrial-02bd37b199bf14f6",
+    "productId": "web-tools-industrial-02bd37b199bf14f6",
+    "name": "الماس شیشه بر رونیکس مدل RON-3400",
+    "brand": "دل",
+    "model": "الماس شیشه بر رونیکس مدل RON-3400",
+    "category": "tools-industrial",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-239308/%D8%A7%D9%84%D9%85%D8%A7%D8%B3-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A8%D8%B1-%D8%B1%D9%88%D9%86%DB%8C%DA%A9%D8%B3-%D9%85%D8%AF%D9%84-ron-3400",
+    "image": "",
+    "sourceId": "technolife-tools",
+    "sourceUrl": "https://www.technolife.com/category/tools",
+    "source": "web-catalog:technolife-tools",
+    "observedAt": "2026-09-01T10:35:22.455Z"
+  },
+  {
+    "id": "web-tools-industrial-37acb9798dfe1b59",
+    "productId": "web-tools-industrial-37acb9798dfe1b59",
+    "name": "دریل پیچ گوشتی شارژی ویوارکس مدل VR12V-2A مجموعه 28 عددی",
+    "brand": "دل",
+    "model": "دریل پیچ گوشتی شارژی ویوارکس مدل VR12V-2A مجموعه 28 عددی",
+    "category": "tools-industrial",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-165576/%D8%AF%D8%B1%DB%8C%D9%84-%D9%BE%DB%8C%DA%86-%DA%AF%D9%88%D8%B4%D8%AA%DB%8C-%D8%B4%D8%A7%D8%B1%DA%98%DB%8C-%D9%88%DB%8C%D9%88%D8%A7%D8%B1%DA%A9%D8%B3-%D9%85%D8%AF%D9%84-vr12v-2a-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-28-%D8%B9%D8%AF%D8%AF%DB%8C",
+    "image": "",
+    "sourceId": "technolife-tools",
+    "sourceUrl": "https://www.technolife.com/category/tools",
+    "source": "web-catalog:technolife-tools",
+    "observedAt": "2026-09-01T10:35:22.456Z"
   },
   {
     "id": "web-tools-industrial-3b858eee4b638704",
@@ -490,24 +507,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-01T05:08:50.661Z"
-  },
-  {
-    "id": "web-tools-industrial-264c9267645f030f",
-    "productId": "web-tools-industrial-264c9267645f030f",
-    "name": "دریل پیچ گوشتی شارژی ویوارکس مدل VR12V-1C",
-    "brand": "دل",
-    "model": "دریل پیچ گوشتی شارژی ویوارکس مدل VR12V-1C",
-    "category": "tools-industrial",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-392552/%D8%AF%D8%B1%DB%8C%D9%84-%D9%BE%DB%8C%DA%86-%DA%AF%D9%88%D8%B4%D8%AA%DB%8C-%D8%B4%D8%A7%D8%B1%DA%98%DB%8C-%D9%88%DB%8C%D9%88%D8%A7%D8%B1%DA%A9%D8%B3-%D9%85%D8%AF%D9%84-vr12v-1c",
-    "image": "",
-    "sourceId": "technolife-tools",
-    "sourceUrl": "https://www.technolife.com/category/tools",
-    "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-01T05:08:50.661Z"
+    "observedAt": "2026-09-01T10:35:22.456Z"
   },
   {
     "id": "web-tools-industrial-c7fe73d9ee06f042",
@@ -524,6 +524,6 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-01T05:08:50.661Z"
+    "observedAt": "2026-09-01T10:35:22.456Z"
   }
 ];

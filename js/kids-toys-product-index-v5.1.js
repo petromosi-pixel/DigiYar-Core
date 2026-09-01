@@ -1,56 +1,5 @@
 export const KIDS_TOYS_PRODUCTS = [
   {
-    "id": "web-kids-toys-b6d7a3fddfa4a5bb",
-    "productId": "web-kids-toys-b6d7a3fddfa4a5bb",
-    "name": "فانکو فیگور جاموبایلی طرح جوکر کد 2",
-    "brand": "",
-    "model": "فانکو فیگور جاموبایلی طرح جوکر کد 2",
-    "category": "kids-toys",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-315121/%D9%81%D8%A7%D9%86%DA%A9%D9%88-%D9%81%DB%8C%DA%AF%D9%88%D8%B1-%D8%AC%D8%A7%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84%DB%8C-%D8%B7%D8%B1%D8%AD-%D8%AC%D9%88%DA%A9%D8%B1-%DA%A9%D8%AF-2",
-    "image": "",
-    "sourceId": "technolife-toys",
-    "sourceUrl": "https://www.technolife.com/category/art-culture/toys",
-    "source": "web-catalog:technolife-toys",
-    "observedAt": "2026-09-01T05:09:40.358Z"
-  },
-  {
-    "id": "web-kids-toys-434b4f57693f5e9c",
-    "productId": "web-kids-toys-434b4f57693f5e9c",
-    "name": "فانکو فیگور جاموبایلی طرح اسپایدرمن",
-    "brand": "",
-    "model": "فانکو فیگور جاموبایلی طرح اسپایدرمن",
-    "category": "kids-toys",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-314958/%D9%81%D8%A7%D9%86%DA%A9%D9%88-%D9%81%DB%8C%DA%AF%D9%88%D8%B1-%D8%AC%D8%A7%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84%DB%8C-%D8%B7%D8%B1%D8%AD-%D8%A7%D8%B3%D9%BE%D8%A7%DB%8C%D8%AF%D8%B1%D9%85%D9%86",
-    "image": "",
-    "sourceId": "technolife-toys",
-    "sourceUrl": "https://www.technolife.com/category/art-culture/toys",
-    "source": "web-catalog:technolife-toys",
-    "observedAt": "2026-09-01T05:09:40.358Z"
-  },
-  {
-    "id": "web-kids-toys-57c1b4cf62441fa6",
-    "productId": "web-kids-toys-57c1b4cf62441fa6",
-    "name": "اکشن فیگور طرح شخصیت های فیلم ترسناک بسته 10 عددی",
-    "brand": "",
-    "model": "اکشن فیگور طرح شخصیت های فیلم ترسناک بسته 10 عددی",
-    "category": "kids-toys",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-314262/%D8%A7%DA%A9%D8%B4%D9%86-%D9%81%DB%8C%DA%AF%D9%88%D8%B1-%D8%B7%D8%B1%D8%AD-%D8%B4%D8%AE%D8%B5%DB%8C%D8%AA-%D9%87%D8%A7%DB%8C-%D9%81%DB%8C%D9%84%D9%85-%D8%AA%D8%B1%D8%B3%D9%86%D8%A7%DA%A9-%D8%A8%D8%B3%D8%AA%D9%87-10-%D8%B9%D8%AF%D8%AF%DB%8C",
-    "image": "",
-    "sourceId": "technolife-toys",
-    "sourceUrl": "https://www.technolife.com/category/art-culture/toys",
-    "source": "web-catalog:technolife-toys",
-    "observedAt": "2026-09-01T05:09:40.358Z"
-  },
-  {
     "id": "web-kids-toys-4336867a5098ad15",
     "productId": "web-kids-toys-4336867a5098ad15",
     "name": "اکشن فیگور طرح Disney Princess کد 713/24 بسته 9 عددی",
@@ -65,7 +14,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "technolife-toys",
     "sourceUrl": "https://www.technolife.com/category/art-culture/toys",
     "source": "web-catalog:technolife-toys",
-    "observedAt": "2026-09-01T05:09:40.358Z"
+    "observedAt": "2026-09-01T10:36:18.955Z"
   },
   {
     "id": "web-kids-toys-db41ee735dac878c",
@@ -82,7 +31,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "technolife-toys",
     "sourceUrl": "https://www.technolife.com/category/art-culture/toys",
     "source": "web-catalog:technolife-toys",
-    "observedAt": "2026-09-01T05:09:40.358Z"
+    "observedAt": "2026-09-01T10:36:18.955Z"
   },
   {
     "id": "web-kids-toys-53d532e8e9b82a29",
@@ -99,7 +48,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "technolife-toys",
     "sourceUrl": "https://www.technolife.com/category/art-culture/toys",
     "source": "web-catalog:technolife-toys",
-    "observedAt": "2026-09-01T05:09:40.358Z"
+    "observedAt": "2026-09-01T10:36:18.955Z"
   },
   {
     "id": "web-kids-toys-bda5d7eec8e9be61",
@@ -116,7 +65,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "technolife-toys",
     "sourceUrl": "https://www.technolife.com/category/art-culture/toys",
     "source": "web-catalog:technolife-toys",
-    "observedAt": "2026-09-01T05:09:40.358Z"
+    "observedAt": "2026-09-01T10:36:18.955Z"
   },
   {
     "id": "web-kids-toys-1f079e8f49ec6972",
@@ -133,7 +82,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "technolife-toys",
     "sourceUrl": "https://www.technolife.com/category/art-culture/toys",
     "source": "web-catalog:technolife-toys",
-    "observedAt": "2026-09-01T05:09:40.358Z"
+    "observedAt": "2026-09-01T10:36:18.955Z"
   },
   {
     "id": "web-kids-toys-accff6f0944c682c",
@@ -150,7 +99,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "technolife-toys",
     "sourceUrl": "https://www.technolife.com/category/art-culture/toys",
     "source": "web-catalog:technolife-toys",
-    "observedAt": "2026-09-01T05:09:40.358Z"
+    "observedAt": "2026-09-01T10:36:18.955Z"
   },
   {
     "id": "web-kids-toys-386619ff956fe531",
@@ -167,7 +116,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "technolife-toys",
     "sourceUrl": "https://www.technolife.com/category/art-culture/toys",
     "source": "web-catalog:technolife-toys",
-    "observedAt": "2026-09-01T05:09:40.358Z"
+    "observedAt": "2026-09-01T10:36:18.955Z"
   },
   {
     "id": "web-kids-toys-8493b42b318cbde1",
@@ -184,7 +133,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "technolife-toys",
     "sourceUrl": "https://www.technolife.com/category/art-culture/toys",
     "source": "web-catalog:technolife-toys",
-    "observedAt": "2026-09-01T05:09:40.358Z"
+    "observedAt": "2026-09-01T10:36:18.955Z"
   },
   {
     "id": "web-kids-toys-de91d3d7c15dd545",
@@ -201,7 +150,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "technolife-toys",
     "sourceUrl": "https://www.technolife.com/category/art-culture/toys",
     "source": "web-catalog:technolife-toys",
-    "observedAt": "2026-09-01T05:09:40.358Z"
+    "observedAt": "2026-09-01T10:36:18.955Z"
   },
   {
     "id": "web-kids-toys-08a18613dc83a512",
@@ -218,7 +167,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "technolife-toys",
     "sourceUrl": "https://www.technolife.com/category/art-culture/toys",
     "source": "web-catalog:technolife-toys",
-    "observedAt": "2026-09-01T05:09:40.358Z"
+    "observedAt": "2026-09-01T10:36:18.955Z"
   },
   {
     "id": "web-kids-toys-8d7e9b0809db6c20",
@@ -235,7 +184,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "technolife-toys",
     "sourceUrl": "https://www.technolife.com/category/art-culture/toys",
     "source": "web-catalog:technolife-toys",
-    "observedAt": "2026-09-01T05:09:40.358Z"
+    "observedAt": "2026-09-01T10:36:18.955Z"
   },
   {
     "id": "web-kids-toys-619500cbf983694b",
@@ -252,7 +201,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "technolife-toys",
     "sourceUrl": "https://www.technolife.com/category/art-culture/toys",
     "source": "web-catalog:technolife-toys",
-    "observedAt": "2026-09-01T05:09:40.358Z"
+    "observedAt": "2026-09-01T10:36:18.955Z"
   },
   {
     "id": "web-kids-toys-ff8dcc4149c76ecb",
@@ -269,7 +218,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "technolife-toys",
     "sourceUrl": "https://www.technolife.com/category/art-culture/toys",
     "source": "web-catalog:technolife-toys",
-    "observedAt": "2026-09-01T05:09:40.358Z"
+    "observedAt": "2026-09-01T10:36:18.955Z"
   },
   {
     "id": "web-kids-toys-32967cabe3a3e045",
@@ -286,7 +235,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "technolife-toys",
     "sourceUrl": "https://www.technolife.com/category/art-culture/toys",
     "source": "web-catalog:technolife-toys",
-    "observedAt": "2026-09-01T05:09:40.358Z"
+    "observedAt": "2026-09-01T10:36:18.955Z"
   },
   {
     "id": "web-kids-toys-be5b324083196e48",
@@ -303,7 +252,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "technolife-toys",
     "sourceUrl": "https://www.technolife.com/category/art-culture/toys",
     "source": "web-catalog:technolife-toys",
-    "observedAt": "2026-09-01T05:09:40.359Z"
+    "observedAt": "2026-09-01T10:36:18.955Z"
   },
   {
     "id": "web-kids-toys-066149f9f6ec3c4e",
@@ -320,7 +269,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "technolife-toys",
     "sourceUrl": "https://www.technolife.com/category/art-culture/toys",
     "source": "web-catalog:technolife-toys",
-    "observedAt": "2026-09-01T05:09:40.359Z"
+    "observedAt": "2026-09-01T10:36:18.955Z"
   },
   {
     "id": "web-kids-toys-bc0a12811e07f638",
@@ -337,7 +286,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "technolife-toys",
     "sourceUrl": "https://www.technolife.com/category/art-culture/toys",
     "source": "web-catalog:technolife-toys",
-    "observedAt": "2026-09-01T05:09:40.359Z"
+    "observedAt": "2026-09-01T10:36:18.955Z"
   },
   {
     "id": "web-kids-toys-184e72c8c4f7134c",
@@ -354,7 +303,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "technolife-toys",
     "sourceUrl": "https://www.technolife.com/category/art-culture/toys",
     "source": "web-catalog:technolife-toys",
-    "observedAt": "2026-09-01T05:09:40.359Z"
+    "observedAt": "2026-09-01T10:36:18.955Z"
   },
   {
     "id": "web-kids-toys-f1c9fc1347664415",
@@ -371,7 +320,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "technolife-toys",
     "sourceUrl": "https://www.technolife.com/category/art-culture/toys",
     "source": "web-catalog:technolife-toys",
-    "observedAt": "2026-09-01T05:09:40.359Z"
+    "observedAt": "2026-09-01T10:36:18.955Z"
   },
   {
     "id": "web-kids-toys-9135aeef76d11985",
@@ -388,7 +337,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "technolife-toys",
     "sourceUrl": "https://www.technolife.com/category/art-culture/toys",
     "source": "web-catalog:technolife-toys",
-    "observedAt": "2026-09-01T05:09:40.359Z"
+    "observedAt": "2026-09-01T10:36:18.955Z"
   },
   {
     "id": "web-kids-toys-daa36dbda7200ad6",
@@ -405,7 +354,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "technolife-toys",
     "sourceUrl": "https://www.technolife.com/category/art-culture/toys",
     "source": "web-catalog:technolife-toys",
-    "observedAt": "2026-09-01T05:09:40.359Z"
+    "observedAt": "2026-09-01T10:36:18.955Z"
   },
   {
     "id": "web-kids-toys-df54098d52492d89",
@@ -422,7 +371,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "technolife-toys",
     "sourceUrl": "https://www.technolife.com/category/art-culture/toys",
     "source": "web-catalog:technolife-toys",
-    "observedAt": "2026-09-01T05:09:40.359Z"
+    "observedAt": "2026-09-01T10:36:18.955Z"
   },
   {
     "id": "web-kids-toys-4093ee308aab2c1c",
@@ -439,7 +388,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "technolife-toys",
     "sourceUrl": "https://www.technolife.com/category/art-culture/toys",
     "source": "web-catalog:technolife-toys",
-    "observedAt": "2026-09-01T05:09:40.359Z"
+    "observedAt": "2026-09-01T10:36:18.956Z"
   },
   {
     "id": "web-kids-toys-e2438b50fdee944d",
@@ -456,7 +405,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "technolife-toys",
     "sourceUrl": "https://www.technolife.com/category/art-culture/toys",
     "source": "web-catalog:technolife-toys",
-    "observedAt": "2026-09-01T05:09:40.359Z"
+    "observedAt": "2026-09-01T10:36:18.956Z"
   },
   {
     "id": "web-kids-toys-884d81bc6497e092",
@@ -473,7 +422,24 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "technolife-toys",
     "sourceUrl": "https://www.technolife.com/category/art-culture/toys",
     "source": "web-catalog:technolife-toys",
-    "observedAt": "2026-09-01T05:09:40.359Z"
+    "observedAt": "2026-09-01T10:36:18.956Z"
+  },
+  {
+    "id": "web-kids-toys-b6d7a3fddfa4a5bb",
+    "productId": "web-kids-toys-b6d7a3fddfa4a5bb",
+    "name": "فانکو فیگور جاموبایلی طرح جوکر کد 2",
+    "brand": "",
+    "model": "فانکو فیگور جاموبایلی طرح جوکر کد 2",
+    "category": "kids-toys",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-315121/%D9%81%D8%A7%D9%86%DA%A9%D9%88-%D9%81%DB%8C%DA%AF%D9%88%D8%B1-%D8%AC%D8%A7%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84%DB%8C-%D8%B7%D8%B1%D8%AD-%D8%AC%D9%88%DA%A9%D8%B1-%DA%A9%D8%AF-2",
+    "image": "",
+    "sourceId": "technolife-toys",
+    "sourceUrl": "https://www.technolife.com/category/art-culture/toys",
+    "source": "web-catalog:technolife-toys",
+    "observedAt": "2026-09-01T10:36:18.956Z"
   },
   {
     "id": "web-kids-toys-8d7488d2c7d64a82",
@@ -490,7 +456,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "technolife-toys",
     "sourceUrl": "https://www.technolife.com/category/art-culture/toys",
     "source": "web-catalog:technolife-toys",
-    "observedAt": "2026-09-01T05:09:40.359Z"
+    "observedAt": "2026-09-01T10:36:18.956Z"
   },
   {
     "id": "web-kids-toys-e5bc7652b77e52d7",
@@ -507,7 +473,41 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "technolife-toys",
     "sourceUrl": "https://www.technolife.com/category/art-culture/toys",
     "source": "web-catalog:technolife-toys",
-    "observedAt": "2026-09-01T05:09:40.359Z"
+    "observedAt": "2026-09-01T10:36:18.956Z"
+  },
+  {
+    "id": "web-kids-toys-092fe34471d2d237",
+    "productId": "web-kids-toys-092fe34471d2d237",
+    "name": "فانکو فیگور جاموبایلی طرح آیرون من",
+    "brand": "",
+    "model": "فانکو فیگور جاموبایلی طرح آیرون من",
+    "category": "kids-toys",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-314960/%D9%81%D8%A7%D9%86%DA%A9%D9%88-%D9%81%DB%8C%DA%AF%D9%88%D8%B1-%D8%AC%D8%A7%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84%DB%8C-%D8%B7%D8%B1%D8%AD-%D8%A2%DB%8C%D8%B1%D9%88%D9%86-%D9%85%D9%86",
+    "image": "",
+    "sourceId": "technolife-toys",
+    "sourceUrl": "https://www.technolife.com/category/art-culture/toys",
+    "source": "web-catalog:technolife-toys",
+    "observedAt": "2026-09-01T10:36:18.956Z"
+  },
+  {
+    "id": "web-kids-toys-434b4f57693f5e9c",
+    "productId": "web-kids-toys-434b4f57693f5e9c",
+    "name": "فانکو فیگور جاموبایلی طرح اسپایدرمن",
+    "brand": "",
+    "model": "فانکو فیگور جاموبایلی طرح اسپایدرمن",
+    "category": "kids-toys",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-314958/%D9%81%D8%A7%D9%86%DA%A9%D9%88-%D9%81%DB%8C%DA%AF%D9%88%D8%B1-%D8%AC%D8%A7%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84%DB%8C-%D8%B7%D8%B1%D8%AD-%D8%A7%D8%B3%D9%BE%D8%A7%DB%8C%D8%AF%D8%B1%D9%85%D9%86",
+    "image": "",
+    "sourceId": "technolife-toys",
+    "sourceUrl": "https://www.technolife.com/category/art-culture/toys",
+    "source": "web-catalog:technolife-toys",
+    "observedAt": "2026-09-01T10:36:18.956Z"
   },
   {
     "id": "web-kids-toys-81e91ec681267ac1",
@@ -524,6 +524,6 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "technolife-toys",
     "sourceUrl": "https://www.technolife.com/category/art-culture/toys",
     "source": "web-catalog:technolife-toys",
-    "observedAt": "2026-09-01T05:09:40.359Z"
+    "observedAt": "2026-09-01T10:36:18.956Z"
   }
 ];

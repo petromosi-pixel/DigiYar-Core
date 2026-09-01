@@ -14,7 +14,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "technolife-laptop",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
     "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-01T05:03:56.445Z"
+    "observedAt": "2026-09-01T10:30:30.577Z"
   },
   {
     "id": "web-laptop-computer-7c5d887d6b127784",
@@ -31,7 +31,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "technolife-laptop",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
     "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-01T05:03:56.445Z"
+    "observedAt": "2026-09-01T10:30:30.577Z"
   },
   {
     "id": "web-laptop-computer-4657f8205ef1d2b5",
@@ -48,7 +48,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "technolife-laptop",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
     "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-01T05:03:56.445Z"
+    "observedAt": "2026-09-01T10:30:30.577Z"
   },
   {
     "id": "web-laptop-computer-753b225cc8cf6201",
@@ -65,7 +65,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "technolife-laptop",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
     "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-01T05:03:56.445Z"
+    "observedAt": "2026-09-01T10:30:30.577Z"
   },
   {
     "id": "web-laptop-computer-56bab8d6a306175c",
@@ -82,7 +82,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "technolife-laptop",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
     "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-01T05:03:56.446Z"
+    "observedAt": "2026-09-01T10:30:30.577Z"
   },
   {
     "id": "web-laptop-computer-28a686f4f330161f",
@@ -99,41 +99,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "technolife-laptop",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
     "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-01T05:03:56.446Z"
-  },
-  {
-    "id": "web-laptop-computer-0707a22eaafaf7fb",
-    "productId": "web-laptop-computer-0707a22eaafaf7fb",
-    "name": "لپ تاپ ایسوس 15.6 اینچی مدل Vivobook 15 X1504VA i7 1355U 16GB 512GB",
-    "brand": "ایسوس",
-    "model": "لپ تاپ ایسوس 15.6 اینچی مدل Vivobook 15 X1504VA i7 1355U 16GB 512GB",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-31158/%D9%84%D9%BE-%D8%AA%D8%A7%D9%BE-%D8%A7%DB%8C%D8%B3%D9%88%D8%B3-15.6-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D9%85%D8%AF%D9%84-vivobook-15-x1504va-i7-1355u-16gb-512gb",
-    "image": "",
-    "sourceId": "technolife-laptop",
-    "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
-    "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-01T05:03:56.446Z"
-  },
-  {
-    "id": "web-laptop-computer-49cdaba09f7d31d3",
-    "productId": "web-laptop-computer-49cdaba09f7d31d3",
-    "name": "لپ تاپ 15.6 اینچی اچ پی مدل Victus 15 FA2013DX i5 13420H 16GB 512GB RTX 3050",
-    "brand": "اچ‌پی",
-    "model": "لپ تاپ 15.6 اینچی اچ پی مدل Victus 15 FA2013DX i5 13420H 16GB 512GB RTX 3050",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-134276/%D9%84%D9%BE-%D8%AA%D8%A7%D9%BE-15.6-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D8%A7%DA%86-%D9%BE%DB%8C-%D9%85%D8%AF%D9%84-victus-15-fa2013dx-i5-13420h-16gb-512gb-rtx-3050",
-    "image": "",
-    "sourceId": "technolife-laptop",
-    "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
-    "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-01T05:03:56.446Z"
+    "observedAt": "2026-09-01T10:30:30.577Z"
   },
   {
     "id": "web-laptop-computer-0e78a542506d159a",
@@ -150,7 +116,41 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "technolife-laptop",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
     "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-01T05:03:56.446Z"
+    "observedAt": "2026-09-01T10:30:30.577Z"
+  },
+  {
+    "id": "web-laptop-computer-0707a22eaafaf7fb",
+    "productId": "web-laptop-computer-0707a22eaafaf7fb",
+    "name": "لپ تاپ ایسوس 15.6 اینچی مدل Vivobook 15 X1504VA i7 1355U 16GB 512GB",
+    "brand": "ایسوس",
+    "model": "لپ تاپ ایسوس 15.6 اینچی مدل Vivobook 15 X1504VA i7 1355U 16GB 512GB",
+    "category": "laptop-computer",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-31158/%D9%84%D9%BE-%D8%AA%D8%A7%D9%BE-%D8%A7%DB%8C%D8%B3%D9%88%D8%B3-15.6-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D9%85%D8%AF%D9%84-vivobook-15-x1504va-i7-1355u-16gb-512gb",
+    "image": "",
+    "sourceId": "technolife-laptop",
+    "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
+    "source": "web-catalog:technolife-laptop",
+    "observedAt": "2026-09-01T10:30:30.577Z"
+  },
+  {
+    "id": "web-laptop-computer-49cdaba09f7d31d3",
+    "productId": "web-laptop-computer-49cdaba09f7d31d3",
+    "name": "لپ تاپ 15.6 اینچی اچ پی مدل Victus 15 FA2013DX i5 13420H 16GB 512GB RTX 3050",
+    "brand": "اچ‌پی",
+    "model": "لپ تاپ 15.6 اینچی اچ پی مدل Victus 15 FA2013DX i5 13420H 16GB 512GB RTX 3050",
+    "category": "laptop-computer",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-134276/%D9%84%D9%BE-%D8%AA%D8%A7%D9%BE-15.6-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D8%A7%DA%86-%D9%BE%DB%8C-%D9%85%D8%AF%D9%84-victus-15-fa2013dx-i5-13420h-16gb-512gb-rtx-3050",
+    "image": "",
+    "sourceId": "technolife-laptop",
+    "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
+    "source": "web-catalog:technolife-laptop",
+    "observedAt": "2026-09-01T10:30:30.577Z"
   },
   {
     "id": "web-laptop-computer-40e9f1ae5e004836",
@@ -167,7 +167,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "technolife-laptop",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
     "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-01T05:03:56.446Z"
+    "observedAt": "2026-09-01T10:30:30.577Z"
   },
   {
     "id": "web-laptop-computer-47989a1ad696396c",
@@ -184,7 +184,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "technolife-laptop",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
     "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-01T05:03:56.446Z"
+    "observedAt": "2026-09-01T10:30:30.577Z"
   },
   {
     "id": "web-laptop-computer-384020e9cfea524f",
@@ -201,7 +201,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "technolife-laptop",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
     "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-01T05:03:56.446Z"
+    "observedAt": "2026-09-01T10:30:30.578Z"
   },
   {
     "id": "web-laptop-computer-2e419bc9671590fc",
@@ -218,7 +218,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "technolife-laptop",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
     "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-01T05:03:56.446Z"
+    "observedAt": "2026-09-01T10:30:30.578Z"
   },
   {
     "id": "web-laptop-computer-0f43a2b7ab2973f0",
@@ -235,7 +235,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "technolife-laptop",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
     "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-01T05:03:56.447Z"
+    "observedAt": "2026-09-01T10:30:30.578Z"
   },
   {
     "id": "web-laptop-computer-9318aa67bf11f13c",
@@ -252,7 +252,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "technolife-laptop",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
     "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-01T05:03:56.447Z"
+    "observedAt": "2026-09-01T10:30:30.578Z"
   },
   {
     "id": "web-laptop-computer-0a2cda3ae0776121",
@@ -269,7 +269,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "technolife-laptop",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
     "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-01T05:03:56.447Z"
+    "observedAt": "2026-09-01T10:30:30.578Z"
   },
   {
     "id": "web-laptop-computer-1226bdc1b5a8630a",
@@ -286,7 +286,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "technolife-laptop",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
     "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-01T05:03:56.447Z"
+    "observedAt": "2026-09-01T10:30:30.578Z"
   },
   {
     "id": "web-laptop-computer-2eb9b46395b20e58",
@@ -303,7 +303,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "technolife-laptop",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
     "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-01T05:03:56.447Z"
+    "observedAt": "2026-09-01T10:30:30.578Z"
   },
   {
     "id": "web-laptop-computer-43682844f8ea0969",
@@ -320,7 +320,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "technolife-laptop",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
     "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-01T05:03:56.447Z"
+    "observedAt": "2026-09-01T10:30:30.578Z"
   },
   {
     "id": "web-laptop-computer-d351c54735a575d1",
@@ -337,7 +337,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "technolife-laptop",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
     "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-01T05:03:56.447Z"
+    "observedAt": "2026-09-01T10:30:30.578Z"
   },
   {
     "id": "web-laptop-computer-a394b20636851bff",
@@ -354,7 +354,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "technolife-laptop",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
     "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-01T05:03:56.447Z"
+    "observedAt": "2026-09-01T10:30:30.578Z"
   },
   {
     "id": "web-laptop-computer-7a2fa03b7e0a3c08",
@@ -371,7 +371,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "technolife-laptop",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
     "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-01T05:03:56.447Z"
+    "observedAt": "2026-09-01T10:30:30.578Z"
   },
   {
     "id": "web-laptop-computer-5398cab2dde98194",
@@ -388,7 +388,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "technolife-laptop",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
     "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-01T05:03:56.447Z"
+    "observedAt": "2026-09-01T10:30:30.578Z"
   },
   {
     "id": "web-laptop-computer-f242bc38496735ba",
@@ -405,7 +405,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "technolife-laptop",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
     "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-01T05:03:56.447Z"
+    "observedAt": "2026-09-01T10:30:30.578Z"
   },
   {
     "id": "web-laptop-computer-b074b861b763e307",
@@ -422,7 +422,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "technolife-laptop",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
     "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-01T05:03:56.447Z"
+    "observedAt": "2026-09-01T10:30:30.578Z"
   },
   {
     "id": "web-laptop-computer-43769759028f4e15",
@@ -439,7 +439,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "technolife-laptop",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
     "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-01T05:03:56.447Z"
+    "observedAt": "2026-09-01T10:30:30.578Z"
   },
   {
     "id": "web-laptop-computer-fd6e6c5105022bcc",
@@ -456,7 +456,24 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "technolife-laptop",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
     "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-01T05:03:56.448Z"
+    "observedAt": "2026-09-01T10:30:30.579Z"
+  },
+  {
+    "id": "web-laptop-computer-eb4f92fcf8a24519",
+    "productId": "web-laptop-computer-eb4f92fcf8a24519",
+    "name": "لپ تاپ لنوو 15.6 اینچی V15 N4500 8GB 256GB",
+    "brand": "لنوو",
+    "model": "لپ تاپ لنوو 15.6 اینچی V15 N4500 8GB 256GB",
+    "category": "laptop-computer",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-33510/%D9%84%D9%BE-%D8%AA%D8%A7%D9%BE-%D9%84%D9%86%D9%88%D9%88-15.6-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-v15-n4500-8gb-256gb",
+    "image": "",
+    "sourceId": "technolife-laptop",
+    "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
+    "source": "web-catalog:technolife-laptop",
+    "observedAt": "2026-09-01T10:30:30.579Z"
   },
   {
     "id": "web-laptop-computer-ecc32525159ecc23",
@@ -473,7 +490,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "technolife-laptop",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
     "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-01T05:03:56.448Z"
+    "observedAt": "2026-09-01T10:30:30.579Z"
   },
   {
     "id": "web-laptop-computer-f45e215a2eab4095",
@@ -490,24 +507,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "technolife-laptop",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
     "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-01T05:03:56.448Z"
-  },
-  {
-    "id": "web-laptop-computer-788157ab6d23d180",
-    "productId": "web-laptop-computer-788157ab6d23d180",
-    "name": "پایه خنک کننده لپ تاپ کولر مستر مدل NotePal Ergostand III",
-    "brand": "دل",
-    "model": "پایه خنک کننده لپ تاپ کولر مستر مدل NotePal Ergostand III",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-39755/%D9%BE%D8%A7%DB%8C%D9%87-%D8%AE%D9%86%DA%A9-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D9%84%D9%BE-%D8%AA%D8%A7%D9%BE-%DA%A9%D9%88%D9%84%D8%B1-%D9%85%D8%B3%D8%AA%D8%B1-%D9%85%D8%AF%D9%84-notepal-ergostand-iii",
-    "image": "",
-    "sourceId": "technolife-laptop",
-    "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
-    "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-01T05:03:56.448Z"
+    "observedAt": "2026-09-01T10:30:30.579Z"
   },
   {
     "id": "web-laptop-computer-92f2735099a887c4",
@@ -524,7 +524,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "technolife-laptop",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
     "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-01T05:03:56.448Z"
+    "observedAt": "2026-09-01T10:30:30.579Z"
   },
   {
     "id": "web-laptop-computer-cd2fe960693503c1",
@@ -541,7 +541,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:04:14.301Z"
+    "observedAt": "2026-09-01T10:30:45.074Z"
   },
   {
     "id": "web-laptop-computer-30cf9e88ccc01fc0",
@@ -558,7 +558,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:04:14.301Z"
+    "observedAt": "2026-09-01T10:30:45.074Z"
   },
   {
     "id": "web-laptop-computer-8846224d38f87719",
@@ -575,7 +575,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:04:14.301Z"
+    "observedAt": "2026-09-01T10:30:45.074Z"
   },
   {
     "id": "web-laptop-computer-507ead069808e5f8",
@@ -592,7 +592,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:04:14.301Z"
+    "observedAt": "2026-09-01T10:30:45.074Z"
   },
   {
     "id": "web-laptop-computer-427371d162966f27",
@@ -609,7 +609,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:04:14.301Z"
+    "observedAt": "2026-09-01T10:30:45.074Z"
   },
   {
     "id": "web-laptop-computer-c1400e06b98a7947",
@@ -626,7 +626,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:04:14.301Z"
+    "observedAt": "2026-09-01T10:30:45.074Z"
   },
   {
     "id": "web-laptop-computer-a86963292d56c994",
@@ -643,7 +643,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:04:14.301Z"
+    "observedAt": "2026-09-01T10:30:45.074Z"
   },
   {
     "id": "web-laptop-computer-e45510805d98193b",
@@ -660,24 +660,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:04:14.301Z"
-  },
-  {
-    "id": "web-laptop-computer-b3b2d42046edb21c",
-    "productId": "web-laptop-computer-b3b2d42046edb21c",
-    "name": "ماوس پد پرووان مدل PMP15",
-    "brand": "دل",
-    "model": "ماوس پد پرووان مدل PMP15",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-43442/%D9%85%D8%A7%D9%88%D8%B3-%D9%BE%D8%AF-%D9%BE%D8%B1%D9%88%D9%88%D8%A7%D9%86-%D9%85%D8%AF%D9%84-pmp15",
-    "image": "",
-    "sourceId": "technolife-pc",
-    "sourceUrl": "https://www.technolife.com/category/pc-equipment",
-    "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:04:14.301Z"
+    "observedAt": "2026-09-01T10:30:45.074Z"
   },
   {
     "id": "web-laptop-computer-e669113b8a028746",
@@ -694,7 +677,24 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:04:14.301Z"
+    "observedAt": "2026-09-01T10:30:45.074Z"
+  },
+  {
+    "id": "web-laptop-computer-b3b2d42046edb21c",
+    "productId": "web-laptop-computer-b3b2d42046edb21c",
+    "name": "ماوس پد پرووان مدل PMP15",
+    "brand": "دل",
+    "model": "ماوس پد پرووان مدل PMP15",
+    "category": "laptop-computer",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-43442/%D9%85%D8%A7%D9%88%D8%B3-%D9%BE%D8%AF-%D9%BE%D8%B1%D9%88%D9%88%D8%A7%D9%86-%D9%85%D8%AF%D9%84-pmp15",
+    "image": "",
+    "sourceId": "technolife-pc",
+    "sourceUrl": "https://www.technolife.com/category/pc-equipment",
+    "source": "web-catalog:technolife-pc",
+    "observedAt": "2026-09-01T10:30:45.074Z"
   },
   {
     "id": "web-laptop-computer-2754113b29a0b9ec",
@@ -711,7 +711,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:04:14.301Z"
+    "observedAt": "2026-09-01T10:30:45.074Z"
   },
   {
     "id": "web-laptop-computer-cfa3e53bef27417d",
@@ -728,7 +728,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:04:14.301Z"
+    "observedAt": "2026-09-01T10:30:45.074Z"
   },
   {
     "id": "web-laptop-computer-de4c35e2beeb0153",
@@ -745,41 +745,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:04:14.301Z"
-  },
-  {
-    "id": "web-laptop-computer-2cccb796f36453da",
-    "productId": "web-laptop-computer-2cccb796f36453da",
-    "name": "فلش مموری ای دیتا مدل UV150 USB3 ظرفیت 64 گیگابایت",
-    "brand": "دل",
-    "model": "فلش مموری ای دیتا مدل UV150 USB3 ظرفیت 64 گیگابایت",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-32268/%D9%81%D9%84%D8%B4-%D9%85%D9%85%D9%88%D8%B1%DB%8C-%D8%A7%DB%8C-%D8%AF%DB%8C%D8%AA%D8%A7-%D9%85%D8%AF%D9%84-uv150-usb3-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-64-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
-    "image": "",
-    "sourceId": "technolife-pc",
-    "sourceUrl": "https://www.technolife.com/category/pc-equipment",
-    "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:04:14.301Z"
-  },
-  {
-    "id": "web-laptop-computer-8df0c8a4f17b238b",
-    "productId": "web-laptop-computer-8df0c8a4f17b238b",
-    "name": "فلش مموری اچ پی مدل V212B ظرفیت 64 گیگابایت",
-    "brand": "اچ‌پی",
-    "model": "فلش مموری اچ پی مدل V212B ظرفیت 64 گیگابایت",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-25433/%D9%81%D9%84%D8%B4-%D9%85%D9%85%D9%88%D8%B1%DB%8C-%D8%A7%DA%86-%D9%BE%DB%8C-%D9%85%D8%AF%D9%84-v212b-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-64-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
-    "image": "",
-    "sourceId": "technolife-pc",
-    "sourceUrl": "https://www.technolife.com/category/pc-equipment",
-    "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:04:14.301Z"
+    "observedAt": "2026-09-01T10:30:45.075Z"
   },
   {
     "id": "web-laptop-computer-dc2ae90bcf5de865",
@@ -796,24 +762,41 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:04:14.301Z"
+    "observedAt": "2026-09-01T10:30:45.075Z"
   },
   {
-    "id": "web-laptop-computer-c70d5fb455ace7fb",
-    "productId": "web-laptop-computer-c70d5fb455ace7fb",
-    "name": "فلش مموری سن دیسک مدل ULTRA SHIFT CZ410 ظرفیت 64 گیگابایت",
+    "id": "web-laptop-computer-2cccb796f36453da",
+    "productId": "web-laptop-computer-2cccb796f36453da",
+    "name": "فلش مموری ای دیتا مدل UV150 USB3 ظرفیت 64 گیگابایت",
     "brand": "دل",
-    "model": "فلش مموری سن دیسک مدل ULTRA SHIFT CZ410 ظرفیت 64 گیگابایت",
+    "model": "فلش مموری ای دیتا مدل UV150 USB3 ظرفیت 64 گیگابایت",
     "category": "laptop-computer",
     "price": 0,
     "currency": "IRR",
     "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-5630/-%D9%81%D9%84%D8%B4-%D9%85%D9%85%D9%88%D8%B1%DB%8C-%D8%B3%D9%86-%D8%AF%DB%8C%D8%B3%DA%A9-%D9%85%D8%AF%D9%84-ultra-shift-cz410-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-64-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
+    "productUrl": "https://www.technolife.com/product-32268/%D9%81%D9%84%D8%B4-%D9%85%D9%85%D9%88%D8%B1%DB%8C-%D8%A7%DB%8C-%D8%AF%DB%8C%D8%AA%D8%A7-%D9%85%D8%AF%D9%84-uv150-usb3-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-64-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
     "image": "",
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:04:14.301Z"
+    "observedAt": "2026-09-01T10:30:45.075Z"
+  },
+  {
+    "id": "web-laptop-computer-8df0c8a4f17b238b",
+    "productId": "web-laptop-computer-8df0c8a4f17b238b",
+    "name": "فلش مموری اچ پی مدل V212B ظرفیت 64 گیگابایت",
+    "brand": "اچ‌پی",
+    "model": "فلش مموری اچ پی مدل V212B ظرفیت 64 گیگابایت",
+    "category": "laptop-computer",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-25433/%D9%81%D9%84%D8%B4-%D9%85%D9%85%D9%88%D8%B1%DB%8C-%D8%A7%DA%86-%D9%BE%DB%8C-%D9%85%D8%AF%D9%84-v212b-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-64-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
+    "image": "",
+    "sourceId": "technolife-pc",
+    "sourceUrl": "https://www.technolife.com/category/pc-equipment",
+    "source": "web-catalog:technolife-pc",
+    "observedAt": "2026-09-01T10:30:45.075Z"
   },
   {
     "id": "web-laptop-computer-b14b60bf6d936930",
@@ -830,7 +813,24 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:04:14.302Z"
+    "observedAt": "2026-09-01T10:30:45.075Z"
+  },
+  {
+    "id": "web-laptop-computer-c70d5fb455ace7fb",
+    "productId": "web-laptop-computer-c70d5fb455ace7fb",
+    "name": "فلش مموری سن دیسک مدل ULTRA SHIFT CZ410 ظرفیت 64 گیگابایت",
+    "brand": "دل",
+    "model": "فلش مموری سن دیسک مدل ULTRA SHIFT CZ410 ظرفیت 64 گیگابایت",
+    "category": "laptop-computer",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-5630/-%D9%81%D9%84%D8%B4-%D9%85%D9%85%D9%88%D8%B1%DB%8C-%D8%B3%D9%86-%D8%AF%DB%8C%D8%B3%DA%A9-%D9%85%D8%AF%D9%84-ultra-shift-cz410-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-64-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
+    "image": "",
+    "sourceId": "technolife-pc",
+    "sourceUrl": "https://www.technolife.com/category/pc-equipment",
+    "source": "web-catalog:technolife-pc",
+    "observedAt": "2026-09-01T10:30:45.075Z"
   },
   {
     "id": "web-laptop-computer-854005ca74051252",
@@ -847,7 +847,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:04:14.302Z"
+    "observedAt": "2026-09-01T10:30:45.075Z"
   },
   {
     "id": "web-laptop-computer-e2a0261e5e95d823",
@@ -864,24 +864,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:04:14.302Z"
-  },
-  {
-    "id": "web-laptop-computer-416bfbae33e8a373",
-    "productId": "web-laptop-computer-416bfbae33e8a373",
-    "name": "کابل شیایومی تایپ سی اورجینال مناسب برای آداپتور 33وات",
-    "brand": "",
-    "model": "کابل شیایومی تایپ سی اورجینال مناسب برای آداپتور 33وات",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-2902/%DA%A9%D8%A7%D8%A8%D9%84-%D8%B4%DB%8C%D8%A7%DB%8C%D9%88%D9%85%DB%8C-%D8%AA%D8%A7%DB%8C%D9%BE-%D8%B3%DB%8C-%D8%A7%D9%88%D8%B1%D8%AC%DB%8C%D9%86%D8%A7%D9%84-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A2%D8%AF%D8%A7%D9%BE%D8%AA%D9%88%D8%B1-33%D9%88%D8%A7%D8%AA",
-    "image": "",
-    "sourceId": "technolife-pc",
-    "sourceUrl": "https://www.technolife.com/category/pc-equipment",
-    "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:04:14.302Z"
+    "observedAt": "2026-09-01T10:30:45.075Z"
   },
   {
     "id": "web-laptop-computer-70ca8da5ed54afbe",
@@ -898,7 +881,24 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:04:14.302Z"
+    "observedAt": "2026-09-01T10:30:45.075Z"
+  },
+  {
+    "id": "web-laptop-computer-416bfbae33e8a373",
+    "productId": "web-laptop-computer-416bfbae33e8a373",
+    "name": "کابل شیایومی تایپ سی اورجینال مناسب برای آداپتور 33وات",
+    "brand": "",
+    "model": "کابل شیایومی تایپ سی اورجینال مناسب برای آداپتور 33وات",
+    "category": "laptop-computer",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-2902/%DA%A9%D8%A7%D8%A8%D9%84-%D8%B4%DB%8C%D8%A7%DB%8C%D9%88%D9%85%DB%8C-%D8%AA%D8%A7%DB%8C%D9%BE-%D8%B3%DB%8C-%D8%A7%D9%88%D8%B1%D8%AC%DB%8C%D9%86%D8%A7%D9%84-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A2%D8%AF%D8%A7%D9%BE%D8%AA%D9%88%D8%B1-33%D9%88%D8%A7%D8%AA",
+    "image": "",
+    "sourceId": "technolife-pc",
+    "sourceUrl": "https://www.technolife.com/category/pc-equipment",
+    "source": "web-catalog:technolife-pc",
+    "observedAt": "2026-09-01T10:30:45.075Z"
   },
   {
     "id": "web-laptop-computer-29d3464fc76bd0a7",
@@ -915,7 +915,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:04:14.302Z"
+    "observedAt": "2026-09-01T10:30:45.075Z"
   },
   {
     "id": "web-laptop-computer-838893d24fe10401",
@@ -932,41 +932,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:04:14.302Z"
-  },
-  {
-    "id": "web-laptop-computer-cdf06d56a78d100f",
-    "productId": "web-laptop-computer-cdf06d56a78d100f",
-    "name": "هارد اکسترنال توشیبا مدل Canvio Basics با ظرفیت 2 ترابایت",
-    "brand": "دل",
-    "model": "هارد اکسترنال توشیبا مدل Canvio Basics با ظرفیت 2 ترابایت",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-4661/%D9%87%D8%A7%D8%B1%D8%AF-%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%D9%86%D8%A7%D9%84-%D8%AA%D9%88%D8%B4%DB%8C%D8%A8%D8%A7-%D9%85%D8%AF%D9%84-canvio-basics-%D8%A8%D8%A7-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-2-%D8%AA%D8%B1%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-",
-    "image": "",
-    "sourceId": "technolife-pc",
-    "sourceUrl": "https://www.technolife.com/category/pc-equipment",
-    "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:04:14.302Z"
-  },
-  {
-    "id": "web-laptop-computer-3edf5f68d8fb11ca",
-    "productId": "web-laptop-computer-3edf5f68d8fb11ca",
-    "name": "هارد اس اس دی اینترنال پی ان وای مدل CS900 ظرفیت 500 گیگابایت",
-    "brand": "دل",
-    "model": "هارد اس اس دی اینترنال پی ان وای مدل CS900 ظرفیت 500 گیگابایت",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-67272/-%D9%87%D8%A7%D8%B1%D8%AF-%D8%A7%D8%B3-%D8%A7%D8%B3-%D8%AF%DB%8C-%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%A7%D9%84-%D9%BE%DB%8C-%D8%A7%D9%86-%D9%88%D8%A7%DB%8C-%D9%85%D8%AF%D9%84-cs900-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-500-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
-    "image": "",
-    "sourceId": "technolife-pc",
-    "sourceUrl": "https://www.technolife.com/category/pc-equipment",
-    "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:04:14.302Z"
+    "observedAt": "2026-09-01T10:30:45.075Z"
   },
   {
     "id": "web-laptop-computer-dac5aa408d98397c",
@@ -983,24 +949,41 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:04:14.302Z"
+    "observedAt": "2026-09-01T10:30:45.075Z"
   },
   {
-    "id": "web-laptop-computer-93a7bc142defc698",
-    "productId": "web-laptop-computer-93a7bc142defc698",
-    "name": "کیبورد گیمینگ اونیکوما مدل G55 RGB",
+    "id": "web-laptop-computer-cdf06d56a78d100f",
+    "productId": "web-laptop-computer-cdf06d56a78d100f",
+    "name": "هارد اکسترنال توشیبا مدل Canvio Basics با ظرفیت 2 ترابایت",
     "brand": "دل",
-    "model": "کیبورد گیمینگ اونیکوما مدل G55 RGB",
+    "model": "هارد اکسترنال توشیبا مدل Canvio Basics با ظرفیت 2 ترابایت",
     "category": "laptop-computer",
     "price": 0,
     "currency": "IRR",
     "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-75714/%DA%A9%DB%8C%D8%A8%D9%88%D8%B1%D8%AF-%DA%AF%DB%8C%D9%85%DB%8C%D9%86%DA%AF-%D8%A7%D9%88%D9%86%DB%8C%DA%A9%D9%88%D9%85%D8%A7-%D9%85%D8%AF%D9%84-g55-rgb",
+    "productUrl": "https://www.technolife.com/product-4661/%D9%87%D8%A7%D8%B1%D8%AF-%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%D9%86%D8%A7%D9%84-%D8%AA%D9%88%D8%B4%DB%8C%D8%A8%D8%A7-%D9%85%D8%AF%D9%84-canvio-basics-%D8%A8%D8%A7-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-2-%D8%AA%D8%B1%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-",
     "image": "",
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:04:14.302Z"
+    "observedAt": "2026-09-01T10:30:45.075Z"
+  },
+  {
+    "id": "web-laptop-computer-3edf5f68d8fb11ca",
+    "productId": "web-laptop-computer-3edf5f68d8fb11ca",
+    "name": "هارد اس اس دی اینترنال پی ان وای مدل CS900 ظرفیت 500 گیگابایت",
+    "brand": "دل",
+    "model": "هارد اس اس دی اینترنال پی ان وای مدل CS900 ظرفیت 500 گیگابایت",
+    "category": "laptop-computer",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-67272/-%D9%87%D8%A7%D8%B1%D8%AF-%D8%A7%D8%B3-%D8%A7%D8%B3-%D8%AF%DB%8C-%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%A7%D9%84-%D9%BE%DB%8C-%D8%A7%D9%86-%D9%88%D8%A7%DB%8C-%D9%85%D8%AF%D9%84-cs900-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-500-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
+    "image": "",
+    "sourceId": "technolife-pc",
+    "sourceUrl": "https://www.technolife.com/category/pc-equipment",
+    "source": "web-catalog:technolife-pc",
+    "observedAt": "2026-09-01T10:30:45.075Z"
   },
   {
     "id": "web-laptop-computer-f93758119d658098",
@@ -1017,7 +1000,24 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:04:14.302Z"
+    "observedAt": "2026-09-01T10:30:45.075Z"
+  },
+  {
+    "id": "web-laptop-computer-93a7bc142defc698",
+    "productId": "web-laptop-computer-93a7bc142defc698",
+    "name": "کیبورد گیمینگ اونیکوما مدل G55 RGB",
+    "brand": "دل",
+    "model": "کیبورد گیمینگ اونیکوما مدل G55 RGB",
+    "category": "laptop-computer",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-75714/%DA%A9%DB%8C%D8%A8%D9%88%D8%B1%D8%AF-%DA%AF%DB%8C%D9%85%DB%8C%D9%86%DA%AF-%D8%A7%D9%88%D9%86%DB%8C%DA%A9%D9%88%D9%85%D8%A7-%D9%85%D8%AF%D9%84-g55-rgb",
+    "image": "",
+    "sourceId": "technolife-pc",
+    "sourceUrl": "https://www.technolife.com/category/pc-equipment",
+    "source": "web-catalog:technolife-pc",
+    "observedAt": "2026-09-01T10:30:45.075Z"
   },
   {
     "id": "web-laptop-computer-9fc7c86d18c3ed55",
@@ -1034,7 +1034,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:04:14.302Z"
+    "observedAt": "2026-09-01T10:30:45.075Z"
   },
   {
     "id": "web-laptop-computer-74a131616fabe7ea",
@@ -1051,7 +1051,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "digizo-laptop",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo-laptop",
-    "observedAt": "2026-09-01T05:04:38.888Z"
+    "observedAt": "2026-09-01T10:31:13.141Z"
   },
   {
     "id": "web-laptop-computer-6c25677416742d91",
@@ -1068,7 +1068,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "digizo-laptop",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo-laptop",
-    "observedAt": "2026-09-01T05:04:38.888Z"
+    "observedAt": "2026-09-01T10:31:13.141Z"
   },
   {
     "id": "web-laptop-computer-1260ae7fc74f94a9",
@@ -1085,7 +1085,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "digizo-laptop",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo-laptop",
-    "observedAt": "2026-09-01T05:04:38.888Z"
+    "observedAt": "2026-09-01T10:31:13.141Z"
   },
   {
     "id": "web-laptop-computer-59323fb881139325",
@@ -1102,7 +1102,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "digizo-laptop",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo-laptop",
-    "observedAt": "2026-09-01T05:04:38.888Z"
+    "observedAt": "2026-09-01T10:31:13.141Z"
   },
   {
     "id": "web-laptop-computer-19e2545266242d38",
@@ -1119,7 +1119,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "digizo-laptop",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo-laptop",
-    "observedAt": "2026-09-01T05:04:38.888Z"
+    "observedAt": "2026-09-01T10:31:13.141Z"
   },
   {
     "id": "web-laptop-computer-cc737582b60d8fd1",
@@ -1136,7 +1136,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "digizo-laptop",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo-laptop",
-    "observedAt": "2026-09-01T05:04:38.889Z"
+    "observedAt": "2026-09-01T10:31:13.141Z"
   },
   {
     "id": "web-laptop-computer-49ea914ba46ff268",
@@ -1153,7 +1153,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "digizo-laptop",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo-laptop",
-    "observedAt": "2026-09-01T05:04:38.889Z"
+    "observedAt": "2026-09-01T10:31:13.141Z"
   },
   {
     "id": "web-laptop-computer-db0d0da890b8a017",
@@ -1170,7 +1170,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "digizo-laptop",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo-laptop",
-    "observedAt": "2026-09-01T05:04:38.889Z"
+    "observedAt": "2026-09-01T10:31:13.141Z"
   },
   {
     "id": "web-laptop-computer-cf109e7895d93399",
@@ -1187,7 +1187,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "digizo-laptop",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo-laptop",
-    "observedAt": "2026-09-01T05:04:38.889Z"
+    "observedAt": "2026-09-01T10:31:13.141Z"
   },
   {
     "id": "web-laptop-computer-083ae4267cc4fa4e",
@@ -1204,7 +1204,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "digizo-laptop",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo-laptop",
-    "observedAt": "2026-09-01T05:04:38.889Z"
+    "observedAt": "2026-09-01T10:31:13.141Z"
   },
   {
     "id": "web-laptop-computer-540daf962f97c662",
@@ -1221,7 +1221,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "digizo-laptop",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo-laptop",
-    "observedAt": "2026-09-01T05:04:38.889Z"
+    "observedAt": "2026-09-01T10:31:13.141Z"
   },
   {
     "id": "web-laptop-computer-4df16b3a045d9a2d",
@@ -1238,7 +1238,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "digizo-laptop",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo-laptop",
-    "observedAt": "2026-09-01T05:04:38.889Z"
+    "observedAt": "2026-09-01T10:31:13.142Z"
   },
   {
     "id": "web-laptop-computer-97ae288dd9e46772",
@@ -1255,7 +1255,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "digizo-laptop",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo-laptop",
-    "observedAt": "2026-09-01T05:04:38.889Z"
+    "observedAt": "2026-09-01T10:31:13.142Z"
   },
   {
     "id": "web-laptop-computer-cf201bb4a3d30454",
@@ -1272,7 +1272,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "digizo-laptop",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo-laptop",
-    "observedAt": "2026-09-01T05:04:38.889Z"
+    "observedAt": "2026-09-01T10:31:13.142Z"
   },
   {
     "id": "web-laptop-computer-adc9a601462f8f0b",
@@ -1289,7 +1289,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "digizo-laptop",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo-laptop",
-    "observedAt": "2026-09-01T05:04:38.889Z"
+    "observedAt": "2026-09-01T10:31:13.142Z"
   },
   {
     "id": "web-laptop-computer-90f6a69e2a515c51",
@@ -1306,7 +1306,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "digizo-laptop",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo-laptop",
-    "observedAt": "2026-09-01T05:04:38.889Z"
+    "observedAt": "2026-09-01T10:31:13.142Z"
   },
   {
     "id": "web-laptop-computer-aadce9236ae2f43a",
@@ -1323,7 +1323,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "digizo-laptop",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo-laptop",
-    "observedAt": "2026-09-01T05:04:38.889Z"
+    "observedAt": "2026-09-01T10:31:13.142Z"
   },
   {
     "id": "web-laptop-computer-04af902ddde9eace",
@@ -1340,7 +1340,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "digizo-laptop",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo-laptop",
-    "observedAt": "2026-09-01T05:04:38.890Z"
+    "observedAt": "2026-09-01T10:31:13.142Z"
   },
   {
     "id": "web-laptop-computer-b9da8b6fdc430f13",
@@ -1357,7 +1357,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "digizo-laptop",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo-laptop",
-    "observedAt": "2026-09-01T05:04:38.890Z"
+    "observedAt": "2026-09-01T10:31:13.143Z"
   },
   {
     "id": "web-laptop-computer-0eac0fe2022c59fe",
@@ -1374,1026 +1374,6 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "digizo-laptop",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo-laptop",
-    "observedAt": "2026-09-01T05:04:38.890Z"
-  },
-  {
-    "id": "web-laptop-computer-a3498f18e7584bb5",
-    "productId": "web-laptop-computer-a3498f18e7584bb5",
-    "name": "3% موجود",
-    "brand": "",
-    "model": "3% موجود",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "in_stock",
-    "productUrl": "https://elecamp.ir/product/%d9%84%d9%be-%d8%aa%d8%a7%d9%be-%da%af%db%8c%d9%85%db%8c%d9%86%da%af-%d8%a7%db%8c%d8%b3%d9%88%d8%b3-fx608jhr-x-i5-14450hx-16gb-512gb-ssd-8gb-rtx-5050-wuxga-ips-165hz/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.306Z"
-  },
-  {
-    "id": "web-laptop-computer-cf408d1ab721258c",
-    "productId": "web-laptop-computer-cf408d1ab721258c",
-    "name": "3% 1 عدد در انبار",
-    "brand": "",
-    "model": "3% 1 عدد در انبار",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%d9%84%d9%be-%d8%aa%d8%a7%d9%be-%d8%a7%d9%85-%d8%a7%d8%b3-%d8%a2%db%8c-15-6-%d8%a7%db%8c%d9%86%da%86%db%8c-%d9%85%d8%af%d9%84-venturepro-15-a2rweg-core-7-240h-16gb-512gb-rtx5050/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.306Z"
-  },
-  {
-    "id": "web-laptop-computer-5de14023e108ab3b",
-    "productId": "web-laptop-computer-5de14023e108ab3b",
-    "name": "1% موجود",
-    "brand": "",
-    "model": "1% موجود",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "in_stock",
-    "productUrl": "https://elecamp.ir/product/%d9%84%d9%be-%d8%aa%d8%a7%d9%be-17-3-%d8%a7%db%8c%d9%86%da%86%db%8c-%d8%a7%db%8c%d8%b3%d9%88%d8%b3-%d9%85%d8%af%d9%84-tuf-gaming-f17-fx707vj-core-5-210h-16gb-512gb-ssd-6gb-rtx3050/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.306Z"
-  },
-  {
-    "id": "web-laptop-computer-3b6e904a56268fa2",
-    "productId": "web-laptop-computer-3b6e904a56268fa2",
-    "name": "3% موجود",
-    "brand": "",
-    "model": "3% موجود",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "in_stock",
-    "productUrl": "https://elecamp.ir/product/%d9%84%d9%be-%d8%aa%d8%a7%d9%be-15-6-%d8%a7%db%8c%d9%86%da%86%db%8c-%d9%84%d9%86%d9%88%d9%88-%d9%85%d8%af%d9%84-loq-15irx10-i7-13650hx-24gb-512gb-rtx5060-fhd/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.306Z"
-  },
-  {
-    "id": "web-laptop-computer-d9c226c68dfcaaee",
-    "productId": "web-laptop-computer-d9c226c68dfcaaee",
-    "name": "1% موجود",
-    "brand": "",
-    "model": "1% موجود",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "in_stock",
-    "productUrl": "https://elecamp.ir/product/%d9%84%d9%be-%d8%aa%d8%a7%d9%be-%d8%a7%da%86-%d9%be%db%8c-%d9%85%d8%af%d9%84-victus-15-gaming-fa2082wm-i5-13420h-16gb-512gb-ssd-rtx4050-6gb-fh/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.306Z"
-  },
-  {
-    "id": "web-laptop-computer-450bb537506fe1d6",
-    "productId": "web-laptop-computer-450bb537506fe1d6",
-    "name": "5% موجود",
-    "brand": "",
-    "model": "5% موجود",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "in_stock",
-    "productUrl": "https://elecamp.ir/product/%d9%84%d9%be-%d8%aa%d8%a7%d9%be-15-6-%d8%a7%db%8c%d9%86%da%86%db%8c-%d8%a7%d9%85-%d8%a7%d8%b3-%d8%a2%db%8c-%d9%85%d8%af%d9%84-cyborg-15-a13uc-i7-13620h-16gb-512gb-ssd-rtx3050-4gb-fhd-144h/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.307Z"
-  },
-  {
-    "id": "web-laptop-computer-04144aef957517f3",
-    "productId": "web-laptop-computer-04144aef957517f3",
-    "name": "2% موجود",
-    "brand": "",
-    "model": "2% موجود",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "in_stock",
-    "productUrl": "https://elecamp.ir/product/%d9%84%d9%be-%d8%aa%d8%a7%d9%be-15-6-%d8%a7%db%8c%d9%86%da%86%db%8c-%d8%a7%d9%85-%d8%a7%d8%b3-%d8%a2%db%8c-%d9%85%d8%af%d9%84-thin-15-b13uc-i7-13620h-16gb-512gb-rtx3050-fhd/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.307Z"
-  },
-  {
-    "id": "web-laptop-computer-e0075f48a11c6c41",
-    "productId": "web-laptop-computer-e0075f48a11c6c41",
-    "name": "3% موجود",
-    "brand": "",
-    "model": "3% موجود",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "in_stock",
-    "productUrl": "https://elecamp.ir/product/%d9%84%d9%be-%d8%aa%d8%a7%d9%be-%d8%a7%d9%85-%d8%a7%d8%b3-%d8%a2%db%8c-%d9%85%d8%af%d9%84-venturepro-15-a2rweg-core-7-240h-16gb-ddr5-5600mhz-1tb-ssd-rtx5050-8gb-fhd/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.307Z"
-  },
-  {
-    "id": "web-laptop-computer-2cd92229bcbac7e5",
-    "productId": "web-laptop-computer-2cd92229bcbac7e5",
-    "name": "8% موجود",
-    "brand": "",
-    "model": "8% موجود",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "in_stock",
-    "productUrl": "https://elecamp.ir/product/%d9%84%d9%be-%d8%aa%d8%a7%d9%be-%d8%a7%db%8c%d8%b3%d8%b1-%d9%85%d8%af%d9%84-aspire-7-a715-59g-58a8-i5-12450h-16gb-512ssd-rtx3050/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.307Z"
-  },
-  {
-    "id": "web-laptop-computer-1547fc1dfdcd4435",
-    "productId": "web-laptop-computer-1547fc1dfdcd4435",
-    "name": "17% موجود",
-    "brand": "",
-    "model": "17% موجود",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "in_stock",
-    "productUrl": "https://elecamp.ir/product/%d9%84%d9%be-%d8%aa%d8%a7%d9%be-%d8%a7%db%8c%d8%b3%d9%88%d8%b3-tuf-gaming-fx517zr-i7-12650h-16gb-512gb-ssd/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.307Z"
-  },
-  {
-    "id": "web-laptop-computer-6fb21fa83e9edec2",
-    "productId": "web-laptop-computer-6fb21fa83e9edec2",
-    "name": "11% موجود",
-    "brand": "",
-    "model": "11% موجود",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "in_stock",
-    "productUrl": "https://elecamp.ir/product/%d9%84%d9%be-%d8%aa%d8%a7%d9%be-%d8%a7%db%8c%d8%b3%d9%88%d8%b3-%d9%85%d8%af%d9%84-v16-v3607vh-%d9%be%d8%b1%d8%af%d8%a7%d8%b2%d9%86%d8%af%d9%87-core-7-%d8%a8%d8%a7-%d8%ad%d8%a7%d9%81%d8%b8%d9%87-%db%b1/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.307Z"
-  },
-  {
-    "id": "web-laptop-computer-e25de2ebaf433256",
-    "productId": "web-laptop-computer-e25de2ebaf433256",
-    "name": "1% موجود",
-    "brand": "",
-    "model": "1% موجود",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "in_stock",
-    "productUrl": "https://elecamp.ir/product/%d9%84%d9%be-%d8%aa%d8%a7%d9%be-%d8%a7%da%86-%d9%be%db%8c-victus-15-fa2013dx-i5-13420h-rtx-3050-6gb-32gb-512-ssd/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.308Z"
-  },
-  {
-    "id": "web-laptop-computer-c3171941d4acf196",
-    "productId": "web-laptop-computer-c3171941d4acf196",
-    "name": "لپ تاپ ایسر 15.6 اینچی مدل Aspire Go 15 AG15-32P-39R2 Core 3 N355 8GB 128GB 512GB core 3 Intel Graphics 8 گیگابایت 128 گیگابایت | 512 گیگابایت",
-    "brand": "دل",
-    "model": "لپ تاپ ایسر 15.6 اینچی مدل Aspire Go 15 AG15-32P-39R2 Core 3 N355 8GB 128GB 512GB core 3 Intel Graphics 8 گیگابایت 128 گیگابایت | 512 گیگابایت",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%d9%84%d9%be-%d8%aa%d8%a7%d9%be-%d8%a7%db%8c%d8%b3%d8%b1-15-6-%d8%a7%db%8c%d9%86%da%86%db%8c-%d9%85%d8%af%d9%84-aspire-go-15-ag15-32p-39r2-core-3-n355-8gb-128gb-512gb/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.308Z"
-  },
-  {
-    "id": "web-laptop-computer-a79eb1db6b83b26b",
-    "productId": "web-laptop-computer-a79eb1db6b83b26b",
-    "name": "لپ تاپ گیمینگ 2025 ایسوس ROG Strix G16 G615JMR Core i7 14650HX 16GB DDR5 1TB SSD RTX 5060 8GB GDDR7 WUXGA Core i7 GeForce RTX 5060 16 گیگابایت 1 ترابایت",
-    "brand": "ایسوس",
-    "model": "لپ تاپ گیمینگ 2025 ایسوس ROG Strix G16 G615JMR Core i7 14650HX 16GB DDR5 1TB SSD RTX 5060 8GB GDDR7 WUXGA Core i7 GeForce RTX 5060 16 گیگابایت 1 ترابایت",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%d9%84%d9%be-%d8%aa%d8%a7%d9%be-%da%af%db%8c%d9%85%db%8c%d9%86%da%af-2025-%d8%a7%db%8c%d8%b3%d9%88%d8%b3-rog-strix-g16-g615jmr-core-i7-14650hx-16gb-ddr5-1tb-ssd-rtx-5060-8gb-gddr7-wuxga/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.308Z"
-  },
-  {
-    "id": "web-laptop-computer-cb75f7ae068134c8",
-    "productId": "web-laptop-computer-cb75f7ae068134c8",
-    "name": "لپ تاپ ایسر 15.6 اینچی مدل Aspire Go 15 AG15-32P-39R2 Core 3 N355 8GB 128GB core 3 Intel Graphics 8 گیگابایت 128 گیگابایت",
-    "brand": "دل",
-    "model": "لپ تاپ ایسر 15.6 اینچی مدل Aspire Go 15 AG15-32P-39R2 Core 3 N355 8GB 128GB core 3 Intel Graphics 8 گیگابایت 128 گیگابایت",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%d9%84%d9%be-%d8%aa%d8%a7%d9%be-%d8%a7%db%8c%d8%b3%d8%b1-15-6-%d8%a7%db%8c%d9%86%da%86%db%8c-%d9%85%d8%af%d9%84-aspire-go-15-ag15-32p-39r2-core-3-n355-8gb-128gb/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.308Z"
-  },
-  {
-    "id": "web-laptop-computer-0688ae365e26ca5e",
-    "productId": "web-laptop-computer-0688ae365e26ca5e",
-    "name": "لپ تاپ گیمینگ ام اس آی 16 اینچی مدل Vector 16 AI A2XWHG Core Ultra 9 275HX 32GB 1TB RTX5070 Ti Core Ultra 9 GeForce RTX ۵۰۷۰ Ti 32 گیگابایت 1 ترابایت",
-    "brand": "دل",
-    "model": "لپ تاپ گیمینگ ام اس آی 16 اینچی مدل Vector 16 AI A2XWHG Core Ultra 9 275HX 32GB 1TB RTX5070 Ti Core Ultra 9 GeForce RTX ۵۰۷۰ Ti 32 گیگابایت 1 ترابایت",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%d9%84%d9%be-%d8%aa%d8%a7%d9%be-%da%af%db%8c%d9%85%db%8c%d9%86%da%af-%d8%a7%d9%85-%d8%a7%d8%b3-%d8%a2%db%8c-16-%d8%a7%db%8c%d9%86%da%86%db%8c-%d9%85%d8%af%d9%84-vector-16-ai-a2xwhg-core-ultra-9-275hx/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.308Z"
-  },
-  {
-    "id": "web-laptop-computer-bea2d4f5f105b82c",
-    "productId": "web-laptop-computer-bea2d4f5f105b82c",
-    "name": "1% موجود",
-    "brand": "",
-    "model": "1% موجود",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "in_stock",
-    "productUrl": "https://elecamp.ir/product/%d9%84%d9%be-%d8%aa%d8%a7%d9%be-17-3-%d8%a7%db%8c%d9%86%da%86%db%8c-%d8%a7%db%8c%d8%b3%d9%88%d8%b3-%d9%85%d8%af%d9%84-tuf-gaming-f17-fx707vj-core-5-210h-16gb-1tb-ssd-6gb-rtx3050/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.309Z"
-  },
-  {
-    "id": "web-laptop-computer-f40ef1c9c15e8a66",
-    "productId": "web-laptop-computer-f40ef1c9c15e8a66",
-    "name": "3% موجود",
-    "brand": "",
-    "model": "3% موجود",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "in_stock",
-    "productUrl": "https://elecamp.ir/product/%d9%84%d9%be-%d8%aa%d8%a7%d9%be-%d9%84%d9%86%d9%88%d9%88-%d9%85%d8%af%d9%84-ideapad-1-15iru7-core-i5-1335u-16gb-ddr4-512gb-ssd-intel/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.309Z"
-  },
-  {
-    "id": "web-laptop-computer-5850051f80b37562",
-    "productId": "web-laptop-computer-5850051f80b37562",
-    "name": "7% موجود",
-    "brand": "",
-    "model": "7% موجود",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "in_stock",
-    "productUrl": "https://elecamp.ir/product/%d9%84%d9%be-%d8%aa%d8%a7%d9%be-%d8%a7%db%8c%d8%b3%d9%88%d8%b3-vivobook-14-x1404va-intel-core-5-16gb-ram-512gb-ssd-14-fhd-display/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.310Z"
-  },
-  {
-    "id": "web-laptop-computer-378a6c4d8cb3c6ad",
-    "productId": "web-laptop-computer-378a6c4d8cb3c6ad",
-    "name": "6% موجود",
-    "brand": "",
-    "model": "6% موجود",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "in_stock",
-    "productUrl": "https://elecamp.ir/product/%d9%84%d9%be-%d8%aa%d8%a7%d9%be-15-6-%d8%a7%db%8c%d9%86%da%86%db%8c-%da%af%db%8c%d9%85%db%8c%d9%86%da%af-msi-%d9%85%d8%af%d9%84-thin-a15-b7uc-ryzen-7-7735hs-8g-512ssd-4g-rtx-3050-fhd-144hz/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.310Z"
-  },
-  {
-    "id": "web-laptop-computer-f2ad812cc37d8061",
-    "productId": "web-laptop-computer-f2ad812cc37d8061",
-    "name": "10% موجود",
-    "brand": "",
-    "model": "10% موجود",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "in_stock",
-    "productUrl": "https://elecamp.ir/product/%d9%84%d9%be-%d8%aa%d8%a7%d9%be-%d8%a7%db%8c%d8%b3%d9%88%d8%b3-vivobook-14-x1404va-intel-core-5-8gb-ram-512gb-ssd-14-inch-fhd-display/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.310Z"
-  },
-  {
-    "id": "web-laptop-computer-a245e12643310fe6",
-    "productId": "web-laptop-computer-a245e12643310fe6",
-    "name": "لپ تاپ 15.6 اینچی ایسوس مدل Vivobook 15 F1504VA-NJ1213-Core i3 1315U-4GB DDR4 3200MHz-256GB SSD Core i3 Intel Graphics 4 گیگابایت 256 گیگابایت",
-    "brand": "ایسوس",
-    "model": "لپ تاپ 15.6 اینچی ایسوس مدل Vivobook 15 F1504VA-NJ1213-Core i3 1315U-4GB DDR4 3200MHz-256GB SSD Core i3 Intel Graphics 4 گیگابایت 256 گیگابایت",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%d9%84%d9%be-%d8%aa%d8%a7%d9%be-%d8%a7%db%8c%d8%b3%d9%88%d8%b3-%d9%85%d8%af%d9%84-vivobook-15-f1504va-nj1213-core-i3-1315u-4gb-ddr4-3200mhz-256gb-ssd/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.310Z"
-  },
-  {
-    "id": "web-laptop-computer-d408e5fbb887f114",
-    "productId": "web-laptop-computer-d408e5fbb887f114",
-    "name": "لپ تاپ 15.6 اینچی ایسوس Expert Book B1503CVA Core 5 120U 8GB 512GB SSD INTEL Core 5 Iris Xe (integrated) 8 گیگابایت 512 گیگابایت",
-    "brand": "ایسوس",
-    "model": "لپ تاپ 15.6 اینچی ایسوس Expert Book B1503CVA Core 5 120U 8GB 512GB SSD INTEL Core 5 Iris Xe (integrated) 8 گیگابایت 512 گیگابایت",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%d9%84%d9%be-%d8%aa%d8%a7%d9%be-15-6-%d8%a7%db%8c%d9%86%da%86%db%8c-%d8%a7%db%8c%d8%b3%d9%88%d8%b3-expert-book-b1503cva-core-5-120u-8gb-512gb-ssd-intel/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.310Z"
-  },
-  {
-    "id": "web-laptop-computer-029eeedd8d92e4be",
-    "productId": "web-laptop-computer-029eeedd8d92e4be",
-    "name": "لپ تاپ لنوو مدل LOQ 15IRX9-i7 13650HX-16GB DDR5-512 SSD-RTX3050-FHD-W Core i7 GeForce RTX 3050 16 گیگابایت 512 گیگابایت",
-    "brand": "لنوو",
-    "model": "لپ تاپ لنوو مدل LOQ 15IRX9-i7 13650HX-16GB DDR5-512 SSD-RTX3050-FHD-W Core i7 GeForce RTX 3050 16 گیگابایت 512 گیگابایت",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%d9%84%d9%be-%d8%aa%d8%a7%d9%be-%d9%84%d9%86%d9%88%d9%88-%d9%85%d8%af%d9%84-loq-15irx9-i7-13650hx-16gb-ddr5-512-ssd-rtx3050-fhd-w/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.310Z"
-  },
-  {
-    "id": "web-laptop-computer-ce71b6217203d166",
-    "productId": "web-laptop-computer-ce71b6217203d166",
-    "name": "لپ تاپ 15.6 اینچی لنوو مدل LOQ 15ARP9-R5 7235HS-16GB DDR5 4800MHz-512GB SSD-RTX4050 6GB-FHD 144Hz-W Ryzen 5 GeForce RTX 4050 16 گیگابایت 512 گیگابایت",
-    "brand": "لنوو",
-    "model": "لپ تاپ 15.6 اینچی لنوو مدل LOQ 15ARP9-R5 7235HS-16GB DDR5 4800MHz-512GB SSD-RTX4050 6GB-FHD 144Hz-W Ryzen 5 GeForce RTX 4050 16 گیگابایت 512 گیگابایت",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%d9%84%d9%be-%d8%aa%d8%a7%d9%be-%d9%84%d9%86%d9%88%d9%88-%d9%85%d8%af%d9%84-loq-15arp9-r5-7235hs-16gb-512gb-rtx4050-6gb-fhd-144hz-w/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.310Z"
-  },
-  {
-    "id": "web-laptop-computer-15d521f44f3cb2cf",
-    "productId": "web-laptop-computer-15d521f44f3cb2cf",
-    "name": "لپ تاپ 15.6 اینچی لنوو مدل LOQ 15IRX9-i7 13650HX-24GB DDR5 4800MHz-512GB SSD-RTX5060-FHD Core i7 GeForce RTX 5060 24 گیگابایت 512 گیگابایت",
-    "brand": "لنوو",
-    "model": "لپ تاپ 15.6 اینچی لنوو مدل LOQ 15IRX9-i7 13650HX-24GB DDR5 4800MHz-512GB SSD-RTX5060-FHD Core i7 GeForce RTX 5060 24 گیگابایت 512 گیگابایت",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%d9%84%d9%be-%d8%aa%d8%a7%d9%be-15-6-%d8%a7%db%8c%d9%86%da%86%db%8c-%d9%84%d9%86%d9%88%d9%88-%d9%85%d8%af%d9%84-loq-15irx9-i7-13650hx-24gb-ddr5-4800mhz-512gb-ssd-rtx5060-fhd/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.311Z"
-  },
-  {
-    "id": "web-laptop-computer-13da2a263cc36715",
-    "productId": "web-laptop-computer-13da2a263cc36715",
-    "name": "لپ تاپ 15.6 اینچ لنوو مدل IdeaPad 1 15IRU7-Core i5 1335U-8GB DDR4 3200MHz-256GB SSD-Touch-W Core i5 UHD Graphics (integrated) 8 گیگابایت 256 گیگابایت",
-    "brand": "لنوو",
-    "model": "لپ تاپ 15.6 اینچ لنوو مدل IdeaPad 1 15IRU7-Core i5 1335U-8GB DDR4 3200MHz-256GB SSD-Touch-W Core i5 UHD Graphics (integrated) 8 گیگابایت 256 گیگابایت",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%d9%84%d9%be-%d8%aa%d8%a7%d9%be-%d9%84%d9%86%d9%88%d9%88-%d9%85%d8%af%d9%84-ideapad-1-15iru7-core-i5-1335u-8gb-ddr4-3200mhz-256gb-ssd-touch-w/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.311Z"
-  },
-  {
-    "id": "web-laptop-computer-3bf29d78c572e2d2",
-    "productId": "web-laptop-computer-3bf29d78c572e2d2",
-    "name": "لپ تاپ 15.6 اینچی لنوو مدل V15 G4 ABP-R7 7730U-16GB DDR4-512GB SSD-TN Ryzen 7 Radeon Graphics 16 گیگابایت 512 گیگابایت",
-    "brand": "لنوو",
-    "model": "لپ تاپ 15.6 اینچی لنوو مدل V15 G4 ABP-R7 7730U-16GB DDR4-512GB SSD-TN Ryzen 7 Radeon Graphics 16 گیگابایت 512 گیگابایت",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%d9%84%d9%be-%d8%aa%d8%a7%d9%be-15-6-%d8%a7%db%8c%d9%86%da%86%db%8c-%d9%84%d9%86%d9%88%d9%88-%d9%85%d8%af%d9%84-v15-g4-abp-r7-7730u-16gb-ddr4-512gb-ssd-tn/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.311Z"
-  },
-  {
-    "id": "web-laptop-computer-06ffa5dfaa6f26b0",
-    "productId": "web-laptop-computer-06ffa5dfaa6f26b0",
-    "name": "لپ تاپ 14 اینچی لنوو مدل IdeaPad Slim 5 Ultra 7 155H 16GB 512GB Core Ultra 7 Arc Graphics 16 گیگابایت 512 گیگابایت",
-    "brand": "لنوو",
-    "model": "لپ تاپ 14 اینچی لنوو مدل IdeaPad Slim 5 Ultra 7 155H 16GB 512GB Core Ultra 7 Arc Graphics 16 گیگابایت 512 گیگابایت",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%d9%84%d9%be-%d8%aa%d8%a7%d9%be-14-%d8%a7%db%8c%d9%86%da%86%db%8c-%d9%84%d9%86%d9%88%d9%88-%d9%85%d8%af%d9%84-ideapad-slim-5-ultra-7-155h-16gb-512gb/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.311Z"
-  },
-  {
-    "id": "web-laptop-computer-cc31c21815943284",
-    "productId": "web-laptop-computer-cc31c21815943284",
-    "name": "لپ تاپ لنوو 15.6 اینچی مدل LOQ R5 7235HS 12GB 512GB RTX3050 A Ryzen 5 GeForce RTX 3050 12 گیگابایت 512 گیگابایت",
-    "brand": "لنوو",
-    "model": "لپ تاپ لنوو 15.6 اینچی مدل LOQ R5 7235HS 12GB 512GB RTX3050 A Ryzen 5 GeForce RTX 3050 12 گیگابایت 512 گیگابایت",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%d9%84%d9%be-%d8%aa%d8%a7%d9%be-%d9%84%d9%86%d9%88%d9%88-15-6-%d8%a7%db%8c%d9%86%da%86%db%8c-%d9%85%d8%af%d9%84-loq-r5-7235hs-12gb-512gb-rtx3050-a/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.311Z"
-  },
-  {
-    "id": "web-laptop-computer-29601a7d041252df",
-    "productId": "web-laptop-computer-29601a7d041252df",
-    "name": "لپ تاپ 15.6 اینچی لنوو مدل V15 G2 IJL-Celeron N4500-8GB DDR4-512GB SSD Celeron | N4500 8 گیگابایت 512 گیگابایت",
-    "brand": "لنوو",
-    "model": "لپ تاپ 15.6 اینچی لنوو مدل V15 G2 IJL-Celeron N4500-8GB DDR4-512GB SSD Celeron | N4500 8 گیگابایت 512 گیگابایت",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%d9%84%d9%be-%d8%aa%d8%a7%d9%be-%d9%84%d9%86%d9%88%d9%88-15-6-%d8%a7%db%8c%d9%86%da%86%db%8c-v15-n4500-8gb-512gb/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.311Z"
-  },
-  {
-    "id": "web-laptop-computer-4b12103d4273d047",
-    "productId": "web-laptop-computer-4b12103d4273d047",
-    "name": "کیف لپ تاپ دوشی Cat کد 1084 0 خرید",
-    "brand": "",
-    "model": "کیف لپ تاپ دوشی Cat کد 1084 0 خرید",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%da%a9%db%8c%d9%81-%d9%84%d9%be-%d8%aa%d8%a7%d9%be-%d8%af%d9%88%d8%b4%db%8c-cat-%da%a9%d8%af-1084/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.311Z"
-  },
-  {
-    "id": "web-laptop-computer-e59fa1ba27148e6f",
-    "productId": "web-laptop-computer-e59fa1ba27148e6f",
-    "name": "17% کیف لپ تاپ سه کاره benetton کد 1018 0 خرید",
-    "brand": "",
-    "model": "17% کیف لپ تاپ سه کاره benetton کد 1018 0 خرید",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%da%a9%db%8c%d9%81-%d9%84%d9%be-%d8%aa%d8%a7%d9%be-%d8%b3%d9%87-%da%a9%d8%a7%d8%b1%d9%87-benetton-%da%a9%d8%af-1018/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.311Z"
-  },
-  {
-    "id": "web-laptop-computer-7ad7fd8d2a3459e3",
-    "productId": "web-laptop-computer-7ad7fd8d2a3459e3",
-    "name": "کیف لپ تاپ 17 اینچی دوشی Gabol کد 1104 0 خرید",
-    "brand": "",
-    "model": "کیف لپ تاپ 17 اینچی دوشی Gabol کد 1104 0 خرید",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%da%a9%db%8c%d9%81-%d9%84%d9%be-%d8%aa%d8%a7%d9%be-17-%d8%a7%db%8c%d9%86%da%86%db%8c-%d8%af%d9%88%d8%b4%db%8c-gabol-%da%a9%d8%af-1104/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.311Z"
-  },
-  {
-    "id": "web-laptop-computer-4f2e4dbea0a09ed5",
-    "productId": "web-laptop-computer-4f2e4dbea0a09ed5",
-    "name": "20% کیف لپ تاپ برند CAT کد 1092 0 خرید",
-    "brand": "",
-    "model": "20% کیف لپ تاپ برند CAT کد 1092 0 خرید",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%da%a9%db%8c%d9%81-%d9%84%d9%be-%d8%aa%d8%a7%d9%be-%d8%a8%d8%b1%d9%86%d8%af-cat-%da%a9%d8%af-1092/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.311Z"
-  },
-  {
-    "id": "web-laptop-computer-8fc0c51864f7923d",
-    "productId": "web-laptop-computer-8fc0c51864f7923d",
-    "name": "48% کیف کراس بادی اورجینال بادی بگ بنج 7566 0 خرید",
-    "brand": "",
-    "model": "48% کیف کراس بادی اورجینال بادی بگ بنج 7566 0 خرید",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%da%a9%db%8c%d9%81-%da%a9%d8%b1%d8%a7%d8%b3-%d8%a8%d8%a7%d8%af%db%8c-%d8%a7%d9%88%d8%b1%d8%ac%db%8c%d9%86%d8%a7%d9%84-%d8%a8%d8%a7%d8%af%db%8c-%d8%a8%da%af-%d8%a8%d9%86%d8%ac-7566/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.311Z"
-  },
-  {
-    "id": "web-laptop-computer-0a43237dff8a0ce8",
-    "productId": "web-laptop-computer-0a43237dff8a0ce8",
-    "name": "10% کیف دستی لپ تاپ 1033بنتون Benetton 0 خرید",
-    "brand": "",
-    "model": "10% کیف دستی لپ تاپ 1033بنتون Benetton 0 خرید",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%da%a9%db%8c%d9%81-%d8%af%d8%b3%d8%aa%db%8c-%d9%84%d9%be-%d8%aa%d8%a7%d9%be-1033%d8%a8%d9%86%d8%aa%d9%88%d9%86-benetton/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.311Z"
-  },
-  {
-    "id": "web-laptop-computer-87367868431c86b7",
-    "productId": "web-laptop-computer-87367868431c86b7",
-    "name": "5% کیف کوله پشتی لپ تاپ Bange مدل B0112 0 خرید",
-    "brand": "دل",
-    "model": "5% کیف کوله پشتی لپ تاپ Bange مدل B0112 0 خرید",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%da%a9%d9%88%d9%84%d9%87-%d9%be%d8%b4%d8%aa%db%8c-%d9%84%d9%be-%d8%aa%d8%a7%d9%be-%d9%85%d8%af%d9%84-bange/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.311Z"
-  },
-  {
-    "id": "web-laptop-computer-6af97de79f8da0bd",
-    "productId": "web-laptop-computer-6af97de79f8da0bd",
-    "name": "5% کیف لپ تاپ سه کاره Cat مناسب برای لپ تاپ 15.6 اینچی 0 خرید",
-    "brand": "",
-    "model": "5% کیف لپ تاپ سه کاره Cat مناسب برای لپ تاپ 15.6 اینچی 0 خرید",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%da%a9%db%8c%d9%81-%d9%84%d9%be-%d8%aa%d8%a7%d9%be-%d8%b3%d9%87-%da%a9%d8%a7%d8%b1%d9%87-cat-15-6/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.311Z"
-  },
-  {
-    "id": "web-laptop-computer-02e071298980b981",
-    "productId": "web-laptop-computer-02e071298980b981",
-    "name": "کیف لپ تاپ CAMEL مناسب برای لپ تاپ 15.6 اینچی 0 خرید",
-    "brand": "",
-    "model": "کیف لپ تاپ CAMEL مناسب برای لپ تاپ 15.6 اینچی 0 خرید",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%da%a9%db%8c%d9%81-%d9%84%d9%be-%d8%aa%d8%a7%d9%be-%d8%af%d9%88%d8%b4%db%8c-camel/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.311Z"
-  },
-  {
-    "id": "web-laptop-computer-70b09daae8c22a9c",
-    "productId": "web-laptop-computer-70b09daae8c22a9c",
-    "name": "کیف لپ‌تاپ CAT مدل دانشجویی ۱۵.۶ اینچ 0 خرید",
-    "brand": "دل",
-    "model": "کیف لپ‌تاپ CAT مدل دانشجویی ۱۵.۶ اینچ 0 خرید",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%da%a9%db%8c%d9%81-%d9%84%d9%be%d8%aa%d8%a7%d9%be-%d8%af%d9%88%d8%b4%db%8c-cat-%d9%85%d8%af%d9%84-%d8%af%d8%a7%d9%86%d8%b4%d8%ac%d9%88%db%8c%db%8c-%db%b1%db%b5-%db%b6-%d8%a7%db%8c%d9%86%da%86/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.311Z"
-  },
-  {
-    "id": "web-laptop-computer-405c1ed2852edbbe",
-    "productId": "web-laptop-computer-405c1ed2852edbbe",
-    "name": "ماوس هترون مدل HM350SL 1 خرید",
-    "brand": "دل",
-    "model": "ماوس هترون مدل HM350SL 1 خرید",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%d9%85%d8%a7%d9%88%d8%b3-%d9%87%d8%aa%d8%b1%d9%88%d9%86-%d9%85%d8%af%d9%84-hm350sl/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.311Z"
-  },
-  {
-    "id": "web-laptop-computer-310e89533adb9498",
-    "productId": "web-laptop-computer-310e89533adb9498",
-    "name": "ماوس هترون مدل HM402SL 0 خرید",
-    "brand": "دل",
-    "model": "ماوس هترون مدل HM402SL 0 خرید",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%d9%85%d8%a7%d9%88%d8%b3-%d9%87%d8%aa%d8%b1%d9%88%d9%86-%d9%85%d8%af%d9%84-hm402sl-2/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.312Z"
-  },
-  {
-    "id": "web-laptop-computer-8d1a062722584fe1",
-    "productId": "web-laptop-computer-8d1a062722584fe1",
-    "name": "ماوس بی سیم هترون مدل HMW122SL 0 خرید",
-    "brand": "دل",
-    "model": "ماوس بی سیم هترون مدل HMW122SL 0 خرید",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%d9%85%d8%a7%d9%88%d8%b3-%d8%a8%db%8c-%d8%b3%db%8c%d9%85-%d9%87%d8%aa%d8%b1%d9%88%d9%86-%d9%85%d8%af%d9%84-hmw122sl/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.312Z"
-  },
-  {
-    "id": "web-laptop-computer-2a0b0cc134558f8b",
-    "productId": "web-laptop-computer-2a0b0cc134558f8b",
-    "name": "ماوس هترون مدل HMW120SL 0 خرید",
-    "brand": "دل",
-    "model": "ماوس هترون مدل HMW120SL 0 خرید",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%d9%85%d8%a7%d9%88%d8%b3-%d9%87%d8%aa%d8%b1%d9%88%d9%86-%d9%85%d8%af%d9%84-hmw120sl/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.312Z"
-  },
-  {
-    "id": "web-laptop-computer-abb9018e2b257d53",
-    "productId": "web-laptop-computer-abb9018e2b257d53",
-    "name": "موس بی سیم وان مکس مدل OM-GW3 0 خرید",
-    "brand": "دل",
-    "model": "موس بی سیم وان مکس مدل OM-GW3 0 خرید",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%d9%85%d9%88%d8%b3-%d8%a8%db%8c-%d8%b3%db%8c%d9%85-%d9%88%d8%a7%d9%86-%d9%85%da%a9%d8%b3-%d9%85%d8%af%d9%84-om-gw3/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.312Z"
-  },
-  {
-    "id": "web-laptop-computer-5526408fdac81317",
-    "productId": "web-laptop-computer-5526408fdac81317",
-    "name": "موس وان مکس مدل SILENT ONEMAX-440 0 خرید",
-    "brand": "دل",
-    "model": "موس وان مکس مدل SILENT ONEMAX-440 0 خرید",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%d9%85%d8%a7%d9%88%d8%b3-%d9%88%d8%a7%d9%86-%d9%85%da%a9%d8%b3-%d9%85%d8%af%d9%84-silent-onemax-440/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.312Z"
-  },
-  {
-    "id": "web-laptop-computer-e9eb8c60046d6a37",
-    "productId": "web-laptop-computer-e9eb8c60046d6a37",
-    "name": "موس سیمی وان‌ مکس SILENT ONEMAX M420 0 خرید",
-    "brand": "",
-    "model": "موس سیمی وان‌ مکس SILENT ONEMAX M420 0 خرید",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%d9%85%d8%a7%d9%88%d8%b3-%d8%b3%db%8c%d9%85%db%8c-silent-onemax-m420/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.312Z"
-  },
-  {
-    "id": "web-laptop-computer-4e504719769cd7e9",
-    "productId": "web-laptop-computer-4e504719769cd7e9",
-    "name": "ماوس باسیم فراسو مدل BM1130 0 خرید",
-    "brand": "دل",
-    "model": "ماوس باسیم فراسو مدل BM1130 0 خرید",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%d9%85%d8%a7%d9%88%d8%b3-%d8%a8%db%8c%d8%a7%d9%86%d8%af-%d9%85%d8%af%d9%84-bm-1130/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.312Z"
-  },
-  {
-    "id": "web-laptop-computer-f065895db5384219",
-    "productId": "web-laptop-computer-f065895db5384219",
-    "name": "ماوس هترون مدل HM402SL 1 خرید",
-    "brand": "دل",
-    "model": "ماوس هترون مدل HM402SL 1 خرید",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%d9%85%d8%a7%d9%88%d8%b3-%d9%87%d8%aa%d8%b1%d9%88%d9%86-%d9%85%d8%af%d9%84-hm402sl/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.312Z"
-  },
-  {
-    "id": "web-laptop-computer-3a7688050785e833",
-    "productId": "web-laptop-computer-3a7688050785e833",
-    "name": "موس گیمینگ تسکو GM 2031 0 خرید",
-    "brand": "",
-    "model": "موس گیمینگ تسکو GM 2031 0 خرید",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%d9%85%d9%88%d8%b3-%da%af%db%8c%d9%85%db%8c%d9%86%da%af-%d8%aa%d8%b3%da%a9%d9%88-gm-2031/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.312Z"
-  },
-  {
-    "id": "web-laptop-computer-3b17a37329cda1db",
-    "productId": "web-laptop-computer-3b17a37329cda1db",
-    "name": "ماوس تسکو مدل TM-775GA 0 خرید",
-    "brand": "دل",
-    "model": "ماوس تسکو مدل TM-775GA 0 خرید",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%d9%85%d8%a7%d9%88%d8%b3-%d8%aa%d8%b3%da%a9%d9%88-%d9%85%d8%af%d9%84-tm-775ga/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.312Z"
-  },
-  {
-    "id": "web-laptop-computer-b6a185fcbb0d7434",
-    "productId": "web-laptop-computer-b6a185fcbb0d7434",
-    "name": "ماوس مخصوص بازی تسکو مدل GM 2025 0 خرید",
-    "brand": "دل",
-    "model": "ماوس مخصوص بازی تسکو مدل GM 2025 0 خرید",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%d9%85%d8%a7%d9%88%d8%b3-%d9%85%d8%ae%d8%b5%d9%88%d8%b5-%d8%a8%d8%a7%d8%b2%db%8c-%d8%aa%d8%b3%da%a9%d9%88-%d9%85%d8%af%d9%84-gm-2025/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.312Z"
-  },
-  {
-    "id": "web-laptop-computer-870aa21a0bd1a599",
-    "productId": "web-laptop-computer-870aa21a0bd1a599",
-    "name": "پایه خنک کننده لپ تاپ هترون مدل HCP131 0 خرید",
-    "brand": "دل",
-    "model": "پایه خنک کننده لپ تاپ هترون مدل HCP131 0 خرید",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%d9%be%d8%a7%db%8c%d9%87-%d8%ae%d9%86%da%a9-%da%a9%d9%86%d9%86%d8%af%d9%87-%d9%84%d9%be-%d8%aa%d8%a7%d9%be-%d9%87%d8%aa%d8%b1%d9%88%d9%86-%d9%85%d8%af%d9%84-hcp131/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.312Z"
-  },
-  {
-    "id": "web-laptop-computer-e3ce1fd472dfb9dc",
-    "productId": "web-laptop-computer-e3ce1fd472dfb9dc",
-    "name": "12% پایه نگهدارنده لپ تاپ تسکو مدل TCLP 3099 0 خرید",
-    "brand": "دل",
-    "model": "12% پایه نگهدارنده لپ تاپ تسکو مدل TCLP 3099 0 خرید",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%d9%be%d8%a7%db%8c%d9%87-%d9%86%da%af%d9%87%d8%af%d8%a7%d8%b1%d9%86%d8%af%d9%87-%d9%84%d9%be-%d8%aa%d8%a7%d9%be-%d8%aa%d8%b3%da%a9%d9%88-%d9%85%d8%af%d9%84-tclp-3099/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.312Z"
-  },
-  {
-    "id": "web-laptop-computer-e2e4ef2e05d616f4",
-    "productId": "web-laptop-computer-e2e4ef2e05d616f4",
-    "name": "پایه خنک کننده تسکو مدل TCLP 3102 0 خرید",
-    "brand": "دل",
-    "model": "پایه خنک کننده تسکو مدل TCLP 3102 0 خرید",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%d9%be%d8%a7%db%8c%d9%87-%d8%ae%d9%86%da%a9-%da%a9%d9%86%d9%86%d8%af%d9%87-%d8%aa%d8%b3%da%a9%d9%88-%d9%85%d8%af%d9%84-tclp-3102/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.312Z"
-  },
-  {
-    "id": "web-laptop-computer-e532e9abc919af5c",
-    "productId": "web-laptop-computer-e532e9abc919af5c",
-    "name": "2 آنتی ویروس ESET 1 Device Security یک ساله تومان 95.000",
-    "brand": "",
-    "model": "2 آنتی ویروس ESET 1 Device Security یک ساله تومان 95.000",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%d8%a2%d9%86%d8%aa%db%8c-%d9%88%db%8c%d8%b1%d9%88%d8%b3-eset-1-device-security-%db%8c%da%a9-%d8%b3%d8%a7%d9%84%d9%87/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.312Z"
-  },
-  {
-    "id": "web-laptop-computer-59a289c71efec6b2",
-    "productId": "web-laptop-computer-59a289c71efec6b2",
-    "name": "3 کاور لپ تاپ اس واندر مدل Crampler-1 مناسب برای لپ تاپ 15.6 اینچی تومان 649.000",
-    "brand": "دل",
-    "model": "3 کاور لپ تاپ اس واندر مدل Crampler-1 مناسب برای لپ تاپ 15.6 اینچی تومان 649.000",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%da%a9%d8%a7%d9%88%d8%b1-%d9%84%d9%be-%d8%aa%d8%a7%d9%be-%d8%a7%d8%b3-%d9%88%d8%a7%d9%86%d8%af%d8%b1-%d9%85%d8%af%d9%84-crampler-1-%d9%85%d9%86%d8%a7%d8%b3%d8%a8-%d8%a8%d8%b1%d8%a7%db%8c-%d9%84%d9%be/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.312Z"
-  },
-  {
-    "id": "web-laptop-computer-4dc150938f41f873",
-    "productId": "web-laptop-computer-4dc150938f41f873",
-    "name": "4 لپ تاپ گیمینگ ایسوس TUF GAMING A15 FA506NFR Ryzen 7 7435HS RTX 2050 32GB DDR5 512GB SSD تومان 179.000.000",
-    "brand": "ایسوس",
-    "model": "4 لپ تاپ گیمینگ ایسوس TUF GAMING A15 FA506NFR Ryzen 7 7435HS RTX 2050 32GB DDR5 512GB SSD تومان 179.000.000",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/tuf-a15-fa506nfr-r7-7435hs-rtx-2050-32gb-512g/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.312Z"
-  },
-  {
-    "id": "web-laptop-computer-a74cc9d44129fcde",
-    "productId": "web-laptop-computer-a74cc9d44129fcde",
-    "name": "5 لپ تاپ 15.6 اینچی ایسوس مدل Vivobook X1504VA-BQ3988-Core 7 150U 8GB 512SSD تومان 99.300.000",
-    "brand": "ایسوس",
-    "model": "5 لپ تاپ 15.6 اینچی ایسوس مدل Vivobook X1504VA-BQ3988-Core 7 150U 8GB 512SSD تومان 99.300.000",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%d9%84%d9%be-%d8%aa%d8%a7%d9%be-15-6-%d8%a7%db%8c%d9%86%da%86%db%8c-%d8%a7%db%8c%d8%b3%d9%88%d8%b3-%d9%85%d8%af%d9%84-vivobook-x1504va-bq3988-core-7-150u-8gb-512ssd/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.312Z"
+    "observedAt": "2026-09-01T10:31:13.143Z"
   }
 ];

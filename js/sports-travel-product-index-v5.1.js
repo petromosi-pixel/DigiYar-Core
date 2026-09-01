@@ -14,7 +14,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-01T05:08:31.795Z"
+    "observedAt": "2026-09-01T10:35:00.249Z"
   },
   {
     "id": "web-sports-travel-10bfecfa891d981c",
@@ -31,7 +31,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-01T05:08:31.795Z"
+    "observedAt": "2026-09-01T10:35:00.249Z"
   },
   {
     "id": "web-sports-travel-82c69780733de8d8",
@@ -48,7 +48,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-01T05:08:31.795Z"
+    "observedAt": "2026-09-01T10:35:00.249Z"
   },
   {
     "id": "web-sports-travel-ec3a6b4a75fcd4b0",
@@ -65,7 +65,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-01T05:08:31.795Z"
+    "observedAt": "2026-09-01T10:35:00.250Z"
   },
   {
     "id": "web-sports-travel-9356245ebe75164b",
@@ -82,7 +82,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-01T05:08:31.795Z"
+    "observedAt": "2026-09-01T10:35:00.250Z"
   },
   {
     "id": "web-sports-travel-63f3178e41f8ba21",
@@ -99,7 +99,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-01T05:08:31.795Z"
+    "observedAt": "2026-09-01T10:35:00.250Z"
   },
   {
     "id": "web-sports-travel-1eecbd80f5ab7f03",
@@ -116,7 +116,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-01T05:08:31.795Z"
+    "observedAt": "2026-09-01T10:35:00.250Z"
   },
   {
     "id": "web-sports-travel-d325eedb66c735ad",
@@ -133,7 +133,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-01T05:08:31.795Z"
+    "observedAt": "2026-09-01T10:35:00.250Z"
   },
   {
     "id": "web-sports-travel-6aa138a88eb5fc41",
@@ -150,7 +150,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-01T05:08:31.795Z"
+    "observedAt": "2026-09-01T10:35:00.250Z"
   },
   {
     "id": "web-sports-travel-397a8b5a4aef6864",
@@ -167,7 +167,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-01T05:08:31.795Z"
+    "observedAt": "2026-09-01T10:35:00.250Z"
   },
   {
     "id": "web-sports-travel-85c06676ecfb1f5a",
@@ -184,7 +184,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-01T05:08:31.795Z"
+    "observedAt": "2026-09-01T10:35:00.250Z"
   },
   {
     "id": "web-sports-travel-c3ca31dab42021aa",
@@ -201,7 +201,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-01T05:08:31.795Z"
+    "observedAt": "2026-09-01T10:35:00.250Z"
   },
   {
     "id": "web-sports-travel-d28079a836f6bd58",
@@ -218,7 +218,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-01T05:08:31.795Z"
+    "observedAt": "2026-09-01T10:35:00.251Z"
   },
   {
     "id": "web-sports-travel-57ebcd92145529f5",
@@ -235,7 +235,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-01T05:08:31.795Z"
+    "observedAt": "2026-09-01T10:35:00.251Z"
   },
   {
     "id": "web-sports-travel-02a207d14ad563ab",
@@ -252,7 +252,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-01T05:08:31.795Z"
+    "observedAt": "2026-09-01T10:35:00.251Z"
   },
   {
     "id": "web-sports-travel-b82b70bb75d57dd9",
@@ -269,7 +269,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-01T05:08:31.795Z"
+    "observedAt": "2026-09-01T10:35:00.251Z"
   },
   {
     "id": "web-sports-travel-76cfec8539f3a918",
@@ -286,7 +286,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-01T05:08:31.796Z"
+    "observedAt": "2026-09-01T10:35:00.251Z"
   },
   {
     "id": "web-sports-travel-10684287a122dcf4",
@@ -303,7 +303,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-01T05:08:31.796Z"
+    "observedAt": "2026-09-01T10:35:00.251Z"
   },
   {
     "id": "web-sports-travel-9589776b61338c3b",
@@ -320,7 +320,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-01T05:08:31.796Z"
+    "observedAt": "2026-09-01T10:35:00.251Z"
   },
   {
     "id": "web-sports-travel-49bf25b41e3cebb1",
@@ -337,7 +337,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-01T05:08:31.796Z"
+    "observedAt": "2026-09-01T10:35:00.252Z"
   },
   {
     "id": "web-sports-travel-ad1f430d9ca7b1db",
@@ -354,7 +354,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-01T05:08:31.796Z"
+    "observedAt": "2026-09-01T10:35:00.252Z"
   },
   {
     "id": "web-sports-travel-5958f36dec07d9ce",
@@ -371,7 +371,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-01T05:08:31.796Z"
+    "observedAt": "2026-09-01T10:35:00.252Z"
   },
   {
     "id": "web-sports-travel-97cffa853e0ca5ae",
@@ -388,7 +388,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-01T05:08:31.796Z"
+    "observedAt": "2026-09-01T10:35:00.252Z"
   },
   {
     "id": "web-sports-travel-9bc9e6144cc223c9",
@@ -405,7 +405,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-01T05:08:31.796Z"
+    "observedAt": "2026-09-01T10:35:00.253Z"
   },
   {
     "id": "web-sports-travel-cd66fc09da2a7672",
@@ -422,7 +422,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-01T05:08:31.796Z"
+    "observedAt": "2026-09-01T10:35:00.253Z"
   },
   {
     "id": "web-sports-travel-8307536693bb0fb9",
@@ -439,7 +439,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-01T05:08:31.796Z"
+    "observedAt": "2026-09-01T10:35:00.253Z"
   },
   {
     "id": "web-sports-travel-a61a128a84592156",
@@ -456,7 +456,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-01T05:08:31.796Z"
+    "observedAt": "2026-09-01T10:35:00.253Z"
   },
   {
     "id": "web-sports-travel-063a32eada370900",
@@ -473,7 +473,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-01T05:08:31.796Z"
+    "observedAt": "2026-09-01T10:35:00.253Z"
   },
   {
     "id": "web-sports-travel-30bd5cb9cd523a7c",
@@ -490,7 +490,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-01T05:08:31.796Z"
+    "observedAt": "2026-09-01T10:35:00.253Z"
   },
   {
     "id": "web-sports-travel-9c76b834c281bd5b",
@@ -507,7 +507,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-01T05:08:31.796Z"
+    "observedAt": "2026-09-01T10:35:00.253Z"
   },
   {
     "id": "web-sports-travel-b3dfedd3b869243b",
@@ -524,6 +524,6 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-01T05:08:31.797Z"
+    "observedAt": "2026-09-01T10:35:00.253Z"
   }
 ];

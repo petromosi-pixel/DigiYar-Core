@@ -1,13 +1,13 @@
 {
   "version": "5.1",
   "maxProductsPerCategory": 500,
-  "generatedAt": "2026-09-01T05:02:56.137Z",
+  "generatedAt": "2026-09-01T10:29:35.034Z",
   "categories": [
     {
       "id": "mobile",
       "name": "موبایل و تبلت",
       "file": "data/catalog/mobile.json",
-      "count": 147,
+      "count": 149,
       "sources": [
         "technolife-mobile",
         "mobile-ir",
@@ -19,7 +19,7 @@
       "id": "laptop-computer",
       "name": "لپ تاپ، کامپیوتر و اداری",
       "file": "data/catalog/laptop-computer.json",
-      "count": 141,
+      "count": 81,
       "sources": [
         "technolife-laptop",
         "technolife-pc",

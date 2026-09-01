@@ -14,7 +14,7 @@ export const HOME_APPLIANCES_PRODUCTS = [
     "sourceId": "technolife-home",
     "sourceUrl": "https://www.technolife.com/category/home-app",
     "source": "web-catalog:technolife-home",
-    "observedAt": "2026-09-01T05:05:27.748Z"
+    "observedAt": "2026-09-01T10:31:52.357Z"
   },
   {
     "id": "web-home-appliances-92b6966851d09081",
@@ -31,7 +31,7 @@ export const HOME_APPLIANCES_PRODUCTS = [
     "sourceId": "technolife-home",
     "sourceUrl": "https://www.technolife.com/category/home-app",
     "source": "web-catalog:technolife-home",
-    "observedAt": "2026-09-01T05:05:27.748Z"
+    "observedAt": "2026-09-01T10:31:52.357Z"
   },
   {
     "id": "web-home-appliances-7bf700615c476688",
@@ -48,7 +48,7 @@ export const HOME_APPLIANCES_PRODUCTS = [
     "sourceId": "technolife-home",
     "sourceUrl": "https://www.technolife.com/category/home-app",
     "source": "web-catalog:technolife-home",
-    "observedAt": "2026-09-01T05:05:27.748Z"
+    "observedAt": "2026-09-01T10:31:52.357Z"
   },
   {
     "id": "web-home-appliances-fb88e3cb10eea807",
@@ -65,24 +65,7 @@ export const HOME_APPLIANCES_PRODUCTS = [
     "sourceId": "technolife-home",
     "sourceUrl": "https://www.technolife.com/category/home-app",
     "source": "web-catalog:technolife-home",
-    "observedAt": "2026-09-01T05:05:27.748Z"
-  },
-  {
-    "id": "web-home-appliances-c0d4a3bee8bd4cd2",
-    "productId": "web-home-appliances-c0d4a3bee8bd4cd2",
-    "name": "اتو بخار کف تیتانیوم پارس خزر مدل SI-DS 702",
-    "brand": "دل",
-    "model": "اتو بخار کف تیتانیوم پارس خزر مدل SI-DS 702",
-    "category": "home-appliances",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-102243/-%D8%A7%D8%AA%D9%88-%D8%A8%D8%AE%D8%A7%D8%B1-%DA%A9%D9%81-%D8%AA%DB%8C%D8%AA%D8%A7%D9%86%DB%8C%D9%88%D9%85-%D9%BE%D8%A7%D8%B1%D8%B3-%D8%AE%D8%B2%D8%B1-%D9%85%D8%AF%D9%84-si-ds-702",
-    "image": "",
-    "sourceId": "technolife-home",
-    "sourceUrl": "https://www.technolife.com/category/home-app",
-    "source": "web-catalog:technolife-home",
-    "observedAt": "2026-09-01T05:05:27.748Z"
+    "observedAt": "2026-09-01T10:31:52.357Z"
   },
   {
     "id": "web-home-appliances-c88ff4e37ed1ede8",
@@ -99,7 +82,7 @@ export const HOME_APPLIANCES_PRODUCTS = [
     "sourceId": "technolife-home",
     "sourceUrl": "https://www.technolife.com/category/home-app",
     "source": "web-catalog:technolife-home",
-    "observedAt": "2026-09-01T05:05:27.748Z"
+    "observedAt": "2026-09-01T10:31:52.357Z"
   },
   {
     "id": "web-home-appliances-de39c10063573b1e",
@@ -116,24 +99,24 @@ export const HOME_APPLIANCES_PRODUCTS = [
     "sourceId": "technolife-home",
     "sourceUrl": "https://www.technolife.com/category/home-app",
     "source": "web-catalog:technolife-home",
-    "observedAt": "2026-09-01T05:05:27.749Z"
+    "observedAt": "2026-09-01T10:31:52.357Z"
   },
   {
-    "id": "web-home-appliances-ddac231097f0b2e0",
-    "productId": "web-home-appliances-ddac231097f0b2e0",
-    "name": "شیکر نینجا مدل BC251",
+    "id": "web-home-appliances-c0d4a3bee8bd4cd2",
+    "productId": "web-home-appliances-c0d4a3bee8bd4cd2",
+    "name": "اتو بخار کف تیتانیوم پارس خزر مدل SI-DS 702",
     "brand": "دل",
-    "model": "شیکر نینجا مدل BC251",
+    "model": "اتو بخار کف تیتانیوم پارس خزر مدل SI-DS 702",
     "category": "home-appliances",
     "price": 0,
     "currency": "IRR",
     "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-572814/%D8%B4%DB%8C%DA%A9%D8%B1-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%85%D8%AF%D9%84-bc251",
+    "productUrl": "https://www.technolife.com/product-102243/-%D8%A7%D8%AA%D9%88-%D8%A8%D8%AE%D8%A7%D8%B1-%DA%A9%D9%81-%D8%AA%DB%8C%D8%AA%D8%A7%D9%86%DB%8C%D9%88%D9%85-%D9%BE%D8%A7%D8%B1%D8%B3-%D8%AE%D8%B2%D8%B1-%D9%85%D8%AF%D9%84-si-ds-702",
     "image": "",
     "sourceId": "technolife-home",
     "sourceUrl": "https://www.technolife.com/category/home-app",
     "source": "web-catalog:technolife-home",
-    "observedAt": "2026-09-01T05:05:27.749Z"
+    "observedAt": "2026-09-01T10:31:52.357Z"
   },
   {
     "id": "web-home-appliances-7fbbfaa7b7f0f529",
@@ -150,7 +133,24 @@ export const HOME_APPLIANCES_PRODUCTS = [
     "sourceId": "technolife-home",
     "sourceUrl": "https://www.technolife.com/category/home-app",
     "source": "web-catalog:technolife-home",
-    "observedAt": "2026-09-01T05:05:27.749Z"
+    "observedAt": "2026-09-01T10:31:52.357Z"
+  },
+  {
+    "id": "web-home-appliances-ddac231097f0b2e0",
+    "productId": "web-home-appliances-ddac231097f0b2e0",
+    "name": "شیکر نینجا مدل BC251",
+    "brand": "دل",
+    "model": "شیکر نینجا مدل BC251",
+    "category": "home-appliances",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-572814/%D8%B4%DB%8C%DA%A9%D8%B1-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%85%D8%AF%D9%84-bc251",
+    "image": "",
+    "sourceId": "technolife-home",
+    "sourceUrl": "https://www.technolife.com/category/home-app",
+    "source": "web-catalog:technolife-home",
+    "observedAt": "2026-09-01T10:31:52.357Z"
   },
   {
     "id": "web-home-appliances-66195ad16a5635fd",
@@ -167,7 +167,7 @@ export const HOME_APPLIANCES_PRODUCTS = [
     "sourceId": "technolife-home",
     "sourceUrl": "https://www.technolife.com/category/home-app",
     "source": "web-catalog:technolife-home",
-    "observedAt": "2026-09-01T05:05:27.749Z"
+    "observedAt": "2026-09-01T10:31:52.357Z"
   },
   {
     "id": "web-home-appliances-6dfde9cbd4943809",
@@ -184,7 +184,7 @@ export const HOME_APPLIANCES_PRODUCTS = [
     "sourceId": "technolife-home",
     "sourceUrl": "https://www.technolife.com/category/home-app",
     "source": "web-catalog:technolife-home",
-    "observedAt": "2026-09-01T05:05:27.749Z"
+    "observedAt": "2026-09-01T10:31:52.357Z"
   },
   {
     "id": "web-home-appliances-363c73b03fa2c559",
@@ -201,7 +201,7 @@ export const HOME_APPLIANCES_PRODUCTS = [
     "sourceId": "technolife-home",
     "sourceUrl": "https://www.technolife.com/category/home-app",
     "source": "web-catalog:technolife-home",
-    "observedAt": "2026-09-01T05:05:27.749Z"
+    "observedAt": "2026-09-01T10:31:52.357Z"
   },
   {
     "id": "web-home-appliances-fd35b55c7262ccae",
@@ -218,7 +218,7 @@ export const HOME_APPLIANCES_PRODUCTS = [
     "sourceId": "technolife-home",
     "sourceUrl": "https://www.technolife.com/category/home-app",
     "source": "web-catalog:technolife-home",
-    "observedAt": "2026-09-01T05:05:27.749Z"
+    "observedAt": "2026-09-01T10:31:52.357Z"
   },
   {
     "id": "web-home-appliances-b4b04e06d1e60222",
@@ -235,24 +235,7 @@ export const HOME_APPLIANCES_PRODUCTS = [
     "sourceId": "technolife-home",
     "sourceUrl": "https://www.technolife.com/category/home-app",
     "source": "web-catalog:technolife-home",
-    "observedAt": "2026-09-01T05:05:27.749Z"
-  },
-  {
-    "id": "web-home-appliances-85dc062a95a8ecf7",
-    "productId": "web-home-appliances-85dc062a95a8ecf7",
-    "name": "پنکه رومیزی مدل مه پاش",
-    "brand": "دل",
-    "model": "پنکه رومیزی مدل مه پاش",
-    "category": "home-appliances",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-110257/%D9%BE%D9%86%DA%A9%D9%87-%D8%B1%D9%88%D9%85%DB%8C%D8%B2%DB%8C-%D9%85%D8%AF%D9%84-%D9%85%D9%87-%D9%BE%D8%A7%D8%B4",
-    "image": "",
-    "sourceId": "technolife-home",
-    "sourceUrl": "https://www.technolife.com/category/home-app",
-    "source": "web-catalog:technolife-home",
-    "observedAt": "2026-09-01T05:05:27.749Z"
+    "observedAt": "2026-09-01T10:31:52.357Z"
   },
   {
     "id": "web-home-appliances-45337f95511b5ad7",
@@ -269,7 +252,24 @@ export const HOME_APPLIANCES_PRODUCTS = [
     "sourceId": "technolife-home",
     "sourceUrl": "https://www.technolife.com/category/home-app",
     "source": "web-catalog:technolife-home",
-    "observedAt": "2026-09-01T05:05:27.750Z"
+    "observedAt": "2026-09-01T10:31:52.357Z"
+  },
+  {
+    "id": "web-home-appliances-85dc062a95a8ecf7",
+    "productId": "web-home-appliances-85dc062a95a8ecf7",
+    "name": "پنکه رومیزی مدل مه پاش",
+    "brand": "دل",
+    "model": "پنکه رومیزی مدل مه پاش",
+    "category": "home-appliances",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-110257/%D9%BE%D9%86%DA%A9%D9%87-%D8%B1%D9%88%D9%85%DB%8C%D8%B2%DB%8C-%D9%85%D8%AF%D9%84-%D9%85%D9%87-%D9%BE%D8%A7%D8%B4",
+    "image": "",
+    "sourceId": "technolife-home",
+    "sourceUrl": "https://www.technolife.com/category/home-app",
+    "source": "web-catalog:technolife-home",
+    "observedAt": "2026-09-01T10:31:52.357Z"
   },
   {
     "id": "web-home-appliances-b3ebdb43b4f1f850",
@@ -286,7 +286,7 @@ export const HOME_APPLIANCES_PRODUCTS = [
     "sourceId": "technolife-home",
     "sourceUrl": "https://www.technolife.com/category/home-app",
     "source": "web-catalog:technolife-home",
-    "observedAt": "2026-09-01T05:05:27.750Z"
+    "observedAt": "2026-09-01T10:31:52.357Z"
   },
   {
     "id": "web-home-appliances-66176e0647bcbab1",
@@ -303,7 +303,7 @@ export const HOME_APPLIANCES_PRODUCTS = [
     "sourceId": "technolife-home",
     "sourceUrl": "https://www.technolife.com/category/home-app",
     "source": "web-catalog:technolife-home",
-    "observedAt": "2026-09-01T05:05:27.750Z"
+    "observedAt": "2026-09-01T10:31:52.358Z"
   },
   {
     "id": "web-home-appliances-2d762b5577db3a14",
@@ -320,7 +320,7 @@ export const HOME_APPLIANCES_PRODUCTS = [
     "sourceId": "technolife-home",
     "sourceUrl": "https://www.technolife.com/category/home-app",
     "source": "web-catalog:technolife-home",
-    "observedAt": "2026-09-01T05:05:27.750Z"
+    "observedAt": "2026-09-01T10:31:52.358Z"
   },
   {
     "id": "web-home-appliances-f793e4bcbdea50a5",
@@ -337,7 +337,7 @@ export const HOME_APPLIANCES_PRODUCTS = [
     "sourceId": "technolife-home",
     "sourceUrl": "https://www.technolife.com/category/home-app",
     "source": "web-catalog:technolife-home",
-    "observedAt": "2026-09-01T05:05:27.750Z"
+    "observedAt": "2026-09-01T10:31:52.358Z"
   },
   {
     "id": "web-home-appliances-a01b3f02798ea2c4",
@@ -354,7 +354,7 @@ export const HOME_APPLIANCES_PRODUCTS = [
     "sourceId": "technolife-home",
     "sourceUrl": "https://www.technolife.com/category/home-app",
     "source": "web-catalog:technolife-home",
-    "observedAt": "2026-09-01T05:05:27.750Z"
+    "observedAt": "2026-09-01T10:31:52.358Z"
   },
   {
     "id": "web-home-appliances-0ce77d0e6c96833e",
@@ -371,7 +371,7 @@ export const HOME_APPLIANCES_PRODUCTS = [
     "sourceId": "technolife-home",
     "sourceUrl": "https://www.technolife.com/category/home-app",
     "source": "web-catalog:technolife-home",
-    "observedAt": "2026-09-01T05:05:27.750Z"
+    "observedAt": "2026-09-01T10:31:52.358Z"
   },
   {
     "id": "web-home-appliances-9b6835112de1bdc5",
@@ -388,41 +388,7 @@ export const HOME_APPLIANCES_PRODUCTS = [
     "sourceId": "technolife-home",
     "sourceUrl": "https://www.technolife.com/category/home-app",
     "source": "web-catalog:technolife-home",
-    "observedAt": "2026-09-01T05:05:27.750Z"
-  },
-  {
-    "id": "web-home-appliances-4c0f37b60f666f99",
-    "productId": "web-home-appliances-4c0f37b60f666f99",
-    "name": "جاروبرقی عصایی گوسونیک مدل GSV-1118",
-    "brand": "دل",
-    "model": "جاروبرقی عصایی گوسونیک مدل GSV-1118",
-    "category": "home-appliances",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-167575/%D8%AC%D8%A7%D8%B1%D9%88%D8%A8%D8%B1%D9%82%DB%8C-%D8%B9%D8%B5%D8%A7%DB%8C%DB%8C-%DA%AF%D9%88%D8%B3%D9%88%D9%86%DB%8C%DA%A9-%D9%85%D8%AF%D9%84-gsv-1118",
-    "image": "",
-    "sourceId": "technolife-home",
-    "sourceUrl": "https://www.technolife.com/category/home-app",
-    "source": "web-catalog:technolife-home",
-    "observedAt": "2026-09-01T05:05:27.750Z"
-  },
-  {
-    "id": "web-home-appliances-3768ba4bbf31aee4",
-    "productId": "web-home-appliances-3768ba4bbf31aee4",
-    "name": "همزن گوسونیک مدل GHM-839",
-    "brand": "دل",
-    "model": "همزن گوسونیک مدل GHM-839",
-    "category": "home-appliances",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-30753/%D9%87%D9%85%D8%B2%D9%86-%DA%AF%D9%88%D8%B3%D9%88%D9%86%DB%8C%DA%A9-%D9%85%D8%AF%D9%84-ghm-839",
-    "image": "",
-    "sourceId": "technolife-home",
-    "sourceUrl": "https://www.technolife.com/category/home-app",
-    "source": "web-catalog:technolife-home",
-    "observedAt": "2026-09-01T05:05:27.751Z"
+    "observedAt": "2026-09-01T10:31:52.358Z"
   },
   {
     "id": "web-home-appliances-988b160d97a9139c",
@@ -439,7 +405,7 @@ export const HOME_APPLIANCES_PRODUCTS = [
     "sourceId": "technolife-home",
     "sourceUrl": "https://www.technolife.com/category/home-app",
     "source": "web-catalog:technolife-home",
-    "observedAt": "2026-09-01T05:05:27.751Z"
+    "observedAt": "2026-09-01T10:31:52.358Z"
   },
   {
     "id": "web-home-appliances-c4f3e293579af31c",
@@ -456,24 +422,7 @@ export const HOME_APPLIANCES_PRODUCTS = [
     "sourceId": "technolife-home",
     "sourceUrl": "https://www.technolife.com/category/home-app",
     "source": "web-catalog:technolife-home",
-    "observedAt": "2026-09-01T05:05:27.751Z"
-  },
-  {
-    "id": "web-home-appliances-9099dbb7b87f1a29",
-    "productId": "web-home-appliances-9099dbb7b87f1a29",
-    "name": "دستگاه تصفیه هوا پاکشوما مدل MPK-500",
-    "brand": "دل",
-    "model": "دستگاه تصفیه هوا پاکشوما مدل MPK-500",
-    "category": "home-appliances",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-277191/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%AA%D8%B5%D9%81%DB%8C%D9%87-%D9%87%D9%88%D8%A7-%D9%BE%D8%A7%DA%A9%D8%B4%D9%88%D9%85%D8%A7-%D9%85%D8%AF%D9%84-mpk-500",
-    "image": "",
-    "sourceId": "technolife-home",
-    "sourceUrl": "https://www.technolife.com/category/home-app",
-    "source": "web-catalog:technolife-home",
-    "observedAt": "2026-09-01T05:05:27.751Z"
+    "observedAt": "2026-09-01T10:31:52.358Z"
   },
   {
     "id": "web-home-appliances-4351f0f902039358",
@@ -490,7 +439,58 @@ export const HOME_APPLIANCES_PRODUCTS = [
     "sourceId": "technolife-home",
     "sourceUrl": "https://www.technolife.com/category/home-app",
     "source": "web-catalog:technolife-home",
-    "observedAt": "2026-09-01T05:05:27.751Z"
+    "observedAt": "2026-09-01T10:31:52.358Z"
+  },
+  {
+    "id": "web-home-appliances-4c0f37b60f666f99",
+    "productId": "web-home-appliances-4c0f37b60f666f99",
+    "name": "جاروبرقی عصایی گوسونیک مدل GSV-1118",
+    "brand": "دل",
+    "model": "جاروبرقی عصایی گوسونیک مدل GSV-1118",
+    "category": "home-appliances",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-167575/%D8%AC%D8%A7%D8%B1%D9%88%D8%A8%D8%B1%D9%82%DB%8C-%D8%B9%D8%B5%D8%A7%DB%8C%DB%8C-%DA%AF%D9%88%D8%B3%D9%88%D9%86%DB%8C%DA%A9-%D9%85%D8%AF%D9%84-gsv-1118",
+    "image": "",
+    "sourceId": "technolife-home",
+    "sourceUrl": "https://www.technolife.com/category/home-app",
+    "source": "web-catalog:technolife-home",
+    "observedAt": "2026-09-01T10:31:52.358Z"
+  },
+  {
+    "id": "web-home-appliances-3768ba4bbf31aee4",
+    "productId": "web-home-appliances-3768ba4bbf31aee4",
+    "name": "همزن گوسونیک مدل GHM-839",
+    "brand": "دل",
+    "model": "همزن گوسونیک مدل GHM-839",
+    "category": "home-appliances",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-30753/%D9%87%D9%85%D8%B2%D9%86-%DA%AF%D9%88%D8%B3%D9%88%D9%86%DB%8C%DA%A9-%D9%85%D8%AF%D9%84-ghm-839",
+    "image": "",
+    "sourceId": "technolife-home",
+    "sourceUrl": "https://www.technolife.com/category/home-app",
+    "source": "web-catalog:technolife-home",
+    "observedAt": "2026-09-01T10:31:52.358Z"
+  },
+  {
+    "id": "web-home-appliances-9099dbb7b87f1a29",
+    "productId": "web-home-appliances-9099dbb7b87f1a29",
+    "name": "دستگاه تصفیه هوا پاکشوما مدل MPK-500",
+    "brand": "دل",
+    "model": "دستگاه تصفیه هوا پاکشوما مدل MPK-500",
+    "category": "home-appliances",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-277191/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%AA%D8%B5%D9%81%DB%8C%D9%87-%D9%87%D9%88%D8%A7-%D9%BE%D8%A7%DA%A9%D8%B4%D9%88%D9%85%D8%A7-%D9%85%D8%AF%D9%84-mpk-500",
+    "image": "",
+    "sourceId": "technolife-home",
+    "sourceUrl": "https://www.technolife.com/category/home-app",
+    "source": "web-catalog:technolife-home",
+    "observedAt": "2026-09-01T10:31:52.358Z"
   },
   {
     "id": "web-home-appliances-f5e82a3aeadaef79",
@@ -507,7 +507,7 @@ export const HOME_APPLIANCES_PRODUCTS = [
     "sourceId": "technolife-home",
     "sourceUrl": "https://www.technolife.com/category/home-app",
     "source": "web-catalog:technolife-home",
-    "observedAt": "2026-09-01T05:05:27.751Z"
+    "observedAt": "2026-09-01T10:31:52.358Z"
   },
   {
     "id": "web-home-appliances-cd12b2e21bed5c8a",
@@ -524,6 +524,6 @@ export const HOME_APPLIANCES_PRODUCTS = [
     "sourceId": "technolife-home",
     "sourceUrl": "https://www.technolife.com/category/home-app",
     "source": "web-catalog:technolife-home",
-    "observedAt": "2026-09-01T05:05:27.751Z"
+    "observedAt": "2026-09-01T10:31:52.358Z"
   }
 ];

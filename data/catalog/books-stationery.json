@@ -3,7 +3,7 @@
   "category": "books-stationery",
   "name": "کتاب، لوازم تحریر و هنر",
   "maxProducts": 500,
-  "generatedAt": "2026-09-01T05:09:39.217Z",
+  "generatedAt": "2026-09-01T10:36:17.728Z",
   "sources": [
     {
       "id": "technolife-stationery",
@@ -36,7 +36,7 @@
       "sourceId": "technolife-stationery",
       "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
       "source": "web-catalog:technolife-stationery",
-      "observedAt": "2026-09-01T05:09:15.166Z"
+      "observedAt": "2026-09-01T10:35:51.004Z"
     },
     {
       "id": "web-books-stationery-db44ea6be1653aa5",
@@ -53,7 +53,7 @@
       "sourceId": "technolife-stationery",
       "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
       "source": "web-catalog:technolife-stationery",
-      "observedAt": "2026-09-01T05:09:15.166Z"
+      "observedAt": "2026-09-01T10:35:51.004Z"
     },
     {
       "id": "web-books-stationery-bc76e6f01c931a37",
@@ -70,7 +70,7 @@
       "sourceId": "technolife-stationery",
       "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
       "source": "web-catalog:technolife-stationery",
-      "observedAt": "2026-09-01T05:09:15.166Z"
+      "observedAt": "2026-09-01T10:35:51.004Z"
     },
     {
       "id": "web-books-stationery-2ac3cc3d0c1e1e0a",
@@ -87,7 +87,7 @@
       "sourceId": "technolife-stationery",
       "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
       "source": "web-catalog:technolife-stationery",
-      "observedAt": "2026-09-01T05:09:15.166Z"
+      "observedAt": "2026-09-01T10:35:51.004Z"
     },
     {
       "id": "web-books-stationery-57cd01ce7a7f16f2",
@@ -104,7 +104,7 @@
       "sourceId": "technolife-stationery",
       "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
       "source": "web-catalog:technolife-stationery",
-      "observedAt": "2026-09-01T05:09:15.166Z"
+      "observedAt": "2026-09-01T10:35:51.004Z"
     },
     {
       "id": "web-books-stationery-948da67aa8b1139b",
@@ -121,7 +121,7 @@
       "sourceId": "technolife-stationery",
       "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
       "source": "web-catalog:technolife-stationery",
-      "observedAt": "2026-09-01T05:09:15.166Z"
+      "observedAt": "2026-09-01T10:35:51.004Z"
     },
     {
       "id": "web-books-stationery-e3b7977a3c66749b",
@@ -138,7 +138,7 @@
       "sourceId": "technolife-stationery",
       "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
       "source": "web-catalog:technolife-stationery",
-      "observedAt": "2026-09-01T05:09:15.166Z"
+      "observedAt": "2026-09-01T10:35:51.004Z"
     },
     {
       "id": "web-books-stationery-049ff5a51528eb16",
@@ -155,7 +155,7 @@
       "sourceId": "technolife-stationery",
       "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
       "source": "web-catalog:technolife-stationery",
-      "observedAt": "2026-09-01T05:09:15.166Z"
+      "observedAt": "2026-09-01T10:35:51.004Z"
     },
     {
       "id": "web-books-stationery-fe6663608433cf5d",
@@ -172,7 +172,7 @@
       "sourceId": "technolife-stationery",
       "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
       "source": "web-catalog:technolife-stationery",
-      "observedAt": "2026-09-01T05:09:15.166Z"
+      "observedAt": "2026-09-01T10:35:51.004Z"
     },
     {
       "id": "web-books-stationery-7adc53ec8b4243f0",
@@ -189,7 +189,7 @@
       "sourceId": "technolife-stationery",
       "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
       "source": "web-catalog:technolife-stationery",
-      "observedAt": "2026-09-01T05:09:15.166Z"
+      "observedAt": "2026-09-01T10:35:51.004Z"
     },
     {
       "id": "web-books-stationery-b64615a5fe763d0f",
@@ -206,7 +206,7 @@
       "sourceId": "technolife-stationery",
       "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
       "source": "web-catalog:technolife-stationery",
-      "observedAt": "2026-09-01T05:09:15.166Z"
+      "observedAt": "2026-09-01T10:35:51.004Z"
     },
     {
       "id": "web-books-stationery-66e380c9b2c15754",
@@ -223,7 +223,7 @@
       "sourceId": "technolife-stationery",
       "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
       "source": "web-catalog:technolife-stationery",
-      "observedAt": "2026-09-01T05:09:15.166Z"
+      "observedAt": "2026-09-01T10:35:51.004Z"
     },
     {
       "id": "web-books-stationery-3cecfd3a14aab308",
@@ -240,7 +240,7 @@
       "sourceId": "technolife-stationery",
       "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
       "source": "web-catalog:technolife-stationery",
-      "observedAt": "2026-09-01T05:09:15.166Z"
+      "observedAt": "2026-09-01T10:35:51.004Z"
     },
     {
       "id": "web-books-stationery-8ff70aadb0a63d2e",
@@ -257,7 +257,7 @@
       "sourceId": "technolife-stationery",
       "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
       "source": "web-catalog:technolife-stationery",
-      "observedAt": "2026-09-01T05:09:15.166Z"
+      "observedAt": "2026-09-01T10:35:51.004Z"
     },
     {
       "id": "web-books-stationery-ab70efb39a94c1fa",
@@ -274,7 +274,7 @@
       "sourceId": "technolife-stationery",
       "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
       "source": "web-catalog:technolife-stationery",
-      "observedAt": "2026-09-01T05:09:15.166Z"
+      "observedAt": "2026-09-01T10:35:51.004Z"
     },
     {
       "id": "web-books-stationery-1941780373d5e045",
@@ -291,7 +291,7 @@
       "sourceId": "technolife-stationery",
       "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
       "source": "web-catalog:technolife-stationery",
-      "observedAt": "2026-09-01T05:09:15.166Z"
+      "observedAt": "2026-09-01T10:35:51.004Z"
     },
     {
       "id": "web-books-stationery-1aaa1dd02cc220ad",
@@ -308,7 +308,7 @@
       "sourceId": "technolife-stationery",
       "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
       "source": "web-catalog:technolife-stationery",
-      "observedAt": "2026-09-01T05:09:15.166Z"
+      "observedAt": "2026-09-01T10:35:51.004Z"
     },
     {
       "id": "web-books-stationery-a0d08340fd5ffb8b",
@@ -325,7 +325,7 @@
       "sourceId": "technolife-stationery",
       "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
       "source": "web-catalog:technolife-stationery",
-      "observedAt": "2026-09-01T05:09:15.166Z"
+      "observedAt": "2026-09-01T10:35:51.004Z"
     },
     {
       "id": "web-books-stationery-300ca4e5ac7fd1c3",
@@ -342,7 +342,7 @@
       "sourceId": "technolife-stationery",
       "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
       "source": "web-catalog:technolife-stationery",
-      "observedAt": "2026-09-01T05:09:15.166Z"
+      "observedAt": "2026-09-01T10:35:51.005Z"
     },
     {
       "id": "web-books-stationery-cea0e4ceceee9646",
@@ -359,7 +359,7 @@
       "sourceId": "technolife-stationery",
       "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
       "source": "web-catalog:technolife-stationery",
-      "observedAt": "2026-09-01T05:09:15.166Z"
+      "observedAt": "2026-09-01T10:35:51.005Z"
     },
     {
       "id": "web-books-stationery-71f92b627fef35ad",
@@ -376,7 +376,7 @@
       "sourceId": "technolife-stationery",
       "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
       "source": "web-catalog:technolife-stationery",
-      "observedAt": "2026-09-01T05:09:15.166Z"
+      "observedAt": "2026-09-01T10:35:51.005Z"
     },
     {
       "id": "web-books-stationery-f31fc8e12601a7ff",
@@ -393,7 +393,7 @@
       "sourceId": "technolife-stationery",
       "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
       "source": "web-catalog:technolife-stationery",
-      "observedAt": "2026-09-01T05:09:15.166Z"
+      "observedAt": "2026-09-01T10:35:51.005Z"
     },
     {
       "id": "web-books-stationery-4ce0ed23cc160ebd",
@@ -410,7 +410,7 @@
       "sourceId": "technolife-stationery",
       "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
       "source": "web-catalog:technolife-stationery",
-      "observedAt": "2026-09-01T05:09:15.167Z"
+      "observedAt": "2026-09-01T10:35:51.005Z"
     },
     {
       "id": "web-books-stationery-246b8fcfd1fd4d30",
@@ -427,7 +427,24 @@
       "sourceId": "technolife-stationery",
       "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
       "source": "web-catalog:technolife-stationery",
-      "observedAt": "2026-09-01T05:09:15.167Z"
+      "observedAt": "2026-09-01T10:35:51.005Z"
+    },
+    {
+      "id": "web-books-stationery-5d377006d6f2acf7",
+      "productId": "web-books-stationery-5d377006d6f2acf7",
+      "name": "چراغ مطالعه باسئوس مدل DGRAD-0G",
+      "brand": "دل",
+      "model": "چراغ مطالعه باسئوس مدل DGRAD-0G",
+      "category": "books-stationery",
+      "price": 0,
+      "currency": "IRR",
+      "availability": "unknown",
+      "productUrl": "https://www.technolife.com/product-55635/%DA%86%D8%B1%D8%A7%D8%BA-%D9%85%D8%B7%D8%A7%D9%84%D8%B9%D9%87-%D8%A8%D8%A7%D8%B3%D8%A6%D9%88%D8%B3-%D9%85%D8%AF%D9%84-dgrad-0g",
+      "image": "",
+      "sourceId": "technolife-stationery",
+      "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
+      "source": "web-catalog:technolife-stationery",
+      "observedAt": "2026-09-01T10:35:51.005Z"
     },
     {
       "id": "web-books-stationery-5fd8c7d157bd8eb4",
@@ -444,7 +461,7 @@
       "sourceId": "technolife-stationery",
       "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
       "source": "web-catalog:technolife-stationery",
-      "observedAt": "2026-09-01T05:09:15.167Z"
+      "observedAt": "2026-09-01T10:35:51.005Z"
     },
     {
       "id": "web-books-stationery-86fbe430b1ba82b0",
@@ -461,7 +478,7 @@
       "sourceId": "technolife-stationery",
       "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
       "source": "web-catalog:technolife-stationery",
-      "observedAt": "2026-09-01T05:09:15.167Z"
+      "observedAt": "2026-09-01T10:35:51.005Z"
     },
     {
       "id": "web-books-stationery-dbf19360eb6c789d",
@@ -478,7 +495,7 @@
       "sourceId": "technolife-stationery",
       "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
       "source": "web-catalog:technolife-stationery",
-      "observedAt": "2026-09-01T05:09:15.167Z"
+      "observedAt": "2026-09-01T10:35:51.005Z"
     },
     {
       "id": "web-books-stationery-3a2bbe6550765862",
@@ -495,7 +512,7 @@
       "sourceId": "technolife-stationery",
       "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
       "source": "web-catalog:technolife-stationery",
-      "observedAt": "2026-09-01T05:09:15.167Z"
+      "observedAt": "2026-09-01T10:35:51.005Z"
     },
     {
       "id": "web-books-stationery-c4420c7698399acf",
@@ -512,24 +529,7 @@
       "sourceId": "technolife-stationery",
       "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
       "source": "web-catalog:technolife-stationery",
-      "observedAt": "2026-09-01T05:09:15.167Z"
-    },
-    {
-      "id": "web-books-stationery-a4df80a27a85a2eb",
-      "productId": "web-books-stationery-a4df80a27a85a2eb",
-      "name": "دفترچه ژورنال نویسی و یادداشت 80 برگ مدل GLOBE",
-      "brand": "دل",
-      "model": "دفترچه ژورنال نویسی و یادداشت 80 برگ مدل GLOBE",
-      "category": "books-stationery",
-      "price": 0,
-      "currency": "IRR",
-      "availability": "unknown",
-      "productUrl": "https://www.technolife.com/product-301900/%D8%AF%D9%81%D8%AA%D8%B1%DA%86%D9%87-%DA%98%D9%88%D8%B1%D9%86%D8%A7%D9%84-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D9%88-%DB%8C%D8%A7%D8%AF%D8%AF%D8%A7%D8%B4%D8%AA-80-%D8%A8%D8%B1%DA%AF-%D9%85%D8%AF%D9%84-globe",
-      "image": "",
-      "sourceId": "technolife-stationery",
-      "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
-      "source": "web-catalog:technolife-stationery",
-      "observedAt": "2026-09-01T05:09:15.167Z"
+      "observedAt": "2026-09-01T10:35:51.005Z"
     },
     {
       "id": "web-books-stationery-e32e5b87e11bf52d",
@@ -546,7 +546,7 @@
       "sourceId": "technolife-stationery",
       "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
       "source": "web-catalog:technolife-stationery",
-      "observedAt": "2026-09-01T05:09:15.167Z"
+      "observedAt": "2026-09-01T10:35:51.005Z"
     },
     {
       "id": "web-books-stationery-45a32a6a31d24b41",
@@ -563,7 +563,7 @@
       "sourceId": "technolife-writing",
       "sourceUrl": "https://www.technolife.com/category/art-culture/stationery/writing-supplies",
       "source": "web-catalog:technolife-writing",
-      "observedAt": "2026-09-01T05:09:31.157Z"
+      "observedAt": "2026-09-01T10:36:08.812Z"
     },
     {
       "id": "web-books-stationery-6ccc6dd324fa1935",
@@ -580,7 +580,7 @@
       "sourceId": "technolife-writing",
       "sourceUrl": "https://www.technolife.com/category/art-culture/stationery/writing-supplies",
       "source": "web-catalog:technolife-writing",
-      "observedAt": "2026-09-01T05:09:31.157Z"
+      "observedAt": "2026-09-01T10:36:08.812Z"
     },
     {
       "id": "web-books-stationery-17080a0bf1149021",
@@ -597,7 +597,7 @@
       "sourceId": "technolife-writing",
       "sourceUrl": "https://www.technolife.com/category/art-culture/stationery/writing-supplies",
       "source": "web-catalog:technolife-writing",
-      "observedAt": "2026-09-01T05:09:31.157Z"
+      "observedAt": "2026-09-01T10:36:08.812Z"
     },
     {
       "id": "web-books-stationery-a057cd980ad23d7f",
@@ -614,7 +614,7 @@
       "sourceId": "technolife-writing",
       "sourceUrl": "https://www.technolife.com/category/art-culture/stationery/writing-supplies",
       "source": "web-catalog:technolife-writing",
-      "observedAt": "2026-09-01T05:09:31.157Z"
+      "observedAt": "2026-09-01T10:36:08.812Z"
     },
     {
       "id": "web-books-stationery-ee600c3d11e83685",
@@ -631,7 +631,7 @@
       "sourceId": "technolife-writing",
       "sourceUrl": "https://www.technolife.com/category/art-culture/stationery/writing-supplies",
       "source": "web-catalog:technolife-writing",
-      "observedAt": "2026-09-01T05:09:31.157Z"
+      "observedAt": "2026-09-01T10:36:08.812Z"
     },
     {
       "id": "web-books-stationery-a24848931b28ebf3",
@@ -648,7 +648,7 @@
       "sourceId": "technolife-writing",
       "sourceUrl": "https://www.technolife.com/category/art-culture/stationery/writing-supplies",
       "source": "web-catalog:technolife-writing",
-      "observedAt": "2026-09-01T05:09:31.157Z"
+      "observedAt": "2026-09-01T10:36:08.812Z"
     },
     {
       "id": "web-books-stationery-57387e13142b1d3d",
@@ -665,7 +665,7 @@
       "sourceId": "technolife-writing",
       "sourceUrl": "https://www.technolife.com/category/art-culture/stationery/writing-supplies",
       "source": "web-catalog:technolife-writing",
-      "observedAt": "2026-09-01T05:09:31.157Z"
+      "observedAt": "2026-09-01T10:36:08.812Z"
     },
     {
       "id": "web-books-stationery-2f3fc8e7aef621db",
@@ -682,7 +682,7 @@
       "sourceId": "technolife-writing",
       "sourceUrl": "https://www.technolife.com/category/art-culture/stationery/writing-supplies",
       "source": "web-catalog:technolife-writing",
-      "observedAt": "2026-09-01T05:09:31.157Z"
+      "observedAt": "2026-09-01T10:36:08.812Z"
     },
     {
       "id": "web-books-stationery-efae7e0a243adcc3",
@@ -699,7 +699,7 @@
       "sourceId": "technolife-writing",
       "sourceUrl": "https://www.technolife.com/category/art-culture/stationery/writing-supplies",
       "source": "web-catalog:technolife-writing",
-      "observedAt": "2026-09-01T05:09:31.157Z"
+      "observedAt": "2026-09-01T10:36:08.812Z"
     },
     {
       "id": "web-books-stationery-f77d4d03ba3a29b6",
@@ -716,7 +716,7 @@
       "sourceId": "technolife-writing",
       "sourceUrl": "https://www.technolife.com/category/art-culture/stationery/writing-supplies",
       "source": "web-catalog:technolife-writing",
-      "observedAt": "2026-09-01T05:09:31.157Z"
+      "observedAt": "2026-09-01T10:36:08.812Z"
     },
     {
       "id": "web-books-stationery-b65287cf4bd57e3a",
@@ -733,7 +733,7 @@
       "sourceId": "technolife-writing",
       "sourceUrl": "https://www.technolife.com/category/art-culture/stationery/writing-supplies",
       "source": "web-catalog:technolife-writing",
-      "observedAt": "2026-09-01T05:09:31.157Z"
+      "observedAt": "2026-09-01T10:36:08.812Z"
     },
     {
       "id": "web-books-stationery-bd9757e4962903fa",
@@ -750,7 +750,7 @@
       "sourceId": "technolife-writing",
       "sourceUrl": "https://www.technolife.com/category/art-culture/stationery/writing-supplies",
       "source": "web-catalog:technolife-writing",
-      "observedAt": "2026-09-01T05:09:31.157Z"
+      "observedAt": "2026-09-01T10:36:08.812Z"
     },
     {
       "id": "web-books-stationery-007c523d09c4bb8a",
@@ -767,7 +767,7 @@
       "sourceId": "technolife-writing",
       "sourceUrl": "https://www.technolife.com/category/art-culture/stationery/writing-supplies",
       "source": "web-catalog:technolife-writing",
-      "observedAt": "2026-09-01T05:09:31.157Z"
+      "observedAt": "2026-09-01T10:36:08.812Z"
     },
     {
       "id": "web-books-stationery-f025a338d12ae12f",
@@ -784,7 +784,7 @@
       "sourceId": "technolife-writing",
       "sourceUrl": "https://www.technolife.com/category/art-culture/stationery/writing-supplies",
       "source": "web-catalog:technolife-writing",
-      "observedAt": "2026-09-01T05:09:31.157Z"
+      "observedAt": "2026-09-01T10:36:08.812Z"
     },
     {
       "id": "web-books-stationery-0d3bbf4b7da7f9fa",
@@ -801,7 +801,7 @@
       "sourceId": "technolife-writing",
       "sourceUrl": "https://www.technolife.com/category/art-culture/stationery/writing-supplies",
       "source": "web-catalog:technolife-writing",
-      "observedAt": "2026-09-01T05:09:31.157Z"
+      "observedAt": "2026-09-01T10:36:08.812Z"
     },
     {
       "id": "web-books-stationery-2b445bd717c07f8e",
@@ -818,7 +818,7 @@
       "sourceId": "technolife-writing",
       "sourceUrl": "https://www.technolife.com/category/art-culture/stationery/writing-supplies",
       "source": "web-catalog:technolife-writing",
-      "observedAt": "2026-09-01T05:09:31.157Z"
+      "observedAt": "2026-09-01T10:36:08.813Z"
     },
     {
       "id": "web-books-stationery-0f96d57a5d82682a",
@@ -835,7 +835,7 @@
       "sourceId": "technolife-writing",
       "sourceUrl": "https://www.technolife.com/category/art-culture/stationery/writing-supplies",
       "source": "web-catalog:technolife-writing",
-      "observedAt": "2026-09-01T05:09:31.158Z"
+      "observedAt": "2026-09-01T10:36:08.813Z"
     },
     {
       "id": "web-books-stationery-12bb03fdebc566bb",
@@ -852,7 +852,7 @@
       "sourceId": "technolife-writing",
       "sourceUrl": "https://www.technolife.com/category/art-culture/stationery/writing-supplies",
       "source": "web-catalog:technolife-writing",
-      "observedAt": "2026-09-01T05:09:31.158Z"
+      "observedAt": "2026-09-01T10:36:08.813Z"
     }
   ],
   "status": "web-ingested",

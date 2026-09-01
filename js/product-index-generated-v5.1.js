@@ -15,7 +15,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T05:02:57.906Z"
+    "observedAt": "2026-09-01T10:29:38.215Z"
   },
   {
     "id": "web-mobile-7e1144b5d3f571c7",
@@ -32,7 +32,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T05:02:57.906Z"
+    "observedAt": "2026-09-01T10:29:38.216Z"
   },
   {
     "id": "web-mobile-5cbc6a775b0d3181",
@@ -49,24 +49,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T05:02:57.906Z"
-  },
-  {
-    "id": "web-mobile-d829bc3137878b9a",
-    "productId": "web-mobile-d829bc3137878b9a",
-    "name": "گوشی موبایل سامسونگ مدل Galaxy A17 4G ظرفیت 128 گیگابایت رم 6 گیگابایت - ویتنام",
-    "brand": "سامسونگ",
-    "model": "گوشی موبایل سامسونگ مدل Galaxy A17 4G ظرفیت 128 گیگابایت رم 6 گیگابایت - ویتنام",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-167567/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF-%D9%85%D8%AF%D9%84-galaxy-a17-4g-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-128-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-6-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA---%D9%88%DB%8C%D8%AA%D9%86%D8%A7%D9%85",
-    "image": "",
-    "sourceId": "technolife-mobile",
-    "sourceUrl": "https://www.technolife.com/category/mobile",
-    "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T05:02:57.906Z"
+    "observedAt": "2026-09-01T10:29:38.216Z"
   },
   {
     "id": "web-mobile-d55bc670163620e0",
@@ -83,24 +66,24 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T05:02:57.906Z"
+    "observedAt": "2026-09-01T10:29:38.216Z"
   },
   {
-    "id": "web-mobile-7973ba8559b15b73",
-    "productId": "web-mobile-7973ba8559b15b73",
-    "name": "گوشی موبايل سامسونگ مدل Galaxy A07 4G ظرفیت 128 گیگابایت رم 6 گیگابایت همراه با شارژر داخل جعبه",
+    "id": "web-mobile-e9a326c3c7d6fe53",
+    "productId": "web-mobile-e9a326c3c7d6fe53",
+    "name": "گوشی موبايل سامسونگ مدل Galaxy A07 4G ظرفیت 128 گیگابایت رم 4 گیگابایت",
     "brand": "سامسونگ",
-    "model": "گوشی موبايل سامسونگ مدل Galaxy A07 4G ظرفیت 128 گیگابایت رم 6 گیگابایت همراه با شارژر داخل جعبه",
+    "model": "گوشی موبايل سامسونگ مدل Galaxy A07 4G ظرفیت 128 گیگابایت رم 4 گیگابایت",
     "category": "mobile",
     "price": 0,
     "currency": "IRR",
     "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-279434/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF-%D9%85%D8%AF%D9%84-galaxy-a07-4g-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-128-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-6-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D9%87%D9%85%D8%B1%D8%A7%D9%87-%D8%A8%D8%A7-%D8%B4%D8%A7%D8%B1%DA%98%D8%B1-%D8%AF%D8%A7%D8%AE%D9%84-%D8%AC%D8%B9%D8%A8%D9%87",
+    "productUrl": "https://www.technolife.com/product-149351/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF-%D9%85%D8%AF%D9%84-galaxy-a07-4g-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-128-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-4-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
     "image": "",
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T05:02:57.906Z"
+    "observedAt": "2026-09-01T10:29:38.216Z"
   },
   {
     "id": "web-mobile-d978e5a3debb468a",
@@ -117,24 +100,24 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T05:02:57.906Z"
+    "observedAt": "2026-09-01T10:29:38.216Z"
   },
   {
-    "id": "web-mobile-edca128508bd5d03",
-    "productId": "web-mobile-edca128508bd5d03",
-    "name": "شارژر دیواری اپل 20 وات مدل 3 پین B/A - اورجینال",
-    "brand": "اپل",
-    "model": "شارژر دیواری اپل 20 وات مدل 3 پین B/A - اورجینال",
+    "id": "web-mobile-7973ba8559b15b73",
+    "productId": "web-mobile-7973ba8559b15b73",
+    "name": "گوشی موبايل سامسونگ مدل Galaxy A07 4G ظرفیت 128 گیگابایت رم 6 گیگابایت همراه با شارژر داخل جعبه",
+    "brand": "سامسونگ",
+    "model": "گوشی موبايل سامسونگ مدل Galaxy A07 4G ظرفیت 128 گیگابایت رم 6 گیگابایت همراه با شارژر داخل جعبه",
     "category": "mobile",
     "price": 0,
     "currency": "IRR",
     "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-115770/%D8%B4%D8%A7%D8%B1%DA%98%D8%B1-%D8%AF%DB%8C%D9%88%D8%A7%D8%B1%DB%8C-%D8%A7%D9%BE%D9%84-20-%D9%88%D8%A7%D8%AA-%D9%85%D8%AF%D9%84-3-%D9%BE%DB%8C%D9%86-b-a---%D8%A7%D9%88%D8%B1%D8%AC%DB%8C%D9%86%D8%A7%D9%84",
+    "productUrl": "https://www.technolife.com/product-279434/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF-%D9%85%D8%AF%D9%84-galaxy-a07-4g-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-128-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-6-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D9%87%D9%85%D8%B1%D8%A7%D9%87-%D8%A8%D8%A7-%D8%B4%D8%A7%D8%B1%DA%98%D8%B1-%D8%AF%D8%A7%D8%AE%D9%84-%D8%AC%D8%B9%D8%A8%D9%87",
     "image": "",
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T05:02:57.907Z"
+    "observedAt": "2026-09-01T10:29:38.217Z"
   },
   {
     "id": "web-mobile-cba530f01ba3a0a4",
@@ -151,7 +134,24 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T05:02:57.907Z"
+    "observedAt": "2026-09-01T10:29:38.217Z"
+  },
+  {
+    "id": "web-mobile-edca128508bd5d03",
+    "productId": "web-mobile-edca128508bd5d03",
+    "name": "شارژر دیواری اپل 20 وات مدل 3 پین B/A - اورجینال",
+    "brand": "اپل",
+    "model": "شارژر دیواری اپل 20 وات مدل 3 پین B/A - اورجینال",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-115770/%D8%B4%D8%A7%D8%B1%DA%98%D8%B1-%D8%AF%DB%8C%D9%88%D8%A7%D8%B1%DB%8C-%D8%A7%D9%BE%D9%84-20-%D9%88%D8%A7%D8%AA-%D9%85%D8%AF%D9%84-3-%D9%BE%DB%8C%D9%86-b-a---%D8%A7%D9%88%D8%B1%D8%AC%DB%8C%D9%86%D8%A7%D9%84",
+    "image": "",
+    "sourceId": "technolife-mobile",
+    "sourceUrl": "https://www.technolife.com/category/mobile",
+    "source": "web-catalog:technolife-mobile",
+    "observedAt": "2026-09-01T10:29:38.217Z"
   },
   {
     "id": "web-mobile-17ea427c9c05e59c",
@@ -168,7 +168,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T05:02:57.908Z"
+    "observedAt": "2026-09-01T10:29:38.217Z"
   },
   {
     "id": "web-mobile-395da285e176aaa3",
@@ -185,7 +185,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T05:02:57.908Z"
+    "observedAt": "2026-09-01T10:29:38.217Z"
   },
   {
     "id": "web-mobile-68a9da007e1633c8",
@@ -202,7 +202,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T05:02:57.908Z"
+    "observedAt": "2026-09-01T10:29:38.217Z"
   },
   {
     "id": "web-mobile-075acb00fe05e53c",
@@ -219,7 +219,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T05:02:57.908Z"
+    "observedAt": "2026-09-01T10:29:38.217Z"
   },
   {
     "id": "web-mobile-f1de1aad54d5129d",
@@ -236,7 +236,24 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T05:02:57.908Z"
+    "observedAt": "2026-09-01T10:29:38.217Z"
+  },
+  {
+    "id": "web-mobile-3fa35e3433f82c28",
+    "productId": "web-mobile-3fa35e3433f82c28",
+    "name": "گوشی موبايل سامسونگ Galaxy A56 5G ظرفیت 256 گیگابایت رم 8 گیگابایت - ویتنام",
+    "brand": "سامسونگ",
+    "model": "گوشی موبايل سامسونگ Galaxy A56 5G ظرفیت 256 گیگابایت رم 8 گیگابایت - ویتنام",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-99485/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF-galaxy-a56-5g-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-256-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-8-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA---%D9%88%DB%8C%D8%AA%D9%86%D8%A7%D9%85",
+    "image": "",
+    "sourceId": "technolife-mobile",
+    "sourceUrl": "https://www.technolife.com/category/mobile",
+    "source": "web-catalog:technolife-mobile",
+    "observedAt": "2026-09-01T10:29:38.217Z"
   },
   {
     "id": "web-mobile-9157b39ec8ea1282",
@@ -253,24 +270,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T05:02:57.908Z"
-  },
-  {
-    "id": "web-mobile-b08aa6b3d727bc23",
-    "productId": "web-mobile-b08aa6b3d727bc23",
-    "name": "گوشی موبایل سامسونگ مدل Galaxy A17 4G ظرفیت 128 گیگابایت رم 4 گیگابایت",
-    "brand": "سامسونگ",
-    "model": "گوشی موبایل سامسونگ مدل Galaxy A17 4G ظرفیت 128 گیگابایت رم 4 گیگابایت",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-382583/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF-%D9%85%D8%AF%D9%84-galaxy-a17-4g-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-128-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-4-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
-    "image": "",
-    "sourceId": "technolife-mobile",
-    "sourceUrl": "https://www.technolife.com/category/mobile",
-    "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T05:02:57.908Z"
+    "observedAt": "2026-09-01T10:29:38.217Z"
   },
   {
     "id": "web-mobile-16878911b2ae7579",
@@ -287,7 +287,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T05:02:57.908Z"
+    "observedAt": "2026-09-01T10:29:38.218Z"
   },
   {
     "id": "web-mobile-e62e88dc93424657",
@@ -304,24 +304,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T05:02:57.908Z"
-  },
-  {
-    "id": "web-mobile-f4cd91c8a9ee95d7",
-    "productId": "web-mobile-f4cd91c8a9ee95d7",
-    "name": "شارژر دیواری سامسونگ 25 وات مدل EP-TA800 دو پین - Original",
-    "brand": "سامسونگ",
-    "model": "شارژر دیواری سامسونگ 25 وات مدل EP-TA800 دو پین - Original",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-166585/%D8%B4%D8%A7%D8%B1%DA%98%D8%B1-%D8%AF%DB%8C%D9%88%D8%A7%D8%B1%DB%8C-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF-25-%D9%88%D8%A7%D8%AA-%D9%85%D8%AF%D9%84-ep-ta800-%D8%AF%D9%88-%D9%BE%DB%8C%D9%86---original",
-    "image": "",
-    "sourceId": "technolife-mobile",
-    "sourceUrl": "https://www.technolife.com/category/mobile",
-    "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T05:02:57.908Z"
+    "observedAt": "2026-09-01T10:29:38.218Z"
   },
   {
     "id": "web-mobile-3f647d18b55f732a",
@@ -338,7 +321,24 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T05:02:57.908Z"
+    "observedAt": "2026-09-01T10:29:38.218Z"
+  },
+  {
+    "id": "web-mobile-f4cd91c8a9ee95d7",
+    "productId": "web-mobile-f4cd91c8a9ee95d7",
+    "name": "شارژر دیواری سامسونگ 25 وات مدل EP-TA800 دو پین - Original",
+    "brand": "سامسونگ",
+    "model": "شارژر دیواری سامسونگ 25 وات مدل EP-TA800 دو پین - Original",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-166585/%D8%B4%D8%A7%D8%B1%DA%98%D8%B1-%D8%AF%DB%8C%D9%88%D8%A7%D8%B1%DB%8C-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF-25-%D9%88%D8%A7%D8%AA-%D9%85%D8%AF%D9%84-ep-ta800-%D8%AF%D9%88-%D9%BE%DB%8C%D9%86---original",
+    "image": "",
+    "sourceId": "technolife-mobile",
+    "sourceUrl": "https://www.technolife.com/category/mobile",
+    "source": "web-catalog:technolife-mobile",
+    "observedAt": "2026-09-01T10:29:38.218Z"
   },
   {
     "id": "web-mobile-0b2dfa583dca18be",
@@ -355,7 +355,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T05:02:57.908Z"
+    "observedAt": "2026-09-01T10:29:38.218Z"
   },
   {
     "id": "web-mobile-2a5e6b6350e5ae6b",
@@ -372,7 +372,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T05:02:57.908Z"
+    "observedAt": "2026-09-01T10:29:38.218Z"
   },
   {
     "id": "web-mobile-53d28b75c3506e0b",
@@ -389,24 +389,24 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T05:02:57.908Z"
+    "observedAt": "2026-09-01T10:29:38.218Z"
   },
   {
-    "id": "web-mobile-ce6e1027ba5d1d24",
-    "productId": "web-mobile-ce6e1027ba5d1d24",
-    "name": "گوشی موبایل شیائومی مدل Redmi Note 14S 4G ظرفیت 256 گیگابایت رم 8 گیگابایت",
-    "brand": "شیائومی",
-    "model": "گوشی موبایل شیائومی مدل Redmi Note 14S 4G ظرفیت 256 گیگابایت رم 8 گیگابایت",
+    "id": "web-mobile-740550742a7083b0",
+    "productId": "web-mobile-740550742a7083b0",
+    "name": "گوشی موبايل سامسونگ Galaxy A26 5G ظرفیت 128 گیگابایت رم 6 گیگابایت - ویتنام",
+    "brand": "سامسونگ",
+    "model": "گوشی موبايل سامسونگ Galaxy A26 5G ظرفیت 128 گیگابایت رم 6 گیگابایت - ویتنام",
     "category": "mobile",
     "price": 0,
     "currency": "IRR",
     "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-107882/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84-%D8%B4%DB%8C%D8%A7%D8%A6%D9%88%D9%85%DB%8C-%D9%85%D8%AF%D9%84-redmi-note-14s-4g-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-256-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-8-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
+    "productUrl": "https://www.technolife.com/product-99215/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF-galaxy-a26-5g-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-128-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-6-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA---%D9%88%DB%8C%D8%AA%D9%86%D8%A7%D9%85",
     "image": "",
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T05:02:57.908Z"
+    "observedAt": "2026-09-01T10:29:38.218Z"
   },
   {
     "id": "web-mobile-7a0bf05c95e91c56",
@@ -423,24 +423,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T05:02:57.908Z"
-  },
-  {
-    "id": "web-mobile-7ee2b896c6bcfab1",
-    "productId": "web-mobile-7ee2b896c6bcfab1",
-    "name": "گوشی موبایل شیائومی مدل Redmi A5 4G ظرفیت 64 گیگابایت رم 3 گیگابایت",
-    "brand": "شیائومی",
-    "model": "گوشی موبایل شیائومی مدل Redmi A5 4G ظرفیت 64 گیگابایت رم 3 گیگابایت",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-107883/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84-%D8%B4%DB%8C%D8%A7%D8%A6%D9%88%D9%85%DB%8C-%D9%85%D8%AF%D9%84-redmi-a5-4g-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-64-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-3-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
-    "image": "",
-    "sourceId": "technolife-mobile",
-    "sourceUrl": "https://www.technolife.com/category/mobile",
-    "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T05:02:57.908Z"
+    "observedAt": "2026-09-01T10:29:38.218Z"
   },
   {
     "id": "web-mobile-af983247c0fd66d2",
@@ -457,7 +440,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T05:02:57.908Z"
+    "observedAt": "2026-09-01T10:29:38.218Z"
   },
   {
     "id": "web-mobile-32ba16c0c7c8f5a5",
@@ -474,24 +457,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T05:02:57.908Z"
-  },
-  {
-    "id": "web-mobile-8ff2a86839a782b6",
-    "productId": "web-mobile-8ff2a86839a782b6",
-    "name": "گوشی موبایل آنر X6c ظرفیت 128 گیگابایت رم 6 گیگابایت",
-    "brand": "",
-    "model": "گوشی موبایل آنر X6c ظرفیت 128 گیگابایت رم 6 گیگابایت",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-127181/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84-%D8%A2%D9%86%D8%B1-x6c-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-128-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-6-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
-    "image": "",
-    "sourceId": "technolife-mobile",
-    "sourceUrl": "https://www.technolife.com/category/mobile",
-    "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T05:02:57.908Z"
+    "observedAt": "2026-09-01T10:29:38.218Z"
   },
   {
     "id": "web-mobile-5d5f7dd023b8a101",
@@ -508,58 +474,41 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-mobile",
     "sourceUrl": "https://www.technolife.com/category/mobile",
     "source": "web-catalog:technolife-mobile",
-    "observedAt": "2026-09-01T05:02:57.908Z"
+    "observedAt": "2026-09-01T10:29:38.218Z"
   },
   {
-    "id": "web-mobile-eeae69fba7ca59f5",
-    "productId": "web-mobile-eeae69fba7ca59f5",
-    "name": "Samsung Galaxy S26 Ultra",
-    "brand": "سامسونگ",
-    "model": "Samsung Galaxy S26 Ultra",
+    "id": "web-mobile-55507fedc753a301",
+    "productId": "web-mobile-55507fedc753a301",
+    "name": "گوشی موبایل پوکو مدل X7 Pro ظرفیت 512 گیگابایت رم 12 گیگابایت",
+    "brand": "دل",
+    "model": "گوشی موبایل پوکو مدل X7 Pro ظرفیت 512 گیگابایت رم 12 گیگابایت",
     "category": "mobile",
     "price": 0,
     "currency": "IRR",
     "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-41113-samsung-galaxy-s26-ultra.aspx",
+    "productUrl": "https://www.technolife.com/product-75952/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84-%D9%BE%D9%88%DA%A9%D9%88-%D9%85%D8%AF%D9%84-x7-pro-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-512-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-12-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
     "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.068Z"
+    "sourceId": "technolife-mobile",
+    "sourceUrl": "https://www.technolife.com/category/mobile",
+    "source": "web-catalog:technolife-mobile",
+    "observedAt": "2026-09-01T10:29:38.218Z"
   },
   {
-    "id": "web-mobile-b56b93b186c4a653",
-    "productId": "web-mobile-b56b93b186c4a653",
-    "name": "Xiaomi Redmi Note 15 Pro",
-    "brand": "شیائومی",
-    "model": "Xiaomi Redmi Note 15 Pro",
+    "id": "web-mobile-33a12f3e7c57bbbc",
+    "productId": "web-mobile-33a12f3e7c57bbbc",
+    "name": "گوشی موبایل اپل iPhone 17 Pro Max ZA/A ظرفیت 256 گیگابایت رم 12 گیگابایت - Not Active رجیستر شده",
+    "brand": "اپل",
+    "model": "گوشی موبایل اپل iPhone 17 Pro Max ZA/A ظرفیت 256 گیگابایت رم 12 گیگابایت - Not Active رجیستر شده",
     "category": "mobile",
     "price": 0,
     "currency": "IRR",
     "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-41046-xiaomi-redmi-note-15-pro.aspx",
+    "productUrl": "https://www.technolife.com/product-149697/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84-%D8%A7%D9%BE%D9%84-iphone-17-pro-max-za-a-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-256-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-12-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA---not-active-%D8%B1%D8%AC%DB%8C%D8%B3%D8%AA%D8%B1-%D8%B4%D8%AF%D9%87",
     "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.068Z"
-  },
-  {
-    "id": "web-mobile-ba354c1fbf83f865",
-    "productId": "web-mobile-ba354c1fbf83f865",
-    "name": "Xiaomi Redmi Note 15",
-    "brand": "شیائومی",
-    "model": "Xiaomi Redmi Note 15",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-41047-xiaomi-redmi-note-15.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.068Z"
+    "sourceId": "technolife-mobile",
+    "sourceUrl": "https://www.technolife.com/category/mobile",
+    "source": "web-catalog:technolife-mobile",
+    "observedAt": "2026-09-01T10:29:38.218Z"
   },
   {
     "id": "web-mobile-89a0c25e07e3ad3c",
@@ -576,7 +525,58 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.069Z"
+    "observedAt": "2026-09-01T10:29:55.589Z"
+  },
+  {
+    "id": "web-mobile-eeae69fba7ca59f5",
+    "productId": "web-mobile-eeae69fba7ca59f5",
+    "name": "Samsung Galaxy S26 Ultra",
+    "brand": "سامسونگ",
+    "model": "Samsung Galaxy S26 Ultra",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-41113-samsung-galaxy-s26-ultra.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.589Z"
+  },
+  {
+    "id": "web-mobile-b56b93b186c4a653",
+    "productId": "web-mobile-b56b93b186c4a653",
+    "name": "Xiaomi Redmi Note 15 Pro",
+    "brand": "شیائومی",
+    "model": "Xiaomi Redmi Note 15 Pro",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-41046-xiaomi-redmi-note-15-pro.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.590Z"
+  },
+  {
+    "id": "web-mobile-ba354c1fbf83f865",
+    "productId": "web-mobile-ba354c1fbf83f865",
+    "name": "Xiaomi Redmi Note 15",
+    "brand": "شیائومی",
+    "model": "Xiaomi Redmi Note 15",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-41047-xiaomi-redmi-note-15.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.590Z"
   },
   {
     "id": "web-mobile-baaa8119b28aa041",
@@ -593,551 +593,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.069Z"
-  },
-  {
-    "id": "web-mobile-4856504ba4e0c5c2",
-    "productId": "web-mobile-4856504ba4e0c5c2",
-    "name": "Samsung Galaxy A26",
-    "brand": "سامسونگ",
-    "model": "Samsung Galaxy A26",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40709-samsung-galaxy-a26.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.069Z"
-  },
-  {
-    "id": "web-mobile-5d23f1e8301453d2",
-    "productId": "web-mobile-5d23f1e8301453d2",
-    "name": "Honor X5c Plus",
-    "brand": "",
-    "model": "Honor X5c Plus",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40968-honor-x5c-plus.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.069Z"
-  },
-  {
-    "id": "web-mobile-c5a26e9862c3382d",
-    "productId": "web-mobile-c5a26e9862c3382d",
-    "name": "Motorola Edge 60 Fusion",
-    "brand": "",
-    "model": "Motorola Edge 60 Fusion",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40738-motorola-edge-60-fusion.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.070Z"
-  },
-  {
-    "id": "web-mobile-a29cb80b4a92517d",
-    "productId": "web-mobile-a29cb80b4a92517d",
-    "name": "Honor 600 Lite",
-    "brand": "",
-    "model": "Honor 600 Lite",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-41136-honor-600-lite.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.070Z"
-  },
-  {
-    "id": "web-mobile-59f6968b56f7b5cd",
-    "productId": "web-mobile-59f6968b56f7b5cd",
-    "name": "Realme C71",
-    "brand": "",
-    "model": "Realme C71",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40843-realme-c71.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.070Z"
-  },
-  {
-    "id": "web-mobile-e7c8a985c4dd9ac4",
-    "productId": "web-mobile-e7c8a985c4dd9ac4",
-    "name": "Honor 600",
-    "brand": "",
-    "model": "Honor 600",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-41168-honor-600.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.070Z"
-  },
-  {
-    "id": "web-mobile-12c8dd8ce7245017",
-    "productId": "web-mobile-12c8dd8ce7245017",
-    "name": "Honor X7e",
-    "brand": "",
-    "model": "Honor X7e",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-41228-honor-x7e.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.070Z"
-  },
-  {
-    "id": "web-mobile-5f67af8fa58e5a73",
-    "productId": "web-mobile-5f67af8fa58e5a73",
-    "name": "Honor X8d",
-    "brand": "",
-    "model": "Honor X8d",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-41038-honor-x8d.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.071Z"
-  },
-  {
-    "id": "web-mobile-669f129d2ec217fd",
-    "productId": "web-mobile-669f129d2ec217fd",
-    "name": "Samsung Galaxy S25 FE",
-    "brand": "سامسونگ",
-    "model": "Samsung Galaxy S25 FE",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40925-samsung-galaxy-s25-fe.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.071Z"
-  },
-  {
-    "id": "web-mobile-59027dae399e5258",
-    "productId": "web-mobile-59027dae399e5258",
-    "name": "Xiaomi Redmi 13x",
-    "brand": "شیائومی",
-    "model": "Xiaomi Redmi 13x",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40742-xiaomi-redmi-13x.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.071Z"
-  },
-  {
-    "id": "web-mobile-69f5acc08a043fac",
-    "productId": "web-mobile-69f5acc08a043fac",
-    "name": "Xiaomi Poco X7 Pro",
-    "brand": "شیائومی",
-    "model": "Xiaomi Poco X7 Pro",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40672-xiaomi-poco-x7-pro.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.071Z"
-  },
-  {
-    "id": "web-mobile-438a7fdeef2b2a93",
-    "productId": "web-mobile-438a7fdeef2b2a93",
-    "name": "Xiaomi Redmi Note 15 Pro 4G",
-    "brand": "شیائومی",
-    "model": "Xiaomi Redmi Note 15 Pro 4G",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-41048-xiaomi-redmi-note-15-pro-4g.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.071Z"
-  },
-  {
-    "id": "web-mobile-d12d0171283e3aa5",
-    "productId": "web-mobile-d12d0171283e3aa5",
-    "name": "Xiaomi Redmi Note 14 Pro 5G (Global)",
-    "brand": "شیائومی",
-    "model": "Xiaomi Redmi Note 14 Pro 5G (Global)",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40675-xiaomi-redmi-note-14-pro-5g-global.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.072Z"
-  },
-  {
-    "id": "web-mobile-49ac5921d76f0e5b",
-    "productId": "web-mobile-49ac5921d76f0e5b",
-    "name": "Apple iPhone 16",
-    "brand": "اپل",
-    "model": "Apple iPhone 16",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40553-apple-iphone-16.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.072Z"
-  },
-  {
-    "id": "web-mobile-a6011e190252de8c",
-    "productId": "web-mobile-a6011e190252de8c",
-    "name": "Apple iPhone 14",
-    "brand": "اپل",
-    "model": "Apple iPhone 14",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "in_stock",
-    "productUrl": "https://www.mobile.ir/phones/shops-39805-apple-iphone-14.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.072Z"
-  },
-  {
-    "id": "web-mobile-4d0d8b847cd39075",
-    "productId": "web-mobile-4d0d8b847cd39075",
-    "name": "Apple iPhone 17 Pro Max",
-    "brand": "اپل",
-    "model": "Apple iPhone 17 Pro Max",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40934-apple-iphone-17-pro-max.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.072Z"
-  },
-  {
-    "id": "web-mobile-18630865144df600",
-    "productId": "web-mobile-18630865144df600",
-    "name": "Apple iPhone 17",
-    "brand": "اپل",
-    "model": "Apple iPhone 17",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40933-apple-iphone-17.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.072Z"
-  },
-  {
-    "id": "web-mobile-cc3a4ed40f46bfb9",
-    "productId": "web-mobile-cc3a4ed40f46bfb9",
-    "name": "Apple iPhone 17 Pro",
-    "brand": "اپل",
-    "model": "Apple iPhone 17 Pro",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40935-apple-iphone-17-pro.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.073Z"
-  },
-  {
-    "id": "web-mobile-72094adf3944b0ed",
-    "productId": "web-mobile-72094adf3944b0ed",
-    "name": "Honor 400",
-    "brand": "",
-    "model": "Honor 400",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40805-honor-400.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.073Z"
-  },
-  {
-    "id": "web-mobile-88dee6e5899efb59",
-    "productId": "web-mobile-88dee6e5899efb59",
-    "name": "Apple iPhone 16e",
-    "brand": "اپل",
-    "model": "Apple iPhone 16e",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40697-apple-iphone-16e.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.074Z"
-  },
-  {
-    "id": "web-mobile-461fe33c3a219c7a",
-    "productId": "web-mobile-461fe33c3a219c7a",
-    "name": "Honor X6c",
-    "brand": "",
-    "model": "Honor X6c",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40846-honor-x6c.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.074Z"
-  },
-  {
-    "id": "web-mobile-93cf620fce547cf6",
-    "productId": "web-mobile-93cf620fce547cf6",
-    "name": "Honor 400 Lite",
-    "brand": "",
-    "model": "Honor 400 Lite",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40749-honor-400-lite.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.075Z"
-  },
-  {
-    "id": "web-mobile-f239e6cc10f6d19f",
-    "productId": "web-mobile-f239e6cc10f6d19f",
-    "name": "Honor Play10 4G",
-    "brand": "",
-    "model": "Honor Play10 4G",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40946-honor-play10-4g.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.075Z"
-  },
-  {
-    "id": "web-mobile-77ea3d5c9c8fbdaf",
-    "productId": "web-mobile-77ea3d5c9c8fbdaf",
-    "name": "Honor X7d 4G",
-    "brand": "",
-    "model": "Honor X7d 4G",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40919-honor-x7d-4g.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.075Z"
-  },
-  {
-    "id": "web-mobile-7d6ed3be5a1bf95d",
-    "productId": "web-mobile-7d6ed3be5a1bf95d",
-    "name": "Honor X9d",
-    "brand": "",
-    "model": "Honor X9d",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-41017-honor-x9d.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.077Z"
-  },
-  {
-    "id": "web-mobile-389dad479b6de6a0",
-    "productId": "web-mobile-389dad479b6de6a0",
-    "name": "Samsung Galaxy A57",
-    "brand": "سامسونگ",
-    "model": "Samsung Galaxy A57",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-41119-samsung-galaxy-a57.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.077Z"
-  },
-  {
-    "id": "web-mobile-72c5de09bac4d8b3",
-    "productId": "web-mobile-72c5de09bac4d8b3",
-    "name": "Honor 600 Pro",
-    "brand": "",
-    "model": "Honor 600 Pro",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-41167-honor-600-pro.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.077Z"
-  },
-  {
-    "id": "web-mobile-8253fb0dce5f3bdf",
-    "productId": "web-mobile-8253fb0dce5f3bdf",
-    "name": "Honor Win RT",
-    "brand": "",
-    "model": "Honor Win RT",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-41055-honor-win-rt.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.077Z"
-  },
-  {
-    "id": "web-mobile-15bb4b8ecebc2ce2",
-    "productId": "web-mobile-15bb4b8ecebc2ce2",
-    "name": "Vivo iQOO 15",
-    "brand": "",
-    "model": "Vivo iQOO 15",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40992-vivo-iqoo-15.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.077Z"
-  },
-  {
-    "id": "web-mobile-69312dc6ad0fa187",
-    "productId": "web-mobile-69312dc6ad0fa187",
-    "name": "Vivo X300 Pro",
-    "brand": "",
-    "model": "Vivo X300 Pro",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40975-vivo-x300-pro.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.078Z"
-  },
-  {
-    "id": "web-mobile-1638a5fcef41f946",
-    "productId": "web-mobile-1638a5fcef41f946",
-    "name": "OnePlus Ace 6T",
-    "brand": "",
-    "model": "OnePlus Ace 6T",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-41033-oneplus-ace-6t.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.078Z"
-  },
-  {
-    "id": "web-mobile-21f2f5cd482677d0",
-    "productId": "web-mobile-21f2f5cd482677d0",
-    "name": "Realme Note 50",
-    "brand": "",
-    "model": "Realme Note 50",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "in_stock",
-    "productUrl": "https://www.mobile.ir/phones/shops-40339-realme-note-50.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.078Z"
+    "observedAt": "2026-09-01T10:29:55.591Z"
   },
   {
     "id": "web-mobile-1922ffc0ad9c175d",
@@ -1154,7 +610,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.079Z"
+    "observedAt": "2026-09-01T10:29:55.592Z"
   },
   {
     "id": "web-mobile-02e3c9834275c5a3",
@@ -1171,7 +627,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.079Z"
+    "observedAt": "2026-09-01T10:29:55.592Z"
   },
   {
     "id": "web-mobile-11c79ea44f98c5ee",
@@ -1188,7 +644,24 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.079Z"
+    "observedAt": "2026-09-01T10:29:55.592Z"
+  },
+  {
+    "id": "web-mobile-49ac5921d76f0e5b",
+    "productId": "web-mobile-49ac5921d76f0e5b",
+    "name": "Apple iPhone 16",
+    "brand": "اپل",
+    "model": "Apple iPhone 16",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40553-apple-iphone-16.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.592Z"
   },
   {
     "id": "web-mobile-24a4910cd35fbd9f",
@@ -1205,7 +678,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.080Z"
+    "observedAt": "2026-09-01T10:29:55.593Z"
   },
   {
     "id": "web-mobile-0c45dd47971d4f19",
@@ -1222,7 +695,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.080Z"
+    "observedAt": "2026-09-01T10:29:55.593Z"
   },
   {
     "id": "web-mobile-69190324295dc966",
@@ -1239,7 +712,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.080Z"
+    "observedAt": "2026-09-01T10:29:55.593Z"
   },
   {
     "id": "web-mobile-37c553113ea1e9ce",
@@ -1256,7 +729,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.080Z"
+    "observedAt": "2026-09-01T10:29:55.593Z"
   },
   {
     "id": "web-mobile-82828cfda327147a",
@@ -1273,7 +746,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.081Z"
+    "observedAt": "2026-09-01T10:29:55.593Z"
   },
   {
     "id": "web-mobile-2b1f216d684f3e93",
@@ -1290,7 +763,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.081Z"
+    "observedAt": "2026-09-01T10:29:55.593Z"
   },
   {
     "id": "web-mobile-2d60484322ff9f5e",
@@ -1307,7 +780,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.081Z"
+    "observedAt": "2026-09-01T10:29:55.594Z"
   },
   {
     "id": "web-mobile-54bde84dfbf9893c",
@@ -1324,7 +797,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.081Z"
+    "observedAt": "2026-09-01T10:29:55.594Z"
   },
   {
     "id": "web-mobile-6bcb705d00e5fd51",
@@ -1341,7 +814,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.082Z"
+    "observedAt": "2026-09-01T10:29:55.594Z"
   },
   {
     "id": "web-mobile-6b39cadb640e5d45",
@@ -1358,7 +831,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.082Z"
+    "observedAt": "2026-09-01T10:29:55.594Z"
   },
   {
     "id": "web-mobile-9848bd9020c39c08",
@@ -1375,7 +848,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.082Z"
+    "observedAt": "2026-09-01T10:29:55.595Z"
   },
   {
     "id": "web-mobile-25429aeb291a3b7e",
@@ -1392,7 +865,24 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.082Z"
+    "observedAt": "2026-09-01T10:29:55.595Z"
+  },
+  {
+    "id": "web-mobile-18630865144df600",
+    "productId": "web-mobile-18630865144df600",
+    "name": "Apple iPhone 17",
+    "brand": "اپل",
+    "model": "Apple iPhone 17",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40933-apple-iphone-17.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.595Z"
   },
   {
     "id": "web-mobile-dff617860844098c",
@@ -1409,7 +899,41 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.082Z"
+    "observedAt": "2026-09-01T10:29:55.595Z"
+  },
+  {
+    "id": "web-mobile-4d0d8b847cd39075",
+    "productId": "web-mobile-4d0d8b847cd39075",
+    "name": "Apple iPhone 17 Pro Max",
+    "brand": "اپل",
+    "model": "Apple iPhone 17 Pro Max",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40934-apple-iphone-17-pro-max.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.596Z"
+  },
+  {
+    "id": "web-mobile-cc3a4ed40f46bfb9",
+    "productId": "web-mobile-cc3a4ed40f46bfb9",
+    "name": "Apple iPhone 17 Pro",
+    "brand": "اپل",
+    "model": "Apple iPhone 17 Pro",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40935-apple-iphone-17-pro.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.596Z"
   },
   {
     "id": "web-mobile-92ac4d2ed2ad08d1",
@@ -1426,7 +950,41 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.083Z"
+    "observedAt": "2026-09-01T10:29:55.596Z"
+  },
+  {
+    "id": "web-mobile-4856504ba4e0c5c2",
+    "productId": "web-mobile-4856504ba4e0c5c2",
+    "name": "Samsung Galaxy A26",
+    "brand": "سامسونگ",
+    "model": "Samsung Galaxy A26",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40709-samsung-galaxy-a26.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.597Z"
+  },
+  {
+    "id": "web-mobile-669f129d2ec217fd",
+    "productId": "web-mobile-669f129d2ec217fd",
+    "name": "Samsung Galaxy S25 FE",
+    "brand": "سامسونگ",
+    "model": "Samsung Galaxy S25 FE",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40925-samsung-galaxy-s25-fe.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.598Z"
   },
   {
     "id": "web-mobile-aae673c016acf543",
@@ -1443,7 +1001,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.084Z"
+    "observedAt": "2026-09-01T10:29:55.598Z"
   },
   {
     "id": "web-mobile-e96074679c827376",
@@ -1460,7 +1018,24 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.086Z"
+    "observedAt": "2026-09-01T10:29:55.600Z"
+  },
+  {
+    "id": "web-mobile-69f5acc08a043fac",
+    "productId": "web-mobile-69f5acc08a043fac",
+    "name": "Xiaomi Poco X7 Pro",
+    "brand": "شیائومی",
+    "model": "Xiaomi Poco X7 Pro",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40672-xiaomi-poco-x7-pro.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.600Z"
   },
   {
     "id": "web-mobile-d0f83da1bb7b3714",
@@ -1477,7 +1052,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.087Z"
+    "observedAt": "2026-09-01T10:29:55.600Z"
   },
   {
     "id": "web-mobile-b0937fd00988e05a",
@@ -1494,7 +1069,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.087Z"
+    "observedAt": "2026-09-01T10:29:55.600Z"
   },
   {
     "id": "web-mobile-6bd1f7b5f3aa31c1",
@@ -1511,7 +1086,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.087Z"
+    "observedAt": "2026-09-01T10:29:55.601Z"
   },
   {
     "id": "web-mobile-96483f618195db4e",
@@ -1528,7 +1103,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.087Z"
+    "observedAt": "2026-09-01T10:29:55.601Z"
   },
   {
     "id": "web-mobile-f8acb2c0c4a0ddce",
@@ -1545,7 +1120,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.089Z"
+    "observedAt": "2026-09-01T10:29:55.603Z"
   },
   {
     "id": "web-mobile-03acdee43b4c0c2c",
@@ -1562,7 +1137,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.090Z"
+    "observedAt": "2026-09-01T10:29:55.605Z"
   },
   {
     "id": "web-mobile-09f0ffe6e4cc8be1",
@@ -1579,279 +1154,41 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.090Z"
+    "observedAt": "2026-09-01T10:29:55.606Z"
   },
   {
-    "id": "web-mobile-5c6e97c8bd2cca2d",
-    "productId": "web-mobile-5c6e97c8bd2cca2d",
-    "name": "Samsung Galaxy A35",
+    "id": "web-mobile-f37a0a0142ed6638",
+    "productId": "web-mobile-f37a0a0142ed6638",
+    "name": "Samsung Galaxy S26+",
     "brand": "سامسونگ",
-    "model": "Samsung Galaxy A35",
+    "model": "Samsung Galaxy S26+",
     "category": "mobile",
     "price": 0,
     "currency": "IRR",
     "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40358-samsung-galaxy-a35.aspx",
+    "productUrl": "https://www.mobile.ir/phones/shops-41114-samsung-galaxy-s26.aspx",
     "image": "",
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.091Z"
+    "observedAt": "2026-09-01T10:29:55.607Z"
   },
   {
-    "id": "web-mobile-0417592ce5f3a1ca",
-    "productId": "web-mobile-0417592ce5f3a1ca",
-    "name": "Samsung Galaxy S26",
+    "id": "web-mobile-389dad479b6de6a0",
+    "productId": "web-mobile-389dad479b6de6a0",
+    "name": "Samsung Galaxy A57",
     "brand": "سامسونگ",
-    "model": "Samsung Galaxy S26",
+    "model": "Samsung Galaxy A57",
     "category": "mobile",
     "price": 0,
     "currency": "IRR",
     "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-41115-samsung-galaxy-s26.aspx",
+    "productUrl": "https://www.mobile.ir/phones/shops-41119-samsung-galaxy-a57.aspx",
     "image": "",
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.092Z"
-  },
-  {
-    "id": "web-mobile-fee6d9da2c06870a",
-    "productId": "web-mobile-fee6d9da2c06870a",
-    "name": "Samsung Galaxy Z Fold7",
-    "brand": "سامسونگ",
-    "model": "Samsung Galaxy Z Fold7",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40869-samsung-galaxy-z-fold7.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.094Z"
-  },
-  {
-    "id": "web-mobile-1aae7badc92d21bc",
-    "productId": "web-mobile-1aae7badc92d21bc",
-    "name": "Xiaomi 15T Pro",
-    "brand": "شیائومی",
-    "model": "Xiaomi 15T Pro",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40958-xiaomi-15t-pro.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.094Z"
-  },
-  {
-    "id": "web-mobile-7cd9ecdcd55bccea",
-    "productId": "web-mobile-7cd9ecdcd55bccea",
-    "name": "Samsung Galaxy Z Fold8",
-    "brand": "سامسونگ",
-    "model": "Samsung Galaxy Z Fold8",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-41270-samsung-galaxy-z-fold8.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.094Z"
-  },
-  {
-    "id": "web-mobile-7e260a4ae04efe32",
-    "productId": "web-mobile-7e260a4ae04efe32",
-    "name": "Samsung Galaxy Z Fold8 Ultra",
-    "brand": "سامسونگ",
-    "model": "Samsung Galaxy Z Fold8 Ultra",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-41269-samsung-galaxy-z-fold8-ultra.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.094Z"
-  },
-  {
-    "id": "web-mobile-81b918fadf23bbb4",
-    "productId": "web-mobile-81b918fadf23bbb4",
-    "name": "Samsung Galaxy Z Flip8",
-    "brand": "سامسونگ",
-    "model": "Samsung Galaxy Z Flip8",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-41271-samsung-galaxy-z-flip8.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.095Z"
-  },
-  {
-    "id": "web-mobile-f4f9e7fcb1da1a3c",
-    "productId": "web-mobile-f4f9e7fcb1da1a3c",
-    "name": "Xiaomi Poco M5s",
-    "brand": "شیائومی",
-    "model": "Xiaomi Poco M5s",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-39798-xiaomi-poco-m5s.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.095Z"
-  },
-  {
-    "id": "web-mobile-c66199eb07a8f63e",
-    "productId": "web-mobile-c66199eb07a8f63e",
-    "name": "Xiaomi Poco C75",
-    "brand": "شیائومی",
-    "model": "Xiaomi Poco C75",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40606-xiaomi-poco-c75.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.095Z"
-  },
-  {
-    "id": "web-mobile-55a22895d03d8ab8",
-    "productId": "web-mobile-55a22895d03d8ab8",
-    "name": "Xiaomi Redmi 15 4G",
-    "brand": "شیائومی",
-    "model": "Xiaomi Redmi 15 4G",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40888-xiaomi-redmi-15-4g.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.095Z"
-  },
-  {
-    "id": "web-mobile-e11bf46c0e9677f4",
-    "productId": "web-mobile-e11bf46c0e9677f4",
-    "name": "Xiaomi Redmi 15C 4G",
-    "brand": "شیائومی",
-    "model": "Xiaomi Redmi 15C 4G",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40890-xiaomi-redmi-15c-4g.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.095Z"
-  },
-  {
-    "id": "web-mobile-cabde82a5e189fea",
-    "productId": "web-mobile-cabde82a5e189fea",
-    "name": "Xiaomi Poco M7",
-    "brand": "شیائومی",
-    "model": "Xiaomi Poco M7",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40712-xiaomi-poco-m7.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.095Z"
-  },
-  {
-    "id": "web-mobile-9efd47b828b0adf9",
-    "productId": "web-mobile-9efd47b828b0adf9",
-    "name": "Xiaomi Poco F6 Pro",
-    "brand": "شیائومی",
-    "model": "Xiaomi Poco F6 Pro",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40448-xiaomi-poco-f6-pro.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.096Z"
-  },
-  {
-    "id": "web-mobile-de4eee5db40aa957",
-    "productId": "web-mobile-de4eee5db40aa957",
-    "name": "Xiaomi Poco F7 Pro",
-    "brand": "شیائومی",
-    "model": "Xiaomi Poco F7 Pro",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40734-xiaomi-poco-f7-pro.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.096Z"
-  },
-  {
-    "id": "web-mobile-bd6bb8c861ddc51b",
-    "productId": "web-mobile-bd6bb8c861ddc51b",
-    "name": "Xiaomi Poco X8 Pro",
-    "brand": "شیائومی",
-    "model": "Xiaomi Poco X8 Pro",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-41131-xiaomi-poco-x8-pro.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.097Z"
-  },
-  {
-    "id": "web-mobile-cf5195c36af2450a",
-    "productId": "web-mobile-cf5195c36af2450a",
-    "name": "Xiaomi Redmi Note 14 4G (Global)",
-    "brand": "شیائومی",
-    "model": "Xiaomi Redmi Note 14 4G (Global)",
-    "category": "mobile",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.mobile.ir/phones/shops-40678-xiaomi-redmi-note-14-4g-global.aspx",
-    "image": "",
-    "sourceId": "mobile-ir",
-    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
-    "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.097Z"
+    "observedAt": "2026-09-01T10:29:55.607Z"
   },
   {
     "id": "web-mobile-8a9cb3bdae6af1ac",
@@ -1868,7 +1205,24 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.098Z"
+    "observedAt": "2026-09-01T10:29:55.608Z"
+  },
+  {
+    "id": "web-mobile-438a7fdeef2b2a93",
+    "productId": "web-mobile-438a7fdeef2b2a93",
+    "name": "Xiaomi Redmi Note 15 Pro 4G",
+    "brand": "شیائومی",
+    "model": "Xiaomi Redmi Note 15 Pro 4G",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-41048-xiaomi-redmi-note-15-pro-4g.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.608Z"
   },
   {
     "id": "web-mobile-0c228896a3422e74",
@@ -1885,7 +1239,687 @@ export const PRODUCT_INDEX = [
     "sourceId": "mobile-ir",
     "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
     "source": "web-catalog:mobile-ir",
-    "observedAt": "2026-09-01T05:03:25.098Z"
+    "observedAt": "2026-09-01T10:29:55.608Z"
+  },
+  {
+    "id": "web-mobile-bd6bb8c861ddc51b",
+    "productId": "web-mobile-bd6bb8c861ddc51b",
+    "name": "Xiaomi Poco X8 Pro",
+    "brand": "شیائومی",
+    "model": "Xiaomi Poco X8 Pro",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-41131-xiaomi-poco-x8-pro.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.608Z"
+  },
+  {
+    "id": "web-mobile-c67adb364563567e",
+    "productId": "web-mobile-c67adb364563567e",
+    "name": "Xiaomi Redmi A3",
+    "brand": "شیائومی",
+    "model": "Xiaomi Redmi A3",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40335-xiaomi-redmi-a3.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.608Z"
+  },
+  {
+    "id": "web-mobile-cf5195c36af2450a",
+    "productId": "web-mobile-cf5195c36af2450a",
+    "name": "Xiaomi Redmi Note 14 4G (Global)",
+    "brand": "شیائومی",
+    "model": "Xiaomi Redmi Note 14 4G (Global)",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40678-xiaomi-redmi-note-14-4g-global.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.609Z"
+  },
+  {
+    "id": "web-mobile-b8c547a8846bb7e1",
+    "productId": "web-mobile-b8c547a8846bb7e1",
+    "name": "Xiaomi Redmi Note 14 Pro 4G (Global)",
+    "brand": "شیائومی",
+    "model": "Xiaomi Redmi Note 14 Pro 4G (Global)",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40676-xiaomi-redmi-note-14-pro-4g-global.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.609Z"
+  },
+  {
+    "id": "web-mobile-d12d0171283e3aa5",
+    "productId": "web-mobile-d12d0171283e3aa5",
+    "name": "Xiaomi Redmi Note 14 Pro 5G (Global)",
+    "brand": "شیائومی",
+    "model": "Xiaomi Redmi Note 14 Pro 5G (Global)",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40675-xiaomi-redmi-note-14-pro-5g-global.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.609Z"
+  },
+  {
+    "id": "web-mobile-59027dae399e5258",
+    "productId": "web-mobile-59027dae399e5258",
+    "name": "Xiaomi Redmi 13x",
+    "brand": "شیائومی",
+    "model": "Xiaomi Redmi 13x",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40742-xiaomi-redmi-13x.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.609Z"
+  },
+  {
+    "id": "web-mobile-e11bf46c0e9677f4",
+    "productId": "web-mobile-e11bf46c0e9677f4",
+    "name": "Xiaomi Redmi 15C 4G",
+    "brand": "شیائومی",
+    "model": "Xiaomi Redmi 15C 4G",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40890-xiaomi-redmi-15c-4g.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.609Z"
+  },
+  {
+    "id": "web-mobile-55a22895d03d8ab8",
+    "productId": "web-mobile-55a22895d03d8ab8",
+    "name": "Xiaomi Redmi 15 4G",
+    "brand": "شیائومی",
+    "model": "Xiaomi Redmi 15 4G",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40888-xiaomi-redmi-15-4g.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.610Z"
+  },
+  {
+    "id": "web-mobile-a6011e190252de8c",
+    "productId": "web-mobile-a6011e190252de8c",
+    "name": "Apple iPhone 14",
+    "brand": "اپل",
+    "model": "Apple iPhone 14",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "in_stock",
+    "productUrl": "https://www.mobile.ir/phones/shops-39805-apple-iphone-14.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.610Z"
+  },
+  {
+    "id": "web-mobile-96dfa114ec5b041d",
+    "productId": "web-mobile-96dfa114ec5b041d",
+    "name": "Apple iPhone 16 Pro Max",
+    "brand": "اپل",
+    "model": "Apple iPhone 16 Pro Max",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40550-apple-iphone-16-pro-max.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.610Z"
+  },
+  {
+    "id": "web-mobile-888a8eaa500fb9fe",
+    "productId": "web-mobile-888a8eaa500fb9fe",
+    "name": "Apple iPhone 16 Pro",
+    "brand": "اپل",
+    "model": "Apple iPhone 16 Pro",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40551-apple-iphone-16-pro.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.610Z"
+  },
+  {
+    "id": "web-mobile-878db945e33531aa",
+    "productId": "web-mobile-878db945e33531aa",
+    "name": "Apple iPhone 15",
+    "brand": "اپل",
+    "model": "Apple iPhone 15",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40173-apple-iphone-15.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.610Z"
+  },
+  {
+    "id": "web-mobile-fee6d9da2c06870a",
+    "productId": "web-mobile-fee6d9da2c06870a",
+    "name": "Samsung Galaxy Z Fold7",
+    "brand": "سامسونگ",
+    "model": "Samsung Galaxy Z Fold7",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40869-samsung-galaxy-z-fold7.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.613Z"
+  },
+  {
+    "id": "web-mobile-1aae7badc92d21bc",
+    "productId": "web-mobile-1aae7badc92d21bc",
+    "name": "Xiaomi 15T Pro",
+    "brand": "شیائومی",
+    "model": "Xiaomi 15T Pro",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40958-xiaomi-15t-pro.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.614Z"
+  },
+  {
+    "id": "web-mobile-7cd9ecdcd55bccea",
+    "productId": "web-mobile-7cd9ecdcd55bccea",
+    "name": "Samsung Galaxy Z Fold8",
+    "brand": "سامسونگ",
+    "model": "Samsung Galaxy Z Fold8",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-41270-samsung-galaxy-z-fold8.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.614Z"
+  },
+  {
+    "id": "web-mobile-7e260a4ae04efe32",
+    "productId": "web-mobile-7e260a4ae04efe32",
+    "name": "Samsung Galaxy Z Fold8 Ultra",
+    "brand": "سامسونگ",
+    "model": "Samsung Galaxy Z Fold8 Ultra",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-41269-samsung-galaxy-z-fold8-ultra.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.614Z"
+  },
+  {
+    "id": "web-mobile-81b918fadf23bbb4",
+    "productId": "web-mobile-81b918fadf23bbb4",
+    "name": "Samsung Galaxy Z Flip8",
+    "brand": "سامسونگ",
+    "model": "Samsung Galaxy Z Flip8",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-41271-samsung-galaxy-z-flip8.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.614Z"
+  },
+  {
+    "id": "web-mobile-72094adf3944b0ed",
+    "productId": "web-mobile-72094adf3944b0ed",
+    "name": "Honor 400",
+    "brand": "",
+    "model": "Honor 400",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40805-honor-400.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.616Z"
+  },
+  {
+    "id": "web-mobile-854b2eb39453963c",
+    "productId": "web-mobile-854b2eb39453963c",
+    "name": "Google Pixel 10a",
+    "brand": "",
+    "model": "Google Pixel 10a",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-41108-google-pixel-10a.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.617Z"
+  },
+  {
+    "id": "web-mobile-3c5c183d905cc67f",
+    "productId": "web-mobile-3c5c183d905cc67f",
+    "name": "Google Pixel 10",
+    "brand": "",
+    "model": "Google Pixel 10",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40909-google-pixel-10.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.617Z"
+  },
+  {
+    "id": "web-mobile-72c5de09bac4d8b3",
+    "productId": "web-mobile-72c5de09bac4d8b3",
+    "name": "Honor 600 Pro",
+    "brand": "",
+    "model": "Honor 600 Pro",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-41167-honor-600-pro.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.617Z"
+  },
+  {
+    "id": "web-mobile-e7c8a985c4dd9ac4",
+    "productId": "web-mobile-e7c8a985c4dd9ac4",
+    "name": "Honor 600",
+    "brand": "",
+    "model": "Honor 600",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-41168-honor-600.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.617Z"
+  },
+  {
+    "id": "web-mobile-a29cb80b4a92517d",
+    "productId": "web-mobile-a29cb80b4a92517d",
+    "name": "Honor 600 Lite",
+    "brand": "",
+    "model": "Honor 600 Lite",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-41136-honor-600-lite.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.617Z"
+  },
+  {
+    "id": "web-mobile-7549babf4f657d86",
+    "productId": "web-mobile-7549babf4f657d86",
+    "name": "Nothing Phone (2a)",
+    "brand": "",
+    "model": "Nothing Phone (2a)",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40349-nothing-phone-2a.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.617Z"
+  },
+  {
+    "id": "web-mobile-bd0cef96f4b2c510",
+    "productId": "web-mobile-bd0cef96f4b2c510",
+    "name": "Nothing CMF Phone 1",
+    "brand": "",
+    "model": "Nothing CMF Phone 1",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40487-nothing-cmf-phone-1.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.618Z"
+  },
+  {
+    "id": "web-mobile-dfeb18bd426871e0",
+    "productId": "web-mobile-dfeb18bd426871e0",
+    "name": "Nothing Phone (2a) Plus",
+    "brand": "",
+    "model": "Nothing Phone (2a) Plus",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40508-nothing-phone-2a-plus.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.618Z"
+  },
+  {
+    "id": "web-mobile-8bd1efa28d69a04a",
+    "productId": "web-mobile-8bd1efa28d69a04a",
+    "name": "Nothing Phone (3a) Pro",
+    "brand": "",
+    "model": "Nothing Phone (3a) Pro",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40713-nothing-phone-3a-pro.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.618Z"
+  },
+  {
+    "id": "web-mobile-c74c6ca4df1bd149",
+    "productId": "web-mobile-c74c6ca4df1bd149",
+    "name": "Honor X9c",
+    "brand": "",
+    "model": "Honor X9c",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40619-honor-x9c.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.618Z"
+  },
+  {
+    "id": "web-mobile-77ea3d5c9c8fbdaf",
+    "productId": "web-mobile-77ea3d5c9c8fbdaf",
+    "name": "Honor X7d 4G",
+    "brand": "",
+    "model": "Honor X7d 4G",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40919-honor-x7d-4g.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.618Z"
+  },
+  {
+    "id": "web-mobile-461fe33c3a219c7a",
+    "productId": "web-mobile-461fe33c3a219c7a",
+    "name": "Honor X6c",
+    "brand": "",
+    "model": "Honor X6c",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40846-honor-x6c.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.618Z"
+  },
+  {
+    "id": "web-mobile-7d6ed3be5a1bf95d",
+    "productId": "web-mobile-7d6ed3be5a1bf95d",
+    "name": "Honor X9d",
+    "brand": "",
+    "model": "Honor X9d",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-41017-honor-x9d.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.618Z"
+  },
+  {
+    "id": "web-mobile-6b0a146e4db7f043",
+    "productId": "web-mobile-6b0a146e4db7f043",
+    "name": "Nothing CMF Phone 2 Pro",
+    "brand": "",
+    "model": "Nothing CMF Phone 2 Pro",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40777-nothing-cmf-phone-2-pro.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.619Z"
+  },
+  {
+    "id": "web-mobile-5bff2be45602c3b8",
+    "productId": "web-mobile-5bff2be45602c3b8",
+    "name": "Nothing Phone (4a) Pro",
+    "brand": "",
+    "model": "Nothing Phone (4a) Pro",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-41128-nothing-phone-4a-pro.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.619Z"
+  },
+  {
+    "id": "web-mobile-5d08b4d8a5088815",
+    "productId": "web-mobile-5d08b4d8a5088815",
+    "name": "OnePlus 15",
+    "brand": "",
+    "model": "OnePlus 15",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40999-oneplus-15.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.619Z"
+  },
+  {
+    "id": "web-mobile-a2543e54ab99587e",
+    "productId": "web-mobile-a2543e54ab99587e",
+    "name": "Nothing Phone (4a)",
+    "brand": "",
+    "model": "Nothing Phone (4a)",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-41129-nothing-phone-4a.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.619Z"
+  },
+  {
+    "id": "web-mobile-5f67af8fa58e5a73",
+    "productId": "web-mobile-5f67af8fa58e5a73",
+    "name": "Honor X8d",
+    "brand": "",
+    "model": "Honor X8d",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-41038-honor-x8d.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.619Z"
+  },
+  {
+    "id": "web-mobile-12c8dd8ce7245017",
+    "productId": "web-mobile-12c8dd8ce7245017",
+    "name": "Honor X7e",
+    "brand": "",
+    "model": "Honor X7e",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-41228-honor-x7e.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.619Z"
+  },
+  {
+    "id": "web-mobile-cee538d2dfe63627",
+    "productId": "web-mobile-cee538d2dfe63627",
+    "name": "Samsung Galaxy A06",
+    "brand": "سامسونگ",
+    "model": "Samsung Galaxy A06",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40523-samsung-galaxy-a06.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.619Z"
+  },
+  {
+    "id": "web-mobile-6a6a4963e4fda4e0",
+    "productId": "web-mobile-6a6a4963e4fda4e0",
+    "name": "OnePlus 15R",
+    "brand": "",
+    "model": "OnePlus 15R",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-41041-oneplus-15r.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.621Z"
+  },
+  {
+    "id": "web-mobile-5c6e97c8bd2cca2d",
+    "productId": "web-mobile-5c6e97c8bd2cca2d",
+    "name": "Samsung Galaxy A35",
+    "brand": "سامسونگ",
+    "model": "Samsung Galaxy A35",
+    "category": "mobile",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.mobile.ir/phones/shops-40358-samsung-galaxy-a35.aspx",
+    "image": "",
+    "sourceId": "mobile-ir",
+    "sourceUrl": "https://www.mobile.ir/phones/prices.aspx?brandid=0&duration=14&pagesize=200&price_from=-1&price_to=-1&provinceid=0&shopid=0&sort=warranty&terms=",
+    "source": "web-catalog:mobile-ir",
+    "observedAt": "2026-09-01T10:29:55.621Z"
   },
   {
     "id": "web-mobile-1b21267829f3863e",
@@ -1902,7 +1936,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo-mobile",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo-mobile",
-    "observedAt": "2026-09-01T05:03:32.318Z"
+    "observedAt": "2026-09-01T10:30:01.440Z"
   },
   {
     "id": "web-mobile-60e576464099d3ea",
@@ -1919,7 +1953,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo-mobile",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo-mobile",
-    "observedAt": "2026-09-01T05:03:32.319Z"
+    "observedAt": "2026-09-01T10:30:01.440Z"
   },
   {
     "id": "web-mobile-f4c2995227e48efb",
@@ -1936,7 +1970,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo-mobile",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo-mobile",
-    "observedAt": "2026-09-01T05:03:32.319Z"
+    "observedAt": "2026-09-01T10:30:01.440Z"
   },
   {
     "id": "web-mobile-7b22e71d1c1b2909",
@@ -1953,7 +1987,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo-mobile",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo-mobile",
-    "observedAt": "2026-09-01T05:03:32.319Z"
+    "observedAt": "2026-09-01T10:30:01.440Z"
   },
   {
     "id": "web-mobile-d6a45bb9a3a832d1",
@@ -1970,7 +2004,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo-mobile",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo-mobile",
-    "observedAt": "2026-09-01T05:03:32.319Z"
+    "observedAt": "2026-09-01T10:30:01.441Z"
   },
   {
     "id": "web-mobile-35e929d790274be1",
@@ -1987,7 +2021,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo-mobile",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo-mobile",
-    "observedAt": "2026-09-01T05:03:32.319Z"
+    "observedAt": "2026-09-01T10:30:01.441Z"
   },
   {
     "id": "web-mobile-21bbba2305930d54",
@@ -2004,7 +2038,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo-mobile",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo-mobile",
-    "observedAt": "2026-09-01T05:03:32.319Z"
+    "observedAt": "2026-09-01T10:30:01.441Z"
   },
   {
     "id": "web-mobile-7831a9e3035640f7",
@@ -2021,7 +2055,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo-mobile",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo-mobile",
-    "observedAt": "2026-09-01T05:03:32.319Z"
+    "observedAt": "2026-09-01T10:30:01.441Z"
   },
   {
     "id": "web-mobile-0d30afd9c7703fcf",
@@ -2038,7 +2072,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo-mobile",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo-mobile",
-    "observedAt": "2026-09-01T05:03:32.319Z"
+    "observedAt": "2026-09-01T10:30:01.441Z"
   },
   {
     "id": "web-mobile-c9a5e581fba18baf",
@@ -2055,7 +2089,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo-mobile",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo-mobile",
-    "observedAt": "2026-09-01T05:03:32.319Z"
+    "observedAt": "2026-09-01T10:30:01.441Z"
   },
   {
     "id": "web-mobile-212432229fee4f0f",
@@ -2072,7 +2106,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo-mobile",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo-mobile",
-    "observedAt": "2026-09-01T05:03:32.320Z"
+    "observedAt": "2026-09-01T10:30:01.441Z"
   },
   {
     "id": "web-mobile-4d83917959f282d3",
@@ -2089,7 +2123,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo-mobile",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo-mobile",
-    "observedAt": "2026-09-01T05:03:32.320Z"
+    "observedAt": "2026-09-01T10:30:01.441Z"
   },
   {
     "id": "web-mobile-81c6996c0d58e9a9",
@@ -2106,7 +2140,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo-mobile",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo-mobile",
-    "observedAt": "2026-09-01T05:03:32.320Z"
+    "observedAt": "2026-09-01T10:30:01.441Z"
   },
   {
     "id": "web-mobile-bf019cc847fbcdfa",
@@ -2123,7 +2157,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo-mobile",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo-mobile",
-    "observedAt": "2026-09-01T05:03:32.320Z"
+    "observedAt": "2026-09-01T10:30:01.441Z"
   },
   {
     "id": "web-mobile-40997aaa0031a712",
@@ -2140,7 +2174,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo-mobile",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo-mobile",
-    "observedAt": "2026-09-01T05:03:32.320Z"
+    "observedAt": "2026-09-01T10:30:01.442Z"
   },
   {
     "id": "web-mobile-28b9c24c7c495a2f",
@@ -2157,7 +2191,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo-mobile",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo-mobile",
-    "observedAt": "2026-09-01T05:03:32.320Z"
+    "observedAt": "2026-09-01T10:30:01.442Z"
   },
   {
     "id": "web-mobile-0ad2c98fef8132e0",
@@ -2174,7 +2208,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo-mobile",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo-mobile",
-    "observedAt": "2026-09-01T05:03:32.320Z"
+    "observedAt": "2026-09-01T10:30:01.442Z"
   },
   {
     "id": "web-mobile-0423919eb8ce8083",
@@ -2191,7 +2225,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo-mobile",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo-mobile",
-    "observedAt": "2026-09-01T05:03:32.320Z"
+    "observedAt": "2026-09-01T10:30:01.442Z"
   },
   {
     "id": "web-mobile-0faf234b86e6c40b",
@@ -2208,7 +2242,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo-mobile",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo-mobile",
-    "observedAt": "2026-09-01T05:03:32.320Z"
+    "observedAt": "2026-09-01T10:30:01.442Z"
   },
   {
     "id": "web-mobile-87763c1551633858",
@@ -2225,7 +2259,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo-mobile",
     "sourceUrl": "https://digizo.shop/product-category/mobile/",
     "source": "web-catalog:digizo-mobile",
-    "observedAt": "2026-09-01T05:03:32.321Z"
+    "observedAt": "2026-09-01T10:30:01.442Z"
   },
   {
     "id": "web-mobile-da94f314412a9e50",
@@ -2242,7 +2276,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "bprshop-mobile",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop-mobile",
-    "observedAt": "2026-09-01T05:03:53.341Z"
+    "observedAt": "2026-09-01T10:30:27.149Z"
   },
   {
     "id": "web-mobile-135436ae50d310e7",
@@ -2259,7 +2293,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "bprshop-mobile",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop-mobile",
-    "observedAt": "2026-09-01T05:03:53.341Z"
+    "observedAt": "2026-09-01T10:30:27.149Z"
   },
   {
     "id": "web-mobile-287b92ef2349d985",
@@ -2276,7 +2310,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "bprshop-mobile",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop-mobile",
-    "observedAt": "2026-09-01T05:03:53.341Z"
+    "observedAt": "2026-09-01T10:30:27.149Z"
   },
   {
     "id": "web-mobile-1bd696db97fc967b",
@@ -2293,7 +2327,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "bprshop-mobile",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop-mobile",
-    "observedAt": "2026-09-01T05:03:53.341Z"
+    "observedAt": "2026-09-01T10:30:27.149Z"
   },
   {
     "id": "web-mobile-bba006f6772a2a1f",
@@ -2310,7 +2344,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "bprshop-mobile",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop-mobile",
-    "observedAt": "2026-09-01T05:03:53.342Z"
+    "observedAt": "2026-09-01T10:30:27.149Z"
   },
   {
     "id": "web-mobile-d8fc8128278eda95",
@@ -2327,7 +2361,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "bprshop-mobile",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop-mobile",
-    "observedAt": "2026-09-01T05:03:53.342Z"
+    "observedAt": "2026-09-01T10:30:27.149Z"
   },
   {
     "id": "web-mobile-49673bcec8bc3ef5",
@@ -2344,7 +2378,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "bprshop-mobile",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop-mobile",
-    "observedAt": "2026-09-01T05:03:53.342Z"
+    "observedAt": "2026-09-01T10:30:27.149Z"
   },
   {
     "id": "web-mobile-5afd7cad38534892",
@@ -2361,7 +2395,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "bprshop-mobile",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop-mobile",
-    "observedAt": "2026-09-01T05:03:53.342Z"
+    "observedAt": "2026-09-01T10:30:27.149Z"
   },
   {
     "id": "web-mobile-a73c4a796fe71230",
@@ -2378,7 +2412,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "bprshop-mobile",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop-mobile",
-    "observedAt": "2026-09-01T05:03:53.342Z"
+    "observedAt": "2026-09-01T10:30:27.149Z"
   },
   {
     "id": "web-mobile-85139ef66697942a",
@@ -2395,7 +2429,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "bprshop-mobile",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop-mobile",
-    "observedAt": "2026-09-01T05:03:53.342Z"
+    "observedAt": "2026-09-01T10:30:27.149Z"
   },
   {
     "id": "web-mobile-3b350cc0483bcbdf",
@@ -2412,7 +2446,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "bprshop-mobile",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop-mobile",
-    "observedAt": "2026-09-01T05:03:53.342Z"
+    "observedAt": "2026-09-01T10:30:27.149Z"
   },
   {
     "id": "web-mobile-60ff6a41c95b06a4",
@@ -2429,7 +2463,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "bprshop-mobile",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop-mobile",
-    "observedAt": "2026-09-01T05:03:53.342Z"
+    "observedAt": "2026-09-01T10:30:27.150Z"
   },
   {
     "id": "web-mobile-f8f060fe9febac9f",
@@ -2446,7 +2480,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "bprshop-mobile",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop-mobile",
-    "observedAt": "2026-09-01T05:03:53.342Z"
+    "observedAt": "2026-09-01T10:30:27.150Z"
   },
   {
     "id": "web-mobile-2c40a7e1cc9041bd",
@@ -2463,7 +2497,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "bprshop-mobile",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop-mobile",
-    "observedAt": "2026-09-01T05:03:53.342Z"
+    "observedAt": "2026-09-01T10:30:27.150Z"
   },
   {
     "id": "web-mobile-12aecb3a9f6e4cbf",
@@ -2480,7 +2514,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "bprshop-mobile",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop-mobile",
-    "observedAt": "2026-09-01T05:03:53.342Z"
+    "observedAt": "2026-09-01T10:30:27.150Z"
   },
   {
     "id": "web-mobile-0ccfc50fb488f847",
@@ -2497,7 +2531,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "bprshop-mobile",
     "sourceUrl": "https://www.bprshop.com/mobile",
     "source": "web-catalog:bprshop-mobile",
-    "observedAt": "2026-09-01T05:03:53.342Z"
+    "observedAt": "2026-09-01T10:30:27.150Z"
   },
   {
     "id": "web-laptop-computer-f73b528569769261",
@@ -2514,7 +2548,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-laptop",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
     "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-01T05:03:56.445Z"
+    "observedAt": "2026-09-01T10:30:30.577Z"
   },
   {
     "id": "web-laptop-computer-7c5d887d6b127784",
@@ -2531,7 +2565,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-laptop",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
     "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-01T05:03:56.445Z"
+    "observedAt": "2026-09-01T10:30:30.577Z"
   },
   {
     "id": "web-laptop-computer-4657f8205ef1d2b5",
@@ -2548,7 +2582,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-laptop",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
     "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-01T05:03:56.445Z"
+    "observedAt": "2026-09-01T10:30:30.577Z"
   },
   {
     "id": "web-laptop-computer-753b225cc8cf6201",
@@ -2565,7 +2599,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-laptop",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
     "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-01T05:03:56.445Z"
+    "observedAt": "2026-09-01T10:30:30.577Z"
   },
   {
     "id": "web-laptop-computer-56bab8d6a306175c",
@@ -2582,7 +2616,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-laptop",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
     "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-01T05:03:56.446Z"
+    "observedAt": "2026-09-01T10:30:30.577Z"
   },
   {
     "id": "web-laptop-computer-28a686f4f330161f",
@@ -2599,41 +2633,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-laptop",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
     "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-01T05:03:56.446Z"
-  },
-  {
-    "id": "web-laptop-computer-0707a22eaafaf7fb",
-    "productId": "web-laptop-computer-0707a22eaafaf7fb",
-    "name": "لپ تاپ ایسوس 15.6 اینچی مدل Vivobook 15 X1504VA i7 1355U 16GB 512GB",
-    "brand": "ایسوس",
-    "model": "لپ تاپ ایسوس 15.6 اینچی مدل Vivobook 15 X1504VA i7 1355U 16GB 512GB",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-31158/%D9%84%D9%BE-%D8%AA%D8%A7%D9%BE-%D8%A7%DB%8C%D8%B3%D9%88%D8%B3-15.6-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D9%85%D8%AF%D9%84-vivobook-15-x1504va-i7-1355u-16gb-512gb",
-    "image": "",
-    "sourceId": "technolife-laptop",
-    "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
-    "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-01T05:03:56.446Z"
-  },
-  {
-    "id": "web-laptop-computer-49cdaba09f7d31d3",
-    "productId": "web-laptop-computer-49cdaba09f7d31d3",
-    "name": "لپ تاپ 15.6 اینچی اچ پی مدل Victus 15 FA2013DX i5 13420H 16GB 512GB RTX 3050",
-    "brand": "اچ‌پی",
-    "model": "لپ تاپ 15.6 اینچی اچ پی مدل Victus 15 FA2013DX i5 13420H 16GB 512GB RTX 3050",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-134276/%D9%84%D9%BE-%D8%AA%D8%A7%D9%BE-15.6-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D8%A7%DA%86-%D9%BE%DB%8C-%D9%85%D8%AF%D9%84-victus-15-fa2013dx-i5-13420h-16gb-512gb-rtx-3050",
-    "image": "",
-    "sourceId": "technolife-laptop",
-    "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
-    "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-01T05:03:56.446Z"
+    "observedAt": "2026-09-01T10:30:30.577Z"
   },
   {
     "id": "web-laptop-computer-0e78a542506d159a",
@@ -2650,7 +2650,41 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-laptop",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
     "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-01T05:03:56.446Z"
+    "observedAt": "2026-09-01T10:30:30.577Z"
+  },
+  {
+    "id": "web-laptop-computer-0707a22eaafaf7fb",
+    "productId": "web-laptop-computer-0707a22eaafaf7fb",
+    "name": "لپ تاپ ایسوس 15.6 اینچی مدل Vivobook 15 X1504VA i7 1355U 16GB 512GB",
+    "brand": "ایسوس",
+    "model": "لپ تاپ ایسوس 15.6 اینچی مدل Vivobook 15 X1504VA i7 1355U 16GB 512GB",
+    "category": "laptop-computer",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-31158/%D9%84%D9%BE-%D8%AA%D8%A7%D9%BE-%D8%A7%DB%8C%D8%B3%D9%88%D8%B3-15.6-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D9%85%D8%AF%D9%84-vivobook-15-x1504va-i7-1355u-16gb-512gb",
+    "image": "",
+    "sourceId": "technolife-laptop",
+    "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
+    "source": "web-catalog:technolife-laptop",
+    "observedAt": "2026-09-01T10:30:30.577Z"
+  },
+  {
+    "id": "web-laptop-computer-49cdaba09f7d31d3",
+    "productId": "web-laptop-computer-49cdaba09f7d31d3",
+    "name": "لپ تاپ 15.6 اینچی اچ پی مدل Victus 15 FA2013DX i5 13420H 16GB 512GB RTX 3050",
+    "brand": "اچ‌پی",
+    "model": "لپ تاپ 15.6 اینچی اچ پی مدل Victus 15 FA2013DX i5 13420H 16GB 512GB RTX 3050",
+    "category": "laptop-computer",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-134276/%D9%84%D9%BE-%D8%AA%D8%A7%D9%BE-15.6-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D8%A7%DA%86-%D9%BE%DB%8C-%D9%85%D8%AF%D9%84-victus-15-fa2013dx-i5-13420h-16gb-512gb-rtx-3050",
+    "image": "",
+    "sourceId": "technolife-laptop",
+    "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
+    "source": "web-catalog:technolife-laptop",
+    "observedAt": "2026-09-01T10:30:30.577Z"
   },
   {
     "id": "web-laptop-computer-40e9f1ae5e004836",
@@ -2667,7 +2701,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-laptop",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
     "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-01T05:03:56.446Z"
+    "observedAt": "2026-09-01T10:30:30.577Z"
   },
   {
     "id": "web-laptop-computer-47989a1ad696396c",
@@ -2684,7 +2718,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-laptop",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
     "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-01T05:03:56.446Z"
+    "observedAt": "2026-09-01T10:30:30.577Z"
   },
   {
     "id": "web-laptop-computer-384020e9cfea524f",
@@ -2701,7 +2735,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-laptop",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
     "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-01T05:03:56.446Z"
+    "observedAt": "2026-09-01T10:30:30.578Z"
   },
   {
     "id": "web-laptop-computer-2e419bc9671590fc",
@@ -2718,7 +2752,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-laptop",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
     "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-01T05:03:56.446Z"
+    "observedAt": "2026-09-01T10:30:30.578Z"
   },
   {
     "id": "web-laptop-computer-0f43a2b7ab2973f0",
@@ -2735,7 +2769,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-laptop",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
     "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-01T05:03:56.447Z"
+    "observedAt": "2026-09-01T10:30:30.578Z"
   },
   {
     "id": "web-laptop-computer-9318aa67bf11f13c",
@@ -2752,7 +2786,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-laptop",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
     "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-01T05:03:56.447Z"
+    "observedAt": "2026-09-01T10:30:30.578Z"
   },
   {
     "id": "web-laptop-computer-0a2cda3ae0776121",
@@ -2769,7 +2803,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-laptop",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
     "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-01T05:03:56.447Z"
+    "observedAt": "2026-09-01T10:30:30.578Z"
   },
   {
     "id": "web-laptop-computer-1226bdc1b5a8630a",
@@ -2786,7 +2820,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-laptop",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
     "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-01T05:03:56.447Z"
+    "observedAt": "2026-09-01T10:30:30.578Z"
   },
   {
     "id": "web-laptop-computer-2eb9b46395b20e58",
@@ -2803,7 +2837,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-laptop",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
     "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-01T05:03:56.447Z"
+    "observedAt": "2026-09-01T10:30:30.578Z"
   },
   {
     "id": "web-laptop-computer-43682844f8ea0969",
@@ -2820,7 +2854,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-laptop",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
     "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-01T05:03:56.447Z"
+    "observedAt": "2026-09-01T10:30:30.578Z"
   },
   {
     "id": "web-laptop-computer-d351c54735a575d1",
@@ -2837,7 +2871,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-laptop",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
     "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-01T05:03:56.447Z"
+    "observedAt": "2026-09-01T10:30:30.578Z"
   },
   {
     "id": "web-laptop-computer-a394b20636851bff",
@@ -2854,7 +2888,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-laptop",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
     "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-01T05:03:56.447Z"
+    "observedAt": "2026-09-01T10:30:30.578Z"
   },
   {
     "id": "web-laptop-computer-7a2fa03b7e0a3c08",
@@ -2871,7 +2905,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-laptop",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
     "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-01T05:03:56.447Z"
+    "observedAt": "2026-09-01T10:30:30.578Z"
   },
   {
     "id": "web-laptop-computer-5398cab2dde98194",
@@ -2888,7 +2922,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-laptop",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
     "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-01T05:03:56.447Z"
+    "observedAt": "2026-09-01T10:30:30.578Z"
   },
   {
     "id": "web-laptop-computer-f242bc38496735ba",
@@ -2905,7 +2939,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-laptop",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
     "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-01T05:03:56.447Z"
+    "observedAt": "2026-09-01T10:30:30.578Z"
   },
   {
     "id": "web-laptop-computer-b074b861b763e307",
@@ -2922,7 +2956,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-laptop",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
     "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-01T05:03:56.447Z"
+    "observedAt": "2026-09-01T10:30:30.578Z"
   },
   {
     "id": "web-laptop-computer-43769759028f4e15",
@@ -2939,7 +2973,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-laptop",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
     "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-01T05:03:56.447Z"
+    "observedAt": "2026-09-01T10:30:30.578Z"
   },
   {
     "id": "web-laptop-computer-fd6e6c5105022bcc",
@@ -2956,7 +2990,24 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-laptop",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
     "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-01T05:03:56.448Z"
+    "observedAt": "2026-09-01T10:30:30.579Z"
+  },
+  {
+    "id": "web-laptop-computer-eb4f92fcf8a24519",
+    "productId": "web-laptop-computer-eb4f92fcf8a24519",
+    "name": "لپ تاپ لنوو 15.6 اینچی V15 N4500 8GB 256GB",
+    "brand": "لنوو",
+    "model": "لپ تاپ لنوو 15.6 اینچی V15 N4500 8GB 256GB",
+    "category": "laptop-computer",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-33510/%D9%84%D9%BE-%D8%AA%D8%A7%D9%BE-%D9%84%D9%86%D9%88%D9%88-15.6-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-v15-n4500-8gb-256gb",
+    "image": "",
+    "sourceId": "technolife-laptop",
+    "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
+    "source": "web-catalog:technolife-laptop",
+    "observedAt": "2026-09-01T10:30:30.579Z"
   },
   {
     "id": "web-laptop-computer-ecc32525159ecc23",
@@ -2973,7 +3024,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-laptop",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
     "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-01T05:03:56.448Z"
+    "observedAt": "2026-09-01T10:30:30.579Z"
   },
   {
     "id": "web-laptop-computer-f45e215a2eab4095",
@@ -2990,24 +3041,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-laptop",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
     "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-01T05:03:56.448Z"
-  },
-  {
-    "id": "web-laptop-computer-788157ab6d23d180",
-    "productId": "web-laptop-computer-788157ab6d23d180",
-    "name": "پایه خنک کننده لپ تاپ کولر مستر مدل NotePal Ergostand III",
-    "brand": "دل",
-    "model": "پایه خنک کننده لپ تاپ کولر مستر مدل NotePal Ergostand III",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-39755/%D9%BE%D8%A7%DB%8C%D9%87-%D8%AE%D9%86%DA%A9-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D9%84%D9%BE-%D8%AA%D8%A7%D9%BE-%DA%A9%D9%88%D9%84%D8%B1-%D9%85%D8%B3%D8%AA%D8%B1-%D9%85%D8%AF%D9%84-notepal-ergostand-iii",
-    "image": "",
-    "sourceId": "technolife-laptop",
-    "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
-    "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-01T05:03:56.448Z"
+    "observedAt": "2026-09-01T10:30:30.579Z"
   },
   {
     "id": "web-laptop-computer-92f2735099a887c4",
@@ -3024,7 +3058,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-laptop",
     "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
     "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-01T05:03:56.448Z"
+    "observedAt": "2026-09-01T10:30:30.579Z"
   },
   {
     "id": "web-laptop-computer-cd2fe960693503c1",
@@ -3041,7 +3075,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:04:14.301Z"
+    "observedAt": "2026-09-01T10:30:45.074Z"
   },
   {
     "id": "web-laptop-computer-30cf9e88ccc01fc0",
@@ -3058,7 +3092,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:04:14.301Z"
+    "observedAt": "2026-09-01T10:30:45.074Z"
   },
   {
     "id": "web-laptop-computer-8846224d38f87719",
@@ -3075,7 +3109,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:04:14.301Z"
+    "observedAt": "2026-09-01T10:30:45.074Z"
   },
   {
     "id": "web-laptop-computer-507ead069808e5f8",
@@ -3092,7 +3126,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:04:14.301Z"
+    "observedAt": "2026-09-01T10:30:45.074Z"
   },
   {
     "id": "web-laptop-computer-427371d162966f27",
@@ -3109,7 +3143,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:04:14.301Z"
+    "observedAt": "2026-09-01T10:30:45.074Z"
   },
   {
     "id": "web-laptop-computer-c1400e06b98a7947",
@@ -3126,7 +3160,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:04:14.301Z"
+    "observedAt": "2026-09-01T10:30:45.074Z"
   },
   {
     "id": "web-laptop-computer-a86963292d56c994",
@@ -3143,7 +3177,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:04:14.301Z"
+    "observedAt": "2026-09-01T10:30:45.074Z"
   },
   {
     "id": "web-laptop-computer-e45510805d98193b",
@@ -3160,24 +3194,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:04:14.301Z"
-  },
-  {
-    "id": "web-laptop-computer-b3b2d42046edb21c",
-    "productId": "web-laptop-computer-b3b2d42046edb21c",
-    "name": "ماوس پد پرووان مدل PMP15",
-    "brand": "دل",
-    "model": "ماوس پد پرووان مدل PMP15",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-43442/%D9%85%D8%A7%D9%88%D8%B3-%D9%BE%D8%AF-%D9%BE%D8%B1%D9%88%D9%88%D8%A7%D9%86-%D9%85%D8%AF%D9%84-pmp15",
-    "image": "",
-    "sourceId": "technolife-pc",
-    "sourceUrl": "https://www.technolife.com/category/pc-equipment",
-    "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:04:14.301Z"
+    "observedAt": "2026-09-01T10:30:45.074Z"
   },
   {
     "id": "web-laptop-computer-e669113b8a028746",
@@ -3194,7 +3211,24 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:04:14.301Z"
+    "observedAt": "2026-09-01T10:30:45.074Z"
+  },
+  {
+    "id": "web-laptop-computer-b3b2d42046edb21c",
+    "productId": "web-laptop-computer-b3b2d42046edb21c",
+    "name": "ماوس پد پرووان مدل PMP15",
+    "brand": "دل",
+    "model": "ماوس پد پرووان مدل PMP15",
+    "category": "laptop-computer",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-43442/%D9%85%D8%A7%D9%88%D8%B3-%D9%BE%D8%AF-%D9%BE%D8%B1%D9%88%D9%88%D8%A7%D9%86-%D9%85%D8%AF%D9%84-pmp15",
+    "image": "",
+    "sourceId": "technolife-pc",
+    "sourceUrl": "https://www.technolife.com/category/pc-equipment",
+    "source": "web-catalog:technolife-pc",
+    "observedAt": "2026-09-01T10:30:45.074Z"
   },
   {
     "id": "web-laptop-computer-2754113b29a0b9ec",
@@ -3211,7 +3245,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:04:14.301Z"
+    "observedAt": "2026-09-01T10:30:45.074Z"
   },
   {
     "id": "web-laptop-computer-cfa3e53bef27417d",
@@ -3228,7 +3262,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:04:14.301Z"
+    "observedAt": "2026-09-01T10:30:45.074Z"
   },
   {
     "id": "web-laptop-computer-de4c35e2beeb0153",
@@ -3245,41 +3279,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:04:14.301Z"
-  },
-  {
-    "id": "web-laptop-computer-2cccb796f36453da",
-    "productId": "web-laptop-computer-2cccb796f36453da",
-    "name": "فلش مموری ای دیتا مدل UV150 USB3 ظرفیت 64 گیگابایت",
-    "brand": "دل",
-    "model": "فلش مموری ای دیتا مدل UV150 USB3 ظرفیت 64 گیگابایت",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-32268/%D9%81%D9%84%D8%B4-%D9%85%D9%85%D9%88%D8%B1%DB%8C-%D8%A7%DB%8C-%D8%AF%DB%8C%D8%AA%D8%A7-%D9%85%D8%AF%D9%84-uv150-usb3-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-64-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
-    "image": "",
-    "sourceId": "technolife-pc",
-    "sourceUrl": "https://www.technolife.com/category/pc-equipment",
-    "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:04:14.301Z"
-  },
-  {
-    "id": "web-laptop-computer-8df0c8a4f17b238b",
-    "productId": "web-laptop-computer-8df0c8a4f17b238b",
-    "name": "فلش مموری اچ پی مدل V212B ظرفیت 64 گیگابایت",
-    "brand": "اچ‌پی",
-    "model": "فلش مموری اچ پی مدل V212B ظرفیت 64 گیگابایت",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-25433/%D9%81%D9%84%D8%B4-%D9%85%D9%85%D9%88%D8%B1%DB%8C-%D8%A7%DA%86-%D9%BE%DB%8C-%D9%85%D8%AF%D9%84-v212b-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-64-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
-    "image": "",
-    "sourceId": "technolife-pc",
-    "sourceUrl": "https://www.technolife.com/category/pc-equipment",
-    "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:04:14.301Z"
+    "observedAt": "2026-09-01T10:30:45.075Z"
   },
   {
     "id": "web-laptop-computer-dc2ae90bcf5de865",
@@ -3296,24 +3296,41 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:04:14.301Z"
+    "observedAt": "2026-09-01T10:30:45.075Z"
   },
   {
-    "id": "web-laptop-computer-c70d5fb455ace7fb",
-    "productId": "web-laptop-computer-c70d5fb455ace7fb",
-    "name": "فلش مموری سن دیسک مدل ULTRA SHIFT CZ410 ظرفیت 64 گیگابایت",
+    "id": "web-laptop-computer-2cccb796f36453da",
+    "productId": "web-laptop-computer-2cccb796f36453da",
+    "name": "فلش مموری ای دیتا مدل UV150 USB3 ظرفیت 64 گیگابایت",
     "brand": "دل",
-    "model": "فلش مموری سن دیسک مدل ULTRA SHIFT CZ410 ظرفیت 64 گیگابایت",
+    "model": "فلش مموری ای دیتا مدل UV150 USB3 ظرفیت 64 گیگابایت",
     "category": "laptop-computer",
     "price": 0,
     "currency": "IRR",
     "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-5630/-%D9%81%D9%84%D8%B4-%D9%85%D9%85%D9%88%D8%B1%DB%8C-%D8%B3%D9%86-%D8%AF%DB%8C%D8%B3%DA%A9-%D9%85%D8%AF%D9%84-ultra-shift-cz410-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-64-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
+    "productUrl": "https://www.technolife.com/product-32268/%D9%81%D9%84%D8%B4-%D9%85%D9%85%D9%88%D8%B1%DB%8C-%D8%A7%DB%8C-%D8%AF%DB%8C%D8%AA%D8%A7-%D9%85%D8%AF%D9%84-uv150-usb3-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-64-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
     "image": "",
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:04:14.301Z"
+    "observedAt": "2026-09-01T10:30:45.075Z"
+  },
+  {
+    "id": "web-laptop-computer-8df0c8a4f17b238b",
+    "productId": "web-laptop-computer-8df0c8a4f17b238b",
+    "name": "فلش مموری اچ پی مدل V212B ظرفیت 64 گیگابایت",
+    "brand": "اچ‌پی",
+    "model": "فلش مموری اچ پی مدل V212B ظرفیت 64 گیگابایت",
+    "category": "laptop-computer",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-25433/%D9%81%D9%84%D8%B4-%D9%85%D9%85%D9%88%D8%B1%DB%8C-%D8%A7%DA%86-%D9%BE%DB%8C-%D9%85%D8%AF%D9%84-v212b-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-64-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
+    "image": "",
+    "sourceId": "technolife-pc",
+    "sourceUrl": "https://www.technolife.com/category/pc-equipment",
+    "source": "web-catalog:technolife-pc",
+    "observedAt": "2026-09-01T10:30:45.075Z"
   },
   {
     "id": "web-laptop-computer-b14b60bf6d936930",
@@ -3330,7 +3347,24 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:04:14.302Z"
+    "observedAt": "2026-09-01T10:30:45.075Z"
+  },
+  {
+    "id": "web-laptop-computer-c70d5fb455ace7fb",
+    "productId": "web-laptop-computer-c70d5fb455ace7fb",
+    "name": "فلش مموری سن دیسک مدل ULTRA SHIFT CZ410 ظرفیت 64 گیگابایت",
+    "brand": "دل",
+    "model": "فلش مموری سن دیسک مدل ULTRA SHIFT CZ410 ظرفیت 64 گیگابایت",
+    "category": "laptop-computer",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-5630/-%D9%81%D9%84%D8%B4-%D9%85%D9%85%D9%88%D8%B1%DB%8C-%D8%B3%D9%86-%D8%AF%DB%8C%D8%B3%DA%A9-%D9%85%D8%AF%D9%84-ultra-shift-cz410-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-64-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
+    "image": "",
+    "sourceId": "technolife-pc",
+    "sourceUrl": "https://www.technolife.com/category/pc-equipment",
+    "source": "web-catalog:technolife-pc",
+    "observedAt": "2026-09-01T10:30:45.075Z"
   },
   {
     "id": "web-laptop-computer-854005ca74051252",
@@ -3347,7 +3381,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:04:14.302Z"
+    "observedAt": "2026-09-01T10:30:45.075Z"
   },
   {
     "id": "web-laptop-computer-e2a0261e5e95d823",
@@ -3364,24 +3398,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:04:14.302Z"
-  },
-  {
-    "id": "web-laptop-computer-416bfbae33e8a373",
-    "productId": "web-laptop-computer-416bfbae33e8a373",
-    "name": "کابل شیایومی تایپ سی اورجینال مناسب برای آداپتور 33وات",
-    "brand": "",
-    "model": "کابل شیایومی تایپ سی اورجینال مناسب برای آداپتور 33وات",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-2902/%DA%A9%D8%A7%D8%A8%D9%84-%D8%B4%DB%8C%D8%A7%DB%8C%D9%88%D9%85%DB%8C-%D8%AA%D8%A7%DB%8C%D9%BE-%D8%B3%DB%8C-%D8%A7%D9%88%D8%B1%D8%AC%DB%8C%D9%86%D8%A7%D9%84-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A2%D8%AF%D8%A7%D9%BE%D8%AA%D9%88%D8%B1-33%D9%88%D8%A7%D8%AA",
-    "image": "",
-    "sourceId": "technolife-pc",
-    "sourceUrl": "https://www.technolife.com/category/pc-equipment",
-    "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:04:14.302Z"
+    "observedAt": "2026-09-01T10:30:45.075Z"
   },
   {
     "id": "web-laptop-computer-70ca8da5ed54afbe",
@@ -3398,7 +3415,24 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:04:14.302Z"
+    "observedAt": "2026-09-01T10:30:45.075Z"
+  },
+  {
+    "id": "web-laptop-computer-416bfbae33e8a373",
+    "productId": "web-laptop-computer-416bfbae33e8a373",
+    "name": "کابل شیایومی تایپ سی اورجینال مناسب برای آداپتور 33وات",
+    "brand": "",
+    "model": "کابل شیایومی تایپ سی اورجینال مناسب برای آداپتور 33وات",
+    "category": "laptop-computer",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-2902/%DA%A9%D8%A7%D8%A8%D9%84-%D8%B4%DB%8C%D8%A7%DB%8C%D9%88%D9%85%DB%8C-%D8%AA%D8%A7%DB%8C%D9%BE-%D8%B3%DB%8C-%D8%A7%D9%88%D8%B1%D8%AC%DB%8C%D9%86%D8%A7%D9%84-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A2%D8%AF%D8%A7%D9%BE%D8%AA%D9%88%D8%B1-33%D9%88%D8%A7%D8%AA",
+    "image": "",
+    "sourceId": "technolife-pc",
+    "sourceUrl": "https://www.technolife.com/category/pc-equipment",
+    "source": "web-catalog:technolife-pc",
+    "observedAt": "2026-09-01T10:30:45.075Z"
   },
   {
     "id": "web-laptop-computer-29d3464fc76bd0a7",
@@ -3415,7 +3449,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:04:14.302Z"
+    "observedAt": "2026-09-01T10:30:45.075Z"
   },
   {
     "id": "web-laptop-computer-838893d24fe10401",
@@ -3432,41 +3466,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:04:14.302Z"
-  },
-  {
-    "id": "web-laptop-computer-cdf06d56a78d100f",
-    "productId": "web-laptop-computer-cdf06d56a78d100f",
-    "name": "هارد اکسترنال توشیبا مدل Canvio Basics با ظرفیت 2 ترابایت",
-    "brand": "دل",
-    "model": "هارد اکسترنال توشیبا مدل Canvio Basics با ظرفیت 2 ترابایت",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-4661/%D9%87%D8%A7%D8%B1%D8%AF-%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%D9%86%D8%A7%D9%84-%D8%AA%D9%88%D8%B4%DB%8C%D8%A8%D8%A7-%D9%85%D8%AF%D9%84-canvio-basics-%D8%A8%D8%A7-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-2-%D8%AA%D8%B1%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-",
-    "image": "",
-    "sourceId": "technolife-pc",
-    "sourceUrl": "https://www.technolife.com/category/pc-equipment",
-    "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:04:14.302Z"
-  },
-  {
-    "id": "web-laptop-computer-3edf5f68d8fb11ca",
-    "productId": "web-laptop-computer-3edf5f68d8fb11ca",
-    "name": "هارد اس اس دی اینترنال پی ان وای مدل CS900 ظرفیت 500 گیگابایت",
-    "brand": "دل",
-    "model": "هارد اس اس دی اینترنال پی ان وای مدل CS900 ظرفیت 500 گیگابایت",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-67272/-%D9%87%D8%A7%D8%B1%D8%AF-%D8%A7%D8%B3-%D8%A7%D8%B3-%D8%AF%DB%8C-%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%A7%D9%84-%D9%BE%DB%8C-%D8%A7%D9%86-%D9%88%D8%A7%DB%8C-%D9%85%D8%AF%D9%84-cs900-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-500-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
-    "image": "",
-    "sourceId": "technolife-pc",
-    "sourceUrl": "https://www.technolife.com/category/pc-equipment",
-    "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:04:14.302Z"
+    "observedAt": "2026-09-01T10:30:45.075Z"
   },
   {
     "id": "web-laptop-computer-dac5aa408d98397c",
@@ -3483,24 +3483,41 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:04:14.302Z"
+    "observedAt": "2026-09-01T10:30:45.075Z"
   },
   {
-    "id": "web-laptop-computer-93a7bc142defc698",
-    "productId": "web-laptop-computer-93a7bc142defc698",
-    "name": "کیبورد گیمینگ اونیکوما مدل G55 RGB",
+    "id": "web-laptop-computer-cdf06d56a78d100f",
+    "productId": "web-laptop-computer-cdf06d56a78d100f",
+    "name": "هارد اکسترنال توشیبا مدل Canvio Basics با ظرفیت 2 ترابایت",
     "brand": "دل",
-    "model": "کیبورد گیمینگ اونیکوما مدل G55 RGB",
+    "model": "هارد اکسترنال توشیبا مدل Canvio Basics با ظرفیت 2 ترابایت",
     "category": "laptop-computer",
     "price": 0,
     "currency": "IRR",
     "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-75714/%DA%A9%DB%8C%D8%A8%D9%88%D8%B1%D8%AF-%DA%AF%DB%8C%D9%85%DB%8C%D9%86%DA%AF-%D8%A7%D9%88%D9%86%DB%8C%DA%A9%D9%88%D9%85%D8%A7-%D9%85%D8%AF%D9%84-g55-rgb",
+    "productUrl": "https://www.technolife.com/product-4661/%D9%87%D8%A7%D8%B1%D8%AF-%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%D9%86%D8%A7%D9%84-%D8%AA%D9%88%D8%B4%DB%8C%D8%A8%D8%A7-%D9%85%D8%AF%D9%84-canvio-basics-%D8%A8%D8%A7-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-2-%D8%AA%D8%B1%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-",
     "image": "",
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:04:14.302Z"
+    "observedAt": "2026-09-01T10:30:45.075Z"
+  },
+  {
+    "id": "web-laptop-computer-3edf5f68d8fb11ca",
+    "productId": "web-laptop-computer-3edf5f68d8fb11ca",
+    "name": "هارد اس اس دی اینترنال پی ان وای مدل CS900 ظرفیت 500 گیگابایت",
+    "brand": "دل",
+    "model": "هارد اس اس دی اینترنال پی ان وای مدل CS900 ظرفیت 500 گیگابایت",
+    "category": "laptop-computer",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-67272/-%D9%87%D8%A7%D8%B1%D8%AF-%D8%A7%D8%B3-%D8%A7%D8%B3-%D8%AF%DB%8C-%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%A7%D9%84-%D9%BE%DB%8C-%D8%A7%D9%86-%D9%88%D8%A7%DB%8C-%D9%85%D8%AF%D9%84-cs900-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-500-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
+    "image": "",
+    "sourceId": "technolife-pc",
+    "sourceUrl": "https://www.technolife.com/category/pc-equipment",
+    "source": "web-catalog:technolife-pc",
+    "observedAt": "2026-09-01T10:30:45.075Z"
   },
   {
     "id": "web-laptop-computer-f93758119d658098",
@@ -3517,7 +3534,24 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:04:14.302Z"
+    "observedAt": "2026-09-01T10:30:45.075Z"
+  },
+  {
+    "id": "web-laptop-computer-93a7bc142defc698",
+    "productId": "web-laptop-computer-93a7bc142defc698",
+    "name": "کیبورد گیمینگ اونیکوما مدل G55 RGB",
+    "brand": "دل",
+    "model": "کیبورد گیمینگ اونیکوما مدل G55 RGB",
+    "category": "laptop-computer",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-75714/%DA%A9%DB%8C%D8%A8%D9%88%D8%B1%D8%AF-%DA%AF%DB%8C%D9%85%DB%8C%D9%86%DA%AF-%D8%A7%D9%88%D9%86%DB%8C%DA%A9%D9%88%D9%85%D8%A7-%D9%85%D8%AF%D9%84-g55-rgb",
+    "image": "",
+    "sourceId": "technolife-pc",
+    "sourceUrl": "https://www.technolife.com/category/pc-equipment",
+    "source": "web-catalog:technolife-pc",
+    "observedAt": "2026-09-01T10:30:45.075Z"
   },
   {
     "id": "web-laptop-computer-9fc7c86d18c3ed55",
@@ -3534,7 +3568,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:04:14.302Z"
+    "observedAt": "2026-09-01T10:30:45.075Z"
   },
   {
     "id": "web-laptop-computer-74a131616fabe7ea",
@@ -3551,7 +3585,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo-laptop",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo-laptop",
-    "observedAt": "2026-09-01T05:04:38.888Z"
+    "observedAt": "2026-09-01T10:31:13.141Z"
   },
   {
     "id": "web-laptop-computer-6c25677416742d91",
@@ -3568,7 +3602,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo-laptop",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo-laptop",
-    "observedAt": "2026-09-01T05:04:38.888Z"
+    "observedAt": "2026-09-01T10:31:13.141Z"
   },
   {
     "id": "web-laptop-computer-1260ae7fc74f94a9",
@@ -3585,7 +3619,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo-laptop",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo-laptop",
-    "observedAt": "2026-09-01T05:04:38.888Z"
+    "observedAt": "2026-09-01T10:31:13.141Z"
   },
   {
     "id": "web-laptop-computer-59323fb881139325",
@@ -3602,7 +3636,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo-laptop",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo-laptop",
-    "observedAt": "2026-09-01T05:04:38.888Z"
+    "observedAt": "2026-09-01T10:31:13.141Z"
   },
   {
     "id": "web-laptop-computer-19e2545266242d38",
@@ -3619,7 +3653,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo-laptop",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo-laptop",
-    "observedAt": "2026-09-01T05:04:38.888Z"
+    "observedAt": "2026-09-01T10:31:13.141Z"
   },
   {
     "id": "web-laptop-computer-cc737582b60d8fd1",
@@ -3636,7 +3670,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo-laptop",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo-laptop",
-    "observedAt": "2026-09-01T05:04:38.889Z"
+    "observedAt": "2026-09-01T10:31:13.141Z"
   },
   {
     "id": "web-laptop-computer-49ea914ba46ff268",
@@ -3653,7 +3687,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo-laptop",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo-laptop",
-    "observedAt": "2026-09-01T05:04:38.889Z"
+    "observedAt": "2026-09-01T10:31:13.141Z"
   },
   {
     "id": "web-laptop-computer-db0d0da890b8a017",
@@ -3670,7 +3704,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo-laptop",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo-laptop",
-    "observedAt": "2026-09-01T05:04:38.889Z"
+    "observedAt": "2026-09-01T10:31:13.141Z"
   },
   {
     "id": "web-laptop-computer-cf109e7895d93399",
@@ -3687,7 +3721,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo-laptop",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo-laptop",
-    "observedAt": "2026-09-01T05:04:38.889Z"
+    "observedAt": "2026-09-01T10:31:13.141Z"
   },
   {
     "id": "web-laptop-computer-083ae4267cc4fa4e",
@@ -3704,7 +3738,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo-laptop",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo-laptop",
-    "observedAt": "2026-09-01T05:04:38.889Z"
+    "observedAt": "2026-09-01T10:31:13.141Z"
   },
   {
     "id": "web-laptop-computer-540daf962f97c662",
@@ -3721,7 +3755,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo-laptop",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo-laptop",
-    "observedAt": "2026-09-01T05:04:38.889Z"
+    "observedAt": "2026-09-01T10:31:13.141Z"
   },
   {
     "id": "web-laptop-computer-4df16b3a045d9a2d",
@@ -3738,7 +3772,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo-laptop",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo-laptop",
-    "observedAt": "2026-09-01T05:04:38.889Z"
+    "observedAt": "2026-09-01T10:31:13.142Z"
   },
   {
     "id": "web-laptop-computer-97ae288dd9e46772",
@@ -3755,7 +3789,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo-laptop",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo-laptop",
-    "observedAt": "2026-09-01T05:04:38.889Z"
+    "observedAt": "2026-09-01T10:31:13.142Z"
   },
   {
     "id": "web-laptop-computer-cf201bb4a3d30454",
@@ -3772,7 +3806,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo-laptop",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo-laptop",
-    "observedAt": "2026-09-01T05:04:38.889Z"
+    "observedAt": "2026-09-01T10:31:13.142Z"
   },
   {
     "id": "web-laptop-computer-adc9a601462f8f0b",
@@ -3789,7 +3823,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo-laptop",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo-laptop",
-    "observedAt": "2026-09-01T05:04:38.889Z"
+    "observedAt": "2026-09-01T10:31:13.142Z"
   },
   {
     "id": "web-laptop-computer-90f6a69e2a515c51",
@@ -3806,7 +3840,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo-laptop",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo-laptop",
-    "observedAt": "2026-09-01T05:04:38.889Z"
+    "observedAt": "2026-09-01T10:31:13.142Z"
   },
   {
     "id": "web-laptop-computer-aadce9236ae2f43a",
@@ -3823,7 +3857,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo-laptop",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo-laptop",
-    "observedAt": "2026-09-01T05:04:38.889Z"
+    "observedAt": "2026-09-01T10:31:13.142Z"
   },
   {
     "id": "web-laptop-computer-04af902ddde9eace",
@@ -3840,7 +3874,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo-laptop",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo-laptop",
-    "observedAt": "2026-09-01T05:04:38.890Z"
+    "observedAt": "2026-09-01T10:31:13.142Z"
   },
   {
     "id": "web-laptop-computer-b9da8b6fdc430f13",
@@ -3857,7 +3891,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo-laptop",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo-laptop",
-    "observedAt": "2026-09-01T05:04:38.890Z"
+    "observedAt": "2026-09-01T10:31:13.143Z"
   },
   {
     "id": "web-laptop-computer-0eac0fe2022c59fe",
@@ -3874,1027 +3908,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "digizo-laptop",
     "sourceUrl": "https://digizo.shop/product-category/laptop/",
     "source": "web-catalog:digizo-laptop",
-    "observedAt": "2026-09-01T05:04:38.890Z"
-  },
-  {
-    "id": "web-laptop-computer-a3498f18e7584bb5",
-    "productId": "web-laptop-computer-a3498f18e7584bb5",
-    "name": "3% موجود",
-    "brand": "",
-    "model": "3% موجود",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "in_stock",
-    "productUrl": "https://elecamp.ir/product/%d9%84%d9%be-%d8%aa%d8%a7%d9%be-%da%af%db%8c%d9%85%db%8c%d9%86%da%af-%d8%a7%db%8c%d8%b3%d9%88%d8%b3-fx608jhr-x-i5-14450hx-16gb-512gb-ssd-8gb-rtx-5050-wuxga-ips-165hz/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.306Z"
-  },
-  {
-    "id": "web-laptop-computer-cf408d1ab721258c",
-    "productId": "web-laptop-computer-cf408d1ab721258c",
-    "name": "3% 1 عدد در انبار",
-    "brand": "",
-    "model": "3% 1 عدد در انبار",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%d9%84%d9%be-%d8%aa%d8%a7%d9%be-%d8%a7%d9%85-%d8%a7%d8%b3-%d8%a2%db%8c-15-6-%d8%a7%db%8c%d9%86%da%86%db%8c-%d9%85%d8%af%d9%84-venturepro-15-a2rweg-core-7-240h-16gb-512gb-rtx5050/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.306Z"
-  },
-  {
-    "id": "web-laptop-computer-5de14023e108ab3b",
-    "productId": "web-laptop-computer-5de14023e108ab3b",
-    "name": "1% موجود",
-    "brand": "",
-    "model": "1% موجود",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "in_stock",
-    "productUrl": "https://elecamp.ir/product/%d9%84%d9%be-%d8%aa%d8%a7%d9%be-17-3-%d8%a7%db%8c%d9%86%da%86%db%8c-%d8%a7%db%8c%d8%b3%d9%88%d8%b3-%d9%85%d8%af%d9%84-tuf-gaming-f17-fx707vj-core-5-210h-16gb-512gb-ssd-6gb-rtx3050/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.306Z"
-  },
-  {
-    "id": "web-laptop-computer-3b6e904a56268fa2",
-    "productId": "web-laptop-computer-3b6e904a56268fa2",
-    "name": "3% موجود",
-    "brand": "",
-    "model": "3% موجود",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "in_stock",
-    "productUrl": "https://elecamp.ir/product/%d9%84%d9%be-%d8%aa%d8%a7%d9%be-15-6-%d8%a7%db%8c%d9%86%da%86%db%8c-%d9%84%d9%86%d9%88%d9%88-%d9%85%d8%af%d9%84-loq-15irx10-i7-13650hx-24gb-512gb-rtx5060-fhd/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.306Z"
-  },
-  {
-    "id": "web-laptop-computer-d9c226c68dfcaaee",
-    "productId": "web-laptop-computer-d9c226c68dfcaaee",
-    "name": "1% موجود",
-    "brand": "",
-    "model": "1% موجود",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "in_stock",
-    "productUrl": "https://elecamp.ir/product/%d9%84%d9%be-%d8%aa%d8%a7%d9%be-%d8%a7%da%86-%d9%be%db%8c-%d9%85%d8%af%d9%84-victus-15-gaming-fa2082wm-i5-13420h-16gb-512gb-ssd-rtx4050-6gb-fh/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.306Z"
-  },
-  {
-    "id": "web-laptop-computer-450bb537506fe1d6",
-    "productId": "web-laptop-computer-450bb537506fe1d6",
-    "name": "5% موجود",
-    "brand": "",
-    "model": "5% موجود",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "in_stock",
-    "productUrl": "https://elecamp.ir/product/%d9%84%d9%be-%d8%aa%d8%a7%d9%be-15-6-%d8%a7%db%8c%d9%86%da%86%db%8c-%d8%a7%d9%85-%d8%a7%d8%b3-%d8%a2%db%8c-%d9%85%d8%af%d9%84-cyborg-15-a13uc-i7-13620h-16gb-512gb-ssd-rtx3050-4gb-fhd-144h/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.307Z"
-  },
-  {
-    "id": "web-laptop-computer-04144aef957517f3",
-    "productId": "web-laptop-computer-04144aef957517f3",
-    "name": "2% موجود",
-    "brand": "",
-    "model": "2% موجود",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "in_stock",
-    "productUrl": "https://elecamp.ir/product/%d9%84%d9%be-%d8%aa%d8%a7%d9%be-15-6-%d8%a7%db%8c%d9%86%da%86%db%8c-%d8%a7%d9%85-%d8%a7%d8%b3-%d8%a2%db%8c-%d9%85%d8%af%d9%84-thin-15-b13uc-i7-13620h-16gb-512gb-rtx3050-fhd/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.307Z"
-  },
-  {
-    "id": "web-laptop-computer-e0075f48a11c6c41",
-    "productId": "web-laptop-computer-e0075f48a11c6c41",
-    "name": "3% موجود",
-    "brand": "",
-    "model": "3% موجود",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "in_stock",
-    "productUrl": "https://elecamp.ir/product/%d9%84%d9%be-%d8%aa%d8%a7%d9%be-%d8%a7%d9%85-%d8%a7%d8%b3-%d8%a2%db%8c-%d9%85%d8%af%d9%84-venturepro-15-a2rweg-core-7-240h-16gb-ddr5-5600mhz-1tb-ssd-rtx5050-8gb-fhd/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.307Z"
-  },
-  {
-    "id": "web-laptop-computer-2cd92229bcbac7e5",
-    "productId": "web-laptop-computer-2cd92229bcbac7e5",
-    "name": "8% موجود",
-    "brand": "",
-    "model": "8% موجود",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "in_stock",
-    "productUrl": "https://elecamp.ir/product/%d9%84%d9%be-%d8%aa%d8%a7%d9%be-%d8%a7%db%8c%d8%b3%d8%b1-%d9%85%d8%af%d9%84-aspire-7-a715-59g-58a8-i5-12450h-16gb-512ssd-rtx3050/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.307Z"
-  },
-  {
-    "id": "web-laptop-computer-1547fc1dfdcd4435",
-    "productId": "web-laptop-computer-1547fc1dfdcd4435",
-    "name": "17% موجود",
-    "brand": "",
-    "model": "17% موجود",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "in_stock",
-    "productUrl": "https://elecamp.ir/product/%d9%84%d9%be-%d8%aa%d8%a7%d9%be-%d8%a7%db%8c%d8%b3%d9%88%d8%b3-tuf-gaming-fx517zr-i7-12650h-16gb-512gb-ssd/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.307Z"
-  },
-  {
-    "id": "web-laptop-computer-6fb21fa83e9edec2",
-    "productId": "web-laptop-computer-6fb21fa83e9edec2",
-    "name": "11% موجود",
-    "brand": "",
-    "model": "11% موجود",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "in_stock",
-    "productUrl": "https://elecamp.ir/product/%d9%84%d9%be-%d8%aa%d8%a7%d9%be-%d8%a7%db%8c%d8%b3%d9%88%d8%b3-%d9%85%d8%af%d9%84-v16-v3607vh-%d9%be%d8%b1%d8%af%d8%a7%d8%b2%d9%86%d8%af%d9%87-core-7-%d8%a8%d8%a7-%d8%ad%d8%a7%d9%81%d8%b8%d9%87-%db%b1/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.307Z"
-  },
-  {
-    "id": "web-laptop-computer-e25de2ebaf433256",
-    "productId": "web-laptop-computer-e25de2ebaf433256",
-    "name": "1% موجود",
-    "brand": "",
-    "model": "1% موجود",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "in_stock",
-    "productUrl": "https://elecamp.ir/product/%d9%84%d9%be-%d8%aa%d8%a7%d9%be-%d8%a7%da%86-%d9%be%db%8c-victus-15-fa2013dx-i5-13420h-rtx-3050-6gb-32gb-512-ssd/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.308Z"
-  },
-  {
-    "id": "web-laptop-computer-c3171941d4acf196",
-    "productId": "web-laptop-computer-c3171941d4acf196",
-    "name": "لپ تاپ ایسر 15.6 اینچی مدل Aspire Go 15 AG15-32P-39R2 Core 3 N355 8GB 128GB 512GB core 3 Intel Graphics 8 گیگابایت 128 گیگابایت | 512 گیگابایت",
-    "brand": "دل",
-    "model": "لپ تاپ ایسر 15.6 اینچی مدل Aspire Go 15 AG15-32P-39R2 Core 3 N355 8GB 128GB 512GB core 3 Intel Graphics 8 گیگابایت 128 گیگابایت | 512 گیگابایت",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%d9%84%d9%be-%d8%aa%d8%a7%d9%be-%d8%a7%db%8c%d8%b3%d8%b1-15-6-%d8%a7%db%8c%d9%86%da%86%db%8c-%d9%85%d8%af%d9%84-aspire-go-15-ag15-32p-39r2-core-3-n355-8gb-128gb-512gb/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.308Z"
-  },
-  {
-    "id": "web-laptop-computer-a79eb1db6b83b26b",
-    "productId": "web-laptop-computer-a79eb1db6b83b26b",
-    "name": "لپ تاپ گیمینگ 2025 ایسوس ROG Strix G16 G615JMR Core i7 14650HX 16GB DDR5 1TB SSD RTX 5060 8GB GDDR7 WUXGA Core i7 GeForce RTX 5060 16 گیگابایت 1 ترابایت",
-    "brand": "ایسوس",
-    "model": "لپ تاپ گیمینگ 2025 ایسوس ROG Strix G16 G615JMR Core i7 14650HX 16GB DDR5 1TB SSD RTX 5060 8GB GDDR7 WUXGA Core i7 GeForce RTX 5060 16 گیگابایت 1 ترابایت",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%d9%84%d9%be-%d8%aa%d8%a7%d9%be-%da%af%db%8c%d9%85%db%8c%d9%86%da%af-2025-%d8%a7%db%8c%d8%b3%d9%88%d8%b3-rog-strix-g16-g615jmr-core-i7-14650hx-16gb-ddr5-1tb-ssd-rtx-5060-8gb-gddr7-wuxga/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.308Z"
-  },
-  {
-    "id": "web-laptop-computer-cb75f7ae068134c8",
-    "productId": "web-laptop-computer-cb75f7ae068134c8",
-    "name": "لپ تاپ ایسر 15.6 اینچی مدل Aspire Go 15 AG15-32P-39R2 Core 3 N355 8GB 128GB core 3 Intel Graphics 8 گیگابایت 128 گیگابایت",
-    "brand": "دل",
-    "model": "لپ تاپ ایسر 15.6 اینچی مدل Aspire Go 15 AG15-32P-39R2 Core 3 N355 8GB 128GB core 3 Intel Graphics 8 گیگابایت 128 گیگابایت",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%d9%84%d9%be-%d8%aa%d8%a7%d9%be-%d8%a7%db%8c%d8%b3%d8%b1-15-6-%d8%a7%db%8c%d9%86%da%86%db%8c-%d9%85%d8%af%d9%84-aspire-go-15-ag15-32p-39r2-core-3-n355-8gb-128gb/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.308Z"
-  },
-  {
-    "id": "web-laptop-computer-0688ae365e26ca5e",
-    "productId": "web-laptop-computer-0688ae365e26ca5e",
-    "name": "لپ تاپ گیمینگ ام اس آی 16 اینچی مدل Vector 16 AI A2XWHG Core Ultra 9 275HX 32GB 1TB RTX5070 Ti Core Ultra 9 GeForce RTX ۵۰۷۰ Ti 32 گیگابایت 1 ترابایت",
-    "brand": "دل",
-    "model": "لپ تاپ گیمینگ ام اس آی 16 اینچی مدل Vector 16 AI A2XWHG Core Ultra 9 275HX 32GB 1TB RTX5070 Ti Core Ultra 9 GeForce RTX ۵۰۷۰ Ti 32 گیگابایت 1 ترابایت",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%d9%84%d9%be-%d8%aa%d8%a7%d9%be-%da%af%db%8c%d9%85%db%8c%d9%86%da%af-%d8%a7%d9%85-%d8%a7%d8%b3-%d8%a2%db%8c-16-%d8%a7%db%8c%d9%86%da%86%db%8c-%d9%85%d8%af%d9%84-vector-16-ai-a2xwhg-core-ultra-9-275hx/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.308Z"
-  },
-  {
-    "id": "web-laptop-computer-bea2d4f5f105b82c",
-    "productId": "web-laptop-computer-bea2d4f5f105b82c",
-    "name": "1% موجود",
-    "brand": "",
-    "model": "1% موجود",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "in_stock",
-    "productUrl": "https://elecamp.ir/product/%d9%84%d9%be-%d8%aa%d8%a7%d9%be-17-3-%d8%a7%db%8c%d9%86%da%86%db%8c-%d8%a7%db%8c%d8%b3%d9%88%d8%b3-%d9%85%d8%af%d9%84-tuf-gaming-f17-fx707vj-core-5-210h-16gb-1tb-ssd-6gb-rtx3050/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.309Z"
-  },
-  {
-    "id": "web-laptop-computer-f40ef1c9c15e8a66",
-    "productId": "web-laptop-computer-f40ef1c9c15e8a66",
-    "name": "3% موجود",
-    "brand": "",
-    "model": "3% موجود",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "in_stock",
-    "productUrl": "https://elecamp.ir/product/%d9%84%d9%be-%d8%aa%d8%a7%d9%be-%d9%84%d9%86%d9%88%d9%88-%d9%85%d8%af%d9%84-ideapad-1-15iru7-core-i5-1335u-16gb-ddr4-512gb-ssd-intel/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.309Z"
-  },
-  {
-    "id": "web-laptop-computer-5850051f80b37562",
-    "productId": "web-laptop-computer-5850051f80b37562",
-    "name": "7% موجود",
-    "brand": "",
-    "model": "7% موجود",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "in_stock",
-    "productUrl": "https://elecamp.ir/product/%d9%84%d9%be-%d8%aa%d8%a7%d9%be-%d8%a7%db%8c%d8%b3%d9%88%d8%b3-vivobook-14-x1404va-intel-core-5-16gb-ram-512gb-ssd-14-fhd-display/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.310Z"
-  },
-  {
-    "id": "web-laptop-computer-378a6c4d8cb3c6ad",
-    "productId": "web-laptop-computer-378a6c4d8cb3c6ad",
-    "name": "6% موجود",
-    "brand": "",
-    "model": "6% موجود",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "in_stock",
-    "productUrl": "https://elecamp.ir/product/%d9%84%d9%be-%d8%aa%d8%a7%d9%be-15-6-%d8%a7%db%8c%d9%86%da%86%db%8c-%da%af%db%8c%d9%85%db%8c%d9%86%da%af-msi-%d9%85%d8%af%d9%84-thin-a15-b7uc-ryzen-7-7735hs-8g-512ssd-4g-rtx-3050-fhd-144hz/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.310Z"
-  },
-  {
-    "id": "web-laptop-computer-f2ad812cc37d8061",
-    "productId": "web-laptop-computer-f2ad812cc37d8061",
-    "name": "10% موجود",
-    "brand": "",
-    "model": "10% موجود",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "in_stock",
-    "productUrl": "https://elecamp.ir/product/%d9%84%d9%be-%d8%aa%d8%a7%d9%be-%d8%a7%db%8c%d8%b3%d9%88%d8%b3-vivobook-14-x1404va-intel-core-5-8gb-ram-512gb-ssd-14-inch-fhd-display/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.310Z"
-  },
-  {
-    "id": "web-laptop-computer-a245e12643310fe6",
-    "productId": "web-laptop-computer-a245e12643310fe6",
-    "name": "لپ تاپ 15.6 اینچی ایسوس مدل Vivobook 15 F1504VA-NJ1213-Core i3 1315U-4GB DDR4 3200MHz-256GB SSD Core i3 Intel Graphics 4 گیگابایت 256 گیگابایت",
-    "brand": "ایسوس",
-    "model": "لپ تاپ 15.6 اینچی ایسوس مدل Vivobook 15 F1504VA-NJ1213-Core i3 1315U-4GB DDR4 3200MHz-256GB SSD Core i3 Intel Graphics 4 گیگابایت 256 گیگابایت",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%d9%84%d9%be-%d8%aa%d8%a7%d9%be-%d8%a7%db%8c%d8%b3%d9%88%d8%b3-%d9%85%d8%af%d9%84-vivobook-15-f1504va-nj1213-core-i3-1315u-4gb-ddr4-3200mhz-256gb-ssd/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.310Z"
-  },
-  {
-    "id": "web-laptop-computer-d408e5fbb887f114",
-    "productId": "web-laptop-computer-d408e5fbb887f114",
-    "name": "لپ تاپ 15.6 اینچی ایسوس Expert Book B1503CVA Core 5 120U 8GB 512GB SSD INTEL Core 5 Iris Xe (integrated) 8 گیگابایت 512 گیگابایت",
-    "brand": "ایسوس",
-    "model": "لپ تاپ 15.6 اینچی ایسوس Expert Book B1503CVA Core 5 120U 8GB 512GB SSD INTEL Core 5 Iris Xe (integrated) 8 گیگابایت 512 گیگابایت",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%d9%84%d9%be-%d8%aa%d8%a7%d9%be-15-6-%d8%a7%db%8c%d9%86%da%86%db%8c-%d8%a7%db%8c%d8%b3%d9%88%d8%b3-expert-book-b1503cva-core-5-120u-8gb-512gb-ssd-intel/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.310Z"
-  },
-  {
-    "id": "web-laptop-computer-029eeedd8d92e4be",
-    "productId": "web-laptop-computer-029eeedd8d92e4be",
-    "name": "لپ تاپ لنوو مدل LOQ 15IRX9-i7 13650HX-16GB DDR5-512 SSD-RTX3050-FHD-W Core i7 GeForce RTX 3050 16 گیگابایت 512 گیگابایت",
-    "brand": "لنوو",
-    "model": "لپ تاپ لنوو مدل LOQ 15IRX9-i7 13650HX-16GB DDR5-512 SSD-RTX3050-FHD-W Core i7 GeForce RTX 3050 16 گیگابایت 512 گیگابایت",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%d9%84%d9%be-%d8%aa%d8%a7%d9%be-%d9%84%d9%86%d9%88%d9%88-%d9%85%d8%af%d9%84-loq-15irx9-i7-13650hx-16gb-ddr5-512-ssd-rtx3050-fhd-w/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.310Z"
-  },
-  {
-    "id": "web-laptop-computer-ce71b6217203d166",
-    "productId": "web-laptop-computer-ce71b6217203d166",
-    "name": "لپ تاپ 15.6 اینچی لنوو مدل LOQ 15ARP9-R5 7235HS-16GB DDR5 4800MHz-512GB SSD-RTX4050 6GB-FHD 144Hz-W Ryzen 5 GeForce RTX 4050 16 گیگابایت 512 گیگابایت",
-    "brand": "لنوو",
-    "model": "لپ تاپ 15.6 اینچی لنوو مدل LOQ 15ARP9-R5 7235HS-16GB DDR5 4800MHz-512GB SSD-RTX4050 6GB-FHD 144Hz-W Ryzen 5 GeForce RTX 4050 16 گیگابایت 512 گیگابایت",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%d9%84%d9%be-%d8%aa%d8%a7%d9%be-%d9%84%d9%86%d9%88%d9%88-%d9%85%d8%af%d9%84-loq-15arp9-r5-7235hs-16gb-512gb-rtx4050-6gb-fhd-144hz-w/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.310Z"
-  },
-  {
-    "id": "web-laptop-computer-15d521f44f3cb2cf",
-    "productId": "web-laptop-computer-15d521f44f3cb2cf",
-    "name": "لپ تاپ 15.6 اینچی لنوو مدل LOQ 15IRX9-i7 13650HX-24GB DDR5 4800MHz-512GB SSD-RTX5060-FHD Core i7 GeForce RTX 5060 24 گیگابایت 512 گیگابایت",
-    "brand": "لنوو",
-    "model": "لپ تاپ 15.6 اینچی لنوو مدل LOQ 15IRX9-i7 13650HX-24GB DDR5 4800MHz-512GB SSD-RTX5060-FHD Core i7 GeForce RTX 5060 24 گیگابایت 512 گیگابایت",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%d9%84%d9%be-%d8%aa%d8%a7%d9%be-15-6-%d8%a7%db%8c%d9%86%da%86%db%8c-%d9%84%d9%86%d9%88%d9%88-%d9%85%d8%af%d9%84-loq-15irx9-i7-13650hx-24gb-ddr5-4800mhz-512gb-ssd-rtx5060-fhd/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.311Z"
-  },
-  {
-    "id": "web-laptop-computer-13da2a263cc36715",
-    "productId": "web-laptop-computer-13da2a263cc36715",
-    "name": "لپ تاپ 15.6 اینچ لنوو مدل IdeaPad 1 15IRU7-Core i5 1335U-8GB DDR4 3200MHz-256GB SSD-Touch-W Core i5 UHD Graphics (integrated) 8 گیگابایت 256 گیگابایت",
-    "brand": "لنوو",
-    "model": "لپ تاپ 15.6 اینچ لنوو مدل IdeaPad 1 15IRU7-Core i5 1335U-8GB DDR4 3200MHz-256GB SSD-Touch-W Core i5 UHD Graphics (integrated) 8 گیگابایت 256 گیگابایت",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%d9%84%d9%be-%d8%aa%d8%a7%d9%be-%d9%84%d9%86%d9%88%d9%88-%d9%85%d8%af%d9%84-ideapad-1-15iru7-core-i5-1335u-8gb-ddr4-3200mhz-256gb-ssd-touch-w/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.311Z"
-  },
-  {
-    "id": "web-laptop-computer-3bf29d78c572e2d2",
-    "productId": "web-laptop-computer-3bf29d78c572e2d2",
-    "name": "لپ تاپ 15.6 اینچی لنوو مدل V15 G4 ABP-R7 7730U-16GB DDR4-512GB SSD-TN Ryzen 7 Radeon Graphics 16 گیگابایت 512 گیگابایت",
-    "brand": "لنوو",
-    "model": "لپ تاپ 15.6 اینچی لنوو مدل V15 G4 ABP-R7 7730U-16GB DDR4-512GB SSD-TN Ryzen 7 Radeon Graphics 16 گیگابایت 512 گیگابایت",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%d9%84%d9%be-%d8%aa%d8%a7%d9%be-15-6-%d8%a7%db%8c%d9%86%da%86%db%8c-%d9%84%d9%86%d9%88%d9%88-%d9%85%d8%af%d9%84-v15-g4-abp-r7-7730u-16gb-ddr4-512gb-ssd-tn/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.311Z"
-  },
-  {
-    "id": "web-laptop-computer-06ffa5dfaa6f26b0",
-    "productId": "web-laptop-computer-06ffa5dfaa6f26b0",
-    "name": "لپ تاپ 14 اینچی لنوو مدل IdeaPad Slim 5 Ultra 7 155H 16GB 512GB Core Ultra 7 Arc Graphics 16 گیگابایت 512 گیگابایت",
-    "brand": "لنوو",
-    "model": "لپ تاپ 14 اینچی لنوو مدل IdeaPad Slim 5 Ultra 7 155H 16GB 512GB Core Ultra 7 Arc Graphics 16 گیگابایت 512 گیگابایت",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%d9%84%d9%be-%d8%aa%d8%a7%d9%be-14-%d8%a7%db%8c%d9%86%da%86%db%8c-%d9%84%d9%86%d9%88%d9%88-%d9%85%d8%af%d9%84-ideapad-slim-5-ultra-7-155h-16gb-512gb/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.311Z"
-  },
-  {
-    "id": "web-laptop-computer-cc31c21815943284",
-    "productId": "web-laptop-computer-cc31c21815943284",
-    "name": "لپ تاپ لنوو 15.6 اینچی مدل LOQ R5 7235HS 12GB 512GB RTX3050 A Ryzen 5 GeForce RTX 3050 12 گیگابایت 512 گیگابایت",
-    "brand": "لنوو",
-    "model": "لپ تاپ لنوو 15.6 اینچی مدل LOQ R5 7235HS 12GB 512GB RTX3050 A Ryzen 5 GeForce RTX 3050 12 گیگابایت 512 گیگابایت",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%d9%84%d9%be-%d8%aa%d8%a7%d9%be-%d9%84%d9%86%d9%88%d9%88-15-6-%d8%a7%db%8c%d9%86%da%86%db%8c-%d9%85%d8%af%d9%84-loq-r5-7235hs-12gb-512gb-rtx3050-a/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.311Z"
-  },
-  {
-    "id": "web-laptop-computer-29601a7d041252df",
-    "productId": "web-laptop-computer-29601a7d041252df",
-    "name": "لپ تاپ 15.6 اینچی لنوو مدل V15 G2 IJL-Celeron N4500-8GB DDR4-512GB SSD Celeron | N4500 8 گیگابایت 512 گیگابایت",
-    "brand": "لنوو",
-    "model": "لپ تاپ 15.6 اینچی لنوو مدل V15 G2 IJL-Celeron N4500-8GB DDR4-512GB SSD Celeron | N4500 8 گیگابایت 512 گیگابایت",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%d9%84%d9%be-%d8%aa%d8%a7%d9%be-%d9%84%d9%86%d9%88%d9%88-15-6-%d8%a7%db%8c%d9%86%da%86%db%8c-v15-n4500-8gb-512gb/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.311Z"
-  },
-  {
-    "id": "web-laptop-computer-4b12103d4273d047",
-    "productId": "web-laptop-computer-4b12103d4273d047",
-    "name": "کیف لپ تاپ دوشی Cat کد 1084 0 خرید",
-    "brand": "",
-    "model": "کیف لپ تاپ دوشی Cat کد 1084 0 خرید",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%da%a9%db%8c%d9%81-%d9%84%d9%be-%d8%aa%d8%a7%d9%be-%d8%af%d9%88%d8%b4%db%8c-cat-%da%a9%d8%af-1084/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.311Z"
-  },
-  {
-    "id": "web-laptop-computer-e59fa1ba27148e6f",
-    "productId": "web-laptop-computer-e59fa1ba27148e6f",
-    "name": "17% کیف لپ تاپ سه کاره benetton کد 1018 0 خرید",
-    "brand": "",
-    "model": "17% کیف لپ تاپ سه کاره benetton کد 1018 0 خرید",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%da%a9%db%8c%d9%81-%d9%84%d9%be-%d8%aa%d8%a7%d9%be-%d8%b3%d9%87-%da%a9%d8%a7%d8%b1%d9%87-benetton-%da%a9%d8%af-1018/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.311Z"
-  },
-  {
-    "id": "web-laptop-computer-7ad7fd8d2a3459e3",
-    "productId": "web-laptop-computer-7ad7fd8d2a3459e3",
-    "name": "کیف لپ تاپ 17 اینچی دوشی Gabol کد 1104 0 خرید",
-    "brand": "",
-    "model": "کیف لپ تاپ 17 اینچی دوشی Gabol کد 1104 0 خرید",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%da%a9%db%8c%d9%81-%d9%84%d9%be-%d8%aa%d8%a7%d9%be-17-%d8%a7%db%8c%d9%86%da%86%db%8c-%d8%af%d9%88%d8%b4%db%8c-gabol-%da%a9%d8%af-1104/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.311Z"
-  },
-  {
-    "id": "web-laptop-computer-4f2e4dbea0a09ed5",
-    "productId": "web-laptop-computer-4f2e4dbea0a09ed5",
-    "name": "20% کیف لپ تاپ برند CAT کد 1092 0 خرید",
-    "brand": "",
-    "model": "20% کیف لپ تاپ برند CAT کد 1092 0 خرید",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%da%a9%db%8c%d9%81-%d9%84%d9%be-%d8%aa%d8%a7%d9%be-%d8%a8%d8%b1%d9%86%d8%af-cat-%da%a9%d8%af-1092/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.311Z"
-  },
-  {
-    "id": "web-laptop-computer-8fc0c51864f7923d",
-    "productId": "web-laptop-computer-8fc0c51864f7923d",
-    "name": "48% کیف کراس بادی اورجینال بادی بگ بنج 7566 0 خرید",
-    "brand": "",
-    "model": "48% کیف کراس بادی اورجینال بادی بگ بنج 7566 0 خرید",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%da%a9%db%8c%d9%81-%da%a9%d8%b1%d8%a7%d8%b3-%d8%a8%d8%a7%d8%af%db%8c-%d8%a7%d9%88%d8%b1%d8%ac%db%8c%d9%86%d8%a7%d9%84-%d8%a8%d8%a7%d8%af%db%8c-%d8%a8%da%af-%d8%a8%d9%86%d8%ac-7566/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.311Z"
-  },
-  {
-    "id": "web-laptop-computer-0a43237dff8a0ce8",
-    "productId": "web-laptop-computer-0a43237dff8a0ce8",
-    "name": "10% کیف دستی لپ تاپ 1033بنتون Benetton 0 خرید",
-    "brand": "",
-    "model": "10% کیف دستی لپ تاپ 1033بنتون Benetton 0 خرید",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%da%a9%db%8c%d9%81-%d8%af%d8%b3%d8%aa%db%8c-%d9%84%d9%be-%d8%aa%d8%a7%d9%be-1033%d8%a8%d9%86%d8%aa%d9%88%d9%86-benetton/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.311Z"
-  },
-  {
-    "id": "web-laptop-computer-87367868431c86b7",
-    "productId": "web-laptop-computer-87367868431c86b7",
-    "name": "5% کیف کوله پشتی لپ تاپ Bange مدل B0112 0 خرید",
-    "brand": "دل",
-    "model": "5% کیف کوله پشتی لپ تاپ Bange مدل B0112 0 خرید",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%da%a9%d9%88%d9%84%d9%87-%d9%be%d8%b4%d8%aa%db%8c-%d9%84%d9%be-%d8%aa%d8%a7%d9%be-%d9%85%d8%af%d9%84-bange/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.311Z"
-  },
-  {
-    "id": "web-laptop-computer-6af97de79f8da0bd",
-    "productId": "web-laptop-computer-6af97de79f8da0bd",
-    "name": "5% کیف لپ تاپ سه کاره Cat مناسب برای لپ تاپ 15.6 اینچی 0 خرید",
-    "brand": "",
-    "model": "5% کیف لپ تاپ سه کاره Cat مناسب برای لپ تاپ 15.6 اینچی 0 خرید",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%da%a9%db%8c%d9%81-%d9%84%d9%be-%d8%aa%d8%a7%d9%be-%d8%b3%d9%87-%da%a9%d8%a7%d8%b1%d9%87-cat-15-6/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.311Z"
-  },
-  {
-    "id": "web-laptop-computer-02e071298980b981",
-    "productId": "web-laptop-computer-02e071298980b981",
-    "name": "کیف لپ تاپ CAMEL مناسب برای لپ تاپ 15.6 اینچی 0 خرید",
-    "brand": "",
-    "model": "کیف لپ تاپ CAMEL مناسب برای لپ تاپ 15.6 اینچی 0 خرید",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%da%a9%db%8c%d9%81-%d9%84%d9%be-%d8%aa%d8%a7%d9%be-%d8%af%d9%88%d8%b4%db%8c-camel/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.311Z"
-  },
-  {
-    "id": "web-laptop-computer-70b09daae8c22a9c",
-    "productId": "web-laptop-computer-70b09daae8c22a9c",
-    "name": "کیف لپ‌تاپ CAT مدل دانشجویی ۱۵.۶ اینچ 0 خرید",
-    "brand": "دل",
-    "model": "کیف لپ‌تاپ CAT مدل دانشجویی ۱۵.۶ اینچ 0 خرید",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%da%a9%db%8c%d9%81-%d9%84%d9%be%d8%aa%d8%a7%d9%be-%d8%af%d9%88%d8%b4%db%8c-cat-%d9%85%d8%af%d9%84-%d8%af%d8%a7%d9%86%d8%b4%d8%ac%d9%88%db%8c%db%8c-%db%b1%db%b5-%db%b6-%d8%a7%db%8c%d9%86%da%86/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.311Z"
-  },
-  {
-    "id": "web-laptop-computer-405c1ed2852edbbe",
-    "productId": "web-laptop-computer-405c1ed2852edbbe",
-    "name": "ماوس هترون مدل HM350SL 1 خرید",
-    "brand": "دل",
-    "model": "ماوس هترون مدل HM350SL 1 خرید",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%d9%85%d8%a7%d9%88%d8%b3-%d9%87%d8%aa%d8%b1%d9%88%d9%86-%d9%85%d8%af%d9%84-hm350sl/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.311Z"
-  },
-  {
-    "id": "web-laptop-computer-310e89533adb9498",
-    "productId": "web-laptop-computer-310e89533adb9498",
-    "name": "ماوس هترون مدل HM402SL 0 خرید",
-    "brand": "دل",
-    "model": "ماوس هترون مدل HM402SL 0 خرید",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%d9%85%d8%a7%d9%88%d8%b3-%d9%87%d8%aa%d8%b1%d9%88%d9%86-%d9%85%d8%af%d9%84-hm402sl-2/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.312Z"
-  },
-  {
-    "id": "web-laptop-computer-8d1a062722584fe1",
-    "productId": "web-laptop-computer-8d1a062722584fe1",
-    "name": "ماوس بی سیم هترون مدل HMW122SL 0 خرید",
-    "brand": "دل",
-    "model": "ماوس بی سیم هترون مدل HMW122SL 0 خرید",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%d9%85%d8%a7%d9%88%d8%b3-%d8%a8%db%8c-%d8%b3%db%8c%d9%85-%d9%87%d8%aa%d8%b1%d9%88%d9%86-%d9%85%d8%af%d9%84-hmw122sl/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.312Z"
-  },
-  {
-    "id": "web-laptop-computer-2a0b0cc134558f8b",
-    "productId": "web-laptop-computer-2a0b0cc134558f8b",
-    "name": "ماوس هترون مدل HMW120SL 0 خرید",
-    "brand": "دل",
-    "model": "ماوس هترون مدل HMW120SL 0 خرید",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%d9%85%d8%a7%d9%88%d8%b3-%d9%87%d8%aa%d8%b1%d9%88%d9%86-%d9%85%d8%af%d9%84-hmw120sl/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.312Z"
-  },
-  {
-    "id": "web-laptop-computer-abb9018e2b257d53",
-    "productId": "web-laptop-computer-abb9018e2b257d53",
-    "name": "موس بی سیم وان مکس مدل OM-GW3 0 خرید",
-    "brand": "دل",
-    "model": "موس بی سیم وان مکس مدل OM-GW3 0 خرید",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%d9%85%d9%88%d8%b3-%d8%a8%db%8c-%d8%b3%db%8c%d9%85-%d9%88%d8%a7%d9%86-%d9%85%da%a9%d8%b3-%d9%85%d8%af%d9%84-om-gw3/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.312Z"
-  },
-  {
-    "id": "web-laptop-computer-5526408fdac81317",
-    "productId": "web-laptop-computer-5526408fdac81317",
-    "name": "موس وان مکس مدل SILENT ONEMAX-440 0 خرید",
-    "brand": "دل",
-    "model": "موس وان مکس مدل SILENT ONEMAX-440 0 خرید",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%d9%85%d8%a7%d9%88%d8%b3-%d9%88%d8%a7%d9%86-%d9%85%da%a9%d8%b3-%d9%85%d8%af%d9%84-silent-onemax-440/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.312Z"
-  },
-  {
-    "id": "web-laptop-computer-e9eb8c60046d6a37",
-    "productId": "web-laptop-computer-e9eb8c60046d6a37",
-    "name": "موس سیمی وان‌ مکس SILENT ONEMAX M420 0 خرید",
-    "brand": "",
-    "model": "موس سیمی وان‌ مکس SILENT ONEMAX M420 0 خرید",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%d9%85%d8%a7%d9%88%d8%b3-%d8%b3%db%8c%d9%85%db%8c-silent-onemax-m420/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.312Z"
-  },
-  {
-    "id": "web-laptop-computer-4e504719769cd7e9",
-    "productId": "web-laptop-computer-4e504719769cd7e9",
-    "name": "ماوس باسیم فراسو مدل BM1130 0 خرید",
-    "brand": "دل",
-    "model": "ماوس باسیم فراسو مدل BM1130 0 خرید",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%d9%85%d8%a7%d9%88%d8%b3-%d8%a8%db%8c%d8%a7%d9%86%d8%af-%d9%85%d8%af%d9%84-bm-1130/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.312Z"
-  },
-  {
-    "id": "web-laptop-computer-f065895db5384219",
-    "productId": "web-laptop-computer-f065895db5384219",
-    "name": "ماوس هترون مدل HM402SL 1 خرید",
-    "brand": "دل",
-    "model": "ماوس هترون مدل HM402SL 1 خرید",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%d9%85%d8%a7%d9%88%d8%b3-%d9%87%d8%aa%d8%b1%d9%88%d9%86-%d9%85%d8%af%d9%84-hm402sl/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.312Z"
-  },
-  {
-    "id": "web-laptop-computer-3a7688050785e833",
-    "productId": "web-laptop-computer-3a7688050785e833",
-    "name": "موس گیمینگ تسکو GM 2031 0 خرید",
-    "brand": "",
-    "model": "موس گیمینگ تسکو GM 2031 0 خرید",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%d9%85%d9%88%d8%b3-%da%af%db%8c%d9%85%db%8c%d9%86%da%af-%d8%aa%d8%b3%da%a9%d9%88-gm-2031/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.312Z"
-  },
-  {
-    "id": "web-laptop-computer-3b17a37329cda1db",
-    "productId": "web-laptop-computer-3b17a37329cda1db",
-    "name": "ماوس تسکو مدل TM-775GA 0 خرید",
-    "brand": "دل",
-    "model": "ماوس تسکو مدل TM-775GA 0 خرید",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%d9%85%d8%a7%d9%88%d8%b3-%d8%aa%d8%b3%da%a9%d9%88-%d9%85%d8%af%d9%84-tm-775ga/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.312Z"
-  },
-  {
-    "id": "web-laptop-computer-b6a185fcbb0d7434",
-    "productId": "web-laptop-computer-b6a185fcbb0d7434",
-    "name": "ماوس مخصوص بازی تسکو مدل GM 2025 0 خرید",
-    "brand": "دل",
-    "model": "ماوس مخصوص بازی تسکو مدل GM 2025 0 خرید",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%d9%85%d8%a7%d9%88%d8%b3-%d9%85%d8%ae%d8%b5%d9%88%d8%b5-%d8%a8%d8%a7%d8%b2%db%8c-%d8%aa%d8%b3%da%a9%d9%88-%d9%85%d8%af%d9%84-gm-2025/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.312Z"
-  },
-  {
-    "id": "web-laptop-computer-870aa21a0bd1a599",
-    "productId": "web-laptop-computer-870aa21a0bd1a599",
-    "name": "پایه خنک کننده لپ تاپ هترون مدل HCP131 0 خرید",
-    "brand": "دل",
-    "model": "پایه خنک کننده لپ تاپ هترون مدل HCP131 0 خرید",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%d9%be%d8%a7%db%8c%d9%87-%d8%ae%d9%86%da%a9-%da%a9%d9%86%d9%86%d8%af%d9%87-%d9%84%d9%be-%d8%aa%d8%a7%d9%be-%d9%87%d8%aa%d8%b1%d9%88%d9%86-%d9%85%d8%af%d9%84-hcp131/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.312Z"
-  },
-  {
-    "id": "web-laptop-computer-e3ce1fd472dfb9dc",
-    "productId": "web-laptop-computer-e3ce1fd472dfb9dc",
-    "name": "12% پایه نگهدارنده لپ تاپ تسکو مدل TCLP 3099 0 خرید",
-    "brand": "دل",
-    "model": "12% پایه نگهدارنده لپ تاپ تسکو مدل TCLP 3099 0 خرید",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%d9%be%d8%a7%db%8c%d9%87-%d9%86%da%af%d9%87%d8%af%d8%a7%d8%b1%d9%86%d8%af%d9%87-%d9%84%d9%be-%d8%aa%d8%a7%d9%be-%d8%aa%d8%b3%da%a9%d9%88-%d9%85%d8%af%d9%84-tclp-3099/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.312Z"
-  },
-  {
-    "id": "web-laptop-computer-e2e4ef2e05d616f4",
-    "productId": "web-laptop-computer-e2e4ef2e05d616f4",
-    "name": "پایه خنک کننده تسکو مدل TCLP 3102 0 خرید",
-    "brand": "دل",
-    "model": "پایه خنک کننده تسکو مدل TCLP 3102 0 خرید",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%d9%be%d8%a7%db%8c%d9%87-%d8%ae%d9%86%da%a9-%da%a9%d9%86%d9%86%d8%af%d9%87-%d8%aa%d8%b3%da%a9%d9%88-%d9%85%d8%af%d9%84-tclp-3102/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.312Z"
-  },
-  {
-    "id": "web-laptop-computer-e532e9abc919af5c",
-    "productId": "web-laptop-computer-e532e9abc919af5c",
-    "name": "2 آنتی ویروس ESET 1 Device Security یک ساله تومان 95.000",
-    "brand": "",
-    "model": "2 آنتی ویروس ESET 1 Device Security یک ساله تومان 95.000",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%d8%a2%d9%86%d8%aa%db%8c-%d9%88%db%8c%d8%b1%d9%88%d8%b3-eset-1-device-security-%db%8c%da%a9-%d8%b3%d8%a7%d9%84%d9%87/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.312Z"
-  },
-  {
-    "id": "web-laptop-computer-59a289c71efec6b2",
-    "productId": "web-laptop-computer-59a289c71efec6b2",
-    "name": "3 کاور لپ تاپ اس واندر مدل Crampler-1 مناسب برای لپ تاپ 15.6 اینچی تومان 649.000",
-    "brand": "دل",
-    "model": "3 کاور لپ تاپ اس واندر مدل Crampler-1 مناسب برای لپ تاپ 15.6 اینچی تومان 649.000",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%da%a9%d8%a7%d9%88%d8%b1-%d9%84%d9%be-%d8%aa%d8%a7%d9%be-%d8%a7%d8%b3-%d9%88%d8%a7%d9%86%d8%af%d8%b1-%d9%85%d8%af%d9%84-crampler-1-%d9%85%d9%86%d8%a7%d8%b3%d8%a8-%d8%a8%d8%b1%d8%a7%db%8c-%d9%84%d9%be/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.312Z"
-  },
-  {
-    "id": "web-laptop-computer-4dc150938f41f873",
-    "productId": "web-laptop-computer-4dc150938f41f873",
-    "name": "4 لپ تاپ گیمینگ ایسوس TUF GAMING A15 FA506NFR Ryzen 7 7435HS RTX 2050 32GB DDR5 512GB SSD تومان 179.000.000",
-    "brand": "ایسوس",
-    "model": "4 لپ تاپ گیمینگ ایسوس TUF GAMING A15 FA506NFR Ryzen 7 7435HS RTX 2050 32GB DDR5 512GB SSD تومان 179.000.000",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/tuf-a15-fa506nfr-r7-7435hs-rtx-2050-32gb-512g/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.312Z"
-  },
-  {
-    "id": "web-laptop-computer-a74cc9d44129fcde",
-    "productId": "web-laptop-computer-a74cc9d44129fcde",
-    "name": "5 لپ تاپ 15.6 اینچی ایسوس مدل Vivobook X1504VA-BQ3988-Core 7 150U 8GB 512SSD تومان 99.300.000",
-    "brand": "ایسوس",
-    "model": "5 لپ تاپ 15.6 اینچی ایسوس مدل Vivobook X1504VA-BQ3988-Core 7 150U 8GB 512SSD تومان 99.300.000",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://elecamp.ir/product/%d9%84%d9%be-%d8%aa%d8%a7%d9%be-15-6-%d8%a7%db%8c%d9%86%da%86%db%8c-%d8%a7%db%8c%d8%b3%d9%88%d8%b3-%d9%85%d8%af%d9%84-vivobook-x1504va-bq3988-core-7-150u-8gb-512ssd/",
-    "image": "",
-    "sourceId": "elecamp",
-    "sourceUrl": "https://elecamp.ir/",
-    "source": "web-catalog:elecamp",
-    "observedAt": "2026-09-01T05:05:15.312Z"
+    "observedAt": "2026-09-01T10:31:13.143Z"
   },
   {
     "id": "web-home-appliances-b31502a045371d03",
@@ -4911,7 +3925,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-home",
     "sourceUrl": "https://www.technolife.com/category/home-app",
     "source": "web-catalog:technolife-home",
-    "observedAt": "2026-09-01T05:05:27.748Z"
+    "observedAt": "2026-09-01T10:31:52.357Z"
   },
   {
     "id": "web-home-appliances-92b6966851d09081",
@@ -4928,7 +3942,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-home",
     "sourceUrl": "https://www.technolife.com/category/home-app",
     "source": "web-catalog:technolife-home",
-    "observedAt": "2026-09-01T05:05:27.748Z"
+    "observedAt": "2026-09-01T10:31:52.357Z"
   },
   {
     "id": "web-home-appliances-7bf700615c476688",
@@ -4945,7 +3959,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-home",
     "sourceUrl": "https://www.technolife.com/category/home-app",
     "source": "web-catalog:technolife-home",
-    "observedAt": "2026-09-01T05:05:27.748Z"
+    "observedAt": "2026-09-01T10:31:52.357Z"
   },
   {
     "id": "web-home-appliances-fb88e3cb10eea807",
@@ -4962,24 +3976,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-home",
     "sourceUrl": "https://www.technolife.com/category/home-app",
     "source": "web-catalog:technolife-home",
-    "observedAt": "2026-09-01T05:05:27.748Z"
-  },
-  {
-    "id": "web-home-appliances-c0d4a3bee8bd4cd2",
-    "productId": "web-home-appliances-c0d4a3bee8bd4cd2",
-    "name": "اتو بخار کف تیتانیوم پارس خزر مدل SI-DS 702",
-    "brand": "دل",
-    "model": "اتو بخار کف تیتانیوم پارس خزر مدل SI-DS 702",
-    "category": "home-appliances",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-102243/-%D8%A7%D8%AA%D9%88-%D8%A8%D8%AE%D8%A7%D8%B1-%DA%A9%D9%81-%D8%AA%DB%8C%D8%AA%D8%A7%D9%86%DB%8C%D9%88%D9%85-%D9%BE%D8%A7%D8%B1%D8%B3-%D8%AE%D8%B2%D8%B1-%D9%85%D8%AF%D9%84-si-ds-702",
-    "image": "",
-    "sourceId": "technolife-home",
-    "sourceUrl": "https://www.technolife.com/category/home-app",
-    "source": "web-catalog:technolife-home",
-    "observedAt": "2026-09-01T05:05:27.748Z"
+    "observedAt": "2026-09-01T10:31:52.357Z"
   },
   {
     "id": "web-home-appliances-c88ff4e37ed1ede8",
@@ -4996,7 +3993,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-home",
     "sourceUrl": "https://www.technolife.com/category/home-app",
     "source": "web-catalog:technolife-home",
-    "observedAt": "2026-09-01T05:05:27.748Z"
+    "observedAt": "2026-09-01T10:31:52.357Z"
   },
   {
     "id": "web-home-appliances-de39c10063573b1e",
@@ -5013,24 +4010,24 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-home",
     "sourceUrl": "https://www.technolife.com/category/home-app",
     "source": "web-catalog:technolife-home",
-    "observedAt": "2026-09-01T05:05:27.749Z"
+    "observedAt": "2026-09-01T10:31:52.357Z"
   },
   {
-    "id": "web-home-appliances-ddac231097f0b2e0",
-    "productId": "web-home-appliances-ddac231097f0b2e0",
-    "name": "شیکر نینجا مدل BC251",
+    "id": "web-home-appliances-c0d4a3bee8bd4cd2",
+    "productId": "web-home-appliances-c0d4a3bee8bd4cd2",
+    "name": "اتو بخار کف تیتانیوم پارس خزر مدل SI-DS 702",
     "brand": "دل",
-    "model": "شیکر نینجا مدل BC251",
+    "model": "اتو بخار کف تیتانیوم پارس خزر مدل SI-DS 702",
     "category": "home-appliances",
     "price": 0,
     "currency": "IRR",
     "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-572814/%D8%B4%DB%8C%DA%A9%D8%B1-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%85%D8%AF%D9%84-bc251",
+    "productUrl": "https://www.technolife.com/product-102243/-%D8%A7%D8%AA%D9%88-%D8%A8%D8%AE%D8%A7%D8%B1-%DA%A9%D9%81-%D8%AA%DB%8C%D8%AA%D8%A7%D9%86%DB%8C%D9%88%D9%85-%D9%BE%D8%A7%D8%B1%D8%B3-%D8%AE%D8%B2%D8%B1-%D9%85%D8%AF%D9%84-si-ds-702",
     "image": "",
     "sourceId": "technolife-home",
     "sourceUrl": "https://www.technolife.com/category/home-app",
     "source": "web-catalog:technolife-home",
-    "observedAt": "2026-09-01T05:05:27.749Z"
+    "observedAt": "2026-09-01T10:31:52.357Z"
   },
   {
     "id": "web-home-appliances-7fbbfaa7b7f0f529",
@@ -5047,7 +4044,24 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-home",
     "sourceUrl": "https://www.technolife.com/category/home-app",
     "source": "web-catalog:technolife-home",
-    "observedAt": "2026-09-01T05:05:27.749Z"
+    "observedAt": "2026-09-01T10:31:52.357Z"
+  },
+  {
+    "id": "web-home-appliances-ddac231097f0b2e0",
+    "productId": "web-home-appliances-ddac231097f0b2e0",
+    "name": "شیکر نینجا مدل BC251",
+    "brand": "دل",
+    "model": "شیکر نینجا مدل BC251",
+    "category": "home-appliances",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-572814/%D8%B4%DB%8C%DA%A9%D8%B1-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%85%D8%AF%D9%84-bc251",
+    "image": "",
+    "sourceId": "technolife-home",
+    "sourceUrl": "https://www.technolife.com/category/home-app",
+    "source": "web-catalog:technolife-home",
+    "observedAt": "2026-09-01T10:31:52.357Z"
   },
   {
     "id": "web-home-appliances-66195ad16a5635fd",
@@ -5064,7 +4078,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-home",
     "sourceUrl": "https://www.technolife.com/category/home-app",
     "source": "web-catalog:technolife-home",
-    "observedAt": "2026-09-01T05:05:27.749Z"
+    "observedAt": "2026-09-01T10:31:52.357Z"
   },
   {
     "id": "web-home-appliances-6dfde9cbd4943809",
@@ -5081,7 +4095,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-home",
     "sourceUrl": "https://www.technolife.com/category/home-app",
     "source": "web-catalog:technolife-home",
-    "observedAt": "2026-09-01T05:05:27.749Z"
+    "observedAt": "2026-09-01T10:31:52.357Z"
   },
   {
     "id": "web-home-appliances-363c73b03fa2c559",
@@ -5098,7 +4112,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-home",
     "sourceUrl": "https://www.technolife.com/category/home-app",
     "source": "web-catalog:technolife-home",
-    "observedAt": "2026-09-01T05:05:27.749Z"
+    "observedAt": "2026-09-01T10:31:52.357Z"
   },
   {
     "id": "web-home-appliances-fd35b55c7262ccae",
@@ -5115,7 +4129,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-home",
     "sourceUrl": "https://www.technolife.com/category/home-app",
     "source": "web-catalog:technolife-home",
-    "observedAt": "2026-09-01T05:05:27.749Z"
+    "observedAt": "2026-09-01T10:31:52.357Z"
   },
   {
     "id": "web-home-appliances-b4b04e06d1e60222",
@@ -5132,24 +4146,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-home",
     "sourceUrl": "https://www.technolife.com/category/home-app",
     "source": "web-catalog:technolife-home",
-    "observedAt": "2026-09-01T05:05:27.749Z"
-  },
-  {
-    "id": "web-home-appliances-85dc062a95a8ecf7",
-    "productId": "web-home-appliances-85dc062a95a8ecf7",
-    "name": "پنکه رومیزی مدل مه پاش",
-    "brand": "دل",
-    "model": "پنکه رومیزی مدل مه پاش",
-    "category": "home-appliances",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-110257/%D9%BE%D9%86%DA%A9%D9%87-%D8%B1%D9%88%D9%85%DB%8C%D8%B2%DB%8C-%D9%85%D8%AF%D9%84-%D9%85%D9%87-%D9%BE%D8%A7%D8%B4",
-    "image": "",
-    "sourceId": "technolife-home",
-    "sourceUrl": "https://www.technolife.com/category/home-app",
-    "source": "web-catalog:technolife-home",
-    "observedAt": "2026-09-01T05:05:27.749Z"
+    "observedAt": "2026-09-01T10:31:52.357Z"
   },
   {
     "id": "web-home-appliances-45337f95511b5ad7",
@@ -5166,7 +4163,24 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-home",
     "sourceUrl": "https://www.technolife.com/category/home-app",
     "source": "web-catalog:technolife-home",
-    "observedAt": "2026-09-01T05:05:27.750Z"
+    "observedAt": "2026-09-01T10:31:52.357Z"
+  },
+  {
+    "id": "web-home-appliances-85dc062a95a8ecf7",
+    "productId": "web-home-appliances-85dc062a95a8ecf7",
+    "name": "پنکه رومیزی مدل مه پاش",
+    "brand": "دل",
+    "model": "پنکه رومیزی مدل مه پاش",
+    "category": "home-appliances",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-110257/%D9%BE%D9%86%DA%A9%D9%87-%D8%B1%D9%88%D9%85%DB%8C%D8%B2%DB%8C-%D9%85%D8%AF%D9%84-%D9%85%D9%87-%D9%BE%D8%A7%D8%B4",
+    "image": "",
+    "sourceId": "technolife-home",
+    "sourceUrl": "https://www.technolife.com/category/home-app",
+    "source": "web-catalog:technolife-home",
+    "observedAt": "2026-09-01T10:31:52.357Z"
   },
   {
     "id": "web-home-appliances-b3ebdb43b4f1f850",
@@ -5183,7 +4197,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-home",
     "sourceUrl": "https://www.technolife.com/category/home-app",
     "source": "web-catalog:technolife-home",
-    "observedAt": "2026-09-01T05:05:27.750Z"
+    "observedAt": "2026-09-01T10:31:52.357Z"
   },
   {
     "id": "web-home-appliances-66176e0647bcbab1",
@@ -5200,7 +4214,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-home",
     "sourceUrl": "https://www.technolife.com/category/home-app",
     "source": "web-catalog:technolife-home",
-    "observedAt": "2026-09-01T05:05:27.750Z"
+    "observedAt": "2026-09-01T10:31:52.358Z"
   },
   {
     "id": "web-home-appliances-2d762b5577db3a14",
@@ -5217,7 +4231,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-home",
     "sourceUrl": "https://www.technolife.com/category/home-app",
     "source": "web-catalog:technolife-home",
-    "observedAt": "2026-09-01T05:05:27.750Z"
+    "observedAt": "2026-09-01T10:31:52.358Z"
   },
   {
     "id": "web-home-appliances-f793e4bcbdea50a5",
@@ -5234,7 +4248,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-home",
     "sourceUrl": "https://www.technolife.com/category/home-app",
     "source": "web-catalog:technolife-home",
-    "observedAt": "2026-09-01T05:05:27.750Z"
+    "observedAt": "2026-09-01T10:31:52.358Z"
   },
   {
     "id": "web-home-appliances-a01b3f02798ea2c4",
@@ -5251,7 +4265,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-home",
     "sourceUrl": "https://www.technolife.com/category/home-app",
     "source": "web-catalog:technolife-home",
-    "observedAt": "2026-09-01T05:05:27.750Z"
+    "observedAt": "2026-09-01T10:31:52.358Z"
   },
   {
     "id": "web-home-appliances-0ce77d0e6c96833e",
@@ -5268,7 +4282,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-home",
     "sourceUrl": "https://www.technolife.com/category/home-app",
     "source": "web-catalog:technolife-home",
-    "observedAt": "2026-09-01T05:05:27.750Z"
+    "observedAt": "2026-09-01T10:31:52.358Z"
   },
   {
     "id": "web-home-appliances-9b6835112de1bdc5",
@@ -5285,41 +4299,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-home",
     "sourceUrl": "https://www.technolife.com/category/home-app",
     "source": "web-catalog:technolife-home",
-    "observedAt": "2026-09-01T05:05:27.750Z"
-  },
-  {
-    "id": "web-home-appliances-4c0f37b60f666f99",
-    "productId": "web-home-appliances-4c0f37b60f666f99",
-    "name": "جاروبرقی عصایی گوسونیک مدل GSV-1118",
-    "brand": "دل",
-    "model": "جاروبرقی عصایی گوسونیک مدل GSV-1118",
-    "category": "home-appliances",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-167575/%D8%AC%D8%A7%D8%B1%D9%88%D8%A8%D8%B1%D9%82%DB%8C-%D8%B9%D8%B5%D8%A7%DB%8C%DB%8C-%DA%AF%D9%88%D8%B3%D9%88%D9%86%DB%8C%DA%A9-%D9%85%D8%AF%D9%84-gsv-1118",
-    "image": "",
-    "sourceId": "technolife-home",
-    "sourceUrl": "https://www.technolife.com/category/home-app",
-    "source": "web-catalog:technolife-home",
-    "observedAt": "2026-09-01T05:05:27.750Z"
-  },
-  {
-    "id": "web-home-appliances-3768ba4bbf31aee4",
-    "productId": "web-home-appliances-3768ba4bbf31aee4",
-    "name": "همزن گوسونیک مدل GHM-839",
-    "brand": "دل",
-    "model": "همزن گوسونیک مدل GHM-839",
-    "category": "home-appliances",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-30753/%D9%87%D9%85%D8%B2%D9%86-%DA%AF%D9%88%D8%B3%D9%88%D9%86%DB%8C%DA%A9-%D9%85%D8%AF%D9%84-ghm-839",
-    "image": "",
-    "sourceId": "technolife-home",
-    "sourceUrl": "https://www.technolife.com/category/home-app",
-    "source": "web-catalog:technolife-home",
-    "observedAt": "2026-09-01T05:05:27.751Z"
+    "observedAt": "2026-09-01T10:31:52.358Z"
   },
   {
     "id": "web-home-appliances-988b160d97a9139c",
@@ -5336,7 +4316,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-home",
     "sourceUrl": "https://www.technolife.com/category/home-app",
     "source": "web-catalog:technolife-home",
-    "observedAt": "2026-09-01T05:05:27.751Z"
+    "observedAt": "2026-09-01T10:31:52.358Z"
   },
   {
     "id": "web-home-appliances-c4f3e293579af31c",
@@ -5353,24 +4333,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-home",
     "sourceUrl": "https://www.technolife.com/category/home-app",
     "source": "web-catalog:technolife-home",
-    "observedAt": "2026-09-01T05:05:27.751Z"
-  },
-  {
-    "id": "web-home-appliances-9099dbb7b87f1a29",
-    "productId": "web-home-appliances-9099dbb7b87f1a29",
-    "name": "دستگاه تصفیه هوا پاکشوما مدل MPK-500",
-    "brand": "دل",
-    "model": "دستگاه تصفیه هوا پاکشوما مدل MPK-500",
-    "category": "home-appliances",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-277191/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%AA%D8%B5%D9%81%DB%8C%D9%87-%D9%87%D9%88%D8%A7-%D9%BE%D8%A7%DA%A9%D8%B4%D9%88%D9%85%D8%A7-%D9%85%D8%AF%D9%84-mpk-500",
-    "image": "",
-    "sourceId": "technolife-home",
-    "sourceUrl": "https://www.technolife.com/category/home-app",
-    "source": "web-catalog:technolife-home",
-    "observedAt": "2026-09-01T05:05:27.751Z"
+    "observedAt": "2026-09-01T10:31:52.358Z"
   },
   {
     "id": "web-home-appliances-4351f0f902039358",
@@ -5387,7 +4350,58 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-home",
     "sourceUrl": "https://www.technolife.com/category/home-app",
     "source": "web-catalog:technolife-home",
-    "observedAt": "2026-09-01T05:05:27.751Z"
+    "observedAt": "2026-09-01T10:31:52.358Z"
+  },
+  {
+    "id": "web-home-appliances-4c0f37b60f666f99",
+    "productId": "web-home-appliances-4c0f37b60f666f99",
+    "name": "جاروبرقی عصایی گوسونیک مدل GSV-1118",
+    "brand": "دل",
+    "model": "جاروبرقی عصایی گوسونیک مدل GSV-1118",
+    "category": "home-appliances",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-167575/%D8%AC%D8%A7%D8%B1%D9%88%D8%A8%D8%B1%D9%82%DB%8C-%D8%B9%D8%B5%D8%A7%DB%8C%DB%8C-%DA%AF%D9%88%D8%B3%D9%88%D9%86%DB%8C%DA%A9-%D9%85%D8%AF%D9%84-gsv-1118",
+    "image": "",
+    "sourceId": "technolife-home",
+    "sourceUrl": "https://www.technolife.com/category/home-app",
+    "source": "web-catalog:technolife-home",
+    "observedAt": "2026-09-01T10:31:52.358Z"
+  },
+  {
+    "id": "web-home-appliances-3768ba4bbf31aee4",
+    "productId": "web-home-appliances-3768ba4bbf31aee4",
+    "name": "همزن گوسونیک مدل GHM-839",
+    "brand": "دل",
+    "model": "همزن گوسونیک مدل GHM-839",
+    "category": "home-appliances",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-30753/%D9%87%D9%85%D8%B2%D9%86-%DA%AF%D9%88%D8%B3%D9%88%D9%86%DB%8C%DA%A9-%D9%85%D8%AF%D9%84-ghm-839",
+    "image": "",
+    "sourceId": "technolife-home",
+    "sourceUrl": "https://www.technolife.com/category/home-app",
+    "source": "web-catalog:technolife-home",
+    "observedAt": "2026-09-01T10:31:52.358Z"
+  },
+  {
+    "id": "web-home-appliances-9099dbb7b87f1a29",
+    "productId": "web-home-appliances-9099dbb7b87f1a29",
+    "name": "دستگاه تصفیه هوا پاکشوما مدل MPK-500",
+    "brand": "دل",
+    "model": "دستگاه تصفیه هوا پاکشوما مدل MPK-500",
+    "category": "home-appliances",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-277191/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%AA%D8%B5%D9%81%DB%8C%D9%87-%D9%87%D9%88%D8%A7-%D9%BE%D8%A7%DA%A9%D8%B4%D9%88%D9%85%D8%A7-%D9%85%D8%AF%D9%84-mpk-500",
+    "image": "",
+    "sourceId": "technolife-home",
+    "sourceUrl": "https://www.technolife.com/category/home-app",
+    "source": "web-catalog:technolife-home",
+    "observedAt": "2026-09-01T10:31:52.358Z"
   },
   {
     "id": "web-home-appliances-f5e82a3aeadaef79",
@@ -5404,7 +4418,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-home",
     "sourceUrl": "https://www.technolife.com/category/home-app",
     "source": "web-catalog:technolife-home",
-    "observedAt": "2026-09-01T05:05:27.751Z"
+    "observedAt": "2026-09-01T10:31:52.358Z"
   },
   {
     "id": "web-home-appliances-cd12b2e21bed5c8a",
@@ -5421,7 +4435,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-home",
     "sourceUrl": "https://www.technolife.com/category/home-app",
     "source": "web-catalog:technolife-home",
-    "observedAt": "2026-09-01T05:05:27.751Z"
+    "observedAt": "2026-09-01T10:31:52.358Z"
   },
   {
     "id": "web-digital-cd2fe960693503c1",
@@ -5438,7 +4452,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:06:08.569Z"
+    "observedAt": "2026-09-01T10:32:32.062Z"
   },
   {
     "id": "web-digital-30cf9e88ccc01fc0",
@@ -5455,7 +4469,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:06:08.569Z"
+    "observedAt": "2026-09-01T10:32:32.062Z"
   },
   {
     "id": "web-digital-8846224d38f87719",
@@ -5472,7 +4486,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:06:08.569Z"
+    "observedAt": "2026-09-01T10:32:32.062Z"
   },
   {
     "id": "web-digital-507ead069808e5f8",
@@ -5489,7 +4503,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:06:08.569Z"
+    "observedAt": "2026-09-01T10:32:32.062Z"
   },
   {
     "id": "web-digital-427371d162966f27",
@@ -5506,7 +4520,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:06:08.569Z"
+    "observedAt": "2026-09-01T10:32:32.062Z"
   },
   {
     "id": "web-digital-c1400e06b98a7947",
@@ -5523,7 +4537,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:06:08.569Z"
+    "observedAt": "2026-09-01T10:32:32.062Z"
   },
   {
     "id": "web-digital-a86963292d56c994",
@@ -5540,7 +4554,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:06:08.569Z"
+    "observedAt": "2026-09-01T10:32:32.062Z"
   },
   {
     "id": "web-digital-e45510805d98193b",
@@ -5557,24 +4571,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:06:08.569Z"
-  },
-  {
-    "id": "web-digital-b3b2d42046edb21c",
-    "productId": "web-digital-b3b2d42046edb21c",
-    "name": "ماوس پد پرووان مدل PMP15",
-    "brand": "دل",
-    "model": "ماوس پد پرووان مدل PMP15",
-    "category": "digital",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-43442/%D9%85%D8%A7%D9%88%D8%B3-%D9%BE%D8%AF-%D9%BE%D8%B1%D9%88%D9%88%D8%A7%D9%86-%D9%85%D8%AF%D9%84-pmp15",
-    "image": "",
-    "sourceId": "technolife-pc",
-    "sourceUrl": "https://www.technolife.com/category/pc-equipment",
-    "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:06:08.569Z"
+    "observedAt": "2026-09-01T10:32:32.062Z"
   },
   {
     "id": "web-digital-e669113b8a028746",
@@ -5591,7 +4588,24 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:06:08.569Z"
+    "observedAt": "2026-09-01T10:32:32.062Z"
+  },
+  {
+    "id": "web-digital-b3b2d42046edb21c",
+    "productId": "web-digital-b3b2d42046edb21c",
+    "name": "ماوس پد پرووان مدل PMP15",
+    "brand": "دل",
+    "model": "ماوس پد پرووان مدل PMP15",
+    "category": "digital",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-43442/%D9%85%D8%A7%D9%88%D8%B3-%D9%BE%D8%AF-%D9%BE%D8%B1%D9%88%D9%88%D8%A7%D9%86-%D9%85%D8%AF%D9%84-pmp15",
+    "image": "",
+    "sourceId": "technolife-pc",
+    "sourceUrl": "https://www.technolife.com/category/pc-equipment",
+    "source": "web-catalog:technolife-pc",
+    "observedAt": "2026-09-01T10:32:32.062Z"
   },
   {
     "id": "web-digital-2754113b29a0b9ec",
@@ -5608,7 +4622,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:06:08.569Z"
+    "observedAt": "2026-09-01T10:32:32.062Z"
   },
   {
     "id": "web-digital-cfa3e53bef27417d",
@@ -5625,7 +4639,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:06:08.569Z"
+    "observedAt": "2026-09-01T10:32:32.062Z"
   },
   {
     "id": "web-digital-de4c35e2beeb0153",
@@ -5642,41 +4656,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:06:08.569Z"
-  },
-  {
-    "id": "web-digital-2cccb796f36453da",
-    "productId": "web-digital-2cccb796f36453da",
-    "name": "فلش مموری ای دیتا مدل UV150 USB3 ظرفیت 64 گیگابایت",
-    "brand": "دل",
-    "model": "فلش مموری ای دیتا مدل UV150 USB3 ظرفیت 64 گیگابایت",
-    "category": "digital",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-32268/%D9%81%D9%84%D8%B4-%D9%85%D9%85%D9%88%D8%B1%DB%8C-%D8%A7%DB%8C-%D8%AF%DB%8C%D8%AA%D8%A7-%D9%85%D8%AF%D9%84-uv150-usb3-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-64-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
-    "image": "",
-    "sourceId": "technolife-pc",
-    "sourceUrl": "https://www.technolife.com/category/pc-equipment",
-    "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:06:08.569Z"
-  },
-  {
-    "id": "web-digital-8df0c8a4f17b238b",
-    "productId": "web-digital-8df0c8a4f17b238b",
-    "name": "فلش مموری اچ پی مدل V212B ظرفیت 64 گیگابایت",
-    "brand": "اچ‌پی",
-    "model": "فلش مموری اچ پی مدل V212B ظرفیت 64 گیگابایت",
-    "category": "digital",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-25433/%D9%81%D9%84%D8%B4-%D9%85%D9%85%D9%88%D8%B1%DB%8C-%D8%A7%DA%86-%D9%BE%DB%8C-%D9%85%D8%AF%D9%84-v212b-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-64-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
-    "image": "",
-    "sourceId": "technolife-pc",
-    "sourceUrl": "https://www.technolife.com/category/pc-equipment",
-    "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:06:08.570Z"
+    "observedAt": "2026-09-01T10:32:32.062Z"
   },
   {
     "id": "web-digital-dc2ae90bcf5de865",
@@ -5693,24 +4673,41 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:06:08.570Z"
+    "observedAt": "2026-09-01T10:32:32.062Z"
   },
   {
-    "id": "web-digital-c70d5fb455ace7fb",
-    "productId": "web-digital-c70d5fb455ace7fb",
-    "name": "فلش مموری سن دیسک مدل ULTRA SHIFT CZ410 ظرفیت 64 گیگابایت",
+    "id": "web-digital-2cccb796f36453da",
+    "productId": "web-digital-2cccb796f36453da",
+    "name": "فلش مموری ای دیتا مدل UV150 USB3 ظرفیت 64 گیگابایت",
     "brand": "دل",
-    "model": "فلش مموری سن دیسک مدل ULTRA SHIFT CZ410 ظرفیت 64 گیگابایت",
+    "model": "فلش مموری ای دیتا مدل UV150 USB3 ظرفیت 64 گیگابایت",
     "category": "digital",
     "price": 0,
     "currency": "IRR",
     "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-5630/-%D9%81%D9%84%D8%B4-%D9%85%D9%85%D9%88%D8%B1%DB%8C-%D8%B3%D9%86-%D8%AF%DB%8C%D8%B3%DA%A9-%D9%85%D8%AF%D9%84-ultra-shift-cz410-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-64-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
+    "productUrl": "https://www.technolife.com/product-32268/%D9%81%D9%84%D8%B4-%D9%85%D9%85%D9%88%D8%B1%DB%8C-%D8%A7%DB%8C-%D8%AF%DB%8C%D8%AA%D8%A7-%D9%85%D8%AF%D9%84-uv150-usb3-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-64-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
     "image": "",
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:06:08.570Z"
+    "observedAt": "2026-09-01T10:32:32.062Z"
+  },
+  {
+    "id": "web-digital-8df0c8a4f17b238b",
+    "productId": "web-digital-8df0c8a4f17b238b",
+    "name": "فلش مموری اچ پی مدل V212B ظرفیت 64 گیگابایت",
+    "brand": "اچ‌پی",
+    "model": "فلش مموری اچ پی مدل V212B ظرفیت 64 گیگابایت",
+    "category": "digital",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-25433/%D9%81%D9%84%D8%B4-%D9%85%D9%85%D9%88%D8%B1%DB%8C-%D8%A7%DA%86-%D9%BE%DB%8C-%D9%85%D8%AF%D9%84-v212b-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-64-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
+    "image": "",
+    "sourceId": "technolife-pc",
+    "sourceUrl": "https://www.technolife.com/category/pc-equipment",
+    "source": "web-catalog:technolife-pc",
+    "observedAt": "2026-09-01T10:32:32.062Z"
   },
   {
     "id": "web-digital-b14b60bf6d936930",
@@ -5727,7 +4724,24 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:06:08.570Z"
+    "observedAt": "2026-09-01T10:32:32.062Z"
+  },
+  {
+    "id": "web-digital-c70d5fb455ace7fb",
+    "productId": "web-digital-c70d5fb455ace7fb",
+    "name": "فلش مموری سن دیسک مدل ULTRA SHIFT CZ410 ظرفیت 64 گیگابایت",
+    "brand": "دل",
+    "model": "فلش مموری سن دیسک مدل ULTRA SHIFT CZ410 ظرفیت 64 گیگابایت",
+    "category": "digital",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-5630/-%D9%81%D9%84%D8%B4-%D9%85%D9%85%D9%88%D8%B1%DB%8C-%D8%B3%D9%86-%D8%AF%DB%8C%D8%B3%DA%A9-%D9%85%D8%AF%D9%84-ultra-shift-cz410-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-64-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
+    "image": "",
+    "sourceId": "technolife-pc",
+    "sourceUrl": "https://www.technolife.com/category/pc-equipment",
+    "source": "web-catalog:technolife-pc",
+    "observedAt": "2026-09-01T10:32:32.063Z"
   },
   {
     "id": "web-digital-854005ca74051252",
@@ -5744,7 +4758,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:06:08.570Z"
+    "observedAt": "2026-09-01T10:32:32.063Z"
   },
   {
     "id": "web-digital-e2a0261e5e95d823",
@@ -5761,24 +4775,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:06:08.570Z"
-  },
-  {
-    "id": "web-digital-416bfbae33e8a373",
-    "productId": "web-digital-416bfbae33e8a373",
-    "name": "کابل شیایومی تایپ سی اورجینال مناسب برای آداپتور 33وات",
-    "brand": "",
-    "model": "کابل شیایومی تایپ سی اورجینال مناسب برای آداپتور 33وات",
-    "category": "digital",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-2902/%DA%A9%D8%A7%D8%A8%D9%84-%D8%B4%DB%8C%D8%A7%DB%8C%D9%88%D9%85%DB%8C-%D8%AA%D8%A7%DB%8C%D9%BE-%D8%B3%DB%8C-%D8%A7%D9%88%D8%B1%D8%AC%DB%8C%D9%86%D8%A7%D9%84-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A2%D8%AF%D8%A7%D9%BE%D8%AA%D9%88%D8%B1-33%D9%88%D8%A7%D8%AA",
-    "image": "",
-    "sourceId": "technolife-pc",
-    "sourceUrl": "https://www.technolife.com/category/pc-equipment",
-    "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:06:08.570Z"
+    "observedAt": "2026-09-01T10:32:32.063Z"
   },
   {
     "id": "web-digital-70ca8da5ed54afbe",
@@ -5795,7 +4792,24 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:06:08.570Z"
+    "observedAt": "2026-09-01T10:32:32.063Z"
+  },
+  {
+    "id": "web-digital-416bfbae33e8a373",
+    "productId": "web-digital-416bfbae33e8a373",
+    "name": "کابل شیایومی تایپ سی اورجینال مناسب برای آداپتور 33وات",
+    "brand": "",
+    "model": "کابل شیایومی تایپ سی اورجینال مناسب برای آداپتور 33وات",
+    "category": "digital",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-2902/%DA%A9%D8%A7%D8%A8%D9%84-%D8%B4%DB%8C%D8%A7%DB%8C%D9%88%D9%85%DB%8C-%D8%AA%D8%A7%DB%8C%D9%BE-%D8%B3%DB%8C-%D8%A7%D9%88%D8%B1%D8%AC%DB%8C%D9%86%D8%A7%D9%84-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A2%D8%AF%D8%A7%D9%BE%D8%AA%D9%88%D8%B1-33%D9%88%D8%A7%D8%AA",
+    "image": "",
+    "sourceId": "technolife-pc",
+    "sourceUrl": "https://www.technolife.com/category/pc-equipment",
+    "source": "web-catalog:technolife-pc",
+    "observedAt": "2026-09-01T10:32:32.063Z"
   },
   {
     "id": "web-digital-29d3464fc76bd0a7",
@@ -5812,7 +4826,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:06:08.570Z"
+    "observedAt": "2026-09-01T10:32:32.063Z"
   },
   {
     "id": "web-digital-838893d24fe10401",
@@ -5829,41 +4843,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:06:08.570Z"
-  },
-  {
-    "id": "web-digital-cdf06d56a78d100f",
-    "productId": "web-digital-cdf06d56a78d100f",
-    "name": "هارد اکسترنال توشیبا مدل Canvio Basics با ظرفیت 2 ترابایت",
-    "brand": "دل",
-    "model": "هارد اکسترنال توشیبا مدل Canvio Basics با ظرفیت 2 ترابایت",
-    "category": "digital",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-4661/%D9%87%D8%A7%D8%B1%D8%AF-%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%D9%86%D8%A7%D9%84-%D8%AA%D9%88%D8%B4%DB%8C%D8%A8%D8%A7-%D9%85%D8%AF%D9%84-canvio-basics-%D8%A8%D8%A7-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-2-%D8%AA%D8%B1%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-",
-    "image": "",
-    "sourceId": "technolife-pc",
-    "sourceUrl": "https://www.technolife.com/category/pc-equipment",
-    "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:06:08.570Z"
-  },
-  {
-    "id": "web-digital-3edf5f68d8fb11ca",
-    "productId": "web-digital-3edf5f68d8fb11ca",
-    "name": "هارد اس اس دی اینترنال پی ان وای مدل CS900 ظرفیت 500 گیگابایت",
-    "brand": "دل",
-    "model": "هارد اس اس دی اینترنال پی ان وای مدل CS900 ظرفیت 500 گیگابایت",
-    "category": "digital",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-67272/-%D9%87%D8%A7%D8%B1%D8%AF-%D8%A7%D8%B3-%D8%A7%D8%B3-%D8%AF%DB%8C-%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%A7%D9%84-%D9%BE%DB%8C-%D8%A7%D9%86-%D9%88%D8%A7%DB%8C-%D9%85%D8%AF%D9%84-cs900-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-500-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
-    "image": "",
-    "sourceId": "technolife-pc",
-    "sourceUrl": "https://www.technolife.com/category/pc-equipment",
-    "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:06:08.570Z"
+    "observedAt": "2026-09-01T10:32:32.063Z"
   },
   {
     "id": "web-digital-dac5aa408d98397c",
@@ -5880,24 +4860,41 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:06:08.570Z"
+    "observedAt": "2026-09-01T10:32:32.063Z"
   },
   {
-    "id": "web-digital-93a7bc142defc698",
-    "productId": "web-digital-93a7bc142defc698",
-    "name": "کیبورد گیمینگ اونیکوما مدل G55 RGB",
+    "id": "web-digital-cdf06d56a78d100f",
+    "productId": "web-digital-cdf06d56a78d100f",
+    "name": "هارد اکسترنال توشیبا مدل Canvio Basics با ظرفیت 2 ترابایت",
     "brand": "دل",
-    "model": "کیبورد گیمینگ اونیکوما مدل G55 RGB",
+    "model": "هارد اکسترنال توشیبا مدل Canvio Basics با ظرفیت 2 ترابایت",
     "category": "digital",
     "price": 0,
     "currency": "IRR",
     "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-75714/%DA%A9%DB%8C%D8%A8%D9%88%D8%B1%D8%AF-%DA%AF%DB%8C%D9%85%DB%8C%D9%86%DA%AF-%D8%A7%D9%88%D9%86%DB%8C%DA%A9%D9%88%D9%85%D8%A7-%D9%85%D8%AF%D9%84-g55-rgb",
+    "productUrl": "https://www.technolife.com/product-4661/%D9%87%D8%A7%D8%B1%D8%AF-%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%D9%86%D8%A7%D9%84-%D8%AA%D9%88%D8%B4%DB%8C%D8%A8%D8%A7-%D9%85%D8%AF%D9%84-canvio-basics-%D8%A8%D8%A7-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-2-%D8%AA%D8%B1%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-",
     "image": "",
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:06:08.570Z"
+    "observedAt": "2026-09-01T10:32:32.063Z"
+  },
+  {
+    "id": "web-digital-3edf5f68d8fb11ca",
+    "productId": "web-digital-3edf5f68d8fb11ca",
+    "name": "هارد اس اس دی اینترنال پی ان وای مدل CS900 ظرفیت 500 گیگابایت",
+    "brand": "دل",
+    "model": "هارد اس اس دی اینترنال پی ان وای مدل CS900 ظرفیت 500 گیگابایت",
+    "category": "digital",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-67272/-%D9%87%D8%A7%D8%B1%D8%AF-%D8%A7%D8%B3-%D8%A7%D8%B3-%D8%AF%DB%8C-%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%A7%D9%84-%D9%BE%DB%8C-%D8%A7%D9%86-%D9%88%D8%A7%DB%8C-%D9%85%D8%AF%D9%84-cs900-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-500-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
+    "image": "",
+    "sourceId": "technolife-pc",
+    "sourceUrl": "https://www.technolife.com/category/pc-equipment",
+    "source": "web-catalog:technolife-pc",
+    "observedAt": "2026-09-01T10:32:32.064Z"
   },
   {
     "id": "web-digital-f93758119d658098",
@@ -5914,7 +4911,24 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:06:08.570Z"
+    "observedAt": "2026-09-01T10:32:32.064Z"
+  },
+  {
+    "id": "web-digital-93a7bc142defc698",
+    "productId": "web-digital-93a7bc142defc698",
+    "name": "کیبورد گیمینگ اونیکوما مدل G55 RGB",
+    "brand": "دل",
+    "model": "کیبورد گیمینگ اونیکوما مدل G55 RGB",
+    "category": "digital",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-75714/%DA%A9%DB%8C%D8%A8%D9%88%D8%B1%D8%AF-%DA%AF%DB%8C%D9%85%DB%8C%D9%86%DA%AF-%D8%A7%D9%88%D9%86%DB%8C%DA%A9%D9%88%D9%85%D8%A7-%D9%85%D8%AF%D9%84-g55-rgb",
+    "image": "",
+    "sourceId": "technolife-pc",
+    "sourceUrl": "https://www.technolife.com/category/pc-equipment",
+    "source": "web-catalog:technolife-pc",
+    "observedAt": "2026-09-01T10:32:32.064Z"
   },
   {
     "id": "web-digital-9fc7c86d18c3ed55",
@@ -5931,7 +4945,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:06:08.570Z"
+    "observedAt": "2026-09-01T10:32:32.064Z"
   },
   {
     "id": "web-digital-760b2b5a75cc1b98",
@@ -5948,7 +4962,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:06:08.570Z"
+    "observedAt": "2026-09-01T10:32:32.064Z"
   },
   {
     "id": "web-digital-3c73b159465114e4",
@@ -5965,7 +4979,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-mobile-accessories",
     "sourceUrl": "https://www.technolife.com/category/mobile/phone-accessories",
     "source": "web-catalog:technolife-mobile-accessories",
-    "observedAt": "2026-09-01T05:06:23.494Z"
+    "observedAt": "2026-09-01T10:32:47.784Z"
   },
   {
     "id": "web-digital-ed9578e52a75eaea",
@@ -5982,7 +4996,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-mobile-accessories",
     "sourceUrl": "https://www.technolife.com/category/mobile/phone-accessories",
     "source": "web-catalog:technolife-mobile-accessories",
-    "observedAt": "2026-09-01T05:06:23.495Z"
+    "observedAt": "2026-09-01T10:32:47.784Z"
   },
   {
     "id": "web-digital-5aff88ed4d23de60",
@@ -5999,7 +5013,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-mobile-accessories",
     "sourceUrl": "https://www.technolife.com/category/mobile/phone-accessories",
     "source": "web-catalog:technolife-mobile-accessories",
-    "observedAt": "2026-09-01T05:06:23.495Z"
+    "observedAt": "2026-09-01T10:32:47.784Z"
   },
   {
     "id": "web-digital-e73280e03c70eb1d",
@@ -6016,7 +5030,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-mobile-accessories",
     "sourceUrl": "https://www.technolife.com/category/mobile/phone-accessories",
     "source": "web-catalog:technolife-mobile-accessories",
-    "observedAt": "2026-09-01T05:06:23.495Z"
+    "observedAt": "2026-09-01T10:32:47.784Z"
   },
   {
     "id": "web-digital-f6f4bcc4b9952bfa",
@@ -6033,7 +5047,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-mobile-accessories",
     "sourceUrl": "https://www.technolife.com/category/mobile/phone-accessories",
     "source": "web-catalog:technolife-mobile-accessories",
-    "observedAt": "2026-09-01T05:06:23.495Z"
+    "observedAt": "2026-09-01T10:32:47.784Z"
   },
   {
     "id": "web-digital-536da030dba19fa6",
@@ -6050,24 +5064,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-mobile-accessories",
     "sourceUrl": "https://www.technolife.com/category/mobile/phone-accessories",
     "source": "web-catalog:technolife-mobile-accessories",
-    "observedAt": "2026-09-01T05:06:23.495Z"
-  },
-  {
-    "id": "web-digital-f4d1b0c923a129c4",
-    "productId": "web-digital-f4d1b0c923a129c4",
-    "name": "شارژر دیواری سامسونگ مدل EP-T4511 Low Standby توان 45 وات - Original",
-    "brand": "سامسونگ",
-    "model": "شارژر دیواری سامسونگ مدل EP-T4511 Low Standby توان 45 وات - Original",
-    "category": "digital",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-166577/%D8%B4%D8%A7%D8%B1%DA%98%D8%B1-%D8%AF%DB%8C%D9%88%D8%A7%D8%B1%DB%8C-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF-%D9%85%D8%AF%D9%84-ep-t4511-low-standby-%D8%AA%D9%88%D8%A7%D9%86-45-%D9%88%D8%A7%D8%AA---original",
-    "image": "",
-    "sourceId": "technolife-mobile-accessories",
-    "sourceUrl": "https://www.technolife.com/category/mobile/phone-accessories",
-    "source": "web-catalog:technolife-mobile-accessories",
-    "observedAt": "2026-09-01T05:06:23.495Z"
+    "observedAt": "2026-09-01T10:32:47.784Z"
   },
   {
     "id": "web-digital-a1685c667274d4d9",
@@ -6084,7 +5081,24 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-mobile-accessories",
     "sourceUrl": "https://www.technolife.com/category/mobile/phone-accessories",
     "source": "web-catalog:technolife-mobile-accessories",
-    "observedAt": "2026-09-01T05:06:23.495Z"
+    "observedAt": "2026-09-01T10:32:47.784Z"
+  },
+  {
+    "id": "web-digital-f4d1b0c923a129c4",
+    "productId": "web-digital-f4d1b0c923a129c4",
+    "name": "شارژر دیواری سامسونگ مدل EP-T4511 Low Standby توان 45 وات - Original",
+    "brand": "سامسونگ",
+    "model": "شارژر دیواری سامسونگ مدل EP-T4511 Low Standby توان 45 وات - Original",
+    "category": "digital",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-166577/%D8%B4%D8%A7%D8%B1%DA%98%D8%B1-%D8%AF%DB%8C%D9%88%D8%A7%D8%B1%DB%8C-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF-%D9%85%D8%AF%D9%84-ep-t4511-low-standby-%D8%AA%D9%88%D8%A7%D9%86-45-%D9%88%D8%A7%D8%AA---original",
+    "image": "",
+    "sourceId": "technolife-mobile-accessories",
+    "sourceUrl": "https://www.technolife.com/category/mobile/phone-accessories",
+    "source": "web-catalog:technolife-mobile-accessories",
+    "observedAt": "2026-09-01T10:32:47.784Z"
   },
   {
     "id": "web-digital-b26cd13e6d2a4db2",
@@ -6101,7 +5115,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-mobile-accessories",
     "sourceUrl": "https://www.technolife.com/category/mobile/phone-accessories",
     "source": "web-catalog:technolife-mobile-accessories",
-    "observedAt": "2026-09-01T05:06:23.495Z"
+    "observedAt": "2026-09-01T10:32:47.784Z"
   },
   {
     "id": "web-digital-5efa2e8010a67efc",
@@ -6118,7 +5132,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-mobile-accessories",
     "sourceUrl": "https://www.technolife.com/category/mobile/phone-accessories",
     "source": "web-catalog:technolife-mobile-accessories",
-    "observedAt": "2026-09-01T05:06:23.495Z"
+    "observedAt": "2026-09-01T10:32:47.784Z"
   },
   {
     "id": "web-digital-934ab72ee8beab29",
@@ -6135,7 +5149,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-mobile-accessories",
     "sourceUrl": "https://www.technolife.com/category/mobile/phone-accessories",
     "source": "web-catalog:technolife-mobile-accessories",
-    "observedAt": "2026-09-01T05:06:23.495Z"
+    "observedAt": "2026-09-01T10:32:47.784Z"
   },
   {
     "id": "web-digital-e5cf66209268be69",
@@ -6152,24 +5166,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-mobile-accessories",
     "sourceUrl": "https://www.technolife.com/category/mobile/phone-accessories",
     "source": "web-catalog:technolife-mobile-accessories",
-    "observedAt": "2026-09-01T05:06:23.495Z"
-  },
-  {
-    "id": "web-digital-79ad860bf90dee05",
-    "productId": "web-digital-79ad860bf90dee05",
-    "name": "پاوربانک شیائومی مدل PB3018ZM ظرفیت 30000 میلی آمپر",
-    "brand": "شیائومی",
-    "model": "پاوربانک شیائومی مدل PB3018ZM ظرفیت 30000 میلی آمپر",
-    "category": "digital",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-8178/%D9%BE%D8%A7%D9%88%D8%B1%D8%A8%D8%A7%D9%86%DA%A9-%D8%B4%DB%8C%D8%A7%D8%A6%D9%88%D9%85%DB%8C-%D9%85%D8%AF%D9%84-pb3018zm-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-30000-%D9%85%DB%8C%D9%84%DB%8C-%D8%A2%D9%85%D9%BE%D8%B1",
-    "image": "",
-    "sourceId": "technolife-mobile-accessories",
-    "sourceUrl": "https://www.technolife.com/category/mobile/phone-accessories",
-    "source": "web-catalog:technolife-mobile-accessories",
-    "observedAt": "2026-09-01T05:06:23.495Z"
+    "observedAt": "2026-09-01T10:32:47.784Z"
   },
   {
     "id": "web-digital-a82de36f5dd3868b",
@@ -6186,7 +5183,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-mobile-accessories",
     "sourceUrl": "https://www.technolife.com/category/mobile/phone-accessories",
     "source": "web-catalog:technolife-mobile-accessories",
-    "observedAt": "2026-09-01T05:06:23.495Z"
+    "observedAt": "2026-09-01T10:32:47.784Z"
   },
   {
     "id": "web-digital-5f20c98ee79eb654",
@@ -6203,7 +5200,24 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-mobile-accessories",
     "sourceUrl": "https://www.technolife.com/category/mobile/phone-accessories",
     "source": "web-catalog:technolife-mobile-accessories",
-    "observedAt": "2026-09-01T05:06:23.495Z"
+    "observedAt": "2026-09-01T10:32:47.784Z"
+  },
+  {
+    "id": "web-digital-79ad860bf90dee05",
+    "productId": "web-digital-79ad860bf90dee05",
+    "name": "پاوربانک شیائومی مدل PB3018ZM ظرفیت 30000 میلی آمپر",
+    "brand": "شیائومی",
+    "model": "پاوربانک شیائومی مدل PB3018ZM ظرفیت 30000 میلی آمپر",
+    "category": "digital",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-8178/%D9%BE%D8%A7%D9%88%D8%B1%D8%A8%D8%A7%D9%86%DA%A9-%D8%B4%DB%8C%D8%A7%D8%A6%D9%88%D9%85%DB%8C-%D9%85%D8%AF%D9%84-pb3018zm-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-30000-%D9%85%DB%8C%D9%84%DB%8C-%D8%A2%D9%85%D9%BE%D8%B1",
+    "image": "",
+    "sourceId": "technolife-mobile-accessories",
+    "sourceUrl": "https://www.technolife.com/category/mobile/phone-accessories",
+    "source": "web-catalog:technolife-mobile-accessories",
+    "observedAt": "2026-09-01T10:32:47.784Z"
   },
   {
     "id": "web-digital-ef4726f5b34042f5",
@@ -6220,24 +5234,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-mobile-accessories",
     "sourceUrl": "https://www.technolife.com/category/mobile/phone-accessories",
     "source": "web-catalog:technolife-mobile-accessories",
-    "observedAt": "2026-09-01T05:06:23.495Z"
-  },
-  {
-    "id": "web-digital-f66426480af3f45c",
-    "productId": "web-digital-f66426480af3f45c",
-    "name": "پاوربانک سن دیسک 25 وات مدل EXTREME PRO Super Fast ظرفیت 20000 میلی آمپر ساعت",
-    "brand": "دل",
-    "model": "پاوربانک سن دیسک 25 وات مدل EXTREME PRO Super Fast ظرفیت 20000 میلی آمپر ساعت",
-    "category": "digital",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-312540/%D9%BE%D8%A7%D9%88%D8%B1%D8%A8%D8%A7%D9%86%DA%A9-%D8%B3%D9%86-%D8%AF%DB%8C%D8%B3%DA%A9-25-%D9%88%D8%A7%D8%AA-%D9%85%D8%AF%D9%84-extreme-pro-super-fast-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-20000-%D9%85%DB%8C%D9%84%DB%8C-%D8%A2%D9%85%D9%BE%D8%B1-%D8%B3%D8%A7%D8%B9%D8%AA",
-    "image": "",
-    "sourceId": "technolife-mobile-accessories",
-    "sourceUrl": "https://www.technolife.com/category/mobile/phone-accessories",
-    "source": "web-catalog:technolife-mobile-accessories",
-    "observedAt": "2026-09-01T05:06:23.495Z"
+    "observedAt": "2026-09-01T10:32:47.784Z"
   },
   {
     "id": "web-digital-1e9c6712dd862036",
@@ -6254,7 +5251,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-mobile-accessories",
     "sourceUrl": "https://www.technolife.com/category/mobile/phone-accessories",
     "source": "web-catalog:technolife-mobile-accessories",
-    "observedAt": "2026-09-01T05:06:23.495Z"
+    "observedAt": "2026-09-01T10:32:47.784Z"
   },
   {
     "id": "web-digital-4b91a022a5d61b26",
@@ -6271,7 +5268,24 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-mobile-accessories",
     "sourceUrl": "https://www.technolife.com/category/mobile/phone-accessories",
     "source": "web-catalog:technolife-mobile-accessories",
-    "observedAt": "2026-09-01T05:06:23.495Z"
+    "observedAt": "2026-09-01T10:32:47.784Z"
+  },
+  {
+    "id": "web-digital-f66426480af3f45c",
+    "productId": "web-digital-f66426480af3f45c",
+    "name": "پاوربانک سن دیسک 25 وات مدل EXTREME PRO Super Fast ظرفیت 20000 میلی آمپر ساعت",
+    "brand": "دل",
+    "model": "پاوربانک سن دیسک 25 وات مدل EXTREME PRO Super Fast ظرفیت 20000 میلی آمپر ساعت",
+    "category": "digital",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-312540/%D9%BE%D8%A7%D9%88%D8%B1%D8%A8%D8%A7%D9%86%DA%A9-%D8%B3%D9%86-%D8%AF%DB%8C%D8%B3%DA%A9-25-%D9%88%D8%A7%D8%AA-%D9%85%D8%AF%D9%84-extreme-pro-super-fast-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-20000-%D9%85%DB%8C%D9%84%DB%8C-%D8%A2%D9%85%D9%BE%D8%B1-%D8%B3%D8%A7%D8%B9%D8%AA",
+    "image": "",
+    "sourceId": "technolife-mobile-accessories",
+    "sourceUrl": "https://www.technolife.com/category/mobile/phone-accessories",
+    "source": "web-catalog:technolife-mobile-accessories",
+    "observedAt": "2026-09-01T10:32:47.784Z"
   },
   {
     "id": "web-digital-3723fb938304c3e2",
@@ -6288,7 +5302,24 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-mobile-accessories",
     "sourceUrl": "https://www.technolife.com/category/mobile/phone-accessories",
     "source": "web-catalog:technolife-mobile-accessories",
-    "observedAt": "2026-09-01T05:06:23.495Z"
+    "observedAt": "2026-09-01T10:32:47.784Z"
+  },
+  {
+    "id": "web-digital-9085b09580ae2990",
+    "productId": "web-digital-9085b09580ae2990",
+    "name": "کابل دو سر تایپ سی انکر مدل A8757 طول 1.8 متر",
+    "brand": "دل",
+    "model": "کابل دو سر تایپ سی انکر مدل A8757 طول 1.8 متر",
+    "category": "digital",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-179548/%DA%A9%D8%A7%D8%A8%D9%84-%D8%AF%D9%88-%D8%B3%D8%B1-%D8%AA%D8%A7%DB%8C%D9%BE-%D8%B3%DB%8C-%D8%A7%D9%86%DA%A9%D8%B1-%D9%85%D8%AF%D9%84-a8757-%D8%B7%D9%88%D9%84-1.8-%D9%85%D8%AA%D8%B1",
+    "image": "",
+    "sourceId": "technolife-mobile-accessories",
+    "sourceUrl": "https://www.technolife.com/category/mobile/phone-accessories",
+    "source": "web-catalog:technolife-mobile-accessories",
+    "observedAt": "2026-09-01T10:32:47.784Z"
   },
   {
     "id": "web-digital-480ce62bf8ead8c8",
@@ -6305,7 +5336,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-mobile-accessories",
     "sourceUrl": "https://www.technolife.com/category/mobile/phone-accessories",
     "source": "web-catalog:technolife-mobile-accessories",
-    "observedAt": "2026-09-01T05:06:23.495Z"
+    "observedAt": "2026-09-01T10:32:47.784Z"
   },
   {
     "id": "web-digital-b21aadb3ed451560",
@@ -6322,7 +5353,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-mobile-accessories",
     "sourceUrl": "https://www.technolife.com/category/mobile/phone-accessories",
     "source": "web-catalog:technolife-mobile-accessories",
-    "observedAt": "2026-09-01T05:06:23.495Z"
+    "observedAt": "2026-09-01T10:32:47.784Z"
   },
   {
     "id": "web-digital-369a25705f424037",
@@ -6339,7 +5370,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-mobile-accessories",
     "sourceUrl": "https://www.technolife.com/category/mobile/phone-accessories",
     "source": "web-catalog:technolife-mobile-accessories",
-    "observedAt": "2026-09-01T05:06:23.495Z"
+    "observedAt": "2026-09-01T10:32:47.785Z"
   },
   {
     "id": "web-digital-9d51eff48b1a49f2",
@@ -6356,7 +5387,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-mobile-accessories",
     "sourceUrl": "https://www.technolife.com/category/mobile/phone-accessories",
     "source": "web-catalog:technolife-mobile-accessories",
-    "observedAt": "2026-09-01T05:06:23.495Z"
+    "observedAt": "2026-09-01T10:32:47.785Z"
   },
   {
     "id": "web-digital-0f5307b24449379e",
@@ -6373,7 +5404,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-mobile-accessories",
     "sourceUrl": "https://www.technolife.com/category/mobile/phone-accessories",
     "source": "web-catalog:technolife-mobile-accessories",
-    "observedAt": "2026-09-01T05:06:23.495Z"
+    "observedAt": "2026-09-01T10:32:47.785Z"
   },
   {
     "id": "web-digital-59c68e2f54da347b",
@@ -6390,7 +5421,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-mobile-accessories",
     "sourceUrl": "https://www.technolife.com/category/mobile/phone-accessories",
     "source": "web-catalog:technolife-mobile-accessories",
-    "observedAt": "2026-09-01T05:06:23.495Z"
+    "observedAt": "2026-09-01T10:32:47.785Z"
   },
   {
     "id": "web-digital-a4e38667f68dea37",
@@ -6407,7 +5438,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-mobile-accessories",
     "sourceUrl": "https://www.technolife.com/category/mobile/phone-accessories",
     "source": "web-catalog:technolife-mobile-accessories",
-    "observedAt": "2026-09-01T05:06:23.495Z"
+    "observedAt": "2026-09-01T10:32:47.785Z"
   },
   {
     "id": "web-digital-bee601aeaf9d65fb",
@@ -6424,7 +5455,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-mobile-accessories",
     "sourceUrl": "https://www.technolife.com/category/mobile/phone-accessories",
     "source": "web-catalog:technolife-mobile-accessories",
-    "observedAt": "2026-09-01T05:06:23.495Z"
+    "observedAt": "2026-09-01T10:32:47.785Z"
   },
   {
     "id": "web-digital-ea96abb3b426f2c8",
@@ -6441,24 +5472,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-mobile-accessories",
     "sourceUrl": "https://www.technolife.com/category/mobile/phone-accessories",
     "source": "web-catalog:technolife-mobile-accessories",
-    "observedAt": "2026-09-01T05:06:23.495Z"
-  },
-  {
-    "id": "web-digital-9f6c75c3d1a52c26",
-    "productId": "web-digital-9f6c75c3d1a52c26",
-    "name": "شارژر دیواری 20 وات اپل مدل B/A",
-    "brand": "اپل",
-    "model": "شارژر دیواری 20 وات اپل مدل B/A",
-    "category": "digital",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-428360/%D8%B4%D8%A7%D8%B1%DA%98%D8%B1-%D8%AF%DB%8C%D9%88%D8%A7%D8%B1%DB%8C-20-%D9%88%D8%A7%D8%AA-%D8%A7%D9%BE%D9%84-%D9%85%D8%AF%D9%84-b-a",
-    "image": "",
-    "sourceId": "technolife-mobile-accessories",
-    "sourceUrl": "https://www.technolife.com/category/mobile/phone-accessories",
-    "source": "web-catalog:technolife-mobile-accessories",
-    "observedAt": "2026-09-01T05:06:23.495Z"
+    "observedAt": "2026-09-01T10:32:47.785Z"
   },
   {
     "id": "web-digital-969d396b24ac8199",
@@ -6475,7 +5489,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-tablet-accessories",
     "sourceUrl": "https://www.technolife.com/category/tablet-equipment/tablet-accessories",
     "source": "web-catalog:technolife-tablet-accessories",
-    "observedAt": "2026-09-01T05:07:07.639Z"
+    "observedAt": "2026-09-01T10:33:29.366Z"
   },
   {
     "id": "web-digital-e6c4ad93b8911d22",
@@ -6492,7 +5506,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-tablet-accessories",
     "sourceUrl": "https://www.technolife.com/category/tablet-equipment/tablet-accessories",
     "source": "web-catalog:technolife-tablet-accessories",
-    "observedAt": "2026-09-01T05:07:07.639Z"
+    "observedAt": "2026-09-01T10:33:29.366Z"
   },
   {
     "id": "web-digital-6ce4c82999fe6dab",
@@ -6509,7 +5523,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-tablet-accessories",
     "sourceUrl": "https://www.technolife.com/category/tablet-equipment/tablet-accessories",
     "source": "web-catalog:technolife-tablet-accessories",
-    "observedAt": "2026-09-01T05:07:07.639Z"
+    "observedAt": "2026-09-01T10:33:29.367Z"
   },
   {
     "id": "web-digital-57d2c3ef469deddd",
@@ -6526,7 +5540,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-tablet-accessories",
     "sourceUrl": "https://www.technolife.com/category/tablet-equipment/tablet-accessories",
     "source": "web-catalog:technolife-tablet-accessories",
-    "observedAt": "2026-09-01T05:07:07.639Z"
+    "observedAt": "2026-09-01T10:33:29.367Z"
   },
   {
     "id": "web-digital-77bcc13f433ab6b1",
@@ -6543,7 +5557,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-tablet-accessories",
     "sourceUrl": "https://www.technolife.com/category/tablet-equipment/tablet-accessories",
     "source": "web-catalog:technolife-tablet-accessories",
-    "observedAt": "2026-09-01T05:07:07.639Z"
+    "observedAt": "2026-09-01T10:33:29.367Z"
   },
   {
     "id": "web-digital-139e3fe02d19e380",
@@ -6560,7 +5574,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-tablet-accessories",
     "sourceUrl": "https://www.technolife.com/category/tablet-equipment/tablet-accessories",
     "source": "web-catalog:technolife-tablet-accessories",
-    "observedAt": "2026-09-01T05:07:07.639Z"
+    "observedAt": "2026-09-01T10:33:29.367Z"
   },
   {
     "id": "web-digital-d2fb298ea5a3c55a",
@@ -6577,7 +5591,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-tablet-accessories",
     "sourceUrl": "https://www.technolife.com/category/tablet-equipment/tablet-accessories",
     "source": "web-catalog:technolife-tablet-accessories",
-    "observedAt": "2026-09-01T05:07:07.640Z"
+    "observedAt": "2026-09-01T10:33:29.367Z"
   },
   {
     "id": "web-digital-214fe9b70badd633",
@@ -6594,7 +5608,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-tablet-accessories",
     "sourceUrl": "https://www.technolife.com/category/tablet-equipment/tablet-accessories",
     "source": "web-catalog:technolife-tablet-accessories",
-    "observedAt": "2026-09-01T05:07:07.640Z"
+    "observedAt": "2026-09-01T10:33:29.367Z"
   },
   {
     "id": "web-digital-af8322601f1e34c1",
@@ -6611,7 +5625,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-tablet-accessories",
     "sourceUrl": "https://www.technolife.com/category/tablet-equipment/tablet-accessories",
     "source": "web-catalog:technolife-tablet-accessories",
-    "observedAt": "2026-09-01T05:07:07.640Z"
+    "observedAt": "2026-09-01T10:33:29.367Z"
   },
   {
     "id": "web-digital-eb1a085d75ce55bc",
@@ -6628,7 +5642,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-tablet-accessories",
     "sourceUrl": "https://www.technolife.com/category/tablet-equipment/tablet-accessories",
     "source": "web-catalog:technolife-tablet-accessories",
-    "observedAt": "2026-09-01T05:07:07.640Z"
+    "observedAt": "2026-09-01T10:33:29.367Z"
   },
   {
     "id": "web-digital-66b02285878ef1c0",
@@ -6645,7 +5659,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-tablet-accessories",
     "sourceUrl": "https://www.technolife.com/category/tablet-equipment/tablet-accessories",
     "source": "web-catalog:technolife-tablet-accessories",
-    "observedAt": "2026-09-01T05:07:07.640Z"
+    "observedAt": "2026-09-01T10:33:29.367Z"
   },
   {
     "id": "web-digital-03e8b45d45980000",
@@ -6662,7 +5676,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-tablet-accessories",
     "sourceUrl": "https://www.technolife.com/category/tablet-equipment/tablet-accessories",
     "source": "web-catalog:technolife-tablet-accessories",
-    "observedAt": "2026-09-01T05:07:07.640Z"
+    "observedAt": "2026-09-01T10:33:29.367Z"
   },
   {
     "id": "web-digital-f04b39011b54150e",
@@ -6679,7 +5693,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-tablet-accessories",
     "sourceUrl": "https://www.technolife.com/category/tablet-equipment/tablet-accessories",
     "source": "web-catalog:technolife-tablet-accessories",
-    "observedAt": "2026-09-01T05:07:07.640Z"
+    "observedAt": "2026-09-01T10:33:29.367Z"
   },
   {
     "id": "web-digital-b3477ada5085dd8c",
@@ -6696,7 +5710,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-tablet-accessories",
     "sourceUrl": "https://www.technolife.com/category/tablet-equipment/tablet-accessories",
     "source": "web-catalog:technolife-tablet-accessories",
-    "observedAt": "2026-09-01T05:07:07.640Z"
+    "observedAt": "2026-09-01T10:33:29.367Z"
   },
   {
     "id": "web-digital-6e3bdc68eb86ba6a",
@@ -6713,7 +5727,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-tablet-accessories",
     "sourceUrl": "https://www.technolife.com/category/tablet-equipment/tablet-accessories",
     "source": "web-catalog:technolife-tablet-accessories",
-    "observedAt": "2026-09-01T05:07:07.640Z"
+    "observedAt": "2026-09-01T10:33:29.367Z"
   },
   {
     "id": "web-digital-6efb2aee7d0b513a",
@@ -6730,7 +5744,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-tablet-accessories",
     "sourceUrl": "https://www.technolife.com/category/tablet-equipment/tablet-accessories",
     "source": "web-catalog:technolife-tablet-accessories",
-    "observedAt": "2026-09-01T05:07:07.640Z"
+    "observedAt": "2026-09-01T10:33:29.367Z"
   },
   {
     "id": "web-digital-59c087a648ab0b00",
@@ -6747,7 +5761,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-tablet-accessories",
     "sourceUrl": "https://www.technolife.com/category/tablet-equipment/tablet-accessories",
     "source": "web-catalog:technolife-tablet-accessories",
-    "observedAt": "2026-09-01T05:07:07.640Z"
+    "observedAt": "2026-09-01T10:33:29.367Z"
   },
   {
     "id": "web-digital-612ca2aca63b7785",
@@ -6764,7 +5778,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-tablet-accessories",
     "sourceUrl": "https://www.technolife.com/category/tablet-equipment/tablet-accessories",
     "source": "web-catalog:technolife-tablet-accessories",
-    "observedAt": "2026-09-01T05:07:07.640Z"
+    "observedAt": "2026-09-01T10:33:29.367Z"
   },
   {
     "id": "web-digital-a3394f2c9da74287",
@@ -6781,7 +5795,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-tablet-accessories",
     "sourceUrl": "https://www.technolife.com/category/tablet-equipment/tablet-accessories",
     "source": "web-catalog:technolife-tablet-accessories",
-    "observedAt": "2026-09-01T05:07:07.640Z"
+    "observedAt": "2026-09-01T10:33:29.367Z"
   },
   {
     "id": "web-digital-d9413bc8527848d7",
@@ -6798,7 +5812,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-tablet-accessories",
     "sourceUrl": "https://www.technolife.com/category/tablet-equipment/tablet-accessories",
     "source": "web-catalog:technolife-tablet-accessories",
-    "observedAt": "2026-09-01T05:07:07.640Z"
+    "observedAt": "2026-09-01T10:33:29.367Z"
   },
   {
     "id": "web-digital-3abc871f206f13de",
@@ -6815,7 +5829,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-tablet-accessories",
     "sourceUrl": "https://www.technolife.com/category/tablet-equipment/tablet-accessories",
     "source": "web-catalog:technolife-tablet-accessories",
-    "observedAt": "2026-09-01T05:07:07.640Z"
+    "observedAt": "2026-09-01T10:33:29.367Z"
   },
   {
     "id": "web-digital-8e1e91d516218bf1",
@@ -6832,7 +5846,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-tablet-accessories",
     "sourceUrl": "https://www.technolife.com/category/tablet-equipment/tablet-accessories",
     "source": "web-catalog:technolife-tablet-accessories",
-    "observedAt": "2026-09-01T05:07:07.640Z"
+    "observedAt": "2026-09-01T10:33:29.367Z"
   },
   {
     "id": "web-digital-19f7522911f726f5",
@@ -6849,7 +5863,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-tablet-accessories",
     "sourceUrl": "https://www.technolife.com/category/tablet-equipment/tablet-accessories",
     "source": "web-catalog:technolife-tablet-accessories",
-    "observedAt": "2026-09-01T05:07:07.640Z"
+    "observedAt": "2026-09-01T10:33:29.367Z"
   },
   {
     "id": "web-digital-cf0964caf1997411",
@@ -6866,7 +5880,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-tablet-accessories",
     "sourceUrl": "https://www.technolife.com/category/tablet-equipment/tablet-accessories",
     "source": "web-catalog:technolife-tablet-accessories",
-    "observedAt": "2026-09-01T05:07:07.640Z"
+    "observedAt": "2026-09-01T10:33:29.368Z"
   },
   {
     "id": "web-digital-6ae94ff3b743abe9",
@@ -6883,7 +5897,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-tablet-accessories",
     "sourceUrl": "https://www.technolife.com/category/tablet-equipment/tablet-accessories",
     "source": "web-catalog:technolife-tablet-accessories",
-    "observedAt": "2026-09-01T05:07:07.640Z"
+    "observedAt": "2026-09-01T10:33:29.368Z"
   },
   {
     "id": "web-digital-bbbb25e1fdc34fd3",
@@ -6900,7 +5914,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-tablet-accessories",
     "sourceUrl": "https://www.technolife.com/category/tablet-equipment/tablet-accessories",
     "source": "web-catalog:technolife-tablet-accessories",
-    "observedAt": "2026-09-01T05:07:07.641Z"
+    "observedAt": "2026-09-01T10:33:29.368Z"
   },
   {
     "id": "web-digital-c212cbf56f2f0c05",
@@ -6917,7 +5931,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-tablet-accessories",
     "sourceUrl": "https://www.technolife.com/category/tablet-equipment/tablet-accessories",
     "source": "web-catalog:technolife-tablet-accessories",
-    "observedAt": "2026-09-01T05:07:07.641Z"
+    "observedAt": "2026-09-01T10:33:29.368Z"
   },
   {
     "id": "web-digital-94a581a1fc4e6d20",
@@ -6934,7 +5948,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-tablet-accessories",
     "sourceUrl": "https://www.technolife.com/category/tablet-equipment/tablet-accessories",
     "source": "web-catalog:technolife-tablet-accessories",
-    "observedAt": "2026-09-01T05:07:07.641Z"
+    "observedAt": "2026-09-01T10:33:29.368Z"
   },
   {
     "id": "web-digital-b0937116cd4c8630",
@@ -6951,7 +5965,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-tablet-accessories",
     "sourceUrl": "https://www.technolife.com/category/tablet-equipment/tablet-accessories",
     "source": "web-catalog:technolife-tablet-accessories",
-    "observedAt": "2026-09-01T05:07:07.641Z"
+    "observedAt": "2026-09-01T10:33:29.368Z"
   },
   {
     "id": "web-digital-5e21e29e7e17184d",
@@ -6968,7 +5982,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-tablet-accessories",
     "sourceUrl": "https://www.technolife.com/category/tablet-equipment/tablet-accessories",
     "source": "web-catalog:technolife-tablet-accessories",
-    "observedAt": "2026-09-01T05:07:07.641Z"
+    "observedAt": "2026-09-01T10:33:29.368Z"
   },
   {
     "id": "web-audio-video-4cf3bfbe7d507a31",
@@ -6985,7 +5999,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-multimedia",
     "sourceUrl": "https://www.technolife.com/category/multimedia",
     "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-01T05:07:21.287Z"
+    "observedAt": "2026-09-01T10:33:40.050Z"
   },
   {
     "id": "web-audio-video-a3d7a68050b672d2",
@@ -7002,7 +6016,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-multimedia",
     "sourceUrl": "https://www.technolife.com/category/multimedia",
     "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-01T05:07:21.287Z"
+    "observedAt": "2026-09-01T10:33:40.050Z"
   },
   {
     "id": "web-audio-video-8a63c133e1932a8c",
@@ -7019,7 +6033,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-multimedia",
     "sourceUrl": "https://www.technolife.com/category/multimedia",
     "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-01T05:07:21.287Z"
+    "observedAt": "2026-09-01T10:33:40.050Z"
   },
   {
     "id": "web-audio-video-d6adbb368eff7219",
@@ -7036,7 +6050,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-multimedia",
     "sourceUrl": "https://www.technolife.com/category/multimedia",
     "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-01T05:07:21.287Z"
+    "observedAt": "2026-09-01T10:33:40.050Z"
   },
   {
     "id": "web-audio-video-3057322e80c83a5d",
@@ -7053,7 +6067,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-multimedia",
     "sourceUrl": "https://www.technolife.com/category/multimedia",
     "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-01T05:07:21.287Z"
+    "observedAt": "2026-09-01T10:33:40.050Z"
   },
   {
     "id": "web-audio-video-2909e941d387fcd2",
@@ -7070,7 +6084,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-multimedia",
     "sourceUrl": "https://www.technolife.com/category/multimedia",
     "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-01T05:07:21.287Z"
+    "observedAt": "2026-09-01T10:33:40.050Z"
   },
   {
     "id": "web-audio-video-d2fb2d935b7cdf01",
@@ -7087,24 +6101,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-multimedia",
     "sourceUrl": "https://www.technolife.com/category/multimedia",
     "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-01T05:07:21.287Z"
-  },
-  {
-    "id": "web-audio-video-aaac7b20f2318897",
-    "productId": "web-audio-video-aaac7b20f2318897",
-    "name": "پارتی باکس جی بی ال مدل PartyBox Club 120",
-    "brand": "دل",
-    "model": "پارتی باکس جی بی ال مدل PartyBox Club 120",
-    "category": "audio-video",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-38776/%D9%BE%D8%A7%D8%B1%D8%AA%DB%8C-%D8%A8%D8%A7%DA%A9%D8%B3-%D8%AC%DB%8C-%D8%A8%DB%8C-%D8%A7%D9%84-%D9%85%D8%AF%D9%84-partybox-club-120",
-    "image": "",
-    "sourceId": "technolife-multimedia",
-    "sourceUrl": "https://www.technolife.com/category/multimedia",
-    "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-01T05:07:21.287Z"
+    "observedAt": "2026-09-01T10:33:40.050Z"
   },
   {
     "id": "web-audio-video-edc206a57d081dbb",
@@ -7121,7 +6118,24 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-multimedia",
     "sourceUrl": "https://www.technolife.com/category/multimedia",
     "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-01T05:07:21.287Z"
+    "observedAt": "2026-09-01T10:33:40.050Z"
+  },
+  {
+    "id": "web-audio-video-aaac7b20f2318897",
+    "productId": "web-audio-video-aaac7b20f2318897",
+    "name": "پارتی باکس جی بی ال مدل PartyBox Club 120",
+    "brand": "دل",
+    "model": "پارتی باکس جی بی ال مدل PartyBox Club 120",
+    "category": "audio-video",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-38776/%D9%BE%D8%A7%D8%B1%D8%AA%DB%8C-%D8%A8%D8%A7%DA%A9%D8%B3-%D8%AC%DB%8C-%D8%A8%DB%8C-%D8%A7%D9%84-%D9%85%D8%AF%D9%84-partybox-club-120",
+    "image": "",
+    "sourceId": "technolife-multimedia",
+    "sourceUrl": "https://www.technolife.com/category/multimedia",
+    "source": "web-catalog:technolife-multimedia",
+    "observedAt": "2026-09-01T10:33:40.050Z"
   },
   {
     "id": "web-audio-video-95f067e3efb8f966",
@@ -7138,7 +6152,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-multimedia",
     "sourceUrl": "https://www.technolife.com/category/multimedia",
     "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-01T05:07:21.287Z"
+    "observedAt": "2026-09-01T10:33:40.050Z"
   },
   {
     "id": "web-audio-video-fb9309c5cf41fffb",
@@ -7155,7 +6169,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-multimedia",
     "sourceUrl": "https://www.technolife.com/category/multimedia",
     "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-01T05:07:21.287Z"
+    "observedAt": "2026-09-01T10:33:40.050Z"
   },
   {
     "id": "web-audio-video-f2b141967326c494",
@@ -7172,7 +6186,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-multimedia",
     "sourceUrl": "https://www.technolife.com/category/multimedia",
     "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-01T05:07:21.287Z"
+    "observedAt": "2026-09-01T10:33:40.050Z"
   },
   {
     "id": "web-audio-video-4d4cf06d249d38e1",
@@ -7189,7 +6203,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-multimedia",
     "sourceUrl": "https://www.technolife.com/category/multimedia",
     "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-01T05:07:21.287Z"
+    "observedAt": "2026-09-01T10:33:40.051Z"
   },
   {
     "id": "web-audio-video-9410484f256089ef",
@@ -7206,24 +6220,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-multimedia",
     "sourceUrl": "https://www.technolife.com/category/multimedia",
     "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-01T05:07:21.287Z"
-  },
-  {
-    "id": "web-audio-video-b0edc84b061114ab",
-    "productId": "web-audio-video-b0edc84b061114ab",
-    "name": "اسپیکر بلوتوثی قابل حمل تسکو مدل TS 23362",
-    "brand": "دل",
-    "model": "اسپیکر بلوتوثی قابل حمل تسکو مدل TS 23362",
-    "category": "audio-video",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-301259/%D8%A7%D8%B3%D9%BE%DB%8C%DA%A9%D8%B1-%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%AD%D9%85%D9%84-%D8%AA%D8%B3%DA%A9%D9%88-%D9%85%D8%AF%D9%84-ts-23362",
-    "image": "",
-    "sourceId": "technolife-multimedia",
-    "sourceUrl": "https://www.technolife.com/category/multimedia",
-    "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-01T05:07:21.287Z"
+    "observedAt": "2026-09-01T10:33:40.051Z"
   },
   {
     "id": "web-audio-video-ee04719471cae2f8",
@@ -7240,41 +6237,24 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-multimedia",
     "sourceUrl": "https://www.technolife.com/category/multimedia",
     "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-01T05:07:21.287Z"
+    "observedAt": "2026-09-01T10:33:40.051Z"
   },
   {
-    "id": "web-audio-video-df06092300a2779b",
-    "productId": "web-audio-video-df06092300a2779b",
-    "name": "تلویزیون ال ای دی سونی مدل KD-55X80L سایز 55 اینچ",
+    "id": "web-audio-video-b0edc84b061114ab",
+    "productId": "web-audio-video-b0edc84b061114ab",
+    "name": "اسپیکر بلوتوثی قابل حمل تسکو مدل TS 23362",
     "brand": "دل",
-    "model": "تلویزیون ال ای دی سونی مدل KD-55X80L سایز 55 اینچ",
+    "model": "اسپیکر بلوتوثی قابل حمل تسکو مدل TS 23362",
     "category": "audio-video",
     "price": 0,
     "currency": "IRR",
     "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-36234/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-%D8%A7%D9%84-%D8%A7%DB%8C-%D8%AF%DB%8C-%D8%B3%D9%88%D9%86%DB%8C-%D9%85%D8%AF%D9%84-kd-55x80l-%D8%B3%D8%A7%DB%8C%D8%B2-55-%D8%A7%DB%8C%D9%86%DA%86",
+    "productUrl": "https://www.technolife.com/product-301259/%D8%A7%D8%B3%D9%BE%DB%8C%DA%A9%D8%B1-%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%AD%D9%85%D9%84-%D8%AA%D8%B3%DA%A9%D9%88-%D9%85%D8%AF%D9%84-ts-23362",
     "image": "",
     "sourceId": "technolife-multimedia",
     "sourceUrl": "https://www.technolife.com/category/multimedia",
     "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-01T05:07:21.288Z"
-  },
-  {
-    "id": "web-audio-video-638d1da40dff21f6",
-    "productId": "web-audio-video-638d1da40dff21f6",
-    "name": "تلویزیون هوشمند 43 اینچ ال ای دی جی پلاس مدل GTV-43SH648NP",
-    "brand": "دل",
-    "model": "تلویزیون هوشمند 43 اینچ ال ای دی جی پلاس مدل GTV-43SH648NP",
-    "category": "audio-video",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-578743/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-43-%D8%A7%DB%8C%D9%86%DA%86-%D8%A7%D9%84-%D8%A7%DB%8C-%D8%AF%DB%8C-%D8%AC%DB%8C-%D9%BE%D9%84%D8%A7%D8%B3-%D9%85%D8%AF%D9%84-gtv-43sh648np",
-    "image": "",
-    "sourceId": "technolife-multimedia",
-    "sourceUrl": "https://www.technolife.com/category/multimedia",
-    "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-01T05:07:21.288Z"
+    "observedAt": "2026-09-01T10:33:40.051Z"
   },
   {
     "id": "web-audio-video-292677c9248e62f4",
@@ -7291,7 +6271,41 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-multimedia",
     "sourceUrl": "https://www.technolife.com/category/multimedia",
     "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-01T05:07:21.288Z"
+    "observedAt": "2026-09-01T10:33:40.051Z"
+  },
+  {
+    "id": "web-audio-video-df06092300a2779b",
+    "productId": "web-audio-video-df06092300a2779b",
+    "name": "تلویزیون ال ای دی سونی مدل KD-55X80L سایز 55 اینچ",
+    "brand": "دل",
+    "model": "تلویزیون ال ای دی سونی مدل KD-55X80L سایز 55 اینچ",
+    "category": "audio-video",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-36234/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-%D8%A7%D9%84-%D8%A7%DB%8C-%D8%AF%DB%8C-%D8%B3%D9%88%D9%86%DB%8C-%D9%85%D8%AF%D9%84-kd-55x80l-%D8%B3%D8%A7%DB%8C%D8%B2-55-%D8%A7%DB%8C%D9%86%DA%86",
+    "image": "",
+    "sourceId": "technolife-multimedia",
+    "sourceUrl": "https://www.technolife.com/category/multimedia",
+    "source": "web-catalog:technolife-multimedia",
+    "observedAt": "2026-09-01T10:33:40.051Z"
+  },
+  {
+    "id": "web-audio-video-638d1da40dff21f6",
+    "productId": "web-audio-video-638d1da40dff21f6",
+    "name": "تلویزیون هوشمند 43 اینچ ال ای دی جی پلاس مدل GTV-43SH648NP",
+    "brand": "دل",
+    "model": "تلویزیون هوشمند 43 اینچ ال ای دی جی پلاس مدل GTV-43SH648NP",
+    "category": "audio-video",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-578743/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-43-%D8%A7%DB%8C%D9%86%DA%86-%D8%A7%D9%84-%D8%A7%DB%8C-%D8%AF%DB%8C-%D8%AC%DB%8C-%D9%BE%D9%84%D8%A7%D8%B3-%D9%85%D8%AF%D9%84-gtv-43sh648np",
+    "image": "",
+    "sourceId": "technolife-multimedia",
+    "sourceUrl": "https://www.technolife.com/category/multimedia",
+    "source": "web-catalog:technolife-multimedia",
+    "observedAt": "2026-09-01T10:33:40.051Z"
   },
   {
     "id": "web-audio-video-11bbd4f79a3d1d3a",
@@ -7308,92 +6322,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-multimedia",
     "sourceUrl": "https://www.technolife.com/category/multimedia",
     "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-01T05:07:21.288Z"
-  },
-  {
-    "id": "web-audio-video-d11a4e834435f72f",
-    "productId": "web-audio-video-d11a4e834435f72f",
-    "name": "اسپیکر بلوتوثی تسکو مدل TS 23358",
-    "brand": "دل",
-    "model": "اسپیکر بلوتوثی تسکو مدل TS 23358",
-    "category": "audio-video",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-442235/%D8%A7%D8%B3%D9%BE%DB%8C%DA%A9%D8%B1-%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB%DB%8C-%D8%AA%D8%B3%DA%A9%D9%88-%D9%85%D8%AF%D9%84-ts-23358",
-    "image": "",
-    "sourceId": "technolife-multimedia",
-    "sourceUrl": "https://www.technolife.com/category/multimedia",
-    "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-01T05:07:21.288Z"
-  },
-  {
-    "id": "web-audio-video-6597fb614f0b0987",
-    "productId": "web-audio-video-6597fb614f0b0987",
-    "name": "اسپیکر بلوتوثی قابل حمل هارمن کاردن مدل Onyx Studio 9",
-    "brand": "دل",
-    "model": "اسپیکر بلوتوثی قابل حمل هارمن کاردن مدل Onyx Studio 9",
-    "category": "audio-video",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-116670/%D8%A7%D8%B3%D9%BE%DB%8C%DA%A9%D8%B1-%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%AD%D9%85%D9%84-%D9%87%D8%A7%D8%B1%D9%85%D9%86-%DA%A9%D8%A7%D8%B1%D8%AF%D9%86-%D9%85%D8%AF%D9%84-onyx-studio-9",
-    "image": "",
-    "sourceId": "technolife-multimedia",
-    "sourceUrl": "https://www.technolife.com/category/multimedia",
-    "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-01T05:07:21.288Z"
-  },
-  {
-    "id": "web-audio-video-248f0a9fa81ca0c0",
-    "productId": "web-audio-video-248f0a9fa81ca0c0",
-    "name": "تلویزیون ایکس ویژن مدل 43XC605 سایز 43 اینچ",
-    "brand": "دل",
-    "model": "تلویزیون ایکس ویژن مدل 43XC605 سایز 43 اینچ",
-    "category": "audio-video",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-426153/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-%D8%A7%DB%8C%DA%A9%D8%B3-%D9%88%DB%8C%DA%98%D9%86-%D9%85%D8%AF%D9%84-43xc605-%D8%B3%D8%A7%DB%8C%D8%B2-43-%D8%A7%DB%8C%D9%86%DA%86",
-    "image": "",
-    "sourceId": "technolife-multimedia",
-    "sourceUrl": "https://www.technolife.com/category/multimedia",
-    "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-01T05:07:21.288Z"
-  },
-  {
-    "id": "web-audio-video-5e27802d2f4bbed7",
-    "productId": "web-audio-video-5e27802d2f4bbed7",
-    "name": "تلویزیون سونی LED سایز 65 اینچ مدل KD-65X85L",
-    "brand": "دل",
-    "model": "تلویزیون سونی LED سایز 65 اینچ مدل KD-65X85L",
-    "category": "audio-video",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-47975/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-%D8%B3%D9%88%D9%86%DB%8C-led-%D8%B3%D8%A7%DB%8C%D8%B2-65-%D8%A7%DB%8C%D9%86%DA%86-%D9%85%D8%AF%D9%84-kd-65x85l",
-    "image": "",
-    "sourceId": "technolife-multimedia",
-    "sourceUrl": "https://www.technolife.com/category/multimedia",
-    "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-01T05:07:21.288Z"
-  },
-  {
-    "id": "web-audio-video-509f23a86bee738e",
-    "productId": "web-audio-video-509f23a86bee738e",
-    "name": "اسپیکر بلوتوثی انکر مدل SoundCore Select 3",
-    "brand": "دل",
-    "model": "اسپیکر بلوتوثی انکر مدل SoundCore Select 3",
-    "category": "audio-video",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-179585/%D8%A7%D8%B3%D9%BE%DB%8C%DA%A9%D8%B1-%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB%DB%8C-%D8%A7%D9%86%DA%A9%D8%B1-%D9%85%D8%AF%D9%84-soundcore-select-3",
-    "image": "",
-    "sourceId": "technolife-multimedia",
-    "sourceUrl": "https://www.technolife.com/category/multimedia",
-    "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-01T05:07:21.288Z"
+    "observedAt": "2026-09-01T10:33:40.051Z"
   },
   {
     "id": "web-audio-video-984b9367f5530285",
@@ -7410,7 +6339,92 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-multimedia",
     "sourceUrl": "https://www.technolife.com/category/multimedia",
     "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-01T05:07:21.288Z"
+    "observedAt": "2026-09-01T10:33:40.051Z"
+  },
+  {
+    "id": "web-audio-video-d11a4e834435f72f",
+    "productId": "web-audio-video-d11a4e834435f72f",
+    "name": "اسپیکر بلوتوثی تسکو مدل TS 23358",
+    "brand": "دل",
+    "model": "اسپیکر بلوتوثی تسکو مدل TS 23358",
+    "category": "audio-video",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-442235/%D8%A7%D8%B3%D9%BE%DB%8C%DA%A9%D8%B1-%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB%DB%8C-%D8%AA%D8%B3%DA%A9%D9%88-%D9%85%D8%AF%D9%84-ts-23358",
+    "image": "",
+    "sourceId": "technolife-multimedia",
+    "sourceUrl": "https://www.technolife.com/category/multimedia",
+    "source": "web-catalog:technolife-multimedia",
+    "observedAt": "2026-09-01T10:33:40.051Z"
+  },
+  {
+    "id": "web-audio-video-6597fb614f0b0987",
+    "productId": "web-audio-video-6597fb614f0b0987",
+    "name": "اسپیکر بلوتوثی قابل حمل هارمن کاردن مدل Onyx Studio 9",
+    "brand": "دل",
+    "model": "اسپیکر بلوتوثی قابل حمل هارمن کاردن مدل Onyx Studio 9",
+    "category": "audio-video",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-116670/%D8%A7%D8%B3%D9%BE%DB%8C%DA%A9%D8%B1-%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%AD%D9%85%D9%84-%D9%87%D8%A7%D8%B1%D9%85%D9%86-%DA%A9%D8%A7%D8%B1%D8%AF%D9%86-%D9%85%D8%AF%D9%84-onyx-studio-9",
+    "image": "",
+    "sourceId": "technolife-multimedia",
+    "sourceUrl": "https://www.technolife.com/category/multimedia",
+    "source": "web-catalog:technolife-multimedia",
+    "observedAt": "2026-09-01T10:33:40.051Z"
+  },
+  {
+    "id": "web-audio-video-248f0a9fa81ca0c0",
+    "productId": "web-audio-video-248f0a9fa81ca0c0",
+    "name": "تلویزیون ایکس ویژن مدل 43XC605 سایز 43 اینچ",
+    "brand": "دل",
+    "model": "تلویزیون ایکس ویژن مدل 43XC605 سایز 43 اینچ",
+    "category": "audio-video",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-426153/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-%D8%A7%DB%8C%DA%A9%D8%B3-%D9%88%DB%8C%DA%98%D9%86-%D9%85%D8%AF%D9%84-43xc605-%D8%B3%D8%A7%DB%8C%D8%B2-43-%D8%A7%DB%8C%D9%86%DA%86",
+    "image": "",
+    "sourceId": "technolife-multimedia",
+    "sourceUrl": "https://www.technolife.com/category/multimedia",
+    "source": "web-catalog:technolife-multimedia",
+    "observedAt": "2026-09-01T10:33:40.051Z"
+  },
+  {
+    "id": "web-audio-video-5e27802d2f4bbed7",
+    "productId": "web-audio-video-5e27802d2f4bbed7",
+    "name": "تلویزیون سونی LED سایز 65 اینچ مدل KD-65X85L",
+    "brand": "دل",
+    "model": "تلویزیون سونی LED سایز 65 اینچ مدل KD-65X85L",
+    "category": "audio-video",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-47975/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-%D8%B3%D9%88%D9%86%DB%8C-led-%D8%B3%D8%A7%DB%8C%D8%B2-65-%D8%A7%DB%8C%D9%86%DA%86-%D9%85%D8%AF%D9%84-kd-65x85l",
+    "image": "",
+    "sourceId": "technolife-multimedia",
+    "sourceUrl": "https://www.technolife.com/category/multimedia",
+    "source": "web-catalog:technolife-multimedia",
+    "observedAt": "2026-09-01T10:33:40.051Z"
+  },
+  {
+    "id": "web-audio-video-509f23a86bee738e",
+    "productId": "web-audio-video-509f23a86bee738e",
+    "name": "اسپیکر بلوتوثی انکر مدل SoundCore Select 3",
+    "brand": "دل",
+    "model": "اسپیکر بلوتوثی انکر مدل SoundCore Select 3",
+    "category": "audio-video",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-179585/%D8%A7%D8%B3%D9%BE%DB%8C%DA%A9%D8%B1-%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB%DB%8C-%D8%A7%D9%86%DA%A9%D8%B1-%D9%85%D8%AF%D9%84-soundcore-select-3",
+    "image": "",
+    "sourceId": "technolife-multimedia",
+    "sourceUrl": "https://www.technolife.com/category/multimedia",
+    "source": "web-catalog:technolife-multimedia",
+    "observedAt": "2026-09-01T10:33:40.051Z"
   },
   {
     "id": "web-audio-video-5699e9a576ce59d0",
@@ -7427,7 +6441,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-multimedia",
     "sourceUrl": "https://www.technolife.com/category/multimedia",
     "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-01T05:07:21.288Z"
+    "observedAt": "2026-09-01T10:33:40.051Z"
   },
   {
     "id": "web-audio-video-1ee38f9411543549",
@@ -7444,7 +6458,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-multimedia",
     "sourceUrl": "https://www.technolife.com/category/multimedia",
     "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-01T05:07:21.288Z"
+    "observedAt": "2026-09-01T10:33:40.051Z"
   },
   {
     "id": "web-audio-video-b1f5cfa1fe12762c",
@@ -7461,7 +6475,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-multimedia",
     "sourceUrl": "https://www.technolife.com/category/multimedia",
     "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-01T05:07:21.288Z"
+    "observedAt": "2026-09-01T10:33:40.052Z"
   },
   {
     "id": "web-audio-video-d87636424728846c",
@@ -7478,7 +6492,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-multimedia",
     "sourceUrl": "https://www.technolife.com/category/multimedia",
     "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-01T05:07:21.288Z"
+    "observedAt": "2026-09-01T10:33:40.052Z"
   },
   {
     "id": "web-audio-video-b05d64cfdc843fd7",
@@ -7495,7 +6509,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-multimedia",
     "sourceUrl": "https://www.technolife.com/category/multimedia",
     "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-01T05:07:21.288Z"
+    "observedAt": "2026-09-01T10:33:40.052Z"
   },
   {
     "id": "web-beauty-health-5f64bf6c5bfde37e",
@@ -7512,7 +6526,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-health-beauty",
     "sourceUrl": "https://www.technolife.com/category/health-beauty",
     "source": "web-catalog:technolife-health-beauty",
-    "observedAt": "2026-09-01T05:07:47.590Z"
+    "observedAt": "2026-09-01T10:34:03.303Z"
   },
   {
     "id": "web-beauty-health-0ac35e853752fe43",
@@ -7529,7 +6543,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-health-beauty",
     "sourceUrl": "https://www.technolife.com/category/health-beauty",
     "source": "web-catalog:technolife-health-beauty",
-    "observedAt": "2026-09-01T05:07:47.590Z"
+    "observedAt": "2026-09-01T10:34:03.303Z"
   },
   {
     "id": "web-beauty-health-5d1c621db077c8e1",
@@ -7546,7 +6560,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-health-beauty",
     "sourceUrl": "https://www.technolife.com/category/health-beauty",
     "source": "web-catalog:technolife-health-beauty",
-    "observedAt": "2026-09-01T05:07:47.590Z"
+    "observedAt": "2026-09-01T10:34:03.303Z"
   },
   {
     "id": "web-beauty-health-7a918870dab5ec9d",
@@ -7563,7 +6577,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-health-beauty",
     "sourceUrl": "https://www.technolife.com/category/health-beauty",
     "source": "web-catalog:technolife-health-beauty",
-    "observedAt": "2026-09-01T05:07:47.590Z"
+    "observedAt": "2026-09-01T10:34:03.303Z"
   },
   {
     "id": "web-beauty-health-de1f31a62565a6c4",
@@ -7580,7 +6594,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-health-beauty",
     "sourceUrl": "https://www.technolife.com/category/health-beauty",
     "source": "web-catalog:technolife-health-beauty",
-    "observedAt": "2026-09-01T05:07:47.590Z"
+    "observedAt": "2026-09-01T10:34:03.303Z"
   },
   {
     "id": "web-beauty-health-ad7b64176cfcef27",
@@ -7597,7 +6611,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-health-beauty",
     "sourceUrl": "https://www.technolife.com/category/health-beauty",
     "source": "web-catalog:technolife-health-beauty",
-    "observedAt": "2026-09-01T05:07:47.590Z"
+    "observedAt": "2026-09-01T10:34:03.303Z"
   },
   {
     "id": "web-beauty-health-1c387f07025d43c8",
@@ -7614,7 +6628,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-health-beauty",
     "sourceUrl": "https://www.technolife.com/category/health-beauty",
     "source": "web-catalog:technolife-health-beauty",
-    "observedAt": "2026-09-01T05:07:47.590Z"
+    "observedAt": "2026-09-01T10:34:03.303Z"
   },
   {
     "id": "web-beauty-health-94069e067b57d1cd",
@@ -7631,7 +6645,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-health-beauty",
     "sourceUrl": "https://www.technolife.com/category/health-beauty",
     "source": "web-catalog:technolife-health-beauty",
-    "observedAt": "2026-09-01T05:07:47.590Z"
+    "observedAt": "2026-09-01T10:34:03.303Z"
   },
   {
     "id": "web-beauty-health-e78a20f67cd621aa",
@@ -7648,7 +6662,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-health-beauty",
     "sourceUrl": "https://www.technolife.com/category/health-beauty",
     "source": "web-catalog:technolife-health-beauty",
-    "observedAt": "2026-09-01T05:07:47.590Z"
+    "observedAt": "2026-09-01T10:34:03.303Z"
   },
   {
     "id": "web-beauty-health-7b06b2fe7261579d",
@@ -7665,7 +6679,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-health-beauty",
     "sourceUrl": "https://www.technolife.com/category/health-beauty",
     "source": "web-catalog:technolife-health-beauty",
-    "observedAt": "2026-09-01T05:07:47.590Z"
+    "observedAt": "2026-09-01T10:34:03.303Z"
   },
   {
     "id": "web-beauty-health-1ee45c4eb6ce0145",
@@ -7682,7 +6696,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-health-beauty",
     "sourceUrl": "https://www.technolife.com/category/health-beauty",
     "source": "web-catalog:technolife-health-beauty",
-    "observedAt": "2026-09-01T05:07:47.590Z"
+    "observedAt": "2026-09-01T10:34:03.303Z"
   },
   {
     "id": "web-beauty-health-ffa9c082a67dd302",
@@ -7699,7 +6713,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-health-beauty",
     "sourceUrl": "https://www.technolife.com/category/health-beauty",
     "source": "web-catalog:technolife-health-beauty",
-    "observedAt": "2026-09-01T05:07:47.590Z"
+    "observedAt": "2026-09-01T10:34:03.304Z"
   },
   {
     "id": "web-beauty-health-2a03f258abee4d1a",
@@ -7716,7 +6730,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-health-beauty",
     "sourceUrl": "https://www.technolife.com/category/health-beauty",
     "source": "web-catalog:technolife-health-beauty",
-    "observedAt": "2026-09-01T05:07:47.590Z"
+    "observedAt": "2026-09-01T10:34:03.304Z"
   },
   {
     "id": "web-beauty-health-904c22c6b8cc9fa3",
@@ -7733,7 +6747,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-health-beauty",
     "sourceUrl": "https://www.technolife.com/category/health-beauty",
     "source": "web-catalog:technolife-health-beauty",
-    "observedAt": "2026-09-01T05:07:47.590Z"
+    "observedAt": "2026-09-01T10:34:03.304Z"
   },
   {
     "id": "web-beauty-health-de052161c6e79dfe",
@@ -7750,7 +6764,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-health-beauty",
     "sourceUrl": "https://www.technolife.com/category/health-beauty",
     "source": "web-catalog:technolife-health-beauty",
-    "observedAt": "2026-09-01T05:07:47.591Z"
+    "observedAt": "2026-09-01T10:34:03.304Z"
   },
   {
     "id": "web-beauty-health-9f69d36dd8509d70",
@@ -7767,7 +6781,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-health-beauty",
     "sourceUrl": "https://www.technolife.com/category/health-beauty",
     "source": "web-catalog:technolife-health-beauty",
-    "observedAt": "2026-09-01T05:07:47.591Z"
+    "observedAt": "2026-09-01T10:34:03.304Z"
   },
   {
     "id": "web-beauty-health-8c5ed00b55ad2833",
@@ -7784,7 +6798,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-health-beauty",
     "sourceUrl": "https://www.technolife.com/category/health-beauty",
     "source": "web-catalog:technolife-health-beauty",
-    "observedAt": "2026-09-01T05:07:47.591Z"
+    "observedAt": "2026-09-01T10:34:03.304Z"
   },
   {
     "id": "web-beauty-health-6e277605546151a1",
@@ -7801,7 +6815,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-health-beauty",
     "sourceUrl": "https://www.technolife.com/category/health-beauty",
     "source": "web-catalog:technolife-health-beauty",
-    "observedAt": "2026-09-01T05:07:47.591Z"
+    "observedAt": "2026-09-01T10:34:03.304Z"
   },
   {
     "id": "web-beauty-health-c35ac55ca9066ad7",
@@ -7818,7 +6832,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-health-beauty",
     "sourceUrl": "https://www.technolife.com/category/health-beauty",
     "source": "web-catalog:technolife-health-beauty",
-    "observedAt": "2026-09-01T05:07:47.591Z"
+    "observedAt": "2026-09-01T10:34:03.304Z"
   },
   {
     "id": "web-beauty-health-988a5739d29e1bdd",
@@ -7835,7 +6849,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-health-beauty",
     "sourceUrl": "https://www.technolife.com/category/health-beauty",
     "source": "web-catalog:technolife-health-beauty",
-    "observedAt": "2026-09-01T05:07:47.591Z"
+    "observedAt": "2026-09-01T10:34:03.304Z"
   },
   {
     "id": "web-beauty-health-6961002765d99b3b",
@@ -7852,7 +6866,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-health-beauty",
     "sourceUrl": "https://www.technolife.com/category/health-beauty",
     "source": "web-catalog:technolife-health-beauty",
-    "observedAt": "2026-09-01T05:07:47.591Z"
+    "observedAt": "2026-09-01T10:34:03.304Z"
   },
   {
     "id": "web-beauty-health-80a6d38b8a04a187",
@@ -7869,7 +6883,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-health-beauty",
     "sourceUrl": "https://www.technolife.com/category/health-beauty",
     "source": "web-catalog:technolife-health-beauty",
-    "observedAt": "2026-09-01T05:07:47.591Z"
+    "observedAt": "2026-09-01T10:34:03.304Z"
   },
   {
     "id": "web-beauty-health-417e9ebae657d505",
@@ -7886,7 +6900,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-health-beauty",
     "sourceUrl": "https://www.technolife.com/category/health-beauty",
     "source": "web-catalog:technolife-health-beauty",
-    "observedAt": "2026-09-01T05:07:47.591Z"
+    "observedAt": "2026-09-01T10:34:03.304Z"
   },
   {
     "id": "web-beauty-health-03d03b80214006d9",
@@ -7903,7 +6917,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-health-beauty",
     "sourceUrl": "https://www.technolife.com/category/health-beauty",
     "source": "web-catalog:technolife-health-beauty",
-    "observedAt": "2026-09-01T05:07:47.591Z"
+    "observedAt": "2026-09-01T10:34:03.304Z"
   },
   {
     "id": "web-beauty-health-4917ec07693ca445",
@@ -7920,7 +6934,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-health-beauty",
     "sourceUrl": "https://www.technolife.com/category/health-beauty",
     "source": "web-catalog:technolife-health-beauty",
-    "observedAt": "2026-09-01T05:07:47.591Z"
+    "observedAt": "2026-09-01T10:34:03.304Z"
   },
   {
     "id": "web-beauty-health-1d5fad90fd055f43",
@@ -7937,7 +6951,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-health-beauty",
     "sourceUrl": "https://www.technolife.com/category/health-beauty",
     "source": "web-catalog:technolife-health-beauty",
-    "observedAt": "2026-09-01T05:07:47.591Z"
+    "observedAt": "2026-09-01T10:34:03.304Z"
   },
   {
     "id": "web-beauty-health-e171692ca4eb5b18",
@@ -7954,7 +6968,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-health-beauty",
     "sourceUrl": "https://www.technolife.com/category/health-beauty",
     "source": "web-catalog:technolife-health-beauty",
-    "observedAt": "2026-09-01T05:07:47.591Z"
+    "observedAt": "2026-09-01T10:34:03.304Z"
   },
   {
     "id": "web-beauty-health-1cc9fa81005cbf50",
@@ -7971,7 +6985,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-health-beauty",
     "sourceUrl": "https://www.technolife.com/category/health-beauty",
     "source": "web-catalog:technolife-health-beauty",
-    "observedAt": "2026-09-01T05:07:47.591Z"
+    "observedAt": "2026-09-01T10:34:03.304Z"
   },
   {
     "id": "web-beauty-health-a69e8592ac6debd8",
@@ -7988,7 +7002,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-health-beauty",
     "sourceUrl": "https://www.technolife.com/category/health-beauty",
     "source": "web-catalog:technolife-health-beauty",
-    "observedAt": "2026-09-01T05:07:47.591Z"
+    "observedAt": "2026-09-01T10:34:03.304Z"
   },
   {
     "id": "web-beauty-health-14c42ba240ca0ff2",
@@ -8005,7 +7019,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-health-beauty",
     "sourceUrl": "https://www.technolife.com/category/health-beauty",
     "source": "web-catalog:technolife-health-beauty",
-    "observedAt": "2026-09-01T05:07:47.591Z"
+    "observedAt": "2026-09-01T10:34:03.304Z"
   },
   {
     "id": "web-beauty-health-4e4bbc77fd923c06",
@@ -8022,7 +7036,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-health-beauty",
     "sourceUrl": "https://www.technolife.com/category/health-beauty",
     "source": "web-catalog:technolife-health-beauty",
-    "observedAt": "2026-09-01T05:07:47.591Z"
+    "observedAt": "2026-09-01T10:34:03.304Z"
   },
   {
     "id": "web-sports-travel-501bb145de157843",
@@ -8039,7 +7053,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-01T05:08:31.795Z"
+    "observedAt": "2026-09-01T10:35:00.249Z"
   },
   {
     "id": "web-sports-travel-10bfecfa891d981c",
@@ -8056,7 +7070,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-01T05:08:31.795Z"
+    "observedAt": "2026-09-01T10:35:00.249Z"
   },
   {
     "id": "web-sports-travel-82c69780733de8d8",
@@ -8073,7 +7087,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-01T05:08:31.795Z"
+    "observedAt": "2026-09-01T10:35:00.249Z"
   },
   {
     "id": "web-sports-travel-ec3a6b4a75fcd4b0",
@@ -8090,7 +7104,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-01T05:08:31.795Z"
+    "observedAt": "2026-09-01T10:35:00.250Z"
   },
   {
     "id": "web-sports-travel-9356245ebe75164b",
@@ -8107,7 +7121,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-01T05:08:31.795Z"
+    "observedAt": "2026-09-01T10:35:00.250Z"
   },
   {
     "id": "web-sports-travel-63f3178e41f8ba21",
@@ -8124,7 +7138,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-01T05:08:31.795Z"
+    "observedAt": "2026-09-01T10:35:00.250Z"
   },
   {
     "id": "web-sports-travel-1eecbd80f5ab7f03",
@@ -8141,7 +7155,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-01T05:08:31.795Z"
+    "observedAt": "2026-09-01T10:35:00.250Z"
   },
   {
     "id": "web-sports-travel-d325eedb66c735ad",
@@ -8158,7 +7172,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-01T05:08:31.795Z"
+    "observedAt": "2026-09-01T10:35:00.250Z"
   },
   {
     "id": "web-sports-travel-6aa138a88eb5fc41",
@@ -8175,7 +7189,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-01T05:08:31.795Z"
+    "observedAt": "2026-09-01T10:35:00.250Z"
   },
   {
     "id": "web-sports-travel-397a8b5a4aef6864",
@@ -8192,7 +7206,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-01T05:08:31.795Z"
+    "observedAt": "2026-09-01T10:35:00.250Z"
   },
   {
     "id": "web-sports-travel-85c06676ecfb1f5a",
@@ -8209,7 +7223,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-01T05:08:31.795Z"
+    "observedAt": "2026-09-01T10:35:00.250Z"
   },
   {
     "id": "web-sports-travel-c3ca31dab42021aa",
@@ -8226,7 +7240,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-01T05:08:31.795Z"
+    "observedAt": "2026-09-01T10:35:00.250Z"
   },
   {
     "id": "web-sports-travel-d28079a836f6bd58",
@@ -8243,7 +7257,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-01T05:08:31.795Z"
+    "observedAt": "2026-09-01T10:35:00.251Z"
   },
   {
     "id": "web-sports-travel-57ebcd92145529f5",
@@ -8260,7 +7274,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-01T05:08:31.795Z"
+    "observedAt": "2026-09-01T10:35:00.251Z"
   },
   {
     "id": "web-sports-travel-02a207d14ad563ab",
@@ -8277,7 +7291,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-01T05:08:31.795Z"
+    "observedAt": "2026-09-01T10:35:00.251Z"
   },
   {
     "id": "web-sports-travel-b82b70bb75d57dd9",
@@ -8294,7 +7308,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-01T05:08:31.795Z"
+    "observedAt": "2026-09-01T10:35:00.251Z"
   },
   {
     "id": "web-sports-travel-76cfec8539f3a918",
@@ -8311,7 +7325,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-01T05:08:31.796Z"
+    "observedAt": "2026-09-01T10:35:00.251Z"
   },
   {
     "id": "web-sports-travel-10684287a122dcf4",
@@ -8328,7 +7342,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-01T05:08:31.796Z"
+    "observedAt": "2026-09-01T10:35:00.251Z"
   },
   {
     "id": "web-sports-travel-9589776b61338c3b",
@@ -8345,7 +7359,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-01T05:08:31.796Z"
+    "observedAt": "2026-09-01T10:35:00.251Z"
   },
   {
     "id": "web-sports-travel-49bf25b41e3cebb1",
@@ -8362,7 +7376,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-01T05:08:31.796Z"
+    "observedAt": "2026-09-01T10:35:00.252Z"
   },
   {
     "id": "web-sports-travel-ad1f430d9ca7b1db",
@@ -8379,7 +7393,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-01T05:08:31.796Z"
+    "observedAt": "2026-09-01T10:35:00.252Z"
   },
   {
     "id": "web-sports-travel-5958f36dec07d9ce",
@@ -8396,7 +7410,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-01T05:08:31.796Z"
+    "observedAt": "2026-09-01T10:35:00.252Z"
   },
   {
     "id": "web-sports-travel-97cffa853e0ca5ae",
@@ -8413,7 +7427,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-01T05:08:31.796Z"
+    "observedAt": "2026-09-01T10:35:00.252Z"
   },
   {
     "id": "web-sports-travel-9bc9e6144cc223c9",
@@ -8430,7 +7444,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-01T05:08:31.796Z"
+    "observedAt": "2026-09-01T10:35:00.253Z"
   },
   {
     "id": "web-sports-travel-cd66fc09da2a7672",
@@ -8447,7 +7461,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-01T05:08:31.796Z"
+    "observedAt": "2026-09-01T10:35:00.253Z"
   },
   {
     "id": "web-sports-travel-8307536693bb0fb9",
@@ -8464,7 +7478,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-01T05:08:31.796Z"
+    "observedAt": "2026-09-01T10:35:00.253Z"
   },
   {
     "id": "web-sports-travel-a61a128a84592156",
@@ -8481,7 +7495,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-01T05:08:31.796Z"
+    "observedAt": "2026-09-01T10:35:00.253Z"
   },
   {
     "id": "web-sports-travel-063a32eada370900",
@@ -8498,7 +7512,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-01T05:08:31.796Z"
+    "observedAt": "2026-09-01T10:35:00.253Z"
   },
   {
     "id": "web-sports-travel-30bd5cb9cd523a7c",
@@ -8515,7 +7529,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-01T05:08:31.796Z"
+    "observedAt": "2026-09-01T10:35:00.253Z"
   },
   {
     "id": "web-sports-travel-9c76b834c281bd5b",
@@ -8532,7 +7546,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-01T05:08:31.796Z"
+    "observedAt": "2026-09-01T10:35:00.253Z"
   },
   {
     "id": "web-sports-travel-b3dfedd3b869243b",
@@ -8549,24 +7563,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-01T05:08:31.797Z"
-  },
-  {
-    "id": "web-tools-industrial-af6e4fcbc4d32bcd",
-    "productId": "web-tools-industrial-af6e4fcbc4d32bcd",
-    "name": "دریل چکشی رونیکس 13 میلی‌ متر 750 وات مدل 2260",
-    "brand": "دل",
-    "model": "دریل چکشی رونیکس 13 میلی‌ متر 750 وات مدل 2260",
-    "category": "tools-industrial",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-41868/%D8%AF%D8%B1%DB%8C%D9%84-%DA%86%DA%A9%D8%B4%DB%8C-%D8%B1%D9%88%D9%86%DB%8C%DA%A9%D8%B3-13-%D9%85%DB%8C%D9%84%DB%8C%E2%80%8C-%D9%85%D8%AA%D8%B1-750-%D9%88%D8%A7%D8%AA-%D9%85%D8%AF%D9%84-2260",
-    "image": "",
-    "sourceId": "technolife-tools",
-    "sourceUrl": "https://www.technolife.com/category/tools",
-    "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-01T05:08:50.660Z"
+    "observedAt": "2026-09-01T10:35:00.253Z"
   },
   {
     "id": "web-tools-industrial-b6e21d47c4352f66",
@@ -8583,7 +7580,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-01T05:08:50.660Z"
+    "observedAt": "2026-09-01T10:35:22.455Z"
   },
   {
     "id": "web-tools-industrial-2ecc2b96704d5873",
@@ -8600,7 +7597,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-01T05:08:50.660Z"
+    "observedAt": "2026-09-01T10:35:22.455Z"
   },
   {
     "id": "web-tools-industrial-184ee1b4a070c75c",
@@ -8617,7 +7614,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-01T05:08:50.660Z"
+    "observedAt": "2026-09-01T10:35:22.455Z"
   },
   {
     "id": "web-tools-industrial-fb0ee332d78384ef",
@@ -8634,7 +7631,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-01T05:08:50.660Z"
+    "observedAt": "2026-09-01T10:35:22.455Z"
   },
   {
     "id": "web-tools-industrial-596c2272ae36f68a",
@@ -8651,7 +7648,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-01T05:08:50.660Z"
+    "observedAt": "2026-09-01T10:35:22.455Z"
   },
   {
     "id": "web-tools-industrial-d677728b78405be3",
@@ -8668,7 +7665,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-01T05:08:50.660Z"
+    "observedAt": "2026-09-01T10:35:22.455Z"
   },
   {
     "id": "web-tools-industrial-739452393cf8f453",
@@ -8685,7 +7682,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-01T05:08:50.660Z"
+    "observedAt": "2026-09-01T10:35:22.455Z"
   },
   {
     "id": "web-tools-industrial-d02958127f3682d6",
@@ -8702,7 +7699,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-01T05:08:50.660Z"
+    "observedAt": "2026-09-01T10:35:22.455Z"
   },
   {
     "id": "web-tools-industrial-09a686b8631c0209",
@@ -8719,7 +7716,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-01T05:08:50.660Z"
+    "observedAt": "2026-09-01T10:35:22.455Z"
   },
   {
     "id": "web-tools-industrial-4746121cf2fe4500",
@@ -8736,7 +7733,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-01T05:08:50.660Z"
+    "observedAt": "2026-09-01T10:35:22.455Z"
   },
   {
     "id": "web-tools-industrial-55a605032bc8fb0a",
@@ -8753,7 +7750,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-01T05:08:50.660Z"
+    "observedAt": "2026-09-01T10:35:22.455Z"
   },
   {
     "id": "web-tools-industrial-f385520070afef67",
@@ -8770,7 +7767,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-01T05:08:50.660Z"
+    "observedAt": "2026-09-01T10:35:22.455Z"
   },
   {
     "id": "web-tools-industrial-e0c58b65898152e5",
@@ -8787,7 +7784,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-01T05:08:50.661Z"
+    "observedAt": "2026-09-01T10:35:22.455Z"
   },
   {
     "id": "web-tools-industrial-f4bc1c5ee1343061",
@@ -8804,7 +7801,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-01T05:08:50.661Z"
+    "observedAt": "2026-09-01T10:35:22.455Z"
   },
   {
     "id": "web-tools-industrial-ec0bf8934cc3b1df",
@@ -8821,7 +7818,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-01T05:08:50.661Z"
+    "observedAt": "2026-09-01T10:35:22.455Z"
   },
   {
     "id": "web-tools-industrial-a3ff6ee5a2c351ad",
@@ -8838,7 +7835,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-01T05:08:50.661Z"
+    "observedAt": "2026-09-01T10:35:22.455Z"
   },
   {
     "id": "web-tools-industrial-6f826e3762f99fed",
@@ -8855,7 +7852,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-01T05:08:50.661Z"
+    "observedAt": "2026-09-01T10:35:22.455Z"
   },
   {
     "id": "web-tools-industrial-941be01a51dcdcfc",
@@ -8872,7 +7869,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-01T05:08:50.661Z"
+    "observedAt": "2026-09-01T10:35:22.455Z"
   },
   {
     "id": "web-tools-industrial-061c31bb04cb39c3",
@@ -8889,58 +7886,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-01T05:08:50.661Z"
-  },
-  {
-    "id": "web-tools-industrial-0d7255d392029871",
-    "productId": "web-tools-industrial-0d7255d392029871",
-    "name": "فازمتر رونیکس مدل RH-2714",
-    "brand": "دل",
-    "model": "فازمتر رونیکس مدل RH-2714",
-    "category": "tools-industrial",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-41957/%D9%81%D8%A7%D8%B2%D9%85%D8%AA%D8%B1-%D8%B1%D9%88%D9%86%DB%8C%DA%A9%D8%B3-%D9%85%D8%AF%D9%84-rh-2714",
-    "image": "",
-    "sourceId": "technolife-tools",
-    "sourceUrl": "https://www.technolife.com/category/tools",
-    "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-01T05:08:50.661Z"
-  },
-  {
-    "id": "web-tools-industrial-bdb5c416bba8b7e9",
-    "productId": "web-tools-industrial-bdb5c416bba8b7e9",
-    "name": "کاتر 18 میلی متری رونیکس مدل RH-3007",
-    "brand": "دل",
-    "model": "کاتر 18 میلی متری رونیکس مدل RH-3007",
-    "category": "tools-industrial",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-41604/%DA%A9%D8%A7%D8%AA%D8%B1-18-%D9%85%DB%8C%D9%84%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C-%D8%B1%D9%88%D9%86%DB%8C%DA%A9%D8%B3-%D9%85%D8%AF%D9%84-rh-3007",
-    "image": "",
-    "sourceId": "technolife-tools",
-    "sourceUrl": "https://www.technolife.com/category/tools",
-    "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-01T05:08:50.661Z"
-  },
-  {
-    "id": "web-tools-industrial-b87cacae78e233a4",
-    "productId": "web-tools-industrial-b87cacae78e233a4",
-    "name": "روغن دان رونیکس مدل RH-4331",
-    "brand": "دل",
-    "model": "روغن دان رونیکس مدل RH-4331",
-    "category": "tools-industrial",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-274438/%D8%B1%D9%88%D8%BA%D9%86-%D8%AF%D8%A7%D9%86-%D8%B1%D9%88%D9%86%DB%8C%DA%A9%D8%B3-%D9%85%D8%AF%D9%84-rh-4331",
-    "image": "",
-    "sourceId": "technolife-tools",
-    "sourceUrl": "https://www.technolife.com/category/tools",
-    "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-01T05:08:50.661Z"
+    "observedAt": "2026-09-01T10:35:22.455Z"
   },
   {
     "id": "web-tools-industrial-fedff538d07264d9",
@@ -8957,7 +7903,58 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-01T05:08:50.661Z"
+    "observedAt": "2026-09-01T10:35:22.455Z"
+  },
+  {
+    "id": "web-tools-industrial-0d7255d392029871",
+    "productId": "web-tools-industrial-0d7255d392029871",
+    "name": "فازمتر رونیکس مدل RH-2714",
+    "brand": "دل",
+    "model": "فازمتر رونیکس مدل RH-2714",
+    "category": "tools-industrial",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-41957/%D9%81%D8%A7%D8%B2%D9%85%D8%AA%D8%B1-%D8%B1%D9%88%D9%86%DB%8C%DA%A9%D8%B3-%D9%85%D8%AF%D9%84-rh-2714",
+    "image": "",
+    "sourceId": "technolife-tools",
+    "sourceUrl": "https://www.technolife.com/category/tools",
+    "source": "web-catalog:technolife-tools",
+    "observedAt": "2026-09-01T10:35:22.455Z"
+  },
+  {
+    "id": "web-tools-industrial-bdb5c416bba8b7e9",
+    "productId": "web-tools-industrial-bdb5c416bba8b7e9",
+    "name": "کاتر 18 میلی متری رونیکس مدل RH-3007",
+    "brand": "دل",
+    "model": "کاتر 18 میلی متری رونیکس مدل RH-3007",
+    "category": "tools-industrial",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-41604/%DA%A9%D8%A7%D8%AA%D8%B1-18-%D9%85%DB%8C%D9%84%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C-%D8%B1%D9%88%D9%86%DB%8C%DA%A9%D8%B3-%D9%85%D8%AF%D9%84-rh-3007",
+    "image": "",
+    "sourceId": "technolife-tools",
+    "sourceUrl": "https://www.technolife.com/category/tools",
+    "source": "web-catalog:technolife-tools",
+    "observedAt": "2026-09-01T10:35:22.455Z"
+  },
+  {
+    "id": "web-tools-industrial-b87cacae78e233a4",
+    "productId": "web-tools-industrial-b87cacae78e233a4",
+    "name": "روغن دان رونیکس مدل RH-4331",
+    "brand": "دل",
+    "model": "روغن دان رونیکس مدل RH-4331",
+    "category": "tools-industrial",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-274438/%D8%B1%D9%88%D8%BA%D9%86-%D8%AF%D8%A7%D9%86-%D8%B1%D9%88%D9%86%DB%8C%DA%A9%D8%B3-%D9%85%D8%AF%D9%84-rh-4331",
+    "image": "",
+    "sourceId": "technolife-tools",
+    "sourceUrl": "https://www.technolife.com/category/tools",
+    "source": "web-catalog:technolife-tools",
+    "observedAt": "2026-09-01T10:35:22.455Z"
   },
   {
     "id": "web-tools-industrial-606a68a83f4e1901",
@@ -8974,7 +7971,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-01T05:08:50.661Z"
+    "observedAt": "2026-09-01T10:35:22.455Z"
   },
   {
     "id": "web-tools-industrial-785bffc397374771",
@@ -8991,7 +7988,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-01T05:08:50.661Z"
+    "observedAt": "2026-09-01T10:35:22.455Z"
   },
   {
     "id": "web-tools-industrial-a577eff03911337c",
@@ -9008,7 +8005,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-01T05:08:50.661Z"
+    "observedAt": "2026-09-01T10:35:22.455Z"
   },
   {
     "id": "web-tools-industrial-e07b91ccc42796da",
@@ -9025,7 +8022,41 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-01T05:08:50.661Z"
+    "observedAt": "2026-09-01T10:35:22.455Z"
+  },
+  {
+    "id": "web-tools-industrial-02bd37b199bf14f6",
+    "productId": "web-tools-industrial-02bd37b199bf14f6",
+    "name": "الماس شیشه بر رونیکس مدل RON-3400",
+    "brand": "دل",
+    "model": "الماس شیشه بر رونیکس مدل RON-3400",
+    "category": "tools-industrial",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-239308/%D8%A7%D9%84%D9%85%D8%A7%D8%B3-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A8%D8%B1-%D8%B1%D9%88%D9%86%DB%8C%DA%A9%D8%B3-%D9%85%D8%AF%D9%84-ron-3400",
+    "image": "",
+    "sourceId": "technolife-tools",
+    "sourceUrl": "https://www.technolife.com/category/tools",
+    "source": "web-catalog:technolife-tools",
+    "observedAt": "2026-09-01T10:35:22.455Z"
+  },
+  {
+    "id": "web-tools-industrial-37acb9798dfe1b59",
+    "productId": "web-tools-industrial-37acb9798dfe1b59",
+    "name": "دریل پیچ گوشتی شارژی ویوارکس مدل VR12V-2A مجموعه 28 عددی",
+    "brand": "دل",
+    "model": "دریل پیچ گوشتی شارژی ویوارکس مدل VR12V-2A مجموعه 28 عددی",
+    "category": "tools-industrial",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-165576/%D8%AF%D8%B1%DB%8C%D9%84-%D9%BE%DB%8C%DA%86-%DA%AF%D9%88%D8%B4%D8%AA%DB%8C-%D8%B4%D8%A7%D8%B1%DA%98%DB%8C-%D9%88%DB%8C%D9%88%D8%A7%D8%B1%DA%A9%D8%B3-%D9%85%D8%AF%D9%84-vr12v-2a-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-28-%D8%B9%D8%AF%D8%AF%DB%8C",
+    "image": "",
+    "sourceId": "technolife-tools",
+    "sourceUrl": "https://www.technolife.com/category/tools",
+    "source": "web-catalog:technolife-tools",
+    "observedAt": "2026-09-01T10:35:22.456Z"
   },
   {
     "id": "web-tools-industrial-3b858eee4b638704",
@@ -9042,24 +8073,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-01T05:08:50.661Z"
-  },
-  {
-    "id": "web-tools-industrial-264c9267645f030f",
-    "productId": "web-tools-industrial-264c9267645f030f",
-    "name": "دریل پیچ گوشتی شارژی ویوارکس مدل VR12V-1C",
-    "brand": "دل",
-    "model": "دریل پیچ گوشتی شارژی ویوارکس مدل VR12V-1C",
-    "category": "tools-industrial",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-392552/%D8%AF%D8%B1%DB%8C%D9%84-%D9%BE%DB%8C%DA%86-%DA%AF%D9%88%D8%B4%D8%AA%DB%8C-%D8%B4%D8%A7%D8%B1%DA%98%DB%8C-%D9%88%DB%8C%D9%88%D8%A7%D8%B1%DA%A9%D8%B3-%D9%85%D8%AF%D9%84-vr12v-1c",
-    "image": "",
-    "sourceId": "technolife-tools",
-    "sourceUrl": "https://www.technolife.com/category/tools",
-    "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-01T05:08:50.661Z"
+    "observedAt": "2026-09-01T10:35:22.456Z"
   },
   {
     "id": "web-tools-industrial-c7fe73d9ee06f042",
@@ -9076,7 +8090,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-01T05:08:50.661Z"
+    "observedAt": "2026-09-01T10:35:22.456Z"
   },
   {
     "id": "web-books-stationery-75eb2e48a56995e6",
@@ -9093,7 +8107,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-stationery",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
     "source": "web-catalog:technolife-stationery",
-    "observedAt": "2026-09-01T05:09:15.166Z"
+    "observedAt": "2026-09-01T10:35:51.004Z"
   },
   {
     "id": "web-books-stationery-db44ea6be1653aa5",
@@ -9110,7 +8124,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-stationery",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
     "source": "web-catalog:technolife-stationery",
-    "observedAt": "2026-09-01T05:09:15.166Z"
+    "observedAt": "2026-09-01T10:35:51.004Z"
   },
   {
     "id": "web-books-stationery-bc76e6f01c931a37",
@@ -9127,7 +8141,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-stationery",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
     "source": "web-catalog:technolife-stationery",
-    "observedAt": "2026-09-01T05:09:15.166Z"
+    "observedAt": "2026-09-01T10:35:51.004Z"
   },
   {
     "id": "web-books-stationery-2ac3cc3d0c1e1e0a",
@@ -9144,7 +8158,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-stationery",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
     "source": "web-catalog:technolife-stationery",
-    "observedAt": "2026-09-01T05:09:15.166Z"
+    "observedAt": "2026-09-01T10:35:51.004Z"
   },
   {
     "id": "web-books-stationery-57cd01ce7a7f16f2",
@@ -9161,7 +8175,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-stationery",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
     "source": "web-catalog:technolife-stationery",
-    "observedAt": "2026-09-01T05:09:15.166Z"
+    "observedAt": "2026-09-01T10:35:51.004Z"
   },
   {
     "id": "web-books-stationery-948da67aa8b1139b",
@@ -9178,7 +8192,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-stationery",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
     "source": "web-catalog:technolife-stationery",
-    "observedAt": "2026-09-01T05:09:15.166Z"
+    "observedAt": "2026-09-01T10:35:51.004Z"
   },
   {
     "id": "web-books-stationery-e3b7977a3c66749b",
@@ -9195,7 +8209,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-stationery",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
     "source": "web-catalog:technolife-stationery",
-    "observedAt": "2026-09-01T05:09:15.166Z"
+    "observedAt": "2026-09-01T10:35:51.004Z"
   },
   {
     "id": "web-books-stationery-049ff5a51528eb16",
@@ -9212,7 +8226,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-stationery",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
     "source": "web-catalog:technolife-stationery",
-    "observedAt": "2026-09-01T05:09:15.166Z"
+    "observedAt": "2026-09-01T10:35:51.004Z"
   },
   {
     "id": "web-books-stationery-fe6663608433cf5d",
@@ -9229,7 +8243,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-stationery",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
     "source": "web-catalog:technolife-stationery",
-    "observedAt": "2026-09-01T05:09:15.166Z"
+    "observedAt": "2026-09-01T10:35:51.004Z"
   },
   {
     "id": "web-books-stationery-7adc53ec8b4243f0",
@@ -9246,7 +8260,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-stationery",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
     "source": "web-catalog:technolife-stationery",
-    "observedAt": "2026-09-01T05:09:15.166Z"
+    "observedAt": "2026-09-01T10:35:51.004Z"
   },
   {
     "id": "web-books-stationery-b64615a5fe763d0f",
@@ -9263,7 +8277,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-stationery",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
     "source": "web-catalog:technolife-stationery",
-    "observedAt": "2026-09-01T05:09:15.166Z"
+    "observedAt": "2026-09-01T10:35:51.004Z"
   },
   {
     "id": "web-books-stationery-66e380c9b2c15754",
@@ -9280,7 +8294,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-stationery",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
     "source": "web-catalog:technolife-stationery",
-    "observedAt": "2026-09-01T05:09:15.166Z"
+    "observedAt": "2026-09-01T10:35:51.004Z"
   },
   {
     "id": "web-books-stationery-3cecfd3a14aab308",
@@ -9297,7 +8311,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-stationery",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
     "source": "web-catalog:technolife-stationery",
-    "observedAt": "2026-09-01T05:09:15.166Z"
+    "observedAt": "2026-09-01T10:35:51.004Z"
   },
   {
     "id": "web-books-stationery-8ff70aadb0a63d2e",
@@ -9314,7 +8328,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-stationery",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
     "source": "web-catalog:technolife-stationery",
-    "observedAt": "2026-09-01T05:09:15.166Z"
+    "observedAt": "2026-09-01T10:35:51.004Z"
   },
   {
     "id": "web-books-stationery-ab70efb39a94c1fa",
@@ -9331,7 +8345,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-stationery",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
     "source": "web-catalog:technolife-stationery",
-    "observedAt": "2026-09-01T05:09:15.166Z"
+    "observedAt": "2026-09-01T10:35:51.004Z"
   },
   {
     "id": "web-books-stationery-1941780373d5e045",
@@ -9348,7 +8362,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-stationery",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
     "source": "web-catalog:technolife-stationery",
-    "observedAt": "2026-09-01T05:09:15.166Z"
+    "observedAt": "2026-09-01T10:35:51.004Z"
   },
   {
     "id": "web-books-stationery-1aaa1dd02cc220ad",
@@ -9365,7 +8379,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-stationery",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
     "source": "web-catalog:technolife-stationery",
-    "observedAt": "2026-09-01T05:09:15.166Z"
+    "observedAt": "2026-09-01T10:35:51.004Z"
   },
   {
     "id": "web-books-stationery-a0d08340fd5ffb8b",
@@ -9382,7 +8396,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-stationery",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
     "source": "web-catalog:technolife-stationery",
-    "observedAt": "2026-09-01T05:09:15.166Z"
+    "observedAt": "2026-09-01T10:35:51.004Z"
   },
   {
     "id": "web-books-stationery-300ca4e5ac7fd1c3",
@@ -9399,7 +8413,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-stationery",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
     "source": "web-catalog:technolife-stationery",
-    "observedAt": "2026-09-01T05:09:15.166Z"
+    "observedAt": "2026-09-01T10:35:51.005Z"
   },
   {
     "id": "web-books-stationery-cea0e4ceceee9646",
@@ -9416,7 +8430,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-stationery",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
     "source": "web-catalog:technolife-stationery",
-    "observedAt": "2026-09-01T05:09:15.166Z"
+    "observedAt": "2026-09-01T10:35:51.005Z"
   },
   {
     "id": "web-books-stationery-71f92b627fef35ad",
@@ -9433,7 +8447,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-stationery",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
     "source": "web-catalog:technolife-stationery",
-    "observedAt": "2026-09-01T05:09:15.166Z"
+    "observedAt": "2026-09-01T10:35:51.005Z"
   },
   {
     "id": "web-books-stationery-f31fc8e12601a7ff",
@@ -9450,7 +8464,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-stationery",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
     "source": "web-catalog:technolife-stationery",
-    "observedAt": "2026-09-01T05:09:15.166Z"
+    "observedAt": "2026-09-01T10:35:51.005Z"
   },
   {
     "id": "web-books-stationery-4ce0ed23cc160ebd",
@@ -9467,7 +8481,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-stationery",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
     "source": "web-catalog:technolife-stationery",
-    "observedAt": "2026-09-01T05:09:15.167Z"
+    "observedAt": "2026-09-01T10:35:51.005Z"
   },
   {
     "id": "web-books-stationery-246b8fcfd1fd4d30",
@@ -9484,7 +8498,24 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-stationery",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
     "source": "web-catalog:technolife-stationery",
-    "observedAt": "2026-09-01T05:09:15.167Z"
+    "observedAt": "2026-09-01T10:35:51.005Z"
+  },
+  {
+    "id": "web-books-stationery-5d377006d6f2acf7",
+    "productId": "web-books-stationery-5d377006d6f2acf7",
+    "name": "چراغ مطالعه باسئوس مدل DGRAD-0G",
+    "brand": "دل",
+    "model": "چراغ مطالعه باسئوس مدل DGRAD-0G",
+    "category": "books-stationery",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-55635/%DA%86%D8%B1%D8%A7%D8%BA-%D9%85%D8%B7%D8%A7%D9%84%D8%B9%D9%87-%D8%A8%D8%A7%D8%B3%D8%A6%D9%88%D8%B3-%D9%85%D8%AF%D9%84-dgrad-0g",
+    "image": "",
+    "sourceId": "technolife-stationery",
+    "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
+    "source": "web-catalog:technolife-stationery",
+    "observedAt": "2026-09-01T10:35:51.005Z"
   },
   {
     "id": "web-books-stationery-5fd8c7d157bd8eb4",
@@ -9501,7 +8532,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-stationery",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
     "source": "web-catalog:technolife-stationery",
-    "observedAt": "2026-09-01T05:09:15.167Z"
+    "observedAt": "2026-09-01T10:35:51.005Z"
   },
   {
     "id": "web-books-stationery-86fbe430b1ba82b0",
@@ -9518,7 +8549,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-stationery",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
     "source": "web-catalog:technolife-stationery",
-    "observedAt": "2026-09-01T05:09:15.167Z"
+    "observedAt": "2026-09-01T10:35:51.005Z"
   },
   {
     "id": "web-books-stationery-dbf19360eb6c789d",
@@ -9535,7 +8566,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-stationery",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
     "source": "web-catalog:technolife-stationery",
-    "observedAt": "2026-09-01T05:09:15.167Z"
+    "observedAt": "2026-09-01T10:35:51.005Z"
   },
   {
     "id": "web-books-stationery-3a2bbe6550765862",
@@ -9552,7 +8583,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-stationery",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
     "source": "web-catalog:technolife-stationery",
-    "observedAt": "2026-09-01T05:09:15.167Z"
+    "observedAt": "2026-09-01T10:35:51.005Z"
   },
   {
     "id": "web-books-stationery-c4420c7698399acf",
@@ -9569,24 +8600,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-stationery",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
     "source": "web-catalog:technolife-stationery",
-    "observedAt": "2026-09-01T05:09:15.167Z"
-  },
-  {
-    "id": "web-books-stationery-a4df80a27a85a2eb",
-    "productId": "web-books-stationery-a4df80a27a85a2eb",
-    "name": "دفترچه ژورنال نویسی و یادداشت 80 برگ مدل GLOBE",
-    "brand": "دل",
-    "model": "دفترچه ژورنال نویسی و یادداشت 80 برگ مدل GLOBE",
-    "category": "books-stationery",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-301900/%D8%AF%D9%81%D8%AA%D8%B1%DA%86%D9%87-%DA%98%D9%88%D8%B1%D9%86%D8%A7%D9%84-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D9%88-%DB%8C%D8%A7%D8%AF%D8%AF%D8%A7%D8%B4%D8%AA-80-%D8%A8%D8%B1%DA%AF-%D9%85%D8%AF%D9%84-globe",
-    "image": "",
-    "sourceId": "technolife-stationery",
-    "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
-    "source": "web-catalog:technolife-stationery",
-    "observedAt": "2026-09-01T05:09:15.167Z"
+    "observedAt": "2026-09-01T10:35:51.005Z"
   },
   {
     "id": "web-books-stationery-e32e5b87e11bf52d",
@@ -9603,7 +8617,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-stationery",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
     "source": "web-catalog:technolife-stationery",
-    "observedAt": "2026-09-01T05:09:15.167Z"
+    "observedAt": "2026-09-01T10:35:51.005Z"
   },
   {
     "id": "web-books-stationery-45a32a6a31d24b41",
@@ -9620,7 +8634,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-writing",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery/writing-supplies",
     "source": "web-catalog:technolife-writing",
-    "observedAt": "2026-09-01T05:09:31.157Z"
+    "observedAt": "2026-09-01T10:36:08.812Z"
   },
   {
     "id": "web-books-stationery-6ccc6dd324fa1935",
@@ -9637,7 +8651,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-writing",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery/writing-supplies",
     "source": "web-catalog:technolife-writing",
-    "observedAt": "2026-09-01T05:09:31.157Z"
+    "observedAt": "2026-09-01T10:36:08.812Z"
   },
   {
     "id": "web-books-stationery-17080a0bf1149021",
@@ -9654,7 +8668,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-writing",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery/writing-supplies",
     "source": "web-catalog:technolife-writing",
-    "observedAt": "2026-09-01T05:09:31.157Z"
+    "observedAt": "2026-09-01T10:36:08.812Z"
   },
   {
     "id": "web-books-stationery-a057cd980ad23d7f",
@@ -9671,7 +8685,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-writing",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery/writing-supplies",
     "source": "web-catalog:technolife-writing",
-    "observedAt": "2026-09-01T05:09:31.157Z"
+    "observedAt": "2026-09-01T10:36:08.812Z"
   },
   {
     "id": "web-books-stationery-ee600c3d11e83685",
@@ -9688,7 +8702,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-writing",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery/writing-supplies",
     "source": "web-catalog:technolife-writing",
-    "observedAt": "2026-09-01T05:09:31.157Z"
+    "observedAt": "2026-09-01T10:36:08.812Z"
   },
   {
     "id": "web-books-stationery-a24848931b28ebf3",
@@ -9705,7 +8719,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-writing",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery/writing-supplies",
     "source": "web-catalog:technolife-writing",
-    "observedAt": "2026-09-01T05:09:31.157Z"
+    "observedAt": "2026-09-01T10:36:08.812Z"
   },
   {
     "id": "web-books-stationery-57387e13142b1d3d",
@@ -9722,7 +8736,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-writing",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery/writing-supplies",
     "source": "web-catalog:technolife-writing",
-    "observedAt": "2026-09-01T05:09:31.157Z"
+    "observedAt": "2026-09-01T10:36:08.812Z"
   },
   {
     "id": "web-books-stationery-2f3fc8e7aef621db",
@@ -9739,7 +8753,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-writing",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery/writing-supplies",
     "source": "web-catalog:technolife-writing",
-    "observedAt": "2026-09-01T05:09:31.157Z"
+    "observedAt": "2026-09-01T10:36:08.812Z"
   },
   {
     "id": "web-books-stationery-efae7e0a243adcc3",
@@ -9756,7 +8770,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-writing",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery/writing-supplies",
     "source": "web-catalog:technolife-writing",
-    "observedAt": "2026-09-01T05:09:31.157Z"
+    "observedAt": "2026-09-01T10:36:08.812Z"
   },
   {
     "id": "web-books-stationery-f77d4d03ba3a29b6",
@@ -9773,7 +8787,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-writing",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery/writing-supplies",
     "source": "web-catalog:technolife-writing",
-    "observedAt": "2026-09-01T05:09:31.157Z"
+    "observedAt": "2026-09-01T10:36:08.812Z"
   },
   {
     "id": "web-books-stationery-b65287cf4bd57e3a",
@@ -9790,7 +8804,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-writing",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery/writing-supplies",
     "source": "web-catalog:technolife-writing",
-    "observedAt": "2026-09-01T05:09:31.157Z"
+    "observedAt": "2026-09-01T10:36:08.812Z"
   },
   {
     "id": "web-books-stationery-bd9757e4962903fa",
@@ -9807,7 +8821,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-writing",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery/writing-supplies",
     "source": "web-catalog:technolife-writing",
-    "observedAt": "2026-09-01T05:09:31.157Z"
+    "observedAt": "2026-09-01T10:36:08.812Z"
   },
   {
     "id": "web-books-stationery-007c523d09c4bb8a",
@@ -9824,7 +8838,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-writing",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery/writing-supplies",
     "source": "web-catalog:technolife-writing",
-    "observedAt": "2026-09-01T05:09:31.157Z"
+    "observedAt": "2026-09-01T10:36:08.812Z"
   },
   {
     "id": "web-books-stationery-f025a338d12ae12f",
@@ -9841,7 +8855,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-writing",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery/writing-supplies",
     "source": "web-catalog:technolife-writing",
-    "observedAt": "2026-09-01T05:09:31.157Z"
+    "observedAt": "2026-09-01T10:36:08.812Z"
   },
   {
     "id": "web-books-stationery-0d3bbf4b7da7f9fa",
@@ -9858,7 +8872,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-writing",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery/writing-supplies",
     "source": "web-catalog:technolife-writing",
-    "observedAt": "2026-09-01T05:09:31.157Z"
+    "observedAt": "2026-09-01T10:36:08.812Z"
   },
   {
     "id": "web-books-stationery-2b445bd717c07f8e",
@@ -9875,7 +8889,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-writing",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery/writing-supplies",
     "source": "web-catalog:technolife-writing",
-    "observedAt": "2026-09-01T05:09:31.157Z"
+    "observedAt": "2026-09-01T10:36:08.813Z"
   },
   {
     "id": "web-books-stationery-0f96d57a5d82682a",
@@ -9892,7 +8906,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-writing",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery/writing-supplies",
     "source": "web-catalog:technolife-writing",
-    "observedAt": "2026-09-01T05:09:31.158Z"
+    "observedAt": "2026-09-01T10:36:08.813Z"
   },
   {
     "id": "web-books-stationery-12bb03fdebc566bb",
@@ -9909,58 +8923,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-writing",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery/writing-supplies",
     "source": "web-catalog:technolife-writing",
-    "observedAt": "2026-09-01T05:09:31.158Z"
-  },
-  {
-    "id": "web-kids-toys-b6d7a3fddfa4a5bb",
-    "productId": "web-kids-toys-b6d7a3fddfa4a5bb",
-    "name": "فانکو فیگور جاموبایلی طرح جوکر کد 2",
-    "brand": "",
-    "model": "فانکو فیگور جاموبایلی طرح جوکر کد 2",
-    "category": "kids-toys",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-315121/%D9%81%D8%A7%D9%86%DA%A9%D9%88-%D9%81%DB%8C%DA%AF%D9%88%D8%B1-%D8%AC%D8%A7%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84%DB%8C-%D8%B7%D8%B1%D8%AD-%D8%AC%D9%88%DA%A9%D8%B1-%DA%A9%D8%AF-2",
-    "image": "",
-    "sourceId": "technolife-toys",
-    "sourceUrl": "https://www.technolife.com/category/art-culture/toys",
-    "source": "web-catalog:technolife-toys",
-    "observedAt": "2026-09-01T05:09:40.358Z"
-  },
-  {
-    "id": "web-kids-toys-434b4f57693f5e9c",
-    "productId": "web-kids-toys-434b4f57693f5e9c",
-    "name": "فانکو فیگور جاموبایلی طرح اسپایدرمن",
-    "brand": "",
-    "model": "فانکو فیگور جاموبایلی طرح اسپایدرمن",
-    "category": "kids-toys",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-314958/%D9%81%D8%A7%D9%86%DA%A9%D9%88-%D9%81%DB%8C%DA%AF%D9%88%D8%B1-%D8%AC%D8%A7%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84%DB%8C-%D8%B7%D8%B1%D8%AD-%D8%A7%D8%B3%D9%BE%D8%A7%DB%8C%D8%AF%D8%B1%D9%85%D9%86",
-    "image": "",
-    "sourceId": "technolife-toys",
-    "sourceUrl": "https://www.technolife.com/category/art-culture/toys",
-    "source": "web-catalog:technolife-toys",
-    "observedAt": "2026-09-01T05:09:40.358Z"
-  },
-  {
-    "id": "web-kids-toys-57c1b4cf62441fa6",
-    "productId": "web-kids-toys-57c1b4cf62441fa6",
-    "name": "اکشن فیگور طرح شخصیت های فیلم ترسناک بسته 10 عددی",
-    "brand": "",
-    "model": "اکشن فیگور طرح شخصیت های فیلم ترسناک بسته 10 عددی",
-    "category": "kids-toys",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-314262/%D8%A7%DA%A9%D8%B4%D9%86-%D9%81%DB%8C%DA%AF%D9%88%D8%B1-%D8%B7%D8%B1%D8%AD-%D8%B4%D8%AE%D8%B5%DB%8C%D8%AA-%D9%87%D8%A7%DB%8C-%D9%81%DB%8C%D9%84%D9%85-%D8%AA%D8%B1%D8%B3%D9%86%D8%A7%DA%A9-%D8%A8%D8%B3%D8%AA%D9%87-10-%D8%B9%D8%AF%D8%AF%DB%8C",
-    "image": "",
-    "sourceId": "technolife-toys",
-    "sourceUrl": "https://www.technolife.com/category/art-culture/toys",
-    "source": "web-catalog:technolife-toys",
-    "observedAt": "2026-09-01T05:09:40.358Z"
+    "observedAt": "2026-09-01T10:36:08.813Z"
   },
   {
     "id": "web-kids-toys-4336867a5098ad15",
@@ -9977,7 +8940,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-toys",
     "sourceUrl": "https://www.technolife.com/category/art-culture/toys",
     "source": "web-catalog:technolife-toys",
-    "observedAt": "2026-09-01T05:09:40.358Z"
+    "observedAt": "2026-09-01T10:36:18.955Z"
   },
   {
     "id": "web-kids-toys-db41ee735dac878c",
@@ -9994,7 +8957,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-toys",
     "sourceUrl": "https://www.technolife.com/category/art-culture/toys",
     "source": "web-catalog:technolife-toys",
-    "observedAt": "2026-09-01T05:09:40.358Z"
+    "observedAt": "2026-09-01T10:36:18.955Z"
   },
   {
     "id": "web-kids-toys-53d532e8e9b82a29",
@@ -10011,7 +8974,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-toys",
     "sourceUrl": "https://www.technolife.com/category/art-culture/toys",
     "source": "web-catalog:technolife-toys",
-    "observedAt": "2026-09-01T05:09:40.358Z"
+    "observedAt": "2026-09-01T10:36:18.955Z"
   },
   {
     "id": "web-kids-toys-bda5d7eec8e9be61",
@@ -10028,7 +8991,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-toys",
     "sourceUrl": "https://www.technolife.com/category/art-culture/toys",
     "source": "web-catalog:technolife-toys",
-    "observedAt": "2026-09-01T05:09:40.358Z"
+    "observedAt": "2026-09-01T10:36:18.955Z"
   },
   {
     "id": "web-kids-toys-1f079e8f49ec6972",
@@ -10045,7 +9008,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-toys",
     "sourceUrl": "https://www.technolife.com/category/art-culture/toys",
     "source": "web-catalog:technolife-toys",
-    "observedAt": "2026-09-01T05:09:40.358Z"
+    "observedAt": "2026-09-01T10:36:18.955Z"
   },
   {
     "id": "web-kids-toys-accff6f0944c682c",
@@ -10062,7 +9025,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-toys",
     "sourceUrl": "https://www.technolife.com/category/art-culture/toys",
     "source": "web-catalog:technolife-toys",
-    "observedAt": "2026-09-01T05:09:40.358Z"
+    "observedAt": "2026-09-01T10:36:18.955Z"
   },
   {
     "id": "web-kids-toys-386619ff956fe531",
@@ -10079,7 +9042,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-toys",
     "sourceUrl": "https://www.technolife.com/category/art-culture/toys",
     "source": "web-catalog:technolife-toys",
-    "observedAt": "2026-09-01T05:09:40.358Z"
+    "observedAt": "2026-09-01T10:36:18.955Z"
   },
   {
     "id": "web-kids-toys-8493b42b318cbde1",
@@ -10096,7 +9059,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-toys",
     "sourceUrl": "https://www.technolife.com/category/art-culture/toys",
     "source": "web-catalog:technolife-toys",
-    "observedAt": "2026-09-01T05:09:40.358Z"
+    "observedAt": "2026-09-01T10:36:18.955Z"
   },
   {
     "id": "web-kids-toys-de91d3d7c15dd545",
@@ -10113,7 +9076,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-toys",
     "sourceUrl": "https://www.technolife.com/category/art-culture/toys",
     "source": "web-catalog:technolife-toys",
-    "observedAt": "2026-09-01T05:09:40.358Z"
+    "observedAt": "2026-09-01T10:36:18.955Z"
   },
   {
     "id": "web-kids-toys-08a18613dc83a512",
@@ -10130,7 +9093,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-toys",
     "sourceUrl": "https://www.technolife.com/category/art-culture/toys",
     "source": "web-catalog:technolife-toys",
-    "observedAt": "2026-09-01T05:09:40.358Z"
+    "observedAt": "2026-09-01T10:36:18.955Z"
   },
   {
     "id": "web-kids-toys-8d7e9b0809db6c20",
@@ -10147,7 +9110,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-toys",
     "sourceUrl": "https://www.technolife.com/category/art-culture/toys",
     "source": "web-catalog:technolife-toys",
-    "observedAt": "2026-09-01T05:09:40.358Z"
+    "observedAt": "2026-09-01T10:36:18.955Z"
   },
   {
     "id": "web-kids-toys-619500cbf983694b",
@@ -10164,7 +9127,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-toys",
     "sourceUrl": "https://www.technolife.com/category/art-culture/toys",
     "source": "web-catalog:technolife-toys",
-    "observedAt": "2026-09-01T05:09:40.358Z"
+    "observedAt": "2026-09-01T10:36:18.955Z"
   },
   {
     "id": "web-kids-toys-ff8dcc4149c76ecb",
@@ -10181,7 +9144,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-toys",
     "sourceUrl": "https://www.technolife.com/category/art-culture/toys",
     "source": "web-catalog:technolife-toys",
-    "observedAt": "2026-09-01T05:09:40.358Z"
+    "observedAt": "2026-09-01T10:36:18.955Z"
   },
   {
     "id": "web-kids-toys-32967cabe3a3e045",
@@ -10198,7 +9161,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-toys",
     "sourceUrl": "https://www.technolife.com/category/art-culture/toys",
     "source": "web-catalog:technolife-toys",
-    "observedAt": "2026-09-01T05:09:40.358Z"
+    "observedAt": "2026-09-01T10:36:18.955Z"
   },
   {
     "id": "web-kids-toys-be5b324083196e48",
@@ -10215,7 +9178,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-toys",
     "sourceUrl": "https://www.technolife.com/category/art-culture/toys",
     "source": "web-catalog:technolife-toys",
-    "observedAt": "2026-09-01T05:09:40.359Z"
+    "observedAt": "2026-09-01T10:36:18.955Z"
   },
   {
     "id": "web-kids-toys-066149f9f6ec3c4e",
@@ -10232,7 +9195,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-toys",
     "sourceUrl": "https://www.technolife.com/category/art-culture/toys",
     "source": "web-catalog:technolife-toys",
-    "observedAt": "2026-09-01T05:09:40.359Z"
+    "observedAt": "2026-09-01T10:36:18.955Z"
   },
   {
     "id": "web-kids-toys-bc0a12811e07f638",
@@ -10249,7 +9212,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-toys",
     "sourceUrl": "https://www.technolife.com/category/art-culture/toys",
     "source": "web-catalog:technolife-toys",
-    "observedAt": "2026-09-01T05:09:40.359Z"
+    "observedAt": "2026-09-01T10:36:18.955Z"
   },
   {
     "id": "web-kids-toys-184e72c8c4f7134c",
@@ -10266,7 +9229,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-toys",
     "sourceUrl": "https://www.technolife.com/category/art-culture/toys",
     "source": "web-catalog:technolife-toys",
-    "observedAt": "2026-09-01T05:09:40.359Z"
+    "observedAt": "2026-09-01T10:36:18.955Z"
   },
   {
     "id": "web-kids-toys-f1c9fc1347664415",
@@ -10283,7 +9246,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-toys",
     "sourceUrl": "https://www.technolife.com/category/art-culture/toys",
     "source": "web-catalog:technolife-toys",
-    "observedAt": "2026-09-01T05:09:40.359Z"
+    "observedAt": "2026-09-01T10:36:18.955Z"
   },
   {
     "id": "web-kids-toys-9135aeef76d11985",
@@ -10300,7 +9263,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-toys",
     "sourceUrl": "https://www.technolife.com/category/art-culture/toys",
     "source": "web-catalog:technolife-toys",
-    "observedAt": "2026-09-01T05:09:40.359Z"
+    "observedAt": "2026-09-01T10:36:18.955Z"
   },
   {
     "id": "web-kids-toys-daa36dbda7200ad6",
@@ -10317,7 +9280,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-toys",
     "sourceUrl": "https://www.technolife.com/category/art-culture/toys",
     "source": "web-catalog:technolife-toys",
-    "observedAt": "2026-09-01T05:09:40.359Z"
+    "observedAt": "2026-09-01T10:36:18.955Z"
   },
   {
     "id": "web-kids-toys-df54098d52492d89",
@@ -10334,7 +9297,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-toys",
     "sourceUrl": "https://www.technolife.com/category/art-culture/toys",
     "source": "web-catalog:technolife-toys",
-    "observedAt": "2026-09-01T05:09:40.359Z"
+    "observedAt": "2026-09-01T10:36:18.955Z"
   },
   {
     "id": "web-kids-toys-4093ee308aab2c1c",
@@ -10351,7 +9314,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-toys",
     "sourceUrl": "https://www.technolife.com/category/art-culture/toys",
     "source": "web-catalog:technolife-toys",
-    "observedAt": "2026-09-01T05:09:40.359Z"
+    "observedAt": "2026-09-01T10:36:18.956Z"
   },
   {
     "id": "web-kids-toys-e2438b50fdee944d",
@@ -10368,7 +9331,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-toys",
     "sourceUrl": "https://www.technolife.com/category/art-culture/toys",
     "source": "web-catalog:technolife-toys",
-    "observedAt": "2026-09-01T05:09:40.359Z"
+    "observedAt": "2026-09-01T10:36:18.956Z"
   },
   {
     "id": "web-kids-toys-884d81bc6497e092",
@@ -10385,7 +9348,24 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-toys",
     "sourceUrl": "https://www.technolife.com/category/art-culture/toys",
     "source": "web-catalog:technolife-toys",
-    "observedAt": "2026-09-01T05:09:40.359Z"
+    "observedAt": "2026-09-01T10:36:18.956Z"
+  },
+  {
+    "id": "web-kids-toys-b6d7a3fddfa4a5bb",
+    "productId": "web-kids-toys-b6d7a3fddfa4a5bb",
+    "name": "فانکو فیگور جاموبایلی طرح جوکر کد 2",
+    "brand": "",
+    "model": "فانکو فیگور جاموبایلی طرح جوکر کد 2",
+    "category": "kids-toys",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-315121/%D9%81%D8%A7%D9%86%DA%A9%D9%88-%D9%81%DB%8C%DA%AF%D9%88%D8%B1-%D8%AC%D8%A7%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84%DB%8C-%D8%B7%D8%B1%D8%AD-%D8%AC%D9%88%DA%A9%D8%B1-%DA%A9%D8%AF-2",
+    "image": "",
+    "sourceId": "technolife-toys",
+    "sourceUrl": "https://www.technolife.com/category/art-culture/toys",
+    "source": "web-catalog:technolife-toys",
+    "observedAt": "2026-09-01T10:36:18.956Z"
   },
   {
     "id": "web-kids-toys-8d7488d2c7d64a82",
@@ -10402,7 +9382,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-toys",
     "sourceUrl": "https://www.technolife.com/category/art-culture/toys",
     "source": "web-catalog:technolife-toys",
-    "observedAt": "2026-09-01T05:09:40.359Z"
+    "observedAt": "2026-09-01T10:36:18.956Z"
   },
   {
     "id": "web-kids-toys-e5bc7652b77e52d7",
@@ -10419,7 +9399,41 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-toys",
     "sourceUrl": "https://www.technolife.com/category/art-culture/toys",
     "source": "web-catalog:technolife-toys",
-    "observedAt": "2026-09-01T05:09:40.359Z"
+    "observedAt": "2026-09-01T10:36:18.956Z"
+  },
+  {
+    "id": "web-kids-toys-092fe34471d2d237",
+    "productId": "web-kids-toys-092fe34471d2d237",
+    "name": "فانکو فیگور جاموبایلی طرح آیرون من",
+    "brand": "",
+    "model": "فانکو فیگور جاموبایلی طرح آیرون من",
+    "category": "kids-toys",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-314960/%D9%81%D8%A7%D9%86%DA%A9%D9%88-%D9%81%DB%8C%DA%AF%D9%88%D8%B1-%D8%AC%D8%A7%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84%DB%8C-%D8%B7%D8%B1%D8%AD-%D8%A2%DB%8C%D8%B1%D9%88%D9%86-%D9%85%D9%86",
+    "image": "",
+    "sourceId": "technolife-toys",
+    "sourceUrl": "https://www.technolife.com/category/art-culture/toys",
+    "source": "web-catalog:technolife-toys",
+    "observedAt": "2026-09-01T10:36:18.956Z"
+  },
+  {
+    "id": "web-kids-toys-434b4f57693f5e9c",
+    "productId": "web-kids-toys-434b4f57693f5e9c",
+    "name": "فانکو فیگور جاموبایلی طرح اسپایدرمن",
+    "brand": "",
+    "model": "فانکو فیگور جاموبایلی طرح اسپایدرمن",
+    "category": "kids-toys",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-314958/%D9%81%D8%A7%D9%86%DA%A9%D9%88-%D9%81%DB%8C%DA%AF%D9%88%D8%B1-%D8%AC%D8%A7%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84%DB%8C-%D8%B7%D8%B1%D8%AD-%D8%A7%D8%B3%D9%BE%D8%A7%DB%8C%D8%AF%D8%B1%D9%85%D9%86",
+    "image": "",
+    "sourceId": "technolife-toys",
+    "sourceUrl": "https://www.technolife.com/category/art-culture/toys",
+    "source": "web-catalog:technolife-toys",
+    "observedAt": "2026-09-01T10:36:18.956Z"
   },
   {
     "id": "web-kids-toys-81e91ec681267ac1",
@@ -10436,7 +9450,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-toys",
     "sourceUrl": "https://www.technolife.com/category/art-culture/toys",
     "source": "web-catalog:technolife-toys",
-    "observedAt": "2026-09-01T05:09:40.359Z"
+    "observedAt": "2026-09-01T10:36:18.956Z"
   },
   {
     "id": "web-auto-8e7802b73c6488e0",
@@ -10453,7 +9467,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-01T05:09:51.693Z"
+    "observedAt": "2026-09-01T10:36:30.145Z"
   },
   {
     "id": "web-auto-03dd3c3ec42208f6",
@@ -10470,7 +9484,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-01T05:09:51.693Z"
+    "observedAt": "2026-09-01T10:36:30.145Z"
   },
   {
     "id": "web-auto-38d13aadfc9611e9",
@@ -10487,7 +9501,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-01T05:09:51.693Z"
+    "observedAt": "2026-09-01T10:36:30.145Z"
   },
   {
     "id": "web-auto-88da4f2a8f1766a7",
@@ -10504,7 +9518,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-01T05:09:51.693Z"
+    "observedAt": "2026-09-01T10:36:30.145Z"
   },
   {
     "id": "web-auto-e5b9060bc45609d2",
@@ -10521,7 +9535,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-01T05:09:51.693Z"
+    "observedAt": "2026-09-01T10:36:30.145Z"
   },
   {
     "id": "web-auto-aae5046f6cb390b4",
@@ -10538,7 +9552,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-01T05:09:51.693Z"
+    "observedAt": "2026-09-01T10:36:30.145Z"
   },
   {
     "id": "web-auto-a69eeb67769a9511",
@@ -10555,7 +9569,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-01T05:09:51.693Z"
+    "observedAt": "2026-09-01T10:36:30.145Z"
   },
   {
     "id": "web-auto-a7556396a2d63ab9",
@@ -10572,7 +9586,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-01T05:09:51.693Z"
+    "observedAt": "2026-09-01T10:36:30.145Z"
   },
   {
     "id": "web-auto-b6e8b1b0af6b196d",
@@ -10589,7 +9603,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-01T05:09:51.693Z"
+    "observedAt": "2026-09-01T10:36:30.145Z"
   },
   {
     "id": "web-auto-e74f081e35e275f8",
@@ -10606,7 +9620,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-01T05:09:51.693Z"
+    "observedAt": "2026-09-01T10:36:30.145Z"
   },
   {
     "id": "web-auto-1bc95ca2c0e43a64",
@@ -10623,7 +9637,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-01T05:09:51.693Z"
+    "observedAt": "2026-09-01T10:36:30.145Z"
   },
   {
     "id": "web-auto-c2ff57a4aa0cda5d",
@@ -10640,7 +9654,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-01T05:09:51.693Z"
+    "observedAt": "2026-09-01T10:36:30.145Z"
   },
   {
     "id": "web-auto-c8cd29ceca46bb74",
@@ -10657,7 +9671,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-01T05:09:51.693Z"
+    "observedAt": "2026-09-01T10:36:30.145Z"
   },
   {
     "id": "web-auto-a93bf7eeca4f6948",
@@ -10674,7 +9688,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-01T05:09:51.693Z"
+    "observedAt": "2026-09-01T10:36:30.145Z"
   },
   {
     "id": "web-auto-35a7d30b2c4c2fa5",
@@ -10691,7 +9705,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-01T05:09:51.693Z"
+    "observedAt": "2026-09-01T10:36:30.145Z"
   },
   {
     "id": "web-auto-bdfd776acf21e8a2",
@@ -10708,7 +9722,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-01T05:09:51.693Z"
+    "observedAt": "2026-09-01T10:36:30.145Z"
   },
   {
     "id": "web-auto-d76914d97998a134",
@@ -10725,7 +9739,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-01T05:09:51.693Z"
+    "observedAt": "2026-09-01T10:36:30.145Z"
   },
   {
     "id": "web-auto-9eceaf281b731e00",
@@ -10742,7 +9756,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-01T05:09:51.693Z"
+    "observedAt": "2026-09-01T10:36:30.145Z"
   },
   {
     "id": "web-auto-16884c81434050d5",
@@ -10759,7 +9773,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-01T05:09:51.693Z"
+    "observedAt": "2026-09-01T10:36:30.145Z"
   },
   {
     "id": "web-auto-f9c406821eee023d",
@@ -10776,7 +9790,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-01T05:09:51.693Z"
+    "observedAt": "2026-09-01T10:36:30.145Z"
   },
   {
     "id": "web-auto-6e0c1809c20ae99c",
@@ -10793,7 +9807,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-01T05:09:51.693Z"
+    "observedAt": "2026-09-01T10:36:30.145Z"
   },
   {
     "id": "web-auto-3389fab22b60d0ff",
@@ -10810,7 +9824,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-01T05:09:51.694Z"
+    "observedAt": "2026-09-01T10:36:30.145Z"
   },
   {
     "id": "web-auto-7da4c7c665d04de9",
@@ -10827,7 +9841,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-01T05:09:51.694Z"
+    "observedAt": "2026-09-01T10:36:30.145Z"
   },
   {
     "id": "web-auto-9a58e5a83ecf5913",
@@ -10844,7 +9858,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-01T05:09:51.694Z"
+    "observedAt": "2026-09-01T10:36:30.145Z"
   },
   {
     "id": "web-auto-1204563bd6a75f66",
@@ -10861,7 +9875,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-01T05:09:51.694Z"
+    "observedAt": "2026-09-01T10:36:30.146Z"
   },
   {
     "id": "web-auto-35f57f87d50fc0d7",
@@ -10878,7 +9892,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-01T05:09:51.694Z"
+    "observedAt": "2026-09-01T10:36:30.146Z"
   },
   {
     "id": "web-auto-b39be8bafb2c0026",
@@ -10895,7 +9909,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-01T05:09:51.694Z"
+    "observedAt": "2026-09-01T10:36:30.146Z"
   },
   {
     "id": "web-auto-99deb7eb4944089a",
@@ -10912,7 +9926,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-01T05:09:51.694Z"
+    "observedAt": "2026-09-01T10:36:30.146Z"
   },
   {
     "id": "web-auto-89126bad201dabcd",
@@ -10929,7 +9943,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-01T05:09:51.694Z"
+    "observedAt": "2026-09-01T10:36:30.146Z"
   },
   {
     "id": "web-auto-1f3d63b2fdf8cf68",
@@ -10946,7 +9960,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-01T05:09:51.694Z"
+    "observedAt": "2026-09-01T10:36:30.146Z"
   },
   {
     "id": "web-auto-39564c5b3e0848bb",
@@ -10963,7 +9977,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-01T05:09:51.694Z"
+    "observedAt": "2026-09-01T10:36:30.146Z"
   },
   {
     "id": "web-auto-ec74e7db32084402",
@@ -10980,7 +9994,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-car-parts",
     "sourceUrl": "https://www.technolife.com/category/car-motor/car-utilities",
     "source": "web-catalog:technolife-car-parts",
-    "observedAt": "2026-09-01T05:10:09.330Z"
+    "observedAt": "2026-09-01T10:36:48.398Z"
   },
   {
     "id": "web-auto-9898df8b85fbdbee",
@@ -10997,7 +10011,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-car-parts",
     "sourceUrl": "https://www.technolife.com/category/car-motor/car-utilities",
     "source": "web-catalog:technolife-car-parts",
-    "observedAt": "2026-09-01T05:10:09.330Z"
+    "observedAt": "2026-09-01T10:36:48.398Z"
   },
   {
     "id": "web-auto-e985d32e92689233",
@@ -11014,7 +10028,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-car-parts",
     "sourceUrl": "https://www.technolife.com/category/car-motor/car-utilities",
     "source": "web-catalog:technolife-car-parts",
-    "observedAt": "2026-09-01T05:10:09.330Z"
+    "observedAt": "2026-09-01T10:36:48.398Z"
   },
   {
     "id": "web-auto-8ffac6b018aa67d3",
@@ -11031,7 +10045,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-car-parts",
     "sourceUrl": "https://www.technolife.com/category/car-motor/car-utilities",
     "source": "web-catalog:technolife-car-parts",
-    "observedAt": "2026-09-01T05:10:09.330Z"
+    "observedAt": "2026-09-01T10:36:48.398Z"
   },
   {
     "id": "web-auto-f6a5ec3ff2af2498",
@@ -11048,7 +10062,7 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-car-parts",
     "sourceUrl": "https://www.technolife.com/category/car-motor/car-utilities",
     "source": "web-catalog:technolife-car-parts",
-    "observedAt": "2026-09-01T05:10:09.330Z"
+    "observedAt": "2026-09-01T10:36:48.398Z"
   },
   {
     "id": "web-auto-e3593acb2143ac21",
@@ -11065,18 +10079,18 @@ export const PRODUCT_INDEX = [
     "sourceId": "technolife-car-parts",
     "sourceUrl": "https://www.technolife.com/category/car-motor/car-utilities",
     "source": "web-catalog:technolife-car-parts",
-    "observedAt": "2026-09-01T05:10:09.330Z"
+    "observedAt": "2026-09-01T10:36:48.398Z"
   }
 ];
 export const INDEX_META = {
-  "generatedAt": "2026-09-01T05:10:21.449Z",
-  "total": 651,
+  "generatedAt": "2026-09-01T10:37:01.758Z",
+  "total": 593,
   "categories": [
     {
       "id": "mobile",
       "name": "موبایل و تبلت",
       "file": "data/catalog/mobile.json",
-      "count": 147,
+      "count": 149,
       "sources": [
         "technolife-mobile",
         "mobile-ir",
@@ -11088,7 +10102,7 @@ export const INDEX_META = {
       "id": "laptop-computer",
       "name": "لپ تاپ، کامپیوتر و اداری",
       "file": "data/catalog/laptop-computer.json",
-      "count": 141,
+      "count": 81,
       "sources": [
         "technolife-laptop",
         "technolife-pc",

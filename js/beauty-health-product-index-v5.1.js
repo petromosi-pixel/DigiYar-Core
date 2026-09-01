@@ -14,7 +14,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "technolife-health-beauty",
     "sourceUrl": "https://www.technolife.com/category/health-beauty",
     "source": "web-catalog:technolife-health-beauty",
-    "observedAt": "2026-09-01T05:07:47.590Z"
+    "observedAt": "2026-09-01T10:34:03.303Z"
   },
   {
     "id": "web-beauty-health-0ac35e853752fe43",
@@ -31,7 +31,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "technolife-health-beauty",
     "sourceUrl": "https://www.technolife.com/category/health-beauty",
     "source": "web-catalog:technolife-health-beauty",
-    "observedAt": "2026-09-01T05:07:47.590Z"
+    "observedAt": "2026-09-01T10:34:03.303Z"
   },
   {
     "id": "web-beauty-health-5d1c621db077c8e1",
@@ -48,7 +48,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "technolife-health-beauty",
     "sourceUrl": "https://www.technolife.com/category/health-beauty",
     "source": "web-catalog:technolife-health-beauty",
-    "observedAt": "2026-09-01T05:07:47.590Z"
+    "observedAt": "2026-09-01T10:34:03.303Z"
   },
   {
     "id": "web-beauty-health-7a918870dab5ec9d",
@@ -65,7 +65,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "technolife-health-beauty",
     "sourceUrl": "https://www.technolife.com/category/health-beauty",
     "source": "web-catalog:technolife-health-beauty",
-    "observedAt": "2026-09-01T05:07:47.590Z"
+    "observedAt": "2026-09-01T10:34:03.303Z"
   },
   {
     "id": "web-beauty-health-de1f31a62565a6c4",
@@ -82,7 +82,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "technolife-health-beauty",
     "sourceUrl": "https://www.technolife.com/category/health-beauty",
     "source": "web-catalog:technolife-health-beauty",
-    "observedAt": "2026-09-01T05:07:47.590Z"
+    "observedAt": "2026-09-01T10:34:03.303Z"
   },
   {
     "id": "web-beauty-health-ad7b64176cfcef27",
@@ -99,7 +99,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "technolife-health-beauty",
     "sourceUrl": "https://www.technolife.com/category/health-beauty",
     "source": "web-catalog:technolife-health-beauty",
-    "observedAt": "2026-09-01T05:07:47.590Z"
+    "observedAt": "2026-09-01T10:34:03.303Z"
   },
   {
     "id": "web-beauty-health-1c387f07025d43c8",
@@ -116,7 +116,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "technolife-health-beauty",
     "sourceUrl": "https://www.technolife.com/category/health-beauty",
     "source": "web-catalog:technolife-health-beauty",
-    "observedAt": "2026-09-01T05:07:47.590Z"
+    "observedAt": "2026-09-01T10:34:03.303Z"
   },
   {
     "id": "web-beauty-health-94069e067b57d1cd",
@@ -133,7 +133,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "technolife-health-beauty",
     "sourceUrl": "https://www.technolife.com/category/health-beauty",
     "source": "web-catalog:technolife-health-beauty",
-    "observedAt": "2026-09-01T05:07:47.590Z"
+    "observedAt": "2026-09-01T10:34:03.303Z"
   },
   {
     "id": "web-beauty-health-e78a20f67cd621aa",
@@ -150,7 +150,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "technolife-health-beauty",
     "sourceUrl": "https://www.technolife.com/category/health-beauty",
     "source": "web-catalog:technolife-health-beauty",
-    "observedAt": "2026-09-01T05:07:47.590Z"
+    "observedAt": "2026-09-01T10:34:03.303Z"
   },
   {
     "id": "web-beauty-health-7b06b2fe7261579d",
@@ -167,7 +167,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "technolife-health-beauty",
     "sourceUrl": "https://www.technolife.com/category/health-beauty",
     "source": "web-catalog:technolife-health-beauty",
-    "observedAt": "2026-09-01T05:07:47.590Z"
+    "observedAt": "2026-09-01T10:34:03.303Z"
   },
   {
     "id": "web-beauty-health-1ee45c4eb6ce0145",
@@ -184,7 +184,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "technolife-health-beauty",
     "sourceUrl": "https://www.technolife.com/category/health-beauty",
     "source": "web-catalog:technolife-health-beauty",
-    "observedAt": "2026-09-01T05:07:47.590Z"
+    "observedAt": "2026-09-01T10:34:03.303Z"
   },
   {
     "id": "web-beauty-health-ffa9c082a67dd302",
@@ -201,7 +201,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "technolife-health-beauty",
     "sourceUrl": "https://www.technolife.com/category/health-beauty",
     "source": "web-catalog:technolife-health-beauty",
-    "observedAt": "2026-09-01T05:07:47.590Z"
+    "observedAt": "2026-09-01T10:34:03.304Z"
   },
   {
     "id": "web-beauty-health-2a03f258abee4d1a",
@@ -218,7 +218,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "technolife-health-beauty",
     "sourceUrl": "https://www.technolife.com/category/health-beauty",
     "source": "web-catalog:technolife-health-beauty",
-    "observedAt": "2026-09-01T05:07:47.590Z"
+    "observedAt": "2026-09-01T10:34:03.304Z"
   },
   {
     "id": "web-beauty-health-904c22c6b8cc9fa3",
@@ -235,7 +235,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "technolife-health-beauty",
     "sourceUrl": "https://www.technolife.com/category/health-beauty",
     "source": "web-catalog:technolife-health-beauty",
-    "observedAt": "2026-09-01T05:07:47.590Z"
+    "observedAt": "2026-09-01T10:34:03.304Z"
   },
   {
     "id": "web-beauty-health-de052161c6e79dfe",
@@ -252,7 +252,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "technolife-health-beauty",
     "sourceUrl": "https://www.technolife.com/category/health-beauty",
     "source": "web-catalog:technolife-health-beauty",
-    "observedAt": "2026-09-01T05:07:47.591Z"
+    "observedAt": "2026-09-01T10:34:03.304Z"
   },
   {
     "id": "web-beauty-health-9f69d36dd8509d70",
@@ -269,7 +269,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "technolife-health-beauty",
     "sourceUrl": "https://www.technolife.com/category/health-beauty",
     "source": "web-catalog:technolife-health-beauty",
-    "observedAt": "2026-09-01T05:07:47.591Z"
+    "observedAt": "2026-09-01T10:34:03.304Z"
   },
   {
     "id": "web-beauty-health-8c5ed00b55ad2833",
@@ -286,7 +286,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "technolife-health-beauty",
     "sourceUrl": "https://www.technolife.com/category/health-beauty",
     "source": "web-catalog:technolife-health-beauty",
-    "observedAt": "2026-09-01T05:07:47.591Z"
+    "observedAt": "2026-09-01T10:34:03.304Z"
   },
   {
     "id": "web-beauty-health-6e277605546151a1",
@@ -303,7 +303,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "technolife-health-beauty",
     "sourceUrl": "https://www.technolife.com/category/health-beauty",
     "source": "web-catalog:technolife-health-beauty",
-    "observedAt": "2026-09-01T05:07:47.591Z"
+    "observedAt": "2026-09-01T10:34:03.304Z"
   },
   {
     "id": "web-beauty-health-c35ac55ca9066ad7",
@@ -320,7 +320,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "technolife-health-beauty",
     "sourceUrl": "https://www.technolife.com/category/health-beauty",
     "source": "web-catalog:technolife-health-beauty",
-    "observedAt": "2026-09-01T05:07:47.591Z"
+    "observedAt": "2026-09-01T10:34:03.304Z"
   },
   {
     "id": "web-beauty-health-988a5739d29e1bdd",
@@ -337,7 +337,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "technolife-health-beauty",
     "sourceUrl": "https://www.technolife.com/category/health-beauty",
     "source": "web-catalog:technolife-health-beauty",
-    "observedAt": "2026-09-01T05:07:47.591Z"
+    "observedAt": "2026-09-01T10:34:03.304Z"
   },
   {
     "id": "web-beauty-health-6961002765d99b3b",
@@ -354,7 +354,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "technolife-health-beauty",
     "sourceUrl": "https://www.technolife.com/category/health-beauty",
     "source": "web-catalog:technolife-health-beauty",
-    "observedAt": "2026-09-01T05:07:47.591Z"
+    "observedAt": "2026-09-01T10:34:03.304Z"
   },
   {
     "id": "web-beauty-health-80a6d38b8a04a187",
@@ -371,7 +371,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "technolife-health-beauty",
     "sourceUrl": "https://www.technolife.com/category/health-beauty",
     "source": "web-catalog:technolife-health-beauty",
-    "observedAt": "2026-09-01T05:07:47.591Z"
+    "observedAt": "2026-09-01T10:34:03.304Z"
   },
   {
     "id": "web-beauty-health-417e9ebae657d505",
@@ -388,7 +388,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "technolife-health-beauty",
     "sourceUrl": "https://www.technolife.com/category/health-beauty",
     "source": "web-catalog:technolife-health-beauty",
-    "observedAt": "2026-09-01T05:07:47.591Z"
+    "observedAt": "2026-09-01T10:34:03.304Z"
   },
   {
     "id": "web-beauty-health-03d03b80214006d9",
@@ -405,7 +405,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "technolife-health-beauty",
     "sourceUrl": "https://www.technolife.com/category/health-beauty",
     "source": "web-catalog:technolife-health-beauty",
-    "observedAt": "2026-09-01T05:07:47.591Z"
+    "observedAt": "2026-09-01T10:34:03.304Z"
   },
   {
     "id": "web-beauty-health-4917ec07693ca445",
@@ -422,7 +422,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "technolife-health-beauty",
     "sourceUrl": "https://www.technolife.com/category/health-beauty",
     "source": "web-catalog:technolife-health-beauty",
-    "observedAt": "2026-09-01T05:07:47.591Z"
+    "observedAt": "2026-09-01T10:34:03.304Z"
   },
   {
     "id": "web-beauty-health-1d5fad90fd055f43",
@@ -439,7 +439,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "technolife-health-beauty",
     "sourceUrl": "https://www.technolife.com/category/health-beauty",
     "source": "web-catalog:technolife-health-beauty",
-    "observedAt": "2026-09-01T05:07:47.591Z"
+    "observedAt": "2026-09-01T10:34:03.304Z"
   },
   {
     "id": "web-beauty-health-e171692ca4eb5b18",
@@ -456,7 +456,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "technolife-health-beauty",
     "sourceUrl": "https://www.technolife.com/category/health-beauty",
     "source": "web-catalog:technolife-health-beauty",
-    "observedAt": "2026-09-01T05:07:47.591Z"
+    "observedAt": "2026-09-01T10:34:03.304Z"
   },
   {
     "id": "web-beauty-health-1cc9fa81005cbf50",
@@ -473,7 +473,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "technolife-health-beauty",
     "sourceUrl": "https://www.technolife.com/category/health-beauty",
     "source": "web-catalog:technolife-health-beauty",
-    "observedAt": "2026-09-01T05:07:47.591Z"
+    "observedAt": "2026-09-01T10:34:03.304Z"
   },
   {
     "id": "web-beauty-health-a69e8592ac6debd8",
@@ -490,7 +490,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "technolife-health-beauty",
     "sourceUrl": "https://www.technolife.com/category/health-beauty",
     "source": "web-catalog:technolife-health-beauty",
-    "observedAt": "2026-09-01T05:07:47.591Z"
+    "observedAt": "2026-09-01T10:34:03.304Z"
   },
   {
     "id": "web-beauty-health-14c42ba240ca0ff2",
@@ -507,7 +507,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "technolife-health-beauty",
     "sourceUrl": "https://www.technolife.com/category/health-beauty",
     "source": "web-catalog:technolife-health-beauty",
-    "observedAt": "2026-09-01T05:07:47.591Z"
+    "observedAt": "2026-09-01T10:34:03.304Z"
   },
   {
     "id": "web-beauty-health-4e4bbc77fd923c06",
@@ -524,6 +524,6 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "technolife-health-beauty",
     "sourceUrl": "https://www.technolife.com/category/health-beauty",
     "source": "web-catalog:technolife-health-beauty",
-    "observedAt": "2026-09-01T05:07:47.591Z"
+    "observedAt": "2026-09-01T10:34:03.304Z"
   }
 ];

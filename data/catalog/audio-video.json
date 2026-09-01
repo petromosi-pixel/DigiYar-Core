@@ -3,7 +3,7 @@
   "category": "audio-video",
   "name": "صوتی و تصویری",
   "maxProducts": 500,
-  "generatedAt": "2026-09-01T05:07:41.870Z",
+  "generatedAt": "2026-09-01T10:33:57.660Z",
   "sources": [
     {
       "id": "technolife-multimedia",
@@ -29,7 +29,7 @@
       "sourceId": "technolife-multimedia",
       "sourceUrl": "https://www.technolife.com/category/multimedia",
       "source": "web-catalog:technolife-multimedia",
-      "observedAt": "2026-09-01T05:07:21.287Z"
+      "observedAt": "2026-09-01T10:33:40.050Z"
     },
     {
       "id": "web-audio-video-a3d7a68050b672d2",
@@ -46,7 +46,7 @@
       "sourceId": "technolife-multimedia",
       "sourceUrl": "https://www.technolife.com/category/multimedia",
       "source": "web-catalog:technolife-multimedia",
-      "observedAt": "2026-09-01T05:07:21.287Z"
+      "observedAt": "2026-09-01T10:33:40.050Z"
     },
     {
       "id": "web-audio-video-8a63c133e1932a8c",
@@ -63,7 +63,7 @@
       "sourceId": "technolife-multimedia",
       "sourceUrl": "https://www.technolife.com/category/multimedia",
       "source": "web-catalog:technolife-multimedia",
-      "observedAt": "2026-09-01T05:07:21.287Z"
+      "observedAt": "2026-09-01T10:33:40.050Z"
     },
     {
       "id": "web-audio-video-d6adbb368eff7219",
@@ -80,7 +80,7 @@
       "sourceId": "technolife-multimedia",
       "sourceUrl": "https://www.technolife.com/category/multimedia",
       "source": "web-catalog:technolife-multimedia",
-      "observedAt": "2026-09-01T05:07:21.287Z"
+      "observedAt": "2026-09-01T10:33:40.050Z"
     },
     {
       "id": "web-audio-video-3057322e80c83a5d",
@@ -97,7 +97,7 @@
       "sourceId": "technolife-multimedia",
       "sourceUrl": "https://www.technolife.com/category/multimedia",
       "source": "web-catalog:technolife-multimedia",
-      "observedAt": "2026-09-01T05:07:21.287Z"
+      "observedAt": "2026-09-01T10:33:40.050Z"
     },
     {
       "id": "web-audio-video-2909e941d387fcd2",
@@ -114,7 +114,7 @@
       "sourceId": "technolife-multimedia",
       "sourceUrl": "https://www.technolife.com/category/multimedia",
       "source": "web-catalog:technolife-multimedia",
-      "observedAt": "2026-09-01T05:07:21.287Z"
+      "observedAt": "2026-09-01T10:33:40.050Z"
     },
     {
       "id": "web-audio-video-d2fb2d935b7cdf01",
@@ -131,24 +131,7 @@
       "sourceId": "technolife-multimedia",
       "sourceUrl": "https://www.technolife.com/category/multimedia",
       "source": "web-catalog:technolife-multimedia",
-      "observedAt": "2026-09-01T05:07:21.287Z"
-    },
-    {
-      "id": "web-audio-video-aaac7b20f2318897",
-      "productId": "web-audio-video-aaac7b20f2318897",
-      "name": "پارتی باکس جی بی ال مدل PartyBox Club 120",
-      "brand": "دل",
-      "model": "پارتی باکس جی بی ال مدل PartyBox Club 120",
-      "category": "audio-video",
-      "price": 0,
-      "currency": "IRR",
-      "availability": "unknown",
-      "productUrl": "https://www.technolife.com/product-38776/%D9%BE%D8%A7%D8%B1%D8%AA%DB%8C-%D8%A8%D8%A7%DA%A9%D8%B3-%D8%AC%DB%8C-%D8%A8%DB%8C-%D8%A7%D9%84-%D9%85%D8%AF%D9%84-partybox-club-120",
-      "image": "",
-      "sourceId": "technolife-multimedia",
-      "sourceUrl": "https://www.technolife.com/category/multimedia",
-      "source": "web-catalog:technolife-multimedia",
-      "observedAt": "2026-09-01T05:07:21.287Z"
+      "observedAt": "2026-09-01T10:33:40.050Z"
     },
     {
       "id": "web-audio-video-edc206a57d081dbb",
@@ -165,7 +148,24 @@
       "sourceId": "technolife-multimedia",
       "sourceUrl": "https://www.technolife.com/category/multimedia",
       "source": "web-catalog:technolife-multimedia",
-      "observedAt": "2026-09-01T05:07:21.287Z"
+      "observedAt": "2026-09-01T10:33:40.050Z"
+    },
+    {
+      "id": "web-audio-video-aaac7b20f2318897",
+      "productId": "web-audio-video-aaac7b20f2318897",
+      "name": "پارتی باکس جی بی ال مدل PartyBox Club 120",
+      "brand": "دل",
+      "model": "پارتی باکس جی بی ال مدل PartyBox Club 120",
+      "category": "audio-video",
+      "price": 0,
+      "currency": "IRR",
+      "availability": "unknown",
+      "productUrl": "https://www.technolife.com/product-38776/%D9%BE%D8%A7%D8%B1%D8%AA%DB%8C-%D8%A8%D8%A7%DA%A9%D8%B3-%D8%AC%DB%8C-%D8%A8%DB%8C-%D8%A7%D9%84-%D9%85%D8%AF%D9%84-partybox-club-120",
+      "image": "",
+      "sourceId": "technolife-multimedia",
+      "sourceUrl": "https://www.technolife.com/category/multimedia",
+      "source": "web-catalog:technolife-multimedia",
+      "observedAt": "2026-09-01T10:33:40.050Z"
     },
     {
       "id": "web-audio-video-95f067e3efb8f966",
@@ -182,7 +182,7 @@
       "sourceId": "technolife-multimedia",
       "sourceUrl": "https://www.technolife.com/category/multimedia",
       "source": "web-catalog:technolife-multimedia",
-      "observedAt": "2026-09-01T05:07:21.287Z"
+      "observedAt": "2026-09-01T10:33:40.050Z"
     },
     {
       "id": "web-audio-video-fb9309c5cf41fffb",
@@ -199,7 +199,7 @@
       "sourceId": "technolife-multimedia",
       "sourceUrl": "https://www.technolife.com/category/multimedia",
       "source": "web-catalog:technolife-multimedia",
-      "observedAt": "2026-09-01T05:07:21.287Z"
+      "observedAt": "2026-09-01T10:33:40.050Z"
     },
     {
       "id": "web-audio-video-f2b141967326c494",
@@ -216,7 +216,7 @@
       "sourceId": "technolife-multimedia",
       "sourceUrl": "https://www.technolife.com/category/multimedia",
       "source": "web-catalog:technolife-multimedia",
-      "observedAt": "2026-09-01T05:07:21.287Z"
+      "observedAt": "2026-09-01T10:33:40.050Z"
     },
     {
       "id": "web-audio-video-4d4cf06d249d38e1",
@@ -233,7 +233,7 @@
       "sourceId": "technolife-multimedia",
       "sourceUrl": "https://www.technolife.com/category/multimedia",
       "source": "web-catalog:technolife-multimedia",
-      "observedAt": "2026-09-01T05:07:21.287Z"
+      "observedAt": "2026-09-01T10:33:40.051Z"
     },
     {
       "id": "web-audio-video-9410484f256089ef",
@@ -250,24 +250,7 @@
       "sourceId": "technolife-multimedia",
       "sourceUrl": "https://www.technolife.com/category/multimedia",
       "source": "web-catalog:technolife-multimedia",
-      "observedAt": "2026-09-01T05:07:21.287Z"
-    },
-    {
-      "id": "web-audio-video-b0edc84b061114ab",
-      "productId": "web-audio-video-b0edc84b061114ab",
-      "name": "اسپیکر بلوتوثی قابل حمل تسکو مدل TS 23362",
-      "brand": "دل",
-      "model": "اسپیکر بلوتوثی قابل حمل تسکو مدل TS 23362",
-      "category": "audio-video",
-      "price": 0,
-      "currency": "IRR",
-      "availability": "unknown",
-      "productUrl": "https://www.technolife.com/product-301259/%D8%A7%D8%B3%D9%BE%DB%8C%DA%A9%D8%B1-%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%AD%D9%85%D9%84-%D8%AA%D8%B3%DA%A9%D9%88-%D9%85%D8%AF%D9%84-ts-23362",
-      "image": "",
-      "sourceId": "technolife-multimedia",
-      "sourceUrl": "https://www.technolife.com/category/multimedia",
-      "source": "web-catalog:technolife-multimedia",
-      "observedAt": "2026-09-01T05:07:21.287Z"
+      "observedAt": "2026-09-01T10:33:40.051Z"
     },
     {
       "id": "web-audio-video-ee04719471cae2f8",
@@ -284,41 +267,24 @@
       "sourceId": "technolife-multimedia",
       "sourceUrl": "https://www.technolife.com/category/multimedia",
       "source": "web-catalog:technolife-multimedia",
-      "observedAt": "2026-09-01T05:07:21.287Z"
+      "observedAt": "2026-09-01T10:33:40.051Z"
     },
     {
-      "id": "web-audio-video-df06092300a2779b",
-      "productId": "web-audio-video-df06092300a2779b",
-      "name": "تلویزیون ال ای دی سونی مدل KD-55X80L سایز 55 اینچ",
+      "id": "web-audio-video-b0edc84b061114ab",
+      "productId": "web-audio-video-b0edc84b061114ab",
+      "name": "اسپیکر بلوتوثی قابل حمل تسکو مدل TS 23362",
       "brand": "دل",
-      "model": "تلویزیون ال ای دی سونی مدل KD-55X80L سایز 55 اینچ",
+      "model": "اسپیکر بلوتوثی قابل حمل تسکو مدل TS 23362",
       "category": "audio-video",
       "price": 0,
       "currency": "IRR",
       "availability": "unknown",
-      "productUrl": "https://www.technolife.com/product-36234/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-%D8%A7%D9%84-%D8%A7%DB%8C-%D8%AF%DB%8C-%D8%B3%D9%88%D9%86%DB%8C-%D9%85%D8%AF%D9%84-kd-55x80l-%D8%B3%D8%A7%DB%8C%D8%B2-55-%D8%A7%DB%8C%D9%86%DA%86",
+      "productUrl": "https://www.technolife.com/product-301259/%D8%A7%D8%B3%D9%BE%DB%8C%DA%A9%D8%B1-%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%AD%D9%85%D9%84-%D8%AA%D8%B3%DA%A9%D9%88-%D9%85%D8%AF%D9%84-ts-23362",
       "image": "",
       "sourceId": "technolife-multimedia",
       "sourceUrl": "https://www.technolife.com/category/multimedia",
       "source": "web-catalog:technolife-multimedia",
-      "observedAt": "2026-09-01T05:07:21.288Z"
-    },
-    {
-      "id": "web-audio-video-638d1da40dff21f6",
-      "productId": "web-audio-video-638d1da40dff21f6",
-      "name": "تلویزیون هوشمند 43 اینچ ال ای دی جی پلاس مدل GTV-43SH648NP",
-      "brand": "دل",
-      "model": "تلویزیون هوشمند 43 اینچ ال ای دی جی پلاس مدل GTV-43SH648NP",
-      "category": "audio-video",
-      "price": 0,
-      "currency": "IRR",
-      "availability": "unknown",
-      "productUrl": "https://www.technolife.com/product-578743/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-43-%D8%A7%DB%8C%D9%86%DA%86-%D8%A7%D9%84-%D8%A7%DB%8C-%D8%AF%DB%8C-%D8%AC%DB%8C-%D9%BE%D9%84%D8%A7%D8%B3-%D9%85%D8%AF%D9%84-gtv-43sh648np",
-      "image": "",
-      "sourceId": "technolife-multimedia",
-      "sourceUrl": "https://www.technolife.com/category/multimedia",
-      "source": "web-catalog:technolife-multimedia",
-      "observedAt": "2026-09-01T05:07:21.288Z"
+      "observedAt": "2026-09-01T10:33:40.051Z"
     },
     {
       "id": "web-audio-video-292677c9248e62f4",
@@ -335,7 +301,41 @@
       "sourceId": "technolife-multimedia",
       "sourceUrl": "https://www.technolife.com/category/multimedia",
       "source": "web-catalog:technolife-multimedia",
-      "observedAt": "2026-09-01T05:07:21.288Z"
+      "observedAt": "2026-09-01T10:33:40.051Z"
+    },
+    {
+      "id": "web-audio-video-df06092300a2779b",
+      "productId": "web-audio-video-df06092300a2779b",
+      "name": "تلویزیون ال ای دی سونی مدل KD-55X80L سایز 55 اینچ",
+      "brand": "دل",
+      "model": "تلویزیون ال ای دی سونی مدل KD-55X80L سایز 55 اینچ",
+      "category": "audio-video",
+      "price": 0,
+      "currency": "IRR",
+      "availability": "unknown",
+      "productUrl": "https://www.technolife.com/product-36234/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-%D8%A7%D9%84-%D8%A7%DB%8C-%D8%AF%DB%8C-%D8%B3%D9%88%D9%86%DB%8C-%D9%85%D8%AF%D9%84-kd-55x80l-%D8%B3%D8%A7%DB%8C%D8%B2-55-%D8%A7%DB%8C%D9%86%DA%86",
+      "image": "",
+      "sourceId": "technolife-multimedia",
+      "sourceUrl": "https://www.technolife.com/category/multimedia",
+      "source": "web-catalog:technolife-multimedia",
+      "observedAt": "2026-09-01T10:33:40.051Z"
+    },
+    {
+      "id": "web-audio-video-638d1da40dff21f6",
+      "productId": "web-audio-video-638d1da40dff21f6",
+      "name": "تلویزیون هوشمند 43 اینچ ال ای دی جی پلاس مدل GTV-43SH648NP",
+      "brand": "دل",
+      "model": "تلویزیون هوشمند 43 اینچ ال ای دی جی پلاس مدل GTV-43SH648NP",
+      "category": "audio-video",
+      "price": 0,
+      "currency": "IRR",
+      "availability": "unknown",
+      "productUrl": "https://www.technolife.com/product-578743/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-43-%D8%A7%DB%8C%D9%86%DA%86-%D8%A7%D9%84-%D8%A7%DB%8C-%D8%AF%DB%8C-%D8%AC%DB%8C-%D9%BE%D9%84%D8%A7%D8%B3-%D9%85%D8%AF%D9%84-gtv-43sh648np",
+      "image": "",
+      "sourceId": "technolife-multimedia",
+      "sourceUrl": "https://www.technolife.com/category/multimedia",
+      "source": "web-catalog:technolife-multimedia",
+      "observedAt": "2026-09-01T10:33:40.051Z"
     },
     {
       "id": "web-audio-video-11bbd4f79a3d1d3a",
@@ -352,92 +352,7 @@
       "sourceId": "technolife-multimedia",
       "sourceUrl": "https://www.technolife.com/category/multimedia",
       "source": "web-catalog:technolife-multimedia",
-      "observedAt": "2026-09-01T05:07:21.288Z"
-    },
-    {
-      "id": "web-audio-video-d11a4e834435f72f",
-      "productId": "web-audio-video-d11a4e834435f72f",
-      "name": "اسپیکر بلوتوثی تسکو مدل TS 23358",
-      "brand": "دل",
-      "model": "اسپیکر بلوتوثی تسکو مدل TS 23358",
-      "category": "audio-video",
-      "price": 0,
-      "currency": "IRR",
-      "availability": "unknown",
-      "productUrl": "https://www.technolife.com/product-442235/%D8%A7%D8%B3%D9%BE%DB%8C%DA%A9%D8%B1-%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB%DB%8C-%D8%AA%D8%B3%DA%A9%D9%88-%D9%85%D8%AF%D9%84-ts-23358",
-      "image": "",
-      "sourceId": "technolife-multimedia",
-      "sourceUrl": "https://www.technolife.com/category/multimedia",
-      "source": "web-catalog:technolife-multimedia",
-      "observedAt": "2026-09-01T05:07:21.288Z"
-    },
-    {
-      "id": "web-audio-video-6597fb614f0b0987",
-      "productId": "web-audio-video-6597fb614f0b0987",
-      "name": "اسپیکر بلوتوثی قابل حمل هارمن کاردن مدل Onyx Studio 9",
-      "brand": "دل",
-      "model": "اسپیکر بلوتوثی قابل حمل هارمن کاردن مدل Onyx Studio 9",
-      "category": "audio-video",
-      "price": 0,
-      "currency": "IRR",
-      "availability": "unknown",
-      "productUrl": "https://www.technolife.com/product-116670/%D8%A7%D8%B3%D9%BE%DB%8C%DA%A9%D8%B1-%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%AD%D9%85%D9%84-%D9%87%D8%A7%D8%B1%D9%85%D9%86-%DA%A9%D8%A7%D8%B1%D8%AF%D9%86-%D9%85%D8%AF%D9%84-onyx-studio-9",
-      "image": "",
-      "sourceId": "technolife-multimedia",
-      "sourceUrl": "https://www.technolife.com/category/multimedia",
-      "source": "web-catalog:technolife-multimedia",
-      "observedAt": "2026-09-01T05:07:21.288Z"
-    },
-    {
-      "id": "web-audio-video-248f0a9fa81ca0c0",
-      "productId": "web-audio-video-248f0a9fa81ca0c0",
-      "name": "تلویزیون ایکس ویژن مدل 43XC605 سایز 43 اینچ",
-      "brand": "دل",
-      "model": "تلویزیون ایکس ویژن مدل 43XC605 سایز 43 اینچ",
-      "category": "audio-video",
-      "price": 0,
-      "currency": "IRR",
-      "availability": "unknown",
-      "productUrl": "https://www.technolife.com/product-426153/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-%D8%A7%DB%8C%DA%A9%D8%B3-%D9%88%DB%8C%DA%98%D9%86-%D9%85%D8%AF%D9%84-43xc605-%D8%B3%D8%A7%DB%8C%D8%B2-43-%D8%A7%DB%8C%D9%86%DA%86",
-      "image": "",
-      "sourceId": "technolife-multimedia",
-      "sourceUrl": "https://www.technolife.com/category/multimedia",
-      "source": "web-catalog:technolife-multimedia",
-      "observedAt": "2026-09-01T05:07:21.288Z"
-    },
-    {
-      "id": "web-audio-video-5e27802d2f4bbed7",
-      "productId": "web-audio-video-5e27802d2f4bbed7",
-      "name": "تلویزیون سونی LED سایز 65 اینچ مدل KD-65X85L",
-      "brand": "دل",
-      "model": "تلویزیون سونی LED سایز 65 اینچ مدل KD-65X85L",
-      "category": "audio-video",
-      "price": 0,
-      "currency": "IRR",
-      "availability": "unknown",
-      "productUrl": "https://www.technolife.com/product-47975/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-%D8%B3%D9%88%D9%86%DB%8C-led-%D8%B3%D8%A7%DB%8C%D8%B2-65-%D8%A7%DB%8C%D9%86%DA%86-%D9%85%D8%AF%D9%84-kd-65x85l",
-      "image": "",
-      "sourceId": "technolife-multimedia",
-      "sourceUrl": "https://www.technolife.com/category/multimedia",
-      "source": "web-catalog:technolife-multimedia",
-      "observedAt": "2026-09-01T05:07:21.288Z"
-    },
-    {
-      "id": "web-audio-video-509f23a86bee738e",
-      "productId": "web-audio-video-509f23a86bee738e",
-      "name": "اسپیکر بلوتوثی انکر مدل SoundCore Select 3",
-      "brand": "دل",
-      "model": "اسپیکر بلوتوثی انکر مدل SoundCore Select 3",
-      "category": "audio-video",
-      "price": 0,
-      "currency": "IRR",
-      "availability": "unknown",
-      "productUrl": "https://www.technolife.com/product-179585/%D8%A7%D8%B3%D9%BE%DB%8C%DA%A9%D8%B1-%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB%DB%8C-%D8%A7%D9%86%DA%A9%D8%B1-%D9%85%D8%AF%D9%84-soundcore-select-3",
-      "image": "",
-      "sourceId": "technolife-multimedia",
-      "sourceUrl": "https://www.technolife.com/category/multimedia",
-      "source": "web-catalog:technolife-multimedia",
-      "observedAt": "2026-09-01T05:07:21.288Z"
+      "observedAt": "2026-09-01T10:33:40.051Z"
     },
     {
       "id": "web-audio-video-984b9367f5530285",
@@ -454,7 +369,92 @@
       "sourceId": "technolife-multimedia",
       "sourceUrl": "https://www.technolife.com/category/multimedia",
       "source": "web-catalog:technolife-multimedia",
-      "observedAt": "2026-09-01T05:07:21.288Z"
+      "observedAt": "2026-09-01T10:33:40.051Z"
+    },
+    {
+      "id": "web-audio-video-d11a4e834435f72f",
+      "productId": "web-audio-video-d11a4e834435f72f",
+      "name": "اسپیکر بلوتوثی تسکو مدل TS 23358",
+      "brand": "دل",
+      "model": "اسپیکر بلوتوثی تسکو مدل TS 23358",
+      "category": "audio-video",
+      "price": 0,
+      "currency": "IRR",
+      "availability": "unknown",
+      "productUrl": "https://www.technolife.com/product-442235/%D8%A7%D8%B3%D9%BE%DB%8C%DA%A9%D8%B1-%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB%DB%8C-%D8%AA%D8%B3%DA%A9%D9%88-%D9%85%D8%AF%D9%84-ts-23358",
+      "image": "",
+      "sourceId": "technolife-multimedia",
+      "sourceUrl": "https://www.technolife.com/category/multimedia",
+      "source": "web-catalog:technolife-multimedia",
+      "observedAt": "2026-09-01T10:33:40.051Z"
+    },
+    {
+      "id": "web-audio-video-6597fb614f0b0987",
+      "productId": "web-audio-video-6597fb614f0b0987",
+      "name": "اسپیکر بلوتوثی قابل حمل هارمن کاردن مدل Onyx Studio 9",
+      "brand": "دل",
+      "model": "اسپیکر بلوتوثی قابل حمل هارمن کاردن مدل Onyx Studio 9",
+      "category": "audio-video",
+      "price": 0,
+      "currency": "IRR",
+      "availability": "unknown",
+      "productUrl": "https://www.technolife.com/product-116670/%D8%A7%D8%B3%D9%BE%DB%8C%DA%A9%D8%B1-%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%AD%D9%85%D9%84-%D9%87%D8%A7%D8%B1%D9%85%D9%86-%DA%A9%D8%A7%D8%B1%D8%AF%D9%86-%D9%85%D8%AF%D9%84-onyx-studio-9",
+      "image": "",
+      "sourceId": "technolife-multimedia",
+      "sourceUrl": "https://www.technolife.com/category/multimedia",
+      "source": "web-catalog:technolife-multimedia",
+      "observedAt": "2026-09-01T10:33:40.051Z"
+    },
+    {
+      "id": "web-audio-video-248f0a9fa81ca0c0",
+      "productId": "web-audio-video-248f0a9fa81ca0c0",
+      "name": "تلویزیون ایکس ویژن مدل 43XC605 سایز 43 اینچ",
+      "brand": "دل",
+      "model": "تلویزیون ایکس ویژن مدل 43XC605 سایز 43 اینچ",
+      "category": "audio-video",
+      "price": 0,
+      "currency": "IRR",
+      "availability": "unknown",
+      "productUrl": "https://www.technolife.com/product-426153/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-%D8%A7%DB%8C%DA%A9%D8%B3-%D9%88%DB%8C%DA%98%D9%86-%D9%85%D8%AF%D9%84-43xc605-%D8%B3%D8%A7%DB%8C%D8%B2-43-%D8%A7%DB%8C%D9%86%DA%86",
+      "image": "",
+      "sourceId": "technolife-multimedia",
+      "sourceUrl": "https://www.technolife.com/category/multimedia",
+      "source": "web-catalog:technolife-multimedia",
+      "observedAt": "2026-09-01T10:33:40.051Z"
+    },
+    {
+      "id": "web-audio-video-5e27802d2f4bbed7",
+      "productId": "web-audio-video-5e27802d2f4bbed7",
+      "name": "تلویزیون سونی LED سایز 65 اینچ مدل KD-65X85L",
+      "brand": "دل",
+      "model": "تلویزیون سونی LED سایز 65 اینچ مدل KD-65X85L",
+      "category": "audio-video",
+      "price": 0,
+      "currency": "IRR",
+      "availability": "unknown",
+      "productUrl": "https://www.technolife.com/product-47975/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-%D8%B3%D9%88%D9%86%DB%8C-led-%D8%B3%D8%A7%DB%8C%D8%B2-65-%D8%A7%DB%8C%D9%86%DA%86-%D9%85%D8%AF%D9%84-kd-65x85l",
+      "image": "",
+      "sourceId": "technolife-multimedia",
+      "sourceUrl": "https://www.technolife.com/category/multimedia",
+      "source": "web-catalog:technolife-multimedia",
+      "observedAt": "2026-09-01T10:33:40.051Z"
+    },
+    {
+      "id": "web-audio-video-509f23a86bee738e",
+      "productId": "web-audio-video-509f23a86bee738e",
+      "name": "اسپیکر بلوتوثی انکر مدل SoundCore Select 3",
+      "brand": "دل",
+      "model": "اسپیکر بلوتوثی انکر مدل SoundCore Select 3",
+      "category": "audio-video",
+      "price": 0,
+      "currency": "IRR",
+      "availability": "unknown",
+      "productUrl": "https://www.technolife.com/product-179585/%D8%A7%D8%B3%D9%BE%DB%8C%DA%A9%D8%B1-%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB%DB%8C-%D8%A7%D9%86%DA%A9%D8%B1-%D9%85%D8%AF%D9%84-soundcore-select-3",
+      "image": "",
+      "sourceId": "technolife-multimedia",
+      "sourceUrl": "https://www.technolife.com/category/multimedia",
+      "source": "web-catalog:technolife-multimedia",
+      "observedAt": "2026-09-01T10:33:40.051Z"
     },
     {
       "id": "web-audio-video-5699e9a576ce59d0",
@@ -471,7 +471,7 @@
       "sourceId": "technolife-multimedia",
       "sourceUrl": "https://www.technolife.com/category/multimedia",
       "source": "web-catalog:technolife-multimedia",
-      "observedAt": "2026-09-01T05:07:21.288Z"
+      "observedAt": "2026-09-01T10:33:40.051Z"
     },
     {
       "id": "web-audio-video-1ee38f9411543549",
@@ -488,7 +488,7 @@
       "sourceId": "technolife-multimedia",
       "sourceUrl": "https://www.technolife.com/category/multimedia",
       "source": "web-catalog:technolife-multimedia",
-      "observedAt": "2026-09-01T05:07:21.288Z"
+      "observedAt": "2026-09-01T10:33:40.051Z"
     },
     {
       "id": "web-audio-video-b1f5cfa1fe12762c",
@@ -505,7 +505,7 @@
       "sourceId": "technolife-multimedia",
       "sourceUrl": "https://www.technolife.com/category/multimedia",
       "source": "web-catalog:technolife-multimedia",
-      "observedAt": "2026-09-01T05:07:21.288Z"
+      "observedAt": "2026-09-01T10:33:40.052Z"
     },
     {
       "id": "web-audio-video-d87636424728846c",
@@ -522,7 +522,7 @@
       "sourceId": "technolife-multimedia",
       "sourceUrl": "https://www.technolife.com/category/multimedia",
       "source": "web-catalog:technolife-multimedia",
-      "observedAt": "2026-09-01T05:07:21.288Z"
+      "observedAt": "2026-09-01T10:33:40.052Z"
     },
     {
       "id": "web-audio-video-b05d64cfdc843fd7",
@@ -539,7 +539,7 @@
       "sourceId": "technolife-multimedia",
       "sourceUrl": "https://www.technolife.com/category/multimedia",
       "source": "web-catalog:technolife-multimedia",
-      "observedAt": "2026-09-01T05:07:21.288Z"
+      "observedAt": "2026-09-01T10:33:40.052Z"
     }
   ],
   "status": "web-ingested",

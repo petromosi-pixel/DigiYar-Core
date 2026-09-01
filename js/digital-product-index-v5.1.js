@@ -14,7 +14,7 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:06:08.569Z"
+    "observedAt": "2026-09-01T10:32:32.062Z"
   },
   {
     "id": "web-digital-30cf9e88ccc01fc0",
@@ -31,7 +31,7 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:06:08.569Z"
+    "observedAt": "2026-09-01T10:32:32.062Z"
   },
   {
     "id": "web-digital-8846224d38f87719",
@@ -48,7 +48,7 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:06:08.569Z"
+    "observedAt": "2026-09-01T10:32:32.062Z"
   },
   {
     "id": "web-digital-507ead069808e5f8",
@@ -65,7 +65,7 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:06:08.569Z"
+    "observedAt": "2026-09-01T10:32:32.062Z"
   },
   {
     "id": "web-digital-427371d162966f27",
@@ -82,7 +82,7 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:06:08.569Z"
+    "observedAt": "2026-09-01T10:32:32.062Z"
   },
   {
     "id": "web-digital-c1400e06b98a7947",
@@ -99,7 +99,7 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:06:08.569Z"
+    "observedAt": "2026-09-01T10:32:32.062Z"
   },
   {
     "id": "web-digital-a86963292d56c994",
@@ -116,7 +116,7 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:06:08.569Z"
+    "observedAt": "2026-09-01T10:32:32.062Z"
   },
   {
     "id": "web-digital-e45510805d98193b",
@@ -133,24 +133,7 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:06:08.569Z"
-  },
-  {
-    "id": "web-digital-b3b2d42046edb21c",
-    "productId": "web-digital-b3b2d42046edb21c",
-    "name": "ماوس پد پرووان مدل PMP15",
-    "brand": "دل",
-    "model": "ماوس پد پرووان مدل PMP15",
-    "category": "digital",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-43442/%D9%85%D8%A7%D9%88%D8%B3-%D9%BE%D8%AF-%D9%BE%D8%B1%D9%88%D9%88%D8%A7%D9%86-%D9%85%D8%AF%D9%84-pmp15",
-    "image": "",
-    "sourceId": "technolife-pc",
-    "sourceUrl": "https://www.technolife.com/category/pc-equipment",
-    "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:06:08.569Z"
+    "observedAt": "2026-09-01T10:32:32.062Z"
   },
   {
     "id": "web-digital-e669113b8a028746",
@@ -167,7 +150,24 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:06:08.569Z"
+    "observedAt": "2026-09-01T10:32:32.062Z"
+  },
+  {
+    "id": "web-digital-b3b2d42046edb21c",
+    "productId": "web-digital-b3b2d42046edb21c",
+    "name": "ماوس پد پرووان مدل PMP15",
+    "brand": "دل",
+    "model": "ماوس پد پرووان مدل PMP15",
+    "category": "digital",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-43442/%D9%85%D8%A7%D9%88%D8%B3-%D9%BE%D8%AF-%D9%BE%D8%B1%D9%88%D9%88%D8%A7%D9%86-%D9%85%D8%AF%D9%84-pmp15",
+    "image": "",
+    "sourceId": "technolife-pc",
+    "sourceUrl": "https://www.technolife.com/category/pc-equipment",
+    "source": "web-catalog:technolife-pc",
+    "observedAt": "2026-09-01T10:32:32.062Z"
   },
   {
     "id": "web-digital-2754113b29a0b9ec",
@@ -184,7 +184,7 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:06:08.569Z"
+    "observedAt": "2026-09-01T10:32:32.062Z"
   },
   {
     "id": "web-digital-cfa3e53bef27417d",
@@ -201,7 +201,7 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:06:08.569Z"
+    "observedAt": "2026-09-01T10:32:32.062Z"
   },
   {
     "id": "web-digital-de4c35e2beeb0153",
@@ -218,41 +218,7 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:06:08.569Z"
-  },
-  {
-    "id": "web-digital-2cccb796f36453da",
-    "productId": "web-digital-2cccb796f36453da",
-    "name": "فلش مموری ای دیتا مدل UV150 USB3 ظرفیت 64 گیگابایت",
-    "brand": "دل",
-    "model": "فلش مموری ای دیتا مدل UV150 USB3 ظرفیت 64 گیگابایت",
-    "category": "digital",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-32268/%D9%81%D9%84%D8%B4-%D9%85%D9%85%D9%88%D8%B1%DB%8C-%D8%A7%DB%8C-%D8%AF%DB%8C%D8%AA%D8%A7-%D9%85%D8%AF%D9%84-uv150-usb3-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-64-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
-    "image": "",
-    "sourceId": "technolife-pc",
-    "sourceUrl": "https://www.technolife.com/category/pc-equipment",
-    "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:06:08.569Z"
-  },
-  {
-    "id": "web-digital-8df0c8a4f17b238b",
-    "productId": "web-digital-8df0c8a4f17b238b",
-    "name": "فلش مموری اچ پی مدل V212B ظرفیت 64 گیگابایت",
-    "brand": "اچ‌پی",
-    "model": "فلش مموری اچ پی مدل V212B ظرفیت 64 گیگابایت",
-    "category": "digital",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-25433/%D9%81%D9%84%D8%B4-%D9%85%D9%85%D9%88%D8%B1%DB%8C-%D8%A7%DA%86-%D9%BE%DB%8C-%D9%85%D8%AF%D9%84-v212b-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-64-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
-    "image": "",
-    "sourceId": "technolife-pc",
-    "sourceUrl": "https://www.technolife.com/category/pc-equipment",
-    "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:06:08.570Z"
+    "observedAt": "2026-09-01T10:32:32.062Z"
   },
   {
     "id": "web-digital-dc2ae90bcf5de865",
@@ -269,24 +235,41 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:06:08.570Z"
+    "observedAt": "2026-09-01T10:32:32.062Z"
   },
   {
-    "id": "web-digital-c70d5fb455ace7fb",
-    "productId": "web-digital-c70d5fb455ace7fb",
-    "name": "فلش مموری سن دیسک مدل ULTRA SHIFT CZ410 ظرفیت 64 گیگابایت",
+    "id": "web-digital-2cccb796f36453da",
+    "productId": "web-digital-2cccb796f36453da",
+    "name": "فلش مموری ای دیتا مدل UV150 USB3 ظرفیت 64 گیگابایت",
     "brand": "دل",
-    "model": "فلش مموری سن دیسک مدل ULTRA SHIFT CZ410 ظرفیت 64 گیگابایت",
+    "model": "فلش مموری ای دیتا مدل UV150 USB3 ظرفیت 64 گیگابایت",
     "category": "digital",
     "price": 0,
     "currency": "IRR",
     "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-5630/-%D9%81%D9%84%D8%B4-%D9%85%D9%85%D9%88%D8%B1%DB%8C-%D8%B3%D9%86-%D8%AF%DB%8C%D8%B3%DA%A9-%D9%85%D8%AF%D9%84-ultra-shift-cz410-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-64-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
+    "productUrl": "https://www.technolife.com/product-32268/%D9%81%D9%84%D8%B4-%D9%85%D9%85%D9%88%D8%B1%DB%8C-%D8%A7%DB%8C-%D8%AF%DB%8C%D8%AA%D8%A7-%D9%85%D8%AF%D9%84-uv150-usb3-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-64-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
     "image": "",
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:06:08.570Z"
+    "observedAt": "2026-09-01T10:32:32.062Z"
+  },
+  {
+    "id": "web-digital-8df0c8a4f17b238b",
+    "productId": "web-digital-8df0c8a4f17b238b",
+    "name": "فلش مموری اچ پی مدل V212B ظرفیت 64 گیگابایت",
+    "brand": "اچ‌پی",
+    "model": "فلش مموری اچ پی مدل V212B ظرفیت 64 گیگابایت",
+    "category": "digital",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-25433/%D9%81%D9%84%D8%B4-%D9%85%D9%85%D9%88%D8%B1%DB%8C-%D8%A7%DA%86-%D9%BE%DB%8C-%D9%85%D8%AF%D9%84-v212b-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-64-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
+    "image": "",
+    "sourceId": "technolife-pc",
+    "sourceUrl": "https://www.technolife.com/category/pc-equipment",
+    "source": "web-catalog:technolife-pc",
+    "observedAt": "2026-09-01T10:32:32.062Z"
   },
   {
     "id": "web-digital-b14b60bf6d936930",
@@ -303,7 +286,24 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:06:08.570Z"
+    "observedAt": "2026-09-01T10:32:32.062Z"
+  },
+  {
+    "id": "web-digital-c70d5fb455ace7fb",
+    "productId": "web-digital-c70d5fb455ace7fb",
+    "name": "فلش مموری سن دیسک مدل ULTRA SHIFT CZ410 ظرفیت 64 گیگابایت",
+    "brand": "دل",
+    "model": "فلش مموری سن دیسک مدل ULTRA SHIFT CZ410 ظرفیت 64 گیگابایت",
+    "category": "digital",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-5630/-%D9%81%D9%84%D8%B4-%D9%85%D9%85%D9%88%D8%B1%DB%8C-%D8%B3%D9%86-%D8%AF%DB%8C%D8%B3%DA%A9-%D9%85%D8%AF%D9%84-ultra-shift-cz410-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-64-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
+    "image": "",
+    "sourceId": "technolife-pc",
+    "sourceUrl": "https://www.technolife.com/category/pc-equipment",
+    "source": "web-catalog:technolife-pc",
+    "observedAt": "2026-09-01T10:32:32.063Z"
   },
   {
     "id": "web-digital-854005ca74051252",
@@ -320,7 +320,7 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:06:08.570Z"
+    "observedAt": "2026-09-01T10:32:32.063Z"
   },
   {
     "id": "web-digital-e2a0261e5e95d823",
@@ -337,24 +337,7 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:06:08.570Z"
-  },
-  {
-    "id": "web-digital-416bfbae33e8a373",
-    "productId": "web-digital-416bfbae33e8a373",
-    "name": "کابل شیایومی تایپ سی اورجینال مناسب برای آداپتور 33وات",
-    "brand": "",
-    "model": "کابل شیایومی تایپ سی اورجینال مناسب برای آداپتور 33وات",
-    "category": "digital",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-2902/%DA%A9%D8%A7%D8%A8%D9%84-%D8%B4%DB%8C%D8%A7%DB%8C%D9%88%D9%85%DB%8C-%D8%AA%D8%A7%DB%8C%D9%BE-%D8%B3%DB%8C-%D8%A7%D9%88%D8%B1%D8%AC%DB%8C%D9%86%D8%A7%D9%84-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A2%D8%AF%D8%A7%D9%BE%D8%AA%D9%88%D8%B1-33%D9%88%D8%A7%D8%AA",
-    "image": "",
-    "sourceId": "technolife-pc",
-    "sourceUrl": "https://www.technolife.com/category/pc-equipment",
-    "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:06:08.570Z"
+    "observedAt": "2026-09-01T10:32:32.063Z"
   },
   {
     "id": "web-digital-70ca8da5ed54afbe",
@@ -371,7 +354,24 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:06:08.570Z"
+    "observedAt": "2026-09-01T10:32:32.063Z"
+  },
+  {
+    "id": "web-digital-416bfbae33e8a373",
+    "productId": "web-digital-416bfbae33e8a373",
+    "name": "کابل شیایومی تایپ سی اورجینال مناسب برای آداپتور 33وات",
+    "brand": "",
+    "model": "کابل شیایومی تایپ سی اورجینال مناسب برای آداپتور 33وات",
+    "category": "digital",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-2902/%DA%A9%D8%A7%D8%A8%D9%84-%D8%B4%DB%8C%D8%A7%DB%8C%D9%88%D9%85%DB%8C-%D8%AA%D8%A7%DB%8C%D9%BE-%D8%B3%DB%8C-%D8%A7%D9%88%D8%B1%D8%AC%DB%8C%D9%86%D8%A7%D9%84-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A2%D8%AF%D8%A7%D9%BE%D8%AA%D9%88%D8%B1-33%D9%88%D8%A7%D8%AA",
+    "image": "",
+    "sourceId": "technolife-pc",
+    "sourceUrl": "https://www.technolife.com/category/pc-equipment",
+    "source": "web-catalog:technolife-pc",
+    "observedAt": "2026-09-01T10:32:32.063Z"
   },
   {
     "id": "web-digital-29d3464fc76bd0a7",
@@ -388,7 +388,7 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:06:08.570Z"
+    "observedAt": "2026-09-01T10:32:32.063Z"
   },
   {
     "id": "web-digital-838893d24fe10401",
@@ -405,41 +405,7 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:06:08.570Z"
-  },
-  {
-    "id": "web-digital-cdf06d56a78d100f",
-    "productId": "web-digital-cdf06d56a78d100f",
-    "name": "هارد اکسترنال توشیبا مدل Canvio Basics با ظرفیت 2 ترابایت",
-    "brand": "دل",
-    "model": "هارد اکسترنال توشیبا مدل Canvio Basics با ظرفیت 2 ترابایت",
-    "category": "digital",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-4661/%D9%87%D8%A7%D8%B1%D8%AF-%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%D9%86%D8%A7%D9%84-%D8%AA%D9%88%D8%B4%DB%8C%D8%A8%D8%A7-%D9%85%D8%AF%D9%84-canvio-basics-%D8%A8%D8%A7-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-2-%D8%AA%D8%B1%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-",
-    "image": "",
-    "sourceId": "technolife-pc",
-    "sourceUrl": "https://www.technolife.com/category/pc-equipment",
-    "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:06:08.570Z"
-  },
-  {
-    "id": "web-digital-3edf5f68d8fb11ca",
-    "productId": "web-digital-3edf5f68d8fb11ca",
-    "name": "هارد اس اس دی اینترنال پی ان وای مدل CS900 ظرفیت 500 گیگابایت",
-    "brand": "دل",
-    "model": "هارد اس اس دی اینترنال پی ان وای مدل CS900 ظرفیت 500 گیگابایت",
-    "category": "digital",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-67272/-%D9%87%D8%A7%D8%B1%D8%AF-%D8%A7%D8%B3-%D8%A7%D8%B3-%D8%AF%DB%8C-%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%A7%D9%84-%D9%BE%DB%8C-%D8%A7%D9%86-%D9%88%D8%A7%DB%8C-%D9%85%D8%AF%D9%84-cs900-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-500-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
-    "image": "",
-    "sourceId": "technolife-pc",
-    "sourceUrl": "https://www.technolife.com/category/pc-equipment",
-    "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:06:08.570Z"
+    "observedAt": "2026-09-01T10:32:32.063Z"
   },
   {
     "id": "web-digital-dac5aa408d98397c",
@@ -456,24 +422,41 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:06:08.570Z"
+    "observedAt": "2026-09-01T10:32:32.063Z"
   },
   {
-    "id": "web-digital-93a7bc142defc698",
-    "productId": "web-digital-93a7bc142defc698",
-    "name": "کیبورد گیمینگ اونیکوما مدل G55 RGB",
+    "id": "web-digital-cdf06d56a78d100f",
+    "productId": "web-digital-cdf06d56a78d100f",
+    "name": "هارد اکسترنال توشیبا مدل Canvio Basics با ظرفیت 2 ترابایت",
     "brand": "دل",
-    "model": "کیبورد گیمینگ اونیکوما مدل G55 RGB",
+    "model": "هارد اکسترنال توشیبا مدل Canvio Basics با ظرفیت 2 ترابایت",
     "category": "digital",
     "price": 0,
     "currency": "IRR",
     "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-75714/%DA%A9%DB%8C%D8%A8%D9%88%D8%B1%D8%AF-%DA%AF%DB%8C%D9%85%DB%8C%D9%86%DA%AF-%D8%A7%D9%88%D9%86%DB%8C%DA%A9%D9%88%D9%85%D8%A7-%D9%85%D8%AF%D9%84-g55-rgb",
+    "productUrl": "https://www.technolife.com/product-4661/%D9%87%D8%A7%D8%B1%D8%AF-%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%D9%86%D8%A7%D9%84-%D8%AA%D9%88%D8%B4%DB%8C%D8%A8%D8%A7-%D9%85%D8%AF%D9%84-canvio-basics-%D8%A8%D8%A7-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-2-%D8%AA%D8%B1%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-",
     "image": "",
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:06:08.570Z"
+    "observedAt": "2026-09-01T10:32:32.063Z"
+  },
+  {
+    "id": "web-digital-3edf5f68d8fb11ca",
+    "productId": "web-digital-3edf5f68d8fb11ca",
+    "name": "هارد اس اس دی اینترنال پی ان وای مدل CS900 ظرفیت 500 گیگابایت",
+    "brand": "دل",
+    "model": "هارد اس اس دی اینترنال پی ان وای مدل CS900 ظرفیت 500 گیگابایت",
+    "category": "digital",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-67272/-%D9%87%D8%A7%D8%B1%D8%AF-%D8%A7%D8%B3-%D8%A7%D8%B3-%D8%AF%DB%8C-%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%A7%D9%84-%D9%BE%DB%8C-%D8%A7%D9%86-%D9%88%D8%A7%DB%8C-%D9%85%D8%AF%D9%84-cs900-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-500-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
+    "image": "",
+    "sourceId": "technolife-pc",
+    "sourceUrl": "https://www.technolife.com/category/pc-equipment",
+    "source": "web-catalog:technolife-pc",
+    "observedAt": "2026-09-01T10:32:32.064Z"
   },
   {
     "id": "web-digital-f93758119d658098",
@@ -490,7 +473,24 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:06:08.570Z"
+    "observedAt": "2026-09-01T10:32:32.064Z"
+  },
+  {
+    "id": "web-digital-93a7bc142defc698",
+    "productId": "web-digital-93a7bc142defc698",
+    "name": "کیبورد گیمینگ اونیکوما مدل G55 RGB",
+    "brand": "دل",
+    "model": "کیبورد گیمینگ اونیکوما مدل G55 RGB",
+    "category": "digital",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-75714/%DA%A9%DB%8C%D8%A8%D9%88%D8%B1%D8%AF-%DA%AF%DB%8C%D9%85%DB%8C%D9%86%DA%AF-%D8%A7%D9%88%D9%86%DB%8C%DA%A9%D9%88%D9%85%D8%A7-%D9%85%D8%AF%D9%84-g55-rgb",
+    "image": "",
+    "sourceId": "technolife-pc",
+    "sourceUrl": "https://www.technolife.com/category/pc-equipment",
+    "source": "web-catalog:technolife-pc",
+    "observedAt": "2026-09-01T10:32:32.064Z"
   },
   {
     "id": "web-digital-9fc7c86d18c3ed55",
@@ -507,7 +507,7 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:06:08.570Z"
+    "observedAt": "2026-09-01T10:32:32.064Z"
   },
   {
     "id": "web-digital-760b2b5a75cc1b98",
@@ -524,7 +524,7 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-pc",
     "sourceUrl": "https://www.technolife.com/category/pc-equipment",
     "source": "web-catalog:technolife-pc",
-    "observedAt": "2026-09-01T05:06:08.570Z"
+    "observedAt": "2026-09-01T10:32:32.064Z"
   },
   {
     "id": "web-digital-3c73b159465114e4",
@@ -541,7 +541,7 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-mobile-accessories",
     "sourceUrl": "https://www.technolife.com/category/mobile/phone-accessories",
     "source": "web-catalog:technolife-mobile-accessories",
-    "observedAt": "2026-09-01T05:06:23.494Z"
+    "observedAt": "2026-09-01T10:32:47.784Z"
   },
   {
     "id": "web-digital-ed9578e52a75eaea",
@@ -558,7 +558,7 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-mobile-accessories",
     "sourceUrl": "https://www.technolife.com/category/mobile/phone-accessories",
     "source": "web-catalog:technolife-mobile-accessories",
-    "observedAt": "2026-09-01T05:06:23.495Z"
+    "observedAt": "2026-09-01T10:32:47.784Z"
   },
   {
     "id": "web-digital-5aff88ed4d23de60",
@@ -575,7 +575,7 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-mobile-accessories",
     "sourceUrl": "https://www.technolife.com/category/mobile/phone-accessories",
     "source": "web-catalog:technolife-mobile-accessories",
-    "observedAt": "2026-09-01T05:06:23.495Z"
+    "observedAt": "2026-09-01T10:32:47.784Z"
   },
   {
     "id": "web-digital-e73280e03c70eb1d",
@@ -592,7 +592,7 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-mobile-accessories",
     "sourceUrl": "https://www.technolife.com/category/mobile/phone-accessories",
     "source": "web-catalog:technolife-mobile-accessories",
-    "observedAt": "2026-09-01T05:06:23.495Z"
+    "observedAt": "2026-09-01T10:32:47.784Z"
   },
   {
     "id": "web-digital-f6f4bcc4b9952bfa",
@@ -609,7 +609,7 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-mobile-accessories",
     "sourceUrl": "https://www.technolife.com/category/mobile/phone-accessories",
     "source": "web-catalog:technolife-mobile-accessories",
-    "observedAt": "2026-09-01T05:06:23.495Z"
+    "observedAt": "2026-09-01T10:32:47.784Z"
   },
   {
     "id": "web-digital-536da030dba19fa6",
@@ -626,24 +626,7 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-mobile-accessories",
     "sourceUrl": "https://www.technolife.com/category/mobile/phone-accessories",
     "source": "web-catalog:technolife-mobile-accessories",
-    "observedAt": "2026-09-01T05:06:23.495Z"
-  },
-  {
-    "id": "web-digital-f4d1b0c923a129c4",
-    "productId": "web-digital-f4d1b0c923a129c4",
-    "name": "شارژر دیواری سامسونگ مدل EP-T4511 Low Standby توان 45 وات - Original",
-    "brand": "سامسونگ",
-    "model": "شارژر دیواری سامسونگ مدل EP-T4511 Low Standby توان 45 وات - Original",
-    "category": "digital",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-166577/%D8%B4%D8%A7%D8%B1%DA%98%D8%B1-%D8%AF%DB%8C%D9%88%D8%A7%D8%B1%DB%8C-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF-%D9%85%D8%AF%D9%84-ep-t4511-low-standby-%D8%AA%D9%88%D8%A7%D9%86-45-%D9%88%D8%A7%D8%AA---original",
-    "image": "",
-    "sourceId": "technolife-mobile-accessories",
-    "sourceUrl": "https://www.technolife.com/category/mobile/phone-accessories",
-    "source": "web-catalog:technolife-mobile-accessories",
-    "observedAt": "2026-09-01T05:06:23.495Z"
+    "observedAt": "2026-09-01T10:32:47.784Z"
   },
   {
     "id": "web-digital-a1685c667274d4d9",
@@ -660,7 +643,24 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-mobile-accessories",
     "sourceUrl": "https://www.technolife.com/category/mobile/phone-accessories",
     "source": "web-catalog:technolife-mobile-accessories",
-    "observedAt": "2026-09-01T05:06:23.495Z"
+    "observedAt": "2026-09-01T10:32:47.784Z"
+  },
+  {
+    "id": "web-digital-f4d1b0c923a129c4",
+    "productId": "web-digital-f4d1b0c923a129c4",
+    "name": "شارژر دیواری سامسونگ مدل EP-T4511 Low Standby توان 45 وات - Original",
+    "brand": "سامسونگ",
+    "model": "شارژر دیواری سامسونگ مدل EP-T4511 Low Standby توان 45 وات - Original",
+    "category": "digital",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-166577/%D8%B4%D8%A7%D8%B1%DA%98%D8%B1-%D8%AF%DB%8C%D9%88%D8%A7%D8%B1%DB%8C-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF-%D9%85%D8%AF%D9%84-ep-t4511-low-standby-%D8%AA%D9%88%D8%A7%D9%86-45-%D9%88%D8%A7%D8%AA---original",
+    "image": "",
+    "sourceId": "technolife-mobile-accessories",
+    "sourceUrl": "https://www.technolife.com/category/mobile/phone-accessories",
+    "source": "web-catalog:technolife-mobile-accessories",
+    "observedAt": "2026-09-01T10:32:47.784Z"
   },
   {
     "id": "web-digital-b26cd13e6d2a4db2",
@@ -677,7 +677,7 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-mobile-accessories",
     "sourceUrl": "https://www.technolife.com/category/mobile/phone-accessories",
     "source": "web-catalog:technolife-mobile-accessories",
-    "observedAt": "2026-09-01T05:06:23.495Z"
+    "observedAt": "2026-09-01T10:32:47.784Z"
   },
   {
     "id": "web-digital-5efa2e8010a67efc",
@@ -694,7 +694,7 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-mobile-accessories",
     "sourceUrl": "https://www.technolife.com/category/mobile/phone-accessories",
     "source": "web-catalog:technolife-mobile-accessories",
-    "observedAt": "2026-09-01T05:06:23.495Z"
+    "observedAt": "2026-09-01T10:32:47.784Z"
   },
   {
     "id": "web-digital-934ab72ee8beab29",
@@ -711,7 +711,7 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-mobile-accessories",
     "sourceUrl": "https://www.technolife.com/category/mobile/phone-accessories",
     "source": "web-catalog:technolife-mobile-accessories",
-    "observedAt": "2026-09-01T05:06:23.495Z"
+    "observedAt": "2026-09-01T10:32:47.784Z"
   },
   {
     "id": "web-digital-e5cf66209268be69",
@@ -728,24 +728,7 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-mobile-accessories",
     "sourceUrl": "https://www.technolife.com/category/mobile/phone-accessories",
     "source": "web-catalog:technolife-mobile-accessories",
-    "observedAt": "2026-09-01T05:06:23.495Z"
-  },
-  {
-    "id": "web-digital-79ad860bf90dee05",
-    "productId": "web-digital-79ad860bf90dee05",
-    "name": "پاوربانک شیائومی مدل PB3018ZM ظرفیت 30000 میلی آمپر",
-    "brand": "شیائومی",
-    "model": "پاوربانک شیائومی مدل PB3018ZM ظرفیت 30000 میلی آمپر",
-    "category": "digital",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-8178/%D9%BE%D8%A7%D9%88%D8%B1%D8%A8%D8%A7%D9%86%DA%A9-%D8%B4%DB%8C%D8%A7%D8%A6%D9%88%D9%85%DB%8C-%D9%85%D8%AF%D9%84-pb3018zm-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-30000-%D9%85%DB%8C%D9%84%DB%8C-%D8%A2%D9%85%D9%BE%D8%B1",
-    "image": "",
-    "sourceId": "technolife-mobile-accessories",
-    "sourceUrl": "https://www.technolife.com/category/mobile/phone-accessories",
-    "source": "web-catalog:technolife-mobile-accessories",
-    "observedAt": "2026-09-01T05:06:23.495Z"
+    "observedAt": "2026-09-01T10:32:47.784Z"
   },
   {
     "id": "web-digital-a82de36f5dd3868b",
@@ -762,7 +745,7 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-mobile-accessories",
     "sourceUrl": "https://www.technolife.com/category/mobile/phone-accessories",
     "source": "web-catalog:technolife-mobile-accessories",
-    "observedAt": "2026-09-01T05:06:23.495Z"
+    "observedAt": "2026-09-01T10:32:47.784Z"
   },
   {
     "id": "web-digital-5f20c98ee79eb654",
@@ -779,7 +762,24 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-mobile-accessories",
     "sourceUrl": "https://www.technolife.com/category/mobile/phone-accessories",
     "source": "web-catalog:technolife-mobile-accessories",
-    "observedAt": "2026-09-01T05:06:23.495Z"
+    "observedAt": "2026-09-01T10:32:47.784Z"
+  },
+  {
+    "id": "web-digital-79ad860bf90dee05",
+    "productId": "web-digital-79ad860bf90dee05",
+    "name": "پاوربانک شیائومی مدل PB3018ZM ظرفیت 30000 میلی آمپر",
+    "brand": "شیائومی",
+    "model": "پاوربانک شیائومی مدل PB3018ZM ظرفیت 30000 میلی آمپر",
+    "category": "digital",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-8178/%D9%BE%D8%A7%D9%88%D8%B1%D8%A8%D8%A7%D9%86%DA%A9-%D8%B4%DB%8C%D8%A7%D8%A6%D9%88%D9%85%DB%8C-%D9%85%D8%AF%D9%84-pb3018zm-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-30000-%D9%85%DB%8C%D9%84%DB%8C-%D8%A2%D9%85%D9%BE%D8%B1",
+    "image": "",
+    "sourceId": "technolife-mobile-accessories",
+    "sourceUrl": "https://www.technolife.com/category/mobile/phone-accessories",
+    "source": "web-catalog:technolife-mobile-accessories",
+    "observedAt": "2026-09-01T10:32:47.784Z"
   },
   {
     "id": "web-digital-ef4726f5b34042f5",
@@ -796,24 +796,7 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-mobile-accessories",
     "sourceUrl": "https://www.technolife.com/category/mobile/phone-accessories",
     "source": "web-catalog:technolife-mobile-accessories",
-    "observedAt": "2026-09-01T05:06:23.495Z"
-  },
-  {
-    "id": "web-digital-f66426480af3f45c",
-    "productId": "web-digital-f66426480af3f45c",
-    "name": "پاوربانک سن دیسک 25 وات مدل EXTREME PRO Super Fast ظرفیت 20000 میلی آمپر ساعت",
-    "brand": "دل",
-    "model": "پاوربانک سن دیسک 25 وات مدل EXTREME PRO Super Fast ظرفیت 20000 میلی آمپر ساعت",
-    "category": "digital",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-312540/%D9%BE%D8%A7%D9%88%D8%B1%D8%A8%D8%A7%D9%86%DA%A9-%D8%B3%D9%86-%D8%AF%DB%8C%D8%B3%DA%A9-25-%D9%88%D8%A7%D8%AA-%D9%85%D8%AF%D9%84-extreme-pro-super-fast-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-20000-%D9%85%DB%8C%D9%84%DB%8C-%D8%A2%D9%85%D9%BE%D8%B1-%D8%B3%D8%A7%D8%B9%D8%AA",
-    "image": "",
-    "sourceId": "technolife-mobile-accessories",
-    "sourceUrl": "https://www.technolife.com/category/mobile/phone-accessories",
-    "source": "web-catalog:technolife-mobile-accessories",
-    "observedAt": "2026-09-01T05:06:23.495Z"
+    "observedAt": "2026-09-01T10:32:47.784Z"
   },
   {
     "id": "web-digital-1e9c6712dd862036",
@@ -830,7 +813,7 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-mobile-accessories",
     "sourceUrl": "https://www.technolife.com/category/mobile/phone-accessories",
     "source": "web-catalog:technolife-mobile-accessories",
-    "observedAt": "2026-09-01T05:06:23.495Z"
+    "observedAt": "2026-09-01T10:32:47.784Z"
   },
   {
     "id": "web-digital-4b91a022a5d61b26",
@@ -847,7 +830,24 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-mobile-accessories",
     "sourceUrl": "https://www.technolife.com/category/mobile/phone-accessories",
     "source": "web-catalog:technolife-mobile-accessories",
-    "observedAt": "2026-09-01T05:06:23.495Z"
+    "observedAt": "2026-09-01T10:32:47.784Z"
+  },
+  {
+    "id": "web-digital-f66426480af3f45c",
+    "productId": "web-digital-f66426480af3f45c",
+    "name": "پاوربانک سن دیسک 25 وات مدل EXTREME PRO Super Fast ظرفیت 20000 میلی آمپر ساعت",
+    "brand": "دل",
+    "model": "پاوربانک سن دیسک 25 وات مدل EXTREME PRO Super Fast ظرفیت 20000 میلی آمپر ساعت",
+    "category": "digital",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-312540/%D9%BE%D8%A7%D9%88%D8%B1%D8%A8%D8%A7%D9%86%DA%A9-%D8%B3%D9%86-%D8%AF%DB%8C%D8%B3%DA%A9-25-%D9%88%D8%A7%D8%AA-%D9%85%D8%AF%D9%84-extreme-pro-super-fast-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-20000-%D9%85%DB%8C%D9%84%DB%8C-%D8%A2%D9%85%D9%BE%D8%B1-%D8%B3%D8%A7%D8%B9%D8%AA",
+    "image": "",
+    "sourceId": "technolife-mobile-accessories",
+    "sourceUrl": "https://www.technolife.com/category/mobile/phone-accessories",
+    "source": "web-catalog:technolife-mobile-accessories",
+    "observedAt": "2026-09-01T10:32:47.784Z"
   },
   {
     "id": "web-digital-3723fb938304c3e2",
@@ -864,7 +864,24 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-mobile-accessories",
     "sourceUrl": "https://www.technolife.com/category/mobile/phone-accessories",
     "source": "web-catalog:technolife-mobile-accessories",
-    "observedAt": "2026-09-01T05:06:23.495Z"
+    "observedAt": "2026-09-01T10:32:47.784Z"
+  },
+  {
+    "id": "web-digital-9085b09580ae2990",
+    "productId": "web-digital-9085b09580ae2990",
+    "name": "کابل دو سر تایپ سی انکر مدل A8757 طول 1.8 متر",
+    "brand": "دل",
+    "model": "کابل دو سر تایپ سی انکر مدل A8757 طول 1.8 متر",
+    "category": "digital",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-179548/%DA%A9%D8%A7%D8%A8%D9%84-%D8%AF%D9%88-%D8%B3%D8%B1-%D8%AA%D8%A7%DB%8C%D9%BE-%D8%B3%DB%8C-%D8%A7%D9%86%DA%A9%D8%B1-%D9%85%D8%AF%D9%84-a8757-%D8%B7%D9%88%D9%84-1.8-%D9%85%D8%AA%D8%B1",
+    "image": "",
+    "sourceId": "technolife-mobile-accessories",
+    "sourceUrl": "https://www.technolife.com/category/mobile/phone-accessories",
+    "source": "web-catalog:technolife-mobile-accessories",
+    "observedAt": "2026-09-01T10:32:47.784Z"
   },
   {
     "id": "web-digital-480ce62bf8ead8c8",
@@ -881,7 +898,7 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-mobile-accessories",
     "sourceUrl": "https://www.technolife.com/category/mobile/phone-accessories",
     "source": "web-catalog:technolife-mobile-accessories",
-    "observedAt": "2026-09-01T05:06:23.495Z"
+    "observedAt": "2026-09-01T10:32:47.784Z"
   },
   {
     "id": "web-digital-b21aadb3ed451560",
@@ -898,7 +915,7 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-mobile-accessories",
     "sourceUrl": "https://www.technolife.com/category/mobile/phone-accessories",
     "source": "web-catalog:technolife-mobile-accessories",
-    "observedAt": "2026-09-01T05:06:23.495Z"
+    "observedAt": "2026-09-01T10:32:47.784Z"
   },
   {
     "id": "web-digital-369a25705f424037",
@@ -915,7 +932,7 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-mobile-accessories",
     "sourceUrl": "https://www.technolife.com/category/mobile/phone-accessories",
     "source": "web-catalog:technolife-mobile-accessories",
-    "observedAt": "2026-09-01T05:06:23.495Z"
+    "observedAt": "2026-09-01T10:32:47.785Z"
   },
   {
     "id": "web-digital-9d51eff48b1a49f2",
@@ -932,7 +949,7 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-mobile-accessories",
     "sourceUrl": "https://www.technolife.com/category/mobile/phone-accessories",
     "source": "web-catalog:technolife-mobile-accessories",
-    "observedAt": "2026-09-01T05:06:23.495Z"
+    "observedAt": "2026-09-01T10:32:47.785Z"
   },
   {
     "id": "web-digital-0f5307b24449379e",
@@ -949,7 +966,7 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-mobile-accessories",
     "sourceUrl": "https://www.technolife.com/category/mobile/phone-accessories",
     "source": "web-catalog:technolife-mobile-accessories",
-    "observedAt": "2026-09-01T05:06:23.495Z"
+    "observedAt": "2026-09-01T10:32:47.785Z"
   },
   {
     "id": "web-digital-59c68e2f54da347b",
@@ -966,7 +983,7 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-mobile-accessories",
     "sourceUrl": "https://www.technolife.com/category/mobile/phone-accessories",
     "source": "web-catalog:technolife-mobile-accessories",
-    "observedAt": "2026-09-01T05:06:23.495Z"
+    "observedAt": "2026-09-01T10:32:47.785Z"
   },
   {
     "id": "web-digital-a4e38667f68dea37",
@@ -983,7 +1000,7 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-mobile-accessories",
     "sourceUrl": "https://www.technolife.com/category/mobile/phone-accessories",
     "source": "web-catalog:technolife-mobile-accessories",
-    "observedAt": "2026-09-01T05:06:23.495Z"
+    "observedAt": "2026-09-01T10:32:47.785Z"
   },
   {
     "id": "web-digital-bee601aeaf9d65fb",
@@ -1000,7 +1017,7 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-mobile-accessories",
     "sourceUrl": "https://www.technolife.com/category/mobile/phone-accessories",
     "source": "web-catalog:technolife-mobile-accessories",
-    "observedAt": "2026-09-01T05:06:23.495Z"
+    "observedAt": "2026-09-01T10:32:47.785Z"
   },
   {
     "id": "web-digital-ea96abb3b426f2c8",
@@ -1017,24 +1034,7 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-mobile-accessories",
     "sourceUrl": "https://www.technolife.com/category/mobile/phone-accessories",
     "source": "web-catalog:technolife-mobile-accessories",
-    "observedAt": "2026-09-01T05:06:23.495Z"
-  },
-  {
-    "id": "web-digital-9f6c75c3d1a52c26",
-    "productId": "web-digital-9f6c75c3d1a52c26",
-    "name": "شارژر دیواری 20 وات اپل مدل B/A",
-    "brand": "اپل",
-    "model": "شارژر دیواری 20 وات اپل مدل B/A",
-    "category": "digital",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-428360/%D8%B4%D8%A7%D8%B1%DA%98%D8%B1-%D8%AF%DB%8C%D9%88%D8%A7%D8%B1%DB%8C-20-%D9%88%D8%A7%D8%AA-%D8%A7%D9%BE%D9%84-%D9%85%D8%AF%D9%84-b-a",
-    "image": "",
-    "sourceId": "technolife-mobile-accessories",
-    "sourceUrl": "https://www.technolife.com/category/mobile/phone-accessories",
-    "source": "web-catalog:technolife-mobile-accessories",
-    "observedAt": "2026-09-01T05:06:23.495Z"
+    "observedAt": "2026-09-01T10:32:47.785Z"
   },
   {
     "id": "web-digital-969d396b24ac8199",
@@ -1051,7 +1051,7 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-tablet-accessories",
     "sourceUrl": "https://www.technolife.com/category/tablet-equipment/tablet-accessories",
     "source": "web-catalog:technolife-tablet-accessories",
-    "observedAt": "2026-09-01T05:07:07.639Z"
+    "observedAt": "2026-09-01T10:33:29.366Z"
   },
   {
     "id": "web-digital-e6c4ad93b8911d22",
@@ -1068,7 +1068,7 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-tablet-accessories",
     "sourceUrl": "https://www.technolife.com/category/tablet-equipment/tablet-accessories",
     "source": "web-catalog:technolife-tablet-accessories",
-    "observedAt": "2026-09-01T05:07:07.639Z"
+    "observedAt": "2026-09-01T10:33:29.366Z"
   },
   {
     "id": "web-digital-6ce4c82999fe6dab",
@@ -1085,7 +1085,7 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-tablet-accessories",
     "sourceUrl": "https://www.technolife.com/category/tablet-equipment/tablet-accessories",
     "source": "web-catalog:technolife-tablet-accessories",
-    "observedAt": "2026-09-01T05:07:07.639Z"
+    "observedAt": "2026-09-01T10:33:29.367Z"
   },
   {
     "id": "web-digital-57d2c3ef469deddd",
@@ -1102,7 +1102,7 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-tablet-accessories",
     "sourceUrl": "https://www.technolife.com/category/tablet-equipment/tablet-accessories",
     "source": "web-catalog:technolife-tablet-accessories",
-    "observedAt": "2026-09-01T05:07:07.639Z"
+    "observedAt": "2026-09-01T10:33:29.367Z"
   },
   {
     "id": "web-digital-77bcc13f433ab6b1",
@@ -1119,7 +1119,7 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-tablet-accessories",
     "sourceUrl": "https://www.technolife.com/category/tablet-equipment/tablet-accessories",
     "source": "web-catalog:technolife-tablet-accessories",
-    "observedAt": "2026-09-01T05:07:07.639Z"
+    "observedAt": "2026-09-01T10:33:29.367Z"
   },
   {
     "id": "web-digital-139e3fe02d19e380",
@@ -1136,7 +1136,7 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-tablet-accessories",
     "sourceUrl": "https://www.technolife.com/category/tablet-equipment/tablet-accessories",
     "source": "web-catalog:technolife-tablet-accessories",
-    "observedAt": "2026-09-01T05:07:07.639Z"
+    "observedAt": "2026-09-01T10:33:29.367Z"
   },
   {
     "id": "web-digital-d2fb298ea5a3c55a",
@@ -1153,7 +1153,7 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-tablet-accessories",
     "sourceUrl": "https://www.technolife.com/category/tablet-equipment/tablet-accessories",
     "source": "web-catalog:technolife-tablet-accessories",
-    "observedAt": "2026-09-01T05:07:07.640Z"
+    "observedAt": "2026-09-01T10:33:29.367Z"
   },
   {
     "id": "web-digital-214fe9b70badd633",
@@ -1170,7 +1170,7 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-tablet-accessories",
     "sourceUrl": "https://www.technolife.com/category/tablet-equipment/tablet-accessories",
     "source": "web-catalog:technolife-tablet-accessories",
-    "observedAt": "2026-09-01T05:07:07.640Z"
+    "observedAt": "2026-09-01T10:33:29.367Z"
   },
   {
     "id": "web-digital-af8322601f1e34c1",
@@ -1187,7 +1187,7 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-tablet-accessories",
     "sourceUrl": "https://www.technolife.com/category/tablet-equipment/tablet-accessories",
     "source": "web-catalog:technolife-tablet-accessories",
-    "observedAt": "2026-09-01T05:07:07.640Z"
+    "observedAt": "2026-09-01T10:33:29.367Z"
   },
   {
     "id": "web-digital-eb1a085d75ce55bc",
@@ -1204,7 +1204,7 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-tablet-accessories",
     "sourceUrl": "https://www.technolife.com/category/tablet-equipment/tablet-accessories",
     "source": "web-catalog:technolife-tablet-accessories",
-    "observedAt": "2026-09-01T05:07:07.640Z"
+    "observedAt": "2026-09-01T10:33:29.367Z"
   },
   {
     "id": "web-digital-66b02285878ef1c0",
@@ -1221,7 +1221,7 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-tablet-accessories",
     "sourceUrl": "https://www.technolife.com/category/tablet-equipment/tablet-accessories",
     "source": "web-catalog:technolife-tablet-accessories",
-    "observedAt": "2026-09-01T05:07:07.640Z"
+    "observedAt": "2026-09-01T10:33:29.367Z"
   },
   {
     "id": "web-digital-03e8b45d45980000",
@@ -1238,7 +1238,7 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-tablet-accessories",
     "sourceUrl": "https://www.technolife.com/category/tablet-equipment/tablet-accessories",
     "source": "web-catalog:technolife-tablet-accessories",
-    "observedAt": "2026-09-01T05:07:07.640Z"
+    "observedAt": "2026-09-01T10:33:29.367Z"
   },
   {
     "id": "web-digital-f04b39011b54150e",
@@ -1255,7 +1255,7 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-tablet-accessories",
     "sourceUrl": "https://www.technolife.com/category/tablet-equipment/tablet-accessories",
     "source": "web-catalog:technolife-tablet-accessories",
-    "observedAt": "2026-09-01T05:07:07.640Z"
+    "observedAt": "2026-09-01T10:33:29.367Z"
   },
   {
     "id": "web-digital-b3477ada5085dd8c",
@@ -1272,7 +1272,7 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-tablet-accessories",
     "sourceUrl": "https://www.technolife.com/category/tablet-equipment/tablet-accessories",
     "source": "web-catalog:technolife-tablet-accessories",
-    "observedAt": "2026-09-01T05:07:07.640Z"
+    "observedAt": "2026-09-01T10:33:29.367Z"
   },
   {
     "id": "web-digital-6e3bdc68eb86ba6a",
@@ -1289,7 +1289,7 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-tablet-accessories",
     "sourceUrl": "https://www.technolife.com/category/tablet-equipment/tablet-accessories",
     "source": "web-catalog:technolife-tablet-accessories",
-    "observedAt": "2026-09-01T05:07:07.640Z"
+    "observedAt": "2026-09-01T10:33:29.367Z"
   },
   {
     "id": "web-digital-6efb2aee7d0b513a",
@@ -1306,7 +1306,7 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-tablet-accessories",
     "sourceUrl": "https://www.technolife.com/category/tablet-equipment/tablet-accessories",
     "source": "web-catalog:technolife-tablet-accessories",
-    "observedAt": "2026-09-01T05:07:07.640Z"
+    "observedAt": "2026-09-01T10:33:29.367Z"
   },
   {
     "id": "web-digital-59c087a648ab0b00",
@@ -1323,7 +1323,7 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-tablet-accessories",
     "sourceUrl": "https://www.technolife.com/category/tablet-equipment/tablet-accessories",
     "source": "web-catalog:technolife-tablet-accessories",
-    "observedAt": "2026-09-01T05:07:07.640Z"
+    "observedAt": "2026-09-01T10:33:29.367Z"
   },
   {
     "id": "web-digital-612ca2aca63b7785",
@@ -1340,7 +1340,7 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-tablet-accessories",
     "sourceUrl": "https://www.technolife.com/category/tablet-equipment/tablet-accessories",
     "source": "web-catalog:technolife-tablet-accessories",
-    "observedAt": "2026-09-01T05:07:07.640Z"
+    "observedAt": "2026-09-01T10:33:29.367Z"
   },
   {
     "id": "web-digital-a3394f2c9da74287",
@@ -1357,7 +1357,7 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-tablet-accessories",
     "sourceUrl": "https://www.technolife.com/category/tablet-equipment/tablet-accessories",
     "source": "web-catalog:technolife-tablet-accessories",
-    "observedAt": "2026-09-01T05:07:07.640Z"
+    "observedAt": "2026-09-01T10:33:29.367Z"
   },
   {
     "id": "web-digital-d9413bc8527848d7",
@@ -1374,7 +1374,7 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-tablet-accessories",
     "sourceUrl": "https://www.technolife.com/category/tablet-equipment/tablet-accessories",
     "source": "web-catalog:technolife-tablet-accessories",
-    "observedAt": "2026-09-01T05:07:07.640Z"
+    "observedAt": "2026-09-01T10:33:29.367Z"
   },
   {
     "id": "web-digital-3abc871f206f13de",
@@ -1391,7 +1391,7 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-tablet-accessories",
     "sourceUrl": "https://www.technolife.com/category/tablet-equipment/tablet-accessories",
     "source": "web-catalog:technolife-tablet-accessories",
-    "observedAt": "2026-09-01T05:07:07.640Z"
+    "observedAt": "2026-09-01T10:33:29.367Z"
   },
   {
     "id": "web-digital-8e1e91d516218bf1",
@@ -1408,7 +1408,7 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-tablet-accessories",
     "sourceUrl": "https://www.technolife.com/category/tablet-equipment/tablet-accessories",
     "source": "web-catalog:technolife-tablet-accessories",
-    "observedAt": "2026-09-01T05:07:07.640Z"
+    "observedAt": "2026-09-01T10:33:29.367Z"
   },
   {
     "id": "web-digital-19f7522911f726f5",
@@ -1425,7 +1425,7 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-tablet-accessories",
     "sourceUrl": "https://www.technolife.com/category/tablet-equipment/tablet-accessories",
     "source": "web-catalog:technolife-tablet-accessories",
-    "observedAt": "2026-09-01T05:07:07.640Z"
+    "observedAt": "2026-09-01T10:33:29.367Z"
   },
   {
     "id": "web-digital-cf0964caf1997411",
@@ -1442,7 +1442,7 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-tablet-accessories",
     "sourceUrl": "https://www.technolife.com/category/tablet-equipment/tablet-accessories",
     "source": "web-catalog:technolife-tablet-accessories",
-    "observedAt": "2026-09-01T05:07:07.640Z"
+    "observedAt": "2026-09-01T10:33:29.368Z"
   },
   {
     "id": "web-digital-6ae94ff3b743abe9",
@@ -1459,7 +1459,7 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-tablet-accessories",
     "sourceUrl": "https://www.technolife.com/category/tablet-equipment/tablet-accessories",
     "source": "web-catalog:technolife-tablet-accessories",
-    "observedAt": "2026-09-01T05:07:07.640Z"
+    "observedAt": "2026-09-01T10:33:29.368Z"
   },
   {
     "id": "web-digital-bbbb25e1fdc34fd3",
@@ -1476,7 +1476,7 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-tablet-accessories",
     "sourceUrl": "https://www.technolife.com/category/tablet-equipment/tablet-accessories",
     "source": "web-catalog:technolife-tablet-accessories",
-    "observedAt": "2026-09-01T05:07:07.641Z"
+    "observedAt": "2026-09-01T10:33:29.368Z"
   },
   {
     "id": "web-digital-c212cbf56f2f0c05",
@@ -1493,7 +1493,7 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-tablet-accessories",
     "sourceUrl": "https://www.technolife.com/category/tablet-equipment/tablet-accessories",
     "source": "web-catalog:technolife-tablet-accessories",
-    "observedAt": "2026-09-01T05:07:07.641Z"
+    "observedAt": "2026-09-01T10:33:29.368Z"
   },
   {
     "id": "web-digital-94a581a1fc4e6d20",
@@ -1510,7 +1510,7 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-tablet-accessories",
     "sourceUrl": "https://www.technolife.com/category/tablet-equipment/tablet-accessories",
     "source": "web-catalog:technolife-tablet-accessories",
-    "observedAt": "2026-09-01T05:07:07.641Z"
+    "observedAt": "2026-09-01T10:33:29.368Z"
   },
   {
     "id": "web-digital-b0937116cd4c8630",
@@ -1527,7 +1527,7 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-tablet-accessories",
     "sourceUrl": "https://www.technolife.com/category/tablet-equipment/tablet-accessories",
     "source": "web-catalog:technolife-tablet-accessories",
-    "observedAt": "2026-09-01T05:07:07.641Z"
+    "observedAt": "2026-09-01T10:33:29.368Z"
   },
   {
     "id": "web-digital-5e21e29e7e17184d",
@@ -1544,6 +1544,6 @@ export const DIGITAL_PRODUCTS = [
     "sourceId": "technolife-tablet-accessories",
     "sourceUrl": "https://www.technolife.com/category/tablet-equipment/tablet-accessories",
     "source": "web-catalog:technolife-tablet-accessories",
-    "observedAt": "2026-09-01T05:07:07.641Z"
+    "observedAt": "2026-09-01T10:33:29.368Z"
   }
 ];
