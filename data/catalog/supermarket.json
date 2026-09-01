@@ -1,1 +1,176 @@
-{"version":"5.1","category":"supermarket","maxProducts":500,"products":[],"sources":["digikala","torob","snappshop"],"status":"ingestion_pending"}
+{
+  "version": "5.1",
+  "category": "supermarket",
+  "name": "سوپرمارکت و خوراکی",
+  "maxProducts": 500,
+  "generatedAt": "2026-09-01T05:08:30.498Z",
+  "sources": [
+    {
+      "id": "basalam-grocery",
+      "kind": "majidapi-search",
+      "url": "https://api.majidapi.ir/basalam?action=search&s=مواد%20غذایی&page=",
+      "pages": 10
+    },
+    {
+      "id": "basalam-rice",
+      "kind": "majidapi-search",
+      "url": "https://api.majidapi.ir/basalam?action=search&s=برنج&page=",
+      "pages": 6
+    },
+    {
+      "id": "basalam-oil",
+      "kind": "majidapi-search",
+      "url": "https://api.majidapi.ir/basalam?action=search&s=روغن&page=",
+      "pages": 6
+    }
+  ],
+  "products": [],
+  "status": "web-ingested",
+  "count": 0,
+  "diagnostics": [
+    {
+      "source": "basalam-grocery",
+      "page": 1,
+      "url": "https://api.majidapi.ir/basalam?action=search&s=مواد%20غذایی&page=1",
+      "error": "401 https://api.majidapi.ir/basalam?action=search&s=مواد%20غذایی&page=1"
+    },
+    {
+      "source": "basalam-grocery",
+      "page": 2,
+      "url": "https://api.majidapi.ir/basalam?action=search&s=مواد%20غذایی&page=2",
+      "error": "401 https://api.majidapi.ir/basalam?action=search&s=مواد%20غذایی&page=2"
+    },
+    {
+      "source": "basalam-grocery",
+      "page": 3,
+      "url": "https://api.majidapi.ir/basalam?action=search&s=مواد%20غذایی&page=3",
+      "error": "401 https://api.majidapi.ir/basalam?action=search&s=مواد%20غذایی&page=3"
+    },
+    {
+      "source": "basalam-grocery",
+      "page": 4,
+      "url": "https://api.majidapi.ir/basalam?action=search&s=مواد%20غذایی&page=4",
+      "error": "401 https://api.majidapi.ir/basalam?action=search&s=مواد%20غذایی&page=4"
+    },
+    {
+      "source": "basalam-grocery",
+      "page": 5,
+      "url": "https://api.majidapi.ir/basalam?action=search&s=مواد%20غذایی&page=5",
+      "error": "401 https://api.majidapi.ir/basalam?action=search&s=مواد%20غذایی&page=5"
+    },
+    {
+      "source": "basalam-grocery",
+      "page": 6,
+      "url": "https://api.majidapi.ir/basalam?action=search&s=مواد%20غذایی&page=6",
+      "error": "401 https://api.majidapi.ir/basalam?action=search&s=مواد%20غذایی&page=6"
+    },
+    {
+      "source": "basalam-grocery",
+      "page": 7,
+      "url": "https://api.majidapi.ir/basalam?action=search&s=مواد%20غذایی&page=7",
+      "error": "401 https://api.majidapi.ir/basalam?action=search&s=مواد%20غذایی&page=7"
+    },
+    {
+      "source": "basalam-grocery",
+      "page": 8,
+      "url": "https://api.majidapi.ir/basalam?action=search&s=مواد%20غذایی&page=8",
+      "error": "401 https://api.majidapi.ir/basalam?action=search&s=مواد%20غذایی&page=8"
+    },
+    {
+      "source": "basalam-grocery",
+      "page": 9,
+      "url": "https://api.majidapi.ir/basalam?action=search&s=مواد%20غذایی&page=9",
+      "error": "401 https://api.majidapi.ir/basalam?action=search&s=مواد%20غذایی&page=9"
+    },
+    {
+      "source": "basalam-grocery",
+      "page": 10,
+      "url": "https://api.majidapi.ir/basalam?action=search&s=مواد%20غذایی&page=10",
+      "error": "401 https://api.majidapi.ir/basalam?action=search&s=مواد%20غذایی&page=10"
+    },
+    {
+      "source": "basalam-grocery",
+      "accepted": 0
+    },
+    {
+      "source": "basalam-rice",
+      "page": 1,
+      "url": "https://api.majidapi.ir/basalam?action=search&s=برنج&page=1",
+      "error": "401 https://api.majidapi.ir/basalam?action=search&s=برنج&page=1"
+    },
+    {
+      "source": "basalam-rice",
+      "page": 2,
+      "url": "https://api.majidapi.ir/basalam?action=search&s=برنج&page=2",
+      "error": "401 https://api.majidapi.ir/basalam?action=search&s=برنج&page=2"
+    },
+    {
+      "source": "basalam-rice",
+      "page": 3,
+      "url": "https://api.majidapi.ir/basalam?action=search&s=برنج&page=3",
+      "error": "401 https://api.majidapi.ir/basalam?action=search&s=برنج&page=3"
+    },
+    {
+      "source": "basalam-rice",
+      "page": 4,
+      "url": "https://api.majidapi.ir/basalam?action=search&s=برنج&page=4",
+      "error": "401 https://api.majidapi.ir/basalam?action=search&s=برنج&page=4"
+    },
+    {
+      "source": "basalam-rice",
+      "page": 5,
+      "url": "https://api.majidapi.ir/basalam?action=search&s=برنج&page=5",
+      "error": "401 https://api.majidapi.ir/basalam?action=search&s=برنج&page=5"
+    },
+    {
+      "source": "basalam-rice",
+      "page": 6,
+      "url": "https://api.majidapi.ir/basalam?action=search&s=برنج&page=6",
+      "error": "401 https://api.majidapi.ir/basalam?action=search&s=برنج&page=6"
+    },
+    {
+      "source": "basalam-rice",
+      "accepted": 0
+    },
+    {
+      "source": "basalam-oil",
+      "page": 1,
+      "url": "https://api.majidapi.ir/basalam?action=search&s=روغن&page=1",
+      "error": "401 https://api.majidapi.ir/basalam?action=search&s=روغن&page=1"
+    },
+    {
+      "source": "basalam-oil",
+      "page": 2,
+      "url": "https://api.majidapi.ir/basalam?action=search&s=روغن&page=2",
+      "error": "401 https://api.majidapi.ir/basalam?action=search&s=روغن&page=2"
+    },
+    {
+      "source": "basalam-oil",
+      "page": 3,
+      "url": "https://api.majidapi.ir/basalam?action=search&s=روغن&page=3",
+      "error": "401 https://api.majidapi.ir/basalam?action=search&s=روغن&page=3"
+    },
+    {
+      "source": "basalam-oil",
+      "page": 4,
+      "url": "https://api.majidapi.ir/basalam?action=search&s=روغن&page=4",
+      "error": "401 https://api.majidapi.ir/basalam?action=search&s=روغن&page=4"
+    },
+    {
+      "source": "basalam-oil",
+      "page": 5,
+      "url": "https://api.majidapi.ir/basalam?action=search&s=روغن&page=5",
+      "error": "401 https://api.majidapi.ir/basalam?action=search&s=روغن&page=5"
+    },
+    {
+      "source": "basalam-oil",
+      "page": 6,
+      "url": "https://api.majidapi.ir/basalam?action=search&s=روغن&page=6",
+      "error": "401 https://api.majidapi.ir/basalam?action=search&s=روغن&page=6"
+    },
+    {
+      "source": "basalam-oil",
+      "accepted": 0
+    }
+  ]
+}

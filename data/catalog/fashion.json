@@ -1,1 +1,176 @@
-{"version":"5.1","category":"fashion","maxProducts":500,"products":[],"sources":["digikala","torob","snappshop"],"status":"ingestion_pending"}
+{
+  "version": "5.1",
+  "category": "fashion",
+  "name": "مد و پوشاک",
+  "maxProducts": 500,
+  "generatedAt": "2026-09-01T05:07:45.950Z",
+  "sources": [
+    {
+      "id": "basalam-fashion",
+      "kind": "majidapi-search",
+      "url": "https://api.majidapi.ir/basalam?action=search&s=پوشاک&page=",
+      "pages": 10
+    },
+    {
+      "id": "basalam-shoes",
+      "kind": "majidapi-search",
+      "url": "https://api.majidapi.ir/basalam?action=search&s=کفش&page=",
+      "pages": 6
+    },
+    {
+      "id": "basalam-bag",
+      "kind": "majidapi-search",
+      "url": "https://api.majidapi.ir/basalam?action=search&s=کیف&page=",
+      "pages": 6
+    }
+  ],
+  "products": [],
+  "status": "web-ingested",
+  "count": 0,
+  "diagnostics": [
+    {
+      "source": "basalam-fashion",
+      "page": 1,
+      "url": "https://api.majidapi.ir/basalam?action=search&s=پوشاک&page=1",
+      "error": "401 https://api.majidapi.ir/basalam?action=search&s=پوشاک&page=1"
+    },
+    {
+      "source": "basalam-fashion",
+      "page": 2,
+      "url": "https://api.majidapi.ir/basalam?action=search&s=پوشاک&page=2",
+      "error": "401 https://api.majidapi.ir/basalam?action=search&s=پوشاک&page=2"
+    },
+    {
+      "source": "basalam-fashion",
+      "page": 3,
+      "url": "https://api.majidapi.ir/basalam?action=search&s=پوشاک&page=3",
+      "error": "401 https://api.majidapi.ir/basalam?action=search&s=پوشاک&page=3"
+    },
+    {
+      "source": "basalam-fashion",
+      "page": 4,
+      "url": "https://api.majidapi.ir/basalam?action=search&s=پوشاک&page=4",
+      "error": "401 https://api.majidapi.ir/basalam?action=search&s=پوشاک&page=4"
+    },
+    {
+      "source": "basalam-fashion",
+      "page": 5,
+      "url": "https://api.majidapi.ir/basalam?action=search&s=پوشاک&page=5",
+      "error": "401 https://api.majidapi.ir/basalam?action=search&s=پوشاک&page=5"
+    },
+    {
+      "source": "basalam-fashion",
+      "page": 6,
+      "url": "https://api.majidapi.ir/basalam?action=search&s=پوشاک&page=6",
+      "error": "401 https://api.majidapi.ir/basalam?action=search&s=پوشاک&page=6"
+    },
+    {
+      "source": "basalam-fashion",
+      "page": 7,
+      "url": "https://api.majidapi.ir/basalam?action=search&s=پوشاک&page=7",
+      "error": "401 https://api.majidapi.ir/basalam?action=search&s=پوشاک&page=7"
+    },
+    {
+      "source": "basalam-fashion",
+      "page": 8,
+      "url": "https://api.majidapi.ir/basalam?action=search&s=پوشاک&page=8",
+      "error": "401 https://api.majidapi.ir/basalam?action=search&s=پوشاک&page=8"
+    },
+    {
+      "source": "basalam-fashion",
+      "page": 9,
+      "url": "https://api.majidapi.ir/basalam?action=search&s=پوشاک&page=9",
+      "error": "401 https://api.majidapi.ir/basalam?action=search&s=پوشاک&page=9"
+    },
+    {
+      "source": "basalam-fashion",
+      "page": 10,
+      "url": "https://api.majidapi.ir/basalam?action=search&s=پوشاک&page=10",
+      "error": "401 https://api.majidapi.ir/basalam?action=search&s=پوشاک&page=10"
+    },
+    {
+      "source": "basalam-fashion",
+      "accepted": 0
+    },
+    {
+      "source": "basalam-shoes",
+      "page": 1,
+      "url": "https://api.majidapi.ir/basalam?action=search&s=کفش&page=1",
+      "error": "401 https://api.majidapi.ir/basalam?action=search&s=کفش&page=1"
+    },
+    {
+      "source": "basalam-shoes",
+      "page": 2,
+      "url": "https://api.majidapi.ir/basalam?action=search&s=کفش&page=2",
+      "error": "401 https://api.majidapi.ir/basalam?action=search&s=کفش&page=2"
+    },
+    {
+      "source": "basalam-shoes",
+      "page": 3,
+      "url": "https://api.majidapi.ir/basalam?action=search&s=کفش&page=3",
+      "error": "401 https://api.majidapi.ir/basalam?action=search&s=کفش&page=3"
+    },
+    {
+      "source": "basalam-shoes",
+      "page": 4,
+      "url": "https://api.majidapi.ir/basalam?action=search&s=کفش&page=4",
+      "error": "401 https://api.majidapi.ir/basalam?action=search&s=کفش&page=4"
+    },
+    {
+      "source": "basalam-shoes",
+      "page": 5,
+      "url": "https://api.majidapi.ir/basalam?action=search&s=کفش&page=5",
+      "error": "401 https://api.majidapi.ir/basalam?action=search&s=کفش&page=5"
+    },
+    {
+      "source": "basalam-shoes",
+      "page": 6,
+      "url": "https://api.majidapi.ir/basalam?action=search&s=کفش&page=6",
+      "error": "401 https://api.majidapi.ir/basalam?action=search&s=کفش&page=6"
+    },
+    {
+      "source": "basalam-shoes",
+      "accepted": 0
+    },
+    {
+      "source": "basalam-bag",
+      "page": 1,
+      "url": "https://api.majidapi.ir/basalam?action=search&s=کیف&page=1",
+      "error": "401 https://api.majidapi.ir/basalam?action=search&s=کیف&page=1"
+    },
+    {
+      "source": "basalam-bag",
+      "page": 2,
+      "url": "https://api.majidapi.ir/basalam?action=search&s=کیف&page=2",
+      "error": "401 https://api.majidapi.ir/basalam?action=search&s=کیف&page=2"
+    },
+    {
+      "source": "basalam-bag",
+      "page": 3,
+      "url": "https://api.majidapi.ir/basalam?action=search&s=کیف&page=3",
+      "error": "401 https://api.majidapi.ir/basalam?action=search&s=کیف&page=3"
+    },
+    {
+      "source": "basalam-bag",
+      "page": 4,
+      "url": "https://api.majidapi.ir/basalam?action=search&s=کیف&page=4",
+      "error": "401 https://api.majidapi.ir/basalam?action=search&s=کیف&page=4"
+    },
+    {
+      "source": "basalam-bag",
+      "page": 5,
+      "url": "https://api.majidapi.ir/basalam?action=search&s=کیف&page=5",
+      "error": "401 https://api.majidapi.ir/basalam?action=search&s=کیف&page=5"
+    },
+    {
+      "source": "basalam-bag",
+      "page": 6,
+      "url": "https://api.majidapi.ir/basalam?action=search&s=کیف&page=6",
+      "error": "401 https://api.majidapi.ir/basalam?action=search&s=کیف&page=6"
+    },
+    {
+      "source": "basalam-bag",
+      "accepted": 0
+    }
+  ]
+}
