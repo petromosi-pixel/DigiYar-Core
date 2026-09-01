@@ -102,6 +102,25 @@ async function ingestCategory(category, cfg) {
   return { products, diagnostics };
 }
 
+function mergeSubcategoryFirst(existingProducts, freshProducts) {
+  const fresh = [];
+  const fallback = [];
+  const seen = new Set();
+  for (const p of freshProducts) {
+    const key = p.productUrl || p.id;
+    if (seen.has(key)) continue;
+    seen.add(key);
+    fresh.push(p);
+  }
+  for (const p of existingProducts) {
+    const key = p.productUrl || p.id;
+    if (seen.has(key)) continue;
+    seen.add(key);
+    fallback.push(p);
+  }
+  return [...fresh, ...fallback].slice(0, MAX_PER_CATEGORY);
+}
+
 const meta = { version: '5.1', mode: 'subcategory-aware', generatedAt: new Date().toISOString(), source: 'TorobShop public category pages', categories: [] };
 const combined = [];
 
@@ -110,14 +129,7 @@ for (const [category, cfg] of Object.entries(registry.categories)) {
   let existing = { products: [] };
   try { existing = JSON.parse(await fs.readFile(path, 'utf8')); } catch {}
   const result = await ingestCategory(category, cfg);
-  const merged = [];
-  const seen = new Set();
-  for (const p of [...(existing.products || []), ...result.products]) {
-    const key = p.productUrl || p.id;
-    if (seen.has(key)) continue;
-    seen.add(key); merged.push(p);
-    if (merged.length >= MAX_PER_CATEGORY) break;
-  }
+  const merged = mergeSubcategoryFirst(existing.products || [], result.products);
   const subCounts = Object.fromEntries(cfg.subcategories.map(s => [s, 0]));
   for (const p of merged) if (p.subcategory && subCounts[p.subcategory] !== undefined) subCounts[p.subcategory]++;
   const out = { ...existing, version: '5.1', mode: 'subcategory-aware', generatedAt: new Date().toISOString(), subcategories: cfg.subcategories, subcategoryCounts: subCounts, products: merged, count: merged.length, diagnostics: [...(existing.diagnostics || []), ...result.diagnostics] };
@@ -126,6 +138,7 @@ for (const [category, cfg] of Object.entries(registry.categories)) {
   meta.categories.push({ id: category, name: cfg.name, count: merged.length, subcategoryCounts: subCounts, source: 'TorobShop public category pages' });
   combined.push(...merged);
   console.log(`${category}: ${merged.length}`);
+  console.log(`SUBCATEGORY_COUNTS ${category}: ${JSON.stringify(subCounts)}`);
 }
 
 await fs.writeFile('data/category-registry-v5.1.json', JSON.stringify(meta, null, 2) + '\n');
