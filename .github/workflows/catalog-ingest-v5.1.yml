@@ -7,6 +7,7 @@ on:
       - 'data/catalog/**'
       - 'js/*-product-index-v5.1.js'
       - 'js/product-index-generated-v5.1.js'
+      - 'data/category-registry-v5.1.json'
   workflow_dispatch:
 
 permissions:
@@ -32,15 +33,15 @@ jobs:
         with:
           node-version: 20
 
-      - name: Build web catalogs
+      - name: Build expanded web catalogs
         run: node scripts/catalog-ingest-v5.1.mjs
 
       - name: Commit generated catalogs
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/catalog js/*-product-index-v5.1.js js/product-index-generated-v5.1.js
+          git add data/catalog data/category-registry-v5.1.json js/*-product-index-v5.1.js js/product-index-generated-v5.1.js
           git diff --cached --quiet && exit 0
-          git commit -m "data(v5.1): refresh mobile and laptop product catalogs"
+          git commit -m "data(v5.1): refresh expanded Iranian product catalogs"
           git pull --rebase origin v5
           git push origin HEAD:v5
