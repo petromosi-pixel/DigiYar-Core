@@ -1,142 +1,260 @@
 {
   "version": "5.1",
-  "maxProductsPerCategory": 500,
-  "generatedAt": "2026-09-01T10:29:35.034Z",
+  "mode": "subcategory-aware",
+  "generatedAt": "2026-09-01T11:00:08.722Z",
+  "source": "TorobShop public category pages",
   "categories": [
     {
       "id": "mobile",
       "name": "موبایل و تبلت",
-      "file": "data/catalog/mobile.json",
-      "count": 149,
-      "sources": [
-        "technolife-mobile",
-        "mobile-ir",
-        "digizo-mobile",
-        "bprshop-mobile"
-      ]
+      "count": 500,
+      "subcategoryCounts": {
+        "گوشی موبایل": 4,
+        "لوازم جانبی موبایل": 340,
+        "تبلت و آیپد": 0,
+        "ساعت هوشمند": 0,
+        "هندزفری، هدفون و هدست": 0,
+        "اسپیکر": 0,
+        "دوربین": 0,
+        "کنسول و بازی": 0
+      },
+      "source": "TorobShop public category pages"
     },
     {
       "id": "laptop-computer",
       "name": "لپ تاپ، کامپیوتر و اداری",
-      "file": "data/catalog/laptop-computer.json",
-      "count": 81,
-      "sources": [
-        "technolife-laptop",
-        "technolife-pc",
-        "digizo-laptop",
-        "elecamp"
-      ]
+      "count": 500,
+      "subcategoryCounts": {
+        "لپ تاپ": 3,
+        "تبلت و آیپد": 356,
+        "کامپیوتر": 0,
+        "لوازم جانبی کامپیوتر": 0,
+        "مانیتور": 0,
+        "پرینتر و چاپگر": 0,
+        "هارد، فلش و SSD": 0,
+        "ماشین های اداری": 0
+      },
+      "source": "TorobShop public category pages"
     },
     {
       "id": "home-appliances",
       "name": "لوازم خانگی",
-      "file": "data/catalog/home-appliances.json",
-      "count": 31,
-      "sources": [
-        "technolife-home",
-        "basalam-home"
-      ]
+      "count": 482,
+      "subcategoryCounts": {
+        "لوازم خانگی و آشپزخانه": 448,
+        "برقی و ظروف آشپزخانه": 0,
+        "برقی خانگی": 0,
+        "یخچال و فریزر": 0,
+        "ماشین لباسشویی": 0,
+        "ماشین ظرفشویی": 0,
+        "جاروبرقی و رباتیک": 0,
+        "اتو و بخارگر": 0,
+        "کولرگازی، پنکه و بخاری": 0,
+        "تصفیه هوا": 0,
+        "قهوه ساز و اسپرسوساز": 0,
+        "سرخ کن": 3,
+        "خردکن": 0,
+        "مخلوط کن": 0,
+        "آبمیوه گیری": 0,
+        "چرخ گوشت": 0,
+        "مایکروویو و مایکروفر": 0,
+        "ظروف آشپزخانه": 0,
+        "سرویس خواب": 0,
+        "سرویس حمام و دستشویی": 0,
+        "تزئینات و دکوری": 0
+      },
+      "source": "TorobShop public category pages"
     },
     {
       "id": "digital",
       "name": "کالای دیجیتال و لوازم جانبی",
-      "file": "data/catalog/digital.json",
-      "count": 91,
-      "sources": [
-        "technolife-pc",
-        "technolife-mobile-accessories",
-        "technolife-tablet-accessories"
-      ]
+      "count": 500,
+      "subcategoryCounts": {
+        "گوشی موبایل": 4,
+        "لوازم جانبی موبایل": 405,
+        "کامپیوتر و لوازم جانبی": 0,
+        "پرینتر و چاپگر": 0,
+        "واقعیت مجازی": 0,
+        "مچ بند و ساعت هوشمند": 0,
+        "هدفون، هدست و هندزفری": 0,
+        "اسپیکر": 0,
+        "هارد، فلش و SSD": 0,
+        "دوربین عکاسی": 0,
+        "دوربین شکاری": 0,
+        "دوربین تلسکوپی": 0,
+        "میکروسکوپ": 0,
+        "گیمینگ": 0
+      },
+      "source": "TorobShop public category pages"
     },
     {
       "id": "audio-video",
       "name": "صوتی و تصویری",
-      "file": "data/catalog/audio-video.json",
-      "count": 31,
-      "sources": [
-        "technolife-multimedia"
-      ]
+      "count": 479,
+      "subcategoryCounts": {
+        "تلویزیون": 448,
+        "سیستم صوتی": 0,
+        "اسپیکر": 0,
+        "هدفون و هندزفری": 0,
+        "دوربین عکاسی و فیلمبرداری": 0,
+        "پروژکتور": 0,
+        "لوازم جانبی صوتی تصویری": 0
+      },
+      "source": "TorobShop public category pages"
     },
     {
       "id": "fashion",
       "name": "مد و پوشاک",
-      "file": "data/catalog/fashion.json",
-      "count": 0,
-      "sources": [
-        "basalam-fashion",
-        "basalam-shoes",
-        "basalam-bag"
-      ]
+      "count": 500,
+      "subcategoryCounts": {
+        "مردانه": 448,
+        "زنانه": 0,
+        "بچگانه": 0,
+        "کفش مردانه": 52,
+        "کفش زنانه": 0,
+        "کفش بچگانه": 0,
+        "پوشاک": 0,
+        "ساعت مردانه": 0,
+        "ساعت زنانه": 0,
+        "عینک آفتابی مردانه": 0,
+        "عینک آفتابی زنانه": 0,
+        "کیف": 0,
+        "اکسسوری": 0,
+        "زیورآلات": 0
+      },
+      "source": "TorobShop public category pages"
     },
     {
       "id": "beauty-health",
       "name": "زیبایی، بهداشت و سلامت",
-      "file": "data/catalog/beauty-health.json",
-      "count": 31,
-      "sources": [
-        "technolife-health-beauty",
-        "basalam-beauty",
-        "basalam-health"
-      ]
+      "count": 500,
+      "subcategoryCounts": {
+        "لوازم شخصی برقی": 300,
+        "ماشین اصلاح و ریش تراش": 169,
+        "اصلاح بدن بانوان": 0,
+        "سلامت و طبی": 0,
+        "فشارسنج": 0,
+        "ترازو": 0,
+        "تست قند خون": 0,
+        "پالس اکسیمتر": 0,
+        "ماساژور": 0,
+        "سشوار": 0,
+        "اتو مو": 0,
+        "مسواک برقی": 0,
+        "آرایشی و بهداشتی": 0,
+        "مراقبت پوست و مو": 0
+      },
+      "source": "TorobShop public category pages"
     },
     {
       "id": "supermarket",
       "name": "سوپرمارکت و خوراکی",
-      "file": "data/catalog/supermarket.json",
-      "count": 0,
-      "sources": [
-        "basalam-grocery",
-        "basalam-rice",
-        "basalam-oil"
-      ]
+      "count": 448,
+      "subcategoryCounts": {
+        "خوراکی و آشامیدنی": 448,
+        "نوشیدنی": 0,
+        "قهوه": 0,
+        "چای و دمنوش": 0,
+        "برنج": 0,
+        "روغن": 0,
+        "حبوبات": 0,
+        "کنسرو و غذای آماده": 0,
+        "تنقلات": 0,
+        "شیرینی و شکلات": 0,
+        "محصولات پروتئینی": 0,
+        "غذای سگ": 0,
+        "غذای گربه": 0,
+        "ملزومات حیوانات خانگی": 0
+      },
+      "source": "TorobShop public category pages"
     },
     {
       "id": "sports-travel",
       "name": "ورزش و سفر",
-      "file": "data/catalog/sports-travel.json",
-      "count": 31,
-      "sources": [
-        "technolife-sports-travel"
-      ]
+      "count": 487,
+      "subcategoryCounts": {
+        "کتانی ورزشی مردانه": 448,
+        "کتانی ورزشی زنانه": 0,
+        "کتانی ورزشی بچگانه": 0,
+        "لوازم ورزشی": 0,
+        "لوازم تنیس": 0,
+        "اسکیت و اسکوتر": 0,
+        "کوهنوردی و کمپینگ": 8,
+        "کایت و اسکی": 0,
+        "چمدان و ساک سفر": 0,
+        "قمقمه و فلاسک": 0
+      },
+      "source": "TorobShop public category pages"
     },
     {
       "id": "tools-industrial",
       "name": "ابزار و تجهیزات صنعتی",
-      "file": "data/catalog/tools-industrial.json",
-      "count": 31,
-      "sources": [
-        "technolife-tools"
-      ]
+      "count": 479,
+      "subcategoryCounts": {
+        "ابزار صنعتی": 448,
+        "دریل و پیچ گوشتی": 0,
+        "فرز": 0,
+        "اره": 0,
+        "دستگاه جوش": 0,
+        "ابزار دستی": 0,
+        "باغبانی و کشاورزی": 0,
+        "تجهیزات باغبانی": 0,
+        "شیرآلات": 0,
+        "نور و روشنایی": 0,
+        "تجهیزات خورشیدی": 0,
+        "تجهیزات برق صنعتی": 0
+      },
+      "source": "TorobShop public category pages"
     },
     {
       "id": "books-stationery",
       "name": "کتاب، لوازم تحریر و هنر",
-      "file": "data/catalog/books-stationery.json",
-      "count": 49,
-      "sources": [
-        "technolife-stationery",
-        "technolife-writing"
-      ]
+      "count": 499,
+      "subcategoryCounts": {
+        "کتاب": 448,
+        "لوازم تحریر و مدرسه": 0,
+        "دفتر": 0,
+        "نوشت افزار": 0,
+        "ابزار نقاشی": 0,
+        "آلات موسیقی": 2,
+        "صنایع دستی": 0,
+        "هنر و سرگرمی": 0
+      },
+      "source": "TorobShop public category pages"
     },
     {
       "id": "kids-toys",
       "name": "اسباب بازی، کودک و نوزاد",
-      "file": "data/catalog/kids-toys.json",
-      "count": 31,
-      "sources": [
-        "technolife-toys",
-        "basalam-toys"
-      ]
+      "count": 500,
+      "subcategoryCounts": {
+        "اسباب بازی": 0,
+        "اسباب بازی لگو": 0,
+        "عروسک": 448,
+        "ماشین بازی": 0,
+        "بازی فکری": 0,
+        "پازل و ساختنی": 0,
+        "اسباب بازی کنترلی": 0,
+        "خواب و گردش کودک": 0,
+        "تغذیه و مراقبت کودک": 21,
+        "پوشاک کودک": 0
+      },
+      "source": "TorobShop public category pages"
     },
     {
       "id": "auto",
       "name": "خودرو و موتورسیکلت",
-      "file": "data/catalog/auto.json",
-      "count": 37,
-      "sources": [
-        "technolife-auto",
-        "technolife-car-parts"
-      ]
+      "count": 485,
+      "subcategoryCounts": {
+        "خودرو": 448,
+        "لاستیک خودرو": 0,
+        "برقی و الکترونیکی": 0,
+        "قطعات و تجهیزات": 0,
+        "لوازم جانبی خودرو": 0,
+        "موتورسیکلت": 0,
+        "کامیون": 0,
+        "اتوبوس": 0
+      },
+      "source": "TorobShop public category pages"
     }
   ]
 }
