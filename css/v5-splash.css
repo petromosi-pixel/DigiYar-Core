@@ -1,5 +1,4 @@
-/* DigiYar V5 — Step 1: final Splash reconstruction */
-
+/* DigiYar V5 — Step 1 Splash base layer */
 .v5-splash-screen {
   position: fixed;
   inset: 0;
@@ -7,7 +6,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  background: radial-gradient(circle at 50% 42%, #2a4169 0%, #223456 58%, #182746 100%);
+  background: #8ea2bb;
   color: #fff;
   opacity: 1;
   visibility: visible;
@@ -21,95 +20,68 @@
   pointer-events: none;
 }
 
-.v5-splash-content {
-  width: min(88%, 430px);
+.v5-splash-screen .v5-splash-content,
+.v5-splash-screen .splash-content {
+  width: min(90vw, 390px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
   text-align: center;
   color: #fff;
-  animation: v5SplashEnter .75s ease both;
 }
 
-.v5-splash-logo-wrap {
-  width: 210px;
-  height: 210px;
-  margin: 0 auto 20px;
+/* No decorative ring, border, card or shadow around the logo. */
+.v5-splash-screen .v5-splash-logo-wrap {
+  width: 250px;
+  height: 250px;
+  margin: 0 auto 14px;
+  padding: 0;
   display: flex;
   align-items: center;
   justify-content: center;
-  border-radius: 42px;
-  background: rgba(255,255,255,.045);
-  box-shadow: 0 0 0 1px rgba(255,255,255,.06), 0 20px 60px rgba(0,0,0,.22);
+  background: transparent;
+  border: 0;
+  border-radius: 0;
+  box-shadow: none;
+  overflow: visible;
 }
 
-.v5-splash-logo {
-  width: 178px;
-  height: 178px;
+.v5-splash-screen .v5-splash-logo {
+  width: 242px;
+  height: 242px;
   object-fit: contain;
   display: block;
-  border-radius: 32px;
-  animation: v5LogoReveal 1.35s cubic-bezier(.2,.75,.2,1) both;
-}
-
-.v5-splash-brand h1 {
-  margin: 0 0 2px;
-  font-size: 36px;
-  font-weight: 800;
-  line-height: 1.3;
-  color: #fff !important;
-  animation: v5SplashTextIn .8s ease .55s both;
-}
-
-.v5-splash-brand p {
   margin: 0;
-  font-size: 15px;
-  line-height: 1.6;
-  color: #dce5f5 !important;
-  animation: v5SplashTextIn .8s ease .7s both;
-}
-
-/* Loader: small sequential orange outline rings — no progress bar */
-.v5-splash-loader {
-  width: 108px;
-  height: 18px;
-  margin: 25px auto 0;
-  overflow: hidden;
+  padding: 0;
+  border: 0;
   border-radius: 0;
-  background: repeating-radial-gradient(circle at 9px 9px, transparent 0 3px, #ff8a00 3.5px 5px, transparent 5.5px 9px);
-  background-size: 18px 18px;
-  opacity: .95;
-  animation: v5RingFlow 1.25s linear infinite;
+  box-shadow: none;
 }
 
-.v5-splash-loader span {
+.v5-splash-screen .v5-splash-brand h1,
+.v5-splash-screen .v5-splash-brand p {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+/* Loader is owned by v5-splash-fix.js. Keep the legacy bar visually inert. */
+.v5-splash-screen .v5-splash-loader,
+.v5-splash-screen .splash-loader {
+  background: transparent;
+  border: 0;
+  box-shadow: none;
+}
+.v5-splash-screen .v5-splash-loader > span:not(.v5-loader-dots) {
   display: none !important;
 }
 
-@keyframes v5SplashEnter {
-  from { opacity: 0; }
-  to { opacity: 1; }
-}
-
-@keyframes v5LogoReveal {
-  0% { opacity: 0; filter: blur(14px); transform: scale(.78); }
-  48% { opacity: .72; filter: blur(6px); transform: scale(.91); }
-  78% { opacity: 1; filter: blur(1.5px); transform: scale(1.025); }
-  100% { opacity: 1; filter: blur(0); transform: scale(1); }
-}
-
-@keyframes v5SplashTextIn {
-  from { opacity: 0; transform: translateY(8px); }
-  to { opacity: 1; transform: translateY(0); }
-}
-
-@keyframes v5RingFlow {
-  from { background-position: 0 0; }
-  to { background-position: 18px 0; }
-}
-
-@media (prefers-reduced-motion: reduce) {
-  .v5-splash-logo,
-  .v5-splash-brand h1,
-  .v5-splash-brand p,
-  .v5-splash-loader {
-    animation: none !important;
+@media (max-width: 430px) {
+  .v5-splash-screen .v5-splash-logo-wrap {
+    width: 225px;
+    height: 225px;
+  }
+  .v5-splash-screen .v5-splash-logo {
+    width: 218px;
+    height: 218px;
   }
 }
