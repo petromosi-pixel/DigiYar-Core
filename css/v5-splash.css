@@ -19,7 +19,7 @@
   opacity: 1;
   visibility: visible;
   pointer-events: auto;
-  animation: v5SplashExit 650ms cubic-bezier(.22,.61,.36,1) 2700ms forwards;
+  animation: v5SplashExit 650ms cubic-bezier(.22,.61,.36,1) 3000ms forwards;
 }
 
 #splashScreen.v5-splash-screen::before,
@@ -100,6 +100,8 @@
   width: 82%;
   height: 82%;
   object-fit: contain;
+  background: transparent;
+  mix-blend-mode: normal;
   filter: drop-shadow(0 9px 17px rgba(22, 40, 69, .12));
   animation: v5SplashLogoFloat 2400ms ease-in-out 1150ms infinite;
 }
@@ -132,25 +134,34 @@
 }
 
 .v5-splash-loader {
-  position: relative;
-  width: 54px;
-  height: 3px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 7px;
+  width: auto;
+  height: 14px;
   margin-top: 31px;
-  overflow: hidden;
-  border-radius: 99px;
-  background: rgba(42, 65, 105, .10);
+  background: transparent;
+  overflow: visible;
   animation: v5SplashLoaderIn 600ms ease-out 900ms both;
 }
 
 .v5-splash-loader span {
   display: block;
-  width: 38%;
-  height: 100%;
-  border-radius: inherit;
-  background: #526b91;
-  transform: translateX(190%);
-  animation: v5SplashLoader 1450ms cubic-bezier(.4,0,.2,1) 1050ms infinite;
+  width: 9px;
+  height: 9px;
+  box-sizing: border-box;
+  border: 1.7px solid #f28a24;
+  border-radius: 50%;
+  background: transparent;
+  transform: scale(1);
+  animation: v5SplashDotFill 1600ms cubic-bezier(.4,0,.2,1) infinite;
 }
+
+.v5-splash-loader span:nth-child(1) { animation-delay: 0ms; }
+.v5-splash-loader span:nth-child(2) { animation-delay: 180ms; }
+.v5-splash-loader span:nth-child(3) { animation-delay: 360ms; }
+.v5-splash-loader span:nth-child(4) { animation-delay: 540ms; }
 
 @keyframes v5SplashContentIn {
   from { opacity: 0; transform: translateY(10px); }
@@ -194,9 +205,19 @@
   100% { opacity: 0; transform: translate(-50%, -50%) scale(1.05); }
 }
 
-@keyframes v5SplashLoader {
-  0% { transform: translateX(190%); }
-  55%, 100% { transform: translateX(-270%); }
+@keyframes v5SplashDotFill {
+  0%, 12% {
+    background: transparent;
+    transform: scale(1);
+  }
+  30%, 62% {
+    background: #f28a24;
+    transform: scale(1.12);
+  }
+  78%, 100% {
+    background: transparent;
+    transform: scale(1);
+  }
 }
 
 @keyframes v5SplashExit {
