@@ -10,14 +10,6 @@
   function getProductImage(product){return product&&(product.image||product.imageUrl||product.thumbnail||product.thumbnailUrl||product.photo||"");}
   function priorityLabel(index){return ["اولویت اول","اولویت دوم","اولویت سوم"][index]||"اولویت "+(index+1);}
 
-  const splash=$("splashScreen");
-  const splashStarted=performance.now();
-  let splashClosed=false;
-  function hideSplash(){if(splashClosed||!splash)return;splashClosed=true;splash.classList.add("splash-hidden");setTimeout(function(){if(splash.parentNode)splash.parentNode.removeChild(splash);},700);}
-  function finishSplash(){if(splashClosed)return;setTimeout(hideSplash,Math.max(0,6500-(performance.now()-splashStarted)));}
-  if(document.readyState==="loading")document.addEventListener("DOMContentLoaded",finishSplash,{once:true});else finishSplash();
-  setTimeout(hideSplash,7200);
-
   function renderPlatforms(){
     const container=$("platforms");if(!container||!window.DigiYarPlatforms)return;
     container.innerHTML=DigiYarPlatforms.map(function(platform){return '<a class="platform" href="'+escapeHTML(platform.url)+'" target="_blank" rel="noopener noreferrer"><div class="platform-main"><div class="platform-logo"><img src="'+escapeHTML(platform.logo)+'" alt="'+escapeHTML(platform.name)+'" loading="lazy"></div><span class="platform-name">'+escapeHTML(platform.name)+'</span><span class="platform-tag">'+escapeHTML(platform.tag)+'</span></div><span class="platform-btn">ورود به فروشگاه</span></a>';}).join("");
