@@ -14,22 +14,9 @@
   const splashStarted=performance.now();
   let splashClosed=false;
   function hideSplash(){if(splashClosed||!splash)return;splashClosed=true;splash.classList.add("splash-hidden");setTimeout(function(){if(splash.parentNode)splash.parentNode.removeChild(splash);},700);}
-  function finishSplash(){if(splashClosed)return;setTimeout(hideSplash,Math.max(0,2500-(performance.now()-splashStarted)));}
+  function finishSplash(){if(splashClosed)return;setTimeout(hideSplash,Math.max(0,5000-(performance.now()-splashStarted)));}
   if(document.readyState==="loading")document.addEventListener("DOMContentLoaded",finishSplash,{once:true});else finishSplash();
-  setTimeout(hideSplash,3500);
-
-  let soundPlayed=false;
-  function playChime(){
-    if(soundPlayed)return;soundPlayed=true;
-    try{
-      const AC=window.AudioContext||window.webkitAudioContext;if(!AC)return;
-      const ctx=new AC(),master=ctx.createGain();
-      master.gain.setValueAtTime(.0001,ctx.currentTime);master.gain.exponentialRampToValueAtTime(.045,ctx.currentTime+.05);master.gain.exponentialRampToValueAtTime(.0001,ctx.currentTime+1.15);master.connect(ctx.destination);
-      [523.25,659.25,783.99].forEach(function(freq,i){const osc=ctx.createOscillator(),gain=ctx.createGain(),start=ctx.currentTime+i*.13;osc.type="sine";osc.frequency.value=freq;gain.gain.setValueAtTime(.0001,start);gain.gain.exponentialRampToValueAtTime(.16,start+.025);gain.gain.exponentialRampToValueAtTime(.0001,start+.55);osc.connect(gain);gain.connect(master);osc.start(start);osc.stop(start+.55);});
-      setTimeout(function(){try{ctx.close();}catch(e){}},1400);
-    }catch(error){console.warn("DigiYar Splash Sound:",error);}
-  }
-  window.addEventListener("pointerdown",playChime,{once:true,passive:true});
+  setTimeout(hideSplash,6000);
 
   function renderPlatforms(){
     const container=$("platforms");if(!container||!window.DigiYarPlatforms)return;
