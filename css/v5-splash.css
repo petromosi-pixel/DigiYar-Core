@@ -1,66 +1,221 @@
-/* DigiYar V5 — Step 1 Splash base layer */
-.v5-splash-screen {
-  position: fixed;
-  inset: 0;
-  z-index: 99999;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background: #aebdcc;
-  color: #fff;
-  opacity: 1;
-  visibility: visible;
-  transition: opacity .7s ease, visibility .7s ease;
-  overflow: hidden;
+/* =========================================================
+   DigiYar V5.1 — Splash System
+   Single owner: js/v5-splash-fix.js
+   The legacy splash DOM is replaced before animation starts.
+   ========================================================= */
+
+#splashScreen.v5-splash-root {
+  position: fixed !important;
+  inset: 0 !important;
+  z-index: 2147483000 !important;
+  width: 100vw !important;
+  height: 100dvh !important;
+  min-height: 100vh !important;
+  display: grid !important;
+  place-items: center !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  overflow: hidden !important;
+  background: #b9c6d2 !important;
+  opacity: 1 !important;
+  visibility: visible !important;
+  pointer-events: auto !important;
+  transition: opacity .65s ease, visibility .65s ease !important;
 }
 
-.v5-splash-screen.splash-hidden,
-.v5-splash-screen.v5-splash-hidden {
+#splashScreen.v5-splash-root.v5-splash-complete {
   opacity: 0 !important;
   visibility: hidden !important;
-  pointer-events: none;
+  pointer-events: none !important;
 }
 
-.v5-splash-screen .v5-splash-content,
-.v5-splash-screen .splash-content {
+#splashScreen.v5-splash-root * {
+  box-sizing: border-box;
+}
+
+.v5-splash-stage {
   width: min(92vw, 430px);
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   text-align: center;
+  transform: translateY(-1vh);
+}
+
+.v5-splash-logo-stage {
+  position: relative;
+  width: 250px;
+  height: 250px;
+  display: block;
+  overflow: visible;
+}
+
+.v5-splash-layer {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 250px;
+  height: 250px;
+  margin: -125px 0 0 -125px;
+  object-fit: contain;
+  object-position: center;
+  display: block;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  border-radius: 0;
+  background: transparent;
+  box-shadow: none;
+  pointer-events: none;
+  user-select: none;
+  -webkit-user-drag: none;
+  opacity: 0;
+}
+
+/* The original logo image is used only as a source and is partitioned into
+   three non-overlapping visual regions. */
+.v5-splash-basket {
+  clip-path: polygon(
+    24% 3%, 76% 3%, 78% 25%, 82% 39%, 84% 58%,
+    78% 62%, 70% 63%, 63% 57%, 56% 53%, 49% 50%,
+    41% 47%, 35% 48%, 29% 51%, 22% 51%, 17% 47%,
+    17% 38%, 21% 30%
+  );
+  z-index: 1;
+  animation: dyBasket 1.15s cubic-bezier(.16,.84,.25,1) .10s both;
+}
+
+.v5-splash-white-hand {
+  clip-path: polygon(
+    43% 28%, 69% 28%, 77% 34%, 79% 43%, 76% 51%,
+    69% 57%, 62% 59%, 57% 55%, 52% 51%, 48% 55%,
+    44% 55%, 40% 52%, 41% 47%, 45% 42%, 48% 39%,
+    45% 36%
+  );
+  z-index: 3;
+  animation: dyWhiteHand 1.35s cubic-bezier(.15,.82,.22,1) 1.00s both;
+}
+
+.v5-splash-orange-hand {
+  clip-path: polygon(
+    14% 45%, 42% 45%, 50% 48%, 57% 55%, 64% 60%,
+    66% 67%, 62% 72%, 55% 70%, 50% 65%, 46% 61%,
+    40% 60%, 34% 57%, 26% 57%, 19% 55%, 14% 53%
+  );
+  z-index: 4;
+  animation: dyOrangeHand 1.45s cubic-bezier(.15,.82,.22,1) 1.75s both;
+}
+
+.v5-splash-brand {
+  margin-top: -5px;
+  min-height: 76px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.v5-splash-brand h1,
+.v5-splash-brand p {
+  opacity: 0;
+  margin: 0;
+  padding: 0;
+}
+
+.v5-splash-brand h1 {
   color: #fff;
+  font-family: Tahoma, Arial, sans-serif;
+  font-size: 32px;
+  font-weight: 900;
+  line-height: 1.35;
+  animation: dyBrand 0.72s ease 3.55s both;
 }
 
-/* The legacy single image is intentionally hidden immediately.
-   The final runtime inserts the three isolated SVG component layers. */
-.v5-splash-screen .v5-splash-logo {
-  display: none !important;
+.v5-splash-brand p {
+  margin-top: 2px;
+  color: #fff;
+  font-family: Tahoma, Arial, sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 1.7;
+  animation: dyTagline 1.05s ease 3.95s both;
 }
 
-/* Absolutely no decorative ring/card/border/shadow around the logo. */
-.v5-splash-screen .v5-splash-logo-wrap,
-.v5-splash-screen .v5-splash-logo-wrap::before,
-.v5-splash-screen .v5-splash-logo-wrap::after,
-.v5-splash-screen .splash-logo-assembly,
-.v5-splash-screen .splash-logo-assembly::before,
-.v5-splash-screen .splash-logo-assembly::after {
-  background: transparent !important;
-  border: 0 !important;
-  outline: 0 !important;
-  border-radius: 0 !important;
-  box-shadow: none !important;
+.v5-splash-loader {
+  width: 58px;
+  height: 10px;
+  margin-top: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 7px;
+  background: transparent;
 }
 
-.v5-splash-screen .v5-splash-loader,
-.v5-splash-screen .splash-loader {
-  background: transparent !important;
-  border: 0 !important;
-  box-shadow: none !important;
-  border-radius: 0 !important;
+.v5-splash-loader i {
+  width: 7px;
+  height: 7px;
+  flex: 0 0 7px;
+  display: block;
+  border: 1px solid #fff;
+  border-radius: 50%;
+  background: transparent;
+  animation: dyLoader 1.6s ease-in-out infinite;
+}
+.v5-splash-loader i:nth-child(1) { animation-delay: 0s; }
+.v5-splash-loader i:nth-child(2) { animation-delay: .16s; }
+.v5-splash-loader i:nth-child(3) { animation-delay: .32s; }
+.v5-splash-loader i:nth-child(4) { animation-delay: .48s; }
+
+@keyframes dyBasket {
+  0% { opacity: 0; transform: translateY(18px) scale(.90); }
+  68% { opacity: 1; transform: translateY(-2px) scale(1.015); }
+  100% { opacity: 1; transform: translateY(0) scale(1); }
+}
+
+@keyframes dyWhiteHand {
+  0% { opacity: 0; transform: translateX(82px) translateY(-6px) rotate(8deg) scale(.94); }
+  38% { opacity: 1; transform: translateX(28px) translateY(0) rotate(3deg) scale(1); }
+  70% { opacity: 1; transform: translateX(-4px) translateY(1px) rotate(-1deg) scale(1.01); }
+  100% { opacity: 1; transform: translateX(0) translateY(0) rotate(0) scale(1); }
+}
+
+@keyframes dyOrangeHand {
+  0% { opacity: 0; transform: translateX(-90px) translateY(8px) rotate(-4deg) scale(.92); }
+  35% { opacity: 1; transform: translateX(-35px) translateY(2px) rotate(-1deg) scale(1); }
+  56% { opacity: 1; transform: translateX(8px) translateY(-2px) rotate(2deg) scale(1.04); }
+  72% { opacity: 1; transform: translateX(-3px) translateY(1px) rotate(-1deg) scale(1.02); }
+  100% { opacity: 1; transform: translateX(0) translateY(0) rotate(0) scale(1); }
+}
+
+@keyframes dyBrand {
+  from { opacity: 0; transform: translateY(9px) scale(.96); }
+  to { opacity: 1; transform: translateY(0) scale(1); }
+}
+
+@keyframes dyTagline {
+  0% { opacity: 0; transform: translateY(8px); text-shadow: none; }
+  50% { opacity: 1; transform: translateY(0); text-shadow: 0 0 10px rgba(255,255,255,.78), 0 0 22px rgba(255,138,0,.65); }
+  100% { opacity: 1; transform: translateY(0); text-shadow: 0 0 6px rgba(255,138,0,.38); }
+}
+
+@keyframes dyLoader {
+  0%, 18% { background: transparent; border-color: #fff; transform: scale(1); }
+  42%, 68% { background: #ff8a00; border-color: #ff8a00; transform: scale(1.08); }
+  90%, 100% { background: transparent; border-color: #fff; transform: scale(1); }
 }
 
 @media (max-width: 430px) {
-  .v5-splash-screen .v5-splash-content,
-  .v5-splash-screen .splash-content { width: 94vw; }
+  .v5-splash-logo-stage { width: 225px; height: 225px; }
+  .v5-splash-layer { width: 225px; height: 225px; margin: -112.5px 0 0 -112.5px; }
+  .v5-splash-brand h1 { font-size: 30px; }
+  .v5-splash-brand p { font-size: 14px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .v5-splash-layer,
+  .v5-splash-brand h1,
+  .v5-splash-brand p,
+  .v5-splash-loader i { animation-duration: .01ms !important; animation-iteration-count: 1 !important; }
 }
