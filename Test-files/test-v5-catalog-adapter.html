@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="fa" dir="rtl">
+<head>
+<meta charset="utf-8">
+<title>DigiYar V5.1 — Housh Yar Catalog Adapter Test</title>
+<style>body{font-family:system-ui;max-width:1000px;margin:30px auto;padding:0 16px}pre{white-space:pre-wrap;background:#f5f5f5;padding:14px;border-radius:10px}section{margin:18px 0}</style>
+</head>
+<body>
+<h1>تست Catalog Adapter هوش‌یار V5.1</h1>
+<div id="out">در حال بارگذاری کاتالوگ واقعی V5.1...</div>
+<script src="../js/v5-catalog-adapter.js"></script>
+<script>
+(async function(){
+  const out=document.getElementById('out');
+  try{
+    const categories=await DigiYarV5CatalogAdapter.getCategories();
+    const products=await DigiYarV5CatalogAdapter.getProducts({categories:['mobile','laptop-computer','digital']});
+    const candidates=await DigiYarV5CatalogAdapter.findCandidates({category:'mobile',budget:{max:30000000}},{categories:['mobile']});
+    out.innerHTML='<section><h2>Registry</h2><pre>'+JSON.stringify({count:categories.length,categories:categories.map(c=>({id:c.id,count:c.count}))},null,2)+'</pre></section>'+
+      '<section><h2>Catalog load</h2><pre>'+JSON.stringify({products:products.length,sample:products.slice(0,5).map(p=>({id:p.id,name:p.name,category:p.category,subcategory:p.subcategory,offers:p.offers,bestOffer:p.bestOffer}))},null,2)+'</pre></section>'+
+      '<section><h2>Candidate filter</h2><pre>'+JSON.stringify({count:candidates.length,sample:candidates.slice(0,10).map(p=>({id:p.id,name:p.name,bestOffer:p.bestOffer}))},null,2)+'</pre></section>';
+  }catch(err){out.innerHTML='<pre>'+String(err&&err.stack||err)+'</pre>';}
+})();
+</script>
+</body>
+</html>
