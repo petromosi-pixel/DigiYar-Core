@@ -21,7 +21,7 @@ async function get(url) {
 function extractPrice(text) {
   const source = norm(text);
   const values = [];
-  const re = /([۰-۹٠-٩\d][۰-۹٠-٩\d٬,\.\s]{2,})\s*(تومان|تومن|ریال|IRR|IRT)\b/gi;
+  const re = /([۰-۹٠-٩\d][۰-۹٠-٩\d٬,\.\s]{2,})\s*(تومان|تومن|ریال|IRR|IRT)(?=\s|$|<)/gi;
   let m;
   while ((m = re.exec(source))) {
     const value = money(m[1]);
