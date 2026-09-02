@@ -39,6 +39,12 @@ jobs:
       - name: Build subcategory-aware catalogs
         run: node scripts/subcategory-ingest-v5.1.mjs
 
+      - name: Resolve TorobShop price and availability
+        run: node scripts/torobshop-price-resolver-v5.1.mjs
+
+      - name: Audit generated catalogs
+        run: node tests/v5.1-catalog-audit.mjs
+
       - name: Commit generated catalogs
         run: |
           git config user.name "github-actions[bot]"
