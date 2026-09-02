@@ -45,6 +45,9 @@ jobs:
       - name: Audit generated catalogs
         run: node tests/v5.1-catalog-audit.mjs
 
+      - name: Audit price and availability
+        run: node tests/v5.1-price-availability-audit.mjs
+
       - name: Commit generated catalogs
         run: |
           git config user.name "github-actions[bot]"
