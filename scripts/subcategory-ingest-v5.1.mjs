@@ -12,6 +12,20 @@ const hash = s => crypto.createHash('sha1').update(String(s)).digest('hex').slic
 const slug = s => encodeURIComponent(norm(s).replace(/\u200c/g, ' ').replace(/\s+/g, '-'));
 const abs = (base, u) => { try { return new URL(u, base).href; } catch { return ''; } };
 
+// Keep brand normalization consistent with catalog-ingest-v5.1.mjs.
+const BRAND_PAIRS = [
+  ['سامسونگ','سامسونگ'],['Samsung','سامسونگ'],['شیائومی','شیائومی'],['Xiaomi','شیائومی'],['اپل','اپل'],['Apple','اپل'],['آیفون','اپل'],
+  ['هواوی','هواوی'],['Huawei','هواوی'],['آنر','آنر'],['Honor','آنر'],['وان پلاس','وان پلاس'],['OnePlus','وان پلاس'],['نوکیا','نوکیا'],['Nokia','نوکیا'],
+  ['موتورولا','موتورولا'],['Motorola','موتورولا'],['ریلمی','ریلمی'],['Realme','ریلمی'],['پوکو','پوکو'],['Poco','پوکو'],['گوگل','گوگل'],['Google','گوگل'],
+  ['سونی','سونی'],['Sony','سونی'],['ایسوس','ایسوس'],['Asus','ایسوس'],['لنوو','لنوو'],['Lenovo','لنوو'],['ایسر','ایسر'],['Acer','ایسر'],
+  ['اچ‌پی','اچ‌پی'],['اچ پی','اچ‌پی'],['HP','اچ‌پی'],['مایکروسافت','مایکروسافت'],['Microsoft','مایکروسافت'],['تبلت شیائومی','شیائومی'],
+  ['دوجی','دوجی'],['Doogee','دوجی'],['زد تی ای','زد تی ای'],['ZTE','زد تی ای'],['TCL','TCL'],['تکنو','تکنو'],['Tecno','تکنو']
+];
+function brand(name) {
+  const n = norm(name).toLowerCase();
+  return BRAND_PAIRS.find(([k]) => n.includes(k.toLowerCase()))?.[1] || '';
+}
+
 async function get(url) {
   const r = await fetch(url, { headers: { 'user-agent': UA, accept: 'text/html,application/xhtml+xml,application/json', 'accept-language': 'fa-IR,fa;q=0.9,en;q=0.7' } });
   if (!r.ok) throw new Error(`${r.status} ${url}`);
@@ -61,7 +75,7 @@ function normalize(x, category, subcategory, pageUrl) {
     id: `torobshop-${category}-${hash(url || name)}`,
     productId: `torobshop-${hash(url || name)}`,
     name,
-    brand: '',
+    brand: brand(name),
     model: name,
     category,
     subcategory,
@@ -106,9 +120,16 @@ function mergeSubcategoryFirst(existingProducts, freshProducts) {
   const fresh = [];
   const fallback = [];
   const seen = new Set();
+  const existingByKey = new Map();
+  for (const p of existingProducts || []) {
+    const key = p.productUrl || p.id;
+    if (key) existingByKey.set(key, p);
+  }
   for (const p of freshProducts) {
     const key = p.productUrl || p.id;
     if (seen.has(key)) continue;
+    const previous = existingByKey.get(key);
+    if (!p.brand && previous?.brand) p.brand = previous.brand;
     seen.add(key);
     fresh.push(p);
   }
