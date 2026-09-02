@@ -9,6 +9,7 @@
   const VERSION = '5.1.0-alpha.1';
   const REGISTRY_URL = 'data/category-registry-v5.1.json';
   const CATALOG_BASE = 'data/catalog/';
+  const RAW_CATALOG_BASE = 'https://raw.githubusercontent.com/petromosi-pixel/DigiYar-Core/v5/data/catalog/';
   let registryPromise = null;
   const catalogPromises = new Map();
 
@@ -124,11 +125,19 @@
     const key = String(category || '').trim();
     if (!key) return { products: [] };
     if (catalogPromises.has(key)) return catalogPromises.get(key);
-    const promise = fetch(new URL(CATALOG_BASE + encodeURIComponent(key) + '.json', document.baseURI), { cache: 'no-cache' })
+
+    const pageUrl = new URL(CATALOG_BASE + encodeURIComponent(key) + '.json', document.baseURI);
+    const rawUrl = RAW_CATALOG_BASE + encodeURIComponent(key) + '.json';
+
+    const promise = fetch(pageUrl, { cache: 'no-cache' })
       .then(function (response) {
-        if (!response.ok) throw Error('Catalog HTTP ' + response.status + ' for ' + key);
-        return response.json();
+        if (response.ok) return response.json();
+        return fetch(rawUrl, { cache: 'no-cache' }).then(function (fallback) {
+          if (!fallback.ok) throw Error('Catalog HTTP ' + response.status + ' for ' + key + '; fallback HTTP ' + fallback.status);
+          return fallback.json();
+        });
       });
+
     catalogPromises.set(key, promise);
     return promise;
   }
