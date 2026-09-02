@@ -18,6 +18,63 @@
       .trim();
   }
 
+  // Need Engine may return English brand names while catalogs store
+  // normalized Persian brand names. Keep both sides on one canonical key.
+  const BRAND_ALIASES = {
+    samsung: 'سامسونگ',
+    سامسونگ: 'سامسونگ',
+    xiaomi: 'شیائومی',
+    شیائومی: 'شیائومی',
+    apple: 'اپل',
+    اپل: 'اپل',
+    iphone: 'اپل',
+    آیفون: 'اپل',
+    huawei: 'هواوی',
+    هواوی: 'هواوی',
+    honor: 'آنر',
+    آنر: 'آنر',
+    oneplus: 'وان پلاس',
+    'وان پلاس': 'وان پلاس',
+    nokia: 'نوکیا',
+    نوکیا: 'نوکیا',
+    motorola: 'موتورولا',
+    موتورولا: 'موتورولا',
+    realme: 'ریلمی',
+    ریلمی: 'ریلمی',
+    poco: 'پوکو',
+    پوکو: 'پوکو',
+    google: 'گوگل',
+    گوگل: 'گوگل',
+    sony: 'سونی',
+    سونی: 'سونی',
+    asus: 'ایسوس',
+    ایسوس: 'ایسوس',
+    lenovo: 'لنوو',
+    لنوو: 'لنوو',
+    acer: 'ایسر',
+    ایسر: 'ایسر',
+    hp: 'اچ پی',
+    'اچ پی': 'اچ پی',
+    'اچ‌پی': 'اچ پی',
+    microsoft: 'مایکروسافت',
+    مایکروسافت: 'مایکروسافت',
+    doogee: 'دوجی',
+    دوجی: 'دوجی',
+    zte: 'زد تی ای',
+    'زد تی ای': 'زد تی ای',
+    tcl: 'tcl',
+    تکنو: 'تکنو',
+    tecno: 'تکنو'
+  };
+
+  function normalizeBrand(value) {
+    const normalized = normalizeText(value).replace(/\s+/g, '');
+    const key = Object.keys(BRAND_ALIASES).find(function (alias) {
+      return normalizeText(alias).replace(/\s+/g, '') === normalized;
+    });
+    return key ? BRAND_ALIASES[key] : normalizeText(value);
+  }
+
   function tokens(value) {
     return normalizeText(value)
       .split(/[^\p{L}\p{N}.]+/u)
@@ -76,7 +133,7 @@
     const settings = options || {};
     const limit = Math.max(1, Number(settings.limit) || 30);
     const requestedCategory = normalizeText(need && need.category || '');
-    const requestedBrand = normalizeText(need && need.brand || '');
+    const requestedBrand = normalizeBrand(need && need.brand || '');
     const needTokens = getNeedTokens(need || {});
     const diagnostics = {
       inputCategory: requestedCategory || null,
@@ -101,7 +158,7 @@
       }
       diagnostics.categoryMatches += 1;
 
-      if (requestedBrand && normalizeText(product.brand) !== requestedBrand) {
+      if (requestedBrand && normalizeBrand(product.brand) !== requestedBrand) {
         diagnostics.rejected.brand += 1;
         return;
       }
@@ -163,6 +220,7 @@
   window.DigiYarV5CandidateRetrieval = {
     version: VERSION,
     normalizeText: normalizeText,
+    normalizeBrand: normalizeBrand,
     retrieve: retrieve,
     find: find
   };
