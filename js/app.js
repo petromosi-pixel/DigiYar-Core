@@ -1,6 +1,6 @@
 /* =========================================================
-   DigiYar V4 — Main Application
-   Build 12 — async retrieval + product cards
+   DigiYar V5.1 — Main Application
+   Live retrieval + product cards
    ========================================================= */
 (function () {
   "use strict";
@@ -15,7 +15,29 @@
     container.innerHTML=DigiYarPlatforms.map(function(platform){return '<a class="platform" href="'+escapeHTML(platform.url)+'" target="_blank" rel="noopener noreferrer"><div class="platform-main"><div class="platform-logo"><img src="'+escapeHTML(platform.logo)+'" alt="'+escapeHTML(platform.name)+'" loading="lazy"></div><span class="platform-name">'+escapeHTML(platform.name)+'</span><span class="platform-tag">'+escapeHTML(platform.tag)+'</span></div><span class="platform-btn">ورود به فروشگاه</span></a>';}).join("");
   }
 
+  let v51Ready=null;
+  function loadScript(path){return new Promise(function(resolve,reject){if(document.querySelector('script[src$="/'+path+'"]')){resolve();return;}const s=document.createElement('script');s.src=new URL(path,document.baseURI).href;s.async=false;s.onload=resolve;s.onerror=function(){reject(Error('Failed to load '+path));};document.head.appendChild(s);});}
+  async function ensureV51Live(){
+    if(v51Ready)return v51Ready;
+    v51Ready=(async function(){
+      if(!window.DigiYarV5CatalogAdapter)await loadScript('js/v5-catalog-adapter.js');
+      if(!window.DigiYarV5PriceEngine)await loadScript('js/v5-price-engine.js');
+      if(!window.DigiYarV5CandidateRetrieval)await loadScript('js/v5-candidate-retrieval.js');
+      if(!window.DigiYarOfferAffiliate)await loadScript('js/v5-offer-affiliate-engine.js');
+      if(!window.DigiyarProductRetrievalIntegration)await loadScript('js/product-retrieval-integration.js');
+    })().catch(function(error){v51Ready=null;throw error;});
+    return v51Ready;
+  }
+
   async function getRecommendations(need){
+    try{
+      await ensureV51Live();
+      const live=window.DigiyarProductRetrievalIntegration;
+      if(live&&typeof live.retrieve==='function'){
+        const result=await live.retrieve(need,{limit:3,candidateLimit:10,resolverTimeout:10000});
+        if(result&&Array.isArray(result.products)&&result.products.length)return result.products;
+      }
+    }catch(error){console.warn("DigiYar V5.1 Live Retrieval:",error);}
     const engine=window.DigiYarSmartRecommendation||window.DigiYarSmartRecommendationEngine;
     if(!engine||typeof engine.recommend!=="function")return[];
     try{const result=await engine.recommend(need,{limit:3});return result&&Array.isArray(result.recommendations)?result.recommendations:[];}catch(error){console.warn("DigiYar Recommendation:",error);return[];}
@@ -25,7 +47,7 @@
     const image=getProductImage(product),features=toArray(product.features);
     const price=product.price!=null&&Number(product.price)>0?new Intl.NumberFormat("fa-IR").format(product.price)+" تومان":"قیمت نامشخص";
     const url=product.affiliateUrl||product.productUrl||product.url||"#";
-    return '<article class="recommendation" data-rank="'+escapeHTML(index+1)+'"><div class="recommendation-rank">'+escapeHTML(priorityLabel(index))+'</div>'+(image?'<div class="recommendation-product-image"><img src="'+escapeHTML(image)+'" alt="'+escapeHTML(product.name||"محصول پیشنهادی")+'" loading="lazy"></div>':'')+'<h3>'+escapeHTML(product.name||"محصول پیشنهادی")+'</h3><p class="recommendation-price">'+escapeHTML(price)+'</p>'+(features.length?'<p class="recommendation-features">'+escapeHTML(features.join("، "))+'</p>':'')+'<a class="recommendation-link" href="'+escapeHTML(url)+'" target="_blank" rel="noopener noreferrer">مشاهده کالا</a></article>';
+    return '<article class="recommendation" data-rank="'+escapeHTML(index+1)+'"><div class="recommendation-rank">'+escapeHTML(priorityLabel(index))+'</div>'+(image?'<div class="recommendation-product-image"><img src="'+escapeHTML(image)+'" alt="'+escapeHTML(product.name||"محصول پیشنهادی")+'" loading="lazy">':'')+'<h3>'+escapeHTML(product.name||"محصول پیشنهادی")+'</h3><p class="recommendation-price">'+escapeHTML(price)+'</p>'+(features.length?'<p class="recommendation-features">'+escapeHTML(features.join("، "))+'</p>':'')+'<a class="recommendation-link" href="'+escapeHTML(url)+'" target="_blank" rel="noopener noreferrer">مشاهده کالا</a></article>';
   }
 
   function fillForm(profile){

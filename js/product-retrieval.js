@@ -66,19 +66,23 @@
   function normalizeProduct(product, options) {
     if (!product || typeof product !== "object") return null;
     const settings = options || {};
+    const store = settings.store || product.storeId || product.store || product.sourceId || product.source || "digikala";
+    const currency = settings.currency || String(product.currency || "toman").toLowerCase();
     return {
-      id: String(product.id || product.pk || product.product_id || product.code || ""),
+      id: String(product.id || product.pk || product.product_id || product.productId || product.code || ""),
       name: String(resolveName(product) || ""),
       category: typeof product.category === "string" ? product.category : "general",
-      price: resolvePrice(product, settings.currency || "toman"),
-      store: settings.store || "digikala",
+      price: resolvePrice(product, currency),
+      store: store,
+      storeId: store,
       productUrl: resolveProductUrl(product),
       affiliateUrl: product.affiliateUrl || "",
       image: resolveImage(product),
       features: resolveFeatures(product),
       rating: product.rating || null,
       seller: product.seller || null,
-      status: product.status || ""
+      status: product.status || "",
+      availability: product.availability || (product.available === false ? "out_of_stock" : product.available === true ? "in_stock" : "unknown")
     };
   }
   function localSearch(query, options) {
@@ -99,19 +103,21 @@
     const payload = unwrapProxy(data);
     if (!payload) return [];
     const candidates = [
-      payload.data && payload.data.products,
-      payload.data && payload.data.items,
+      payload.results,
       payload.products,
       payload.items,
-      payload.data && payload.data.products && payload.data.products.data,
-      payload.data && payload.data.products && payload.data.products.items
+      payload.data && payload.data.results,
+      payload.data && payload.data.products,
+      payload.data && payload.data.items,
+      payload.products && payload.products.data,
+      payload.products && payload.products.items
     ];
     let products = [];
     for (let i = 0; i < candidates.length; i++) {
       if (Array.isArray(candidates[i])) { products = candidates[i]; break; }
     }
     return products.map(function (p) {
-      return normalizeProduct(p, { currency: CONFIG.digikalaRemoteCurrency, store: "digikala" });
+      return normalizeProduct(p, { currency: String(p && p.currency || "IRR").toLowerCase(), store: p && (p.storeId || p.store || p.sourceId || p.source) });
     }).filter(function (p) { return p && p.name; }).slice(0, CONFIG.maxResults);
   }
   async function searchWorker(query) {
@@ -156,7 +162,7 @@
   function setProxyEndpoint(url) { CONFIG.proxyEndpoint = String(url || "").trim().replace(/\/$/, ""); return CONFIG.proxyEndpoint; }
 
   window.DigiYarProductRetrieval = {
-    version: "5.0.0-alpha.1",
+    version: "5.1.0-alpha.1",
     config: CONFIG,
     setProxyEndpoint,
     normalizeText,

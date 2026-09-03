@@ -5,7 +5,7 @@
 (function (window) {
   'use strict';
 
-  const VERSION = '5.1.0-alpha.1';
+  const VERSION = '5.1.0-alpha.2';
   const DEFAULT_RESOLVER = 'https://digiyar-v5.petromosi.workers.dev/api/resolve';
 
   function clone(value) { return value === undefined ? undefined : JSON.parse(JSON.stringify(value)); }
@@ -43,7 +43,7 @@
   }
   function extractRawProducts(data) {
     const payload = unwrap(data); if (!payload) return [];
-    const candidates = [payload.products, payload.items, payload.data && payload.data.products, payload.data && payload.data.items, payload.products && payload.products.data, payload.products && payload.products.items];
+    const candidates = [payload.products, payload.items, payload.results, payload.data && payload.data.products, payload.data && payload.data.items, payload.data && payload.data.results, payload.products && payload.products.data, payload.products && payload.products.items];
     for (let i = 0; i < candidates.length; i++) if (Array.isArray(candidates[i])) return candidates[i];
     return [];
   }
@@ -68,7 +68,7 @@
         result.httpStatus = packet.response.status; result.upstreamStatus = body.status || null;
         if (!packet.response.ok) { result.error = body.error || ('HTTP ' + packet.response.status); continue; }
         const raw = extractRawProducts(body); result.source = endpoints[i].name; result.rawCount = raw.length;
-        if (retrieval && typeof retrieval.normalizeProduct === 'function') result.products = raw.map(function (p) { return retrieval.normalizeProduct(p, { currency:'rial', store:'digikala' }); }).filter(function (p) { return p && p.name; });
+        if (retrieval && typeof retrieval.normalizeProduct === 'function') result.products = raw.map(function (p) { return retrieval.normalizeProduct(p, { currency:String(p && p.currency || 'IRR').toLowerCase(), store:p && (p.storeId || p.store || p.sourceId || p.source) }); }).filter(function (p) { return p && p.name; });
         result.normalizedCount = result.products.length; result.pricedCount = result.products.filter(function (p) { return Number(p.price) > 0; }).length;
         if (raw.length || endpoints[i].name === 'proxy') return result;
       } catch (error) { result.error = error && error.message ? error.message : String(error); }
@@ -83,6 +83,13 @@
     return DEFAULT_RESOLVER;
   }
 
+  function affiliateUrl(product, previous, url) {
+    if (previous && previous.affiliateUrl) return previous.affiliateUrl;
+    const engine = window.DigiYarOfferAffiliate;
+    if (engine && typeof engine.buildAffiliateUrl === 'function') return engine.buildAffiliateUrl(previous && (previous.storeId || previous.store) || product && (product.sourceId || product.source), url);
+    return '';
+  }
+
   async function resolveCandidate(item, timeout) {
     const product = item && item.product ? item.product : item;
     const url = product && (product.productUrl || product.url || product.sourceUrl);
@@ -91,12 +98,13 @@
     if (!packet.response.ok || !packet.data || !packet.data.resolved) return null;
     const r = packet.data;
     const previous = product.bestOffer || (Array.isArray(product.offers) ? product.offers[0] : null) || {};
+    const resolvedUrl = r.productUrl || url;
     const offer = {
       id: String(previous.id || product.id || ''), productId:String(product.id || product.productId || ''),
       storeId:String(previous.storeId || product.sourceId || product.source || ''), storeName:previous.storeName || product.source || '',
       price:Number(r.price || 0), priceToman:Number(r.priceToman || 0), currency:r.currency || 'IRT',
       availability:r.availability || 'unknown', available:r.availability === 'in_stock',
-      productUrl:r.productUrl || url, affiliateUrl:previous.affiliateUrl || '', source:product.source || previous.source || '', observedAt:new Date().toISOString()
+      productUrl:resolvedUrl, affiliateUrl:affiliateUrl(product, previous, resolvedUrl), source:product.source || previous.source || '', observedAt:new Date().toISOString()
     };
     return Object.assign({}, product, { price:offer.priceToman, currency:offer.currency, availability:offer.availability, productUrl:offer.productUrl, offers:[offer], bestOffer:offer.available && offer.priceToman > 0 ? offer : null, resolver:{ resolved:true, extraction:r.extraction || 'unknown' } });
   }
@@ -119,7 +127,8 @@
   async function retrieveViaCandidates(need, options) {
     const retrieval = window.DigiYarV5CandidateRetrieval;
     if (!retrieval || typeof retrieval.find !== 'function') return null;
-    const settings = options || {}, candidates = await retrieval.find(need, { limit:Number(settings.candidateLimit) || 10 });
+    const settings = options || {}, categories = Array.isArray(settings.categories) && settings.categories.length ? settings.categories : (need && need.category ? [need.category] : undefined);
+    const candidates = await retrieval.find(need, { limit:Number(settings.candidateLimit) || 10, categories:categories });
     const resolved = [];
     const errors = [];
     await Promise.all(candidates.candidates.map(async function (candidate) {
