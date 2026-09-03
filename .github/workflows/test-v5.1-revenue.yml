@@ -3,7 +3,7 @@ name: V5.1 Revenue E2E
 on:
   push:
     branches:
-      - v5-revenue-e2e
+      - v5
   pull_request:
     branches:
       - v5

@@ -103,10 +103,10 @@
       id: String(previous.id || product.id || ''), productId:String(product.id || product.productId || ''),
       storeId:String(previous.storeId || product.sourceId || product.source || ''), storeName:previous.storeName || product.source || '',
       price:Number(r.price || 0), priceToman:Number(r.priceToman || 0), currency:r.currency || 'IRT',
-      availability:r.availability || 'unknown', available:r.availability === 'in_stock',
+      availability:r.availability || 'unknown', available:r.availability !== 'out_of_stock' && Number(r.priceToman || 0) > 0,
       productUrl:resolvedUrl, affiliateUrl:affiliateUrl(product, previous, resolvedUrl), source:product.source || previous.source || '', observedAt:new Date().toISOString()
     };
-    return Object.assign({}, product, { price:offer.priceToman, currency:offer.currency, availability:offer.availability, productUrl:offer.productUrl, offers:[offer], bestOffer:offer.available && offer.priceToman > 0 ? offer : null, resolver:{ resolved:true, extraction:r.extraction || 'unknown' } });
+    return Object.assign({}, product, { price:offer.priceToman, priceToman:offer.priceToman, currency:offer.currency, availability:offer.availability, productUrl:offer.productUrl, affiliateUrl:offer.affiliateUrl, offers:[offer], bestOffer:offer.available ? offer : null, resolver:{ resolved:true, extraction:r.extraction || 'unknown' } });
   }
 
   function applyLiveBudget(products, budget) {
