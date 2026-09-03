@@ -71,6 +71,12 @@ function normalize(x, category, subcategory, pageUrl) {
   const url = abs(pageUrl, x.url || x.productUrl || '');
   if (name.length < 4 || !url) return null;
   try { if (new URL(url).hostname !== 'torobshop.com') return null; } catch { return null; }
+
+  // TorobShop category pages can occasionally surface unrelated products.
+  // Reject only the unambiguous mobile/laptop cross-category leakage that the audit flags.
+  if (category === 'mobile' && /لپ\s*تاپ|laptop|macbook|notebook|مک\s*بوک|نوت\s*بوک/i.test(name)) return null;
+  if (category === 'laptop-computer' && /گوشی|موبایل|iphone|galaxy|redmi|poco|smartphone/i.test(name)) return null;
+
   return {
     id: `torobshop-${category}-${hash(url || name)}`,
     productId: `torobshop-${hash(url || name)}`,
