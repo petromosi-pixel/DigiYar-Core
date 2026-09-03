@@ -1,6 +1,6 @@
 /* =========================================================
-   DigiYar V4 — Main Application
-   Build 12 — async retrieval + product cards
+   DigiYar V5.1 — Main Application
+   Live retrieval + product cards
    ========================================================= */
 (function () {
   "use strict";
@@ -16,6 +16,13 @@
   }
 
   async function getRecommendations(need){
+    const live=window.DigiyarProductRetrievalIntegration;
+    if(live&&typeof live.retrieve==='function'){
+      try{
+        const result=await live.retrieve(need,{limit:3,candidateLimit:10,resolverTimeout:10000});
+        if(result&&Array.isArray(result.products)&&result.products.length)return result.products;
+      }catch(error){console.warn("DigiYar V5.1 Live Retrieval:",error);}
+    }
     const engine=window.DigiYarSmartRecommendation||window.DigiYarSmartRecommendationEngine;
     if(!engine||typeof engine.recommend!=="function")return[];
     try{const result=await engine.recommend(need,{limit:3});return result&&Array.isArray(result.recommendations)?result.recommendations:[];}catch(error){console.warn("DigiYar Recommendation:",error);return[];}
