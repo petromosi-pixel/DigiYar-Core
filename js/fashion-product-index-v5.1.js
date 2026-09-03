@@ -15,7 +15,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.140Z"
+    "observedAt": "2026-09-03T20:50:32.948Z"
   },
   {
     "id": "torobshop-fashion-42afd1ca9ea774d6",
@@ -33,7 +33,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.140Z"
+    "observedAt": "2026-09-03T20:50:32.948Z"
   },
   {
     "id": "torobshop-fashion-3930a114dca5ba93",
@@ -51,7 +51,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.140Z"
+    "observedAt": "2026-09-03T20:50:32.948Z"
   },
   {
     "id": "torobshop-fashion-aaa22eb952374f54",
@@ -69,7 +69,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.140Z"
+    "observedAt": "2026-09-03T20:50:32.948Z"
   },
   {
     "id": "torobshop-fashion-6313ab97d41a2b56",
@@ -87,7 +87,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.140Z"
+    "observedAt": "2026-09-03T20:50:32.948Z"
   },
   {
     "id": "torobshop-fashion-f6f4fe1c061400be",
@@ -105,7 +105,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.140Z"
+    "observedAt": "2026-09-03T20:50:32.948Z"
   },
   {
     "id": "torobshop-fashion-f84a10872070200f",
@@ -123,7 +123,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.140Z"
+    "observedAt": "2026-09-03T20:50:32.948Z"
   },
   {
     "id": "torobshop-fashion-be5c8240bad9b96b",
@@ -141,7 +141,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.140Z"
+    "observedAt": "2026-09-03T20:50:32.948Z"
   },
   {
     "id": "torobshop-fashion-6ea4ce76135ec585",
@@ -159,7 +159,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.140Z"
+    "observedAt": "2026-09-03T20:50:32.948Z"
   },
   {
     "id": "torobshop-fashion-66ec5ac305e2c66d",
@@ -177,7 +177,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.140Z"
+    "observedAt": "2026-09-03T20:50:32.948Z"
   },
   {
     "id": "torobshop-fashion-550a8f87070e67b2",
@@ -195,7 +195,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.140Z"
+    "observedAt": "2026-09-03T20:50:32.948Z"
   },
   {
     "id": "torobshop-fashion-82dd733a006aec80",
@@ -213,7 +213,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.140Z"
+    "observedAt": "2026-09-03T20:50:32.948Z"
   },
   {
     "id": "torobshop-fashion-b0ab596ed23cc867",
@@ -231,7 +231,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.140Z"
+    "observedAt": "2026-09-03T20:50:32.948Z"
   },
   {
     "id": "torobshop-fashion-81b8042dfd25e040",
@@ -249,7 +249,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.140Z"
+    "observedAt": "2026-09-03T20:50:32.948Z"
   },
   {
     "id": "torobshop-fashion-971de75d275ec060",
@@ -267,7 +267,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.140Z"
+    "observedAt": "2026-09-03T20:50:32.948Z"
   },
   {
     "id": "torobshop-fashion-6984e0fba2f0f5ab",
@@ -285,7 +285,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.140Z"
+    "observedAt": "2026-09-03T20:50:32.948Z"
   },
   {
     "id": "torobshop-fashion-043774655c5e9707",
@@ -303,7 +303,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.140Z"
+    "observedAt": "2026-09-03T20:50:32.948Z"
   },
   {
     "id": "torobshop-fashion-96e722182c1b89a6",
@@ -321,7 +321,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.140Z"
+    "observedAt": "2026-09-03T20:50:32.948Z"
   },
   {
     "id": "torobshop-fashion-d62f3f3a89e25a47",
@@ -339,7 +339,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.140Z"
+    "observedAt": "2026-09-03T20:50:32.948Z"
   },
   {
     "id": "torobshop-fashion-c91c69b83e4ddd45",
@@ -357,7 +357,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.140Z"
+    "observedAt": "2026-09-03T20:50:32.948Z"
   },
   {
     "id": "torobshop-fashion-6d073e89debc0957",
@@ -375,7 +375,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.140Z"
+    "observedAt": "2026-09-03T20:50:32.948Z"
   },
   {
     "id": "torobshop-fashion-2f1de49dbfea70aa",
@@ -393,7 +393,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.948Z"
   },
   {
     "id": "torobshop-fashion-688de6c889730421",
@@ -411,7 +411,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.948Z"
   },
   {
     "id": "torobshop-fashion-6f75db36753d61cb",
@@ -429,7 +429,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.948Z"
   },
   {
     "id": "torobshop-fashion-1d0f8b752067584c",
@@ -447,7 +447,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.948Z"
   },
   {
     "id": "torobshop-fashion-9588e88bfa202297",
@@ -465,7 +465,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.948Z"
   },
   {
     "id": "torobshop-fashion-564f6efd33ed7c72",
@@ -483,7 +483,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.948Z"
   },
   {
     "id": "torobshop-fashion-db51956256cf2a9e",
@@ -501,7 +501,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.948Z"
   },
   {
     "id": "torobshop-fashion-6c602e399b74265b",
@@ -519,7 +519,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.948Z"
   },
   {
     "id": "torobshop-fashion-69bf454eaf5c015b",
@@ -537,7 +537,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.948Z"
   },
   {
     "id": "torobshop-fashion-9b36373adadaf4fd",
@@ -555,7 +555,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.948Z"
   },
   {
     "id": "torobshop-fashion-b510ac9c5967ae6e",
@@ -573,7 +573,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.948Z"
   },
   {
     "id": "torobshop-fashion-3dbcaccb8662bde1",
@@ -591,7 +591,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.948Z"
   },
   {
     "id": "torobshop-fashion-200d11c52e55158d",
@@ -609,7 +609,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.948Z"
   },
   {
     "id": "torobshop-fashion-7030913f04cb3a2f",
@@ -627,7 +627,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.948Z"
   },
   {
     "id": "torobshop-fashion-c57090577d7bcdd6",
@@ -645,7 +645,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.949Z"
   },
   {
     "id": "torobshop-fashion-47c81c869cca25d8",
@@ -663,7 +663,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.949Z"
   },
   {
     "id": "torobshop-fashion-f566f758ccfcc717",
@@ -681,7 +681,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.949Z"
   },
   {
     "id": "torobshop-fashion-964ece0d8e9f6669",
@@ -699,7 +699,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.949Z"
   },
   {
     "id": "torobshop-fashion-4cef33429e237704",
@@ -717,7 +717,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.949Z"
   },
   {
     "id": "torobshop-fashion-e4a2bc7cbee474b2",
@@ -735,7 +735,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.949Z"
   },
   {
     "id": "torobshop-fashion-3be15395be038aca",
@@ -753,7 +753,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.949Z"
   },
   {
     "id": "torobshop-fashion-77f61ec7f8b8b73d",
@@ -771,7 +771,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.949Z"
   },
   {
     "id": "torobshop-fashion-a09bc08624899ff4",
@@ -789,7 +789,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.949Z"
   },
   {
     "id": "torobshop-fashion-bbd449ed50b3d540",
@@ -807,7 +807,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.949Z"
   },
   {
     "id": "torobshop-fashion-50ddbf6ac385797f",
@@ -825,7 +825,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.949Z"
   },
   {
     "id": "torobshop-fashion-80a52ed3a08cda77",
@@ -843,7 +843,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.949Z"
   },
   {
     "id": "torobshop-fashion-039d5e6addbbd691",
@@ -861,7 +861,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.949Z"
   },
   {
     "id": "torobshop-fashion-35ed38f253e56a81",
@@ -879,7 +879,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.949Z"
   },
   {
     "id": "torobshop-fashion-81294b2d39671c7a",
@@ -897,7 +897,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.949Z"
   },
   {
     "id": "torobshop-fashion-aa508f6b8b35e109",
@@ -915,7 +915,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.949Z"
   },
   {
     "id": "torobshop-fashion-6ec47a3d62be5701",
@@ -933,7 +933,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.949Z"
   },
   {
     "id": "torobshop-fashion-7b66ea2c8fd4c6a4",
@@ -951,7 +951,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.949Z"
   },
   {
     "id": "torobshop-fashion-d49e2d4bb6f40cd4",
@@ -969,7 +969,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.949Z"
   },
   {
     "id": "torobshop-fashion-189f8d80d22fa44f",
@@ -987,7 +987,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.949Z"
   },
   {
     "id": "torobshop-fashion-5b8fa53f836d0f0c",
@@ -1005,7 +1005,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.949Z"
   },
   {
     "id": "torobshop-fashion-547d268a4387e8cb",
@@ -1023,7 +1023,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.949Z"
   },
   {
     "id": "torobshop-fashion-4192b4da9c3a842b",
@@ -1041,7 +1041,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.949Z"
   },
   {
     "id": "torobshop-fashion-d81ab9c86f172992",
@@ -1059,7 +1059,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.949Z"
   },
   {
     "id": "torobshop-fashion-c2621badab7154db",
@@ -1077,7 +1077,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.949Z"
   },
   {
     "id": "torobshop-fashion-e61e8163e0053f8c",
@@ -1095,7 +1095,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.949Z"
   },
   {
     "id": "torobshop-fashion-0a6f99bfb7c72378",
@@ -1113,7 +1113,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.949Z"
   },
   {
     "id": "torobshop-fashion-17b433396f0dd8b8",
@@ -1131,7 +1131,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.949Z"
   },
   {
     "id": "torobshop-fashion-70f796097c7bfa77",
@@ -1149,7 +1149,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.949Z"
   },
   {
     "id": "torobshop-fashion-792d9fda0d1edf60",
@@ -1167,7 +1167,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.949Z"
   },
   {
     "id": "torobshop-fashion-0540c2016311432d",
@@ -1185,7 +1185,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.949Z"
   },
   {
     "id": "torobshop-fashion-ea7e49d4888f5500",
@@ -1203,7 +1203,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.949Z"
   },
   {
     "id": "torobshop-fashion-a7031b2d2c098e3a",
@@ -1221,7 +1221,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.949Z"
   },
   {
     "id": "torobshop-fashion-b280052ba623afe6",
@@ -1239,7 +1239,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.949Z"
   },
   {
     "id": "torobshop-fashion-f65d7089e1b75967",
@@ -1257,7 +1257,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.949Z"
   },
   {
     "id": "torobshop-fashion-682b567d27e46eb9",
@@ -1275,7 +1275,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.949Z"
   },
   {
     "id": "torobshop-fashion-1a199d11167496a7",
@@ -1293,7 +1293,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.949Z"
   },
   {
     "id": "torobshop-fashion-e7562a4a47affbdf",
@@ -1311,7 +1311,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.949Z"
   },
   {
     "id": "torobshop-fashion-5681fc33ebc4a2c4",
@@ -1329,7 +1329,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.949Z"
   },
   {
     "id": "torobshop-fashion-eb3156af454255af",
@@ -1347,7 +1347,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.949Z"
   },
   {
     "id": "torobshop-fashion-3f60763e8c1f61db",
@@ -1365,7 +1365,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.949Z"
   },
   {
     "id": "torobshop-fashion-8b667a7c5d48a018",
@@ -1383,7 +1383,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.949Z"
   },
   {
     "id": "torobshop-fashion-c28d9ee4867587e0",
@@ -1401,7 +1401,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.949Z"
   },
   {
     "id": "torobshop-fashion-135cb4370d26107e",
@@ -1419,7 +1419,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.949Z"
   },
   {
     "id": "torobshop-fashion-ea6561f27fcae338",
@@ -1437,7 +1437,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.949Z"
   },
   {
     "id": "torobshop-fashion-9da6cf5207d19dc6",
@@ -1455,7 +1455,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.949Z"
   },
   {
     "id": "torobshop-fashion-973da9b66d30f98f",
@@ -1473,7 +1473,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.949Z"
   },
   {
     "id": "torobshop-fashion-27a7ab064979e19e",
@@ -1491,7 +1491,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.949Z"
   },
   {
     "id": "torobshop-fashion-426ac503c83523da",
@@ -1509,7 +1509,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.949Z"
   },
   {
     "id": "torobshop-fashion-93f0314c16b9cade",
@@ -1527,7 +1527,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.949Z"
   },
   {
     "id": "torobshop-fashion-e546c7ee2f25cccb",
@@ -1545,7 +1545,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.949Z"
   },
   {
     "id": "torobshop-fashion-06e9af83157d59bf",
@@ -1563,7 +1563,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.949Z"
   },
   {
     "id": "torobshop-fashion-7dd02e17fa5ae720",
@@ -1581,7 +1581,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.949Z"
   },
   {
     "id": "torobshop-fashion-67b089d5840c00b5",
@@ -1599,7 +1599,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.949Z"
   },
   {
     "id": "torobshop-fashion-16617f0cd6242c17",
@@ -1617,7 +1617,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.949Z"
   },
   {
     "id": "torobshop-fashion-aab6f7ca65634b77",
@@ -1635,7 +1635,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.949Z"
   },
   {
     "id": "torobshop-fashion-230290bd87eab562",
@@ -1653,7 +1653,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.949Z"
   },
   {
     "id": "torobshop-fashion-697a2934ffba6321",
@@ -1671,7 +1671,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.950Z"
   },
   {
     "id": "torobshop-fashion-54f5e9ae596669e0",
@@ -1689,7 +1689,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.950Z"
   },
   {
     "id": "torobshop-fashion-12112ebd794aebfe",
@@ -1707,7 +1707,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.950Z"
   },
   {
     "id": "torobshop-fashion-936307be3dbff4d8",
@@ -1725,7 +1725,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.950Z"
   },
   {
     "id": "torobshop-fashion-6e9b5969bf806a83",
@@ -1743,7 +1743,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.950Z"
   },
   {
     "id": "torobshop-fashion-e8fbb91576830b01",
@@ -1761,7 +1761,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.950Z"
   },
   {
     "id": "torobshop-fashion-46604b56d19bc98e",
@@ -1779,7 +1779,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.950Z"
   },
   {
     "id": "torobshop-fashion-c0da7c6caaaabe22",
@@ -1797,7 +1797,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.950Z"
   },
   {
     "id": "torobshop-fashion-b0d9a8bce5b96da9",
@@ -1815,7 +1815,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.950Z"
   },
   {
     "id": "torobshop-fashion-5aade8dcb399df70",
@@ -1833,7 +1833,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.141Z"
+    "observedAt": "2026-09-03T20:50:32.950Z"
   },
   {
     "id": "torobshop-fashion-5793143473c0cf7d",
@@ -1851,7 +1851,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
+    "observedAt": "2026-09-03T20:50:32.950Z"
   },
   {
     "id": "torobshop-fashion-338927d0838a0440",
@@ -1869,7 +1869,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
+    "observedAt": "2026-09-03T20:50:32.950Z"
   },
   {
     "id": "torobshop-fashion-01db327156bef7cb",
@@ -1887,7 +1887,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
+    "observedAt": "2026-09-03T20:50:32.950Z"
   },
   {
     "id": "torobshop-fashion-5f8b7d12315d211b",
@@ -1905,7 +1905,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
+    "observedAt": "2026-09-03T20:50:32.950Z"
   },
   {
     "id": "torobshop-fashion-bbcc82316e14ad0c",
@@ -1923,7 +1923,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
+    "observedAt": "2026-09-03T20:50:32.950Z"
   },
   {
     "id": "torobshop-fashion-7bcf4d86c8897e89",
@@ -1941,25 +1941,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
-  },
-  {
-    "id": "torobshop-fashion-c0ed70988a23d716",
-    "productId": "torobshop-c0ed70988a23d716",
-    "name": "برس پارکت و کفپوش جارو برقی میله آلمان مدل Miele SBB 400-3 مخصوص پارکت و سرامیک",
-    "brand": "",
-    "model": "برس پارکت و کفپوش جارو برقی میله آلمان مدل Miele SBB 400-3 مخصوص پارکت و سرامیک",
-    "category": "fashion",
-    "subcategory": "مردانه",
-    "price": 23988000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%A8%D8%B1%D8%B3-%D9%BE%D8%A7%D8%B1%DA%A9%D8%AA-%D9%88-%DA%A9%D9%81%D9%BE%D9%88%D8%B4-%D8%AC%D8%A7%D8%B1%D9%88-%D8%A8%D8%B1%D9%82%DB%8C-%D9%85%DB%8C%D9%84%D9%87-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%AF%D9%84-Miele-SBB-400-3-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D9%BE%D8%A7%D8%B1%DA%A9%D8%AA-%D9%88-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
+    "observedAt": "2026-09-03T20:50:32.950Z"
   },
   {
     "id": "torobshop-fashion-c4764ab021d7047d",
@@ -1977,7 +1959,25 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
+    "observedAt": "2026-09-03T20:50:32.950Z"
+  },
+  {
+    "id": "torobshop-fashion-c0ed70988a23d716",
+    "productId": "torobshop-c0ed70988a23d716",
+    "name": "برس پارکت و کفپوش جارو برقی میله آلمان مدل Miele SBB 400-3 مخصوص پارکت و سرامیک",
+    "brand": "",
+    "model": "برس پارکت و کفپوش جارو برقی میله آلمان مدل Miele SBB 400-3 مخصوص پارکت و سرامیک",
+    "category": "fashion",
+    "subcategory": "مردانه",
+    "price": 23988000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%A8%D8%B1%D8%B3-%D9%BE%D8%A7%D8%B1%DA%A9%D8%AA-%D9%88-%DA%A9%D9%81%D9%BE%D9%88%D8%B4-%D8%AC%D8%A7%D8%B1%D9%88-%D8%A8%D8%B1%D9%82%DB%8C-%D9%85%DB%8C%D9%84%D9%87-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%AF%D9%84-Miele-SBB-400-3-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D9%BE%D8%A7%D8%B1%DA%A9%D8%AA-%D9%88-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T20:50:32.950Z"
   },
   {
     "id": "torobshop-fashion-60d6e587231ae5e2",
@@ -1995,7 +1995,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
+    "observedAt": "2026-09-03T20:50:32.950Z"
   },
   {
     "id": "torobshop-fashion-6ae0fa5e11f4b4e4",
@@ -2013,25 +2013,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
-  },
-  {
-    "id": "torobshop-fashion-60af1d85416ddb75",
-    "productId": "torobshop-60af1d85416ddb75",
-    "name": "مایکروویو گریل اسمگ ایتالیا مدل Smeg MOC01BLMEU رنگ مشکی با ظرفیت 29 لیتر و فناوری Inverter",
-    "brand": "",
-    "model": "مایکروویو گریل اسمگ ایتالیا مدل Smeg MOC01BLMEU رنگ مشکی با ظرفیت 29 لیتر و فناوری Inverter",
-    "category": "fashion",
-    "subcategory": "مردانه",
-    "price": 120996000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%DB%8C%DA%A9%D8%B1%D9%88%D9%88%DB%8C%D9%88-%DA%AF%D8%B1%DB%8C%D9%84-%D8%A7%D8%B3%D9%85%DA%AF-%D8%A7%DB%8C%D8%AA%D8%A7%D9%84%DB%8C%D8%A7-%D9%85%D8%AF%D9%84-Smeg-MOC01BLMEU-%D8%B1%D9%86%DA%AF-%D9%85%D8%B4%DA%A9%DB%8C-%D8%A8%D8%A7-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-29-%D9%84%DB%8C%D8%AA%D8%B1-%D9%88-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-Inverter",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
+    "observedAt": "2026-09-03T20:50:32.950Z"
   },
   {
     "id": "torobshop-fashion-4bcca73578b5dd16",
@@ -2049,7 +2031,25 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
+    "observedAt": "2026-09-03T20:50:32.950Z"
+  },
+  {
+    "id": "torobshop-fashion-60af1d85416ddb75",
+    "productId": "torobshop-60af1d85416ddb75",
+    "name": "مایکروویو گریل اسمگ ایتالیا مدل Smeg MOC01BLMEU رنگ مشکی با ظرفیت 29 لیتر و فناوری Inverter",
+    "brand": "",
+    "model": "مایکروویو گریل اسمگ ایتالیا مدل Smeg MOC01BLMEU رنگ مشکی با ظرفیت 29 لیتر و فناوری Inverter",
+    "category": "fashion",
+    "subcategory": "مردانه",
+    "price": 120996000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%DB%8C%DA%A9%D8%B1%D9%88%D9%88%DB%8C%D9%88-%DA%AF%D8%B1%DB%8C%D9%84-%D8%A7%D8%B3%D9%85%DA%AF-%D8%A7%DB%8C%D8%AA%D8%A7%D9%84%DB%8C%D8%A7-%D9%85%D8%AF%D9%84-Smeg-MOC01BLMEU-%D8%B1%D9%86%DA%AF-%D9%85%D8%B4%DA%A9%DB%8C-%D8%A8%D8%A7-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-29-%D9%84%DB%8C%D8%AA%D8%B1-%D9%88-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-Inverter",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T20:50:32.950Z"
   },
   {
     "id": "torobshop-fashion-6e06ceda384f61d3",
@@ -2067,43 +2067,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
-  },
-  {
-    "id": "torobshop-fashion-d6020856dbe3939e",
-    "productId": "torobshop-d6020856dbe3939e",
-    "name": "ریش تراش فیلیپس هلند سری i9000 پرستیژ اولترا مدل Philips XP9405/31",
-    "brand": "",
-    "model": "ریش تراش فیلیپس هلند سری i9000 پرستیژ اولترا مدل Philips XP9405/31",
-    "category": "fashion",
-    "subcategory": "مردانه",
-    "price": 94984000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%87%D9%84%D9%86%D8%AF-%D8%B3%D8%B1%DB%8C-i9000-%D9%BE%D8%B1%D8%B3%D8%AA%DB%8C%DA%98-%D8%A7%D9%88%D9%84%D8%AA%D8%B1%D8%A7-%D9%85%D8%AF%D9%84-Philips-XP9405-31",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
-  },
-  {
-    "id": "torobshop-fashion-5d82b44892bc11b9",
-    "productId": "torobshop-5d82b44892bc11b9",
-    "name": "دستگاه تنس ای ام اس و گرما درمانی بیورر آلمان مدل Beurer EM 59 تسکین درد تحریک عضلات",
-    "brand": "",
-    "model": "دستگاه تنس ای ام اس و گرما درمانی بیورر آلمان مدل Beurer EM 59 تسکین درد تحریک عضلات",
-    "category": "fashion",
-    "subcategory": "مردانه",
-    "price": 25365000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%AA%D9%86%D8%B3-%D8%A7%DB%8C-%D8%A7%D9%85-%D8%A7%D8%B3-%D9%88-%DA%AF%D8%B1%D9%85%D8%A7-%D8%AF%D8%B1%D9%85%D8%A7%D9%86%DB%8C-%D8%A8%DB%8C%D9%88%D8%B1%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%AF%D9%84-Beurer-EM-59-%D8%AA%D8%B3%DA%A9%DB%8C%D9%86-%D8%AF%D8%B1%D8%AF-%D8%AA%D8%AD%D8%B1%DB%8C%DA%A9-%D8%B9%D8%B6%D9%84%D8%A7%D8%AA",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
+    "observedAt": "2026-09-03T20:50:32.950Z"
   },
   {
     "id": "torobshop-fashion-f9bbe058bc1d2128",
@@ -2121,7 +2085,43 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
+    "observedAt": "2026-09-03T20:50:32.950Z"
+  },
+  {
+    "id": "torobshop-fashion-5d82b44892bc11b9",
+    "productId": "torobshop-5d82b44892bc11b9",
+    "name": "دستگاه تنس ای ام اس و گرما درمانی بیورر آلمان مدل Beurer EM 59 تسکین درد تحریک عضلات",
+    "brand": "",
+    "model": "دستگاه تنس ای ام اس و گرما درمانی بیورر آلمان مدل Beurer EM 59 تسکین درد تحریک عضلات",
+    "category": "fashion",
+    "subcategory": "مردانه",
+    "price": 25365000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%AA%D9%86%D8%B3-%D8%A7%DB%8C-%D8%A7%D9%85-%D8%A7%D8%B3-%D9%88-%DA%AF%D8%B1%D9%85%D8%A7-%D8%AF%D8%B1%D9%85%D8%A7%D9%86%DB%8C-%D8%A8%DB%8C%D9%88%D8%B1%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%AF%D9%84-Beurer-EM-59-%D8%AA%D8%B3%DA%A9%DB%8C%D9%86-%D8%AF%D8%B1%D8%AF-%D8%AA%D8%AD%D8%B1%DB%8C%DA%A9-%D8%B9%D8%B6%D9%84%D8%A7%D8%AA",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T20:50:32.950Z"
+  },
+  {
+    "id": "torobshop-fashion-d6020856dbe3939e",
+    "productId": "torobshop-d6020856dbe3939e",
+    "name": "ریش تراش فیلیپس هلند سری i9000 پرستیژ اولترا مدل Philips XP9405/31",
+    "brand": "",
+    "model": "ریش تراش فیلیپس هلند سری i9000 پرستیژ اولترا مدل Philips XP9405/31",
+    "category": "fashion",
+    "subcategory": "مردانه",
+    "price": 94984000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%87%D9%84%D9%86%D8%AF-%D8%B3%D8%B1%DB%8C-i9000-%D9%BE%D8%B1%D8%B3%D8%AA%DB%8C%DA%98-%D8%A7%D9%88%D9%84%D8%AA%D8%B1%D8%A7-%D9%85%D8%AF%D9%84-Philips-XP9405-31",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T20:50:32.950Z"
   },
   {
     "id": "torobshop-fashion-e0190c6b09b72f84",
@@ -2139,7 +2139,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
+    "observedAt": "2026-09-03T20:50:32.950Z"
   },
   {
     "id": "torobshop-fashion-e314f2beea5b98b5",
@@ -2157,7 +2157,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
+    "observedAt": "2026-09-03T20:50:32.950Z"
   },
   {
     "id": "torobshop-fashion-55066b4800c9da01",
@@ -2175,7 +2175,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
+    "observedAt": "2026-09-03T20:50:32.950Z"
   },
   {
     "id": "torobshop-fashion-f9b72003ee046406",
@@ -2193,7 +2193,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
+    "observedAt": "2026-09-03T20:50:32.950Z"
   },
   {
     "id": "torobshop-fashion-dab9eb8721316f5c",
@@ -2211,25 +2211,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
-  },
-  {
-    "id": "torobshop-fashion-b5bb3ef74c64016f",
-    "productId": "torobshop-b5bb3ef74c64016f",
-    "name": "ریش تراش برقی براون آلمان سری 9 پرو پلاس با ایستگاه شستشو هوشمند مدل Braun 9690cce",
-    "brand": "",
-    "model": "ریش تراش برقی براون آلمان سری 9 پرو پلاس با ایستگاه شستشو هوشمند مدل Braun 9690cce",
-    "category": "fashion",
-    "subcategory": "مردانه",
-    "price": 108261000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D8%A8%D8%B1%D9%82%DB%8C-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%B3%D8%B1%DB%8C-9-%D9%BE%D8%B1%D9%88-%D9%BE%D9%84%D8%A7%D8%B3-%D8%A8%D8%A7-%D8%A7%DB%8C%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%D9%85%D8%AF%D9%84-Braun-9690cce",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
+    "observedAt": "2026-09-03T20:50:32.950Z"
   },
   {
     "id": "torobshop-fashion-7039563646d2a08c",
@@ -2247,7 +2229,25 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
+    "observedAt": "2026-09-03T20:50:32.950Z"
+  },
+  {
+    "id": "torobshop-fashion-b5bb3ef74c64016f",
+    "productId": "torobshop-b5bb3ef74c64016f",
+    "name": "ریش تراش برقی براون آلمان سری 9 پرو پلاس با ایستگاه شستشو هوشمند مدل Braun 9690cce",
+    "brand": "",
+    "model": "ریش تراش برقی براون آلمان سری 9 پرو پلاس با ایستگاه شستشو هوشمند مدل Braun 9690cce",
+    "category": "fashion",
+    "subcategory": "مردانه",
+    "price": 108261000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D8%A8%D8%B1%D9%82%DB%8C-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%B3%D8%B1%DB%8C-9-%D9%BE%D8%B1%D9%88-%D9%BE%D9%84%D8%A7%D8%B3-%D8%A8%D8%A7-%D8%A7%DB%8C%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%D9%85%D8%AF%D9%84-Braun-9690cce",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T20:50:32.950Z"
   },
   {
     "id": "torobshop-fashion-13383e2908795ceb",
@@ -2265,43 +2265,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
-  },
-  {
-    "id": "torobshop-fashion-e05ea902bac411c1",
-    "productId": "torobshop-e05ea902bac411c1",
-    "name": "پلوپز و غلات پز هوشمند کیچن اید آمریکا مدل KitchenAid KGC2154PL سفید",
-    "brand": "",
-    "model": "پلوپز و غلات پز هوشمند کیچن اید آمریکا مدل KitchenAid KGC2154PL سفید",
-    "category": "fashion",
-    "subcategory": "مردانه",
-    "price": 81213000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%BE%D9%84%D9%88%D9%BE%D8%B2-%D9%88-%D8%BA%D9%84%D8%A7%D8%AA-%D9%BE%D8%B2-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%DA%A9%DB%8C%DA%86%D9%86-%D8%A7%DB%8C%D8%AF-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D9%85%D8%AF%D9%84-KitchenAid-KGC2154PL-%D8%B3%D9%81%DB%8C%D8%AF",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
-  },
-  {
-    "id": "torobshop-fashion-d17a16a92c427af7",
-    "productId": "torobshop-d17a16a92c427af7",
-    "name": "تنور فر پیتزا فضای باز نینجا آمریکا Ninja OO101EU وودفایر ۸ کاره باربیکیو دودی با قفسه گریل",
-    "brand": "",
-    "model": "تنور فر پیتزا فضای باز نینجا آمریکا Ninja OO101EU وودفایر ۸ کاره باربیکیو دودی با قفسه گریل",
-    "category": "fashion",
-    "subcategory": "مردانه",
-    "price": 126881000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%AA%D9%86%D9%88%D8%B1-%D9%81%D8%B1-%D9%BE%DB%8C%D8%AA%D8%B2%D8%A7-%D9%81%D8%B6%D8%A7%DB%8C-%D8%A8%D8%A7%D8%B2-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-Ninja-OO101EU-%D9%88%D9%88%D8%AF%D9%81%D8%A7%DB%8C%D8%B1-%DB%B8-%DA%A9%D8%A7%D8%B1%D9%87-%D8%A8%D8%A7%D8%B1%D8%A8%DB%8C%DA%A9%DB%8C%D9%88-%D8%AF%D9%88%D8%AF%DB%8C-%D8%A8%D8%A7-%D9%82%D9%81%D8%B3%D9%87-%DA%AF%D8%B1%DB%8C%D9%84",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
+    "observedAt": "2026-09-03T20:50:32.950Z"
   },
   {
     "id": "torobshop-fashion-222c5f1f48a7811a",
@@ -2319,7 +2283,43 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
+    "observedAt": "2026-09-03T20:50:32.950Z"
+  },
+  {
+    "id": "torobshop-fashion-e05ea902bac411c1",
+    "productId": "torobshop-e05ea902bac411c1",
+    "name": "پلوپز و غلات پز هوشمند کیچن اید آمریکا مدل KitchenAid KGC2154PL سفید",
+    "brand": "",
+    "model": "پلوپز و غلات پز هوشمند کیچن اید آمریکا مدل KitchenAid KGC2154PL سفید",
+    "category": "fashion",
+    "subcategory": "مردانه",
+    "price": 81213000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%BE%D9%84%D9%88%D9%BE%D8%B2-%D9%88-%D8%BA%D9%84%D8%A7%D8%AA-%D9%BE%D8%B2-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%DA%A9%DB%8C%DA%86%D9%86-%D8%A7%DB%8C%D8%AF-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D9%85%D8%AF%D9%84-KitchenAid-KGC2154PL-%D8%B3%D9%81%DB%8C%D8%AF",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T20:50:32.950Z"
+  },
+  {
+    "id": "torobshop-fashion-d17a16a92c427af7",
+    "productId": "torobshop-d17a16a92c427af7",
+    "name": "تنور فر پیتزا فضای باز نینجا آمریکا Ninja OO101EU وودفایر ۸ کاره باربیکیو دودی با قفسه گریل",
+    "brand": "",
+    "model": "تنور فر پیتزا فضای باز نینجا آمریکا Ninja OO101EU وودفایر ۸ کاره باربیکیو دودی با قفسه گریل",
+    "category": "fashion",
+    "subcategory": "مردانه",
+    "price": 126881000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%AA%D9%86%D9%88%D8%B1-%D9%81%D8%B1-%D9%BE%DB%8C%D8%AA%D8%B2%D8%A7-%D9%81%D8%B6%D8%A7%DB%8C-%D8%A8%D8%A7%D8%B2-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-Ninja-OO101EU-%D9%88%D9%88%D8%AF%D9%81%D8%A7%DB%8C%D8%B1-%DB%B8-%DA%A9%D8%A7%D8%B1%D9%87-%D8%A8%D8%A7%D8%B1%D8%A8%DB%8C%DA%A9%DB%8C%D9%88-%D8%AF%D9%88%D8%AF%DB%8C-%D8%A8%D8%A7-%D9%82%D9%81%D8%B3%D9%87-%DA%AF%D8%B1%DB%8C%D9%84",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T20:50:32.950Z"
   },
   {
     "id": "torobshop-fashion-9f8dba1c4be0543f",
@@ -2337,25 +2337,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
-  },
-  {
-    "id": "torobshop-fashion-7dda1ee3ebe3337d",
-    "productId": "torobshop-7dda1ee3ebe3337d",
-    "name": "اسپرسو ساز تمام اتوماتیک نینجا آمریکا Ninja AE1051EUBL",
-    "brand": "",
-    "model": "اسپرسو ساز تمام اتوماتیک نینجا آمریکا Ninja AE1051EUBL",
-    "category": "fashion",
-    "subcategory": "مردانه",
-    "price": 263060000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%A7%D8%B3%D9%BE%D8%B1%D8%B3%D9%88-%D8%B3%D8%A7%D8%B2-%D8%AA%D9%85%D8%A7%D9%85-%D8%A7%D8%AA%D9%88%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-Ninja-AE1051EUBL",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
+    "observedAt": "2026-09-03T20:50:32.950Z"
   },
   {
     "id": "torobshop-fashion-73f54a12bc87541c",
@@ -2373,7 +2355,25 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
+    "observedAt": "2026-09-03T20:50:32.950Z"
+  },
+  {
+    "id": "torobshop-fashion-7dda1ee3ebe3337d",
+    "productId": "torobshop-7dda1ee3ebe3337d",
+    "name": "اسپرسو ساز تمام اتوماتیک نینجا آمریکا Ninja AE1051EUBL",
+    "brand": "",
+    "model": "اسپرسو ساز تمام اتوماتیک نینجا آمریکا Ninja AE1051EUBL",
+    "category": "fashion",
+    "subcategory": "مردانه",
+    "price": 263060000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D8%B3%D9%BE%D8%B1%D8%B3%D9%88-%D8%B3%D8%A7%D8%B2-%D8%AA%D9%85%D8%A7%D9%85-%D8%A7%D8%AA%D9%88%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-Ninja-AE1051EUBL",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T20:50:32.950Z"
   },
   {
     "id": "torobshop-fashion-fed9304ce636fd70",
@@ -2391,7 +2391,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
+    "observedAt": "2026-09-03T20:50:32.950Z"
   },
   {
     "id": "torobshop-fashion-56d2262c04bf40b1",
@@ -2409,7 +2409,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
+    "observedAt": "2026-09-03T20:50:32.950Z"
   },
   {
     "id": "torobshop-fashion-1d09296a1209f7ae",
@@ -2427,7 +2427,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
+    "observedAt": "2026-09-03T20:50:32.950Z"
   },
   {
     "id": "torobshop-fashion-d5861c5eae980acb",
@@ -2445,7 +2445,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
+    "observedAt": "2026-09-03T20:50:32.950Z"
   },
   {
     "id": "torobshop-fashion-3b108c60419c6b3e",
@@ -2463,7 +2463,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
+    "observedAt": "2026-09-03T20:50:32.950Z"
   },
   {
     "id": "torobshop-fashion-2278a7dbec8ed7cd",
@@ -2481,25 +2481,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
-  },
-  {
-    "id": "torobshop-fashion-3a354858143bf5bf",
-    "productId": "torobshop-3a354858143bf5bf",
-    "name": "اسپرسو ساز اسمگ ایتالیا مدل Smeg ECF02RDEU رنگ قرمز با طراحی کلاسیک دهه ۵۰",
-    "brand": "",
-    "model": "اسپرسو ساز اسمگ ایتالیا مدل Smeg ECF02RDEU رنگ قرمز با طراحی کلاسیک دهه ۵۰",
-    "category": "fashion",
-    "subcategory": "مردانه",
-    "price": 90041000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%A7%D8%B3%D9%BE%D8%B1%D8%B3%D9%88-%D8%B3%D8%A7%D8%B2-%D8%A7%D8%B3%D9%85%DA%AF-%D8%A7%DB%8C%D8%AA%D8%A7%D9%84%DB%8C%D8%A7-%D9%85%D8%AF%D9%84-Smeg-ECF02RDEU-%D8%B1%D9%86%DA%AF-%D9%82%D8%B1%D9%85%D8%B2-%D8%A8%D8%A7-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%DA%A9%D9%84%D8%A7%D8%B3%DB%8C%DA%A9-%D8%AF%D9%87%D9%87-%DB%B5%DB%B0",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
+    "observedAt": "2026-09-03T20:50:32.950Z"
   },
   {
     "id": "torobshop-fashion-386045fed7109b6c",
@@ -2517,7 +2499,25 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
+    "observedAt": "2026-09-03T20:50:32.950Z"
+  },
+  {
+    "id": "torobshop-fashion-3a354858143bf5bf",
+    "productId": "torobshop-3a354858143bf5bf",
+    "name": "اسپرسو ساز اسمگ ایتالیا مدل Smeg ECF02RDEU رنگ قرمز با طراحی کلاسیک دهه ۵۰",
+    "brand": "",
+    "model": "اسپرسو ساز اسمگ ایتالیا مدل Smeg ECF02RDEU رنگ قرمز با طراحی کلاسیک دهه ۵۰",
+    "category": "fashion",
+    "subcategory": "مردانه",
+    "price": 90041000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D8%B3%D9%BE%D8%B1%D8%B3%D9%88-%D8%B3%D8%A7%D8%B2-%D8%A7%D8%B3%D9%85%DA%AF-%D8%A7%DB%8C%D8%AA%D8%A7%D9%84%DB%8C%D8%A7-%D9%85%D8%AF%D9%84-Smeg-ECF02RDEU-%D8%B1%D9%86%DA%AF-%D9%82%D8%B1%D9%85%D8%B2-%D8%A8%D8%A7-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%DA%A9%D9%84%D8%A7%D8%B3%DB%8C%DA%A9-%D8%AF%D9%87%D9%87-%DB%B5%DB%B0",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T20:50:32.950Z"
   },
   {
     "id": "torobshop-fashion-3d432c8dbd69eefb",
@@ -2535,7 +2535,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
+    "observedAt": "2026-09-03T20:50:32.950Z"
   },
   {
     "id": "torobshop-fashion-66634e26dfb49c04",
@@ -2553,7 +2553,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
+    "observedAt": "2026-09-03T20:50:32.950Z"
   },
   {
     "id": "torobshop-fashion-bab25203513b93bb",
@@ -2571,7 +2571,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
+    "observedAt": "2026-09-03T20:50:32.950Z"
   },
   {
     "id": "torobshop-fashion-bcf3455eedcf96e7",
@@ -2589,7 +2589,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
+    "observedAt": "2026-09-03T20:50:32.950Z"
   },
   {
     "id": "torobshop-fashion-40f557a46b915c21",
@@ -2607,7 +2607,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
+    "observedAt": "2026-09-03T20:50:32.950Z"
   },
   {
     "id": "torobshop-fashion-3dd1b99a47f6c6d1",
@@ -2625,7 +2625,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
+    "observedAt": "2026-09-03T20:50:32.950Z"
   },
   {
     "id": "torobshop-fashion-fbd5e1832a592f6d",
@@ -2643,7 +2643,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
+    "observedAt": "2026-09-03T20:50:32.950Z"
   },
   {
     "id": "torobshop-fashion-9c9a87a898bad342",
@@ -2661,7 +2661,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
+    "observedAt": "2026-09-03T20:50:32.950Z"
   },
   {
     "id": "torobshop-fashion-1cb6df1aed563bee",
@@ -2679,7 +2679,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
+    "observedAt": "2026-09-03T20:50:32.950Z"
   },
   {
     "id": "torobshop-fashion-685fccacbb18ee43",
@@ -2697,7 +2697,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
+    "observedAt": "2026-09-03T20:50:32.950Z"
   },
   {
     "id": "torobshop-fashion-37fd983abaa93a3b",
@@ -2715,7 +2715,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
+    "observedAt": "2026-09-03T20:50:32.950Z"
   },
   {
     "id": "torobshop-fashion-993ee35f4a561a10",
@@ -2733,7 +2733,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
+    "observedAt": "2026-09-03T20:50:32.950Z"
   },
   {
     "id": "torobshop-fashion-deb4652ab7b20c96",
@@ -2751,7 +2751,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
+    "observedAt": "2026-09-03T20:50:32.950Z"
   },
   {
     "id": "torobshop-fashion-cc5a74ea332cb871",
@@ -2769,7 +2769,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
+    "observedAt": "2026-09-03T20:50:32.950Z"
   },
   {
     "id": "torobshop-fashion-f5c373b20c89f3cf",
@@ -2787,7 +2787,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
+    "observedAt": "2026-09-03T20:50:32.950Z"
   },
   {
     "id": "torobshop-fashion-557954e4838db8ec",
@@ -2805,25 +2805,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
-  },
-  {
-    "id": "torobshop-fashion-ac5e0f9a687acc9d",
-    "productId": "torobshop-ac5e0f9a687acc9d",
-    "name": "مجموعه هرس بی سیم Stihl GTA 26 با باتری AS 2 و شارژر AL 1، باتری خور",
-    "brand": "",
-    "model": "مجموعه هرس بی سیم Stihl GTA 26 با باتری AS 2 و شارژر AL 1، باتری خور",
-    "category": "fashion",
-    "subcategory": "مردانه",
-    "price": 51906000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D9%87%D8%B1%D8%B3-%D8%A8%DB%8C-%D8%B3%DB%8C%D9%85-Stihl-GTA-26-%D8%A8%D8%A7-%D8%A8%D8%A7%D8%AA%D8%B1%DB%8C-AS-2-%D9%88-%D8%B4%D8%A7%D8%B1%DA%98%D8%B1-AL-1-%D8%A8%D8%A7%D8%AA%D8%B1%DB%8C-%D8%AE%D9%88%D8%B1",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
+    "observedAt": "2026-09-03T20:50:32.950Z"
   },
   {
     "id": "torobshop-fashion-5e97e30e4af5e35a",
@@ -2841,25 +2823,25 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
+    "observedAt": "2026-09-03T20:50:32.950Z"
   },
   {
-    "id": "torobshop-fashion-ca40f9691c169854",
-    "productId": "torobshop-ca40f9691c169854",
-    "name": "دستگاه تنس و ای ام اس بیورر آلمان مدل Beurer EM 49 برای تسکین درد عضله سازی و ماساژ",
+    "id": "torobshop-fashion-ac5e0f9a687acc9d",
+    "productId": "torobshop-ac5e0f9a687acc9d",
+    "name": "مجموعه هرس بی سیم Stihl GTA 26 با باتری AS 2 و شارژر AL 1، باتری خور",
     "brand": "",
-    "model": "دستگاه تنس و ای ام اس بیورر آلمان مدل Beurer EM 49 برای تسکین درد عضله سازی و ماساژ",
+    "model": "مجموعه هرس بی سیم Stihl GTA 26 با باتری AS 2 و شارژر AL 1، باتری خور",
     "category": "fashion",
     "subcategory": "مردانه",
-    "price": 20304000,
+    "price": 51906000,
     "currency": "IRT",
     "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%AA%D9%86%D8%B3-%D9%88-%D8%A7%DB%8C-%D8%A7%D9%85-%D8%A7%D8%B3-%D8%A8%DB%8C%D9%88%D8%B1%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%AF%D9%84-Beurer-EM-49-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D8%B3%DA%A9%DB%8C%D9%86-%D8%AF%D8%B1%D8%AF-%D8%B9%D8%B6%D9%84%D9%87-%D8%B3%D8%A7%D8%B2%DB%8C-%D9%88-%D9%85%D8%A7%D8%B3%D8%A7%DA%98",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D9%87%D8%B1%D8%B3-%D8%A8%DB%8C-%D8%B3%DB%8C%D9%85-Stihl-GTA-26-%D8%A8%D8%A7-%D8%A8%D8%A7%D8%AA%D8%B1%DB%8C-AS-2-%D9%88-%D8%B4%D8%A7%D8%B1%DA%98%D8%B1-AL-1-%D8%A8%D8%A7%D8%AA%D8%B1%DB%8C-%D8%AE%D9%88%D8%B1",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
+    "observedAt": "2026-09-03T20:50:32.951Z"
   },
   {
     "id": "torobshop-fashion-174296fd490ce4c6",
@@ -2877,7 +2859,25 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
+    "observedAt": "2026-09-03T20:50:32.951Z"
+  },
+  {
+    "id": "torobshop-fashion-ca40f9691c169854",
+    "productId": "torobshop-ca40f9691c169854",
+    "name": "دستگاه تنس و ای ام اس بیورر آلمان مدل Beurer EM 49 برای تسکین درد عضله سازی و ماساژ",
+    "brand": "",
+    "model": "دستگاه تنس و ای ام اس بیورر آلمان مدل Beurer EM 49 برای تسکین درد عضله سازی و ماساژ",
+    "category": "fashion",
+    "subcategory": "مردانه",
+    "price": 20304000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%AA%D9%86%D8%B3-%D9%88-%D8%A7%DB%8C-%D8%A7%D9%85-%D8%A7%D8%B3-%D8%A8%DB%8C%D9%88%D8%B1%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%AF%D9%84-Beurer-EM-49-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D8%B3%DA%A9%DB%8C%D9%86-%D8%AF%D8%B1%D8%AF-%D8%B9%D8%B6%D9%84%D9%87-%D8%B3%D8%A7%D8%B2%DB%8C-%D9%88-%D9%85%D8%A7%D8%B3%D8%A7%DA%98",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T20:50:32.951Z"
   },
   {
     "id": "torobshop-fashion-24ee5f250564a2b6",
@@ -2895,7 +2895,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
+    "observedAt": "2026-09-03T20:50:32.951Z"
   },
   {
     "id": "torobshop-fashion-eb2d1bdae18ab641",
@@ -2913,7 +2913,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
+    "observedAt": "2026-09-03T20:50:32.951Z"
   },
   {
     "id": "torobshop-fashion-9526bc50db1d2b71",
@@ -2931,7 +2931,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
+    "observedAt": "2026-09-03T20:50:32.951Z"
   },
   {
     "id": "torobshop-fashion-17aea0c096f3fbb1",
@@ -2949,7 +2949,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
+    "observedAt": "2026-09-03T20:50:32.951Z"
   },
   {
     "id": "torobshop-fashion-dab36535df580dd9",
@@ -2967,7 +2967,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
+    "observedAt": "2026-09-03T20:50:32.951Z"
   },
   {
     "id": "torobshop-fashion-bb07ff83203ce817",
@@ -2985,7 +2985,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
+    "observedAt": "2026-09-03T20:50:32.951Z"
   },
   {
     "id": "torobshop-fashion-23a08ed4a54c1bf3",
@@ -3003,7 +3003,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
+    "observedAt": "2026-09-03T20:50:32.951Z"
   },
   {
     "id": "torobshop-fashion-86394f5b0d453ade",
@@ -3021,7 +3021,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
+    "observedAt": "2026-09-03T20:50:32.951Z"
   },
   {
     "id": "torobshop-fashion-bf0ff9604c787d7f",
@@ -3039,25 +3039,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
-  },
-  {
-    "id": "torobshop-fashion-ffccfb4b61d564f3",
-    "productId": "torobshop-ffccfb4b61d564f3",
-    "name": "مانیتور فیلیپس 242S1AE - 24 اینچ FHD، قابلیت تنظیم ارتفاع (1920x1080، 75 هرتز، VGA، DVI، HDMI، DisplayPort) مشکی",
-    "brand": "",
-    "model": "مانیتور فیلیپس 242S1AE - 24 اینچ FHD، قابلیت تنظیم ارتفاع (1920x1080، 75 هرتز، VGA، DVI، HDMI، DisplayPort) مشکی",
-    "category": "fashion",
-    "subcategory": "مردانه",
-    "price": 36081000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-242S1AE-24-%D8%A7%DB%8C%D9%86%DA%86-FHD-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-1920x1080-75-%D9%87%D8%B1%D8%AA%D8%B2-VGA-DVI-HDMI-DisplayPort-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
+    "observedAt": "2026-09-03T20:50:32.951Z"
   },
   {
     "id": "torobshop-fashion-add12b5339d41d54",
@@ -3075,7 +3057,25 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
+    "observedAt": "2026-09-03T20:50:32.951Z"
+  },
+  {
+    "id": "torobshop-fashion-ffccfb4b61d564f3",
+    "productId": "torobshop-ffccfb4b61d564f3",
+    "name": "مانیتور فیلیپس 242S1AE - 24 اینچ FHD، قابلیت تنظیم ارتفاع (1920x1080، 75 هرتز، VGA، DVI، HDMI، DisplayPort) مشکی",
+    "brand": "",
+    "model": "مانیتور فیلیپس 242S1AE - 24 اینچ FHD، قابلیت تنظیم ارتفاع (1920x1080، 75 هرتز، VGA، DVI، HDMI، DisplayPort) مشکی",
+    "category": "fashion",
+    "subcategory": "مردانه",
+    "price": 36081000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-242S1AE-24-%D8%A7%DB%8C%D9%86%DA%86-FHD-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-1920x1080-75-%D9%87%D8%B1%D8%AA%D8%B2-VGA-DVI-HDMI-DisplayPort-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T20:50:32.951Z"
   },
   {
     "id": "torobshop-fashion-e89541bdd38935d2",
@@ -3093,7 +3093,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
+    "observedAt": "2026-09-03T20:50:32.951Z"
   },
   {
     "id": "torobshop-fashion-ec7446a90d887300",
@@ -3111,7 +3111,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
+    "observedAt": "2026-09-03T20:50:32.951Z"
   },
   {
     "id": "torobshop-fashion-f676e23d1f151190",
@@ -3129,7 +3129,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
+    "observedAt": "2026-09-03T20:50:32.951Z"
   },
   {
     "id": "torobshop-fashion-bf9b6308d5e6e4a3",
@@ -3147,7 +3147,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
+    "observedAt": "2026-09-03T20:50:32.951Z"
   },
   {
     "id": "torobshop-fashion-a936b9d4fccda9ec",
@@ -3165,7 +3165,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
+    "observedAt": "2026-09-03T20:50:32.951Z"
   },
   {
     "id": "torobshop-fashion-20506e6b258fcb0c",
@@ -3183,7 +3183,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
+    "observedAt": "2026-09-03T20:50:32.951Z"
   },
   {
     "id": "torobshop-fashion-3debd7458ec254ad",
@@ -3201,7 +3201,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
+    "observedAt": "2026-09-03T20:50:32.951Z"
   },
   {
     "id": "torobshop-fashion-ec9957a5ab556a59",
@@ -3219,25 +3219,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
-  },
-  {
-    "id": "torobshop-fashion-9f1357a1a5ec15c3",
-    "productId": "torobshop-9f1357a1a5ec15c3",
-    "name": "هدفون داخل گوشی فیلیپس Taue101Bk/00",
-    "brand": "",
-    "model": "هدفون داخل گوشی فیلیپس Taue101Bk/00",
-    "category": "fashion",
-    "subcategory": "مردانه",
-    "price": 11435000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%87%D8%AF%D9%81%D9%88%D9%86-%D8%AF%D8%A7%D8%AE%D9%84-%DA%AF%D9%88%D8%B4%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-Taue101Bk-00",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.142Z"
+    "observedAt": "2026-09-03T20:50:32.951Z"
   },
   {
     "id": "torobshop-fashion-bc5ad78acdc13550",
@@ -3255,7 +3237,25 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.143Z"
+    "observedAt": "2026-09-03T20:50:32.951Z"
+  },
+  {
+    "id": "torobshop-fashion-9f1357a1a5ec15c3",
+    "productId": "torobshop-9f1357a1a5ec15c3",
+    "name": "هدفون داخل گوشی فیلیپس Taue101Bk/00",
+    "brand": "",
+    "model": "هدفون داخل گوشی فیلیپس Taue101Bk/00",
+    "category": "fashion",
+    "subcategory": "مردانه",
+    "price": 11435000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%87%D8%AF%D9%81%D9%88%D9%86-%D8%AF%D8%A7%D8%AE%D9%84-%DA%AF%D9%88%D8%B4%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-Taue101Bk-00",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T20:50:32.951Z"
   },
   {
     "id": "torobshop-fashion-b93b2b7b8a52ead7",
@@ -3273,7 +3273,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.143Z"
+    "observedAt": "2026-09-03T20:50:32.951Z"
   },
   {
     "id": "torobshop-fashion-469010b14dce1518",
@@ -3291,25 +3291,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.143Z"
-  },
-  {
-    "id": "torobshop-fashion-d622f60b84a25c29",
-    "productId": "torobshop-d622f60b84a25c29",
-    "name": "هدفون رونویسی فیلیپس LFH0334",
-    "brand": "",
-    "model": "هدفون رونویسی فیلیپس LFH0334",
-    "category": "fashion",
-    "subcategory": "مردانه",
-    "price": 24648000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%87%D8%AF%D9%81%D9%88%D9%86-%D8%B1%D9%88%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-LFH0334",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.143Z"
+    "observedAt": "2026-09-03T20:50:32.951Z"
   },
   {
     "id": "torobshop-fashion-8ad1b620c2984c64",
@@ -3327,7 +3309,25 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.143Z"
+    "observedAt": "2026-09-03T20:50:32.951Z"
+  },
+  {
+    "id": "torobshop-fashion-d622f60b84a25c29",
+    "productId": "torobshop-d622f60b84a25c29",
+    "name": "هدفون رونویسی فیلیپس LFH0334",
+    "brand": "",
+    "model": "هدفون رونویسی فیلیپس LFH0334",
+    "category": "fashion",
+    "subcategory": "مردانه",
+    "price": 24648000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%87%D8%AF%D9%81%D9%88%D9%86-%D8%B1%D9%88%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-LFH0334",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T20:50:32.951Z"
   },
   {
     "id": "torobshop-fashion-7362b68fe582e1ef",
@@ -3345,7 +3345,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.143Z"
+    "observedAt": "2026-09-03T20:50:32.951Z"
   },
   {
     "id": "torobshop-fashion-8b4d268dc0b50dc9",
@@ -3363,7 +3363,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.143Z"
+    "observedAt": "2026-09-03T20:50:32.951Z"
   },
   {
     "id": "torobshop-fashion-8cd92a01eb7c25f2",
@@ -3381,79 +3381,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.143Z"
-  },
-  {
-    "id": "torobshop-fashion-2aa12aa20262b96c",
-    "productId": "torobshop-2aa12aa20262b96c",
-    "name": "هدفون داخل گوشی Philips E1105BK HiFi با کنترل صدا، مشکی",
-    "brand": "",
-    "model": "هدفون داخل گوشی Philips E1105BK HiFi با کنترل صدا، مشکی",
-    "category": "fashion",
-    "subcategory": "مردانه",
-    "price": 15246000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%87%D8%AF%D9%81%D9%88%D9%86-%D8%AF%D8%A7%D8%AE%D9%84-%DA%AF%D9%88%D8%B4%DB%8C-Philips-E1105BK-HiFi-%D8%A8%D8%A7-%DA%A9%D9%86%D8%AA%D8%B1%D9%84-%D8%B5%D8%AF%D8%A7-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.143Z"
-  },
-  {
-    "id": "torobshop-fashion-712138d0bed8d76a",
-    "productId": "torobshop-712138d0bed8d76a",
-    "name": "هدفون توگوشی فیلیپس مدل TAE1209BK مشکی",
-    "brand": "",
-    "model": "هدفون توگوشی فیلیپس مدل TAE1209BK مشکی",
-    "category": "fashion",
-    "subcategory": "مردانه",
-    "price": 14738000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%87%D8%AF%D9%81%D9%88%D9%86-%D8%AA%D9%88%DA%AF%D9%88%D8%B4%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%85%D8%AF%D9%84-TAE1209BK-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.143Z"
-  },
-  {
-    "id": "torobshop-fashion-10055e541e3441a4",
-    "productId": "torobshop-10055e541e3441a4",
-    "name": "هدفون رونویسی فیلیپس LFH0334 (بسته ۲ تایی)",
-    "brand": "",
-    "model": "هدفون رونویسی فیلیپس LFH0334 (بسته ۲ تایی)",
-    "category": "fashion",
-    "subcategory": "مردانه",
-    "price": 37607000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%87%D8%AF%D9%81%D9%88%D9%86-%D8%B1%D9%88%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-LFH0334-%D8%A8%D8%B3%D8%AA%D9%87-%DB%B2-%D8%AA%D8%A7%DB%8C%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.143Z"
-  },
-  {
-    "id": "torobshop-fashion-2961f6c161810850",
-    "productId": "torobshop-2961f6c161810850",
-    "name": "مانیتور منحنی ۴۹ اینچی PHILIPS 49B2U6903CH با کیفیت DQHD، وب‌کم، میکروفون، RJ45، قابلیت تنظیم ارتفاع (5120x1440، HDMI، DisplayPort، Thunderbolt 4، هاب USB) مشکی",
-    "brand": "",
-    "model": "مانیتور منحنی ۴۹ اینچی PHILIPS 49B2U6903CH با کیفیت DQHD، وب‌کم، میکروفون، RJ45، قابلیت تنظیم ارتفاع (5120x1440، HDMI، DisplayPort، Thunderbolt 4، هاب USB) مشکی",
-    "category": "fashion",
-    "subcategory": "مردانه",
-    "price": 299584000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%85%D9%86%D8%AD%D9%86%DB%8C-%DB%B4%DB%B9-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-PHILIPS-49B2U6903CH-%D8%A8%D8%A7-%DA%A9%DB%8C%D9%81%DB%8C%D8%AA-DQHD-%D9%88%D8%A8-%DA%A9%D9%85-%D9%85%DB%8C%DA%A9%D8%B1%D9%88%D9%81%D9%88%D9%86-RJ45-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-5120x1440-HDMI-DisplayPort-Thunderbolt-4-%D9%87%D8%A7%D8%A8-USB-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.143Z"
+    "observedAt": "2026-09-03T20:50:32.951Z"
   },
   {
     "id": "torobshop-fashion-f6139cf71fa544af",
@@ -3471,79 +3399,79 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.143Z"
+    "observedAt": "2026-09-03T20:50:32.951Z"
   },
   {
-    "id": "torobshop-fashion-a0357d058917fff7",
-    "productId": "torobshop-a0357d058917fff7",
-    "name": "مانیتور فیلیپس 252B9 - 25 اینچ WUXGA، قابلیت تنظیم ارتفاع (1900x1200، 60 هرتز، VGA، DVI، HDMI، DisplayPort، هاب USB) مشکی",
+    "id": "torobshop-fashion-2aa12aa20262b96c",
+    "productId": "torobshop-2aa12aa20262b96c",
+    "name": "هدفون داخل گوشی Philips E1105BK HiFi با کنترل صدا، مشکی",
     "brand": "",
-    "model": "مانیتور فیلیپس 252B9 - 25 اینچ WUXGA، قابلیت تنظیم ارتفاع (1900x1200، 60 هرتز، VGA، DVI، HDMI، DisplayPort، هاب USB) مشکی",
+    "model": "هدفون داخل گوشی Philips E1105BK HiFi با کنترل صدا، مشکی",
     "category": "fashion",
     "subcategory": "مردانه",
-    "price": 66828000,
+    "price": 15246000,
     "currency": "IRT",
     "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-252B9-25-%D8%A7%DB%8C%D9%86%DA%86-WUXGA-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-1900x1200-60-%D9%87%D8%B1%D8%AA%D8%B2-VGA-DVI-HDMI-DisplayPort-%D9%87%D8%A7%D8%A8-USB-%D9%85%D8%B4%DA%A9%DB%8C",
+    "productUrl": "https://torobshop.com/products/%D9%87%D8%AF%D9%81%D9%88%D9%86-%D8%AF%D8%A7%D8%AE%D9%84-%DA%AF%D9%88%D8%B4%DB%8C-Philips-E1105BK-HiFi-%D8%A8%D8%A7-%DA%A9%D9%86%D8%AA%D8%B1%D9%84-%D8%B5%D8%AF%D8%A7-%D9%85%D8%B4%DA%A9%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.143Z"
+    "observedAt": "2026-09-03T20:50:32.951Z"
   },
   {
-    "id": "torobshop-fashion-667b222bc82da779",
-    "productId": "torobshop-667b222bc82da779",
-    "name": "مانیتور فیلیپس 242B1G - 24 اینچ FHD سبز، قابلیت تنظیم ارتفاع (1920x1080، 75 هرتز، VGA، DVI، HDMI، DisplayPort، هاب USB) مشکی",
+    "id": "torobshop-fashion-712138d0bed8d76a",
+    "productId": "torobshop-712138d0bed8d76a",
+    "name": "هدفون توگوشی فیلیپس مدل TAE1209BK مشکی",
     "brand": "",
-    "model": "مانیتور فیلیپس 242B1G - 24 اینچ FHD سبز، قابلیت تنظیم ارتفاع (1920x1080، 75 هرتز، VGA، DVI، HDMI، DisplayPort، هاب USB) مشکی",
+    "model": "هدفون توگوشی فیلیپس مدل TAE1209BK مشکی",
     "category": "fashion",
     "subcategory": "مردانه",
-    "price": 57427000,
+    "price": 14738000,
     "currency": "IRT",
     "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-242B1G-24-%D8%A7%DB%8C%D9%86%DA%86-FHD-%D8%B3%D8%A8%D8%B2-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-1920x1080-75-%D9%87%D8%B1%D8%AA%D8%B2-VGA-DVI-HDMI-DisplayPort-%D9%87%D8%A7%D8%A8-USB-%D9%85%D8%B4%DA%A9%DB%8C",
+    "productUrl": "https://torobshop.com/products/%D9%87%D8%AF%D9%81%D9%88%D9%86-%D8%AA%D9%88%DA%AF%D9%88%D8%B4%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%85%D8%AF%D9%84-TAE1209BK-%D9%85%D8%B4%DA%A9%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.143Z"
+    "observedAt": "2026-09-03T20:50:32.951Z"
   },
   {
-    "id": "torobshop-fashion-b59055b4a9ca5ed0",
-    "productId": "torobshop-b59055b4a9ca5ed0",
-    "name": "مانیتور ۲۴ اینچی فیلیپس ۲۴۱V8AW با کیفیت Full HD، بلندگوهای داخلی، بدون سوسو زدن (۱۹۲۰x۱۰۸۰، ۷۵ هرتز، VGA، HDMI) سفید",
+    "id": "torobshop-fashion-10055e541e3441a4",
+    "productId": "torobshop-10055e541e3441a4",
+    "name": "هدفون رونویسی فیلیپس LFH0334 (بسته ۲ تایی)",
     "brand": "",
-    "model": "مانیتور ۲۴ اینچی فیلیپس ۲۴۱V8AW با کیفیت Full HD، بلندگوهای داخلی، بدون سوسو زدن (۱۹۲۰x۱۰۸۰، ۷۵ هرتز، VGA، HDMI) سفید",
+    "model": "هدفون رونویسی فیلیپس LFH0334 (بسته ۲ تایی)",
     "category": "fashion",
     "subcategory": "مردانه",
-    "price": 34304000,
+    "price": 37607000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%87%D8%AF%D9%81%D9%88%D9%86-%D8%B1%D9%88%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-LFH0334-%D8%A8%D8%B3%D8%AA%D9%87-%DB%B2-%D8%AA%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T20:50:32.951Z"
+  },
+  {
+    "id": "torobshop-fashion-2961f6c161810850",
+    "productId": "torobshop-2961f6c161810850",
+    "name": "مانیتور منحنی ۴۹ اینچی PHILIPS 49B2U6903CH با کیفیت DQHD، وب‌کم، میکروفون، RJ45، قابلیت تنظیم ارتفاع (5120x1440، HDMI، DisplayPort، Thunderbolt 4، هاب USB) مشکی",
+    "brand": "",
+    "model": "مانیتور منحنی ۴۹ اینچی PHILIPS 49B2U6903CH با کیفیت DQHD، وب‌کم، میکروفون، RJ45، قابلیت تنظیم ارتفاع (5120x1440، HDMI، DisplayPort، Thunderbolt 4، هاب USB) مشکی",
+    "category": "fashion",
+    "subcategory": "مردانه",
+    "price": 299584000,
     "currency": "IRT",
     "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%DB%B2%DB%B4-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%DB%B2%DB%B4%DB%B1V8AW-%D8%A8%D8%A7-%DA%A9%DB%8C%D9%81%DB%8C%D8%AA-Full-HD-%D8%A8%D9%84%D9%86%D8%AF%DA%AF%D9%88%D9%87%D8%A7%DB%8C-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%D8%B3%D9%88%D8%B3%D9%88-%D8%B2%D8%AF%D9%86-%DB%B1%DB%B9%DB%B2%DB%B0x%DB%B1%DB%B0%DB%B8%DB%B0-%DB%B7%DB%B5-%D9%87%D8%B1%D8%AA%D8%B2-VGA-HDMI-%D8%B3%D9%81%DB%8C%D8%AF",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%85%D9%86%D8%AD%D9%86%DB%8C-%DB%B4%DB%B9-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-PHILIPS-49B2U6903CH-%D8%A8%D8%A7-%DA%A9%DB%8C%D9%81%DB%8C%D8%AA-DQHD-%D9%88%D8%A8-%DA%A9%D9%85-%D9%85%DB%8C%DA%A9%D8%B1%D9%88%D9%81%D9%88%D9%86-RJ45-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-5120x1440-HDMI-DisplayPort-Thunderbolt-4-%D9%87%D8%A7%D8%A8-USB-%D9%85%D8%B4%DA%A9%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.143Z"
-  },
-  {
-    "id": "torobshop-fashion-5219a65546b1a882",
-    "productId": "torobshop-5219a65546b1a882",
-    "name": "مانیتور فیلیپس ۲۷۵B1 - ۲۷ اینچ QHD، قابلیت تنظیم ارتفاع (۲۵۶۰x۱۴۰۰، ۷۵ هرتز، DVI، HDMI، DisplayPort، هاب USB) مشکی",
-    "brand": "",
-    "model": "مانیتور فیلیپس ۲۷۵B1 - ۲۷ اینچ QHD، قابلیت تنظیم ارتفاع (۲۵۶۰x۱۴۰۰، ۷۵ هرتز، DVI، HDMI، DisplayPort، هاب USB) مشکی",
-    "category": "fashion",
-    "subcategory": "مردانه",
-    "price": 62255000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%DB%B2%DB%B7%DB%B5B1-%DB%B2%DB%B7-%D8%A7%DB%8C%D9%86%DA%86-QHD-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%DB%B2%DB%B5%DB%B6%DB%B0x%DB%B1%DB%B4%DB%B0%DB%B0-%DB%B7%DB%B5-%D9%87%D8%B1%D8%AA%D8%B2-DVI-HDMI-DisplayPort-%D9%87%D8%A7%D8%A8-USB-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.143Z"
+    "observedAt": "2026-09-03T20:50:32.951Z"
   },
   {
     "id": "torobshop-fashion-2e4aeaf94d879ff9",
@@ -3561,61 +3489,61 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.143Z"
+    "observedAt": "2026-09-03T20:50:32.951Z"
   },
   {
-    "id": "torobshop-fashion-f241bfdbdc958cdb",
-    "productId": "torobshop-f241bfdbdc958cdb",
-    "name": "مانیتور فیلیپس هلند Philips 328P6AUBREB سایز ۳۲ اینچ QHD با داک USB-C و پایه قابل تنظیم",
+    "id": "torobshop-fashion-a0357d058917fff7",
+    "productId": "torobshop-a0357d058917fff7",
+    "name": "مانیتور فیلیپس 252B9 - 25 اینچ WUXGA، قابلیت تنظیم ارتفاع (1900x1200، 60 هرتز، VGA، DVI، HDMI، DisplayPort، هاب USB) مشکی",
     "brand": "",
-    "model": "مانیتور فیلیپس هلند Philips 328P6AUBREB سایز ۳۲ اینچ QHD با داک USB-C و پایه قابل تنظیم",
+    "model": "مانیتور فیلیپس 252B9 - 25 اینچ WUXGA، قابلیت تنظیم ارتفاع (1900x1200، 60 هرتز، VGA، DVI، HDMI، DisplayPort، هاب USB) مشکی",
     "category": "fashion",
     "subcategory": "مردانه",
-    "price": 65558000,
+    "price": 66828000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-252B9-25-%D8%A7%DB%8C%D9%86%DA%86-WUXGA-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-1900x1200-60-%D9%87%D8%B1%D8%AA%D8%B2-VGA-DVI-HDMI-DisplayPort-%D9%87%D8%A7%D8%A8-USB-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T20:50:32.951Z"
+  },
+  {
+    "id": "torobshop-fashion-667b222bc82da779",
+    "productId": "torobshop-667b222bc82da779",
+    "name": "مانیتور فیلیپس 242B1G - 24 اینچ FHD سبز، قابلیت تنظیم ارتفاع (1920x1080، 75 هرتز، VGA، DVI، HDMI، DisplayPort، هاب USB) مشکی",
+    "brand": "",
+    "model": "مانیتور فیلیپس 242B1G - 24 اینچ FHD سبز، قابلیت تنظیم ارتفاع (1920x1080، 75 هرتز، VGA، DVI، HDMI، DisplayPort، هاب USB) مشکی",
+    "category": "fashion",
+    "subcategory": "مردانه",
+    "price": 57427000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-242B1G-24-%D8%A7%DB%8C%D9%86%DA%86-FHD-%D8%B3%D8%A8%D8%B2-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-1920x1080-75-%D9%87%D8%B1%D8%AA%D8%B2-VGA-DVI-HDMI-DisplayPort-%D9%87%D8%A7%D8%A8-USB-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T20:50:32.951Z"
+  },
+  {
+    "id": "torobshop-fashion-b59055b4a9ca5ed0",
+    "productId": "torobshop-b59055b4a9ca5ed0",
+    "name": "مانیتور ۲۴ اینچی فیلیپس ۲۴۱V8AW با کیفیت Full HD، بلندگوهای داخلی، بدون سوسو زدن (۱۹۲۰x۱۰۸۰، ۷۵ هرتز، VGA، HDMI) سفید",
+    "brand": "",
+    "model": "مانیتور ۲۴ اینچی فیلیپس ۲۴۱V8AW با کیفیت Full HD، بلندگوهای داخلی، بدون سوسو زدن (۱۹۲۰x۱۰۸۰، ۷۵ هرتز، VGA، HDMI) سفید",
+    "category": "fashion",
+    "subcategory": "مردانه",
+    "price": 34304000,
     "currency": "IRT",
     "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-328P6AUBREB-%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D8%AF%D8%A7%DA%A9-USB-C-%D8%A8%D8%A7-%D8%B5%D9%81%D8%AD%D9%87-%D9%86%D9%85%D8%A7%DB%8C%D8%B4-32-%D8%A7%DB%8C%D9%86%DA%86-QHD-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-2560x1440-60-%D9%87%D8%B1%D8%AA%D8%B2-VGA-HDMI-USB-C-RJ45-%D9%87%D8%A7%D8%A8-USB-%D9%85%D8%B4%DA%A9%DB%8C",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%DB%B2%DB%B4-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%DB%B2%DB%B4%DB%B1V8AW-%D8%A8%D8%A7-%DA%A9%DB%8C%D9%81%DB%8C%D8%AA-Full-HD-%D8%A8%D9%84%D9%86%D8%AF%DA%AF%D9%88%D9%87%D8%A7%DB%8C-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%D8%B3%D9%88%D8%B3%D9%88-%D8%B2%D8%AF%D9%86-%DB%B1%DB%B9%DB%B2%DB%B0x%DB%B1%DB%B0%DB%B8%DB%B0-%DB%B7%DB%B5-%D9%87%D8%B1%D8%AA%D8%B2-VGA-HDMI-%D8%B3%D9%81%DB%8C%D8%AF",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.143Z"
-  },
-  {
-    "id": "torobshop-fashion-2734ee381987f71a",
-    "productId": "torobshop-2734ee381987f71a",
-    "name": "فیلیپس 241V8LAB - مانیتور 24 اینچی فول اچ‌دی، بلندگوهای داخلی، بدون سوسو زدن (1920x1080، 100 هرتز، VGA، HDMI) مشکی",
-    "brand": "",
-    "model": "فیلیپس 241V8LAB - مانیتور 24 اینچی فول اچ‌دی، بلندگوهای داخلی، بدون سوسو زدن (1920x1080، 100 هرتز، VGA، HDMI) مشکی",
-    "category": "fashion",
-    "subcategory": "مردانه",
-    "price": 40656000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-241V8LAB-%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-24-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D9%81%D9%88%D9%84-%D8%A7%DA%86-%D8%AF%DB%8C-%D8%A8%D9%84%D9%86%D8%AF%DA%AF%D9%88%D9%87%D8%A7%DB%8C-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%D8%B3%D9%88%D8%B3%D9%88-%D8%B2%D8%AF%D9%86-1920x1080-100-%D9%87%D8%B1%D8%AA%D8%B2-VGA-HDMI-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.143Z"
-  },
-  {
-    "id": "torobshop-fashion-13177f1a3461cbf8",
-    "productId": "torobshop-13177f1a3461cbf8",
-    "name": "فیلیپس 32E1N3100LA - مانیتور 32 اینچی Full HD، بلندگوهای داخلی، قابل کج شدن (1920x1080، VGA، HDMI 1.4) مشکی",
-    "brand": "",
-    "model": "فیلیپس 32E1N3100LA - مانیتور 32 اینچی Full HD، بلندگوهای داخلی، قابل کج شدن (1920x1080، VGA، HDMI 1.4) مشکی",
-    "category": "fashion",
-    "subcategory": "مردانه",
-    "price": 61238000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-32E1N3100LA-%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-32-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-Full-HD-%D8%A8%D9%84%D9%86%D8%AF%DA%AF%D9%88%D9%87%D8%A7%DB%8C-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%DA%A9%D8%AC-%D8%B4%D8%AF%D9%86-1920x1080-VGA-HDMI-1-4-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.143Z"
+    "observedAt": "2026-09-03T20:50:32.951Z"
   },
   {
     "id": "torobshop-fashion-caf67fb53869dc8d",
@@ -3633,7 +3561,79 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.143Z"
+    "observedAt": "2026-09-03T20:50:32.951Z"
+  },
+  {
+    "id": "torobshop-fashion-5219a65546b1a882",
+    "productId": "torobshop-5219a65546b1a882",
+    "name": "مانیتور فیلیپس ۲۷۵B1 - ۲۷ اینچ QHD، قابلیت تنظیم ارتفاع (۲۵۶۰x۱۴۰۰، ۷۵ هرتز، DVI، HDMI، DisplayPort، هاب USB) مشکی",
+    "brand": "",
+    "model": "مانیتور فیلیپس ۲۷۵B1 - ۲۷ اینچ QHD، قابلیت تنظیم ارتفاع (۲۵۶۰x۱۴۰۰، ۷۵ هرتز، DVI، HDMI، DisplayPort، هاب USB) مشکی",
+    "category": "fashion",
+    "subcategory": "مردانه",
+    "price": 62255000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%DB%B2%DB%B7%DB%B5B1-%DB%B2%DB%B7-%D8%A7%DB%8C%D9%86%DA%86-QHD-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%DB%B2%DB%B5%DB%B6%DB%B0x%DB%B1%DB%B4%DB%B0%DB%B0-%DB%B7%DB%B5-%D9%87%D8%B1%D8%AA%D8%B2-DVI-HDMI-DisplayPort-%D9%87%D8%A7%D8%A8-USB-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T20:50:32.951Z"
+  },
+  {
+    "id": "torobshop-fashion-f241bfdbdc958cdb",
+    "productId": "torobshop-f241bfdbdc958cdb",
+    "name": "مانیتور فیلیپس هلند Philips 328P6AUBREB سایز ۳۲ اینچ QHD با داک USB-C و پایه قابل تنظیم",
+    "brand": "",
+    "model": "مانیتور فیلیپس هلند Philips 328P6AUBREB سایز ۳۲ اینچ QHD با داک USB-C و پایه قابل تنظیم",
+    "category": "fashion",
+    "subcategory": "مردانه",
+    "price": 65558000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-328P6AUBREB-%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D8%AF%D8%A7%DA%A9-USB-C-%D8%A8%D8%A7-%D8%B5%D9%81%D8%AD%D9%87-%D9%86%D9%85%D8%A7%DB%8C%D8%B4-32-%D8%A7%DB%8C%D9%86%DA%86-QHD-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-2560x1440-60-%D9%87%D8%B1%D8%AA%D8%B2-VGA-HDMI-USB-C-RJ45-%D9%87%D8%A7%D8%A8-USB-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T20:50:32.951Z"
+  },
+  {
+    "id": "torobshop-fashion-2734ee381987f71a",
+    "productId": "torobshop-2734ee381987f71a",
+    "name": "فیلیپس 241V8LAB - مانیتور 24 اینچی فول اچ‌دی، بلندگوهای داخلی، بدون سوسو زدن (1920x1080، 100 هرتز، VGA، HDMI) مشکی",
+    "brand": "",
+    "model": "فیلیپس 241V8LAB - مانیتور 24 اینچی فول اچ‌دی، بلندگوهای داخلی، بدون سوسو زدن (1920x1080، 100 هرتز، VGA، HDMI) مشکی",
+    "category": "fashion",
+    "subcategory": "مردانه",
+    "price": 40656000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-241V8LAB-%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-24-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D9%81%D9%88%D9%84-%D8%A7%DA%86-%D8%AF%DB%8C-%D8%A8%D9%84%D9%86%D8%AF%DA%AF%D9%88%D9%87%D8%A7%DB%8C-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%D8%B3%D9%88%D8%B3%D9%88-%D8%B2%D8%AF%D9%86-1920x1080-100-%D9%87%D8%B1%D8%AA%D8%B2-VGA-HDMI-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T20:50:32.951Z"
+  },
+  {
+    "id": "torobshop-fashion-13177f1a3461cbf8",
+    "productId": "torobshop-13177f1a3461cbf8",
+    "name": "فیلیپس 32E1N3100LA - مانیتور 32 اینچی Full HD، بلندگوهای داخلی، قابل کج شدن (1920x1080، VGA، HDMI 1.4) مشکی",
+    "brand": "",
+    "model": "فیلیپس 32E1N3100LA - مانیتور 32 اینچی Full HD، بلندگوهای داخلی، قابل کج شدن (1920x1080، VGA، HDMI 1.4) مشکی",
+    "category": "fashion",
+    "subcategory": "مردانه",
+    "price": 61238000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-32E1N3100LA-%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-32-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-Full-HD-%D8%A8%D9%84%D9%86%D8%AF%DA%AF%D9%88%D9%87%D8%A7%DB%8C-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%DA%A9%D8%AC-%D8%B4%D8%AF%D9%86-1920x1080-VGA-HDMI-1-4-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T20:50:32.951Z"
   },
   {
     "id": "torobshop-fashion-231a8680a663a06f",
@@ -3651,7 +3651,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.143Z"
+    "observedAt": "2026-09-03T20:50:32.951Z"
   },
   {
     "id": "torobshop-fashion-42a978739edad1b3",
@@ -3669,7 +3669,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.143Z"
+    "observedAt": "2026-09-03T20:50:32.951Z"
   },
   {
     "id": "torobshop-fashion-226a6dfcab93ffe2",
@@ -3687,43 +3687,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.143Z"
-  },
-  {
-    "id": "torobshop-fashion-d1db9fdb0a981eb7",
-    "productId": "torobshop-d1db9fdb0a981eb7",
-    "name": "مانیتور فیلیپس ۲۷E1N1800AE – مانیتور ۲۷ اینچی Ultra HD، بلندگوها، قابلیت تنظیم ارتفاع، HDR10 (3840x2160، ۶۰ هرتز، HDMI 2.0، DisplayPort 1.4) مشکی",
-    "brand": "",
-    "model": "مانیتور فیلیپس ۲۷E1N1800AE – مانیتور ۲۷ اینچی Ultra HD، بلندگوها، قابلیت تنظیم ارتفاع، HDR10 (3840x2160، ۶۰ هرتز، HDMI 2.0، DisplayPort 1.4) مشکی",
-    "category": "fashion",
-    "subcategory": "مردانه",
-    "price": 60729000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%DB%B2%DB%B7E1N1800AE-%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%DB%B2%DB%B7-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-Ultra-HD-%D8%A8%D9%84%D9%86%D8%AF%DA%AF%D9%88%D9%87%D8%A7-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-HDR10-3840x2160-%DB%B6%DB%B0-%D9%87%D8%B1%D8%AA%D8%B2-HDMI-2-0-DisplayPort-1-4-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.143Z"
-  },
-  {
-    "id": "torobshop-fashion-1b01f5a6fb5eb1c5",
-    "productId": "torobshop-1b01f5a6fb5eb1c5",
-    "name": "ساندبار فیلیپس TAB8507/10 با ساب ووفر کابلی 3.1 اینچی، دالبی اتموس، صدای سینمایی، HDMI eARC، 600 وات",
-    "brand": "",
-    "model": "ساندبار فیلیپس TAB8507/10 با ساب ووفر کابلی 3.1 اینچی، دالبی اتموس، صدای سینمایی، HDMI eARC، 600 وات",
-    "category": "fashion",
-    "subcategory": "مردانه",
-    "price": 79025000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%A7%D9%86%D8%AF%D8%A8%D8%A7%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-TAB8507-10-%D8%A8%D8%A7-%D8%B3%D8%A7%D8%A8-%D9%88%D9%88%D9%81%D8%B1-%DA%A9%D8%A7%D8%A8%D9%84%DB%8C-3-1-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D8%AF%D8%A7%D9%84%D8%A8%DB%8C-%D8%A7%D8%AA%D9%85%D9%88%D8%B3-%D8%B5%D8%AF%D8%A7%DB%8C-%D8%B3%DB%8C%D9%86%D9%85%D8%A7%DB%8C%DB%8C-HDMI-eARC-600-%D9%88%D8%A7%D8%AA-2",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.143Z"
+    "observedAt": "2026-09-03T20:50:32.951Z"
   },
   {
     "id": "torobshop-fashion-7400212af3648c0e",
@@ -3741,7 +3705,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.143Z"
+    "observedAt": "2026-09-03T20:50:32.951Z"
   },
   {
     "id": "torobshop-fashion-db75e7774c65ead5",
@@ -3759,25 +3723,43 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.143Z"
+    "observedAt": "2026-09-03T20:50:32.951Z"
   },
   {
-    "id": "torobshop-fashion-176747b2a6b3c8bf",
-    "productId": "torobshop-176747b2a6b3c8bf",
-    "name": "هدفون داخل گوشی فیلیپس مدل TAE5008BK/00 با میکروفون | هدفون سیمی سبک | اتصال USB-C | کابل 1.2 متری | ریموت کنترل درون خطی | 3 سایز | صدای شفاف و بیس قدرتمند | مشکی",
+    "id": "torobshop-fashion-d1db9fdb0a981eb7",
+    "productId": "torobshop-d1db9fdb0a981eb7",
+    "name": "مانیتور فیلیپس ۲۷E1N1800AE – مانیتور ۲۷ اینچی Ultra HD، بلندگوها، قابلیت تنظیم ارتفاع، HDR10 (3840x2160، ۶۰ هرتز، HDMI 2.0، DisplayPort 1.4) مشکی",
     "brand": "",
-    "model": "هدفون داخل گوشی فیلیپس مدل TAE5008BK/00 با میکروفون | هدفون سیمی سبک | اتصال USB-C | کابل 1.2 متری | ریموت کنترل درون خطی | 3 سایز | صدای شفاف و بیس قدرتمند | مشکی",
+    "model": "مانیتور فیلیپس ۲۷E1N1800AE – مانیتور ۲۷ اینچی Ultra HD، بلندگوها، قابلیت تنظیم ارتفاع، HDR10 (3840x2160، ۶۰ هرتز، HDMI 2.0، DisplayPort 1.4) مشکی",
     "category": "fashion",
     "subcategory": "مردانه",
-    "price": 11180000,
+    "price": 60729000,
     "currency": "IRT",
     "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%87%D8%AF%D9%81%D9%88%D9%86-%D8%AF%D8%A7%D8%AE%D9%84-%DA%AF%D9%88%D8%B4%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%85%D8%AF%D9%84-TAE5008BK-00-%D8%A8%D8%A7-%D9%85%DB%8C%DA%A9%D8%B1%D9%88%D9%81%D9%88%D9%86-%D9%87%D8%AF%D9%81%D9%88%D9%86-%D8%B3%DB%8C%D9%85%DB%8C-%D8%B3%D8%A8%DA%A9-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-USB-C-%DA%A9%D8%A7%D8%A8%D9%84-1-2-%D9%85%D8%AA%D8%B1%DB%8C-%D8%B1%DB%8C%D9%85%D9%88%D8%AA-%DA%A9%D9%86%D8%AA%D8%B1%D9%84-%D8%AF%D8%B1%D9%88%D9%86-%D8%AE%D8%B7%DB%8C-3-%D8%B3%D8%A7%DB%8C%D8%B2-%D8%B5%D8%AF%D8%A7%DB%8C-%D8%B4%D9%81%D8%A7%D9%81-%D9%88-%D8%A8%DB%8C%D8%B3-%D9%82%D8%AF%D8%B1%D8%AA%D9%85%D9%86%D8%AF-%D9%85%D8%B4%DA%A9%DB%8C",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%DB%B2%DB%B7E1N1800AE-%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%DB%B2%DB%B7-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-Ultra-HD-%D8%A8%D9%84%D9%86%D8%AF%DA%AF%D9%88%D9%87%D8%A7-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-HDR10-3840x2160-%DB%B6%DB%B0-%D9%87%D8%B1%D8%AA%D8%B2-HDMI-2-0-DisplayPort-1-4-%D9%85%D8%B4%DA%A9%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.143Z"
+    "observedAt": "2026-09-03T20:50:32.951Z"
+  },
+  {
+    "id": "torobshop-fashion-1b01f5a6fb5eb1c5",
+    "productId": "torobshop-1b01f5a6fb5eb1c5",
+    "name": "ساندبار فیلیپس TAB8507/10 با ساب ووفر کابلی 3.1 اینچی، دالبی اتموس، صدای سینمایی، HDMI eARC، 600 وات",
+    "brand": "",
+    "model": "ساندبار فیلیپس TAB8507/10 با ساب ووفر کابلی 3.1 اینچی، دالبی اتموس، صدای سینمایی، HDMI eARC، 600 وات",
+    "category": "fashion",
+    "subcategory": "مردانه",
+    "price": 79025000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%A7%D9%86%D8%AF%D8%A8%D8%A7%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-TAB8507-10-%D8%A8%D8%A7-%D8%B3%D8%A7%D8%A8-%D9%88%D9%88%D9%81%D8%B1-%DA%A9%D8%A7%D8%A8%D9%84%DB%8C-3-1-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D8%AF%D8%A7%D9%84%D8%A8%DB%8C-%D8%A7%D8%AA%D9%85%D9%88%D8%B3-%D8%B5%D8%AF%D8%A7%DB%8C-%D8%B3%DB%8C%D9%86%D9%85%D8%A7%DB%8C%DB%8C-HDMI-eARC-600-%D9%88%D8%A7%D8%AA-2",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T20:50:32.951Z"
   },
   {
     "id": "torobshop-fashion-9b16b6ebae742a59",
@@ -3795,25 +3777,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.143Z"
-  },
-  {
-    "id": "torobshop-fashion-1acb3967a4975e9e",
-    "productId": "torobshop-1acb3967a4975e9e",
-    "name": "مانیتور فیلیپس هلند Philips 276B9 سایز ۲۷ اینچ QHD با داک USB-C و پایه قابل تنظیم",
-    "brand": "",
-    "model": "مانیتور فیلیپس هلند Philips 276B9 سایز ۲۷ اینچ QHD با داک USB-C و پایه قابل تنظیم",
-    "category": "fashion",
-    "subcategory": "مردانه",
-    "price": 67081000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-276B9-%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-27-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-QHD-%D8%A8%D8%A7-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-USB-C-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-2560x1440-75-%D9%87%D8%B1%D8%AA%D8%B2-HDMI-DisplayPort-USB-C-%D9%87%D8%A7%D8%A8-USB-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.143Z"
+    "observedAt": "2026-09-03T20:50:32.951Z"
   },
   {
     "id": "torobshop-fashion-34bb04f7987b2eb8",
@@ -3831,7 +3795,43 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.143Z"
+    "observedAt": "2026-09-03T20:50:32.952Z"
+  },
+  {
+    "id": "torobshop-fashion-176747b2a6b3c8bf",
+    "productId": "torobshop-176747b2a6b3c8bf",
+    "name": "هدفون داخل گوشی فیلیپس مدل TAE5008BK/00 با میکروفون | هدفون سیمی سبک | اتصال USB-C | کابل 1.2 متری | ریموت کنترل درون خطی | 3 سایز | صدای شفاف و بیس قدرتمند | مشکی",
+    "brand": "",
+    "model": "هدفون داخل گوشی فیلیپس مدل TAE5008BK/00 با میکروفون | هدفون سیمی سبک | اتصال USB-C | کابل 1.2 متری | ریموت کنترل درون خطی | 3 سایز | صدای شفاف و بیس قدرتمند | مشکی",
+    "category": "fashion",
+    "subcategory": "مردانه",
+    "price": 11180000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%87%D8%AF%D9%81%D9%88%D9%86-%D8%AF%D8%A7%D8%AE%D9%84-%DA%AF%D9%88%D8%B4%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%85%D8%AF%D9%84-TAE5008BK-00-%D8%A8%D8%A7-%D9%85%DB%8C%DA%A9%D8%B1%D9%88%D9%81%D9%88%D9%86-%D9%87%D8%AF%D9%81%D9%88%D9%86-%D8%B3%DB%8C%D9%85%DB%8C-%D8%B3%D8%A8%DA%A9-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-USB-C-%DA%A9%D8%A7%D8%A8%D9%84-1-2-%D9%85%D8%AA%D8%B1%DB%8C-%D8%B1%DB%8C%D9%85%D9%88%D8%AA-%DA%A9%D9%86%D8%AA%D8%B1%D9%84-%D8%AF%D8%B1%D9%88%D9%86-%D8%AE%D8%B7%DB%8C-3-%D8%B3%D8%A7%DB%8C%D8%B2-%D8%B5%D8%AF%D8%A7%DB%8C-%D8%B4%D9%81%D8%A7%D9%81-%D9%88-%D8%A8%DB%8C%D8%B3-%D9%82%D8%AF%D8%B1%D8%AA%D9%85%D9%86%D8%AF-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T20:50:32.952Z"
+  },
+  {
+    "id": "torobshop-fashion-1acb3967a4975e9e",
+    "productId": "torobshop-1acb3967a4975e9e",
+    "name": "مانیتور فیلیپس هلند Philips 276B9 سایز ۲۷ اینچ QHD با داک USB-C و پایه قابل تنظیم",
+    "brand": "",
+    "model": "مانیتور فیلیپس هلند Philips 276B9 سایز ۲۷ اینچ QHD با داک USB-C و پایه قابل تنظیم",
+    "category": "fashion",
+    "subcategory": "مردانه",
+    "price": 67081000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-276B9-%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-27-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-QHD-%D8%A8%D8%A7-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-USB-C-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-2560x1440-75-%D9%87%D8%B1%D8%AA%D8%B2-HDMI-DisplayPort-USB-C-%D9%87%D8%A7%D8%A8-USB-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T20:50:32.952Z"
   },
   {
     "id": "torobshop-fashion-1ac684a13e625548",
@@ -3849,7 +3849,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.143Z"
+    "observedAt": "2026-09-03T20:50:32.952Z"
   },
   {
     "id": "torobshop-fashion-7406803b18ab5cc6",
@@ -3867,7 +3867,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.143Z"
+    "observedAt": "2026-09-03T20:50:32.952Z"
   },
   {
     "id": "torobshop-fashion-28fa9f296d3edd2c",
@@ -3885,7 +3885,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.143Z"
+    "observedAt": "2026-09-03T20:50:32.952Z"
   },
   {
     "id": "torobshop-fashion-0a56e024ea7c3e6c",
@@ -3903,7 +3903,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.143Z"
+    "observedAt": "2026-09-03T20:50:32.952Z"
   },
   {
     "id": "torobshop-fashion-0ef7eb89998918af",
@@ -3921,7 +3921,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.143Z"
+    "observedAt": "2026-09-03T20:50:32.952Z"
   },
   {
     "id": "torobshop-fashion-f2475d629ba82cb9",
@@ -3939,7 +3939,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.143Z"
+    "observedAt": "2026-09-03T20:50:32.952Z"
   },
   {
     "id": "torobshop-fashion-1123da8edef7210f",
@@ -3957,25 +3957,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.143Z"
-  },
-  {
-    "id": "torobshop-fashion-28731ba0cbc018f8",
-    "productId": "torobshop-28731ba0cbc018f8",
-    "name": "مانیتور LCD فیلیپس B Line 221B8LHEB/00 با ابعاد 54.6 سانتی‌متر (21.5 اینچ) (VGA، HDMI، پنل TN، 1920 در 1080 پیکسل، Full HD، LCD، 1 میلی‌ثانیه) schwarz",
-    "brand": "",
-    "model": "مانیتور LCD فیلیپس B Line 221B8LHEB/00 با ابعاد 54.6 سانتی‌متر (21.5 اینچ) (VGA، HDMI، پنل TN، 1920 در 1080 پیکسل، Full HD، LCD، 1 میلی‌ثانیه) schwarz",
-    "category": "fashion",
-    "subcategory": "مردانه",
-    "price": 55648000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-LCD-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-B-Line-221B8LHEB-00-%D8%A8%D8%A7-%D8%A7%D8%A8%D8%B9%D8%A7%D8%AF-54-6-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-21-5-%D8%A7%DB%8C%D9%86%DA%86-VGA-HDMI-%D9%BE%D9%86%D9%84-TN-1920-%D8%AF%D8%B1-1080-%D9%BE%DB%8C%DA%A9%D8%B3%D9%84-Full-HD-LCD-1-%D9%85%DB%8C%D9%84%DB%8C-%D8%AB%D8%A7%D9%86%DB%8C%D9%87-schwarz",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.143Z"
+    "observedAt": "2026-09-03T20:50:32.952Z"
   },
   {
     "id": "torobshop-fashion-32430a6532934fe7",
@@ -3993,7 +3975,25 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.143Z"
+    "observedAt": "2026-09-03T20:50:32.952Z"
+  },
+  {
+    "id": "torobshop-fashion-28731ba0cbc018f8",
+    "productId": "torobshop-28731ba0cbc018f8",
+    "name": "مانیتور LCD فیلیپس B Line 221B8LHEB/00 با ابعاد 54.6 سانتی‌متر (21.5 اینچ) (VGA، HDMI، پنل TN، 1920 در 1080 پیکسل، Full HD، LCD، 1 میلی‌ثانیه) schwarz",
+    "brand": "",
+    "model": "مانیتور LCD فیلیپس B Line 221B8LHEB/00 با ابعاد 54.6 سانتی‌متر (21.5 اینچ) (VGA، HDMI، پنل TN، 1920 در 1080 پیکسل، Full HD، LCD، 1 میلی‌ثانیه) schwarz",
+    "category": "fashion",
+    "subcategory": "مردانه",
+    "price": 55648000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-LCD-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-B-Line-221B8LHEB-00-%D8%A8%D8%A7-%D8%A7%D8%A8%D8%B9%D8%A7%D8%AF-54-6-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-21-5-%D8%A7%DB%8C%D9%86%DA%86-VGA-HDMI-%D9%BE%D9%86%D9%84-TN-1920-%D8%AF%D8%B1-1080-%D9%BE%DB%8C%DA%A9%D8%B3%D9%84-Full-HD-LCD-1-%D9%85%DB%8C%D9%84%DB%8C-%D8%AB%D8%A7%D9%86%DB%8C%D9%87-schwarz",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T20:50:32.952Z"
   },
   {
     "id": "torobshop-fashion-93c18ce837ff5f57",
@@ -4011,7 +4011,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.143Z"
+    "observedAt": "2026-09-03T20:50:32.952Z"
   },
   {
     "id": "torobshop-fashion-c73bf4fc0db498be",
@@ -4029,7 +4029,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.143Z"
+    "observedAt": "2026-09-03T20:50:32.952Z"
   },
   {
     "id": "torobshop-fashion-76f3e4ef7a8810f3",
@@ -4047,7 +4047,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.143Z"
+    "observedAt": "2026-09-03T20:50:32.952Z"
   },
   {
     "id": "torobshop-fashion-8f566ccc32f52f97",
@@ -4065,7 +4065,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.143Z"
+    "observedAt": "2026-09-03T20:50:32.952Z"
   },
   {
     "id": "torobshop-fashion-2dee2c9f6fb222d1",
@@ -4083,7 +4083,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.143Z"
+    "observedAt": "2026-09-03T20:50:32.952Z"
   },
   {
     "id": "torobshop-fashion-05d539a087d0640e",
@@ -4101,7 +4101,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.143Z"
+    "observedAt": "2026-09-03T20:50:32.952Z"
   },
   {
     "id": "torobshop-fashion-a40b1cc8eb60dfd3",
@@ -4119,7 +4119,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.143Z"
+    "observedAt": "2026-09-03T20:50:32.952Z"
   },
   {
     "id": "torobshop-fashion-827984c7bc2a588b",
@@ -4137,7 +4137,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.143Z"
+    "observedAt": "2026-09-03T20:50:32.952Z"
   },
   {
     "id": "torobshop-fashion-b1ad0ea7d3ae35d7",
@@ -4155,7 +4155,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.143Z"
+    "observedAt": "2026-09-03T20:50:32.952Z"
   },
   {
     "id": "torobshop-fashion-01fd4211de27a0d5",
@@ -4173,7 +4173,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.143Z"
+    "observedAt": "2026-09-03T20:50:32.952Z"
   },
   {
     "id": "torobshop-fashion-4c20864969491062",
@@ -4191,7 +4191,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.143Z"
+    "observedAt": "2026-09-03T20:50:32.952Z"
   },
   {
     "id": "torobshop-fashion-6e8f969763fb12ec",
@@ -4209,7 +4209,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.952Z"
   },
   {
     "id": "torobshop-fashion-611344efb1bd3888",
@@ -4227,7 +4227,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.952Z"
   },
   {
     "id": "torobshop-fashion-c4ddc017f41906f6",
@@ -4245,7 +4245,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.952Z"
   },
   {
     "id": "torobshop-fashion-90fcbe8687059a30",
@@ -4263,7 +4263,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.952Z"
   },
   {
     "id": "torobshop-fashion-c0007aaa6ab91bb2",
@@ -4281,7 +4281,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.952Z"
   },
   {
     "id": "torobshop-fashion-34386721a691d178",
@@ -4299,7 +4299,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.952Z"
   },
   {
     "id": "torobshop-fashion-b8bd6a4d5ecca799",
@@ -4317,7 +4317,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.952Z"
   },
   {
     "id": "torobshop-fashion-9c72d8fb3f6a2ba1",
@@ -4335,7 +4335,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.953Z"
   },
   {
     "id": "torobshop-fashion-87cbcd550df2c8fa",
@@ -4353,7 +4353,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.953Z"
   },
   {
     "id": "torobshop-fashion-bb3d87082eb1a040",
@@ -4371,7 +4371,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.953Z"
   },
   {
     "id": "torobshop-fashion-af253d8db86172d9",
@@ -4389,7 +4389,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.953Z"
   },
   {
     "id": "torobshop-fashion-faf54d1de5277c91",
@@ -4407,7 +4407,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.953Z"
   },
   {
     "id": "torobshop-fashion-bed024ff9dfbc191",
@@ -4425,7 +4425,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.953Z"
   },
   {
     "id": "torobshop-fashion-12108326787ffaf6",
@@ -4443,7 +4443,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.953Z"
   },
   {
     "id": "torobshop-fashion-9706ad3cf0976481",
@@ -4461,7 +4461,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.953Z"
   },
   {
     "id": "torobshop-fashion-a78de50e19375b85",
@@ -4479,7 +4479,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.953Z"
   },
   {
     "id": "torobshop-fashion-b572c0c74ec7e1ee",
@@ -4497,7 +4497,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.953Z"
   },
   {
     "id": "torobshop-fashion-387754e6b4491f58",
@@ -4515,7 +4515,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.953Z"
   },
   {
     "id": "torobshop-fashion-39e57f782fd26013",
@@ -4533,7 +4533,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.953Z"
   },
   {
     "id": "torobshop-fashion-aa03a6c561a55d60",
@@ -4551,7 +4551,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.953Z"
   },
   {
     "id": "torobshop-fashion-1ed3ae617a915858",
@@ -4569,7 +4569,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.953Z"
   },
   {
     "id": "torobshop-fashion-d62ad3ee5759fcbd",
@@ -4587,7 +4587,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.953Z"
   },
   {
     "id": "torobshop-fashion-569f3d7e67640e5c",
@@ -4605,7 +4605,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.953Z"
   },
   {
     "id": "torobshop-fashion-0cfaef0e68debb8e",
@@ -4623,7 +4623,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.953Z"
   },
   {
     "id": "torobshop-fashion-aed9f18e5d887270",
@@ -4641,7 +4641,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.953Z"
   },
   {
     "id": "torobshop-fashion-ad6f3f422d15a766",
@@ -4659,7 +4659,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.953Z"
   },
   {
     "id": "torobshop-fashion-dfa4bdc99016ca7e",
@@ -4677,7 +4677,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.953Z"
   },
   {
     "id": "torobshop-fashion-0ff8a8fc1fbd561e",
@@ -4695,7 +4695,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.953Z"
   },
   {
     "id": "torobshop-fashion-fa434e6aa57c4be7",
@@ -4713,7 +4713,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.953Z"
   },
   {
     "id": "torobshop-fashion-4b7348b541c036cd",
@@ -4731,7 +4731,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.953Z"
   },
   {
     "id": "torobshop-fashion-abdc2adccad9c33d",
@@ -4749,7 +4749,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.953Z"
   },
   {
     "id": "torobshop-fashion-695cd4ce1cd48f20",
@@ -4767,7 +4767,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.953Z"
   },
   {
     "id": "torobshop-fashion-921dfbcc90d038a0",
@@ -4785,7 +4785,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.953Z"
   },
   {
     "id": "torobshop-fashion-6e397f6c85f56e0e",
@@ -4803,7 +4803,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.953Z"
   },
   {
     "id": "torobshop-fashion-7464bedef3ecb51e",
@@ -4821,7 +4821,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.953Z"
   },
   {
     "id": "torobshop-fashion-9318a28bbba0fe53",
@@ -4839,7 +4839,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.953Z"
   },
   {
     "id": "torobshop-fashion-c9e212e51e3633db",
@@ -4857,7 +4857,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.953Z"
   },
   {
     "id": "torobshop-fashion-51009350b9f240d2",
@@ -4875,7 +4875,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.953Z"
   },
   {
     "id": "torobshop-fashion-45c64009916028ba",
@@ -4893,7 +4893,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.953Z"
   },
   {
     "id": "torobshop-fashion-924e8879fd31e680",
@@ -4911,7 +4911,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.953Z"
   },
   {
     "id": "torobshop-fashion-ae3ba973ea2911ee",
@@ -4929,7 +4929,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.953Z"
   },
   {
     "id": "torobshop-fashion-15def7d563b1e542",
@@ -4947,7 +4947,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.953Z"
   },
   {
     "id": "torobshop-fashion-35f3e181350a9721",
@@ -4965,7 +4965,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.953Z"
   },
   {
     "id": "torobshop-fashion-da199e6690f1c782",
@@ -4983,7 +4983,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.953Z"
   },
   {
     "id": "torobshop-fashion-835b00c0d36d8e10",
@@ -5001,7 +5001,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.953Z"
   },
   {
     "id": "torobshop-fashion-9311f0ec7504f24b",
@@ -5019,7 +5019,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.953Z"
   },
   {
     "id": "torobshop-fashion-37de96dd1d4a33c3",
@@ -5037,7 +5037,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.953Z"
   },
   {
     "id": "torobshop-fashion-843617a20d001e4c",
@@ -5055,7 +5055,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.953Z"
   },
   {
     "id": "torobshop-fashion-ee166c5666efcec5",
@@ -5073,7 +5073,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.953Z"
   },
   {
     "id": "torobshop-fashion-67d9add46426dfe8",
@@ -5091,7 +5091,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.953Z"
   },
   {
     "id": "torobshop-fashion-fc88260817f3414e",
@@ -5109,7 +5109,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.953Z"
   },
   {
     "id": "torobshop-fashion-3877183810368792",
@@ -5127,7 +5127,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.953Z"
   },
   {
     "id": "torobshop-fashion-5cab57205d377e1f",
@@ -5145,7 +5145,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.953Z"
   },
   {
     "id": "torobshop-fashion-e2467d5cbf85ce81",
@@ -5163,43 +5163,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
-  },
-  {
-    "id": "torobshop-fashion-bbb69afb3e332a2c",
-    "productId": "torobshop-bbb69afb3e332a2c",
-    "name": "سرویس قابلمه ۵ تکه ZWILLING Quadro با درب شیشه‌ای، مناسب برای اجاق گازهای القایی، بدون روکش، استیل ضد زنگ، نقره‌ای.",
-    "brand": "",
-    "model": "سرویس قابلمه ۵ تکه ZWILLING Quadro با درب شیشه‌ای، مناسب برای اجاق گازهای القایی، بدون روکش، استیل ضد زنگ، نقره‌ای.",
-    "category": "fashion",
-    "subcategory": "مردانه",
-    "price": 48468000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B5-%D8%AA%DA%A9%D9%87-ZWILLING-Quadro-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2%D9%87%D8%A7%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%DA%A9%D8%B4-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
-  },
-  {
-    "id": "torobshop-fashion-4415e2cd944c4e59",
-    "productId": "torobshop-4415e2cd944c4e59",
-    "name": "بلوک چاقوی خود تیز شونده ZWILLING Gourmet با مجموعه چاقوی 7 تکه، فولاد ضد زنگ، ساخت آلمان، مشکی",
-    "brand": "",
-    "model": "بلوک چاقوی خود تیز شونده ZWILLING Gourmet با مجموعه چاقوی 7 تکه، فولاد ضد زنگ، ساخت آلمان، مشکی",
-    "category": "fashion",
-    "subcategory": "مردانه",
-    "price": 56334000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%A8%D9%84%D9%88%DA%A9-%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%AE%D9%88%D8%AF-%D8%AA%DB%8C%D8%B2-%D8%B4%D9%88%D9%86%D8%AF%D9%87-ZWILLING-Gourmet-%D8%A8%D8%A7-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%DA%86%D8%A7%D9%82%D9%88%DB%8C-7-%D8%AA%DA%A9%D9%87-%D9%81%D9%88%D9%84%D8%A7%D8%AF-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.953Z"
   },
   {
     "id": "torobshop-fashion-30d122f629f89166",
@@ -5217,7 +5181,43 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.953Z"
+  },
+  {
+    "id": "torobshop-fashion-bbb69afb3e332a2c",
+    "productId": "torobshop-bbb69afb3e332a2c",
+    "name": "سرویس قابلمه ۵ تکه ZWILLING Quadro با درب شیشه‌ای، مناسب برای اجاق گازهای القایی، بدون روکش، استیل ضد زنگ، نقره‌ای.",
+    "brand": "",
+    "model": "سرویس قابلمه ۵ تکه ZWILLING Quadro با درب شیشه‌ای، مناسب برای اجاق گازهای القایی، بدون روکش، استیل ضد زنگ، نقره‌ای.",
+    "category": "fashion",
+    "subcategory": "مردانه",
+    "price": 48468000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B5-%D8%AA%DA%A9%D9%87-ZWILLING-Quadro-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2%D9%87%D8%A7%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%DA%A9%D8%B4-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T20:50:32.953Z"
+  },
+  {
+    "id": "torobshop-fashion-4415e2cd944c4e59",
+    "productId": "torobshop-4415e2cd944c4e59",
+    "name": "بلوک چاقوی خود تیز شونده ZWILLING Gourmet با مجموعه چاقوی 7 تکه، فولاد ضد زنگ، ساخت آلمان، مشکی",
+    "brand": "",
+    "model": "بلوک چاقوی خود تیز شونده ZWILLING Gourmet با مجموعه چاقوی 7 تکه، فولاد ضد زنگ، ساخت آلمان، مشکی",
+    "category": "fashion",
+    "subcategory": "مردانه",
+    "price": 56334000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%A8%D9%84%D9%88%DA%A9-%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%AE%D9%88%D8%AF-%D8%AA%DB%8C%D8%B2-%D8%B4%D9%88%D9%86%D8%AF%D9%87-ZWILLING-Gourmet-%D8%A8%D8%A7-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%DA%86%D8%A7%D9%82%D9%88%DB%8C-7-%D8%AA%DA%A9%D9%87-%D9%81%D9%88%D9%84%D8%A7%D8%AF-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T20:50:32.953Z"
   },
   {
     "id": "torobshop-fashion-cb9e4b877badae34",
@@ -5235,7 +5235,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.953Z"
   },
   {
     "id": "torobshop-fashion-d68b8e3ac997acb1",
@@ -5253,7 +5253,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.953Z"
   },
   {
     "id": "torobshop-fashion-07103c8f0e3ce377",
@@ -5271,61 +5271,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
-  },
-  {
-    "id": "torobshop-fashion-3e03d59443676707",
-    "productId": "torobshop-3e03d59443676707",
-    "name": "بلوک چاقوی ZWILLING TWIN Chef 2 با سرویس چاقوی 8 تکه، استیل ضد زنگ، ساخت آلمان، بلوک بامبویی Twin Chef 8 تکه",
-    "brand": "",
-    "model": "بلوک چاقوی ZWILLING TWIN Chef 2 با سرویس چاقوی 8 تکه، استیل ضد زنگ، ساخت آلمان، بلوک بامبویی Twin Chef 8 تکه",
-    "category": "fashion",
-    "subcategory": "مردانه",
-    "price": 48975000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%A8%D9%84%D9%88%DA%A9-%DA%86%D8%A7%D9%82%D9%88%DB%8C-ZWILLING-TWIN-Chef-2-%D8%A8%D8%A7-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%DA%86%D8%A7%D9%82%D9%88%DB%8C-8-%D8%AA%DA%A9%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%A8%D9%84%D9%88%DA%A9-%D8%A8%D8%A7%D9%85%D8%A8%D9%88%DB%8C%DB%8C-Twin-Chef-8-%D8%AA%DA%A9%D9%87",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
-  },
-  {
-    "id": "torobshop-fashion-e4088b7a2b6ea10b",
-    "productId": "torobshop-e4088b7a2b6ea10b",
-    "name": "سرویس قابلمه 4 پارچه اینتنسا فیسلر آلمان Fissler Intensa قابلمه با درب فلزی (2 قابلمه، 1 قابلمه کوچک، 1 تابه - بدون درب) القایی، سرویس",
-    "brand": "",
-    "model": "سرویس قابلمه 4 پارچه اینتنسا فیسلر آلمان Fissler Intensa قابلمه با درب فلزی (2 قابلمه، 1 قابلمه کوچک، 1 تابه - بدون درب) القایی، سرویس",
-    "category": "fashion",
-    "subcategory": "مردانه",
-    "price": 97350000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%A7%DB%8C%D9%86%D8%AA%D9%86%D8%B3%D8%A7-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-4-%D8%AA%DA%A9%D9%87-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%81%D9%84%D8%B2%DB%8C-2-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-1-%D8%AA%D8%A7%D8%A8%D9%87-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%B1%D8%A8-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-4-%D8%AA%DA%A9%D9%87-2-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-1-%D8%AA%D8%A7%D8%A8%D9%87",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
-  },
-  {
-    "id": "torobshop-fashion-d9fbeecaba31c602",
-    "productId": "torobshop-d9fbeecaba31c602",
-    "name": "سرخ کن هوای گرم ZWILLING، ۴ لیتر، ۶ برنامه، ۱۴۰۰ وات، طراحی جمع و جور، سرخ کردن، پخت و پز و پخت بدون چربی، مشکی",
-    "brand": "",
-    "model": "سرخ کن هوای گرم ZWILLING، ۴ لیتر، ۶ برنامه، ۱۴۰۰ وات، طراحی جمع و جور، سرخ کردن، پخت و پز و پخت بدون چربی، مشکی",
-    "category": "fashion",
-    "subcategory": "مردانه",
-    "price": 27152000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D9%87%D9%88%D8%A7%DB%8C-%DA%AF%D8%B1%D9%85-ZWILLING-%DB%B4-%D9%84%DB%8C%D8%AA%D8%B1-%DB%B6-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%DB%B1%DB%B4%DB%B0%DB%B0-%D9%88%D8%A7%D8%AA-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%AC%D9%85%D8%B9-%D9%88-%D8%AC%D9%88%D8%B1-%D8%B3%D8%B1%D8%AE-%DA%A9%D8%B1%D8%AF%D9%86-%D9%BE%D8%AE%D8%AA-%D9%88-%D9%BE%D8%B2-%D9%88-%D9%BE%D8%AE%D8%AA-%D8%A8%D8%AF%D9%88%D9%86-%DA%86%D8%B1%D8%A8%DB%8C-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.953Z"
   },
   {
     "id": "torobshop-fashion-d397df756b9f1338",
@@ -5343,7 +5289,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.953Z"
   },
   {
     "id": "torobshop-fashion-ef26e366fa305ced",
@@ -5361,7 +5307,61 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.953Z"
+  },
+  {
+    "id": "torobshop-fashion-3e03d59443676707",
+    "productId": "torobshop-3e03d59443676707",
+    "name": "بلوک چاقوی ZWILLING TWIN Chef 2 با سرویس چاقوی 8 تکه، استیل ضد زنگ، ساخت آلمان، بلوک بامبویی Twin Chef 8 تکه",
+    "brand": "",
+    "model": "بلوک چاقوی ZWILLING TWIN Chef 2 با سرویس چاقوی 8 تکه، استیل ضد زنگ، ساخت آلمان، بلوک بامبویی Twin Chef 8 تکه",
+    "category": "fashion",
+    "subcategory": "مردانه",
+    "price": 48975000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%A8%D9%84%D9%88%DA%A9-%DA%86%D8%A7%D9%82%D9%88%DB%8C-ZWILLING-TWIN-Chef-2-%D8%A8%D8%A7-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%DA%86%D8%A7%D9%82%D9%88%DB%8C-8-%D8%AA%DA%A9%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%A8%D9%84%D9%88%DA%A9-%D8%A8%D8%A7%D9%85%D8%A8%D9%88%DB%8C%DB%8C-Twin-Chef-8-%D8%AA%DA%A9%D9%87",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T20:50:32.954Z"
+  },
+  {
+    "id": "torobshop-fashion-e4088b7a2b6ea10b",
+    "productId": "torobshop-e4088b7a2b6ea10b",
+    "name": "سرویس قابلمه 4 پارچه اینتنسا فیسلر آلمان Fissler Intensa قابلمه با درب فلزی (2 قابلمه، 1 قابلمه کوچک، 1 تابه - بدون درب) القایی، سرویس",
+    "brand": "",
+    "model": "سرویس قابلمه 4 پارچه اینتنسا فیسلر آلمان Fissler Intensa قابلمه با درب فلزی (2 قابلمه، 1 قابلمه کوچک، 1 تابه - بدون درب) القایی، سرویس",
+    "category": "fashion",
+    "subcategory": "مردانه",
+    "price": 97350000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%A7%DB%8C%D9%86%D8%AA%D9%86%D8%B3%D8%A7-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-4-%D8%AA%DA%A9%D9%87-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%81%D9%84%D8%B2%DB%8C-2-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-1-%D8%AA%D8%A7%D8%A8%D9%87-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%B1%D8%A8-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-4-%D8%AA%DA%A9%D9%87-2-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-1-%D8%AA%D8%A7%D8%A8%D9%87",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T20:50:32.954Z"
+  },
+  {
+    "id": "torobshop-fashion-d9fbeecaba31c602",
+    "productId": "torobshop-d9fbeecaba31c602",
+    "name": "سرخ کن هوای گرم ZWILLING، ۴ لیتر، ۶ برنامه، ۱۴۰۰ وات، طراحی جمع و جور، سرخ کردن، پخت و پز و پخت بدون چربی، مشکی",
+    "brand": "",
+    "model": "سرخ کن هوای گرم ZWILLING، ۴ لیتر، ۶ برنامه، ۱۴۰۰ وات، طراحی جمع و جور، سرخ کردن، پخت و پز و پخت بدون چربی، مشکی",
+    "category": "fashion",
+    "subcategory": "مردانه",
+    "price": 27152000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D9%87%D9%88%D8%A7%DB%8C-%DA%AF%D8%B1%D9%85-ZWILLING-%DB%B4-%D9%84%DB%8C%D8%AA%D8%B1-%DB%B6-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%DB%B1%DB%B4%DB%B0%DB%B0-%D9%88%D8%A7%D8%AA-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%AC%D9%85%D8%B9-%D9%88-%D8%AC%D9%88%D8%B1-%D8%B3%D8%B1%D8%AE-%DA%A9%D8%B1%D8%AF%D9%86-%D9%BE%D8%AE%D8%AA-%D9%88-%D9%BE%D8%B2-%D9%88-%D9%BE%D8%AE%D8%AA-%D8%A8%D8%AF%D9%88%D9%86-%DA%86%D8%B1%D8%A8%DB%8C-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T20:50:32.954Z"
   },
   {
     "id": "torobshop-fashion-05c540b60ea3624b",
@@ -5379,7 +5379,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.954Z"
   },
   {
     "id": "torobshop-fashion-f8b7784f8ba04a47",
@@ -5397,7 +5397,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.954Z"
   },
   {
     "id": "torobshop-fashion-e0d95c7bfcafe827",
@@ -5415,7 +5415,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.954Z"
   },
   {
     "id": "torobshop-fashion-0674abec1e1ff3bb",
@@ -5433,7 +5433,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.954Z"
   },
   {
     "id": "torobshop-fashion-c8ae91ddddbffeeb",
@@ -5451,7 +5451,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.954Z"
   },
   {
     "id": "torobshop-fashion-eb3d93fc719b9727",
@@ -5469,7 +5469,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.954Z"
   },
   {
     "id": "torobshop-fashion-9d8fbc8c7f0b6991",
@@ -5487,7 +5487,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.954Z"
   },
   {
     "id": "torobshop-fashion-b0b661c9d6dfca29",
@@ -5505,43 +5505,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
-  },
-  {
-    "id": "torobshop-fashion-c4580b999e737ac3",
-    "productId": "torobshop-c4580b999e737ac3",
-    "name": "سرویس قاشق و چنگال وی ام اف آلمان WMF Cutlery Set ( 60 پارچه، 12 نفره )",
-    "brand": "",
-    "model": "سرویس قاشق و چنگال وی ام اف آلمان WMF Cutlery Set ( 60 پارچه، 12 نفره )",
-    "category": "fashion",
-    "subcategory": "مردانه",
-    "price": 43138000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%DA%A9%D8%A7%D8%B1%D8%AF-%D9%88-%DA%86%D9%86%DA%AF%D8%A7%D9%84-WMF-60-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-12-%D9%86%D9%81%D8%B1%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-Atria-Cromargan-18-10-%D8%A8%D8%B1%D8%A7%D9%82",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
-  },
-  {
-    "id": "torobshop-fashion-412e480ec7918302",
-    "productId": "torobshop-412e480ec7918302",
-    "name": "همزن فلکسی مینی پروفی پلاس WMF، 21 سانتی‌متر",
-    "brand": "",
-    "model": "همزن فلکسی مینی پروفی پلاس WMF، 21 سانتی‌متر",
-    "category": "fashion",
-    "subcategory": "مردانه",
-    "price": 12179000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%87%D9%85%D8%B2%D9%86-%D9%81%D9%84%DA%A9%D8%B3%DB%8C-%D9%85%DB%8C%D9%86%DB%8C-%D9%BE%D8%B1%D9%88%D9%81%DB%8C-%D9%BE%D9%84%D8%A7%D8%B3-WMF-21-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.954Z"
   },
   {
     "id": "torobshop-fashion-40f09e3a04b68146",
@@ -5559,61 +5523,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
-  },
-  {
-    "id": "torobshop-fashion-d39a2f5ac6cd9a7f",
-    "productId": "torobshop-d39a2f5ac6cd9a7f",
-    "name": "سرویس قابلمه 3 پارچه فیسلر آلمان Fissler Original-Profi Collection القایی",
-    "brand": "",
-    "model": "سرویس قابلمه 3 پارچه فیسلر آلمان Fissler Original-Profi Collection القایی",
-    "category": "fashion",
-    "subcategory": "مردانه",
-    "price": 91335000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D8%A7%D8%B5%D9%84%DB%8C-%D8%AD%D8%B1%D9%81%D9%87-%D8%A7%DB%8C-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%DB%B3-%D8%AA%DA%A9%D9%87-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%81%D9%84%D8%B2%DB%8C-%DB%B1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%DB%B1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%DB%B3-%D8%AA%DA%A9%D9%87-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
-  },
-  {
-    "id": "torobshop-fashion-280503308950a13c",
-    "productId": "torobshop-280503308950a13c",
-    "name": "کتری ZWILLING، ۱.۲ لیتر، ۱۵۵۰-۱۸۵۰ وات، استیل ضد زنگ/پلاستیک، نقره‌ای/مشکی",
-    "brand": "",
-    "model": "کتری ZWILLING، ۱.۲ لیتر، ۱۵۵۰-۱۸۵۰ وات، استیل ضد زنگ/پلاستیک، نقره‌ای/مشکی",
-    "category": "fashion",
-    "subcategory": "مردانه",
-    "price": 21316000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%DA%A9%D8%AA%D8%B1%DB%8C-ZWILLING-%DB%B1-%DB%B2-%D9%84%DB%8C%D8%AA%D8%B1-%DB%B1%DB%B5%DB%B5%DB%B0-%DB%B1%DB%B8%DB%B5%DB%B0-%D9%88%D8%A7%D8%AA-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
-  },
-  {
-    "id": "torobshop-fashion-aa2dfdb88af5c975",
-    "productId": "torobshop-aa2dfdb88af5c975",
-    "name": "ماهیتابه ZWILLING جوی پلاس 24 سانتی متری",
-    "brand": "",
-    "model": "ماهیتابه ZWILLING جوی پلاس 24 سانتی متری",
-    "category": "fashion",
-    "subcategory": "مردانه",
-    "price": 24615000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-ZWILLING-%D8%AC%D9%88%DB%8C-%D9%BE%D9%84%D8%A7%D8%B3-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.144Z"
+    "observedAt": "2026-09-03T20:50:32.954Z"
   },
   {
     "id": "torobshop-fashion-9087741222a89b21",
@@ -5631,25 +5541,97 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
+    "observedAt": "2026-09-03T20:50:32.954Z"
   },
   {
-    "id": "torobshop-fashion-0e4d04ef83a810db",
-    "productId": "torobshop-0e4d04ef83a810db",
-    "name": "ماهیتابه ووک نانجینگ فیسلر آلمان Fissler Nanjing Wok (قطر ۳۶ سانتی‌متر) تابه ووک بزرگ بدون روکش با درب شیشه‌ای شامل محفظه بخارپز",
+    "id": "torobshop-fashion-c4580b999e737ac3",
+    "productId": "torobshop-c4580b999e737ac3",
+    "name": "سرویس قاشق و چنگال وی ام اف آلمان WMF Cutlery Set ( 60 پارچه، 12 نفره )",
     "brand": "",
-    "model": "ماهیتابه ووک نانجینگ فیسلر آلمان Fissler Nanjing Wok (قطر ۳۶ سانتی‌متر) تابه ووک بزرگ بدون روکش با درب شیشه‌ای شامل محفظه بخارپز",
+    "model": "سرویس قاشق و چنگال وی ام اف آلمان WMF Cutlery Set ( 60 پارچه، 12 نفره )",
     "category": "fashion",
     "subcategory": "مردانه",
-    "price": 58356000,
+    "price": 43138000,
     "currency": "IRT",
     "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%88%D9%88%DA%A9-%D9%86%D8%A7%D9%86%D8%AC%DB%8C%D9%86%DA%AF-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-Fissler-Nanjing-Wok-%D9%82%D8%B7%D8%B1-%DB%B3%DB%B6-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%AA%D8%A7%D8%A8%D9%87-%D9%88%D9%88%DA%A9-%D8%A8%D8%B2%D8%B1%DA%AF-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%DA%A9%D8%B4-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%B4%D8%A7%D9%85%D9%84-%D9%85%D8%AD%D9%81%D8%B8%D9%87-%D8%A8%D8%AE%D8%A7%D8%B1%D9%BE%D8%B2",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%DA%A9%D8%A7%D8%B1%D8%AF-%D9%88-%DA%86%D9%86%DA%AF%D8%A7%D9%84-WMF-60-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-12-%D9%86%D9%81%D8%B1%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-Atria-Cromargan-18-10-%D8%A8%D8%B1%D8%A7%D9%82",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
+    "observedAt": "2026-09-03T20:50:32.954Z"
+  },
+  {
+    "id": "torobshop-fashion-412e480ec7918302",
+    "productId": "torobshop-412e480ec7918302",
+    "name": "همزن فلکسی مینی پروفی پلاس WMF، 21 سانتی‌متر",
+    "brand": "",
+    "model": "همزن فلکسی مینی پروفی پلاس WMF، 21 سانتی‌متر",
+    "category": "fashion",
+    "subcategory": "مردانه",
+    "price": 12179000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%87%D9%85%D8%B2%D9%86-%D9%81%D9%84%DA%A9%D8%B3%DB%8C-%D9%85%DB%8C%D9%86%DB%8C-%D9%BE%D8%B1%D9%88%D9%81%DB%8C-%D9%BE%D9%84%D8%A7%D8%B3-WMF-21-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T20:50:32.954Z"
+  },
+  {
+    "id": "torobshop-fashion-d39a2f5ac6cd9a7f",
+    "productId": "torobshop-d39a2f5ac6cd9a7f",
+    "name": "سرویس قابلمه 3 پارچه فیسلر آلمان Fissler Original-Profi Collection القایی",
+    "brand": "",
+    "model": "سرویس قابلمه 3 پارچه فیسلر آلمان Fissler Original-Profi Collection القایی",
+    "category": "fashion",
+    "subcategory": "مردانه",
+    "price": 91335000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D8%A7%D8%B5%D9%84%DB%8C-%D8%AD%D8%B1%D9%81%D9%87-%D8%A7%DB%8C-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%DB%B3-%D8%AA%DA%A9%D9%87-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%81%D9%84%D8%B2%DB%8C-%DB%B1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%DB%B1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%DB%B3-%D8%AA%DA%A9%D9%87-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T20:50:32.954Z"
+  },
+  {
+    "id": "torobshop-fashion-280503308950a13c",
+    "productId": "torobshop-280503308950a13c",
+    "name": "کتری ZWILLING، ۱.۲ لیتر، ۱۵۵۰-۱۸۵۰ وات، استیل ضد زنگ/پلاستیک، نقره‌ای/مشکی",
+    "brand": "",
+    "model": "کتری ZWILLING، ۱.۲ لیتر، ۱۵۵۰-۱۸۵۰ وات، استیل ضد زنگ/پلاستیک، نقره‌ای/مشکی",
+    "category": "fashion",
+    "subcategory": "مردانه",
+    "price": 21316000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%DA%A9%D8%AA%D8%B1%DB%8C-ZWILLING-%DB%B1-%DB%B2-%D9%84%DB%8C%D8%AA%D8%B1-%DB%B1%DB%B5%DB%B5%DB%B0-%DB%B1%DB%B8%DB%B5%DB%B0-%D9%88%D8%A7%D8%AA-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T20:50:32.954Z"
+  },
+  {
+    "id": "torobshop-fashion-aa2dfdb88af5c975",
+    "productId": "torobshop-aa2dfdb88af5c975",
+    "name": "ماهیتابه ZWILLING جوی پلاس 24 سانتی متری",
+    "brand": "",
+    "model": "ماهیتابه ZWILLING جوی پلاس 24 سانتی متری",
+    "category": "fashion",
+    "subcategory": "مردانه",
+    "price": 24615000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-ZWILLING-%D8%AC%D9%88%DB%8C-%D9%BE%D9%84%D8%A7%D8%B3-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T20:50:32.954Z"
   },
   {
     "id": "torobshop-fashion-d99c3943bcec9400",
@@ -5667,25 +5649,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
-  },
-  {
-    "id": "torobshop-fashion-2be1976c83ad17a1",
-    "productId": "torobshop-2be1976c83ad17a1",
-    "name": "ماهیتابه استیل ۲۴ سانت فیسلر آلمان Fissler Original-Profi Collection",
-    "brand": "",
-    "model": "ماهیتابه استیل ۲۴ سانت فیسلر آلمان Fissler Original-Profi Collection",
-    "category": "fashion",
-    "subcategory": "مردانه",
-    "price": 38746000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%DB%B2%DB%B4-%D8%B3%D8%A7%D9%86%D8%AA-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-Fissler-Original-Profi-Collection",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
+    "observedAt": "2026-09-03T20:50:32.954Z"
   },
   {
     "id": "torobshop-fashion-1e0602d76b0e257a",
@@ -5703,25 +5667,25 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
+    "observedAt": "2026-09-03T20:50:32.954Z"
   },
   {
-    "id": "torobshop-fashion-00bf5776f339768d",
-    "productId": "torobshop-00bf5776f339768d",
-    "name": "سرویس قابلمه ۵ پارچه فیسلر آلمان Fissler Palermo Edelstahl پالرمو شامل درب شیشه‌ای (۳ قابلمه، ۱ تابه کباب‌پزی، ۱ قابلمه کوچک) القایی",
+    "id": "torobshop-fashion-0e4d04ef83a810db",
+    "productId": "torobshop-0e4d04ef83a810db",
+    "name": "ماهیتابه ووک نانجینگ فیسلر آلمان Fissler Nanjing Wok (قطر ۳۶ سانتی‌متر) تابه ووک بزرگ بدون روکش با درب شیشه‌ای شامل محفظه بخارپز",
     "brand": "",
-    "model": "سرویس قابلمه ۵ پارچه فیسلر آلمان Fissler Palermo Edelstahl پالرمو شامل درب شیشه‌ای (۳ قابلمه، ۱ تابه کباب‌پزی، ۱ قابلمه کوچک) القایی",
+    "model": "ماهیتابه ووک نانجینگ فیسلر آلمان Fissler Nanjing Wok (قطر ۳۶ سانتی‌متر) تابه ووک بزرگ بدون روکش با درب شیشه‌ای شامل محفظه بخارپز",
     "category": "fashion",
     "subcategory": "مردانه",
-    "price": 54119000,
+    "price": 58356000,
     "currency": "IRT",
     "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B5-%D8%AA%DA%A9%D9%87-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%BE%D8%A7%D9%84%D8%B1%D9%85%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%87%D8%A7-%D8%B4%D8%A7%D9%85%D9%84-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%DB%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B1-%D8%AA%D8%A7%D8%A8%D9%87-%DA%A9%D8%A8%D8%A7%D8%A8-%D9%BE%D8%B2%DB%8C-%DB%B1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%88%D9%88%DA%A9-%D9%86%D8%A7%D9%86%D8%AC%DB%8C%D9%86%DA%AF-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-Fissler-Nanjing-Wok-%D9%82%D8%B7%D8%B1-%DB%B3%DB%B6-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%AA%D8%A7%D8%A8%D9%87-%D9%88%D9%88%DA%A9-%D8%A8%D8%B2%D8%B1%DA%AF-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%DA%A9%D8%B4-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%B4%D8%A7%D9%85%D9%84-%D9%85%D8%AD%D9%81%D8%B8%D9%87-%D8%A8%D8%AE%D8%A7%D8%B1%D9%BE%D8%B2",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
+    "observedAt": "2026-09-03T20:50:32.954Z"
   },
   {
     "id": "torobshop-fashion-3644b82267dd5165",
@@ -5739,7 +5703,43 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
+    "observedAt": "2026-09-03T20:50:32.954Z"
+  },
+  {
+    "id": "torobshop-fashion-2be1976c83ad17a1",
+    "productId": "torobshop-2be1976c83ad17a1",
+    "name": "ماهیتابه استیل ۲۴ سانت فیسلر آلمان Fissler Original-Profi Collection",
+    "brand": "",
+    "model": "ماهیتابه استیل ۲۴ سانت فیسلر آلمان Fissler Original-Profi Collection",
+    "category": "fashion",
+    "subcategory": "مردانه",
+    "price": 38746000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%DB%B2%DB%B4-%D8%B3%D8%A7%D9%86%D8%AA-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-Fissler-Original-Profi-Collection",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T20:50:32.954Z"
+  },
+  {
+    "id": "torobshop-fashion-00bf5776f339768d",
+    "productId": "torobshop-00bf5776f339768d",
+    "name": "سرویس قابلمه ۵ پارچه فیسلر آلمان Fissler Palermo Edelstahl پالرمو شامل درب شیشه‌ای (۳ قابلمه، ۱ تابه کباب‌پزی، ۱ قابلمه کوچک) القایی",
+    "brand": "",
+    "model": "سرویس قابلمه ۵ پارچه فیسلر آلمان Fissler Palermo Edelstahl پالرمو شامل درب شیشه‌ای (۳ قابلمه، ۱ تابه کباب‌پزی، ۱ قابلمه کوچک) القایی",
+    "category": "fashion",
+    "subcategory": "مردانه",
+    "price": 54119000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B5-%D8%AA%DA%A9%D9%87-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%BE%D8%A7%D9%84%D8%B1%D9%85%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%87%D8%A7-%D8%B4%D8%A7%D9%85%D9%84-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%DB%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B1-%D8%AA%D8%A7%D8%A8%D9%87-%DA%A9%D8%A8%D8%A7%D8%A8-%D9%BE%D8%B2%DB%8C-%DB%B1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T20:50:32.954Z"
   },
   {
     "id": "torobshop-fashion-a218f27039422c46",
@@ -5757,7 +5757,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
+    "observedAt": "2026-09-03T20:50:32.954Z"
   },
   {
     "id": "torobshop-fashion-ace9b88e93544c94",
@@ -5775,7 +5775,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
+    "observedAt": "2026-09-03T20:50:32.954Z"
   },
   {
     "id": "torobshop-fashion-4dd091835a22ff69",
@@ -5793,7 +5793,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
+    "observedAt": "2026-09-03T20:50:32.954Z"
   },
   {
     "id": "torobshop-fashion-56cac7936a06e3f1",
@@ -5811,7 +5811,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
+    "observedAt": "2026-09-03T20:50:32.954Z"
   },
   {
     "id": "torobshop-fashion-1fd1146f6f750aa9",
@@ -5829,7 +5829,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
+    "observedAt": "2026-09-03T20:50:32.954Z"
   },
   {
     "id": "torobshop-fashion-97e8accc87d0f8bf",
@@ -5847,7 +5847,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
+    "observedAt": "2026-09-03T20:50:32.954Z"
   },
   {
     "id": "torobshop-fashion-e02164e6665f61ef",
@@ -5865,7 +5865,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
+    "observedAt": "2026-09-03T20:50:32.954Z"
   },
   {
     "id": "torobshop-fashion-ffbee63b50d31684",
@@ -5883,7 +5883,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
+    "observedAt": "2026-09-03T20:50:32.954Z"
   },
   {
     "id": "torobshop-fashion-b131b88e24438d96",
@@ -5901,7 +5901,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
+    "observedAt": "2026-09-03T20:50:32.954Z"
   },
   {
     "id": "torobshop-fashion-1dfcfd9dee587f60",
@@ -5919,7 +5919,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
+    "observedAt": "2026-09-03T20:50:32.954Z"
   },
   {
     "id": "torobshop-fashion-8a5c15c91c1a9329",
@@ -5937,7 +5937,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
+    "observedAt": "2026-09-03T20:50:32.954Z"
   },
   {
     "id": "torobshop-fashion-f4ac0f14bd21c6cf",
@@ -5955,43 +5955,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
-  },
-  {
-    "id": "torobshop-fashion-ef0157b54bf022f6",
-    "productId": "torobshop-ef0157b54bf022f6",
-    "name": "قیچی مرغ زولینگ آلمان ZWILLING، تیغه 12 سانتی‌متری، استیل ضد زنگ، نقره‌ای",
-    "brand": "",
-    "model": "قیچی مرغ زولینگ آلمان ZWILLING، تیغه 12 سانتی‌متری، استیل ضد زنگ، نقره‌ای",
-    "category": "fashion",
-    "subcategory": "مردانه",
-    "price": 26898000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%82%DB%8C%DA%86%DB%8C-%D9%85%D8%B1%D8%BA%D8%AF%D8%A7%D8%B1%DB%8C-ZWILLING-%D8%AA%DB%8C%D8%BA%D9%87-12-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
-  },
-  {
-    "id": "torobshop-fashion-22200afc1cbeec02",
-    "productId": "torobshop-22200afc1cbeec02",
-    "name": "آسیاب نمک و فلفل استیل وی ام اف آلمان مشکی مدل WMF Signature Pro",
-    "brand": "",
-    "model": "آسیاب نمک و فلفل استیل وی ام اف آلمان مشکی مدل WMF Signature Pro",
-    "category": "fashion",
-    "subcategory": "مردانه",
-    "price": 23282000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%A2%D8%B3%DB%8C%D8%A7%D8%A8-%D9%86%D9%85%DA%A9-%D9%88-%D9%81%D9%84%D9%81%D9%84-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D9%88%DB%8C-%D8%A7%D9%85-%D8%A7%D9%81-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%B4%DA%A9%DB%8C-%D9%85%D8%AF%D9%84-WMF-Signature-Pro",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
+    "observedAt": "2026-09-03T20:50:32.954Z"
   },
   {
     "id": "torobshop-fashion-f06d188d530004ad",
@@ -6009,7 +5973,25 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
+    "observedAt": "2026-09-03T20:50:32.954Z"
+  },
+  {
+    "id": "torobshop-fashion-ef0157b54bf022f6",
+    "productId": "torobshop-ef0157b54bf022f6",
+    "name": "قیچی مرغ زولینگ آلمان ZWILLING، تیغه 12 سانتی‌متری، استیل ضد زنگ، نقره‌ای",
+    "brand": "",
+    "model": "قیچی مرغ زولینگ آلمان ZWILLING، تیغه 12 سانتی‌متری، استیل ضد زنگ، نقره‌ای",
+    "category": "fashion",
+    "subcategory": "مردانه",
+    "price": 26898000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%82%DB%8C%DA%86%DB%8C-%D9%85%D8%B1%D8%BA%D8%AF%D8%A7%D8%B1%DB%8C-ZWILLING-%D8%AA%DB%8C%D8%BA%D9%87-12-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T20:50:32.954Z"
   },
   {
     "id": "torobshop-fashion-4bffdb79ac43fe15",
@@ -6027,7 +6009,25 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
+    "observedAt": "2026-09-03T20:50:32.954Z"
+  },
+  {
+    "id": "torobshop-fashion-22200afc1cbeec02",
+    "productId": "torobshop-22200afc1cbeec02",
+    "name": "آسیاب نمک و فلفل استیل وی ام اف آلمان مشکی مدل WMF Signature Pro",
+    "brand": "",
+    "model": "آسیاب نمک و فلفل استیل وی ام اف آلمان مشکی مدل WMF Signature Pro",
+    "category": "fashion",
+    "subcategory": "مردانه",
+    "price": 23282000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%A2%D8%B3%DB%8C%D8%A7%D8%A8-%D9%86%D9%85%DA%A9-%D9%88-%D9%81%D9%84%D9%81%D9%84-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D9%88%DB%8C-%D8%A7%D9%85-%D8%A7%D9%81-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%B4%DA%A9%DB%8C-%D9%85%D8%AF%D9%84-WMF-Signature-Pro",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T20:50:32.954Z"
   },
   {
     "id": "torobshop-fashion-2f0597d05addbba1",
@@ -6045,7 +6045,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
+    "observedAt": "2026-09-03T20:50:32.954Z"
   },
   {
     "id": "torobshop-fashion-fda1fe8cf4de5c5d",
@@ -6063,7 +6063,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
+    "observedAt": "2026-09-03T20:50:32.954Z"
   },
   {
     "id": "torobshop-fashion-7ac6bac20ad12a2d",
@@ -6081,25 +6081,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
-  },
-  {
-    "id": "torobshop-fashion-595f1b954d0611bd",
-    "productId": "torobshop-595f1b954d0611bd",
-    "name": "قیچی مرغ زولینگ آلمان Zwilling 42913-001، فولاد ضد زنگ، 255 میلی‌متر",
-    "brand": "",
-    "model": "قیچی مرغ زولینگ آلمان Zwilling 42913-001، فولاد ضد زنگ، 255 میلی‌متر",
-    "category": "fashion",
-    "subcategory": "مردانه",
-    "price": 19792000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%82%DB%8C%DA%86%DB%8C-%D9%85%D8%B1%D8%BA%D8%AF%D8%A7%D8%B1%DB%8C-Zwilling-42913-001-%D9%81%D9%88%D9%84%D8%A7%D8%AF-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-255-%D9%85%DB%8C%D9%84%DB%8C-%D9%85%D8%AA%D8%B1",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
+    "observedAt": "2026-09-03T20:50:32.954Z"
   },
   {
     "id": "torobshop-fashion-736fe4049676a61e",
@@ -6117,7 +6099,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
+    "observedAt": "2026-09-03T20:50:32.954Z"
   },
   {
     "id": "torobshop-fashion-a02082729540664c",
@@ -6135,43 +6117,25 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
+    "observedAt": "2026-09-03T20:50:32.954Z"
   },
   {
-    "id": "torobshop-fashion-f4e7843bb5d4eb60",
-    "productId": "torobshop-f4e7843bb5d4eb60",
-    "name": "قیچی چند منظوره زولینگ آلمان ZWILLING، قیچی جهانی، طول: 20 سانتی متر، استیل ضد زنگ مخصوص، کمک آشپزخانه، قرمز",
+    "id": "torobshop-fashion-595f1b954d0611bd",
+    "productId": "torobshop-595f1b954d0611bd",
+    "name": "قیچی مرغ زولینگ آلمان Zwilling 42913-001، فولاد ضد زنگ، 255 میلی‌متر",
     "brand": "",
-    "model": "قیچی چند منظوره زولینگ آلمان ZWILLING، قیچی جهانی، طول: 20 سانتی متر، استیل ضد زنگ مخصوص، کمک آشپزخانه، قرمز",
+    "model": "قیچی مرغ زولینگ آلمان Zwilling 42913-001، فولاد ضد زنگ، 255 میلی‌متر",
     "category": "fashion",
     "subcategory": "مردانه",
-    "price": 14464000,
+    "price": 19792000,
     "currency": "IRT",
     "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%82%DB%8C%DA%86%DB%8C-%DA%86%D9%86%D8%AF-%D9%85%D9%86%D8%B8%D9%88%D8%B1%D9%87-ZWILLING-%D9%82%DB%8C%DA%86%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%B7%D9%88%D9%84-20-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%DA%A9%D9%85%DA%A9-%D8%A2%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87-%D9%82%D8%B1%D9%85%D8%B2",
+    "productUrl": "https://torobshop.com/products/%D9%82%DB%8C%DA%86%DB%8C-%D9%85%D8%B1%D8%BA%D8%AF%D8%A7%D8%B1%DB%8C-Zwilling-42913-001-%D9%81%D9%88%D9%84%D8%A7%D8%AF-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-255-%D9%85%DB%8C%D9%84%DB%8C-%D9%85%D8%AA%D8%B1",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
-  },
-  {
-    "id": "torobshop-fashion-f26fbc6e8dbee708",
-    "productId": "torobshop-f26fbc6e8dbee708",
-    "name": "قیچی چند منظوره زولینگ آلمان ZWILLING Twin L، 20 سانتی متر، قیچی آشپزخانه برای کاربران راست دست و چپ دست، استیل ضد زنگ، مشکی",
-    "brand": "",
-    "model": "قیچی چند منظوره زولینگ آلمان ZWILLING Twin L، 20 سانتی متر، قیچی آشپزخانه برای کاربران راست دست و چپ دست، استیل ضد زنگ، مشکی",
-    "category": "fashion",
-    "subcategory": "مردانه",
-    "price": 14717000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%82%DB%8C%DA%86%DB%8C-%DA%86%D9%86%D8%AF-%D9%85%D9%86%D8%B8%D9%88%D8%B1%D9%87-ZWILLING-Twin-L-20-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%82%DB%8C%DA%86%DB%8C-%D8%A2%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%A7%D9%86-%D8%B1%D8%A7%D8%B3%D8%AA-%D8%AF%D8%B3%D8%AA-%D9%88-%DA%86%D9%BE-%D8%AF%D8%B3%D8%AA-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
+    "observedAt": "2026-09-03T20:50:32.954Z"
   },
   {
     "id": "torobshop-fashion-3d13a34700e027c0",
@@ -6189,7 +6153,43 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
+    "observedAt": "2026-09-03T20:50:32.954Z"
+  },
+  {
+    "id": "torobshop-fashion-f4e7843bb5d4eb60",
+    "productId": "torobshop-f4e7843bb5d4eb60",
+    "name": "قیچی چند منظوره زولینگ آلمان ZWILLING، قیچی جهانی، طول: 20 سانتی متر، استیل ضد زنگ مخصوص، کمک آشپزخانه، قرمز",
+    "brand": "",
+    "model": "قیچی چند منظوره زولینگ آلمان ZWILLING، قیچی جهانی، طول: 20 سانتی متر، استیل ضد زنگ مخصوص، کمک آشپزخانه، قرمز",
+    "category": "fashion",
+    "subcategory": "مردانه",
+    "price": 14464000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%82%DB%8C%DA%86%DB%8C-%DA%86%D9%86%D8%AF-%D9%85%D9%86%D8%B8%D9%88%D8%B1%D9%87-ZWILLING-%D9%82%DB%8C%DA%86%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%B7%D9%88%D9%84-20-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%DA%A9%D9%85%DA%A9-%D8%A2%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87-%D9%82%D8%B1%D9%85%D8%B2",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T20:50:32.954Z"
+  },
+  {
+    "id": "torobshop-fashion-f26fbc6e8dbee708",
+    "productId": "torobshop-f26fbc6e8dbee708",
+    "name": "قیچی چند منظوره زولینگ آلمان ZWILLING Twin L، 20 سانتی متر، قیچی آشپزخانه برای کاربران راست دست و چپ دست، استیل ضد زنگ، مشکی",
+    "brand": "",
+    "model": "قیچی چند منظوره زولینگ آلمان ZWILLING Twin L، 20 سانتی متر، قیچی آشپزخانه برای کاربران راست دست و چپ دست، استیل ضد زنگ، مشکی",
+    "category": "fashion",
+    "subcategory": "مردانه",
+    "price": 14717000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%82%DB%8C%DA%86%DB%8C-%DA%86%D9%86%D8%AF-%D9%85%D9%86%D8%B8%D9%88%D8%B1%D9%87-ZWILLING-Twin-L-20-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%82%DB%8C%DA%86%DB%8C-%D8%A2%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%A7%D9%86-%D8%B1%D8%A7%D8%B3%D8%AA-%D8%AF%D8%B3%D8%AA-%D9%88-%DA%86%D9%BE-%D8%AF%D8%B3%D8%AA-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T20:50:32.954Z"
   },
   {
     "id": "torobshop-fashion-19319bed3e2f6069",
@@ -6207,7 +6207,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
+    "observedAt": "2026-09-03T20:50:32.954Z"
   },
   {
     "id": "torobshop-fashion-f091c9e920c8e1fb",
@@ -6225,7 +6225,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
+    "observedAt": "2026-09-03T20:50:32.954Z"
   },
   {
     "id": "torobshop-fashion-fbbfc333137fef0f",
@@ -6243,7 +6243,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
+    "observedAt": "2026-09-03T20:50:32.954Z"
   },
   {
     "id": "torobshop-fashion-98b213756a0f63d3",
@@ -6261,7 +6261,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
+    "observedAt": "2026-09-03T20:50:32.954Z"
   },
   {
     "id": "torobshop-fashion-4b3421328c1ce066",
@@ -6279,7 +6279,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
+    "observedAt": "2026-09-03T20:50:32.954Z"
   },
   {
     "id": "torobshop-fashion-c7fa60def079c000",
@@ -6297,7 +6297,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
+    "observedAt": "2026-09-03T20:50:32.954Z"
   },
   {
     "id": "torobshop-fashion-d3f802410104b943",
@@ -6315,7 +6315,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
+    "observedAt": "2026-09-03T20:50:32.955Z"
   },
   {
     "id": "torobshop-fashion-0f347f93a4676672",
@@ -6333,7 +6333,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
+    "observedAt": "2026-09-03T20:50:32.955Z"
   },
   {
     "id": "torobshop-fashion-cb5f45612fc319e4",
@@ -6351,7 +6351,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
+    "observedAt": "2026-09-03T20:50:32.955Z"
   },
   {
     "id": "torobshop-fashion-a447d48449c2d499",
@@ -6369,7 +6369,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
+    "observedAt": "2026-09-03T20:50:32.955Z"
   },
   {
     "id": "torobshop-fashion-71ebfae235e91ed5",
@@ -6387,7 +6387,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
+    "observedAt": "2026-09-03T20:50:32.955Z"
   },
   {
     "id": "torobshop-fashion-51edff8c55bfb262",
@@ -6405,7 +6405,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
+    "observedAt": "2026-09-03T20:50:32.955Z"
   },
   {
     "id": "torobshop-fashion-f99dae95f9641652",
@@ -6423,7 +6423,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
+    "observedAt": "2026-09-03T20:50:32.955Z"
   },
   {
     "id": "torobshop-fashion-6bc05672d0e139cd",
@@ -6441,7 +6441,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
+    "observedAt": "2026-09-03T20:50:32.955Z"
   },
   {
     "id": "torobshop-fashion-6b776fc230756800",
@@ -6459,7 +6459,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
+    "observedAt": "2026-09-03T20:50:32.955Z"
   },
   {
     "id": "torobshop-fashion-640c8324f81a46bb",
@@ -6477,7 +6477,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
+    "observedAt": "2026-09-03T20:50:32.955Z"
   },
   {
     "id": "torobshop-fashion-f2622dc414824191",
@@ -6495,7 +6495,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
+    "observedAt": "2026-09-03T20:50:32.955Z"
   },
   {
     "id": "torobshop-fashion-c54b5b958054a1a2",
@@ -6513,7 +6513,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
+    "observedAt": "2026-09-03T20:50:32.955Z"
   },
   {
     "id": "torobshop-fashion-43b61e0733cc7171",
@@ -6531,7 +6531,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
+    "observedAt": "2026-09-03T20:50:32.955Z"
   },
   {
     "id": "torobshop-fashion-7f66ba1a4f7ddbfb",
@@ -6549,7 +6549,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
+    "observedAt": "2026-09-03T20:50:32.955Z"
   },
   {
     "id": "torobshop-fashion-f699a00edc06f489",
@@ -6567,43 +6567,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
-  },
-  {
-    "id": "torobshop-fashion-af7462ce98ee2999",
-    "productId": "torobshop-af7462ce98ee2999",
-    "name": "اپیلاتور صورت براون فیس اسپا مخصوص بانوان، برس پاکسازی صورت، پد ماساژ، آینه و کیف، رفع موهای زائد و پاکسازی، ضد آب — ۸۵۱ ولت، سفید/برنزی ۳ در ۱ ۸۵۱ ولت",
-    "brand": "",
-    "model": "اپیلاتور صورت براون فیس اسپا مخصوص بانوان، برس پاکسازی صورت، پد ماساژ، آینه و کیف، رفع موهای زائد و پاکسازی، ضد آب — ۸۵۱ ولت، سفید/برنزی ۳ در ۱ ۸۵۱ ولت",
-    "category": "fashion",
-    "subcategory": "مردانه",
-    "price": 25122000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B5%D9%88%D8%B1%D8%AA-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D9%81%DB%8C%D8%B3-%D8%A7%D8%B3%D9%BE%D8%A7-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D8%A8%D8%B1%D8%B3-%D9%BE%D8%A7%DA%A9%D8%B3%D8%A7%D8%B2%DB%8C-%D8%B5%D9%88%D8%B1%D8%AA-%D9%BE%D8%AF-%D9%85%D8%A7%D8%B3%D8%A7%DA%98-%D8%A2%DB%8C%D9%86%D9%87-%D9%88-%DA%A9%DB%8C%D9%81-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D9%88-%D9%BE%D8%A7%DA%A9%D8%B3%D8%A7%D8%B2%DB%8C-%D8%B6%D8%AF-%D8%A2%D8%A8-%DB%B8%DB%B5%DB%B1-%D9%88%D9%84%D8%AA-%D8%B3%D9%81%DB%8C%D8%AF-%D8%A8%D8%B1%D9%86%D8%B2%DB%8C-%DB%B3-%D8%AF%D8%B1-%DB%B1-%DB%B8%DB%B5%DB%B1-%D9%88%D9%84%D8%AA",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
-  },
-  {
-    "id": "torobshop-fashion-a59cff30443c154a",
-    "productId": "torobshop-a59cff30443c154a",
-    "name": "سشوار فیلیپس هلند Philips BHD510/20 فناوری ترموشیلد، عملکرد یونیزاسیون",
-    "brand": "",
-    "model": "سشوار فیلیپس هلند Philips BHD510/20 فناوری ترموشیلد، عملکرد یونیزاسیون",
-    "category": "fashion",
-    "subcategory": "مردانه",
-    "price": 16148000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B4%D9%88%D8%A7%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%B3%D8%B1%DB%8C-5000-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-%D8%AA%D8%B1%D9%85%D9%88%D8%B4%DB%8C%D9%84%D8%AF-%D8%B9%D9%85%D9%84%DA%A9%D8%B1%D8%AF-%DB%8C%D9%88%D9%86%DB%8C%D8%B2%D8%A7%D8%B3%DB%8C%D9%88%D9%86-2300-%D9%88%D8%A7%D8%AA-%D8%A2%D8%A8%DB%8C-%D9%85%D8%AA%D8%A7%D9%84%DB%8C%DA%A9-%D8%A8%D8%A7-%D9%86%D8%A7%D8%B2%D9%84-%D9%87%D8%A7%DB%8C-%D8%AD%D8%A7%D9%84%D8%AA-%D8%AF%D9%87%D9%86%D8%AF%D9%87-9-%D9%88-11-%D9%85%DB%8C%D9%84%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C-%D9%BE%D8%AE%D8%B4-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%AD%D8%AC%D9%85-%D9%85%D9%88-BHD510-20",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
+    "observedAt": "2026-09-03T20:50:32.955Z"
   },
   {
     "id": "torobshop-fashion-a942a79dda5b87df",
@@ -6621,7 +6585,43 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
+    "observedAt": "2026-09-03T20:50:32.955Z"
+  },
+  {
+    "id": "torobshop-fashion-af7462ce98ee2999",
+    "productId": "torobshop-af7462ce98ee2999",
+    "name": "اپیلاتور صورت براون فیس اسپا مخصوص بانوان، برس پاکسازی صورت، پد ماساژ، آینه و کیف، رفع موهای زائد و پاکسازی، ضد آب — ۸۵۱ ولت، سفید/برنزی ۳ در ۱ ۸۵۱ ولت",
+    "brand": "",
+    "model": "اپیلاتور صورت براون فیس اسپا مخصوص بانوان، برس پاکسازی صورت، پد ماساژ، آینه و کیف، رفع موهای زائد و پاکسازی، ضد آب — ۸۵۱ ولت، سفید/برنزی ۳ در ۱ ۸۵۱ ولت",
+    "category": "fashion",
+    "subcategory": "مردانه",
+    "price": 25122000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B5%D9%88%D8%B1%D8%AA-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D9%81%DB%8C%D8%B3-%D8%A7%D8%B3%D9%BE%D8%A7-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D8%A8%D8%B1%D8%B3-%D9%BE%D8%A7%DA%A9%D8%B3%D8%A7%D8%B2%DB%8C-%D8%B5%D9%88%D8%B1%D8%AA-%D9%BE%D8%AF-%D9%85%D8%A7%D8%B3%D8%A7%DA%98-%D8%A2%DB%8C%D9%86%D9%87-%D9%88-%DA%A9%DB%8C%D9%81-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D9%88-%D9%BE%D8%A7%DA%A9%D8%B3%D8%A7%D8%B2%DB%8C-%D8%B6%D8%AF-%D8%A2%D8%A8-%DB%B8%DB%B5%DB%B1-%D9%88%D9%84%D8%AA-%D8%B3%D9%81%DB%8C%D8%AF-%D8%A8%D8%B1%D9%86%D8%B2%DB%8C-%DB%B3-%D8%AF%D8%B1-%DB%B1-%DB%B8%DB%B5%DB%B1-%D9%88%D9%84%D8%AA",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T20:50:32.955Z"
+  },
+  {
+    "id": "torobshop-fashion-a59cff30443c154a",
+    "productId": "torobshop-a59cff30443c154a",
+    "name": "سشوار فیلیپس هلند Philips BHD510/20 فناوری ترموشیلد، عملکرد یونیزاسیون",
+    "brand": "",
+    "model": "سشوار فیلیپس هلند Philips BHD510/20 فناوری ترموشیلد، عملکرد یونیزاسیون",
+    "category": "fashion",
+    "subcategory": "مردانه",
+    "price": 16148000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B4%D9%88%D8%A7%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%B3%D8%B1%DB%8C-5000-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-%D8%AA%D8%B1%D9%85%D9%88%D8%B4%DB%8C%D9%84%D8%AF-%D8%B9%D9%85%D9%84%DA%A9%D8%B1%D8%AF-%DB%8C%D9%88%D9%86%DB%8C%D8%B2%D8%A7%D8%B3%DB%8C%D9%88%D9%86-2300-%D9%88%D8%A7%D8%AA-%D8%A2%D8%A8%DB%8C-%D9%85%D8%AA%D8%A7%D9%84%DB%8C%DA%A9-%D8%A8%D8%A7-%D9%86%D8%A7%D8%B2%D9%84-%D9%87%D8%A7%DB%8C-%D8%AD%D8%A7%D9%84%D8%AA-%D8%AF%D9%87%D9%86%D8%AF%D9%87-9-%D9%88-11-%D9%85%DB%8C%D9%84%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C-%D9%BE%D8%AE%D8%B4-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%AD%D8%AC%D9%85-%D9%85%D9%88-BHD510-20",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T20:50:32.955Z"
   },
   {
     "id": "torobshop-fashion-f6c6e72a28882975",
@@ -6639,7 +6639,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
+    "observedAt": "2026-09-03T20:50:32.955Z"
   },
   {
     "id": "torobshop-fashion-7c82cddc2d9efd1c",
@@ -6657,7 +6657,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
+    "observedAt": "2026-09-03T20:50:32.955Z"
   },
   {
     "id": "torobshop-fashion-e4ec7bd10ffa8b50",
@@ -6675,7 +6675,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
+    "observedAt": "2026-09-03T20:50:32.955Z"
   },
   {
     "id": "torobshop-fashion-7bbb1f19505b28fd",
@@ -6693,7 +6693,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
+    "observedAt": "2026-09-03T20:50:32.955Z"
   },
   {
     "id": "torobshop-fashion-5bc21e4edaa526cc",
@@ -6711,7 +6711,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
+    "observedAt": "2026-09-03T20:50:32.955Z"
   },
   {
     "id": "torobshop-fashion-45d6aa9c3fd53ad4",
@@ -6729,7 +6729,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
+    "observedAt": "2026-09-03T20:50:32.955Z"
   },
   {
     "id": "torobshop-fashion-1abb58c93aa4d049",
@@ -6747,7 +6747,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
+    "observedAt": "2026-09-03T20:50:32.955Z"
   },
   {
     "id": "torobshop-fashion-9d62a66000d436e1",
@@ -6765,7 +6765,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
+    "observedAt": "2026-09-03T20:50:32.955Z"
   },
   {
     "id": "torobshop-fashion-c876f51b5b5d7dae",
@@ -6783,25 +6783,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
-  },
-  {
-    "id": "torobshop-fashion-400b05dca029ee01",
-    "productId": "torobshop-400b05dca029ee01",
-    "name": "اپیلاتور زنانه براون مدل Silk-épil 5، رفع موهای زائد، دارای لوازم جانبی برای اصلاح، ماشین اصلاح و ماساژ، بدن، کیف، 5-625، سفید/خاکستری + 4 لوازم جانبی",
-    "brand": "",
-    "model": "اپیلاتور زنانه براون مدل Silk-épil 5، رفع موهای زائد، دارای لوازم جانبی برای اصلاح، ماشین اصلاح و ماساژ، بدن، کیف، 5-625، سفید/خاکستری + 4 لوازم جانبی",
-    "category": "fashion",
-    "subcategory": "مردانه",
-    "price": 27914000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D9%85%D8%AF%D9%84-Silk-pil-5-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D9%85%D8%A7%D8%B3%D8%A7%DA%98-%D8%A8%D8%AF%D9%86-%DA%A9%DB%8C%D9%81-5-625-%D8%B3%D9%81%DB%8C%D8%AF-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C-4-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
+    "observedAt": "2026-09-03T20:50:32.955Z"
   },
   {
     "id": "torobshop-fashion-27109e9fc58673fd",
@@ -6819,61 +6801,25 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
+    "observedAt": "2026-09-03T20:50:32.955Z"
   },
   {
-    "id": "torobshop-fashion-d6551c8766b38613",
-    "productId": "torobshop-d6551c8766b38613",
-    "name": "دستگاه رفع موهای زائد Philips Lumea IPL سری 9900 مدل BRI950/02 به همراه شیور زنانه BRL149/00 - جایگزین لیزر موهای زائد - 2 سری برای بدن و صورت",
+    "id": "torobshop-fashion-400b05dca029ee01",
+    "productId": "torobshop-400b05dca029ee01",
+    "name": "اپیلاتور زنانه براون مدل Silk-épil 5، رفع موهای زائد، دارای لوازم جانبی برای اصلاح، ماشین اصلاح و ماساژ، بدن، کیف، 5-625، سفید/خاکستری + 4 لوازم جانبی",
     "brand": "",
-    "model": "دستگاه رفع موهای زائد Philips Lumea IPL سری 9900 مدل BRI950/02 به همراه شیور زنانه BRL149/00 - جایگزین لیزر موهای زائد - 2 سری برای بدن و صورت",
+    "model": "اپیلاتور زنانه براون مدل Silk-épil 5، رفع موهای زائد، دارای لوازم جانبی برای اصلاح، ماشین اصلاح و ماساژ، بدن، کیف، 5-625، سفید/خاکستری + 4 لوازم جانبی",
     "category": "fashion",
     "subcategory": "مردانه",
-    "price": 124089000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Philips-Lumea-IPL-%D8%B3%D8%B1%DB%8C-9900-%D9%85%D8%AF%D9%84-BRI950-02-%D8%A8%D9%87-%D9%87%D9%85%D8%B1%D8%A7%D9%87-%D8%B4%DB%8C%D9%88%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-BRL149-00-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D9%84%DB%8C%D8%B2%D8%B1-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-2-%D8%B3%D8%B1%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A8%D8%AF%D9%86-%D9%88-%D8%B5%D9%88%D8%B1%D8%AA",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
-  },
-  {
-    "id": "torobshop-fashion-6c0960e9008fddf6",
-    "productId": "torobshop-6c0960e9008fddf6",
-    "name": "دستگاه رفع موهای زائد Philips Lumea Advanced IPL، مدل BRI921/00، با ۲ سری برای بدن، صورت و ۱ ماشین اصلاح دقیق - سیمی",
-    "brand": "",
-    "model": "دستگاه رفع موهای زائد Philips Lumea Advanced IPL، مدل BRI921/00، با ۲ سری برای بدن، صورت و ۱ ماشین اصلاح دقیق - سیمی",
-    "category": "fashion",
-    "subcategory": "مردانه",
-    "price": 60649000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Philips-Lumea-Advanced-IPL-%D9%85%D8%AF%D9%84-BRI921-00-%D8%A8%D8%A7-%DB%B2-%D8%B3%D8%B1%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A8%D8%AF%D9%86-%D8%B5%D9%88%D8%B1%D8%AA-%D9%88-%DB%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%AF%D9%82%DB%8C%D9%82-%D8%B3%DB%8C%D9%85%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
-  },
-  {
-    "id": "torobshop-fashion-508a955227952a9d",
-    "productId": "torobshop-508a955227952a9d",
-    "name": "اپیلاتور براون سیلک-اپیل ۵ مخصوص خانم‌ها، موبر برای رفع موهای زائد با ماندگاری طولانی، اصلاح بانوان، ضد آب - شامل اصلاح‌کننده بیکینی، سری اصلاح و سری اصلاح - ۵-۲۳۰، سفید/صورتی فلامینگو + اصلاح‌کننده بیکینی",
-    "brand": "",
-    "model": "اپیلاتور براون سیلک-اپیل ۵ مخصوص خانم‌ها، موبر برای رفع موهای زائد با ماندگاری طولانی، اصلاح بانوان، ضد آب - شامل اصلاح‌کننده بیکینی، سری اصلاح و سری اصلاح - ۵-۲۳۰، سفید/صورتی فلامینگو + اصلاح‌کننده بیکینی",
-    "category": "fashion",
-    "subcategory": "مردانه",
-    "price": 29183000,
+    "price": 27914000,
     "currency": "IRT",
     "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B3%DB%8C%D9%84%DA%A9-%D8%A7%D9%BE%DB%8C%D9%84-%DB%B5-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%AE%D8%A7%D9%86%D9%85-%D9%87%D8%A7-%D9%85%D9%88%D8%A8%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%D8%A7-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1%DB%8C-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D8%B6%D8%AF-%D8%A2%D8%A8-%D8%B4%D8%A7%D9%85%D9%84-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%A8%DB%8C%DA%A9%DB%8C%D9%86%DB%8C-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DB%B5-%DB%B2%DB%B3%DB%B0-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B5%D9%88%D8%B1%D8%AA%DB%8C-%D9%81%D9%84%D8%A7%D9%85%DB%8C%D9%86%DA%AF%D9%88-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%A8%DB%8C%DA%A9%DB%8C%D9%86%DB%8C",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D9%85%D8%AF%D9%84-Silk-pil-5-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D9%85%D8%A7%D8%B3%D8%A7%DA%98-%D8%A8%D8%AF%D9%86-%DA%A9%DB%8C%D9%81-5-625-%D8%B3%D9%81%DB%8C%D8%AF-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C-4-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
+    "observedAt": "2026-09-03T20:50:32.955Z"
   },
   {
     "id": "torobshop-fashion-074febbf09bd3065",
@@ -6891,7 +6837,61 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
+    "observedAt": "2026-09-03T20:50:32.955Z"
+  },
+  {
+    "id": "torobshop-fashion-d6551c8766b38613",
+    "productId": "torobshop-d6551c8766b38613",
+    "name": "دستگاه رفع موهای زائد Philips Lumea IPL سری 9900 مدل BRI950/02 به همراه شیور زنانه BRL149/00 - جایگزین لیزر موهای زائد - 2 سری برای بدن و صورت",
+    "brand": "",
+    "model": "دستگاه رفع موهای زائد Philips Lumea IPL سری 9900 مدل BRI950/02 به همراه شیور زنانه BRL149/00 - جایگزین لیزر موهای زائد - 2 سری برای بدن و صورت",
+    "category": "fashion",
+    "subcategory": "مردانه",
+    "price": 124089000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Philips-Lumea-IPL-%D8%B3%D8%B1%DB%8C-9900-%D9%85%D8%AF%D9%84-BRI950-02-%D8%A8%D9%87-%D9%87%D9%85%D8%B1%D8%A7%D9%87-%D8%B4%DB%8C%D9%88%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-BRL149-00-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D9%84%DB%8C%D8%B2%D8%B1-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-2-%D8%B3%D8%B1%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A8%D8%AF%D9%86-%D9%88-%D8%B5%D9%88%D8%B1%D8%AA",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T20:50:32.955Z"
+  },
+  {
+    "id": "torobshop-fashion-6c0960e9008fddf6",
+    "productId": "torobshop-6c0960e9008fddf6",
+    "name": "دستگاه رفع موهای زائد Philips Lumea Advanced IPL، مدل BRI921/00، با ۲ سری برای بدن، صورت و ۱ ماشین اصلاح دقیق - سیمی",
+    "brand": "",
+    "model": "دستگاه رفع موهای زائد Philips Lumea Advanced IPL، مدل BRI921/00، با ۲ سری برای بدن، صورت و ۱ ماشین اصلاح دقیق - سیمی",
+    "category": "fashion",
+    "subcategory": "مردانه",
+    "price": 60649000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Philips-Lumea-Advanced-IPL-%D9%85%D8%AF%D9%84-BRI921-00-%D8%A8%D8%A7-%DB%B2-%D8%B3%D8%B1%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A8%D8%AF%D9%86-%D8%B5%D9%88%D8%B1%D8%AA-%D9%88-%DB%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%AF%D9%82%DB%8C%D9%82-%D8%B3%DB%8C%D9%85%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T20:50:32.955Z"
+  },
+  {
+    "id": "torobshop-fashion-508a955227952a9d",
+    "productId": "torobshop-508a955227952a9d",
+    "name": "اپیلاتور براون سیلک-اپیل ۵ مخصوص خانم‌ها، موبر برای رفع موهای زائد با ماندگاری طولانی، اصلاح بانوان، ضد آب - شامل اصلاح‌کننده بیکینی، سری اصلاح و سری اصلاح - ۵-۲۳۰، سفید/صورتی فلامینگو + اصلاح‌کننده بیکینی",
+    "brand": "",
+    "model": "اپیلاتور براون سیلک-اپیل ۵ مخصوص خانم‌ها، موبر برای رفع موهای زائد با ماندگاری طولانی، اصلاح بانوان، ضد آب - شامل اصلاح‌کننده بیکینی، سری اصلاح و سری اصلاح - ۵-۲۳۰، سفید/صورتی فلامینگو + اصلاح‌کننده بیکینی",
+    "category": "fashion",
+    "subcategory": "مردانه",
+    "price": 29183000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B3%DB%8C%D9%84%DA%A9-%D8%A7%D9%BE%DB%8C%D9%84-%DB%B5-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%AE%D8%A7%D9%86%D9%85-%D9%87%D8%A7-%D9%85%D9%88%D8%A8%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%D8%A7-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1%DB%8C-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D8%B6%D8%AF-%D8%A2%D8%A8-%D8%B4%D8%A7%D9%85%D9%84-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%A8%DB%8C%DA%A9%DB%8C%D9%86%DB%8C-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DB%B5-%DB%B2%DB%B3%DB%B0-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B5%D9%88%D8%B1%D8%AA%DB%8C-%D9%81%D9%84%D8%A7%D9%85%DB%8C%D9%86%DA%AF%D9%88-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%A8%DB%8C%DA%A9%DB%8C%D9%86%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T20:50:32.955Z"
   },
   {
     "id": "torobshop-fashion-766b0f80e67074f9",
@@ -6909,7 +6909,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
+    "observedAt": "2026-09-03T20:50:32.955Z"
   },
   {
     "id": "torobshop-fashion-2cb3b869608c8a13",
@@ -6927,7 +6927,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
+    "observedAt": "2026-09-03T20:50:32.955Z"
   },
   {
     "id": "torobshop-fashion-dc3a8d1c6feb961b",
@@ -6945,7 +6945,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
+    "observedAt": "2026-09-03T20:50:32.955Z"
   },
   {
     "id": "torobshop-fashion-5e70d562a3ef7192",
@@ -6963,7 +6963,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.145Z"
+    "observedAt": "2026-09-03T20:50:32.955Z"
   },
   {
     "id": "torobshop-fashion-967849182031e292",
@@ -6981,25 +6981,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.146Z"
-  },
-  {
-    "id": "torobshop-fashion-6e4a2eb26d23a745",
-    "productId": "torobshop-6e4a2eb26d23a745",
-    "name": "دستگاه رفع موهای زائد Braun IPL Silk Expert Pro 5 برای خانم‌ها/آقایان، ۳ سری، رفع موهای زائد قابل مشاهده، طراحی شده در آلمان، ماشین اصلاح ونوس، جایگزین لیزر موهای زائد، PL5267، سفید/طلایی",
-    "brand": "",
-    "model": "دستگاه رفع موهای زائد Braun IPL Silk Expert Pro 5 برای خانم‌ها/آقایان، ۳ سری، رفع موهای زائد قابل مشاهده، طراحی شده در آلمان، ماشین اصلاح ونوس، جایگزین لیزر موهای زائد، PL5267، سفید/طلایی",
-    "category": "fashion",
-    "subcategory": "مردانه",
-    "price": 99981000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Braun-IPL-Silk-Expert-Pro-5-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AE%D8%A7%D9%86%D9%85-%D9%87%D8%A7-%D8%A2%D9%82%D8%A7%DB%8C%D8%A7%D9%86-%DB%B3-%D8%B3%D8%B1%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D9%82%D8%A7%D8%A8%D9%84-%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D9%87-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B4%D8%AF%D9%87-%D8%AF%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88%D9%86%D9%88%D8%B3-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D9%84%DB%8C%D8%B2%D8%B1-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-PL5267-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.146Z"
+    "observedAt": "2026-09-03T20:50:32.955Z"
   },
   {
     "id": "torobshop-fashion-b6d1e42e39dc67ab",
@@ -7017,43 +6999,25 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.146Z"
+    "observedAt": "2026-09-03T20:50:32.955Z"
   },
   {
-    "id": "torobshop-fashion-2182240d0b4b05fe",
-    "productId": "torobshop-2182240d0b4b05fe",
-    "name": "دستگاه رفع موهای زائد Braun Smart IPL Skin i·expert 7، PL7442، سفید/رزگلد - جایگزین لیزر موهای زائد، رفع دائمی موهای زائد، شامل قاب، تیغ کوچک، تیغ ونوس و 4 ضمیمه سفید/برنزی 4 ضمیمه",
+    "id": "torobshop-fashion-6e4a2eb26d23a745",
+    "productId": "torobshop-6e4a2eb26d23a745",
+    "name": "دستگاه رفع موهای زائد Braun IPL Silk Expert Pro 5 برای خانم‌ها/آقایان، ۳ سری، رفع موهای زائد قابل مشاهده، طراحی شده در آلمان، ماشین اصلاح ونوس، جایگزین لیزر موهای زائد، PL5267، سفید/طلایی",
     "brand": "",
-    "model": "دستگاه رفع موهای زائد Braun Smart IPL Skin i·expert 7، PL7442، سفید/رزگلد - جایگزین لیزر موهای زائد، رفع دائمی موهای زائد، شامل قاب، تیغ کوچک، تیغ ونوس و 4 ضمیمه سفید/برنزی 4 ضمیمه",
+    "model": "دستگاه رفع موهای زائد Braun IPL Silk Expert Pro 5 برای خانم‌ها/آقایان، ۳ سری، رفع موهای زائد قابل مشاهده، طراحی شده در آلمان، ماشین اصلاح ونوس، جایگزین لیزر موهای زائد، PL5267، سفید/طلایی",
     "category": "fashion",
     "subcategory": "مردانه",
-    "price": 160630000,
+    "price": 99981000,
     "currency": "IRT",
     "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Braun-Smart-IPL-Skin-i-expert-7-PL7442-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B1%D8%B2%DA%AF%D9%84%D8%AF-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D9%84%DB%8C%D8%B2%D8%B1-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%B1%D9%81%D8%B9-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%B4%D8%A7%D9%85%D9%84-%D9%82%D8%A7%D8%A8-%D8%AA%DB%8C%D8%BA-%DA%A9%D9%88%DA%86%DA%A9-%D8%AA%DB%8C%D8%BA-%D9%88%D9%86%D9%88%D8%B3-%D9%88-4-%D8%B6%D9%85%DB%8C%D9%85%D9%87-%D8%B3%D9%81%DB%8C%D8%AF-%D8%A8%D8%B1%D9%86%D8%B2%DB%8C-4-%D8%B6%D9%85%DB%8C%D9%85%D9%87",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Braun-IPL-Silk-Expert-Pro-5-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AE%D8%A7%D9%86%D9%85-%D9%87%D8%A7-%D8%A2%D9%82%D8%A7%DB%8C%D8%A7%D9%86-%DB%B3-%D8%B3%D8%B1%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D9%82%D8%A7%D8%A8%D9%84-%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D9%87-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B4%D8%AF%D9%87-%D8%AF%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88%D9%86%D9%88%D8%B3-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D9%84%DB%8C%D8%B2%D8%B1-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-PL5267-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.146Z"
-  },
-  {
-    "id": "torobshop-fashion-8b93c7ea550544bf",
-    "productId": "torobshop-8b93c7ea550544bf",
-    "name": "اپیلاتور زنانه براون مدل Silk·épil 7، سری پهن برای رفع آسان موهای زائد، مناسب برای پوست‌های خشک و مرطوب، پوستی صاف و لطیف با ماندگاری طولانی، اصلاح بانوان، ضد آب — 7-011، نقره‌ای",
-    "brand": "",
-    "model": "اپیلاتور زنانه براون مدل Silk·épil 7، سری پهن برای رفع آسان موهای زائد، مناسب برای پوست‌های خشک و مرطوب، پوستی صاف و لطیف با ماندگاری طولانی، اصلاح بانوان، ضد آب — 7-011، نقره‌ای",
-    "category": "fashion",
-    "subcategory": "مردانه",
-    "price": 28928000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D9%85%D8%AF%D9%84-Silk-pil-7-%D8%B3%D8%B1%DB%8C-%D9%BE%D9%87%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D8%A2%D8%B3%D8%A7%D9%86-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D9%88%D8%B3%D8%AA-%D9%87%D8%A7%DB%8C-%D8%AE%D8%B4%DA%A9-%D9%88-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D9%BE%D9%88%D8%B3%D8%AA%DB%8C-%D8%B5%D8%A7%D9%81-%D9%88-%D9%84%D8%B7%DB%8C%D9%81-%D8%A8%D8%A7-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1%DB%8C-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D8%B6%D8%AF-%D8%A2%D8%A8-7-011-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.146Z"
+    "observedAt": "2026-09-03T20:50:32.955Z"
   },
   {
     "id": "torobshop-fashion-e93d0f8dd3711a93",
@@ -7071,7 +7035,43 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.146Z"
+    "observedAt": "2026-09-03T20:50:32.955Z"
+  },
+  {
+    "id": "torobshop-fashion-2182240d0b4b05fe",
+    "productId": "torobshop-2182240d0b4b05fe",
+    "name": "دستگاه رفع موهای زائد Braun Smart IPL Skin i·expert 7، PL7442، سفید/رزگلد - جایگزین لیزر موهای زائد، رفع دائمی موهای زائد، شامل قاب، تیغ کوچک، تیغ ونوس و 4 ضمیمه سفید/برنزی 4 ضمیمه",
+    "brand": "",
+    "model": "دستگاه رفع موهای زائد Braun Smart IPL Skin i·expert 7، PL7442، سفید/رزگلد - جایگزین لیزر موهای زائد، رفع دائمی موهای زائد، شامل قاب، تیغ کوچک، تیغ ونوس و 4 ضمیمه سفید/برنزی 4 ضمیمه",
+    "category": "fashion",
+    "subcategory": "مردانه",
+    "price": 160630000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Braun-Smart-IPL-Skin-i-expert-7-PL7442-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B1%D8%B2%DA%AF%D9%84%D8%AF-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D9%84%DB%8C%D8%B2%D8%B1-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%B1%D9%81%D8%B9-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%B4%D8%A7%D9%85%D9%84-%D9%82%D8%A7%D8%A8-%D8%AA%DB%8C%D8%BA-%DA%A9%D9%88%DA%86%DA%A9-%D8%AA%DB%8C%D8%BA-%D9%88%D9%86%D9%88%D8%B3-%D9%88-4-%D8%B6%D9%85%DB%8C%D9%85%D9%87-%D8%B3%D9%81%DB%8C%D8%AF-%D8%A8%D8%B1%D9%86%D8%B2%DB%8C-4-%D8%B6%D9%85%DB%8C%D9%85%D9%87",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T20:50:32.955Z"
+  },
+  {
+    "id": "torobshop-fashion-8b93c7ea550544bf",
+    "productId": "torobshop-8b93c7ea550544bf",
+    "name": "اپیلاتور زنانه براون مدل Silk·épil 7، سری پهن برای رفع آسان موهای زائد، مناسب برای پوست‌های خشک و مرطوب، پوستی صاف و لطیف با ماندگاری طولانی، اصلاح بانوان، ضد آب — 7-011، نقره‌ای",
+    "brand": "",
+    "model": "اپیلاتور زنانه براون مدل Silk·épil 7، سری پهن برای رفع آسان موهای زائد، مناسب برای پوست‌های خشک و مرطوب، پوستی صاف و لطیف با ماندگاری طولانی، اصلاح بانوان، ضد آب — 7-011، نقره‌ای",
+    "category": "fashion",
+    "subcategory": "مردانه",
+    "price": 28928000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D9%85%D8%AF%D9%84-Silk-pil-7-%D8%B3%D8%B1%DB%8C-%D9%BE%D9%87%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D8%A2%D8%B3%D8%A7%D9%86-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D9%88%D8%B3%D8%AA-%D9%87%D8%A7%DB%8C-%D8%AE%D8%B4%DA%A9-%D9%88-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D9%BE%D9%88%D8%B3%D8%AA%DB%8C-%D8%B5%D8%A7%D9%81-%D9%88-%D9%84%D8%B7%DB%8C%D9%81-%D8%A8%D8%A7-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1%DB%8C-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D8%B6%D8%AF-%D8%A2%D8%A8-7-011-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T20:50:32.955Z"
   },
   {
     "id": "torobshop-fashion-52384f9bcf5e57ca",
@@ -7089,7 +7089,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.146Z"
+    "observedAt": "2026-09-03T20:50:32.955Z"
   },
   {
     "id": "torobshop-fashion-391c9855ce3adbee",
@@ -7107,7 +7107,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.146Z"
+    "observedAt": "2026-09-03T20:50:32.955Z"
   },
   {
     "id": "torobshop-fashion-7c140bba2434e29a",
@@ -7125,7 +7125,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.146Z"
+    "observedAt": "2026-09-03T20:50:32.955Z"
   },
   {
     "id": "torobshop-fashion-733ef1e66d9b337b",
@@ -7143,7 +7143,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.146Z"
+    "observedAt": "2026-09-03T20:50:32.955Z"
   },
   {
     "id": "torobshop-fashion-80504a6da4da0683",
@@ -7161,43 +7161,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.146Z"
-  },
-  {
-    "id": "torobshop-fashion-9195692751acb6cb",
-    "productId": "torobshop-9195692751acb6cb",
-    "name": "اپیلاتور زنانه براون آلمان Silk-épil 9، مخصوص بانوان با سری چرخان، اصلاح آسان مو، مناسب برای استفاده خشک و مرطوب، ضد آب، شامل ریش‌تراش و اصلاح‌کننده ژیلت ونوس، 9-130، سفید/صورتی",
-    "brand": "",
-    "model": "اپیلاتور زنانه براون آلمان Silk-épil 9، مخصوص بانوان با سری چرخان، اصلاح آسان مو، مناسب برای استفاده خشک و مرطوب، ضد آب، شامل ریش‌تراش و اصلاح‌کننده ژیلت ونوس، 9-130، سفید/صورتی",
-    "category": "fashion",
-    "subcategory": "مردانه",
-    "price": 47706000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D9%85%D8%AF%D9%84-Silk-pil-9-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D8%A8%D8%A7-%D8%B3%D8%B1%DB%8C-%DA%86%D8%B1%D8%AE%D8%A7%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%A2%D8%B3%D8%A7%D9%86-%D9%85%D9%88-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AE%D8%B4%DA%A9-%D9%88-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D8%B6%D8%AF-%D8%A2%D8%A8-%D8%B4%D8%A7%D9%85%D9%84-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D9%88-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%DA%98%DB%8C%D9%84%D8%AA-%D9%88%D9%86%D9%88%D8%B3-9-130-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B5%D9%88%D8%B1%D8%AA%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.146Z"
-  },
-  {
-    "id": "torobshop-fashion-6ba05ec79330884d",
-    "productId": "torobshop-6ba05ec79330884d",
-    "name": "اپیلاتور زنانه براون آلمان Braun Silk-épil 9، موبر با سر چرخان، رفع موهای زائد با ماندگاری طولانی، پوستی ابریشمی و نرم، مرطوب و خشک، ضد آب، دارای قاب، ساخت آلمان، 9-011، سفید/نقره‌ای",
-    "brand": "",
-    "model": "اپیلاتور زنانه براون آلمان Braun Silk-épil 9، موبر با سر چرخان، رفع موهای زائد با ماندگاری طولانی، پوستی ابریشمی و نرم، مرطوب و خشک، ضد آب، دارای قاب، ساخت آلمان، 9-011، سفید/نقره‌ای",
-    "category": "fashion",
-    "subcategory": "مردانه",
-    "price": 34257000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-Braun-Silk-pil-9-%D9%85%D9%88%D8%A8%D8%B1-%D8%A8%D8%A7-%D8%B3%D8%B1-%DA%86%D8%B1%D8%AE%D8%A7%D9%86-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%D8%A7-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1%DB%8C-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%D9%BE%D9%88%D8%B3%D8%AA%DB%8C-%D8%A7%D8%A8%D8%B1%DB%8C%D8%B4%D9%85%DB%8C-%D9%88-%D9%86%D8%B1%D9%85-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D9%88-%D8%AE%D8%B4%DA%A9-%D8%B6%D8%AF-%D8%A2%D8%A8-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C-%D9%82%D8%A7%D8%A8-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-9-011-%D8%B3%D9%81%DB%8C%D8%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.146Z"
+    "observedAt": "2026-09-03T20:50:32.955Z"
   },
   {
     "id": "torobshop-fashion-f0ab07848df05c09",
@@ -7215,7 +7179,43 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.146Z"
+    "observedAt": "2026-09-03T20:50:32.955Z"
+  },
+  {
+    "id": "torobshop-fashion-9195692751acb6cb",
+    "productId": "torobshop-9195692751acb6cb",
+    "name": "اپیلاتور زنانه براون آلمان Silk-épil 9، مخصوص بانوان با سری چرخان، اصلاح آسان مو، مناسب برای استفاده خشک و مرطوب، ضد آب، شامل ریش‌تراش و اصلاح‌کننده ژیلت ونوس، 9-130، سفید/صورتی",
+    "brand": "",
+    "model": "اپیلاتور زنانه براون آلمان Silk-épil 9، مخصوص بانوان با سری چرخان، اصلاح آسان مو، مناسب برای استفاده خشک و مرطوب، ضد آب، شامل ریش‌تراش و اصلاح‌کننده ژیلت ونوس، 9-130، سفید/صورتی",
+    "category": "fashion",
+    "subcategory": "مردانه",
+    "price": 47706000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D9%85%D8%AF%D9%84-Silk-pil-9-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D8%A8%D8%A7-%D8%B3%D8%B1%DB%8C-%DA%86%D8%B1%D8%AE%D8%A7%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%A2%D8%B3%D8%A7%D9%86-%D9%85%D9%88-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AE%D8%B4%DA%A9-%D9%88-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D8%B6%D8%AF-%D8%A2%D8%A8-%D8%B4%D8%A7%D9%85%D9%84-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D9%88-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%DA%98%DB%8C%D9%84%D8%AA-%D9%88%D9%86%D9%88%D8%B3-9-130-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B5%D9%88%D8%B1%D8%AA%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T20:50:32.955Z"
+  },
+  {
+    "id": "torobshop-fashion-6ba05ec79330884d",
+    "productId": "torobshop-6ba05ec79330884d",
+    "name": "اپیلاتور زنانه براون آلمان Braun Silk-épil 9، موبر با سر چرخان، رفع موهای زائد با ماندگاری طولانی، پوستی ابریشمی و نرم، مرطوب و خشک، ضد آب، دارای قاب، ساخت آلمان، 9-011، سفید/نقره‌ای",
+    "brand": "",
+    "model": "اپیلاتور زنانه براون آلمان Braun Silk-épil 9، موبر با سر چرخان، رفع موهای زائد با ماندگاری طولانی، پوستی ابریشمی و نرم، مرطوب و خشک، ضد آب، دارای قاب، ساخت آلمان، 9-011، سفید/نقره‌ای",
+    "category": "fashion",
+    "subcategory": "مردانه",
+    "price": 34257000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-Braun-Silk-pil-9-%D9%85%D9%88%D8%A8%D8%B1-%D8%A8%D8%A7-%D8%B3%D8%B1-%DA%86%D8%B1%D8%AE%D8%A7%D9%86-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%D8%A7-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1%DB%8C-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%D9%BE%D9%88%D8%B3%D8%AA%DB%8C-%D8%A7%D8%A8%D8%B1%DB%8C%D8%B4%D9%85%DB%8C-%D9%88-%D9%86%D8%B1%D9%85-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D9%88-%D8%AE%D8%B4%DA%A9-%D8%B6%D8%AF-%D8%A2%D8%A8-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C-%D9%82%D8%A7%D8%A8-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-9-011-%D8%B3%D9%81%DB%8C%D8%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T20:50:32.955Z"
   },
   {
     "id": "torobshop-fashion-e364f422cc177d5d",
@@ -7233,7 +7233,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.146Z"
+    "observedAt": "2026-09-03T20:50:32.956Z"
   },
   {
     "id": "torobshop-fashion-f7e7ecdbe9c782b9",
@@ -7251,25 +7251,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.146Z"
-  },
-  {
-    "id": "torobshop-fashion-b6f7b97e0a41fcce",
-    "productId": "torobshop-b6f7b97e0a41fcce",
-    "name": "دستگاه اپیلاتور سیمی فیلیپس سری 2000 مدل BRE229/00 مشکی",
-    "brand": "",
-    "model": "دستگاه اپیلاتور سیمی فیلیپس سری 2000 مدل BRE229/00 مشکی",
-    "category": "fashion",
-    "subcategory": "مردانه",
-    "price": 15479000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B3%DB%8C%D9%85%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%B3%D8%B1%DB%8C-2000-%D9%85%D8%AF%D9%84-BRE229-00-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.146Z"
+    "observedAt": "2026-09-03T20:50:32.956Z"
   },
   {
     "id": "torobshop-fashion-7f7cef16b95ceef4",
@@ -7287,7 +7269,25 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.146Z"
+    "observedAt": "2026-09-03T20:50:32.956Z"
+  },
+  {
+    "id": "torobshop-fashion-b6f7b97e0a41fcce",
+    "productId": "torobshop-b6f7b97e0a41fcce",
+    "name": "دستگاه اپیلاتور سیمی فیلیپس سری 2000 مدل BRE229/00 مشکی",
+    "brand": "",
+    "model": "دستگاه اپیلاتور سیمی فیلیپس سری 2000 مدل BRE229/00 مشکی",
+    "category": "fashion",
+    "subcategory": "مردانه",
+    "price": 15479000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B3%DB%8C%D9%85%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%B3%D8%B1%DB%8C-2000-%D9%85%D8%AF%D9%84-BRE229-00-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T20:50:32.956Z"
   },
   {
     "id": "torobshop-fashion-d5e3206967150e5a",
@@ -7305,7 +7305,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.146Z"
+    "observedAt": "2026-09-03T20:50:32.956Z"
   },
   {
     "id": "torobshop-fashion-1abc4d3d93984fc9",
@@ -7323,7 +7323,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.146Z"
+    "observedAt": "2026-09-03T20:50:32.956Z"
   },
   {
     "id": "torobshop-fashion-fb66328b02aeada9",
@@ -7341,7 +7341,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.146Z"
+    "observedAt": "2026-09-03T20:50:32.956Z"
   },
   {
     "id": "torobshop-fashion-333eed5c812fb391",
@@ -7359,43 +7359,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.146Z"
-  },
-  {
-    "id": "torobshop-fashion-2a6259b902f04fb9",
-    "productId": "torobshop-2a6259b902f04fb9",
-    "name": "سشوار فیلیپس درای‌کر پرو با موتور قدرتمند AC (مدل BHD272/00)",
-    "brand": "",
-    "model": "سشوار فیلیپس درای‌کر پرو با موتور قدرتمند AC (مدل BHD272/00)",
-    "category": "fashion",
-    "subcategory": "مردانه",
-    "price": 14210000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B4%D9%88%D8%A7%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%AF%D8%B1%D8%A7%DB%8C-%DA%A9%D8%B1-%D9%BE%D8%B1%D9%88-%D8%A8%D8%A7-%D9%85%D9%88%D8%AA%D9%88%D8%B1-%D9%82%D8%AF%D8%B1%D8%AA%D9%85%D9%86%D8%AF-AC-%D9%85%D8%AF%D9%84-BHD272-00",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.146Z"
-  },
-  {
-    "id": "torobshop-fashion-4b1136653b8c3865",
-    "productId": "torobshop-4b1136653b8c3865",
-    "name": "دستگاه لیزر بدن بانوان براون آلمان رفع موهای زائد، Silk·expert Pro 3، PL3230، سفید/نقره‌ای، لیزر جایگزین برای رفع موهای زائد خانگی، رفع دائمی موهای زائد، شامل قاب و 3 قطعه جانبی",
-    "brand": "",
-    "model": "دستگاه لیزر بدن بانوان براون آلمان رفع موهای زائد، Silk·expert Pro 3، PL3230، سفید/نقره‌ای، لیزر جایگزین برای رفع موهای زائد خانگی، رفع دائمی موهای زائد، شامل قاب و 3 قطعه جانبی",
-    "category": "fashion",
-    "subcategory": "مردانه",
-    "price": 79935000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-IPL-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Silk-expert-Pro-3-PL3230-%D8%B3%D9%81%DB%8C%D8%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C-%D9%84%DB%8C%D8%B2%D8%B1-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C-%D8%B1%D9%81%D8%B9-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%B4%D8%A7%D9%85%D9%84-%D9%82%D8%A7%D8%A8-%D9%88-3-%D9%82%D8%B7%D8%B9%D9%87-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.146Z"
+    "observedAt": "2026-09-03T20:50:32.956Z"
   },
   {
     "id": "torobshop-fashion-45f8a3eeff0791c7",
@@ -7413,79 +7377,43 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.146Z"
+    "observedAt": "2026-09-03T20:50:32.956Z"
   },
   {
-    "id": "torobshop-fashion-bff623028ca50588",
-    "productId": "torobshop-bff623028ca50588",
-    "name": "ریش‌تراش برقی بی‌سیم فیلیپس سری لیدی شیور ۸۰۰۰، مناسب برای اصلاح صورت خشک و تر، سر اصلاح انعطاف‌پذیر با ۳ تیغه، چراغ LED برای پاها و بدن، زمان کارکرد ۱۰۰ دقیقه، مدل BRL129/00",
+    "id": "torobshop-fashion-2a6259b902f04fb9",
+    "productId": "torobshop-2a6259b902f04fb9",
+    "name": "سشوار فیلیپس درای‌کر پرو با موتور قدرتمند AC (مدل BHD272/00)",
     "brand": "",
-    "model": "ریش‌تراش برقی بی‌سیم فیلیپس سری لیدی شیور ۸۰۰۰، مناسب برای اصلاح صورت خشک و تر، سر اصلاح انعطاف‌پذیر با ۳ تیغه، چراغ LED برای پاها و بدن، زمان کارکرد ۱۰۰ دقیقه، مدل BRL129/00",
+    "model": "سشوار فیلیپس درای‌کر پرو با موتور قدرتمند AC (مدل BHD272/00)",
     "category": "fashion",
     "subcategory": "مردانه",
-    "price": 19539000,
+    "price": 14210000,
     "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D8%A8%D8%B1%D9%82%DB%8C-%D8%A8%DB%8C-%D8%B3%DB%8C%D9%85-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%B3%D8%B1%DB%8C-%D9%84%DB%8C%D8%AF%DB%8C-%D8%B4%DB%8C%D9%88%D8%B1-%DB%B8%DB%B0%DB%B0%DB%B0-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%B5%D9%88%D8%B1%D8%AA-%D8%AE%D8%B4%DA%A9-%D9%88-%D8%AA%D8%B1-%D8%B3%D8%B1-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%A7%D9%86%D8%B9%D8%B7%D8%A7%D9%81-%D9%BE%D8%B0%DB%8C%D8%B1-%D8%A8%D8%A7-%DB%B3-%D8%AA%DB%8C%D8%BA%D9%87-%DA%86%D8%B1%D8%A7%D8%BA-LED-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D8%A7%D9%87%D8%A7-%D9%88-%D8%A8%D8%AF%D9%86-%D8%B2%D9%85%D8%A7%D9%86-%DA%A9%D8%A7%D8%B1%DA%A9%D8%B1%D8%AF-%DB%B1%DB%B0%DB%B0-%D8%AF%D9%82%DB%8C%D9%82%D9%87-%D9%85%D8%AF%D9%84-BRL129-00",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B4%D9%88%D8%A7%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%AF%D8%B1%D8%A7%DB%8C-%DA%A9%D8%B1-%D9%BE%D8%B1%D9%88-%D8%A8%D8%A7-%D9%85%D9%88%D8%AA%D9%88%D8%B1-%D9%82%D8%AF%D8%B1%D8%AA%D9%85%D9%86%D8%AF-AC-%D9%85%D8%AF%D9%84-BHD272-00",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.146Z"
+    "observedAt": "2026-09-03T20:50:32.956Z"
   },
   {
-    "id": "torobshop-fashion-3fe480d61f801988",
-    "productId": "torobshop-3fe480d61f801988",
-    "name": "اپیلاتور زنانه براون آلمان Braun Silk·épil 9 SkinSpa، مجموعه همه کاره، سر چرخان، رفع موهای زائد خشک و مرطوب، ضد آب، شامل برس لایه بردار، پد ماساژ، تیغ، ماشین اصلاح، ماشین اصلاح صورت، 9-381، نقره ای",
+    "id": "torobshop-fashion-4b1136653b8c3865",
+    "productId": "torobshop-4b1136653b8c3865",
+    "name": "دستگاه لیزر بدن بانوان براون آلمان رفع موهای زائد، Silk·expert Pro 3، PL3230، سفید/نقره‌ای، لیزر جایگزین برای رفع موهای زائد خانگی، رفع دائمی موهای زائد، شامل قاب و 3 قطعه جانبی",
     "brand": "",
-    "model": "اپیلاتور زنانه براون آلمان Braun Silk·épil 9 SkinSpa، مجموعه همه کاره، سر چرخان، رفع موهای زائد خشک و مرطوب، ضد آب، شامل برس لایه بردار، پد ماساژ، تیغ، ماشین اصلاح، ماشین اصلاح صورت، 9-381، نقره ای",
+    "model": "دستگاه لیزر بدن بانوان براون آلمان رفع موهای زائد، Silk·expert Pro 3، PL3230، سفید/نقره‌ای، لیزر جایگزین برای رفع موهای زائد خانگی، رفع دائمی موهای زائد، شامل قاب و 3 قطعه جانبی",
     "category": "fashion",
     "subcategory": "مردانه",
-    "price": 71053000,
+    "price": 79935000,
     "currency": "IRT",
     "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-Braun-Silk-pil-9-SkinSpa-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D9%87%D9%85%D9%87-%DA%A9%D8%A7%D8%B1%D9%87-%D8%B3%D8%B1-%DA%86%D8%B1%D8%AE%D8%A7%D9%86-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AE%D8%B4%DA%A9-%D9%88-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D8%B6%D8%AF-%D8%A2%D8%A8-%D8%B4%D8%A7%D9%85%D9%84-%D8%A8%D8%B1%D8%B3-%D9%84%D8%A7%DB%8C%D9%87-%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1-%D9%BE%D8%AF-%D9%85%D8%A7%D8%B3%D8%A7%DA%98-%D8%AA%DB%8C%D8%BA-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%B5%D9%88%D8%B1%D8%AA-9-381-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-IPL-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Silk-expert-Pro-3-PL3230-%D8%B3%D9%81%DB%8C%D8%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C-%D9%84%DB%8C%D8%B2%D8%B1-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C-%D8%B1%D9%81%D8%B9-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%B4%D8%A7%D9%85%D9%84-%D9%82%D8%A7%D8%A8-%D9%88-3-%D9%82%D8%B7%D8%B9%D9%87-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.146Z"
-  },
-  {
-    "id": "torobshop-fashion-ef59c7447c918481",
-    "productId": "torobshop-ef59c7447c918481",
-    "name": "اپیلاتور زنانه براون آلمان Braun Silk·épil 9 SkinSpa، مجموعه همه کاره، سر چرخان برای رفع موهای زائد مرطوب و خشک، ضد آب، شامل برس لایه بردار، پد ماساژ، سری اصلاح، سری اصلاح - 9-080، نقره ای",
-    "brand": "",
-    "model": "اپیلاتور زنانه براون آلمان Braun Silk·épil 9 SkinSpa، مجموعه همه کاره، سر چرخان برای رفع موهای زائد مرطوب و خشک، ضد آب، شامل برس لایه بردار، پد ماساژ، سری اصلاح، سری اصلاح - 9-080، نقره ای",
-    "category": "fashion",
-    "subcategory": "مردانه",
-    "price": 46185000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-Braun-Silk-pil-9-SkinSpa-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D9%87%D9%85%D9%87-%DA%A9%D8%A7%D8%B1%D9%87-%D8%B3%D8%B1-%DA%86%D8%B1%D8%AE%D8%A7%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D9%88-%D8%AE%D8%B4%DA%A9-%D8%B6%D8%AF-%D8%A2%D8%A8-%D8%B4%D8%A7%D9%85%D9%84-%D8%A8%D8%B1%D8%B3-%D9%84%D8%A7%DB%8C%D9%87-%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1-%D9%BE%D8%AF-%D9%85%D8%A7%D8%B3%D8%A7%DA%98-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-9-080-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.146Z"
-  },
-  {
-    "id": "torobshop-fashion-ec0c6101e09fd316",
-    "productId": "torobshop-ec0c6101e09fd316",
-    "name": "اپیلاتور زنانه براون آلمان سیلک-اپیل ۵، اپیلاتور/موبر زنانه، لوازم جانبی برای تیغ، لایه برداری، تمیز کردن صورت و بدن، کیف، ۵-۸۹۵، سفید/فلامینگو",
-    "brand": "",
-    "model": "اپیلاتور زنانه براون آلمان سیلک-اپیل ۵، اپیلاتور/موبر زنانه، لوازم جانبی برای تیغ، لایه برداری، تمیز کردن صورت و بدن، کیف، ۵-۸۹۵، سفید/فلامینگو",
-    "category": "fashion",
-    "subcategory": "مردانه",
-    "price": 35780000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%AA-%D8%B2%DB%8C%D8%A8%D8%A7%DB%8C%DB%8C-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B3%DB%8C%D9%84%DA%A9-%D8%A7%D9%BE%DB%8C%D9%84-%DB%B5-%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D9%85%D9%88%D8%A8%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%DB%8C%D8%BA-%D9%84%D8%A7%DB%8C%D9%87-%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C-%D8%AA%D9%85%DB%8C%D8%B2-%DA%A9%D8%B1%D8%AF%D9%86-%D8%B5%D9%88%D8%B1%D8%AA-%D9%88-%D8%A8%D8%AF%D9%86-%DA%A9%DB%8C%D9%81-%DB%B5-%DB%B8%DB%B9%DB%B5-%D8%B3%D9%81%DB%8C%D8%AF-%D9%81%D9%84%D8%A7%D9%85%DB%8C%D9%86%DA%AF%D9%88",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.146Z"
+    "observedAt": "2026-09-03T20:50:32.956Z"
   },
   {
     "id": "torobshop-fashion-591d2fa02319cbe4",
@@ -7503,7 +7431,79 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.146Z"
+    "observedAt": "2026-09-03T20:50:32.956Z"
+  },
+  {
+    "id": "torobshop-fashion-bff623028ca50588",
+    "productId": "torobshop-bff623028ca50588",
+    "name": "ریش‌تراش برقی بی‌سیم فیلیپس سری لیدی شیور ۸۰۰۰، مناسب برای اصلاح صورت خشک و تر، سر اصلاح انعطاف‌پذیر با ۳ تیغه، چراغ LED برای پاها و بدن، زمان کارکرد ۱۰۰ دقیقه، مدل BRL129/00",
+    "brand": "",
+    "model": "ریش‌تراش برقی بی‌سیم فیلیپس سری لیدی شیور ۸۰۰۰، مناسب برای اصلاح صورت خشک و تر، سر اصلاح انعطاف‌پذیر با ۳ تیغه، چراغ LED برای پاها و بدن، زمان کارکرد ۱۰۰ دقیقه، مدل BRL129/00",
+    "category": "fashion",
+    "subcategory": "مردانه",
+    "price": 19539000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D8%A8%D8%B1%D9%82%DB%8C-%D8%A8%DB%8C-%D8%B3%DB%8C%D9%85-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%B3%D8%B1%DB%8C-%D9%84%DB%8C%D8%AF%DB%8C-%D8%B4%DB%8C%D9%88%D8%B1-%DB%B8%DB%B0%DB%B0%DB%B0-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%B5%D9%88%D8%B1%D8%AA-%D8%AE%D8%B4%DA%A9-%D9%88-%D8%AA%D8%B1-%D8%B3%D8%B1-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%A7%D9%86%D8%B9%D8%B7%D8%A7%D9%81-%D9%BE%D8%B0%DB%8C%D8%B1-%D8%A8%D8%A7-%DB%B3-%D8%AA%DB%8C%D8%BA%D9%87-%DA%86%D8%B1%D8%A7%D8%BA-LED-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D8%A7%D9%87%D8%A7-%D9%88-%D8%A8%D8%AF%D9%86-%D8%B2%D9%85%D8%A7%D9%86-%DA%A9%D8%A7%D8%B1%DA%A9%D8%B1%D8%AF-%DB%B1%DB%B0%DB%B0-%D8%AF%D9%82%DB%8C%D9%82%D9%87-%D9%85%D8%AF%D9%84-BRL129-00",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T20:50:32.956Z"
+  },
+  {
+    "id": "torobshop-fashion-3fe480d61f801988",
+    "productId": "torobshop-3fe480d61f801988",
+    "name": "اپیلاتور زنانه براون آلمان Braun Silk·épil 9 SkinSpa، مجموعه همه کاره، سر چرخان، رفع موهای زائد خشک و مرطوب، ضد آب، شامل برس لایه بردار، پد ماساژ، تیغ، ماشین اصلاح، ماشین اصلاح صورت، 9-381، نقره ای",
+    "brand": "",
+    "model": "اپیلاتور زنانه براون آلمان Braun Silk·épil 9 SkinSpa، مجموعه همه کاره، سر چرخان، رفع موهای زائد خشک و مرطوب، ضد آب، شامل برس لایه بردار، پد ماساژ، تیغ، ماشین اصلاح، ماشین اصلاح صورت، 9-381، نقره ای",
+    "category": "fashion",
+    "subcategory": "مردانه",
+    "price": 71053000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-Braun-Silk-pil-9-SkinSpa-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D9%87%D9%85%D9%87-%DA%A9%D8%A7%D8%B1%D9%87-%D8%B3%D8%B1-%DA%86%D8%B1%D8%AE%D8%A7%D9%86-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AE%D8%B4%DA%A9-%D9%88-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D8%B6%D8%AF-%D8%A2%D8%A8-%D8%B4%D8%A7%D9%85%D9%84-%D8%A8%D8%B1%D8%B3-%D9%84%D8%A7%DB%8C%D9%87-%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1-%D9%BE%D8%AF-%D9%85%D8%A7%D8%B3%D8%A7%DA%98-%D8%AA%DB%8C%D8%BA-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%B5%D9%88%D8%B1%D8%AA-9-381-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T20:50:32.956Z"
+  },
+  {
+    "id": "torobshop-fashion-ef59c7447c918481",
+    "productId": "torobshop-ef59c7447c918481",
+    "name": "اپیلاتور زنانه براون آلمان Braun Silk·épil 9 SkinSpa، مجموعه همه کاره، سر چرخان برای رفع موهای زائد مرطوب و خشک، ضد آب، شامل برس لایه بردار، پد ماساژ، سری اصلاح، سری اصلاح - 9-080، نقره ای",
+    "brand": "",
+    "model": "اپیلاتور زنانه براون آلمان Braun Silk·épil 9 SkinSpa، مجموعه همه کاره، سر چرخان برای رفع موهای زائد مرطوب و خشک، ضد آب، شامل برس لایه بردار، پد ماساژ، سری اصلاح، سری اصلاح - 9-080، نقره ای",
+    "category": "fashion",
+    "subcategory": "مردانه",
+    "price": 46185000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-Braun-Silk-pil-9-SkinSpa-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D9%87%D9%85%D9%87-%DA%A9%D8%A7%D8%B1%D9%87-%D8%B3%D8%B1-%DA%86%D8%B1%D8%AE%D8%A7%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D9%88-%D8%AE%D8%B4%DA%A9-%D8%B6%D8%AF-%D8%A2%D8%A8-%D8%B4%D8%A7%D9%85%D9%84-%D8%A8%D8%B1%D8%B3-%D9%84%D8%A7%DB%8C%D9%87-%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1-%D9%BE%D8%AF-%D9%85%D8%A7%D8%B3%D8%A7%DA%98-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-9-080-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T20:50:32.956Z"
+  },
+  {
+    "id": "torobshop-fashion-ec0c6101e09fd316",
+    "productId": "torobshop-ec0c6101e09fd316",
+    "name": "اپیلاتور زنانه براون آلمان سیلک-اپیل ۵، اپیلاتور/موبر زنانه، لوازم جانبی برای تیغ، لایه برداری، تمیز کردن صورت و بدن، کیف، ۵-۸۹۵، سفید/فلامینگو",
+    "brand": "",
+    "model": "اپیلاتور زنانه براون آلمان سیلک-اپیل ۵، اپیلاتور/موبر زنانه، لوازم جانبی برای تیغ، لایه برداری، تمیز کردن صورت و بدن، کیف، ۵-۸۹۵، سفید/فلامینگو",
+    "category": "fashion",
+    "subcategory": "مردانه",
+    "price": 35780000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%AA-%D8%B2%DB%8C%D8%A8%D8%A7%DB%8C%DB%8C-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B3%DB%8C%D9%84%DA%A9-%D8%A7%D9%BE%DB%8C%D9%84-%DB%B5-%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D9%85%D9%88%D8%A8%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%DB%8C%D8%BA-%D9%84%D8%A7%DB%8C%D9%87-%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C-%D8%AA%D9%85%DB%8C%D8%B2-%DA%A9%D8%B1%D8%AF%D9%86-%D8%B5%D9%88%D8%B1%D8%AA-%D9%88-%D8%A8%D8%AF%D9%86-%DA%A9%DB%8C%D9%81-%DB%B5-%DB%B8%DB%B9%DB%B5-%D8%B3%D9%81%DB%8C%D8%AF-%D9%81%D9%84%D8%A7%D9%85%DB%8C%D9%86%DA%AF%D9%88",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T20:50:32.956Z"
   },
   {
     "id": "torobshop-fashion-99dbc61e2d2488d7",
@@ -7521,7 +7521,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.146Z"
+    "observedAt": "2026-09-03T20:50:32.956Z"
   },
   {
     "id": "torobshop-fashion-091330dc970a0bbe",
@@ -7539,7 +7539,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.146Z"
+    "observedAt": "2026-09-03T20:50:32.956Z"
   },
   {
     "id": "torobshop-fashion-9c53c942a980e1d6",
@@ -7557,7 +7557,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.146Z"
+    "observedAt": "2026-09-03T20:50:32.956Z"
   },
   {
     "id": "torobshop-fashion-69bba0d6d694a47d",
@@ -7575,7 +7575,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.146Z"
+    "observedAt": "2026-09-03T20:50:32.956Z"
   },
   {
     "id": "torobshop-fashion-20c5a20079487b1a",
@@ -7593,7 +7593,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.146Z"
+    "observedAt": "2026-09-03T20:50:32.956Z"
   },
   {
     "id": "torobshop-fashion-acc19b901c8b2ad8",
@@ -7611,7 +7611,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.146Z"
+    "observedAt": "2026-09-03T20:50:32.956Z"
   },
   {
     "id": "torobshop-fashion-74fc37b5d70bd7c1",
@@ -7629,43 +7629,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.146Z"
-  },
-  {
-    "id": "torobshop-fashion-215471b6024642b7",
-    "productId": "torobshop-215471b6024642b7",
-    "name": "دستگاه لیزر بدن بانوان براون آلمان رفع موهای زائد، Silk·expert Pro 5، PL5382، سفید/طلایی - لیزر جایگزین موهای زائد خانگی، رفع دائمی موهای زائد، شامل قاب، تیغ ونوس و 3 وسیله جانبی",
-    "brand": "",
-    "model": "دستگاه لیزر بدن بانوان براون آلمان رفع موهای زائد، Silk·expert Pro 5، PL5382، سفید/طلایی - لیزر جایگزین موهای زائد خانگی، رفع دائمی موهای زائد، شامل قاب، تیغ ونوس و 3 وسیله جانبی",
-    "category": "fashion",
-    "subcategory": "مردانه",
-    "price": 115462000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-IPL-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Silk-expert-Pro-5-PL5382-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C-%D9%84%DB%8C%D8%B2%D8%B1-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C-%D8%B1%D9%81%D8%B9-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%B4%D8%A7%D9%85%D9%84-%D9%82%D8%A7%D8%A8-%D8%AA%DB%8C%D8%BA-%D9%88%D9%86%D9%88%D8%B3-%D9%88-3-%D9%88%D8%B3%DB%8C%D9%84%D9%87-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.146Z"
-  },
-  {
-    "id": "torobshop-fashion-ac9daafe2ea5d5bc",
-    "productId": "torobshop-ac9daafe2ea5d5bc",
-    "name": "دستگاه لیزر بدن بانوان براون آلمان Braun IPL Silk Expert Pro 3، دارای ۲ سری، رفع موهای زائد قابل مشاهده، طراحی شده در آلمان، رفع موهای زائد صورت، جایگزین لیزر موهای زائد، PL3139، سفید/نقره‌ای",
-    "brand": "",
-    "model": "دستگاه لیزر بدن بانوان براون آلمان Braun IPL Silk Expert Pro 3، دارای ۲ سری، رفع موهای زائد قابل مشاهده، طراحی شده در آلمان، رفع موهای زائد صورت، جایگزین لیزر موهای زائد، PL3139، سفید/نقره‌ای",
-    "category": "fashion",
-    "subcategory": "مردانه",
-    "price": 90339000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%B2%D9%86%D8%A7%D9%86%D9%87-Braun-IPL-Silk-Expert-Pro-3-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C-%DB%B2-%D8%B3%D8%B1%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D9%82%D8%A7%D8%A8%D9%84-%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D9%87-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B4%D8%AF%D9%87-%D8%AF%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%B5%D9%88%D8%B1%D8%AA-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D9%84%DB%8C%D8%B2%D8%B1-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-PL3139-%D8%B3%D9%81%DB%8C%D8%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.146Z"
+    "observedAt": "2026-09-03T20:50:32.956Z"
   },
   {
     "id": "torobshop-fashion-01be123cfbff3d67",
@@ -7683,7 +7647,43 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.146Z"
+    "observedAt": "2026-09-03T20:50:32.956Z"
+  },
+  {
+    "id": "torobshop-fashion-215471b6024642b7",
+    "productId": "torobshop-215471b6024642b7",
+    "name": "دستگاه لیزر بدن بانوان براون آلمان رفع موهای زائد، Silk·expert Pro 5، PL5382، سفید/طلایی - لیزر جایگزین موهای زائد خانگی، رفع دائمی موهای زائد، شامل قاب، تیغ ونوس و 3 وسیله جانبی",
+    "brand": "",
+    "model": "دستگاه لیزر بدن بانوان براون آلمان رفع موهای زائد، Silk·expert Pro 5، PL5382، سفید/طلایی - لیزر جایگزین موهای زائد خانگی، رفع دائمی موهای زائد، شامل قاب، تیغ ونوس و 3 وسیله جانبی",
+    "category": "fashion",
+    "subcategory": "مردانه",
+    "price": 115462000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-IPL-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Silk-expert-Pro-5-PL5382-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C-%D9%84%DB%8C%D8%B2%D8%B1-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C-%D8%B1%D9%81%D8%B9-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%B4%D8%A7%D9%85%D9%84-%D9%82%D8%A7%D8%A8-%D8%AA%DB%8C%D8%BA-%D9%88%D9%86%D9%88%D8%B3-%D9%88-3-%D9%88%D8%B3%DB%8C%D9%84%D9%87-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T20:50:32.956Z"
+  },
+  {
+    "id": "torobshop-fashion-ac9daafe2ea5d5bc",
+    "productId": "torobshop-ac9daafe2ea5d5bc",
+    "name": "دستگاه لیزر بدن بانوان براون آلمان Braun IPL Silk Expert Pro 3، دارای ۲ سری، رفع موهای زائد قابل مشاهده، طراحی شده در آلمان، رفع موهای زائد صورت، جایگزین لیزر موهای زائد، PL3139، سفید/نقره‌ای",
+    "brand": "",
+    "model": "دستگاه لیزر بدن بانوان براون آلمان Braun IPL Silk Expert Pro 3، دارای ۲ سری، رفع موهای زائد قابل مشاهده، طراحی شده در آلمان، رفع موهای زائد صورت، جایگزین لیزر موهای زائد، PL3139، سفید/نقره‌ای",
+    "category": "fashion",
+    "subcategory": "مردانه",
+    "price": 90339000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%B2%D9%86%D8%A7%D9%86%D9%87-Braun-IPL-Silk-Expert-Pro-3-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C-%DB%B2-%D8%B3%D8%B1%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D9%82%D8%A7%D8%A8%D9%84-%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D9%87-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B4%D8%AF%D9%87-%D8%AF%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%B5%D9%88%D8%B1%D8%AA-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D9%84%DB%8C%D8%B2%D8%B1-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-PL3139-%D8%B3%D9%81%DB%8C%D8%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T20:50:32.956Z"
   },
   {
     "id": "torobshop-fashion-27f7af68d3543ffb",
@@ -7701,7 +7701,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.146Z"
+    "observedAt": "2026-09-03T20:50:32.956Z"
   },
   {
     "id": "torobshop-fashion-db81d40bcc397e16",
@@ -7719,7 +7719,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.146Z"
+    "observedAt": "2026-09-03T20:50:32.956Z"
   },
   {
     "id": "torobshop-fashion-a95fac45da84a72b",
@@ -7737,7 +7737,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.146Z"
+    "observedAt": "2026-09-03T20:50:32.956Z"
   },
   {
     "id": "torobshop-fashion-ed3206a7c4997ceb",
@@ -7755,7 +7755,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.146Z"
+    "observedAt": "2026-09-03T20:50:32.956Z"
   },
   {
     "id": "torobshop-fashion-ab3241a3e4a91b6d",
@@ -7773,7 +7773,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.146Z"
+    "observedAt": "2026-09-03T20:50:32.956Z"
   },
   {
     "id": "torobshop-fashion-08320ee86e550b3d",
@@ -7791,7 +7791,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.146Z"
+    "observedAt": "2026-09-03T20:50:32.956Z"
   },
   {
     "id": "torobshop-fashion-5939ecdc87bd4f0d",
@@ -7809,7 +7809,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.146Z"
+    "observedAt": "2026-09-03T20:50:32.956Z"
   },
   {
     "id": "torobshop-fashion-301beb96f2df717f",
@@ -7827,43 +7827,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.146Z"
-  },
-  {
-    "id": "torobshop-fashion-a5fddfc8c0c99048",
-    "productId": "torobshop-a5fddfc8c0c99048",
-    "name": "ست همه کاره Braun Silk-épil 9 SkinSpa: اپیلاتور، تیغ، ماشین اصلاح، اصلاح کننده موی بانوان، اصلاح کننده موی صورت Facespa، ساخت آلمان، 9-381، سفید/نقره‌ای",
-    "brand": "",
-    "model": "ست همه کاره Braun Silk-épil 9 SkinSpa: اپیلاتور، تیغ، ماشین اصلاح، اصلاح کننده موی بانوان، اصلاح کننده موی صورت Facespa، ساخت آلمان، 9-381، سفید/نقره‌ای",
-    "category": "fashion",
-    "subcategory": "مردانه",
-    "price": 47960000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%AA-%D9%87%D9%85%D9%87-%DA%A9%D8%A7%D8%B1%D9%87-Braun-Silk-pil-9-SkinSpa-%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%AA%DB%8C%D8%BA-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D9%85%D9%88%DB%8C-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D9%85%D9%88%DB%8C-%D8%B5%D9%88%D8%B1%D8%AA-Facespa-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-9-381-%D8%B3%D9%81%DB%8C%D8%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.146Z"
-  },
-  {
-    "id": "torobshop-fashion-2798976de6f0cc81",
-    "productId": "torobshop-2798976de6f0cc81",
-    "name": "دستگاه‌های IPL براون، رفع موهای زائد، Silk·expert Pro 3 - رفع دائمی و بدون درد موهای زائد در منزل - شامل کیف نگهداری، تیغ ژیلت ونوس و 3 وسیله جانبی - PL3222، سفید/نقره‌ای",
-    "brand": "",
-    "model": "دستگاه‌های IPL براون، رفع موهای زائد، Silk·expert Pro 3 - رفع دائمی و بدون درد موهای زائد در منزل - شامل کیف نگهداری، تیغ ژیلت ونوس و 3 وسیله جانبی - PL3222، سفید/نقره‌ای",
-    "category": "fashion",
-    "subcategory": "مردانه",
-    "price": 123835000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-IPL-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Silk-expert-Pro-3-%D8%B1%D9%81%D8%B9-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%88-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%B1%D8%AF-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AF%D8%B1-%D9%85%D9%86%D8%B2%D9%84-%D8%B4%D8%A7%D9%85%D9%84-%DA%A9%DB%8C%D9%81-%D9%86%DA%AF%D9%87%D8%AF%D8%A7%D8%B1%DB%8C-%D8%AA%DB%8C%D8%BA-%DA%98%DB%8C%D9%84%D8%AA-%D9%88%D9%86%D9%88%D8%B3-%D9%88-3-%D9%88%D8%B3%DB%8C%D9%84%D9%87-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-PL3222-%D8%B3%D9%81%DB%8C%D8%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.146Z"
+    "observedAt": "2026-09-03T20:50:32.956Z"
   },
   {
     "id": "torobshop-fashion-3e4d9495e052b1b8",
@@ -7881,7 +7845,43 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.146Z"
+    "observedAt": "2026-09-03T20:50:32.956Z"
+  },
+  {
+    "id": "torobshop-fashion-a5fddfc8c0c99048",
+    "productId": "torobshop-a5fddfc8c0c99048",
+    "name": "ست همه کاره Braun Silk-épil 9 SkinSpa: اپیلاتور، تیغ، ماشین اصلاح، اصلاح کننده موی بانوان، اصلاح کننده موی صورت Facespa، ساخت آلمان، 9-381، سفید/نقره‌ای",
+    "brand": "",
+    "model": "ست همه کاره Braun Silk-épil 9 SkinSpa: اپیلاتور، تیغ، ماشین اصلاح، اصلاح کننده موی بانوان، اصلاح کننده موی صورت Facespa، ساخت آلمان، 9-381، سفید/نقره‌ای",
+    "category": "fashion",
+    "subcategory": "مردانه",
+    "price": 47960000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%AA-%D9%87%D9%85%D9%87-%DA%A9%D8%A7%D8%B1%D9%87-Braun-Silk-pil-9-SkinSpa-%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%AA%DB%8C%D8%BA-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D9%85%D9%88%DB%8C-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D9%85%D9%88%DB%8C-%D8%B5%D9%88%D8%B1%D8%AA-Facespa-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-9-381-%D8%B3%D9%81%DB%8C%D8%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T20:50:32.956Z"
+  },
+  {
+    "id": "torobshop-fashion-2798976de6f0cc81",
+    "productId": "torobshop-2798976de6f0cc81",
+    "name": "دستگاه‌های IPL براون، رفع موهای زائد، Silk·expert Pro 3 - رفع دائمی و بدون درد موهای زائد در منزل - شامل کیف نگهداری، تیغ ژیلت ونوس و 3 وسیله جانبی - PL3222، سفید/نقره‌ای",
+    "brand": "",
+    "model": "دستگاه‌های IPL براون، رفع موهای زائد، Silk·expert Pro 3 - رفع دائمی و بدون درد موهای زائد در منزل - شامل کیف نگهداری، تیغ ژیلت ونوس و 3 وسیله جانبی - PL3222، سفید/نقره‌ای",
+    "category": "fashion",
+    "subcategory": "مردانه",
+    "price": 123835000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-IPL-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Silk-expert-Pro-3-%D8%B1%D9%81%D8%B9-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%88-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%B1%D8%AF-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AF%D8%B1-%D9%85%D9%86%D8%B2%D9%84-%D8%B4%D8%A7%D9%85%D9%84-%DA%A9%DB%8C%D9%81-%D9%86%DA%AF%D9%87%D8%AF%D8%A7%D8%B1%DB%8C-%D8%AA%DB%8C%D8%BA-%DA%98%DB%8C%D9%84%D8%AA-%D9%88%D9%86%D9%88%D8%B3-%D9%88-3-%D9%88%D8%B3%DB%8C%D9%84%D9%87-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-PL3222-%D8%B3%D9%81%DB%8C%D8%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T20:50:32.956Z"
   },
   {
     "id": "torobshop-fashion-834858ae4530d775",
@@ -7899,7 +7899,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.146Z"
+    "observedAt": "2026-09-03T20:50:32.956Z"
   },
   {
     "id": "torobshop-fashion-1059c1f184e3d8b3",
@@ -7917,25 +7917,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.146Z"
-  },
-  {
-    "id": "torobshop-fashion-707702931ea634d8",
-    "productId": "torobshop-707702931ea634d8",
-    "name": "اپیلاتور براون سیلک-اپیل ۵ مخصوص خانم‌ها، موبر برای رفع موهای زائد با ماندگاری طولانی، اصلاح بانوان، ضد آب - شامل سری اصلاح و لایه بردار، ساخت آلمان - ۵-۰۶۰، سفید/صورتی فلامینگو + ۳ سری اضافی + سری لایه بردار",
-    "brand": "",
-    "model": "اپیلاتور براون سیلک-اپیل ۵ مخصوص خانم‌ها، موبر برای رفع موهای زائد با ماندگاری طولانی، اصلاح بانوان، ضد آب - شامل سری اصلاح و لایه بردار، ساخت آلمان - ۵-۰۶۰، سفید/صورتی فلامینگو + ۳ سری اضافی + سری لایه بردار",
-    "category": "fashion",
-    "subcategory": "مردانه",
-    "price": 24868000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B3%DB%8C%D9%84%DA%A9-%D8%A7%D9%BE%DB%8C%D9%84-%DB%B5-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%AE%D8%A7%D9%86%D9%85-%D9%87%D8%A7-%D9%85%D9%88%D8%A8%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%D8%A7-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1%DB%8C-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D8%B6%D8%AF-%D8%A2%D8%A8-%D8%B4%D8%A7%D9%85%D9%84-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D9%84%D8%A7%DB%8C%D9%87-%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%DB%B5-%DB%B0%DB%B6%DB%B0-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B5%D9%88%D8%B1%D8%AA%DB%8C-%D9%81%D9%84%D8%A7%D9%85%DB%8C%D9%86%DA%AF%D9%88-%DB%B3-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B6%D8%A7%D9%81%DB%8C-%D8%B3%D8%B1%DB%8C-%D9%84%D8%A7%DB%8C%D9%87-%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.146Z"
+    "observedAt": "2026-09-03T20:50:32.956Z"
   },
   {
     "id": "torobshop-fashion-68a4dab928f7c962",
@@ -7953,7 +7935,25 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.146Z"
+    "observedAt": "2026-09-03T20:50:32.956Z"
+  },
+  {
+    "id": "torobshop-fashion-707702931ea634d8",
+    "productId": "torobshop-707702931ea634d8",
+    "name": "اپیلاتور براون سیلک-اپیل ۵ مخصوص خانم‌ها، موبر برای رفع موهای زائد با ماندگاری طولانی، اصلاح بانوان، ضد آب - شامل سری اصلاح و لایه بردار، ساخت آلمان - ۵-۰۶۰، سفید/صورتی فلامینگو + ۳ سری اضافی + سری لایه بردار",
+    "brand": "",
+    "model": "اپیلاتور براون سیلک-اپیل ۵ مخصوص خانم‌ها، موبر برای رفع موهای زائد با ماندگاری طولانی، اصلاح بانوان، ضد آب - شامل سری اصلاح و لایه بردار، ساخت آلمان - ۵-۰۶۰، سفید/صورتی فلامینگو + ۳ سری اضافی + سری لایه بردار",
+    "category": "fashion",
+    "subcategory": "مردانه",
+    "price": 24868000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B3%DB%8C%D9%84%DA%A9-%D8%A7%D9%BE%DB%8C%D9%84-%DB%B5-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%AE%D8%A7%D9%86%D9%85-%D9%87%D8%A7-%D9%85%D9%88%D8%A8%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%D8%A7-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1%DB%8C-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D8%B6%D8%AF-%D8%A2%D8%A8-%D8%B4%D8%A7%D9%85%D9%84-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D9%84%D8%A7%DB%8C%D9%87-%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%DB%B5-%DB%B0%DB%B6%DB%B0-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B5%D9%88%D8%B1%D8%AA%DB%8C-%D9%81%D9%84%D8%A7%D9%85%DB%8C%D9%86%DA%AF%D9%88-%DB%B3-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B6%D8%A7%D9%81%DB%8C-%D8%B3%D8%B1%DB%8C-%D9%84%D8%A7%DB%8C%D9%87-%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T20:50:32.956Z"
   },
   {
     "id": "torobshop-fashion-d8e34bb113f4f352",
@@ -7971,7 +7971,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.146Z"
+    "observedAt": "2026-09-03T20:50:32.956Z"
   },
   {
     "id": "torobshop-fashion-d5b957f7df4ff03f",
@@ -7989,7 +7989,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.146Z"
+    "observedAt": "2026-09-03T20:50:32.956Z"
   },
   {
     "id": "torobshop-fashion-28255666c26f658a",
@@ -8007,7 +8007,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.146Z"
+    "observedAt": "2026-09-03T20:50:32.956Z"
   },
   {
     "id": "torobshop-fashion-2a3268e48e6a43b8",
@@ -8025,7 +8025,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.146Z"
+    "observedAt": "2026-09-03T20:50:32.956Z"
   },
   {
     "id": "torobshop-fashion-9a0fccac9db69875",
@@ -8043,7 +8043,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.146Z"
+    "observedAt": "2026-09-03T20:50:32.956Z"
   },
   {
     "id": "torobshop-fashion-93e51ab5d27d6671",
@@ -8061,7 +8061,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:23.146Z"
+    "observedAt": "2026-09-03T20:50:32.956Z"
   },
   {
     "id": "torobshop-fashion-c529dd4cdf268c4b",
@@ -8079,7 +8079,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D9%81%D8%B4-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:54.403Z"
+    "observedAt": "2026-09-03T20:50:58.348Z"
   },
   {
     "id": "torobshop-fashion-f9f5184efe383fec",
@@ -8097,7 +8097,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D9%81%D8%B4-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:54.403Z"
+    "observedAt": "2026-09-03T20:50:58.348Z"
   },
   {
     "id": "torobshop-fashion-b21a9d3028ced1ed",
@@ -8115,7 +8115,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D9%81%D8%B4-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:54.403Z"
+    "observedAt": "2026-09-03T20:50:58.348Z"
   },
   {
     "id": "torobshop-fashion-e7a8e472dfc21340",
@@ -8133,7 +8133,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D9%81%D8%B4-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:54.403Z"
+    "observedAt": "2026-09-03T20:50:58.348Z"
   },
   {
     "id": "torobshop-fashion-f47d33ad60029351",
@@ -8151,7 +8151,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D9%81%D8%B4-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:54.403Z"
+    "observedAt": "2026-09-03T20:50:58.348Z"
   },
   {
     "id": "torobshop-fashion-774be6c420bd6e02",
@@ -8169,7 +8169,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D9%81%D8%B4-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:54.403Z"
+    "observedAt": "2026-09-03T20:50:58.348Z"
   },
   {
     "id": "torobshop-fashion-1380452f569fe2d6",
@@ -8187,7 +8187,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D9%81%D8%B4-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:54.403Z"
+    "observedAt": "2026-09-03T20:50:58.348Z"
   },
   {
     "id": "torobshop-fashion-302c0f89369d5d87",
@@ -8205,7 +8205,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D9%81%D8%B4-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:54.403Z"
+    "observedAt": "2026-09-03T20:50:58.348Z"
   },
   {
     "id": "torobshop-fashion-0b3f49d9976469fa",
@@ -8223,7 +8223,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D9%81%D8%B4-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:54.403Z"
+    "observedAt": "2026-09-03T20:50:58.348Z"
   },
   {
     "id": "torobshop-fashion-b33005d82cdc6951",
@@ -8241,7 +8241,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D9%81%D8%B4-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:54.403Z"
+    "observedAt": "2026-09-03T20:50:58.348Z"
   },
   {
     "id": "torobshop-fashion-5310d98b883c59a8",
@@ -8259,7 +8259,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D9%81%D8%B4-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:54.403Z"
+    "observedAt": "2026-09-03T20:50:58.348Z"
   },
   {
     "id": "torobshop-fashion-292980355178e33c",
@@ -8277,7 +8277,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D9%81%D8%B4-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:54.404Z"
+    "observedAt": "2026-09-03T20:50:58.348Z"
   },
   {
     "id": "torobshop-fashion-046af242d0d3b345",
@@ -8295,7 +8295,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D9%81%D8%B4-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:54.404Z"
+    "observedAt": "2026-09-03T20:50:58.348Z"
   },
   {
     "id": "torobshop-fashion-8fc0973ee4780665",
@@ -8313,7 +8313,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D9%81%D8%B4-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:54.404Z"
+    "observedAt": "2026-09-03T20:50:58.348Z"
   },
   {
     "id": "torobshop-fashion-9e8d83796615a154",
@@ -8331,7 +8331,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D9%81%D8%B4-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:54.404Z"
+    "observedAt": "2026-09-03T20:50:58.348Z"
   },
   {
     "id": "torobshop-fashion-c468f00cc0636bd7",
@@ -8349,7 +8349,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D9%81%D8%B4-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:54.404Z"
+    "observedAt": "2026-09-03T20:50:58.348Z"
   },
   {
     "id": "torobshop-fashion-ebb10655aed0d8c4",
@@ -8367,7 +8367,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D9%81%D8%B4-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:54.404Z"
+    "observedAt": "2026-09-03T20:50:58.348Z"
   },
   {
     "id": "torobshop-fashion-d775e0bee30407a2",
@@ -8385,7 +8385,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D9%81%D8%B4-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:54.404Z"
+    "observedAt": "2026-09-03T20:50:58.348Z"
   },
   {
     "id": "torobshop-fashion-91717bc064513b19",
@@ -8403,7 +8403,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D9%81%D8%B4-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:54.404Z"
+    "observedAt": "2026-09-03T20:50:58.348Z"
   },
   {
     "id": "torobshop-fashion-3476397033d6025a",
@@ -8421,7 +8421,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D9%81%D8%B4-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:54.404Z"
+    "observedAt": "2026-09-03T20:50:58.348Z"
   },
   {
     "id": "torobshop-fashion-b6eb43516788f2b5",
@@ -8439,7 +8439,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D9%81%D8%B4-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:54.404Z"
+    "observedAt": "2026-09-03T20:50:58.348Z"
   },
   {
     "id": "torobshop-fashion-7dfa0b379830bd95",
@@ -8457,7 +8457,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D9%81%D8%B4-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:54.404Z"
+    "observedAt": "2026-09-03T20:50:58.348Z"
   },
   {
     "id": "torobshop-fashion-1ef5349438033fd3",
@@ -8475,7 +8475,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D9%81%D8%B4-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:54.404Z"
+    "observedAt": "2026-09-03T20:50:58.348Z"
   },
   {
     "id": "torobshop-fashion-6a14ee8605a5db42",
@@ -8493,7 +8493,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D9%81%D8%B4-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:54.404Z"
+    "observedAt": "2026-09-03T20:50:58.348Z"
   },
   {
     "id": "torobshop-fashion-85dc72b689c83468",
@@ -8511,7 +8511,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D9%81%D8%B4-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:54.404Z"
+    "observedAt": "2026-09-03T20:50:58.348Z"
   },
   {
     "id": "torobshop-fashion-53988337573f46db",
@@ -8529,7 +8529,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D9%81%D8%B4-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:54.404Z"
+    "observedAt": "2026-09-03T20:50:58.348Z"
   },
   {
     "id": "torobshop-fashion-d677659c9304af6a",
@@ -8547,7 +8547,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D9%81%D8%B4-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:54.404Z"
+    "observedAt": "2026-09-03T20:50:58.348Z"
   },
   {
     "id": "torobshop-fashion-e2805fcc85992661",
@@ -8565,7 +8565,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D9%81%D8%B4-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:54.404Z"
+    "observedAt": "2026-09-03T20:50:58.348Z"
   },
   {
     "id": "torobshop-fashion-be4e09118b35fd47",
@@ -8583,7 +8583,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D9%81%D8%B4-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:54.404Z"
+    "observedAt": "2026-09-03T20:50:58.348Z"
   },
   {
     "id": "torobshop-fashion-88d9626882c860ae",
@@ -8601,7 +8601,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D9%81%D8%B4-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:54.404Z"
+    "observedAt": "2026-09-03T20:50:58.348Z"
   },
   {
     "id": "torobshop-fashion-b0bf472bb7bdebe8",
@@ -8619,7 +8619,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D9%81%D8%B4-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:54.404Z"
+    "observedAt": "2026-09-03T20:50:58.348Z"
   },
   {
     "id": "torobshop-fashion-32fbe141c185e965",
@@ -8637,7 +8637,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D9%81%D8%B4-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:54.404Z"
+    "observedAt": "2026-09-03T20:50:58.348Z"
   },
   {
     "id": "torobshop-fashion-7d5ceed1fe8e85e6",
@@ -8655,7 +8655,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D9%81%D8%B4-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:54.404Z"
+    "observedAt": "2026-09-03T20:50:58.348Z"
   },
   {
     "id": "torobshop-fashion-d2ad47b827e2f9cf",
@@ -8673,7 +8673,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D9%81%D8%B4-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:54.404Z"
+    "observedAt": "2026-09-03T20:50:58.348Z"
   },
   {
     "id": "torobshop-fashion-4c2fbcbe7da45297",
@@ -8691,7 +8691,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D9%81%D8%B4-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:54.404Z"
+    "observedAt": "2026-09-03T20:50:58.348Z"
   },
   {
     "id": "torobshop-fashion-d6c77ca15c6e597f",
@@ -8709,7 +8709,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D9%81%D8%B4-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:54.404Z"
+    "observedAt": "2026-09-03T20:50:58.348Z"
   },
   {
     "id": "torobshop-fashion-509608ee667a63f6",
@@ -8727,7 +8727,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D9%81%D8%B4-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:54.404Z"
+    "observedAt": "2026-09-03T20:50:58.348Z"
   },
   {
     "id": "torobshop-fashion-60cd7724c7c6a1d3",
@@ -8745,7 +8745,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D9%81%D8%B4-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:54.404Z"
+    "observedAt": "2026-09-03T20:50:58.348Z"
   },
   {
     "id": "torobshop-fashion-9fba3213020fd1b6",
@@ -8763,7 +8763,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D9%81%D8%B4-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:54.404Z"
+    "observedAt": "2026-09-03T20:50:58.348Z"
   },
   {
     "id": "torobshop-fashion-5138c0c5b03737e5",
@@ -8781,7 +8781,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D9%81%D8%B4-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:54.404Z"
+    "observedAt": "2026-09-03T20:50:58.348Z"
   },
   {
     "id": "torobshop-fashion-a25e97b5cec2f41d",
@@ -8799,7 +8799,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D9%81%D8%B4-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:54.404Z"
+    "observedAt": "2026-09-03T20:50:58.348Z"
   },
   {
     "id": "torobshop-fashion-047ac847b7a6ccd2",
@@ -8817,7 +8817,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D9%81%D8%B4-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:54.404Z"
+    "observedAt": "2026-09-03T20:50:58.348Z"
   },
   {
     "id": "torobshop-fashion-9a249b20b43d6817",
@@ -8835,7 +8835,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D9%81%D8%B4-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:54.404Z"
+    "observedAt": "2026-09-03T20:50:58.348Z"
   },
   {
     "id": "torobshop-fashion-5d33f2d485811124",
@@ -8853,7 +8853,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D9%81%D8%B4-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:54.404Z"
+    "observedAt": "2026-09-03T20:50:58.348Z"
   },
   {
     "id": "torobshop-fashion-d4e803509585b3e2",
@@ -8871,7 +8871,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D9%81%D8%B4-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:54.404Z"
+    "observedAt": "2026-09-03T20:50:58.348Z"
   },
   {
     "id": "torobshop-fashion-531a4d7d61a87888",
@@ -8889,7 +8889,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D9%81%D8%B4-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:54.404Z"
+    "observedAt": "2026-09-03T20:50:58.348Z"
   },
   {
     "id": "torobshop-fashion-d4d89c9654b6b374",
@@ -8907,7 +8907,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D9%81%D8%B4-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:54.404Z"
+    "observedAt": "2026-09-03T20:50:58.348Z"
   },
   {
     "id": "torobshop-fashion-1a361b8ae55b178b",
@@ -8925,7 +8925,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D9%81%D8%B4-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:54.404Z"
+    "observedAt": "2026-09-03T20:50:58.348Z"
   },
   {
     "id": "torobshop-fashion-685885b36171d7b6",
@@ -8943,7 +8943,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D9%81%D8%B4-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:54.404Z"
+    "observedAt": "2026-09-03T20:50:58.348Z"
   },
   {
     "id": "torobshop-fashion-5250adcc4f69c4c1",
@@ -8961,7 +8961,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D9%81%D8%B4-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:54.404Z"
+    "observedAt": "2026-09-03T20:50:58.348Z"
   },
   {
     "id": "torobshop-fashion-7ba97ae7f95b9dc1",
@@ -8979,7 +8979,7 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D9%81%D8%B4-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:54.404Z"
+    "observedAt": "2026-09-03T20:50:58.348Z"
   },
   {
     "id": "torobshop-fashion-c324e02d00432aa5",
@@ -8997,6 +8997,6 @@ export const FASHION_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D9%81%D8%B4-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T18:28:54.404Z"
+    "observedAt": "2026-09-03T20:50:58.348Z"
   }
 ];
