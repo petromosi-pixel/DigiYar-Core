@@ -15,7 +15,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.948Z"
+    "observedAt": "2026-09-03T11:06:22.813Z"
   },
   {
     "id": "torobshop-tools-industrial-42afd1ca9ea774d6",
@@ -33,7 +33,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.948Z"
+    "observedAt": "2026-09-03T11:06:22.813Z"
   },
   {
     "id": "torobshop-tools-industrial-3930a114dca5ba93",
@@ -51,7 +51,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.948Z"
+    "observedAt": "2026-09-03T11:06:22.813Z"
   },
   {
     "id": "torobshop-tools-industrial-aaa22eb952374f54",
@@ -69,7 +69,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.948Z"
+    "observedAt": "2026-09-03T11:06:22.813Z"
   },
   {
     "id": "torobshop-tools-industrial-6313ab97d41a2b56",
@@ -87,7 +87,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.948Z"
+    "observedAt": "2026-09-03T11:06:22.813Z"
   },
   {
     "id": "torobshop-tools-industrial-f6f4fe1c061400be",
@@ -105,7 +105,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.948Z"
+    "observedAt": "2026-09-03T11:06:22.813Z"
   },
   {
     "id": "torobshop-tools-industrial-f84a10872070200f",
@@ -123,7 +123,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.948Z"
+    "observedAt": "2026-09-03T11:06:22.813Z"
   },
   {
     "id": "torobshop-tools-industrial-be5c8240bad9b96b",
@@ -141,7 +141,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.948Z"
+    "observedAt": "2026-09-03T11:06:22.813Z"
   },
   {
     "id": "torobshop-tools-industrial-6ea4ce76135ec585",
@@ -159,7 +159,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.948Z"
+    "observedAt": "2026-09-03T11:06:22.813Z"
   },
   {
     "id": "torobshop-tools-industrial-66ec5ac305e2c66d",
@@ -177,7 +177,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.948Z"
+    "observedAt": "2026-09-03T11:06:22.813Z"
   },
   {
     "id": "torobshop-tools-industrial-550a8f87070e67b2",
@@ -195,7 +195,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.948Z"
+    "observedAt": "2026-09-03T11:06:22.813Z"
   },
   {
     "id": "torobshop-tools-industrial-82dd733a006aec80",
@@ -213,7 +213,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.948Z"
+    "observedAt": "2026-09-03T11:06:22.813Z"
   },
   {
     "id": "torobshop-tools-industrial-b0ab596ed23cc867",
@@ -231,7 +231,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.948Z"
+    "observedAt": "2026-09-03T11:06:22.813Z"
   },
   {
     "id": "torobshop-tools-industrial-81b8042dfd25e040",
@@ -249,7 +249,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.948Z"
+    "observedAt": "2026-09-03T11:06:22.813Z"
   },
   {
     "id": "torobshop-tools-industrial-971de75d275ec060",
@@ -267,7 +267,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.948Z"
+    "observedAt": "2026-09-03T11:06:22.813Z"
   },
   {
     "id": "torobshop-tools-industrial-6984e0fba2f0f5ab",
@@ -285,7 +285,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.948Z"
+    "observedAt": "2026-09-03T11:06:22.813Z"
   },
   {
     "id": "torobshop-tools-industrial-043774655c5e9707",
@@ -303,7 +303,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.949Z"
+    "observedAt": "2026-09-03T11:06:22.813Z"
   },
   {
     "id": "torobshop-tools-industrial-96e722182c1b89a6",
@@ -321,7 +321,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.949Z"
+    "observedAt": "2026-09-03T11:06:22.813Z"
   },
   {
     "id": "torobshop-tools-industrial-d62f3f3a89e25a47",
@@ -339,7 +339,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.949Z"
+    "observedAt": "2026-09-03T11:06:22.813Z"
   },
   {
     "id": "torobshop-tools-industrial-c91c69b83e4ddd45",
@@ -357,7 +357,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.949Z"
+    "observedAt": "2026-09-03T11:06:22.813Z"
   },
   {
     "id": "torobshop-tools-industrial-6d073e89debc0957",
@@ -375,7 +375,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.949Z"
+    "observedAt": "2026-09-03T11:06:22.813Z"
   },
   {
     "id": "torobshop-tools-industrial-2f1de49dbfea70aa",
@@ -393,7 +393,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.949Z"
+    "observedAt": "2026-09-03T11:06:22.813Z"
   },
   {
     "id": "torobshop-tools-industrial-688de6c889730421",
@@ -411,7 +411,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.949Z"
+    "observedAt": "2026-09-03T11:06:22.813Z"
   },
   {
     "id": "torobshop-tools-industrial-6f75db36753d61cb",
@@ -429,7 +429,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.949Z"
+    "observedAt": "2026-09-03T11:06:22.813Z"
   },
   {
     "id": "torobshop-tools-industrial-1d0f8b752067584c",
@@ -447,7 +447,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.949Z"
+    "observedAt": "2026-09-03T11:06:22.813Z"
   },
   {
     "id": "torobshop-tools-industrial-9588e88bfa202297",
@@ -465,7 +465,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.949Z"
+    "observedAt": "2026-09-03T11:06:22.813Z"
   },
   {
     "id": "torobshop-tools-industrial-564f6efd33ed7c72",
@@ -483,7 +483,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.949Z"
+    "observedAt": "2026-09-03T11:06:22.813Z"
   },
   {
     "id": "torobshop-tools-industrial-db51956256cf2a9e",
@@ -501,7 +501,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.949Z"
+    "observedAt": "2026-09-03T11:06:22.813Z"
   },
   {
     "id": "torobshop-tools-industrial-6c602e399b74265b",
@@ -519,7 +519,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.949Z"
+    "observedAt": "2026-09-03T11:06:22.813Z"
   },
   {
     "id": "torobshop-tools-industrial-69bf454eaf5c015b",
@@ -537,7 +537,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.949Z"
+    "observedAt": "2026-09-03T11:06:22.813Z"
   },
   {
     "id": "torobshop-tools-industrial-9b36373adadaf4fd",
@@ -555,7 +555,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.949Z"
+    "observedAt": "2026-09-03T11:06:22.813Z"
   },
   {
     "id": "torobshop-tools-industrial-b510ac9c5967ae6e",
@@ -573,7 +573,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.949Z"
+    "observedAt": "2026-09-03T11:06:22.813Z"
   },
   {
     "id": "torobshop-tools-industrial-3dbcaccb8662bde1",
@@ -591,7 +591,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.949Z"
+    "observedAt": "2026-09-03T11:06:22.813Z"
   },
   {
     "id": "torobshop-tools-industrial-200d11c52e55158d",
@@ -609,7 +609,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.949Z"
+    "observedAt": "2026-09-03T11:06:22.813Z"
   },
   {
     "id": "torobshop-tools-industrial-7030913f04cb3a2f",
@@ -627,7 +627,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.949Z"
+    "observedAt": "2026-09-03T11:06:22.813Z"
   },
   {
     "id": "torobshop-tools-industrial-c57090577d7bcdd6",
@@ -645,7 +645,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.949Z"
+    "observedAt": "2026-09-03T11:06:22.813Z"
   },
   {
     "id": "torobshop-tools-industrial-47c81c869cca25d8",
@@ -663,7 +663,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.949Z"
+    "observedAt": "2026-09-03T11:06:22.813Z"
   },
   {
     "id": "torobshop-tools-industrial-f566f758ccfcc717",
@@ -681,7 +681,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.949Z"
+    "observedAt": "2026-09-03T11:06:22.813Z"
   },
   {
     "id": "torobshop-tools-industrial-964ece0d8e9f6669",
@@ -699,7 +699,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.949Z"
+    "observedAt": "2026-09-03T11:06:22.813Z"
   },
   {
     "id": "torobshop-tools-industrial-4cef33429e237704",
@@ -717,7 +717,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.949Z"
+    "observedAt": "2026-09-03T11:06:22.813Z"
   },
   {
     "id": "torobshop-tools-industrial-e4a2bc7cbee474b2",
@@ -735,7 +735,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.949Z"
+    "observedAt": "2026-09-03T11:06:22.813Z"
   },
   {
     "id": "torobshop-tools-industrial-3be15395be038aca",
@@ -753,7 +753,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.949Z"
+    "observedAt": "2026-09-03T11:06:22.813Z"
   },
   {
     "id": "torobshop-tools-industrial-77f61ec7f8b8b73d",
@@ -771,7 +771,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.949Z"
+    "observedAt": "2026-09-03T11:06:22.814Z"
   },
   {
     "id": "torobshop-tools-industrial-a09bc08624899ff4",
@@ -789,7 +789,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.949Z"
+    "observedAt": "2026-09-03T11:06:22.814Z"
   },
   {
     "id": "torobshop-tools-industrial-bbd449ed50b3d540",
@@ -807,7 +807,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.949Z"
+    "observedAt": "2026-09-03T11:06:22.814Z"
   },
   {
     "id": "torobshop-tools-industrial-50ddbf6ac385797f",
@@ -825,7 +825,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.949Z"
+    "observedAt": "2026-09-03T11:06:22.814Z"
   },
   {
     "id": "torobshop-tools-industrial-80a52ed3a08cda77",
@@ -843,7 +843,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.949Z"
+    "observedAt": "2026-09-03T11:06:22.814Z"
   },
   {
     "id": "torobshop-tools-industrial-039d5e6addbbd691",
@@ -861,7 +861,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.949Z"
+    "observedAt": "2026-09-03T11:06:22.814Z"
   },
   {
     "id": "torobshop-tools-industrial-35ed38f253e56a81",
@@ -879,7 +879,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.949Z"
+    "observedAt": "2026-09-03T11:06:22.814Z"
   },
   {
     "id": "torobshop-tools-industrial-81294b2d39671c7a",
@@ -897,7 +897,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.949Z"
+    "observedAt": "2026-09-03T11:06:22.814Z"
   },
   {
     "id": "torobshop-tools-industrial-aa508f6b8b35e109",
@@ -915,7 +915,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.949Z"
+    "observedAt": "2026-09-03T11:06:22.814Z"
   },
   {
     "id": "torobshop-tools-industrial-6ec47a3d62be5701",
@@ -933,7 +933,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.949Z"
+    "observedAt": "2026-09-03T11:06:22.814Z"
   },
   {
     "id": "torobshop-tools-industrial-7b66ea2c8fd4c6a4",
@@ -951,7 +951,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.949Z"
+    "observedAt": "2026-09-03T11:06:22.814Z"
   },
   {
     "id": "torobshop-tools-industrial-d49e2d4bb6f40cd4",
@@ -969,7 +969,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.949Z"
+    "observedAt": "2026-09-03T11:06:22.814Z"
   },
   {
     "id": "torobshop-tools-industrial-189f8d80d22fa44f",
@@ -987,7 +987,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.949Z"
+    "observedAt": "2026-09-03T11:06:22.814Z"
   },
   {
     "id": "torobshop-tools-industrial-5b8fa53f836d0f0c",
@@ -1005,7 +1005,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.949Z"
+    "observedAt": "2026-09-03T11:06:22.814Z"
   },
   {
     "id": "torobshop-tools-industrial-547d268a4387e8cb",
@@ -1023,7 +1023,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.949Z"
+    "observedAt": "2026-09-03T11:06:22.814Z"
   },
   {
     "id": "torobshop-tools-industrial-4192b4da9c3a842b",
@@ -1041,7 +1041,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.949Z"
+    "observedAt": "2026-09-03T11:06:22.814Z"
   },
   {
     "id": "torobshop-tools-industrial-d81ab9c86f172992",
@@ -1059,7 +1059,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.949Z"
+    "observedAt": "2026-09-03T11:06:22.814Z"
   },
   {
     "id": "torobshop-tools-industrial-c2621badab7154db",
@@ -1077,7 +1077,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.949Z"
+    "observedAt": "2026-09-03T11:06:22.814Z"
   },
   {
     "id": "torobshop-tools-industrial-e61e8163e0053f8c",
@@ -1095,7 +1095,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.949Z"
+    "observedAt": "2026-09-03T11:06:22.814Z"
   },
   {
     "id": "torobshop-tools-industrial-0a6f99bfb7c72378",
@@ -1113,7 +1113,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.949Z"
+    "observedAt": "2026-09-03T11:06:22.814Z"
   },
   {
     "id": "torobshop-tools-industrial-17b433396f0dd8b8",
@@ -1131,7 +1131,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.949Z"
+    "observedAt": "2026-09-03T11:06:22.814Z"
   },
   {
     "id": "torobshop-tools-industrial-70f796097c7bfa77",
@@ -1149,7 +1149,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.949Z"
+    "observedAt": "2026-09-03T11:06:22.814Z"
   },
   {
     "id": "torobshop-tools-industrial-792d9fda0d1edf60",
@@ -1167,7 +1167,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.949Z"
+    "observedAt": "2026-09-03T11:06:22.814Z"
   },
   {
     "id": "torobshop-tools-industrial-0540c2016311432d",
@@ -1185,7 +1185,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.949Z"
+    "observedAt": "2026-09-03T11:06:22.814Z"
   },
   {
     "id": "torobshop-tools-industrial-ea7e49d4888f5500",
@@ -1203,7 +1203,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.949Z"
+    "observedAt": "2026-09-03T11:06:22.814Z"
   },
   {
     "id": "torobshop-tools-industrial-a7031b2d2c098e3a",
@@ -1221,7 +1221,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.949Z"
+    "observedAt": "2026-09-03T11:06:22.814Z"
   },
   {
     "id": "torobshop-tools-industrial-b280052ba623afe6",
@@ -1239,7 +1239,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.949Z"
+    "observedAt": "2026-09-03T11:06:22.814Z"
   },
   {
     "id": "torobshop-tools-industrial-f65d7089e1b75967",
@@ -1257,7 +1257,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.949Z"
+    "observedAt": "2026-09-03T11:06:22.814Z"
   },
   {
     "id": "torobshop-tools-industrial-682b567d27e46eb9",
@@ -1275,7 +1275,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.949Z"
+    "observedAt": "2026-09-03T11:06:22.814Z"
   },
   {
     "id": "torobshop-tools-industrial-1a199d11167496a7",
@@ -1293,7 +1293,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.949Z"
+    "observedAt": "2026-09-03T11:06:22.814Z"
   },
   {
     "id": "torobshop-tools-industrial-e7562a4a47affbdf",
@@ -1311,7 +1311,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.949Z"
+    "observedAt": "2026-09-03T11:06:22.814Z"
   },
   {
     "id": "torobshop-tools-industrial-5681fc33ebc4a2c4",
@@ -1329,7 +1329,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.949Z"
+    "observedAt": "2026-09-03T11:06:22.814Z"
   },
   {
     "id": "torobshop-tools-industrial-eb3156af454255af",
@@ -1347,7 +1347,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.950Z"
+    "observedAt": "2026-09-03T11:06:22.814Z"
   },
   {
     "id": "torobshop-tools-industrial-3f60763e8c1f61db",
@@ -1365,7 +1365,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.950Z"
+    "observedAt": "2026-09-03T11:06:22.814Z"
   },
   {
     "id": "torobshop-tools-industrial-8b667a7c5d48a018",
@@ -1383,7 +1383,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.950Z"
+    "observedAt": "2026-09-03T11:06:22.814Z"
   },
   {
     "id": "torobshop-tools-industrial-c28d9ee4867587e0",
@@ -1401,7 +1401,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.950Z"
+    "observedAt": "2026-09-03T11:06:22.814Z"
   },
   {
     "id": "torobshop-tools-industrial-135cb4370d26107e",
@@ -1419,7 +1419,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.950Z"
+    "observedAt": "2026-09-03T11:06:22.814Z"
   },
   {
     "id": "torobshop-tools-industrial-ea6561f27fcae338",
@@ -1437,7 +1437,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.950Z"
+    "observedAt": "2026-09-03T11:06:22.814Z"
   },
   {
     "id": "torobshop-tools-industrial-9da6cf5207d19dc6",
@@ -1455,7 +1455,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.950Z"
+    "observedAt": "2026-09-03T11:06:22.814Z"
   },
   {
     "id": "torobshop-tools-industrial-973da9b66d30f98f",
@@ -1473,7 +1473,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.950Z"
+    "observedAt": "2026-09-03T11:06:22.814Z"
   },
   {
     "id": "torobshop-tools-industrial-27a7ab064979e19e",
@@ -1491,7 +1491,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.950Z"
+    "observedAt": "2026-09-03T11:06:22.814Z"
   },
   {
     "id": "torobshop-tools-industrial-426ac503c83523da",
@@ -1509,7 +1509,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.950Z"
+    "observedAt": "2026-09-03T11:06:22.814Z"
   },
   {
     "id": "torobshop-tools-industrial-93f0314c16b9cade",
@@ -1527,7 +1527,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.950Z"
+    "observedAt": "2026-09-03T11:06:22.814Z"
   },
   {
     "id": "torobshop-tools-industrial-e546c7ee2f25cccb",
@@ -1545,7 +1545,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.950Z"
+    "observedAt": "2026-09-03T11:06:22.814Z"
   },
   {
     "id": "torobshop-tools-industrial-06e9af83157d59bf",
@@ -1563,7 +1563,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.950Z"
+    "observedAt": "2026-09-03T11:06:22.814Z"
   },
   {
     "id": "torobshop-tools-industrial-7dd02e17fa5ae720",
@@ -1581,7 +1581,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.950Z"
+    "observedAt": "2026-09-03T11:06:22.814Z"
   },
   {
     "id": "torobshop-tools-industrial-67b089d5840c00b5",
@@ -1599,7 +1599,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.950Z"
+    "observedAt": "2026-09-03T11:06:22.814Z"
   },
   {
     "id": "torobshop-tools-industrial-16617f0cd6242c17",
@@ -1617,7 +1617,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.950Z"
+    "observedAt": "2026-09-03T11:06:22.814Z"
   },
   {
     "id": "torobshop-tools-industrial-aab6f7ca65634b77",
@@ -1635,7 +1635,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.950Z"
+    "observedAt": "2026-09-03T11:06:22.814Z"
   },
   {
     "id": "torobshop-tools-industrial-230290bd87eab562",
@@ -1653,7 +1653,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.950Z"
+    "observedAt": "2026-09-03T11:06:22.814Z"
   },
   {
     "id": "torobshop-tools-industrial-697a2934ffba6321",
@@ -1671,7 +1671,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.950Z"
+    "observedAt": "2026-09-03T11:06:22.814Z"
   },
   {
     "id": "torobshop-tools-industrial-54f5e9ae596669e0",
@@ -1689,7 +1689,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.950Z"
+    "observedAt": "2026-09-03T11:06:22.814Z"
   },
   {
     "id": "torobshop-tools-industrial-12112ebd794aebfe",
@@ -1707,7 +1707,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.950Z"
+    "observedAt": "2026-09-03T11:06:22.814Z"
   },
   {
     "id": "torobshop-tools-industrial-936307be3dbff4d8",
@@ -1725,7 +1725,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.950Z"
+    "observedAt": "2026-09-03T11:06:22.814Z"
   },
   {
     "id": "torobshop-tools-industrial-6e9b5969bf806a83",
@@ -1743,7 +1743,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.950Z"
+    "observedAt": "2026-09-03T11:06:22.814Z"
   },
   {
     "id": "torobshop-tools-industrial-e8fbb91576830b01",
@@ -1761,7 +1761,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.950Z"
+    "observedAt": "2026-09-03T11:06:22.814Z"
   },
   {
     "id": "torobshop-tools-industrial-46604b56d19bc98e",
@@ -1779,7 +1779,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.950Z"
+    "observedAt": "2026-09-03T11:06:22.814Z"
   },
   {
     "id": "torobshop-tools-industrial-c0da7c6caaaabe22",
@@ -1797,7 +1797,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.950Z"
+    "observedAt": "2026-09-03T11:06:22.814Z"
   },
   {
     "id": "torobshop-tools-industrial-b0d9a8bce5b96da9",
@@ -1815,7 +1815,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.950Z"
+    "observedAt": "2026-09-03T11:06:22.815Z"
   },
   {
     "id": "torobshop-tools-industrial-5aade8dcb399df70",
@@ -1833,7 +1833,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.950Z"
+    "observedAt": "2026-09-03T11:06:22.815Z"
   },
   {
     "id": "torobshop-tools-industrial-5793143473c0cf7d",
@@ -1851,7 +1851,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.950Z"
+    "observedAt": "2026-09-03T11:06:22.815Z"
   },
   {
     "id": "torobshop-tools-industrial-338927d0838a0440",
@@ -1869,7 +1869,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.950Z"
+    "observedAt": "2026-09-03T11:06:22.815Z"
   },
   {
     "id": "torobshop-tools-industrial-01db327156bef7cb",
@@ -1887,7 +1887,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.950Z"
+    "observedAt": "2026-09-03T11:06:22.815Z"
   },
   {
     "id": "torobshop-tools-industrial-5f8b7d12315d211b",
@@ -1905,7 +1905,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.950Z"
+    "observedAt": "2026-09-03T11:06:22.815Z"
   },
   {
     "id": "torobshop-tools-industrial-bbcc82316e14ad0c",
@@ -1923,7 +1923,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.950Z"
+    "observedAt": "2026-09-03T11:06:22.815Z"
   },
   {
     "id": "torobshop-tools-industrial-7bcf4d86c8897e89",
@@ -1941,7 +1941,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.950Z"
+    "observedAt": "2026-09-03T11:06:22.815Z"
   },
   {
     "id": "torobshop-tools-industrial-c4764ab021d7047d",
@@ -1959,7 +1959,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.950Z"
+    "observedAt": "2026-09-03T11:06:22.815Z"
   },
   {
     "id": "torobshop-tools-industrial-c0ed70988a23d716",
@@ -1977,7 +1977,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.950Z"
+    "observedAt": "2026-09-03T11:06:22.815Z"
   },
   {
     "id": "torobshop-tools-industrial-60d6e587231ae5e2",
@@ -1995,7 +1995,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.950Z"
+    "observedAt": "2026-09-03T11:06:22.815Z"
   },
   {
     "id": "torobshop-tools-industrial-6ae0fa5e11f4b4e4",
@@ -2013,7 +2013,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.950Z"
+    "observedAt": "2026-09-03T11:06:22.815Z"
   },
   {
     "id": "torobshop-tools-industrial-60af1d85416ddb75",
@@ -2031,7 +2031,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.950Z"
+    "observedAt": "2026-09-03T11:06:22.815Z"
   },
   {
     "id": "torobshop-tools-industrial-4bcca73578b5dd16",
@@ -2049,7 +2049,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.950Z"
+    "observedAt": "2026-09-03T11:06:22.815Z"
   },
   {
     "id": "torobshop-tools-industrial-6e06ceda384f61d3",
@@ -2067,7 +2067,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.950Z"
+    "observedAt": "2026-09-03T11:06:22.815Z"
   },
   {
     "id": "torobshop-tools-industrial-d6020856dbe3939e",
@@ -2085,7 +2085,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.950Z"
+    "observedAt": "2026-09-03T11:06:22.815Z"
   },
   {
     "id": "torobshop-tools-industrial-f9bbe058bc1d2128",
@@ -2103,7 +2103,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.950Z"
+    "observedAt": "2026-09-03T11:06:22.815Z"
   },
   {
     "id": "torobshop-tools-industrial-5d82b44892bc11b9",
@@ -2121,7 +2121,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.950Z"
+    "observedAt": "2026-09-03T11:06:22.815Z"
   },
   {
     "id": "torobshop-tools-industrial-55066b4800c9da01",
@@ -2139,7 +2139,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.950Z"
+    "observedAt": "2026-09-03T11:06:22.815Z"
   },
   {
     "id": "torobshop-tools-industrial-e314f2beea5b98b5",
@@ -2157,7 +2157,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.950Z"
+    "observedAt": "2026-09-03T11:06:22.815Z"
   },
   {
     "id": "torobshop-tools-industrial-e0190c6b09b72f84",
@@ -2175,7 +2175,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.950Z"
+    "observedAt": "2026-09-03T11:06:22.815Z"
   },
   {
     "id": "torobshop-tools-industrial-f9b72003ee046406",
@@ -2193,7 +2193,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.950Z"
+    "observedAt": "2026-09-03T11:06:22.815Z"
   },
   {
     "id": "torobshop-tools-industrial-dab9eb8721316f5c",
@@ -2211,7 +2211,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.950Z"
+    "observedAt": "2026-09-03T11:06:22.815Z"
   },
   {
     "id": "torobshop-tools-industrial-b5bb3ef74c64016f",
@@ -2229,7 +2229,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.950Z"
+    "observedAt": "2026-09-03T11:06:22.815Z"
   },
   {
     "id": "torobshop-tools-industrial-7039563646d2a08c",
@@ -2247,7 +2247,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.950Z"
+    "observedAt": "2026-09-03T11:06:22.815Z"
   },
   {
     "id": "torobshop-tools-industrial-e05ea902bac411c1",
@@ -2265,7 +2265,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.950Z"
+    "observedAt": "2026-09-03T11:06:22.815Z"
   },
   {
     "id": "torobshop-tools-industrial-d17a16a92c427af7",
@@ -2283,7 +2283,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.950Z"
+    "observedAt": "2026-09-03T11:06:22.815Z"
   },
   {
     "id": "torobshop-tools-industrial-13383e2908795ceb",
@@ -2301,7 +2301,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.950Z"
+    "observedAt": "2026-09-03T11:06:22.815Z"
   },
   {
     "id": "torobshop-tools-industrial-9f8dba1c4be0543f",
@@ -2319,7 +2319,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.950Z"
+    "observedAt": "2026-09-03T11:06:22.815Z"
   },
   {
     "id": "torobshop-tools-industrial-222c5f1f48a7811a",
@@ -2337,7 +2337,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.950Z"
+    "observedAt": "2026-09-03T11:06:22.815Z"
   },
   {
     "id": "torobshop-tools-industrial-7dda1ee3ebe3337d",
@@ -2355,7 +2355,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.950Z"
+    "observedAt": "2026-09-03T11:06:22.815Z"
   },
   {
     "id": "torobshop-tools-industrial-fed9304ce636fd70",
@@ -2373,7 +2373,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.950Z"
+    "observedAt": "2026-09-03T11:06:22.815Z"
   },
   {
     "id": "torobshop-tools-industrial-73f54a12bc87541c",
@@ -2391,7 +2391,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.950Z"
+    "observedAt": "2026-09-03T11:06:22.815Z"
   },
   {
     "id": "torobshop-tools-industrial-56d2262c04bf40b1",
@@ -2409,7 +2409,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.950Z"
+    "observedAt": "2026-09-03T11:06:22.815Z"
   },
   {
     "id": "torobshop-tools-industrial-1d09296a1209f7ae",
@@ -2427,7 +2427,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.950Z"
+    "observedAt": "2026-09-03T11:06:22.815Z"
   },
   {
     "id": "torobshop-tools-industrial-d5861c5eae980acb",
@@ -2445,7 +2445,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.950Z"
+    "observedAt": "2026-09-03T11:06:22.815Z"
   },
   {
     "id": "torobshop-tools-industrial-3a354858143bf5bf",
@@ -2463,7 +2463,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.950Z"
+    "observedAt": "2026-09-03T11:06:22.815Z"
   },
   {
     "id": "torobshop-tools-industrial-3b108c60419c6b3e",
@@ -2481,7 +2481,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.951Z"
+    "observedAt": "2026-09-03T11:06:22.815Z"
   },
   {
     "id": "torobshop-tools-industrial-386045fed7109b6c",
@@ -2499,7 +2499,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.951Z"
+    "observedAt": "2026-09-03T11:06:22.815Z"
   },
   {
     "id": "torobshop-tools-industrial-3d432c8dbd69eefb",
@@ -2517,7 +2517,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.951Z"
+    "observedAt": "2026-09-03T11:06:22.815Z"
   },
   {
     "id": "torobshop-tools-industrial-2278a7dbec8ed7cd",
@@ -2535,7 +2535,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.951Z"
+    "observedAt": "2026-09-03T11:06:22.815Z"
   },
   {
     "id": "torobshop-tools-industrial-66634e26dfb49c04",
@@ -2553,7 +2553,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.951Z"
+    "observedAt": "2026-09-03T11:06:22.815Z"
   },
   {
     "id": "torobshop-tools-industrial-bab25203513b93bb",
@@ -2571,7 +2571,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.951Z"
+    "observedAt": "2026-09-03T11:06:22.815Z"
   },
   {
     "id": "torobshop-tools-industrial-bcf3455eedcf96e7",
@@ -2589,7 +2589,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.951Z"
+    "observedAt": "2026-09-03T11:06:22.815Z"
   },
   {
     "id": "torobshop-tools-industrial-3dd1b99a47f6c6d1",
@@ -2607,7 +2607,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.951Z"
+    "observedAt": "2026-09-03T11:06:22.815Z"
   },
   {
     "id": "torobshop-tools-industrial-fbd5e1832a592f6d",
@@ -2625,7 +2625,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.951Z"
+    "observedAt": "2026-09-03T11:06:22.815Z"
   },
   {
     "id": "torobshop-tools-industrial-40f557a46b915c21",
@@ -2643,7 +2643,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.951Z"
+    "observedAt": "2026-09-03T11:06:22.815Z"
   },
   {
     "id": "torobshop-tools-industrial-9c9a87a898bad342",
@@ -2661,7 +2661,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.951Z"
+    "observedAt": "2026-09-03T11:06:22.815Z"
   },
   {
     "id": "torobshop-tools-industrial-685fccacbb18ee43",
@@ -2679,7 +2679,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.951Z"
+    "observedAt": "2026-09-03T11:06:22.815Z"
   },
   {
     "id": "torobshop-tools-industrial-1cb6df1aed563bee",
@@ -2697,7 +2697,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.951Z"
+    "observedAt": "2026-09-03T11:06:22.815Z"
   },
   {
     "id": "torobshop-tools-industrial-993ee35f4a561a10",
@@ -2715,7 +2715,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.951Z"
+    "observedAt": "2026-09-03T11:06:22.815Z"
   },
   {
     "id": "torobshop-tools-industrial-37fd983abaa93a3b",
@@ -2733,7 +2733,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.951Z"
+    "observedAt": "2026-09-03T11:06:22.815Z"
   },
   {
     "id": "torobshop-tools-industrial-deb4652ab7b20c96",
@@ -2751,7 +2751,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.951Z"
+    "observedAt": "2026-09-03T11:06:22.815Z"
   },
   {
     "id": "torobshop-tools-industrial-cc5a74ea332cb871",
@@ -2769,7 +2769,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.951Z"
+    "observedAt": "2026-09-03T11:06:22.815Z"
   },
   {
     "id": "torobshop-tools-industrial-f5c373b20c89f3cf",
@@ -2787,7 +2787,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.951Z"
+    "observedAt": "2026-09-03T11:06:22.815Z"
   },
   {
     "id": "torobshop-tools-industrial-557954e4838db8ec",
@@ -2805,7 +2805,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.951Z"
+    "observedAt": "2026-09-03T11:06:22.815Z"
   },
   {
     "id": "torobshop-tools-industrial-5e97e30e4af5e35a",
@@ -2823,7 +2823,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.951Z"
+    "observedAt": "2026-09-03T11:06:22.815Z"
   },
   {
     "id": "torobshop-tools-industrial-ca40f9691c169854",
@@ -2841,7 +2841,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.951Z"
+    "observedAt": "2026-09-03T11:06:22.815Z"
   },
   {
     "id": "torobshop-tools-industrial-ac5e0f9a687acc9d",
@@ -2859,7 +2859,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.951Z"
+    "observedAt": "2026-09-03T11:06:22.815Z"
   },
   {
     "id": "torobshop-tools-industrial-174296fd490ce4c6",
@@ -2877,7 +2877,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.951Z"
+    "observedAt": "2026-09-03T11:06:22.815Z"
   },
   {
     "id": "torobshop-tools-industrial-24ee5f250564a2b6",
@@ -2895,7 +2895,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.951Z"
+    "observedAt": "2026-09-03T11:06:22.815Z"
   },
   {
     "id": "torobshop-tools-industrial-eb2d1bdae18ab641",
@@ -2913,7 +2913,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.951Z"
+    "observedAt": "2026-09-03T11:06:22.815Z"
   },
   {
     "id": "torobshop-tools-industrial-9526bc50db1d2b71",
@@ -2931,7 +2931,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.951Z"
+    "observedAt": "2026-09-03T11:06:22.816Z"
   },
   {
     "id": "torobshop-tools-industrial-17aea0c096f3fbb1",
@@ -2949,7 +2949,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.951Z"
+    "observedAt": "2026-09-03T11:06:22.816Z"
   },
   {
     "id": "torobshop-tools-industrial-dab36535df580dd9",
@@ -2967,7 +2967,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.951Z"
+    "observedAt": "2026-09-03T11:06:22.816Z"
   },
   {
     "id": "torobshop-tools-industrial-bb07ff83203ce817",
@@ -2985,7 +2985,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.951Z"
+    "observedAt": "2026-09-03T11:06:22.816Z"
   },
   {
     "id": "torobshop-tools-industrial-23a08ed4a54c1bf3",
@@ -3003,7 +3003,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.951Z"
+    "observedAt": "2026-09-03T11:06:22.816Z"
   },
   {
     "id": "torobshop-tools-industrial-86394f5b0d453ade",
@@ -3021,7 +3021,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.951Z"
+    "observedAt": "2026-09-03T11:06:22.816Z"
   },
   {
     "id": "torobshop-tools-industrial-bf0ff9604c787d7f",
@@ -3039,7 +3039,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.951Z"
+    "observedAt": "2026-09-03T11:06:22.816Z"
   },
   {
     "id": "torobshop-tools-industrial-add12b5339d41d54",
@@ -3057,7 +3057,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.951Z"
+    "observedAt": "2026-09-03T11:06:22.816Z"
   },
   {
     "id": "torobshop-tools-industrial-e89541bdd38935d2",
@@ -3075,7 +3075,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.951Z"
+    "observedAt": "2026-09-03T11:06:22.816Z"
   },
   {
     "id": "torobshop-tools-industrial-ec7446a90d887300",
@@ -3093,7 +3093,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.951Z"
+    "observedAt": "2026-09-03T11:06:22.816Z"
   },
   {
     "id": "torobshop-tools-industrial-f676e23d1f151190",
@@ -3111,7 +3111,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.951Z"
+    "observedAt": "2026-09-03T11:06:22.816Z"
   },
   {
     "id": "torobshop-tools-industrial-ffccfb4b61d564f3",
@@ -3129,7 +3129,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.951Z"
+    "observedAt": "2026-09-03T11:06:22.816Z"
   },
   {
     "id": "torobshop-tools-industrial-bf9b6308d5e6e4a3",
@@ -3147,7 +3147,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.951Z"
+    "observedAt": "2026-09-03T11:06:22.816Z"
   },
   {
     "id": "torobshop-tools-industrial-a936b9d4fccda9ec",
@@ -3165,7 +3165,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.951Z"
+    "observedAt": "2026-09-03T11:06:22.816Z"
   },
   {
     "id": "torobshop-tools-industrial-20506e6b258fcb0c",
@@ -3183,7 +3183,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.951Z"
+    "observedAt": "2026-09-03T11:06:22.816Z"
   },
   {
     "id": "torobshop-tools-industrial-3debd7458ec254ad",
@@ -3201,7 +3201,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.951Z"
+    "observedAt": "2026-09-03T11:06:22.816Z"
   },
   {
     "id": "torobshop-tools-industrial-ec9957a5ab556a59",
@@ -3219,7 +3219,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.951Z"
+    "observedAt": "2026-09-03T11:06:22.816Z"
   },
   {
     "id": "torobshop-tools-industrial-9f1357a1a5ec15c3",
@@ -3237,7 +3237,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.951Z"
+    "observedAt": "2026-09-03T11:06:22.816Z"
   },
   {
     "id": "torobshop-tools-industrial-b93b2b7b8a52ead7",
@@ -3255,7 +3255,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.951Z"
+    "observedAt": "2026-09-03T11:06:22.816Z"
   },
   {
     "id": "torobshop-tools-industrial-bc5ad78acdc13550",
@@ -3273,7 +3273,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.951Z"
+    "observedAt": "2026-09-03T11:06:22.816Z"
   },
   {
     "id": "torobshop-tools-industrial-469010b14dce1518",
@@ -3291,7 +3291,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.951Z"
+    "observedAt": "2026-09-03T11:06:22.816Z"
   },
   {
     "id": "torobshop-tools-industrial-d622f60b84a25c29",
@@ -3309,7 +3309,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.951Z"
+    "observedAt": "2026-09-03T11:06:22.816Z"
   },
   {
     "id": "torobshop-tools-industrial-8ad1b620c2984c64",
@@ -3327,7 +3327,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.951Z"
+    "observedAt": "2026-09-03T11:06:22.816Z"
   },
   {
     "id": "torobshop-tools-industrial-7362b68fe582e1ef",
@@ -3345,7 +3345,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.951Z"
+    "observedAt": "2026-09-03T11:06:22.816Z"
   },
   {
     "id": "torobshop-tools-industrial-8b4d268dc0b50dc9",
@@ -3363,7 +3363,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.951Z"
+    "observedAt": "2026-09-03T11:06:22.816Z"
   },
   {
     "id": "torobshop-tools-industrial-8cd92a01eb7c25f2",
@@ -3381,7 +3381,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.951Z"
+    "observedAt": "2026-09-03T11:06:22.816Z"
   },
   {
     "id": "torobshop-tools-industrial-2aa12aa20262b96c",
@@ -3399,7 +3399,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.951Z"
+    "observedAt": "2026-09-03T11:06:22.816Z"
   },
   {
     "id": "torobshop-tools-industrial-712138d0bed8d76a",
@@ -3417,7 +3417,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.951Z"
+    "observedAt": "2026-09-03T11:06:22.816Z"
   },
   {
     "id": "torobshop-tools-industrial-10055e541e3441a4",
@@ -3435,7 +3435,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.951Z"
+    "observedAt": "2026-09-03T11:06:22.816Z"
   },
   {
     "id": "torobshop-tools-industrial-2961f6c161810850",
@@ -3453,7 +3453,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.951Z"
+    "observedAt": "2026-09-03T11:06:22.816Z"
   },
   {
     "id": "torobshop-tools-industrial-f6139cf71fa544af",
@@ -3471,7 +3471,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.951Z"
+    "observedAt": "2026-09-03T11:06:22.816Z"
   },
   {
     "id": "torobshop-tools-industrial-a0357d058917fff7",
@@ -3489,7 +3489,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.952Z"
+    "observedAt": "2026-09-03T11:06:22.816Z"
   },
   {
     "id": "torobshop-tools-industrial-667b222bc82da779",
@@ -3507,7 +3507,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.952Z"
+    "observedAt": "2026-09-03T11:06:22.816Z"
   },
   {
     "id": "torobshop-tools-industrial-b59055b4a9ca5ed0",
@@ -3525,7 +3525,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.952Z"
+    "observedAt": "2026-09-03T11:06:22.816Z"
   },
   {
     "id": "torobshop-tools-industrial-5219a65546b1a882",
@@ -3543,7 +3543,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.952Z"
+    "observedAt": "2026-09-03T11:06:22.816Z"
   },
   {
     "id": "torobshop-tools-industrial-2e4aeaf94d879ff9",
@@ -3561,7 +3561,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.952Z"
+    "observedAt": "2026-09-03T11:06:22.816Z"
   },
   {
     "id": "torobshop-tools-industrial-f241bfdbdc958cdb",
@@ -3579,7 +3579,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.952Z"
+    "observedAt": "2026-09-03T11:06:22.816Z"
   },
   {
     "id": "torobshop-tools-industrial-2734ee381987f71a",
@@ -3597,7 +3597,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.952Z"
+    "observedAt": "2026-09-03T11:06:22.816Z"
   },
   {
     "id": "torobshop-tools-industrial-13177f1a3461cbf8",
@@ -3615,7 +3615,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.952Z"
+    "observedAt": "2026-09-03T11:06:22.816Z"
   },
   {
     "id": "torobshop-tools-industrial-caf67fb53869dc8d",
@@ -3633,7 +3633,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.952Z"
+    "observedAt": "2026-09-03T11:06:22.816Z"
   },
   {
     "id": "torobshop-tools-industrial-226a6dfcab93ffe2",
@@ -3651,7 +3651,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.952Z"
+    "observedAt": "2026-09-03T11:06:22.816Z"
   },
   {
     "id": "torobshop-tools-industrial-d1db9fdb0a981eb7",
@@ -3669,7 +3669,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.952Z"
+    "observedAt": "2026-09-03T11:06:22.816Z"
   },
   {
     "id": "torobshop-tools-industrial-231a8680a663a06f",
@@ -3687,7 +3687,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.952Z"
+    "observedAt": "2026-09-03T11:06:22.816Z"
   },
   {
     "id": "torobshop-tools-industrial-1b01f5a6fb5eb1c5",
@@ -3705,7 +3705,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.952Z"
+    "observedAt": "2026-09-03T11:06:22.816Z"
   },
   {
     "id": "torobshop-tools-industrial-42a978739edad1b3",
@@ -3723,7 +3723,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.952Z"
+    "observedAt": "2026-09-03T11:06:22.816Z"
   },
   {
     "id": "torobshop-tools-industrial-db75e7774c65ead5",
@@ -3741,7 +3741,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.952Z"
+    "observedAt": "2026-09-03T11:06:22.816Z"
   },
   {
     "id": "torobshop-tools-industrial-176747b2a6b3c8bf",
@@ -3759,7 +3759,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.952Z"
+    "observedAt": "2026-09-03T11:06:22.816Z"
   },
   {
     "id": "torobshop-tools-industrial-9b16b6ebae742a59",
@@ -3777,7 +3777,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.952Z"
+    "observedAt": "2026-09-03T11:06:22.816Z"
   },
   {
     "id": "torobshop-tools-industrial-1acb3967a4975e9e",
@@ -3795,7 +3795,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.952Z"
+    "observedAt": "2026-09-03T11:06:22.816Z"
   },
   {
     "id": "torobshop-tools-industrial-7400212af3648c0e",
@@ -3813,7 +3813,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.952Z"
+    "observedAt": "2026-09-03T11:06:22.816Z"
   },
   {
     "id": "torobshop-tools-industrial-34bb04f7987b2eb8",
@@ -3831,7 +3831,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.952Z"
+    "observedAt": "2026-09-03T11:06:22.816Z"
   },
   {
     "id": "torobshop-tools-industrial-1ac684a13e625548",
@@ -3849,7 +3849,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.952Z"
+    "observedAt": "2026-09-03T11:06:22.816Z"
   },
   {
     "id": "torobshop-tools-industrial-7406803b18ab5cc6",
@@ -3867,7 +3867,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.952Z"
+    "observedAt": "2026-09-03T11:06:22.816Z"
   },
   {
     "id": "torobshop-tools-industrial-28fa9f296d3edd2c",
@@ -3885,7 +3885,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.952Z"
+    "observedAt": "2026-09-03T11:06:22.816Z"
   },
   {
     "id": "torobshop-tools-industrial-0a56e024ea7c3e6c",
@@ -3903,7 +3903,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.952Z"
+    "observedAt": "2026-09-03T11:06:22.816Z"
   },
   {
     "id": "torobshop-tools-industrial-0ef7eb89998918af",
@@ -3921,7 +3921,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.952Z"
+    "observedAt": "2026-09-03T11:06:22.816Z"
   },
   {
     "id": "torobshop-tools-industrial-f2475d629ba82cb9",
@@ -3939,7 +3939,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.952Z"
+    "observedAt": "2026-09-03T11:06:22.816Z"
   },
   {
     "id": "torobshop-tools-industrial-1123da8edef7210f",
@@ -3957,7 +3957,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.952Z"
+    "observedAt": "2026-09-03T11:06:22.817Z"
   },
   {
     "id": "torobshop-tools-industrial-32430a6532934fe7",
@@ -3975,7 +3975,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.952Z"
+    "observedAt": "2026-09-03T11:06:22.817Z"
   },
   {
     "id": "torobshop-tools-industrial-4fcaa05ae27e136c",
@@ -3993,7 +3993,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.952Z"
+    "observedAt": "2026-09-03T11:06:22.817Z"
   },
   {
     "id": "torobshop-tools-industrial-93c18ce837ff5f57",
@@ -4011,7 +4011,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.952Z"
+    "observedAt": "2026-09-03T11:06:22.817Z"
   },
   {
     "id": "torobshop-tools-industrial-c73bf4fc0db498be",
@@ -4029,7 +4029,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.952Z"
+    "observedAt": "2026-09-03T11:06:22.817Z"
   },
   {
     "id": "torobshop-tools-industrial-76f3e4ef7a8810f3",
@@ -4047,7 +4047,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.952Z"
+    "observedAt": "2026-09-03T11:06:22.817Z"
   },
   {
     "id": "torobshop-tools-industrial-8f566ccc32f52f97",
@@ -4065,7 +4065,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.952Z"
+    "observedAt": "2026-09-03T11:06:22.817Z"
   },
   {
     "id": "torobshop-tools-industrial-2dee2c9f6fb222d1",
@@ -4083,7 +4083,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.952Z"
+    "observedAt": "2026-09-03T11:06:22.817Z"
   },
   {
     "id": "torobshop-tools-industrial-05d539a087d0640e",
@@ -4101,7 +4101,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.953Z"
+    "observedAt": "2026-09-03T11:06:22.817Z"
   },
   {
     "id": "torobshop-tools-industrial-a40b1cc8eb60dfd3",
@@ -4119,7 +4119,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.953Z"
+    "observedAt": "2026-09-03T11:06:22.817Z"
   },
   {
     "id": "torobshop-tools-industrial-827984c7bc2a588b",
@@ -4137,7 +4137,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.953Z"
+    "observedAt": "2026-09-03T11:06:22.817Z"
   },
   {
     "id": "torobshop-tools-industrial-b1ad0ea7d3ae35d7",
@@ -4155,7 +4155,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.953Z"
+    "observedAt": "2026-09-03T11:06:22.817Z"
   },
   {
     "id": "torobshop-tools-industrial-01fd4211de27a0d5",
@@ -4173,7 +4173,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.953Z"
+    "observedAt": "2026-09-03T11:06:22.817Z"
   },
   {
     "id": "torobshop-tools-industrial-4c20864969491062",
@@ -4191,7 +4191,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.953Z"
+    "observedAt": "2026-09-03T11:06:22.817Z"
   },
   {
     "id": "torobshop-tools-industrial-6e8f969763fb12ec",
@@ -4209,7 +4209,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.953Z"
+    "observedAt": "2026-09-03T11:06:22.817Z"
   },
   {
     "id": "torobshop-tools-industrial-611344efb1bd3888",
@@ -4227,7 +4227,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.953Z"
+    "observedAt": "2026-09-03T11:06:22.817Z"
   },
   {
     "id": "torobshop-tools-industrial-c4ddc017f41906f6",
@@ -4245,7 +4245,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.953Z"
+    "observedAt": "2026-09-03T11:06:22.817Z"
   },
   {
     "id": "torobshop-tools-industrial-90fcbe8687059a30",
@@ -4263,7 +4263,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.953Z"
+    "observedAt": "2026-09-03T11:06:22.817Z"
   },
   {
     "id": "torobshop-tools-industrial-c0007aaa6ab91bb2",
@@ -4281,7 +4281,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.953Z"
+    "observedAt": "2026-09-03T11:06:22.817Z"
   },
   {
     "id": "torobshop-tools-industrial-34386721a691d178",
@@ -4299,7 +4299,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.953Z"
+    "observedAt": "2026-09-03T11:06:22.817Z"
   },
   {
     "id": "torobshop-tools-industrial-b8bd6a4d5ecca799",
@@ -4317,7 +4317,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.953Z"
+    "observedAt": "2026-09-03T11:06:22.817Z"
   },
   {
     "id": "torobshop-tools-industrial-9c72d8fb3f6a2ba1",
@@ -4335,7 +4335,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.953Z"
+    "observedAt": "2026-09-03T11:06:22.817Z"
   },
   {
     "id": "torobshop-tools-industrial-87cbcd550df2c8fa",
@@ -4353,7 +4353,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.953Z"
+    "observedAt": "2026-09-03T11:06:22.817Z"
   },
   {
     "id": "torobshop-tools-industrial-bb3d87082eb1a040",
@@ -4371,7 +4371,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.953Z"
+    "observedAt": "2026-09-03T11:06:22.817Z"
   },
   {
     "id": "torobshop-tools-industrial-af253d8db86172d9",
@@ -4389,7 +4389,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.953Z"
+    "observedAt": "2026-09-03T11:06:22.817Z"
   },
   {
     "id": "torobshop-tools-industrial-faf54d1de5277c91",
@@ -4407,7 +4407,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.953Z"
+    "observedAt": "2026-09-03T11:06:22.817Z"
   },
   {
     "id": "torobshop-tools-industrial-bed024ff9dfbc191",
@@ -4425,7 +4425,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.953Z"
+    "observedAt": "2026-09-03T11:06:22.817Z"
   },
   {
     "id": "torobshop-tools-industrial-12108326787ffaf6",
@@ -4443,7 +4443,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.953Z"
+    "observedAt": "2026-09-03T11:06:22.817Z"
   },
   {
     "id": "torobshop-tools-industrial-9706ad3cf0976481",
@@ -4461,7 +4461,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.953Z"
+    "observedAt": "2026-09-03T11:06:22.817Z"
   },
   {
     "id": "torobshop-tools-industrial-a78de50e19375b85",
@@ -4479,7 +4479,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.953Z"
+    "observedAt": "2026-09-03T11:06:22.817Z"
   },
   {
     "id": "torobshop-tools-industrial-b572c0c74ec7e1ee",
@@ -4497,7 +4497,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.953Z"
+    "observedAt": "2026-09-03T11:06:22.817Z"
   },
   {
     "id": "torobshop-tools-industrial-387754e6b4491f58",
@@ -4515,7 +4515,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.953Z"
+    "observedAt": "2026-09-03T11:06:22.818Z"
   },
   {
     "id": "torobshop-tools-industrial-39e57f782fd26013",
@@ -4533,7 +4533,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.953Z"
+    "observedAt": "2026-09-03T11:06:22.818Z"
   },
   {
     "id": "torobshop-tools-industrial-1ed3ae617a915858",
@@ -4551,7 +4551,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.953Z"
+    "observedAt": "2026-09-03T11:06:22.818Z"
   },
   {
     "id": "torobshop-tools-industrial-aa03a6c561a55d60",
@@ -4569,7 +4569,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.953Z"
+    "observedAt": "2026-09-03T11:06:22.818Z"
   },
   {
     "id": "torobshop-tools-industrial-d62ad3ee5759fcbd",
@@ -4587,7 +4587,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.953Z"
+    "observedAt": "2026-09-03T11:06:22.818Z"
   },
   {
     "id": "torobshop-tools-industrial-aed9f18e5d887270",
@@ -4605,7 +4605,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.953Z"
+    "observedAt": "2026-09-03T11:06:22.818Z"
   },
   {
     "id": "torobshop-tools-industrial-569f3d7e67640e5c",
@@ -4623,7 +4623,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.953Z"
+    "observedAt": "2026-09-03T11:06:22.818Z"
   },
   {
     "id": "torobshop-tools-industrial-0cfaef0e68debb8e",
@@ -4641,7 +4641,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.953Z"
+    "observedAt": "2026-09-03T11:06:22.818Z"
   },
   {
     "id": "torobshop-tools-industrial-ad6f3f422d15a766",
@@ -4659,7 +4659,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.953Z"
+    "observedAt": "2026-09-03T11:06:22.818Z"
   },
   {
     "id": "torobshop-tools-industrial-dfa4bdc99016ca7e",
@@ -4677,7 +4677,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.953Z"
+    "observedAt": "2026-09-03T11:06:22.818Z"
   },
   {
     "id": "torobshop-tools-industrial-0ff8a8fc1fbd561e",
@@ -4695,7 +4695,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.953Z"
+    "observedAt": "2026-09-03T11:06:22.818Z"
   },
   {
     "id": "torobshop-tools-industrial-fa434e6aa57c4be7",
@@ -4713,7 +4713,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.953Z"
+    "observedAt": "2026-09-03T11:06:22.818Z"
   },
   {
     "id": "torobshop-tools-industrial-4b7348b541c036cd",
@@ -4731,7 +4731,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.953Z"
+    "observedAt": "2026-09-03T11:06:22.818Z"
   },
   {
     "id": "torobshop-tools-industrial-921dfbcc90d038a0",
@@ -4749,7 +4749,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.953Z"
+    "observedAt": "2026-09-03T11:06:22.818Z"
   },
   {
     "id": "torobshop-tools-industrial-abdc2adccad9c33d",
@@ -4767,7 +4767,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.953Z"
+    "observedAt": "2026-09-03T11:06:22.818Z"
   },
   {
     "id": "torobshop-tools-industrial-695cd4ce1cd48f20",
@@ -4785,7 +4785,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.953Z"
+    "observedAt": "2026-09-03T11:06:22.818Z"
   },
   {
     "id": "torobshop-tools-industrial-6e397f6c85f56e0e",
@@ -4803,7 +4803,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.953Z"
+    "observedAt": "2026-09-03T11:06:22.818Z"
   },
   {
     "id": "torobshop-tools-industrial-9318a28bbba0fe53",
@@ -4821,7 +4821,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.953Z"
+    "observedAt": "2026-09-03T11:06:22.818Z"
   },
   {
     "id": "torobshop-tools-industrial-c9e212e51e3633db",
@@ -4839,7 +4839,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.953Z"
+    "observedAt": "2026-09-03T11:06:22.818Z"
   },
   {
     "id": "torobshop-tools-industrial-7464bedef3ecb51e",
@@ -4857,7 +4857,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.953Z"
+    "observedAt": "2026-09-03T11:06:22.818Z"
   },
   {
     "id": "torobshop-tools-industrial-51009350b9f240d2",
@@ -4875,7 +4875,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.953Z"
+    "observedAt": "2026-09-03T11:06:22.818Z"
   },
   {
     "id": "torobshop-tools-industrial-45c64009916028ba",
@@ -4893,7 +4893,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.953Z"
+    "observedAt": "2026-09-03T11:06:22.818Z"
   },
   {
     "id": "torobshop-tools-industrial-924e8879fd31e680",
@@ -4911,7 +4911,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.953Z"
+    "observedAt": "2026-09-03T11:06:22.818Z"
   },
   {
     "id": "torobshop-tools-industrial-ae3ba973ea2911ee",
@@ -4929,7 +4929,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.953Z"
+    "observedAt": "2026-09-03T11:06:22.818Z"
   },
   {
     "id": "torobshop-tools-industrial-15def7d563b1e542",
@@ -4947,7 +4947,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.953Z"
+    "observedAt": "2026-09-03T11:06:22.818Z"
   },
   {
     "id": "torobshop-tools-industrial-835b00c0d36d8e10",
@@ -4965,7 +4965,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.953Z"
+    "observedAt": "2026-09-03T11:06:22.818Z"
   },
   {
     "id": "torobshop-tools-industrial-35f3e181350a9721",
@@ -4983,7 +4983,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.953Z"
+    "observedAt": "2026-09-03T11:06:22.818Z"
   },
   {
     "id": "torobshop-tools-industrial-da199e6690f1c782",
@@ -5001,7 +5001,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.953Z"
+    "observedAt": "2026-09-03T11:06:22.818Z"
   },
   {
     "id": "torobshop-tools-industrial-37de96dd1d4a33c3",
@@ -5019,7 +5019,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.953Z"
+    "observedAt": "2026-09-03T11:06:22.818Z"
   },
   {
     "id": "torobshop-tools-industrial-9311f0ec7504f24b",
@@ -5037,7 +5037,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.953Z"
+    "observedAt": "2026-09-03T11:06:22.818Z"
   },
   {
     "id": "torobshop-tools-industrial-843617a20d001e4c",
@@ -5055,7 +5055,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.953Z"
+    "observedAt": "2026-09-03T11:06:22.818Z"
   },
   {
     "id": "torobshop-tools-industrial-ee166c5666efcec5",
@@ -5073,7 +5073,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.953Z"
+    "observedAt": "2026-09-03T11:06:22.818Z"
   },
   {
     "id": "torobshop-tools-industrial-67d9add46426dfe8",
@@ -5091,7 +5091,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.954Z"
+    "observedAt": "2026-09-03T11:06:22.818Z"
   },
   {
     "id": "torobshop-tools-industrial-3877183810368792",
@@ -5109,7 +5109,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.954Z"
+    "observedAt": "2026-09-03T11:06:22.818Z"
   },
   {
     "id": "torobshop-tools-industrial-fc88260817f3414e",
@@ -5127,7 +5127,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.954Z"
+    "observedAt": "2026-09-03T11:06:22.818Z"
   },
   {
     "id": "torobshop-tools-industrial-e2467d5cbf85ce81",
@@ -5145,7 +5145,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.954Z"
+    "observedAt": "2026-09-03T11:06:22.818Z"
   },
   {
     "id": "torobshop-tools-industrial-bbb69afb3e332a2c",
@@ -5163,7 +5163,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.954Z"
+    "observedAt": "2026-09-03T11:06:22.818Z"
   },
   {
     "id": "torobshop-tools-industrial-5cab57205d377e1f",
@@ -5181,7 +5181,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.954Z"
+    "observedAt": "2026-09-03T11:06:22.818Z"
   },
   {
     "id": "torobshop-tools-industrial-4415e2cd944c4e59",
@@ -5199,7 +5199,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.954Z"
+    "observedAt": "2026-09-03T11:06:22.818Z"
   },
   {
     "id": "torobshop-tools-industrial-d68b8e3ac997acb1",
@@ -5217,7 +5217,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.954Z"
+    "observedAt": "2026-09-03T11:06:22.818Z"
   },
   {
     "id": "torobshop-tools-industrial-30d122f629f89166",
@@ -5235,7 +5235,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.954Z"
+    "observedAt": "2026-09-03T11:06:22.818Z"
   },
   {
     "id": "torobshop-tools-industrial-07103c8f0e3ce377",
@@ -5253,7 +5253,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.954Z"
+    "observedAt": "2026-09-03T11:06:22.818Z"
   },
   {
     "id": "torobshop-tools-industrial-3e03d59443676707",
@@ -5271,7 +5271,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.954Z"
+    "observedAt": "2026-09-03T11:06:22.818Z"
   },
   {
     "id": "torobshop-tools-industrial-cb9e4b877badae34",
@@ -5289,7 +5289,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.954Z"
+    "observedAt": "2026-09-03T11:06:22.818Z"
   },
   {
     "id": "torobshop-tools-industrial-e4088b7a2b6ea10b",
@@ -5307,7 +5307,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.954Z"
+    "observedAt": "2026-09-03T11:06:22.818Z"
   },
   {
     "id": "torobshop-tools-industrial-ef26e366fa305ced",
@@ -5325,7 +5325,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.954Z"
+    "observedAt": "2026-09-03T11:06:22.818Z"
   },
   {
     "id": "torobshop-tools-industrial-05c540b60ea3624b",
@@ -5343,7 +5343,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.954Z"
+    "observedAt": "2026-09-03T11:06:22.818Z"
   },
   {
     "id": "torobshop-tools-industrial-d9fbeecaba31c602",
@@ -5361,7 +5361,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.954Z"
+    "observedAt": "2026-09-03T11:06:22.818Z"
   },
   {
     "id": "torobshop-tools-industrial-d397df756b9f1338",
@@ -5379,7 +5379,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.954Z"
+    "observedAt": "2026-09-03T11:06:22.818Z"
   },
   {
     "id": "torobshop-tools-industrial-f8b7784f8ba04a47",
@@ -5397,7 +5397,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.954Z"
+    "observedAt": "2026-09-03T11:06:22.818Z"
   },
   {
     "id": "torobshop-tools-industrial-e0d95c7bfcafe827",
@@ -5415,7 +5415,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.954Z"
+    "observedAt": "2026-09-03T11:06:22.818Z"
   },
   {
     "id": "torobshop-tools-industrial-0674abec1e1ff3bb",
@@ -5433,7 +5433,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.954Z"
+    "observedAt": "2026-09-03T11:06:22.818Z"
   },
   {
     "id": "torobshop-tools-industrial-c8ae91ddddbffeeb",
@@ -5451,7 +5451,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.954Z"
+    "observedAt": "2026-09-03T11:06:22.818Z"
   },
   {
     "id": "torobshop-tools-industrial-eb3d93fc719b9727",
@@ -5469,7 +5469,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.954Z"
+    "observedAt": "2026-09-03T11:06:22.818Z"
   },
   {
     "id": "torobshop-tools-industrial-9d8fbc8c7f0b6991",
@@ -5487,7 +5487,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.954Z"
+    "observedAt": "2026-09-03T11:06:22.818Z"
   },
   {
     "id": "torobshop-tools-industrial-b0b661c9d6dfca29",
@@ -5505,7 +5505,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.954Z"
+    "observedAt": "2026-09-03T11:06:22.818Z"
   },
   {
     "id": "torobshop-tools-industrial-c4580b999e737ac3",
@@ -5523,7 +5523,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.954Z"
+    "observedAt": "2026-09-03T11:06:22.818Z"
   },
   {
     "id": "torobshop-tools-industrial-d39a2f5ac6cd9a7f",
@@ -5541,7 +5541,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.954Z"
+    "observedAt": "2026-09-03T11:06:22.818Z"
   },
   {
     "id": "torobshop-tools-industrial-280503308950a13c",
@@ -5559,7 +5559,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.954Z"
+    "observedAt": "2026-09-03T11:06:22.819Z"
   },
   {
     "id": "torobshop-tools-industrial-aa2dfdb88af5c975",
@@ -5577,7 +5577,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.954Z"
+    "observedAt": "2026-09-03T11:06:22.819Z"
   },
   {
     "id": "torobshop-tools-industrial-40f09e3a04b68146",
@@ -5595,7 +5595,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.954Z"
+    "observedAt": "2026-09-03T11:06:22.819Z"
   },
   {
     "id": "torobshop-tools-industrial-0e4d04ef83a810db",
@@ -5613,7 +5613,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.954Z"
+    "observedAt": "2026-09-03T11:06:22.819Z"
   },
   {
     "id": "torobshop-tools-industrial-2be1976c83ad17a1",
@@ -5631,7 +5631,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.954Z"
+    "observedAt": "2026-09-03T11:06:22.819Z"
   },
   {
     "id": "torobshop-tools-industrial-9087741222a89b21",
@@ -5649,7 +5649,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.954Z"
+    "observedAt": "2026-09-03T11:06:22.819Z"
   },
   {
     "id": "torobshop-tools-industrial-412e480ec7918302",
@@ -5667,7 +5667,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.954Z"
+    "observedAt": "2026-09-03T11:06:22.819Z"
   },
   {
     "id": "torobshop-tools-industrial-00bf5776f339768d",
@@ -5685,7 +5685,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.954Z"
+    "observedAt": "2026-09-03T11:06:22.819Z"
   },
   {
     "id": "torobshop-tools-industrial-3644b82267dd5165",
@@ -5703,7 +5703,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.954Z"
+    "observedAt": "2026-09-03T11:06:22.819Z"
   },
   {
     "id": "torobshop-tools-industrial-d99c3943bcec9400",
@@ -5721,7 +5721,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.954Z"
+    "observedAt": "2026-09-03T11:06:22.819Z"
   },
   {
     "id": "torobshop-tools-industrial-1e0602d76b0e257a",
@@ -5739,7 +5739,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.954Z"
+    "observedAt": "2026-09-03T11:06:22.819Z"
   },
   {
     "id": "torobshop-tools-industrial-4dd091835a22ff69",
@@ -5757,7 +5757,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.954Z"
+    "observedAt": "2026-09-03T11:06:22.819Z"
   },
   {
     "id": "torobshop-tools-industrial-a218f27039422c46",
@@ -5775,7 +5775,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.954Z"
+    "observedAt": "2026-09-03T11:06:22.819Z"
   },
   {
     "id": "torobshop-tools-industrial-56cac7936a06e3f1",
@@ -5793,7 +5793,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.954Z"
+    "observedAt": "2026-09-03T11:06:22.819Z"
   },
   {
     "id": "torobshop-tools-industrial-ace9b88e93544c94",
@@ -5811,7 +5811,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.954Z"
+    "observedAt": "2026-09-03T11:06:22.819Z"
   },
   {
     "id": "torobshop-tools-industrial-e02164e6665f61ef",
@@ -5829,7 +5829,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.954Z"
+    "observedAt": "2026-09-03T11:06:22.819Z"
   },
   {
     "id": "torobshop-tools-industrial-1fd1146f6f750aa9",
@@ -5847,7 +5847,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.954Z"
+    "observedAt": "2026-09-03T11:06:22.819Z"
   },
   {
     "id": "torobshop-tools-industrial-ffbee63b50d31684",
@@ -5865,7 +5865,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.954Z"
+    "observedAt": "2026-09-03T11:06:22.819Z"
   },
   {
     "id": "torobshop-tools-industrial-97e8accc87d0f8bf",
@@ -5883,7 +5883,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.954Z"
+    "observedAt": "2026-09-03T11:06:22.819Z"
   },
   {
     "id": "torobshop-tools-industrial-8a5c15c91c1a9329",
@@ -5901,7 +5901,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.954Z"
+    "observedAt": "2026-09-03T11:06:22.819Z"
   },
   {
     "id": "torobshop-tools-industrial-1dfcfd9dee587f60",
@@ -5919,43 +5919,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.954Z"
-  },
-  {
-    "id": "torobshop-tools-industrial-b131b88e24438d96",
-    "productId": "torobshop-b131b88e24438d96",
-    "name": "ماهیتابه سرخ کردنی ZWILLING مدل Simplify سایز 24 سانتی‌متر، روکش نچسب سرامیکی، مناسب برای پخت القایی، مناسب برای انواع اجاق گاز، استیل ضد زنگ",
-    "brand": "",
-    "model": "ماهیتابه سرخ کردنی ZWILLING مدل Simplify سایز 24 سانتی‌متر، روکش نچسب سرامیکی، مناسب برای پخت القایی، مناسب برای انواع اجاق گاز، استیل ضد زنگ",
-    "category": "tools-industrial",
-    "subcategory": "ابزار صنعتی",
-    "price": 22584000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%AA%D8%A7%D8%A8%D9%87-%D8%B3%D8%B1%D8%AE-%DA%A9%D8%B1%D8%AF%D9%86%DB%8C-ZWILLING-%D9%85%D8%AF%D9%84-Simplify-%D8%B3%D8%A7%DB%8C%D8%B2-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D8%AE%D8%AA-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.954Z"
-  },
-  {
-    "id": "torobshop-tools-industrial-f4ac0f14bd21c6cf",
-    "productId": "torobshop-f4ac0f14bd21c6cf",
-    "name": "سرویس قابلمه ۵ تکه ZWILLING TrueFlow، با قابلیت ریختن مایعات، مناسب برای اجاق گازهای القایی، بدون پوشش، استیل ضد زنگ، نقره‌ای.",
-    "brand": "",
-    "model": "سرویس قابلمه ۵ تکه ZWILLING TrueFlow، با قابلیت ریختن مایعات، مناسب برای اجاق گازهای القایی، بدون پوشش، استیل ضد زنگ، نقره‌ای.",
-    "category": "tools-industrial",
-    "subcategory": "ابزار صنعتی",
-    "price": 51767000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B5-%D8%AA%DA%A9%D9%87-ZWILLING-TrueFlow-%D8%A8%D8%A7-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%B1%DB%8C%D8%AE%D8%AA%D9%86-%D9%85%D8%A7%DB%8C%D8%B9%D8%A7%D8%AA-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2%D9%87%D8%A7%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%D9%BE%D9%88%D8%B4%D8%B4-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.954Z"
+    "observedAt": "2026-09-03T11:06:22.819Z"
   },
   {
     "id": "torobshop-tools-industrial-ef0157b54bf022f6",
@@ -5973,7 +5937,43 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.954Z"
+    "observedAt": "2026-09-03T11:06:22.819Z"
+  },
+  {
+    "id": "torobshop-tools-industrial-b131b88e24438d96",
+    "productId": "torobshop-b131b88e24438d96",
+    "name": "ماهیتابه سرخ کردنی ZWILLING مدل Simplify سایز 24 سانتی‌متر، روکش نچسب سرامیکی، مناسب برای پخت القایی، مناسب برای انواع اجاق گاز، استیل ضد زنگ",
+    "brand": "",
+    "model": "ماهیتابه سرخ کردنی ZWILLING مدل Simplify سایز 24 سانتی‌متر، روکش نچسب سرامیکی، مناسب برای پخت القایی، مناسب برای انواع اجاق گاز، استیل ضد زنگ",
+    "category": "tools-industrial",
+    "subcategory": "ابزار صنعتی",
+    "price": 22584000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AA%D8%A7%D8%A8%D9%87-%D8%B3%D8%B1%D8%AE-%DA%A9%D8%B1%D8%AF%D9%86%DB%8C-ZWILLING-%D9%85%D8%AF%D9%84-Simplify-%D8%B3%D8%A7%DB%8C%D8%B2-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D8%AE%D8%AA-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T11:06:22.819Z"
+  },
+  {
+    "id": "torobshop-tools-industrial-f4ac0f14bd21c6cf",
+    "productId": "torobshop-f4ac0f14bd21c6cf",
+    "name": "سرویس قابلمه ۵ تکه ZWILLING TrueFlow، با قابلیت ریختن مایعات، مناسب برای اجاق گازهای القایی، بدون پوشش، استیل ضد زنگ، نقره‌ای.",
+    "brand": "",
+    "model": "سرویس قابلمه ۵ تکه ZWILLING TrueFlow، با قابلیت ریختن مایعات، مناسب برای اجاق گازهای القایی، بدون پوشش، استیل ضد زنگ، نقره‌ای.",
+    "category": "tools-industrial",
+    "subcategory": "ابزار صنعتی",
+    "price": 51767000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B5-%D8%AA%DA%A9%D9%87-ZWILLING-TrueFlow-%D8%A8%D8%A7-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%B1%DB%8C%D8%AE%D8%AA%D9%86-%D9%85%D8%A7%DB%8C%D8%B9%D8%A7%D8%AA-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2%D9%87%D8%A7%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%D9%BE%D9%88%D8%B4%D8%B4-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T11:06:22.819Z"
   },
   {
     "id": "torobshop-tools-industrial-4bffdb79ac43fe15",
@@ -5991,7 +5991,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.954Z"
+    "observedAt": "2026-09-03T11:06:22.819Z"
   },
   {
     "id": "torobshop-tools-industrial-f06d188d530004ad",
@@ -6009,7 +6009,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.954Z"
+    "observedAt": "2026-09-03T11:06:22.819Z"
   },
   {
     "id": "torobshop-tools-industrial-2f0597d05addbba1",
@@ -6027,7 +6027,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.954Z"
+    "observedAt": "2026-09-03T11:06:22.819Z"
   },
   {
     "id": "torobshop-tools-industrial-fda1fe8cf4de5c5d",
@@ -6045,7 +6045,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.954Z"
+    "observedAt": "2026-09-03T11:06:22.819Z"
   },
   {
     "id": "torobshop-tools-industrial-22200afc1cbeec02",
@@ -6063,7 +6063,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.954Z"
+    "observedAt": "2026-09-03T11:06:22.819Z"
   },
   {
     "id": "torobshop-tools-industrial-595f1b954d0611bd",
@@ -6081,7 +6081,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.954Z"
+    "observedAt": "2026-09-03T11:06:22.819Z"
   },
   {
     "id": "torobshop-tools-industrial-a02082729540664c",
@@ -6099,7 +6099,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.954Z"
+    "observedAt": "2026-09-03T11:06:22.819Z"
   },
   {
     "id": "torobshop-tools-industrial-f4e7843bb5d4eb60",
@@ -6117,7 +6117,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.954Z"
+    "observedAt": "2026-09-03T11:06:22.819Z"
   },
   {
     "id": "torobshop-tools-industrial-f26fbc6e8dbee708",
@@ -6135,7 +6135,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.954Z"
+    "observedAt": "2026-09-03T11:06:22.819Z"
   },
   {
     "id": "torobshop-tools-industrial-736fe4049676a61e",
@@ -6153,7 +6153,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.955Z"
+    "observedAt": "2026-09-03T11:06:22.819Z"
   },
   {
     "id": "torobshop-tools-industrial-3d13a34700e027c0",
@@ -6171,7 +6171,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.955Z"
+    "observedAt": "2026-09-03T11:06:22.819Z"
   },
   {
     "id": "torobshop-tools-industrial-19319bed3e2f6069",
@@ -6189,7 +6189,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.955Z"
+    "observedAt": "2026-09-03T11:06:22.819Z"
   },
   {
     "id": "torobshop-tools-industrial-7ac6bac20ad12a2d",
@@ -6207,7 +6207,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.955Z"
+    "observedAt": "2026-09-03T11:06:22.819Z"
   },
   {
     "id": "torobshop-tools-industrial-f091c9e920c8e1fb",
@@ -6225,7 +6225,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.955Z"
+    "observedAt": "2026-09-03T11:06:22.819Z"
   },
   {
     "id": "torobshop-tools-industrial-fbbfc333137fef0f",
@@ -6243,7 +6243,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.955Z"
+    "observedAt": "2026-09-03T11:06:22.819Z"
   },
   {
     "id": "torobshop-tools-industrial-98b213756a0f63d3",
@@ -6261,7 +6261,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.955Z"
+    "observedAt": "2026-09-03T11:06:22.819Z"
   },
   {
     "id": "torobshop-tools-industrial-f596668a95c6181a",
@@ -6279,7 +6279,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.955Z"
+    "observedAt": "2026-09-03T11:06:22.819Z"
   },
   {
     "id": "torobshop-tools-industrial-4b3421328c1ce066",
@@ -6297,7 +6297,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.955Z"
+    "observedAt": "2026-09-03T11:06:22.819Z"
   },
   {
     "id": "torobshop-tools-industrial-d3f802410104b943",
@@ -6315,7 +6315,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.955Z"
+    "observedAt": "2026-09-03T11:06:22.819Z"
   },
   {
     "id": "torobshop-tools-industrial-0f347f93a4676672",
@@ -6333,7 +6333,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.955Z"
+    "observedAt": "2026-09-03T11:06:22.819Z"
   },
   {
     "id": "torobshop-tools-industrial-cb5f45612fc319e4",
@@ -6351,7 +6351,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.955Z"
+    "observedAt": "2026-09-03T11:06:22.819Z"
   },
   {
     "id": "torobshop-tools-industrial-a447d48449c2d499",
@@ -6369,7 +6369,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.955Z"
+    "observedAt": "2026-09-03T11:06:22.819Z"
   },
   {
     "id": "torobshop-tools-industrial-71ebfae235e91ed5",
@@ -6387,7 +6387,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.955Z"
+    "observedAt": "2026-09-03T11:06:22.819Z"
   },
   {
     "id": "torobshop-tools-industrial-51edff8c55bfb262",
@@ -6405,7 +6405,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.955Z"
+    "observedAt": "2026-09-03T11:06:22.819Z"
   },
   {
     "id": "torobshop-tools-industrial-6bc05672d0e139cd",
@@ -6423,7 +6423,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.955Z"
+    "observedAt": "2026-09-03T11:06:22.819Z"
   },
   {
     "id": "torobshop-tools-industrial-f99dae95f9641652",
@@ -6441,7 +6441,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.955Z"
+    "observedAt": "2026-09-03T11:06:22.819Z"
   },
   {
     "id": "torobshop-tools-industrial-6b776fc230756800",
@@ -6459,7 +6459,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.955Z"
+    "observedAt": "2026-09-03T11:06:22.819Z"
   },
   {
     "id": "torobshop-tools-industrial-f2622dc414824191",
@@ -6477,7 +6477,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.955Z"
+    "observedAt": "2026-09-03T11:06:22.819Z"
   },
   {
     "id": "torobshop-tools-industrial-640c8324f81a46bb",
@@ -6495,7 +6495,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.955Z"
+    "observedAt": "2026-09-03T11:06:22.819Z"
   },
   {
     "id": "torobshop-tools-industrial-c54b5b958054a1a2",
@@ -6513,7 +6513,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.955Z"
+    "observedAt": "2026-09-03T11:06:22.819Z"
   },
   {
     "id": "torobshop-tools-industrial-43b61e0733cc7171",
@@ -6531,7 +6531,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.955Z"
+    "observedAt": "2026-09-03T11:06:22.819Z"
   },
   {
     "id": "torobshop-tools-industrial-7f66ba1a4f7ddbfb",
@@ -6549,7 +6549,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.955Z"
+    "observedAt": "2026-09-03T11:06:22.819Z"
   },
   {
     "id": "torobshop-tools-industrial-f699a00edc06f489",
@@ -6567,7 +6567,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.955Z"
+    "observedAt": "2026-09-03T11:06:22.820Z"
   },
   {
     "id": "torobshop-tools-industrial-a942a79dda5b87df",
@@ -6585,7 +6585,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.955Z"
+    "observedAt": "2026-09-03T11:06:22.820Z"
   },
   {
     "id": "torobshop-tools-industrial-af7462ce98ee2999",
@@ -6603,7 +6603,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.955Z"
+    "observedAt": "2026-09-03T11:06:22.820Z"
   },
   {
     "id": "torobshop-tools-industrial-7c82cddc2d9efd1c",
@@ -6621,43 +6621,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.955Z"
-  },
-  {
-    "id": "torobshop-tools-industrial-7bbb1f19505b28fd",
-    "productId": "torobshop-7bbb1f19505b28fd",
-    "name": "اتو موی فیلیپس سری 5000 با فناوری ترموشیلد، سفید [مدل BHS520/00]",
-    "brand": "",
-    "model": "اتو موی فیلیپس سری 5000 با فناوری ترموشیلد، سفید [مدل BHS520/00]",
-    "category": "tools-industrial",
-    "subcategory": "ابزار صنعتی",
-    "price": 17002000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%A7%D8%AA%D9%88-%D9%85%D9%88%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%B3%D8%B1%DB%8C-5000-%D8%A8%D8%A7-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-%D8%AA%D8%B1%D9%85%D9%88%D8%B4%DB%8C%D9%84%D8%AF-%D8%B3%D9%81%DB%8C%D8%AF-%D9%85%D8%AF%D9%84-BHS520-00",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.955Z"
-  },
-  {
-    "id": "torobshop-tools-industrial-e4ec7bd10ffa8b50",
-    "productId": "torobshop-e4ec7bd10ffa8b50",
-    "name": "لیزر بدن بانوان رفع موهای زائد فیلیپس هلند Philips BRI950/02 برای داشتن پوستی ابریشمی و صاف تا 2 سال",
-    "brand": "",
-    "model": "لیزر بدن بانوان رفع موهای زائد فیلیپس هلند Philips BRI950/02 برای داشتن پوستی ابریشمی و صاف تا 2 سال",
-    "category": "tools-industrial",
-    "subcategory": "ابزار صنعتی",
-    "price": 108425000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%DB%8C-Philips-Lumea-IPL-9900-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-IPL-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AF%D8%A7%D8%B4%D8%AA%D9%86-%D9%BE%D9%88%D8%B3%D8%AA%DB%8C-%D8%A7%D8%A8%D8%B1%DB%8C%D8%B4%D9%85%DB%8C-%D9%88-%D8%B5%D8%A7%D9%81-%D8%AA%D8%A7-2-%D8%B3%D8%A7%D9%84-%D8%A8%D8%A7-2-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A8%D8%AF%D9%86-%D9%88-%D8%B5%D9%88%D8%B1%D8%AA-%D8%A8%D8%AF%D9%88%D9%86-%D8%B3%DB%8C%D9%85-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D9%84%DB%8C%D8%B2%D8%B1-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-BRI950-02",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.955Z"
+    "observedAt": "2026-09-03T11:06:22.820Z"
   },
   {
     "id": "torobshop-tools-industrial-f6c6e72a28882975",
@@ -6675,7 +6639,43 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.955Z"
+    "observedAt": "2026-09-03T11:06:22.820Z"
+  },
+  {
+    "id": "torobshop-tools-industrial-7bbb1f19505b28fd",
+    "productId": "torobshop-7bbb1f19505b28fd",
+    "name": "اتو موی فیلیپس سری 5000 با فناوری ترموشیلد، سفید [مدل BHS520/00]",
+    "brand": "",
+    "model": "اتو موی فیلیپس سری 5000 با فناوری ترموشیلد، سفید [مدل BHS520/00]",
+    "category": "tools-industrial",
+    "subcategory": "ابزار صنعتی",
+    "price": 17002000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D8%AA%D9%88-%D9%85%D9%88%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%B3%D8%B1%DB%8C-5000-%D8%A8%D8%A7-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-%D8%AA%D8%B1%D9%85%D9%88%D8%B4%DB%8C%D9%84%D8%AF-%D8%B3%D9%81%DB%8C%D8%AF-%D9%85%D8%AF%D9%84-BHS520-00",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T11:06:22.820Z"
+  },
+  {
+    "id": "torobshop-tools-industrial-e4ec7bd10ffa8b50",
+    "productId": "torobshop-e4ec7bd10ffa8b50",
+    "name": "لیزر بدن بانوان رفع موهای زائد فیلیپس هلند Philips BRI950/02 برای داشتن پوستی ابریشمی و صاف تا 2 سال",
+    "brand": "",
+    "model": "لیزر بدن بانوان رفع موهای زائد فیلیپس هلند Philips BRI950/02 برای داشتن پوستی ابریشمی و صاف تا 2 سال",
+    "category": "tools-industrial",
+    "subcategory": "ابزار صنعتی",
+    "price": 108425000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%DB%8C-Philips-Lumea-IPL-9900-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-IPL-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AF%D8%A7%D8%B4%D8%AA%D9%86-%D9%BE%D9%88%D8%B3%D8%AA%DB%8C-%D8%A7%D8%A8%D8%B1%DB%8C%D8%B4%D9%85%DB%8C-%D9%88-%D8%B5%D8%A7%D9%81-%D8%AA%D8%A7-2-%D8%B3%D8%A7%D9%84-%D8%A8%D8%A7-2-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A8%D8%AF%D9%86-%D9%88-%D8%B5%D9%88%D8%B1%D8%AA-%D8%A8%D8%AF%D9%88%D9%86-%D8%B3%DB%8C%D9%85-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D9%84%DB%8C%D8%B2%D8%B1-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-BRI950-02",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T11:06:22.820Z"
   },
   {
     "id": "torobshop-tools-industrial-a59cff30443c154a",
@@ -6693,7 +6693,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.955Z"
+    "observedAt": "2026-09-03T11:06:22.820Z"
   },
   {
     "id": "torobshop-tools-industrial-5bc21e4edaa526cc",
@@ -6711,7 +6711,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.955Z"
+    "observedAt": "2026-09-03T11:06:22.820Z"
   },
   {
     "id": "torobshop-tools-industrial-45d6aa9c3fd53ad4",
@@ -6729,7 +6729,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.955Z"
+    "observedAt": "2026-09-03T11:06:22.820Z"
   },
   {
     "id": "torobshop-tools-industrial-1abb58c93aa4d049",
@@ -6747,7 +6747,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.955Z"
+    "observedAt": "2026-09-03T11:06:22.820Z"
   },
   {
     "id": "torobshop-tools-industrial-9d62a66000d436e1",
@@ -6765,7 +6765,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.955Z"
+    "observedAt": "2026-09-03T11:06:22.820Z"
   },
   {
     "id": "torobshop-tools-industrial-c876f51b5b5d7dae",
@@ -6783,7 +6783,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.955Z"
+    "observedAt": "2026-09-03T11:06:22.820Z"
   },
   {
     "id": "torobshop-tools-industrial-400b05dca029ee01",
@@ -6801,7 +6801,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.955Z"
+    "observedAt": "2026-09-03T11:06:22.820Z"
   },
   {
     "id": "torobshop-tools-industrial-27109e9fc58673fd",
@@ -6819,7 +6819,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.955Z"
+    "observedAt": "2026-09-03T11:06:22.820Z"
   },
   {
     "id": "torobshop-tools-industrial-d6551c8766b38613",
@@ -6837,7 +6837,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.955Z"
+    "observedAt": "2026-09-03T11:06:22.820Z"
   },
   {
     "id": "torobshop-tools-industrial-6c0960e9008fddf6",
@@ -6855,7 +6855,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.955Z"
+    "observedAt": "2026-09-03T11:06:22.820Z"
   },
   {
     "id": "torobshop-tools-industrial-766b0f80e67074f9",
@@ -6873,7 +6873,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.955Z"
+    "observedAt": "2026-09-03T11:06:22.820Z"
   },
   {
     "id": "torobshop-tools-industrial-508a955227952a9d",
@@ -6891,7 +6891,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.955Z"
+    "observedAt": "2026-09-03T11:06:22.820Z"
   },
   {
     "id": "torobshop-tools-industrial-074febbf09bd3065",
@@ -6909,7 +6909,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.955Z"
+    "observedAt": "2026-09-03T11:06:22.820Z"
   },
   {
     "id": "torobshop-tools-industrial-5e70d562a3ef7192",
@@ -6927,7 +6927,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.955Z"
+    "observedAt": "2026-09-03T11:06:22.820Z"
   },
   {
     "id": "torobshop-tools-industrial-967849182031e292",
@@ -6945,7 +6945,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.955Z"
+    "observedAt": "2026-09-03T11:06:22.820Z"
   },
   {
     "id": "torobshop-tools-industrial-2cb3b869608c8a13",
@@ -6963,7 +6963,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.955Z"
+    "observedAt": "2026-09-03T11:06:22.820Z"
   },
   {
     "id": "torobshop-tools-industrial-dc3a8d1c6feb961b",
@@ -6981,7 +6981,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.955Z"
+    "observedAt": "2026-09-03T11:06:22.820Z"
   },
   {
     "id": "torobshop-tools-industrial-6e4a2eb26d23a745",
@@ -6999,7 +6999,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.955Z"
+    "observedAt": "2026-09-03T11:06:22.820Z"
   },
   {
     "id": "torobshop-tools-industrial-b6d1e42e39dc67ab",
@@ -7017,7 +7017,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.955Z"
+    "observedAt": "2026-09-03T11:06:22.820Z"
   },
   {
     "id": "torobshop-tools-industrial-2182240d0b4b05fe",
@@ -7035,7 +7035,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.955Z"
+    "observedAt": "2026-09-03T11:06:22.820Z"
   },
   {
     "id": "torobshop-tools-industrial-8b93c7ea550544bf",
@@ -7053,7 +7053,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.955Z"
+    "observedAt": "2026-09-03T11:06:22.820Z"
   },
   {
     "id": "torobshop-tools-industrial-e93d0f8dd3711a93",
@@ -7071,7 +7071,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.955Z"
+    "observedAt": "2026-09-03T11:06:22.820Z"
   },
   {
     "id": "torobshop-tools-industrial-52384f9bcf5e57ca",
@@ -7089,7 +7089,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.956Z"
+    "observedAt": "2026-09-03T11:06:22.820Z"
   },
   {
     "id": "torobshop-tools-industrial-391c9855ce3adbee",
@@ -7107,7 +7107,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.956Z"
+    "observedAt": "2026-09-03T11:06:22.820Z"
   },
   {
     "id": "torobshop-tools-industrial-7c140bba2434e29a",
@@ -7125,7 +7125,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.956Z"
+    "observedAt": "2026-09-03T11:06:22.820Z"
   },
   {
     "id": "torobshop-tools-industrial-733ef1e66d9b337b",
@@ -7143,7 +7143,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.956Z"
+    "observedAt": "2026-09-03T11:06:22.820Z"
   },
   {
     "id": "torobshop-tools-industrial-6ba05ec79330884d",
@@ -7161,7 +7161,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.956Z"
+    "observedAt": "2026-09-03T11:06:22.820Z"
   },
   {
     "id": "torobshop-tools-industrial-80504a6da4da0683",
@@ -7179,7 +7179,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.956Z"
+    "observedAt": "2026-09-03T11:06:22.820Z"
   },
   {
     "id": "torobshop-tools-industrial-f0ab07848df05c09",
@@ -7197,7 +7197,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.956Z"
+    "observedAt": "2026-09-03T11:06:22.820Z"
   },
   {
     "id": "torobshop-tools-industrial-9195692751acb6cb",
@@ -7215,7 +7215,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.956Z"
+    "observedAt": "2026-09-03T11:06:22.820Z"
   },
   {
     "id": "torobshop-tools-industrial-e364f422cc177d5d",
@@ -7233,7 +7233,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.956Z"
+    "observedAt": "2026-09-03T11:06:22.820Z"
   },
   {
     "id": "torobshop-tools-industrial-b6f7b97e0a41fcce",
@@ -7251,7 +7251,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.956Z"
+    "observedAt": "2026-09-03T11:06:22.820Z"
   },
   {
     "id": "torobshop-tools-industrial-f7e7ecdbe9c782b9",
@@ -7269,7 +7269,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.956Z"
+    "observedAt": "2026-09-03T11:06:22.820Z"
   },
   {
     "id": "torobshop-tools-industrial-7f7cef16b95ceef4",
@@ -7287,7 +7287,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.956Z"
+    "observedAt": "2026-09-03T11:06:22.820Z"
   },
   {
     "id": "torobshop-tools-industrial-1abc4d3d93984fc9",
@@ -7305,7 +7305,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.956Z"
+    "observedAt": "2026-09-03T11:06:22.820Z"
   },
   {
     "id": "torobshop-tools-industrial-fb66328b02aeada9",
@@ -7323,7 +7323,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.956Z"
+    "observedAt": "2026-09-03T11:06:22.820Z"
   },
   {
     "id": "torobshop-tools-industrial-333eed5c812fb391",
@@ -7341,7 +7341,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.956Z"
+    "observedAt": "2026-09-03T11:06:22.820Z"
   },
   {
     "id": "torobshop-tools-industrial-d5e3206967150e5a",
@@ -7359,115 +7359,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.956Z"
-  },
-  {
-    "id": "torobshop-tools-industrial-4b1136653b8c3865",
-    "productId": "torobshop-4b1136653b8c3865",
-    "name": "دستگاه لیزر بدن بانوان براون آلمان رفع موهای زائد، Silk·expert Pro 3، PL3230، سفید/نقره‌ای، لیزر جایگزین برای رفع موهای زائد خانگی، رفع دائمی موهای زائد، شامل قاب و 3 قطعه جانبی",
-    "brand": "",
-    "model": "دستگاه لیزر بدن بانوان براون آلمان رفع موهای زائد، Silk·expert Pro 3، PL3230، سفید/نقره‌ای، لیزر جایگزین برای رفع موهای زائد خانگی، رفع دائمی موهای زائد، شامل قاب و 3 قطعه جانبی",
-    "category": "tools-industrial",
-    "subcategory": "ابزار صنعتی",
-    "price": 79935000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-IPL-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Silk-expert-Pro-3-PL3230-%D8%B3%D9%81%DB%8C%D8%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C-%D9%84%DB%8C%D8%B2%D8%B1-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C-%D8%B1%D9%81%D8%B9-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%B4%D8%A7%D9%85%D9%84-%D9%82%D8%A7%D8%A8-%D9%88-3-%D9%82%D8%B7%D8%B9%D9%87-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.956Z"
-  },
-  {
-    "id": "torobshop-tools-industrial-bff623028ca50588",
-    "productId": "torobshop-bff623028ca50588",
-    "name": "ریش‌تراش برقی بی‌سیم فیلیپس سری لیدی شیور ۸۰۰۰، مناسب برای اصلاح صورت خشک و تر، سر اصلاح انعطاف‌پذیر با ۳ تیغه، چراغ LED برای پاها و بدن، زمان کارکرد ۱۰۰ دقیقه، مدل BRL129/00",
-    "brand": "",
-    "model": "ریش‌تراش برقی بی‌سیم فیلیپس سری لیدی شیور ۸۰۰۰، مناسب برای اصلاح صورت خشک و تر، سر اصلاح انعطاف‌پذیر با ۳ تیغه، چراغ LED برای پاها و بدن، زمان کارکرد ۱۰۰ دقیقه، مدل BRL129/00",
-    "category": "tools-industrial",
-    "subcategory": "ابزار صنعتی",
-    "price": 19539000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D8%A8%D8%B1%D9%82%DB%8C-%D8%A8%DB%8C-%D8%B3%DB%8C%D9%85-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%B3%D8%B1%DB%8C-%D9%84%DB%8C%D8%AF%DB%8C-%D8%B4%DB%8C%D9%88%D8%B1-%DB%B8%DB%B0%DB%B0%DB%B0-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%B5%D9%88%D8%B1%D8%AA-%D8%AE%D8%B4%DA%A9-%D9%88-%D8%AA%D8%B1-%D8%B3%D8%B1-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%A7%D9%86%D8%B9%D8%B7%D8%A7%D9%81-%D9%BE%D8%B0%DB%8C%D8%B1-%D8%A8%D8%A7-%DB%B3-%D8%AA%DB%8C%D8%BA%D9%87-%DA%86%D8%B1%D8%A7%D8%BA-LED-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D8%A7%D9%87%D8%A7-%D9%88-%D8%A8%D8%AF%D9%86-%D8%B2%D9%85%D8%A7%D9%86-%DA%A9%D8%A7%D8%B1%DA%A9%D8%B1%D8%AF-%DB%B1%DB%B0%DB%B0-%D8%AF%D9%82%DB%8C%D9%82%D9%87-%D9%85%D8%AF%D9%84-BRL129-00",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.956Z"
-  },
-  {
-    "id": "torobshop-tools-industrial-ef59c7447c918481",
-    "productId": "torobshop-ef59c7447c918481",
-    "name": "اپیلاتور زنانه براون آلمان Braun Silk·épil 9 SkinSpa، مجموعه همه کاره، سر چرخان برای رفع موهای زائد مرطوب و خشک، ضد آب، شامل برس لایه بردار، پد ماساژ، سری اصلاح، سری اصلاح - 9-080، نقره ای",
-    "brand": "",
-    "model": "اپیلاتور زنانه براون آلمان Braun Silk·épil 9 SkinSpa، مجموعه همه کاره، سر چرخان برای رفع موهای زائد مرطوب و خشک، ضد آب، شامل برس لایه بردار، پد ماساژ، سری اصلاح، سری اصلاح - 9-080، نقره ای",
-    "category": "tools-industrial",
-    "subcategory": "ابزار صنعتی",
-    "price": 46185000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-Braun-Silk-pil-9-SkinSpa-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D9%87%D9%85%D9%87-%DA%A9%D8%A7%D8%B1%D9%87-%D8%B3%D8%B1-%DA%86%D8%B1%D8%AE%D8%A7%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D9%88-%D8%AE%D8%B4%DA%A9-%D8%B6%D8%AF-%D8%A2%D8%A8-%D8%B4%D8%A7%D9%85%D9%84-%D8%A8%D8%B1%D8%B3-%D9%84%D8%A7%DB%8C%D9%87-%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1-%D9%BE%D8%AF-%D9%85%D8%A7%D8%B3%D8%A7%DA%98-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-9-080-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.956Z"
-  },
-  {
-    "id": "torobshop-tools-industrial-ec0c6101e09fd316",
-    "productId": "torobshop-ec0c6101e09fd316",
-    "name": "اپیلاتور زنانه براون آلمان سیلک-اپیل ۵، اپیلاتور/موبر زنانه، لوازم جانبی برای تیغ، لایه برداری، تمیز کردن صورت و بدن، کیف، ۵-۸۹۵، سفید/فلامینگو",
-    "brand": "",
-    "model": "اپیلاتور زنانه براون آلمان سیلک-اپیل ۵، اپیلاتور/موبر زنانه، لوازم جانبی برای تیغ، لایه برداری، تمیز کردن صورت و بدن، کیف، ۵-۸۹۵، سفید/فلامینگو",
-    "category": "tools-industrial",
-    "subcategory": "ابزار صنعتی",
-    "price": 35780000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%AA-%D8%B2%DB%8C%D8%A8%D8%A7%DB%8C%DB%8C-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B3%DB%8C%D9%84%DA%A9-%D8%A7%D9%BE%DB%8C%D9%84-%DB%B5-%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D9%85%D9%88%D8%A8%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%DB%8C%D8%BA-%D9%84%D8%A7%DB%8C%D9%87-%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C-%D8%AA%D9%85%DB%8C%D8%B2-%DA%A9%D8%B1%D8%AF%D9%86-%D8%B5%D9%88%D8%B1%D8%AA-%D9%88-%D8%A8%D8%AF%D9%86-%DA%A9%DB%8C%D9%81-%DB%B5-%DB%B8%DB%B9%DB%B5-%D8%B3%D9%81%DB%8C%D8%AF-%D9%81%D9%84%D8%A7%D9%85%DB%8C%D9%86%DA%AF%D9%88",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.956Z"
-  },
-  {
-    "id": "torobshop-tools-industrial-591d2fa02319cbe4",
-    "productId": "torobshop-591d2fa02319cbe4",
-    "name": "حالت دهنده مو فیلیپس ایراستایلر سری 7000 – دارای 2 سری حالت دهنده (مدل BHA710/00)",
-    "brand": "",
-    "model": "حالت دهنده مو فیلیپس ایراستایلر سری 7000 – دارای 2 سری حالت دهنده (مدل BHA710/00)",
-    "category": "tools-industrial",
-    "subcategory": "ابزار صنعتی",
-    "price": 23599000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%AD%D8%A7%D9%84%D8%AA-%D8%AF%D9%87%D9%86%D8%AF%D9%87-%D9%85%D9%88-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%A7%DB%8C%D8%B1%D8%A7%D8%B3%D8%AA%D8%A7%DB%8C%D9%84%D8%B1-%D8%B3%D8%B1%DB%8C-7000-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C-2-%D8%B3%D8%B1%DB%8C-%D8%AD%D8%A7%D9%84%D8%AA-%D8%AF%D9%87%D9%86%D8%AF%D9%87-%D9%85%D8%AF%D9%84-BHA710-00",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.956Z"
-  },
-  {
-    "id": "torobshop-tools-industrial-45f8a3eeff0791c7",
-    "productId": "torobshop-45f8a3eeff0791c7",
-    "name": "سشوار فیلیپس مدل Airstyler 3000، 3 سری، برس هوای گرم 800 واتی (مدل BHA305/00)",
-    "brand": "",
-    "model": "سشوار فیلیپس مدل Airstyler 3000، 3 سری، برس هوای گرم 800 واتی (مدل BHA305/00)",
-    "category": "tools-industrial",
-    "subcategory": "ابزار صنعتی",
-    "price": 18524000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B4%D9%88%D8%A7%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%85%D8%AF%D9%84-Airstyler-3000-3-%D8%B3%D8%B1%DB%8C-%D8%A8%D8%B1%D8%B3-%D9%87%D9%88%D8%A7%DB%8C-%DA%AF%D8%B1%D9%85-800-%D9%88%D8%A7%D8%AA%DB%8C-%D9%85%D8%AF%D9%84-BHA305-00",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.956Z"
+    "observedAt": "2026-09-03T11:06:22.820Z"
   },
   {
     "id": "torobshop-tools-industrial-2a6259b902f04fb9",
@@ -7485,7 +7377,115 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.956Z"
+    "observedAt": "2026-09-03T11:06:22.820Z"
+  },
+  {
+    "id": "torobshop-tools-industrial-4b1136653b8c3865",
+    "productId": "torobshop-4b1136653b8c3865",
+    "name": "دستگاه لیزر بدن بانوان براون آلمان رفع موهای زائد، Silk·expert Pro 3، PL3230، سفید/نقره‌ای، لیزر جایگزین برای رفع موهای زائد خانگی، رفع دائمی موهای زائد، شامل قاب و 3 قطعه جانبی",
+    "brand": "",
+    "model": "دستگاه لیزر بدن بانوان براون آلمان رفع موهای زائد، Silk·expert Pro 3، PL3230، سفید/نقره‌ای، لیزر جایگزین برای رفع موهای زائد خانگی، رفع دائمی موهای زائد، شامل قاب و 3 قطعه جانبی",
+    "category": "tools-industrial",
+    "subcategory": "ابزار صنعتی",
+    "price": 79935000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-IPL-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Silk-expert-Pro-3-PL3230-%D8%B3%D9%81%DB%8C%D8%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C-%D9%84%DB%8C%D8%B2%D8%B1-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C-%D8%B1%D9%81%D8%B9-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%B4%D8%A7%D9%85%D9%84-%D9%82%D8%A7%D8%A8-%D9%88-3-%D9%82%D8%B7%D8%B9%D9%87-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T11:06:22.820Z"
+  },
+  {
+    "id": "torobshop-tools-industrial-bff623028ca50588",
+    "productId": "torobshop-bff623028ca50588",
+    "name": "ریش‌تراش برقی بی‌سیم فیلیپس سری لیدی شیور ۸۰۰۰، مناسب برای اصلاح صورت خشک و تر، سر اصلاح انعطاف‌پذیر با ۳ تیغه، چراغ LED برای پاها و بدن، زمان کارکرد ۱۰۰ دقیقه، مدل BRL129/00",
+    "brand": "",
+    "model": "ریش‌تراش برقی بی‌سیم فیلیپس سری لیدی شیور ۸۰۰۰، مناسب برای اصلاح صورت خشک و تر، سر اصلاح انعطاف‌پذیر با ۳ تیغه، چراغ LED برای پاها و بدن، زمان کارکرد ۱۰۰ دقیقه، مدل BRL129/00",
+    "category": "tools-industrial",
+    "subcategory": "ابزار صنعتی",
+    "price": 19539000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D8%A8%D8%B1%D9%82%DB%8C-%D8%A8%DB%8C-%D8%B3%DB%8C%D9%85-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%B3%D8%B1%DB%8C-%D9%84%DB%8C%D8%AF%DB%8C-%D8%B4%DB%8C%D9%88%D8%B1-%DB%B8%DB%B0%DB%B0%DB%B0-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%B5%D9%88%D8%B1%D8%AA-%D8%AE%D8%B4%DA%A9-%D9%88-%D8%AA%D8%B1-%D8%B3%D8%B1-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%A7%D9%86%D8%B9%D8%B7%D8%A7%D9%81-%D9%BE%D8%B0%DB%8C%D8%B1-%D8%A8%D8%A7-%DB%B3-%D8%AA%DB%8C%D8%BA%D9%87-%DA%86%D8%B1%D8%A7%D8%BA-LED-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D8%A7%D9%87%D8%A7-%D9%88-%D8%A8%D8%AF%D9%86-%D8%B2%D9%85%D8%A7%D9%86-%DA%A9%D8%A7%D8%B1%DA%A9%D8%B1%D8%AF-%DB%B1%DB%B0%DB%B0-%D8%AF%D9%82%DB%8C%D9%82%D9%87-%D9%85%D8%AF%D9%84-BRL129-00",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T11:06:22.820Z"
+  },
+  {
+    "id": "torobshop-tools-industrial-ef59c7447c918481",
+    "productId": "torobshop-ef59c7447c918481",
+    "name": "اپیلاتور زنانه براون آلمان Braun Silk·épil 9 SkinSpa، مجموعه همه کاره، سر چرخان برای رفع موهای زائد مرطوب و خشک، ضد آب، شامل برس لایه بردار، پد ماساژ، سری اصلاح، سری اصلاح - 9-080، نقره ای",
+    "brand": "",
+    "model": "اپیلاتور زنانه براون آلمان Braun Silk·épil 9 SkinSpa، مجموعه همه کاره، سر چرخان برای رفع موهای زائد مرطوب و خشک، ضد آب، شامل برس لایه بردار، پد ماساژ، سری اصلاح، سری اصلاح - 9-080، نقره ای",
+    "category": "tools-industrial",
+    "subcategory": "ابزار صنعتی",
+    "price": 46185000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-Braun-Silk-pil-9-SkinSpa-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D9%87%D9%85%D9%87-%DA%A9%D8%A7%D8%B1%D9%87-%D8%B3%D8%B1-%DA%86%D8%B1%D8%AE%D8%A7%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D9%88-%D8%AE%D8%B4%DA%A9-%D8%B6%D8%AF-%D8%A2%D8%A8-%D8%B4%D8%A7%D9%85%D9%84-%D8%A8%D8%B1%D8%B3-%D9%84%D8%A7%DB%8C%D9%87-%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1-%D9%BE%D8%AF-%D9%85%D8%A7%D8%B3%D8%A7%DA%98-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-9-080-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T11:06:22.820Z"
+  },
+  {
+    "id": "torobshop-tools-industrial-ec0c6101e09fd316",
+    "productId": "torobshop-ec0c6101e09fd316",
+    "name": "اپیلاتور زنانه براون آلمان سیلک-اپیل ۵، اپیلاتور/موبر زنانه، لوازم جانبی برای تیغ، لایه برداری، تمیز کردن صورت و بدن، کیف، ۵-۸۹۵، سفید/فلامینگو",
+    "brand": "",
+    "model": "اپیلاتور زنانه براون آلمان سیلک-اپیل ۵، اپیلاتور/موبر زنانه، لوازم جانبی برای تیغ، لایه برداری، تمیز کردن صورت و بدن، کیف، ۵-۸۹۵، سفید/فلامینگو",
+    "category": "tools-industrial",
+    "subcategory": "ابزار صنعتی",
+    "price": 35780000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%AA-%D8%B2%DB%8C%D8%A8%D8%A7%DB%8C%DB%8C-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B3%DB%8C%D9%84%DA%A9-%D8%A7%D9%BE%DB%8C%D9%84-%DB%B5-%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D9%85%D9%88%D8%A8%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%DB%8C%D8%BA-%D9%84%D8%A7%DB%8C%D9%87-%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C-%D8%AA%D9%85%DB%8C%D8%B2-%DA%A9%D8%B1%D8%AF%D9%86-%D8%B5%D9%88%D8%B1%D8%AA-%D9%88-%D8%A8%D8%AF%D9%86-%DA%A9%DB%8C%D9%81-%DB%B5-%DB%B8%DB%B9%DB%B5-%D8%B3%D9%81%DB%8C%D8%AF-%D9%81%D9%84%D8%A7%D9%85%DB%8C%D9%86%DA%AF%D9%88",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T11:06:22.821Z"
+  },
+  {
+    "id": "torobshop-tools-industrial-591d2fa02319cbe4",
+    "productId": "torobshop-591d2fa02319cbe4",
+    "name": "حالت دهنده مو فیلیپس ایراستایلر سری 7000 – دارای 2 سری حالت دهنده (مدل BHA710/00)",
+    "brand": "",
+    "model": "حالت دهنده مو فیلیپس ایراستایلر سری 7000 – دارای 2 سری حالت دهنده (مدل BHA710/00)",
+    "category": "tools-industrial",
+    "subcategory": "ابزار صنعتی",
+    "price": 23599000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%AD%D8%A7%D9%84%D8%AA-%D8%AF%D9%87%D9%86%D8%AF%D9%87-%D9%85%D9%88-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%A7%DB%8C%D8%B1%D8%A7%D8%B3%D8%AA%D8%A7%DB%8C%D9%84%D8%B1-%D8%B3%D8%B1%DB%8C-7000-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C-2-%D8%B3%D8%B1%DB%8C-%D8%AD%D8%A7%D9%84%D8%AA-%D8%AF%D9%87%D9%86%D8%AF%D9%87-%D9%85%D8%AF%D9%84-BHA710-00",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T11:06:22.821Z"
+  },
+  {
+    "id": "torobshop-tools-industrial-45f8a3eeff0791c7",
+    "productId": "torobshop-45f8a3eeff0791c7",
+    "name": "سشوار فیلیپس مدل Airstyler 3000، 3 سری، برس هوای گرم 800 واتی (مدل BHA305/00)",
+    "brand": "",
+    "model": "سشوار فیلیپس مدل Airstyler 3000، 3 سری، برس هوای گرم 800 واتی (مدل BHA305/00)",
+    "category": "tools-industrial",
+    "subcategory": "ابزار صنعتی",
+    "price": 18524000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B4%D9%88%D8%A7%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%85%D8%AF%D9%84-Airstyler-3000-3-%D8%B3%D8%B1%DB%8C-%D8%A8%D8%B1%D8%B3-%D9%87%D9%88%D8%A7%DB%8C-%DA%AF%D8%B1%D9%85-800-%D9%88%D8%A7%D8%AA%DB%8C-%D9%85%D8%AF%D9%84-BHA305-00",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T11:06:22.821Z"
   },
   {
     "id": "torobshop-tools-industrial-3fe480d61f801988",
@@ -7503,7 +7503,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.956Z"
+    "observedAt": "2026-09-03T11:06:22.821Z"
   },
   {
     "id": "torobshop-tools-industrial-99dbc61e2d2488d7",
@@ -7521,7 +7521,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.956Z"
+    "observedAt": "2026-09-03T11:06:22.821Z"
   },
   {
     "id": "torobshop-tools-industrial-091330dc970a0bbe",
@@ -7539,7 +7539,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.956Z"
+    "observedAt": "2026-09-03T11:06:22.821Z"
   },
   {
     "id": "torobshop-tools-industrial-9c53c942a980e1d6",
@@ -7557,7 +7557,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.956Z"
+    "observedAt": "2026-09-03T11:06:22.821Z"
   },
   {
     "id": "torobshop-tools-industrial-69bba0d6d694a47d",
@@ -7575,7 +7575,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.956Z"
+    "observedAt": "2026-09-03T11:06:22.821Z"
   },
   {
     "id": "torobshop-tools-industrial-20c5a20079487b1a",
@@ -7593,7 +7593,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.956Z"
+    "observedAt": "2026-09-03T11:06:22.821Z"
   },
   {
     "id": "torobshop-tools-industrial-acc19b901c8b2ad8",
@@ -7611,7 +7611,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.956Z"
+    "observedAt": "2026-09-03T11:06:22.821Z"
   },
   {
     "id": "torobshop-tools-industrial-74fc37b5d70bd7c1",
@@ -7629,7 +7629,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.956Z"
+    "observedAt": "2026-09-03T11:06:22.821Z"
   },
   {
     "id": "torobshop-tools-industrial-215471b6024642b7",
@@ -7647,7 +7647,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.956Z"
+    "observedAt": "2026-09-03T11:06:22.821Z"
   },
   {
     "id": "torobshop-tools-industrial-ac9daafe2ea5d5bc",
@@ -7665,7 +7665,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.956Z"
+    "observedAt": "2026-09-03T11:06:22.821Z"
   },
   {
     "id": "torobshop-tools-industrial-01be123cfbff3d67",
@@ -7683,7 +7683,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.956Z"
+    "observedAt": "2026-09-03T11:06:22.821Z"
   },
   {
     "id": "torobshop-tools-industrial-db81d40bcc397e16",
@@ -7701,7 +7701,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.956Z"
+    "observedAt": "2026-09-03T11:06:22.821Z"
   },
   {
     "id": "torobshop-tools-industrial-a95fac45da84a72b",
@@ -7719,7 +7719,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.956Z"
+    "observedAt": "2026-09-03T11:06:22.821Z"
   },
   {
     "id": "torobshop-tools-industrial-ed3206a7c4997ceb",
@@ -7737,7 +7737,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.956Z"
+    "observedAt": "2026-09-03T11:06:22.821Z"
   },
   {
     "id": "torobshop-tools-industrial-27f7af68d3543ffb",
@@ -7755,7 +7755,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.956Z"
+    "observedAt": "2026-09-03T11:06:22.821Z"
   },
   {
     "id": "torobshop-tools-industrial-ab3241a3e4a91b6d",
@@ -7773,7 +7773,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.956Z"
+    "observedAt": "2026-09-03T11:06:22.821Z"
   },
   {
     "id": "torobshop-tools-industrial-08320ee86e550b3d",
@@ -7791,7 +7791,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.956Z"
+    "observedAt": "2026-09-03T11:06:22.821Z"
   },
   {
     "id": "torobshop-tools-industrial-5939ecdc87bd4f0d",
@@ -7809,7 +7809,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.956Z"
+    "observedAt": "2026-09-03T11:06:22.821Z"
   },
   {
     "id": "torobshop-tools-industrial-301beb96f2df717f",
@@ -7827,7 +7827,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.956Z"
+    "observedAt": "2026-09-03T11:06:22.821Z"
   },
   {
     "id": "torobshop-tools-industrial-a5fddfc8c0c99048",
@@ -7845,7 +7845,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.956Z"
+    "observedAt": "2026-09-03T11:06:22.821Z"
   },
   {
     "id": "torobshop-tools-industrial-2798976de6f0cc81",
@@ -7863,7 +7863,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.956Z"
+    "observedAt": "2026-09-03T11:06:22.821Z"
   },
   {
     "id": "torobshop-tools-industrial-834858ae4530d775",
@@ -7881,7 +7881,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.956Z"
+    "observedAt": "2026-09-03T11:06:22.821Z"
   },
   {
     "id": "torobshop-tools-industrial-1059c1f184e3d8b3",
@@ -7899,7 +7899,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.956Z"
+    "observedAt": "2026-09-03T11:06:22.821Z"
   },
   {
     "id": "torobshop-tools-industrial-3e4d9495e052b1b8",
@@ -7917,7 +7917,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.956Z"
+    "observedAt": "2026-09-03T11:06:22.821Z"
   },
   {
     "id": "torobshop-tools-industrial-707702931ea634d8",
@@ -7935,7 +7935,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.956Z"
+    "observedAt": "2026-09-03T11:06:22.821Z"
   },
   {
     "id": "torobshop-tools-industrial-68a4dab928f7c962",
@@ -7953,7 +7953,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.956Z"
+    "observedAt": "2026-09-03T11:06:22.821Z"
   },
   {
     "id": "torobshop-tools-industrial-d8e34bb113f4f352",
@@ -7971,7 +7971,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.956Z"
+    "observedAt": "2026-09-03T11:06:22.821Z"
   },
   {
     "id": "torobshop-tools-industrial-d5b957f7df4ff03f",
@@ -7989,7 +7989,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.957Z"
+    "observedAt": "2026-09-03T11:06:22.821Z"
   },
   {
     "id": "torobshop-tools-industrial-28255666c26f658a",
@@ -8007,7 +8007,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.957Z"
+    "observedAt": "2026-09-03T11:06:22.821Z"
   },
   {
     "id": "torobshop-tools-industrial-2a3268e48e6a43b8",
@@ -8025,7 +8025,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.957Z"
+    "observedAt": "2026-09-03T11:06:22.821Z"
   },
   {
     "id": "torobshop-tools-industrial-9a0fccac9db69875",
@@ -8043,7 +8043,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.957Z"
+    "observedAt": "2026-09-03T11:06:22.821Z"
   },
   {
     "id": "torobshop-tools-industrial-93e51ab5d27d6671",
@@ -8061,7 +8061,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T10:27:49.957Z"
+    "observedAt": "2026-09-03T11:06:22.821Z"
   },
   {
     "id": "web-tools-industrial-af6e4fcbc4d32bcd",
@@ -8078,7 +8078,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-03T10:12:16.025Z"
+    "observedAt": "2026-09-03T10:51:25.852Z"
   },
   {
     "id": "web-tools-industrial-b6e21d47c4352f66",
@@ -8095,7 +8095,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-03T10:12:16.025Z"
+    "observedAt": "2026-09-03T10:51:25.852Z"
   },
   {
     "id": "web-tools-industrial-2ecc2b96704d5873",
@@ -8112,7 +8112,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-03T10:12:16.025Z"
+    "observedAt": "2026-09-03T10:51:25.852Z"
   },
   {
     "id": "web-tools-industrial-fb0ee332d78384ef",
@@ -8129,7 +8129,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-03T10:12:16.025Z"
+    "observedAt": "2026-09-03T10:51:25.852Z"
   },
   {
     "id": "web-tools-industrial-184ee1b4a070c75c",
@@ -8146,7 +8146,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-03T10:12:16.025Z"
+    "observedAt": "2026-09-03T10:51:25.852Z"
   },
   {
     "id": "web-tools-industrial-d677728b78405be3",
@@ -8163,7 +8163,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-03T10:12:16.025Z"
+    "observedAt": "2026-09-03T10:51:25.852Z"
   },
   {
     "id": "web-tools-industrial-596c2272ae36f68a",
@@ -8180,7 +8180,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-03T10:12:16.025Z"
+    "observedAt": "2026-09-03T10:51:25.852Z"
   },
   {
     "id": "web-tools-industrial-739452393cf8f453",
@@ -8197,7 +8197,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-03T10:12:16.025Z"
+    "observedAt": "2026-09-03T10:51:25.852Z"
   },
   {
     "id": "web-tools-industrial-09a686b8631c0209",
@@ -8214,7 +8214,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-03T10:12:16.025Z"
+    "observedAt": "2026-09-03T10:51:25.852Z"
   },
   {
     "id": "web-tools-industrial-d02958127f3682d6",
@@ -8231,7 +8231,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-03T10:12:16.025Z"
+    "observedAt": "2026-09-03T10:51:25.852Z"
   },
   {
     "id": "web-tools-industrial-a7f1318be1a24c99",
@@ -8248,7 +8248,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-03T10:12:16.025Z"
+    "observedAt": "2026-09-03T10:51:25.852Z"
   },
   {
     "id": "web-tools-industrial-55a605032bc8fb0a",
@@ -8265,7 +8265,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-03T10:12:16.025Z"
+    "observedAt": "2026-09-03T10:51:25.853Z"
   },
   {
     "id": "web-tools-industrial-4746121cf2fe4500",
@@ -8282,7 +8282,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-03T10:12:16.025Z"
+    "observedAt": "2026-09-03T10:51:25.853Z"
   },
   {
     "id": "web-tools-industrial-f4bc1c5ee1343061",
@@ -8299,7 +8299,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-03T10:12:16.025Z"
+    "observedAt": "2026-09-03T10:51:25.853Z"
   },
   {
     "id": "web-tools-industrial-a3ff6ee5a2c351ad",
@@ -8316,58 +8316,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-03T10:12:16.025Z"
-  },
-  {
-    "id": "web-tools-industrial-6f826e3762f99fed",
-    "productId": "web-tools-industrial-6f826e3762f99fed",
-    "name": "کارواش شارژی ویوارکس مدل VR2025-PW",
-    "brand": "دل",
-    "model": "کارواش شارژی ویوارکس مدل VR2025-PW",
-    "category": "tools-industrial",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-511775/%DA%A9%D8%A7%D8%B1%D9%88%D8%A7%D8%B4-%D8%B4%D8%A7%D8%B1%DA%98%DB%8C-%D9%88%DB%8C%D9%88%D8%A7%D8%B1%DA%A9%D8%B3-%D9%85%D8%AF%D9%84-vr2025-pw",
-    "image": "",
-    "sourceId": "technolife-tools",
-    "sourceUrl": "https://www.technolife.com/category/tools",
-    "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-03T10:12:16.025Z"
-  },
-  {
-    "id": "web-tools-industrial-fedff538d07264d9",
-    "productId": "web-tools-industrial-fedff538d07264d9",
-    "name": "پیچ گوشتی شارژی ویوارکس مدل VR1240-CDK مجموعه 40 عددی",
-    "brand": "دل",
-    "model": "پیچ گوشتی شارژی ویوارکس مدل VR1240-CDK مجموعه 40 عددی",
-    "category": "tools-industrial",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-240605/%D9%BE%DB%8C%DA%86-%DA%AF%D9%88%D8%B4%D8%AA%DB%8C-%D8%B4%D8%A7%D8%B1%DA%98%DB%8C-%D9%88%DB%8C%D9%88%D8%A7%D8%B1%DA%A9%D8%B3-%D9%85%D8%AF%D9%84-vr1240-cdk-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-40-%D8%B9%D8%AF%D8%AF%DB%8C",
-    "image": "",
-    "sourceId": "technolife-tools",
-    "sourceUrl": "https://www.technolife.com/category/tools",
-    "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-03T10:12:16.025Z"
-  },
-  {
-    "id": "web-tools-industrial-941be01a51dcdcfc",
-    "productId": "web-tools-industrial-941be01a51dcdcfc",
-    "name": "کمپرسور باد فندکی رونیکس مدل RH-4261B",
-    "brand": "دل",
-    "model": "کمپرسور باد فندکی رونیکس مدل RH-4261B",
-    "category": "tools-industrial",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-133665/%DA%A9%D9%85%D9%BE%D8%B1%D8%B3%D9%88%D8%B1-%D8%A8%D8%A7%D8%AF-%D9%81%D9%86%D8%AF%DA%A9%DB%8C-%D8%B1%D9%88%D9%86%DB%8C%DA%A9%D8%B3-%D9%85%D8%AF%D9%84-rh-4261b",
-    "image": "",
-    "sourceId": "technolife-tools",
-    "sourceUrl": "https://www.technolife.com/category/tools",
-    "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-03T10:12:16.025Z"
+    "observedAt": "2026-09-03T10:51:25.853Z"
   },
   {
     "id": "web-tools-industrial-bdb5c416bba8b7e9",
@@ -8384,7 +8333,58 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-03T10:12:16.025Z"
+    "observedAt": "2026-09-03T10:51:25.853Z"
+  },
+  {
+    "id": "web-tools-industrial-6f826e3762f99fed",
+    "productId": "web-tools-industrial-6f826e3762f99fed",
+    "name": "کارواش شارژی ویوارکس مدل VR2025-PW",
+    "brand": "دل",
+    "model": "کارواش شارژی ویوارکس مدل VR2025-PW",
+    "category": "tools-industrial",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-511775/%DA%A9%D8%A7%D8%B1%D9%88%D8%A7%D8%B4-%D8%B4%D8%A7%D8%B1%DA%98%DB%8C-%D9%88%DB%8C%D9%88%D8%A7%D8%B1%DA%A9%D8%B3-%D9%85%D8%AF%D9%84-vr2025-pw",
+    "image": "",
+    "sourceId": "technolife-tools",
+    "sourceUrl": "https://www.technolife.com/category/tools",
+    "source": "web-catalog:technolife-tools",
+    "observedAt": "2026-09-03T10:51:25.853Z"
+  },
+  {
+    "id": "web-tools-industrial-fedff538d07264d9",
+    "productId": "web-tools-industrial-fedff538d07264d9",
+    "name": "پیچ گوشتی شارژی ویوارکس مدل VR1240-CDK مجموعه 40 عددی",
+    "brand": "دل",
+    "model": "پیچ گوشتی شارژی ویوارکس مدل VR1240-CDK مجموعه 40 عددی",
+    "category": "tools-industrial",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-240605/%D9%BE%DB%8C%DA%86-%DA%AF%D9%88%D8%B4%D8%AA%DB%8C-%D8%B4%D8%A7%D8%B1%DA%98%DB%8C-%D9%88%DB%8C%D9%88%D8%A7%D8%B1%DA%A9%D8%B3-%D9%85%D8%AF%D9%84-vr1240-cdk-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-40-%D8%B9%D8%AF%D8%AF%DB%8C",
+    "image": "",
+    "sourceId": "technolife-tools",
+    "sourceUrl": "https://www.technolife.com/category/tools",
+    "source": "web-catalog:technolife-tools",
+    "observedAt": "2026-09-03T10:51:25.853Z"
+  },
+  {
+    "id": "web-tools-industrial-941be01a51dcdcfc",
+    "productId": "web-tools-industrial-941be01a51dcdcfc",
+    "name": "کمپرسور باد فندکی رونیکس مدل RH-4261B",
+    "brand": "دل",
+    "model": "کمپرسور باد فندکی رونیکس مدل RH-4261B",
+    "category": "tools-industrial",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-133665/%DA%A9%D9%85%D9%BE%D8%B1%D8%B3%D9%88%D8%B1-%D8%A8%D8%A7%D8%AF-%D9%81%D9%86%D8%AF%DA%A9%DB%8C-%D8%B1%D9%88%D9%86%DB%8C%DA%A9%D8%B3-%D9%85%D8%AF%D9%84-rh-4261b",
+    "image": "",
+    "sourceId": "technolife-tools",
+    "sourceUrl": "https://www.technolife.com/category/tools",
+    "source": "web-catalog:technolife-tools",
+    "observedAt": "2026-09-03T10:51:25.853Z"
   },
   {
     "id": "web-tools-industrial-061c31bb04cb39c3",
@@ -8401,7 +8401,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-03T10:12:16.025Z"
+    "observedAt": "2026-09-03T10:51:25.853Z"
   },
   {
     "id": "web-tools-industrial-0d7255d392029871",
@@ -8418,7 +8418,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-03T10:12:16.025Z"
+    "observedAt": "2026-09-03T10:51:25.853Z"
   },
   {
     "id": "web-tools-industrial-a577eff03911337c",
@@ -8435,7 +8435,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-03T10:12:16.025Z"
+    "observedAt": "2026-09-03T10:51:25.853Z"
   },
   {
     "id": "web-tools-industrial-606a68a83f4e1901",
@@ -8452,7 +8452,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-03T10:12:16.025Z"
+    "observedAt": "2026-09-03T10:51:25.853Z"
   },
   {
     "id": "web-tools-industrial-785bffc397374771",
@@ -8469,7 +8469,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-03T10:12:16.025Z"
+    "observedAt": "2026-09-03T10:51:25.853Z"
   },
   {
     "id": "web-tools-industrial-ec0bf8934cc3b1df",
@@ -8486,7 +8486,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-03T10:12:16.025Z"
+    "observedAt": "2026-09-03T10:51:25.853Z"
   },
   {
     "id": "web-tools-industrial-e07b91ccc42796da",
@@ -8503,7 +8503,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-03T10:12:16.026Z"
+    "observedAt": "2026-09-03T10:51:25.853Z"
   },
   {
     "id": "web-tools-industrial-02bd37b199bf14f6",
@@ -8520,7 +8520,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-03T10:12:16.026Z"
+    "observedAt": "2026-09-03T10:51:25.853Z"
   },
   {
     "id": "web-tools-industrial-37acb9798dfe1b59",
@@ -8537,7 +8537,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-03T10:12:16.026Z"
+    "observedAt": "2026-09-03T10:51:25.853Z"
   },
   {
     "id": "web-tools-industrial-a971f647cefe2833",
@@ -8554,7 +8554,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-03T10:12:16.026Z"
+    "observedAt": "2026-09-03T10:51:25.853Z"
   },
   {
     "id": "web-tools-industrial-fdc82baa765eccf5",
@@ -8571,7 +8571,7 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-03T10:12:16.026Z"
+    "observedAt": "2026-09-03T10:51:25.853Z"
   },
   {
     "id": "web-tools-industrial-c7fe73d9ee06f042",
@@ -8588,6 +8588,6 @@ export const TOOLS_INDUSTRIAL_PRODUCTS = [
     "sourceId": "technolife-tools",
     "sourceUrl": "https://www.technolife.com/category/tools",
     "source": "web-catalog:technolife-tools",
-    "observedAt": "2026-09-03T10:12:16.026Z"
+    "observedAt": "2026-09-03T10:51:25.854Z"
   }
 ];
