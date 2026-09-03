@@ -8,7 +8,8 @@
     "test:v5.1": "node tests/v5.1-health.test.mjs",
     "audit:v5.1": "node tests/v5.1-catalog-audit.mjs",
     "test:v5.1:e2e": "node tests/v5.1-e2e-resolver.test.mjs",
-    "test:v5.1:revenue": "node tests/v5.1-revenue-e2e.test.mjs"
+    "test:v5.1:revenue": "node tests/v5.1-revenue-e2e.test.mjs",
+    "test:v5.1:mission": "node tests/v5.1-full-mission-e2e.test.mjs"
   },
   "dependencies": {
     "@vercel/node": "^2.0.0"

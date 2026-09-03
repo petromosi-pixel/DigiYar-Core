@@ -1,20 +1,20 @@
-name: V5.1 Resolver E2E
+name: V5.1 Full Mission E2E
 
 on:
   push:
     branches:
-      - v5-e2e-finalization
+      - v5
   pull_request:
     branches:
       - v5
   workflow_dispatch:
 
 jobs:
-  e2e:
+  full-mission-e2e:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
           node-version: 20
-      - run: npm run test:v5.1:e2e
+      - run: npm run test:v5.1:mission
