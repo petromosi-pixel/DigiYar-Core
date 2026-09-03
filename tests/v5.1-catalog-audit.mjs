@@ -16,8 +16,8 @@ for(const p of PRODUCT_INDEX){
  if(nav.test(String(p.name||'').trim())) failures.push(`navigation record: ${p.name}`);
  if(badUrl.test(String(p.productUrl||''))) failures.push(`non-product URL: ${p.productUrl}`);
  cats.set(c,(cats.get(c)||0)+1);
- if(p.category==='mobile' && /لپ\s*تاپ|laptop/i.test(String(p.name))) failures.push(`category leakage mobile/laptop: ${id}`);
- if(p.category==='laptop' && /گوشی|موبایل|iphone|galaxy|redmi|poco/i.test(String(p.name))) failures.push(`category leakage laptop/mobile: ${id}`);
+ if(p.category==='mobile' && /لپ\s*تاپ|laptop|macbook|notebook|مک\s*بوک|نوت\s*بوک/i.test(String(p.name))) failures.push(`category leakage mobile/laptop: ${id}`);
+ if(p.category==='laptop-computer' && /گوشی|موبایل|iphone|galaxy|redmi|poco|smartphone/i.test(String(p.name))) failures.push(`category leakage laptop/mobile: ${id}`);
  if(p.price!=null && Number(p.price)<0) failures.push(`negative price: ${id}`);
  if(p.availability && !['in_stock','out_of_stock','unknown'].includes(p.availability)) failures.push(`invalid availability: ${id}`);
 }
