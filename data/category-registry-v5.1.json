@@ -1,7 +1,7 @@
 {
   "version": "5.1",
   "mode": "subcategory-aware",
-  "generatedAt": "2026-09-03T14:54:57.975Z",
+  "generatedAt": "2026-09-03T16:45:50.542Z",
   "source": "TorobShop public category pages",
   "categories": [
     {
@@ -39,11 +39,11 @@
     {
       "id": "home-appliances",
       "name": "لوازم خانگی",
-      "count": 482,
+      "count": 483,
       "subcategoryCounts": {
         "لوازم خانگی و آشپزخانه": 448,
         "برقی و ظروف آشپزخانه": 0,
-        "برقی خانگی": 0,
+        "برقی خانگی": 1,
         "یخچال و فریزر": 0,
         "ماشین لباسشویی": 0,
         "ماشین ظرفشویی": 0,
