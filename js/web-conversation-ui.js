@@ -76,6 +76,11 @@
       });
     }
 
+    function purchaseUrl(item) {
+      const url = item && (item.offer && item.offer.affiliateUrl || item.bestOffer && item.bestOffer.affiliateUrl || item.affiliateUrl || item.productUrl || item.url || '');
+      return String(url || '');
+    }
+
     function renderProducts(items, need) {
       if (!products) return;
       products.innerHTML = '';
@@ -93,8 +98,8 @@
         const title = document.createElement('h3'); title.textContent = item.name || 'محصول پیشنهادی';
         const price = document.createElement('p'); price.className = 'digiyar-product-price';
         price.textContent = priceValue(item) ? priceValue(item).toLocaleString('fa-IR') + ' تومان' : 'قیمت نامشخص';
-        const link = document.createElement('a'); link.className = 'digiyar-product-link'; link.target = '_blank'; link.rel = 'noopener noreferrer'; link.textContent = 'مشاهده کالا';
-        link.href = item.offer && item.offer.affiliateUrl || item.bestOffer && item.bestOffer.affiliateUrl || item.affiliateUrl || item.productUrl || item.url || '#';
+        const link = document.createElement('a'); link.className = 'digiyar-product-link'; link.target = '_blank'; link.rel = 'noopener noreferrer'; link.textContent = 'مشاهده و خرید';
+        link.href = purchaseUrl(item) || '#';
         card.appendChild(image); card.appendChild(title); card.appendChild(price); card.appendChild(link); products.appendChild(card);
       });
     }
@@ -109,7 +114,6 @@
           addMessage('در دریافت محصولات زنده مشکلی پیش آمد؛ دوباره امتحان کن.', 'assistant');
           return;
         }
-        const target = need && need.budget && need.budget.mode === 'TARGET_PRICE' ? Number(need.budget.amountToman) || null : null;
         const finalProducts = window.DigiYarOfferAffiliate && typeof window.DigiYarOfferAffiliate.finalizeOrdered === 'function'
           ? window.DigiYarOfferAffiliate.finalizeOrdered(result.products || [], 3)
           : (result.products || []);
