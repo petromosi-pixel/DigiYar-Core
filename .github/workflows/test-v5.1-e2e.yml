@@ -7,9 +7,6 @@ on:
   pull_request:
     branches:
       - v5
-  issues:
-    types:
-      - opened
   workflow_dispatch:
 
 permissions:
