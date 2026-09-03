@@ -72,7 +72,7 @@ const offer = engine.normalizeOffer({
   productUrl: resolved.productUrl || productUrl
 });
 assert.ok(offer, 'Offer normalization failed');
-assert.ok(offer.productUrl === productUrl, 'Offer lost the real product URL');
+assert.equal(offer.productUrl, productUrl, 'Offer lost the real product URL');
 assert.ok(offer.affiliateUrl === productUrl || /^https:\/\/aflo\.ir\/(TrvNHEN8|YPN05dL7)[?&]p=/.test(offer.affiliateUrl), `Offer purchase URL is invalid: ${JSON.stringify(offer)}`);
 assert.equal(offer.isAffiliate, offer.affiliateUrl !== productUrl);
 
@@ -88,7 +88,7 @@ assert.equal(final[0].affiliateUrl, offer.affiliateUrl);
 assert.ok(Number(final[0].priceToman) > 0);
 
 const purchaseUrl = final[0].affiliateUrl || final[0].productUrl;
-assert.equal(purchaseUrl, productUrl, 'Non-affiliate offer must fall back to direct product URL');
+assert.ok(purchaseUrl === productUrl || purchaseUrl.startsWith('https://aflo.ir/'), 'Purchase URL must be direct or affiliate');
 
 const click = await fetch(purchaseUrl, {
   method: 'GET',
