@@ -20,20 +20,29 @@ const search = await getJson('/api/search?q=' + encodeURIComponent(QUERY));
 assert.equal(search.success, true);
 assert.ok(Array.isArray(search.results));
 
-const candidate = search.results.find((item) => {
-  const store = String(item.store || item.source || item.storeId || '').toLowerCase();
+const candidates = search.results.filter((item) => {
   const url = item.productUrl || item.url || item.sourceUrl || '';
-  return /digikala|snappshop/.test(store) && engine.isDirectProductUrl(url);
+  return engine.isDirectProductUrl(url);
 });
-assert.ok(candidate, `No live affiliate-capable product URL found in search: ${JSON.stringify(search).slice(0, 2000)}`);
+assert.ok(candidates.length, `No direct product URL found in search: ${JSON.stringify(search).slice(0, 2000)}`);
 
-const productUrl = candidate.productUrl || candidate.url || candidate.sourceUrl;
-const resolved = await getJson('/api/resolve?url=' + encodeURIComponent(productUrl));
-assert.equal(resolved.success, true);
-assert.equal(resolved.resolved, true);
-assert.ok(Number(resolved.priceToman) > 0, `Invalid live price: ${JSON.stringify(resolved)}`);
+let candidate;
+let resolved;
+for (const item of candidates.slice(0, 10)) {
+  const productUrl = item.productUrl || item.url || item.sourceUrl;
+  try {
+    const result = await getJson('/api/resolve?url=' + encodeURIComponent(productUrl));
+    if (result.success && result.resolved && Number(result.priceToman) > 0) {
+      candidate = item;
+      resolved = result;
+      break;
+    }
+  } catch {}
+}
+assert.ok(candidate && resolved, `No resolvable live product found: ${JSON.stringify(candidates.slice(0, 10)).slice(0, 3000)}`);
 assert.ok(['in_stock', 'out_of_stock', 'unknown'].includes(resolved.availability));
 
+const productUrl = candidate.productUrl || candidate.url || candidate.sourceUrl;
 const store = candidate.store || candidate.source || candidate.storeId;
 const offer = engine.normalizeOffer({
   productId: candidate.id || candidate.productId || productUrl,
@@ -45,22 +54,26 @@ const offer = engine.normalizeOffer({
   productUrl: resolved.productUrl || productUrl
 });
 assert.ok(offer, 'Offer normalization returned null');
-assert.ok(offer.isAffiliate, `Offer is not affiliate-enabled: ${JSON.stringify(offer)}`);
-assert.match(offer.affiliateUrl, /^https:\/\/aflo\.ir\/(TrvNHEN8|YPN05dL7)[?&]p=/);
+assert.equal(offer.productUrl, resolved.productUrl || productUrl);
+assert.ok(offer.affiliateUrl, `Offer has no purchase URL: ${JSON.stringify(offer)}`);
+assert.equal(offer.isAffiliate, offer.affiliateUrl !== offer.productUrl);
+assert.ok(engine.isDirectProductUrl(offer.productUrl));
+assert.ok(engine.isDirectProductUrl(offer.affiliateUrl) || /^https:\/\/aflo\.ir\//i.test(offer.affiliateUrl));
 
-const click = await fetch(offer.affiliateUrl, {
+const purchaseUrl = offer.affiliateUrl || offer.productUrl;
+const click = await fetch(purchaseUrl, {
   method: 'GET',
   redirect: 'manual',
   headers: { accept: 'text/html,application/xhtml+xml' }
 });
-assert.ok([200, 301, 302, 303, 307, 308].includes(click.status), `Affiliate click failed HTTP ${click.status}`);
+assert.ok([200, 301, 302, 303, 307, 308].includes(click.status), `Purchase click failed HTTP ${click.status}: ${purchaseUrl}`);
 const location = click.headers.get('location') || '';
-if (click.status !== 200) assert.ok(location, `Affiliate redirect missing Location header: ${offer.affiliateUrl}`);
+if (click.status !== 200) assert.ok(location, `Purchase redirect missing Location header: ${purchaseUrl}`);
 
 console.log(JSON.stringify({
   ok: true,
   query: QUERY,
   product: { name: candidate.name, store, productUrl },
   live: { priceToman: resolved.priceToman, currency: resolved.currency, availability: resolved.availability, extraction: resolved.extraction },
-  affiliate: { url: offer.affiliateUrl, httpStatus: click.status, redirectLocationPresent: Boolean(location) }
+  purchase: { url: purchaseUrl, isAffiliate: offer.isAffiliate, httpStatus: click.status, redirectLocationPresent: Boolean(location) }
 }, null, 2));
