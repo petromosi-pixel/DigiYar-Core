@@ -9,12 +9,26 @@ on:
       - v5
   workflow_dispatch:
 
+permissions:
+  contents: read
+
+concurrency:
+  group: v5-full-mission-e2e
+  cancel-in-progress: true
+
 jobs:
   full-mission-e2e:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - name: Checkout v5
+        uses: actions/checkout@v4
+        with:
+          ref: v5
+          fetch-depth: 1
+      - name: Setup Node
+        uses: actions/setup-node@v4
         with:
           node-version: 20
-      - run: npm run test:v5.1:mission
+      - name: Run V5.1 Full Mission E2E
+        run: npm run test:v5.1:mission
