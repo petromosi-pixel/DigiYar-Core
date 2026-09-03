@@ -4,9 +4,25 @@ on:
   push:
     branches:
       - v5
+    paths:
+      - 'worker.js'
+      - 'js/data-ingestion-v5.1.js'
+      - 'js/search-core-v5.1.js'
+      - 'js/v5-price-availability-resolver.js'
+      - 'js/v5-offer-affiliate-engine.js'
+      - 'tests/v5.1-revenue-e2e.test.mjs'
+      - '.github/workflows/test-v5.1-revenue.yml'
   pull_request:
     branches:
       - v5
+    paths:
+      - 'worker.js'
+      - 'js/data-ingestion-v5.1.js'
+      - 'js/search-core-v5.1.js'
+      - 'js/v5-price-availability-resolver.js'
+      - 'js/v5-offer-affiliate-engine.js'
+      - 'tests/v5.1-revenue-e2e.test.mjs'
+      - '.github/workflows/test-v5.1-revenue.yml'
   workflow_dispatch:
 
 jobs:
