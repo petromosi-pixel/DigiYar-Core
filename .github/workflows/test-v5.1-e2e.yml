@@ -1,12 +1,6 @@
 name: V5.1 Full Mission E2E
 
 on:
-  push:
-    branches:
-      - v5
-  pull_request:
-    branches:
-      - v5
   workflow_dispatch:
 
 permissions:
