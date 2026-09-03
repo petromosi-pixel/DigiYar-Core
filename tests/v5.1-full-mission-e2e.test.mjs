@@ -3,6 +3,8 @@ import engine from '../js/v5-offer-affiliate-engine.js';
 
 const WORKER = 'https://digiyar-v5.petromosi.workers.dev';
 const QUERY = 'گوشی سامسونگ زیر ۳۰ میلیون';
+const RETRY_DELAY_MS = 5000;
+const MAX_RETRIES = 18;
 
 async function getJson(path) {
   const response = await fetch(WORKER + path, { headers: { accept: 'application/json' } });
@@ -13,14 +15,25 @@ async function getJson(path) {
   return body;
 }
 
+async function waitForLiveParser() {
+  let last;
+  for (let attempt = 0; attempt <= MAX_RETRIES; attempt += 1) {
+    last = await getJson('/api/search?q=' + encodeURIComponent(QUERY));
+    if (last.success && Number(last.parsed?.price?.maxPrice) > 0) return last;
+    if (attempt < MAX_RETRIES) await new Promise((resolve) => setTimeout(resolve, RETRY_DELAY_MS));
+  }
+  throw new Error(`Live Worker parser did not become ready after ${MAX_RETRIES * RETRY_DELAY_MS / 1000}s: ${JSON.stringify(last?.parsed || last)}`);
+}
+
 const health = await getJson('/health');
 assert.equal(health.status, 'ok');
 assert.equal(health.version, 'v5.1-search-core');
 
-const search = await getJson('/api/search?q=' + encodeURIComponent(QUERY));
+const search = await waitForLiveParser();
 assert.equal(search.success, true);
 assert.ok(search.parsed, 'Search parser output is missing');
 assert.ok(Number(search.parsed.price?.maxPrice) > 0, `Budget was not parsed: ${JSON.stringify(search.parsed)}`);
+assert.equal(Number(search.parsed.price.maxPrice), 30000000, `Unexpected budget parse: ${JSON.stringify(search.parsed)}`);
 assert.ok(Array.isArray(search.results), 'Search results must be an array');
 assert.ok(search.results.length > 0, `Mission search returned no products: ${JSON.stringify(search).slice(0, 3000)}`);
 
