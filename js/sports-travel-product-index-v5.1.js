@@ -15,7 +15,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.631Z"
+    "observedAt": "2026-09-03T13:25:40.698Z"
   },
   {
     "id": "torobshop-sports-travel-42afd1ca9ea774d6",
@@ -33,7 +33,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.631Z"
+    "observedAt": "2026-09-03T13:25:40.698Z"
   },
   {
     "id": "torobshop-sports-travel-3930a114dca5ba93",
@@ -51,7 +51,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.631Z"
+    "observedAt": "2026-09-03T13:25:40.698Z"
   },
   {
     "id": "torobshop-sports-travel-aaa22eb952374f54",
@@ -69,7 +69,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.631Z"
+    "observedAt": "2026-09-03T13:25:40.698Z"
   },
   {
     "id": "torobshop-sports-travel-6313ab97d41a2b56",
@@ -87,7 +87,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.631Z"
+    "observedAt": "2026-09-03T13:25:40.698Z"
   },
   {
     "id": "torobshop-sports-travel-f6f4fe1c061400be",
@@ -105,7 +105,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.631Z"
+    "observedAt": "2026-09-03T13:25:40.698Z"
   },
   {
     "id": "torobshop-sports-travel-f84a10872070200f",
@@ -123,7 +123,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.631Z"
+    "observedAt": "2026-09-03T13:25:40.698Z"
   },
   {
     "id": "torobshop-sports-travel-be5c8240bad9b96b",
@@ -141,7 +141,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.631Z"
+    "observedAt": "2026-09-03T13:25:40.698Z"
   },
   {
     "id": "torobshop-sports-travel-6ea4ce76135ec585",
@@ -159,7 +159,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.631Z"
+    "observedAt": "2026-09-03T13:25:40.698Z"
   },
   {
     "id": "torobshop-sports-travel-66ec5ac305e2c66d",
@@ -177,7 +177,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.631Z"
+    "observedAt": "2026-09-03T13:25:40.698Z"
   },
   {
     "id": "torobshop-sports-travel-550a8f87070e67b2",
@@ -195,7 +195,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.631Z"
+    "observedAt": "2026-09-03T13:25:40.698Z"
   },
   {
     "id": "torobshop-sports-travel-82dd733a006aec80",
@@ -213,7 +213,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.631Z"
+    "observedAt": "2026-09-03T13:25:40.698Z"
   },
   {
     "id": "torobshop-sports-travel-b0ab596ed23cc867",
@@ -231,7 +231,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.631Z"
+    "observedAt": "2026-09-03T13:25:40.698Z"
   },
   {
     "id": "torobshop-sports-travel-81b8042dfd25e040",
@@ -249,7 +249,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.631Z"
+    "observedAt": "2026-09-03T13:25:40.698Z"
   },
   {
     "id": "torobshop-sports-travel-971de75d275ec060",
@@ -267,7 +267,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.631Z"
+    "observedAt": "2026-09-03T13:25:40.698Z"
   },
   {
     "id": "torobshop-sports-travel-6984e0fba2f0f5ab",
@@ -285,7 +285,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.631Z"
+    "observedAt": "2026-09-03T13:25:40.698Z"
   },
   {
     "id": "torobshop-sports-travel-043774655c5e9707",
@@ -303,7 +303,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.631Z"
+    "observedAt": "2026-09-03T13:25:40.698Z"
   },
   {
     "id": "torobshop-sports-travel-96e722182c1b89a6",
@@ -321,7 +321,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.631Z"
+    "observedAt": "2026-09-03T13:25:40.698Z"
   },
   {
     "id": "torobshop-sports-travel-d62f3f3a89e25a47",
@@ -339,7 +339,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.631Z"
+    "observedAt": "2026-09-03T13:25:40.698Z"
   },
   {
     "id": "torobshop-sports-travel-c91c69b83e4ddd45",
@@ -357,7 +357,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.631Z"
+    "observedAt": "2026-09-03T13:25:40.698Z"
   },
   {
     "id": "torobshop-sports-travel-6d073e89debc0957",
@@ -375,7 +375,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.631Z"
+    "observedAt": "2026-09-03T13:25:40.698Z"
   },
   {
     "id": "torobshop-sports-travel-2f1de49dbfea70aa",
@@ -393,7 +393,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.631Z"
+    "observedAt": "2026-09-03T13:25:40.698Z"
   },
   {
     "id": "torobshop-sports-travel-688de6c889730421",
@@ -411,7 +411,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.631Z"
+    "observedAt": "2026-09-03T13:25:40.698Z"
   },
   {
     "id": "torobshop-sports-travel-6f75db36753d61cb",
@@ -429,7 +429,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.631Z"
+    "observedAt": "2026-09-03T13:25:40.698Z"
   },
   {
     "id": "torobshop-sports-travel-1d0f8b752067584c",
@@ -447,7 +447,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.631Z"
+    "observedAt": "2026-09-03T13:25:40.698Z"
   },
   {
     "id": "torobshop-sports-travel-9588e88bfa202297",
@@ -465,7 +465,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.631Z"
+    "observedAt": "2026-09-03T13:25:40.698Z"
   },
   {
     "id": "torobshop-sports-travel-564f6efd33ed7c72",
@@ -483,7 +483,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.631Z"
+    "observedAt": "2026-09-03T13:25:40.698Z"
   },
   {
     "id": "torobshop-sports-travel-db51956256cf2a9e",
@@ -501,7 +501,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.631Z"
+    "observedAt": "2026-09-03T13:25:40.698Z"
   },
   {
     "id": "torobshop-sports-travel-6c602e399b74265b",
@@ -519,7 +519,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.631Z"
+    "observedAt": "2026-09-03T13:25:40.698Z"
   },
   {
     "id": "torobshop-sports-travel-69bf454eaf5c015b",
@@ -537,7 +537,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.631Z"
+    "observedAt": "2026-09-03T13:25:40.698Z"
   },
   {
     "id": "torobshop-sports-travel-9b36373adadaf4fd",
@@ -555,7 +555,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.631Z"
+    "observedAt": "2026-09-03T13:25:40.698Z"
   },
   {
     "id": "torobshop-sports-travel-b510ac9c5967ae6e",
@@ -573,7 +573,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.631Z"
+    "observedAt": "2026-09-03T13:25:40.698Z"
   },
   {
     "id": "torobshop-sports-travel-3dbcaccb8662bde1",
@@ -591,7 +591,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.631Z"
+    "observedAt": "2026-09-03T13:25:40.698Z"
   },
   {
     "id": "torobshop-sports-travel-200d11c52e55158d",
@@ -609,7 +609,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.631Z"
+    "observedAt": "2026-09-03T13:25:40.698Z"
   },
   {
     "id": "torobshop-sports-travel-7030913f04cb3a2f",
@@ -627,7 +627,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.631Z"
+    "observedAt": "2026-09-03T13:25:40.698Z"
   },
   {
     "id": "torobshop-sports-travel-c57090577d7bcdd6",
@@ -645,7 +645,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.631Z"
+    "observedAt": "2026-09-03T13:25:40.698Z"
   },
   {
     "id": "torobshop-sports-travel-47c81c869cca25d8",
@@ -663,7 +663,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.631Z"
+    "observedAt": "2026-09-03T13:25:40.698Z"
   },
   {
     "id": "torobshop-sports-travel-f566f758ccfcc717",
@@ -681,7 +681,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.631Z"
+    "observedAt": "2026-09-03T13:25:40.698Z"
   },
   {
     "id": "torobshop-sports-travel-964ece0d8e9f6669",
@@ -699,7 +699,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.631Z"
+    "observedAt": "2026-09-03T13:25:40.698Z"
   },
   {
     "id": "torobshop-sports-travel-4cef33429e237704",
@@ -717,7 +717,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.631Z"
+    "observedAt": "2026-09-03T13:25:40.698Z"
   },
   {
     "id": "torobshop-sports-travel-e4a2bc7cbee474b2",
@@ -735,7 +735,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.631Z"
+    "observedAt": "2026-09-03T13:25:40.698Z"
   },
   {
     "id": "torobshop-sports-travel-3be15395be038aca",
@@ -753,7 +753,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.632Z"
+    "observedAt": "2026-09-03T13:25:40.698Z"
   },
   {
     "id": "torobshop-sports-travel-77f61ec7f8b8b73d",
@@ -771,7 +771,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.632Z"
+    "observedAt": "2026-09-03T13:25:40.698Z"
   },
   {
     "id": "torobshop-sports-travel-a09bc08624899ff4",
@@ -789,7 +789,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.632Z"
+    "observedAt": "2026-09-03T13:25:40.698Z"
   },
   {
     "id": "torobshop-sports-travel-bbd449ed50b3d540",
@@ -807,7 +807,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.632Z"
+    "observedAt": "2026-09-03T13:25:40.698Z"
   },
   {
     "id": "torobshop-sports-travel-50ddbf6ac385797f",
@@ -825,7 +825,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.632Z"
+    "observedAt": "2026-09-03T13:25:40.698Z"
   },
   {
     "id": "torobshop-sports-travel-80a52ed3a08cda77",
@@ -843,7 +843,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.632Z"
+    "observedAt": "2026-09-03T13:25:40.698Z"
   },
   {
     "id": "torobshop-sports-travel-039d5e6addbbd691",
@@ -861,7 +861,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.632Z"
+    "observedAt": "2026-09-03T13:25:40.698Z"
   },
   {
     "id": "torobshop-sports-travel-35ed38f253e56a81",
@@ -879,7 +879,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.632Z"
+    "observedAt": "2026-09-03T13:25:40.699Z"
   },
   {
     "id": "torobshop-sports-travel-81294b2d39671c7a",
@@ -897,7 +897,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.632Z"
+    "observedAt": "2026-09-03T13:25:40.699Z"
   },
   {
     "id": "torobshop-sports-travel-aa508f6b8b35e109",
@@ -915,7 +915,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.632Z"
+    "observedAt": "2026-09-03T13:25:40.699Z"
   },
   {
     "id": "torobshop-sports-travel-6ec47a3d62be5701",
@@ -933,7 +933,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.632Z"
+    "observedAt": "2026-09-03T13:25:40.699Z"
   },
   {
     "id": "torobshop-sports-travel-7b66ea2c8fd4c6a4",
@@ -951,7 +951,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.632Z"
+    "observedAt": "2026-09-03T13:25:40.699Z"
   },
   {
     "id": "torobshop-sports-travel-d49e2d4bb6f40cd4",
@@ -969,7 +969,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.632Z"
+    "observedAt": "2026-09-03T13:25:40.699Z"
   },
   {
     "id": "torobshop-sports-travel-189f8d80d22fa44f",
@@ -987,7 +987,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.632Z"
+    "observedAt": "2026-09-03T13:25:40.699Z"
   },
   {
     "id": "torobshop-sports-travel-5b8fa53f836d0f0c",
@@ -1005,7 +1005,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.632Z"
+    "observedAt": "2026-09-03T13:25:40.699Z"
   },
   {
     "id": "torobshop-sports-travel-547d268a4387e8cb",
@@ -1023,7 +1023,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.632Z"
+    "observedAt": "2026-09-03T13:25:40.699Z"
   },
   {
     "id": "torobshop-sports-travel-4192b4da9c3a842b",
@@ -1041,7 +1041,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.632Z"
+    "observedAt": "2026-09-03T13:25:40.699Z"
   },
   {
     "id": "torobshop-sports-travel-d81ab9c86f172992",
@@ -1059,7 +1059,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.632Z"
+    "observedAt": "2026-09-03T13:25:40.699Z"
   },
   {
     "id": "torobshop-sports-travel-c2621badab7154db",
@@ -1077,7 +1077,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.632Z"
+    "observedAt": "2026-09-03T13:25:40.699Z"
   },
   {
     "id": "torobshop-sports-travel-e61e8163e0053f8c",
@@ -1095,7 +1095,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.632Z"
+    "observedAt": "2026-09-03T13:25:40.699Z"
   },
   {
     "id": "torobshop-sports-travel-0a6f99bfb7c72378",
@@ -1113,7 +1113,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.632Z"
+    "observedAt": "2026-09-03T13:25:40.699Z"
   },
   {
     "id": "torobshop-sports-travel-17b433396f0dd8b8",
@@ -1131,7 +1131,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.632Z"
+    "observedAt": "2026-09-03T13:25:40.699Z"
   },
   {
     "id": "torobshop-sports-travel-70f796097c7bfa77",
@@ -1149,7 +1149,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.632Z"
+    "observedAt": "2026-09-03T13:25:40.699Z"
   },
   {
     "id": "torobshop-sports-travel-792d9fda0d1edf60",
@@ -1167,7 +1167,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.632Z"
+    "observedAt": "2026-09-03T13:25:40.699Z"
   },
   {
     "id": "torobshop-sports-travel-0540c2016311432d",
@@ -1185,7 +1185,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.632Z"
+    "observedAt": "2026-09-03T13:25:40.699Z"
   },
   {
     "id": "torobshop-sports-travel-ea7e49d4888f5500",
@@ -1203,7 +1203,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.632Z"
+    "observedAt": "2026-09-03T13:25:40.699Z"
   },
   {
     "id": "torobshop-sports-travel-a7031b2d2c098e3a",
@@ -1221,7 +1221,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.632Z"
+    "observedAt": "2026-09-03T13:25:40.699Z"
   },
   {
     "id": "torobshop-sports-travel-b280052ba623afe6",
@@ -1239,7 +1239,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.632Z"
+    "observedAt": "2026-09-03T13:25:40.699Z"
   },
   {
     "id": "torobshop-sports-travel-f65d7089e1b75967",
@@ -1257,7 +1257,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.632Z"
+    "observedAt": "2026-09-03T13:25:40.699Z"
   },
   {
     "id": "torobshop-sports-travel-682b567d27e46eb9",
@@ -1275,7 +1275,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.632Z"
+    "observedAt": "2026-09-03T13:25:40.699Z"
   },
   {
     "id": "torobshop-sports-travel-1a199d11167496a7",
@@ -1293,7 +1293,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.632Z"
+    "observedAt": "2026-09-03T13:25:40.699Z"
   },
   {
     "id": "torobshop-sports-travel-e7562a4a47affbdf",
@@ -1311,7 +1311,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.632Z"
+    "observedAt": "2026-09-03T13:25:40.699Z"
   },
   {
     "id": "torobshop-sports-travel-5681fc33ebc4a2c4",
@@ -1329,7 +1329,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.632Z"
+    "observedAt": "2026-09-03T13:25:40.699Z"
   },
   {
     "id": "torobshop-sports-travel-eb3156af454255af",
@@ -1347,7 +1347,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.632Z"
+    "observedAt": "2026-09-03T13:25:40.699Z"
   },
   {
     "id": "torobshop-sports-travel-3f60763e8c1f61db",
@@ -1365,7 +1365,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.632Z"
+    "observedAt": "2026-09-03T13:25:40.699Z"
   },
   {
     "id": "torobshop-sports-travel-8b667a7c5d48a018",
@@ -1383,7 +1383,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.632Z"
+    "observedAt": "2026-09-03T13:25:40.699Z"
   },
   {
     "id": "torobshop-sports-travel-c28d9ee4867587e0",
@@ -1401,7 +1401,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.632Z"
+    "observedAt": "2026-09-03T13:25:40.699Z"
   },
   {
     "id": "torobshop-sports-travel-135cb4370d26107e",
@@ -1419,7 +1419,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.632Z"
+    "observedAt": "2026-09-03T13:25:40.699Z"
   },
   {
     "id": "torobshop-sports-travel-ea6561f27fcae338",
@@ -1437,7 +1437,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.632Z"
+    "observedAt": "2026-09-03T13:25:40.699Z"
   },
   {
     "id": "torobshop-sports-travel-9da6cf5207d19dc6",
@@ -1455,7 +1455,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.632Z"
+    "observedAt": "2026-09-03T13:25:40.699Z"
   },
   {
     "id": "torobshop-sports-travel-973da9b66d30f98f",
@@ -1473,7 +1473,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.632Z"
+    "observedAt": "2026-09-03T13:25:40.699Z"
   },
   {
     "id": "torobshop-sports-travel-27a7ab064979e19e",
@@ -1491,7 +1491,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.632Z"
+    "observedAt": "2026-09-03T13:25:40.699Z"
   },
   {
     "id": "torobshop-sports-travel-426ac503c83523da",
@@ -1509,7 +1509,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.632Z"
+    "observedAt": "2026-09-03T13:25:40.699Z"
   },
   {
     "id": "torobshop-sports-travel-93f0314c16b9cade",
@@ -1527,7 +1527,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.632Z"
+    "observedAt": "2026-09-03T13:25:40.699Z"
   },
   {
     "id": "torobshop-sports-travel-e546c7ee2f25cccb",
@@ -1545,7 +1545,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.632Z"
+    "observedAt": "2026-09-03T13:25:40.699Z"
   },
   {
     "id": "torobshop-sports-travel-06e9af83157d59bf",
@@ -1563,7 +1563,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.632Z"
+    "observedAt": "2026-09-03T13:25:40.699Z"
   },
   {
     "id": "torobshop-sports-travel-7dd02e17fa5ae720",
@@ -1581,7 +1581,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.632Z"
+    "observedAt": "2026-09-03T13:25:40.699Z"
   },
   {
     "id": "torobshop-sports-travel-67b089d5840c00b5",
@@ -1599,7 +1599,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.632Z"
+    "observedAt": "2026-09-03T13:25:40.699Z"
   },
   {
     "id": "torobshop-sports-travel-16617f0cd6242c17",
@@ -1617,7 +1617,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.632Z"
+    "observedAt": "2026-09-03T13:25:40.699Z"
   },
   {
     "id": "torobshop-sports-travel-aab6f7ca65634b77",
@@ -1635,7 +1635,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.632Z"
+    "observedAt": "2026-09-03T13:25:40.699Z"
   },
   {
     "id": "torobshop-sports-travel-230290bd87eab562",
@@ -1653,7 +1653,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.632Z"
+    "observedAt": "2026-09-03T13:25:40.699Z"
   },
   {
     "id": "torobshop-sports-travel-697a2934ffba6321",
@@ -1671,7 +1671,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.632Z"
+    "observedAt": "2026-09-03T13:25:40.699Z"
   },
   {
     "id": "torobshop-sports-travel-54f5e9ae596669e0",
@@ -1689,7 +1689,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.632Z"
+    "observedAt": "2026-09-03T13:25:40.699Z"
   },
   {
     "id": "torobshop-sports-travel-12112ebd794aebfe",
@@ -1707,7 +1707,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.632Z"
+    "observedAt": "2026-09-03T13:25:40.699Z"
   },
   {
     "id": "torobshop-sports-travel-936307be3dbff4d8",
@@ -1725,7 +1725,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.632Z"
+    "observedAt": "2026-09-03T13:25:40.699Z"
   },
   {
     "id": "torobshop-sports-travel-6e9b5969bf806a83",
@@ -1743,7 +1743,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.632Z"
+    "observedAt": "2026-09-03T13:25:40.699Z"
   },
   {
     "id": "torobshop-sports-travel-e8fbb91576830b01",
@@ -1761,7 +1761,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.632Z"
+    "observedAt": "2026-09-03T13:25:40.699Z"
   },
   {
     "id": "torobshop-sports-travel-46604b56d19bc98e",
@@ -1779,7 +1779,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.632Z"
+    "observedAt": "2026-09-03T13:25:40.699Z"
   },
   {
     "id": "torobshop-sports-travel-c0da7c6caaaabe22",
@@ -1797,7 +1797,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.633Z"
+    "observedAt": "2026-09-03T13:25:40.699Z"
   },
   {
     "id": "torobshop-sports-travel-b0d9a8bce5b96da9",
@@ -1815,7 +1815,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.633Z"
+    "observedAt": "2026-09-03T13:25:40.699Z"
   },
   {
     "id": "torobshop-sports-travel-5aade8dcb399df70",
@@ -1833,7 +1833,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.633Z"
+    "observedAt": "2026-09-03T13:25:40.699Z"
   },
   {
     "id": "torobshop-sports-travel-5793143473c0cf7d",
@@ -1851,7 +1851,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.633Z"
+    "observedAt": "2026-09-03T13:25:40.699Z"
   },
   {
     "id": "torobshop-sports-travel-338927d0838a0440",
@@ -1869,7 +1869,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.633Z"
+    "observedAt": "2026-09-03T13:25:40.699Z"
   },
   {
     "id": "torobshop-sports-travel-01db327156bef7cb",
@@ -1887,7 +1887,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.633Z"
+    "observedAt": "2026-09-03T13:25:40.699Z"
   },
   {
     "id": "torobshop-sports-travel-5f8b7d12315d211b",
@@ -1905,7 +1905,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.633Z"
+    "observedAt": "2026-09-03T13:25:40.699Z"
   },
   {
     "id": "torobshop-sports-travel-bbcc82316e14ad0c",
@@ -1923,7 +1923,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.633Z"
+    "observedAt": "2026-09-03T13:25:40.699Z"
   },
   {
     "id": "torobshop-sports-travel-7bcf4d86c8897e89",
@@ -1941,7 +1941,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.633Z"
+    "observedAt": "2026-09-03T13:25:40.700Z"
   },
   {
     "id": "torobshop-sports-travel-c4764ab021d7047d",
@@ -1959,7 +1959,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.633Z"
+    "observedAt": "2026-09-03T13:25:40.700Z"
   },
   {
     "id": "torobshop-sports-travel-c0ed70988a23d716",
@@ -1977,7 +1977,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.633Z"
+    "observedAt": "2026-09-03T13:25:40.700Z"
   },
   {
     "id": "torobshop-sports-travel-60d6e587231ae5e2",
@@ -1995,7 +1995,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.633Z"
+    "observedAt": "2026-09-03T13:25:40.700Z"
   },
   {
     "id": "torobshop-sports-travel-6ae0fa5e11f4b4e4",
@@ -2013,7 +2013,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.633Z"
+    "observedAt": "2026-09-03T13:25:40.700Z"
   },
   {
     "id": "torobshop-sports-travel-60af1d85416ddb75",
@@ -2031,7 +2031,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.633Z"
+    "observedAt": "2026-09-03T13:25:40.700Z"
   },
   {
     "id": "torobshop-sports-travel-4bcca73578b5dd16",
@@ -2049,7 +2049,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.633Z"
+    "observedAt": "2026-09-03T13:25:40.700Z"
   },
   {
     "id": "torobshop-sports-travel-6e06ceda384f61d3",
@@ -2067,7 +2067,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.633Z"
+    "observedAt": "2026-09-03T13:25:40.700Z"
   },
   {
     "id": "torobshop-sports-travel-d6020856dbe3939e",
@@ -2085,7 +2085,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.633Z"
+    "observedAt": "2026-09-03T13:25:40.700Z"
   },
   {
     "id": "torobshop-sports-travel-f9bbe058bc1d2128",
@@ -2103,7 +2103,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.633Z"
+    "observedAt": "2026-09-03T13:25:40.700Z"
   },
   {
     "id": "torobshop-sports-travel-5d82b44892bc11b9",
@@ -2121,7 +2121,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.633Z"
+    "observedAt": "2026-09-03T13:25:40.700Z"
   },
   {
     "id": "torobshop-sports-travel-55066b4800c9da01",
@@ -2139,7 +2139,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.633Z"
+    "observedAt": "2026-09-03T13:25:40.700Z"
   },
   {
     "id": "torobshop-sports-travel-e314f2beea5b98b5",
@@ -2157,7 +2157,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.633Z"
+    "observedAt": "2026-09-03T13:25:40.700Z"
   },
   {
     "id": "torobshop-sports-travel-e0190c6b09b72f84",
@@ -2175,7 +2175,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.633Z"
+    "observedAt": "2026-09-03T13:25:40.700Z"
   },
   {
     "id": "torobshop-sports-travel-f9b72003ee046406",
@@ -2193,7 +2193,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.633Z"
+    "observedAt": "2026-09-03T13:25:40.700Z"
   },
   {
     "id": "torobshop-sports-travel-dab9eb8721316f5c",
@@ -2211,7 +2211,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.633Z"
+    "observedAt": "2026-09-03T13:25:40.700Z"
   },
   {
     "id": "torobshop-sports-travel-b5bb3ef74c64016f",
@@ -2229,7 +2229,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.633Z"
+    "observedAt": "2026-09-03T13:25:40.700Z"
   },
   {
     "id": "torobshop-sports-travel-7039563646d2a08c",
@@ -2247,43 +2247,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.633Z"
-  },
-  {
-    "id": "torobshop-sports-travel-e05ea902bac411c1",
-    "productId": "torobshop-e05ea902bac411c1",
-    "name": "پلوپز و غلات پز هوشمند کیچن اید آمریکا مدل KitchenAid KGC2154PL سفید",
-    "brand": "",
-    "model": "پلوپز و غلات پز هوشمند کیچن اید آمریکا مدل KitchenAid KGC2154PL سفید",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 81213000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%BE%D9%84%D9%88%D9%BE%D8%B2-%D9%88-%D8%BA%D9%84%D8%A7%D8%AA-%D9%BE%D8%B2-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%DA%A9%DB%8C%DA%86%D9%86-%D8%A7%DB%8C%D8%AF-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D9%85%D8%AF%D9%84-KitchenAid-KGC2154PL-%D8%B3%D9%81%DB%8C%D8%AF",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.633Z"
-  },
-  {
-    "id": "torobshop-sports-travel-d17a16a92c427af7",
-    "productId": "torobshop-d17a16a92c427af7",
-    "name": "تنور فر پیتزا فضای باز نینجا آمریکا Ninja OO101EU وودفایر ۸ کاره باربیکیو دودی با قفسه گریل",
-    "brand": "",
-    "model": "تنور فر پیتزا فضای باز نینجا آمریکا Ninja OO101EU وودفایر ۸ کاره باربیکیو دودی با قفسه گریل",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 126881000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%AA%D9%86%D9%88%D8%B1-%D9%81%D8%B1-%D9%BE%DB%8C%D8%AA%D8%B2%D8%A7-%D9%81%D8%B6%D8%A7%DB%8C-%D8%A8%D8%A7%D8%B2-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-Ninja-OO101EU-%D9%88%D9%88%D8%AF%D9%81%D8%A7%DB%8C%D8%B1-%DB%B8-%DA%A9%D8%A7%D8%B1%D9%87-%D8%A8%D8%A7%D8%B1%D8%A8%DB%8C%DA%A9%DB%8C%D9%88-%D8%AF%D9%88%D8%AF%DB%8C-%D8%A8%D8%A7-%D9%82%D9%81%D8%B3%D9%87-%DA%AF%D8%B1%DB%8C%D9%84",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.633Z"
+    "observedAt": "2026-09-03T13:25:40.700Z"
   },
   {
     "id": "torobshop-sports-travel-13383e2908795ceb",
@@ -2301,25 +2265,43 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.633Z"
+    "observedAt": "2026-09-03T13:25:40.700Z"
   },
   {
-    "id": "torobshop-sports-travel-9f8dba1c4be0543f",
-    "productId": "torobshop-9f8dba1c4be0543f",
-    "name": "دستگاه تنس مخصوص زانو بیورر آلمان مدل Beurer EM 56 کاهش درد زانو آرتروز و دردهای مفصلی",
+    "id": "torobshop-sports-travel-e05ea902bac411c1",
+    "productId": "torobshop-e05ea902bac411c1",
+    "name": "پلوپز و غلات پز هوشمند کیچن اید آمریکا مدل KitchenAid KGC2154PL سفید",
     "brand": "",
-    "model": "دستگاه تنس مخصوص زانو بیورر آلمان مدل Beurer EM 56 کاهش درد زانو آرتروز و دردهای مفصلی",
+    "model": "پلوپز و غلات پز هوشمند کیچن اید آمریکا مدل KitchenAid KGC2154PL سفید",
     "category": "sports-travel",
     "subcategory": "کتانی ورزشی مردانه",
-    "price": 22834000,
+    "price": 81213000,
     "currency": "IRT",
     "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%AA%D9%86%D8%B3-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%B2%D8%A7%D9%86%D9%88-%D8%A8%DB%8C%D9%88%D8%B1%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%AF%D9%84-Beurer-EM-56-%DA%A9%D8%A7%D9%87%D8%B4-%D8%AF%D8%B1%D8%AF-%D8%B2%D8%A7%D9%86%D9%88-%D8%A2%D8%B1%D8%AA%D8%B1%D9%88%D8%B2-%D9%88-%D8%AF%D8%B1%D8%AF%D9%87%D8%A7%DB%8C-%D9%85%D9%81%D8%B5%D9%84%DB%8C",
+    "productUrl": "https://torobshop.com/products/%D9%BE%D9%84%D9%88%D9%BE%D8%B2-%D9%88-%D8%BA%D9%84%D8%A7%D8%AA-%D9%BE%D8%B2-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%DA%A9%DB%8C%DA%86%D9%86-%D8%A7%DB%8C%D8%AF-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D9%85%D8%AF%D9%84-KitchenAid-KGC2154PL-%D8%B3%D9%81%DB%8C%D8%AF",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.633Z"
+    "observedAt": "2026-09-03T13:25:40.700Z"
+  },
+  {
+    "id": "torobshop-sports-travel-d17a16a92c427af7",
+    "productId": "torobshop-d17a16a92c427af7",
+    "name": "تنور فر پیتزا فضای باز نینجا آمریکا Ninja OO101EU وودفایر ۸ کاره باربیکیو دودی با قفسه گریل",
+    "brand": "",
+    "model": "تنور فر پیتزا فضای باز نینجا آمریکا Ninja OO101EU وودفایر ۸ کاره باربیکیو دودی با قفسه گریل",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 126881000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%AA%D9%86%D9%88%D8%B1-%D9%81%D8%B1-%D9%BE%DB%8C%D8%AA%D8%B2%D8%A7-%D9%81%D8%B6%D8%A7%DB%8C-%D8%A8%D8%A7%D8%B2-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-Ninja-OO101EU-%D9%88%D9%88%D8%AF%D9%81%D8%A7%DB%8C%D8%B1-%DB%B8-%DA%A9%D8%A7%D8%B1%D9%87-%D8%A8%D8%A7%D8%B1%D8%A8%DB%8C%DA%A9%DB%8C%D9%88-%D8%AF%D9%88%D8%AF%DB%8C-%D8%A8%D8%A7-%D9%82%D9%81%D8%B3%D9%87-%DA%AF%D8%B1%DB%8C%D9%84",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T13:25:40.700Z"
   },
   {
     "id": "torobshop-sports-travel-222c5f1f48a7811a",
@@ -2337,7 +2319,25 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.633Z"
+    "observedAt": "2026-09-03T13:25:40.700Z"
+  },
+  {
+    "id": "torobshop-sports-travel-9f8dba1c4be0543f",
+    "productId": "torobshop-9f8dba1c4be0543f",
+    "name": "دستگاه تنس مخصوص زانو بیورر آلمان مدل Beurer EM 56 کاهش درد زانو آرتروز و دردهای مفصلی",
+    "brand": "",
+    "model": "دستگاه تنس مخصوص زانو بیورر آلمان مدل Beurer EM 56 کاهش درد زانو آرتروز و دردهای مفصلی",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 22834000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%AA%D9%86%D8%B3-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%B2%D8%A7%D9%86%D9%88-%D8%A8%DB%8C%D9%88%D8%B1%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%AF%D9%84-Beurer-EM-56-%DA%A9%D8%A7%D9%87%D8%B4-%D8%AF%D8%B1%D8%AF-%D8%B2%D8%A7%D9%86%D9%88-%D8%A2%D8%B1%D8%AA%D8%B1%D9%88%D8%B2-%D9%88-%D8%AF%D8%B1%D8%AF%D9%87%D8%A7%DB%8C-%D9%85%D9%81%D8%B5%D9%84%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T13:25:40.700Z"
   },
   {
     "id": "torobshop-sports-travel-7dda1ee3ebe3337d",
@@ -2355,7 +2355,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.633Z"
+    "observedAt": "2026-09-03T13:25:40.700Z"
   },
   {
     "id": "torobshop-sports-travel-fed9304ce636fd70",
@@ -2373,7 +2373,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.633Z"
+    "observedAt": "2026-09-03T13:25:40.700Z"
   },
   {
     "id": "torobshop-sports-travel-73f54a12bc87541c",
@@ -2391,7 +2391,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.633Z"
+    "observedAt": "2026-09-03T13:25:40.700Z"
   },
   {
     "id": "torobshop-sports-travel-56d2262c04bf40b1",
@@ -2409,7 +2409,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.633Z"
+    "observedAt": "2026-09-03T13:25:40.700Z"
   },
   {
     "id": "torobshop-sports-travel-1d09296a1209f7ae",
@@ -2427,7 +2427,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.633Z"
+    "observedAt": "2026-09-03T13:25:40.700Z"
   },
   {
     "id": "torobshop-sports-travel-d5861c5eae980acb",
@@ -2445,7 +2445,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.633Z"
+    "observedAt": "2026-09-03T13:25:40.700Z"
   },
   {
     "id": "torobshop-sports-travel-3a354858143bf5bf",
@@ -2463,7 +2463,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.633Z"
+    "observedAt": "2026-09-03T13:25:40.700Z"
   },
   {
     "id": "torobshop-sports-travel-3b108c60419c6b3e",
@@ -2481,7 +2481,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.633Z"
+    "observedAt": "2026-09-03T13:25:40.700Z"
   },
   {
     "id": "torobshop-sports-travel-386045fed7109b6c",
@@ -2499,7 +2499,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.633Z"
+    "observedAt": "2026-09-03T13:25:40.700Z"
   },
   {
     "id": "torobshop-sports-travel-3d432c8dbd69eefb",
@@ -2517,7 +2517,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.633Z"
+    "observedAt": "2026-09-03T13:25:40.700Z"
   },
   {
     "id": "torobshop-sports-travel-2278a7dbec8ed7cd",
@@ -2535,7 +2535,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.633Z"
+    "observedAt": "2026-09-03T13:25:40.700Z"
   },
   {
     "id": "torobshop-sports-travel-66634e26dfb49c04",
@@ -2553,7 +2553,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.633Z"
+    "observedAt": "2026-09-03T13:25:40.700Z"
   },
   {
     "id": "torobshop-sports-travel-bab25203513b93bb",
@@ -2571,7 +2571,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.633Z"
+    "observedAt": "2026-09-03T13:25:40.700Z"
   },
   {
     "id": "torobshop-sports-travel-bcf3455eedcf96e7",
@@ -2589,7 +2589,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.633Z"
+    "observedAt": "2026-09-03T13:25:40.700Z"
   },
   {
     "id": "torobshop-sports-travel-3dd1b99a47f6c6d1",
@@ -2607,7 +2607,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.633Z"
+    "observedAt": "2026-09-03T13:25:40.700Z"
   },
   {
     "id": "torobshop-sports-travel-fbd5e1832a592f6d",
@@ -2625,7 +2625,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.633Z"
+    "observedAt": "2026-09-03T13:25:40.700Z"
   },
   {
     "id": "torobshop-sports-travel-40f557a46b915c21",
@@ -2643,7 +2643,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.633Z"
+    "observedAt": "2026-09-03T13:25:40.700Z"
   },
   {
     "id": "torobshop-sports-travel-9c9a87a898bad342",
@@ -2661,7 +2661,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.633Z"
+    "observedAt": "2026-09-03T13:25:40.700Z"
   },
   {
     "id": "torobshop-sports-travel-685fccacbb18ee43",
@@ -2679,7 +2679,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.633Z"
+    "observedAt": "2026-09-03T13:25:40.700Z"
   },
   {
     "id": "torobshop-sports-travel-1cb6df1aed563bee",
@@ -2697,7 +2697,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.633Z"
+    "observedAt": "2026-09-03T13:25:40.700Z"
   },
   {
     "id": "torobshop-sports-travel-993ee35f4a561a10",
@@ -2715,7 +2715,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.633Z"
+    "observedAt": "2026-09-03T13:25:40.700Z"
   },
   {
     "id": "torobshop-sports-travel-37fd983abaa93a3b",
@@ -2733,7 +2733,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.633Z"
+    "observedAt": "2026-09-03T13:25:40.700Z"
   },
   {
     "id": "torobshop-sports-travel-deb4652ab7b20c96",
@@ -2751,7 +2751,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.633Z"
+    "observedAt": "2026-09-03T13:25:40.700Z"
   },
   {
     "id": "torobshop-sports-travel-cc5a74ea332cb871",
@@ -2769,7 +2769,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.633Z"
+    "observedAt": "2026-09-03T13:25:40.700Z"
   },
   {
     "id": "torobshop-sports-travel-f5c373b20c89f3cf",
@@ -2787,7 +2787,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.633Z"
+    "observedAt": "2026-09-03T13:25:40.700Z"
   },
   {
     "id": "torobshop-sports-travel-557954e4838db8ec",
@@ -2805,43 +2805,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.633Z"
-  },
-  {
-    "id": "torobshop-sports-travel-5e97e30e4af5e35a",
-    "productId": "torobshop-5e97e30e4af5e35a",
-    "name": "دستگاه لیزر خانگی حذف موهای زائد بانوان فیلیپس هلند مدل Philips BRI949/00",
-    "brand": "",
-    "model": "دستگاه لیزر خانگی حذف موهای زائد بانوان فیلیپس هلند مدل Philips BRI949/00",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 103811000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%84%DB%8C%D8%B2%D8%B1-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C-%D8%AD%D8%B0%D9%81-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%87%D9%84%D9%86%D8%AF-%D9%85%D8%AF%D9%84-Philips-BRI949-00",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.633Z"
-  },
-  {
-    "id": "torobshop-sports-travel-ca40f9691c169854",
-    "productId": "torobshop-ca40f9691c169854",
-    "name": "دستگاه تنس و ای ام اس بیورر آلمان مدل Beurer EM 49 برای تسکین درد عضله سازی و ماساژ",
-    "brand": "",
-    "model": "دستگاه تنس و ای ام اس بیورر آلمان مدل Beurer EM 49 برای تسکین درد عضله سازی و ماساژ",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 20304000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%AA%D9%86%D8%B3-%D9%88-%D8%A7%DB%8C-%D8%A7%D9%85-%D8%A7%D8%B3-%D8%A8%DB%8C%D9%88%D8%B1%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%AF%D9%84-Beurer-EM-49-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D8%B3%DA%A9%DB%8C%D9%86-%D8%AF%D8%B1%D8%AF-%D8%B9%D8%B6%D9%84%D9%87-%D8%B3%D8%A7%D8%B2%DB%8C-%D9%88-%D9%85%D8%A7%D8%B3%D8%A7%DA%98",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.633Z"
+    "observedAt": "2026-09-03T13:25:40.700Z"
   },
   {
     "id": "torobshop-sports-travel-ac5e0f9a687acc9d",
@@ -2859,7 +2823,43 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.633Z"
+    "observedAt": "2026-09-03T13:25:40.700Z"
+  },
+  {
+    "id": "torobshop-sports-travel-5e97e30e4af5e35a",
+    "productId": "torobshop-5e97e30e4af5e35a",
+    "name": "دستگاه لیزر خانگی حذف موهای زائد بانوان فیلیپس هلند مدل Philips BRI949/00",
+    "brand": "",
+    "model": "دستگاه لیزر خانگی حذف موهای زائد بانوان فیلیپس هلند مدل Philips BRI949/00",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 103811000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%84%DB%8C%D8%B2%D8%B1-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C-%D8%AD%D8%B0%D9%81-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%87%D9%84%D9%86%D8%AF-%D9%85%D8%AF%D9%84-Philips-BRI949-00",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T13:25:40.700Z"
+  },
+  {
+    "id": "torobshop-sports-travel-ca40f9691c169854",
+    "productId": "torobshop-ca40f9691c169854",
+    "name": "دستگاه تنس و ای ام اس بیورر آلمان مدل Beurer EM 49 برای تسکین درد عضله سازی و ماساژ",
+    "brand": "",
+    "model": "دستگاه تنس و ای ام اس بیورر آلمان مدل Beurer EM 49 برای تسکین درد عضله سازی و ماساژ",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 20304000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%AA%D9%86%D8%B3-%D9%88-%D8%A7%DB%8C-%D8%A7%D9%85-%D8%A7%D8%B3-%D8%A8%DB%8C%D9%88%D8%B1%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%AF%D9%84-Beurer-EM-49-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D8%B3%DA%A9%DB%8C%D9%86-%D8%AF%D8%B1%D8%AF-%D8%B9%D8%B6%D9%84%D9%87-%D8%B3%D8%A7%D8%B2%DB%8C-%D9%88-%D9%85%D8%A7%D8%B3%D8%A7%DA%98",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T13:25:40.700Z"
   },
   {
     "id": "torobshop-sports-travel-174296fd490ce4c6",
@@ -2877,7 +2877,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.633Z"
+    "observedAt": "2026-09-03T13:25:40.700Z"
   },
   {
     "id": "torobshop-sports-travel-24ee5f250564a2b6",
@@ -2895,7 +2895,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.633Z"
+    "observedAt": "2026-09-03T13:25:40.700Z"
   },
   {
     "id": "torobshop-sports-travel-eb2d1bdae18ab641",
@@ -2913,7 +2913,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.633Z"
+    "observedAt": "2026-09-03T13:25:40.700Z"
   },
   {
     "id": "torobshop-sports-travel-9526bc50db1d2b71",
@@ -2931,7 +2931,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.634Z"
+    "observedAt": "2026-09-03T13:25:40.700Z"
   },
   {
     "id": "torobshop-sports-travel-17aea0c096f3fbb1",
@@ -2949,7 +2949,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.634Z"
+    "observedAt": "2026-09-03T13:25:40.700Z"
   },
   {
     "id": "torobshop-sports-travel-dab36535df580dd9",
@@ -2967,7 +2967,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.634Z"
+    "observedAt": "2026-09-03T13:25:40.700Z"
   },
   {
     "id": "torobshop-sports-travel-bb07ff83203ce817",
@@ -2985,7 +2985,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.634Z"
+    "observedAt": "2026-09-03T13:25:40.700Z"
   },
   {
     "id": "torobshop-sports-travel-23a08ed4a54c1bf3",
@@ -3003,7 +3003,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.634Z"
+    "observedAt": "2026-09-03T13:25:40.701Z"
   },
   {
     "id": "torobshop-sports-travel-86394f5b0d453ade",
@@ -3021,7 +3021,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.634Z"
+    "observedAt": "2026-09-03T13:25:40.701Z"
   },
   {
     "id": "torobshop-sports-travel-bf0ff9604c787d7f",
@@ -3039,7 +3039,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.634Z"
+    "observedAt": "2026-09-03T13:25:40.701Z"
   },
   {
     "id": "torobshop-sports-travel-add12b5339d41d54",
@@ -3057,7 +3057,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.634Z"
+    "observedAt": "2026-09-03T13:25:40.701Z"
   },
   {
     "id": "torobshop-sports-travel-e89541bdd38935d2",
@@ -3075,7 +3075,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.634Z"
+    "observedAt": "2026-09-03T13:25:40.701Z"
   },
   {
     "id": "torobshop-sports-travel-ec7446a90d887300",
@@ -3093,7 +3093,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.634Z"
+    "observedAt": "2026-09-03T13:25:40.701Z"
   },
   {
     "id": "torobshop-sports-travel-f676e23d1f151190",
@@ -3111,7 +3111,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.634Z"
+    "observedAt": "2026-09-03T13:25:40.701Z"
   },
   {
     "id": "torobshop-sports-travel-ffccfb4b61d564f3",
@@ -3129,7 +3129,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.634Z"
+    "observedAt": "2026-09-03T13:25:40.701Z"
   },
   {
     "id": "torobshop-sports-travel-bf9b6308d5e6e4a3",
@@ -3147,7 +3147,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.634Z"
+    "observedAt": "2026-09-03T13:25:40.701Z"
   },
   {
     "id": "torobshop-sports-travel-a936b9d4fccda9ec",
@@ -3165,7 +3165,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.634Z"
+    "observedAt": "2026-09-03T13:25:40.701Z"
   },
   {
     "id": "torobshop-sports-travel-20506e6b258fcb0c",
@@ -3183,7 +3183,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.634Z"
+    "observedAt": "2026-09-03T13:25:40.701Z"
   },
   {
     "id": "torobshop-sports-travel-3debd7458ec254ad",
@@ -3201,7 +3201,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.634Z"
+    "observedAt": "2026-09-03T13:25:40.701Z"
   },
   {
     "id": "torobshop-sports-travel-ec9957a5ab556a59",
@@ -3219,7 +3219,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.634Z"
+    "observedAt": "2026-09-03T13:25:40.701Z"
   },
   {
     "id": "torobshop-sports-travel-9f1357a1a5ec15c3",
@@ -3237,7 +3237,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.634Z"
+    "observedAt": "2026-09-03T13:25:40.701Z"
   },
   {
     "id": "torobshop-sports-travel-b93b2b7b8a52ead7",
@@ -3255,7 +3255,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.634Z"
+    "observedAt": "2026-09-03T13:25:40.701Z"
   },
   {
     "id": "torobshop-sports-travel-bc5ad78acdc13550",
@@ -3273,7 +3273,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.634Z"
+    "observedAt": "2026-09-03T13:25:40.701Z"
   },
   {
     "id": "torobshop-sports-travel-469010b14dce1518",
@@ -3291,7 +3291,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.634Z"
+    "observedAt": "2026-09-03T13:25:40.701Z"
   },
   {
     "id": "torobshop-sports-travel-d622f60b84a25c29",
@@ -3309,7 +3309,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.634Z"
+    "observedAt": "2026-09-03T13:25:40.701Z"
   },
   {
     "id": "torobshop-sports-travel-8ad1b620c2984c64",
@@ -3327,7 +3327,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.634Z"
+    "observedAt": "2026-09-03T13:25:40.701Z"
   },
   {
     "id": "torobshop-sports-travel-7362b68fe582e1ef",
@@ -3345,7 +3345,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.634Z"
+    "observedAt": "2026-09-03T13:25:40.701Z"
   },
   {
     "id": "torobshop-sports-travel-8b4d268dc0b50dc9",
@@ -3363,7 +3363,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.634Z"
+    "observedAt": "2026-09-03T13:25:40.701Z"
   },
   {
     "id": "torobshop-sports-travel-8cd92a01eb7c25f2",
@@ -3381,7 +3381,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.634Z"
+    "observedAt": "2026-09-03T13:25:40.701Z"
   },
   {
     "id": "torobshop-sports-travel-2aa12aa20262b96c",
@@ -3399,7 +3399,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.634Z"
+    "observedAt": "2026-09-03T13:25:40.701Z"
   },
   {
     "id": "torobshop-sports-travel-712138d0bed8d76a",
@@ -3417,7 +3417,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.634Z"
+    "observedAt": "2026-09-03T13:25:40.701Z"
   },
   {
     "id": "torobshop-sports-travel-10055e541e3441a4",
@@ -3435,7 +3435,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.634Z"
+    "observedAt": "2026-09-03T13:25:40.701Z"
   },
   {
     "id": "torobshop-sports-travel-2961f6c161810850",
@@ -3453,7 +3453,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.634Z"
+    "observedAt": "2026-09-03T13:25:40.701Z"
   },
   {
     "id": "torobshop-sports-travel-f6139cf71fa544af",
@@ -3471,7 +3471,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.634Z"
+    "observedAt": "2026-09-03T13:25:40.701Z"
   },
   {
     "id": "torobshop-sports-travel-a0357d058917fff7",
@@ -3489,7 +3489,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.634Z"
+    "observedAt": "2026-09-03T13:25:40.701Z"
   },
   {
     "id": "torobshop-sports-travel-667b222bc82da779",
@@ -3507,7 +3507,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.634Z"
+    "observedAt": "2026-09-03T13:25:40.701Z"
   },
   {
     "id": "torobshop-sports-travel-b59055b4a9ca5ed0",
@@ -3525,7 +3525,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.634Z"
+    "observedAt": "2026-09-03T13:25:40.701Z"
   },
   {
     "id": "torobshop-sports-travel-5219a65546b1a882",
@@ -3543,7 +3543,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.634Z"
+    "observedAt": "2026-09-03T13:25:40.701Z"
   },
   {
     "id": "torobshop-sports-travel-2e4aeaf94d879ff9",
@@ -3561,7 +3561,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.634Z"
+    "observedAt": "2026-09-03T13:25:40.701Z"
   },
   {
     "id": "torobshop-sports-travel-f241bfdbdc958cdb",
@@ -3579,7 +3579,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.634Z"
+    "observedAt": "2026-09-03T13:25:40.701Z"
   },
   {
     "id": "torobshop-sports-travel-2734ee381987f71a",
@@ -3597,7 +3597,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.634Z"
+    "observedAt": "2026-09-03T13:25:40.701Z"
   },
   {
     "id": "torobshop-sports-travel-13177f1a3461cbf8",
@@ -3615,7 +3615,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.634Z"
+    "observedAt": "2026-09-03T13:25:40.701Z"
   },
   {
     "id": "torobshop-sports-travel-caf67fb53869dc8d",
@@ -3633,7 +3633,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.634Z"
+    "observedAt": "2026-09-03T13:25:40.701Z"
   },
   {
     "id": "torobshop-sports-travel-226a6dfcab93ffe2",
@@ -3651,7 +3651,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.634Z"
+    "observedAt": "2026-09-03T13:25:40.701Z"
   },
   {
     "id": "torobshop-sports-travel-d1db9fdb0a981eb7",
@@ -3669,7 +3669,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.634Z"
+    "observedAt": "2026-09-03T13:25:40.701Z"
   },
   {
     "id": "torobshop-sports-travel-231a8680a663a06f",
@@ -3687,7 +3687,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.634Z"
+    "observedAt": "2026-09-03T13:25:40.701Z"
   },
   {
     "id": "torobshop-sports-travel-1b01f5a6fb5eb1c5",
@@ -3705,7 +3705,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.634Z"
+    "observedAt": "2026-09-03T13:25:40.701Z"
   },
   {
     "id": "torobshop-sports-travel-42a978739edad1b3",
@@ -3723,7 +3723,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.634Z"
+    "observedAt": "2026-09-03T13:25:40.701Z"
   },
   {
     "id": "torobshop-sports-travel-db75e7774c65ead5",
@@ -3741,7 +3741,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.634Z"
+    "observedAt": "2026-09-03T13:25:40.701Z"
   },
   {
     "id": "torobshop-sports-travel-176747b2a6b3c8bf",
@@ -3759,7 +3759,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.634Z"
+    "observedAt": "2026-09-03T13:25:40.701Z"
   },
   {
     "id": "torobshop-sports-travel-9b16b6ebae742a59",
@@ -3777,7 +3777,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.634Z"
+    "observedAt": "2026-09-03T13:25:40.701Z"
   },
   {
     "id": "torobshop-sports-travel-1acb3967a4975e9e",
@@ -3795,7 +3795,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.634Z"
+    "observedAt": "2026-09-03T13:25:40.701Z"
   },
   {
     "id": "torobshop-sports-travel-7400212af3648c0e",
@@ -3813,7 +3813,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.634Z"
+    "observedAt": "2026-09-03T13:25:40.701Z"
   },
   {
     "id": "torobshop-sports-travel-34bb04f7987b2eb8",
@@ -3831,7 +3831,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.634Z"
+    "observedAt": "2026-09-03T13:25:40.701Z"
   },
   {
     "id": "torobshop-sports-travel-1ac684a13e625548",
@@ -3849,7 +3849,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.634Z"
+    "observedAt": "2026-09-03T13:25:40.701Z"
   },
   {
     "id": "torobshop-sports-travel-7406803b18ab5cc6",
@@ -3867,7 +3867,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.634Z"
+    "observedAt": "2026-09-03T13:25:40.701Z"
   },
   {
     "id": "torobshop-sports-travel-28fa9f296d3edd2c",
@@ -3885,7 +3885,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.634Z"
+    "observedAt": "2026-09-03T13:25:40.701Z"
   },
   {
     "id": "torobshop-sports-travel-0a56e024ea7c3e6c",
@@ -3903,7 +3903,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.634Z"
+    "observedAt": "2026-09-03T13:25:40.701Z"
   },
   {
     "id": "torobshop-sports-travel-0ef7eb89998918af",
@@ -3921,7 +3921,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.634Z"
+    "observedAt": "2026-09-03T13:25:40.701Z"
   },
   {
     "id": "torobshop-sports-travel-f2475d629ba82cb9",
@@ -3939,7 +3939,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.635Z"
+    "observedAt": "2026-09-03T13:25:40.701Z"
   },
   {
     "id": "torobshop-sports-travel-1123da8edef7210f",
@@ -3957,7 +3957,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.635Z"
+    "observedAt": "2026-09-03T13:25:40.701Z"
   },
   {
     "id": "torobshop-sports-travel-32430a6532934fe7",
@@ -3975,7 +3975,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.635Z"
+    "observedAt": "2026-09-03T13:25:40.701Z"
   },
   {
     "id": "torobshop-sports-travel-4fcaa05ae27e136c",
@@ -3993,7 +3993,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.635Z"
+    "observedAt": "2026-09-03T13:25:40.701Z"
   },
   {
     "id": "torobshop-sports-travel-93c18ce837ff5f57",
@@ -4011,7 +4011,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.635Z"
+    "observedAt": "2026-09-03T13:25:40.702Z"
   },
   {
     "id": "torobshop-sports-travel-c73bf4fc0db498be",
@@ -4029,7 +4029,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.635Z"
+    "observedAt": "2026-09-03T13:25:40.702Z"
   },
   {
     "id": "torobshop-sports-travel-76f3e4ef7a8810f3",
@@ -4047,7 +4047,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.635Z"
+    "observedAt": "2026-09-03T13:25:40.702Z"
   },
   {
     "id": "torobshop-sports-travel-8f566ccc32f52f97",
@@ -4065,7 +4065,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.635Z"
+    "observedAt": "2026-09-03T13:25:40.702Z"
   },
   {
     "id": "torobshop-sports-travel-2dee2c9f6fb222d1",
@@ -4083,7 +4083,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.635Z"
+    "observedAt": "2026-09-03T13:25:40.702Z"
   },
   {
     "id": "torobshop-sports-travel-05d539a087d0640e",
@@ -4101,7 +4101,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.635Z"
+    "observedAt": "2026-09-03T13:25:40.702Z"
   },
   {
     "id": "torobshop-sports-travel-a40b1cc8eb60dfd3",
@@ -4119,7 +4119,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.635Z"
+    "observedAt": "2026-09-03T13:25:40.702Z"
   },
   {
     "id": "torobshop-sports-travel-827984c7bc2a588b",
@@ -4137,7 +4137,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.635Z"
+    "observedAt": "2026-09-03T13:25:40.702Z"
   },
   {
     "id": "torobshop-sports-travel-b1ad0ea7d3ae35d7",
@@ -4155,7 +4155,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.635Z"
+    "observedAt": "2026-09-03T13:25:40.702Z"
   },
   {
     "id": "torobshop-sports-travel-01fd4211de27a0d5",
@@ -4173,7 +4173,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.635Z"
+    "observedAt": "2026-09-03T13:25:40.702Z"
   },
   {
     "id": "torobshop-sports-travel-4c20864969491062",
@@ -4191,7 +4191,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.635Z"
+    "observedAt": "2026-09-03T13:25:40.702Z"
   },
   {
     "id": "torobshop-sports-travel-6e8f969763fb12ec",
@@ -4209,7 +4209,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.635Z"
+    "observedAt": "2026-09-03T13:25:40.702Z"
   },
   {
     "id": "torobshop-sports-travel-611344efb1bd3888",
@@ -4227,7 +4227,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.635Z"
+    "observedAt": "2026-09-03T13:25:40.702Z"
   },
   {
     "id": "torobshop-sports-travel-c4ddc017f41906f6",
@@ -4245,7 +4245,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.635Z"
+    "observedAt": "2026-09-03T13:25:40.702Z"
   },
   {
     "id": "torobshop-sports-travel-90fcbe8687059a30",
@@ -4263,7 +4263,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.635Z"
+    "observedAt": "2026-09-03T13:25:40.702Z"
   },
   {
     "id": "torobshop-sports-travel-c0007aaa6ab91bb2",
@@ -4281,7 +4281,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.635Z"
+    "observedAt": "2026-09-03T13:25:40.702Z"
   },
   {
     "id": "torobshop-sports-travel-34386721a691d178",
@@ -4299,7 +4299,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.635Z"
+    "observedAt": "2026-09-03T13:25:40.702Z"
   },
   {
     "id": "torobshop-sports-travel-b8bd6a4d5ecca799",
@@ -4317,7 +4317,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.635Z"
+    "observedAt": "2026-09-03T13:25:40.702Z"
   },
   {
     "id": "torobshop-sports-travel-9c72d8fb3f6a2ba1",
@@ -4335,7 +4335,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.635Z"
+    "observedAt": "2026-09-03T13:25:40.702Z"
   },
   {
     "id": "torobshop-sports-travel-87cbcd550df2c8fa",
@@ -4353,7 +4353,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.635Z"
+    "observedAt": "2026-09-03T13:25:40.702Z"
   },
   {
     "id": "torobshop-sports-travel-bb3d87082eb1a040",
@@ -4371,7 +4371,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.635Z"
+    "observedAt": "2026-09-03T13:25:40.702Z"
   },
   {
     "id": "torobshop-sports-travel-af253d8db86172d9",
@@ -4389,7 +4389,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.635Z"
+    "observedAt": "2026-09-03T13:25:40.702Z"
   },
   {
     "id": "torobshop-sports-travel-faf54d1de5277c91",
@@ -4407,7 +4407,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.635Z"
+    "observedAt": "2026-09-03T13:25:40.702Z"
   },
   {
     "id": "torobshop-sports-travel-bed024ff9dfbc191",
@@ -4425,7 +4425,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.635Z"
+    "observedAt": "2026-09-03T13:25:40.702Z"
   },
   {
     "id": "torobshop-sports-travel-12108326787ffaf6",
@@ -4443,7 +4443,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.635Z"
+    "observedAt": "2026-09-03T13:25:40.702Z"
   },
   {
     "id": "torobshop-sports-travel-9706ad3cf0976481",
@@ -4461,7 +4461,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.635Z"
+    "observedAt": "2026-09-03T13:25:40.702Z"
   },
   {
     "id": "torobshop-sports-travel-a78de50e19375b85",
@@ -4479,7 +4479,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.635Z"
+    "observedAt": "2026-09-03T13:25:40.702Z"
   },
   {
     "id": "torobshop-sports-travel-b572c0c74ec7e1ee",
@@ -4497,7 +4497,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.636Z"
+    "observedAt": "2026-09-03T13:25:40.702Z"
   },
   {
     "id": "torobshop-sports-travel-387754e6b4491f58",
@@ -4515,7 +4515,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.636Z"
+    "observedAt": "2026-09-03T13:25:40.702Z"
   },
   {
     "id": "torobshop-sports-travel-39e57f782fd26013",
@@ -4533,25 +4533,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.636Z"
-  },
-  {
-    "id": "torobshop-sports-travel-1ed3ae617a915858",
-    "productId": "torobshop-1ed3ae617a915858",
-    "name": "درب شیشه‌ای ۲۰ سانتی زولینگ آلمان ZWILLING Twin Specials شیشه و استیل نقره‌ای",
-    "brand": "",
-    "model": "درب شیشه‌ای ۲۰ سانتی زولینگ آلمان ZWILLING Twin Specials شیشه و استیل نقره‌ای",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 14210000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B8%D8%B1%D9%81-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-ZWILLING-%D9%85%D8%AF%D9%84-Twin-Specials-%DB%B2%DB%B1-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%AC%D9%86%D8%B3-%D8%B4%DB%8C%D8%B4%D9%87-%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%B1%D9%86%DA%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.636Z"
+    "observedAt": "2026-09-03T13:25:40.702Z"
   },
   {
     "id": "torobshop-sports-travel-aa03a6c561a55d60",
@@ -4569,7 +4551,25 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.636Z"
+    "observedAt": "2026-09-03T13:25:40.702Z"
+  },
+  {
+    "id": "torobshop-sports-travel-1ed3ae617a915858",
+    "productId": "torobshop-1ed3ae617a915858",
+    "name": "درب شیشه‌ای ۲۰ سانتی زولینگ آلمان ZWILLING Twin Specials شیشه و استیل نقره‌ای",
+    "brand": "",
+    "model": "درب شیشه‌ای ۲۰ سانتی زولینگ آلمان ZWILLING Twin Specials شیشه و استیل نقره‌ای",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 14210000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B8%D8%B1%D9%81-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-ZWILLING-%D9%85%D8%AF%D9%84-Twin-Specials-%DB%B2%DB%B1-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%AC%D9%86%D8%B3-%D8%B4%DB%8C%D8%B4%D9%87-%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%B1%D9%86%DA%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T13:25:40.702Z"
   },
   {
     "id": "torobshop-sports-travel-d62ad3ee5759fcbd",
@@ -4587,7 +4587,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.636Z"
+    "observedAt": "2026-09-03T13:25:40.702Z"
   },
   {
     "id": "torobshop-sports-travel-aed9f18e5d887270",
@@ -4605,7 +4605,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.636Z"
+    "observedAt": "2026-09-03T13:25:40.702Z"
   },
   {
     "id": "torobshop-sports-travel-569f3d7e67640e5c",
@@ -4623,7 +4623,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.636Z"
+    "observedAt": "2026-09-03T13:25:40.702Z"
   },
   {
     "id": "torobshop-sports-travel-0cfaef0e68debb8e",
@@ -4641,7 +4641,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.636Z"
+    "observedAt": "2026-09-03T13:25:40.702Z"
   },
   {
     "id": "torobshop-sports-travel-ad6f3f422d15a766",
@@ -4659,7 +4659,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.636Z"
+    "observedAt": "2026-09-03T13:25:40.702Z"
   },
   {
     "id": "torobshop-sports-travel-dfa4bdc99016ca7e",
@@ -4677,7 +4677,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.636Z"
+    "observedAt": "2026-09-03T13:25:40.702Z"
   },
   {
     "id": "torobshop-sports-travel-0ff8a8fc1fbd561e",
@@ -4695,7 +4695,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.636Z"
+    "observedAt": "2026-09-03T13:25:40.702Z"
   },
   {
     "id": "torobshop-sports-travel-fa434e6aa57c4be7",
@@ -4713,7 +4713,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.636Z"
+    "observedAt": "2026-09-03T13:25:40.702Z"
   },
   {
     "id": "torobshop-sports-travel-4b7348b541c036cd",
@@ -4731,7 +4731,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.636Z"
+    "observedAt": "2026-09-03T13:25:40.703Z"
   },
   {
     "id": "torobshop-sports-travel-921dfbcc90d038a0",
@@ -4749,7 +4749,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.636Z"
+    "observedAt": "2026-09-03T13:25:40.703Z"
   },
   {
     "id": "torobshop-sports-travel-abdc2adccad9c33d",
@@ -4767,7 +4767,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.636Z"
+    "observedAt": "2026-09-03T13:25:40.703Z"
   },
   {
     "id": "torobshop-sports-travel-695cd4ce1cd48f20",
@@ -4785,7 +4785,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.636Z"
+    "observedAt": "2026-09-03T13:25:40.703Z"
   },
   {
     "id": "torobshop-sports-travel-6e397f6c85f56e0e",
@@ -4803,7 +4803,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.636Z"
+    "observedAt": "2026-09-03T13:25:40.703Z"
   },
   {
     "id": "torobshop-sports-travel-9318a28bbba0fe53",
@@ -4821,7 +4821,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.636Z"
+    "observedAt": "2026-09-03T13:25:40.703Z"
   },
   {
     "id": "torobshop-sports-travel-c9e212e51e3633db",
@@ -4839,7 +4839,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.636Z"
+    "observedAt": "2026-09-03T13:25:40.703Z"
   },
   {
     "id": "torobshop-sports-travel-7464bedef3ecb51e",
@@ -4857,7 +4857,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.636Z"
+    "observedAt": "2026-09-03T13:25:40.703Z"
   },
   {
     "id": "torobshop-sports-travel-51009350b9f240d2",
@@ -4875,7 +4875,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.636Z"
+    "observedAt": "2026-09-03T13:25:40.703Z"
   },
   {
     "id": "torobshop-sports-travel-45c64009916028ba",
@@ -4893,7 +4893,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.636Z"
+    "observedAt": "2026-09-03T13:25:40.703Z"
   },
   {
     "id": "torobshop-sports-travel-924e8879fd31e680",
@@ -4911,7 +4911,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.636Z"
+    "observedAt": "2026-09-03T13:25:40.703Z"
   },
   {
     "id": "torobshop-sports-travel-ae3ba973ea2911ee",
@@ -4929,7 +4929,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.636Z"
+    "observedAt": "2026-09-03T13:25:40.703Z"
   },
   {
     "id": "torobshop-sports-travel-15def7d563b1e542",
@@ -4947,7 +4947,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.636Z"
+    "observedAt": "2026-09-03T13:25:40.703Z"
   },
   {
     "id": "torobshop-sports-travel-835b00c0d36d8e10",
@@ -4965,7 +4965,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.636Z"
+    "observedAt": "2026-09-03T13:25:40.703Z"
   },
   {
     "id": "torobshop-sports-travel-35f3e181350a9721",
@@ -4983,7 +4983,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.636Z"
+    "observedAt": "2026-09-03T13:25:40.703Z"
   },
   {
     "id": "torobshop-sports-travel-da199e6690f1c782",
@@ -5001,7 +5001,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.636Z"
+    "observedAt": "2026-09-03T13:25:40.703Z"
   },
   {
     "id": "torobshop-sports-travel-37de96dd1d4a33c3",
@@ -5019,7 +5019,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.636Z"
+    "observedAt": "2026-09-03T13:25:40.703Z"
   },
   {
     "id": "torobshop-sports-travel-9311f0ec7504f24b",
@@ -5037,7 +5037,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.636Z"
+    "observedAt": "2026-09-03T13:25:40.703Z"
   },
   {
     "id": "torobshop-sports-travel-843617a20d001e4c",
@@ -5055,7 +5055,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.636Z"
+    "observedAt": "2026-09-03T13:25:40.703Z"
   },
   {
     "id": "torobshop-sports-travel-ee166c5666efcec5",
@@ -5073,7 +5073,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.636Z"
+    "observedAt": "2026-09-03T13:25:40.703Z"
   },
   {
     "id": "torobshop-sports-travel-67d9add46426dfe8",
@@ -5091,7 +5091,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.636Z"
+    "observedAt": "2026-09-03T13:25:40.703Z"
   },
   {
     "id": "torobshop-sports-travel-3877183810368792",
@@ -5109,7 +5109,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.636Z"
+    "observedAt": "2026-09-03T13:25:40.703Z"
   },
   {
     "id": "torobshop-sports-travel-fc88260817f3414e",
@@ -5127,7 +5127,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.636Z"
+    "observedAt": "2026-09-03T13:25:40.703Z"
   },
   {
     "id": "torobshop-sports-travel-e2467d5cbf85ce81",
@@ -5145,7 +5145,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.636Z"
+    "observedAt": "2026-09-03T13:25:40.703Z"
   },
   {
     "id": "torobshop-sports-travel-bbb69afb3e332a2c",
@@ -5163,7 +5163,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.636Z"
+    "observedAt": "2026-09-03T13:25:40.703Z"
   },
   {
     "id": "torobshop-sports-travel-5cab57205d377e1f",
@@ -5181,7 +5181,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.636Z"
+    "observedAt": "2026-09-03T13:25:40.703Z"
   },
   {
     "id": "torobshop-sports-travel-4415e2cd944c4e59",
@@ -5199,7 +5199,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.636Z"
+    "observedAt": "2026-09-03T13:25:40.703Z"
   },
   {
     "id": "torobshop-sports-travel-d68b8e3ac997acb1",
@@ -5217,7 +5217,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.636Z"
+    "observedAt": "2026-09-03T13:25:40.703Z"
   },
   {
     "id": "torobshop-sports-travel-30d122f629f89166",
@@ -5235,7 +5235,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.636Z"
+    "observedAt": "2026-09-03T13:25:40.703Z"
   },
   {
     "id": "torobshop-sports-travel-07103c8f0e3ce377",
@@ -5253,7 +5253,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.636Z"
+    "observedAt": "2026-09-03T13:25:40.703Z"
   },
   {
     "id": "torobshop-sports-travel-3e03d59443676707",
@@ -5271,7 +5271,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.636Z"
+    "observedAt": "2026-09-03T13:25:40.703Z"
   },
   {
     "id": "torobshop-sports-travel-cb9e4b877badae34",
@@ -5289,7 +5289,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.636Z"
+    "observedAt": "2026-09-03T13:25:40.703Z"
   },
   {
     "id": "torobshop-sports-travel-e4088b7a2b6ea10b",
@@ -5307,7 +5307,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.636Z"
+    "observedAt": "2026-09-03T13:25:40.703Z"
   },
   {
     "id": "torobshop-sports-travel-ef26e366fa305ced",
@@ -5325,7 +5325,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.636Z"
+    "observedAt": "2026-09-03T13:25:40.703Z"
   },
   {
     "id": "torobshop-sports-travel-05c540b60ea3624b",
@@ -5343,7 +5343,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.636Z"
+    "observedAt": "2026-09-03T13:25:40.703Z"
   },
   {
     "id": "torobshop-sports-travel-d9fbeecaba31c602",
@@ -5361,7 +5361,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.636Z"
+    "observedAt": "2026-09-03T13:25:40.703Z"
   },
   {
     "id": "torobshop-sports-travel-d397df756b9f1338",
@@ -5379,7 +5379,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.636Z"
+    "observedAt": "2026-09-03T13:25:40.703Z"
   },
   {
     "id": "torobshop-sports-travel-f8b7784f8ba04a47",
@@ -5397,7 +5397,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.636Z"
+    "observedAt": "2026-09-03T13:25:40.703Z"
   },
   {
     "id": "torobshop-sports-travel-e0d95c7bfcafe827",
@@ -5415,7 +5415,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.636Z"
+    "observedAt": "2026-09-03T13:25:40.703Z"
   },
   {
     "id": "torobshop-sports-travel-0674abec1e1ff3bb",
@@ -5433,7 +5433,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.636Z"
+    "observedAt": "2026-09-03T13:25:40.703Z"
   },
   {
     "id": "torobshop-sports-travel-c8ae91ddddbffeeb",
@@ -5451,43 +5451,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.636Z"
-  },
-  {
-    "id": "torobshop-sports-travel-eb3d93fc719b9727",
-    "productId": "torobshop-eb3d93fc719b9727",
-    "name": "دستگاه وکیوم و ظروف وکیوم زولینگ آلمان ZWILLING در 9 قطعه 2 کاسه استیل با 2 درب وکیوم (18-24 سانتی متر) - 4 عدد کیسه - پمپ",
-    "brand": "",
-    "model": "دستگاه وکیوم و ظروف وکیوم زولینگ آلمان ZWILLING در 9 قطعه 2 کاسه استیل با 2 درب وکیوم (18-24 سانتی متر) - 4 عدد کیسه - پمپ",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 34510000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%AA-%D9%BE%D8%A7%DB%8C%D9%87-%D9%88%DA%A9%DB%8C%D9%88%D9%85-ZWILLING-9-%D9%82%D8%B7%D8%B9%D9%87-2-%DA%A9%D8%A7%D8%B3%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%A8%D8%A7-2-%D8%AF%D8%B1%D8%A8-%D9%88%DA%A9%DB%8C%D9%88%D9%85-18-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-4-%D8%B9%D8%AF%D8%AF-%DA%A9%DB%8C%D8%B3%D9%87-%D9%BE%D9%85%D9%BE",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.636Z"
-  },
-  {
-    "id": "torobshop-sports-travel-9d8fbc8c7f0b6991",
-    "productId": "torobshop-9d8fbc8c7f0b6991",
-    "name": "قیچی خیاطی کلاسیک زولینگ آلمان ZWILLING Superfection، قیچی پارچه، 21 سانتی متر، استیل ضد زنگ مخصوص، ساخت آلمان، مشکی",
-    "brand": "",
-    "model": "قیچی خیاطی کلاسیک زولینگ آلمان ZWILLING Superfection، قیچی پارچه، 21 سانتی متر، استیل ضد زنگ مخصوص، ساخت آلمان، مشکی",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 15226000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%82%DB%8C%DA%86%DB%8C-%D8%AE%DB%8C%D8%A7%D8%B7%DB%8C-%DA%A9%D9%84%D8%A7%D8%B3%DB%8C%DA%A9-ZWILLING-Superfection-%D9%82%DB%8C%DA%86%DB%8C-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-21-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.636Z"
+    "observedAt": "2026-09-03T13:25:40.703Z"
   },
   {
     "id": "torobshop-sports-travel-b0b661c9d6dfca29",
@@ -5505,7 +5469,43 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.636Z"
+    "observedAt": "2026-09-03T13:25:40.703Z"
+  },
+  {
+    "id": "torobshop-sports-travel-eb3d93fc719b9727",
+    "productId": "torobshop-eb3d93fc719b9727",
+    "name": "دستگاه وکیوم و ظروف وکیوم زولینگ آلمان ZWILLING در 9 قطعه 2 کاسه استیل با 2 درب وکیوم (18-24 سانتی متر) - 4 عدد کیسه - پمپ",
+    "brand": "",
+    "model": "دستگاه وکیوم و ظروف وکیوم زولینگ آلمان ZWILLING در 9 قطعه 2 کاسه استیل با 2 درب وکیوم (18-24 سانتی متر) - 4 عدد کیسه - پمپ",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 34510000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%AA-%D9%BE%D8%A7%DB%8C%D9%87-%D9%88%DA%A9%DB%8C%D9%88%D9%85-ZWILLING-9-%D9%82%D8%B7%D8%B9%D9%87-2-%DA%A9%D8%A7%D8%B3%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%A8%D8%A7-2-%D8%AF%D8%B1%D8%A8-%D9%88%DA%A9%DB%8C%D9%88%D9%85-18-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-4-%D8%B9%D8%AF%D8%AF-%DA%A9%DB%8C%D8%B3%D9%87-%D9%BE%D9%85%D9%BE",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T13:25:40.703Z"
+  },
+  {
+    "id": "torobshop-sports-travel-9d8fbc8c7f0b6991",
+    "productId": "torobshop-9d8fbc8c7f0b6991",
+    "name": "قیچی خیاطی کلاسیک زولینگ آلمان ZWILLING Superfection، قیچی پارچه، 21 سانتی متر، استیل ضد زنگ مخصوص، ساخت آلمان، مشکی",
+    "brand": "",
+    "model": "قیچی خیاطی کلاسیک زولینگ آلمان ZWILLING Superfection، قیچی پارچه، 21 سانتی متر، استیل ضد زنگ مخصوص، ساخت آلمان، مشکی",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 15226000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%82%DB%8C%DA%86%DB%8C-%D8%AE%DB%8C%D8%A7%D8%B7%DB%8C-%DA%A9%D9%84%D8%A7%D8%B3%DB%8C%DA%A9-ZWILLING-Superfection-%D9%82%DB%8C%DA%86%DB%8C-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-21-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T13:25:40.703Z"
   },
   {
     "id": "torobshop-sports-travel-c4580b999e737ac3",
@@ -5523,7 +5523,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.636Z"
+    "observedAt": "2026-09-03T13:25:40.703Z"
   },
   {
     "id": "torobshop-sports-travel-d39a2f5ac6cd9a7f",
@@ -5541,7 +5541,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.636Z"
+    "observedAt": "2026-09-03T13:25:40.703Z"
   },
   {
     "id": "torobshop-sports-travel-280503308950a13c",
@@ -5559,7 +5559,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.636Z"
+    "observedAt": "2026-09-03T13:25:40.703Z"
   },
   {
     "id": "torobshop-sports-travel-aa2dfdb88af5c975",
@@ -5577,7 +5577,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.637Z"
+    "observedAt": "2026-09-03T13:25:40.703Z"
   },
   {
     "id": "torobshop-sports-travel-40f09e3a04b68146",
@@ -5595,7 +5595,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.637Z"
+    "observedAt": "2026-09-03T13:25:40.703Z"
   },
   {
     "id": "torobshop-sports-travel-0e4d04ef83a810db",
@@ -5613,97 +5613,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.637Z"
-  },
-  {
-    "id": "torobshop-sports-travel-2be1976c83ad17a1",
-    "productId": "torobshop-2be1976c83ad17a1",
-    "name": "ماهیتابه استیل ۲۴ سانت فیسلر آلمان Fissler Original-Profi Collection",
-    "brand": "",
-    "model": "ماهیتابه استیل ۲۴ سانت فیسلر آلمان Fissler Original-Profi Collection",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 38746000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%DB%B2%DB%B4-%D8%B3%D8%A7%D9%86%D8%AA-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-Fissler-Original-Profi-Collection",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.637Z"
-  },
-  {
-    "id": "torobshop-sports-travel-9087741222a89b21",
-    "productId": "torobshop-9087741222a89b21",
-    "name": "چاقوی آشپزی زولینگ آلمان ZWILLING Gourmet - 18 سانتی‌متر - استیل ضد زنگ - دسته پلاستیکی ارگونومیک - مشکی - تولید آلمان",
-    "brand": "",
-    "model": "چاقوی آشپزی زولینگ آلمان ZWILLING Gourmet - 18 سانتی‌متر - استیل ضد زنگ - دسته پلاستیکی ارگونومیک - مشکی - تولید آلمان",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 23854000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%A2%D8%B4%D9%BE%D8%B2%DB%8C-ZWILLING-Gourmet-18-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%AF%D8%B3%D8%AA%D9%87-%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9%DB%8C-%D8%A7%D8%B1%DA%AF%D9%88%D9%86%D9%88%D9%85%DB%8C%DA%A9-%D9%85%D8%B4%DA%A9%DB%8C-%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D8%A2%D9%84%D9%85%D8%A7%D9%86",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.637Z"
-  },
-  {
-    "id": "torobshop-sports-travel-412e480ec7918302",
-    "productId": "torobshop-412e480ec7918302",
-    "name": "همزن فلکسی مینی پروفی پلاس WMF، 21 سانتی‌متر",
-    "brand": "",
-    "model": "همزن فلکسی مینی پروفی پلاس WMF، 21 سانتی‌متر",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 12179000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%87%D9%85%D8%B2%D9%86-%D9%81%D9%84%DA%A9%D8%B3%DB%8C-%D9%85%DB%8C%D9%86%DB%8C-%D9%BE%D8%B1%D9%88%D9%81%DB%8C-%D9%BE%D9%84%D8%A7%D8%B3-WMF-21-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.637Z"
-  },
-  {
-    "id": "torobshop-sports-travel-00bf5776f339768d",
-    "productId": "torobshop-00bf5776f339768d",
-    "name": "سرویس قابلمه ۵ پارچه فیسلر آلمان Fissler Palermo Edelstahl پالرمو شامل درب شیشه‌ای (۳ قابلمه، ۱ تابه کباب‌پزی، ۱ قابلمه کوچک) القایی",
-    "brand": "",
-    "model": "سرویس قابلمه ۵ پارچه فیسلر آلمان Fissler Palermo Edelstahl پالرمو شامل درب شیشه‌ای (۳ قابلمه، ۱ تابه کباب‌پزی، ۱ قابلمه کوچک) القایی",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 54119000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B5-%D8%AA%DA%A9%D9%87-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%BE%D8%A7%D9%84%D8%B1%D9%85%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%87%D8%A7-%D8%B4%D8%A7%D9%85%D9%84-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%DB%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B1-%D8%AA%D8%A7%D8%A8%D9%87-%DA%A9%D8%A8%D8%A7%D8%A8-%D9%BE%D8%B2%DB%8C-%DB%B1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.637Z"
-  },
-  {
-    "id": "torobshop-sports-travel-3644b82267dd5165",
-    "productId": "torobshop-3644b82267dd5165",
-    "name": "بلوک چاقوی دوقلوی گورمت ZWILLING، 9 تکه، بلوک چوبی، مجموعه چاقو، میله تیزکن، قیچی، استیل مخصوص ضد زنگ، 9 تکه دوقلوی گورمت مشکی",
-    "brand": "",
-    "model": "بلوک چاقوی دوقلوی گورمت ZWILLING، 9 تکه، بلوک چوبی، مجموعه چاقو، میله تیزکن، قیچی، استیل مخصوص ضد زنگ، 9 تکه دوقلوی گورمت مشکی",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 53543000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%A8%D9%84%D9%88%DA%A9-%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%AF%D9%88%D9%82%D9%84%D9%88%DB%8C-%DA%AF%D9%88%D8%B1%D9%85%D8%AA-ZWILLING-9-%D8%AA%DA%A9%D9%87-%D8%A8%D9%84%D9%88%DA%A9-%DA%86%D9%88%D8%A8%DB%8C-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%DA%86%D8%A7%D9%82%D9%88-%D9%85%DB%8C%D9%84%D9%87-%D8%AA%DB%8C%D8%B2%DA%A9%D9%86-%D9%82%DB%8C%DA%86%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-9-%D8%AA%DA%A9%D9%87-%D8%AF%D9%88%D9%82%D9%84%D9%88%DB%8C-%DA%AF%D9%88%D8%B1%D9%85%D8%AA-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.637Z"
+    "observedAt": "2026-09-03T13:25:40.703Z"
   },
   {
     "id": "torobshop-sports-travel-d99c3943bcec9400",
@@ -5721,79 +5631,97 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.637Z"
+    "observedAt": "2026-09-03T13:25:40.703Z"
   },
   {
-    "id": "torobshop-sports-travel-1e0602d76b0e257a",
-    "productId": "torobshop-1e0602d76b0e257a",
-    "name": "سرویس قاشق و چنگال وی ام اف آلمان WMF Premiere cutlery (12 نفره، 66 پارچه، 60 پارچه)",
+    "id": "torobshop-sports-travel-2be1976c83ad17a1",
+    "productId": "torobshop-2be1976c83ad17a1",
+    "name": "ماهیتابه استیل ۲۴ سانت فیسلر آلمان Fissler Original-Profi Collection",
     "brand": "",
-    "model": "سرویس قاشق و چنگال وی ام اف آلمان WMF Premiere cutlery (12 نفره، 66 پارچه، 60 پارچه)",
+    "model": "ماهیتابه استیل ۲۴ سانت فیسلر آلمان Fissler Original-Profi Collection",
     "category": "sports-travel",
     "subcategory": "کتانی ورزشی مردانه",
-    "price": 183645000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%DA%A9%D8%A7%D8%B1%D8%AF-%D9%88-%DA%86%D9%86%DA%AF%D8%A7%D9%84-WMF-Premiere-12-%D9%86%D9%81%D8%B1%D9%87-66-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-60-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D8%A8%D8%A7-%DA%A9%D8%A7%D8%B1%D8%AF-%D9%88-%DA%86%D9%86%DA%AF%D8%A7%D9%84-%D8%AA%DB%8C%D8%BA%D9%87-%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-Cromargan-Protect-%D8%AC%D9%84%D8%A7-%D8%AF%D8%A7%D8%AF%D9%87-%D8%B4%D8%AF%D9%87-%D8%A8%D8%B1%D8%A7%D9%82-%D8%B6%D8%AF-%D8%AE%D8%B4-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.637Z"
-  },
-  {
-    "id": "torobshop-sports-travel-4dd091835a22ff69",
-    "productId": "torobshop-4dd091835a22ff69",
-    "name": "زودپز 8 لیتر فیسلر آلمان Fissler Vitaquick 8 L ویتاکوئیک 8 لیتر، قطر 26 سانتی‌متر 2 طبقه پخت، ساخت آلمان - القایی",
-    "brand": "",
-    "model": "زودپز 8 لیتر فیسلر آلمان Fissler Vitaquick 8 L ویتاکوئیک 8 لیتر، قطر 26 سانتی‌متر 2 طبقه پخت، ساخت آلمان - القایی",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 80742000,
+    "price": 38746000,
     "currency": "IRT",
     "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B2%D9%88%D8%AF%D9%BE%D8%B2-%D8%B2%D9%88%D8%AF%D9%BE%D8%B2-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%88%DB%8C%D8%AA%D8%A7%DA%A9%D9%88%D8%A6%DB%8C%DA%A9-8-%D9%84%DB%8C%D8%AA%D8%B1-%D9%82%D8%B7%D8%B1-26-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-2-%D8%B7%D8%A8%D9%82%D9%87-%D9%BE%D8%AE%D8%AA-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-8-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%DB%B2%DB%B4-%D8%B3%D8%A7%D9%86%D8%AA-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-Fissler-Original-Profi-Collection",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.637Z"
+    "observedAt": "2026-09-03T13:25:40.703Z"
   },
   {
-    "id": "torobshop-sports-travel-a218f27039422c46",
-    "productId": "torobshop-a218f27039422c46",
-    "name": "چاقوی خود تیز شونده چهار ستاره ZWILLING با مجموعه 7 تکه چاقو، استیل ضد زنگ، ساخت آلمان، سفید چهار ستاره سفید",
+    "id": "torobshop-sports-travel-9087741222a89b21",
+    "productId": "torobshop-9087741222a89b21",
+    "name": "چاقوی آشپزی زولینگ آلمان ZWILLING Gourmet - 18 سانتی‌متر - استیل ضد زنگ - دسته پلاستیکی ارگونومیک - مشکی - تولید آلمان",
     "brand": "",
-    "model": "چاقوی خود تیز شونده چهار ستاره ZWILLING با مجموعه 7 تکه چاقو، استیل ضد زنگ، ساخت آلمان، سفید چهار ستاره سفید",
+    "model": "چاقوی آشپزی زولینگ آلمان ZWILLING Gourmet - 18 سانتی‌متر - استیل ضد زنگ - دسته پلاستیکی ارگونومیک - مشکی - تولید آلمان",
     "category": "sports-travel",
     "subcategory": "کتانی ورزشی مردانه",
-    "price": 56843000,
+    "price": 23854000,
     "currency": "IRT",
     "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%AE%D9%88%D8%AF-%D8%AA%DB%8C%D8%B2-%D8%B4%D9%88%D9%86%D8%AF%D9%87-%DA%86%D9%87%D8%A7%D8%B1-%D8%B3%D8%AA%D8%A7%D8%B1%D9%87-ZWILLING-%D8%A8%D8%A7-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-7-%D8%AA%DA%A9%D9%87-%DA%86%D8%A7%D9%82%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%B3%D9%81%DB%8C%D8%AF-%DA%86%D9%87%D8%A7%D8%B1-%D8%B3%D8%AA%D8%A7%D8%B1%D9%87-%D8%B3%D9%81%DB%8C%D8%AF",
+    "productUrl": "https://torobshop.com/products/%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%A2%D8%B4%D9%BE%D8%B2%DB%8C-ZWILLING-Gourmet-18-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%AF%D8%B3%D8%AA%D9%87-%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9%DB%8C-%D8%A7%D8%B1%DA%AF%D9%88%D9%86%D9%88%D9%85%DB%8C%DA%A9-%D9%85%D8%B4%DA%A9%DB%8C-%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D8%A2%D9%84%D9%85%D8%A7%D9%86",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.637Z"
+    "observedAt": "2026-09-03T13:25:40.703Z"
   },
   {
-    "id": "torobshop-sports-travel-56cac7936a06e3f1",
-    "productId": "torobshop-56cac7936a06e3f1",
-    "name": "اتو بخار مخزن دار تفال فرانسه مدل TEF SV8027 ws/beige",
+    "id": "torobshop-sports-travel-412e480ec7918302",
+    "productId": "torobshop-412e480ec7918302",
+    "name": "همزن فلکسی مینی پروفی پلاس WMF، 21 سانتی‌متر",
     "brand": "",
-    "model": "اتو بخار مخزن دار تفال فرانسه مدل TEF SV8027 ws/beige",
+    "model": "همزن فلکسی مینی پروفی پلاس WMF، 21 سانتی‌متر",
     "category": "sports-travel",
     "subcategory": "کتانی ورزشی مردانه",
-    "price": 53035000,
+    "price": 12179000,
     "currency": "IRT",
     "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%A8%D8%AE%D8%A7%D8%B1%D8%B4%D9%88%DB%8C-%D8%AA%D9%81%D8%A7%D9%84-%D9%85%D8%AF%D9%84-TEF-SV8027-ws-beige",
+    "productUrl": "https://torobshop.com/products/%D9%87%D9%85%D8%B2%D9%86-%D9%81%D9%84%DA%A9%D8%B3%DB%8C-%D9%85%DB%8C%D9%86%DB%8C-%D9%BE%D8%B1%D9%88%D9%81%DB%8C-%D9%BE%D9%84%D8%A7%D8%B3-WMF-21-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.637Z"
+    "observedAt": "2026-09-03T13:25:40.703Z"
+  },
+  {
+    "id": "torobshop-sports-travel-00bf5776f339768d",
+    "productId": "torobshop-00bf5776f339768d",
+    "name": "سرویس قابلمه ۵ پارچه فیسلر آلمان Fissler Palermo Edelstahl پالرمو شامل درب شیشه‌ای (۳ قابلمه، ۱ تابه کباب‌پزی، ۱ قابلمه کوچک) القایی",
+    "brand": "",
+    "model": "سرویس قابلمه ۵ پارچه فیسلر آلمان Fissler Palermo Edelstahl پالرمو شامل درب شیشه‌ای (۳ قابلمه، ۱ تابه کباب‌پزی، ۱ قابلمه کوچک) القایی",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 54119000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B5-%D8%AA%DA%A9%D9%87-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%BE%D8%A7%D9%84%D8%B1%D9%85%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%87%D8%A7-%D8%B4%D8%A7%D9%85%D9%84-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%DB%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B1-%D8%AA%D8%A7%D8%A8%D9%87-%DA%A9%D8%A8%D8%A7%D8%A8-%D9%BE%D8%B2%DB%8C-%DB%B1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T13:25:40.703Z"
+  },
+  {
+    "id": "torobshop-sports-travel-3644b82267dd5165",
+    "productId": "torobshop-3644b82267dd5165",
+    "name": "بلوک چاقوی دوقلوی گورمت ZWILLING، 9 تکه، بلوک چوبی، مجموعه چاقو، میله تیزکن، قیچی، استیل مخصوص ضد زنگ، 9 تکه دوقلوی گورمت مشکی",
+    "brand": "",
+    "model": "بلوک چاقوی دوقلوی گورمت ZWILLING، 9 تکه، بلوک چوبی، مجموعه چاقو، میله تیزکن، قیچی، استیل مخصوص ضد زنگ، 9 تکه دوقلوی گورمت مشکی",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 53543000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%A8%D9%84%D9%88%DA%A9-%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%AF%D9%88%D9%82%D9%84%D9%88%DB%8C-%DA%AF%D9%88%D8%B1%D9%85%D8%AA-ZWILLING-9-%D8%AA%DA%A9%D9%87-%D8%A8%D9%84%D9%88%DA%A9-%DA%86%D9%88%D8%A8%DB%8C-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%DA%86%D8%A7%D9%82%D9%88-%D9%85%DB%8C%D9%84%D9%87-%D8%AA%DB%8C%D8%B2%DA%A9%D9%86-%D9%82%DB%8C%DA%86%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-9-%D8%AA%DA%A9%D9%87-%D8%AF%D9%88%D9%82%D9%84%D9%88%DB%8C-%DA%AF%D9%88%D8%B1%D9%85%D8%AA-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T13:25:40.703Z"
   },
   {
     "id": "torobshop-sports-travel-ace9b88e93544c94",
@@ -5811,25 +5739,79 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.637Z"
+    "observedAt": "2026-09-03T13:25:40.703Z"
   },
   {
-    "id": "torobshop-sports-travel-e02164e6665f61ef",
-    "productId": "torobshop-e02164e6665f61ef",
-    "name": "ماهیتابه فیسلر آلمان Fissler Pure Collection/Edelstahl (قطر 24 سانتی‌متر) بدون پوشش، پیمانه داخلی",
+    "id": "torobshop-sports-travel-1e0602d76b0e257a",
+    "productId": "torobshop-1e0602d76b0e257a",
+    "name": "سرویس قاشق و چنگال وی ام اف آلمان WMF Premiere cutlery (12 نفره، 66 پارچه، 60 پارچه)",
     "brand": "",
-    "model": "ماهیتابه فیسلر آلمان Fissler Pure Collection/Edelstahl (قطر 24 سانتی‌متر) بدون پوشش، پیمانه داخلی",
+    "model": "سرویس قاشق و چنگال وی ام اف آلمان WMF Premiere cutlery (12 نفره، 66 پارچه، 60 پارچه)",
     "category": "sports-travel",
     "subcategory": "کتانی ورزشی مردانه",
-    "price": 35287000,
+    "price": 183645000,
     "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D8%AE%D8%A7%D9%84%D8%B5-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%82%D8%B7%D8%B1-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A8%D8%AF%D9%88%D9%86-%D9%BE%D9%88%D8%B4%D8%B4-%D9%BE%DB%8C%D9%85%D8%A7%D9%86%D9%87-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%DA%A9%D8%A7%D8%B1%D8%AF-%D9%88-%DA%86%D9%86%DA%AF%D8%A7%D9%84-WMF-Premiere-12-%D9%86%D9%81%D8%B1%D9%87-66-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-60-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D8%A8%D8%A7-%DA%A9%D8%A7%D8%B1%D8%AF-%D9%88-%DA%86%D9%86%DA%AF%D8%A7%D9%84-%D8%AA%DB%8C%D8%BA%D9%87-%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-Cromargan-Protect-%D8%AC%D9%84%D8%A7-%D8%AF%D8%A7%D8%AF%D9%87-%D8%B4%D8%AF%D9%87-%D8%A8%D8%B1%D8%A7%D9%82-%D8%B6%D8%AF-%D8%AE%D8%B4-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.637Z"
+    "observedAt": "2026-09-03T13:25:40.703Z"
+  },
+  {
+    "id": "torobshop-sports-travel-4dd091835a22ff69",
+    "productId": "torobshop-4dd091835a22ff69",
+    "name": "زودپز 8 لیتر فیسلر آلمان Fissler Vitaquick 8 L ویتاکوئیک 8 لیتر، قطر 26 سانتی‌متر 2 طبقه پخت، ساخت آلمان - القایی",
+    "brand": "",
+    "model": "زودپز 8 لیتر فیسلر آلمان Fissler Vitaquick 8 L ویتاکوئیک 8 لیتر، قطر 26 سانتی‌متر 2 طبقه پخت، ساخت آلمان - القایی",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 80742000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B2%D9%88%D8%AF%D9%BE%D8%B2-%D8%B2%D9%88%D8%AF%D9%BE%D8%B2-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%88%DB%8C%D8%AA%D8%A7%DA%A9%D9%88%D8%A6%DB%8C%DA%A9-8-%D9%84%DB%8C%D8%AA%D8%B1-%D9%82%D8%B7%D8%B1-26-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-2-%D8%B7%D8%A8%D9%82%D9%87-%D9%BE%D8%AE%D8%AA-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-8-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T13:25:40.703Z"
+  },
+  {
+    "id": "torobshop-sports-travel-a218f27039422c46",
+    "productId": "torobshop-a218f27039422c46",
+    "name": "چاقوی خود تیز شونده چهار ستاره ZWILLING با مجموعه 7 تکه چاقو، استیل ضد زنگ، ساخت آلمان، سفید چهار ستاره سفید",
+    "brand": "",
+    "model": "چاقوی خود تیز شونده چهار ستاره ZWILLING با مجموعه 7 تکه چاقو، استیل ضد زنگ، ساخت آلمان، سفید چهار ستاره سفید",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 56843000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%AE%D9%88%D8%AF-%D8%AA%DB%8C%D8%B2-%D8%B4%D9%88%D9%86%D8%AF%D9%87-%DA%86%D9%87%D8%A7%D8%B1-%D8%B3%D8%AA%D8%A7%D8%B1%D9%87-ZWILLING-%D8%A8%D8%A7-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-7-%D8%AA%DA%A9%D9%87-%DA%86%D8%A7%D9%82%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%B3%D9%81%DB%8C%D8%AF-%DA%86%D9%87%D8%A7%D8%B1-%D8%B3%D8%AA%D8%A7%D8%B1%D9%87-%D8%B3%D9%81%DB%8C%D8%AF",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T13:25:40.703Z"
+  },
+  {
+    "id": "torobshop-sports-travel-56cac7936a06e3f1",
+    "productId": "torobshop-56cac7936a06e3f1",
+    "name": "اتو بخار مخزن دار تفال فرانسه مدل TEF SV8027 ws/beige",
+    "brand": "",
+    "model": "اتو بخار مخزن دار تفال فرانسه مدل TEF SV8027 ws/beige",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 53035000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%A8%D8%AE%D8%A7%D8%B1%D8%B4%D9%88%DB%8C-%D8%AA%D9%81%D8%A7%D9%84-%D9%85%D8%AF%D9%84-TEF-SV8027-ws-beige",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T13:25:40.704Z"
   },
   {
     "id": "torobshop-sports-travel-1fd1146f6f750aa9",
@@ -5847,7 +5829,25 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.637Z"
+    "observedAt": "2026-09-03T13:25:40.704Z"
+  },
+  {
+    "id": "torobshop-sports-travel-e02164e6665f61ef",
+    "productId": "torobshop-e02164e6665f61ef",
+    "name": "ماهیتابه فیسلر آلمان Fissler Pure Collection/Edelstahl (قطر 24 سانتی‌متر) بدون پوشش، پیمانه داخلی",
+    "brand": "",
+    "model": "ماهیتابه فیسلر آلمان Fissler Pure Collection/Edelstahl (قطر 24 سانتی‌متر) بدون پوشش، پیمانه داخلی",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 35287000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D8%AE%D8%A7%D9%84%D8%B5-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%82%D8%B7%D8%B1-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A8%D8%AF%D9%88%D9%86-%D9%BE%D9%88%D8%B4%D8%B4-%D9%BE%DB%8C%D9%85%D8%A7%D9%86%D9%87-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T13:25:40.704Z"
   },
   {
     "id": "torobshop-sports-travel-ffbee63b50d31684",
@@ -5865,7 +5865,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.637Z"
+    "observedAt": "2026-09-03T13:25:40.704Z"
   },
   {
     "id": "torobshop-sports-travel-97e8accc87d0f8bf",
@@ -5883,25 +5883,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.637Z"
-  },
-  {
-    "id": "torobshop-sports-travel-8a5c15c91c1a9329",
-    "productId": "torobshop-8a5c15c91c1a9329",
-    "name": "سرویس قاشق و چنگال وی ام اف آلمان WMF Sonic Stainless برای 6 نفر 30 پارچه",
-    "brand": "",
-    "model": "سرویس قاشق و چنگال وی ام اف آلمان WMF Sonic Stainless برای 6 نفر 30 پارچه",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 72150000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%DA%A9%D8%A7%D8%B1%D8%AF-%D9%88-%DA%86%D9%86%DA%AF%D8%A7%D9%84-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-WMF-Sonic-%D8%A8%D8%B1%D8%A7%DB%8C-6-%D9%86%D9%81%D8%B1-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%DA%A9%D8%A7%D8%B1%D8%AF-%D9%88-%DA%86%D9%86%DA%AF%D8%A7%D9%84-30-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%AF%D8%B3%D8%AA%D9%87-%D8%AA%D9%88%D8%AE%D8%A7%D9%84%DB%8C-Cromargan-Protect-%D8%AC%D9%84%D8%A7-%D8%AF%D8%A7%D8%AF%D9%87-%D8%B4%D8%AF%D9%87-%D9%85%D9%82%D8%A7%D9%88%D9%85-%D8%AF%D8%B1-%D8%A8%D8%B1%D8%A7%D8%A8%D8%B1-%D8%AE%D8%B1%D8%A7%D8%B4-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.637Z"
+    "observedAt": "2026-09-03T13:25:40.704Z"
   },
   {
     "id": "torobshop-sports-travel-1dfcfd9dee587f60",
@@ -5919,7 +5901,25 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.637Z"
+    "observedAt": "2026-09-03T13:25:40.704Z"
+  },
+  {
+    "id": "torobshop-sports-travel-8a5c15c91c1a9329",
+    "productId": "torobshop-8a5c15c91c1a9329",
+    "name": "سرویس قاشق و چنگال وی ام اف آلمان WMF Sonic Stainless برای 6 نفر 30 پارچه",
+    "brand": "",
+    "model": "سرویس قاشق و چنگال وی ام اف آلمان WMF Sonic Stainless برای 6 نفر 30 پارچه",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 72150000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%DA%A9%D8%A7%D8%B1%D8%AF-%D9%88-%DA%86%D9%86%DA%AF%D8%A7%D9%84-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-WMF-Sonic-%D8%A8%D8%B1%D8%A7%DB%8C-6-%D9%86%D9%81%D8%B1-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%DA%A9%D8%A7%D8%B1%D8%AF-%D9%88-%DA%86%D9%86%DA%AF%D8%A7%D9%84-30-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%AF%D8%B3%D8%AA%D9%87-%D8%AA%D9%88%D8%AE%D8%A7%D9%84%DB%8C-Cromargan-Protect-%D8%AC%D9%84%D8%A7-%D8%AF%D8%A7%D8%AF%D9%87-%D8%B4%D8%AF%D9%87-%D9%85%D9%82%D8%A7%D9%88%D9%85-%D8%AF%D8%B1-%D8%A8%D8%B1%D8%A7%D8%A8%D8%B1-%D8%AE%D8%B1%D8%A7%D8%B4-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T13:25:40.704Z"
   },
   {
     "id": "torobshop-sports-travel-ef0157b54bf022f6",
@@ -5937,7 +5937,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.637Z"
+    "observedAt": "2026-09-03T13:25:40.704Z"
   },
   {
     "id": "torobshop-sports-travel-b131b88e24438d96",
@@ -5955,7 +5955,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.637Z"
+    "observedAt": "2026-09-03T13:25:40.704Z"
   },
   {
     "id": "torobshop-sports-travel-f4ac0f14bd21c6cf",
@@ -5973,25 +5973,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.637Z"
-  },
-  {
-    "id": "torobshop-sports-travel-4bffdb79ac43fe15",
-    "productId": "torobshop-4bffdb79ac43fe15",
-    "name": "فویل‌بر بطری شراب وی ام اف آلمان WMF Vino مدل ۶.۵ سانتی‌متر فلزی",
-    "brand": "",
-    "model": "فویل‌بر بطری شراب وی ام اف آلمان WMF Vino مدل ۶.۵ سانتی‌متر فلزی",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 13449000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%DA%A9%D8%A7%D8%AA%D8%B1-%D9%81%D9%88%DB%8C%D9%84-%D9%88%DB%8C%D9%86%D9%88-WMF-6-5-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C-%D9%81%D9%84%D8%B2%DB%8C-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%DA%A9%D9%BE%D8%B3%D9%88%D9%84-%DA%A9%D8%A7%D8%AA%D8%B1-%D8%A8%D8%B7%D8%B1%DB%8C-%D8%B4%D8%B1%D8%A7%D8%A8-%DA%A9%D8%A7%D8%AA%D8%B1-%D8%B4%D8%B1%D8%A7%D8%A8-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D8%B4%D8%B1%D8%A7%D8%A8",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.637Z"
+    "observedAt": "2026-09-03T13:25:40.704Z"
   },
   {
     "id": "torobshop-sports-travel-f06d188d530004ad",
@@ -6009,7 +5991,25 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.637Z"
+    "observedAt": "2026-09-03T13:25:40.704Z"
+  },
+  {
+    "id": "torobshop-sports-travel-4bffdb79ac43fe15",
+    "productId": "torobshop-4bffdb79ac43fe15",
+    "name": "فویل‌بر بطری شراب وی ام اف آلمان WMF Vino مدل ۶.۵ سانتی‌متر فلزی",
+    "brand": "",
+    "model": "فویل‌بر بطری شراب وی ام اف آلمان WMF Vino مدل ۶.۵ سانتی‌متر فلزی",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 13449000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%DA%A9%D8%A7%D8%AA%D8%B1-%D9%81%D9%88%DB%8C%D9%84-%D9%88%DB%8C%D9%86%D9%88-WMF-6-5-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C-%D9%81%D9%84%D8%B2%DB%8C-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%DA%A9%D9%BE%D8%B3%D9%88%D9%84-%DA%A9%D8%A7%D8%AA%D8%B1-%D8%A8%D8%B7%D8%B1%DB%8C-%D8%B4%D8%B1%D8%A7%D8%A8-%DA%A9%D8%A7%D8%AA%D8%B1-%D8%B4%D8%B1%D8%A7%D8%A8-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D8%B4%D8%B1%D8%A7%D8%A8",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T13:25:40.704Z"
   },
   {
     "id": "torobshop-sports-travel-2f0597d05addbba1",
@@ -6027,7 +6027,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.637Z"
+    "observedAt": "2026-09-03T13:25:40.704Z"
   },
   {
     "id": "torobshop-sports-travel-fda1fe8cf4de5c5d",
@@ -6045,7 +6045,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.637Z"
+    "observedAt": "2026-09-03T13:25:40.704Z"
   },
   {
     "id": "torobshop-sports-travel-22200afc1cbeec02",
@@ -6063,7 +6063,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.637Z"
+    "observedAt": "2026-09-03T13:25:40.704Z"
   },
   {
     "id": "torobshop-sports-travel-595f1b954d0611bd",
@@ -6081,7 +6081,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.637Z"
+    "observedAt": "2026-09-03T13:25:40.704Z"
   },
   {
     "id": "torobshop-sports-travel-a02082729540664c",
@@ -6099,7 +6099,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.637Z"
+    "observedAt": "2026-09-03T13:25:40.704Z"
   },
   {
     "id": "torobshop-sports-travel-f4e7843bb5d4eb60",
@@ -6117,7 +6117,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.637Z"
+    "observedAt": "2026-09-03T13:25:40.704Z"
   },
   {
     "id": "torobshop-sports-travel-f26fbc6e8dbee708",
@@ -6135,7 +6135,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.637Z"
+    "observedAt": "2026-09-03T13:25:40.704Z"
   },
   {
     "id": "torobshop-sports-travel-736fe4049676a61e",
@@ -6153,7 +6153,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.637Z"
+    "observedAt": "2026-09-03T13:25:40.704Z"
   },
   {
     "id": "torobshop-sports-travel-3d13a34700e027c0",
@@ -6171,7 +6171,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.637Z"
+    "observedAt": "2026-09-03T13:25:40.704Z"
   },
   {
     "id": "torobshop-sports-travel-19319bed3e2f6069",
@@ -6189,7 +6189,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.637Z"
+    "observedAt": "2026-09-03T13:25:40.704Z"
   },
   {
     "id": "torobshop-sports-travel-7ac6bac20ad12a2d",
@@ -6207,7 +6207,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.637Z"
+    "observedAt": "2026-09-03T13:25:40.704Z"
   },
   {
     "id": "torobshop-sports-travel-f091c9e920c8e1fb",
@@ -6225,7 +6225,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.637Z"
+    "observedAt": "2026-09-03T13:25:40.704Z"
   },
   {
     "id": "torobshop-sports-travel-fbbfc333137fef0f",
@@ -6243,7 +6243,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.637Z"
+    "observedAt": "2026-09-03T13:25:40.704Z"
   },
   {
     "id": "torobshop-sports-travel-98b213756a0f63d3",
@@ -6261,7 +6261,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.637Z"
+    "observedAt": "2026-09-03T13:25:40.704Z"
   },
   {
     "id": "torobshop-sports-travel-f596668a95c6181a",
@@ -6279,7 +6279,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.637Z"
+    "observedAt": "2026-09-03T13:25:40.704Z"
   },
   {
     "id": "torobshop-sports-travel-4b3421328c1ce066",
@@ -6289,15 +6289,15 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "model": "قیچی چند منظوره زولینگ آلمان ZWILLING، قیچی جهانی، طول: 20 سانتی متر، استیل ضد زنگ مخصوص، کمک آشپزخانه، مشکی",
     "category": "sports-travel",
     "subcategory": "کتانی ورزشی مردانه",
-    "price": 16240000,
-    "currency": "IRT",
-    "availability": "in_stock",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%D9%82%DB%8C%DA%86%DB%8C-%DA%86%D9%86%D8%AF-%D9%85%D9%86%D8%B8%D9%88%D8%B1%D9%87-ZWILLING-%D9%82%DB%8C%DA%86%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%B7%D9%88%D9%84-20-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%DA%A9%D9%85%DA%A9-%D8%A2%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87-%D9%85%D8%B4%DA%A9%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.637Z"
+    "observedAt": "2026-09-03T13:25:40.704Z"
   },
   {
     "id": "torobshop-sports-travel-d3f802410104b943",
@@ -6315,7 +6315,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.637Z"
+    "observedAt": "2026-09-03T13:25:40.704Z"
   },
   {
     "id": "torobshop-sports-travel-0f347f93a4676672",
@@ -6333,7 +6333,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.637Z"
+    "observedAt": "2026-09-03T13:25:40.704Z"
   },
   {
     "id": "torobshop-sports-travel-cb5f45612fc319e4",
@@ -6351,7 +6351,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.637Z"
+    "observedAt": "2026-09-03T13:25:40.704Z"
   },
   {
     "id": "torobshop-sports-travel-a447d48449c2d499",
@@ -6369,7 +6369,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.637Z"
+    "observedAt": "2026-09-03T13:25:40.704Z"
   },
   {
     "id": "torobshop-sports-travel-71ebfae235e91ed5",
@@ -6387,7 +6387,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.637Z"
+    "observedAt": "2026-09-03T13:25:40.704Z"
   },
   {
     "id": "torobshop-sports-travel-51edff8c55bfb262",
@@ -6405,7 +6405,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.637Z"
+    "observedAt": "2026-09-03T13:25:40.704Z"
   },
   {
     "id": "torobshop-sports-travel-6bc05672d0e139cd",
@@ -6423,7 +6423,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.637Z"
+    "observedAt": "2026-09-03T13:25:40.704Z"
   },
   {
     "id": "torobshop-sports-travel-f99dae95f9641652",
@@ -6441,7 +6441,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.637Z"
+    "observedAt": "2026-09-03T13:25:40.704Z"
   },
   {
     "id": "torobshop-sports-travel-6b776fc230756800",
@@ -6459,7 +6459,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.637Z"
+    "observedAt": "2026-09-03T13:25:40.704Z"
   },
   {
     "id": "torobshop-sports-travel-f2622dc414824191",
@@ -6477,7 +6477,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.637Z"
+    "observedAt": "2026-09-03T13:25:40.704Z"
   },
   {
     "id": "torobshop-sports-travel-640c8324f81a46bb",
@@ -6495,25 +6495,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.637Z"
-  },
-  {
-    "id": "torobshop-sports-travel-c54b5b958054a1a2",
-    "productId": "torobshop-c54b5b958054a1a2",
-    "name": "فر کننده و موج دهنده فیلیپس هلند Philips BHB968/10 با فناوری SenseIQ",
-    "brand": "",
-    "model": "فر کننده و موج دهنده فیلیپس هلند Philips BHB968/10 با فناوری SenseIQ",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 69666000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/Philips-WavePro-Styler-9000-%D8%A8%D8%A7-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-SenseIQ-%D9%88-%D9%84%D9%88%D9%84%D9%87-%D9%82%D8%A7%D8%A8%D9%84-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D9%88-%D9%85%D9%88%D8%AC-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-%D8%AD%D8%A7%D9%84%D8%AA-%D8%AF%D9%87%DB%8C-%DB%B3%DB%B6%DB%B0-%D8%AF%D8%B1%D8%AC%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AD%D8%A7%D9%84%D8%AA-%D9%87%D8%A7%DB%8C-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1-%D8%B3%D9%81%DB%8C%D8%AF-%D8%A7%D8%A8%D8%B1%DB%8C%D8%B4%D9%85%DB%8C-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C-%DA%A9%DB%8C%D9%81-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%A2%D8%B1%D8%A7%DB%8C%D8%B4-%D9%85%D8%AF%D9%84-BHB968-10",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.637Z"
+    "observedAt": "2026-09-03T13:25:40.704Z"
   },
   {
     "id": "torobshop-sports-travel-43b61e0733cc7171",
@@ -6531,7 +6513,25 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.637Z"
+    "observedAt": "2026-09-03T13:25:40.704Z"
+  },
+  {
+    "id": "torobshop-sports-travel-c54b5b958054a1a2",
+    "productId": "torobshop-c54b5b958054a1a2",
+    "name": "فر کننده و موج دهنده فیلیپس هلند Philips BHB968/10 با فناوری SenseIQ",
+    "brand": "",
+    "model": "فر کننده و موج دهنده فیلیپس هلند Philips BHB968/10 با فناوری SenseIQ",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 69666000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/Philips-WavePro-Styler-9000-%D8%A8%D8%A7-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-SenseIQ-%D9%88-%D9%84%D9%88%D9%84%D9%87-%D9%82%D8%A7%D8%A8%D9%84-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D9%88-%D9%85%D9%88%D8%AC-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-%D8%AD%D8%A7%D9%84%D8%AA-%D8%AF%D9%87%DB%8C-%DB%B3%DB%B6%DB%B0-%D8%AF%D8%B1%D8%AC%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AD%D8%A7%D9%84%D8%AA-%D9%87%D8%A7%DB%8C-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1-%D8%B3%D9%81%DB%8C%D8%AF-%D8%A7%D8%A8%D8%B1%DB%8C%D8%B4%D9%85%DB%8C-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C-%DA%A9%DB%8C%D9%81-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%A2%D8%B1%D8%A7%DB%8C%D8%B4-%D9%85%D8%AF%D9%84-BHB968-10",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T13:25:40.704Z"
   },
   {
     "id": "torobshop-sports-travel-7f66ba1a4f7ddbfb",
@@ -6549,7 +6549,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.637Z"
+    "observedAt": "2026-09-03T13:25:40.704Z"
   },
   {
     "id": "torobshop-sports-travel-f699a00edc06f489",
@@ -6567,7 +6567,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.637Z"
+    "observedAt": "2026-09-03T13:25:40.704Z"
   },
   {
     "id": "torobshop-sports-travel-a942a79dda5b87df",
@@ -6585,7 +6585,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.638Z"
+    "observedAt": "2026-09-03T13:25:40.704Z"
   },
   {
     "id": "torobshop-sports-travel-af7462ce98ee2999",
@@ -6603,7 +6603,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.638Z"
+    "observedAt": "2026-09-03T13:25:40.704Z"
   },
   {
     "id": "torobshop-sports-travel-7c82cddc2d9efd1c",
@@ -6621,7 +6621,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.638Z"
+    "observedAt": "2026-09-03T13:25:40.704Z"
   },
   {
     "id": "torobshop-sports-travel-f6c6e72a28882975",
@@ -6639,7 +6639,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.638Z"
+    "observedAt": "2026-09-03T13:25:40.704Z"
   },
   {
     "id": "torobshop-sports-travel-7bbb1f19505b28fd",
@@ -6657,25 +6657,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.638Z"
-  },
-  {
-    "id": "torobshop-sports-travel-e4ec7bd10ffa8b50",
-    "productId": "torobshop-e4ec7bd10ffa8b50",
-    "name": "لیزر بدن بانوان رفع موهای زائد فیلیپس هلند Philips BRI950/02 برای داشتن پوستی ابریشمی و صاف تا 2 سال",
-    "brand": "",
-    "model": "لیزر بدن بانوان رفع موهای زائد فیلیپس هلند Philips BRI950/02 برای داشتن پوستی ابریشمی و صاف تا 2 سال",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 108425000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%DB%8C-Philips-Lumea-IPL-9900-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-IPL-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AF%D8%A7%D8%B4%D8%AA%D9%86-%D9%BE%D9%88%D8%B3%D8%AA%DB%8C-%D8%A7%D8%A8%D8%B1%DB%8C%D8%B4%D9%85%DB%8C-%D9%88-%D8%B5%D8%A7%D9%81-%D8%AA%D8%A7-2-%D8%B3%D8%A7%D9%84-%D8%A8%D8%A7-2-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A8%D8%AF%D9%86-%D9%88-%D8%B5%D9%88%D8%B1%D8%AA-%D8%A8%D8%AF%D9%88%D9%86-%D8%B3%DB%8C%D9%85-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D9%84%DB%8C%D8%B2%D8%B1-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-BRI950-02",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.638Z"
+    "observedAt": "2026-09-03T13:25:40.704Z"
   },
   {
     "id": "torobshop-sports-travel-a59cff30443c154a",
@@ -6693,7 +6675,25 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.638Z"
+    "observedAt": "2026-09-03T13:25:40.704Z"
+  },
+  {
+    "id": "torobshop-sports-travel-e4ec7bd10ffa8b50",
+    "productId": "torobshop-e4ec7bd10ffa8b50",
+    "name": "لیزر بدن بانوان رفع موهای زائد فیلیپس هلند Philips BRI950/02 برای داشتن پوستی ابریشمی و صاف تا 2 سال",
+    "brand": "",
+    "model": "لیزر بدن بانوان رفع موهای زائد فیلیپس هلند Philips BRI950/02 برای داشتن پوستی ابریشمی و صاف تا 2 سال",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 108425000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%DB%8C-Philips-Lumea-IPL-9900-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-IPL-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AF%D8%A7%D8%B4%D8%AA%D9%86-%D9%BE%D9%88%D8%B3%D8%AA%DB%8C-%D8%A7%D8%A8%D8%B1%DB%8C%D8%B4%D9%85%DB%8C-%D9%88-%D8%B5%D8%A7%D9%81-%D8%AA%D8%A7-2-%D8%B3%D8%A7%D9%84-%D8%A8%D8%A7-2-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A8%D8%AF%D9%86-%D9%88-%D8%B5%D9%88%D8%B1%D8%AA-%D8%A8%D8%AF%D9%88%D9%86-%D8%B3%DB%8C%D9%85-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D9%84%DB%8C%D8%B2%D8%B1-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-BRI950-02",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T13:25:40.704Z"
   },
   {
     "id": "torobshop-sports-travel-5bc21e4edaa526cc",
@@ -6711,7 +6711,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.638Z"
+    "observedAt": "2026-09-03T13:25:40.704Z"
   },
   {
     "id": "torobshop-sports-travel-45d6aa9c3fd53ad4",
@@ -6729,7 +6729,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.638Z"
+    "observedAt": "2026-09-03T13:25:40.704Z"
   },
   {
     "id": "torobshop-sports-travel-1abb58c93aa4d049",
@@ -6747,7 +6747,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.638Z"
+    "observedAt": "2026-09-03T13:25:40.704Z"
   },
   {
     "id": "torobshop-sports-travel-9d62a66000d436e1",
@@ -6765,7 +6765,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.638Z"
+    "observedAt": "2026-09-03T13:25:40.704Z"
   },
   {
     "id": "torobshop-sports-travel-c876f51b5b5d7dae",
@@ -6783,7 +6783,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.638Z"
+    "observedAt": "2026-09-03T13:25:40.704Z"
   },
   {
     "id": "torobshop-sports-travel-400b05dca029ee01",
@@ -6801,7 +6801,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.638Z"
+    "observedAt": "2026-09-03T13:25:40.704Z"
   },
   {
     "id": "torobshop-sports-travel-27109e9fc58673fd",
@@ -6819,7 +6819,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.638Z"
+    "observedAt": "2026-09-03T13:25:40.705Z"
   },
   {
     "id": "torobshop-sports-travel-d6551c8766b38613",
@@ -6837,7 +6837,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.638Z"
+    "observedAt": "2026-09-03T13:25:40.705Z"
   },
   {
     "id": "torobshop-sports-travel-6c0960e9008fddf6",
@@ -6855,43 +6855,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.638Z"
-  },
-  {
-    "id": "torobshop-sports-travel-766b0f80e67074f9",
-    "productId": "torobshop-766b0f80e67074f9",
-    "name": "ریش‌تراش فیلیپس سری ۸۰۰۰ مدل لیدی - ریش‌تراش برقی بی‌سیم، مناسب برای اصلاح خشک و مرطوب، ۳ تیغه، سر اصلاح انعطاف‌پذیر، چراغ LED، صورت/پا/بدن/ناحیه بیکینی، ۱۰۰ دقیقه کارکرد، مدل BRL159/00",
-    "brand": "",
-    "model": "ریش‌تراش فیلیپس سری ۸۰۰۰ مدل لیدی - ریش‌تراش برقی بی‌سیم، مناسب برای اصلاح خشک و مرطوب، ۳ تیغه، سر اصلاح انعطاف‌پذیر، چراغ LED، صورت/پا/بدن/ناحیه بیکینی، ۱۰۰ دقیقه کارکرد، مدل BRL159/00",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 20046000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%B3%D8%B1%DB%8C-%DB%B8%DB%B0%DB%B0%DB%B0-%D9%85%D8%AF%D9%84-%D9%84%DB%8C%D8%AF%DB%8C-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D8%A8%D8%B1%D9%82%DB%8C-%D8%A8%DB%8C-%D8%B3%DB%8C%D9%85-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%AE%D8%B4%DA%A9-%D9%88-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%DB%B3-%D8%AA%DB%8C%D8%BA%D9%87-%D8%B3%D8%B1-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%A7%D9%86%D8%B9%D8%B7%D8%A7%D9%81-%D9%BE%D8%B0%DB%8C%D8%B1-%DA%86%D8%B1%D8%A7%D8%BA-LED-%D8%B5%D9%88%D8%B1%D8%AA-%D9%BE%D8%A7-%D8%A8%D8%AF%D9%86-%D9%86%D8%A7%D8%AD%DB%8C%D9%87-%D8%A8%DB%8C%DA%A9%DB%8C%D9%86%DB%8C-%DB%B1%DB%B0%DB%B0-%D8%AF%D9%82%DB%8C%D9%82%D9%87-%DA%A9%D8%A7%D8%B1%DA%A9%D8%B1%D8%AF-%D9%85%D8%AF%D9%84-BRL159-00",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.638Z"
-  },
-  {
-    "id": "torobshop-sports-travel-508a955227952a9d",
-    "productId": "torobshop-508a955227952a9d",
-    "name": "اپیلاتور براون سیلک-اپیل ۵ مخصوص خانم‌ها، موبر برای رفع موهای زائد با ماندگاری طولانی، اصلاح بانوان، ضد آب - شامل اصلاح‌کننده بیکینی، سری اصلاح و سری اصلاح - ۵-۲۳۰، سفید/صورتی فلامینگو + اصلاح‌کننده بیکینی",
-    "brand": "",
-    "model": "اپیلاتور براون سیلک-اپیل ۵ مخصوص خانم‌ها، موبر برای رفع موهای زائد با ماندگاری طولانی، اصلاح بانوان، ضد آب - شامل اصلاح‌کننده بیکینی، سری اصلاح و سری اصلاح - ۵-۲۳۰، سفید/صورتی فلامینگو + اصلاح‌کننده بیکینی",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 29183000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B3%DB%8C%D9%84%DA%A9-%D8%A7%D9%BE%DB%8C%D9%84-%DB%B5-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%AE%D8%A7%D9%86%D9%85-%D9%87%D8%A7-%D9%85%D9%88%D8%A8%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%D8%A7-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1%DB%8C-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D8%B6%D8%AF-%D8%A2%D8%A8-%D8%B4%D8%A7%D9%85%D9%84-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%A8%DB%8C%DA%A9%DB%8C%D9%86%DB%8C-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DB%B5-%DB%B2%DB%B3%DB%B0-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B5%D9%88%D8%B1%D8%AA%DB%8C-%D9%81%D9%84%D8%A7%D9%85%DB%8C%D9%86%DA%AF%D9%88-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%A8%DB%8C%DA%A9%DB%8C%D9%86%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.638Z"
+    "observedAt": "2026-09-03T13:25:40.705Z"
   },
   {
     "id": "torobshop-sports-travel-074febbf09bd3065",
@@ -6909,43 +6873,25 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.638Z"
+    "observedAt": "2026-09-03T13:25:40.705Z"
   },
   {
-    "id": "torobshop-sports-travel-5e70d562a3ef7192",
-    "productId": "torobshop-5e70d562a3ef7192",
-    "name": "اپیلاتور زنانه براون آلمان Silk·épil 9 Flex، مخصوص بانوان 9-041 3D، طلایی - سر انعطاف‌پذیر 360 درجه برای رفع آسان موهای زائد، پوستی صاف و ماندگار، ضد آب، شامل قاب و سری اصلاح",
+    "id": "torobshop-sports-travel-766b0f80e67074f9",
+    "productId": "torobshop-766b0f80e67074f9",
+    "name": "ریش‌تراش فیلیپس سری ۸۰۰۰ مدل لیدی - ریش‌تراش برقی بی‌سیم، مناسب برای اصلاح خشک و مرطوب، ۳ تیغه، سر اصلاح انعطاف‌پذیر، چراغ LED، صورت/پا/بدن/ناحیه بیکینی، ۱۰۰ دقیقه کارکرد، مدل BRL159/00",
     "brand": "",
-    "model": "اپیلاتور زنانه براون آلمان Silk·épil 9 Flex، مخصوص بانوان 9-041 3D، طلایی - سر انعطاف‌پذیر 360 درجه برای رفع آسان موهای زائد، پوستی صاف و ماندگار، ضد آب، شامل قاب و سری اصلاح",
+    "model": "ریش‌تراش فیلیپس سری ۸۰۰۰ مدل لیدی - ریش‌تراش برقی بی‌سیم، مناسب برای اصلاح خشک و مرطوب، ۳ تیغه، سر اصلاح انعطاف‌پذیر، چراغ LED، صورت/پا/بدن/ناحیه بیکینی، ۱۰۰ دقیقه کارکرد، مدل BRL159/00",
     "category": "sports-travel",
     "subcategory": "کتانی ورزشی مردانه",
-    "price": 51260000,
+    "price": 20046000,
     "currency": "IRT",
     "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D9%85%D8%AF%D9%84-Silk-pil-9-Flex-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-9-041-3D-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C-%D8%B3%D8%B1-%D8%A7%D9%86%D8%B9%D8%B7%D8%A7%D9%81-%D9%BE%D8%B0%DB%8C%D8%B1-360-%D8%AF%D8%B1%D8%AC%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D8%A2%D8%B3%D8%A7%D9%86-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D9%BE%D9%88%D8%B3%D8%AA%DB%8C-%D8%B5%D8%A7%D9%81-%D9%88-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1-%D8%B6%D8%AF-%D8%A2%D8%A8-%D8%B4%D8%A7%D9%85%D9%84-%D9%82%D8%A7%D8%A8-%D9%88-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD",
+    "productUrl": "https://torobshop.com/products/%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%B3%D8%B1%DB%8C-%DB%B8%DB%B0%DB%B0%DB%B0-%D9%85%D8%AF%D9%84-%D9%84%DB%8C%D8%AF%DB%8C-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D8%A8%D8%B1%D9%82%DB%8C-%D8%A8%DB%8C-%D8%B3%DB%8C%D9%85-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%AE%D8%B4%DA%A9-%D9%88-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%DB%B3-%D8%AA%DB%8C%D8%BA%D9%87-%D8%B3%D8%B1-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%A7%D9%86%D8%B9%D8%B7%D8%A7%D9%81-%D9%BE%D8%B0%DB%8C%D8%B1-%DA%86%D8%B1%D8%A7%D8%BA-LED-%D8%B5%D9%88%D8%B1%D8%AA-%D9%BE%D8%A7-%D8%A8%D8%AF%D9%86-%D9%86%D8%A7%D8%AD%DB%8C%D9%87-%D8%A8%DB%8C%DA%A9%DB%8C%D9%86%DB%8C-%DB%B1%DB%B0%DB%B0-%D8%AF%D9%82%DB%8C%D9%82%D9%87-%DA%A9%D8%A7%D8%B1%DA%A9%D8%B1%D8%AF-%D9%85%D8%AF%D9%84-BRL159-00",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.638Z"
-  },
-  {
-    "id": "torobshop-sports-travel-967849182031e292",
-    "productId": "torobshop-967849182031e292",
-    "name": "ست اپیلاتور/موبر زنانه Braun Silk-épil 9 Skinspa، با کنترل فشار، اپیلاتور خشک و مرطوب با ۱۳ وسیله اضافی، ۹-۹۹۰، رز/طلایی",
-    "brand": "",
-    "model": "ست اپیلاتور/موبر زنانه Braun Silk-épil 9 Skinspa، با کنترل فشار، اپیلاتور خشک و مرطوب با ۱۳ وسیله اضافی، ۹-۹۹۰، رز/طلایی",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 52274000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%AA-%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D9%85%D9%88%D8%A8%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-Braun-Silk-pil-9-Skinspa-%D8%A8%D8%A7-%DA%A9%D9%86%D8%AA%D8%B1%D9%84-%D9%81%D8%B4%D8%A7%D8%B1-%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%AE%D8%B4%DA%A9-%D9%88-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D8%A8%D8%A7-%DB%B1%DB%B3-%D9%88%D8%B3%DB%8C%D9%84%D9%87-%D8%A7%D8%B6%D8%A7%D9%81%DB%8C-%DB%B9-%DB%B9%DB%B9%DB%B0-%D8%B1%D8%B2-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.638Z"
+    "observedAt": "2026-09-03T13:25:40.705Z"
   },
   {
     "id": "torobshop-sports-travel-2cb3b869608c8a13",
@@ -6963,7 +6909,61 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.638Z"
+    "observedAt": "2026-09-03T13:25:40.705Z"
+  },
+  {
+    "id": "torobshop-sports-travel-508a955227952a9d",
+    "productId": "torobshop-508a955227952a9d",
+    "name": "اپیلاتور براون سیلک-اپیل ۵ مخصوص خانم‌ها، موبر برای رفع موهای زائد با ماندگاری طولانی، اصلاح بانوان، ضد آب - شامل اصلاح‌کننده بیکینی، سری اصلاح و سری اصلاح - ۵-۲۳۰، سفید/صورتی فلامینگو + اصلاح‌کننده بیکینی",
+    "brand": "",
+    "model": "اپیلاتور براون سیلک-اپیل ۵ مخصوص خانم‌ها، موبر برای رفع موهای زائد با ماندگاری طولانی، اصلاح بانوان، ضد آب - شامل اصلاح‌کننده بیکینی، سری اصلاح و سری اصلاح - ۵-۲۳۰، سفید/صورتی فلامینگو + اصلاح‌کننده بیکینی",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 29183000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B3%DB%8C%D9%84%DA%A9-%D8%A7%D9%BE%DB%8C%D9%84-%DB%B5-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%AE%D8%A7%D9%86%D9%85-%D9%87%D8%A7-%D9%85%D9%88%D8%A8%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%D8%A7-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1%DB%8C-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D8%B6%D8%AF-%D8%A2%D8%A8-%D8%B4%D8%A7%D9%85%D9%84-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%A8%DB%8C%DA%A9%DB%8C%D9%86%DB%8C-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DB%B5-%DB%B2%DB%B3%DB%B0-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B5%D9%88%D8%B1%D8%AA%DB%8C-%D9%81%D9%84%D8%A7%D9%85%DB%8C%D9%86%DA%AF%D9%88-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%A8%DB%8C%DA%A9%DB%8C%D9%86%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T13:25:40.705Z"
+  },
+  {
+    "id": "torobshop-sports-travel-5e70d562a3ef7192",
+    "productId": "torobshop-5e70d562a3ef7192",
+    "name": "اپیلاتور زنانه براون آلمان Silk·épil 9 Flex، مخصوص بانوان 9-041 3D، طلایی - سر انعطاف‌پذیر 360 درجه برای رفع آسان موهای زائد، پوستی صاف و ماندگار، ضد آب، شامل قاب و سری اصلاح",
+    "brand": "",
+    "model": "اپیلاتور زنانه براون آلمان Silk·épil 9 Flex، مخصوص بانوان 9-041 3D، طلایی - سر انعطاف‌پذیر 360 درجه برای رفع آسان موهای زائد، پوستی صاف و ماندگار، ضد آب، شامل قاب و سری اصلاح",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 51260000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D9%85%D8%AF%D9%84-Silk-pil-9-Flex-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-9-041-3D-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C-%D8%B3%D8%B1-%D8%A7%D9%86%D8%B9%D8%B7%D8%A7%D9%81-%D9%BE%D8%B0%DB%8C%D8%B1-360-%D8%AF%D8%B1%D8%AC%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D8%A2%D8%B3%D8%A7%D9%86-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D9%BE%D9%88%D8%B3%D8%AA%DB%8C-%D8%B5%D8%A7%D9%81-%D9%88-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1-%D8%B6%D8%AF-%D8%A2%D8%A8-%D8%B4%D8%A7%D9%85%D9%84-%D9%82%D8%A7%D8%A8-%D9%88-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T13:25:40.705Z"
+  },
+  {
+    "id": "torobshop-sports-travel-967849182031e292",
+    "productId": "torobshop-967849182031e292",
+    "name": "ست اپیلاتور/موبر زنانه Braun Silk-épil 9 Skinspa، با کنترل فشار، اپیلاتور خشک و مرطوب با ۱۳ وسیله اضافی، ۹-۹۹۰، رز/طلایی",
+    "brand": "",
+    "model": "ست اپیلاتور/موبر زنانه Braun Silk-épil 9 Skinspa، با کنترل فشار، اپیلاتور خشک و مرطوب با ۱۳ وسیله اضافی، ۹-۹۹۰، رز/طلایی",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 52274000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%AA-%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D9%85%D9%88%D8%A8%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-Braun-Silk-pil-9-Skinspa-%D8%A8%D8%A7-%DA%A9%D9%86%D8%AA%D8%B1%D9%84-%D9%81%D8%B4%D8%A7%D8%B1-%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%AE%D8%B4%DA%A9-%D9%88-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D8%A8%D8%A7-%DB%B1%DB%B3-%D9%88%D8%B3%DB%8C%D9%84%D9%87-%D8%A7%D8%B6%D8%A7%D9%81%DB%8C-%DB%B9-%DB%B9%DB%B9%DB%B0-%D8%B1%D8%B2-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T13:25:40.705Z"
   },
   {
     "id": "torobshop-sports-travel-dc3a8d1c6feb961b",
@@ -6981,7 +6981,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.638Z"
+    "observedAt": "2026-09-03T13:25:40.705Z"
   },
   {
     "id": "torobshop-sports-travel-6e4a2eb26d23a745",
@@ -6999,7 +6999,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.638Z"
+    "observedAt": "2026-09-03T13:25:40.705Z"
   },
   {
     "id": "torobshop-sports-travel-b6d1e42e39dc67ab",
@@ -7017,7 +7017,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.638Z"
+    "observedAt": "2026-09-03T13:25:40.705Z"
   },
   {
     "id": "torobshop-sports-travel-2182240d0b4b05fe",
@@ -7035,7 +7035,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.638Z"
+    "observedAt": "2026-09-03T13:25:40.705Z"
   },
   {
     "id": "torobshop-sports-travel-8b93c7ea550544bf",
@@ -7053,7 +7053,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.638Z"
+    "observedAt": "2026-09-03T13:25:40.705Z"
   },
   {
     "id": "torobshop-sports-travel-e93d0f8dd3711a93",
@@ -7071,7 +7071,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.638Z"
+    "observedAt": "2026-09-03T13:25:40.705Z"
   },
   {
     "id": "torobshop-sports-travel-52384f9bcf5e57ca",
@@ -7089,7 +7089,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.638Z"
+    "observedAt": "2026-09-03T13:25:40.705Z"
   },
   {
     "id": "torobshop-sports-travel-391c9855ce3adbee",
@@ -7107,7 +7107,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.638Z"
+    "observedAt": "2026-09-03T13:25:40.705Z"
   },
   {
     "id": "torobshop-sports-travel-7c140bba2434e29a",
@@ -7125,7 +7125,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.638Z"
+    "observedAt": "2026-09-03T13:25:40.705Z"
   },
   {
     "id": "torobshop-sports-travel-733ef1e66d9b337b",
@@ -7143,7 +7143,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.638Z"
+    "observedAt": "2026-09-03T13:25:40.705Z"
   },
   {
     "id": "torobshop-sports-travel-6ba05ec79330884d",
@@ -7161,7 +7161,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.638Z"
+    "observedAt": "2026-09-03T13:25:40.705Z"
   },
   {
     "id": "torobshop-sports-travel-80504a6da4da0683",
@@ -7179,7 +7179,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.638Z"
+    "observedAt": "2026-09-03T13:25:40.705Z"
   },
   {
     "id": "torobshop-sports-travel-f0ab07848df05c09",
@@ -7197,7 +7197,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.638Z"
+    "observedAt": "2026-09-03T13:25:40.705Z"
   },
   {
     "id": "torobshop-sports-travel-9195692751acb6cb",
@@ -7215,7 +7215,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.638Z"
+    "observedAt": "2026-09-03T13:25:40.705Z"
   },
   {
     "id": "torobshop-sports-travel-e364f422cc177d5d",
@@ -7233,25 +7233,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.638Z"
-  },
-  {
-    "id": "torobshop-sports-travel-b6f7b97e0a41fcce",
-    "productId": "torobshop-b6f7b97e0a41fcce",
-    "name": "دستگاه اپیلاتور سیمی فیلیپس سری 2000 مدل BRE229/00 مشکی",
-    "brand": "",
-    "model": "دستگاه اپیلاتور سیمی فیلیپس سری 2000 مدل BRE229/00 مشکی",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 15479000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B3%DB%8C%D9%85%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%B3%D8%B1%DB%8C-2000-%D9%85%D8%AF%D9%84-BRE229-00-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.638Z"
+    "observedAt": "2026-09-03T13:25:40.705Z"
   },
   {
     "id": "torobshop-sports-travel-f7e7ecdbe9c782b9",
@@ -7269,7 +7251,25 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.638Z"
+    "observedAt": "2026-09-03T13:25:40.705Z"
+  },
+  {
+    "id": "torobshop-sports-travel-b6f7b97e0a41fcce",
+    "productId": "torobshop-b6f7b97e0a41fcce",
+    "name": "دستگاه اپیلاتور سیمی فیلیپس سری 2000 مدل BRE229/00 مشکی",
+    "brand": "",
+    "model": "دستگاه اپیلاتور سیمی فیلیپس سری 2000 مدل BRE229/00 مشکی",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 15479000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B3%DB%8C%D9%85%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%B3%D8%B1%DB%8C-2000-%D9%85%D8%AF%D9%84-BRE229-00-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T13:25:40.705Z"
   },
   {
     "id": "torobshop-sports-travel-7f7cef16b95ceef4",
@@ -7287,7 +7287,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.638Z"
+    "observedAt": "2026-09-03T13:25:40.705Z"
   },
   {
     "id": "torobshop-sports-travel-1abc4d3d93984fc9",
@@ -7305,7 +7305,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.638Z"
+    "observedAt": "2026-09-03T13:25:40.705Z"
   },
   {
     "id": "torobshop-sports-travel-fb66328b02aeada9",
@@ -7323,7 +7323,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.638Z"
+    "observedAt": "2026-09-03T13:25:40.705Z"
   },
   {
     "id": "torobshop-sports-travel-333eed5c812fb391",
@@ -7341,7 +7341,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.638Z"
+    "observedAt": "2026-09-03T13:25:40.705Z"
   },
   {
     "id": "torobshop-sports-travel-d5e3206967150e5a",
@@ -7359,43 +7359,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.638Z"
-  },
-  {
-    "id": "torobshop-sports-travel-4b1136653b8c3865",
-    "productId": "torobshop-4b1136653b8c3865",
-    "name": "دستگاه لیزر بدن بانوان براون آلمان رفع موهای زائد، Silk·expert Pro 3، PL3230، سفید/نقره‌ای، لیزر جایگزین برای رفع موهای زائد خانگی، رفع دائمی موهای زائد، شامل قاب و 3 قطعه جانبی",
-    "brand": "",
-    "model": "دستگاه لیزر بدن بانوان براون آلمان رفع موهای زائد، Silk·expert Pro 3، PL3230، سفید/نقره‌ای، لیزر جایگزین برای رفع موهای زائد خانگی، رفع دائمی موهای زائد، شامل قاب و 3 قطعه جانبی",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 79935000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-IPL-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Silk-expert-Pro-3-PL3230-%D8%B3%D9%81%DB%8C%D8%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C-%D9%84%DB%8C%D8%B2%D8%B1-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C-%D8%B1%D9%81%D8%B9-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%B4%D8%A7%D9%85%D9%84-%D9%82%D8%A7%D8%A8-%D9%88-3-%D9%82%D8%B7%D8%B9%D9%87-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.638Z"
-  },
-  {
-    "id": "torobshop-sports-travel-bff623028ca50588",
-    "productId": "torobshop-bff623028ca50588",
-    "name": "ریش‌تراش برقی بی‌سیم فیلیپس سری لیدی شیور ۸۰۰۰، مناسب برای اصلاح صورت خشک و تر، سر اصلاح انعطاف‌پذیر با ۳ تیغه، چراغ LED برای پاها و بدن، زمان کارکرد ۱۰۰ دقیقه، مدل BRL129/00",
-    "brand": "",
-    "model": "ریش‌تراش برقی بی‌سیم فیلیپس سری لیدی شیور ۸۰۰۰، مناسب برای اصلاح صورت خشک و تر، سر اصلاح انعطاف‌پذیر با ۳ تیغه، چراغ LED برای پاها و بدن، زمان کارکرد ۱۰۰ دقیقه، مدل BRL129/00",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 19539000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D8%A8%D8%B1%D9%82%DB%8C-%D8%A8%DB%8C-%D8%B3%DB%8C%D9%85-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%B3%D8%B1%DB%8C-%D9%84%DB%8C%D8%AF%DB%8C-%D8%B4%DB%8C%D9%88%D8%B1-%DB%B8%DB%B0%DB%B0%DB%B0-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%B5%D9%88%D8%B1%D8%AA-%D8%AE%D8%B4%DA%A9-%D9%88-%D8%AA%D8%B1-%D8%B3%D8%B1-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%A7%D9%86%D8%B9%D8%B7%D8%A7%D9%81-%D9%BE%D8%B0%DB%8C%D8%B1-%D8%A8%D8%A7-%DB%B3-%D8%AA%DB%8C%D8%BA%D9%87-%DA%86%D8%B1%D8%A7%D8%BA-LED-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D8%A7%D9%87%D8%A7-%D9%88-%D8%A8%D8%AF%D9%86-%D8%B2%D9%85%D8%A7%D9%86-%DA%A9%D8%A7%D8%B1%DA%A9%D8%B1%D8%AF-%DB%B1%DB%B0%DB%B0-%D8%AF%D9%82%DB%8C%D9%82%D9%87-%D9%85%D8%AF%D9%84-BRL129-00",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.638Z"
+    "observedAt": "2026-09-03T13:25:40.705Z"
   },
   {
     "id": "torobshop-sports-travel-2a6259b902f04fb9",
@@ -7413,7 +7377,43 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.638Z"
+    "observedAt": "2026-09-03T13:25:40.705Z"
+  },
+  {
+    "id": "torobshop-sports-travel-4b1136653b8c3865",
+    "productId": "torobshop-4b1136653b8c3865",
+    "name": "دستگاه لیزر بدن بانوان براون آلمان رفع موهای زائد، Silk·expert Pro 3، PL3230، سفید/نقره‌ای، لیزر جایگزین برای رفع موهای زائد خانگی، رفع دائمی موهای زائد، شامل قاب و 3 قطعه جانبی",
+    "brand": "",
+    "model": "دستگاه لیزر بدن بانوان براون آلمان رفع موهای زائد، Silk·expert Pro 3، PL3230، سفید/نقره‌ای، لیزر جایگزین برای رفع موهای زائد خانگی، رفع دائمی موهای زائد، شامل قاب و 3 قطعه جانبی",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 79935000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-IPL-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Silk-expert-Pro-3-PL3230-%D8%B3%D9%81%DB%8C%D8%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C-%D9%84%DB%8C%D8%B2%D8%B1-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C-%D8%B1%D9%81%D8%B9-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%B4%D8%A7%D9%85%D9%84-%D9%82%D8%A7%D8%A8-%D9%88-3-%D9%82%D8%B7%D8%B9%D9%87-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T13:25:40.705Z"
+  },
+  {
+    "id": "torobshop-sports-travel-bff623028ca50588",
+    "productId": "torobshop-bff623028ca50588",
+    "name": "ریش‌تراش برقی بی‌سیم فیلیپس سری لیدی شیور ۸۰۰۰، مناسب برای اصلاح صورت خشک و تر، سر اصلاح انعطاف‌پذیر با ۳ تیغه، چراغ LED برای پاها و بدن، زمان کارکرد ۱۰۰ دقیقه، مدل BRL129/00",
+    "brand": "",
+    "model": "ریش‌تراش برقی بی‌سیم فیلیپس سری لیدی شیور ۸۰۰۰، مناسب برای اصلاح صورت خشک و تر، سر اصلاح انعطاف‌پذیر با ۳ تیغه، چراغ LED برای پاها و بدن، زمان کارکرد ۱۰۰ دقیقه، مدل BRL129/00",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 19539000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D8%A8%D8%B1%D9%82%DB%8C-%D8%A8%DB%8C-%D8%B3%DB%8C%D9%85-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%B3%D8%B1%DB%8C-%D9%84%DB%8C%D8%AF%DB%8C-%D8%B4%DB%8C%D9%88%D8%B1-%DB%B8%DB%B0%DB%B0%DB%B0-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%B5%D9%88%D8%B1%D8%AA-%D8%AE%D8%B4%DA%A9-%D9%88-%D8%AA%D8%B1-%D8%B3%D8%B1-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%A7%D9%86%D8%B9%D8%B7%D8%A7%D9%81-%D9%BE%D8%B0%DB%8C%D8%B1-%D8%A8%D8%A7-%DB%B3-%D8%AA%DB%8C%D8%BA%D9%87-%DA%86%D8%B1%D8%A7%D8%BA-LED-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D8%A7%D9%87%D8%A7-%D9%88-%D8%A8%D8%AF%D9%86-%D8%B2%D9%85%D8%A7%D9%86-%DA%A9%D8%A7%D8%B1%DA%A9%D8%B1%D8%AF-%DB%B1%DB%B0%DB%B0-%D8%AF%D9%82%DB%8C%D9%82%D9%87-%D9%85%D8%AF%D9%84-BRL129-00",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T13:25:40.705Z"
   },
   {
     "id": "torobshop-sports-travel-ef59c7447c918481",
@@ -7431,7 +7431,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.638Z"
+    "observedAt": "2026-09-03T13:25:40.705Z"
   },
   {
     "id": "torobshop-sports-travel-ec0c6101e09fd316",
@@ -7449,7 +7449,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.638Z"
+    "observedAt": "2026-09-03T13:25:40.705Z"
   },
   {
     "id": "torobshop-sports-travel-591d2fa02319cbe4",
@@ -7467,7 +7467,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.638Z"
+    "observedAt": "2026-09-03T13:25:40.705Z"
   },
   {
     "id": "torobshop-sports-travel-45f8a3eeff0791c7",
@@ -7485,7 +7485,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.638Z"
+    "observedAt": "2026-09-03T13:25:40.705Z"
   },
   {
     "id": "torobshop-sports-travel-3fe480d61f801988",
@@ -7503,7 +7503,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.638Z"
+    "observedAt": "2026-09-03T13:25:40.705Z"
   },
   {
     "id": "torobshop-sports-travel-99dbc61e2d2488d7",
@@ -7521,7 +7521,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.639Z"
+    "observedAt": "2026-09-03T13:25:40.705Z"
   },
   {
     "id": "torobshop-sports-travel-091330dc970a0bbe",
@@ -7539,7 +7539,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.639Z"
+    "observedAt": "2026-09-03T13:25:40.705Z"
   },
   {
     "id": "torobshop-sports-travel-9c53c942a980e1d6",
@@ -7557,7 +7557,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.639Z"
+    "observedAt": "2026-09-03T13:25:40.705Z"
   },
   {
     "id": "torobshop-sports-travel-69bba0d6d694a47d",
@@ -7575,7 +7575,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.639Z"
+    "observedAt": "2026-09-03T13:25:40.705Z"
   },
   {
     "id": "torobshop-sports-travel-20c5a20079487b1a",
@@ -7593,7 +7593,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.639Z"
+    "observedAt": "2026-09-03T13:25:40.705Z"
   },
   {
     "id": "torobshop-sports-travel-acc19b901c8b2ad8",
@@ -7611,7 +7611,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.639Z"
+    "observedAt": "2026-09-03T13:25:40.705Z"
   },
   {
     "id": "torobshop-sports-travel-74fc37b5d70bd7c1",
@@ -7629,7 +7629,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.639Z"
+    "observedAt": "2026-09-03T13:25:40.705Z"
   },
   {
     "id": "torobshop-sports-travel-215471b6024642b7",
@@ -7647,7 +7647,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.639Z"
+    "observedAt": "2026-09-03T13:25:40.705Z"
   },
   {
     "id": "torobshop-sports-travel-ac9daafe2ea5d5bc",
@@ -7665,7 +7665,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.639Z"
+    "observedAt": "2026-09-03T13:25:40.705Z"
   },
   {
     "id": "torobshop-sports-travel-01be123cfbff3d67",
@@ -7683,61 +7683,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.639Z"
-  },
-  {
-    "id": "torobshop-sports-travel-db81d40bcc397e16",
-    "productId": "torobshop-db81d40bcc397e16",
-    "name": "اپیلاتور زنانه براون آلمان Silk·épil 5، رفع آسان موهای زائد، پوستی صاف و ماندگار، مناسب برای استفاده خشک و مرطوب، مخصوص بانوان، ضد آب - شامل سری اصلاح، سری اصلاح و برس لایه بردار - 5-060، صورتی",
-    "brand": "",
-    "model": "اپیلاتور زنانه براون آلمان Silk·épil 5، رفع آسان موهای زائد، پوستی صاف و ماندگار، مناسب برای استفاده خشک و مرطوب، مخصوص بانوان، ضد آب - شامل سری اصلاح، سری اصلاح و برس لایه بردار - 5-060، صورتی",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 25629000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D9%85%D8%AF%D9%84-Silk-pil-5-%D8%B1%D9%81%D8%B9-%D8%A2%D8%B3%D8%A7%D9%86-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D9%BE%D9%88%D8%B3%D8%AA%DB%8C-%D8%B5%D8%A7%D9%81-%D9%88-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AE%D8%B4%DA%A9-%D9%88-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D8%B6%D8%AF-%D8%A2%D8%A8-%D8%B4%D8%A7%D9%85%D9%84-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%A8%D8%B1%D8%B3-%D9%84%D8%A7%DB%8C%D9%87-%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1-5-060-%D8%B5%D9%88%D8%B1%D8%AA%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.639Z"
-  },
-  {
-    "id": "torobshop-sports-travel-a95fac45da84a72b",
-    "productId": "torobshop-a95fac45da84a72b",
-    "name": "اپیلاتور زنانه Braun Silk-épil 9 SkinSpa، مجموعه همه کاره، موبر برای رفع موهای زائد طولانی مدت، ریش تراش زنانه، ضد آب، شامل تیغ و ماساژور، 9-080، سفید/صورتی",
-    "brand": "",
-    "model": "اپیلاتور زنانه Braun Silk-épil 9 SkinSpa، مجموعه همه کاره، موبر برای رفع موهای زائد طولانی مدت، ریش تراش زنانه، ضد آب، شامل تیغ و ماساژور، 9-080، سفید/صورتی",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 45422000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-Braun-Silk-pil-9-SkinSpa-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D9%87%D9%85%D9%87-%DA%A9%D8%A7%D8%B1%D9%87-%D9%85%D9%88%D8%A8%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%D9%85%D8%AF%D8%AA-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D8%B6%D8%AF-%D8%A2%D8%A8-%D8%B4%D8%A7%D9%85%D9%84-%D8%AA%DB%8C%D8%BA-%D9%88-%D9%85%D8%A7%D8%B3%D8%A7%DA%98%D9%88%D8%B1-9-080-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B5%D9%88%D8%B1%D8%AA%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.639Z"
-  },
-  {
-    "id": "torobshop-sports-travel-ed3206a7c4997ceb",
-    "productId": "torobshop-ed3206a7c4997ceb",
-    "name": "دستگاه‌های IPL براون، حذف موهای زائد، Silk·expert Mini، PL1100، سفید/نقره‌ای، لیزر جایگزین برای حذف موهای زائد در منزل، حذف دائمی موهای زائد، اندازه جمع و جور برای استفاده در حال حرکت، آسان و ایمن",
-    "brand": "",
-    "model": "دستگاه‌های IPL براون، حذف موهای زائد، Silk·expert Mini، PL1100، سفید/نقره‌ای، لیزر جایگزین برای حذف موهای زائد در منزل، حذف دائمی موهای زائد، اندازه جمع و جور برای استفاده در حال حرکت، آسان و ایمن",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 67755000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-IPL-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%AD%D8%B0%D9%81-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Silk-expert-Mini-PL1100-%D8%B3%D9%81%DB%8C%D8%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C-%D9%84%DB%8C%D8%B2%D8%B1-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AD%D8%B0%D9%81-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AF%D8%B1-%D9%85%D9%86%D8%B2%D9%84-%D8%AD%D8%B0%D9%81-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%D9%87-%D8%AC%D9%85%D8%B9-%D9%88-%D8%AC%D9%88%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D8%AD%D8%A7%D9%84-%D8%AD%D8%B1%DA%A9%D8%AA-%D8%A2%D8%B3%D8%A7%D9%86-%D9%88-%D8%A7%DB%8C%D9%85%D9%86",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.639Z"
+    "observedAt": "2026-09-03T13:25:40.705Z"
   },
   {
     "id": "torobshop-sports-travel-27f7af68d3543ffb",
@@ -7755,7 +7701,61 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.639Z"
+    "observedAt": "2026-09-03T13:25:40.705Z"
+  },
+  {
+    "id": "torobshop-sports-travel-db81d40bcc397e16",
+    "productId": "torobshop-db81d40bcc397e16",
+    "name": "اپیلاتور زنانه براون آلمان Silk·épil 5، رفع آسان موهای زائد، پوستی صاف و ماندگار، مناسب برای استفاده خشک و مرطوب، مخصوص بانوان، ضد آب - شامل سری اصلاح، سری اصلاح و برس لایه بردار - 5-060، صورتی",
+    "brand": "",
+    "model": "اپیلاتور زنانه براون آلمان Silk·épil 5، رفع آسان موهای زائد، پوستی صاف و ماندگار، مناسب برای استفاده خشک و مرطوب، مخصوص بانوان، ضد آب - شامل سری اصلاح، سری اصلاح و برس لایه بردار - 5-060، صورتی",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 25629000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D9%85%D8%AF%D9%84-Silk-pil-5-%D8%B1%D9%81%D8%B9-%D8%A2%D8%B3%D8%A7%D9%86-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D9%BE%D9%88%D8%B3%D8%AA%DB%8C-%D8%B5%D8%A7%D9%81-%D9%88-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AE%D8%B4%DA%A9-%D9%88-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D8%B6%D8%AF-%D8%A2%D8%A8-%D8%B4%D8%A7%D9%85%D9%84-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%A8%D8%B1%D8%B3-%D9%84%D8%A7%DB%8C%D9%87-%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1-5-060-%D8%B5%D9%88%D8%B1%D8%AA%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T13:25:40.705Z"
+  },
+  {
+    "id": "torobshop-sports-travel-a95fac45da84a72b",
+    "productId": "torobshop-a95fac45da84a72b",
+    "name": "اپیلاتور زنانه Braun Silk-épil 9 SkinSpa، مجموعه همه کاره، موبر برای رفع موهای زائد طولانی مدت، ریش تراش زنانه، ضد آب، شامل تیغ و ماساژور، 9-080، سفید/صورتی",
+    "brand": "",
+    "model": "اپیلاتور زنانه Braun Silk-épil 9 SkinSpa، مجموعه همه کاره، موبر برای رفع موهای زائد طولانی مدت، ریش تراش زنانه، ضد آب، شامل تیغ و ماساژور، 9-080، سفید/صورتی",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 45422000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-Braun-Silk-pil-9-SkinSpa-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D9%87%D9%85%D9%87-%DA%A9%D8%A7%D8%B1%D9%87-%D9%85%D9%88%D8%A8%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%D9%85%D8%AF%D8%AA-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D8%B6%D8%AF-%D8%A2%D8%A8-%D8%B4%D8%A7%D9%85%D9%84-%D8%AA%DB%8C%D8%BA-%D9%88-%D9%85%D8%A7%D8%B3%D8%A7%DA%98%D9%88%D8%B1-9-080-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B5%D9%88%D8%B1%D8%AA%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T13:25:40.706Z"
+  },
+  {
+    "id": "torobshop-sports-travel-ed3206a7c4997ceb",
+    "productId": "torobshop-ed3206a7c4997ceb",
+    "name": "دستگاه‌های IPL براون، حذف موهای زائد، Silk·expert Mini، PL1100، سفید/نقره‌ای، لیزر جایگزین برای حذف موهای زائد در منزل، حذف دائمی موهای زائد، اندازه جمع و جور برای استفاده در حال حرکت، آسان و ایمن",
+    "brand": "",
+    "model": "دستگاه‌های IPL براون، حذف موهای زائد، Silk·expert Mini، PL1100، سفید/نقره‌ای، لیزر جایگزین برای حذف موهای زائد در منزل، حذف دائمی موهای زائد، اندازه جمع و جور برای استفاده در حال حرکت، آسان و ایمن",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 67755000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-IPL-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%AD%D8%B0%D9%81-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Silk-expert-Mini-PL1100-%D8%B3%D9%81%DB%8C%D8%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C-%D9%84%DB%8C%D8%B2%D8%B1-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AD%D8%B0%D9%81-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AF%D8%B1-%D9%85%D9%86%D8%B2%D9%84-%D8%AD%D8%B0%D9%81-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%D9%87-%D8%AC%D9%85%D8%B9-%D9%88-%D8%AC%D9%88%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D8%AD%D8%A7%D9%84-%D8%AD%D8%B1%DA%A9%D8%AA-%D8%A2%D8%B3%D8%A7%D9%86-%D9%88-%D8%A7%DB%8C%D9%85%D9%86",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T13:25:40.706Z"
   },
   {
     "id": "torobshop-sports-travel-ab3241a3e4a91b6d",
@@ -7773,7 +7773,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.639Z"
+    "observedAt": "2026-09-03T13:25:40.706Z"
   },
   {
     "id": "torobshop-sports-travel-08320ee86e550b3d",
@@ -7791,7 +7791,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.639Z"
+    "observedAt": "2026-09-03T13:25:40.706Z"
   },
   {
     "id": "torobshop-sports-travel-5939ecdc87bd4f0d",
@@ -7809,7 +7809,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.639Z"
+    "observedAt": "2026-09-03T13:25:40.706Z"
   },
   {
     "id": "torobshop-sports-travel-301beb96f2df717f",
@@ -7827,7 +7827,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.639Z"
+    "observedAt": "2026-09-03T13:25:40.706Z"
   },
   {
     "id": "torobshop-sports-travel-a5fddfc8c0c99048",
@@ -7845,7 +7845,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.639Z"
+    "observedAt": "2026-09-03T13:25:40.706Z"
   },
   {
     "id": "torobshop-sports-travel-2798976de6f0cc81",
@@ -7863,7 +7863,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.639Z"
+    "observedAt": "2026-09-03T13:25:40.706Z"
   },
   {
     "id": "torobshop-sports-travel-834858ae4530d775",
@@ -7881,7 +7881,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.639Z"
+    "observedAt": "2026-09-03T13:25:40.706Z"
   },
   {
     "id": "torobshop-sports-travel-1059c1f184e3d8b3",
@@ -7899,7 +7899,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.639Z"
+    "observedAt": "2026-09-03T13:25:40.706Z"
   },
   {
     "id": "torobshop-sports-travel-3e4d9495e052b1b8",
@@ -7917,7 +7917,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.639Z"
+    "observedAt": "2026-09-03T13:25:40.706Z"
   },
   {
     "id": "torobshop-sports-travel-707702931ea634d8",
@@ -7935,7 +7935,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.639Z"
+    "observedAt": "2026-09-03T13:25:40.706Z"
   },
   {
     "id": "torobshop-sports-travel-68a4dab928f7c962",
@@ -7953,7 +7953,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.639Z"
+    "observedAt": "2026-09-03T13:25:40.706Z"
   },
   {
     "id": "torobshop-sports-travel-d8e34bb113f4f352",
@@ -7971,7 +7971,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.639Z"
+    "observedAt": "2026-09-03T13:25:40.706Z"
   },
   {
     "id": "torobshop-sports-travel-d5b957f7df4ff03f",
@@ -7989,7 +7989,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.639Z"
+    "observedAt": "2026-09-03T13:25:40.706Z"
   },
   {
     "id": "torobshop-sports-travel-28255666c26f658a",
@@ -8007,7 +8007,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.639Z"
+    "observedAt": "2026-09-03T13:25:40.706Z"
   },
   {
     "id": "torobshop-sports-travel-2a3268e48e6a43b8",
@@ -8025,7 +8025,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.639Z"
+    "observedAt": "2026-09-03T13:25:40.706Z"
   },
   {
     "id": "torobshop-sports-travel-9a0fccac9db69875",
@@ -8043,7 +8043,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.639Z"
+    "observedAt": "2026-09-03T13:25:40.706Z"
   },
   {
     "id": "torobshop-sports-travel-93e51ab5d27d6671",
@@ -8061,7 +8061,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:17.639Z"
+    "observedAt": "2026-09-03T13:25:40.706Z"
   },
   {
     "id": "torobshop-sports-travel-47921a2f319c2f47",
@@ -8079,7 +8079,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D9%88%D9%87%D9%86%D9%88%D8%B1%D8%AF%DB%8C-%D9%88-%DA%A9%D9%85%D9%BE%DB%8C%D9%86%DA%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:54.731Z"
+    "observedAt": "2026-09-03T13:26:15.693Z"
   },
   {
     "id": "torobshop-sports-travel-8b50476f5bf500af",
@@ -8097,7 +8097,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D9%88%D9%87%D9%86%D9%88%D8%B1%D8%AF%DB%8C-%D9%88-%DA%A9%D9%85%D9%BE%DB%8C%D9%86%DA%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:54.731Z"
+    "observedAt": "2026-09-03T13:26:15.693Z"
   },
   {
     "id": "torobshop-sports-travel-88cc920398627be4",
@@ -8115,7 +8115,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D9%88%D9%87%D9%86%D9%88%D8%B1%D8%AF%DB%8C-%D9%88-%DA%A9%D9%85%D9%BE%DB%8C%D9%86%DA%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:54.731Z"
+    "observedAt": "2026-09-03T13:26:15.693Z"
   },
   {
     "id": "torobshop-sports-travel-d009cbcd542c0a88",
@@ -8133,7 +8133,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D9%88%D9%87%D9%86%D9%88%D8%B1%D8%AF%DB%8C-%D9%88-%DA%A9%D9%85%D9%BE%DB%8C%D9%86%DA%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:54.731Z"
+    "observedAt": "2026-09-03T13:26:15.693Z"
   },
   {
     "id": "torobshop-sports-travel-884bb302c97bfccc",
@@ -8151,7 +8151,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D9%88%D9%87%D9%86%D9%88%D8%B1%D8%AF%DB%8C-%D9%88-%DA%A9%D9%85%D9%BE%DB%8C%D9%86%DA%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:54.731Z"
+    "observedAt": "2026-09-03T13:26:15.693Z"
   },
   {
     "id": "torobshop-sports-travel-d12cbed32ce8a57a",
@@ -8169,7 +8169,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D9%88%D9%87%D9%86%D9%88%D8%B1%D8%AF%DB%8C-%D9%88-%DA%A9%D9%85%D9%BE%DB%8C%D9%86%DA%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:54.731Z"
+    "observedAt": "2026-09-03T13:26:15.693Z"
   },
   {
     "id": "torobshop-sports-travel-4e67490d705c86be",
@@ -8187,7 +8187,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D9%88%D9%87%D9%86%D9%88%D8%B1%D8%AF%DB%8C-%D9%88-%DA%A9%D9%85%D9%BE%DB%8C%D9%86%DA%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:54.731Z"
+    "observedAt": "2026-09-03T13:26:15.693Z"
   },
   {
     "id": "torobshop-sports-travel-841c9661ff8174ba",
@@ -8205,7 +8205,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D9%88%D9%87%D9%86%D9%88%D8%B1%D8%AF%DB%8C-%D9%88-%DA%A9%D9%85%D9%BE%DB%8C%D9%86%DA%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T11:05:54.731Z"
+    "observedAt": "2026-09-03T13:26:15.693Z"
   },
   {
     "id": "web-sports-travel-10bfecfa891d981c",
@@ -8222,7 +8222,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-03T10:51:09.794Z"
+    "observedAt": "2026-09-03T13:11:38.145Z"
   },
   {
     "id": "web-sports-travel-9356245ebe75164b",
@@ -8239,7 +8239,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-03T10:51:09.794Z"
+    "observedAt": "2026-09-03T13:11:38.145Z"
   },
   {
     "id": "web-sports-travel-63f3178e41f8ba21",
@@ -8256,7 +8256,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-03T10:51:09.794Z"
+    "observedAt": "2026-09-03T13:11:38.145Z"
   },
   {
     "id": "web-sports-travel-1eecbd80f5ab7f03",
@@ -8273,7 +8273,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-03T10:51:09.794Z"
+    "observedAt": "2026-09-03T13:11:38.145Z"
   },
   {
     "id": "web-sports-travel-397a8b5a4aef6864",
@@ -8290,7 +8290,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-03T10:51:09.795Z"
+    "observedAt": "2026-09-03T13:11:38.145Z"
   },
   {
     "id": "web-sports-travel-6aa138a88eb5fc41",
@@ -8307,7 +8307,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-03T10:51:09.795Z"
+    "observedAt": "2026-09-03T13:11:38.145Z"
   },
   {
     "id": "web-sports-travel-c3ca31dab42021aa",
@@ -8324,7 +8324,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-03T10:51:09.795Z"
+    "observedAt": "2026-09-03T13:11:38.145Z"
   },
   {
     "id": "web-sports-travel-d28079a836f6bd58",
@@ -8341,7 +8341,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-03T10:51:09.795Z"
+    "observedAt": "2026-09-03T13:11:38.145Z"
   },
   {
     "id": "web-sports-travel-57ebcd92145529f5",
@@ -8358,7 +8358,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-03T10:51:09.795Z"
+    "observedAt": "2026-09-03T13:11:38.145Z"
   },
   {
     "id": "web-sports-travel-9c76b834c281bd5b",
@@ -8375,7 +8375,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-03T10:51:09.795Z"
+    "observedAt": "2026-09-03T13:11:38.145Z"
   },
   {
     "id": "web-sports-travel-010313e724e3e997",
@@ -8392,7 +8392,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-03T10:51:09.795Z"
+    "observedAt": "2026-09-03T13:11:38.145Z"
   },
   {
     "id": "web-sports-travel-9589776b61338c3b",
@@ -8409,7 +8409,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-03T10:51:09.795Z"
+    "observedAt": "2026-09-03T13:11:38.145Z"
   },
   {
     "id": "web-sports-travel-76cfec8539f3a918",
@@ -8426,7 +8426,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-03T10:51:09.795Z"
+    "observedAt": "2026-09-03T13:11:38.146Z"
   },
   {
     "id": "web-sports-travel-5958f36dec07d9ce",
@@ -8443,7 +8443,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-03T10:51:09.795Z"
+    "observedAt": "2026-09-03T13:11:38.146Z"
   },
   {
     "id": "web-sports-travel-b82b70bb75d57dd9",
@@ -8460,7 +8460,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-03T10:51:09.795Z"
+    "observedAt": "2026-09-03T13:11:38.146Z"
   },
   {
     "id": "web-sports-travel-570b1bf6369d6887",
@@ -8477,7 +8477,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-03T10:51:09.795Z"
+    "observedAt": "2026-09-03T13:11:38.146Z"
   },
   {
     "id": "web-sports-travel-49bf25b41e3cebb1",
@@ -8494,7 +8494,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-03T10:51:09.796Z"
+    "observedAt": "2026-09-03T13:11:38.146Z"
   },
   {
     "id": "web-sports-travel-ad1f430d9ca7b1db",
@@ -8511,7 +8511,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-03T10:51:09.796Z"
+    "observedAt": "2026-09-03T13:11:38.146Z"
   },
   {
     "id": "web-sports-travel-10684287a122dcf4",
@@ -8528,7 +8528,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-03T10:51:09.796Z"
+    "observedAt": "2026-09-03T13:11:38.146Z"
   },
   {
     "id": "web-sports-travel-8eae6e5ec2ce35b7",
@@ -8545,7 +8545,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-03T10:51:09.796Z"
+    "observedAt": "2026-09-03T13:11:38.146Z"
   },
   {
     "id": "web-sports-travel-97cffa853e0ca5ae",
@@ -8562,7 +8562,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-03T10:51:09.796Z"
+    "observedAt": "2026-09-03T13:11:38.146Z"
   },
   {
     "id": "web-sports-travel-acd99e131c0f1b85",
@@ -8579,7 +8579,24 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-03T10:51:09.797Z"
+    "observedAt": "2026-09-03T13:11:38.146Z"
+  },
+  {
+    "id": "web-sports-travel-bc70dfc9a7cb0d54",
+    "productId": "web-sports-travel-bc70dfc9a7cb0d54",
+    "name": "کیف لپ تاپ مدل C-TB1 مناسب برای لپ تاپ 15.6 اینچی",
+    "brand": "دل",
+    "model": "کیف لپ تاپ مدل C-TB1 مناسب برای لپ تاپ 15.6 اینچی",
+    "category": "sports-travel",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-563095/%DA%A9%DB%8C%D9%81-%D9%84%D9%BE-%D8%AA%D8%A7%D9%BE-%D9%85%D8%AF%D9%84-c-tb1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%84%D9%BE-%D8%AA%D8%A7%D9%BE-15.6-%D8%A7%DB%8C%D9%86%DA%86%DB%8C",
+    "image": "",
+    "sourceId": "technolife-sports-travel",
+    "sourceUrl": "https://www.technolife.com/category/sports-travel",
+    "source": "web-catalog:technolife-sports-travel",
+    "observedAt": "2026-09-03T13:11:38.146Z"
   },
   {
     "id": "web-sports-travel-9bc9e6144cc223c9",
@@ -8596,7 +8613,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-03T10:51:09.797Z"
+    "observedAt": "2026-09-03T13:11:38.146Z"
   },
   {
     "id": "web-sports-travel-6815bc94f6ed99d8",
@@ -8613,7 +8630,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-03T10:51:09.797Z"
+    "observedAt": "2026-09-03T13:11:38.146Z"
   },
   {
     "id": "web-sports-travel-cd66fc09da2a7672",
@@ -8630,7 +8647,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-03T10:51:09.797Z"
+    "observedAt": "2026-09-03T13:11:38.146Z"
   },
   {
     "id": "web-sports-travel-8307536693bb0fb9",
@@ -8647,7 +8664,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-03T10:51:09.797Z"
+    "observedAt": "2026-09-03T13:11:38.146Z"
   },
   {
     "id": "web-sports-travel-a61a128a84592156",
@@ -8664,7 +8681,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-03T10:51:09.797Z"
+    "observedAt": "2026-09-03T13:11:38.146Z"
   },
   {
     "id": "web-sports-travel-d40a856e24eefee1",
@@ -8681,7 +8698,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-03T10:51:09.797Z"
+    "observedAt": "2026-09-03T13:11:38.146Z"
   },
   {
     "id": "web-sports-travel-063a32eada370900",
@@ -8698,24 +8715,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-03T10:51:09.797Z"
-  },
-  {
-    "id": "web-sports-travel-85c06676ecfb1f5a",
-    "productId": "web-sports-travel-85c06676ecfb1f5a",
-    "name": "صندلی مسافرتی تاشو مدل WR",
-    "brand": "دل",
-    "model": "صندلی مسافرتی تاشو مدل WR",
-    "category": "sports-travel",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-172217/%D8%B5%D9%86%D8%AF%D9%84%DB%8C-%D9%85%D8%B3%D8%A7%D9%81%D8%B1%D8%AA%DB%8C-%D8%AA%D8%A7%D8%B4%D9%88-%D9%85%D8%AF%D9%84-wr",
-    "image": "",
-    "sourceId": "technolife-sports-travel",
-    "sourceUrl": "https://www.technolife.com/category/sports-travel",
-    "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-03T10:51:09.797Z"
+    "observedAt": "2026-09-03T13:11:38.146Z"
   },
   {
     "id": "web-sports-travel-b3dfedd3b869243b",
@@ -8732,6 +8732,6 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-03T10:51:09.797Z"
+    "observedAt": "2026-09-03T13:11:38.146Z"
   }
 ];

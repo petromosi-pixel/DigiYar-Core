@@ -1,7 +1,7 @@
 {
   "version": "5.1",
   "mode": "subcategory-aware",
-  "generatedAt": "2026-09-03T10:52:41.492Z",
+  "generatedAt": "2026-09-03T13:13:12.092Z",
   "source": "TorobShop public category pages",
   "categories": [
     {
@@ -243,7 +243,7 @@
     {
       "id": "auto",
       "name": "خودرو و موتورسیکلت",
-      "count": 483,
+      "count": 482,
       "subcategoryCounts": {
         "خودرو": 448,
         "لاستیک خودرو": 0,
