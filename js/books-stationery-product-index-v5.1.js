@@ -15,7 +15,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.859Z"
+    "observedAt": "2026-09-03T14:25:41.509Z"
   },
   {
     "id": "torobshop-books-stationery-42afd1ca9ea774d6",
@@ -33,7 +33,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.859Z"
+    "observedAt": "2026-09-03T14:25:41.509Z"
   },
   {
     "id": "torobshop-books-stationery-3930a114dca5ba93",
@@ -51,7 +51,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.859Z"
+    "observedAt": "2026-09-03T14:25:41.509Z"
   },
   {
     "id": "torobshop-books-stationery-aaa22eb952374f54",
@@ -69,7 +69,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.859Z"
+    "observedAt": "2026-09-03T14:25:41.509Z"
   },
   {
     "id": "torobshop-books-stationery-6313ab97d41a2b56",
@@ -87,7 +87,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.859Z"
+    "observedAt": "2026-09-03T14:25:41.509Z"
   },
   {
     "id": "torobshop-books-stationery-f6f4fe1c061400be",
@@ -105,7 +105,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.859Z"
+    "observedAt": "2026-09-03T14:25:41.509Z"
   },
   {
     "id": "torobshop-books-stationery-f84a10872070200f",
@@ -123,7 +123,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.859Z"
+    "observedAt": "2026-09-03T14:25:41.509Z"
   },
   {
     "id": "torobshop-books-stationery-be5c8240bad9b96b",
@@ -141,7 +141,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.859Z"
+    "observedAt": "2026-09-03T14:25:41.509Z"
   },
   {
     "id": "torobshop-books-stationery-6ea4ce76135ec585",
@@ -159,7 +159,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.859Z"
+    "observedAt": "2026-09-03T14:25:41.509Z"
   },
   {
     "id": "torobshop-books-stationery-66ec5ac305e2c66d",
@@ -177,7 +177,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.859Z"
+    "observedAt": "2026-09-03T14:25:41.509Z"
   },
   {
     "id": "torobshop-books-stationery-550a8f87070e67b2",
@@ -195,7 +195,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.859Z"
+    "observedAt": "2026-09-03T14:25:41.509Z"
   },
   {
     "id": "torobshop-books-stationery-82dd733a006aec80",
@@ -213,7 +213,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.859Z"
+    "observedAt": "2026-09-03T14:25:41.509Z"
   },
   {
     "id": "torobshop-books-stationery-b0ab596ed23cc867",
@@ -231,7 +231,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.859Z"
+    "observedAt": "2026-09-03T14:25:41.509Z"
   },
   {
     "id": "torobshop-books-stationery-81b8042dfd25e040",
@@ -249,7 +249,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.859Z"
+    "observedAt": "2026-09-03T14:25:41.509Z"
   },
   {
     "id": "torobshop-books-stationery-971de75d275ec060",
@@ -267,7 +267,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.859Z"
+    "observedAt": "2026-09-03T14:25:41.509Z"
   },
   {
     "id": "torobshop-books-stationery-6984e0fba2f0f5ab",
@@ -285,7 +285,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.859Z"
+    "observedAt": "2026-09-03T14:25:41.509Z"
   },
   {
     "id": "torobshop-books-stationery-043774655c5e9707",
@@ -303,7 +303,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.859Z"
+    "observedAt": "2026-09-03T14:25:41.509Z"
   },
   {
     "id": "torobshop-books-stationery-96e722182c1b89a6",
@@ -321,7 +321,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.859Z"
+    "observedAt": "2026-09-03T14:25:41.509Z"
   },
   {
     "id": "torobshop-books-stationery-d62f3f3a89e25a47",
@@ -339,7 +339,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.859Z"
+    "observedAt": "2026-09-03T14:25:41.509Z"
   },
   {
     "id": "torobshop-books-stationery-c91c69b83e4ddd45",
@@ -357,7 +357,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.859Z"
+    "observedAt": "2026-09-03T14:25:41.509Z"
   },
   {
     "id": "torobshop-books-stationery-6d073e89debc0957",
@@ -375,7 +375,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.859Z"
+    "observedAt": "2026-09-03T14:25:41.509Z"
   },
   {
     "id": "torobshop-books-stationery-2f1de49dbfea70aa",
@@ -393,7 +393,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.859Z"
+    "observedAt": "2026-09-03T14:25:41.509Z"
   },
   {
     "id": "torobshop-books-stationery-688de6c889730421",
@@ -411,7 +411,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.859Z"
+    "observedAt": "2026-09-03T14:25:41.509Z"
   },
   {
     "id": "torobshop-books-stationery-6f75db36753d61cb",
@@ -429,7 +429,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.859Z"
+    "observedAt": "2026-09-03T14:25:41.509Z"
   },
   {
     "id": "torobshop-books-stationery-1d0f8b752067584c",
@@ -447,7 +447,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.859Z"
+    "observedAt": "2026-09-03T14:25:41.509Z"
   },
   {
     "id": "torobshop-books-stationery-9588e88bfa202297",
@@ -465,7 +465,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.859Z"
+    "observedAt": "2026-09-03T14:25:41.509Z"
   },
   {
     "id": "torobshop-books-stationery-564f6efd33ed7c72",
@@ -483,7 +483,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.859Z"
+    "observedAt": "2026-09-03T14:25:41.509Z"
   },
   {
     "id": "torobshop-books-stationery-db51956256cf2a9e",
@@ -501,7 +501,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.859Z"
+    "observedAt": "2026-09-03T14:25:41.509Z"
   },
   {
     "id": "torobshop-books-stationery-6c602e399b74265b",
@@ -519,7 +519,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.859Z"
+    "observedAt": "2026-09-03T14:25:41.509Z"
   },
   {
     "id": "torobshop-books-stationery-69bf454eaf5c015b",
@@ -537,7 +537,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.859Z"
+    "observedAt": "2026-09-03T14:25:41.509Z"
   },
   {
     "id": "torobshop-books-stationery-9b36373adadaf4fd",
@@ -555,7 +555,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.859Z"
+    "observedAt": "2026-09-03T14:25:41.509Z"
   },
   {
     "id": "torobshop-books-stationery-b510ac9c5967ae6e",
@@ -573,7 +573,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.859Z"
+    "observedAt": "2026-09-03T14:25:41.509Z"
   },
   {
     "id": "torobshop-books-stationery-3dbcaccb8662bde1",
@@ -591,7 +591,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.859Z"
+    "observedAt": "2026-09-03T14:25:41.509Z"
   },
   {
     "id": "torobshop-books-stationery-200d11c52e55158d",
@@ -609,7 +609,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.859Z"
+    "observedAt": "2026-09-03T14:25:41.509Z"
   },
   {
     "id": "torobshop-books-stationery-7030913f04cb3a2f",
@@ -627,7 +627,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.860Z"
+    "observedAt": "2026-09-03T14:25:41.509Z"
   },
   {
     "id": "torobshop-books-stationery-c57090577d7bcdd6",
@@ -645,7 +645,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.860Z"
+    "observedAt": "2026-09-03T14:25:41.509Z"
   },
   {
     "id": "torobshop-books-stationery-47c81c869cca25d8",
@@ -663,7 +663,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.860Z"
+    "observedAt": "2026-09-03T14:25:41.509Z"
   },
   {
     "id": "torobshop-books-stationery-f566f758ccfcc717",
@@ -681,7 +681,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.860Z"
+    "observedAt": "2026-09-03T14:25:41.509Z"
   },
   {
     "id": "torobshop-books-stationery-964ece0d8e9f6669",
@@ -699,7 +699,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.860Z"
+    "observedAt": "2026-09-03T14:25:41.509Z"
   },
   {
     "id": "torobshop-books-stationery-4cef33429e237704",
@@ -717,7 +717,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.860Z"
+    "observedAt": "2026-09-03T14:25:41.510Z"
   },
   {
     "id": "torobshop-books-stationery-e4a2bc7cbee474b2",
@@ -735,7 +735,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.860Z"
+    "observedAt": "2026-09-03T14:25:41.510Z"
   },
   {
     "id": "torobshop-books-stationery-3be15395be038aca",
@@ -753,7 +753,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.860Z"
+    "observedAt": "2026-09-03T14:25:41.510Z"
   },
   {
     "id": "torobshop-books-stationery-77f61ec7f8b8b73d",
@@ -771,7 +771,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.860Z"
+    "observedAt": "2026-09-03T14:25:41.510Z"
   },
   {
     "id": "torobshop-books-stationery-a09bc08624899ff4",
@@ -789,7 +789,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.860Z"
+    "observedAt": "2026-09-03T14:25:41.510Z"
   },
   {
     "id": "torobshop-books-stationery-bbd449ed50b3d540",
@@ -807,7 +807,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.860Z"
+    "observedAt": "2026-09-03T14:25:41.510Z"
   },
   {
     "id": "torobshop-books-stationery-50ddbf6ac385797f",
@@ -825,7 +825,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.860Z"
+    "observedAt": "2026-09-03T14:25:41.510Z"
   },
   {
     "id": "torobshop-books-stationery-80a52ed3a08cda77",
@@ -843,7 +843,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.860Z"
+    "observedAt": "2026-09-03T14:25:41.510Z"
   },
   {
     "id": "torobshop-books-stationery-039d5e6addbbd691",
@@ -861,7 +861,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.860Z"
+    "observedAt": "2026-09-03T14:25:41.510Z"
   },
   {
     "id": "torobshop-books-stationery-35ed38f253e56a81",
@@ -879,7 +879,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.860Z"
+    "observedAt": "2026-09-03T14:25:41.510Z"
   },
   {
     "id": "torobshop-books-stationery-81294b2d39671c7a",
@@ -897,7 +897,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.860Z"
+    "observedAt": "2026-09-03T14:25:41.510Z"
   },
   {
     "id": "torobshop-books-stationery-aa508f6b8b35e109",
@@ -915,7 +915,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.860Z"
+    "observedAt": "2026-09-03T14:25:41.510Z"
   },
   {
     "id": "torobshop-books-stationery-6ec47a3d62be5701",
@@ -933,7 +933,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.860Z"
+    "observedAt": "2026-09-03T14:25:41.510Z"
   },
   {
     "id": "torobshop-books-stationery-7b66ea2c8fd4c6a4",
@@ -951,7 +951,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.860Z"
+    "observedAt": "2026-09-03T14:25:41.510Z"
   },
   {
     "id": "torobshop-books-stationery-d49e2d4bb6f40cd4",
@@ -969,7 +969,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.860Z"
+    "observedAt": "2026-09-03T14:25:41.510Z"
   },
   {
     "id": "torobshop-books-stationery-189f8d80d22fa44f",
@@ -987,7 +987,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.860Z"
+    "observedAt": "2026-09-03T14:25:41.510Z"
   },
   {
     "id": "torobshop-books-stationery-5b8fa53f836d0f0c",
@@ -1005,7 +1005,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.860Z"
+    "observedAt": "2026-09-03T14:25:41.510Z"
   },
   {
     "id": "torobshop-books-stationery-547d268a4387e8cb",
@@ -1023,7 +1023,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.860Z"
+    "observedAt": "2026-09-03T14:25:41.510Z"
   },
   {
     "id": "torobshop-books-stationery-4192b4da9c3a842b",
@@ -1041,7 +1041,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.860Z"
+    "observedAt": "2026-09-03T14:25:41.510Z"
   },
   {
     "id": "torobshop-books-stationery-d81ab9c86f172992",
@@ -1059,7 +1059,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.860Z"
+    "observedAt": "2026-09-03T14:25:41.510Z"
   },
   {
     "id": "torobshop-books-stationery-c2621badab7154db",
@@ -1077,7 +1077,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.860Z"
+    "observedAt": "2026-09-03T14:25:41.510Z"
   },
   {
     "id": "torobshop-books-stationery-e61e8163e0053f8c",
@@ -1095,7 +1095,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.860Z"
+    "observedAt": "2026-09-03T14:25:41.510Z"
   },
   {
     "id": "torobshop-books-stationery-0a6f99bfb7c72378",
@@ -1113,7 +1113,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.860Z"
+    "observedAt": "2026-09-03T14:25:41.510Z"
   },
   {
     "id": "torobshop-books-stationery-17b433396f0dd8b8",
@@ -1131,7 +1131,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.860Z"
+    "observedAt": "2026-09-03T14:25:41.510Z"
   },
   {
     "id": "torobshop-books-stationery-70f796097c7bfa77",
@@ -1149,7 +1149,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.860Z"
+    "observedAt": "2026-09-03T14:25:41.510Z"
   },
   {
     "id": "torobshop-books-stationery-792d9fda0d1edf60",
@@ -1167,7 +1167,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.860Z"
+    "observedAt": "2026-09-03T14:25:41.510Z"
   },
   {
     "id": "torobshop-books-stationery-0540c2016311432d",
@@ -1185,7 +1185,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.860Z"
+    "observedAt": "2026-09-03T14:25:41.510Z"
   },
   {
     "id": "torobshop-books-stationery-ea7e49d4888f5500",
@@ -1203,7 +1203,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.860Z"
+    "observedAt": "2026-09-03T14:25:41.510Z"
   },
   {
     "id": "torobshop-books-stationery-a7031b2d2c098e3a",
@@ -1221,7 +1221,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.860Z"
+    "observedAt": "2026-09-03T14:25:41.510Z"
   },
   {
     "id": "torobshop-books-stationery-b280052ba623afe6",
@@ -1239,7 +1239,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.860Z"
+    "observedAt": "2026-09-03T14:25:41.510Z"
   },
   {
     "id": "torobshop-books-stationery-f65d7089e1b75967",
@@ -1257,7 +1257,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.860Z"
+    "observedAt": "2026-09-03T14:25:41.510Z"
   },
   {
     "id": "torobshop-books-stationery-682b567d27e46eb9",
@@ -1275,7 +1275,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.860Z"
+    "observedAt": "2026-09-03T14:25:41.510Z"
   },
   {
     "id": "torobshop-books-stationery-1a199d11167496a7",
@@ -1293,7 +1293,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.860Z"
+    "observedAt": "2026-09-03T14:25:41.510Z"
   },
   {
     "id": "torobshop-books-stationery-e7562a4a47affbdf",
@@ -1311,7 +1311,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.860Z"
+    "observedAt": "2026-09-03T14:25:41.510Z"
   },
   {
     "id": "torobshop-books-stationery-5681fc33ebc4a2c4",
@@ -1329,7 +1329,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.860Z"
+    "observedAt": "2026-09-03T14:25:41.510Z"
   },
   {
     "id": "torobshop-books-stationery-eb3156af454255af",
@@ -1347,7 +1347,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.860Z"
+    "observedAt": "2026-09-03T14:25:41.510Z"
   },
   {
     "id": "torobshop-books-stationery-3f60763e8c1f61db",
@@ -1365,7 +1365,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.860Z"
+    "observedAt": "2026-09-03T14:25:41.510Z"
   },
   {
     "id": "torobshop-books-stationery-8b667a7c5d48a018",
@@ -1383,7 +1383,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.860Z"
+    "observedAt": "2026-09-03T14:25:41.510Z"
   },
   {
     "id": "torobshop-books-stationery-c28d9ee4867587e0",
@@ -1401,7 +1401,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.860Z"
+    "observedAt": "2026-09-03T14:25:41.510Z"
   },
   {
     "id": "torobshop-books-stationery-135cb4370d26107e",
@@ -1419,7 +1419,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.860Z"
+    "observedAt": "2026-09-03T14:25:41.510Z"
   },
   {
     "id": "torobshop-books-stationery-ea6561f27fcae338",
@@ -1437,7 +1437,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.860Z"
+    "observedAt": "2026-09-03T14:25:41.510Z"
   },
   {
     "id": "torobshop-books-stationery-9da6cf5207d19dc6",
@@ -1455,7 +1455,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.860Z"
+    "observedAt": "2026-09-03T14:25:41.510Z"
   },
   {
     "id": "torobshop-books-stationery-973da9b66d30f98f",
@@ -1473,7 +1473,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.860Z"
+    "observedAt": "2026-09-03T14:25:41.510Z"
   },
   {
     "id": "torobshop-books-stationery-27a7ab064979e19e",
@@ -1491,7 +1491,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.860Z"
+    "observedAt": "2026-09-03T14:25:41.510Z"
   },
   {
     "id": "torobshop-books-stationery-426ac503c83523da",
@@ -1509,7 +1509,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.860Z"
+    "observedAt": "2026-09-03T14:25:41.510Z"
   },
   {
     "id": "torobshop-books-stationery-93f0314c16b9cade",
@@ -1527,7 +1527,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.860Z"
+    "observedAt": "2026-09-03T14:25:41.510Z"
   },
   {
     "id": "torobshop-books-stationery-e546c7ee2f25cccb",
@@ -1545,7 +1545,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.860Z"
+    "observedAt": "2026-09-03T14:25:41.510Z"
   },
   {
     "id": "torobshop-books-stationery-06e9af83157d59bf",
@@ -1563,7 +1563,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.860Z"
+    "observedAt": "2026-09-03T14:25:41.510Z"
   },
   {
     "id": "torobshop-books-stationery-7dd02e17fa5ae720",
@@ -1581,7 +1581,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.860Z"
+    "observedAt": "2026-09-03T14:25:41.510Z"
   },
   {
     "id": "torobshop-books-stationery-67b089d5840c00b5",
@@ -1599,7 +1599,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.860Z"
+    "observedAt": "2026-09-03T14:25:41.510Z"
   },
   {
     "id": "torobshop-books-stationery-16617f0cd6242c17",
@@ -1617,7 +1617,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.860Z"
+    "observedAt": "2026-09-03T14:25:41.510Z"
   },
   {
     "id": "torobshop-books-stationery-aab6f7ca65634b77",
@@ -1635,7 +1635,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.860Z"
+    "observedAt": "2026-09-03T14:25:41.510Z"
   },
   {
     "id": "torobshop-books-stationery-230290bd87eab562",
@@ -1653,7 +1653,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.860Z"
+    "observedAt": "2026-09-03T14:25:41.510Z"
   },
   {
     "id": "torobshop-books-stationery-697a2934ffba6321",
@@ -1671,7 +1671,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.860Z"
+    "observedAt": "2026-09-03T14:25:41.510Z"
   },
   {
     "id": "torobshop-books-stationery-54f5e9ae596669e0",
@@ -1689,7 +1689,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.860Z"
+    "observedAt": "2026-09-03T14:25:41.510Z"
   },
   {
     "id": "torobshop-books-stationery-12112ebd794aebfe",
@@ -1707,7 +1707,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.861Z"
+    "observedAt": "2026-09-03T14:25:41.510Z"
   },
   {
     "id": "torobshop-books-stationery-936307be3dbff4d8",
@@ -1725,7 +1725,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.861Z"
+    "observedAt": "2026-09-03T14:25:41.510Z"
   },
   {
     "id": "torobshop-books-stationery-6e9b5969bf806a83",
@@ -1743,7 +1743,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.861Z"
+    "observedAt": "2026-09-03T14:25:41.510Z"
   },
   {
     "id": "torobshop-books-stationery-e8fbb91576830b01",
@@ -1761,7 +1761,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.861Z"
+    "observedAt": "2026-09-03T14:25:41.511Z"
   },
   {
     "id": "torobshop-books-stationery-46604b56d19bc98e",
@@ -1779,7 +1779,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.861Z"
+    "observedAt": "2026-09-03T14:25:41.511Z"
   },
   {
     "id": "torobshop-books-stationery-c0da7c6caaaabe22",
@@ -1797,7 +1797,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.861Z"
+    "observedAt": "2026-09-03T14:25:41.511Z"
   },
   {
     "id": "torobshop-books-stationery-b0d9a8bce5b96da9",
@@ -1815,7 +1815,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.861Z"
+    "observedAt": "2026-09-03T14:25:41.511Z"
   },
   {
     "id": "torobshop-books-stationery-5aade8dcb399df70",
@@ -1833,7 +1833,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.861Z"
+    "observedAt": "2026-09-03T14:25:41.511Z"
   },
   {
     "id": "torobshop-books-stationery-5793143473c0cf7d",
@@ -1851,7 +1851,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.861Z"
+    "observedAt": "2026-09-03T14:25:41.511Z"
   },
   {
     "id": "torobshop-books-stationery-338927d0838a0440",
@@ -1869,7 +1869,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.861Z"
+    "observedAt": "2026-09-03T14:25:41.511Z"
   },
   {
     "id": "torobshop-books-stationery-01db327156bef7cb",
@@ -1887,7 +1887,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.861Z"
+    "observedAt": "2026-09-03T14:25:41.511Z"
   },
   {
     "id": "torobshop-books-stationery-5f8b7d12315d211b",
@@ -1905,7 +1905,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.861Z"
+    "observedAt": "2026-09-03T14:25:41.511Z"
   },
   {
     "id": "torobshop-books-stationery-bbcc82316e14ad0c",
@@ -1923,7 +1923,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.861Z"
+    "observedAt": "2026-09-03T14:25:41.511Z"
   },
   {
     "id": "torobshop-books-stationery-7bcf4d86c8897e89",
@@ -1941,7 +1941,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.861Z"
+    "observedAt": "2026-09-03T14:25:41.511Z"
   },
   {
     "id": "torobshop-books-stationery-c4764ab021d7047d",
@@ -1959,7 +1959,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.861Z"
+    "observedAt": "2026-09-03T14:25:41.511Z"
   },
   {
     "id": "torobshop-books-stationery-c0ed70988a23d716",
@@ -1977,7 +1977,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.861Z"
+    "observedAt": "2026-09-03T14:25:41.511Z"
   },
   {
     "id": "torobshop-books-stationery-60d6e587231ae5e2",
@@ -1995,7 +1995,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.861Z"
+    "observedAt": "2026-09-03T14:25:41.511Z"
   },
   {
     "id": "torobshop-books-stationery-6ae0fa5e11f4b4e4",
@@ -2013,25 +2013,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.861Z"
-  },
-  {
-    "id": "torobshop-books-stationery-60af1d85416ddb75",
-    "productId": "torobshop-60af1d85416ddb75",
-    "name": "مایکروویو گریل اسمگ ایتالیا مدل Smeg MOC01BLMEU رنگ مشکی با ظرفیت 29 لیتر و فناوری Inverter",
-    "brand": "",
-    "model": "مایکروویو گریل اسمگ ایتالیا مدل Smeg MOC01BLMEU رنگ مشکی با ظرفیت 29 لیتر و فناوری Inverter",
-    "category": "books-stationery",
-    "subcategory": "کتاب",
-    "price": 120996000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%DB%8C%DA%A9%D8%B1%D9%88%D9%88%DB%8C%D9%88-%DA%AF%D8%B1%DB%8C%D9%84-%D8%A7%D8%B3%D9%85%DA%AF-%D8%A7%DB%8C%D8%AA%D8%A7%D9%84%DB%8C%D8%A7-%D9%85%D8%AF%D9%84-Smeg-MOC01BLMEU-%D8%B1%D9%86%DA%AF-%D9%85%D8%B4%DA%A9%DB%8C-%D8%A8%D8%A7-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-29-%D9%84%DB%8C%D8%AA%D8%B1-%D9%88-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-Inverter",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.861Z"
+    "observedAt": "2026-09-03T14:25:41.511Z"
   },
   {
     "id": "torobshop-books-stationery-4bcca73578b5dd16",
@@ -2049,7 +2031,25 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.861Z"
+    "observedAt": "2026-09-03T14:25:41.511Z"
+  },
+  {
+    "id": "torobshop-books-stationery-60af1d85416ddb75",
+    "productId": "torobshop-60af1d85416ddb75",
+    "name": "مایکروویو گریل اسمگ ایتالیا مدل Smeg MOC01BLMEU رنگ مشکی با ظرفیت 29 لیتر و فناوری Inverter",
+    "brand": "",
+    "model": "مایکروویو گریل اسمگ ایتالیا مدل Smeg MOC01BLMEU رنگ مشکی با ظرفیت 29 لیتر و فناوری Inverter",
+    "category": "books-stationery",
+    "subcategory": "کتاب",
+    "price": 120996000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%DB%8C%DA%A9%D8%B1%D9%88%D9%88%DB%8C%D9%88-%DA%AF%D8%B1%DB%8C%D9%84-%D8%A7%D8%B3%D9%85%DA%AF-%D8%A7%DB%8C%D8%AA%D8%A7%D9%84%DB%8C%D8%A7-%D9%85%D8%AF%D9%84-Smeg-MOC01BLMEU-%D8%B1%D9%86%DA%AF-%D9%85%D8%B4%DA%A9%DB%8C-%D8%A8%D8%A7-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-29-%D9%84%DB%8C%D8%AA%D8%B1-%D9%88-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-Inverter",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T14:25:41.511Z"
   },
   {
     "id": "torobshop-books-stationery-6e06ceda384f61d3",
@@ -2067,7 +2067,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.861Z"
+    "observedAt": "2026-09-03T14:25:41.511Z"
   },
   {
     "id": "torobshop-books-stationery-d6020856dbe3939e",
@@ -2085,7 +2085,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.861Z"
+    "observedAt": "2026-09-03T14:25:41.511Z"
   },
   {
     "id": "torobshop-books-stationery-f9bbe058bc1d2128",
@@ -2103,7 +2103,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.861Z"
+    "observedAt": "2026-09-03T14:25:41.511Z"
   },
   {
     "id": "torobshop-books-stationery-5d82b44892bc11b9",
@@ -2121,7 +2121,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.861Z"
+    "observedAt": "2026-09-03T14:25:41.511Z"
   },
   {
     "id": "torobshop-books-stationery-55066b4800c9da01",
@@ -2139,7 +2139,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.861Z"
+    "observedAt": "2026-09-03T14:25:41.511Z"
   },
   {
     "id": "torobshop-books-stationery-e314f2beea5b98b5",
@@ -2157,7 +2157,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.861Z"
+    "observedAt": "2026-09-03T14:25:41.511Z"
   },
   {
     "id": "torobshop-books-stationery-e0190c6b09b72f84",
@@ -2175,7 +2175,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.861Z"
+    "observedAt": "2026-09-03T14:25:41.511Z"
   },
   {
     "id": "torobshop-books-stationery-f9b72003ee046406",
@@ -2193,7 +2193,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.861Z"
+    "observedAt": "2026-09-03T14:25:41.511Z"
   },
   {
     "id": "torobshop-books-stationery-dab9eb8721316f5c",
@@ -2211,7 +2211,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.861Z"
+    "observedAt": "2026-09-03T14:25:41.511Z"
   },
   {
     "id": "torobshop-books-stationery-b5bb3ef74c64016f",
@@ -2229,7 +2229,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.861Z"
+    "observedAt": "2026-09-03T14:25:41.511Z"
   },
   {
     "id": "torobshop-books-stationery-7039563646d2a08c",
@@ -2247,7 +2247,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.861Z"
+    "observedAt": "2026-09-03T14:25:41.511Z"
   },
   {
     "id": "torobshop-books-stationery-13383e2908795ceb",
@@ -2265,7 +2265,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.861Z"
+    "observedAt": "2026-09-03T14:25:41.511Z"
   },
   {
     "id": "torobshop-books-stationery-e05ea902bac411c1",
@@ -2283,7 +2283,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.861Z"
+    "observedAt": "2026-09-03T14:25:41.511Z"
   },
   {
     "id": "torobshop-books-stationery-d17a16a92c427af7",
@@ -2301,7 +2301,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.861Z"
+    "observedAt": "2026-09-03T14:25:41.511Z"
   },
   {
     "id": "torobshop-books-stationery-222c5f1f48a7811a",
@@ -2319,7 +2319,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.861Z"
+    "observedAt": "2026-09-03T14:25:41.511Z"
   },
   {
     "id": "torobshop-books-stationery-9f8dba1c4be0543f",
@@ -2337,7 +2337,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.861Z"
+    "observedAt": "2026-09-03T14:25:41.511Z"
   },
   {
     "id": "torobshop-books-stationery-7dda1ee3ebe3337d",
@@ -2355,7 +2355,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.861Z"
+    "observedAt": "2026-09-03T14:25:41.511Z"
   },
   {
     "id": "torobshop-books-stationery-fed9304ce636fd70",
@@ -2373,7 +2373,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.861Z"
+    "observedAt": "2026-09-03T14:25:41.511Z"
   },
   {
     "id": "torobshop-books-stationery-73f54a12bc87541c",
@@ -2391,7 +2391,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.861Z"
+    "observedAt": "2026-09-03T14:25:41.511Z"
   },
   {
     "id": "torobshop-books-stationery-56d2262c04bf40b1",
@@ -2409,7 +2409,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.861Z"
+    "observedAt": "2026-09-03T14:25:41.511Z"
   },
   {
     "id": "torobshop-books-stationery-1d09296a1209f7ae",
@@ -2427,7 +2427,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.861Z"
+    "observedAt": "2026-09-03T14:25:41.511Z"
   },
   {
     "id": "torobshop-books-stationery-d5861c5eae980acb",
@@ -2445,7 +2445,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.861Z"
+    "observedAt": "2026-09-03T14:25:41.511Z"
   },
   {
     "id": "torobshop-books-stationery-3a354858143bf5bf",
@@ -2463,7 +2463,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.861Z"
+    "observedAt": "2026-09-03T14:25:41.511Z"
   },
   {
     "id": "torobshop-books-stationery-3b108c60419c6b3e",
@@ -2481,7 +2481,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.861Z"
+    "observedAt": "2026-09-03T14:25:41.511Z"
   },
   {
     "id": "torobshop-books-stationery-386045fed7109b6c",
@@ -2499,7 +2499,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.861Z"
+    "observedAt": "2026-09-03T14:25:41.511Z"
   },
   {
     "id": "torobshop-books-stationery-3d432c8dbd69eefb",
@@ -2517,7 +2517,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.861Z"
+    "observedAt": "2026-09-03T14:25:41.511Z"
   },
   {
     "id": "torobshop-books-stationery-2278a7dbec8ed7cd",
@@ -2535,7 +2535,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.861Z"
+    "observedAt": "2026-09-03T14:25:41.511Z"
   },
   {
     "id": "torobshop-books-stationery-66634e26dfb49c04",
@@ -2553,7 +2553,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.861Z"
+    "observedAt": "2026-09-03T14:25:41.511Z"
   },
   {
     "id": "torobshop-books-stationery-bab25203513b93bb",
@@ -2571,7 +2571,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.861Z"
+    "observedAt": "2026-09-03T14:25:41.511Z"
   },
   {
     "id": "torobshop-books-stationery-bcf3455eedcf96e7",
@@ -2589,7 +2589,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.861Z"
+    "observedAt": "2026-09-03T14:25:41.511Z"
   },
   {
     "id": "torobshop-books-stationery-3dd1b99a47f6c6d1",
@@ -2607,7 +2607,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.861Z"
+    "observedAt": "2026-09-03T14:25:41.511Z"
   },
   {
     "id": "torobshop-books-stationery-fbd5e1832a592f6d",
@@ -2625,7 +2625,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.861Z"
+    "observedAt": "2026-09-03T14:25:41.511Z"
   },
   {
     "id": "torobshop-books-stationery-40f557a46b915c21",
@@ -2643,7 +2643,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.861Z"
+    "observedAt": "2026-09-03T14:25:41.511Z"
   },
   {
     "id": "torobshop-books-stationery-9c9a87a898bad342",
@@ -2661,7 +2661,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.861Z"
+    "observedAt": "2026-09-03T14:25:41.511Z"
   },
   {
     "id": "torobshop-books-stationery-685fccacbb18ee43",
@@ -2679,7 +2679,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.861Z"
+    "observedAt": "2026-09-03T14:25:41.511Z"
   },
   {
     "id": "torobshop-books-stationery-1cb6df1aed563bee",
@@ -2697,7 +2697,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.861Z"
+    "observedAt": "2026-09-03T14:25:41.511Z"
   },
   {
     "id": "torobshop-books-stationery-993ee35f4a561a10",
@@ -2715,7 +2715,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.861Z"
+    "observedAt": "2026-09-03T14:25:41.511Z"
   },
   {
     "id": "torobshop-books-stationery-37fd983abaa93a3b",
@@ -2733,7 +2733,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.861Z"
+    "observedAt": "2026-09-03T14:25:41.511Z"
   },
   {
     "id": "torobshop-books-stationery-deb4652ab7b20c96",
@@ -2751,7 +2751,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.861Z"
+    "observedAt": "2026-09-03T14:25:41.511Z"
   },
   {
     "id": "torobshop-books-stationery-cc5a74ea332cb871",
@@ -2769,7 +2769,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.861Z"
+    "observedAt": "2026-09-03T14:25:41.511Z"
   },
   {
     "id": "torobshop-books-stationery-f5c373b20c89f3cf",
@@ -2787,7 +2787,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.861Z"
+    "observedAt": "2026-09-03T14:25:41.511Z"
   },
   {
     "id": "torobshop-books-stationery-557954e4838db8ec",
@@ -2805,7 +2805,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.861Z"
+    "observedAt": "2026-09-03T14:25:41.511Z"
   },
   {
     "id": "torobshop-books-stationery-ac5e0f9a687acc9d",
@@ -2823,7 +2823,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.861Z"
+    "observedAt": "2026-09-03T14:25:41.511Z"
   },
   {
     "id": "torobshop-books-stationery-5e97e30e4af5e35a",
@@ -2841,7 +2841,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.861Z"
+    "observedAt": "2026-09-03T14:25:41.511Z"
   },
   {
     "id": "torobshop-books-stationery-ca40f9691c169854",
@@ -2859,7 +2859,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.861Z"
+    "observedAt": "2026-09-03T14:25:41.511Z"
   },
   {
     "id": "torobshop-books-stationery-174296fd490ce4c6",
@@ -2877,7 +2877,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.861Z"
+    "observedAt": "2026-09-03T14:25:41.511Z"
   },
   {
     "id": "torobshop-books-stationery-24ee5f250564a2b6",
@@ -2895,7 +2895,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.861Z"
+    "observedAt": "2026-09-03T14:25:41.511Z"
   },
   {
     "id": "torobshop-books-stationery-eb2d1bdae18ab641",
@@ -2913,7 +2913,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.862Z"
+    "observedAt": "2026-09-03T14:25:41.512Z"
   },
   {
     "id": "torobshop-books-stationery-9526bc50db1d2b71",
@@ -2931,7 +2931,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.862Z"
+    "observedAt": "2026-09-03T14:25:41.512Z"
   },
   {
     "id": "torobshop-books-stationery-17aea0c096f3fbb1",
@@ -2949,7 +2949,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.862Z"
+    "observedAt": "2026-09-03T14:25:41.512Z"
   },
   {
     "id": "torobshop-books-stationery-dab36535df580dd9",
@@ -2967,7 +2967,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.862Z"
+    "observedAt": "2026-09-03T14:25:41.512Z"
   },
   {
     "id": "torobshop-books-stationery-bb07ff83203ce817",
@@ -2985,7 +2985,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.862Z"
+    "observedAt": "2026-09-03T14:25:41.512Z"
   },
   {
     "id": "torobshop-books-stationery-23a08ed4a54c1bf3",
@@ -3003,7 +3003,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.862Z"
+    "observedAt": "2026-09-03T14:25:41.512Z"
   },
   {
     "id": "torobshop-books-stationery-86394f5b0d453ade",
@@ -3021,7 +3021,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.862Z"
+    "observedAt": "2026-09-03T14:25:41.512Z"
   },
   {
     "id": "torobshop-books-stationery-bf0ff9604c787d7f",
@@ -3039,7 +3039,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.862Z"
+    "observedAt": "2026-09-03T14:25:41.512Z"
   },
   {
     "id": "torobshop-books-stationery-add12b5339d41d54",
@@ -3057,7 +3057,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.862Z"
+    "observedAt": "2026-09-03T14:25:41.512Z"
   },
   {
     "id": "torobshop-books-stationery-e89541bdd38935d2",
@@ -3075,7 +3075,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.862Z"
+    "observedAt": "2026-09-03T14:25:41.512Z"
   },
   {
     "id": "torobshop-books-stationery-ec7446a90d887300",
@@ -3093,7 +3093,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.862Z"
+    "observedAt": "2026-09-03T14:25:41.512Z"
   },
   {
     "id": "torobshop-books-stationery-f676e23d1f151190",
@@ -3111,7 +3111,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.862Z"
+    "observedAt": "2026-09-03T14:25:41.512Z"
   },
   {
     "id": "torobshop-books-stationery-ffccfb4b61d564f3",
@@ -3129,7 +3129,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.862Z"
+    "observedAt": "2026-09-03T14:25:41.512Z"
   },
   {
     "id": "torobshop-books-stationery-bf9b6308d5e6e4a3",
@@ -3147,7 +3147,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.862Z"
+    "observedAt": "2026-09-03T14:25:41.512Z"
   },
   {
     "id": "torobshop-books-stationery-a936b9d4fccda9ec",
@@ -3165,7 +3165,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.862Z"
+    "observedAt": "2026-09-03T14:25:41.512Z"
   },
   {
     "id": "torobshop-books-stationery-20506e6b258fcb0c",
@@ -3183,7 +3183,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.862Z"
+    "observedAt": "2026-09-03T14:25:41.512Z"
   },
   {
     "id": "torobshop-books-stationery-3debd7458ec254ad",
@@ -3201,7 +3201,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.862Z"
+    "observedAt": "2026-09-03T14:25:41.512Z"
   },
   {
     "id": "torobshop-books-stationery-ec9957a5ab556a59",
@@ -3219,7 +3219,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.862Z"
+    "observedAt": "2026-09-03T14:25:41.512Z"
   },
   {
     "id": "torobshop-books-stationery-9f1357a1a5ec15c3",
@@ -3237,7 +3237,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.862Z"
+    "observedAt": "2026-09-03T14:25:41.512Z"
   },
   {
     "id": "torobshop-books-stationery-b93b2b7b8a52ead7",
@@ -3255,7 +3255,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.862Z"
+    "observedAt": "2026-09-03T14:25:41.512Z"
   },
   {
     "id": "torobshop-books-stationery-bc5ad78acdc13550",
@@ -3273,7 +3273,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.862Z"
+    "observedAt": "2026-09-03T14:25:41.512Z"
   },
   {
     "id": "torobshop-books-stationery-469010b14dce1518",
@@ -3291,7 +3291,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.862Z"
+    "observedAt": "2026-09-03T14:25:41.512Z"
   },
   {
     "id": "torobshop-books-stationery-d622f60b84a25c29",
@@ -3309,7 +3309,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.862Z"
+    "observedAt": "2026-09-03T14:25:41.512Z"
   },
   {
     "id": "torobshop-books-stationery-8ad1b620c2984c64",
@@ -3327,7 +3327,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.862Z"
+    "observedAt": "2026-09-03T14:25:41.512Z"
   },
   {
     "id": "torobshop-books-stationery-7362b68fe582e1ef",
@@ -3345,7 +3345,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.862Z"
+    "observedAt": "2026-09-03T14:25:41.512Z"
   },
   {
     "id": "torobshop-books-stationery-8b4d268dc0b50dc9",
@@ -3363,7 +3363,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.862Z"
+    "observedAt": "2026-09-03T14:25:41.512Z"
   },
   {
     "id": "torobshop-books-stationery-8cd92a01eb7c25f2",
@@ -3381,7 +3381,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.862Z"
+    "observedAt": "2026-09-03T14:25:41.512Z"
   },
   {
     "id": "torobshop-books-stationery-2aa12aa20262b96c",
@@ -3399,7 +3399,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.862Z"
+    "observedAt": "2026-09-03T14:25:41.512Z"
   },
   {
     "id": "torobshop-books-stationery-712138d0bed8d76a",
@@ -3417,7 +3417,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.862Z"
+    "observedAt": "2026-09-03T14:25:41.512Z"
   },
   {
     "id": "torobshop-books-stationery-10055e541e3441a4",
@@ -3435,7 +3435,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.862Z"
+    "observedAt": "2026-09-03T14:25:41.512Z"
   },
   {
     "id": "torobshop-books-stationery-2961f6c161810850",
@@ -3453,7 +3453,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.862Z"
+    "observedAt": "2026-09-03T14:25:41.512Z"
   },
   {
     "id": "torobshop-books-stationery-f6139cf71fa544af",
@@ -3471,7 +3471,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.862Z"
+    "observedAt": "2026-09-03T14:25:41.512Z"
   },
   {
     "id": "torobshop-books-stationery-a0357d058917fff7",
@@ -3489,7 +3489,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.862Z"
+    "observedAt": "2026-09-03T14:25:41.512Z"
   },
   {
     "id": "torobshop-books-stationery-667b222bc82da779",
@@ -3507,7 +3507,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.862Z"
+    "observedAt": "2026-09-03T14:25:41.512Z"
   },
   {
     "id": "torobshop-books-stationery-b59055b4a9ca5ed0",
@@ -3525,7 +3525,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.862Z"
+    "observedAt": "2026-09-03T14:25:41.512Z"
   },
   {
     "id": "torobshop-books-stationery-5219a65546b1a882",
@@ -3543,7 +3543,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.862Z"
+    "observedAt": "2026-09-03T14:25:41.512Z"
   },
   {
     "id": "torobshop-books-stationery-2e4aeaf94d879ff9",
@@ -3561,7 +3561,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.862Z"
+    "observedAt": "2026-09-03T14:25:41.512Z"
   },
   {
     "id": "torobshop-books-stationery-f241bfdbdc958cdb",
@@ -3579,7 +3579,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.862Z"
+    "observedAt": "2026-09-03T14:25:41.512Z"
   },
   {
     "id": "torobshop-books-stationery-2734ee381987f71a",
@@ -3597,7 +3597,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.862Z"
+    "observedAt": "2026-09-03T14:25:41.512Z"
   },
   {
     "id": "torobshop-books-stationery-13177f1a3461cbf8",
@@ -3615,7 +3615,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.862Z"
+    "observedAt": "2026-09-03T14:25:41.512Z"
   },
   {
     "id": "torobshop-books-stationery-caf67fb53869dc8d",
@@ -3633,43 +3633,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.862Z"
-  },
-  {
-    "id": "torobshop-books-stationery-226a6dfcab93ffe2",
-    "productId": "torobshop-226a6dfcab93ffe2",
-    "name": "مانیتور لمسی ۱۷ اینچ فیلیپس هلند Philips 172B1TFL/00 با قابلیت لمس ۱۰ نقطه‌ای بدون پایه نگهدارنده",
-    "brand": "",
-    "model": "مانیتور لمسی ۱۷ اینچ فیلیپس هلند Philips 172B1TFL/00 با قابلیت لمس ۱۰ نقطه‌ای بدون پایه نگهدارنده",
-    "category": "books-stationery",
-    "subcategory": "کتاب",
-    "price": 106214000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%84%D9%85%D8%B3%DB%8C-%DB%B1%DB%B7-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%DB%B1%DB%B0-%D9%86%D9%82%D8%B7%D9%87-%D8%A7%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%D9%BE%D8%A7%DB%8C%D9%87",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.862Z"
-  },
-  {
-    "id": "torobshop-books-stationery-d1db9fdb0a981eb7",
-    "productId": "torobshop-d1db9fdb0a981eb7",
-    "name": "مانیتور فیلیپس ۲۷E1N1800AE – مانیتور ۲۷ اینچی Ultra HD، بلندگوها، قابلیت تنظیم ارتفاع، HDR10 (3840x2160، ۶۰ هرتز، HDMI 2.0، DisplayPort 1.4) مشکی",
-    "brand": "",
-    "model": "مانیتور فیلیپس ۲۷E1N1800AE – مانیتور ۲۷ اینچی Ultra HD، بلندگوها، قابلیت تنظیم ارتفاع، HDR10 (3840x2160، ۶۰ هرتز، HDMI 2.0، DisplayPort 1.4) مشکی",
-    "category": "books-stationery",
-    "subcategory": "کتاب",
-    "price": 60729000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%DB%B2%DB%B7E1N1800AE-%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%DB%B2%DB%B7-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-Ultra-HD-%D8%A8%D9%84%D9%86%D8%AF%DA%AF%D9%88%D9%87%D8%A7-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-HDR10-3840x2160-%DB%B6%DB%B0-%D9%87%D8%B1%D8%AA%D8%B2-HDMI-2-0-DisplayPort-1-4-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.862Z"
+    "observedAt": "2026-09-03T14:25:41.512Z"
   },
   {
     "id": "torobshop-books-stationery-231a8680a663a06f",
@@ -3687,7 +3651,43 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.862Z"
+    "observedAt": "2026-09-03T14:25:41.512Z"
+  },
+  {
+    "id": "torobshop-books-stationery-226a6dfcab93ffe2",
+    "productId": "torobshop-226a6dfcab93ffe2",
+    "name": "مانیتور لمسی ۱۷ اینچ فیلیپس هلند Philips 172B1TFL/00 با قابلیت لمس ۱۰ نقطه‌ای بدون پایه نگهدارنده",
+    "brand": "",
+    "model": "مانیتور لمسی ۱۷ اینچ فیلیپس هلند Philips 172B1TFL/00 با قابلیت لمس ۱۰ نقطه‌ای بدون پایه نگهدارنده",
+    "category": "books-stationery",
+    "subcategory": "کتاب",
+    "price": 106214000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%84%D9%85%D8%B3%DB%8C-%DB%B1%DB%B7-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%DB%B1%DB%B0-%D9%86%D9%82%D8%B7%D9%87-%D8%A7%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%D9%BE%D8%A7%DB%8C%D9%87",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T14:25:41.512Z"
+  },
+  {
+    "id": "torobshop-books-stationery-d1db9fdb0a981eb7",
+    "productId": "torobshop-d1db9fdb0a981eb7",
+    "name": "مانیتور فیلیپس ۲۷E1N1800AE – مانیتور ۲۷ اینچی Ultra HD، بلندگوها، قابلیت تنظیم ارتفاع، HDR10 (3840x2160، ۶۰ هرتز، HDMI 2.0، DisplayPort 1.4) مشکی",
+    "brand": "",
+    "model": "مانیتور فیلیپس ۲۷E1N1800AE – مانیتور ۲۷ اینچی Ultra HD، بلندگوها، قابلیت تنظیم ارتفاع، HDR10 (3840x2160، ۶۰ هرتز، HDMI 2.0، DisplayPort 1.4) مشکی",
+    "category": "books-stationery",
+    "subcategory": "کتاب",
+    "price": 60729000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%DB%B2%DB%B7E1N1800AE-%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%DB%B2%DB%B7-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-Ultra-HD-%D8%A8%D9%84%D9%86%D8%AF%DA%AF%D9%88%D9%87%D8%A7-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-HDR10-3840x2160-%DB%B6%DB%B0-%D9%87%D8%B1%D8%AA%D8%B2-HDMI-2-0-DisplayPort-1-4-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T14:25:41.512Z"
   },
   {
     "id": "torobshop-books-stationery-1b01f5a6fb5eb1c5",
@@ -3705,7 +3705,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.862Z"
+    "observedAt": "2026-09-03T14:25:41.512Z"
   },
   {
     "id": "torobshop-books-stationery-42a978739edad1b3",
@@ -3723,7 +3723,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.862Z"
+    "observedAt": "2026-09-03T14:25:41.512Z"
   },
   {
     "id": "torobshop-books-stationery-db75e7774c65ead5",
@@ -3741,7 +3741,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.862Z"
+    "observedAt": "2026-09-03T14:25:41.512Z"
   },
   {
     "id": "torobshop-books-stationery-176747b2a6b3c8bf",
@@ -3759,7 +3759,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.862Z"
+    "observedAt": "2026-09-03T14:25:41.512Z"
   },
   {
     "id": "torobshop-books-stationery-9b16b6ebae742a59",
@@ -3777,7 +3777,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.862Z"
+    "observedAt": "2026-09-03T14:25:41.512Z"
   },
   {
     "id": "torobshop-books-stationery-1acb3967a4975e9e",
@@ -3795,7 +3795,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.862Z"
+    "observedAt": "2026-09-03T14:25:41.512Z"
   },
   {
     "id": "torobshop-books-stationery-7400212af3648c0e",
@@ -3813,7 +3813,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.862Z"
+    "observedAt": "2026-09-03T14:25:41.512Z"
   },
   {
     "id": "torobshop-books-stationery-34bb04f7987b2eb8",
@@ -3831,7 +3831,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.862Z"
+    "observedAt": "2026-09-03T14:25:41.512Z"
   },
   {
     "id": "torobshop-books-stationery-1ac684a13e625548",
@@ -3849,7 +3849,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.862Z"
+    "observedAt": "2026-09-03T14:25:41.512Z"
   },
   {
     "id": "torobshop-books-stationery-7406803b18ab5cc6",
@@ -3867,7 +3867,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.862Z"
+    "observedAt": "2026-09-03T14:25:41.512Z"
   },
   {
     "id": "torobshop-books-stationery-28fa9f296d3edd2c",
@@ -3885,7 +3885,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.862Z"
+    "observedAt": "2026-09-03T14:25:41.512Z"
   },
   {
     "id": "torobshop-books-stationery-0a56e024ea7c3e6c",
@@ -3903,7 +3903,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.863Z"
+    "observedAt": "2026-09-03T14:25:41.512Z"
   },
   {
     "id": "torobshop-books-stationery-0ef7eb89998918af",
@@ -3921,7 +3921,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.863Z"
+    "observedAt": "2026-09-03T14:25:41.512Z"
   },
   {
     "id": "torobshop-books-stationery-f2475d629ba82cb9",
@@ -3939,7 +3939,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.863Z"
+    "observedAt": "2026-09-03T14:25:41.513Z"
   },
   {
     "id": "torobshop-books-stationery-1123da8edef7210f",
@@ -3957,7 +3957,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.863Z"
+    "observedAt": "2026-09-03T14:25:41.513Z"
   },
   {
     "id": "torobshop-books-stationery-32430a6532934fe7",
@@ -3975,7 +3975,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.863Z"
+    "observedAt": "2026-09-03T14:25:41.513Z"
   },
   {
     "id": "torobshop-books-stationery-4fcaa05ae27e136c",
@@ -3993,7 +3993,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.863Z"
+    "observedAt": "2026-09-03T14:25:41.513Z"
   },
   {
     "id": "torobshop-books-stationery-93c18ce837ff5f57",
@@ -4011,7 +4011,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.863Z"
+    "observedAt": "2026-09-03T14:25:41.513Z"
   },
   {
     "id": "torobshop-books-stationery-c73bf4fc0db498be",
@@ -4029,7 +4029,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.863Z"
+    "observedAt": "2026-09-03T14:25:41.513Z"
   },
   {
     "id": "torobshop-books-stationery-76f3e4ef7a8810f3",
@@ -4047,7 +4047,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.863Z"
+    "observedAt": "2026-09-03T14:25:41.513Z"
   },
   {
     "id": "torobshop-books-stationery-8f566ccc32f52f97",
@@ -4065,7 +4065,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.863Z"
+    "observedAt": "2026-09-03T14:25:41.513Z"
   },
   {
     "id": "torobshop-books-stationery-2dee2c9f6fb222d1",
@@ -4083,7 +4083,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.863Z"
+    "observedAt": "2026-09-03T14:25:41.513Z"
   },
   {
     "id": "torobshop-books-stationery-05d539a087d0640e",
@@ -4101,7 +4101,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.863Z"
+    "observedAt": "2026-09-03T14:25:41.513Z"
   },
   {
     "id": "torobshop-books-stationery-a40b1cc8eb60dfd3",
@@ -4119,7 +4119,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.863Z"
+    "observedAt": "2026-09-03T14:25:41.513Z"
   },
   {
     "id": "torobshop-books-stationery-827984c7bc2a588b",
@@ -4137,7 +4137,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.863Z"
+    "observedAt": "2026-09-03T14:25:41.513Z"
   },
   {
     "id": "torobshop-books-stationery-b1ad0ea7d3ae35d7",
@@ -4155,7 +4155,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.863Z"
+    "observedAt": "2026-09-03T14:25:41.513Z"
   },
   {
     "id": "torobshop-books-stationery-01fd4211de27a0d5",
@@ -4173,7 +4173,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.863Z"
+    "observedAt": "2026-09-03T14:25:41.513Z"
   },
   {
     "id": "torobshop-books-stationery-4c20864969491062",
@@ -4191,7 +4191,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.863Z"
+    "observedAt": "2026-09-03T14:25:41.513Z"
   },
   {
     "id": "torobshop-books-stationery-6e8f969763fb12ec",
@@ -4209,7 +4209,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.863Z"
+    "observedAt": "2026-09-03T14:25:41.513Z"
   },
   {
     "id": "torobshop-books-stationery-611344efb1bd3888",
@@ -4227,7 +4227,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.863Z"
+    "observedAt": "2026-09-03T14:25:41.513Z"
   },
   {
     "id": "torobshop-books-stationery-c4ddc017f41906f6",
@@ -4245,7 +4245,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.863Z"
+    "observedAt": "2026-09-03T14:25:41.513Z"
   },
   {
     "id": "torobshop-books-stationery-90fcbe8687059a30",
@@ -4263,7 +4263,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.863Z"
+    "observedAt": "2026-09-03T14:25:41.513Z"
   },
   {
     "id": "torobshop-books-stationery-c0007aaa6ab91bb2",
@@ -4281,7 +4281,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.863Z"
+    "observedAt": "2026-09-03T14:25:41.513Z"
   },
   {
     "id": "torobshop-books-stationery-34386721a691d178",
@@ -4299,7 +4299,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.863Z"
+    "observedAt": "2026-09-03T14:25:41.513Z"
   },
   {
     "id": "torobshop-books-stationery-b8bd6a4d5ecca799",
@@ -4317,7 +4317,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.863Z"
+    "observedAt": "2026-09-03T14:25:41.513Z"
   },
   {
     "id": "torobshop-books-stationery-9c72d8fb3f6a2ba1",
@@ -4335,7 +4335,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.863Z"
+    "observedAt": "2026-09-03T14:25:41.513Z"
   },
   {
     "id": "torobshop-books-stationery-87cbcd550df2c8fa",
@@ -4353,7 +4353,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.863Z"
+    "observedAt": "2026-09-03T14:25:41.513Z"
   },
   {
     "id": "torobshop-books-stationery-bb3d87082eb1a040",
@@ -4371,7 +4371,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.863Z"
+    "observedAt": "2026-09-03T14:25:41.513Z"
   },
   {
     "id": "torobshop-books-stationery-af253d8db86172d9",
@@ -4389,7 +4389,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.863Z"
+    "observedAt": "2026-09-03T14:25:41.513Z"
   },
   {
     "id": "torobshop-books-stationery-faf54d1de5277c91",
@@ -4407,7 +4407,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.863Z"
+    "observedAt": "2026-09-03T14:25:41.513Z"
   },
   {
     "id": "torobshop-books-stationery-bed024ff9dfbc191",
@@ -4425,7 +4425,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.863Z"
+    "observedAt": "2026-09-03T14:25:41.513Z"
   },
   {
     "id": "torobshop-books-stationery-12108326787ffaf6",
@@ -4443,7 +4443,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.863Z"
+    "observedAt": "2026-09-03T14:25:41.513Z"
   },
   {
     "id": "torobshop-books-stationery-9706ad3cf0976481",
@@ -4461,7 +4461,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.863Z"
+    "observedAt": "2026-09-03T14:25:41.514Z"
   },
   {
     "id": "torobshop-books-stationery-a78de50e19375b85",
@@ -4479,7 +4479,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.863Z"
+    "observedAt": "2026-09-03T14:25:41.514Z"
   },
   {
     "id": "torobshop-books-stationery-b572c0c74ec7e1ee",
@@ -4497,7 +4497,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.864Z"
+    "observedAt": "2026-09-03T14:25:41.514Z"
   },
   {
     "id": "torobshop-books-stationery-387754e6b4491f58",
@@ -4515,7 +4515,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.864Z"
+    "observedAt": "2026-09-03T14:25:41.514Z"
   },
   {
     "id": "torobshop-books-stationery-39e57f782fd26013",
@@ -4533,25 +4533,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.864Z"
-  },
-  {
-    "id": "torobshop-books-stationery-aa03a6c561a55d60",
-    "productId": "torobshop-aa03a6c561a55d60",
-    "name": "لوازم جانبی سرخ کن تفال نینجا کوسوری فیلیپس UNBOX Heißluftfritteuse Zubehör",
-    "brand": "",
-    "model": "لوازم جانبی سرخ کن تفال نینجا کوسوری فیلیپس UNBOX Heißluftfritteuse Zubehör",
-    "category": "books-stationery",
-    "subcategory": "کتاب",
-    "price": 21680000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%AA%D9%81%D8%A7%D9%84-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%DA%A9%D9%88%D8%B3%D9%88%D8%B1%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-UNBOX-Heisluftfritteuse-Zubeher",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.864Z"
+    "observedAt": "2026-09-03T14:25:41.514Z"
   },
   {
     "id": "torobshop-books-stationery-1ed3ae617a915858",
@@ -4569,7 +4551,25 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.864Z"
+    "observedAt": "2026-09-03T14:25:41.514Z"
+  },
+  {
+    "id": "torobshop-books-stationery-aa03a6c561a55d60",
+    "productId": "torobshop-aa03a6c561a55d60",
+    "name": "لوازم جانبی سرخ کن تفال نینجا کوسوری فیلیپس UNBOX Heißluftfritteuse Zubehör",
+    "brand": "",
+    "model": "لوازم جانبی سرخ کن تفال نینجا کوسوری فیلیپس UNBOX Heißluftfritteuse Zubehör",
+    "category": "books-stationery",
+    "subcategory": "کتاب",
+    "price": 21680000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%AA%D9%81%D8%A7%D9%84-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%DA%A9%D9%88%D8%B3%D9%88%D8%B1%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-UNBOX-Heisluftfritteuse-Zubeher",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T14:25:41.514Z"
   },
   {
     "id": "torobshop-books-stationery-d62ad3ee5759fcbd",
@@ -4587,7 +4587,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.864Z"
+    "observedAt": "2026-09-03T14:25:41.514Z"
   },
   {
     "id": "torobshop-books-stationery-aed9f18e5d887270",
@@ -4605,7 +4605,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.864Z"
+    "observedAt": "2026-09-03T14:25:41.514Z"
   },
   {
     "id": "torobshop-books-stationery-569f3d7e67640e5c",
@@ -4623,7 +4623,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.864Z"
+    "observedAt": "2026-09-03T14:25:41.514Z"
   },
   {
     "id": "torobshop-books-stationery-0cfaef0e68debb8e",
@@ -4641,7 +4641,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.864Z"
+    "observedAt": "2026-09-03T14:25:41.514Z"
   },
   {
     "id": "torobshop-books-stationery-ad6f3f422d15a766",
@@ -4659,7 +4659,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.864Z"
+    "observedAt": "2026-09-03T14:25:41.514Z"
   },
   {
     "id": "torobshop-books-stationery-dfa4bdc99016ca7e",
@@ -4677,7 +4677,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.864Z"
+    "observedAt": "2026-09-03T14:25:41.514Z"
   },
   {
     "id": "torobshop-books-stationery-0ff8a8fc1fbd561e",
@@ -4695,7 +4695,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.864Z"
+    "observedAt": "2026-09-03T14:25:41.514Z"
   },
   {
     "id": "torobshop-books-stationery-fa434e6aa57c4be7",
@@ -4713,7 +4713,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.864Z"
+    "observedAt": "2026-09-03T14:25:41.514Z"
   },
   {
     "id": "torobshop-books-stationery-4b7348b541c036cd",
@@ -4731,7 +4731,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.864Z"
+    "observedAt": "2026-09-03T14:25:41.514Z"
   },
   {
     "id": "torobshop-books-stationery-921dfbcc90d038a0",
@@ -4749,7 +4749,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.864Z"
+    "observedAt": "2026-09-03T14:25:41.514Z"
   },
   {
     "id": "torobshop-books-stationery-abdc2adccad9c33d",
@@ -4767,7 +4767,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.864Z"
+    "observedAt": "2026-09-03T14:25:41.514Z"
   },
   {
     "id": "torobshop-books-stationery-695cd4ce1cd48f20",
@@ -4785,7 +4785,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.864Z"
+    "observedAt": "2026-09-03T14:25:41.514Z"
   },
   {
     "id": "torobshop-books-stationery-6e397f6c85f56e0e",
@@ -4803,7 +4803,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.864Z"
+    "observedAt": "2026-09-03T14:25:41.514Z"
   },
   {
     "id": "torobshop-books-stationery-9318a28bbba0fe53",
@@ -4821,7 +4821,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.864Z"
+    "observedAt": "2026-09-03T14:25:41.514Z"
   },
   {
     "id": "torobshop-books-stationery-c9e212e51e3633db",
@@ -4839,7 +4839,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.864Z"
+    "observedAt": "2026-09-03T14:25:41.514Z"
   },
   {
     "id": "torobshop-books-stationery-7464bedef3ecb51e",
@@ -4857,7 +4857,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.864Z"
+    "observedAt": "2026-09-03T14:25:41.514Z"
   },
   {
     "id": "torobshop-books-stationery-51009350b9f240d2",
@@ -4875,7 +4875,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.864Z"
+    "observedAt": "2026-09-03T14:25:41.514Z"
   },
   {
     "id": "torobshop-books-stationery-45c64009916028ba",
@@ -4893,7 +4893,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.864Z"
+    "observedAt": "2026-09-03T14:25:41.514Z"
   },
   {
     "id": "torobshop-books-stationery-924e8879fd31e680",
@@ -4911,7 +4911,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.864Z"
+    "observedAt": "2026-09-03T14:25:41.514Z"
   },
   {
     "id": "torobshop-books-stationery-ae3ba973ea2911ee",
@@ -4929,7 +4929,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.864Z"
+    "observedAt": "2026-09-03T14:25:41.514Z"
   },
   {
     "id": "torobshop-books-stationery-15def7d563b1e542",
@@ -4947,7 +4947,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.864Z"
+    "observedAt": "2026-09-03T14:25:41.514Z"
   },
   {
     "id": "torobshop-books-stationery-835b00c0d36d8e10",
@@ -4965,7 +4965,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.864Z"
+    "observedAt": "2026-09-03T14:25:41.514Z"
   },
   {
     "id": "torobshop-books-stationery-35f3e181350a9721",
@@ -4983,7 +4983,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.864Z"
+    "observedAt": "2026-09-03T14:25:41.514Z"
   },
   {
     "id": "torobshop-books-stationery-da199e6690f1c782",
@@ -5001,7 +5001,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.864Z"
+    "observedAt": "2026-09-03T14:25:41.514Z"
   },
   {
     "id": "torobshop-books-stationery-37de96dd1d4a33c3",
@@ -5019,7 +5019,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.864Z"
+    "observedAt": "2026-09-03T14:25:41.514Z"
   },
   {
     "id": "torobshop-books-stationery-9311f0ec7504f24b",
@@ -5037,7 +5037,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.864Z"
+    "observedAt": "2026-09-03T14:25:41.514Z"
   },
   {
     "id": "torobshop-books-stationery-843617a20d001e4c",
@@ -5055,7 +5055,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.864Z"
+    "observedAt": "2026-09-03T14:25:41.514Z"
   },
   {
     "id": "torobshop-books-stationery-ee166c5666efcec5",
@@ -5073,7 +5073,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.864Z"
+    "observedAt": "2026-09-03T14:25:41.514Z"
   },
   {
     "id": "torobshop-books-stationery-67d9add46426dfe8",
@@ -5091,7 +5091,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.864Z"
+    "observedAt": "2026-09-03T14:25:41.514Z"
   },
   {
     "id": "torobshop-books-stationery-3877183810368792",
@@ -5109,7 +5109,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.864Z"
+    "observedAt": "2026-09-03T14:25:41.514Z"
   },
   {
     "id": "torobshop-books-stationery-fc88260817f3414e",
@@ -5127,7 +5127,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.864Z"
+    "observedAt": "2026-09-03T14:25:41.514Z"
   },
   {
     "id": "torobshop-books-stationery-e2467d5cbf85ce81",
@@ -5145,7 +5145,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.864Z"
+    "observedAt": "2026-09-03T14:25:41.514Z"
   },
   {
     "id": "torobshop-books-stationery-bbb69afb3e332a2c",
@@ -5163,7 +5163,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.864Z"
+    "observedAt": "2026-09-03T14:25:41.514Z"
   },
   {
     "id": "torobshop-books-stationery-5cab57205d377e1f",
@@ -5181,7 +5181,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.864Z"
+    "observedAt": "2026-09-03T14:25:41.514Z"
   },
   {
     "id": "torobshop-books-stationery-4415e2cd944c4e59",
@@ -5199,7 +5199,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.864Z"
+    "observedAt": "2026-09-03T14:25:41.514Z"
   },
   {
     "id": "torobshop-books-stationery-d68b8e3ac997acb1",
@@ -5217,7 +5217,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.864Z"
+    "observedAt": "2026-09-03T14:25:41.514Z"
   },
   {
     "id": "torobshop-books-stationery-30d122f629f89166",
@@ -5235,7 +5235,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.864Z"
+    "observedAt": "2026-09-03T14:25:41.514Z"
   },
   {
     "id": "torobshop-books-stationery-07103c8f0e3ce377",
@@ -5253,7 +5253,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.864Z"
+    "observedAt": "2026-09-03T14:25:41.514Z"
   },
   {
     "id": "torobshop-books-stationery-3e03d59443676707",
@@ -5271,7 +5271,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.864Z"
+    "observedAt": "2026-09-03T14:25:41.514Z"
   },
   {
     "id": "torobshop-books-stationery-cb9e4b877badae34",
@@ -5289,7 +5289,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.864Z"
+    "observedAt": "2026-09-03T14:25:41.514Z"
   },
   {
     "id": "torobshop-books-stationery-e4088b7a2b6ea10b",
@@ -5307,43 +5307,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.864Z"
-  },
-  {
-    "id": "torobshop-books-stationery-ef26e366fa305ced",
-    "productId": "torobshop-ef26e366fa305ced",
-    "name": "ماهیتابه ZWILLING TrueFlow 28 سانتی‌متر، استیل ضد زنگ، روکش نچسب، مشکی",
-    "brand": "",
-    "model": "ماهیتابه ZWILLING TrueFlow 28 سانتی‌متر، استیل ضد زنگ، روکش نچسب، مشکی",
-    "category": "books-stationery",
-    "subcategory": "کتاب",
-    "price": 25122000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-ZWILLING-TrueFlow-28-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.864Z"
-  },
-  {
-    "id": "torobshop-books-stationery-05c540b60ea3624b",
-    "productId": "torobshop-05c540b60ea3624b",
-    "name": "ماهیتابه استیل ضد زنگ فیسلر سانفرانسیسکو، 16 سانتی‌متر (1.2 لیتر) با درب شیشه‌ای - استیل ضد زنگ 18/10، پایه سوپرترمیک، پیمانه، لبه ریختن، سازگار با القایی",
-    "brand": "",
-    "model": "ماهیتابه استیل ضد زنگ فیسلر سانفرانسیسکو، 16 سانتی‌متر (1.2 لیتر) با درب شیشه‌ای - استیل ضد زنگ 18/10، پایه سوپرترمیک، پیمانه، لبه ریختن، سازگار با القایی",
-    "category": "books-stationery",
-    "subcategory": "کتاب",
-    "price": 18778000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%B3%D8%A7%D9%86%D9%81%D8%B1%D8%A7%D9%86%D8%B3%DB%8C%D8%B3%DA%A9%D9%88-16-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-1-2-%D9%84%DB%8C%D8%AA%D8%B1-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-18-10-%D9%BE%D8%A7%DB%8C%D9%87-%D8%B3%D9%88%D9%BE%D8%B1%D8%AA%D8%B1%D9%85%DB%8C%DA%A9-%D9%BE%DB%8C%D9%85%D8%A7%D9%86%D9%87-%D9%84%D8%A8%D9%87-%D8%B1%DB%8C%D8%AE%D8%AA%D9%86-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.864Z"
+    "observedAt": "2026-09-03T14:25:41.514Z"
   },
   {
     "id": "torobshop-books-stationery-d9fbeecaba31c602",
@@ -5361,7 +5325,43 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.864Z"
+    "observedAt": "2026-09-03T14:25:41.514Z"
+  },
+  {
+    "id": "torobshop-books-stationery-ef26e366fa305ced",
+    "productId": "torobshop-ef26e366fa305ced",
+    "name": "ماهیتابه ZWILLING TrueFlow 28 سانتی‌متر، استیل ضد زنگ، روکش نچسب، مشکی",
+    "brand": "",
+    "model": "ماهیتابه ZWILLING TrueFlow 28 سانتی‌متر، استیل ضد زنگ، روکش نچسب، مشکی",
+    "category": "books-stationery",
+    "subcategory": "کتاب",
+    "price": 25122000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-ZWILLING-TrueFlow-28-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T14:25:41.514Z"
+  },
+  {
+    "id": "torobshop-books-stationery-05c540b60ea3624b",
+    "productId": "torobshop-05c540b60ea3624b",
+    "name": "ماهیتابه استیل ضد زنگ فیسلر سانفرانسیسکو، 16 سانتی‌متر (1.2 لیتر) با درب شیشه‌ای - استیل ضد زنگ 18/10، پایه سوپرترمیک، پیمانه، لبه ریختن، سازگار با القایی",
+    "brand": "",
+    "model": "ماهیتابه استیل ضد زنگ فیسلر سانفرانسیسکو، 16 سانتی‌متر (1.2 لیتر) با درب شیشه‌ای - استیل ضد زنگ 18/10، پایه سوپرترمیک، پیمانه، لبه ریختن، سازگار با القایی",
+    "category": "books-stationery",
+    "subcategory": "کتاب",
+    "price": 18778000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%B3%D8%A7%D9%86%D9%81%D8%B1%D8%A7%D9%86%D8%B3%DB%8C%D8%B3%DA%A9%D9%88-16-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-1-2-%D9%84%DB%8C%D8%AA%D8%B1-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-18-10-%D9%BE%D8%A7%DB%8C%D9%87-%D8%B3%D9%88%D9%BE%D8%B1%D8%AA%D8%B1%D9%85%DB%8C%DA%A9-%D9%BE%DB%8C%D9%85%D8%A7%D9%86%D9%87-%D9%84%D8%A8%D9%87-%D8%B1%DB%8C%D8%AE%D8%AA%D9%86-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T14:25:41.514Z"
   },
   {
     "id": "torobshop-books-stationery-d397df756b9f1338",
@@ -5379,7 +5379,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.864Z"
+    "observedAt": "2026-09-03T14:25:41.514Z"
   },
   {
     "id": "torobshop-books-stationery-f8b7784f8ba04a47",
@@ -5397,7 +5397,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.864Z"
+    "observedAt": "2026-09-03T14:25:41.514Z"
   },
   {
     "id": "torobshop-books-stationery-e0d95c7bfcafe827",
@@ -5415,7 +5415,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.864Z"
+    "observedAt": "2026-09-03T14:25:41.514Z"
   },
   {
     "id": "torobshop-books-stationery-0674abec1e1ff3bb",
@@ -5433,7 +5433,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.864Z"
+    "observedAt": "2026-09-03T14:25:41.514Z"
   },
   {
     "id": "torobshop-books-stationery-c8ae91ddddbffeeb",
@@ -5451,43 +5451,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.864Z"
-  },
-  {
-    "id": "torobshop-books-stationery-b0b661c9d6dfca29",
-    "productId": "torobshop-b0b661c9d6dfca29",
-    "name": "قیچی برش 22 سانتی‌ متری زولینگ آلمان ZWILLING Twin L",
-    "brand": "",
-    "model": "قیچی برش 22 سانتی‌ متری زولینگ آلمان ZWILLING Twin L",
-    "category": "books-stationery",
-    "subcategory": "کتاب",
-    "price": 12594000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%82%DB%8C%DA%86%DB%8C-%D8%A8%D8%B1%D8%B4-22-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C-Henckels-Twin-L-%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA%DB%8C-%DA%98%D8%A7%D9%BE%D9%86",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.864Z"
-  },
-  {
-    "id": "torobshop-books-stationery-eb3d93fc719b9727",
-    "productId": "torobshop-eb3d93fc719b9727",
-    "name": "دستگاه وکیوم و ظروف وکیوم زولینگ آلمان ZWILLING در 9 قطعه 2 کاسه استیل با 2 درب وکیوم (18-24 سانتی متر) - 4 عدد کیسه - پمپ",
-    "brand": "",
-    "model": "دستگاه وکیوم و ظروف وکیوم زولینگ آلمان ZWILLING در 9 قطعه 2 کاسه استیل با 2 درب وکیوم (18-24 سانتی متر) - 4 عدد کیسه - پمپ",
-    "category": "books-stationery",
-    "subcategory": "کتاب",
-    "price": 34510000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%AA-%D9%BE%D8%A7%DB%8C%D9%87-%D9%88%DA%A9%DB%8C%D9%88%D9%85-ZWILLING-9-%D9%82%D8%B7%D8%B9%D9%87-2-%DA%A9%D8%A7%D8%B3%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%A8%D8%A7-2-%D8%AF%D8%B1%D8%A8-%D9%88%DA%A9%DB%8C%D9%88%D9%85-18-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-4-%D8%B9%D8%AF%D8%AF-%DA%A9%DB%8C%D8%B3%D9%87-%D9%BE%D9%85%D9%BE",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.864Z"
+    "observedAt": "2026-09-03T14:25:41.514Z"
   },
   {
     "id": "torobshop-books-stationery-9d8fbc8c7f0b6991",
@@ -5505,7 +5469,43 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.864Z"
+    "observedAt": "2026-09-03T14:25:41.514Z"
+  },
+  {
+    "id": "torobshop-books-stationery-b0b661c9d6dfca29",
+    "productId": "torobshop-b0b661c9d6dfca29",
+    "name": "قیچی برش 22 سانتی‌ متری زولینگ آلمان ZWILLING Twin L",
+    "brand": "",
+    "model": "قیچی برش 22 سانتی‌ متری زولینگ آلمان ZWILLING Twin L",
+    "category": "books-stationery",
+    "subcategory": "کتاب",
+    "price": 12594000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%82%DB%8C%DA%86%DB%8C-%D8%A8%D8%B1%D8%B4-22-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C-Henckels-Twin-L-%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA%DB%8C-%DA%98%D8%A7%D9%BE%D9%86",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T14:25:41.514Z"
+  },
+  {
+    "id": "torobshop-books-stationery-eb3d93fc719b9727",
+    "productId": "torobshop-eb3d93fc719b9727",
+    "name": "دستگاه وکیوم و ظروف وکیوم زولینگ آلمان ZWILLING در 9 قطعه 2 کاسه استیل با 2 درب وکیوم (18-24 سانتی متر) - 4 عدد کیسه - پمپ",
+    "brand": "",
+    "model": "دستگاه وکیوم و ظروف وکیوم زولینگ آلمان ZWILLING در 9 قطعه 2 کاسه استیل با 2 درب وکیوم (18-24 سانتی متر) - 4 عدد کیسه - پمپ",
+    "category": "books-stationery",
+    "subcategory": "کتاب",
+    "price": 34510000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%AA-%D9%BE%D8%A7%DB%8C%D9%87-%D9%88%DA%A9%DB%8C%D9%88%D9%85-ZWILLING-9-%D9%82%D8%B7%D8%B9%D9%87-2-%DA%A9%D8%A7%D8%B3%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%A8%D8%A7-2-%D8%AF%D8%B1%D8%A8-%D9%88%DA%A9%DB%8C%D9%88%D9%85-18-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-4-%D8%B9%D8%AF%D8%AF-%DA%A9%DB%8C%D8%B3%D9%87-%D9%BE%D9%85%D9%BE",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T14:25:41.514Z"
   },
   {
     "id": "torobshop-books-stationery-c4580b999e737ac3",
@@ -5523,61 +5523,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.864Z"
-  },
-  {
-    "id": "torobshop-books-stationery-d39a2f5ac6cd9a7f",
-    "productId": "torobshop-d39a2f5ac6cd9a7f",
-    "name": "سرویس قابلمه 3 پارچه فیسلر آلمان Fissler Original-Profi Collection القایی",
-    "brand": "",
-    "model": "سرویس قابلمه 3 پارچه فیسلر آلمان Fissler Original-Profi Collection القایی",
-    "category": "books-stationery",
-    "subcategory": "کتاب",
-    "price": 91335000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D8%A7%D8%B5%D9%84%DB%8C-%D8%AD%D8%B1%D9%81%D9%87-%D8%A7%DB%8C-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%DB%B3-%D8%AA%DA%A9%D9%87-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%81%D9%84%D8%B2%DB%8C-%DB%B1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%DB%B1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%DB%B3-%D8%AA%DA%A9%D9%87-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.864Z"
-  },
-  {
-    "id": "torobshop-books-stationery-280503308950a13c",
-    "productId": "torobshop-280503308950a13c",
-    "name": "کتری ZWILLING، ۱.۲ لیتر، ۱۵۵۰-۱۸۵۰ وات، استیل ضد زنگ/پلاستیک، نقره‌ای/مشکی",
-    "brand": "",
-    "model": "کتری ZWILLING، ۱.۲ لیتر، ۱۵۵۰-۱۸۵۰ وات، استیل ضد زنگ/پلاستیک، نقره‌ای/مشکی",
-    "category": "books-stationery",
-    "subcategory": "کتاب",
-    "price": 21316000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%DA%A9%D8%AA%D8%B1%DB%8C-ZWILLING-%DB%B1-%DB%B2-%D9%84%DB%8C%D8%AA%D8%B1-%DB%B1%DB%B5%DB%B5%DB%B0-%DB%B1%DB%B8%DB%B5%DB%B0-%D9%88%D8%A7%D8%AA-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.864Z"
-  },
-  {
-    "id": "torobshop-books-stationery-aa2dfdb88af5c975",
-    "productId": "torobshop-aa2dfdb88af5c975",
-    "name": "ماهیتابه ZWILLING جوی پلاس 24 سانتی متری",
-    "brand": "",
-    "model": "ماهیتابه ZWILLING جوی پلاس 24 سانتی متری",
-    "category": "books-stationery",
-    "subcategory": "کتاب",
-    "price": 24615000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-ZWILLING-%D8%AC%D9%88%DB%8C-%D9%BE%D9%84%D8%A7%D8%B3-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.865Z"
+    "observedAt": "2026-09-03T14:25:41.515Z"
   },
   {
     "id": "torobshop-books-stationery-40f09e3a04b68146",
@@ -5595,79 +5541,61 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.865Z"
+    "observedAt": "2026-09-03T14:25:41.515Z"
   },
   {
-    "id": "torobshop-books-stationery-0e4d04ef83a810db",
-    "productId": "torobshop-0e4d04ef83a810db",
-    "name": "ماهیتابه ووک نانجینگ فیسلر آلمان Fissler Nanjing Wok (قطر ۳۶ سانتی‌متر) تابه ووک بزرگ بدون روکش با درب شیشه‌ای شامل محفظه بخارپز",
+    "id": "torobshop-books-stationery-d39a2f5ac6cd9a7f",
+    "productId": "torobshop-d39a2f5ac6cd9a7f",
+    "name": "سرویس قابلمه 3 پارچه فیسلر آلمان Fissler Original-Profi Collection القایی",
     "brand": "",
-    "model": "ماهیتابه ووک نانجینگ فیسلر آلمان Fissler Nanjing Wok (قطر ۳۶ سانتی‌متر) تابه ووک بزرگ بدون روکش با درب شیشه‌ای شامل محفظه بخارپز",
+    "model": "سرویس قابلمه 3 پارچه فیسلر آلمان Fissler Original-Profi Collection القایی",
     "category": "books-stationery",
     "subcategory": "کتاب",
-    "price": 58356000,
+    "price": 91335000,
     "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%88%D9%88%DA%A9-%D9%86%D8%A7%D9%86%D8%AC%DB%8C%D9%86%DA%AF-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-Fissler-Nanjing-Wok-%D9%82%D8%B7%D8%B1-%DB%B3%DB%B6-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%AA%D8%A7%D8%A8%D9%87-%D9%88%D9%88%DA%A9-%D8%A8%D8%B2%D8%B1%DA%AF-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%DA%A9%D8%B4-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%B4%D8%A7%D9%85%D9%84-%D9%85%D8%AD%D9%81%D8%B8%D9%87-%D8%A8%D8%AE%D8%A7%D8%B1%D9%BE%D8%B2",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D8%A7%D8%B5%D9%84%DB%8C-%D8%AD%D8%B1%D9%81%D9%87-%D8%A7%DB%8C-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%DB%B3-%D8%AA%DA%A9%D9%87-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%81%D9%84%D8%B2%DB%8C-%DB%B1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%DB%B1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%DB%B3-%D8%AA%DA%A9%D9%87-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.865Z"
+    "observedAt": "2026-09-03T14:25:41.515Z"
   },
   {
-    "id": "torobshop-books-stationery-d99c3943bcec9400",
-    "productId": "torobshop-d99c3943bcec9400",
-    "name": "چاقوی خود تیز شونده چهار ستاره ZWILLING با مجموعه چاقوی 7 تکه، استیل ضد زنگ، ساخت آلمان، مشکی چهار ستاره مشکی",
+    "id": "torobshop-books-stationery-280503308950a13c",
+    "productId": "torobshop-280503308950a13c",
+    "name": "کتری ZWILLING، ۱.۲ لیتر، ۱۵۵۰-۱۸۵۰ وات، استیل ضد زنگ/پلاستیک، نقره‌ای/مشکی",
     "brand": "",
-    "model": "چاقوی خود تیز شونده چهار ستاره ZWILLING با مجموعه چاقوی 7 تکه، استیل ضد زنگ، ساخت آلمان، مشکی چهار ستاره مشکی",
+    "model": "کتری ZWILLING، ۱.۲ لیتر، ۱۵۵۰-۱۸۵۰ وات، استیل ضد زنگ/پلاستیک، نقره‌ای/مشکی",
     "category": "books-stationery",
     "subcategory": "کتاب",
-    "price": 63440000,
+    "price": 21316000,
     "currency": "IRT",
     "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%AE%D9%88%D8%AF-%D8%AA%DB%8C%D8%B2-%D8%B4%D9%88%D9%86%D8%AF%D9%87-%DA%86%D9%87%D8%A7%D8%B1-%D8%B3%D8%AA%D8%A7%D8%B1%D9%87-ZWILLING-%D8%A8%D8%A7-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%DA%86%D8%A7%D9%82%D9%88%DB%8C-7-%D8%AA%DA%A9%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%B4%DA%A9%DB%8C-%DA%86%D9%87%D8%A7%D8%B1-%D8%B3%D8%AA%D8%A7%D8%B1%D9%87-%D9%85%D8%B4%DA%A9%DB%8C",
+    "productUrl": "https://torobshop.com/products/%DA%A9%D8%AA%D8%B1%DB%8C-ZWILLING-%DB%B1-%DB%B2-%D9%84%DB%8C%D8%AA%D8%B1-%DB%B1%DB%B5%DB%B5%DB%B0-%DB%B1%DB%B8%DB%B5%DB%B0-%D9%88%D8%A7%D8%AA-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C-%D9%85%D8%B4%DA%A9%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.865Z"
+    "observedAt": "2026-09-03T14:25:41.515Z"
   },
   {
-    "id": "torobshop-books-stationery-2be1976c83ad17a1",
-    "productId": "torobshop-2be1976c83ad17a1",
-    "name": "ماهیتابه استیل ۲۴ سانت فیسلر آلمان Fissler Original-Profi Collection",
+    "id": "torobshop-books-stationery-aa2dfdb88af5c975",
+    "productId": "torobshop-aa2dfdb88af5c975",
+    "name": "ماهیتابه ZWILLING جوی پلاس 24 سانتی متری",
     "brand": "",
-    "model": "ماهیتابه استیل ۲۴ سانت فیسلر آلمان Fissler Original-Profi Collection",
+    "model": "ماهیتابه ZWILLING جوی پلاس 24 سانتی متری",
     "category": "books-stationery",
     "subcategory": "کتاب",
-    "price": 38746000,
+    "price": 24615000,
     "currency": "IRT",
     "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%DB%B2%DB%B4-%D8%B3%D8%A7%D9%86%D8%AA-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-Fissler-Original-Profi-Collection",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-ZWILLING-%D8%AC%D9%88%DB%8C-%D9%BE%D9%84%D8%A7%D8%B3-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.865Z"
-  },
-  {
-    "id": "torobshop-books-stationery-9087741222a89b21",
-    "productId": "torobshop-9087741222a89b21",
-    "name": "چاقوی آشپزی زولینگ آلمان ZWILLING Gourmet - 18 سانتی‌متر - استیل ضد زنگ - دسته پلاستیکی ارگونومیک - مشکی - تولید آلمان",
-    "brand": "",
-    "model": "چاقوی آشپزی زولینگ آلمان ZWILLING Gourmet - 18 سانتی‌متر - استیل ضد زنگ - دسته پلاستیکی ارگونومیک - مشکی - تولید آلمان",
-    "category": "books-stationery",
-    "subcategory": "کتاب",
-    "price": 23854000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%A2%D8%B4%D9%BE%D8%B2%DB%8C-ZWILLING-Gourmet-18-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%AF%D8%B3%D8%AA%D9%87-%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9%DB%8C-%D8%A7%D8%B1%DA%AF%D9%88%D9%86%D9%88%D9%85%DB%8C%DA%A9-%D9%85%D8%B4%DA%A9%DB%8C-%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D8%A2%D9%84%D9%85%D8%A7%D9%86",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.865Z"
+    "observedAt": "2026-09-03T14:25:41.515Z"
   },
   {
     "id": "torobshop-books-stationery-412e480ec7918302",
@@ -5685,61 +5613,79 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.865Z"
+    "observedAt": "2026-09-03T14:25:41.515Z"
   },
   {
-    "id": "torobshop-books-stationery-00bf5776f339768d",
-    "productId": "torobshop-00bf5776f339768d",
-    "name": "سرویس قابلمه ۵ پارچه فیسلر آلمان Fissler Palermo Edelstahl پالرمو شامل درب شیشه‌ای (۳ قابلمه، ۱ تابه کباب‌پزی، ۱ قابلمه کوچک) القایی",
+    "id": "torobshop-books-stationery-0e4d04ef83a810db",
+    "productId": "torobshop-0e4d04ef83a810db",
+    "name": "ماهیتابه ووک نانجینگ فیسلر آلمان Fissler Nanjing Wok (قطر ۳۶ سانتی‌متر) تابه ووک بزرگ بدون روکش با درب شیشه‌ای شامل محفظه بخارپز",
     "brand": "",
-    "model": "سرویس قابلمه ۵ پارچه فیسلر آلمان Fissler Palermo Edelstahl پالرمو شامل درب شیشه‌ای (۳ قابلمه، ۱ تابه کباب‌پزی، ۱ قابلمه کوچک) القایی",
+    "model": "ماهیتابه ووک نانجینگ فیسلر آلمان Fissler Nanjing Wok (قطر ۳۶ سانتی‌متر) تابه ووک بزرگ بدون روکش با درب شیشه‌ای شامل محفظه بخارپز",
     "category": "books-stationery",
     "subcategory": "کتاب",
-    "price": 54119000,
+    "price": 58356000,
     "currency": "IRT",
     "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B5-%D8%AA%DA%A9%D9%87-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%BE%D8%A7%D9%84%D8%B1%D9%85%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%87%D8%A7-%D8%B4%D8%A7%D9%85%D9%84-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%DB%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B1-%D8%AA%D8%A7%D8%A8%D9%87-%DA%A9%D8%A8%D8%A7%D8%A8-%D9%BE%D8%B2%DB%8C-%DB%B1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%88%D9%88%DA%A9-%D9%86%D8%A7%D9%86%D8%AC%DB%8C%D9%86%DA%AF-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-Fissler-Nanjing-Wok-%D9%82%D8%B7%D8%B1-%DB%B3%DB%B6-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%AA%D8%A7%D8%A8%D9%87-%D9%88%D9%88%DA%A9-%D8%A8%D8%B2%D8%B1%DA%AF-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%DA%A9%D8%B4-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%B4%D8%A7%D9%85%D9%84-%D9%85%D8%AD%D9%81%D8%B8%D9%87-%D8%A8%D8%AE%D8%A7%D8%B1%D9%BE%D8%B2",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.865Z"
+    "observedAt": "2026-09-03T14:25:41.515Z"
   },
   {
-    "id": "torobshop-books-stationery-3644b82267dd5165",
-    "productId": "torobshop-3644b82267dd5165",
-    "name": "بلوک چاقوی دوقلوی گورمت ZWILLING، 9 تکه، بلوک چوبی، مجموعه چاقو، میله تیزکن، قیچی، استیل مخصوص ضد زنگ، 9 تکه دوقلوی گورمت مشکی",
+    "id": "torobshop-books-stationery-d99c3943bcec9400",
+    "productId": "torobshop-d99c3943bcec9400",
+    "name": "چاقوی خود تیز شونده چهار ستاره ZWILLING با مجموعه چاقوی 7 تکه، استیل ضد زنگ، ساخت آلمان، مشکی چهار ستاره مشکی",
     "brand": "",
-    "model": "بلوک چاقوی دوقلوی گورمت ZWILLING، 9 تکه، بلوک چوبی، مجموعه چاقو، میله تیزکن، قیچی، استیل مخصوص ضد زنگ، 9 تکه دوقلوی گورمت مشکی",
+    "model": "چاقوی خود تیز شونده چهار ستاره ZWILLING با مجموعه چاقوی 7 تکه، استیل ضد زنگ، ساخت آلمان، مشکی چهار ستاره مشکی",
     "category": "books-stationery",
     "subcategory": "کتاب",
-    "price": 53543000,
+    "price": 63440000,
     "currency": "IRT",
     "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%A8%D9%84%D9%88%DA%A9-%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%AF%D9%88%D9%82%D9%84%D9%88%DB%8C-%DA%AF%D9%88%D8%B1%D9%85%D8%AA-ZWILLING-9-%D8%AA%DA%A9%D9%87-%D8%A8%D9%84%D9%88%DA%A9-%DA%86%D9%88%D8%A8%DB%8C-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%DA%86%D8%A7%D9%82%D9%88-%D9%85%DB%8C%D9%84%D9%87-%D8%AA%DB%8C%D8%B2%DA%A9%D9%86-%D9%82%DB%8C%DA%86%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-9-%D8%AA%DA%A9%D9%87-%D8%AF%D9%88%D9%82%D9%84%D9%88%DB%8C-%DA%AF%D9%88%D8%B1%D9%85%D8%AA-%D9%85%D8%B4%DA%A9%DB%8C",
+    "productUrl": "https://torobshop.com/products/%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%AE%D9%88%D8%AF-%D8%AA%DB%8C%D8%B2-%D8%B4%D9%88%D9%86%D8%AF%D9%87-%DA%86%D9%87%D8%A7%D8%B1-%D8%B3%D8%AA%D8%A7%D8%B1%D9%87-ZWILLING-%D8%A8%D8%A7-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%DA%86%D8%A7%D9%82%D9%88%DB%8C-7-%D8%AA%DA%A9%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%B4%DA%A9%DB%8C-%DA%86%D9%87%D8%A7%D8%B1-%D8%B3%D8%AA%D8%A7%D8%B1%D9%87-%D9%85%D8%B4%DA%A9%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.865Z"
+    "observedAt": "2026-09-03T14:25:41.515Z"
   },
   {
-    "id": "torobshop-books-stationery-ace9b88e93544c94",
-    "productId": "torobshop-ace9b88e93544c94",
-    "name": "قیچی چند منظوره زولینگ آلمان ZWILLING، 20 سانتی متر، مناسب برای راست دست ها و چپ دست ها، استیل ضد زنگ، ساخت آلمان، نقره ای",
+    "id": "torobshop-books-stationery-2be1976c83ad17a1",
+    "productId": "torobshop-2be1976c83ad17a1",
+    "name": "ماهیتابه استیل ۲۴ سانت فیسلر آلمان Fissler Original-Profi Collection",
     "brand": "",
-    "model": "قیچی چند منظوره زولینگ آلمان ZWILLING، 20 سانتی متر، مناسب برای راست دست ها و چپ دست ها، استیل ضد زنگ، ساخت آلمان، نقره ای",
+    "model": "ماهیتابه استیل ۲۴ سانت فیسلر آلمان Fissler Original-Profi Collection",
     "category": "books-stationery",
     "subcategory": "کتاب",
-    "price": 26136000,
+    "price": 38746000,
     "currency": "IRT",
     "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%82%DB%8C%DA%86%DB%8C-%DA%86%D9%86%D8%AF-%D9%85%D9%86%D8%B8%D9%88%D8%B1%D9%87-ZWILLING-20-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D8%A7%D8%B3%D8%AA-%D8%AF%D8%B3%D8%AA-%D9%87%D8%A7-%D9%88-%DA%86%D9%BE-%D8%AF%D8%B3%D8%AA-%D9%87%D8%A7-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%DB%B2%DB%B4-%D8%B3%D8%A7%D9%86%D8%AA-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-Fissler-Original-Profi-Collection",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.865Z"
+    "observedAt": "2026-09-03T14:25:41.515Z"
+  },
+  {
+    "id": "torobshop-books-stationery-9087741222a89b21",
+    "productId": "torobshop-9087741222a89b21",
+    "name": "چاقوی آشپزی زولینگ آلمان ZWILLING Gourmet - 18 سانتی‌متر - استیل ضد زنگ - دسته پلاستیکی ارگونومیک - مشکی - تولید آلمان",
+    "brand": "",
+    "model": "چاقوی آشپزی زولینگ آلمان ZWILLING Gourmet - 18 سانتی‌متر - استیل ضد زنگ - دسته پلاستیکی ارگونومیک - مشکی - تولید آلمان",
+    "category": "books-stationery",
+    "subcategory": "کتاب",
+    "price": 23854000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%A2%D8%B4%D9%BE%D8%B2%DB%8C-ZWILLING-Gourmet-18-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%AF%D8%B3%D8%AA%D9%87-%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9%DB%8C-%D8%A7%D8%B1%DA%AF%D9%88%D9%86%D9%88%D9%85%DB%8C%DA%A9-%D9%85%D8%B4%DA%A9%DB%8C-%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D8%A2%D9%84%D9%85%D8%A7%D9%86",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T14:25:41.515Z"
   },
   {
     "id": "torobshop-books-stationery-1e0602d76b0e257a",
@@ -5757,7 +5703,61 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.865Z"
+    "observedAt": "2026-09-03T14:25:41.515Z"
+  },
+  {
+    "id": "torobshop-books-stationery-00bf5776f339768d",
+    "productId": "torobshop-00bf5776f339768d",
+    "name": "سرویس قابلمه ۵ پارچه فیسلر آلمان Fissler Palermo Edelstahl پالرمو شامل درب شیشه‌ای (۳ قابلمه، ۱ تابه کباب‌پزی، ۱ قابلمه کوچک) القایی",
+    "brand": "",
+    "model": "سرویس قابلمه ۵ پارچه فیسلر آلمان Fissler Palermo Edelstahl پالرمو شامل درب شیشه‌ای (۳ قابلمه، ۱ تابه کباب‌پزی، ۱ قابلمه کوچک) القایی",
+    "category": "books-stationery",
+    "subcategory": "کتاب",
+    "price": 54119000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B5-%D8%AA%DA%A9%D9%87-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%BE%D8%A7%D9%84%D8%B1%D9%85%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%87%D8%A7-%D8%B4%D8%A7%D9%85%D9%84-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%DB%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B1-%D8%AA%D8%A7%D8%A8%D9%87-%DA%A9%D8%A8%D8%A7%D8%A8-%D9%BE%D8%B2%DB%8C-%DB%B1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T14:25:41.515Z"
+  },
+  {
+    "id": "torobshop-books-stationery-3644b82267dd5165",
+    "productId": "torobshop-3644b82267dd5165",
+    "name": "بلوک چاقوی دوقلوی گورمت ZWILLING، 9 تکه، بلوک چوبی، مجموعه چاقو، میله تیزکن، قیچی، استیل مخصوص ضد زنگ، 9 تکه دوقلوی گورمت مشکی",
+    "brand": "",
+    "model": "بلوک چاقوی دوقلوی گورمت ZWILLING، 9 تکه، بلوک چوبی، مجموعه چاقو، میله تیزکن، قیچی، استیل مخصوص ضد زنگ، 9 تکه دوقلوی گورمت مشکی",
+    "category": "books-stationery",
+    "subcategory": "کتاب",
+    "price": 53543000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%A8%D9%84%D9%88%DA%A9-%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%AF%D9%88%D9%82%D9%84%D9%88%DB%8C-%DA%AF%D9%88%D8%B1%D9%85%D8%AA-ZWILLING-9-%D8%AA%DA%A9%D9%87-%D8%A8%D9%84%D9%88%DA%A9-%DA%86%D9%88%D8%A8%DB%8C-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%DA%86%D8%A7%D9%82%D9%88-%D9%85%DB%8C%D9%84%D9%87-%D8%AA%DB%8C%D8%B2%DA%A9%D9%86-%D9%82%DB%8C%DA%86%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-9-%D8%AA%DA%A9%D9%87-%D8%AF%D9%88%D9%82%D9%84%D9%88%DB%8C-%DA%AF%D9%88%D8%B1%D9%85%D8%AA-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T14:25:41.515Z"
+  },
+  {
+    "id": "torobshop-books-stationery-ace9b88e93544c94",
+    "productId": "torobshop-ace9b88e93544c94",
+    "name": "قیچی چند منظوره زولینگ آلمان ZWILLING، 20 سانتی متر، مناسب برای راست دست ها و چپ دست ها، استیل ضد زنگ، ساخت آلمان، نقره ای",
+    "brand": "",
+    "model": "قیچی چند منظوره زولینگ آلمان ZWILLING، 20 سانتی متر، مناسب برای راست دست ها و چپ دست ها، استیل ضد زنگ، ساخت آلمان، نقره ای",
+    "category": "books-stationery",
+    "subcategory": "کتاب",
+    "price": 26136000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%82%DB%8C%DA%86%DB%8C-%DA%86%D9%86%D8%AF-%D9%85%D9%86%D8%B8%D9%88%D8%B1%D9%87-ZWILLING-20-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D8%A7%D8%B3%D8%AA-%D8%AF%D8%B3%D8%AA-%D9%87%D8%A7-%D9%88-%DA%86%D9%BE-%D8%AF%D8%B3%D8%AA-%D9%87%D8%A7-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T14:25:41.515Z"
   },
   {
     "id": "torobshop-books-stationery-4dd091835a22ff69",
@@ -5775,7 +5775,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.865Z"
+    "observedAt": "2026-09-03T14:25:41.515Z"
   },
   {
     "id": "torobshop-books-stationery-a218f27039422c46",
@@ -5793,7 +5793,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.865Z"
+    "observedAt": "2026-09-03T14:25:41.515Z"
   },
   {
     "id": "torobshop-books-stationery-56cac7936a06e3f1",
@@ -5811,7 +5811,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.865Z"
+    "observedAt": "2026-09-03T14:25:41.515Z"
   },
   {
     "id": "torobshop-books-stationery-1fd1146f6f750aa9",
@@ -5829,7 +5829,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.865Z"
+    "observedAt": "2026-09-03T14:25:41.515Z"
   },
   {
     "id": "torobshop-books-stationery-e02164e6665f61ef",
@@ -5847,7 +5847,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.865Z"
+    "observedAt": "2026-09-03T14:25:41.515Z"
   },
   {
     "id": "torobshop-books-stationery-ffbee63b50d31684",
@@ -5865,7 +5865,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.865Z"
+    "observedAt": "2026-09-03T14:25:41.515Z"
   },
   {
     "id": "torobshop-books-stationery-97e8accc87d0f8bf",
@@ -5883,7 +5883,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.865Z"
+    "observedAt": "2026-09-03T14:25:41.515Z"
   },
   {
     "id": "torobshop-books-stationery-1dfcfd9dee587f60",
@@ -5901,7 +5901,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.865Z"
+    "observedAt": "2026-09-03T14:25:41.515Z"
   },
   {
     "id": "torobshop-books-stationery-8a5c15c91c1a9329",
@@ -5919,25 +5919,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.865Z"
-  },
-  {
-    "id": "torobshop-books-stationery-ef0157b54bf022f6",
-    "productId": "torobshop-ef0157b54bf022f6",
-    "name": "قیچی مرغ زولینگ آلمان ZWILLING، تیغه 12 سانتی‌متری، استیل ضد زنگ، نقره‌ای",
-    "brand": "",
-    "model": "قیچی مرغ زولینگ آلمان ZWILLING، تیغه 12 سانتی‌متری، استیل ضد زنگ، نقره‌ای",
-    "category": "books-stationery",
-    "subcategory": "کتاب",
-    "price": 26898000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%82%DB%8C%DA%86%DB%8C-%D9%85%D8%B1%D8%BA%D8%AF%D8%A7%D8%B1%DB%8C-ZWILLING-%D8%AA%DB%8C%D8%BA%D9%87-12-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.865Z"
+    "observedAt": "2026-09-03T14:25:41.515Z"
   },
   {
     "id": "torobshop-books-stationery-b131b88e24438d96",
@@ -5955,7 +5937,25 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.865Z"
+    "observedAt": "2026-09-03T14:25:41.515Z"
+  },
+  {
+    "id": "torobshop-books-stationery-ef0157b54bf022f6",
+    "productId": "torobshop-ef0157b54bf022f6",
+    "name": "قیچی مرغ زولینگ آلمان ZWILLING، تیغه 12 سانتی‌متری، استیل ضد زنگ، نقره‌ای",
+    "brand": "",
+    "model": "قیچی مرغ زولینگ آلمان ZWILLING، تیغه 12 سانتی‌متری، استیل ضد زنگ، نقره‌ای",
+    "category": "books-stationery",
+    "subcategory": "کتاب",
+    "price": 26898000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%82%DB%8C%DA%86%DB%8C-%D9%85%D8%B1%D8%BA%D8%AF%D8%A7%D8%B1%DB%8C-ZWILLING-%D8%AA%DB%8C%D8%BA%D9%87-12-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T14:25:41.515Z"
   },
   {
     "id": "torobshop-books-stationery-f4ac0f14bd21c6cf",
@@ -5973,7 +5973,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.865Z"
+    "observedAt": "2026-09-03T14:25:41.515Z"
   },
   {
     "id": "torobshop-books-stationery-f06d188d530004ad",
@@ -5991,7 +5991,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.865Z"
+    "observedAt": "2026-09-03T14:25:41.515Z"
   },
   {
     "id": "torobshop-books-stationery-4bffdb79ac43fe15",
@@ -6009,7 +6009,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.865Z"
+    "observedAt": "2026-09-03T14:25:41.515Z"
   },
   {
     "id": "torobshop-books-stationery-2f0597d05addbba1",
@@ -6027,7 +6027,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.865Z"
+    "observedAt": "2026-09-03T14:25:41.515Z"
   },
   {
     "id": "torobshop-books-stationery-fda1fe8cf4de5c5d",
@@ -6045,7 +6045,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.865Z"
+    "observedAt": "2026-09-03T14:25:41.515Z"
   },
   {
     "id": "torobshop-books-stationery-22200afc1cbeec02",
@@ -6063,7 +6063,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.865Z"
+    "observedAt": "2026-09-03T14:25:41.515Z"
   },
   {
     "id": "torobshop-books-stationery-595f1b954d0611bd",
@@ -6081,61 +6081,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.865Z"
-  },
-  {
-    "id": "torobshop-books-stationery-a02082729540664c",
-    "productId": "torobshop-a02082729540664c",
-    "name": "ست کامل وکیوم زولینگ آلمان ZWILLING Fresh & Save - شامل ۱۱ عدد کاسه شیشه‌ای و ۴ عدد کاسه سرامیکی - پمپ وکیوم",
-    "brand": "",
-    "model": "ست کامل وکیوم زولینگ آلمان ZWILLING Fresh & Save - شامل ۱۱ عدد کاسه شیشه‌ای و ۴ عدد کاسه سرامیکی - پمپ وکیوم",
-    "category": "books-stationery",
-    "subcategory": "کتاب",
-    "price": 45422000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%AA-%DA%A9%D8%A7%D9%85%D9%84-%D9%88%DA%A9%DB%8C%D9%88%D9%85-ZWILLING-Fresh-Save-%D8%B4%D8%A7%D9%85%D9%84-%DB%B1%DB%B1-%D8%B9%D8%AF%D8%AF-%DA%A9%D8%A7%D8%B3%D9%87-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D9%88-%DB%B4-%D8%B9%D8%AF%D8%AF-%DA%A9%D8%A7%D8%B3%D9%87-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%BE%D9%85%D9%BE-%D9%88%DA%A9%DB%8C%D9%88%D9%85",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.865Z"
-  },
-  {
-    "id": "torobshop-books-stationery-f4e7843bb5d4eb60",
-    "productId": "torobshop-f4e7843bb5d4eb60",
-    "name": "قیچی چند منظوره زولینگ آلمان ZWILLING، قیچی جهانی، طول: 20 سانتی متر، استیل ضد زنگ مخصوص، کمک آشپزخانه، قرمز",
-    "brand": "",
-    "model": "قیچی چند منظوره زولینگ آلمان ZWILLING، قیچی جهانی، طول: 20 سانتی متر، استیل ضد زنگ مخصوص، کمک آشپزخانه، قرمز",
-    "category": "books-stationery",
-    "subcategory": "کتاب",
-    "price": 14464000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%82%DB%8C%DA%86%DB%8C-%DA%86%D9%86%D8%AF-%D9%85%D9%86%D8%B8%D9%88%D8%B1%D9%87-ZWILLING-%D9%82%DB%8C%DA%86%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%B7%D9%88%D9%84-20-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%DA%A9%D9%85%DA%A9-%D8%A2%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87-%D9%82%D8%B1%D9%85%D8%B2",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.865Z"
-  },
-  {
-    "id": "torobshop-books-stationery-f26fbc6e8dbee708",
-    "productId": "torobshop-f26fbc6e8dbee708",
-    "name": "قیچی چند منظوره زولینگ آلمان ZWILLING Twin L، 20 سانتی متر، قیچی آشپزخانه برای کاربران راست دست و چپ دست، استیل ضد زنگ، مشکی",
-    "brand": "",
-    "model": "قیچی چند منظوره زولینگ آلمان ZWILLING Twin L، 20 سانتی متر، قیچی آشپزخانه برای کاربران راست دست و چپ دست، استیل ضد زنگ، مشکی",
-    "category": "books-stationery",
-    "subcategory": "کتاب",
-    "price": 14717000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%82%DB%8C%DA%86%DB%8C-%DA%86%D9%86%D8%AF-%D9%85%D9%86%D8%B8%D9%88%D8%B1%D9%87-ZWILLING-Twin-L-20-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%82%DB%8C%DA%86%DB%8C-%D8%A2%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%A7%D9%86-%D8%B1%D8%A7%D8%B3%D8%AA-%D8%AF%D8%B3%D8%AA-%D9%88-%DA%86%D9%BE-%D8%AF%D8%B3%D8%AA-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.865Z"
+    "observedAt": "2026-09-03T14:25:41.515Z"
   },
   {
     "id": "torobshop-books-stationery-736fe4049676a61e",
@@ -6153,7 +6099,61 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.865Z"
+    "observedAt": "2026-09-03T14:25:41.515Z"
+  },
+  {
+    "id": "torobshop-books-stationery-a02082729540664c",
+    "productId": "torobshop-a02082729540664c",
+    "name": "ست کامل وکیوم زولینگ آلمان ZWILLING Fresh & Save - شامل ۱۱ عدد کاسه شیشه‌ای و ۴ عدد کاسه سرامیکی - پمپ وکیوم",
+    "brand": "",
+    "model": "ست کامل وکیوم زولینگ آلمان ZWILLING Fresh & Save - شامل ۱۱ عدد کاسه شیشه‌ای و ۴ عدد کاسه سرامیکی - پمپ وکیوم",
+    "category": "books-stationery",
+    "subcategory": "کتاب",
+    "price": 45422000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%AA-%DA%A9%D8%A7%D9%85%D9%84-%D9%88%DA%A9%DB%8C%D9%88%D9%85-ZWILLING-Fresh-Save-%D8%B4%D8%A7%D9%85%D9%84-%DB%B1%DB%B1-%D8%B9%D8%AF%D8%AF-%DA%A9%D8%A7%D8%B3%D9%87-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D9%88-%DB%B4-%D8%B9%D8%AF%D8%AF-%DA%A9%D8%A7%D8%B3%D9%87-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%BE%D9%85%D9%BE-%D9%88%DA%A9%DB%8C%D9%88%D9%85",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T14:25:41.515Z"
+  },
+  {
+    "id": "torobshop-books-stationery-f4e7843bb5d4eb60",
+    "productId": "torobshop-f4e7843bb5d4eb60",
+    "name": "قیچی چند منظوره زولینگ آلمان ZWILLING، قیچی جهانی، طول: 20 سانتی متر، استیل ضد زنگ مخصوص، کمک آشپزخانه، قرمز",
+    "brand": "",
+    "model": "قیچی چند منظوره زولینگ آلمان ZWILLING، قیچی جهانی، طول: 20 سانتی متر، استیل ضد زنگ مخصوص، کمک آشپزخانه، قرمز",
+    "category": "books-stationery",
+    "subcategory": "کتاب",
+    "price": 14464000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%82%DB%8C%DA%86%DB%8C-%DA%86%D9%86%D8%AF-%D9%85%D9%86%D8%B8%D9%88%D8%B1%D9%87-ZWILLING-%D9%82%DB%8C%DA%86%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%B7%D9%88%D9%84-20-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%DA%A9%D9%85%DA%A9-%D8%A2%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87-%D9%82%D8%B1%D9%85%D8%B2",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T14:25:41.515Z"
+  },
+  {
+    "id": "torobshop-books-stationery-f26fbc6e8dbee708",
+    "productId": "torobshop-f26fbc6e8dbee708",
+    "name": "قیچی چند منظوره زولینگ آلمان ZWILLING Twin L، 20 سانتی متر، قیچی آشپزخانه برای کاربران راست دست و چپ دست، استیل ضد زنگ، مشکی",
+    "brand": "",
+    "model": "قیچی چند منظوره زولینگ آلمان ZWILLING Twin L، 20 سانتی متر، قیچی آشپزخانه برای کاربران راست دست و چپ دست، استیل ضد زنگ، مشکی",
+    "category": "books-stationery",
+    "subcategory": "کتاب",
+    "price": 14717000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%82%DB%8C%DA%86%DB%8C-%DA%86%D9%86%D8%AF-%D9%85%D9%86%D8%B8%D9%88%D8%B1%D9%87-ZWILLING-Twin-L-20-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%82%DB%8C%DA%86%DB%8C-%D8%A2%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%A7%D9%86-%D8%B1%D8%A7%D8%B3%D8%AA-%D8%AF%D8%B3%D8%AA-%D9%88-%DA%86%D9%BE-%D8%AF%D8%B3%D8%AA-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T14:25:41.515Z"
   },
   {
     "id": "torobshop-books-stationery-3d13a34700e027c0",
@@ -6171,7 +6171,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.865Z"
+    "observedAt": "2026-09-03T14:25:41.515Z"
   },
   {
     "id": "torobshop-books-stationery-19319bed3e2f6069",
@@ -6189,7 +6189,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.865Z"
+    "observedAt": "2026-09-03T14:25:41.515Z"
   },
   {
     "id": "torobshop-books-stationery-7ac6bac20ad12a2d",
@@ -6207,7 +6207,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.865Z"
+    "observedAt": "2026-09-03T14:25:41.515Z"
   },
   {
     "id": "torobshop-books-stationery-f091c9e920c8e1fb",
@@ -6225,7 +6225,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.865Z"
+    "observedAt": "2026-09-03T14:25:41.515Z"
   },
   {
     "id": "torobshop-books-stationery-fbbfc333137fef0f",
@@ -6243,7 +6243,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.865Z"
+    "observedAt": "2026-09-03T14:25:41.515Z"
   },
   {
     "id": "torobshop-books-stationery-98b213756a0f63d3",
@@ -6261,25 +6261,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.865Z"
-  },
-  {
-    "id": "torobshop-books-stationery-f596668a95c6181a",
-    "productId": "torobshop-f596668a95c6181a",
-    "name": "قیچی خانگی زولینگ آلمان ZWILLING Twin L، استیل ضد زنگ، دسته پلاستیکی، ۱۳۰ میلی‌متر، مشکی",
-    "brand": "",
-    "model": "قیچی خانگی زولینگ آلمان ZWILLING Twin L، استیل ضد زنگ، دسته پلاستیکی، ۱۳۰ میلی‌متر، مشکی",
-    "category": "books-stationery",
-    "subcategory": "کتاب",
-    "price": 15226000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%82%DB%8C%DA%86%DB%8C-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C-ZWILLING-Twin-L-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%AF%D8%B3%D8%AA%D9%87-%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9%DB%8C-%DB%B1%DB%B3%DB%B0-%D9%85%DB%8C%D9%84%DB%8C-%D9%85%D8%AA%D8%B1-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.865Z"
+    "observedAt": "2026-09-03T14:25:41.515Z"
   },
   {
     "id": "torobshop-books-stationery-4b3421328c1ce066",
@@ -6289,15 +6271,33 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "model": "قیچی چند منظوره زولینگ آلمان ZWILLING، قیچی جهانی، طول: 20 سانتی متر، استیل ضد زنگ مخصوص، کمک آشپزخانه، مشکی",
     "category": "books-stationery",
     "subcategory": "کتاب",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
+    "price": 16240000,
+    "currency": "IRT",
+    "availability": "in_stock",
     "productUrl": "https://torobshop.com/products/%D9%82%DB%8C%DA%86%DB%8C-%DA%86%D9%86%D8%AF-%D9%85%D9%86%D8%B8%D9%88%D8%B1%D9%87-ZWILLING-%D9%82%DB%8C%DA%86%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%B7%D9%88%D9%84-20-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%DA%A9%D9%85%DA%A9-%D8%A2%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87-%D9%85%D8%B4%DA%A9%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.865Z"
+    "observedAt": "2026-09-03T14:25:41.515Z"
+  },
+  {
+    "id": "torobshop-books-stationery-c7fa60def079c000",
+    "productId": "torobshop-c7fa60def079c000",
+    "name": "چاقوی چهار ستاره ZWILLING، 7 تکه، چوب راش، چاقوها، فولاد تیزکن و قیچی، دسته استیل ضد زنگ/پلاستیکی ارگونومیک، مشکی [ساخت آلمان] 7 تکه چهار ستاره",
+    "brand": "",
+    "model": "چاقوی چهار ستاره ZWILLING، 7 تکه، چوب راش، چاقوها، فولاد تیزکن و قیچی، دسته استیل ضد زنگ/پلاستیکی ارگونومیک، مشکی [ساخت آلمان] 7 تکه چهار ستاره",
+    "category": "books-stationery",
+    "subcategory": "کتاب",
+    "price": 58365000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%DA%86%D8%A7%D9%82%D9%88%DB%8C-%DA%86%D9%87%D8%A7%D8%B1-%D8%B3%D8%AA%D8%A7%D8%B1%D9%87-ZWILLING-7-%D8%AA%DA%A9%D9%87-%DA%86%D9%88%D8%A8-%D8%B1%D8%A7%D8%B4-%DA%86%D8%A7%D9%82%D9%88%D9%87%D8%A7-%D9%81%D9%88%D9%84%D8%A7%D8%AF-%D8%AA%DB%8C%D8%B2%DA%A9%D9%86-%D9%88-%D9%82%DB%8C%DA%86%DB%8C-%D8%AF%D8%B3%D8%AA%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9%DB%8C-%D8%A7%D8%B1%DA%AF%D9%88%D9%86%D9%88%D9%85%DB%8C%DA%A9-%D9%85%D8%B4%DA%A9%DB%8C-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-7-%D8%AA%DA%A9%D9%87-%DA%86%D9%87%D8%A7%D8%B1-%D8%B3%D8%AA%D8%A7%D8%B1%D9%87",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T14:25:41.515Z"
   },
   {
     "id": "torobshop-books-stationery-d3f802410104b943",
@@ -6315,7 +6315,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.865Z"
+    "observedAt": "2026-09-03T14:25:41.515Z"
   },
   {
     "id": "torobshop-books-stationery-0f347f93a4676672",
@@ -6333,7 +6333,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.865Z"
+    "observedAt": "2026-09-03T14:25:41.515Z"
   },
   {
     "id": "torobshop-books-stationery-cb5f45612fc319e4",
@@ -6351,7 +6351,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.865Z"
+    "observedAt": "2026-09-03T14:25:41.515Z"
   },
   {
     "id": "torobshop-books-stationery-a447d48449c2d499",
@@ -6369,7 +6369,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.865Z"
+    "observedAt": "2026-09-03T14:25:41.515Z"
   },
   {
     "id": "torobshop-books-stationery-71ebfae235e91ed5",
@@ -6387,7 +6387,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.865Z"
+    "observedAt": "2026-09-03T14:25:41.515Z"
   },
   {
     "id": "torobshop-books-stationery-51edff8c55bfb262",
@@ -6405,7 +6405,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.865Z"
+    "observedAt": "2026-09-03T14:25:41.515Z"
   },
   {
     "id": "torobshop-books-stationery-6bc05672d0e139cd",
@@ -6423,7 +6423,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.865Z"
+    "observedAt": "2026-09-03T14:25:41.515Z"
   },
   {
     "id": "torobshop-books-stationery-f99dae95f9641652",
@@ -6441,7 +6441,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.865Z"
+    "observedAt": "2026-09-03T14:25:41.515Z"
   },
   {
     "id": "torobshop-books-stationery-6b776fc230756800",
@@ -6459,7 +6459,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.865Z"
+    "observedAt": "2026-09-03T14:25:41.515Z"
   },
   {
     "id": "torobshop-books-stationery-f2622dc414824191",
@@ -6477,7 +6477,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.865Z"
+    "observedAt": "2026-09-03T14:25:41.515Z"
   },
   {
     "id": "torobshop-books-stationery-640c8324f81a46bb",
@@ -6495,7 +6495,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.865Z"
+    "observedAt": "2026-09-03T14:25:41.515Z"
   },
   {
     "id": "torobshop-books-stationery-43b61e0733cc7171",
@@ -6513,7 +6513,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.865Z"
+    "observedAt": "2026-09-03T14:25:41.515Z"
   },
   {
     "id": "torobshop-books-stationery-c54b5b958054a1a2",
@@ -6531,7 +6531,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.865Z"
+    "observedAt": "2026-09-03T14:25:41.515Z"
   },
   {
     "id": "torobshop-books-stationery-7f66ba1a4f7ddbfb",
@@ -6549,7 +6549,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.865Z"
+    "observedAt": "2026-09-03T14:25:41.516Z"
   },
   {
     "id": "torobshop-books-stationery-f699a00edc06f489",
@@ -6567,25 +6567,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.865Z"
-  },
-  {
-    "id": "torobshop-books-stationery-a942a79dda5b87df",
-    "productId": "torobshop-a942a79dda5b87df",
-    "name": "اپیلاتور فیلیپس هلند Philips BRE740/10 خشک و تر برای پاها و بدن، با 9 لوازم جانبی",
-    "brand": "",
-    "model": "اپیلاتور فیلیپس هلند Philips BRE740/10 خشک و تر برای پاها و بدن، با 9 لوازم جانبی",
-    "category": "books-stationery",
-    "subcategory": "کتاب",
-    "price": 35252000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%B3%D8%B1%DB%8C-8000-%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%A8%DB%8C-%D8%B3%DB%8C%D9%85-%D8%AE%D8%B4%DA%A9-%D9%88-%D8%AA%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D8%A7%D9%87%D8%A7-%D9%88-%D8%A8%D8%AF%D9%86-%D8%A8%D8%A7-9-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%85%D9%88%DB%8C-%D8%A8%D9%84%D9%86%D8%AF-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%BE%D8%AF%DB%8C%DA%A9%D9%88%D8%B1-%D9%88-%D8%A7%D8%B3%DA%A9%D8%B1%D8%A7%D8%A8-%D8%A8%D8%AF%D9%86-%D9%85%D8%AF%D9%84-BRE740-10",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.865Z"
+    "observedAt": "2026-09-03T14:25:41.516Z"
   },
   {
     "id": "torobshop-books-stationery-af7462ce98ee2999",
@@ -6603,7 +6585,25 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.866Z"
+    "observedAt": "2026-09-03T14:25:41.516Z"
+  },
+  {
+    "id": "torobshop-books-stationery-a942a79dda5b87df",
+    "productId": "torobshop-a942a79dda5b87df",
+    "name": "اپیلاتور فیلیپس هلند Philips BRE740/10 خشک و تر برای پاها و بدن، با 9 لوازم جانبی",
+    "brand": "",
+    "model": "اپیلاتور فیلیپس هلند Philips BRE740/10 خشک و تر برای پاها و بدن، با 9 لوازم جانبی",
+    "category": "books-stationery",
+    "subcategory": "کتاب",
+    "price": 35252000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%B3%D8%B1%DB%8C-8000-%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%A8%DB%8C-%D8%B3%DB%8C%D9%85-%D8%AE%D8%B4%DA%A9-%D9%88-%D8%AA%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D8%A7%D9%87%D8%A7-%D9%88-%D8%A8%D8%AF%D9%86-%D8%A8%D8%A7-9-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%85%D9%88%DB%8C-%D8%A8%D9%84%D9%86%D8%AF-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%BE%D8%AF%DB%8C%DA%A9%D9%88%D8%B1-%D9%88-%D8%A7%D8%B3%DA%A9%D8%B1%D8%A7%D8%A8-%D8%A8%D8%AF%D9%86-%D9%85%D8%AF%D9%84-BRE740-10",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T14:25:41.516Z"
   },
   {
     "id": "torobshop-books-stationery-7c82cddc2d9efd1c",
@@ -6621,7 +6621,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.866Z"
+    "observedAt": "2026-09-03T14:25:41.516Z"
   },
   {
     "id": "torobshop-books-stationery-e4ec7bd10ffa8b50",
@@ -6639,7 +6639,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.866Z"
+    "observedAt": "2026-09-03T14:25:41.516Z"
   },
   {
     "id": "torobshop-books-stationery-f6c6e72a28882975",
@@ -6657,7 +6657,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.866Z"
+    "observedAt": "2026-09-03T14:25:41.516Z"
   },
   {
     "id": "torobshop-books-stationery-7bbb1f19505b28fd",
@@ -6675,7 +6675,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.866Z"
+    "observedAt": "2026-09-03T14:25:41.516Z"
   },
   {
     "id": "torobshop-books-stationery-a59cff30443c154a",
@@ -6693,7 +6693,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.866Z"
+    "observedAt": "2026-09-03T14:25:41.516Z"
   },
   {
     "id": "torobshop-books-stationery-5bc21e4edaa526cc",
@@ -6711,7 +6711,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.866Z"
+    "observedAt": "2026-09-03T14:25:41.516Z"
   },
   {
     "id": "torobshop-books-stationery-45d6aa9c3fd53ad4",
@@ -6729,7 +6729,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.866Z"
+    "observedAt": "2026-09-03T14:25:41.516Z"
   },
   {
     "id": "torobshop-books-stationery-1abb58c93aa4d049",
@@ -6747,7 +6747,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.866Z"
+    "observedAt": "2026-09-03T14:25:41.516Z"
   },
   {
     "id": "torobshop-books-stationery-9d62a66000d436e1",
@@ -6765,7 +6765,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.866Z"
+    "observedAt": "2026-09-03T14:25:41.516Z"
   },
   {
     "id": "torobshop-books-stationery-c876f51b5b5d7dae",
@@ -6783,7 +6783,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.866Z"
+    "observedAt": "2026-09-03T14:25:41.516Z"
   },
   {
     "id": "torobshop-books-stationery-400b05dca029ee01",
@@ -6801,7 +6801,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.866Z"
+    "observedAt": "2026-09-03T14:25:41.516Z"
   },
   {
     "id": "torobshop-books-stationery-27109e9fc58673fd",
@@ -6819,7 +6819,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.866Z"
+    "observedAt": "2026-09-03T14:25:41.516Z"
   },
   {
     "id": "torobshop-books-stationery-d6551c8766b38613",
@@ -6837,7 +6837,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.866Z"
+    "observedAt": "2026-09-03T14:25:41.516Z"
   },
   {
     "id": "torobshop-books-stationery-6c0960e9008fddf6",
@@ -6855,7 +6855,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.866Z"
+    "observedAt": "2026-09-03T14:25:41.516Z"
   },
   {
     "id": "torobshop-books-stationery-074febbf09bd3065",
@@ -6873,7 +6873,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.866Z"
+    "observedAt": "2026-09-03T14:25:41.516Z"
   },
   {
     "id": "torobshop-books-stationery-766b0f80e67074f9",
@@ -6891,7 +6891,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.866Z"
+    "observedAt": "2026-09-03T14:25:41.516Z"
   },
   {
     "id": "torobshop-books-stationery-2cb3b869608c8a13",
@@ -6909,7 +6909,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.866Z"
+    "observedAt": "2026-09-03T14:25:41.516Z"
   },
   {
     "id": "torobshop-books-stationery-508a955227952a9d",
@@ -6927,7 +6927,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.866Z"
+    "observedAt": "2026-09-03T14:25:41.516Z"
   },
   {
     "id": "torobshop-books-stationery-5e70d562a3ef7192",
@@ -6945,7 +6945,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.866Z"
+    "observedAt": "2026-09-03T14:25:41.516Z"
   },
   {
     "id": "torobshop-books-stationery-967849182031e292",
@@ -6963,7 +6963,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.866Z"
+    "observedAt": "2026-09-03T14:25:41.516Z"
   },
   {
     "id": "torobshop-books-stationery-dc3a8d1c6feb961b",
@@ -6981,7 +6981,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.866Z"
+    "observedAt": "2026-09-03T14:25:41.516Z"
   },
   {
     "id": "torobshop-books-stationery-6e4a2eb26d23a745",
@@ -6999,7 +6999,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.866Z"
+    "observedAt": "2026-09-03T14:25:41.516Z"
   },
   {
     "id": "torobshop-books-stationery-b6d1e42e39dc67ab",
@@ -7017,7 +7017,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.866Z"
+    "observedAt": "2026-09-03T14:25:41.516Z"
   },
   {
     "id": "torobshop-books-stationery-2182240d0b4b05fe",
@@ -7035,7 +7035,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.866Z"
+    "observedAt": "2026-09-03T14:25:41.516Z"
   },
   {
     "id": "torobshop-books-stationery-8b93c7ea550544bf",
@@ -7053,7 +7053,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.866Z"
+    "observedAt": "2026-09-03T14:25:41.516Z"
   },
   {
     "id": "torobshop-books-stationery-e93d0f8dd3711a93",
@@ -7071,7 +7071,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.866Z"
+    "observedAt": "2026-09-03T14:25:41.516Z"
   },
   {
     "id": "torobshop-books-stationery-52384f9bcf5e57ca",
@@ -7089,7 +7089,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.866Z"
+    "observedAt": "2026-09-03T14:25:41.516Z"
   },
   {
     "id": "torobshop-books-stationery-391c9855ce3adbee",
@@ -7107,7 +7107,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.866Z"
+    "observedAt": "2026-09-03T14:25:41.516Z"
   },
   {
     "id": "torobshop-books-stationery-7c140bba2434e29a",
@@ -7125,7 +7125,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.866Z"
+    "observedAt": "2026-09-03T14:25:41.516Z"
   },
   {
     "id": "torobshop-books-stationery-733ef1e66d9b337b",
@@ -7143,7 +7143,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.866Z"
+    "observedAt": "2026-09-03T14:25:41.516Z"
   },
   {
     "id": "torobshop-books-stationery-6ba05ec79330884d",
@@ -7161,7 +7161,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.866Z"
+    "observedAt": "2026-09-03T14:25:41.516Z"
   },
   {
     "id": "torobshop-books-stationery-80504a6da4da0683",
@@ -7179,7 +7179,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.866Z"
+    "observedAt": "2026-09-03T14:25:41.516Z"
   },
   {
     "id": "torobshop-books-stationery-f0ab07848df05c09",
@@ -7197,7 +7197,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.866Z"
+    "observedAt": "2026-09-03T14:25:41.516Z"
   },
   {
     "id": "torobshop-books-stationery-9195692751acb6cb",
@@ -7215,7 +7215,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.866Z"
+    "observedAt": "2026-09-03T14:25:41.516Z"
   },
   {
     "id": "torobshop-books-stationery-e364f422cc177d5d",
@@ -7233,7 +7233,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.866Z"
+    "observedAt": "2026-09-03T14:25:41.516Z"
   },
   {
     "id": "torobshop-books-stationery-f7e7ecdbe9c782b9",
@@ -7251,7 +7251,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.866Z"
+    "observedAt": "2026-09-03T14:25:41.516Z"
   },
   {
     "id": "torobshop-books-stationery-b6f7b97e0a41fcce",
@@ -7269,7 +7269,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.866Z"
+    "observedAt": "2026-09-03T14:25:41.516Z"
   },
   {
     "id": "torobshop-books-stationery-7f7cef16b95ceef4",
@@ -7287,61 +7287,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.866Z"
-  },
-  {
-    "id": "torobshop-books-stationery-1abc4d3d93984fc9",
-    "productId": "torobshop-1abc4d3d93984fc9",
-    "name": "ریش‌تراش برقی بی‌سیم فیلیپس لیدی شیور سری 6000 برای اصلاح خشک و مرطوب، سیستم اصلاح 3 تیغه، برای پاها و بدن، 80 دقیقه زمان کارکرد، مدل BRL127/00",
-    "brand": "",
-    "model": "ریش‌تراش برقی بی‌سیم فیلیپس لیدی شیور سری 6000 برای اصلاح خشک و مرطوب، سیستم اصلاح 3 تیغه، برای پاها و بدن، 80 دقیقه زمان کارکرد، مدل BRL127/00",
-    "category": "books-stationery",
-    "subcategory": "کتاب",
-    "price": 15986000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D8%A8%D8%B1%D9%82%DB%8C-%D8%A8%DB%8C-%D8%B3%DB%8C%D9%85-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%84%DB%8C%D8%AF%DB%8C-%D8%B4%DB%8C%D9%88%D8%B1-%D8%B3%D8%B1%DB%8C-6000-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%AE%D8%B4%DA%A9-%D9%88-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D8%B3%DB%8C%D8%B3%D8%AA%D9%85-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-3-%D8%AA%DB%8C%D8%BA%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D8%A7%D9%87%D8%A7-%D9%88-%D8%A8%D8%AF%D9%86-80-%D8%AF%D9%82%DB%8C%D9%82%D9%87-%D8%B2%D9%85%D8%A7%D9%86-%DA%A9%D8%A7%D8%B1%DA%A9%D8%B1%D8%AF-%D9%85%D8%AF%D9%84-BRL127-00",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.866Z"
-  },
-  {
-    "id": "torobshop-books-stationery-fb66328b02aeada9",
-    "productId": "torobshop-fb66328b02aeada9",
-    "name": "اپیلاتور برقی براون مدل Silk-épil 5-825 Power، مخصوص خانم‌ها، رفع موهای زائد ملایم، قدرت مداوم با سیم، سری تیغ و کلاهک، ناحیه بیکینی، سفید/بنفش. قدرت مداوم با سیم، سری تیغ و کلاهک، ناحیه بیکینی.",
-    "brand": "",
-    "model": "اپیلاتور برقی براون مدل Silk-épil 5-825 Power، مخصوص خانم‌ها، رفع موهای زائد ملایم، قدرت مداوم با سیم، سری تیغ و کلاهک، ناحیه بیکینی، سفید/بنفش. قدرت مداوم با سیم، سری تیغ و کلاهک، ناحیه بیکینی.",
-    "category": "books-stationery",
-    "subcategory": "کتاب",
-    "price": 26136000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%A8%D8%B1%D9%82%DB%8C-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D9%85%D8%AF%D9%84-Silk-pil-5-825-Power-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%AE%D8%A7%D9%86%D9%85-%D9%87%D8%A7-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D9%85%D9%84%D8%A7%DB%8C%D9%85-%D9%82%D8%AF%D8%B1%D8%AA-%D9%85%D8%AF%D8%A7%D9%88%D9%85-%D8%A8%D8%A7-%D8%B3%DB%8C%D9%85-%D8%B3%D8%B1%DB%8C-%D8%AA%DB%8C%D8%BA-%D9%88-%DA%A9%D9%84%D8%A7%D9%87%DA%A9-%D9%86%D8%A7%D8%AD%DB%8C%D9%87-%D8%A8%DB%8C%DA%A9%DB%8C%D9%86%DB%8C-%D8%B3%D9%81%DB%8C%D8%AF-%D8%A8%D9%86%D9%81%D8%B4-%D9%82%D8%AF%D8%B1%D8%AA-%D9%85%D8%AF%D8%A7%D9%88%D9%85-%D8%A8%D8%A7-%D8%B3%DB%8C%D9%85-%D8%B3%D8%B1%DB%8C-%D8%AA%DB%8C%D8%BA-%D9%88-%DA%A9%D9%84%D8%A7%D9%87%DA%A9-%D9%86%D8%A7%D8%AD%DB%8C%D9%87-%D8%A8%DB%8C%DA%A9%DB%8C%D9%86%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.866Z"
-  },
-  {
-    "id": "torobshop-books-stationery-333eed5c812fb391",
-    "productId": "torobshop-333eed5c812fb391",
-    "name": "دستگاه لیزر بدن بانوان براون آلمان رفع موهای زائد، Silk·expert Pro 5، PL5442، سفید/طلایی - لیزر جایگزین برای رفع موهای زائد خانگی، رفع دائمی موهای زائد، شامل کیف، مینی ریش‌تراش، تیغ ونوس و 4 وسیله جانبی",
-    "brand": "",
-    "model": "دستگاه لیزر بدن بانوان براون آلمان رفع موهای زائد، Silk·expert Pro 5، PL5442، سفید/طلایی - لیزر جایگزین برای رفع موهای زائد خانگی، رفع دائمی موهای زائد، شامل کیف، مینی ریش‌تراش، تیغ ونوس و 4 وسیله جانبی",
-    "category": "books-stationery",
-    "subcategory": "کتاب",
-    "price": 170273000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-IPL-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Silk-expert-Pro-5-PL5442-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C-%D9%84%DB%8C%D8%B2%D8%B1-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C-%D8%B1%D9%81%D8%B9-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%B4%D8%A7%D9%85%D9%84-%DA%A9%DB%8C%D9%81-%D9%85%DB%8C%D9%86%DB%8C-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D8%AA%DB%8C%D8%BA-%D9%88%D9%86%D9%88%D8%B3-%D9%88-4-%D9%88%D8%B3%DB%8C%D9%84%D9%87-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.866Z"
+    "observedAt": "2026-09-03T14:25:41.516Z"
   },
   {
     "id": "torobshop-books-stationery-d5e3206967150e5a",
@@ -7359,7 +7305,61 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.866Z"
+    "observedAt": "2026-09-03T14:25:41.516Z"
+  },
+  {
+    "id": "torobshop-books-stationery-1abc4d3d93984fc9",
+    "productId": "torobshop-1abc4d3d93984fc9",
+    "name": "ریش‌تراش برقی بی‌سیم فیلیپس لیدی شیور سری 6000 برای اصلاح خشک و مرطوب، سیستم اصلاح 3 تیغه، برای پاها و بدن، 80 دقیقه زمان کارکرد، مدل BRL127/00",
+    "brand": "",
+    "model": "ریش‌تراش برقی بی‌سیم فیلیپس لیدی شیور سری 6000 برای اصلاح خشک و مرطوب، سیستم اصلاح 3 تیغه، برای پاها و بدن، 80 دقیقه زمان کارکرد، مدل BRL127/00",
+    "category": "books-stationery",
+    "subcategory": "کتاب",
+    "price": 15986000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D8%A8%D8%B1%D9%82%DB%8C-%D8%A8%DB%8C-%D8%B3%DB%8C%D9%85-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%84%DB%8C%D8%AF%DB%8C-%D8%B4%DB%8C%D9%88%D8%B1-%D8%B3%D8%B1%DB%8C-6000-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%AE%D8%B4%DA%A9-%D9%88-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D8%B3%DB%8C%D8%B3%D8%AA%D9%85-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-3-%D8%AA%DB%8C%D8%BA%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D8%A7%D9%87%D8%A7-%D9%88-%D8%A8%D8%AF%D9%86-80-%D8%AF%D9%82%DB%8C%D9%82%D9%87-%D8%B2%D9%85%D8%A7%D9%86-%DA%A9%D8%A7%D8%B1%DA%A9%D8%B1%D8%AF-%D9%85%D8%AF%D9%84-BRL127-00",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T14:25:41.516Z"
+  },
+  {
+    "id": "torobshop-books-stationery-fb66328b02aeada9",
+    "productId": "torobshop-fb66328b02aeada9",
+    "name": "اپیلاتور برقی براون مدل Silk-épil 5-825 Power، مخصوص خانم‌ها، رفع موهای زائد ملایم، قدرت مداوم با سیم، سری تیغ و کلاهک، ناحیه بیکینی، سفید/بنفش. قدرت مداوم با سیم، سری تیغ و کلاهک، ناحیه بیکینی.",
+    "brand": "",
+    "model": "اپیلاتور برقی براون مدل Silk-épil 5-825 Power، مخصوص خانم‌ها، رفع موهای زائد ملایم، قدرت مداوم با سیم، سری تیغ و کلاهک، ناحیه بیکینی، سفید/بنفش. قدرت مداوم با سیم، سری تیغ و کلاهک، ناحیه بیکینی.",
+    "category": "books-stationery",
+    "subcategory": "کتاب",
+    "price": 26136000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%A8%D8%B1%D9%82%DB%8C-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D9%85%D8%AF%D9%84-Silk-pil-5-825-Power-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%AE%D8%A7%D9%86%D9%85-%D9%87%D8%A7-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D9%85%D9%84%D8%A7%DB%8C%D9%85-%D9%82%D8%AF%D8%B1%D8%AA-%D9%85%D8%AF%D8%A7%D9%88%D9%85-%D8%A8%D8%A7-%D8%B3%DB%8C%D9%85-%D8%B3%D8%B1%DB%8C-%D8%AA%DB%8C%D8%BA-%D9%88-%DA%A9%D9%84%D8%A7%D9%87%DA%A9-%D9%86%D8%A7%D8%AD%DB%8C%D9%87-%D8%A8%DB%8C%DA%A9%DB%8C%D9%86%DB%8C-%D8%B3%D9%81%DB%8C%D8%AF-%D8%A8%D9%86%D9%81%D8%B4-%D9%82%D8%AF%D8%B1%D8%AA-%D9%85%D8%AF%D8%A7%D9%88%D9%85-%D8%A8%D8%A7-%D8%B3%DB%8C%D9%85-%D8%B3%D8%B1%DB%8C-%D8%AA%DB%8C%D8%BA-%D9%88-%DA%A9%D9%84%D8%A7%D9%87%DA%A9-%D9%86%D8%A7%D8%AD%DB%8C%D9%87-%D8%A8%DB%8C%DA%A9%DB%8C%D9%86%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T14:25:41.516Z"
+  },
+  {
+    "id": "torobshop-books-stationery-333eed5c812fb391",
+    "productId": "torobshop-333eed5c812fb391",
+    "name": "دستگاه لیزر بدن بانوان براون آلمان رفع موهای زائد، Silk·expert Pro 5، PL5442، سفید/طلایی - لیزر جایگزین برای رفع موهای زائد خانگی، رفع دائمی موهای زائد، شامل کیف، مینی ریش‌تراش، تیغ ونوس و 4 وسیله جانبی",
+    "brand": "",
+    "model": "دستگاه لیزر بدن بانوان براون آلمان رفع موهای زائد، Silk·expert Pro 5، PL5442، سفید/طلایی - لیزر جایگزین برای رفع موهای زائد خانگی، رفع دائمی موهای زائد، شامل کیف، مینی ریش‌تراش، تیغ ونوس و 4 وسیله جانبی",
+    "category": "books-stationery",
+    "subcategory": "کتاب",
+    "price": 170273000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-IPL-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Silk-expert-Pro-5-PL5442-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C-%D9%84%DB%8C%D8%B2%D8%B1-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C-%D8%B1%D9%81%D8%B9-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%B4%D8%A7%D9%85%D9%84-%DA%A9%DB%8C%D9%81-%D9%85%DB%8C%D9%86%DB%8C-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D8%AA%DB%8C%D8%BA-%D9%88%D9%86%D9%88%D8%B3-%D9%88-4-%D9%88%D8%B3%DB%8C%D9%84%D9%87-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-03T14:25:41.516Z"
   },
   {
     "id": "torobshop-books-stationery-2a6259b902f04fb9",
@@ -7377,7 +7377,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.866Z"
+    "observedAt": "2026-09-03T14:25:41.516Z"
   },
   {
     "id": "torobshop-books-stationery-4b1136653b8c3865",
@@ -7395,7 +7395,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.866Z"
+    "observedAt": "2026-09-03T14:25:41.516Z"
   },
   {
     "id": "torobshop-books-stationery-bff623028ca50588",
@@ -7413,7 +7413,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.866Z"
+    "observedAt": "2026-09-03T14:25:41.516Z"
   },
   {
     "id": "torobshop-books-stationery-ef59c7447c918481",
@@ -7431,7 +7431,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.866Z"
+    "observedAt": "2026-09-03T14:25:41.516Z"
   },
   {
     "id": "torobshop-books-stationery-ec0c6101e09fd316",
@@ -7449,7 +7449,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.866Z"
+    "observedAt": "2026-09-03T14:25:41.516Z"
   },
   {
     "id": "torobshop-books-stationery-591d2fa02319cbe4",
@@ -7467,7 +7467,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.866Z"
+    "observedAt": "2026-09-03T14:25:41.517Z"
   },
   {
     "id": "torobshop-books-stationery-45f8a3eeff0791c7",
@@ -7485,7 +7485,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.866Z"
+    "observedAt": "2026-09-03T14:25:41.517Z"
   },
   {
     "id": "torobshop-books-stationery-3fe480d61f801988",
@@ -7503,7 +7503,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.866Z"
+    "observedAt": "2026-09-03T14:25:41.517Z"
   },
   {
     "id": "torobshop-books-stationery-99dbc61e2d2488d7",
@@ -7521,7 +7521,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.866Z"
+    "observedAt": "2026-09-03T14:25:41.517Z"
   },
   {
     "id": "torobshop-books-stationery-091330dc970a0bbe",
@@ -7539,7 +7539,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.867Z"
+    "observedAt": "2026-09-03T14:25:41.517Z"
   },
   {
     "id": "torobshop-books-stationery-9c53c942a980e1d6",
@@ -7557,7 +7557,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.867Z"
+    "observedAt": "2026-09-03T14:25:41.517Z"
   },
   {
     "id": "torobshop-books-stationery-69bba0d6d694a47d",
@@ -7575,7 +7575,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.867Z"
+    "observedAt": "2026-09-03T14:25:41.517Z"
   },
   {
     "id": "torobshop-books-stationery-20c5a20079487b1a",
@@ -7593,7 +7593,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.867Z"
+    "observedAt": "2026-09-03T14:25:41.517Z"
   },
   {
     "id": "torobshop-books-stationery-acc19b901c8b2ad8",
@@ -7611,7 +7611,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.867Z"
+    "observedAt": "2026-09-03T14:25:41.517Z"
   },
   {
     "id": "torobshop-books-stationery-74fc37b5d70bd7c1",
@@ -7629,7 +7629,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.867Z"
+    "observedAt": "2026-09-03T14:25:41.517Z"
   },
   {
     "id": "torobshop-books-stationery-215471b6024642b7",
@@ -7647,7 +7647,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.867Z"
+    "observedAt": "2026-09-03T14:25:41.517Z"
   },
   {
     "id": "torobshop-books-stationery-ac9daafe2ea5d5bc",
@@ -7665,7 +7665,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.867Z"
+    "observedAt": "2026-09-03T14:25:41.517Z"
   },
   {
     "id": "torobshop-books-stationery-01be123cfbff3d67",
@@ -7683,7 +7683,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.867Z"
+    "observedAt": "2026-09-03T14:25:41.517Z"
   },
   {
     "id": "torobshop-books-stationery-27f7af68d3543ffb",
@@ -7701,7 +7701,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.867Z"
+    "observedAt": "2026-09-03T14:25:41.517Z"
   },
   {
     "id": "torobshop-books-stationery-db81d40bcc397e16",
@@ -7719,7 +7719,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.867Z"
+    "observedAt": "2026-09-03T14:25:41.517Z"
   },
   {
     "id": "torobshop-books-stationery-a95fac45da84a72b",
@@ -7737,7 +7737,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.867Z"
+    "observedAt": "2026-09-03T14:25:41.517Z"
   },
   {
     "id": "torobshop-books-stationery-ed3206a7c4997ceb",
@@ -7755,7 +7755,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.867Z"
+    "observedAt": "2026-09-03T14:25:41.517Z"
   },
   {
     "id": "torobshop-books-stationery-ab3241a3e4a91b6d",
@@ -7773,7 +7773,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.867Z"
+    "observedAt": "2026-09-03T14:25:41.517Z"
   },
   {
     "id": "torobshop-books-stationery-08320ee86e550b3d",
@@ -7791,7 +7791,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.867Z"
+    "observedAt": "2026-09-03T14:25:41.517Z"
   },
   {
     "id": "torobshop-books-stationery-5939ecdc87bd4f0d",
@@ -7809,7 +7809,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.867Z"
+    "observedAt": "2026-09-03T14:25:41.517Z"
   },
   {
     "id": "torobshop-books-stationery-301beb96f2df717f",
@@ -7827,7 +7827,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.867Z"
+    "observedAt": "2026-09-03T14:25:41.517Z"
   },
   {
     "id": "torobshop-books-stationery-a5fddfc8c0c99048",
@@ -7845,7 +7845,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.867Z"
+    "observedAt": "2026-09-03T14:25:41.517Z"
   },
   {
     "id": "torobshop-books-stationery-2798976de6f0cc81",
@@ -7863,7 +7863,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.867Z"
+    "observedAt": "2026-09-03T14:25:41.517Z"
   },
   {
     "id": "torobshop-books-stationery-834858ae4530d775",
@@ -7881,7 +7881,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.867Z"
+    "observedAt": "2026-09-03T14:25:41.517Z"
   },
   {
     "id": "torobshop-books-stationery-1059c1f184e3d8b3",
@@ -7899,7 +7899,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.867Z"
+    "observedAt": "2026-09-03T14:25:41.517Z"
   },
   {
     "id": "torobshop-books-stationery-3e4d9495e052b1b8",
@@ -7917,7 +7917,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.867Z"
+    "observedAt": "2026-09-03T14:25:41.517Z"
   },
   {
     "id": "torobshop-books-stationery-707702931ea634d8",
@@ -7935,7 +7935,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.867Z"
+    "observedAt": "2026-09-03T14:25:41.517Z"
   },
   {
     "id": "torobshop-books-stationery-68a4dab928f7c962",
@@ -7953,7 +7953,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.867Z"
+    "observedAt": "2026-09-03T14:25:41.517Z"
   },
   {
     "id": "torobshop-books-stationery-d8e34bb113f4f352",
@@ -7971,7 +7971,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.867Z"
+    "observedAt": "2026-09-03T14:25:41.517Z"
   },
   {
     "id": "torobshop-books-stationery-d5b957f7df4ff03f",
@@ -7989,7 +7989,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.867Z"
+    "observedAt": "2026-09-03T14:25:41.517Z"
   },
   {
     "id": "torobshop-books-stationery-28255666c26f658a",
@@ -8007,7 +8007,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.867Z"
+    "observedAt": "2026-09-03T14:25:41.517Z"
   },
   {
     "id": "torobshop-books-stationery-2a3268e48e6a43b8",
@@ -8025,7 +8025,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.867Z"
+    "observedAt": "2026-09-03T14:25:41.517Z"
   },
   {
     "id": "torobshop-books-stationery-9a0fccac9db69875",
@@ -8043,7 +8043,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.867Z"
+    "observedAt": "2026-09-03T14:25:41.517Z"
   },
   {
     "id": "torobshop-books-stationery-93e51ab5d27d6671",
@@ -8061,7 +8061,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D8%A8",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:28:23.867Z"
+    "observedAt": "2026-09-03T14:25:41.517Z"
   },
   {
     "id": "torobshop-books-stationery-27e3f3bfd61fe959",
@@ -8079,7 +8079,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A2%D9%84%D8%A7%D8%AA-%D9%85%D9%88%D8%B3%DB%8C%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:29:05.741Z"
+    "observedAt": "2026-09-03T14:26:23.652Z"
   },
   {
     "id": "torobshop-books-stationery-640246d71579b66d",
@@ -8097,7 +8097,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%A2%D9%84%D8%A7%D8%AA-%D9%85%D9%88%D8%B3%DB%8C%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-03T13:29:05.741Z"
+    "observedAt": "2026-09-03T14:26:23.652Z"
   },
   {
     "id": "web-books-stationery-75eb2e48a56995e6",
@@ -8114,7 +8114,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "technolife-stationery",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
     "source": "web-catalog:technolife-stationery",
-    "observedAt": "2026-09-03T13:12:18.286Z"
+    "observedAt": "2026-09-03T14:09:42.025Z"
   },
   {
     "id": "web-books-stationery-db44ea6be1653aa5",
@@ -8131,7 +8131,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "technolife-stationery",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
     "source": "web-catalog:technolife-stationery",
-    "observedAt": "2026-09-03T13:12:18.286Z"
+    "observedAt": "2026-09-03T14:09:42.025Z"
   },
   {
     "id": "web-books-stationery-bc76e6f01c931a37",
@@ -8148,7 +8148,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "technolife-stationery",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
     "source": "web-catalog:technolife-stationery",
-    "observedAt": "2026-09-03T13:12:18.286Z"
+    "observedAt": "2026-09-03T14:09:42.025Z"
   },
   {
     "id": "web-books-stationery-2ac3cc3d0c1e1e0a",
@@ -8165,7 +8165,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "technolife-stationery",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
     "source": "web-catalog:technolife-stationery",
-    "observedAt": "2026-09-03T13:12:18.287Z"
+    "observedAt": "2026-09-03T14:09:42.025Z"
   },
   {
     "id": "web-books-stationery-57cd01ce7a7f16f2",
@@ -8182,7 +8182,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "technolife-stationery",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
     "source": "web-catalog:technolife-stationery",
-    "observedAt": "2026-09-03T13:12:18.287Z"
+    "observedAt": "2026-09-03T14:09:42.025Z"
   },
   {
     "id": "web-books-stationery-948da67aa8b1139b",
@@ -8199,7 +8199,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "technolife-stationery",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
     "source": "web-catalog:technolife-stationery",
-    "observedAt": "2026-09-03T13:12:18.287Z"
+    "observedAt": "2026-09-03T14:09:42.026Z"
   },
   {
     "id": "web-books-stationery-dbf19360eb6c789d",
@@ -8216,24 +8216,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "technolife-stationery",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
     "source": "web-catalog:technolife-stationery",
-    "observedAt": "2026-09-03T13:12:18.287Z"
-  },
-  {
-    "id": "web-books-stationery-049ff5a51528eb16",
-    "productId": "web-books-stationery-049ff5a51528eb16",
-    "name": "چسب همه کاره رازی حجم 100 میلی لیتر",
-    "brand": "",
-    "model": "چسب همه کاره رازی حجم 100 میلی لیتر",
-    "category": "books-stationery",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-169903/%DA%86%D8%B3%D8%A8-%D9%87%D9%85%D9%87-%DA%A9%D8%A7%D8%B1%D9%87-%D8%B1%D8%A7%D8%B2%DB%8C-%D8%AD%D8%AC%D9%85-100-%D9%85%DB%8C%D9%84%DB%8C-%D9%84%DB%8C%D8%AA%D8%B1",
-    "image": "",
-    "sourceId": "technolife-stationery",
-    "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
-    "source": "web-catalog:technolife-stationery",
-    "observedAt": "2026-09-03T13:12:18.287Z"
+    "observedAt": "2026-09-03T14:09:42.026Z"
   },
   {
     "id": "web-books-stationery-fe6663608433cf5d",
@@ -8250,7 +8233,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "technolife-stationery",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
     "source": "web-catalog:technolife-stationery",
-    "observedAt": "2026-09-03T13:12:18.287Z"
+    "observedAt": "2026-09-03T14:09:42.026Z"
   },
   {
     "id": "web-books-stationery-7adc53ec8b4243f0",
@@ -8267,7 +8250,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "technolife-stationery",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
     "source": "web-catalog:technolife-stationery",
-    "observedAt": "2026-09-03T13:12:18.287Z"
+    "observedAt": "2026-09-03T14:09:42.026Z"
   },
   {
     "id": "web-books-stationery-b64615a5fe763d0f",
@@ -8284,41 +8267,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "technolife-stationery",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
     "source": "web-catalog:technolife-stationery",
-    "observedAt": "2026-09-03T13:12:18.287Z"
-  },
-  {
-    "id": "web-books-stationery-66e380c9b2c15754",
-    "productId": "web-books-stationery-66e380c9b2c15754",
-    "name": "چسب همه کاره رازی حجم 50 میلی لیتر",
-    "brand": "",
-    "model": "چسب همه کاره رازی حجم 50 میلی لیتر",
-    "category": "books-stationery",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-169922/%DA%86%D8%B3%D8%A8-%D9%87%D9%85%D9%87-%DA%A9%D8%A7%D8%B1%D9%87-%D8%B1%D8%A7%D8%B2%DB%8C-%D8%AD%D8%AC%D9%85-50-%D9%85%DB%8C%D9%84%DB%8C-%D9%84%DB%8C%D8%AA%D8%B1",
-    "image": "",
-    "sourceId": "technolife-stationery",
-    "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
-    "source": "web-catalog:technolife-stationery",
-    "observedAt": "2026-09-03T13:12:18.287Z"
-  },
-  {
-    "id": "web-books-stationery-991770b241ad55c9",
-    "productId": "web-books-stationery-991770b241ad55c9",
-    "name": "چسب نواری آلومینیومی دیبا عرض 5 سانتی متر",
-    "brand": "",
-    "model": "چسب نواری آلومینیومی دیبا عرض 5 سانتی متر",
-    "category": "books-stationery",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-169890/%DA%86%D8%B3%D8%A8-%D9%86%D9%88%D8%A7%D8%B1%DB%8C-%D8%A2%D9%84%D9%88%D9%85%DB%8C%D9%86%DB%8C%D9%88%D9%85%DB%8C-%D8%AF%DB%8C%D8%A8%D8%A7-%D8%B9%D8%B1%D8%B6-5-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1",
-    "image": "",
-    "sourceId": "technolife-stationery",
-    "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
-    "source": "web-catalog:technolife-stationery",
-    "observedAt": "2026-09-03T13:12:18.287Z"
+    "observedAt": "2026-09-03T14:09:42.026Z"
   },
   {
     "id": "web-books-stationery-01e65cb476c695de",
@@ -8335,7 +8284,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "technolife-stationery",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
     "source": "web-catalog:technolife-stationery",
-    "observedAt": "2026-09-03T13:12:18.287Z"
+    "observedAt": "2026-09-03T14:09:42.026Z"
   },
   {
     "id": "web-books-stationery-3cecfd3a14aab308",
@@ -8352,7 +8301,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "technolife-stationery",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
     "source": "web-catalog:technolife-stationery",
-    "observedAt": "2026-09-03T13:12:18.287Z"
+    "observedAt": "2026-09-03T14:09:42.026Z"
   },
   {
     "id": "web-books-stationery-8ff70aadb0a63d2e",
@@ -8369,7 +8318,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "technolife-stationery",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
     "source": "web-catalog:technolife-stationery",
-    "observedAt": "2026-09-03T13:12:18.287Z"
+    "observedAt": "2026-09-03T14:09:42.026Z"
   },
   {
     "id": "web-books-stationery-ab70efb39a94c1fa",
@@ -8386,7 +8335,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "technolife-stationery",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
     "source": "web-catalog:technolife-stationery",
-    "observedAt": "2026-09-03T13:12:18.287Z"
+    "observedAt": "2026-09-03T14:09:42.026Z"
   },
   {
     "id": "web-books-stationery-1941780373d5e045",
@@ -8403,7 +8352,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "technolife-stationery",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
     "source": "web-catalog:technolife-stationery",
-    "observedAt": "2026-09-03T13:12:18.287Z"
+    "observedAt": "2026-09-03T14:09:42.026Z"
   },
   {
     "id": "web-books-stationery-1aaa1dd02cc220ad",
@@ -8420,7 +8369,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "technolife-stationery",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
     "source": "web-catalog:technolife-stationery",
-    "observedAt": "2026-09-03T13:12:18.287Z"
+    "observedAt": "2026-09-03T14:09:42.026Z"
   },
   {
     "id": "web-books-stationery-a0d08340fd5ffb8b",
@@ -8437,7 +8386,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "technolife-stationery",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
     "source": "web-catalog:technolife-stationery",
-    "observedAt": "2026-09-03T13:12:18.287Z"
+    "observedAt": "2026-09-03T14:09:42.026Z"
   },
   {
     "id": "web-books-stationery-300ca4e5ac7fd1c3",
@@ -8454,7 +8403,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "technolife-stationery",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
     "source": "web-catalog:technolife-stationery",
-    "observedAt": "2026-09-03T13:12:18.287Z"
+    "observedAt": "2026-09-03T14:09:42.026Z"
   },
   {
     "id": "web-books-stationery-cea0e4ceceee9646",
@@ -8471,7 +8420,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "technolife-stationery",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
     "source": "web-catalog:technolife-stationery",
-    "observedAt": "2026-09-03T13:12:18.287Z"
+    "observedAt": "2026-09-03T14:09:42.026Z"
   },
   {
     "id": "web-books-stationery-71f92b627fef35ad",
@@ -8488,7 +8437,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "technolife-stationery",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
     "source": "web-catalog:technolife-stationery",
-    "observedAt": "2026-09-03T13:12:18.287Z"
+    "observedAt": "2026-09-03T14:09:42.026Z"
   },
   {
     "id": "web-books-stationery-40d75a36d7dc7367",
@@ -8505,7 +8454,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "technolife-stationery",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
     "source": "web-catalog:technolife-stationery",
-    "observedAt": "2026-09-03T13:12:18.287Z"
+    "observedAt": "2026-09-03T14:09:42.026Z"
   },
   {
     "id": "web-books-stationery-4ce0ed23cc160ebd",
@@ -8522,7 +8471,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "technolife-stationery",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
     "source": "web-catalog:technolife-stationery",
-    "observedAt": "2026-09-03T13:12:18.287Z"
+    "observedAt": "2026-09-03T14:09:42.026Z"
   },
   {
     "id": "web-books-stationery-246b8fcfd1fd4d30",
@@ -8539,7 +8488,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "technolife-stationery",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
     "source": "web-catalog:technolife-stationery",
-    "observedAt": "2026-09-03T13:12:18.287Z"
+    "observedAt": "2026-09-03T14:09:42.026Z"
   },
   {
     "id": "web-books-stationery-5d377006d6f2acf7",
@@ -8556,7 +8505,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "technolife-stationery",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
     "source": "web-catalog:technolife-stationery",
-    "observedAt": "2026-09-03T13:12:18.287Z"
+    "observedAt": "2026-09-03T14:09:42.026Z"
   },
   {
     "id": "web-books-stationery-5fd8c7d157bd8eb4",
@@ -8573,7 +8522,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "technolife-stationery",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
     "source": "web-catalog:technolife-stationery",
-    "observedAt": "2026-09-03T13:12:18.287Z"
+    "observedAt": "2026-09-03T14:09:42.026Z"
   },
   {
     "id": "web-books-stationery-86fbe430b1ba82b0",
@@ -8590,7 +8539,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "technolife-stationery",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
     "source": "web-catalog:technolife-stationery",
-    "observedAt": "2026-09-03T13:12:18.287Z"
+    "observedAt": "2026-09-03T14:09:42.026Z"
   },
   {
     "id": "web-books-stationery-3a2bbe6550765862",
@@ -8607,7 +8556,58 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "technolife-stationery",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
     "source": "web-catalog:technolife-stationery",
-    "observedAt": "2026-09-03T13:12:18.287Z"
+    "observedAt": "2026-09-03T14:09:42.026Z"
+  },
+  {
+    "id": "web-books-stationery-c4420c7698399acf",
+    "productId": "web-books-stationery-c4420c7698399acf",
+    "name": "دفتر ژورنال نویسی و یادداشت 80 برگ مدل FOX",
+    "brand": "دل",
+    "model": "دفتر ژورنال نویسی و یادداشت 80 برگ مدل FOX",
+    "category": "books-stationery",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-301901/%D8%AF%D9%81%D8%AA%D8%B1-%DA%98%D9%88%D8%B1%D9%86%D8%A7%D9%84-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D9%88-%DB%8C%D8%A7%D8%AF%D8%AF%D8%A7%D8%B4%D8%AA-80-%D8%A8%D8%B1%DA%AF-%D9%85%D8%AF%D9%84-fox",
+    "image": "",
+    "sourceId": "technolife-stationery",
+    "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
+    "source": "web-catalog:technolife-stationery",
+    "observedAt": "2026-09-03T14:09:42.026Z"
+  },
+  {
+    "id": "web-books-stationery-a4df80a27a85a2eb",
+    "productId": "web-books-stationery-a4df80a27a85a2eb",
+    "name": "دفترچه ژورنال نویسی و یادداشت 80 برگ مدل GLOBE",
+    "brand": "دل",
+    "model": "دفترچه ژورنال نویسی و یادداشت 80 برگ مدل GLOBE",
+    "category": "books-stationery",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-301900/%D8%AF%D9%81%D8%AA%D8%B1%DA%86%D9%87-%DA%98%D9%88%D8%B1%D9%86%D8%A7%D9%84-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D9%88-%DB%8C%D8%A7%D8%AF%D8%AF%D8%A7%D8%B4%D8%AA-80-%D8%A8%D8%B1%DA%AF-%D9%85%D8%AF%D9%84-globe",
+    "image": "",
+    "sourceId": "technolife-stationery",
+    "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
+    "source": "web-catalog:technolife-stationery",
+    "observedAt": "2026-09-03T14:09:42.026Z"
+  },
+  {
+    "id": "web-books-stationery-f8313b8f4254b427",
+    "productId": "web-books-stationery-f8313b8f4254b427",
+    "name": "کاغذ یادداشت چسب دار سام استیک نوت سایز 7.5×7.5 سانتی متر",
+    "brand": "",
+    "model": "کاغذ یادداشت چسب دار سام استیک نوت سایز 7.5×7.5 سانتی متر",
+    "category": "books-stationery",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-296439/%DA%A9%D8%A7%D8%BA%D8%B0-%DB%8C%D8%A7%D8%AF%D8%AF%D8%A7%D8%B4%D8%AA-%DA%86%D8%B3%D8%A8-%D8%AF%D8%A7%D8%B1-%D8%B3%D8%A7%D9%85-%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-%D9%86%D9%88%D8%AA-%D8%B3%D8%A7%DB%8C%D8%B2-7.5%C3%977.5-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1",
+    "image": "",
+    "sourceId": "technolife-stationery",
+    "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
+    "source": "web-catalog:technolife-stationery",
+    "observedAt": "2026-09-03T14:09:42.026Z"
   },
   {
     "id": "web-books-stationery-e32e5b87e11bf52d",
@@ -8624,7 +8624,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "technolife-stationery",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery",
     "source": "web-catalog:technolife-stationery",
-    "observedAt": "2026-09-03T13:12:18.288Z"
+    "observedAt": "2026-09-03T14:09:42.027Z"
   },
   {
     "id": "web-books-stationery-45a32a6a31d24b41",
@@ -8641,7 +8641,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "technolife-writing",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery/writing-supplies",
     "source": "web-catalog:technolife-writing",
-    "observedAt": "2026-09-03T13:12:31.880Z"
+    "observedAt": "2026-09-03T14:09:51.254Z"
   },
   {
     "id": "web-books-stationery-6ccc6dd324fa1935",
@@ -8658,7 +8658,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "technolife-writing",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery/writing-supplies",
     "source": "web-catalog:technolife-writing",
-    "observedAt": "2026-09-03T13:12:31.880Z"
+    "observedAt": "2026-09-03T14:09:51.254Z"
   },
   {
     "id": "web-books-stationery-17080a0bf1149021",
@@ -8675,7 +8675,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "technolife-writing",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery/writing-supplies",
     "source": "web-catalog:technolife-writing",
-    "observedAt": "2026-09-03T13:12:31.880Z"
+    "observedAt": "2026-09-03T14:09:51.254Z"
   },
   {
     "id": "web-books-stationery-a057cd980ad23d7f",
@@ -8692,7 +8692,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "technolife-writing",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery/writing-supplies",
     "source": "web-catalog:technolife-writing",
-    "observedAt": "2026-09-03T13:12:31.880Z"
+    "observedAt": "2026-09-03T14:09:51.254Z"
   },
   {
     "id": "web-books-stationery-ee600c3d11e83685",
@@ -8709,7 +8709,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "technolife-writing",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery/writing-supplies",
     "source": "web-catalog:technolife-writing",
-    "observedAt": "2026-09-03T13:12:31.880Z"
+    "observedAt": "2026-09-03T14:09:51.254Z"
   },
   {
     "id": "web-books-stationery-a24848931b28ebf3",
@@ -8726,7 +8726,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "technolife-writing",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery/writing-supplies",
     "source": "web-catalog:technolife-writing",
-    "observedAt": "2026-09-03T13:12:31.880Z"
+    "observedAt": "2026-09-03T14:09:51.254Z"
   },
   {
     "id": "web-books-stationery-57387e13142b1d3d",
@@ -8743,7 +8743,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "technolife-writing",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery/writing-supplies",
     "source": "web-catalog:technolife-writing",
-    "observedAt": "2026-09-03T13:12:31.880Z"
+    "observedAt": "2026-09-03T14:09:51.254Z"
   },
   {
     "id": "web-books-stationery-2f3fc8e7aef621db",
@@ -8760,7 +8760,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "technolife-writing",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery/writing-supplies",
     "source": "web-catalog:technolife-writing",
-    "observedAt": "2026-09-03T13:12:31.880Z"
+    "observedAt": "2026-09-03T14:09:51.254Z"
   },
   {
     "id": "web-books-stationery-efae7e0a243adcc3",
@@ -8777,7 +8777,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "technolife-writing",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery/writing-supplies",
     "source": "web-catalog:technolife-writing",
-    "observedAt": "2026-09-03T13:12:31.880Z"
+    "observedAt": "2026-09-03T14:09:51.254Z"
   },
   {
     "id": "web-books-stationery-f77d4d03ba3a29b6",
@@ -8794,7 +8794,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "technolife-writing",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery/writing-supplies",
     "source": "web-catalog:technolife-writing",
-    "observedAt": "2026-09-03T13:12:31.880Z"
+    "observedAt": "2026-09-03T14:09:51.254Z"
   },
   {
     "id": "web-books-stationery-b65287cf4bd57e3a",
@@ -8811,7 +8811,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "technolife-writing",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery/writing-supplies",
     "source": "web-catalog:technolife-writing",
-    "observedAt": "2026-09-03T13:12:31.880Z"
+    "observedAt": "2026-09-03T14:09:51.254Z"
   },
   {
     "id": "web-books-stationery-bd9757e4962903fa",
@@ -8828,7 +8828,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "technolife-writing",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery/writing-supplies",
     "source": "web-catalog:technolife-writing",
-    "observedAt": "2026-09-03T13:12:31.880Z"
+    "observedAt": "2026-09-03T14:09:51.254Z"
   },
   {
     "id": "web-books-stationery-82869c3b48e447ca",
@@ -8845,7 +8845,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "technolife-writing",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery/writing-supplies",
     "source": "web-catalog:technolife-writing",
-    "observedAt": "2026-09-03T13:12:31.880Z"
+    "observedAt": "2026-09-03T14:09:51.254Z"
   },
   {
     "id": "web-books-stationery-007c523d09c4bb8a",
@@ -8862,7 +8862,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "technolife-writing",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery/writing-supplies",
     "source": "web-catalog:technolife-writing",
-    "observedAt": "2026-09-03T13:12:31.880Z"
+    "observedAt": "2026-09-03T14:09:51.254Z"
   },
   {
     "id": "web-books-stationery-f025a338d12ae12f",
@@ -8879,7 +8879,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "technolife-writing",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery/writing-supplies",
     "source": "web-catalog:technolife-writing",
-    "observedAt": "2026-09-03T13:12:31.880Z"
+    "observedAt": "2026-09-03T14:09:51.254Z"
   },
   {
     "id": "web-books-stationery-0d3bbf4b7da7f9fa",
@@ -8896,7 +8896,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "technolife-writing",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery/writing-supplies",
     "source": "web-catalog:technolife-writing",
-    "observedAt": "2026-09-03T13:12:31.880Z"
+    "observedAt": "2026-09-03T14:09:51.254Z"
   },
   {
     "id": "web-books-stationery-2b445bd717c07f8e",
@@ -8913,7 +8913,7 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "technolife-writing",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery/writing-supplies",
     "source": "web-catalog:technolife-writing",
-    "observedAt": "2026-09-03T13:12:31.880Z"
+    "observedAt": "2026-09-03T14:09:51.254Z"
   },
   {
     "id": "web-books-stationery-0f96d57a5d82682a",
@@ -8930,6 +8930,6 @@ export const BOOKS_STATIONERY_PRODUCTS = [
     "sourceId": "technolife-writing",
     "sourceUrl": "https://www.technolife.com/category/art-culture/stationery/writing-supplies",
     "source": "web-catalog:technolife-writing",
-    "observedAt": "2026-09-03T13:12:31.880Z"
+    "observedAt": "2026-09-03T14:09:51.254Z"
   }
 ];

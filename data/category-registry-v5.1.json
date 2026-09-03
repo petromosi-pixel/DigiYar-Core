@@ -1,7 +1,7 @@
 {
   "version": "5.1",
   "mode": "subcategory-aware",
-  "generatedAt": "2026-09-03T13:13:12.092Z",
+  "generatedAt": "2026-09-03T14:10:29.548Z",
   "source": "TorobShop public category pages",
   "categories": [
     {
@@ -171,10 +171,10 @@
     {
       "id": "sports-travel",
       "name": "ورزش و سفر",
-      "count": 487,
+      "count": 488,
       "subcategoryCounts": {
         "کتانی ورزشی مردانه": 448,
-        "کتانی ورزشی زنانه": 0,
+        "کتانی ورزشی زنانه": 1,
         "کتانی ورزشی بچگانه": 0,
         "لوازم ورزشی": 0,
         "لوازم تنیس": 0,
