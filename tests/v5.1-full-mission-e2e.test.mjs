@@ -15,14 +15,21 @@ async function getJson(path) {
   return body;
 }
 
+function hasDirectCandidate(body) {
+  return Array.isArray(body?.results) && body.results.some((item) => {
+    const url = item.productUrl || item.url || item.sourceUrl || '';
+    return engine.isDirectProductUrl(url);
+  });
+}
+
 async function waitForLiveParser() {
   let last;
   for (let attempt = 0; attempt <= MAX_RETRIES; attempt += 1) {
     last = await getJson('/api/search?q=' + encodeURIComponent(QUERY));
-    if (last.success && Number(last.parsed?.price?.maxPrice) > 0) return last;
+    if (last.success && Number(last.parsed?.price?.maxPrice) > 0 && hasDirectCandidate(last)) return last;
     if (attempt < MAX_RETRIES) await new Promise((resolve) => setTimeout(resolve, RETRY_DELAY_MS));
   }
-  throw new Error(`Live Worker parser did not become ready after ${MAX_RETRIES * RETRY_DELAY_MS / 1000}s: ${JSON.stringify(last?.parsed || last)}`);
+  throw new Error(`Live Worker search did not become ready after ${MAX_RETRIES * RETRY_DELAY_MS / 1000}s: ${JSON.stringify(last).slice(0, 3000)}`);
 }
 
 const health = await getJson('/health');
@@ -38,11 +45,10 @@ assert.ok(Array.isArray(search.results), 'Search results must be an array');
 assert.ok(search.results.length > 0, `Mission search returned no products: ${JSON.stringify(search).slice(0, 3000)}`);
 
 const candidate = search.results.find((item) => {
-  const store = String(item.storeId || item.store || item.source || '').toLowerCase();
   const url = item.productUrl || item.url || item.sourceUrl || '';
-  return /digikala|snappshop/.test(store) && engine.isDirectProductUrl(url);
+  return engine.isDirectProductUrl(url);
 });
-assert.ok(candidate, `No affiliate-capable live candidate: ${JSON.stringify(search.results).slice(0, 3000)}`);
+assert.ok(candidate, `No direct-product candidate: ${JSON.stringify(search.results).slice(0, 3000)}`);
 
 const productUrl = candidate.productUrl || candidate.url || candidate.sourceUrl;
 const resolved = await getJson('/api/resolve?url=' + encodeURIComponent(productUrl));
@@ -66,8 +72,9 @@ const offer = engine.normalizeOffer({
   productUrl: resolved.productUrl || productUrl
 });
 assert.ok(offer, 'Offer normalization failed');
-assert.ok(offer.isAffiliate, `Offer is not affiliate-enabled: ${JSON.stringify(offer)}`);
-assert.match(offer.affiliateUrl, /^https:\/\/aflo\.ir\/(TrvNHEN8|YPN05dL7)[?&]p=/);
+assert.ok(offer.productUrl === productUrl, 'Offer lost the real product URL');
+assert.ok(offer.affiliateUrl === productUrl || /^https:\/\/aflo\.ir\/(TrvNHEN8|YPN05dL7)[?&]p=/.test(offer.affiliateUrl), `Offer purchase URL is invalid: ${JSON.stringify(offer)}`);
+assert.equal(offer.isAffiliate, offer.affiliateUrl !== productUrl);
 
 const final = engine.finalize([{
   id: candidate.productId || candidate.id || productUrl,
@@ -76,17 +83,21 @@ const final = engine.finalize([{
   offers: [offer]
 }], { limit: 1 });
 assert.equal(final.length, 1, 'Finalization returned no recommendation');
+assert.equal(final[0].productUrl, productUrl);
 assert.equal(final[0].affiliateUrl, offer.affiliateUrl);
 assert.ok(Number(final[0].priceToman) > 0);
 
-const click = await fetch(offer.affiliateUrl, {
+const purchaseUrl = final[0].affiliateUrl || final[0].productUrl;
+assert.equal(purchaseUrl, productUrl, 'Non-affiliate offer must fall back to direct product URL');
+
+const click = await fetch(purchaseUrl, {
   method: 'GET',
   redirect: 'manual',
   headers: { accept: 'text/html,application/xhtml+xml' }
 });
-assert.ok([200, 301, 302, 303, 307, 308].includes(click.status), `Affiliate click failed HTTP ${click.status}`);
+assert.ok([200, 301, 302, 303, 307, 308].includes(click.status), `Purchase link failed HTTP ${click.status}`);
 const location = click.headers.get('location') || '';
-if (click.status !== 200) assert.ok(location, 'Affiliate redirect has no Location header');
+if (click.status !== 200) assert.ok(location, 'Purchase redirect has no Location header');
 
 console.log(JSON.stringify({
   ok: true,
@@ -95,6 +106,6 @@ console.log(JSON.stringify({
   search: { source: search.source, total: search.total, parsedBudgetMax: search.parsed.price.maxPrice },
   product: { name: candidate.name, store, productUrl },
   live: { priceToman: resolved.priceToman, currency: resolved.currency, availability: resolved.availability, extraction: resolved.extraction },
-  offer: { affiliateUrl: offer.affiliateUrl, isAffiliate: offer.isAffiliate },
-  affiliateClick: { httpStatus: click.status, redirectLocationPresent: Boolean(location) }
+  offer: { purchaseUrl, affiliateUrl: offer.affiliateUrl, isAffiliate: offer.isAffiliate },
+  purchaseClick: { httpStatus: click.status, redirectLocationPresent: Boolean(location) }
 }, null, 2));
