@@ -48,6 +48,33 @@ jobs:
       - name: Audit price and availability
         run: node tests/v5.1-price-availability-audit.mjs
 
+      - name: Install Wrangler
+        run: npm install --global wrangler@latest
+
+      - name: Deploy Worker with refreshed catalog
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: wrangler deploy --config wrangler.jsonc
+
+      - name: Verify live Worker after catalog refresh
+        shell: bash
+        run: |
+          set -euo pipefail
+          for attempt in {1..30}; do
+            if curl --fail --silent --show-error --max-time 10 \
+              -H 'accept: application/json' \
+              'https://digiyar-v5.petromosi.workers.dev/health' \
+              | grep -q '"status":"ok"'; then
+              echo "Live Worker is ready (attempt ${attempt})."
+              exit 0
+            fi
+            echo "Worker not ready yet (attempt ${attempt}/30); waiting 2s..."
+            sleep 2
+          done
+          echo 'Worker did not become ready after catalog deployment.'
+          exit 1
+
       - name: Commit generated catalogs
         run: |
           git config user.name "github-actions[bot]"
