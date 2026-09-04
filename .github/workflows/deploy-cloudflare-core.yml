@@ -64,6 +64,9 @@ jobs:
           echo 'Live Worker did not become ready after deployment.'
           exit 1
 
+      - name: Run V5.1 Smart Search contract gate
+        run: npm run test:v5.1:smart-search
+
       - name: Run V5.1 Revenue E2E gate
         run: npm run test:v5.1:revenue
 
