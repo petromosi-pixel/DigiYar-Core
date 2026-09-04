@@ -43,7 +43,21 @@ jobs:
         run: node scripts/torobshop-price-resolver-v5.1.mjs
 
       - name: Rebuild runtime index from resolved catalog
-        run: node scripts/subcategory-ingest-v5.1.mjs
+        run: |
+          node --input-type=module <<'NODE'
+          import fs from 'node:fs/promises';
+          const categories = ['mobile','laptop-computer','home-appliances','digital','audio-video','fashion','beauty-health','supermarket','sports-travel','tools-industrial','books-stationery','kids-toys','auto'];
+          const combined = [];
+          for (const category of categories) {
+            const data = JSON.parse(await fs.readFile(`data/catalog/${category}.json`, 'utf8'));
+            const products = Array.isArray(data.products) ? data.products : [];
+            await fs.writeFile(`js/${category}-product-index-v5.1.js`, `export const ${category.toUpperCase().replace(/-/g, '_')}_PRODUCTS = ${JSON.stringify(products, null, 2)};\n`);
+            combined.push(...products);
+          }
+          const meta = JSON.parse(await fs.readFile('data/category-registry-v5.1.json', 'utf8'));
+          await fs.writeFile('js/product-index-generated-v5.1.js', `// Rebuilt from resolved catalog data\nexport const PRODUCT_INDEX = ${JSON.stringify(combined, null, 2)};\nexport const INDEX_META = ${JSON.stringify({ generatedAt: new Date().toISOString(), total: combined.length, mode: 'subcategory-aware', categories: meta.categories }, null, 2)};\n`);
+          console.log(`RUNTIME_INDEX_TOTAL: ${combined.length}`);
+          NODE
 
       - name: Audit generated catalogs
         run: node tests/v5.1-catalog-audit.mjs
