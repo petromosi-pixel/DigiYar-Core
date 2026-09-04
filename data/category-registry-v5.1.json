@@ -1,7 +1,7 @@
 {
   "version": "5.1",
   "mode": "subcategory-aware",
-  "generatedAt": "2026-09-04T18:00:29.305Z",
+  "generatedAt": "2026-09-04T19:09:40.560Z",
   "source": "TorobShop public category pages",
   "categories": [
     {
@@ -209,7 +209,7 @@
     {
       "id": "books-stationery",
       "name": "کتاب، لوازم تحریر و هنر",
-      "count": 499,
+      "count": 498,
       "subcategoryCounts": {
         "کتاب": 448,
         "لوازم تحریر و مدرسه": 0,
