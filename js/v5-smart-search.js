@@ -1,32 +1,35 @@
 /* DigiYar V5.1 — Housh Yar internal Product Search UI */
 (function(){'use strict';
 const hints=['چی می‌خوای بخری؟','مثلاً: گوشی سامسونگ تا ۱۵ میلیون','دنبال لپ‌تاپ مناسب می‌گردی؟','اسم محصولت رو بنویس...'];
-const affiliateConfig={digikala:{name:'دیجی‌کالا',affiliateLink:'https://aflo.ir/TrvNHEN8'},snappshop:{name:'اسنپ‌شاپ',affiliateLink:'https://aflo.ir/YPN05dL7'}};
-let i=0,timer,indexReady=null;
-function ensureIndex(){
- if(window.DigiYarInternalSearch)return Promise.resolve();
- if(indexReady)return indexReady;
- indexReady=new Promise((resolve,reject)=>{
+let i=0,timer,retrievalReady=null;
+function ensureRetrieval(){
+ if(window.DigiYarProductRetrieval)return Promise.resolve();
+ if(retrievalReady)return retrievalReady;
+ retrievalReady=new Promise((resolve,reject)=>{
   const s=document.createElement('script');
-  s.src=new URL('js/digiyar-product-index.js',document.baseURI).href;
-  s.onload=()=>window.DigiYarInternalSearch?resolve():reject(Error('Product Index engine unavailable'));
-  s.onerror=()=>reject(Error('Product Index engine failed to load: '+s.src));
+  s.src=new URL('js/product-retrieval.js',document.baseURI).href;
+  s.async=false;
+  s.onload=()=>window.DigiYarProductRetrieval?resolve():reject(Error('Product Retrieval engine unavailable'));
+  s.onerror=()=>reject(Error('Product Retrieval engine failed to load: '+s.src));
   document.head.appendChild(s);
  });
- return indexReady;
+ return retrievalReady;
 }
-function bestOffer(p){
- const offers=(p.offers||[]).filter(o=>o.available!==false&&Number.isFinite(Number(o.price))&&Number(o.price)>0);
- return offers.sort((a,b)=>Number(a.price)-Number(b.price))[0]||null;
+function isDirectProductUrl(url){
+ const engine=window.DigiYarOfferAffiliate;
+ if(engine&&typeof engine.isDirectProductUrl==='function')return engine.isDirectProductUrl(url);
+ return /^https:\/\/(?:www\.)?(?:digikala\.com|snappshop\.ir|torobshop\.com)\/(?!search(?:\/|\?|$))/i.test(String(url||''));
 }
-function toman(v){return Math.round(Number(v)/10).toLocaleString('fa-IR')+' تومان';}
-function getAffiliateUrl(offer){
- if(!offer)return '';
- const target=offer.productUrl||offer.url||'';
- if(!target)return '';
- if(offer.affiliateUrl)return offer.affiliateUrl;
- const cfg=affiliateConfig[offer.store];
- return cfg?cfg.affiliateLink+'?p='+encodeURIComponent(target):target;
+function purchaseUrl(product){
+ const affiliate=String(product&&product.affiliateUrl||'').trim();
+ const direct=String(product&&product.productUrl||'').trim();
+ return affiliate|| (isDirectProductUrl(direct)?direct:'');
+}
+function priceValue(product){
+ const value=Number(product&&product.priceToman);
+ if(Number.isFinite(value)&&value>0)return value;
+ const fallback=Number(product&&product.price);
+ return Number.isFinite(fallback)&&fallback>0?fallback:0;
 }
 function init(){
  const form=document.getElementById('v5SmartSearchForm'),input=document.getElementById('v5SmartSearchInput'),hint=document.getElementById('v5SmartSearchHint');
@@ -38,27 +41,28 @@ function init(){
  input.addEventListener('input',syncHint);input.addEventListener('focus',syncHint);input.addEventListener('blur',syncHint);syncHint();
  form.addEventListener('submit',async e=>{
   e.preventDefault();const q=input.value.trim();if(!q)return;
-  hint.style.opacity='0';hint.style.visibility='hidden';const old=input.placeholder;input.placeholder='در حال جستجو در پایگاه دیجی‌یار...';input.disabled=true;
+  hint.style.opacity='0';hint.style.visibility='hidden';const old=input.placeholder;input.placeholder='در حال جستجو در بازار...';input.disabled=true;
   let box=document.getElementById('v5SmartSearchResults');if(!box){box=document.createElement('div');box.id='v5SmartSearchResults';box.className='v5-smart-search-results';form.parentElement.appendChild(box)}
-  box.innerHTML='<div class="v5-smart-search-loading">🔎 در حال جستجو در پایگاه محصولات دیجی‌یار...</div>';
+  box.innerHTML='<div class="v5-smart-search-loading">🔎 در حال بررسی نتایج زنده بازار...</div>';
   try{
-   await ensureIndex();
-   const index=await DigiYarInternalSearch.loadIndex();
-   const products=DigiYarInternalSearch.search(q,index);
-   if(!products.length){box.innerHTML='<div class="v5-smart-search-empty">برای «'+esc(q)+'» در پایگاه فعلی دیجی‌یار نتیجه‌ای پیدا نشد.</div>';return}
-   box.innerHTML='<div class="v5-smart-search-result-head">نتایج هوش‌یار برای «'+esc(q)+'»</div>'+products.map(renderProduct).join('');
+   await ensureRetrieval();
+   const products=await DigiYarProductRetrieval.searchRemote(q);
+   if(!products.length){box.innerHTML='<div class="v5-smart-search-empty">برای «'+esc(q)+'» فعلاً نتیجه زنده‌ای پیدا نشد.</div>';return}
+   const usable=products.filter(p=>priceValue(p)>0&&purchaseUrl(p));
+   if(!usable.length){box.innerHTML='<div class="v5-smart-search-empty">برای «'+esc(q)+'» محصول قابل خرید با قیمت و لینک مستقیم پیدا نشد.</div>';return}
+   box.innerHTML='<div class="v5-smart-search-result-head">نتایج هوش‌یار برای «'+esc(q)+'»</div>'+usable.slice(0,8).map(renderProduct).join('');
   }catch(err){
-   console.error('DigiYar internal search:',err);
-   box.innerHTML='<div class="v5-smart-search-empty">اتصال به موتور جستجوی داخلی دیجی‌یار برقرار نشد. دوباره امتحان کن.</div>';
+   console.error('DigiYar live smart search:',err);
+   box.innerHTML='<div class="v5-smart-search-empty">اتصال به جستجوی زنده دیجی‌یار برقرار نشد. دوباره امتحان کن.</div>';
   }finally{input.disabled=false;input.placeholder=old;syncHint()}
  });
 }
 function renderProduct(p){
- const attrs=Object.entries(p.attributes||{}).slice(0,4).map(([k,v])=>esc(k)+': '+esc(v)).join(' · ');
- const offer=bestOffer(p),url=getAffiliateUrl(offer),price=offer?toman(offer.price):'قیمت موجود نیست';
- const store=offer&&affiliateConfig[offer.store]?affiliateConfig[offer.store].name:'فروشگاه متصل';
+ const attrs=Object.entries(p.features||p.attributes||{}).slice(0,4).map(([k,v])=>esc(k)+': '+esc(v)).join(' · ');
+ const url=purchaseUrl(p),price=priceValue(p); 
+ const storeName={digikala:'دیجی‌کالا',snappshop:'اسنپ‌شاپ',torobshop:'ترب'}[String(p.store||p.storeId||'').toLowerCase()]||'فروشگاه متصل';
  const category=p.category==='mobile'?'موبایل':p.category==='laptop'?'لپ‌تاپ':p.category||'محصول';
- return '<article class="v5-smart-result"><div class="v5-smart-result-title">'+esc(p.name)+'</div><div class="v5-smart-result-meta">'+esc(p.brand||'')+' · '+esc(category)+'</div><div class="v5-smart-result-price"><strong>'+esc(price)+'</strong> · '+esc(store)+'</div><div class="v5-smart-result-meta">'+(attrs||'اطلاعات محصول موجود است')+'</div>'+(url?'<a target="_blank" rel="noopener noreferrer" href="'+esc(url)+'">مشاهده و خرید</a>':'<span>فروشنده متصل نیست</span>')+'</article>';
+ return '<article class="v5-smart-result"><div class="v5-smart-result-title">'+esc(p.name)+'</div><div class="v5-smart-result-meta">'+esc(category)+(p.brand?' · '+esc(p.brand):'')+'</div><div class="v5-smart-result-price"><strong>'+esc(price.toLocaleString('fa-IR'))+' تومان</strong> · '+esc(storeName)+'</div><div class="v5-smart-result-meta">'+(attrs||'اطلاعات محصول موجود است')+'</div><a target="_blank" rel="noopener noreferrer" href="'+esc(url)+'">مشاهده و خرید</a></article>';
 }
 function esc(v){return String(v??'').replace(/[&<>'"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c]))}
 if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',init,{once:true});else init();
