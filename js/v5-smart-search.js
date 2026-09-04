@@ -18,7 +18,7 @@ function ensureRetrieval(){
 function isDirectProductUrl(url){
  const engine=window.DigiYarOfferAffiliate;
  if(engine&&typeof engine.isDirectProductUrl==='function')return engine.isDirectProductUrl(url);
- return /^https:\/\/(?:www\.)?(?:digikala\.com|snappshop\.ir|torobshop\.com)\/(?!search(?:\/|\?|$))/i.test(String(url||''));
+ return /^https:\/\/(?:www\.)?(?:digikala\.com|snappshop\.ir|torobshop\.com|technolife\.com|digizo\.shop|mobile\.ir|bprshop\.com|basalam\.com|elecamp\.ir)\/(?!search(?:\/|\?|$)|category(?:\/|\?|$))/i.test(String(url||''));
 }
 function purchaseUrl(product){
  const affiliate=String(product&&product.affiliateUrl||'').trim();
@@ -46,20 +46,20 @@ function init(){
   box.innerHTML='<div class="v5-smart-search-loading">🔎 در حال بررسی نتایج زنده بازار...</div>';
   try{
    await ensureRetrieval();
-   const products=await DigiYarProductRetrieval.searchRemote(q);
-   if(!products.length){box.innerHTML='<div class="v5-smart-search-empty">برای «'+esc(q)+'» فعلاً نتیجه زنده‌ای پیدا نشد.</div>';return}
+   const products=await DigiYarProductRetrieval.search(q,{remote:true});
+   if(!products.length){box.innerHTML='<div class="v5-smart-search-empty">برای «'+esc(q)+'» فعلاً نتیجه قابل استفاده‌ای پیدا نشد.</div>';return}
    const usable=products.filter(p=>priceValue(p)>0&&purchaseUrl(p));
    if(!usable.length){box.innerHTML='<div class="v5-smart-search-empty">برای «'+esc(q)+'» محصول قابل خرید با قیمت و لینک مستقیم پیدا نشد.</div>';return}
    box.innerHTML='<div class="v5-smart-search-result-head">نتایج هوش‌یار برای «'+esc(q)+'»</div>'+usable.slice(0,8).map(renderProduct).join('');
   }catch(err){
    console.error('DigiYar live smart search:',err);
-   box.innerHTML='<div class="v5-smart-search-empty">اتصال به جستجوی زنده دیجی‌یار برقرار نشد. دوباره امتحان کن.</div>';
+   box.innerHTML='<div class="v5-smart-search-empty">اتصال به جستجوی هوش‌یار برقرار نشد. دوباره امتحان کن.</div>';
   }finally{input.disabled=false;input.placeholder=old;syncHint()}
  });
 }
 function renderProduct(p){
  const attrs=Object.entries(p.features||p.attributes||{}).slice(0,4).map(([k,v])=>esc(k)+': '+esc(v)).join(' · ');
- const url=purchaseUrl(p),price=priceValue(p); 
+ const url=purchaseUrl(p),price=priceValue(p);
  const storeName={digikala:'دیجی‌کالا',snappshop:'اسنپ‌شاپ',torobshop:'ترب'}[String(p.store||p.storeId||'').toLowerCase()]||'فروشگاه متصل';
  const category=p.category==='mobile'?'موبایل':p.category==='laptop'?'لپ‌تاپ':p.category||'محصول';
  return '<article class="v5-smart-result"><div class="v5-smart-result-title">'+esc(p.name)+'</div><div class="v5-smart-result-meta">'+esc(category)+(p.brand?' · '+esc(p.brand):'')+'</div><div class="v5-smart-result-price"><strong>'+esc(price.toLocaleString('fa-IR'))+' تومان</strong> · '+esc(storeName)+'</div><div class="v5-smart-result-meta">'+(attrs||'اطلاعات محصول موجود است')+'</div><a target="_blank" rel="noopener noreferrer" href="'+esc(url)+'">مشاهده و خرید</a></article>';
