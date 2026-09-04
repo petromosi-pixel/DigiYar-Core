@@ -15,7 +15,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.689Z"
+    "observedAt": "2026-09-04T14:35:14.441Z"
   },
   {
     "id": "torobshop-supermarket-42afd1ca9ea774d6",
@@ -33,7 +33,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.689Z"
+    "observedAt": "2026-09-04T14:35:14.441Z"
   },
   {
     "id": "torobshop-supermarket-3930a114dca5ba93",
@@ -51,7 +51,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.689Z"
+    "observedAt": "2026-09-04T14:35:14.441Z"
   },
   {
     "id": "torobshop-supermarket-aaa22eb952374f54",
@@ -69,7 +69,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.689Z"
+    "observedAt": "2026-09-04T14:35:14.441Z"
   },
   {
     "id": "torobshop-supermarket-6313ab97d41a2b56",
@@ -87,7 +87,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.689Z"
+    "observedAt": "2026-09-04T14:35:14.441Z"
   },
   {
     "id": "torobshop-supermarket-f6f4fe1c061400be",
@@ -105,7 +105,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.689Z"
+    "observedAt": "2026-09-04T14:35:14.441Z"
   },
   {
     "id": "torobshop-supermarket-f84a10872070200f",
@@ -123,7 +123,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.689Z"
+    "observedAt": "2026-09-04T14:35:14.441Z"
   },
   {
     "id": "torobshop-supermarket-be5c8240bad9b96b",
@@ -141,7 +141,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.689Z"
+    "observedAt": "2026-09-04T14:35:14.441Z"
   },
   {
     "id": "torobshop-supermarket-6ea4ce76135ec585",
@@ -159,7 +159,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.689Z"
+    "observedAt": "2026-09-04T14:35:14.441Z"
   },
   {
     "id": "torobshop-supermarket-66ec5ac305e2c66d",
@@ -177,7 +177,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.689Z"
+    "observedAt": "2026-09-04T14:35:14.441Z"
   },
   {
     "id": "torobshop-supermarket-550a8f87070e67b2",
@@ -195,7 +195,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.689Z"
+    "observedAt": "2026-09-04T14:35:14.441Z"
   },
   {
     "id": "torobshop-supermarket-82dd733a006aec80",
@@ -213,7 +213,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.689Z"
+    "observedAt": "2026-09-04T14:35:14.441Z"
   },
   {
     "id": "torobshop-supermarket-b0ab596ed23cc867",
@@ -231,7 +231,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.689Z"
+    "observedAt": "2026-09-04T14:35:14.441Z"
   },
   {
     "id": "torobshop-supermarket-81b8042dfd25e040",
@@ -249,7 +249,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.689Z"
+    "observedAt": "2026-09-04T14:35:14.441Z"
   },
   {
     "id": "torobshop-supermarket-971de75d275ec060",
@@ -267,7 +267,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.689Z"
+    "observedAt": "2026-09-04T14:35:14.441Z"
   },
   {
     "id": "torobshop-supermarket-6984e0fba2f0f5ab",
@@ -285,7 +285,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.689Z"
+    "observedAt": "2026-09-04T14:35:14.441Z"
   },
   {
     "id": "torobshop-supermarket-043774655c5e9707",
@@ -303,7 +303,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.689Z"
+    "observedAt": "2026-09-04T14:35:14.441Z"
   },
   {
     "id": "torobshop-supermarket-96e722182c1b89a6",
@@ -321,7 +321,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.689Z"
+    "observedAt": "2026-09-04T14:35:14.441Z"
   },
   {
     "id": "torobshop-supermarket-d62f3f3a89e25a47",
@@ -339,7 +339,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.689Z"
+    "observedAt": "2026-09-04T14:35:14.441Z"
   },
   {
     "id": "torobshop-supermarket-c91c69b83e4ddd45",
@@ -357,7 +357,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.689Z"
+    "observedAt": "2026-09-04T14:35:14.441Z"
   },
   {
     "id": "torobshop-supermarket-6d073e89debc0957",
@@ -375,7 +375,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.689Z"
+    "observedAt": "2026-09-04T14:35:14.442Z"
   },
   {
     "id": "torobshop-supermarket-2f1de49dbfea70aa",
@@ -393,7 +393,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.689Z"
+    "observedAt": "2026-09-04T14:35:14.442Z"
   },
   {
     "id": "torobshop-supermarket-688de6c889730421",
@@ -411,7 +411,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.689Z"
+    "observedAt": "2026-09-04T14:35:14.442Z"
   },
   {
     "id": "torobshop-supermarket-6f75db36753d61cb",
@@ -429,7 +429,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.689Z"
+    "observedAt": "2026-09-04T14:35:14.442Z"
   },
   {
     "id": "torobshop-supermarket-1d0f8b752067584c",
@@ -447,7 +447,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.689Z"
+    "observedAt": "2026-09-04T14:35:14.442Z"
   },
   {
     "id": "torobshop-supermarket-9588e88bfa202297",
@@ -465,7 +465,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.689Z"
+    "observedAt": "2026-09-04T14:35:14.442Z"
   },
   {
     "id": "torobshop-supermarket-564f6efd33ed7c72",
@@ -483,7 +483,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.689Z"
+    "observedAt": "2026-09-04T14:35:14.442Z"
   },
   {
     "id": "torobshop-supermarket-db51956256cf2a9e",
@@ -501,7 +501,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.689Z"
+    "observedAt": "2026-09-04T14:35:14.442Z"
   },
   {
     "id": "torobshop-supermarket-6c602e399b74265b",
@@ -519,7 +519,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.690Z"
+    "observedAt": "2026-09-04T14:35:14.442Z"
   },
   {
     "id": "torobshop-supermarket-69bf454eaf5c015b",
@@ -537,7 +537,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.690Z"
+    "observedAt": "2026-09-04T14:35:14.442Z"
   },
   {
     "id": "torobshop-supermarket-9b36373adadaf4fd",
@@ -555,7 +555,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.690Z"
+    "observedAt": "2026-09-04T14:35:14.442Z"
   },
   {
     "id": "torobshop-supermarket-b510ac9c5967ae6e",
@@ -573,7 +573,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.690Z"
+    "observedAt": "2026-09-04T14:35:14.442Z"
   },
   {
     "id": "torobshop-supermarket-3dbcaccb8662bde1",
@@ -591,7 +591,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.690Z"
+    "observedAt": "2026-09-04T14:35:14.442Z"
   },
   {
     "id": "torobshop-supermarket-200d11c52e55158d",
@@ -609,7 +609,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.690Z"
+    "observedAt": "2026-09-04T14:35:14.442Z"
   },
   {
     "id": "torobshop-supermarket-7030913f04cb3a2f",
@@ -627,7 +627,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.690Z"
+    "observedAt": "2026-09-04T14:35:14.442Z"
   },
   {
     "id": "torobshop-supermarket-c57090577d7bcdd6",
@@ -645,7 +645,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.690Z"
+    "observedAt": "2026-09-04T14:35:14.442Z"
   },
   {
     "id": "torobshop-supermarket-47c81c869cca25d8",
@@ -663,7 +663,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.690Z"
+    "observedAt": "2026-09-04T14:35:14.442Z"
   },
   {
     "id": "torobshop-supermarket-f566f758ccfcc717",
@@ -681,7 +681,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.690Z"
+    "observedAt": "2026-09-04T14:35:14.442Z"
   },
   {
     "id": "torobshop-supermarket-964ece0d8e9f6669",
@@ -699,7 +699,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.690Z"
+    "observedAt": "2026-09-04T14:35:14.442Z"
   },
   {
     "id": "torobshop-supermarket-4cef33429e237704",
@@ -717,7 +717,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.690Z"
+    "observedAt": "2026-09-04T14:35:14.442Z"
   },
   {
     "id": "torobshop-supermarket-e4a2bc7cbee474b2",
@@ -735,7 +735,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.690Z"
+    "observedAt": "2026-09-04T14:35:14.442Z"
   },
   {
     "id": "torobshop-supermarket-3be15395be038aca",
@@ -753,7 +753,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.690Z"
+    "observedAt": "2026-09-04T14:35:14.442Z"
   },
   {
     "id": "torobshop-supermarket-77f61ec7f8b8b73d",
@@ -771,7 +771,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.690Z"
+    "observedAt": "2026-09-04T14:35:14.442Z"
   },
   {
     "id": "torobshop-supermarket-a09bc08624899ff4",
@@ -789,7 +789,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.690Z"
+    "observedAt": "2026-09-04T14:35:14.442Z"
   },
   {
     "id": "torobshop-supermarket-bbd449ed50b3d540",
@@ -807,7 +807,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.690Z"
+    "observedAt": "2026-09-04T14:35:14.442Z"
   },
   {
     "id": "torobshop-supermarket-50ddbf6ac385797f",
@@ -825,7 +825,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.690Z"
+    "observedAt": "2026-09-04T14:35:14.442Z"
   },
   {
     "id": "torobshop-supermarket-80a52ed3a08cda77",
@@ -843,7 +843,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.690Z"
+    "observedAt": "2026-09-04T14:35:14.442Z"
   },
   {
     "id": "torobshop-supermarket-039d5e6addbbd691",
@@ -861,7 +861,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.690Z"
+    "observedAt": "2026-09-04T14:35:14.442Z"
   },
   {
     "id": "torobshop-supermarket-35ed38f253e56a81",
@@ -879,7 +879,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.690Z"
+    "observedAt": "2026-09-04T14:35:14.442Z"
   },
   {
     "id": "torobshop-supermarket-81294b2d39671c7a",
@@ -897,7 +897,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.690Z"
+    "observedAt": "2026-09-04T14:35:14.442Z"
   },
   {
     "id": "torobshop-supermarket-aa508f6b8b35e109",
@@ -915,7 +915,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.690Z"
+    "observedAt": "2026-09-04T14:35:14.442Z"
   },
   {
     "id": "torobshop-supermarket-6ec47a3d62be5701",
@@ -933,7 +933,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.690Z"
+    "observedAt": "2026-09-04T14:35:14.442Z"
   },
   {
     "id": "torobshop-supermarket-7b66ea2c8fd4c6a4",
@@ -951,7 +951,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.690Z"
+    "observedAt": "2026-09-04T14:35:14.442Z"
   },
   {
     "id": "torobshop-supermarket-d49e2d4bb6f40cd4",
@@ -969,7 +969,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.690Z"
+    "observedAt": "2026-09-04T14:35:14.442Z"
   },
   {
     "id": "torobshop-supermarket-189f8d80d22fa44f",
@@ -987,7 +987,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.690Z"
+    "observedAt": "2026-09-04T14:35:14.442Z"
   },
   {
     "id": "torobshop-supermarket-5b8fa53f836d0f0c",
@@ -1005,7 +1005,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.690Z"
+    "observedAt": "2026-09-04T14:35:14.442Z"
   },
   {
     "id": "torobshop-supermarket-547d268a4387e8cb",
@@ -1023,7 +1023,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.690Z"
+    "observedAt": "2026-09-04T14:35:14.442Z"
   },
   {
     "id": "torobshop-supermarket-4192b4da9c3a842b",
@@ -1041,7 +1041,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.690Z"
+    "observedAt": "2026-09-04T14:35:14.442Z"
   },
   {
     "id": "torobshop-supermarket-d81ab9c86f172992",
@@ -1059,7 +1059,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.690Z"
+    "observedAt": "2026-09-04T14:35:14.442Z"
   },
   {
     "id": "torobshop-supermarket-c2621badab7154db",
@@ -1077,7 +1077,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.690Z"
+    "observedAt": "2026-09-04T14:35:14.442Z"
   },
   {
     "id": "torobshop-supermarket-e61e8163e0053f8c",
@@ -1095,7 +1095,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.690Z"
+    "observedAt": "2026-09-04T14:35:14.442Z"
   },
   {
     "id": "torobshop-supermarket-0a6f99bfb7c72378",
@@ -1113,7 +1113,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.690Z"
+    "observedAt": "2026-09-04T14:35:14.442Z"
   },
   {
     "id": "torobshop-supermarket-17b433396f0dd8b8",
@@ -1131,7 +1131,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.690Z"
+    "observedAt": "2026-09-04T14:35:14.442Z"
   },
   {
     "id": "torobshop-supermarket-70f796097c7bfa77",
@@ -1149,7 +1149,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.690Z"
+    "observedAt": "2026-09-04T14:35:14.442Z"
   },
   {
     "id": "torobshop-supermarket-792d9fda0d1edf60",
@@ -1167,7 +1167,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.690Z"
+    "observedAt": "2026-09-04T14:35:14.442Z"
   },
   {
     "id": "torobshop-supermarket-0540c2016311432d",
@@ -1185,7 +1185,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.690Z"
+    "observedAt": "2026-09-04T14:35:14.442Z"
   },
   {
     "id": "torobshop-supermarket-ea7e49d4888f5500",
@@ -1203,7 +1203,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.690Z"
+    "observedAt": "2026-09-04T14:35:14.442Z"
   },
   {
     "id": "torobshop-supermarket-a7031b2d2c098e3a",
@@ -1221,7 +1221,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.690Z"
+    "observedAt": "2026-09-04T14:35:14.442Z"
   },
   {
     "id": "torobshop-supermarket-b280052ba623afe6",
@@ -1239,7 +1239,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.690Z"
+    "observedAt": "2026-09-04T14:35:14.442Z"
   },
   {
     "id": "torobshop-supermarket-f65d7089e1b75967",
@@ -1257,7 +1257,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.690Z"
+    "observedAt": "2026-09-04T14:35:14.442Z"
   },
   {
     "id": "torobshop-supermarket-682b567d27e46eb9",
@@ -1275,7 +1275,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.690Z"
+    "observedAt": "2026-09-04T14:35:14.442Z"
   },
   {
     "id": "torobshop-supermarket-1a199d11167496a7",
@@ -1293,7 +1293,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.690Z"
+    "observedAt": "2026-09-04T14:35:14.442Z"
   },
   {
     "id": "torobshop-supermarket-e7562a4a47affbdf",
@@ -1311,7 +1311,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.690Z"
+    "observedAt": "2026-09-04T14:35:14.442Z"
   },
   {
     "id": "torobshop-supermarket-5681fc33ebc4a2c4",
@@ -1329,7 +1329,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.690Z"
+    "observedAt": "2026-09-04T14:35:14.442Z"
   },
   {
     "id": "torobshop-supermarket-eb3156af454255af",
@@ -1347,7 +1347,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.690Z"
+    "observedAt": "2026-09-04T14:35:14.442Z"
   },
   {
     "id": "torobshop-supermarket-3f60763e8c1f61db",
@@ -1365,7 +1365,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.690Z"
+    "observedAt": "2026-09-04T14:35:14.442Z"
   },
   {
     "id": "torobshop-supermarket-8b667a7c5d48a018",
@@ -1383,7 +1383,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.690Z"
+    "observedAt": "2026-09-04T14:35:14.442Z"
   },
   {
     "id": "torobshop-supermarket-c28d9ee4867587e0",
@@ -1401,7 +1401,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.690Z"
+    "observedAt": "2026-09-04T14:35:14.442Z"
   },
   {
     "id": "torobshop-supermarket-135cb4370d26107e",
@@ -1419,7 +1419,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.690Z"
+    "observedAt": "2026-09-04T14:35:14.442Z"
   },
   {
     "id": "torobshop-supermarket-ea6561f27fcae338",
@@ -1437,7 +1437,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.690Z"
+    "observedAt": "2026-09-04T14:35:14.442Z"
   },
   {
     "id": "torobshop-supermarket-9da6cf5207d19dc6",
@@ -1455,7 +1455,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.690Z"
+    "observedAt": "2026-09-04T14:35:14.443Z"
   },
   {
     "id": "torobshop-supermarket-973da9b66d30f98f",
@@ -1473,7 +1473,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.690Z"
+    "observedAt": "2026-09-04T14:35:14.443Z"
   },
   {
     "id": "torobshop-supermarket-27a7ab064979e19e",
@@ -1491,7 +1491,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.690Z"
+    "observedAt": "2026-09-04T14:35:14.443Z"
   },
   {
     "id": "torobshop-supermarket-426ac503c83523da",
@@ -1509,7 +1509,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.690Z"
+    "observedAt": "2026-09-04T14:35:14.443Z"
   },
   {
     "id": "torobshop-supermarket-93f0314c16b9cade",
@@ -1527,7 +1527,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.690Z"
+    "observedAt": "2026-09-04T14:35:14.443Z"
   },
   {
     "id": "torobshop-supermarket-e546c7ee2f25cccb",
@@ -1545,7 +1545,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.690Z"
+    "observedAt": "2026-09-04T14:35:14.443Z"
   },
   {
     "id": "torobshop-supermarket-06e9af83157d59bf",
@@ -1563,7 +1563,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.690Z"
+    "observedAt": "2026-09-04T14:35:14.443Z"
   },
   {
     "id": "torobshop-supermarket-7dd02e17fa5ae720",
@@ -1581,7 +1581,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.690Z"
+    "observedAt": "2026-09-04T14:35:14.443Z"
   },
   {
     "id": "torobshop-supermarket-67b089d5840c00b5",
@@ -1599,7 +1599,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.690Z"
+    "observedAt": "2026-09-04T14:35:14.443Z"
   },
   {
     "id": "torobshop-supermarket-16617f0cd6242c17",
@@ -1617,7 +1617,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.691Z"
+    "observedAt": "2026-09-04T14:35:14.443Z"
   },
   {
     "id": "torobshop-supermarket-aab6f7ca65634b77",
@@ -1635,7 +1635,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.691Z"
+    "observedAt": "2026-09-04T14:35:14.443Z"
   },
   {
     "id": "torobshop-supermarket-230290bd87eab562",
@@ -1653,7 +1653,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.691Z"
+    "observedAt": "2026-09-04T14:35:14.443Z"
   },
   {
     "id": "torobshop-supermarket-697a2934ffba6321",
@@ -1671,7 +1671,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.691Z"
+    "observedAt": "2026-09-04T14:35:14.443Z"
   },
   {
     "id": "torobshop-supermarket-54f5e9ae596669e0",
@@ -1689,7 +1689,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.691Z"
+    "observedAt": "2026-09-04T14:35:14.443Z"
   },
   {
     "id": "torobshop-supermarket-12112ebd794aebfe",
@@ -1707,7 +1707,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.691Z"
+    "observedAt": "2026-09-04T14:35:14.443Z"
   },
   {
     "id": "torobshop-supermarket-936307be3dbff4d8",
@@ -1725,7 +1725,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.691Z"
+    "observedAt": "2026-09-04T14:35:14.443Z"
   },
   {
     "id": "torobshop-supermarket-6e9b5969bf806a83",
@@ -1743,7 +1743,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.691Z"
+    "observedAt": "2026-09-04T14:35:14.443Z"
   },
   {
     "id": "torobshop-supermarket-e8fbb91576830b01",
@@ -1761,7 +1761,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.691Z"
+    "observedAt": "2026-09-04T14:35:14.443Z"
   },
   {
     "id": "torobshop-supermarket-46604b56d19bc98e",
@@ -1779,7 +1779,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.691Z"
+    "observedAt": "2026-09-04T14:35:14.443Z"
   },
   {
     "id": "torobshop-supermarket-c0da7c6caaaabe22",
@@ -1797,7 +1797,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.691Z"
+    "observedAt": "2026-09-04T14:35:14.443Z"
   },
   {
     "id": "torobshop-supermarket-b0d9a8bce5b96da9",
@@ -1815,7 +1815,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.691Z"
+    "observedAt": "2026-09-04T14:35:14.443Z"
   },
   {
     "id": "torobshop-supermarket-5aade8dcb399df70",
@@ -1833,7 +1833,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.691Z"
+    "observedAt": "2026-09-04T14:35:14.443Z"
   },
   {
     "id": "torobshop-supermarket-5793143473c0cf7d",
@@ -1851,7 +1851,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.691Z"
+    "observedAt": "2026-09-04T14:35:14.443Z"
   },
   {
     "id": "torobshop-supermarket-338927d0838a0440",
@@ -1869,7 +1869,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.691Z"
+    "observedAt": "2026-09-04T14:35:14.443Z"
   },
   {
     "id": "torobshop-supermarket-01db327156bef7cb",
@@ -1887,7 +1887,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.691Z"
+    "observedAt": "2026-09-04T14:35:14.443Z"
   },
   {
     "id": "torobshop-supermarket-5f8b7d12315d211b",
@@ -1905,7 +1905,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.691Z"
+    "observedAt": "2026-09-04T14:35:14.443Z"
   },
   {
     "id": "torobshop-supermarket-bbcc82316e14ad0c",
@@ -1923,7 +1923,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.691Z"
+    "observedAt": "2026-09-04T14:35:14.443Z"
   },
   {
     "id": "torobshop-supermarket-c4764ab021d7047d",
@@ -1941,7 +1941,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.691Z"
+    "observedAt": "2026-09-04T14:35:14.443Z"
   },
   {
     "id": "torobshop-supermarket-7bcf4d86c8897e89",
@@ -1959,7 +1959,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.691Z"
+    "observedAt": "2026-09-04T14:35:14.443Z"
   },
   {
     "id": "torobshop-supermarket-c0ed70988a23d716",
@@ -1977,7 +1977,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.691Z"
+    "observedAt": "2026-09-04T14:35:14.443Z"
   },
   {
     "id": "torobshop-supermarket-60d6e587231ae5e2",
@@ -1995,7 +1995,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.691Z"
+    "observedAt": "2026-09-04T14:35:14.443Z"
   },
   {
     "id": "torobshop-supermarket-6ae0fa5e11f4b4e4",
@@ -2013,7 +2013,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.691Z"
+    "observedAt": "2026-09-04T14:35:14.443Z"
   },
   {
     "id": "torobshop-supermarket-60af1d85416ddb75",
@@ -2031,7 +2031,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.691Z"
+    "observedAt": "2026-09-04T14:35:14.443Z"
   },
   {
     "id": "torobshop-supermarket-4bcca73578b5dd16",
@@ -2049,7 +2049,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.691Z"
+    "observedAt": "2026-09-04T14:35:14.443Z"
   },
   {
     "id": "torobshop-supermarket-6e06ceda384f61d3",
@@ -2067,7 +2067,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.691Z"
+    "observedAt": "2026-09-04T14:35:14.443Z"
   },
   {
     "id": "torobshop-supermarket-d6020856dbe3939e",
@@ -2085,7 +2085,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.691Z"
+    "observedAt": "2026-09-04T14:35:14.443Z"
   },
   {
     "id": "torobshop-supermarket-f9bbe058bc1d2128",
@@ -2103,7 +2103,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.691Z"
+    "observedAt": "2026-09-04T14:35:14.443Z"
   },
   {
     "id": "torobshop-supermarket-5d82b44892bc11b9",
@@ -2121,7 +2121,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.691Z"
+    "observedAt": "2026-09-04T14:35:14.443Z"
   },
   {
     "id": "torobshop-supermarket-e314f2beea5b98b5",
@@ -2139,7 +2139,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.691Z"
+    "observedAt": "2026-09-04T14:35:14.443Z"
   },
   {
     "id": "torobshop-supermarket-f9b72003ee046406",
@@ -2157,7 +2157,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.691Z"
+    "observedAt": "2026-09-04T14:35:14.443Z"
   },
   {
     "id": "torobshop-supermarket-e0190c6b09b72f84",
@@ -2175,7 +2175,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.691Z"
+    "observedAt": "2026-09-04T14:35:14.443Z"
   },
   {
     "id": "torobshop-supermarket-55066b4800c9da01",
@@ -2193,7 +2193,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.691Z"
+    "observedAt": "2026-09-04T14:35:14.443Z"
   },
   {
     "id": "torobshop-supermarket-dab9eb8721316f5c",
@@ -2211,7 +2211,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.691Z"
+    "observedAt": "2026-09-04T14:35:14.443Z"
   },
   {
     "id": "torobshop-supermarket-b5bb3ef74c64016f",
@@ -2229,7 +2229,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.691Z"
+    "observedAt": "2026-09-04T14:35:14.443Z"
   },
   {
     "id": "torobshop-supermarket-7039563646d2a08c",
@@ -2247,7 +2247,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.691Z"
+    "observedAt": "2026-09-04T14:35:14.443Z"
   },
   {
     "id": "torobshop-supermarket-d17a16a92c427af7",
@@ -2265,7 +2265,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.691Z"
+    "observedAt": "2026-09-04T14:35:14.443Z"
   },
   {
     "id": "torobshop-supermarket-13383e2908795ceb",
@@ -2283,7 +2283,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.691Z"
+    "observedAt": "2026-09-04T14:35:14.443Z"
   },
   {
     "id": "torobshop-supermarket-e05ea902bac411c1",
@@ -2301,7 +2301,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.691Z"
+    "observedAt": "2026-09-04T14:35:14.443Z"
   },
   {
     "id": "torobshop-supermarket-222c5f1f48a7811a",
@@ -2319,7 +2319,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.691Z"
+    "observedAt": "2026-09-04T14:35:14.443Z"
   },
   {
     "id": "torobshop-supermarket-9f8dba1c4be0543f",
@@ -2337,7 +2337,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.691Z"
+    "observedAt": "2026-09-04T14:35:14.443Z"
   },
   {
     "id": "torobshop-supermarket-73f54a12bc87541c",
@@ -2355,7 +2355,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.691Z"
+    "observedAt": "2026-09-04T14:35:14.443Z"
   },
   {
     "id": "torobshop-supermarket-7dda1ee3ebe3337d",
@@ -2373,7 +2373,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.691Z"
+    "observedAt": "2026-09-04T14:35:14.443Z"
   },
   {
     "id": "torobshop-supermarket-fed9304ce636fd70",
@@ -2391,7 +2391,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.691Z"
+    "observedAt": "2026-09-04T14:35:14.443Z"
   },
   {
     "id": "torobshop-supermarket-56d2262c04bf40b1",
@@ -2409,7 +2409,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.691Z"
+    "observedAt": "2026-09-04T14:35:14.443Z"
   },
   {
     "id": "torobshop-supermarket-1d09296a1209f7ae",
@@ -2427,7 +2427,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.691Z"
+    "observedAt": "2026-09-04T14:35:14.443Z"
   },
   {
     "id": "torobshop-supermarket-d5861c5eae980acb",
@@ -2445,79 +2445,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.691Z"
-  },
-  {
-    "id": "torobshop-supermarket-3b108c60419c6b3e",
-    "productId": "torobshop-3b108c60419c6b3e",
-    "name": "جارو برقی بدون کیسه میله آلمان مدل بلیزارد CX1 کامفورت پاورلاین Miele SKMF5 مشکی",
-    "brand": "",
-    "model": "جارو برقی بدون کیسه میله آلمان مدل بلیزارد CX1 کامفورت پاورلاین Miele SKMF5 مشکی",
-    "category": "supermarket",
-    "subcategory": "خوراکی و آشامیدنی",
-    "price": 154187000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%AC%D8%A7%D8%B1%D9%88-%D8%A8%D8%B1%D9%82%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%DA%A9%DB%8C%D8%B3%D9%87-%D9%85%DB%8C%D9%84%D9%87-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%AF%D9%84-%D8%A8%D9%84%DB%8C%D8%B2%D8%A7%D8%B1%D8%AF-CX1-%DA%A9%D8%A7%D9%85%D9%81%D9%88%D8%B1%D8%AA-%D9%BE%D8%A7%D9%88%D8%B1%D9%84%D8%A7%DB%8C%D9%86-Miele-SKMF5-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.691Z"
-  },
-  {
-    "id": "torobshop-supermarket-386045fed7109b6c",
-    "productId": "torobshop-386045fed7109b6c",
-    "name": "جارو برقی بدون کیسه میله آلمان مدل بلیزارد CX1 کت اند داگ پاورلاین Miele SKCF5",
-    "brand": "",
-    "model": "جارو برقی بدون کیسه میله آلمان مدل بلیزارد CX1 کت اند داگ پاورلاین Miele SKCF5",
-    "category": "supermarket",
-    "subcategory": "خوراکی و آشامیدنی",
-    "price": 133802000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%AC%D8%A7%D8%B1%D9%88-%D8%A8%D8%B1%D9%82%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%DA%A9%DB%8C%D8%B3%D9%87-%D9%85%DB%8C%D9%84%D9%87-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%AF%D9%84-%D8%A8%D9%84%DB%8C%D8%B2%D8%A7%D8%B1%D8%AF-CX1-%DA%A9%D8%AA-%D8%A7%D9%86%D8%AF-%D8%AF%D8%A7%DA%AF-%D9%BE%D8%A7%D9%88%D8%B1%D9%84%D8%A7%DB%8C%D9%86-Miele-SKCF5",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.691Z"
-  },
-  {
-    "id": "torobshop-supermarket-3d432c8dbd69eefb",
-    "productId": "torobshop-3d432c8dbd69eefb",
-    "name": "واتر جت دستگاه شستشوی دهان و دندان فیلیپس هلند Philips HX3826/33 سونیکر مدل 3000",
-    "brand": "سونی",
-    "model": "واتر جت دستگاه شستشوی دهان و دندان فیلیپس هلند Philips HX3826/33 سونیکر مدل 3000",
-    "category": "supermarket",
-    "subcategory": "خوراکی و آشامیدنی",
-    "price": 25836000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88%DB%8C-%D8%AF%D9%87%D8%A7%D9%86-%D9%88-%D8%AF%D9%86%D8%AF%D8%A7%D9%86-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%B3%D9%88%D9%86%DB%8C%DA%A9%D8%B1-%D9%85%D8%AF%D9%84-3000-%D9%86%D8%AE-%D8%AF%D9%86%D8%AF%D8%A7%D9%86-%D8%A2%D8%A8%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AF%D9%86%D8%AF%D8%A7%D9%86-%D9%84%D8%AB%D9%87-%D9%88-%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%AA-%D8%A7%D8%B2-%D8%AF%D9%87%D8%A7%D9%86-%D9%88-%D8%AF%D9%86%D8%AF%D8%A7%D9%86-%D9%85%D8%B4%DA%A9%DB%8C-%D9%85%D8%AF%D9%84-HX3826-33",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.691Z"
-  },
-  {
-    "id": "torobshop-supermarket-2278a7dbec8ed7cd",
-    "productId": "torobshop-2278a7dbec8ed7cd",
-    "name": "سماور برقی 3 لیتری بیم آلمان مدل BEEM Samowar 2030S",
-    "brand": "",
-    "model": "سماور برقی 3 لیتری بیم آلمان مدل BEEM Samowar 2030S",
-    "category": "supermarket",
-    "subcategory": "خوراکی و آشامیدنی",
-    "price": 45668000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D9%85%D8%A7%D9%88%D8%B1-%D8%A8%D8%B1%D9%82%DB%8C-3-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C-%D8%A8%DB%8C%D9%85-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%AF%D9%84-BEEM-Samowar-2030S",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.691Z"
+    "observedAt": "2026-09-04T14:35:14.443Z"
   },
   {
     "id": "torobshop-supermarket-3a354858143bf5bf",
@@ -2535,7 +2463,79 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.691Z"
+    "observedAt": "2026-09-04T14:35:14.443Z"
+  },
+  {
+    "id": "torobshop-supermarket-3b108c60419c6b3e",
+    "productId": "torobshop-3b108c60419c6b3e",
+    "name": "جارو برقی بدون کیسه میله آلمان مدل بلیزارد CX1 کامفورت پاورلاین Miele SKMF5 مشکی",
+    "brand": "",
+    "model": "جارو برقی بدون کیسه میله آلمان مدل بلیزارد CX1 کامفورت پاورلاین Miele SKMF5 مشکی",
+    "category": "supermarket",
+    "subcategory": "خوراکی و آشامیدنی",
+    "price": 154187000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%AC%D8%A7%D8%B1%D9%88-%D8%A8%D8%B1%D9%82%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%DA%A9%DB%8C%D8%B3%D9%87-%D9%85%DB%8C%D9%84%D9%87-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%AF%D9%84-%D8%A8%D9%84%DB%8C%D8%B2%D8%A7%D8%B1%D8%AF-CX1-%DA%A9%D8%A7%D9%85%D9%81%D9%88%D8%B1%D8%AA-%D9%BE%D8%A7%D9%88%D8%B1%D9%84%D8%A7%DB%8C%D9%86-Miele-SKMF5-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T14:35:14.443Z"
+  },
+  {
+    "id": "torobshop-supermarket-386045fed7109b6c",
+    "productId": "torobshop-386045fed7109b6c",
+    "name": "جارو برقی بدون کیسه میله آلمان مدل بلیزارد CX1 کت اند داگ پاورلاین Miele SKCF5",
+    "brand": "",
+    "model": "جارو برقی بدون کیسه میله آلمان مدل بلیزارد CX1 کت اند داگ پاورلاین Miele SKCF5",
+    "category": "supermarket",
+    "subcategory": "خوراکی و آشامیدنی",
+    "price": 133802000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%AC%D8%A7%D8%B1%D9%88-%D8%A8%D8%B1%D9%82%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%DA%A9%DB%8C%D8%B3%D9%87-%D9%85%DB%8C%D9%84%D9%87-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%AF%D9%84-%D8%A8%D9%84%DB%8C%D8%B2%D8%A7%D8%B1%D8%AF-CX1-%DA%A9%D8%AA-%D8%A7%D9%86%D8%AF-%D8%AF%D8%A7%DA%AF-%D9%BE%D8%A7%D9%88%D8%B1%D9%84%D8%A7%DB%8C%D9%86-Miele-SKCF5",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T14:35:14.443Z"
+  },
+  {
+    "id": "torobshop-supermarket-3d432c8dbd69eefb",
+    "productId": "torobshop-3d432c8dbd69eefb",
+    "name": "واتر جت دستگاه شستشوی دهان و دندان فیلیپس هلند Philips HX3826/33 سونیکر مدل 3000",
+    "brand": "سونی",
+    "model": "واتر جت دستگاه شستشوی دهان و دندان فیلیپس هلند Philips HX3826/33 سونیکر مدل 3000",
+    "category": "supermarket",
+    "subcategory": "خوراکی و آشامیدنی",
+    "price": 25836000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88%DB%8C-%D8%AF%D9%87%D8%A7%D9%86-%D9%88-%D8%AF%D9%86%D8%AF%D8%A7%D9%86-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%B3%D9%88%D9%86%DB%8C%DA%A9%D8%B1-%D9%85%D8%AF%D9%84-3000-%D9%86%D8%AE-%D8%AF%D9%86%D8%AF%D8%A7%D9%86-%D8%A2%D8%A8%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AF%D9%86%D8%AF%D8%A7%D9%86-%D9%84%D8%AB%D9%87-%D9%88-%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%AA-%D8%A7%D8%B2-%D8%AF%D9%87%D8%A7%D9%86-%D9%88-%D8%AF%D9%86%D8%AF%D8%A7%D9%86-%D9%85%D8%B4%DA%A9%DB%8C-%D9%85%D8%AF%D9%84-HX3826-33",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T14:35:14.443Z"
+  },
+  {
+    "id": "torobshop-supermarket-2278a7dbec8ed7cd",
+    "productId": "torobshop-2278a7dbec8ed7cd",
+    "name": "سماور برقی 3 لیتری بیم آلمان مدل BEEM Samowar 2030S",
+    "brand": "",
+    "model": "سماور برقی 3 لیتری بیم آلمان مدل BEEM Samowar 2030S",
+    "category": "supermarket",
+    "subcategory": "خوراکی و آشامیدنی",
+    "price": 45668000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D9%85%D8%A7%D9%88%D8%B1-%D8%A8%D8%B1%D9%82%DB%8C-3-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C-%D8%A8%DB%8C%D9%85-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%AF%D9%84-BEEM-Samowar-2030S",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T14:35:14.443Z"
   },
   {
     "id": "torobshop-supermarket-66634e26dfb49c04",
@@ -2553,7 +2553,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.691Z"
+    "observedAt": "2026-09-04T14:35:14.443Z"
   },
   {
     "id": "torobshop-supermarket-bab25203513b93bb",
@@ -2571,7 +2571,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.691Z"
+    "observedAt": "2026-09-04T14:35:14.444Z"
   },
   {
     "id": "torobshop-supermarket-3dd1b99a47f6c6d1",
@@ -2589,7 +2589,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.691Z"
+    "observedAt": "2026-09-04T14:35:14.444Z"
   },
   {
     "id": "torobshop-supermarket-bcf3455eedcf96e7",
@@ -2607,7 +2607,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.691Z"
+    "observedAt": "2026-09-04T14:35:14.444Z"
   },
   {
     "id": "torobshop-supermarket-40f557a46b915c21",
@@ -2625,7 +2625,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.691Z"
+    "observedAt": "2026-09-04T14:35:14.444Z"
   },
   {
     "id": "torobshop-supermarket-fbd5e1832a592f6d",
@@ -2643,7 +2643,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.691Z"
+    "observedAt": "2026-09-04T14:35:14.444Z"
   },
   {
     "id": "torobshop-supermarket-9c9a87a898bad342",
@@ -2661,7 +2661,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.691Z"
+    "observedAt": "2026-09-04T14:35:14.444Z"
   },
   {
     "id": "torobshop-supermarket-685fccacbb18ee43",
@@ -2679,7 +2679,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.691Z"
+    "observedAt": "2026-09-04T14:35:14.444Z"
   },
   {
     "id": "torobshop-supermarket-1cb6df1aed563bee",
@@ -2697,7 +2697,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.691Z"
+    "observedAt": "2026-09-04T14:35:14.444Z"
   },
   {
     "id": "torobshop-supermarket-993ee35f4a561a10",
@@ -2715,7 +2715,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.691Z"
+    "observedAt": "2026-09-04T14:35:14.444Z"
   },
   {
     "id": "torobshop-supermarket-37fd983abaa93a3b",
@@ -2733,7 +2733,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.691Z"
+    "observedAt": "2026-09-04T14:35:14.444Z"
   },
   {
     "id": "torobshop-supermarket-deb4652ab7b20c96",
@@ -2751,7 +2751,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.691Z"
+    "observedAt": "2026-09-04T14:35:14.444Z"
   },
   {
     "id": "torobshop-supermarket-cc5a74ea332cb871",
@@ -2769,7 +2769,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.691Z"
+    "observedAt": "2026-09-04T14:35:14.444Z"
   },
   {
     "id": "torobshop-supermarket-f5c373b20c89f3cf",
@@ -2787,7 +2787,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.692Z"
+    "observedAt": "2026-09-04T14:35:14.444Z"
   },
   {
     "id": "torobshop-supermarket-557954e4838db8ec",
@@ -2805,7 +2805,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.692Z"
+    "observedAt": "2026-09-04T14:35:14.444Z"
   },
   {
     "id": "torobshop-supermarket-ac5e0f9a687acc9d",
@@ -2823,7 +2823,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.692Z"
+    "observedAt": "2026-09-04T14:35:14.444Z"
   },
   {
     "id": "torobshop-supermarket-5e97e30e4af5e35a",
@@ -2841,7 +2841,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.692Z"
+    "observedAt": "2026-09-04T14:35:14.444Z"
   },
   {
     "id": "torobshop-supermarket-174296fd490ce4c6",
@@ -2859,7 +2859,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.692Z"
+    "observedAt": "2026-09-04T14:35:14.444Z"
   },
   {
     "id": "torobshop-supermarket-ca40f9691c169854",
@@ -2877,7 +2877,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.692Z"
+    "observedAt": "2026-09-04T14:35:14.444Z"
   },
   {
     "id": "torobshop-supermarket-1ba644cb6c0a38e9",
@@ -2895,7 +2895,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.692Z"
+    "observedAt": "2026-09-04T14:35:14.444Z"
   },
   {
     "id": "torobshop-supermarket-eb2d1bdae18ab641",
@@ -2913,7 +2913,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.692Z"
+    "observedAt": "2026-09-04T14:35:14.444Z"
   },
   {
     "id": "torobshop-supermarket-9526bc50db1d2b71",
@@ -2931,7 +2931,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.692Z"
+    "observedAt": "2026-09-04T14:35:14.444Z"
   },
   {
     "id": "torobshop-supermarket-17aea0c096f3fbb1",
@@ -2949,7 +2949,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.692Z"
+    "observedAt": "2026-09-04T14:35:14.444Z"
   },
   {
     "id": "torobshop-supermarket-dab36535df580dd9",
@@ -2967,7 +2967,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.692Z"
+    "observedAt": "2026-09-04T14:35:14.444Z"
   },
   {
     "id": "torobshop-supermarket-bb07ff83203ce817",
@@ -2985,7 +2985,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.692Z"
+    "observedAt": "2026-09-04T14:35:14.444Z"
   },
   {
     "id": "torobshop-supermarket-23a08ed4a54c1bf3",
@@ -3003,7 +3003,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.692Z"
+    "observedAt": "2026-09-04T14:35:14.444Z"
   },
   {
     "id": "torobshop-supermarket-86394f5b0d453ade",
@@ -3021,7 +3021,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.692Z"
+    "observedAt": "2026-09-04T14:35:14.444Z"
   },
   {
     "id": "torobshop-supermarket-bf0ff9604c787d7f",
@@ -3039,7 +3039,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.692Z"
+    "observedAt": "2026-09-04T14:35:14.444Z"
   },
   {
     "id": "torobshop-supermarket-add12b5339d41d54",
@@ -3057,7 +3057,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.692Z"
+    "observedAt": "2026-09-04T14:35:14.444Z"
   },
   {
     "id": "torobshop-supermarket-ec9957a5ab556a59",
@@ -3075,7 +3075,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.692Z"
+    "observedAt": "2026-09-04T14:35:14.444Z"
   },
   {
     "id": "torobshop-supermarket-ec7446a90d887300",
@@ -3093,7 +3093,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.692Z"
+    "observedAt": "2026-09-04T14:35:14.444Z"
   },
   {
     "id": "torobshop-supermarket-e89541bdd38935d2",
@@ -3111,7 +3111,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.692Z"
+    "observedAt": "2026-09-04T14:35:14.444Z"
   },
   {
     "id": "torobshop-supermarket-f676e23d1f151190",
@@ -3129,7 +3129,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.692Z"
+    "observedAt": "2026-09-04T14:35:14.444Z"
   },
   {
     "id": "torobshop-supermarket-ffccfb4b61d564f3",
@@ -3147,7 +3147,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.692Z"
+    "observedAt": "2026-09-04T14:35:14.444Z"
   },
   {
     "id": "torobshop-supermarket-bf9b6308d5e6e4a3",
@@ -3165,7 +3165,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.692Z"
+    "observedAt": "2026-09-04T14:35:14.444Z"
   },
   {
     "id": "torobshop-supermarket-a936b9d4fccda9ec",
@@ -3183,7 +3183,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.692Z"
+    "observedAt": "2026-09-04T14:35:14.444Z"
   },
   {
     "id": "torobshop-supermarket-3debd7458ec254ad",
@@ -3201,7 +3201,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.692Z"
+    "observedAt": "2026-09-04T14:35:14.444Z"
   },
   {
     "id": "torobshop-supermarket-20506e6b258fcb0c",
@@ -3219,7 +3219,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.692Z"
+    "observedAt": "2026-09-04T14:35:14.444Z"
   },
   {
     "id": "torobshop-supermarket-9f1357a1a5ec15c3",
@@ -3237,7 +3237,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.692Z"
+    "observedAt": "2026-09-04T14:35:14.444Z"
   },
   {
     "id": "torobshop-supermarket-bc5ad78acdc13550",
@@ -3255,7 +3255,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.692Z"
+    "observedAt": "2026-09-04T14:35:14.444Z"
   },
   {
     "id": "torobshop-supermarket-b93b2b7b8a52ead7",
@@ -3273,7 +3273,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.692Z"
+    "observedAt": "2026-09-04T14:35:14.444Z"
   },
   {
     "id": "torobshop-supermarket-469010b14dce1518",
@@ -3291,7 +3291,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.692Z"
+    "observedAt": "2026-09-04T14:35:14.444Z"
   },
   {
     "id": "torobshop-supermarket-d622f60b84a25c29",
@@ -3309,7 +3309,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.692Z"
+    "observedAt": "2026-09-04T14:35:14.444Z"
   },
   {
     "id": "torobshop-supermarket-8ad1b620c2984c64",
@@ -3327,7 +3327,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.692Z"
+    "observedAt": "2026-09-04T14:35:14.444Z"
   },
   {
     "id": "torobshop-supermarket-7362b68fe582e1ef",
@@ -3345,7 +3345,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.692Z"
+    "observedAt": "2026-09-04T14:35:14.444Z"
   },
   {
     "id": "torobshop-supermarket-8cd92a01eb7c25f2",
@@ -3363,7 +3363,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.692Z"
+    "observedAt": "2026-09-04T14:35:14.444Z"
   },
   {
     "id": "torobshop-supermarket-8b4d268dc0b50dc9",
@@ -3381,7 +3381,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.692Z"
+    "observedAt": "2026-09-04T14:35:14.444Z"
   },
   {
     "id": "torobshop-supermarket-2aa12aa20262b96c",
@@ -3399,7 +3399,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.692Z"
+    "observedAt": "2026-09-04T14:35:14.444Z"
   },
   {
     "id": "torobshop-supermarket-10055e541e3441a4",
@@ -3417,7 +3417,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.692Z"
+    "observedAt": "2026-09-04T14:35:14.444Z"
   },
   {
     "id": "torobshop-supermarket-2961f6c161810850",
@@ -3435,7 +3435,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.692Z"
+    "observedAt": "2026-09-04T14:35:14.444Z"
   },
   {
     "id": "torobshop-supermarket-f6139cf71fa544af",
@@ -3453,7 +3453,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.692Z"
+    "observedAt": "2026-09-04T14:35:14.444Z"
   },
   {
     "id": "torobshop-supermarket-231a8680a663a06f",
@@ -3471,7 +3471,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.692Z"
+    "observedAt": "2026-09-04T14:35:14.444Z"
   },
   {
     "id": "torobshop-supermarket-2e4aeaf94d879ff9",
@@ -3489,7 +3489,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.692Z"
+    "observedAt": "2026-09-04T14:35:14.444Z"
   },
   {
     "id": "torobshop-supermarket-712138d0bed8d76a",
@@ -3507,7 +3507,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.692Z"
+    "observedAt": "2026-09-04T14:35:14.444Z"
   },
   {
     "id": "torobshop-supermarket-a0357d058917fff7",
@@ -3525,7 +3525,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.692Z"
+    "observedAt": "2026-09-04T14:35:14.444Z"
   },
   {
     "id": "torobshop-supermarket-5219a65546b1a882",
@@ -3543,7 +3543,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.692Z"
+    "observedAt": "2026-09-04T14:35:14.444Z"
   },
   {
     "id": "torobshop-supermarket-f241bfdbdc958cdb",
@@ -3561,7 +3561,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.692Z"
+    "observedAt": "2026-09-04T14:35:14.445Z"
   },
   {
     "id": "torobshop-supermarket-7400212af3648c0e",
@@ -3579,7 +3579,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.692Z"
+    "observedAt": "2026-09-04T14:35:14.445Z"
   },
   {
     "id": "torobshop-supermarket-caf67fb53869dc8d",
@@ -3597,7 +3597,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.692Z"
+    "observedAt": "2026-09-04T14:35:14.445Z"
   },
   {
     "id": "torobshop-supermarket-42a978739edad1b3",
@@ -3615,7 +3615,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.692Z"
+    "observedAt": "2026-09-04T14:35:14.445Z"
   },
   {
     "id": "torobshop-supermarket-667b222bc82da779",
@@ -3633,7 +3633,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.692Z"
+    "observedAt": "2026-09-04T14:35:14.445Z"
   },
   {
     "id": "torobshop-supermarket-2734ee381987f71a",
@@ -3651,7 +3651,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.692Z"
+    "observedAt": "2026-09-04T14:35:14.445Z"
   },
   {
     "id": "torobshop-supermarket-b59055b4a9ca5ed0",
@@ -3669,7 +3669,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.692Z"
+    "observedAt": "2026-09-04T14:35:14.445Z"
   },
   {
     "id": "torobshop-supermarket-d1db9fdb0a981eb7",
@@ -3687,7 +3687,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.692Z"
+    "observedAt": "2026-09-04T14:35:14.445Z"
   },
   {
     "id": "torobshop-supermarket-13177f1a3461cbf8",
@@ -3705,7 +3705,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.692Z"
+    "observedAt": "2026-09-04T14:35:14.445Z"
   },
   {
     "id": "torobshop-supermarket-226a6dfcab93ffe2",
@@ -3723,7 +3723,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.692Z"
+    "observedAt": "2026-09-04T14:35:14.445Z"
   },
   {
     "id": "torobshop-supermarket-db75e7774c65ead5",
@@ -3741,7 +3741,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.692Z"
+    "observedAt": "2026-09-04T14:35:14.445Z"
   },
   {
     "id": "torobshop-supermarket-1acb3967a4975e9e",
@@ -3759,7 +3759,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.692Z"
+    "observedAt": "2026-09-04T14:35:14.445Z"
   },
   {
     "id": "torobshop-supermarket-34bb04f7987b2eb8",
@@ -3777,7 +3777,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.693Z"
+    "observedAt": "2026-09-04T14:35:14.445Z"
   },
   {
     "id": "torobshop-supermarket-1ac684a13e625548",
@@ -3795,7 +3795,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.693Z"
+    "observedAt": "2026-09-04T14:35:14.445Z"
   },
   {
     "id": "torobshop-supermarket-7406803b18ab5cc6",
@@ -3813,7 +3813,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.693Z"
+    "observedAt": "2026-09-04T14:35:14.445Z"
   },
   {
     "id": "torobshop-supermarket-176747b2a6b3c8bf",
@@ -3831,7 +3831,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.693Z"
+    "observedAt": "2026-09-04T14:35:14.445Z"
   },
   {
     "id": "torobshop-supermarket-1b01f5a6fb5eb1c5",
@@ -3849,7 +3849,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.693Z"
+    "observedAt": "2026-09-04T14:35:14.445Z"
   },
   {
     "id": "torobshop-supermarket-9b16b6ebae742a59",
@@ -3867,7 +3867,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.693Z"
+    "observedAt": "2026-09-04T14:35:14.445Z"
   },
   {
     "id": "torobshop-supermarket-0ef7eb89998918af",
@@ -3885,7 +3885,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.693Z"
+    "observedAt": "2026-09-04T14:35:14.445Z"
   },
   {
     "id": "torobshop-supermarket-28fa9f296d3edd2c",
@@ -3903,7 +3903,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.693Z"
+    "observedAt": "2026-09-04T14:35:14.445Z"
   },
   {
     "id": "torobshop-supermarket-0a56e024ea7c3e6c",
@@ -3921,7 +3921,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.693Z"
+    "observedAt": "2026-09-04T14:35:14.445Z"
   },
   {
     "id": "torobshop-supermarket-1123da8edef7210f",
@@ -3939,7 +3939,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.693Z"
+    "observedAt": "2026-09-04T14:35:14.445Z"
   },
   {
     "id": "torobshop-supermarket-4fcaa05ae27e136c",
@@ -3957,7 +3957,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.693Z"
+    "observedAt": "2026-09-04T14:35:14.445Z"
   },
   {
     "id": "torobshop-supermarket-f2475d629ba82cb9",
@@ -3975,7 +3975,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.693Z"
+    "observedAt": "2026-09-04T14:35:14.445Z"
   },
   {
     "id": "torobshop-supermarket-28731ba0cbc018f8",
@@ -3993,7 +3993,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.693Z"
+    "observedAt": "2026-09-04T14:35:14.445Z"
   },
   {
     "id": "torobshop-supermarket-93c18ce837ff5f57",
@@ -4011,7 +4011,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.693Z"
+    "observedAt": "2026-09-04T14:35:14.445Z"
   },
   {
     "id": "torobshop-supermarket-c73bf4fc0db498be",
@@ -4029,7 +4029,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.693Z"
+    "observedAt": "2026-09-04T14:35:14.445Z"
   },
   {
     "id": "torobshop-supermarket-76f3e4ef7a8810f3",
@@ -4047,7 +4047,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.693Z"
+    "observedAt": "2026-09-04T14:35:14.445Z"
   },
   {
     "id": "torobshop-supermarket-8f566ccc32f52f97",
@@ -4065,7 +4065,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.693Z"
+    "observedAt": "2026-09-04T14:35:14.445Z"
   },
   {
     "id": "torobshop-supermarket-2dee2c9f6fb222d1",
@@ -4083,7 +4083,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.693Z"
+    "observedAt": "2026-09-04T14:35:14.445Z"
   },
   {
     "id": "torobshop-supermarket-05d539a087d0640e",
@@ -4101,7 +4101,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.693Z"
+    "observedAt": "2026-09-04T14:35:14.445Z"
   },
   {
     "id": "torobshop-supermarket-a40b1cc8eb60dfd3",
@@ -4119,7 +4119,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.693Z"
+    "observedAt": "2026-09-04T14:35:14.445Z"
   },
   {
     "id": "torobshop-supermarket-827984c7bc2a588b",
@@ -4137,7 +4137,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.693Z"
+    "observedAt": "2026-09-04T14:35:14.445Z"
   },
   {
     "id": "torobshop-supermarket-b1ad0ea7d3ae35d7",
@@ -4155,7 +4155,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.693Z"
+    "observedAt": "2026-09-04T14:35:14.446Z"
   },
   {
     "id": "torobshop-supermarket-01fd4211de27a0d5",
@@ -4173,7 +4173,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.693Z"
+    "observedAt": "2026-09-04T14:35:14.446Z"
   },
   {
     "id": "torobshop-supermarket-4c20864969491062",
@@ -4191,7 +4191,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.693Z"
+    "observedAt": "2026-09-04T14:35:14.446Z"
   },
   {
     "id": "torobshop-supermarket-6e8f969763fb12ec",
@@ -4209,7 +4209,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.693Z"
+    "observedAt": "2026-09-04T14:35:14.446Z"
   },
   {
     "id": "torobshop-supermarket-611344efb1bd3888",
@@ -4227,7 +4227,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.693Z"
+    "observedAt": "2026-09-04T14:35:14.446Z"
   },
   {
     "id": "torobshop-supermarket-c4ddc017f41906f6",
@@ -4245,7 +4245,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.693Z"
+    "observedAt": "2026-09-04T14:35:14.446Z"
   },
   {
     "id": "torobshop-supermarket-90fcbe8687059a30",
@@ -4263,7 +4263,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.693Z"
+    "observedAt": "2026-09-04T14:35:14.446Z"
   },
   {
     "id": "torobshop-supermarket-c0007aaa6ab91bb2",
@@ -4281,7 +4281,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.693Z"
+    "observedAt": "2026-09-04T14:35:14.446Z"
   },
   {
     "id": "torobshop-supermarket-34386721a691d178",
@@ -4299,7 +4299,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.693Z"
+    "observedAt": "2026-09-04T14:35:14.446Z"
   },
   {
     "id": "torobshop-supermarket-b8bd6a4d5ecca799",
@@ -4317,7 +4317,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.693Z"
+    "observedAt": "2026-09-04T14:35:14.446Z"
   },
   {
     "id": "torobshop-supermarket-9c72d8fb3f6a2ba1",
@@ -4335,7 +4335,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.693Z"
+    "observedAt": "2026-09-04T14:35:14.446Z"
   },
   {
     "id": "torobshop-supermarket-87cbcd550df2c8fa",
@@ -4353,7 +4353,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.694Z"
+    "observedAt": "2026-09-04T14:35:14.446Z"
   },
   {
     "id": "torobshop-supermarket-bb3d87082eb1a040",
@@ -4371,7 +4371,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.694Z"
+    "observedAt": "2026-09-04T14:35:14.446Z"
   },
   {
     "id": "torobshop-supermarket-af253d8db86172d9",
@@ -4389,7 +4389,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.694Z"
+    "observedAt": "2026-09-04T14:35:14.446Z"
   },
   {
     "id": "torobshop-supermarket-faf54d1de5277c91",
@@ -4407,7 +4407,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.694Z"
+    "observedAt": "2026-09-04T14:35:14.446Z"
   },
   {
     "id": "torobshop-supermarket-bed024ff9dfbc191",
@@ -4425,7 +4425,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.694Z"
+    "observedAt": "2026-09-04T14:35:14.446Z"
   },
   {
     "id": "torobshop-supermarket-12108326787ffaf6",
@@ -4443,7 +4443,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.694Z"
+    "observedAt": "2026-09-04T14:35:14.446Z"
   },
   {
     "id": "torobshop-supermarket-9706ad3cf0976481",
@@ -4461,7 +4461,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.694Z"
+    "observedAt": "2026-09-04T14:35:14.446Z"
   },
   {
     "id": "torobshop-supermarket-a78de50e19375b85",
@@ -4479,7 +4479,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.694Z"
+    "observedAt": "2026-09-04T14:35:14.446Z"
   },
   {
     "id": "torobshop-supermarket-b572c0c74ec7e1ee",
@@ -4497,7 +4497,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.694Z"
+    "observedAt": "2026-09-04T14:35:14.446Z"
   },
   {
     "id": "torobshop-supermarket-387754e6b4491f58",
@@ -4515,7 +4515,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.694Z"
+    "observedAt": "2026-09-04T14:35:14.446Z"
   },
   {
     "id": "torobshop-supermarket-39e57f782fd26013",
@@ -4533,43 +4533,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.694Z"
-  },
-  {
-    "id": "torobshop-supermarket-1ed3ae617a915858",
-    "productId": "torobshop-1ed3ae617a915858",
-    "name": "درب شیشه‌ای ۲۰ سانتی زولینگ آلمان ZWILLING Twin Specials شیشه و استیل نقره‌ای",
-    "brand": "",
-    "model": "درب شیشه‌ای ۲۰ سانتی زولینگ آلمان ZWILLING Twin Specials شیشه و استیل نقره‌ای",
-    "category": "supermarket",
-    "subcategory": "خوراکی و آشامیدنی",
-    "price": 14210000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B8%D8%B1%D9%81-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-ZWILLING-%D9%85%D8%AF%D9%84-Twin-Specials-%DB%B2%DB%B1-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%AC%D9%86%D8%B3-%D8%B4%DB%8C%D8%B4%D9%87-%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%B1%D9%86%DA%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.694Z"
-  },
-  {
-    "id": "torobshop-supermarket-aa03a6c561a55d60",
-    "productId": "torobshop-aa03a6c561a55d60",
-    "name": "لوازم جانبی سرخ کن تفال نینجا کوسوری فیلیپس UNBOX Heißluftfritteuse Zubehör",
-    "brand": "",
-    "model": "لوازم جانبی سرخ کن تفال نینجا کوسوری فیلیپس UNBOX Heißluftfritteuse Zubehör",
-    "category": "supermarket",
-    "subcategory": "خوراکی و آشامیدنی",
-    "price": 21680000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%AA%D9%81%D8%A7%D9%84-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%DA%A9%D9%88%D8%B3%D9%88%D8%B1%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-UNBOX-Heisluftfritteuse-Zubeher",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.694Z"
+    "observedAt": "2026-09-04T14:35:14.446Z"
   },
   {
     "id": "torobshop-supermarket-d62ad3ee5759fcbd",
@@ -4587,7 +4551,43 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.694Z"
+    "observedAt": "2026-09-04T14:35:14.446Z"
+  },
+  {
+    "id": "torobshop-supermarket-1ed3ae617a915858",
+    "productId": "torobshop-1ed3ae617a915858",
+    "name": "درب شیشه‌ای ۲۰ سانتی زولینگ آلمان ZWILLING Twin Specials شیشه و استیل نقره‌ای",
+    "brand": "",
+    "model": "درب شیشه‌ای ۲۰ سانتی زولینگ آلمان ZWILLING Twin Specials شیشه و استیل نقره‌ای",
+    "category": "supermarket",
+    "subcategory": "خوراکی و آشامیدنی",
+    "price": 14210000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B8%D8%B1%D9%81-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-ZWILLING-%D9%85%D8%AF%D9%84-Twin-Specials-%DB%B2%DB%B1-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%AC%D9%86%D8%B3-%D8%B4%DB%8C%D8%B4%D9%87-%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%B1%D9%86%DA%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T14:35:14.446Z"
+  },
+  {
+    "id": "torobshop-supermarket-aa03a6c561a55d60",
+    "productId": "torobshop-aa03a6c561a55d60",
+    "name": "لوازم جانبی سرخ کن تفال نینجا کوسوری فیلیپس UNBOX Heißluftfritteuse Zubehör",
+    "brand": "",
+    "model": "لوازم جانبی سرخ کن تفال نینجا کوسوری فیلیپس UNBOX Heißluftfritteuse Zubehör",
+    "category": "supermarket",
+    "subcategory": "خوراکی و آشامیدنی",
+    "price": 21680000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%AA%D9%81%D8%A7%D9%84-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%DA%A9%D9%88%D8%B3%D9%88%D8%B1%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-UNBOX-Heisluftfritteuse-Zubeher",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T14:35:14.446Z"
   },
   {
     "id": "torobshop-supermarket-ad6f3f422d15a766",
@@ -4605,7 +4605,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.694Z"
+    "observedAt": "2026-09-04T14:35:14.446Z"
   },
   {
     "id": "torobshop-supermarket-0cfaef0e68debb8e",
@@ -4623,7 +4623,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.694Z"
+    "observedAt": "2026-09-04T14:35:14.446Z"
   },
   {
     "id": "torobshop-supermarket-aed9f18e5d887270",
@@ -4641,7 +4641,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.694Z"
+    "observedAt": "2026-09-04T14:35:14.446Z"
   },
   {
     "id": "torobshop-supermarket-569f3d7e67640e5c",
@@ -4659,7 +4659,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.694Z"
+    "observedAt": "2026-09-04T14:35:14.446Z"
   },
   {
     "id": "torobshop-supermarket-dfa4bdc99016ca7e",
@@ -4677,7 +4677,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.694Z"
+    "observedAt": "2026-09-04T14:35:14.446Z"
   },
   {
     "id": "torobshop-supermarket-0ff8a8fc1fbd561e",
@@ -4695,7 +4695,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.694Z"
+    "observedAt": "2026-09-04T14:35:14.446Z"
   },
   {
     "id": "torobshop-supermarket-fa434e6aa57c4be7",
@@ -4713,7 +4713,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.694Z"
+    "observedAt": "2026-09-04T14:35:14.446Z"
   },
   {
     "id": "torobshop-supermarket-4b7348b541c036cd",
@@ -4731,7 +4731,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.694Z"
+    "observedAt": "2026-09-04T14:35:14.446Z"
   },
   {
     "id": "torobshop-supermarket-c9e212e51e3633db",
@@ -4749,7 +4749,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.694Z"
+    "observedAt": "2026-09-04T14:35:14.446Z"
   },
   {
     "id": "torobshop-supermarket-921dfbcc90d038a0",
@@ -4767,7 +4767,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.694Z"
+    "observedAt": "2026-09-04T14:35:14.446Z"
   },
   {
     "id": "torobshop-supermarket-abdc2adccad9c33d",
@@ -4785,7 +4785,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.694Z"
+    "observedAt": "2026-09-04T14:35:14.446Z"
   },
   {
     "id": "torobshop-supermarket-695cd4ce1cd48f20",
@@ -4803,7 +4803,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.694Z"
+    "observedAt": "2026-09-04T14:35:14.446Z"
   },
   {
     "id": "torobshop-supermarket-6e397f6c85f56e0e",
@@ -4821,7 +4821,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.694Z"
+    "observedAt": "2026-09-04T14:35:14.446Z"
   },
   {
     "id": "torobshop-supermarket-7464bedef3ecb51e",
@@ -4839,7 +4839,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.694Z"
+    "observedAt": "2026-09-04T14:35:14.446Z"
   },
   {
     "id": "torobshop-supermarket-9318a28bbba0fe53",
@@ -4857,7 +4857,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.694Z"
+    "observedAt": "2026-09-04T14:35:14.446Z"
   },
   {
     "id": "torobshop-supermarket-924e8879fd31e680",
@@ -4875,7 +4875,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.694Z"
+    "observedAt": "2026-09-04T14:35:14.446Z"
   },
   {
     "id": "torobshop-supermarket-51009350b9f240d2",
@@ -4893,7 +4893,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.694Z"
+    "observedAt": "2026-09-04T14:35:14.446Z"
   },
   {
     "id": "torobshop-supermarket-ae3ba973ea2911ee",
@@ -4911,7 +4911,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.694Z"
+    "observedAt": "2026-09-04T14:35:14.446Z"
   },
   {
     "id": "torobshop-supermarket-45c64009916028ba",
@@ -4929,7 +4929,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.694Z"
+    "observedAt": "2026-09-04T14:35:14.446Z"
   },
   {
     "id": "torobshop-supermarket-835b00c0d36d8e10",
@@ -4947,7 +4947,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.694Z"
+    "observedAt": "2026-09-04T14:35:14.446Z"
   },
   {
     "id": "torobshop-supermarket-da199e6690f1c782",
@@ -4965,7 +4965,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.694Z"
+    "observedAt": "2026-09-04T14:35:14.446Z"
   },
   {
     "id": "torobshop-supermarket-35f3e181350a9721",
@@ -4983,7 +4983,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.694Z"
+    "observedAt": "2026-09-04T14:35:14.446Z"
   },
   {
     "id": "torobshop-supermarket-15def7d563b1e542",
@@ -5001,7 +5001,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.694Z"
+    "observedAt": "2026-09-04T14:35:14.446Z"
   },
   {
     "id": "torobshop-supermarket-37de96dd1d4a33c3",
@@ -5019,7 +5019,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.694Z"
+    "observedAt": "2026-09-04T14:35:14.446Z"
   },
   {
     "id": "torobshop-supermarket-9311f0ec7504f24b",
@@ -5037,7 +5037,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.694Z"
+    "observedAt": "2026-09-04T14:35:14.446Z"
   },
   {
     "id": "torobshop-supermarket-843617a20d001e4c",
@@ -5055,7 +5055,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.694Z"
+    "observedAt": "2026-09-04T14:35:14.446Z"
   },
   {
     "id": "torobshop-supermarket-ee166c5666efcec5",
@@ -5073,7 +5073,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.694Z"
+    "observedAt": "2026-09-04T14:35:14.446Z"
   },
   {
     "id": "torobshop-supermarket-67d9add46426dfe8",
@@ -5091,7 +5091,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.694Z"
+    "observedAt": "2026-09-04T14:35:14.446Z"
   },
   {
     "id": "torobshop-supermarket-fc88260817f3414e",
@@ -5109,7 +5109,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.694Z"
+    "observedAt": "2026-09-04T14:35:14.446Z"
   },
   {
     "id": "torobshop-supermarket-3877183810368792",
@@ -5127,7 +5127,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.694Z"
+    "observedAt": "2026-09-04T14:35:14.446Z"
   },
   {
     "id": "torobshop-supermarket-5cab57205d377e1f",
@@ -5145,43 +5145,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.694Z"
-  },
-  {
-    "id": "torobshop-supermarket-cb9e4b877badae34",
-    "productId": "torobshop-cb9e4b877badae34",
-    "name": "دسته جایگزین وی ام اف آلمان WMF Perfect Plus برای زودپز 2.5 لیتری 18 سانتی‌متری، پلاستیکی، مقاوم در برابر شعله، مشکی",
-    "brand": "",
-    "model": "دسته جایگزین وی ام اف آلمان WMF Perfect Plus برای زودپز 2.5 لیتری 18 سانتی‌متری، پلاستیکی، مقاوم در برابر شعله، مشکی",
-    "category": "supermarket",
-    "subcategory": "خوراکی و آشامیدنی",
-    "price": 12942000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%D9%87-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-WMF-Perfect-Plus-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B2%D9%88%D8%AF%D9%BE%D8%B2-2-5-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C-18-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C-%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9%DB%8C-%D9%85%D9%82%D8%A7%D9%88%D9%85-%D8%AF%D8%B1-%D8%A8%D8%B1%D8%A7%D8%A8%D8%B1-%D8%B4%D8%B9%D9%84%D9%87-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.694Z"
-  },
-  {
-    "id": "torobshop-supermarket-30d122f629f89166",
-    "productId": "torobshop-30d122f629f89166",
-    "name": "ماهیتابه فیسلر آلمان Fissler Pure Collection/Edelstahl (قطر 28 سانتی‌متر) بدون پوشش، پیمانه داخلی",
-    "brand": "",
-    "model": "ماهیتابه فیسلر آلمان Fissler Pure Collection/Edelstahl (قطر 28 سانتی‌متر) بدون پوشش، پیمانه داخلی",
-    "category": "supermarket",
-    "subcategory": "خوراکی و آشامیدنی",
-    "price": 39194000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D8%AE%D8%A7%D9%84%D8%B5-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%82%D8%B7%D8%B1-28-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A8%D8%AF%D9%88%D9%86-%D9%BE%D9%88%D8%B4%D8%B4-%D9%BE%DB%8C%D9%85%D8%A7%D9%86%D9%87-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.694Z"
+    "observedAt": "2026-09-04T14:35:14.446Z"
   },
   {
     "id": "torobshop-supermarket-bbb69afb3e332a2c",
@@ -5199,7 +5163,43 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.694Z"
+    "observedAt": "2026-09-04T14:35:14.447Z"
+  },
+  {
+    "id": "torobshop-supermarket-cb9e4b877badae34",
+    "productId": "torobshop-cb9e4b877badae34",
+    "name": "دسته جایگزین وی ام اف آلمان WMF Perfect Plus برای زودپز 2.5 لیتری 18 سانتی‌متری، پلاستیکی، مقاوم در برابر شعله، مشکی",
+    "brand": "",
+    "model": "دسته جایگزین وی ام اف آلمان WMF Perfect Plus برای زودپز 2.5 لیتری 18 سانتی‌متری، پلاستیکی، مقاوم در برابر شعله، مشکی",
+    "category": "supermarket",
+    "subcategory": "خوراکی و آشامیدنی",
+    "price": 12942000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%D9%87-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-WMF-Perfect-Plus-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B2%D9%88%D8%AF%D9%BE%D8%B2-2-5-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C-18-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C-%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9%DB%8C-%D9%85%D9%82%D8%A7%D9%88%D9%85-%D8%AF%D8%B1-%D8%A8%D8%B1%D8%A7%D8%A8%D8%B1-%D8%B4%D8%B9%D9%84%D9%87-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T14:35:14.447Z"
+  },
+  {
+    "id": "torobshop-supermarket-30d122f629f89166",
+    "productId": "torobshop-30d122f629f89166",
+    "name": "ماهیتابه فیسلر آلمان Fissler Pure Collection/Edelstahl (قطر 28 سانتی‌متر) بدون پوشش، پیمانه داخلی",
+    "brand": "",
+    "model": "ماهیتابه فیسلر آلمان Fissler Pure Collection/Edelstahl (قطر 28 سانتی‌متر) بدون پوشش، پیمانه داخلی",
+    "category": "supermarket",
+    "subcategory": "خوراکی و آشامیدنی",
+    "price": 39194000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D8%AE%D8%A7%D9%84%D8%B5-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%82%D8%B7%D8%B1-28-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A8%D8%AF%D9%88%D9%86-%D9%BE%D9%88%D8%B4%D8%B4-%D9%BE%DB%8C%D9%85%D8%A7%D9%86%D9%87-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T14:35:14.447Z"
   },
   {
     "id": "torobshop-supermarket-e2467d5cbf85ce81",
@@ -5217,7 +5217,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.694Z"
+    "observedAt": "2026-09-04T14:35:14.447Z"
   },
   {
     "id": "torobshop-supermarket-d9fbeecaba31c602",
@@ -5235,7 +5235,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.694Z"
+    "observedAt": "2026-09-04T14:35:14.447Z"
   },
   {
     "id": "torobshop-supermarket-3e03d59443676707",
@@ -5253,7 +5253,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.694Z"
+    "observedAt": "2026-09-04T14:35:14.447Z"
   },
   {
     "id": "torobshop-supermarket-4415e2cd944c4e59",
@@ -5271,7 +5271,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.694Z"
+    "observedAt": "2026-09-04T14:35:14.447Z"
   },
   {
     "id": "torobshop-supermarket-d397df756b9f1338",
@@ -5289,7 +5289,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.694Z"
+    "observedAt": "2026-09-04T14:35:14.447Z"
   },
   {
     "id": "torobshop-supermarket-ef26e366fa305ced",
@@ -5307,7 +5307,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.694Z"
+    "observedAt": "2026-09-04T14:35:14.447Z"
   },
   {
     "id": "torobshop-supermarket-d68b8e3ac997acb1",
@@ -5325,7 +5325,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.694Z"
+    "observedAt": "2026-09-04T14:35:14.447Z"
   },
   {
     "id": "torobshop-supermarket-07103c8f0e3ce377",
@@ -5343,7 +5343,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.694Z"
+    "observedAt": "2026-09-04T14:35:14.447Z"
   },
   {
     "id": "torobshop-supermarket-05c540b60ea3624b",
@@ -5361,7 +5361,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.694Z"
+    "observedAt": "2026-09-04T14:35:14.447Z"
   },
   {
     "id": "torobshop-supermarket-f8b7784f8ba04a47",
@@ -5379,7 +5379,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.694Z"
+    "observedAt": "2026-09-04T14:35:14.447Z"
   },
   {
     "id": "torobshop-supermarket-e4088b7a2b6ea10b",
@@ -5397,7 +5397,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.694Z"
+    "observedAt": "2026-09-04T14:35:14.447Z"
   },
   {
     "id": "torobshop-supermarket-0674abec1e1ff3bb",
@@ -5415,7 +5415,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.695Z"
+    "observedAt": "2026-09-04T14:35:14.447Z"
   },
   {
     "id": "torobshop-supermarket-c8ae91ddddbffeeb",
@@ -5433,61 +5433,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.695Z"
-  },
-  {
-    "id": "torobshop-supermarket-e0d95c7bfcafe827",
-    "productId": "torobshop-e0d95c7bfcafe827",
-    "name": "سرویس قابلمه 5 پارچه فیسلر آلمان Fissler Original Collection 5-teilig با درب فلزی (3 قابلمه، 1 قابلمه کوچک، 1 تابه کوچک - بدون درب) القایی",
-    "brand": "",
-    "model": "سرویس قابلمه 5 پارچه فیسلر آلمان Fissler Original Collection 5-teilig با درب فلزی (3 قابلمه، 1 قابلمه کوچک، 1 تابه کوچک - بدون درب) القایی",
-    "category": "supermarket",
-    "subcategory": "خوراکی و آشامیدنی",
-    "price": 140722000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-5-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-Fissler-Original-Collection-5-teilig-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%81%D9%84%D8%B2%DB%8C-3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-1-%D8%AA%D8%A7%D8%A8%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%B1%D8%A8-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.695Z"
-  },
-  {
-    "id": "torobshop-supermarket-eb3d93fc719b9727",
-    "productId": "torobshop-eb3d93fc719b9727",
-    "name": "دستگاه وکیوم و ظروف وکیوم زولینگ آلمان ZWILLING در 9 قطعه 2 کاسه استیل با 2 درب وکیوم (18-24 سانتی متر) - 4 عدد کیسه - پمپ",
-    "brand": "",
-    "model": "دستگاه وکیوم و ظروف وکیوم زولینگ آلمان ZWILLING در 9 قطعه 2 کاسه استیل با 2 درب وکیوم (18-24 سانتی متر) - 4 عدد کیسه - پمپ",
-    "category": "supermarket",
-    "subcategory": "خوراکی و آشامیدنی",
-    "price": 34510000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%AA-%D9%BE%D8%A7%DB%8C%D9%87-%D9%88%DA%A9%DB%8C%D9%88%D9%85-ZWILLING-9-%D9%82%D8%B7%D8%B9%D9%87-2-%DA%A9%D8%A7%D8%B3%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%A8%D8%A7-2-%D8%AF%D8%B1%D8%A8-%D9%88%DA%A9%DB%8C%D9%88%D9%85-18-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-4-%D8%B9%D8%AF%D8%AF-%DA%A9%DB%8C%D8%B3%D9%87-%D9%BE%D9%85%D9%BE",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.695Z"
-  },
-  {
-    "id": "torobshop-supermarket-9d8fbc8c7f0b6991",
-    "productId": "torobshop-9d8fbc8c7f0b6991",
-    "name": "قیچی خیاطی کلاسیک زولینگ آلمان ZWILLING Superfection، قیچی پارچه، 21 سانتی متر، استیل ضد زنگ مخصوص، ساخت آلمان، مشکی",
-    "brand": "",
-    "model": "قیچی خیاطی کلاسیک زولینگ آلمان ZWILLING Superfection، قیچی پارچه، 21 سانتی متر، استیل ضد زنگ مخصوص، ساخت آلمان، مشکی",
-    "category": "supermarket",
-    "subcategory": "خوراکی و آشامیدنی",
-    "price": 15226000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%82%DB%8C%DA%86%DB%8C-%D8%AE%DB%8C%D8%A7%D8%B7%DB%8C-%DA%A9%D9%84%D8%A7%D8%B3%DB%8C%DA%A9-ZWILLING-Superfection-%D9%82%DB%8C%DA%86%DB%8C-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-21-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.695Z"
+    "observedAt": "2026-09-04T14:35:14.447Z"
   },
   {
     "id": "torobshop-supermarket-40f09e3a04b68146",
@@ -5505,7 +5451,61 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.695Z"
+    "observedAt": "2026-09-04T14:35:14.447Z"
+  },
+  {
+    "id": "torobshop-supermarket-e0d95c7bfcafe827",
+    "productId": "torobshop-e0d95c7bfcafe827",
+    "name": "سرویس قابلمه 5 پارچه فیسلر آلمان Fissler Original Collection 5-teilig با درب فلزی (3 قابلمه، 1 قابلمه کوچک، 1 تابه کوچک - بدون درب) القایی",
+    "brand": "",
+    "model": "سرویس قابلمه 5 پارچه فیسلر آلمان Fissler Original Collection 5-teilig با درب فلزی (3 قابلمه، 1 قابلمه کوچک، 1 تابه کوچک - بدون درب) القایی",
+    "category": "supermarket",
+    "subcategory": "خوراکی و آشامیدنی",
+    "price": 140722000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-5-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-Fissler-Original-Collection-5-teilig-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%81%D9%84%D8%B2%DB%8C-3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-1-%D8%AA%D8%A7%D8%A8%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%B1%D8%A8-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T14:35:14.447Z"
+  },
+  {
+    "id": "torobshop-supermarket-eb3d93fc719b9727",
+    "productId": "torobshop-eb3d93fc719b9727",
+    "name": "دستگاه وکیوم و ظروف وکیوم زولینگ آلمان ZWILLING در 9 قطعه 2 کاسه استیل با 2 درب وکیوم (18-24 سانتی متر) - 4 عدد کیسه - پمپ",
+    "brand": "",
+    "model": "دستگاه وکیوم و ظروف وکیوم زولینگ آلمان ZWILLING در 9 قطعه 2 کاسه استیل با 2 درب وکیوم (18-24 سانتی متر) - 4 عدد کیسه - پمپ",
+    "category": "supermarket",
+    "subcategory": "خوراکی و آشامیدنی",
+    "price": 34510000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%AA-%D9%BE%D8%A7%DB%8C%D9%87-%D9%88%DA%A9%DB%8C%D9%88%D9%85-ZWILLING-9-%D9%82%D8%B7%D8%B9%D9%87-2-%DA%A9%D8%A7%D8%B3%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%A8%D8%A7-2-%D8%AF%D8%B1%D8%A8-%D9%88%DA%A9%DB%8C%D9%88%D9%85-18-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-4-%D8%B9%D8%AF%D8%AF-%DA%A9%DB%8C%D8%B3%D9%87-%D9%BE%D9%85%D9%BE",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T14:35:14.447Z"
+  },
+  {
+    "id": "torobshop-supermarket-9d8fbc8c7f0b6991",
+    "productId": "torobshop-9d8fbc8c7f0b6991",
+    "name": "قیچی خیاطی کلاسیک زولینگ آلمان ZWILLING Superfection، قیچی پارچه، 21 سانتی متر، استیل ضد زنگ مخصوص، ساخت آلمان، مشکی",
+    "brand": "",
+    "model": "قیچی خیاطی کلاسیک زولینگ آلمان ZWILLING Superfection، قیچی پارچه، 21 سانتی متر، استیل ضد زنگ مخصوص، ساخت آلمان، مشکی",
+    "category": "supermarket",
+    "subcategory": "خوراکی و آشامیدنی",
+    "price": 15226000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%82%DB%8C%DA%86%DB%8C-%D8%AE%DB%8C%D8%A7%D8%B7%DB%8C-%DA%A9%D9%84%D8%A7%D8%B3%DB%8C%DA%A9-ZWILLING-Superfection-%D9%82%DB%8C%DA%86%DB%8C-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-21-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T14:35:14.447Z"
   },
   {
     "id": "torobshop-supermarket-0e4d04ef83a810db",
@@ -5523,7 +5523,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.695Z"
+    "observedAt": "2026-09-04T14:35:14.447Z"
   },
   {
     "id": "torobshop-supermarket-2be1976c83ad17a1",
@@ -5541,7 +5541,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.695Z"
+    "observedAt": "2026-09-04T14:35:14.447Z"
   },
   {
     "id": "torobshop-supermarket-b0b661c9d6dfca29",
@@ -5559,7 +5559,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.695Z"
+    "observedAt": "2026-09-04T14:35:14.447Z"
   },
   {
     "id": "torobshop-supermarket-1e0602d76b0e257a",
@@ -5577,7 +5577,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.695Z"
+    "observedAt": "2026-09-04T14:35:14.447Z"
   },
   {
     "id": "torobshop-supermarket-412e480ec7918302",
@@ -5595,7 +5595,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.695Z"
+    "observedAt": "2026-09-04T14:35:14.447Z"
   },
   {
     "id": "torobshop-supermarket-d39a2f5ac6cd9a7f",
@@ -5613,7 +5613,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.695Z"
+    "observedAt": "2026-09-04T14:35:14.447Z"
   },
   {
     "id": "torobshop-supermarket-aa2dfdb88af5c975",
@@ -5631,7 +5631,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.695Z"
+    "observedAt": "2026-09-04T14:35:14.447Z"
   },
   {
     "id": "torobshop-supermarket-9087741222a89b21",
@@ -5649,7 +5649,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.695Z"
+    "observedAt": "2026-09-04T14:35:14.447Z"
   },
   {
     "id": "torobshop-supermarket-c4580b999e737ac3",
@@ -5667,7 +5667,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.695Z"
+    "observedAt": "2026-09-04T14:35:14.447Z"
   },
   {
     "id": "torobshop-supermarket-3644b82267dd5165",
@@ -5685,7 +5685,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.695Z"
+    "observedAt": "2026-09-04T14:35:14.447Z"
   },
   {
     "id": "torobshop-supermarket-1fd1146f6f750aa9",
@@ -5703,7 +5703,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.695Z"
+    "observedAt": "2026-09-04T14:35:14.447Z"
   },
   {
     "id": "torobshop-supermarket-280503308950a13c",
@@ -5721,7 +5721,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.695Z"
+    "observedAt": "2026-09-04T14:35:14.447Z"
   },
   {
     "id": "torobshop-supermarket-d99c3943bcec9400",
@@ -5739,7 +5739,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.695Z"
+    "observedAt": "2026-09-04T14:35:14.447Z"
   },
   {
     "id": "torobshop-supermarket-56cac7936a06e3f1",
@@ -5757,7 +5757,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.695Z"
+    "observedAt": "2026-09-04T14:35:14.447Z"
   },
   {
     "id": "torobshop-supermarket-00bf5776f339768d",
@@ -5775,7 +5775,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.695Z"
+    "observedAt": "2026-09-04T14:35:14.447Z"
   },
   {
     "id": "torobshop-supermarket-a218f27039422c46",
@@ -5793,7 +5793,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.695Z"
+    "observedAt": "2026-09-04T14:35:14.447Z"
   },
   {
     "id": "torobshop-supermarket-4dd091835a22ff69",
@@ -5811,7 +5811,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.695Z"
+    "observedAt": "2026-09-04T14:35:14.447Z"
   },
   {
     "id": "torobshop-supermarket-e02164e6665f61ef",
@@ -5829,7 +5829,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.695Z"
+    "observedAt": "2026-09-04T14:35:14.447Z"
   },
   {
     "id": "torobshop-supermarket-f06d188d530004ad",
@@ -5847,7 +5847,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.695Z"
+    "observedAt": "2026-09-04T14:35:14.447Z"
   },
   {
     "id": "torobshop-supermarket-ace9b88e93544c94",
@@ -5865,7 +5865,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.695Z"
+    "observedAt": "2026-09-04T14:35:14.447Z"
   },
   {
     "id": "torobshop-supermarket-ffbee63b50d31684",
@@ -5883,7 +5883,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.695Z"
+    "observedAt": "2026-09-04T14:35:14.447Z"
   },
   {
     "id": "torobshop-supermarket-97e8accc87d0f8bf",
@@ -5901,7 +5901,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.695Z"
+    "observedAt": "2026-09-04T14:35:14.447Z"
   },
   {
     "id": "torobshop-supermarket-8a5c15c91c1a9329",
@@ -5919,7 +5919,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.695Z"
+    "observedAt": "2026-09-04T14:35:14.447Z"
   },
   {
     "id": "torobshop-supermarket-1dfcfd9dee587f60",
@@ -5937,7 +5937,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.695Z"
+    "observedAt": "2026-09-04T14:35:14.447Z"
   },
   {
     "id": "torobshop-supermarket-7ac6bac20ad12a2d",
@@ -5955,7 +5955,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.695Z"
+    "observedAt": "2026-09-04T14:35:14.447Z"
   },
   {
     "id": "torobshop-supermarket-b131b88e24438d96",
@@ -5973,7 +5973,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.695Z"
+    "observedAt": "2026-09-04T14:35:14.447Z"
   },
   {
     "id": "torobshop-supermarket-f4ac0f14bd21c6cf",
@@ -5991,7 +5991,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.695Z"
+    "observedAt": "2026-09-04T14:35:14.447Z"
   },
   {
     "id": "torobshop-supermarket-4bffdb79ac43fe15",
@@ -6009,7 +6009,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.695Z"
+    "observedAt": "2026-09-04T14:35:14.447Z"
   },
   {
     "id": "torobshop-supermarket-fda1fe8cf4de5c5d",
@@ -6027,7 +6027,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.695Z"
+    "observedAt": "2026-09-04T14:35:14.447Z"
   },
   {
     "id": "torobshop-supermarket-ef0157b54bf022f6",
@@ -6045,7 +6045,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.695Z"
+    "observedAt": "2026-09-04T14:35:14.447Z"
   },
   {
     "id": "torobshop-supermarket-736fe4049676a61e",
@@ -6063,7 +6063,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.695Z"
+    "observedAt": "2026-09-04T14:35:14.447Z"
   },
   {
     "id": "torobshop-supermarket-2f0597d05addbba1",
@@ -6081,7 +6081,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.695Z"
+    "observedAt": "2026-09-04T14:35:14.447Z"
   },
   {
     "id": "torobshop-supermarket-22200afc1cbeec02",
@@ -6099,7 +6099,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.695Z"
+    "observedAt": "2026-09-04T14:35:14.447Z"
   },
   {
     "id": "torobshop-supermarket-f4e7843bb5d4eb60",
@@ -6117,7 +6117,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.695Z"
+    "observedAt": "2026-09-04T14:35:14.447Z"
   },
   {
     "id": "torobshop-supermarket-f26fbc6e8dbee708",
@@ -6135,7 +6135,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.695Z"
+    "observedAt": "2026-09-04T14:35:14.447Z"
   },
   {
     "id": "torobshop-supermarket-595f1b954d0611bd",
@@ -6153,7 +6153,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.695Z"
+    "observedAt": "2026-09-04T14:35:14.447Z"
   },
   {
     "id": "torobshop-supermarket-3d13a34700e027c0",
@@ -6171,7 +6171,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.695Z"
+    "observedAt": "2026-09-04T14:35:14.447Z"
   },
   {
     "id": "torobshop-supermarket-19319bed3e2f6069",
@@ -6189,7 +6189,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.695Z"
+    "observedAt": "2026-09-04T14:35:14.447Z"
   },
   {
     "id": "torobshop-supermarket-a02082729540664c",
@@ -6207,7 +6207,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.695Z"
+    "observedAt": "2026-09-04T14:35:14.447Z"
   },
   {
     "id": "torobshop-supermarket-f091c9e920c8e1fb",
@@ -6225,7 +6225,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.695Z"
+    "observedAt": "2026-09-04T14:35:14.448Z"
   },
   {
     "id": "torobshop-supermarket-5ac41723dcef4426",
@@ -6243,7 +6243,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.695Z"
+    "observedAt": "2026-09-04T14:35:14.448Z"
   },
   {
     "id": "torobshop-supermarket-fbbfc333137fef0f",
@@ -6261,7 +6261,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.695Z"
+    "observedAt": "2026-09-04T14:35:14.448Z"
   },
   {
     "id": "torobshop-supermarket-be60227182487367",
@@ -6279,7 +6279,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.695Z"
+    "observedAt": "2026-09-04T14:35:14.448Z"
   },
   {
     "id": "torobshop-supermarket-98b213756a0f63d3",
@@ -6297,7 +6297,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.695Z"
+    "observedAt": "2026-09-04T14:35:14.448Z"
   },
   {
     "id": "torobshop-supermarket-d3f802410104b943",
@@ -6315,7 +6315,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.695Z"
+    "observedAt": "2026-09-04T14:35:14.448Z"
   },
   {
     "id": "torobshop-supermarket-0f347f93a4676672",
@@ -6333,7 +6333,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.695Z"
+    "observedAt": "2026-09-04T14:35:14.448Z"
   },
   {
     "id": "torobshop-supermarket-cb5f45612fc319e4",
@@ -6351,7 +6351,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.695Z"
+    "observedAt": "2026-09-04T14:35:14.448Z"
   },
   {
     "id": "torobshop-supermarket-a447d48449c2d499",
@@ -6369,7 +6369,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.695Z"
+    "observedAt": "2026-09-04T14:35:14.448Z"
   },
   {
     "id": "torobshop-supermarket-71ebfae235e91ed5",
@@ -6387,7 +6387,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.695Z"
+    "observedAt": "2026-09-04T14:35:14.448Z"
   },
   {
     "id": "torobshop-supermarket-51edff8c55bfb262",
@@ -6405,7 +6405,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.695Z"
+    "observedAt": "2026-09-04T14:35:14.448Z"
   },
   {
     "id": "torobshop-supermarket-f99dae95f9641652",
@@ -6423,7 +6423,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.695Z"
+    "observedAt": "2026-09-04T14:35:14.448Z"
   },
   {
     "id": "torobshop-supermarket-6bc05672d0e139cd",
@@ -6441,7 +6441,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.696Z"
+    "observedAt": "2026-09-04T14:35:14.448Z"
   },
   {
     "id": "torobshop-supermarket-6b776fc230756800",
@@ -6459,7 +6459,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.696Z"
+    "observedAt": "2026-09-04T14:35:14.448Z"
   },
   {
     "id": "torobshop-supermarket-f2622dc414824191",
@@ -6477,7 +6477,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.696Z"
+    "observedAt": "2026-09-04T14:35:14.448Z"
   },
   {
     "id": "torobshop-supermarket-640c8324f81a46bb",
@@ -6495,7 +6495,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.696Z"
+    "observedAt": "2026-09-04T14:35:14.448Z"
   },
   {
     "id": "torobshop-supermarket-c54b5b958054a1a2",
@@ -6513,7 +6513,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.696Z"
+    "observedAt": "2026-09-04T14:35:14.448Z"
   },
   {
     "id": "torobshop-supermarket-7f66ba1a4f7ddbfb",
@@ -6531,7 +6531,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.696Z"
+    "observedAt": "2026-09-04T14:35:14.448Z"
   },
   {
     "id": "torobshop-supermarket-43b61e0733cc7171",
@@ -6549,7 +6549,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.696Z"
+    "observedAt": "2026-09-04T14:35:14.448Z"
   },
   {
     "id": "torobshop-supermarket-f699a00edc06f489",
@@ -6567,7 +6567,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.696Z"
+    "observedAt": "2026-09-04T14:35:14.448Z"
   },
   {
     "id": "torobshop-supermarket-a59cff30443c154a",
@@ -6585,7 +6585,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.696Z"
+    "observedAt": "2026-09-04T14:35:14.448Z"
   },
   {
     "id": "torobshop-supermarket-af7462ce98ee2999",
@@ -6603,7 +6603,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.696Z"
+    "observedAt": "2026-09-04T14:35:14.448Z"
   },
   {
     "id": "torobshop-supermarket-f6c6e72a28882975",
@@ -6621,7 +6621,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.696Z"
+    "observedAt": "2026-09-04T14:35:14.448Z"
   },
   {
     "id": "torobshop-supermarket-7c82cddc2d9efd1c",
@@ -6639,7 +6639,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.696Z"
+    "observedAt": "2026-09-04T14:35:14.448Z"
   },
   {
     "id": "torobshop-supermarket-a942a79dda5b87df",
@@ -6657,7 +6657,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.696Z"
+    "observedAt": "2026-09-04T14:35:14.448Z"
   },
   {
     "id": "torobshop-supermarket-e4ec7bd10ffa8b50",
@@ -6675,7 +6675,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.696Z"
+    "observedAt": "2026-09-04T14:35:14.448Z"
   },
   {
     "id": "torobshop-supermarket-7bbb1f19505b28fd",
@@ -6693,7 +6693,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.696Z"
+    "observedAt": "2026-09-04T14:35:14.448Z"
   },
   {
     "id": "torobshop-supermarket-5bc21e4edaa526cc",
@@ -6711,7 +6711,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.696Z"
+    "observedAt": "2026-09-04T14:35:14.448Z"
   },
   {
     "id": "torobshop-supermarket-9d62a66000d436e1",
@@ -6729,7 +6729,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.696Z"
+    "observedAt": "2026-09-04T14:35:14.448Z"
   },
   {
     "id": "torobshop-supermarket-45d6aa9c3fd53ad4",
@@ -6747,7 +6747,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.696Z"
+    "observedAt": "2026-09-04T14:35:14.448Z"
   },
   {
     "id": "torobshop-supermarket-c876f51b5b5d7dae",
@@ -6765,7 +6765,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.696Z"
+    "observedAt": "2026-09-04T14:35:14.448Z"
   },
   {
     "id": "torobshop-supermarket-1abb58c93aa4d049",
@@ -6783,7 +6783,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.696Z"
+    "observedAt": "2026-09-04T14:35:14.448Z"
   },
   {
     "id": "torobshop-supermarket-400b05dca029ee01",
@@ -6801,7 +6801,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.696Z"
+    "observedAt": "2026-09-04T14:35:14.448Z"
   },
   {
     "id": "torobshop-supermarket-27109e9fc58673fd",
@@ -6819,7 +6819,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.696Z"
+    "observedAt": "2026-09-04T14:35:14.448Z"
   },
   {
     "id": "torobshop-supermarket-766b0f80e67074f9",
@@ -6837,7 +6837,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.696Z"
+    "observedAt": "2026-09-04T14:35:14.448Z"
   },
   {
     "id": "torobshop-supermarket-6c0960e9008fddf6",
@@ -6855,7 +6855,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.696Z"
+    "observedAt": "2026-09-04T14:35:14.448Z"
   },
   {
     "id": "torobshop-supermarket-074febbf09bd3065",
@@ -6873,7 +6873,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.696Z"
+    "observedAt": "2026-09-04T14:35:14.448Z"
   },
   {
     "id": "torobshop-supermarket-508a955227952a9d",
@@ -6891,7 +6891,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.696Z"
+    "observedAt": "2026-09-04T14:35:14.448Z"
   },
   {
     "id": "torobshop-supermarket-dc3a8d1c6feb961b",
@@ -6909,7 +6909,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.696Z"
+    "observedAt": "2026-09-04T14:35:14.448Z"
   },
   {
     "id": "torobshop-supermarket-5e70d562a3ef7192",
@@ -6927,7 +6927,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.696Z"
+    "observedAt": "2026-09-04T14:35:14.448Z"
   },
   {
     "id": "torobshop-supermarket-d6551c8766b38613",
@@ -6945,7 +6945,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.696Z"
+    "observedAt": "2026-09-04T14:35:14.448Z"
   },
   {
     "id": "torobshop-supermarket-2cb3b869608c8a13",
@@ -6963,7 +6963,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.696Z"
+    "observedAt": "2026-09-04T14:35:14.448Z"
   },
   {
     "id": "torobshop-supermarket-6e4a2eb26d23a745",
@@ -6981,7 +6981,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.696Z"
+    "observedAt": "2026-09-04T14:35:14.448Z"
   },
   {
     "id": "torobshop-supermarket-967849182031e292",
@@ -6999,7 +6999,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.696Z"
+    "observedAt": "2026-09-04T14:35:14.448Z"
   },
   {
     "id": "torobshop-supermarket-b6d1e42e39dc67ab",
@@ -7017,7 +7017,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.696Z"
+    "observedAt": "2026-09-04T14:35:14.448Z"
   },
   {
     "id": "torobshop-supermarket-7c140bba2434e29a",
@@ -7035,7 +7035,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.696Z"
+    "observedAt": "2026-09-04T14:35:14.448Z"
   },
   {
     "id": "torobshop-supermarket-2182240d0b4b05fe",
@@ -7053,43 +7053,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.696Z"
-  },
-  {
-    "id": "torobshop-supermarket-52384f9bcf5e57ca",
-    "productId": "torobshop-52384f9bcf5e57ca",
-    "name": "اپیلاتور زنانه براون مدل Silk-épil 7، رفع موهای زائد با ماندگاری طولانی، سری پهن، پوستی ابریشمی و نرم، مخصوص بانوان، قابل استفاده به صورت خشک و مرطوب، ضد آب، ساخت آلمان — 7-011، سفید/نقره‌ای + 2 عدد لوازم جانبی",
-    "brand": "",
-    "model": "اپیلاتور زنانه براون مدل Silk-épil 7، رفع موهای زائد با ماندگاری طولانی، سری پهن، پوستی ابریشمی و نرم، مخصوص بانوان، قابل استفاده به صورت خشک و مرطوب، ضد آب، ساخت آلمان — 7-011، سفید/نقره‌ای + 2 عدد لوازم جانبی",
-    "category": "supermarket",
-    "subcategory": "خوراکی و آشامیدنی",
-    "price": 25122000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D9%85%D8%AF%D9%84-Silk-pil-7-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%D8%A7-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1%DB%8C-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%D8%B3%D8%B1%DB%8C-%D9%BE%D9%87%D9%86-%D9%BE%D9%88%D8%B3%D8%AA%DB%8C-%D8%A7%D8%A8%D8%B1%DB%8C%D8%B4%D9%85%DB%8C-%D9%88-%D9%86%D8%B1%D9%85-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A8%D9%87-%D8%B5%D9%88%D8%B1%D8%AA-%D8%AE%D8%B4%DA%A9-%D9%88-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D8%B6%D8%AF-%D8%A2%D8%A8-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-7-011-%D8%B3%D9%81%DB%8C%D8%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C-2-%D8%B9%D8%AF%D8%AF-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.696Z"
-  },
-  {
-    "id": "torobshop-supermarket-733ef1e66d9b337b",
-    "productId": "torobshop-733ef1e66d9b337b",
-    "name": "دستگاه رفع موهای زائد Braun IPL مدل Silk·expert Pro 5 — رفع دائمی و بدون درد موهای زائد برای استفاده در منزل — شامل قاب، تیغ ژیلت ونوس، ۳ قطعه جانبی، طراحی شده در آلمان — PL5262، سفید/طلایی",
-    "brand": "",
-    "model": "دستگاه رفع موهای زائد Braun IPL مدل Silk·expert Pro 5 — رفع دائمی و بدون درد موهای زائد برای استفاده در منزل — شامل قاب، تیغ ژیلت ونوس، ۳ قطعه جانبی، طراحی شده در آلمان — PL5262، سفید/طلایی",
-    "category": "supermarket",
-    "subcategory": "خوراکی و آشامیدنی",
-    "price": 117999000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Braun-IPL-%D9%85%D8%AF%D9%84-Silk-expert-Pro-5-%D8%B1%D9%81%D8%B9-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%88-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%B1%D8%AF-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%85%D9%86%D8%B2%D9%84-%D8%B4%D8%A7%D9%85%D9%84-%D9%82%D8%A7%D8%A8-%D8%AA%DB%8C%D8%BA-%DA%98%DB%8C%D9%84%D8%AA-%D9%88%D9%86%D9%88%D8%B3-%DB%B3-%D9%82%D8%B7%D8%B9%D9%87-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B4%D8%AF%D9%87-%D8%AF%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-PL5262-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.696Z"
+    "observedAt": "2026-09-04T14:35:14.448Z"
   },
   {
     "id": "torobshop-supermarket-e93d0f8dd3711a93",
@@ -7107,7 +7071,43 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.696Z"
+    "observedAt": "2026-09-04T14:35:14.448Z"
+  },
+  {
+    "id": "torobshop-supermarket-52384f9bcf5e57ca",
+    "productId": "torobshop-52384f9bcf5e57ca",
+    "name": "اپیلاتور زنانه براون مدل Silk-épil 7، رفع موهای زائد با ماندگاری طولانی، سری پهن، پوستی ابریشمی و نرم، مخصوص بانوان، قابل استفاده به صورت خشک و مرطوب، ضد آب، ساخت آلمان — 7-011، سفید/نقره‌ای + 2 عدد لوازم جانبی",
+    "brand": "",
+    "model": "اپیلاتور زنانه براون مدل Silk-épil 7، رفع موهای زائد با ماندگاری طولانی، سری پهن، پوستی ابریشمی و نرم، مخصوص بانوان، قابل استفاده به صورت خشک و مرطوب، ضد آب، ساخت آلمان — 7-011، سفید/نقره‌ای + 2 عدد لوازم جانبی",
+    "category": "supermarket",
+    "subcategory": "خوراکی و آشامیدنی",
+    "price": 25122000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D9%85%D8%AF%D9%84-Silk-pil-7-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%D8%A7-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1%DB%8C-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%D8%B3%D8%B1%DB%8C-%D9%BE%D9%87%D9%86-%D9%BE%D9%88%D8%B3%D8%AA%DB%8C-%D8%A7%D8%A8%D8%B1%DB%8C%D8%B4%D9%85%DB%8C-%D9%88-%D9%86%D8%B1%D9%85-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A8%D9%87-%D8%B5%D9%88%D8%B1%D8%AA-%D8%AE%D8%B4%DA%A9-%D9%88-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D8%B6%D8%AF-%D8%A2%D8%A8-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-7-011-%D8%B3%D9%81%DB%8C%D8%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C-2-%D8%B9%D8%AF%D8%AF-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T14:35:14.448Z"
+  },
+  {
+    "id": "torobshop-supermarket-733ef1e66d9b337b",
+    "productId": "torobshop-733ef1e66d9b337b",
+    "name": "دستگاه رفع موهای زائد Braun IPL مدل Silk·expert Pro 5 — رفع دائمی و بدون درد موهای زائد برای استفاده در منزل — شامل قاب، تیغ ژیلت ونوس، ۳ قطعه جانبی، طراحی شده در آلمان — PL5262، سفید/طلایی",
+    "brand": "",
+    "model": "دستگاه رفع موهای زائد Braun IPL مدل Silk·expert Pro 5 — رفع دائمی و بدون درد موهای زائد برای استفاده در منزل — شامل قاب، تیغ ژیلت ونوس، ۳ قطعه جانبی، طراحی شده در آلمان — PL5262، سفید/طلایی",
+    "category": "supermarket",
+    "subcategory": "خوراکی و آشامیدنی",
+    "price": 117999000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Braun-IPL-%D9%85%D8%AF%D9%84-Silk-expert-Pro-5-%D8%B1%D9%81%D8%B9-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%88-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%B1%D8%AF-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%85%D9%86%D8%B2%D9%84-%D8%B4%D8%A7%D9%85%D9%84-%D9%82%D8%A7%D8%A8-%D8%AA%DB%8C%D8%BA-%DA%98%DB%8C%D9%84%D8%AA-%D9%88%D9%86%D9%88%D8%B3-%DB%B3-%D9%82%D8%B7%D8%B9%D9%87-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B4%D8%AF%D9%87-%D8%AF%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-PL5262-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T14:35:14.448Z"
   },
   {
     "id": "torobshop-supermarket-8b93c7ea550544bf",
@@ -7125,7 +7125,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.696Z"
+    "observedAt": "2026-09-04T14:35:14.448Z"
   },
   {
     "id": "torobshop-supermarket-391c9855ce3adbee",
@@ -7143,7 +7143,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.696Z"
+    "observedAt": "2026-09-04T14:35:14.449Z"
   },
   {
     "id": "torobshop-supermarket-80504a6da4da0683",
@@ -7161,7 +7161,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.696Z"
+    "observedAt": "2026-09-04T14:35:14.449Z"
   },
   {
     "id": "torobshop-supermarket-f0ab07848df05c09",
@@ -7179,7 +7179,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.696Z"
+    "observedAt": "2026-09-04T14:35:14.449Z"
   },
   {
     "id": "torobshop-supermarket-e364f422cc177d5d",
@@ -7197,7 +7197,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.696Z"
+    "observedAt": "2026-09-04T14:35:14.449Z"
   },
   {
     "id": "torobshop-supermarket-9195692751acb6cb",
@@ -7215,7 +7215,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.696Z"
+    "observedAt": "2026-09-04T14:35:14.449Z"
   },
   {
     "id": "torobshop-supermarket-6ba05ec79330884d",
@@ -7233,7 +7233,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.696Z"
+    "observedAt": "2026-09-04T14:35:14.449Z"
   },
   {
     "id": "torobshop-supermarket-f7e7ecdbe9c782b9",
@@ -7251,25 +7251,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.696Z"
-  },
-  {
-    "id": "torobshop-supermarket-7f7cef16b95ceef4",
-    "productId": "torobshop-7f7cef16b95ceef4",
-    "name": "دستگاه رفع موهای زائد Braun Smart IPL Skin i·expert 7، PL7387، سفید/رزگلد - لیزر جایگزین برای رفع موهای زائد خانگی، رفع دائمی موهای زائد، شامل جعبه، تیغ Venus و 4 ضمیمه، بسته بندی مقوایی",
-    "brand": "",
-    "model": "دستگاه رفع موهای زائد Braun Smart IPL Skin i·expert 7، PL7387، سفید/رزگلد - لیزر جایگزین برای رفع موهای زائد خانگی، رفع دائمی موهای زائد، شامل جعبه، تیغ Venus و 4 ضمیمه، بسته بندی مقوایی",
-    "category": "supermarket",
-    "subcategory": "خوراکی و آشامیدنی",
-    "price": 111400000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Braun-Smart-IPL-Skin-i-expert-7-PL7387-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B1%D8%B2%DA%AF%D9%84%D8%AF-%D9%84%DB%8C%D8%B2%D8%B1-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C-%D8%B1%D9%81%D8%B9-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%B4%D8%A7%D9%85%D9%84-%D8%AC%D8%B9%D8%A8%D9%87-%D8%AA%DB%8C%D8%BA-Venus-%D9%88-4-%D8%B6%D9%85%DB%8C%D9%85%D9%87-%D8%A8%D8%B3%D8%AA%D9%87-%D8%A8%D9%86%D8%AF%DB%8C-%D9%85%D9%82%D9%88%D8%A7%DB%8C%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.696Z"
+    "observedAt": "2026-09-04T14:35:14.449Z"
   },
   {
     "id": "torobshop-supermarket-b6f7b97e0a41fcce",
@@ -7287,7 +7269,25 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.696Z"
+    "observedAt": "2026-09-04T14:35:14.449Z"
+  },
+  {
+    "id": "torobshop-supermarket-7f7cef16b95ceef4",
+    "productId": "torobshop-7f7cef16b95ceef4",
+    "name": "دستگاه رفع موهای زائد Braun Smart IPL Skin i·expert 7، PL7387، سفید/رزگلد - لیزر جایگزین برای رفع موهای زائد خانگی، رفع دائمی موهای زائد، شامل جعبه، تیغ Venus و 4 ضمیمه، بسته بندی مقوایی",
+    "brand": "",
+    "model": "دستگاه رفع موهای زائد Braun Smart IPL Skin i·expert 7، PL7387، سفید/رزگلد - لیزر جایگزین برای رفع موهای زائد خانگی، رفع دائمی موهای زائد، شامل جعبه، تیغ Venus و 4 ضمیمه، بسته بندی مقوایی",
+    "category": "supermarket",
+    "subcategory": "خوراکی و آشامیدنی",
+    "price": 111400000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Braun-Smart-IPL-Skin-i-expert-7-PL7387-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B1%D8%B2%DA%AF%D9%84%D8%AF-%D9%84%DB%8C%D8%B2%D8%B1-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C-%D8%B1%D9%81%D8%B9-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%B4%D8%A7%D9%85%D9%84-%D8%AC%D8%B9%D8%A8%D9%87-%D8%AA%DB%8C%D8%BA-Venus-%D9%88-4-%D8%B6%D9%85%DB%8C%D9%85%D9%87-%D8%A8%D8%B3%D8%AA%D9%87-%D8%A8%D9%86%D8%AF%DB%8C-%D9%85%D9%82%D9%88%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T14:35:14.449Z"
   },
   {
     "id": "torobshop-supermarket-1abc4d3d93984fc9",
@@ -7305,7 +7305,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.696Z"
+    "observedAt": "2026-09-04T14:35:14.449Z"
   },
   {
     "id": "torobshop-supermarket-333eed5c812fb391",
@@ -7323,7 +7323,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.696Z"
+    "observedAt": "2026-09-04T14:35:14.449Z"
   },
   {
     "id": "torobshop-supermarket-45f8a3eeff0791c7",
@@ -7341,7 +7341,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.696Z"
+    "observedAt": "2026-09-04T14:35:14.449Z"
   },
   {
     "id": "torobshop-supermarket-bff623028ca50588",
@@ -7359,7 +7359,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.697Z"
+    "observedAt": "2026-09-04T14:35:14.449Z"
   },
   {
     "id": "torobshop-supermarket-d5e3206967150e5a",
@@ -7377,7 +7377,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.697Z"
+    "observedAt": "2026-09-04T14:35:14.449Z"
   },
   {
     "id": "torobshop-supermarket-591d2fa02319cbe4",
@@ -7395,7 +7395,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.697Z"
+    "observedAt": "2026-09-04T14:35:14.449Z"
   },
   {
     "id": "torobshop-supermarket-2a6259b902f04fb9",
@@ -7413,7 +7413,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.697Z"
+    "observedAt": "2026-09-04T14:35:14.449Z"
   },
   {
     "id": "torobshop-supermarket-fb66328b02aeada9",
@@ -7431,7 +7431,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.697Z"
+    "observedAt": "2026-09-04T14:35:14.449Z"
   },
   {
     "id": "torobshop-supermarket-ef59c7447c918481",
@@ -7449,7 +7449,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.697Z"
+    "observedAt": "2026-09-04T14:35:14.449Z"
   },
   {
     "id": "torobshop-supermarket-ec0c6101e09fd316",
@@ -7467,7 +7467,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.697Z"
+    "observedAt": "2026-09-04T14:35:14.449Z"
   },
   {
     "id": "torobshop-supermarket-4b1136653b8c3865",
@@ -7485,7 +7485,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.697Z"
+    "observedAt": "2026-09-04T14:35:14.449Z"
   },
   {
     "id": "torobshop-supermarket-99dbc61e2d2488d7",
@@ -7503,7 +7503,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.697Z"
+    "observedAt": "2026-09-04T14:35:14.449Z"
   },
   {
     "id": "torobshop-supermarket-091330dc970a0bbe",
@@ -7521,7 +7521,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.697Z"
+    "observedAt": "2026-09-04T14:35:14.449Z"
   },
   {
     "id": "torobshop-supermarket-3fe480d61f801988",
@@ -7539,7 +7539,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.697Z"
+    "observedAt": "2026-09-04T14:35:14.449Z"
   },
   {
     "id": "torobshop-supermarket-9c53c942a980e1d6",
@@ -7557,7 +7557,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.697Z"
+    "observedAt": "2026-09-04T14:35:14.449Z"
   },
   {
     "id": "torobshop-supermarket-20c5a20079487b1a",
@@ -7575,7 +7575,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.697Z"
+    "observedAt": "2026-09-04T14:35:14.449Z"
   },
   {
     "id": "torobshop-supermarket-acc19b901c8b2ad8",
@@ -7593,7 +7593,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.697Z"
+    "observedAt": "2026-09-04T14:35:14.449Z"
   },
   {
     "id": "torobshop-supermarket-74fc37b5d70bd7c1",
@@ -7611,7 +7611,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.697Z"
+    "observedAt": "2026-09-04T14:35:14.449Z"
   },
   {
     "id": "torobshop-supermarket-215471b6024642b7",
@@ -7629,7 +7629,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.697Z"
+    "observedAt": "2026-09-04T14:35:14.449Z"
   },
   {
     "id": "torobshop-supermarket-69bba0d6d694a47d",
@@ -7647,7 +7647,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.697Z"
+    "observedAt": "2026-09-04T14:35:14.449Z"
   },
   {
     "id": "torobshop-supermarket-a95fac45da84a72b",
@@ -7665,7 +7665,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.697Z"
+    "observedAt": "2026-09-04T14:35:14.449Z"
   },
   {
     "id": "torobshop-supermarket-27f7af68d3543ffb",
@@ -7683,7 +7683,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.697Z"
+    "observedAt": "2026-09-04T14:35:14.449Z"
   },
   {
     "id": "torobshop-supermarket-01be123cfbff3d67",
@@ -7701,7 +7701,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.697Z"
+    "observedAt": "2026-09-04T14:35:14.449Z"
   },
   {
     "id": "torobshop-supermarket-ac9daafe2ea5d5bc",
@@ -7719,7 +7719,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.697Z"
+    "observedAt": "2026-09-04T14:35:14.449Z"
   },
   {
     "id": "torobshop-supermarket-ed3206a7c4997ceb",
@@ -7737,7 +7737,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.697Z"
+    "observedAt": "2026-09-04T14:35:14.449Z"
   },
   {
     "id": "torobshop-supermarket-ab3241a3e4a91b6d",
@@ -7755,7 +7755,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.697Z"
+    "observedAt": "2026-09-04T14:35:14.449Z"
   },
   {
     "id": "torobshop-supermarket-5939ecdc87bd4f0d",
@@ -7773,7 +7773,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.697Z"
+    "observedAt": "2026-09-04T14:35:14.449Z"
   },
   {
     "id": "torobshop-supermarket-db81d40bcc397e16",
@@ -7791,7 +7791,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.697Z"
+    "observedAt": "2026-09-04T14:35:14.449Z"
   },
   {
     "id": "torobshop-supermarket-08320ee86e550b3d",
@@ -7809,7 +7809,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.697Z"
+    "observedAt": "2026-09-04T14:35:14.449Z"
   },
   {
     "id": "torobshop-supermarket-3e4d9495e052b1b8",
@@ -7827,7 +7827,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.697Z"
+    "observedAt": "2026-09-04T14:35:14.449Z"
   },
   {
     "id": "torobshop-supermarket-301beb96f2df717f",
@@ -7845,7 +7845,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.697Z"
+    "observedAt": "2026-09-04T14:35:14.449Z"
   },
   {
     "id": "torobshop-supermarket-a5fddfc8c0c99048",
@@ -7863,7 +7863,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.697Z"
+    "observedAt": "2026-09-04T14:35:14.449Z"
   },
   {
     "id": "torobshop-supermarket-834858ae4530d775",
@@ -7881,7 +7881,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.697Z"
+    "observedAt": "2026-09-04T14:35:14.449Z"
   },
   {
     "id": "torobshop-supermarket-2798976de6f0cc81",
@@ -7899,7 +7899,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.697Z"
+    "observedAt": "2026-09-04T14:35:14.449Z"
   },
   {
     "id": "torobshop-supermarket-1059c1f184e3d8b3",
@@ -7917,7 +7917,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.697Z"
+    "observedAt": "2026-09-04T14:35:14.449Z"
   },
   {
     "id": "torobshop-supermarket-68a4dab928f7c962",
@@ -7935,7 +7935,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.697Z"
+    "observedAt": "2026-09-04T14:35:14.449Z"
   },
   {
     "id": "torobshop-supermarket-d5b957f7df4ff03f",
@@ -7953,7 +7953,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.697Z"
+    "observedAt": "2026-09-04T14:35:14.449Z"
   },
   {
     "id": "torobshop-supermarket-707702931ea634d8",
@@ -7971,7 +7971,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.697Z"
+    "observedAt": "2026-09-04T14:35:14.449Z"
   },
   {
     "id": "torobshop-supermarket-d8e34bb113f4f352",
@@ -7989,7 +7989,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.697Z"
+    "observedAt": "2026-09-04T14:35:14.449Z"
   },
   {
     "id": "torobshop-supermarket-2a3268e48e6a43b8",
@@ -8007,7 +8007,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.697Z"
+    "observedAt": "2026-09-04T14:35:14.449Z"
   },
   {
     "id": "torobshop-supermarket-28255666c26f658a",
@@ -8025,7 +8025,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.697Z"
+    "observedAt": "2026-09-04T14:35:14.449Z"
   },
   {
     "id": "torobshop-supermarket-9a0fccac9db69875",
@@ -8043,7 +8043,7 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.697Z"
+    "observedAt": "2026-09-04T14:35:14.449Z"
   },
   {
     "id": "torobshop-supermarket-93e51ab5d27d6671",
@@ -8061,6 +8061,6 @@ export const SUPERMARKET_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D8%A2%D8%B4%D8%A7%D9%85%DB%8C%D8%AF%D9%86%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T13:47:57.697Z"
+    "observedAt": "2026-09-04T14:35:14.450Z"
   }
 ];
