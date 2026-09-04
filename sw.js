@@ -43,8 +43,6 @@ const APP_SHELL = [
   "./js/v5-candidate-retrieval.js",
   "./js/v5-offer-affiliate-engine.js",
   "./js/v5-price-availability-resolver.js",
-  "./js/digiyar-product-index.js",
-  "./data/product-index.json",
   "./icon/icon-512.png",
   "./assets/logos/logo.png"
 ];
