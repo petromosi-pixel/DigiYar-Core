@@ -15,6 +15,7 @@ on:
       - 'data/category-registry-v5.1.json'
       - 'wrangler.jsonc'
       - '.github/workflows/deploy-cloudflare-core.yml'
+      - '.github/workflows/catalog-ingest-v5.1.yml'
   workflow_dispatch:
 
 jobs:
