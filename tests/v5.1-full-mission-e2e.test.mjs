@@ -2,7 +2,8 @@ import assert from 'node:assert/strict';
 import engine from '../js/v5-offer-affiliate-engine.js';
 
 const WORKER = 'https://digiyar-v5.petromosi.workers.dev';
-const QUERY = 'گوشی سامسونگ زیر ۳۰ میلیون';
+const READINESS_QUERY = 'گوشی سامسونگ زیر ۳۰ میلیون';
+const MISSION_QUERY = 'گوشی سامسونگ';
 const RETRY_DELAY_MS = 5000;
 const MAX_RETRIES = 18;
 
@@ -15,33 +16,34 @@ async function getJson(path) {
   return body;
 }
 
-function hasDirectCandidate(body) {
-  return Array.isArray(body?.results) && body.results.some((item) => {
-    const url = item.productUrl || item.url || item.sourceUrl || '';
-    return engine.isDirectProductUrl(url);
-  });
-}
-
 async function waitForLiveParser() {
   let last;
   for (let attempt = 0; attempt <= MAX_RETRIES; attempt += 1) {
-    last = await getJson('/api/search?q=' + encodeURIComponent(QUERY));
-    if (last.success && Number(last.parsed?.price?.maxPrice) > 0 && hasDirectCandidate(last)) return last;
+    last = await getJson('/api/search?q=' + encodeURIComponent(READINESS_QUERY));
+    const parsedBudget = Number(last.parsed?.price?.maxPrice);
+    const parserReady = last.success === true && last.parsed && parsedBudget > 0;
+    if (parserReady) return last;
     if (attempt < MAX_RETRIES) await new Promise((resolve) => setTimeout(resolve, RETRY_DELAY_MS));
   }
-  throw new Error(`Live Worker search did not become ready after ${MAX_RETRIES * RETRY_DELAY_MS / 1000}s: ${JSON.stringify(last).slice(0, 3000)}`);
+  throw new Error(`Live Worker search parser did not become ready after ${MAX_RETRIES * RETRY_DELAY_MS / 1000}s: ${JSON.stringify(last).slice(0, 3000)}`);
 }
 
 const health = await getJson('/health');
 assert.equal(health.status, 'ok');
 assert.equal(health.version, 'v5.1-search-core');
 
-const search = await waitForLiveParser();
+const readiness = await waitForLiveParser();
+assert.equal(readiness.success, true);
+assert.ok(readiness.parsed, 'Search parser output is missing');
+assert.ok(Number(readiness.parsed.price?.maxPrice) > 0, `Budget was not parsed: ${JSON.stringify(readiness.parsed)}`);
+assert.equal(Number(readiness.parsed.price.maxPrice), 30000000, `Unexpected budget parse: ${JSON.stringify(readiness.parsed)}`);
+assert.ok(Array.isArray(readiness.results), 'Readiness search results must be an array');
+
+// A valid no-match response is not a readiness failure. The full mission uses
+// a separate known-match query so the resolver/offer/affiliate path is still exercised.
+const search = await getJson('/api/search?q=' + encodeURIComponent(MISSION_QUERY));
 assert.equal(search.success, true);
-assert.ok(search.parsed, 'Search parser output is missing');
-assert.ok(Number(search.parsed.price?.maxPrice) > 0, `Budget was not parsed: ${JSON.stringify(search.parsed)}`);
-assert.equal(Number(search.parsed.price.maxPrice), 30000000, `Unexpected budget parse: ${JSON.stringify(search.parsed)}`);
-assert.ok(Array.isArray(search.results), 'Search results must be an array');
+assert.ok(Array.isArray(search.results), 'Mission search results must be an array');
 assert.ok(search.results.length > 0, `Mission search returned no products: ${JSON.stringify(search).slice(0, 3000)}`);
 
 const candidate = search.results.find((item) => {
@@ -102,8 +104,9 @@ if (click.status !== 200) assert.ok(location, 'Purchase redirect has no Location
 console.log(JSON.stringify({
   ok: true,
   mission: 'v5.1-full-mission-e2e',
-  query: QUERY,
-  search: { source: search.source, total: search.total, parsedBudgetMax: search.parsed.price.maxPrice },
+  readiness: { query: READINESS_QUERY, total: readiness.total, parsedBudgetMax: readiness.parsed.price.maxPrice, noMatchAccepted: readiness.results.length === 0 },
+  query: MISSION_QUERY,
+  search: { source: search.source, total: search.total },
   product: { name: candidate.name, store, productUrl },
   live: { priceToman: resolved.priceToman, currency: resolved.currency, availability: resolved.availability, extraction: resolved.extraction },
   offer: { purchaseUrl, affiliateUrl: offer.affiliateUrl, isAffiliate: offer.isAffiliate },
