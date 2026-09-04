@@ -15,7 +15,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.966Z"
+    "observedAt": "2026-09-04T13:55:55.258Z"
   },
   {
     "id": "torobshop-auto-42afd1ca9ea774d6",
@@ -33,7 +33,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.966Z"
+    "observedAt": "2026-09-04T13:55:55.258Z"
   },
   {
     "id": "torobshop-auto-3930a114dca5ba93",
@@ -51,7 +51,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.966Z"
+    "observedAt": "2026-09-04T13:55:55.258Z"
   },
   {
     "id": "torobshop-auto-aaa22eb952374f54",
@@ -69,7 +69,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.966Z"
+    "observedAt": "2026-09-04T13:55:55.258Z"
   },
   {
     "id": "torobshop-auto-6313ab97d41a2b56",
@@ -87,7 +87,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.966Z"
+    "observedAt": "2026-09-04T13:55:55.258Z"
   },
   {
     "id": "torobshop-auto-f6f4fe1c061400be",
@@ -105,7 +105,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.966Z"
+    "observedAt": "2026-09-04T13:55:55.258Z"
   },
   {
     "id": "torobshop-auto-f84a10872070200f",
@@ -123,7 +123,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.966Z"
+    "observedAt": "2026-09-04T13:55:55.258Z"
   },
   {
     "id": "torobshop-auto-be5c8240bad9b96b",
@@ -141,7 +141,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.966Z"
+    "observedAt": "2026-09-04T13:55:55.258Z"
   },
   {
     "id": "torobshop-auto-6ea4ce76135ec585",
@@ -159,7 +159,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.966Z"
+    "observedAt": "2026-09-04T13:55:55.258Z"
   },
   {
     "id": "torobshop-auto-66ec5ac305e2c66d",
@@ -177,7 +177,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.966Z"
+    "observedAt": "2026-09-04T13:55:55.258Z"
   },
   {
     "id": "torobshop-auto-550a8f87070e67b2",
@@ -195,7 +195,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.966Z"
+    "observedAt": "2026-09-04T13:55:55.258Z"
   },
   {
     "id": "torobshop-auto-82dd733a006aec80",
@@ -213,7 +213,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.966Z"
+    "observedAt": "2026-09-04T13:55:55.258Z"
   },
   {
     "id": "torobshop-auto-b0ab596ed23cc867",
@@ -231,7 +231,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.966Z"
+    "observedAt": "2026-09-04T13:55:55.258Z"
   },
   {
     "id": "torobshop-auto-81b8042dfd25e040",
@@ -249,7 +249,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.966Z"
+    "observedAt": "2026-09-04T13:55:55.258Z"
   },
   {
     "id": "torobshop-auto-971de75d275ec060",
@@ -267,7 +267,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.966Z"
+    "observedAt": "2026-09-04T13:55:55.258Z"
   },
   {
     "id": "torobshop-auto-6984e0fba2f0f5ab",
@@ -285,7 +285,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.966Z"
+    "observedAt": "2026-09-04T13:55:55.258Z"
   },
   {
     "id": "torobshop-auto-043774655c5e9707",
@@ -303,7 +303,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.966Z"
+    "observedAt": "2026-09-04T13:55:55.258Z"
   },
   {
     "id": "torobshop-auto-96e722182c1b89a6",
@@ -321,7 +321,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.966Z"
+    "observedAt": "2026-09-04T13:55:55.258Z"
   },
   {
     "id": "torobshop-auto-d62f3f3a89e25a47",
@@ -339,7 +339,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.966Z"
+    "observedAt": "2026-09-04T13:55:55.258Z"
   },
   {
     "id": "torobshop-auto-c91c69b83e4ddd45",
@@ -357,7 +357,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.966Z"
+    "observedAt": "2026-09-04T13:55:55.258Z"
   },
   {
     "id": "torobshop-auto-6d073e89debc0957",
@@ -375,7 +375,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.966Z"
+    "observedAt": "2026-09-04T13:55:55.258Z"
   },
   {
     "id": "torobshop-auto-2f1de49dbfea70aa",
@@ -393,7 +393,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.966Z"
+    "observedAt": "2026-09-04T13:55:55.258Z"
   },
   {
     "id": "torobshop-auto-688de6c889730421",
@@ -411,7 +411,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.966Z"
+    "observedAt": "2026-09-04T13:55:55.258Z"
   },
   {
     "id": "torobshop-auto-6f75db36753d61cb",
@@ -429,7 +429,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.966Z"
+    "observedAt": "2026-09-04T13:55:55.258Z"
   },
   {
     "id": "torobshop-auto-1d0f8b752067584c",
@@ -447,7 +447,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.966Z"
+    "observedAt": "2026-09-04T13:55:55.258Z"
   },
   {
     "id": "torobshop-auto-9588e88bfa202297",
@@ -465,7 +465,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.966Z"
+    "observedAt": "2026-09-04T13:55:55.258Z"
   },
   {
     "id": "torobshop-auto-564f6efd33ed7c72",
@@ -483,7 +483,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.966Z"
+    "observedAt": "2026-09-04T13:55:55.258Z"
   },
   {
     "id": "torobshop-auto-db51956256cf2a9e",
@@ -501,7 +501,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.966Z"
+    "observedAt": "2026-09-04T13:55:55.258Z"
   },
   {
     "id": "torobshop-auto-6c602e399b74265b",
@@ -519,7 +519,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.966Z"
+    "observedAt": "2026-09-04T13:55:55.258Z"
   },
   {
     "id": "torobshop-auto-69bf454eaf5c015b",
@@ -537,7 +537,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.966Z"
+    "observedAt": "2026-09-04T13:55:55.258Z"
   },
   {
     "id": "torobshop-auto-9b36373adadaf4fd",
@@ -555,7 +555,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.966Z"
+    "observedAt": "2026-09-04T13:55:55.258Z"
   },
   {
     "id": "torobshop-auto-b510ac9c5967ae6e",
@@ -573,7 +573,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.966Z"
+    "observedAt": "2026-09-04T13:55:55.258Z"
   },
   {
     "id": "torobshop-auto-3dbcaccb8662bde1",
@@ -591,7 +591,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.966Z"
+    "observedAt": "2026-09-04T13:55:55.258Z"
   },
   {
     "id": "torobshop-auto-200d11c52e55158d",
@@ -609,7 +609,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.966Z"
+    "observedAt": "2026-09-04T13:55:55.258Z"
   },
   {
     "id": "torobshop-auto-7030913f04cb3a2f",
@@ -627,7 +627,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.966Z"
+    "observedAt": "2026-09-04T13:55:55.258Z"
   },
   {
     "id": "torobshop-auto-c57090577d7bcdd6",
@@ -645,7 +645,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.966Z"
+    "observedAt": "2026-09-04T13:55:55.258Z"
   },
   {
     "id": "torobshop-auto-47c81c869cca25d8",
@@ -663,7 +663,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.966Z"
+    "observedAt": "2026-09-04T13:55:55.258Z"
   },
   {
     "id": "torobshop-auto-f566f758ccfcc717",
@@ -681,7 +681,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.966Z"
+    "observedAt": "2026-09-04T13:55:55.258Z"
   },
   {
     "id": "torobshop-auto-964ece0d8e9f6669",
@@ -699,7 +699,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.966Z"
+    "observedAt": "2026-09-04T13:55:55.258Z"
   },
   {
     "id": "torobshop-auto-4cef33429e237704",
@@ -717,7 +717,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.966Z"
+    "observedAt": "2026-09-04T13:55:55.258Z"
   },
   {
     "id": "torobshop-auto-e4a2bc7cbee474b2",
@@ -735,7 +735,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.966Z"
+    "observedAt": "2026-09-04T13:55:55.258Z"
   },
   {
     "id": "torobshop-auto-3be15395be038aca",
@@ -753,7 +753,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.966Z"
+    "observedAt": "2026-09-04T13:55:55.258Z"
   },
   {
     "id": "torobshop-auto-77f61ec7f8b8b73d",
@@ -771,7 +771,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.966Z"
+    "observedAt": "2026-09-04T13:55:55.258Z"
   },
   {
     "id": "torobshop-auto-a09bc08624899ff4",
@@ -789,7 +789,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.966Z"
+    "observedAt": "2026-09-04T13:55:55.258Z"
   },
   {
     "id": "torobshop-auto-bbd449ed50b3d540",
@@ -807,7 +807,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.966Z"
+    "observedAt": "2026-09-04T13:55:55.259Z"
   },
   {
     "id": "torobshop-auto-50ddbf6ac385797f",
@@ -825,7 +825,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.966Z"
+    "observedAt": "2026-09-04T13:55:55.259Z"
   },
   {
     "id": "torobshop-auto-80a52ed3a08cda77",
@@ -843,7 +843,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.966Z"
+    "observedAt": "2026-09-04T13:55:55.259Z"
   },
   {
     "id": "torobshop-auto-039d5e6addbbd691",
@@ -861,7 +861,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.966Z"
+    "observedAt": "2026-09-04T13:55:55.259Z"
   },
   {
     "id": "torobshop-auto-35ed38f253e56a81",
@@ -879,7 +879,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.966Z"
+    "observedAt": "2026-09-04T13:55:55.259Z"
   },
   {
     "id": "torobshop-auto-81294b2d39671c7a",
@@ -897,7 +897,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.966Z"
+    "observedAt": "2026-09-04T13:55:55.259Z"
   },
   {
     "id": "torobshop-auto-aa508f6b8b35e109",
@@ -915,7 +915,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.966Z"
+    "observedAt": "2026-09-04T13:55:55.259Z"
   },
   {
     "id": "torobshop-auto-6ec47a3d62be5701",
@@ -933,7 +933,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.966Z"
+    "observedAt": "2026-09-04T13:55:55.259Z"
   },
   {
     "id": "torobshop-auto-7b66ea2c8fd4c6a4",
@@ -951,7 +951,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.966Z"
+    "observedAt": "2026-09-04T13:55:55.259Z"
   },
   {
     "id": "torobshop-auto-d49e2d4bb6f40cd4",
@@ -969,7 +969,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.967Z"
+    "observedAt": "2026-09-04T13:55:55.259Z"
   },
   {
     "id": "torobshop-auto-189f8d80d22fa44f",
@@ -987,7 +987,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.967Z"
+    "observedAt": "2026-09-04T13:55:55.259Z"
   },
   {
     "id": "torobshop-auto-5b8fa53f836d0f0c",
@@ -1005,7 +1005,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.967Z"
+    "observedAt": "2026-09-04T13:55:55.259Z"
   },
   {
     "id": "torobshop-auto-547d268a4387e8cb",
@@ -1023,7 +1023,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.967Z"
+    "observedAt": "2026-09-04T13:55:55.259Z"
   },
   {
     "id": "torobshop-auto-4192b4da9c3a842b",
@@ -1041,7 +1041,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.967Z"
+    "observedAt": "2026-09-04T13:55:55.259Z"
   },
   {
     "id": "torobshop-auto-d81ab9c86f172992",
@@ -1059,7 +1059,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.967Z"
+    "observedAt": "2026-09-04T13:55:55.259Z"
   },
   {
     "id": "torobshop-auto-c2621badab7154db",
@@ -1077,7 +1077,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.967Z"
+    "observedAt": "2026-09-04T13:55:55.259Z"
   },
   {
     "id": "torobshop-auto-e61e8163e0053f8c",
@@ -1095,7 +1095,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.967Z"
+    "observedAt": "2026-09-04T13:55:55.259Z"
   },
   {
     "id": "torobshop-auto-0a6f99bfb7c72378",
@@ -1113,7 +1113,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.967Z"
+    "observedAt": "2026-09-04T13:55:55.259Z"
   },
   {
     "id": "torobshop-auto-17b433396f0dd8b8",
@@ -1131,7 +1131,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.967Z"
+    "observedAt": "2026-09-04T13:55:55.259Z"
   },
   {
     "id": "torobshop-auto-70f796097c7bfa77",
@@ -1149,7 +1149,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.967Z"
+    "observedAt": "2026-09-04T13:55:55.259Z"
   },
   {
     "id": "torobshop-auto-792d9fda0d1edf60",
@@ -1167,7 +1167,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.967Z"
+    "observedAt": "2026-09-04T13:55:55.259Z"
   },
   {
     "id": "torobshop-auto-0540c2016311432d",
@@ -1185,7 +1185,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.967Z"
+    "observedAt": "2026-09-04T13:55:55.259Z"
   },
   {
     "id": "torobshop-auto-ea7e49d4888f5500",
@@ -1203,7 +1203,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.967Z"
+    "observedAt": "2026-09-04T13:55:55.259Z"
   },
   {
     "id": "torobshop-auto-a7031b2d2c098e3a",
@@ -1221,7 +1221,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.967Z"
+    "observedAt": "2026-09-04T13:55:55.259Z"
   },
   {
     "id": "torobshop-auto-b280052ba623afe6",
@@ -1239,7 +1239,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.967Z"
+    "observedAt": "2026-09-04T13:55:55.259Z"
   },
   {
     "id": "torobshop-auto-f65d7089e1b75967",
@@ -1257,7 +1257,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.967Z"
+    "observedAt": "2026-09-04T13:55:55.259Z"
   },
   {
     "id": "torobshop-auto-682b567d27e46eb9",
@@ -1275,7 +1275,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.967Z"
+    "observedAt": "2026-09-04T13:55:55.259Z"
   },
   {
     "id": "torobshop-auto-1a199d11167496a7",
@@ -1293,7 +1293,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.967Z"
+    "observedAt": "2026-09-04T13:55:55.259Z"
   },
   {
     "id": "torobshop-auto-e7562a4a47affbdf",
@@ -1311,7 +1311,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.967Z"
+    "observedAt": "2026-09-04T13:55:55.259Z"
   },
   {
     "id": "torobshop-auto-5681fc33ebc4a2c4",
@@ -1329,7 +1329,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.967Z"
+    "observedAt": "2026-09-04T13:55:55.259Z"
   },
   {
     "id": "torobshop-auto-eb3156af454255af",
@@ -1347,7 +1347,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.967Z"
+    "observedAt": "2026-09-04T13:55:55.259Z"
   },
   {
     "id": "torobshop-auto-3f60763e8c1f61db",
@@ -1365,7 +1365,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.967Z"
+    "observedAt": "2026-09-04T13:55:55.259Z"
   },
   {
     "id": "torobshop-auto-8b667a7c5d48a018",
@@ -1383,7 +1383,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.967Z"
+    "observedAt": "2026-09-04T13:55:55.259Z"
   },
   {
     "id": "torobshop-auto-c28d9ee4867587e0",
@@ -1401,7 +1401,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.967Z"
+    "observedAt": "2026-09-04T13:55:55.259Z"
   },
   {
     "id": "torobshop-auto-135cb4370d26107e",
@@ -1419,7 +1419,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.967Z"
+    "observedAt": "2026-09-04T13:55:55.259Z"
   },
   {
     "id": "torobshop-auto-ea6561f27fcae338",
@@ -1437,7 +1437,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.967Z"
+    "observedAt": "2026-09-04T13:55:55.259Z"
   },
   {
     "id": "torobshop-auto-9da6cf5207d19dc6",
@@ -1455,7 +1455,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.967Z"
+    "observedAt": "2026-09-04T13:55:55.259Z"
   },
   {
     "id": "torobshop-auto-973da9b66d30f98f",
@@ -1473,7 +1473,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.967Z"
+    "observedAt": "2026-09-04T13:55:55.259Z"
   },
   {
     "id": "torobshop-auto-27a7ab064979e19e",
@@ -1491,7 +1491,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.967Z"
+    "observedAt": "2026-09-04T13:55:55.259Z"
   },
   {
     "id": "torobshop-auto-426ac503c83523da",
@@ -1509,7 +1509,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.967Z"
+    "observedAt": "2026-09-04T13:55:55.259Z"
   },
   {
     "id": "torobshop-auto-93f0314c16b9cade",
@@ -1527,7 +1527,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.967Z"
+    "observedAt": "2026-09-04T13:55:55.259Z"
   },
   {
     "id": "torobshop-auto-e546c7ee2f25cccb",
@@ -1545,7 +1545,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.967Z"
+    "observedAt": "2026-09-04T13:55:55.259Z"
   },
   {
     "id": "torobshop-auto-06e9af83157d59bf",
@@ -1563,7 +1563,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.967Z"
+    "observedAt": "2026-09-04T13:55:55.259Z"
   },
   {
     "id": "torobshop-auto-7dd02e17fa5ae720",
@@ -1581,7 +1581,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.967Z"
+    "observedAt": "2026-09-04T13:55:55.259Z"
   },
   {
     "id": "torobshop-auto-67b089d5840c00b5",
@@ -1599,7 +1599,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.967Z"
+    "observedAt": "2026-09-04T13:55:55.259Z"
   },
   {
     "id": "torobshop-auto-16617f0cd6242c17",
@@ -1617,7 +1617,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.967Z"
+    "observedAt": "2026-09-04T13:55:55.259Z"
   },
   {
     "id": "torobshop-auto-aab6f7ca65634b77",
@@ -1635,7 +1635,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.967Z"
+    "observedAt": "2026-09-04T13:55:55.259Z"
   },
   {
     "id": "torobshop-auto-230290bd87eab562",
@@ -1653,7 +1653,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.967Z"
+    "observedAt": "2026-09-04T13:55:55.259Z"
   },
   {
     "id": "torobshop-auto-697a2934ffba6321",
@@ -1671,7 +1671,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.967Z"
+    "observedAt": "2026-09-04T13:55:55.259Z"
   },
   {
     "id": "torobshop-auto-54f5e9ae596669e0",
@@ -1689,7 +1689,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.967Z"
+    "observedAt": "2026-09-04T13:55:55.259Z"
   },
   {
     "id": "torobshop-auto-12112ebd794aebfe",
@@ -1707,7 +1707,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.967Z"
+    "observedAt": "2026-09-04T13:55:55.259Z"
   },
   {
     "id": "torobshop-auto-936307be3dbff4d8",
@@ -1725,7 +1725,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.967Z"
+    "observedAt": "2026-09-04T13:55:55.259Z"
   },
   {
     "id": "torobshop-auto-6e9b5969bf806a83",
@@ -1743,7 +1743,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.967Z"
+    "observedAt": "2026-09-04T13:55:55.259Z"
   },
   {
     "id": "torobshop-auto-e8fbb91576830b01",
@@ -1761,7 +1761,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.967Z"
+    "observedAt": "2026-09-04T13:55:55.259Z"
   },
   {
     "id": "torobshop-auto-46604b56d19bc98e",
@@ -1779,7 +1779,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.967Z"
+    "observedAt": "2026-09-04T13:55:55.259Z"
   },
   {
     "id": "torobshop-auto-c0da7c6caaaabe22",
@@ -1797,7 +1797,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.967Z"
+    "observedAt": "2026-09-04T13:55:55.259Z"
   },
   {
     "id": "torobshop-auto-b0d9a8bce5b96da9",
@@ -1815,7 +1815,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.967Z"
+    "observedAt": "2026-09-04T13:55:55.259Z"
   },
   {
     "id": "torobshop-auto-5aade8dcb399df70",
@@ -1833,7 +1833,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.967Z"
+    "observedAt": "2026-09-04T13:55:55.259Z"
   },
   {
     "id": "torobshop-auto-5793143473c0cf7d",
@@ -1851,7 +1851,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.967Z"
+    "observedAt": "2026-09-04T13:55:55.260Z"
   },
   {
     "id": "torobshop-auto-338927d0838a0440",
@@ -1869,7 +1869,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.967Z"
+    "observedAt": "2026-09-04T13:55:55.260Z"
   },
   {
     "id": "torobshop-auto-01db327156bef7cb",
@@ -1887,7 +1887,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.967Z"
+    "observedAt": "2026-09-04T13:55:55.260Z"
   },
   {
     "id": "torobshop-auto-5f8b7d12315d211b",
@@ -1905,7 +1905,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.967Z"
+    "observedAt": "2026-09-04T13:55:55.260Z"
   },
   {
     "id": "torobshop-auto-bbcc82316e14ad0c",
@@ -1923,7 +1923,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.967Z"
+    "observedAt": "2026-09-04T13:55:55.260Z"
   },
   {
     "id": "torobshop-auto-c4764ab021d7047d",
@@ -1941,7 +1941,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.967Z"
+    "observedAt": "2026-09-04T13:55:55.260Z"
   },
   {
     "id": "torobshop-auto-7bcf4d86c8897e89",
@@ -1959,7 +1959,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.967Z"
+    "observedAt": "2026-09-04T13:55:55.260Z"
   },
   {
     "id": "torobshop-auto-c0ed70988a23d716",
@@ -1977,7 +1977,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.967Z"
+    "observedAt": "2026-09-04T13:55:55.260Z"
   },
   {
     "id": "torobshop-auto-60d6e587231ae5e2",
@@ -1995,7 +1995,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.967Z"
+    "observedAt": "2026-09-04T13:55:55.260Z"
   },
   {
     "id": "torobshop-auto-6ae0fa5e11f4b4e4",
@@ -2013,7 +2013,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.967Z"
+    "observedAt": "2026-09-04T13:55:55.260Z"
   },
   {
     "id": "torobshop-auto-60af1d85416ddb75",
@@ -2031,7 +2031,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.968Z"
+    "observedAt": "2026-09-04T13:55:55.260Z"
   },
   {
     "id": "torobshop-auto-4bcca73578b5dd16",
@@ -2049,7 +2049,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.968Z"
+    "observedAt": "2026-09-04T13:55:55.260Z"
   },
   {
     "id": "torobshop-auto-6e06ceda384f61d3",
@@ -2067,7 +2067,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.968Z"
+    "observedAt": "2026-09-04T13:55:55.260Z"
   },
   {
     "id": "torobshop-auto-d6020856dbe3939e",
@@ -2085,7 +2085,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.968Z"
+    "observedAt": "2026-09-04T13:55:55.260Z"
   },
   {
     "id": "torobshop-auto-f9bbe058bc1d2128",
@@ -2103,7 +2103,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.968Z"
+    "observedAt": "2026-09-04T13:55:55.260Z"
   },
   {
     "id": "torobshop-auto-5d82b44892bc11b9",
@@ -2121,7 +2121,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.968Z"
+    "observedAt": "2026-09-04T13:55:55.260Z"
   },
   {
     "id": "torobshop-auto-e314f2beea5b98b5",
@@ -2139,7 +2139,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.968Z"
+    "observedAt": "2026-09-04T13:55:55.260Z"
   },
   {
     "id": "torobshop-auto-f9b72003ee046406",
@@ -2157,7 +2157,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.968Z"
+    "observedAt": "2026-09-04T13:55:55.260Z"
   },
   {
     "id": "torobshop-auto-e0190c6b09b72f84",
@@ -2175,7 +2175,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.968Z"
+    "observedAt": "2026-09-04T13:55:55.260Z"
   },
   {
     "id": "torobshop-auto-55066b4800c9da01",
@@ -2193,7 +2193,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.968Z"
+    "observedAt": "2026-09-04T13:55:55.260Z"
   },
   {
     "id": "torobshop-auto-dab9eb8721316f5c",
@@ -2211,7 +2211,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.968Z"
+    "observedAt": "2026-09-04T13:55:55.260Z"
   },
   {
     "id": "torobshop-auto-b5bb3ef74c64016f",
@@ -2229,7 +2229,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.968Z"
+    "observedAt": "2026-09-04T13:55:55.260Z"
   },
   {
     "id": "torobshop-auto-7039563646d2a08c",
@@ -2247,25 +2247,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.968Z"
-  },
-  {
-    "id": "torobshop-auto-13383e2908795ceb",
-    "productId": "torobshop-13383e2908795ceb",
-    "name": "اسپرسو ساز تمام اتوماتیک نینجا آمریکا Ninja AE1051EU",
-    "brand": "",
-    "model": "اسپرسو ساز تمام اتوماتیک نینجا آمریکا Ninja AE1051EU",
-    "category": "auto",
-    "subcategory": "خودرو",
-    "price": 263060000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%A7%D8%B3%D9%BE%D8%B1%D8%B3%D9%88-%D8%B3%D8%A7%D8%B2-%D8%AA%D9%85%D8%A7%D9%85-%D8%A7%D8%AA%D9%88%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-Ninja-AE1051EU",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.968Z"
+    "observedAt": "2026-09-04T13:55:55.260Z"
   },
   {
     "id": "torobshop-auto-d17a16a92c427af7",
@@ -2283,7 +2265,25 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.968Z"
+    "observedAt": "2026-09-04T13:55:55.260Z"
+  },
+  {
+    "id": "torobshop-auto-13383e2908795ceb",
+    "productId": "torobshop-13383e2908795ceb",
+    "name": "اسپرسو ساز تمام اتوماتیک نینجا آمریکا Ninja AE1051EU",
+    "brand": "",
+    "model": "اسپرسو ساز تمام اتوماتیک نینجا آمریکا Ninja AE1051EU",
+    "category": "auto",
+    "subcategory": "خودرو",
+    "price": 263060000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D8%B3%D9%BE%D8%B1%D8%B3%D9%88-%D8%B3%D8%A7%D8%B2-%D8%AA%D9%85%D8%A7%D9%85-%D8%A7%D8%AA%D9%88%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-Ninja-AE1051EU",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T13:55:55.260Z"
   },
   {
     "id": "torobshop-auto-e05ea902bac411c1",
@@ -2301,7 +2301,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.968Z"
+    "observedAt": "2026-09-04T13:55:55.260Z"
   },
   {
     "id": "torobshop-auto-222c5f1f48a7811a",
@@ -2319,7 +2319,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.968Z"
+    "observedAt": "2026-09-04T13:55:55.260Z"
   },
   {
     "id": "torobshop-auto-9f8dba1c4be0543f",
@@ -2337,7 +2337,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.968Z"
+    "observedAt": "2026-09-04T13:55:55.260Z"
   },
   {
     "id": "torobshop-auto-73f54a12bc87541c",
@@ -2355,7 +2355,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.968Z"
+    "observedAt": "2026-09-04T13:55:55.260Z"
   },
   {
     "id": "torobshop-auto-7dda1ee3ebe3337d",
@@ -2373,7 +2373,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.968Z"
+    "observedAt": "2026-09-04T13:55:55.260Z"
   },
   {
     "id": "torobshop-auto-fed9304ce636fd70",
@@ -2391,7 +2391,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.968Z"
+    "observedAt": "2026-09-04T13:55:55.260Z"
   },
   {
     "id": "torobshop-auto-56d2262c04bf40b1",
@@ -2409,7 +2409,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.968Z"
+    "observedAt": "2026-09-04T13:55:55.260Z"
   },
   {
     "id": "torobshop-auto-1d09296a1209f7ae",
@@ -2427,7 +2427,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.968Z"
+    "observedAt": "2026-09-04T13:55:55.260Z"
   },
   {
     "id": "torobshop-auto-d5861c5eae980acb",
@@ -2445,43 +2445,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.968Z"
-  },
-  {
-    "id": "torobshop-auto-3b108c60419c6b3e",
-    "productId": "torobshop-3b108c60419c6b3e",
-    "name": "جارو برقی بدون کیسه میله آلمان مدل بلیزارد CX1 کامفورت پاورلاین Miele SKMF5 مشکی",
-    "brand": "",
-    "model": "جارو برقی بدون کیسه میله آلمان مدل بلیزارد CX1 کامفورت پاورلاین Miele SKMF5 مشکی",
-    "category": "auto",
-    "subcategory": "خودرو",
-    "price": 154187000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%AC%D8%A7%D8%B1%D9%88-%D8%A8%D8%B1%D9%82%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%DA%A9%DB%8C%D8%B3%D9%87-%D9%85%DB%8C%D9%84%D9%87-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%AF%D9%84-%D8%A8%D9%84%DB%8C%D8%B2%D8%A7%D8%B1%D8%AF-CX1-%DA%A9%D8%A7%D9%85%D9%81%D9%88%D8%B1%D8%AA-%D9%BE%D8%A7%D9%88%D8%B1%D9%84%D8%A7%DB%8C%D9%86-Miele-SKMF5-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.968Z"
-  },
-  {
-    "id": "torobshop-auto-2278a7dbec8ed7cd",
-    "productId": "torobshop-2278a7dbec8ed7cd",
-    "name": "سماور برقی 3 لیتری بیم آلمان مدل BEEM Samowar 2030S",
-    "brand": "",
-    "model": "سماور برقی 3 لیتری بیم آلمان مدل BEEM Samowar 2030S",
-    "category": "auto",
-    "subcategory": "خودرو",
-    "price": 45668000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D9%85%D8%A7%D9%88%D8%B1-%D8%A8%D8%B1%D9%82%DB%8C-3-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C-%D8%A8%DB%8C%D9%85-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%AF%D9%84-BEEM-Samowar-2030S",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.968Z"
+    "observedAt": "2026-09-04T13:55:55.260Z"
   },
   {
     "id": "torobshop-auto-3a354858143bf5bf",
@@ -2499,7 +2463,25 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.968Z"
+    "observedAt": "2026-09-04T13:55:55.260Z"
+  },
+  {
+    "id": "torobshop-auto-3b108c60419c6b3e",
+    "productId": "torobshop-3b108c60419c6b3e",
+    "name": "جارو برقی بدون کیسه میله آلمان مدل بلیزارد CX1 کامفورت پاورلاین Miele SKMF5 مشکی",
+    "brand": "",
+    "model": "جارو برقی بدون کیسه میله آلمان مدل بلیزارد CX1 کامفورت پاورلاین Miele SKMF5 مشکی",
+    "category": "auto",
+    "subcategory": "خودرو",
+    "price": 154187000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%AC%D8%A7%D8%B1%D9%88-%D8%A8%D8%B1%D9%82%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%DA%A9%DB%8C%D8%B3%D9%87-%D9%85%DB%8C%D9%84%D9%87-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%AF%D9%84-%D8%A8%D9%84%DB%8C%D8%B2%D8%A7%D8%B1%D8%AF-CX1-%DA%A9%D8%A7%D9%85%D9%81%D9%88%D8%B1%D8%AA-%D9%BE%D8%A7%D9%88%D8%B1%D9%84%D8%A7%DB%8C%D9%86-Miele-SKMF5-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T13:55:55.260Z"
   },
   {
     "id": "torobshop-auto-386045fed7109b6c",
@@ -2517,7 +2499,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.968Z"
+    "observedAt": "2026-09-04T13:55:55.260Z"
   },
   {
     "id": "torobshop-auto-3d432c8dbd69eefb",
@@ -2535,7 +2517,25 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.968Z"
+    "observedAt": "2026-09-04T13:55:55.260Z"
+  },
+  {
+    "id": "torobshop-auto-2278a7dbec8ed7cd",
+    "productId": "torobshop-2278a7dbec8ed7cd",
+    "name": "سماور برقی 3 لیتری بیم آلمان مدل BEEM Samowar 2030S",
+    "brand": "",
+    "model": "سماور برقی 3 لیتری بیم آلمان مدل BEEM Samowar 2030S",
+    "category": "auto",
+    "subcategory": "خودرو",
+    "price": 45668000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D9%85%D8%A7%D9%88%D8%B1-%D8%A8%D8%B1%D9%82%DB%8C-3-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C-%D8%A8%DB%8C%D9%85-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%AF%D9%84-BEEM-Samowar-2030S",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T13:55:55.260Z"
   },
   {
     "id": "torobshop-auto-66634e26dfb49c04",
@@ -2553,7 +2553,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.968Z"
+    "observedAt": "2026-09-04T13:55:55.260Z"
   },
   {
     "id": "torobshop-auto-bab25203513b93bb",
@@ -2571,7 +2571,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.968Z"
+    "observedAt": "2026-09-04T13:55:55.260Z"
   },
   {
     "id": "torobshop-auto-3dd1b99a47f6c6d1",
@@ -2589,7 +2589,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.968Z"
+    "observedAt": "2026-09-04T13:55:55.260Z"
   },
   {
     "id": "torobshop-auto-bcf3455eedcf96e7",
@@ -2607,7 +2607,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.968Z"
+    "observedAt": "2026-09-04T13:55:55.260Z"
   },
   {
     "id": "torobshop-auto-40f557a46b915c21",
@@ -2625,7 +2625,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.968Z"
+    "observedAt": "2026-09-04T13:55:55.260Z"
   },
   {
     "id": "torobshop-auto-fbd5e1832a592f6d",
@@ -2643,7 +2643,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.968Z"
+    "observedAt": "2026-09-04T13:55:55.260Z"
   },
   {
     "id": "torobshop-auto-9c9a87a898bad342",
@@ -2661,7 +2661,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.968Z"
+    "observedAt": "2026-09-04T13:55:55.260Z"
   },
   {
     "id": "torobshop-auto-685fccacbb18ee43",
@@ -2679,7 +2679,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.968Z"
+    "observedAt": "2026-09-04T13:55:55.260Z"
   },
   {
     "id": "torobshop-auto-1cb6df1aed563bee",
@@ -2697,7 +2697,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.968Z"
+    "observedAt": "2026-09-04T13:55:55.260Z"
   },
   {
     "id": "torobshop-auto-993ee35f4a561a10",
@@ -2715,7 +2715,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.968Z"
+    "observedAt": "2026-09-04T13:55:55.260Z"
   },
   {
     "id": "torobshop-auto-37fd983abaa93a3b",
@@ -2733,7 +2733,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.968Z"
+    "observedAt": "2026-09-04T13:55:55.260Z"
   },
   {
     "id": "torobshop-auto-deb4652ab7b20c96",
@@ -2751,7 +2751,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.968Z"
+    "observedAt": "2026-09-04T13:55:55.260Z"
   },
   {
     "id": "torobshop-auto-cc5a74ea332cb871",
@@ -2769,7 +2769,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.968Z"
+    "observedAt": "2026-09-04T13:55:55.260Z"
   },
   {
     "id": "torobshop-auto-f5c373b20c89f3cf",
@@ -2787,7 +2787,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.968Z"
+    "observedAt": "2026-09-04T13:55:55.260Z"
   },
   {
     "id": "torobshop-auto-557954e4838db8ec",
@@ -2805,7 +2805,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.968Z"
+    "observedAt": "2026-09-04T13:55:55.260Z"
   },
   {
     "id": "torobshop-auto-ac5e0f9a687acc9d",
@@ -2823,7 +2823,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.968Z"
+    "observedAt": "2026-09-04T13:55:55.260Z"
   },
   {
     "id": "torobshop-auto-5e97e30e4af5e35a",
@@ -2841,7 +2841,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.968Z"
+    "observedAt": "2026-09-04T13:55:55.260Z"
   },
   {
     "id": "torobshop-auto-174296fd490ce4c6",
@@ -2859,7 +2859,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.968Z"
+    "observedAt": "2026-09-04T13:55:55.260Z"
   },
   {
     "id": "torobshop-auto-ca40f9691c169854",
@@ -2877,25 +2877,25 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.968Z"
+    "observedAt": "2026-09-04T13:55:55.260Z"
   },
   {
-    "id": "torobshop-auto-24ee5f250564a2b6",
-    "productId": "torobshop-24ee5f250564a2b6",
-    "name": "جارو برقی کیسه‌ای حرفه‌ای میله آلمان مدل Miele Guard M1 SVXG0 سفید براق",
+    "id": "torobshop-auto-1ba644cb6c0a38e9",
+    "productId": "torobshop-1ba644cb6c0a38e9",
+    "name": "سماور برقی 10 لیتری بیم آلمان مدل BEEM Amira 06356 مخصوص هتل و رستوران",
     "brand": "",
-    "model": "جارو برقی کیسه‌ای حرفه‌ای میله آلمان مدل Miele Guard M1 SVXG0 سفید براق",
+    "model": "سماور برقی 10 لیتری بیم آلمان مدل BEEM Amira 06356 مخصوص هتل و رستوران",
     "category": "auto",
     "subcategory": "خودرو",
-    "price": 103811000,
+    "price": 306844000,
     "currency": "IRT",
     "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%AC%D8%A7%D8%B1%D9%88-%D8%A8%D8%B1%D9%82%DB%8C-%DA%A9%DB%8C%D8%B3%D9%87-%D8%A7%DB%8C-%D8%AD%D8%B1%D9%81%D9%87-%D8%A7%DB%8C-%D9%85%DB%8C%D9%84%D9%87-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%AF%D9%84-Miele-Guard-M1-SVXG0-%D8%B3%D9%81%DB%8C%D8%AF-%D8%A8%D8%B1%D8%A7%D9%82",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D9%85%D8%A7%D9%88%D8%B1-%D8%A8%D8%B1%D9%82%DB%8C-10-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C-%D8%A8%DB%8C%D9%85-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%AF%D9%84-BEEM-Amira-06356-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D9%87%D8%AA%D9%84-%D9%88-%D8%B1%D8%B3%D8%AA%D9%88%D8%B1%D8%A7%D9%86",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.968Z"
+    "observedAt": "2026-09-04T13:55:55.260Z"
   },
   {
     "id": "torobshop-auto-eb2d1bdae18ab641",
@@ -2913,7 +2913,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.968Z"
+    "observedAt": "2026-09-04T13:55:55.260Z"
   },
   {
     "id": "torobshop-auto-9526bc50db1d2b71",
@@ -2931,7 +2931,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.968Z"
+    "observedAt": "2026-09-04T13:55:55.261Z"
   },
   {
     "id": "torobshop-auto-17aea0c096f3fbb1",
@@ -2949,7 +2949,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.968Z"
+    "observedAt": "2026-09-04T13:55:55.261Z"
   },
   {
     "id": "torobshop-auto-dab36535df580dd9",
@@ -2967,7 +2967,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.968Z"
+    "observedAt": "2026-09-04T13:55:55.261Z"
   },
   {
     "id": "torobshop-auto-bb07ff83203ce817",
@@ -2985,7 +2985,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.968Z"
+    "observedAt": "2026-09-04T13:55:55.261Z"
   },
   {
     "id": "torobshop-auto-23a08ed4a54c1bf3",
@@ -3003,7 +3003,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.968Z"
+    "observedAt": "2026-09-04T13:55:55.261Z"
   },
   {
     "id": "torobshop-auto-86394f5b0d453ade",
@@ -3021,7 +3021,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.968Z"
+    "observedAt": "2026-09-04T13:55:55.261Z"
   },
   {
     "id": "torobshop-auto-bf0ff9604c787d7f",
@@ -3039,7 +3039,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.968Z"
+    "observedAt": "2026-09-04T13:55:55.261Z"
   },
   {
     "id": "torobshop-auto-add12b5339d41d54",
@@ -3057,7 +3057,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.969Z"
+    "observedAt": "2026-09-04T13:55:55.261Z"
   },
   {
     "id": "torobshop-auto-ec9957a5ab556a59",
@@ -3075,7 +3075,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.969Z"
+    "observedAt": "2026-09-04T13:55:55.261Z"
   },
   {
     "id": "torobshop-auto-ec7446a90d887300",
@@ -3093,7 +3093,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.969Z"
+    "observedAt": "2026-09-04T13:55:55.261Z"
   },
   {
     "id": "torobshop-auto-e89541bdd38935d2",
@@ -3111,43 +3111,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.969Z"
-  },
-  {
-    "id": "torobshop-auto-ffccfb4b61d564f3",
-    "productId": "torobshop-ffccfb4b61d564f3",
-    "name": "مانیتور فیلیپس 242S1AE - 24 اینچ FHD، قابلیت تنظیم ارتفاع (1920x1080، 75 هرتز، VGA، DVI، HDMI، DisplayPort) مشکی",
-    "brand": "",
-    "model": "مانیتور فیلیپس 242S1AE - 24 اینچ FHD، قابلیت تنظیم ارتفاع (1920x1080، 75 هرتز، VGA، DVI، HDMI، DisplayPort) مشکی",
-    "category": "auto",
-    "subcategory": "خودرو",
-    "price": 36081000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-242S1AE-24-%D8%A7%DB%8C%D9%86%DA%86-FHD-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-1920x1080-75-%D9%87%D8%B1%D8%AA%D8%B2-VGA-DVI-HDMI-DisplayPort-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.969Z"
-  },
-  {
-    "id": "torobshop-auto-bf9b6308d5e6e4a3",
-    "productId": "torobshop-bf9b6308d5e6e4a3",
-    "name": "گوشی هوشمند اپل آیفون ۱۷ (۱۵.۹ سانتی‌متر / ۶.۳ اینچ، حافظه ۲۵۶ گیگابایت، دوربین ۴۸ مگاپیکسلی)",
-    "brand": "اپل",
-    "model": "گوشی هوشمند اپل آیفون ۱۷ (۱۵.۹ سانتی‌متر / ۶.۳ اینچ، حافظه ۲۵۶ گیگابایت، دوربین ۴۸ مگاپیکسلی)",
-    "category": "auto",
-    "subcategory": "خودرو",
-    "price": 237013000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%DA%AF%D9%88%D8%B4%DB%8C-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%D8%A7%D9%BE%D9%84-%D8%A2%DB%8C%D9%81%D9%88%D9%86-%DB%B1%DB%B7-%DB%B1%DB%B5-%DB%B9-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%DB%B6-%DB%B3-%D8%A7%DB%8C%D9%86%DA%86-%D8%AD%D8%A7%D9%81%D8%B8%D9%87-%DB%B2%DB%B5%DB%B6-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%AF%D9%88%D8%B1%D8%A8%DB%8C%D9%86-%DB%B4%DB%B8-%D9%85%DA%AF%D8%A7%D9%BE%DB%8C%DA%A9%D8%B3%D9%84%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.969Z"
+    "observedAt": "2026-09-04T13:55:55.261Z"
   },
   {
     "id": "torobshop-auto-f676e23d1f151190",
@@ -3165,7 +3129,43 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.969Z"
+    "observedAt": "2026-09-04T13:55:55.261Z"
+  },
+  {
+    "id": "torobshop-auto-ffccfb4b61d564f3",
+    "productId": "torobshop-ffccfb4b61d564f3",
+    "name": "مانیتور فیلیپس 242S1AE - 24 اینچ FHD، قابلیت تنظیم ارتفاع (1920x1080، 75 هرتز، VGA، DVI، HDMI، DisplayPort) مشکی",
+    "brand": "",
+    "model": "مانیتور فیلیپس 242S1AE - 24 اینچ FHD، قابلیت تنظیم ارتفاع (1920x1080، 75 هرتز، VGA، DVI، HDMI، DisplayPort) مشکی",
+    "category": "auto",
+    "subcategory": "خودرو",
+    "price": 36081000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-242S1AE-24-%D8%A7%DB%8C%D9%86%DA%86-FHD-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-1920x1080-75-%D9%87%D8%B1%D8%AA%D8%B2-VGA-DVI-HDMI-DisplayPort-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T13:55:55.261Z"
+  },
+  {
+    "id": "torobshop-auto-bf9b6308d5e6e4a3",
+    "productId": "torobshop-bf9b6308d5e6e4a3",
+    "name": "گوشی هوشمند اپل آیفون ۱۷ (۱۵.۹ سانتی‌متر / ۶.۳ اینچ، حافظه ۲۵۶ گیگابایت، دوربین ۴۸ مگاپیکسلی)",
+    "brand": "اپل",
+    "model": "گوشی هوشمند اپل آیفون ۱۷ (۱۵.۹ سانتی‌متر / ۶.۳ اینچ، حافظه ۲۵۶ گیگابایت، دوربین ۴۸ مگاپیکسلی)",
+    "category": "auto",
+    "subcategory": "خودرو",
+    "price": 237013000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%DA%AF%D9%88%D8%B4%DB%8C-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%D8%A7%D9%BE%D9%84-%D8%A2%DB%8C%D9%81%D9%88%D9%86-%DB%B1%DB%B7-%DB%B1%DB%B5-%DB%B9-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%DB%B6-%DB%B3-%D8%A7%DB%8C%D9%86%DA%86-%D8%AD%D8%A7%D9%81%D8%B8%D9%87-%DB%B2%DB%B5%DB%B6-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%AF%D9%88%D8%B1%D8%A8%DB%8C%D9%86-%DB%B4%DB%B8-%D9%85%DA%AF%D8%A7%D9%BE%DB%8C%DA%A9%D8%B3%D9%84%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T13:55:55.261Z"
   },
   {
     "id": "torobshop-auto-a936b9d4fccda9ec",
@@ -3183,7 +3183,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.969Z"
+    "observedAt": "2026-09-04T13:55:55.261Z"
   },
   {
     "id": "torobshop-auto-3debd7458ec254ad",
@@ -3201,7 +3201,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.969Z"
+    "observedAt": "2026-09-04T13:55:55.261Z"
   },
   {
     "id": "torobshop-auto-20506e6b258fcb0c",
@@ -3219,25 +3219,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.969Z"
-  },
-  {
-    "id": "torobshop-auto-bc5ad78acdc13550",
-    "productId": "torobshop-bc5ad78acdc13550",
-    "name": "هدفون بلوتوث بی‌سیم GRUNDIG - هدفون داخل گوشی با کیس شارژ USB-C - هدفون‌های بی‌سیم واقعی - 3-6 ساعت پخش",
-    "brand": "",
-    "model": "هدفون بلوتوث بی‌سیم GRUNDIG - هدفون داخل گوشی با کیس شارژ USB-C - هدفون‌های بی‌سیم واقعی - 3-6 ساعت پخش",
-    "category": "auto",
-    "subcategory": "خودرو",
-    "price": 13721000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%87%D8%AF%D9%81%D9%88%D9%86-%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB-%D8%A8%DB%8C-%D8%B3%DB%8C%D9%85-GRUNDIG-%D9%87%D8%AF%D9%81%D9%88%D9%86-%D8%AF%D8%A7%D8%AE%D9%84-%DA%AF%D9%88%D8%B4%DB%8C-%D8%A8%D8%A7-%DA%A9%DB%8C%D8%B3-%D8%B4%D8%A7%D8%B1%DA%98-USB-C-%D9%87%D8%AF%D9%81%D9%88%D9%86-%D9%87%D8%A7%DB%8C-%D8%A8%DB%8C-%D8%B3%DB%8C%D9%85-%D9%88%D8%A7%D9%82%D8%B9%DB%8C-3-6-%D8%B3%D8%A7%D8%B9%D8%AA-%D9%BE%D8%AE%D8%B4",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.969Z"
+    "observedAt": "2026-09-04T13:55:55.261Z"
   },
   {
     "id": "torobshop-auto-9f1357a1a5ec15c3",
@@ -3255,7 +3237,25 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.969Z"
+    "observedAt": "2026-09-04T13:55:55.261Z"
+  },
+  {
+    "id": "torobshop-auto-bc5ad78acdc13550",
+    "productId": "torobshop-bc5ad78acdc13550",
+    "name": "هدفون بلوتوث بی‌سیم GRUNDIG - هدفون داخل گوشی با کیس شارژ USB-C - هدفون‌های بی‌سیم واقعی - 3-6 ساعت پخش",
+    "brand": "",
+    "model": "هدفون بلوتوث بی‌سیم GRUNDIG - هدفون داخل گوشی با کیس شارژ USB-C - هدفون‌های بی‌سیم واقعی - 3-6 ساعت پخش",
+    "category": "auto",
+    "subcategory": "خودرو",
+    "price": 13721000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%87%D8%AF%D9%81%D9%88%D9%86-%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB-%D8%A8%DB%8C-%D8%B3%DB%8C%D9%85-GRUNDIG-%D9%87%D8%AF%D9%81%D9%88%D9%86-%D8%AF%D8%A7%D8%AE%D9%84-%DA%AF%D9%88%D8%B4%DB%8C-%D8%A8%D8%A7-%DA%A9%DB%8C%D8%B3-%D8%B4%D8%A7%D8%B1%DA%98-USB-C-%D9%87%D8%AF%D9%81%D9%88%D9%86-%D9%87%D8%A7%DB%8C-%D8%A8%DB%8C-%D8%B3%DB%8C%D9%85-%D9%88%D8%A7%D9%82%D8%B9%DB%8C-3-6-%D8%B3%D8%A7%D8%B9%D8%AA-%D9%BE%D8%AE%D8%B4",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T13:55:55.261Z"
   },
   {
     "id": "torobshop-auto-b93b2b7b8a52ead7",
@@ -3273,7 +3273,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.969Z"
+    "observedAt": "2026-09-04T13:55:55.261Z"
   },
   {
     "id": "torobshop-auto-469010b14dce1518",
@@ -3291,7 +3291,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.969Z"
+    "observedAt": "2026-09-04T13:55:55.261Z"
   },
   {
     "id": "torobshop-auto-d622f60b84a25c29",
@@ -3309,7 +3309,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.969Z"
+    "observedAt": "2026-09-04T13:55:55.261Z"
   },
   {
     "id": "torobshop-auto-8ad1b620c2984c64",
@@ -3327,7 +3327,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.969Z"
+    "observedAt": "2026-09-04T13:55:55.261Z"
   },
   {
     "id": "torobshop-auto-7362b68fe582e1ef",
@@ -3345,43 +3345,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.969Z"
-  },
-  {
-    "id": "torobshop-auto-8b4d268dc0b50dc9",
-    "productId": "torobshop-8b4d268dc0b50dc9",
-    "name": "فیلیپس 27E1N1100A - مانیتور 27 اینچی Full HD، بلندگوهای داخلی، زمان پاسخگویی 1 میلی‌ثانیه (1920x1080، 100 هرتز، VGA، HDMI 1.4) مشکی",
-    "brand": "",
-    "model": "فیلیپس 27E1N1100A - مانیتور 27 اینچی Full HD، بلندگوهای داخلی، زمان پاسخگویی 1 میلی‌ثانیه (1920x1080، 100 هرتز، VGA، HDMI 1.4) مشکی",
-    "category": "auto",
-    "subcategory": "خودرو",
-    "price": 36590000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-27E1N1100A-%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-27-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-Full-HD-%D8%A8%D9%84%D9%86%D8%AF%DA%AF%D9%88%D9%87%D8%A7%DB%8C-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%B2%D9%85%D8%A7%D9%86-%D9%BE%D8%A7%D8%B3%D8%AE%DA%AF%D9%88%DB%8C%DB%8C-1-%D9%85%DB%8C%D9%84%DB%8C-%D8%AB%D8%A7%D9%86%DB%8C%D9%87-1920x1080-100-%D9%87%D8%B1%D8%AA%D8%B2-VGA-HDMI-1-4-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.969Z"
-  },
-  {
-    "id": "torobshop-auto-2aa12aa20262b96c",
-    "productId": "torobshop-2aa12aa20262b96c",
-    "name": "هدفون داخل گوشی Philips E1105BK HiFi با کنترل صدا، مشکی",
-    "brand": "",
-    "model": "هدفون داخل گوشی Philips E1105BK HiFi با کنترل صدا، مشکی",
-    "category": "auto",
-    "subcategory": "خودرو",
-    "price": 15246000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%87%D8%AF%D9%81%D9%88%D9%86-%D8%AF%D8%A7%D8%AE%D9%84-%DA%AF%D9%88%D8%B4%DB%8C-Philips-E1105BK-HiFi-%D8%A8%D8%A7-%DA%A9%D9%86%D8%AA%D8%B1%D9%84-%D8%B5%D8%AF%D8%A7-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.969Z"
+    "observedAt": "2026-09-04T13:55:55.261Z"
   },
   {
     "id": "torobshop-auto-8cd92a01eb7c25f2",
@@ -3399,25 +3363,43 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.969Z"
+    "observedAt": "2026-09-04T13:55:55.261Z"
   },
   {
-    "id": "torobshop-auto-2961f6c161810850",
-    "productId": "torobshop-2961f6c161810850",
-    "name": "مانیتور منحنی ۴۹ اینچی PHILIPS 49B2U6903CH با کیفیت DQHD، وب‌کم، میکروفون، RJ45، قابلیت تنظیم ارتفاع (5120x1440، HDMI، DisplayPort، Thunderbolt 4، هاب USB) مشکی",
+    "id": "torobshop-auto-8b4d268dc0b50dc9",
+    "productId": "torobshop-8b4d268dc0b50dc9",
+    "name": "فیلیپس 27E1N1100A - مانیتور 27 اینچی Full HD، بلندگوهای داخلی، زمان پاسخگویی 1 میلی‌ثانیه (1920x1080، 100 هرتز، VGA، HDMI 1.4) مشکی",
     "brand": "",
-    "model": "مانیتور منحنی ۴۹ اینچی PHILIPS 49B2U6903CH با کیفیت DQHD، وب‌کم، میکروفون، RJ45، قابلیت تنظیم ارتفاع (5120x1440، HDMI، DisplayPort، Thunderbolt 4، هاب USB) مشکی",
+    "model": "فیلیپس 27E1N1100A - مانیتور 27 اینچی Full HD، بلندگوهای داخلی، زمان پاسخگویی 1 میلی‌ثانیه (1920x1080، 100 هرتز، VGA، HDMI 1.4) مشکی",
     "category": "auto",
     "subcategory": "خودرو",
-    "price": 299584000,
+    "price": 36590000,
     "currency": "IRT",
     "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%85%D9%86%D8%AD%D9%86%DB%8C-%DB%B4%DB%B9-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-PHILIPS-49B2U6903CH-%D8%A8%D8%A7-%DA%A9%DB%8C%D9%81%DB%8C%D8%AA-DQHD-%D9%88%D8%A8-%DA%A9%D9%85-%D9%85%DB%8C%DA%A9%D8%B1%D9%88%D9%81%D9%88%D9%86-RJ45-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-5120x1440-HDMI-DisplayPort-Thunderbolt-4-%D9%87%D8%A7%D8%A8-USB-%D9%85%D8%B4%DA%A9%DB%8C",
+    "productUrl": "https://torobshop.com/products/%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-27E1N1100A-%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-27-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-Full-HD-%D8%A8%D9%84%D9%86%D8%AF%DA%AF%D9%88%D9%87%D8%A7%DB%8C-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%B2%D9%85%D8%A7%D9%86-%D9%BE%D8%A7%D8%B3%D8%AE%DA%AF%D9%88%DB%8C%DB%8C-1-%D9%85%DB%8C%D9%84%DB%8C-%D8%AB%D8%A7%D9%86%DB%8C%D9%87-1920x1080-100-%D9%87%D8%B1%D8%AA%D8%B2-VGA-HDMI-1-4-%D9%85%D8%B4%DA%A9%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.969Z"
+    "observedAt": "2026-09-04T13:55:55.261Z"
+  },
+  {
+    "id": "torobshop-auto-2aa12aa20262b96c",
+    "productId": "torobshop-2aa12aa20262b96c",
+    "name": "هدفون داخل گوشی Philips E1105BK HiFi با کنترل صدا، مشکی",
+    "brand": "",
+    "model": "هدفون داخل گوشی Philips E1105BK HiFi با کنترل صدا، مشکی",
+    "category": "auto",
+    "subcategory": "خودرو",
+    "price": 15246000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%87%D8%AF%D9%81%D9%88%D9%86-%D8%AF%D8%A7%D8%AE%D9%84-%DA%AF%D9%88%D8%B4%DB%8C-Philips-E1105BK-HiFi-%D8%A8%D8%A7-%DA%A9%D9%86%D8%AA%D8%B1%D9%84-%D8%B5%D8%AF%D8%A7-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T13:55:55.261Z"
   },
   {
     "id": "torobshop-auto-10055e541e3441a4",
@@ -3435,25 +3417,25 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.969Z"
+    "observedAt": "2026-09-04T13:55:55.261Z"
   },
   {
-    "id": "torobshop-auto-231a8680a663a06f",
-    "productId": "torobshop-231a8680a663a06f",
-    "name": "هدفون ورزشی بی‌سیم فیلیپس مدل Open-Ear بژ",
+    "id": "torobshop-auto-2961f6c161810850",
+    "productId": "torobshop-2961f6c161810850",
+    "name": "مانیتور منحنی ۴۹ اینچی PHILIPS 49B2U6903CH با کیفیت DQHD، وب‌کم، میکروفون، RJ45، قابلیت تنظیم ارتفاع (5120x1440، HDMI، DisplayPort، Thunderbolt 4، هاب USB) مشکی",
     "brand": "",
-    "model": "هدفون ورزشی بی‌سیم فیلیپس مدل Open-Ear بژ",
+    "model": "مانیتور منحنی ۴۹ اینچی PHILIPS 49B2U6903CH با کیفیت DQHD، وب‌کم، میکروفون، RJ45، قابلیت تنظیم ارتفاع (5120x1440، HDMI، DisplayPort، Thunderbolt 4، هاب USB) مشکی",
     "category": "auto",
     "subcategory": "خودرو",
-    "price": 14738000,
+    "price": 299584000,
     "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%87%D8%AF%D9%81%D9%88%D9%86-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D8%A8%DB%8C-%D8%B3%DB%8C%D9%85-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%85%D8%AF%D9%84-Open-Ear-%D8%A8%DA%98",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%85%D9%86%D8%AD%D9%86%DB%8C-%DB%B4%DB%B9-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-PHILIPS-49B2U6903CH-%D8%A8%D8%A7-%DA%A9%DB%8C%D9%81%DB%8C%D8%AA-DQHD-%D9%88%D8%A8-%DA%A9%D9%85-%D9%85%DB%8C%DA%A9%D8%B1%D9%88%D9%81%D9%88%D9%86-RJ45-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-5120x1440-HDMI-DisplayPort-Thunderbolt-4-%D9%87%D8%A7%D8%A8-USB-%D9%85%D8%B4%DA%A9%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.969Z"
+    "observedAt": "2026-09-04T13:55:55.261Z"
   },
   {
     "id": "torobshop-auto-f6139cf71fa544af",
@@ -3471,43 +3453,25 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.969Z"
+    "observedAt": "2026-09-04T13:55:55.261Z"
   },
   {
-    "id": "torobshop-auto-712138d0bed8d76a",
-    "productId": "torobshop-712138d0bed8d76a",
-    "name": "هدفون توگوشی فیلیپس مدل TAE1209BK مشکی",
+    "id": "torobshop-auto-231a8680a663a06f",
+    "productId": "torobshop-231a8680a663a06f",
+    "name": "هدفون ورزشی بی‌سیم فیلیپس مدل Open-Ear بژ",
     "brand": "",
-    "model": "هدفون توگوشی فیلیپس مدل TAE1209BK مشکی",
+    "model": "هدفون ورزشی بی‌سیم فیلیپس مدل Open-Ear بژ",
     "category": "auto",
     "subcategory": "خودرو",
     "price": 14738000,
     "currency": "IRT",
     "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%87%D8%AF%D9%81%D9%88%D9%86-%D8%AA%D9%88%DA%AF%D9%88%D8%B4%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%85%D8%AF%D9%84-TAE1209BK-%D9%85%D8%B4%DA%A9%DB%8C",
+    "productUrl": "https://torobshop.com/products/%D9%87%D8%AF%D9%81%D9%88%D9%86-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D8%A8%DB%8C-%D8%B3%DB%8C%D9%85-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%85%D8%AF%D9%84-Open-Ear-%D8%A8%DA%98",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.969Z"
-  },
-  {
-    "id": "torobshop-auto-a0357d058917fff7",
-    "productId": "torobshop-a0357d058917fff7",
-    "name": "مانیتور فیلیپس 252B9 - 25 اینچ WUXGA، قابلیت تنظیم ارتفاع (1900x1200، 60 هرتز، VGA، DVI، HDMI، DisplayPort، هاب USB) مشکی",
-    "brand": "",
-    "model": "مانیتور فیلیپس 252B9 - 25 اینچ WUXGA، قابلیت تنظیم ارتفاع (1900x1200، 60 هرتز، VGA، DVI، HDMI، DisplayPort، هاب USB) مشکی",
-    "category": "auto",
-    "subcategory": "خودرو",
-    "price": 66828000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-252B9-25-%D8%A7%DB%8C%D9%86%DA%86-WUXGA-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-1900x1200-60-%D9%87%D8%B1%D8%AA%D8%B2-VGA-DVI-HDMI-DisplayPort-%D9%87%D8%A7%D8%A8-USB-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.969Z"
+    "observedAt": "2026-09-04T13:55:55.261Z"
   },
   {
     "id": "torobshop-auto-2e4aeaf94d879ff9",
@@ -3525,43 +3489,43 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.969Z"
+    "observedAt": "2026-09-04T13:55:55.261Z"
   },
   {
-    "id": "torobshop-auto-f241bfdbdc958cdb",
-    "productId": "torobshop-f241bfdbdc958cdb",
-    "name": "مانیتور فیلیپس هلند Philips 328P6AUBREB سایز ۳۲ اینچ QHD با داک USB-C و پایه قابل تنظیم",
+    "id": "torobshop-auto-712138d0bed8d76a",
+    "productId": "torobshop-712138d0bed8d76a",
+    "name": "هدفون توگوشی فیلیپس مدل TAE1209BK مشکی",
     "brand": "",
-    "model": "مانیتور فیلیپس هلند Philips 328P6AUBREB سایز ۳۲ اینچ QHD با داک USB-C و پایه قابل تنظیم",
+    "model": "هدفون توگوشی فیلیپس مدل TAE1209BK مشکی",
     "category": "auto",
     "subcategory": "خودرو",
-    "price": 65558000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-328P6AUBREB-%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D8%AF%D8%A7%DA%A9-USB-C-%D8%A8%D8%A7-%D8%B5%D9%81%D8%AD%D9%87-%D9%86%D9%85%D8%A7%DB%8C%D8%B4-32-%D8%A7%DB%8C%D9%86%DA%86-QHD-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-2560x1440-60-%D9%87%D8%B1%D8%AA%D8%B2-VGA-HDMI-USB-C-RJ45-%D9%87%D8%A7%D8%A8-USB-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.969Z"
-  },
-  {
-    "id": "torobshop-auto-7400212af3648c0e",
-    "productId": "torobshop-7400212af3648c0e",
-    "name": "مانیتور لمسی عالی فیلیپس 162B9T - 16 اینچ، قابلیت تنظیم ارتفاع (1366x768، 60 هرتز، VGA، DVI، HDMI، DisplayPort، هاب USB) مشکی",
-    "brand": "",
-    "model": "مانیتور لمسی عالی فیلیپس 162B9T - 16 اینچ، قابلیت تنظیم ارتفاع (1366x768، 60 هرتز، VGA، DVI، HDMI، DisplayPort، هاب USB) مشکی",
-    "category": "auto",
-    "subcategory": "خودرو",
-    "price": 41927000,
+    "price": 14738000,
     "currency": "IRT",
     "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%84%D9%85%D8%B3%DB%8C-%D8%B9%D8%A7%D9%84%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-162B9T-16-%D8%A7%DB%8C%D9%86%DA%86-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-1366x768-60-%D9%87%D8%B1%D8%AA%D8%B2-VGA-DVI-HDMI-DisplayPort-%D9%87%D8%A7%D8%A8-USB-%D9%85%D8%B4%DA%A9%DB%8C",
+    "productUrl": "https://torobshop.com/products/%D9%87%D8%AF%D9%81%D9%88%D9%86-%D8%AA%D9%88%DA%AF%D9%88%D8%B4%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%85%D8%AF%D9%84-TAE1209BK-%D9%85%D8%B4%DA%A9%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.969Z"
+    "observedAt": "2026-09-04T13:55:55.261Z"
+  },
+  {
+    "id": "torobshop-auto-a0357d058917fff7",
+    "productId": "torobshop-a0357d058917fff7",
+    "name": "مانیتور فیلیپس 252B9 - 25 اینچ WUXGA، قابلیت تنظیم ارتفاع (1900x1200، 60 هرتز، VGA، DVI، HDMI، DisplayPort، هاب USB) مشکی",
+    "brand": "",
+    "model": "مانیتور فیلیپس 252B9 - 25 اینچ WUXGA، قابلیت تنظیم ارتفاع (1900x1200، 60 هرتز، VGA، DVI، HDMI، DisplayPort، هاب USB) مشکی",
+    "category": "auto",
+    "subcategory": "خودرو",
+    "price": 66828000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-252B9-25-%D8%A7%DB%8C%D9%86%DA%86-WUXGA-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-1900x1200-60-%D9%87%D8%B1%D8%AA%D8%B2-VGA-DVI-HDMI-DisplayPort-%D9%87%D8%A7%D8%A8-USB-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T13:55:55.261Z"
   },
   {
     "id": "torobshop-auto-5219a65546b1a882",
@@ -3579,97 +3543,43 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.969Z"
+    "observedAt": "2026-09-04T13:55:55.261Z"
   },
   {
-    "id": "torobshop-auto-667b222bc82da779",
-    "productId": "torobshop-667b222bc82da779",
-    "name": "مانیتور فیلیپس 242B1G - 24 اینچ FHD سبز، قابلیت تنظیم ارتفاع (1920x1080، 75 هرتز، VGA، DVI، HDMI، DisplayPort، هاب USB) مشکی",
+    "id": "torobshop-auto-f241bfdbdc958cdb",
+    "productId": "torobshop-f241bfdbdc958cdb",
+    "name": "مانیتور فیلیپس هلند Philips 328P6AUBREB سایز ۳۲ اینچ QHD با داک USB-C و پایه قابل تنظیم",
     "brand": "",
-    "model": "مانیتور فیلیپس 242B1G - 24 اینچ FHD سبز، قابلیت تنظیم ارتفاع (1920x1080، 75 هرتز، VGA، DVI، HDMI، DisplayPort، هاب USB) مشکی",
+    "model": "مانیتور فیلیپس هلند Philips 328P6AUBREB سایز ۳۲ اینچ QHD با داک USB-C و پایه قابل تنظیم",
     "category": "auto",
     "subcategory": "خودرو",
-    "price": 57427000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-242B1G-24-%D8%A7%DB%8C%D9%86%DA%86-FHD-%D8%B3%D8%A8%D8%B2-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-1920x1080-75-%D9%87%D8%B1%D8%AA%D8%B2-VGA-DVI-HDMI-DisplayPort-%D9%87%D8%A7%D8%A8-USB-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.969Z"
-  },
-  {
-    "id": "torobshop-auto-2734ee381987f71a",
-    "productId": "torobshop-2734ee381987f71a",
-    "name": "فیلیپس 241V8LAB - مانیتور 24 اینچی فول اچ‌دی، بلندگوهای داخلی، بدون سوسو زدن (1920x1080، 100 هرتز، VGA، HDMI) مشکی",
-    "brand": "",
-    "model": "فیلیپس 241V8LAB - مانیتور 24 اینچی فول اچ‌دی، بلندگوهای داخلی، بدون سوسو زدن (1920x1080، 100 هرتز، VGA، HDMI) مشکی",
-    "category": "auto",
-    "subcategory": "خودرو",
-    "price": 40656000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-241V8LAB-%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-24-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D9%81%D9%88%D9%84-%D8%A7%DA%86-%D8%AF%DB%8C-%D8%A8%D9%84%D9%86%D8%AF%DA%AF%D9%88%D9%87%D8%A7%DB%8C-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%D8%B3%D9%88%D8%B3%D9%88-%D8%B2%D8%AF%D9%86-1920x1080-100-%D9%87%D8%B1%D8%AA%D8%B2-VGA-HDMI-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.969Z"
-  },
-  {
-    "id": "torobshop-auto-b59055b4a9ca5ed0",
-    "productId": "torobshop-b59055b4a9ca5ed0",
-    "name": "مانیتور ۲۴ اینچی فیلیپس ۲۴۱V8AW با کیفیت Full HD، بلندگوهای داخلی، بدون سوسو زدن (۱۹۲۰x۱۰۸۰، ۷۵ هرتز، VGA، HDMI) سفید",
-    "brand": "",
-    "model": "مانیتور ۲۴ اینچی فیلیپس ۲۴۱V8AW با کیفیت Full HD، بلندگوهای داخلی، بدون سوسو زدن (۱۹۲۰x۱۰۸۰، ۷۵ هرتز، VGA، HDMI) سفید",
-    "category": "auto",
-    "subcategory": "خودرو",
-    "price": 34304000,
+    "price": 65558000,
     "currency": "IRT",
     "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%DB%B2%DB%B4-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%DB%B2%DB%B4%DB%B1V8AW-%D8%A8%D8%A7-%DA%A9%DB%8C%D9%81%DB%8C%D8%AA-Full-HD-%D8%A8%D9%84%D9%86%D8%AF%DA%AF%D9%88%D9%87%D8%A7%DB%8C-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%D8%B3%D9%88%D8%B3%D9%88-%D8%B2%D8%AF%D9%86-%DB%B1%DB%B9%DB%B2%DB%B0x%DB%B1%DB%B0%DB%B8%DB%B0-%DB%B7%DB%B5-%D9%87%D8%B1%D8%AA%D8%B2-VGA-HDMI-%D8%B3%D9%81%DB%8C%D8%AF",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-328P6AUBREB-%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D8%AF%D8%A7%DA%A9-USB-C-%D8%A8%D8%A7-%D8%B5%D9%81%D8%AD%D9%87-%D9%86%D9%85%D8%A7%DB%8C%D8%B4-32-%D8%A7%DB%8C%D9%86%DA%86-QHD-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-2560x1440-60-%D9%87%D8%B1%D8%AA%D8%B2-VGA-HDMI-USB-C-RJ45-%D9%87%D8%A7%D8%A8-USB-%D9%85%D8%B4%DA%A9%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.969Z"
+    "observedAt": "2026-09-04T13:55:55.261Z"
   },
   {
-    "id": "torobshop-auto-d1db9fdb0a981eb7",
-    "productId": "torobshop-d1db9fdb0a981eb7",
-    "name": "مانیتور فیلیپس ۲۷E1N1800AE – مانیتور ۲۷ اینچی Ultra HD، بلندگوها، قابلیت تنظیم ارتفاع، HDR10 (3840x2160، ۶۰ هرتز، HDMI 2.0، DisplayPort 1.4) مشکی",
+    "id": "torobshop-auto-7400212af3648c0e",
+    "productId": "torobshop-7400212af3648c0e",
+    "name": "مانیتور لمسی عالی فیلیپس 162B9T - 16 اینچ، قابلیت تنظیم ارتفاع (1366x768، 60 هرتز، VGA، DVI، HDMI، DisplayPort، هاب USB) مشکی",
     "brand": "",
-    "model": "مانیتور فیلیپس ۲۷E1N1800AE – مانیتور ۲۷ اینچی Ultra HD، بلندگوها، قابلیت تنظیم ارتفاع، HDR10 (3840x2160، ۶۰ هرتز، HDMI 2.0، DisplayPort 1.4) مشکی",
+    "model": "مانیتور لمسی عالی فیلیپس 162B9T - 16 اینچ، قابلیت تنظیم ارتفاع (1366x768، 60 هرتز، VGA، DVI، HDMI، DisplayPort، هاب USB) مشکی",
     "category": "auto",
     "subcategory": "خودرو",
-    "price": 60729000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%DB%B2%DB%B7E1N1800AE-%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%DB%B2%DB%B7-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-Ultra-HD-%D8%A8%D9%84%D9%86%D8%AF%DA%AF%D9%88%D9%87%D8%A7-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-HDR10-3840x2160-%DB%B6%DB%B0-%D9%87%D8%B1%D8%AA%D8%B2-HDMI-2-0-DisplayPort-1-4-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.969Z"
-  },
-  {
-    "id": "torobshop-auto-13177f1a3461cbf8",
-    "productId": "torobshop-13177f1a3461cbf8",
-    "name": "فیلیپس 32E1N3100LA - مانیتور 32 اینچی Full HD، بلندگوهای داخلی، قابل کج شدن (1920x1080، VGA، HDMI 1.4) مشکی",
-    "brand": "",
-    "model": "فیلیپس 32E1N3100LA - مانیتور 32 اینچی Full HD، بلندگوهای داخلی، قابل کج شدن (1920x1080، VGA، HDMI 1.4) مشکی",
-    "category": "auto",
-    "subcategory": "خودرو",
-    "price": 61238000,
+    "price": 41927000,
     "currency": "IRT",
     "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-32E1N3100LA-%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-32-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-Full-HD-%D8%A8%D9%84%D9%86%D8%AF%DA%AF%D9%88%D9%87%D8%A7%DB%8C-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%DA%A9%D8%AC-%D8%B4%D8%AF%D9%86-1920x1080-VGA-HDMI-1-4-%D9%85%D8%B4%DA%A9%DB%8C",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%84%D9%85%D8%B3%DB%8C-%D8%B9%D8%A7%D9%84%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-162B9T-16-%D8%A7%DB%8C%D9%86%DA%86-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-1366x768-60-%D9%87%D8%B1%D8%AA%D8%B2-VGA-DVI-HDMI-DisplayPort-%D9%87%D8%A7%D8%A8-USB-%D9%85%D8%B4%DA%A9%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.969Z"
+    "observedAt": "2026-09-04T13:55:55.261Z"
   },
   {
     "id": "torobshop-auto-caf67fb53869dc8d",
@@ -3687,7 +3597,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.969Z"
+    "observedAt": "2026-09-04T13:55:55.261Z"
   },
   {
     "id": "torobshop-auto-42a978739edad1b3",
@@ -3705,43 +3615,97 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.969Z"
+    "observedAt": "2026-09-04T13:55:55.261Z"
   },
   {
-    "id": "torobshop-auto-db75e7774c65ead5",
-    "productId": "torobshop-db75e7774c65ead5",
-    "name": "مانیتور ۲۷ اینچی فیلیپس ۲۷۱V8AW با کیفیت Full HD، بلندگوهای داخلی، بدون سوسو زدن (۱۹۲۰x۱۰۸۰، ۷۵ هرتز، VGA، HDMI) سفید",
+    "id": "torobshop-auto-667b222bc82da779",
+    "productId": "torobshop-667b222bc82da779",
+    "name": "مانیتور فیلیپس 242B1G - 24 اینچ FHD سبز، قابلیت تنظیم ارتفاع (1920x1080، 75 هرتز، VGA، DVI، HDMI، DisplayPort، هاب USB) مشکی",
     "brand": "",
-    "model": "مانیتور ۲۷ اینچی فیلیپس ۲۷۱V8AW با کیفیت Full HD، بلندگوهای داخلی، بدون سوسو زدن (۱۹۲۰x۱۰۸۰، ۷۵ هرتز، VGA، HDMI) سفید",
+    "model": "مانیتور فیلیپس 242B1G - 24 اینچ FHD سبز، قابلیت تنظیم ارتفاع (1920x1080، 75 هرتز، VGA، DVI، HDMI، DisplayPort، هاب USB) مشکی",
     "category": "auto",
     "subcategory": "خودرو",
-    "price": 41672000,
+    "price": 57427000,
     "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%DB%B2%DB%B7-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%DB%B2%DB%B7%DB%B1V8AW-%D8%A8%D8%A7-%DA%A9%DB%8C%D9%81%DB%8C%D8%AA-Full-HD-%D8%A8%D9%84%D9%86%D8%AF%DA%AF%D9%88%D9%87%D8%A7%DB%8C-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%D8%B3%D9%88%D8%B3%D9%88-%D8%B2%D8%AF%D9%86-%DB%B1%DB%B9%DB%B2%DB%B0x%DB%B1%DB%B0%DB%B8%DB%B0-%DB%B7%DB%B5-%D9%87%D8%B1%D8%AA%D8%B2-VGA-HDMI-%D8%B3%D9%81%DB%8C%D8%AF",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-242B1G-24-%D8%A7%DB%8C%D9%86%DA%86-FHD-%D8%B3%D8%A8%D8%B2-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-1920x1080-75-%D9%87%D8%B1%D8%AA%D8%B2-VGA-DVI-HDMI-DisplayPort-%D9%87%D8%A7%D8%A8-USB-%D9%85%D8%B4%DA%A9%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.969Z"
+    "observedAt": "2026-09-04T13:55:55.261Z"
   },
   {
-    "id": "torobshop-auto-1acb3967a4975e9e",
-    "productId": "torobshop-1acb3967a4975e9e",
-    "name": "مانیتور فیلیپس هلند Philips 276B9 سایز ۲۷ اینچ QHD با داک USB-C و پایه قابل تنظیم",
+    "id": "torobshop-auto-2734ee381987f71a",
+    "productId": "torobshop-2734ee381987f71a",
+    "name": "فیلیپس 241V8LAB - مانیتور 24 اینچی فول اچ‌دی، بلندگوهای داخلی، بدون سوسو زدن (1920x1080، 100 هرتز، VGA، HDMI) مشکی",
     "brand": "",
-    "model": "مانیتور فیلیپس هلند Philips 276B9 سایز ۲۷ اینچ QHD با داک USB-C و پایه قابل تنظیم",
+    "model": "فیلیپس 241V8LAB - مانیتور 24 اینچی فول اچ‌دی، بلندگوهای داخلی، بدون سوسو زدن (1920x1080، 100 هرتز، VGA، HDMI) مشکی",
     "category": "auto",
     "subcategory": "خودرو",
-    "price": 67081000,
+    "price": 40656000,
     "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-276B9-%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-27-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-QHD-%D8%A8%D8%A7-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-USB-C-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-2560x1440-75-%D9%87%D8%B1%D8%AA%D8%B2-HDMI-DisplayPort-USB-C-%D9%87%D8%A7%D8%A8-USB-%D9%85%D8%B4%DA%A9%DB%8C",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-241V8LAB-%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-24-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D9%81%D9%88%D9%84-%D8%A7%DA%86-%D8%AF%DB%8C-%D8%A8%D9%84%D9%86%D8%AF%DA%AF%D9%88%D9%87%D8%A7%DB%8C-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%D8%B3%D9%88%D8%B3%D9%88-%D8%B2%D8%AF%D9%86-1920x1080-100-%D9%87%D8%B1%D8%AA%D8%B2-VGA-HDMI-%D9%85%D8%B4%DA%A9%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.969Z"
+    "observedAt": "2026-09-04T13:55:55.261Z"
+  },
+  {
+    "id": "torobshop-auto-b59055b4a9ca5ed0",
+    "productId": "torobshop-b59055b4a9ca5ed0",
+    "name": "مانیتور ۲۴ اینچی فیلیپس ۲۴۱V8AW با کیفیت Full HD، بلندگوهای داخلی، بدون سوسو زدن (۱۹۲۰x۱۰۸۰، ۷۵ هرتز، VGA، HDMI) سفید",
+    "brand": "",
+    "model": "مانیتور ۲۴ اینچی فیلیپس ۲۴۱V8AW با کیفیت Full HD، بلندگوهای داخلی، بدون سوسو زدن (۱۹۲۰x۱۰۸۰، ۷۵ هرتز، VGA، HDMI) سفید",
+    "category": "auto",
+    "subcategory": "خودرو",
+    "price": 34304000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%DB%B2%DB%B4-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%DB%B2%DB%B4%DB%B1V8AW-%D8%A8%D8%A7-%DA%A9%DB%8C%D9%81%DB%8C%D8%AA-Full-HD-%D8%A8%D9%84%D9%86%D8%AF%DA%AF%D9%88%D9%87%D8%A7%DB%8C-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%D8%B3%D9%88%D8%B3%D9%88-%D8%B2%D8%AF%D9%86-%DB%B1%DB%B9%DB%B2%DB%B0x%DB%B1%DB%B0%DB%B8%DB%B0-%DB%B7%DB%B5-%D9%87%D8%B1%D8%AA%D8%B2-VGA-HDMI-%D8%B3%D9%81%DB%8C%D8%AF",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T13:55:55.261Z"
+  },
+  {
+    "id": "torobshop-auto-d1db9fdb0a981eb7",
+    "productId": "torobshop-d1db9fdb0a981eb7",
+    "name": "مانیتور فیلیپس ۲۷E1N1800AE – مانیتور ۲۷ اینچی Ultra HD، بلندگوها، قابلیت تنظیم ارتفاع، HDR10 (3840x2160، ۶۰ هرتز، HDMI 2.0، DisplayPort 1.4) مشکی",
+    "brand": "",
+    "model": "مانیتور فیلیپس ۲۷E1N1800AE – مانیتور ۲۷ اینچی Ultra HD، بلندگوها، قابلیت تنظیم ارتفاع، HDR10 (3840x2160، ۶۰ هرتز، HDMI 2.0، DisplayPort 1.4) مشکی",
+    "category": "auto",
+    "subcategory": "خودرو",
+    "price": 60729000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%DB%B2%DB%B7E1N1800AE-%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%DB%B2%DB%B7-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-Ultra-HD-%D8%A8%D9%84%D9%86%D8%AF%DA%AF%D9%88%D9%87%D8%A7-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-HDR10-3840x2160-%DB%B6%DB%B0-%D9%87%D8%B1%D8%AA%D8%B2-HDMI-2-0-DisplayPort-1-4-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T13:55:55.261Z"
+  },
+  {
+    "id": "torobshop-auto-13177f1a3461cbf8",
+    "productId": "torobshop-13177f1a3461cbf8",
+    "name": "فیلیپس 32E1N3100LA - مانیتور 32 اینچی Full HD، بلندگوهای داخلی، قابل کج شدن (1920x1080، VGA، HDMI 1.4) مشکی",
+    "brand": "",
+    "model": "فیلیپس 32E1N3100LA - مانیتور 32 اینچی Full HD، بلندگوهای داخلی، قابل کج شدن (1920x1080، VGA، HDMI 1.4) مشکی",
+    "category": "auto",
+    "subcategory": "خودرو",
+    "price": 61238000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-32E1N3100LA-%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-32-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-Full-HD-%D8%A8%D9%84%D9%86%D8%AF%DA%AF%D9%88%D9%87%D8%A7%DB%8C-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%DA%A9%D8%AC-%D8%B4%D8%AF%D9%86-1920x1080-VGA-HDMI-1-4-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T13:55:55.261Z"
   },
   {
     "id": "torobshop-auto-226a6dfcab93ffe2",
@@ -3759,7 +3723,43 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.969Z"
+    "observedAt": "2026-09-04T13:55:55.261Z"
+  },
+  {
+    "id": "torobshop-auto-db75e7774c65ead5",
+    "productId": "torobshop-db75e7774c65ead5",
+    "name": "مانیتور ۲۷ اینچی فیلیپس ۲۷۱V8AW با کیفیت Full HD، بلندگوهای داخلی، بدون سوسو زدن (۱۹۲۰x۱۰۸۰، ۷۵ هرتز، VGA، HDMI) سفید",
+    "brand": "",
+    "model": "مانیتور ۲۷ اینچی فیلیپس ۲۷۱V8AW با کیفیت Full HD، بلندگوهای داخلی، بدون سوسو زدن (۱۹۲۰x۱۰۸۰، ۷۵ هرتز، VGA، HDMI) سفید",
+    "category": "auto",
+    "subcategory": "خودرو",
+    "price": 41672000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%DB%B2%DB%B7-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%DB%B2%DB%B7%DB%B1V8AW-%D8%A8%D8%A7-%DA%A9%DB%8C%D9%81%DB%8C%D8%AA-Full-HD-%D8%A8%D9%84%D9%86%D8%AF%DA%AF%D9%88%D9%87%D8%A7%DB%8C-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%D8%B3%D9%88%D8%B3%D9%88-%D8%B2%D8%AF%D9%86-%DB%B1%DB%B9%DB%B2%DB%B0x%DB%B1%DB%B0%DB%B8%DB%B0-%DB%B7%DB%B5-%D9%87%D8%B1%D8%AA%D8%B2-VGA-HDMI-%D8%B3%D9%81%DB%8C%D8%AF",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T13:55:55.261Z"
+  },
+  {
+    "id": "torobshop-auto-1acb3967a4975e9e",
+    "productId": "torobshop-1acb3967a4975e9e",
+    "name": "مانیتور فیلیپس هلند Philips 276B9 سایز ۲۷ اینچ QHD با داک USB-C و پایه قابل تنظیم",
+    "brand": "",
+    "model": "مانیتور فیلیپس هلند Philips 276B9 سایز ۲۷ اینچ QHD با داک USB-C و پایه قابل تنظیم",
+    "category": "auto",
+    "subcategory": "خودرو",
+    "price": 67081000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-276B9-%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-27-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-QHD-%D8%A8%D8%A7-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-USB-C-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-2560x1440-75-%D9%87%D8%B1%D8%AA%D8%B2-HDMI-DisplayPort-USB-C-%D9%87%D8%A7%D8%A8-USB-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T13:55:55.261Z"
   },
   {
     "id": "torobshop-auto-34bb04f7987b2eb8",
@@ -3777,79 +3777,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.969Z"
-  },
-  {
-    "id": "torobshop-auto-7406803b18ab5cc6",
-    "productId": "torobshop-7406803b18ab5cc6",
-    "name": "مانیتور ۲۴ اینچی فول اچ‌دی فیلیپس مدل ۲۴E1N1300A، بلندگوها (۱۹۲۰x۱۰۸۰، ۱۰۰ هرتز، HDMI، USB-C (قدرت ۶۵ وات)، هاب USB) مشکی",
-    "brand": "",
-    "model": "مانیتور ۲۴ اینچی فول اچ‌دی فیلیپس مدل ۲۴E1N1300A، بلندگوها (۱۹۲۰x۱۰۸۰، ۱۰۰ هرتز، HDMI، USB-C (قدرت ۶۵ وات)، هاب USB) مشکی",
-    "category": "auto",
-    "subcategory": "خودرو",
-    "price": 47517000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%DB%B2%DB%B4-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D9%81%D9%88%D9%84-%D8%A7%DA%86-%D8%AF%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%85%D8%AF%D9%84-%DB%B2%DB%B4E1N1300A-%D8%A8%D9%84%D9%86%D8%AF%DA%AF%D9%88%D9%87%D8%A7-%DB%B1%DB%B9%DB%B2%DB%B0x%DB%B1%DB%B0%DB%B8%DB%B0-%DB%B1%DB%B0%DB%B0-%D9%87%D8%B1%D8%AA%D8%B2-HDMI-USB-C-%D9%82%D8%AF%D8%B1%D8%AA-%DB%B6%DB%B5-%D9%88%D8%A7%D8%AA-%D9%87%D8%A7%D8%A8-USB-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.969Z"
-  },
-  {
-    "id": "torobshop-auto-176747b2a6b3c8bf",
-    "productId": "torobshop-176747b2a6b3c8bf",
-    "name": "هدفون داخل گوشی فیلیپس مدل TAE5008BK/00 با میکروفون | هدفون سیمی سبک | اتصال USB-C | کابل 1.2 متری | ریموت کنترل درون خطی | 3 سایز | صدای شفاف و بیس قدرتمند | مشکی",
-    "brand": "",
-    "model": "هدفون داخل گوشی فیلیپس مدل TAE5008BK/00 با میکروفون | هدفون سیمی سبک | اتصال USB-C | کابل 1.2 متری | ریموت کنترل درون خطی | 3 سایز | صدای شفاف و بیس قدرتمند | مشکی",
-    "category": "auto",
-    "subcategory": "خودرو",
-    "price": 11180000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%87%D8%AF%D9%81%D9%88%D9%86-%D8%AF%D8%A7%D8%AE%D9%84-%DA%AF%D9%88%D8%B4%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%85%D8%AF%D9%84-TAE5008BK-00-%D8%A8%D8%A7-%D9%85%DB%8C%DA%A9%D8%B1%D9%88%D9%81%D9%88%D9%86-%D9%87%D8%AF%D9%81%D9%88%D9%86-%D8%B3%DB%8C%D9%85%DB%8C-%D8%B3%D8%A8%DA%A9-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-USB-C-%DA%A9%D8%A7%D8%A8%D9%84-1-2-%D9%85%D8%AA%D8%B1%DB%8C-%D8%B1%DB%8C%D9%85%D9%88%D8%AA-%DA%A9%D9%86%D8%AA%D8%B1%D9%84-%D8%AF%D8%B1%D9%88%D9%86-%D8%AE%D8%B7%DB%8C-3-%D8%B3%D8%A7%DB%8C%D8%B2-%D8%B5%D8%AF%D8%A7%DB%8C-%D8%B4%D9%81%D8%A7%D9%81-%D9%88-%D8%A8%DB%8C%D8%B3-%D9%82%D8%AF%D8%B1%D8%AA%D9%85%D9%86%D8%AF-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.969Z"
-  },
-  {
-    "id": "torobshop-auto-1b01f5a6fb5eb1c5",
-    "productId": "torobshop-1b01f5a6fb5eb1c5",
-    "name": "ساندبار فیلیپس TAB8507/10 با ساب ووفر کابلی 3.1 اینچی، دالبی اتموس، صدای سینمایی، HDMI eARC، 600 وات",
-    "brand": "",
-    "model": "ساندبار فیلیپس TAB8507/10 با ساب ووفر کابلی 3.1 اینچی، دالبی اتموس، صدای سینمایی، HDMI eARC، 600 وات",
-    "category": "auto",
-    "subcategory": "خودرو",
-    "price": 79025000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%A7%D9%86%D8%AF%D8%A8%D8%A7%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-TAB8507-10-%D8%A8%D8%A7-%D8%B3%D8%A7%D8%A8-%D9%88%D9%88%D9%81%D8%B1-%DA%A9%D8%A7%D8%A8%D9%84%DB%8C-3-1-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D8%AF%D8%A7%D9%84%D8%A8%DB%8C-%D8%A7%D8%AA%D9%85%D9%88%D8%B3-%D8%B5%D8%AF%D8%A7%DB%8C-%D8%B3%DB%8C%D9%86%D9%85%D8%A7%DB%8C%DB%8C-HDMI-eARC-600-%D9%88%D8%A7%D8%AA-2",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.969Z"
-  },
-  {
-    "id": "torobshop-auto-9b16b6ebae742a59",
-    "productId": "torobshop-9b16b6ebae742a59",
-    "name": "تلویزیون هوشمند Philips Ambilight 65OLED759 4K OLED - صفحه نمایش 65 اینچی با P5 AI Perfect Picture Ultra HD، سیستم عامل Titan، Dolby Vision و Dolby Atmos، با Alexa و Google Assistant کار می‌کند.",
-    "brand": "گوگل",
-    "model": "تلویزیون هوشمند Philips Ambilight 65OLED759 4K OLED - صفحه نمایش 65 اینچی با P5 AI Perfect Picture Ultra HD، سیستم عامل Titan، Dolby Vision و Dolby Atmos، با Alexa و Google Assistant کار می‌کند.",
-    "category": "auto",
-    "subcategory": "خودرو",
-    "price": 406560000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-Philips-Ambilight-65OLED759-4K-OLED-%D8%B5%D9%81%D8%AD%D9%87-%D9%86%D9%85%D8%A7%DB%8C%D8%B4-65-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D8%A8%D8%A7-P5-AI-Perfect-Picture-Ultra-HD-%D8%B3%DB%8C%D8%B3%D8%AA%D9%85-%D8%B9%D8%A7%D9%85%D9%84-Titan-Dolby-Vision-%D9%88-Dolby-Atmos-%D8%A8%D8%A7-Alexa-%D9%88-Google-Assistant-%DA%A9%D8%A7%D8%B1-%D9%85%DB%8C-%DA%A9%D9%86%D8%AF",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.969Z"
+    "observedAt": "2026-09-04T13:55:55.261Z"
   },
   {
     "id": "torobshop-auto-1ac684a13e625548",
@@ -3867,7 +3795,79 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.969Z"
+    "observedAt": "2026-09-04T13:55:55.261Z"
+  },
+  {
+    "id": "torobshop-auto-7406803b18ab5cc6",
+    "productId": "torobshop-7406803b18ab5cc6",
+    "name": "مانیتور ۲۴ اینچی فول اچ‌دی فیلیپس مدل ۲۴E1N1300A، بلندگوها (۱۹۲۰x۱۰۸۰، ۱۰۰ هرتز، HDMI، USB-C (قدرت ۶۵ وات)، هاب USB) مشکی",
+    "brand": "",
+    "model": "مانیتور ۲۴ اینچی فول اچ‌دی فیلیپس مدل ۲۴E1N1300A، بلندگوها (۱۹۲۰x۱۰۸۰، ۱۰۰ هرتز، HDMI، USB-C (قدرت ۶۵ وات)، هاب USB) مشکی",
+    "category": "auto",
+    "subcategory": "خودرو",
+    "price": 47517000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%DB%B2%DB%B4-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D9%81%D9%88%D9%84-%D8%A7%DA%86-%D8%AF%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%85%D8%AF%D9%84-%DB%B2%DB%B4E1N1300A-%D8%A8%D9%84%D9%86%D8%AF%DA%AF%D9%88%D9%87%D8%A7-%DB%B1%DB%B9%DB%B2%DB%B0x%DB%B1%DB%B0%DB%B8%DB%B0-%DB%B1%DB%B0%DB%B0-%D9%87%D8%B1%D8%AA%D8%B2-HDMI-USB-C-%D9%82%D8%AF%D8%B1%D8%AA-%DB%B6%DB%B5-%D9%88%D8%A7%D8%AA-%D9%87%D8%A7%D8%A8-USB-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T13:55:55.261Z"
+  },
+  {
+    "id": "torobshop-auto-176747b2a6b3c8bf",
+    "productId": "torobshop-176747b2a6b3c8bf",
+    "name": "هدفون داخل گوشی فیلیپس مدل TAE5008BK/00 با میکروفون | هدفون سیمی سبک | اتصال USB-C | کابل 1.2 متری | ریموت کنترل درون خطی | 3 سایز | صدای شفاف و بیس قدرتمند | مشکی",
+    "brand": "",
+    "model": "هدفون داخل گوشی فیلیپس مدل TAE5008BK/00 با میکروفون | هدفون سیمی سبک | اتصال USB-C | کابل 1.2 متری | ریموت کنترل درون خطی | 3 سایز | صدای شفاف و بیس قدرتمند | مشکی",
+    "category": "auto",
+    "subcategory": "خودرو",
+    "price": 11180000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%87%D8%AF%D9%81%D9%88%D9%86-%D8%AF%D8%A7%D8%AE%D9%84-%DA%AF%D9%88%D8%B4%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%85%D8%AF%D9%84-TAE5008BK-00-%D8%A8%D8%A7-%D9%85%DB%8C%DA%A9%D8%B1%D9%88%D9%81%D9%88%D9%86-%D9%87%D8%AF%D9%81%D9%88%D9%86-%D8%B3%DB%8C%D9%85%DB%8C-%D8%B3%D8%A8%DA%A9-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-USB-C-%DA%A9%D8%A7%D8%A8%D9%84-1-2-%D9%85%D8%AA%D8%B1%DB%8C-%D8%B1%DB%8C%D9%85%D9%88%D8%AA-%DA%A9%D9%86%D8%AA%D8%B1%D9%84-%D8%AF%D8%B1%D9%88%D9%86-%D8%AE%D8%B7%DB%8C-3-%D8%B3%D8%A7%DB%8C%D8%B2-%D8%B5%D8%AF%D8%A7%DB%8C-%D8%B4%D9%81%D8%A7%D9%81-%D9%88-%D8%A8%DB%8C%D8%B3-%D9%82%D8%AF%D8%B1%D8%AA%D9%85%D9%86%D8%AF-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T13:55:55.261Z"
+  },
+  {
+    "id": "torobshop-auto-1b01f5a6fb5eb1c5",
+    "productId": "torobshop-1b01f5a6fb5eb1c5",
+    "name": "ساندبار فیلیپس TAB8507/10 با ساب ووفر کابلی 3.1 اینچی، دالبی اتموس، صدای سینمایی، HDMI eARC، 600 وات",
+    "brand": "",
+    "model": "ساندبار فیلیپس TAB8507/10 با ساب ووفر کابلی 3.1 اینچی، دالبی اتموس، صدای سینمایی، HDMI eARC، 600 وات",
+    "category": "auto",
+    "subcategory": "خودرو",
+    "price": 79025000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%A7%D9%86%D8%AF%D8%A8%D8%A7%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-TAB8507-10-%D8%A8%D8%A7-%D8%B3%D8%A7%D8%A8-%D9%88%D9%88%D9%81%D8%B1-%DA%A9%D8%A7%D8%A8%D9%84%DB%8C-3-1-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D8%AF%D8%A7%D9%84%D8%A8%DB%8C-%D8%A7%D8%AA%D9%85%D9%88%D8%B3-%D8%B5%D8%AF%D8%A7%DB%8C-%D8%B3%DB%8C%D9%86%D9%85%D8%A7%DB%8C%DB%8C-HDMI-eARC-600-%D9%88%D8%A7%D8%AA-2",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T13:55:55.261Z"
+  },
+  {
+    "id": "torobshop-auto-9b16b6ebae742a59",
+    "productId": "torobshop-9b16b6ebae742a59",
+    "name": "تلویزیون هوشمند Philips Ambilight 65OLED759 4K OLED - صفحه نمایش 65 اینچی با P5 AI Perfect Picture Ultra HD، سیستم عامل Titan، Dolby Vision و Dolby Atmos، با Alexa و Google Assistant کار می‌کند.",
+    "brand": "گوگل",
+    "model": "تلویزیون هوشمند Philips Ambilight 65OLED759 4K OLED - صفحه نمایش 65 اینچی با P5 AI Perfect Picture Ultra HD، سیستم عامل Titan، Dolby Vision و Dolby Atmos، با Alexa و Google Assistant کار می‌کند.",
+    "category": "auto",
+    "subcategory": "خودرو",
+    "price": 406560000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-Philips-Ambilight-65OLED759-4K-OLED-%D8%B5%D9%81%D8%AD%D9%87-%D9%86%D9%85%D8%A7%DB%8C%D8%B4-65-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D8%A8%D8%A7-P5-AI-Perfect-Picture-Ultra-HD-%D8%B3%DB%8C%D8%B3%D8%AA%D9%85-%D8%B9%D8%A7%D9%85%D9%84-Titan-Dolby-Vision-%D9%88-Dolby-Atmos-%D8%A8%D8%A7-Alexa-%D9%88-Google-Assistant-%DA%A9%D8%A7%D8%B1-%D9%85%DB%8C-%DA%A9%D9%86%D8%AF",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T13:55:55.261Z"
   },
   {
     "id": "torobshop-auto-0ef7eb89998918af",
@@ -3885,7 +3885,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.969Z"
+    "observedAt": "2026-09-04T13:55:55.261Z"
   },
   {
     "id": "torobshop-auto-28fa9f296d3edd2c",
@@ -3903,7 +3903,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.969Z"
+    "observedAt": "2026-09-04T13:55:55.261Z"
   },
   {
     "id": "torobshop-auto-0a56e024ea7c3e6c",
@@ -3921,7 +3921,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.969Z"
+    "observedAt": "2026-09-04T13:55:55.261Z"
   },
   {
     "id": "torobshop-auto-1123da8edef7210f",
@@ -3939,25 +3939,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.969Z"
-  },
-  {
-    "id": "torobshop-auto-f2475d629ba82cb9",
-    "productId": "torobshop-f2475d629ba82cb9",
-    "name": "مانیتور ۲۷ اینچی فیلیپس مدل ۲۷E2N1110 از برند Zoll با کیفیت FHD، نرخ نوسازی ۱۲۰ هرتز، پنل IPS، زمان پاسخگویی ۱ میلی‌ثانیه MPRT، قابلیت همگام‌سازی تطبیقی (۱۹۲۰x۱۰۸۰، یک پورت HDMI 1.4، پورت DP) ساخت شرکت Schwarz/Rot",
-    "brand": "",
-    "model": "مانیتور ۲۷ اینچی فیلیپس مدل ۲۷E2N1110 از برند Zoll با کیفیت FHD، نرخ نوسازی ۱۲۰ هرتز، پنل IPS، زمان پاسخگویی ۱ میلی‌ثانیه MPRT، قابلیت همگام‌سازی تطبیقی (۱۹۲۰x۱۰۸۰، یک پورت HDMI 1.4، پورت DP) ساخت شرکت Schwarz/Rot",
-    "category": "auto",
-    "subcategory": "خودرو",
-    "price": 29729000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%DB%B2%DB%B7-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%85%D8%AF%D9%84-%DB%B2%DB%B7E2N1110-%D8%A7%D8%B2-%D8%A8%D8%B1%D9%86%D8%AF-Zoll-%D8%A8%D8%A7-%DA%A9%DB%8C%D9%81%DB%8C%D8%AA-FHD-%D9%86%D8%B1%D8%AE-%D9%86%D9%88%D8%B3%D8%A7%D8%B2%DB%8C-%DB%B1%DB%B2%DB%B0-%D9%87%D8%B1%D8%AA%D8%B2-%D9%BE%D9%86%D9%84-IPS-%D8%B2%D9%85%D8%A7%D9%86-%D9%BE%D8%A7%D8%B3%D8%AE%DA%AF%D9%88%DB%8C%DB%8C-%DB%B1-%D9%85%DB%8C%D9%84%DB%8C-%D8%AB%D8%A7%D9%86%DB%8C%D9%87-MPRT-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D9%87%D9%85%DA%AF%D8%A7%D9%85-%D8%B3%D8%A7%D8%B2%DB%8C-%D8%AA%D8%B7%D8%A8%DB%8C%D9%82%DB%8C-%DB%B1%DB%B9%DB%B2%DB%B0x%DB%B1%DB%B0%DB%B8%DB%B0-%DB%8C%DA%A9-%D9%BE%D9%88%D8%B1%D8%AA-HDMI-1-4-%D9%BE%D9%88%D8%B1%D8%AA-DP-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%B4%D8%B1%DA%A9%D8%AA-Schwarz-Rot",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.969Z"
+    "observedAt": "2026-09-04T13:55:55.261Z"
   },
   {
     "id": "torobshop-auto-4fcaa05ae27e136c",
@@ -3975,7 +3957,25 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.969Z"
+    "observedAt": "2026-09-04T13:55:55.261Z"
+  },
+  {
+    "id": "torobshop-auto-f2475d629ba82cb9",
+    "productId": "torobshop-f2475d629ba82cb9",
+    "name": "مانیتور ۲۷ اینچی فیلیپس مدل ۲۷E2N1110 از برند Zoll با کیفیت FHD، نرخ نوسازی ۱۲۰ هرتز، پنل IPS، زمان پاسخگویی ۱ میلی‌ثانیه MPRT، قابلیت همگام‌سازی تطبیقی (۱۹۲۰x۱۰۸۰، یک پورت HDMI 1.4، پورت DP) ساخت شرکت Schwarz/Rot",
+    "brand": "",
+    "model": "مانیتور ۲۷ اینچی فیلیپس مدل ۲۷E2N1110 از برند Zoll با کیفیت FHD، نرخ نوسازی ۱۲۰ هرتز، پنل IPS، زمان پاسخگویی ۱ میلی‌ثانیه MPRT، قابلیت همگام‌سازی تطبیقی (۱۹۲۰x۱۰۸۰، یک پورت HDMI 1.4، پورت DP) ساخت شرکت Schwarz/Rot",
+    "category": "auto",
+    "subcategory": "خودرو",
+    "price": 29729000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%DB%B2%DB%B7-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%85%D8%AF%D9%84-%DB%B2%DB%B7E2N1110-%D8%A7%D8%B2-%D8%A8%D8%B1%D9%86%D8%AF-Zoll-%D8%A8%D8%A7-%DA%A9%DB%8C%D9%81%DB%8C%D8%AA-FHD-%D9%86%D8%B1%D8%AE-%D9%86%D9%88%D8%B3%D8%A7%D8%B2%DB%8C-%DB%B1%DB%B2%DB%B0-%D9%87%D8%B1%D8%AA%D8%B2-%D9%BE%D9%86%D9%84-IPS-%D8%B2%D9%85%D8%A7%D9%86-%D9%BE%D8%A7%D8%B3%D8%AE%DA%AF%D9%88%DB%8C%DB%8C-%DB%B1-%D9%85%DB%8C%D9%84%DB%8C-%D8%AB%D8%A7%D9%86%DB%8C%D9%87-MPRT-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D9%87%D9%85%DA%AF%D8%A7%D9%85-%D8%B3%D8%A7%D8%B2%DB%8C-%D8%AA%D8%B7%D8%A8%DB%8C%D9%82%DB%8C-%DB%B1%DB%B9%DB%B2%DB%B0x%DB%B1%DB%B0%DB%B8%DB%B0-%DB%8C%DA%A9-%D9%BE%D9%88%D8%B1%D8%AA-HDMI-1-4-%D9%BE%D9%88%D8%B1%D8%AA-DP-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%B4%D8%B1%DA%A9%D8%AA-Schwarz-Rot",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T13:55:55.261Z"
   },
   {
     "id": "torobshop-auto-28731ba0cbc018f8",
@@ -3993,7 +3993,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.969Z"
+    "observedAt": "2026-09-04T13:55:55.261Z"
   },
   {
     "id": "torobshop-auto-93c18ce837ff5f57",
@@ -4011,7 +4011,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.970Z"
+    "observedAt": "2026-09-04T13:55:55.262Z"
   },
   {
     "id": "torobshop-auto-c73bf4fc0db498be",
@@ -4029,7 +4029,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.970Z"
+    "observedAt": "2026-09-04T13:55:55.262Z"
   },
   {
     "id": "torobshop-auto-76f3e4ef7a8810f3",
@@ -4047,7 +4047,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.970Z"
+    "observedAt": "2026-09-04T13:55:55.262Z"
   },
   {
     "id": "torobshop-auto-8f566ccc32f52f97",
@@ -4065,7 +4065,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.970Z"
+    "observedAt": "2026-09-04T13:55:55.262Z"
   },
   {
     "id": "torobshop-auto-2dee2c9f6fb222d1",
@@ -4083,7 +4083,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.970Z"
+    "observedAt": "2026-09-04T13:55:55.262Z"
   },
   {
     "id": "torobshop-auto-05d539a087d0640e",
@@ -4101,7 +4101,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.970Z"
+    "observedAt": "2026-09-04T13:55:55.262Z"
   },
   {
     "id": "torobshop-auto-a40b1cc8eb60dfd3",
@@ -4119,7 +4119,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.970Z"
+    "observedAt": "2026-09-04T13:55:55.262Z"
   },
   {
     "id": "torobshop-auto-827984c7bc2a588b",
@@ -4137,7 +4137,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.970Z"
+    "observedAt": "2026-09-04T13:55:55.262Z"
   },
   {
     "id": "torobshop-auto-b1ad0ea7d3ae35d7",
@@ -4155,7 +4155,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.970Z"
+    "observedAt": "2026-09-04T13:55:55.262Z"
   },
   {
     "id": "torobshop-auto-01fd4211de27a0d5",
@@ -4173,7 +4173,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.970Z"
+    "observedAt": "2026-09-04T13:55:55.262Z"
   },
   {
     "id": "torobshop-auto-4c20864969491062",
@@ -4191,7 +4191,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.970Z"
+    "observedAt": "2026-09-04T13:55:55.262Z"
   },
   {
     "id": "torobshop-auto-6e8f969763fb12ec",
@@ -4209,7 +4209,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.970Z"
+    "observedAt": "2026-09-04T13:55:55.262Z"
   },
   {
     "id": "torobshop-auto-611344efb1bd3888",
@@ -4227,7 +4227,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.970Z"
+    "observedAt": "2026-09-04T13:55:55.262Z"
   },
   {
     "id": "torobshop-auto-c4ddc017f41906f6",
@@ -4245,7 +4245,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.970Z"
+    "observedAt": "2026-09-04T13:55:55.262Z"
   },
   {
     "id": "torobshop-auto-90fcbe8687059a30",
@@ -4263,7 +4263,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.970Z"
+    "observedAt": "2026-09-04T13:55:55.262Z"
   },
   {
     "id": "torobshop-auto-c0007aaa6ab91bb2",
@@ -4281,7 +4281,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.970Z"
+    "observedAt": "2026-09-04T13:55:55.262Z"
   },
   {
     "id": "torobshop-auto-34386721a691d178",
@@ -4299,7 +4299,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.970Z"
+    "observedAt": "2026-09-04T13:55:55.262Z"
   },
   {
     "id": "torobshop-auto-b8bd6a4d5ecca799",
@@ -4317,7 +4317,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.970Z"
+    "observedAt": "2026-09-04T13:55:55.262Z"
   },
   {
     "id": "torobshop-auto-9c72d8fb3f6a2ba1",
@@ -4335,7 +4335,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.970Z"
+    "observedAt": "2026-09-04T13:55:55.262Z"
   },
   {
     "id": "torobshop-auto-87cbcd550df2c8fa",
@@ -4353,7 +4353,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.970Z"
+    "observedAt": "2026-09-04T13:55:55.262Z"
   },
   {
     "id": "torobshop-auto-bb3d87082eb1a040",
@@ -4371,7 +4371,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.970Z"
+    "observedAt": "2026-09-04T13:55:55.262Z"
   },
   {
     "id": "torobshop-auto-af253d8db86172d9",
@@ -4389,7 +4389,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.970Z"
+    "observedAt": "2026-09-04T13:55:55.262Z"
   },
   {
     "id": "torobshop-auto-faf54d1de5277c91",
@@ -4407,7 +4407,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.970Z"
+    "observedAt": "2026-09-04T13:55:55.262Z"
   },
   {
     "id": "torobshop-auto-bed024ff9dfbc191",
@@ -4425,7 +4425,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.970Z"
+    "observedAt": "2026-09-04T13:55:55.262Z"
   },
   {
     "id": "torobshop-auto-12108326787ffaf6",
@@ -4443,7 +4443,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.970Z"
+    "observedAt": "2026-09-04T13:55:55.262Z"
   },
   {
     "id": "torobshop-auto-9706ad3cf0976481",
@@ -4461,7 +4461,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.970Z"
+    "observedAt": "2026-09-04T13:55:55.262Z"
   },
   {
     "id": "torobshop-auto-a78de50e19375b85",
@@ -4479,7 +4479,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.970Z"
+    "observedAt": "2026-09-04T13:55:55.262Z"
   },
   {
     "id": "torobshop-auto-b572c0c74ec7e1ee",
@@ -4497,7 +4497,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.970Z"
+    "observedAt": "2026-09-04T13:55:55.262Z"
   },
   {
     "id": "torobshop-auto-387754e6b4491f58",
@@ -4515,7 +4515,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.970Z"
+    "observedAt": "2026-09-04T13:55:55.262Z"
   },
   {
     "id": "torobshop-auto-39e57f782fd26013",
@@ -4533,7 +4533,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.970Z"
+    "observedAt": "2026-09-04T13:55:55.262Z"
   },
   {
     "id": "torobshop-auto-1ed3ae617a915858",
@@ -4551,7 +4551,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.970Z"
+    "observedAt": "2026-09-04T13:55:55.262Z"
   },
   {
     "id": "torobshop-auto-aa03a6c561a55d60",
@@ -4569,7 +4569,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.970Z"
+    "observedAt": "2026-09-04T13:55:55.262Z"
   },
   {
     "id": "torobshop-auto-d62ad3ee5759fcbd",
@@ -4587,7 +4587,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.970Z"
+    "observedAt": "2026-09-04T13:55:55.262Z"
   },
   {
     "id": "torobshop-auto-ad6f3f422d15a766",
@@ -4605,7 +4605,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.970Z"
+    "observedAt": "2026-09-04T13:55:55.262Z"
   },
   {
     "id": "torobshop-auto-0cfaef0e68debb8e",
@@ -4623,25 +4623,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.970Z"
-  },
-  {
-    "id": "torobshop-auto-569f3d7e67640e5c",
-    "productId": "torobshop-569f3d7e67640e5c",
-    "name": "سرویس قابلمه سه پارچه زولینگ آلمان ZWILLING TrueFlow با درب شیشه‌ای",
-    "brand": "",
-    "model": "سرویس قابلمه سه پارچه زولینگ آلمان ZWILLING TrueFlow با درب شیشه‌ای",
-    "category": "auto",
-    "subcategory": "خودرو",
-    "price": 51765000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%B3%D9%87-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D8%B2%D9%88%D9%84%DB%8C%D9%86%DA%AF-%D8%A2%D9%84%D9%85%D8%A7%D9%86-ZWILLING-TrueFlow-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.970Z"
+    "observedAt": "2026-09-04T13:55:55.263Z"
   },
   {
     "id": "torobshop-auto-aed9f18e5d887270",
@@ -4659,7 +4641,25 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.970Z"
+    "observedAt": "2026-09-04T13:55:55.263Z"
+  },
+  {
+    "id": "torobshop-auto-569f3d7e67640e5c",
+    "productId": "torobshop-569f3d7e67640e5c",
+    "name": "سرویس قابلمه سه پارچه زولینگ آلمان ZWILLING TrueFlow با درب شیشه‌ای",
+    "brand": "",
+    "model": "سرویس قابلمه سه پارچه زولینگ آلمان ZWILLING TrueFlow با درب شیشه‌ای",
+    "category": "auto",
+    "subcategory": "خودرو",
+    "price": 51765000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%B3%D9%87-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D8%B2%D9%88%D9%84%DB%8C%D9%86%DA%AF-%D8%A2%D9%84%D9%85%D8%A7%D9%86-ZWILLING-TrueFlow-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T13:55:55.263Z"
   },
   {
     "id": "torobshop-auto-dfa4bdc99016ca7e",
@@ -4677,7 +4677,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.970Z"
+    "observedAt": "2026-09-04T13:55:55.263Z"
   },
   {
     "id": "torobshop-auto-0ff8a8fc1fbd561e",
@@ -4695,7 +4695,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.971Z"
+    "observedAt": "2026-09-04T13:55:55.263Z"
   },
   {
     "id": "torobshop-auto-fa434e6aa57c4be7",
@@ -4713,61 +4713,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.971Z"
-  },
-  {
-    "id": "torobshop-auto-c9e212e51e3633db",
-    "productId": "torobshop-c9e212e51e3633db",
-    "name": "سرویس قابلمه ۴ تکه تفال مدل Ingenio Serenity، روکش نچسب Mineralia، کم جا، قابل چیدن روی هم، مناسب برای انواع اجاق گاز، قابل شستشو در ماشین ظرفشویی، رنگ آبی ملایم، L8274S04",
-    "brand": "",
-    "model": "سرویس قابلمه ۴ تکه تفال مدل Ingenio Serenity، روکش نچسب Mineralia، کم جا، قابل چیدن روی هم، مناسب برای انواع اجاق گاز، قابل شستشو در ماشین ظرفشویی، رنگ آبی ملایم، L8274S04",
-    "category": "auto",
-    "subcategory": "خودرو",
-    "price": 37303000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B4-%D8%AA%DA%A9%D9%87-%D8%AA%D9%81%D8%A7%D9%84-%D9%85%D8%AF%D9%84-Ingenio-Serenity-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-Mineralia-%DA%A9%D9%85-%D8%AC%D8%A7-%D9%82%D8%A7%D8%A8%D9%84-%DA%86%DB%8C%D8%AF%D9%86-%D8%B1%D9%88%DB%8C-%D9%87%D9%85-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D8%B1%D9%86%DA%AF-%D8%A2%D8%A8%DB%8C-%D9%85%D9%84%D8%A7%DB%8C%D9%85-L8274S04",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.971Z"
-  },
-  {
-    "id": "torobshop-auto-921dfbcc90d038a0",
-    "productId": "torobshop-921dfbcc90d038a0",
-    "name": "ماهیتابه فیسلر آلمان Fissler Original-Profi Collection (قطر 28 سانتی‌متر) تابه بدون پوشش با مقیاس داخلی",
-    "brand": "",
-    "model": "ماهیتابه فیسلر آلمان Fissler Original-Profi Collection (قطر 28 سانتی‌متر) تابه بدون پوشش با مقیاس داخلی",
-    "category": "auto",
-    "subcategory": "خودرو",
-    "price": 43138000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%85%D8%AF%D9%84-Original-Profi-Collection-%D9%82%D8%B7%D8%B1-28-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%AA%D8%A7%D8%A8%D9%87-%D8%A8%D8%AF%D9%88%D9%86-%D9%BE%D9%88%D8%B4%D8%B4-%D8%A8%D8%A7-%D9%85%D9%82%DB%8C%D8%A7%D8%B3-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%D9%86%D9%88%D9%88%DA%AF%D8%B1%DB%8C%D9%84-28-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.971Z"
-  },
-  {
-    "id": "torobshop-auto-abdc2adccad9c33d",
-    "productId": "torobshop-abdc2adccad9c33d",
-    "name": "چاقوی خود تیز شونده ZWILLING Gourmet با مجموعه چاقوی 7 تکه، استیل ضد زنگ مخصوص، ساخت آلمان، سفید Gourmet White",
-    "brand": "",
-    "model": "چاقوی خود تیز شونده ZWILLING Gourmet با مجموعه چاقوی 7 تکه، استیل ضد زنگ مخصوص، ساخت آلمان، سفید Gourmet White",
-    "category": "auto",
-    "subcategory": "خودرو",
-    "price": 53035000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%AE%D9%88%D8%AF-%D8%AA%DB%8C%D8%B2-%D8%B4%D9%88%D9%86%D8%AF%D9%87-ZWILLING-Gourmet-%D8%A8%D8%A7-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%DA%86%D8%A7%D9%82%D9%88%DB%8C-7-%D8%AA%DA%A9%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%B3%D9%81%DB%8C%D8%AF-Gourmet-White",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.971Z"
+    "observedAt": "2026-09-04T13:55:55.263Z"
   },
   {
     "id": "torobshop-auto-4b7348b541c036cd",
@@ -4785,7 +4731,61 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.971Z"
+    "observedAt": "2026-09-04T13:55:55.263Z"
+  },
+  {
+    "id": "torobshop-auto-c9e212e51e3633db",
+    "productId": "torobshop-c9e212e51e3633db",
+    "name": "سرویس قابلمه ۴ تکه تفال مدل Ingenio Serenity، روکش نچسب Mineralia، کم جا، قابل چیدن روی هم، مناسب برای انواع اجاق گاز، قابل شستشو در ماشین ظرفشویی، رنگ آبی ملایم، L8274S04",
+    "brand": "",
+    "model": "سرویس قابلمه ۴ تکه تفال مدل Ingenio Serenity، روکش نچسب Mineralia، کم جا، قابل چیدن روی هم، مناسب برای انواع اجاق گاز، قابل شستشو در ماشین ظرفشویی، رنگ آبی ملایم، L8274S04",
+    "category": "auto",
+    "subcategory": "خودرو",
+    "price": 37303000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B4-%D8%AA%DA%A9%D9%87-%D8%AA%D9%81%D8%A7%D9%84-%D9%85%D8%AF%D9%84-Ingenio-Serenity-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-Mineralia-%DA%A9%D9%85-%D8%AC%D8%A7-%D9%82%D8%A7%D8%A8%D9%84-%DA%86%DB%8C%D8%AF%D9%86-%D8%B1%D9%88%DB%8C-%D9%87%D9%85-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D8%B1%D9%86%DA%AF-%D8%A2%D8%A8%DB%8C-%D9%85%D9%84%D8%A7%DB%8C%D9%85-L8274S04",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T13:55:55.263Z"
+  },
+  {
+    "id": "torobshop-auto-921dfbcc90d038a0",
+    "productId": "torobshop-921dfbcc90d038a0",
+    "name": "ماهیتابه فیسلر آلمان Fissler Original-Profi Collection (قطر 28 سانتی‌متر) تابه بدون پوشش با مقیاس داخلی",
+    "brand": "",
+    "model": "ماهیتابه فیسلر آلمان Fissler Original-Profi Collection (قطر 28 سانتی‌متر) تابه بدون پوشش با مقیاس داخلی",
+    "category": "auto",
+    "subcategory": "خودرو",
+    "price": 43138000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%85%D8%AF%D9%84-Original-Profi-Collection-%D9%82%D8%B7%D8%B1-28-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%AA%D8%A7%D8%A8%D9%87-%D8%A8%D8%AF%D9%88%D9%86-%D9%BE%D9%88%D8%B4%D8%B4-%D8%A8%D8%A7-%D9%85%D9%82%DB%8C%D8%A7%D8%B3-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%D9%86%D9%88%D9%88%DA%AF%D8%B1%DB%8C%D9%84-28-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T13:55:55.263Z"
+  },
+  {
+    "id": "torobshop-auto-abdc2adccad9c33d",
+    "productId": "torobshop-abdc2adccad9c33d",
+    "name": "چاقوی خود تیز شونده ZWILLING Gourmet با مجموعه چاقوی 7 تکه، استیل ضد زنگ مخصوص، ساخت آلمان، سفید Gourmet White",
+    "brand": "",
+    "model": "چاقوی خود تیز شونده ZWILLING Gourmet با مجموعه چاقوی 7 تکه، استیل ضد زنگ مخصوص، ساخت آلمان، سفید Gourmet White",
+    "category": "auto",
+    "subcategory": "خودرو",
+    "price": 53035000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%AE%D9%88%D8%AF-%D8%AA%DB%8C%D8%B2-%D8%B4%D9%88%D9%86%D8%AF%D9%87-ZWILLING-Gourmet-%D8%A8%D8%A7-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%DA%86%D8%A7%D9%82%D9%88%DB%8C-7-%D8%AA%DA%A9%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%B3%D9%81%DB%8C%D8%AF-Gourmet-White",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T13:55:55.263Z"
   },
   {
     "id": "torobshop-auto-695cd4ce1cd48f20",
@@ -4803,7 +4803,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.971Z"
+    "observedAt": "2026-09-04T13:55:55.263Z"
   },
   {
     "id": "torobshop-auto-6e397f6c85f56e0e",
@@ -4821,25 +4821,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.971Z"
-  },
-  {
-    "id": "torobshop-auto-9318a28bbba0fe53",
-    "productId": "torobshop-9318a28bbba0fe53",
-    "name": "ماهیتابه استیل حرفه‌ای 28 سانتی‌متری فیسلر آلمان مدل Fissler Stielpfanne 28 cm",
-    "brand": "",
-    "model": "ماهیتابه استیل حرفه‌ای 28 سانتی‌متری فیسلر آلمان مدل Fissler Stielpfanne 28 cm",
-    "category": "auto",
-    "subcategory": "خودرو",
-    "price": 44255000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%AD%D8%B1%D9%81%D9%87-%D8%A7%DB%8C-28-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%AF%D9%84-Fissler-Stielpfanne-28-cm",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.971Z"
+    "observedAt": "2026-09-04T13:55:55.263Z"
   },
   {
     "id": "torobshop-auto-7464bedef3ecb51e",
@@ -4857,7 +4839,25 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.971Z"
+    "observedAt": "2026-09-04T13:55:55.263Z"
+  },
+  {
+    "id": "torobshop-auto-9318a28bbba0fe53",
+    "productId": "torobshop-9318a28bbba0fe53",
+    "name": "ماهیتابه استیل حرفه‌ای 28 سانتی‌متری فیسلر آلمان مدل Fissler Stielpfanne 28 cm",
+    "brand": "",
+    "model": "ماهیتابه استیل حرفه‌ای 28 سانتی‌متری فیسلر آلمان مدل Fissler Stielpfanne 28 cm",
+    "category": "auto",
+    "subcategory": "خودرو",
+    "price": 44255000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%AD%D8%B1%D9%81%D9%87-%D8%A7%DB%8C-28-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%AF%D9%84-Fissler-Stielpfanne-28-cm",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T13:55:55.263Z"
   },
   {
     "id": "torobshop-auto-924e8879fd31e680",
@@ -4875,7 +4875,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.971Z"
+    "observedAt": "2026-09-04T13:55:55.263Z"
   },
   {
     "id": "torobshop-auto-51009350b9f240d2",
@@ -4893,7 +4893,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.971Z"
+    "observedAt": "2026-09-04T13:55:55.263Z"
   },
   {
     "id": "torobshop-auto-ae3ba973ea2911ee",
@@ -4911,7 +4911,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.971Z"
+    "observedAt": "2026-09-04T13:55:55.263Z"
   },
   {
     "id": "torobshop-auto-45c64009916028ba",
@@ -4929,7 +4929,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.971Z"
+    "observedAt": "2026-09-04T13:55:55.263Z"
   },
   {
     "id": "torobshop-auto-835b00c0d36d8e10",
@@ -4947,7 +4947,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.971Z"
+    "observedAt": "2026-09-04T13:55:55.263Z"
   },
   {
     "id": "torobshop-auto-da199e6690f1c782",
@@ -4965,7 +4965,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.971Z"
+    "observedAt": "2026-09-04T13:55:55.263Z"
   },
   {
     "id": "torobshop-auto-35f3e181350a9721",
@@ -4983,7 +4983,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.971Z"
+    "observedAt": "2026-09-04T13:55:55.263Z"
   },
   {
     "id": "torobshop-auto-15def7d563b1e542",
@@ -5001,7 +5001,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.971Z"
+    "observedAt": "2026-09-04T13:55:55.263Z"
   },
   {
     "id": "torobshop-auto-37de96dd1d4a33c3",
@@ -5019,7 +5019,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.971Z"
+    "observedAt": "2026-09-04T13:55:55.263Z"
   },
   {
     "id": "torobshop-auto-9311f0ec7504f24b",
@@ -5037,7 +5037,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.971Z"
+    "observedAt": "2026-09-04T13:55:55.263Z"
   },
   {
     "id": "torobshop-auto-843617a20d001e4c",
@@ -5055,7 +5055,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.971Z"
+    "observedAt": "2026-09-04T13:55:55.263Z"
   },
   {
     "id": "torobshop-auto-ee166c5666efcec5",
@@ -5073,7 +5073,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.971Z"
+    "observedAt": "2026-09-04T13:55:55.263Z"
   },
   {
     "id": "torobshop-auto-67d9add46426dfe8",
@@ -5091,7 +5091,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.971Z"
+    "observedAt": "2026-09-04T13:55:55.263Z"
   },
   {
     "id": "torobshop-auto-fc88260817f3414e",
@@ -5109,25 +5109,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.971Z"
-  },
-  {
-    "id": "torobshop-auto-5cab57205d377e1f",
-    "productId": "torobshop-5cab57205d377e1f",
-    "name": "ماهیتابه دو دسته فیسلر آلمان Fissler Pure Collection/Edelstahl (قطر ۲۸ سانتی‌متر) بدون پوشش لبه بلند",
-    "brand": "",
-    "model": "ماهیتابه دو دسته فیسلر آلمان Fissler Pure Collection/Edelstahl (قطر ۲۸ سانتی‌متر) بدون پوشش لبه بلند",
-    "category": "auto",
-    "subcategory": "خودرو",
-    "price": 39194000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D8%AE%D8%A7%D9%84%D8%B5-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%82%D8%B7%D8%B1-%DB%B2%DB%B8-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A8%D8%AF%D9%88%D9%86-%D9%BE%D9%88%D8%B4%D8%B4-%D9%BE%DB%8C%D9%85%D8%A7%D9%86%D9%87-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D9%84%D8%A8%D9%87-%D8%A8%D9%84%D9%86%D8%AF-%DB%B1%DB%B0-%D8%B3%D8%A7%D9%84-%DA%AF%D8%A7%D8%B1%D8%A7%D9%86%D8%AA%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.971Z"
+    "observedAt": "2026-09-04T13:55:55.263Z"
   },
   {
     "id": "torobshop-auto-3877183810368792",
@@ -5145,43 +5127,25 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.971Z"
+    "observedAt": "2026-09-04T13:55:55.263Z"
   },
   {
-    "id": "torobshop-auto-30d122f629f89166",
-    "productId": "torobshop-30d122f629f89166",
-    "name": "ماهیتابه فیسلر آلمان Fissler Pure Collection/Edelstahl (قطر 28 سانتی‌متر) بدون پوشش، پیمانه داخلی",
+    "id": "torobshop-auto-5cab57205d377e1f",
+    "productId": "torobshop-5cab57205d377e1f",
+    "name": "ماهیتابه دو دسته فیسلر آلمان Fissler Pure Collection/Edelstahl (قطر ۲۸ سانتی‌متر) بدون پوشش لبه بلند",
     "brand": "",
-    "model": "ماهیتابه فیسلر آلمان Fissler Pure Collection/Edelstahl (قطر 28 سانتی‌متر) بدون پوشش، پیمانه داخلی",
+    "model": "ماهیتابه دو دسته فیسلر آلمان Fissler Pure Collection/Edelstahl (قطر ۲۸ سانتی‌متر) بدون پوشش لبه بلند",
     "category": "auto",
     "subcategory": "خودرو",
     "price": 39194000,
     "currency": "IRT",
     "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D8%AE%D8%A7%D9%84%D8%B5-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%82%D8%B7%D8%B1-28-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A8%D8%AF%D9%88%D9%86-%D9%BE%D9%88%D8%B4%D8%B4-%D9%BE%DB%8C%D9%85%D8%A7%D9%86%D9%87-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D8%AE%D8%A7%D9%84%D8%B5-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%82%D8%B7%D8%B1-%DB%B2%DB%B8-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A8%D8%AF%D9%88%D9%86-%D9%BE%D9%88%D8%B4%D8%B4-%D9%BE%DB%8C%D9%85%D8%A7%D9%86%D9%87-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D9%84%D8%A8%D9%87-%D8%A8%D9%84%D9%86%D8%AF-%DB%B1%DB%B0-%D8%B3%D8%A7%D9%84-%DA%AF%D8%A7%D8%B1%D8%A7%D9%86%D8%AA%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.971Z"
-  },
-  {
-    "id": "torobshop-auto-bbb69afb3e332a2c",
-    "productId": "torobshop-bbb69afb3e332a2c",
-    "name": "سرویس قابلمه ۵ تکه ZWILLING Quadro با درب شیشه‌ای، مناسب برای اجاق گازهای القایی، بدون روکش، استیل ضد زنگ، نقره‌ای.",
-    "brand": "",
-    "model": "سرویس قابلمه ۵ تکه ZWILLING Quadro با درب شیشه‌ای، مناسب برای اجاق گازهای القایی، بدون روکش، استیل ضد زنگ، نقره‌ای.",
-    "category": "auto",
-    "subcategory": "خودرو",
-    "price": 48468000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B5-%D8%AA%DA%A9%D9%87-ZWILLING-Quadro-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2%D9%87%D8%A7%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%DA%A9%D8%B4-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.971Z"
+    "observedAt": "2026-09-04T13:55:55.263Z"
   },
   {
     "id": "torobshop-auto-cb9e4b877badae34",
@@ -5199,7 +5163,43 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.971Z"
+    "observedAt": "2026-09-04T13:55:55.263Z"
+  },
+  {
+    "id": "torobshop-auto-30d122f629f89166",
+    "productId": "torobshop-30d122f629f89166",
+    "name": "ماهیتابه فیسلر آلمان Fissler Pure Collection/Edelstahl (قطر 28 سانتی‌متر) بدون پوشش، پیمانه داخلی",
+    "brand": "",
+    "model": "ماهیتابه فیسلر آلمان Fissler Pure Collection/Edelstahl (قطر 28 سانتی‌متر) بدون پوشش، پیمانه داخلی",
+    "category": "auto",
+    "subcategory": "خودرو",
+    "price": 39194000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D8%AE%D8%A7%D9%84%D8%B5-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%82%D8%B7%D8%B1-28-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A8%D8%AF%D9%88%D9%86-%D9%BE%D9%88%D8%B4%D8%B4-%D9%BE%DB%8C%D9%85%D8%A7%D9%86%D9%87-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T13:55:55.265Z"
+  },
+  {
+    "id": "torobshop-auto-bbb69afb3e332a2c",
+    "productId": "torobshop-bbb69afb3e332a2c",
+    "name": "سرویس قابلمه ۵ تکه ZWILLING Quadro با درب شیشه‌ای، مناسب برای اجاق گازهای القایی، بدون روکش، استیل ضد زنگ، نقره‌ای.",
+    "brand": "",
+    "model": "سرویس قابلمه ۵ تکه ZWILLING Quadro با درب شیشه‌ای، مناسب برای اجاق گازهای القایی، بدون روکش، استیل ضد زنگ، نقره‌ای.",
+    "category": "auto",
+    "subcategory": "خودرو",
+    "price": 48468000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B5-%D8%AA%DA%A9%D9%87-ZWILLING-Quadro-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2%D9%87%D8%A7%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%DA%A9%D8%B4-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T13:55:55.265Z"
   },
   {
     "id": "torobshop-auto-e2467d5cbf85ce81",
@@ -5217,7 +5217,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.971Z"
+    "observedAt": "2026-09-04T13:55:55.265Z"
   },
   {
     "id": "torobshop-auto-d9fbeecaba31c602",
@@ -5235,7 +5235,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.971Z"
+    "observedAt": "2026-09-04T13:55:55.265Z"
   },
   {
     "id": "torobshop-auto-3e03d59443676707",
@@ -5253,7 +5253,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.971Z"
+    "observedAt": "2026-09-04T13:55:55.265Z"
   },
   {
     "id": "torobshop-auto-4415e2cd944c4e59",
@@ -5271,7 +5271,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.971Z"
+    "observedAt": "2026-09-04T13:55:55.265Z"
   },
   {
     "id": "torobshop-auto-d397df756b9f1338",
@@ -5289,7 +5289,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.971Z"
+    "observedAt": "2026-09-04T13:55:55.265Z"
   },
   {
     "id": "torobshop-auto-ef26e366fa305ced",
@@ -5307,7 +5307,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.971Z"
+    "observedAt": "2026-09-04T13:55:55.265Z"
   },
   {
     "id": "torobshop-auto-d68b8e3ac997acb1",
@@ -5325,7 +5325,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.971Z"
+    "observedAt": "2026-09-04T13:55:55.265Z"
   },
   {
     "id": "torobshop-auto-07103c8f0e3ce377",
@@ -5343,7 +5343,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.971Z"
+    "observedAt": "2026-09-04T13:55:55.265Z"
   },
   {
     "id": "torobshop-auto-05c540b60ea3624b",
@@ -5361,7 +5361,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.971Z"
+    "observedAt": "2026-09-04T13:55:55.265Z"
   },
   {
     "id": "torobshop-auto-f8b7784f8ba04a47",
@@ -5379,7 +5379,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.971Z"
+    "observedAt": "2026-09-04T13:55:55.265Z"
   },
   {
     "id": "torobshop-auto-e4088b7a2b6ea10b",
@@ -5397,7 +5397,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.971Z"
+    "observedAt": "2026-09-04T13:55:55.265Z"
   },
   {
     "id": "torobshop-auto-0674abec1e1ff3bb",
@@ -5415,7 +5415,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.971Z"
+    "observedAt": "2026-09-04T13:55:55.265Z"
   },
   {
     "id": "torobshop-auto-c8ae91ddddbffeeb",
@@ -5433,61 +5433,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.971Z"
-  },
-  {
-    "id": "torobshop-auto-e0d95c7bfcafe827",
-    "productId": "torobshop-e0d95c7bfcafe827",
-    "name": "سرویس قابلمه 5 پارچه فیسلر آلمان Fissler Original Collection 5-teilig با درب فلزی (3 قابلمه، 1 قابلمه کوچک، 1 تابه کوچک - بدون درب) القایی",
-    "brand": "",
-    "model": "سرویس قابلمه 5 پارچه فیسلر آلمان Fissler Original Collection 5-teilig با درب فلزی (3 قابلمه، 1 قابلمه کوچک، 1 تابه کوچک - بدون درب) القایی",
-    "category": "auto",
-    "subcategory": "خودرو",
-    "price": 140722000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-5-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-Fissler-Original-Collection-5-teilig-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%81%D9%84%D8%B2%DB%8C-3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-1-%D8%AA%D8%A7%D8%A8%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%B1%D8%A8-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.971Z"
-  },
-  {
-    "id": "torobshop-auto-eb3d93fc719b9727",
-    "productId": "torobshop-eb3d93fc719b9727",
-    "name": "دستگاه وکیوم و ظروف وکیوم زولینگ آلمان ZWILLING در 9 قطعه 2 کاسه استیل با 2 درب وکیوم (18-24 سانتی متر) - 4 عدد کیسه - پمپ",
-    "brand": "",
-    "model": "دستگاه وکیوم و ظروف وکیوم زولینگ آلمان ZWILLING در 9 قطعه 2 کاسه استیل با 2 درب وکیوم (18-24 سانتی متر) - 4 عدد کیسه - پمپ",
-    "category": "auto",
-    "subcategory": "خودرو",
-    "price": 34510000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%AA-%D9%BE%D8%A7%DB%8C%D9%87-%D9%88%DA%A9%DB%8C%D9%88%D9%85-ZWILLING-9-%D9%82%D8%B7%D8%B9%D9%87-2-%DA%A9%D8%A7%D8%B3%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%A8%D8%A7-2-%D8%AF%D8%B1%D8%A8-%D9%88%DA%A9%DB%8C%D9%88%D9%85-18-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-4-%D8%B9%D8%AF%D8%AF-%DA%A9%DB%8C%D8%B3%D9%87-%D9%BE%D9%85%D9%BE",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.971Z"
-  },
-  {
-    "id": "torobshop-auto-9d8fbc8c7f0b6991",
-    "productId": "torobshop-9d8fbc8c7f0b6991",
-    "name": "قیچی خیاطی کلاسیک زولینگ آلمان ZWILLING Superfection، قیچی پارچه، 21 سانتی متر، استیل ضد زنگ مخصوص، ساخت آلمان، مشکی",
-    "brand": "",
-    "model": "قیچی خیاطی کلاسیک زولینگ آلمان ZWILLING Superfection، قیچی پارچه، 21 سانتی متر، استیل ضد زنگ مخصوص، ساخت آلمان، مشکی",
-    "category": "auto",
-    "subcategory": "خودرو",
-    "price": 15226000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%82%DB%8C%DA%86%DB%8C-%D8%AE%DB%8C%D8%A7%D8%B7%DB%8C-%DA%A9%D9%84%D8%A7%D8%B3%DB%8C%DA%A9-ZWILLING-Superfection-%D9%82%DB%8C%DA%86%DB%8C-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-21-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.971Z"
+    "observedAt": "2026-09-04T13:55:55.265Z"
   },
   {
     "id": "torobshop-auto-40f09e3a04b68146",
@@ -5505,7 +5451,61 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.971Z"
+    "observedAt": "2026-09-04T13:55:55.265Z"
+  },
+  {
+    "id": "torobshop-auto-e0d95c7bfcafe827",
+    "productId": "torobshop-e0d95c7bfcafe827",
+    "name": "سرویس قابلمه 5 پارچه فیسلر آلمان Fissler Original Collection 5-teilig با درب فلزی (3 قابلمه، 1 قابلمه کوچک، 1 تابه کوچک - بدون درب) القایی",
+    "brand": "",
+    "model": "سرویس قابلمه 5 پارچه فیسلر آلمان Fissler Original Collection 5-teilig با درب فلزی (3 قابلمه، 1 قابلمه کوچک، 1 تابه کوچک - بدون درب) القایی",
+    "category": "auto",
+    "subcategory": "خودرو",
+    "price": 140722000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-5-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-Fissler-Original-Collection-5-teilig-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%81%D9%84%D8%B2%DB%8C-3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-1-%D8%AA%D8%A7%D8%A8%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%B1%D8%A8-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T13:55:55.265Z"
+  },
+  {
+    "id": "torobshop-auto-eb3d93fc719b9727",
+    "productId": "torobshop-eb3d93fc719b9727",
+    "name": "دستگاه وکیوم و ظروف وکیوم زولینگ آلمان ZWILLING در 9 قطعه 2 کاسه استیل با 2 درب وکیوم (18-24 سانتی متر) - 4 عدد کیسه - پمپ",
+    "brand": "",
+    "model": "دستگاه وکیوم و ظروف وکیوم زولینگ آلمان ZWILLING در 9 قطعه 2 کاسه استیل با 2 درب وکیوم (18-24 سانتی متر) - 4 عدد کیسه - پمپ",
+    "category": "auto",
+    "subcategory": "خودرو",
+    "price": 34510000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%AA-%D9%BE%D8%A7%DB%8C%D9%87-%D9%88%DA%A9%DB%8C%D9%88%D9%85-ZWILLING-9-%D9%82%D8%B7%D8%B9%D9%87-2-%DA%A9%D8%A7%D8%B3%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%A8%D8%A7-2-%D8%AF%D8%B1%D8%A8-%D9%88%DA%A9%DB%8C%D9%88%D9%85-18-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-4-%D8%B9%D8%AF%D8%AF-%DA%A9%DB%8C%D8%B3%D9%87-%D9%BE%D9%85%D9%BE",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T13:55:55.265Z"
+  },
+  {
+    "id": "torobshop-auto-9d8fbc8c7f0b6991",
+    "productId": "torobshop-9d8fbc8c7f0b6991",
+    "name": "قیچی خیاطی کلاسیک زولینگ آلمان ZWILLING Superfection، قیچی پارچه، 21 سانتی متر، استیل ضد زنگ مخصوص، ساخت آلمان، مشکی",
+    "brand": "",
+    "model": "قیچی خیاطی کلاسیک زولینگ آلمان ZWILLING Superfection، قیچی پارچه، 21 سانتی متر، استیل ضد زنگ مخصوص، ساخت آلمان، مشکی",
+    "category": "auto",
+    "subcategory": "خودرو",
+    "price": 15226000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%82%DB%8C%DA%86%DB%8C-%D8%AE%DB%8C%D8%A7%D8%B7%DB%8C-%DA%A9%D9%84%D8%A7%D8%B3%DB%8C%DA%A9-ZWILLING-Superfection-%D9%82%DB%8C%DA%86%DB%8C-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-21-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T13:55:55.265Z"
   },
   {
     "id": "torobshop-auto-0e4d04ef83a810db",
@@ -5523,133 +5523,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.971Z"
-  },
-  {
-    "id": "torobshop-auto-b0b661c9d6dfca29",
-    "productId": "torobshop-b0b661c9d6dfca29",
-    "name": "قیچی برش 22 سانتی‌ متری زولینگ آلمان ZWILLING Twin L",
-    "brand": "",
-    "model": "قیچی برش 22 سانتی‌ متری زولینگ آلمان ZWILLING Twin L",
-    "category": "auto",
-    "subcategory": "خودرو",
-    "price": 12594000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%82%DB%8C%DA%86%DB%8C-%D8%A8%D8%B1%D8%B4-22-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C-Henckels-Twin-L-%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA%DB%8C-%DA%98%D8%A7%D9%BE%D9%86",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.971Z"
-  },
-  {
-    "id": "torobshop-auto-412e480ec7918302",
-    "productId": "torobshop-412e480ec7918302",
-    "name": "همزن فلکسی مینی پروفی پلاس WMF، 21 سانتی‌متر",
-    "brand": "",
-    "model": "همزن فلکسی مینی پروفی پلاس WMF، 21 سانتی‌متر",
-    "category": "auto",
-    "subcategory": "خودرو",
-    "price": 12179000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%87%D9%85%D8%B2%D9%86-%D9%81%D9%84%DA%A9%D8%B3%DB%8C-%D9%85%DB%8C%D9%86%DB%8C-%D9%BE%D8%B1%D9%88%D9%81%DB%8C-%D9%BE%D9%84%D8%A7%D8%B3-WMF-21-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.971Z"
-  },
-  {
-    "id": "torobshop-auto-d39a2f5ac6cd9a7f",
-    "productId": "torobshop-d39a2f5ac6cd9a7f",
-    "name": "سرویس قابلمه 3 پارچه فیسلر آلمان Fissler Original-Profi Collection القایی",
-    "brand": "",
-    "model": "سرویس قابلمه 3 پارچه فیسلر آلمان Fissler Original-Profi Collection القایی",
-    "category": "auto",
-    "subcategory": "خودرو",
-    "price": 91335000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D8%A7%D8%B5%D9%84%DB%8C-%D8%AD%D8%B1%D9%81%D9%87-%D8%A7%DB%8C-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%DB%B3-%D8%AA%DA%A9%D9%87-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%81%D9%84%D8%B2%DB%8C-%DB%B1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%DB%B1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%DB%B3-%D8%AA%DA%A9%D9%87-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.971Z"
-  },
-  {
-    "id": "torobshop-auto-aa2dfdb88af5c975",
-    "productId": "torobshop-aa2dfdb88af5c975",
-    "name": "ماهیتابه ZWILLING جوی پلاس 24 سانتی متری",
-    "brand": "",
-    "model": "ماهیتابه ZWILLING جوی پلاس 24 سانتی متری",
-    "category": "auto",
-    "subcategory": "خودرو",
-    "price": 24615000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-ZWILLING-%D8%AC%D9%88%DB%8C-%D9%BE%D9%84%D8%A7%D8%B3-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.971Z"
-  },
-  {
-    "id": "torobshop-auto-9087741222a89b21",
-    "productId": "torobshop-9087741222a89b21",
-    "name": "چاقوی آشپزی زولینگ آلمان ZWILLING Gourmet - 18 سانتی‌متر - استیل ضد زنگ - دسته پلاستیکی ارگونومیک - مشکی - تولید آلمان",
-    "brand": "",
-    "model": "چاقوی آشپزی زولینگ آلمان ZWILLING Gourmet - 18 سانتی‌متر - استیل ضد زنگ - دسته پلاستیکی ارگونومیک - مشکی - تولید آلمان",
-    "category": "auto",
-    "subcategory": "خودرو",
-    "price": 23854000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%A2%D8%B4%D9%BE%D8%B2%DB%8C-ZWILLING-Gourmet-18-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%AF%D8%B3%D8%AA%D9%87-%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9%DB%8C-%D8%A7%D8%B1%DA%AF%D9%88%D9%86%D9%88%D9%85%DB%8C%DA%A9-%D9%85%D8%B4%DA%A9%DB%8C-%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D8%A2%D9%84%D9%85%D8%A7%D9%86",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.971Z"
-  },
-  {
-    "id": "torobshop-auto-1e0602d76b0e257a",
-    "productId": "torobshop-1e0602d76b0e257a",
-    "name": "سرویس قاشق و چنگال وی ام اف آلمان WMF Premiere cutlery (12 نفره، 66 پارچه، 60 پارچه)",
-    "brand": "",
-    "model": "سرویس قاشق و چنگال وی ام اف آلمان WMF Premiere cutlery (12 نفره، 66 پارچه، 60 پارچه)",
-    "category": "auto",
-    "subcategory": "خودرو",
-    "price": 183645000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%DA%A9%D8%A7%D8%B1%D8%AF-%D9%88-%DA%86%D9%86%DA%AF%D8%A7%D9%84-WMF-Premiere-12-%D9%86%D9%81%D8%B1%D9%87-66-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-60-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D8%A8%D8%A7-%DA%A9%D8%A7%D8%B1%D8%AF-%D9%88-%DA%86%D9%86%DA%AF%D8%A7%D9%84-%D8%AA%DB%8C%D8%BA%D9%87-%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-Cromargan-Protect-%D8%AC%D9%84%D8%A7-%D8%AF%D8%A7%D8%AF%D9%87-%D8%B4%D8%AF%D9%87-%D8%A8%D8%B1%D8%A7%D9%82-%D8%B6%D8%AF-%D8%AE%D8%B4-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.971Z"
-  },
-  {
-    "id": "torobshop-auto-c4580b999e737ac3",
-    "productId": "torobshop-c4580b999e737ac3",
-    "name": "سرویس قاشق و چنگال وی ام اف آلمان WMF Cutlery Set ( 60 پارچه، 12 نفره )",
-    "brand": "",
-    "model": "سرویس قاشق و چنگال وی ام اف آلمان WMF Cutlery Set ( 60 پارچه، 12 نفره )",
-    "category": "auto",
-    "subcategory": "خودرو",
-    "price": 43138000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%DA%A9%D8%A7%D8%B1%D8%AF-%D9%88-%DA%86%D9%86%DA%AF%D8%A7%D9%84-WMF-60-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-12-%D9%86%D9%81%D8%B1%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-Atria-Cromargan-18-10-%D8%A8%D8%B1%D8%A7%D9%82",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.971Z"
+    "observedAt": "2026-09-04T13:55:55.265Z"
   },
   {
     "id": "torobshop-auto-2be1976c83ad17a1",
@@ -5667,97 +5541,133 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.971Z"
+    "observedAt": "2026-09-04T13:55:55.265Z"
   },
   {
-    "id": "torobshop-auto-1fd1146f6f750aa9",
-    "productId": "torobshop-1fd1146f6f750aa9",
-    "name": "سرویس قاشق و چنگال وی ام اف آلمان WMF Tavira برای 12 نفر، 60 پارچه",
+    "id": "torobshop-auto-b0b661c9d6dfca29",
+    "productId": "torobshop-b0b661c9d6dfca29",
+    "name": "قیچی برش 22 سانتی‌ متری زولینگ آلمان ZWILLING Twin L",
     "brand": "",
-    "model": "سرویس قاشق و چنگال وی ام اف آلمان WMF Tavira برای 12 نفر، 60 پارچه",
+    "model": "قیچی برش 22 سانتی‌ متری زولینگ آلمان ZWILLING Twin L",
     "category": "auto",
     "subcategory": "خودرو",
-    "price": 65276000,
+    "price": 12594000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%82%DB%8C%DA%86%DB%8C-%D8%A8%D8%B1%D8%B4-22-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C-Henckels-Twin-L-%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA%DB%8C-%DA%98%D8%A7%D9%BE%D9%86",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T13:55:55.265Z"
+  },
+  {
+    "id": "torobshop-auto-1e0602d76b0e257a",
+    "productId": "torobshop-1e0602d76b0e257a",
+    "name": "سرویس قاشق و چنگال وی ام اف آلمان WMF Premiere cutlery (12 نفره، 66 پارچه، 60 پارچه)",
+    "brand": "",
+    "model": "سرویس قاشق و چنگال وی ام اف آلمان WMF Premiere cutlery (12 نفره، 66 پارچه، 60 پارچه)",
+    "category": "auto",
+    "subcategory": "خودرو",
+    "price": 183645000,
     "currency": "IRT",
     "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%DA%A9%D8%A7%D8%B1%D8%AF-%D9%88-%DA%86%D9%86%DA%AF%D8%A7%D9%84-WMF-Tavira-%D8%A8%D8%B1%D8%A7%DB%8C-12-%D9%86%D9%81%D8%B1-60-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-12-%DA%86%D9%86%DA%AF%D8%A7%D9%84-%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%BA%D8%B0%D8%A7%D8%AE%D9%88%D8%B1%DB%8C-%D9%82%D8%A7%D8%B4%D9%82-%DA%86%D9%86%DA%AF%D8%A7%D9%84-%DA%A9%DB%8C%DA%A9-%D9%82%D8%A7%D8%B4%D9%82-%DA%86%D8%A7%DB%8C-%D9%82%D9%87%D9%88%D9%87-%DA%86%D8%A7%D9%82%D9%88%D9%87%D8%A7%DB%8C-%D9%85%D9%88%D9%86%D9%88%D8%A8%D9%84%D9%88%DA%A9-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-Cromargan-%D8%A8%D8%B1%D8%A7%D9%82-%D8%A8%D8%B1%D8%A7%D9%82-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%DA%A9%D8%A7%D8%B1%D8%AF-%D9%88-%DA%86%D9%86%DA%AF%D8%A7%D9%84-WMF-Premiere-12-%D9%86%D9%81%D8%B1%D9%87-66-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-60-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D8%A8%D8%A7-%DA%A9%D8%A7%D8%B1%D8%AF-%D9%88-%DA%86%D9%86%DA%AF%D8%A7%D9%84-%D8%AA%DB%8C%D8%BA%D9%87-%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-Cromargan-Protect-%D8%AC%D9%84%D8%A7-%D8%AF%D8%A7%D8%AF%D9%87-%D8%B4%D8%AF%D9%87-%D8%A8%D8%B1%D8%A7%D9%82-%D8%B6%D8%AF-%D8%AE%D8%B4-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.971Z"
+    "observedAt": "2026-09-04T13:55:55.265Z"
   },
   {
-    "id": "torobshop-auto-280503308950a13c",
-    "productId": "torobshop-280503308950a13c",
-    "name": "کتری ZWILLING، ۱.۲ لیتر، ۱۵۵۰-۱۸۵۰ وات، استیل ضد زنگ/پلاستیک، نقره‌ای/مشکی",
+    "id": "torobshop-auto-412e480ec7918302",
+    "productId": "torobshop-412e480ec7918302",
+    "name": "همزن فلکسی مینی پروفی پلاس WMF، 21 سانتی‌متر",
     "brand": "",
-    "model": "کتری ZWILLING، ۱.۲ لیتر، ۱۵۵۰-۱۸۵۰ وات، استیل ضد زنگ/پلاستیک، نقره‌ای/مشکی",
+    "model": "همزن فلکسی مینی پروفی پلاس WMF، 21 سانتی‌متر",
     "category": "auto",
     "subcategory": "خودرو",
-    "price": 21316000,
+    "price": 12179000,
     "currency": "IRT",
     "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%DA%A9%D8%AA%D8%B1%DB%8C-ZWILLING-%DB%B1-%DB%B2-%D9%84%DB%8C%D8%AA%D8%B1-%DB%B1%DB%B5%DB%B5%DB%B0-%DB%B1%DB%B8%DB%B5%DB%B0-%D9%88%D8%A7%D8%AA-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C-%D9%85%D8%B4%DA%A9%DB%8C",
+    "productUrl": "https://torobshop.com/products/%D9%87%D9%85%D8%B2%D9%86-%D9%81%D9%84%DA%A9%D8%B3%DB%8C-%D9%85%DB%8C%D9%86%DB%8C-%D9%BE%D8%B1%D9%88%D9%81%DB%8C-%D9%BE%D9%84%D8%A7%D8%B3-WMF-21-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.971Z"
+    "observedAt": "2026-09-04T13:55:55.265Z"
   },
   {
-    "id": "torobshop-auto-d99c3943bcec9400",
-    "productId": "torobshop-d99c3943bcec9400",
-    "name": "چاقوی خود تیز شونده چهار ستاره ZWILLING با مجموعه چاقوی 7 تکه، استیل ضد زنگ، ساخت آلمان، مشکی چهار ستاره مشکی",
+    "id": "torobshop-auto-d39a2f5ac6cd9a7f",
+    "productId": "torobshop-d39a2f5ac6cd9a7f",
+    "name": "سرویس قابلمه 3 پارچه فیسلر آلمان Fissler Original-Profi Collection القایی",
     "brand": "",
-    "model": "چاقوی خود تیز شونده چهار ستاره ZWILLING با مجموعه چاقوی 7 تکه، استیل ضد زنگ، ساخت آلمان، مشکی چهار ستاره مشکی",
+    "model": "سرویس قابلمه 3 پارچه فیسلر آلمان Fissler Original-Profi Collection القایی",
     "category": "auto",
     "subcategory": "خودرو",
-    "price": 63440000,
+    "price": 91335000,
     "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%AE%D9%88%D8%AF-%D8%AA%DB%8C%D8%B2-%D8%B4%D9%88%D9%86%D8%AF%D9%87-%DA%86%D9%87%D8%A7%D8%B1-%D8%B3%D8%AA%D8%A7%D8%B1%D9%87-ZWILLING-%D8%A8%D8%A7-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%DA%86%D8%A7%D9%82%D9%88%DB%8C-7-%D8%AA%DA%A9%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%B4%DA%A9%DB%8C-%DA%86%D9%87%D8%A7%D8%B1-%D8%B3%D8%AA%D8%A7%D8%B1%D9%87-%D9%85%D8%B4%DA%A9%DB%8C",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D8%A7%D8%B5%D9%84%DB%8C-%D8%AD%D8%B1%D9%81%D9%87-%D8%A7%DB%8C-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%DB%B3-%D8%AA%DA%A9%D9%87-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%81%D9%84%D8%B2%DB%8C-%DB%B1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%DB%B1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%DB%B3-%D8%AA%DA%A9%D9%87-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.971Z"
+    "observedAt": "2026-09-04T13:55:55.265Z"
   },
   {
-    "id": "torobshop-auto-56cac7936a06e3f1",
-    "productId": "torobshop-56cac7936a06e3f1",
-    "name": "اتو بخار مخزن دار تفال فرانسه مدل TEF SV8027 ws/beige",
+    "id": "torobshop-auto-aa2dfdb88af5c975",
+    "productId": "torobshop-aa2dfdb88af5c975",
+    "name": "ماهیتابه ZWILLING جوی پلاس 24 سانتی متری",
     "brand": "",
-    "model": "اتو بخار مخزن دار تفال فرانسه مدل TEF SV8027 ws/beige",
+    "model": "ماهیتابه ZWILLING جوی پلاس 24 سانتی متری",
     "category": "auto",
     "subcategory": "خودرو",
-    "price": 53035000,
+    "price": 24615000,
     "currency": "IRT",
     "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%A8%D8%AE%D8%A7%D8%B1%D8%B4%D9%88%DB%8C-%D8%AA%D9%81%D8%A7%D9%84-%D9%85%D8%AF%D9%84-TEF-SV8027-ws-beige",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-ZWILLING-%D8%AC%D9%88%DB%8C-%D9%BE%D9%84%D8%A7%D8%B3-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.971Z"
+    "observedAt": "2026-09-04T13:55:55.265Z"
   },
   {
-    "id": "torobshop-auto-00bf5776f339768d",
-    "productId": "torobshop-00bf5776f339768d",
-    "name": "سرویس قابلمه ۵ پارچه فیسلر آلمان Fissler Palermo Edelstahl پالرمو شامل درب شیشه‌ای (۳ قابلمه، ۱ تابه کباب‌پزی، ۱ قابلمه کوچک) القایی",
+    "id": "torobshop-auto-9087741222a89b21",
+    "productId": "torobshop-9087741222a89b21",
+    "name": "چاقوی آشپزی زولینگ آلمان ZWILLING Gourmet - 18 سانتی‌متر - استیل ضد زنگ - دسته پلاستیکی ارگونومیک - مشکی - تولید آلمان",
     "brand": "",
-    "model": "سرویس قابلمه ۵ پارچه فیسلر آلمان Fissler Palermo Edelstahl پالرمو شامل درب شیشه‌ای (۳ قابلمه، ۱ تابه کباب‌پزی، ۱ قابلمه کوچک) القایی",
+    "model": "چاقوی آشپزی زولینگ آلمان ZWILLING Gourmet - 18 سانتی‌متر - استیل ضد زنگ - دسته پلاستیکی ارگونومیک - مشکی - تولید آلمان",
     "category": "auto",
     "subcategory": "خودرو",
-    "price": 54119000,
+    "price": 23854000,
     "currency": "IRT",
     "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B5-%D8%AA%DA%A9%D9%87-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%BE%D8%A7%D9%84%D8%B1%D9%85%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%87%D8%A7-%D8%B4%D8%A7%D9%85%D9%84-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%DB%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B1-%D8%AA%D8%A7%D8%A8%D9%87-%DA%A9%D8%A8%D8%A7%D8%A8-%D9%BE%D8%B2%DB%8C-%DB%B1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "productUrl": "https://torobshop.com/products/%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%A2%D8%B4%D9%BE%D8%B2%DB%8C-ZWILLING-Gourmet-18-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%AF%D8%B3%D8%AA%D9%87-%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9%DB%8C-%D8%A7%D8%B1%DA%AF%D9%88%D9%86%D9%88%D9%85%DB%8C%DA%A9-%D9%85%D8%B4%DA%A9%DB%8C-%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D8%A2%D9%84%D9%85%D8%A7%D9%86",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.972Z"
+    "observedAt": "2026-09-04T13:55:55.265Z"
+  },
+  {
+    "id": "torobshop-auto-c4580b999e737ac3",
+    "productId": "torobshop-c4580b999e737ac3",
+    "name": "سرویس قاشق و چنگال وی ام اف آلمان WMF Cutlery Set ( 60 پارچه، 12 نفره )",
+    "brand": "",
+    "model": "سرویس قاشق و چنگال وی ام اف آلمان WMF Cutlery Set ( 60 پارچه، 12 نفره )",
+    "category": "auto",
+    "subcategory": "خودرو",
+    "price": 43138000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%DA%A9%D8%A7%D8%B1%D8%AF-%D9%88-%DA%86%D9%86%DA%AF%D8%A7%D9%84-WMF-60-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-12-%D9%86%D9%81%D8%B1%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-Atria-Cromargan-18-10-%D8%A8%D8%B1%D8%A7%D9%82",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T13:55:55.265Z"
   },
   {
     "id": "torobshop-auto-3644b82267dd5165",
@@ -5775,43 +5685,97 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.972Z"
+    "observedAt": "2026-09-04T13:55:55.265Z"
   },
   {
-    "id": "torobshop-auto-4dd091835a22ff69",
-    "productId": "torobshop-4dd091835a22ff69",
-    "name": "زودپز 8 لیتر فیسلر آلمان Fissler Vitaquick 8 L ویتاکوئیک 8 لیتر، قطر 26 سانتی‌متر 2 طبقه پخت، ساخت آلمان - القایی",
+    "id": "torobshop-auto-1fd1146f6f750aa9",
+    "productId": "torobshop-1fd1146f6f750aa9",
+    "name": "سرویس قاشق و چنگال وی ام اف آلمان WMF Tavira برای 12 نفر، 60 پارچه",
     "brand": "",
-    "model": "زودپز 8 لیتر فیسلر آلمان Fissler Vitaquick 8 L ویتاکوئیک 8 لیتر، قطر 26 سانتی‌متر 2 طبقه پخت، ساخت آلمان - القایی",
+    "model": "سرویس قاشق و چنگال وی ام اف آلمان WMF Tavira برای 12 نفر، 60 پارچه",
     "category": "auto",
     "subcategory": "خودرو",
-    "price": 80742000,
+    "price": 65276000,
     "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B2%D9%88%D8%AF%D9%BE%D8%B2-%D8%B2%D9%88%D8%AF%D9%BE%D8%B2-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%88%DB%8C%D8%AA%D8%A7%DA%A9%D9%88%D8%A6%DB%8C%DA%A9-8-%D9%84%DB%8C%D8%AA%D8%B1-%D9%82%D8%B7%D8%B1-26-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-2-%D8%B7%D8%A8%D9%82%D9%87-%D9%BE%D8%AE%D8%AA-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-8-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%DA%A9%D8%A7%D8%B1%D8%AF-%D9%88-%DA%86%D9%86%DA%AF%D8%A7%D9%84-WMF-Tavira-%D8%A8%D8%B1%D8%A7%DB%8C-12-%D9%86%D9%81%D8%B1-60-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-12-%DA%86%D9%86%DA%AF%D8%A7%D9%84-%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%BA%D8%B0%D8%A7%D8%AE%D9%88%D8%B1%DB%8C-%D9%82%D8%A7%D8%B4%D9%82-%DA%86%D9%86%DA%AF%D8%A7%D9%84-%DA%A9%DB%8C%DA%A9-%D9%82%D8%A7%D8%B4%D9%82-%DA%86%D8%A7%DB%8C-%D9%82%D9%87%D9%88%D9%87-%DA%86%D8%A7%D9%82%D9%88%D9%87%D8%A7%DB%8C-%D9%85%D9%88%D9%86%D9%88%D8%A8%D9%84%D9%88%DA%A9-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-Cromargan-%D8%A8%D8%B1%D8%A7%D9%82-%D8%A8%D8%B1%D8%A7%D9%82-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.972Z"
+    "observedAt": "2026-09-04T13:55:55.265Z"
   },
   {
-    "id": "torobshop-auto-e02164e6665f61ef",
-    "productId": "torobshop-e02164e6665f61ef",
-    "name": "ماهیتابه فیسلر آلمان Fissler Pure Collection/Edelstahl (قطر 24 سانتی‌متر) بدون پوشش، پیمانه داخلی",
+    "id": "torobshop-auto-280503308950a13c",
+    "productId": "torobshop-280503308950a13c",
+    "name": "کتری ZWILLING، ۱.۲ لیتر، ۱۵۵۰-۱۸۵۰ وات، استیل ضد زنگ/پلاستیک، نقره‌ای/مشکی",
     "brand": "",
-    "model": "ماهیتابه فیسلر آلمان Fissler Pure Collection/Edelstahl (قطر 24 سانتی‌متر) بدون پوشش، پیمانه داخلی",
+    "model": "کتری ZWILLING، ۱.۲ لیتر، ۱۵۵۰-۱۸۵۰ وات، استیل ضد زنگ/پلاستیک، نقره‌ای/مشکی",
     "category": "auto",
     "subcategory": "خودرو",
-    "price": 35287000,
+    "price": 21316000,
     "currency": "IRT",
     "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D8%AE%D8%A7%D9%84%D8%B5-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%82%D8%B7%D8%B1-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A8%D8%AF%D9%88%D9%86-%D9%BE%D9%88%D8%B4%D8%B4-%D9%BE%DB%8C%D9%85%D8%A7%D9%86%D9%87-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "productUrl": "https://torobshop.com/products/%DA%A9%D8%AA%D8%B1%DB%8C-ZWILLING-%DB%B1-%DB%B2-%D9%84%DB%8C%D8%AA%D8%B1-%DB%B1%DB%B5%DB%B5%DB%B0-%DB%B1%DB%B8%DB%B5%DB%B0-%D9%88%D8%A7%D8%AA-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C-%D9%85%D8%B4%DA%A9%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.972Z"
+    "observedAt": "2026-09-04T13:55:55.265Z"
+  },
+  {
+    "id": "torobshop-auto-d99c3943bcec9400",
+    "productId": "torobshop-d99c3943bcec9400",
+    "name": "چاقوی خود تیز شونده چهار ستاره ZWILLING با مجموعه چاقوی 7 تکه، استیل ضد زنگ، ساخت آلمان، مشکی چهار ستاره مشکی",
+    "brand": "",
+    "model": "چاقوی خود تیز شونده چهار ستاره ZWILLING با مجموعه چاقوی 7 تکه، استیل ضد زنگ، ساخت آلمان، مشکی چهار ستاره مشکی",
+    "category": "auto",
+    "subcategory": "خودرو",
+    "price": 63440000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%AE%D9%88%D8%AF-%D8%AA%DB%8C%D8%B2-%D8%B4%D9%88%D9%86%D8%AF%D9%87-%DA%86%D9%87%D8%A7%D8%B1-%D8%B3%D8%AA%D8%A7%D8%B1%D9%87-ZWILLING-%D8%A8%D8%A7-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%DA%86%D8%A7%D9%82%D9%88%DB%8C-7-%D8%AA%DA%A9%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%B4%DA%A9%DB%8C-%DA%86%D9%87%D8%A7%D8%B1-%D8%B3%D8%AA%D8%A7%D8%B1%D9%87-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T13:55:55.265Z"
+  },
+  {
+    "id": "torobshop-auto-56cac7936a06e3f1",
+    "productId": "torobshop-56cac7936a06e3f1",
+    "name": "اتو بخار مخزن دار تفال فرانسه مدل TEF SV8027 ws/beige",
+    "brand": "",
+    "model": "اتو بخار مخزن دار تفال فرانسه مدل TEF SV8027 ws/beige",
+    "category": "auto",
+    "subcategory": "خودرو",
+    "price": 53035000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%A8%D8%AE%D8%A7%D8%B1%D8%B4%D9%88%DB%8C-%D8%AA%D9%81%D8%A7%D9%84-%D9%85%D8%AF%D9%84-TEF-SV8027-ws-beige",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T13:55:55.265Z"
+  },
+  {
+    "id": "torobshop-auto-00bf5776f339768d",
+    "productId": "torobshop-00bf5776f339768d",
+    "name": "سرویس قابلمه ۵ پارچه فیسلر آلمان Fissler Palermo Edelstahl پالرمو شامل درب شیشه‌ای (۳ قابلمه، ۱ تابه کباب‌پزی، ۱ قابلمه کوچک) القایی",
+    "brand": "",
+    "model": "سرویس قابلمه ۵ پارچه فیسلر آلمان Fissler Palermo Edelstahl پالرمو شامل درب شیشه‌ای (۳ قابلمه، ۱ تابه کباب‌پزی، ۱ قابلمه کوچک) القایی",
+    "category": "auto",
+    "subcategory": "خودرو",
+    "price": 54119000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B5-%D8%AA%DA%A9%D9%87-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%BE%D8%A7%D9%84%D8%B1%D9%85%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%87%D8%A7-%D8%B4%D8%A7%D9%85%D9%84-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%DB%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B1-%D8%AA%D8%A7%D8%A8%D9%87-%DA%A9%D8%A8%D8%A7%D8%A8-%D9%BE%D8%B2%DB%8C-%DB%B1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T13:55:55.265Z"
   },
   {
     "id": "torobshop-auto-a218f27039422c46",
@@ -5829,7 +5793,43 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.972Z"
+    "observedAt": "2026-09-04T13:55:55.265Z"
+  },
+  {
+    "id": "torobshop-auto-4dd091835a22ff69",
+    "productId": "torobshop-4dd091835a22ff69",
+    "name": "زودپز 8 لیتر فیسلر آلمان Fissler Vitaquick 8 L ویتاکوئیک 8 لیتر، قطر 26 سانتی‌متر 2 طبقه پخت، ساخت آلمان - القایی",
+    "brand": "",
+    "model": "زودپز 8 لیتر فیسلر آلمان Fissler Vitaquick 8 L ویتاکوئیک 8 لیتر، قطر 26 سانتی‌متر 2 طبقه پخت، ساخت آلمان - القایی",
+    "category": "auto",
+    "subcategory": "خودرو",
+    "price": 80742000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B2%D9%88%D8%AF%D9%BE%D8%B2-%D8%B2%D9%88%D8%AF%D9%BE%D8%B2-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%88%DB%8C%D8%AA%D8%A7%DA%A9%D9%88%D8%A6%DB%8C%DA%A9-8-%D9%84%DB%8C%D8%AA%D8%B1-%D9%82%D8%B7%D8%B1-26-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-2-%D8%B7%D8%A8%D9%82%D9%87-%D9%BE%D8%AE%D8%AA-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-8-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T13:55:55.265Z"
+  },
+  {
+    "id": "torobshop-auto-e02164e6665f61ef",
+    "productId": "torobshop-e02164e6665f61ef",
+    "name": "ماهیتابه فیسلر آلمان Fissler Pure Collection/Edelstahl (قطر 24 سانتی‌متر) بدون پوشش، پیمانه داخلی",
+    "brand": "",
+    "model": "ماهیتابه فیسلر آلمان Fissler Pure Collection/Edelstahl (قطر 24 سانتی‌متر) بدون پوشش، پیمانه داخلی",
+    "category": "auto",
+    "subcategory": "خودرو",
+    "price": 35287000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D8%AE%D8%A7%D9%84%D8%B5-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%82%D8%B7%D8%B1-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A8%D8%AF%D9%88%D9%86-%D9%BE%D9%88%D8%B4%D8%B4-%D9%BE%DB%8C%D9%85%D8%A7%D9%86%D9%87-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T13:55:55.265Z"
   },
   {
     "id": "torobshop-auto-f06d188d530004ad",
@@ -5847,7 +5847,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.972Z"
+    "observedAt": "2026-09-04T13:55:55.265Z"
   },
   {
     "id": "torobshop-auto-ace9b88e93544c94",
@@ -5865,7 +5865,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.972Z"
+    "observedAt": "2026-09-04T13:55:55.265Z"
   },
   {
     "id": "torobshop-auto-ffbee63b50d31684",
@@ -5883,7 +5883,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.972Z"
+    "observedAt": "2026-09-04T13:55:55.265Z"
   },
   {
     "id": "torobshop-auto-97e8accc87d0f8bf",
@@ -5901,7 +5901,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.972Z"
+    "observedAt": "2026-09-04T13:55:55.265Z"
   },
   {
     "id": "torobshop-auto-8a5c15c91c1a9329",
@@ -5919,7 +5919,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.972Z"
+    "observedAt": "2026-09-04T13:55:55.266Z"
   },
   {
     "id": "torobshop-auto-1dfcfd9dee587f60",
@@ -5937,7 +5937,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.972Z"
+    "observedAt": "2026-09-04T13:55:55.266Z"
   },
   {
     "id": "torobshop-auto-7ac6bac20ad12a2d",
@@ -5955,7 +5955,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.972Z"
+    "observedAt": "2026-09-04T13:55:55.266Z"
   },
   {
     "id": "torobshop-auto-b131b88e24438d96",
@@ -5973,7 +5973,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.972Z"
+    "observedAt": "2026-09-04T13:55:55.266Z"
   },
   {
     "id": "torobshop-auto-f4ac0f14bd21c6cf",
@@ -5991,7 +5991,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.972Z"
+    "observedAt": "2026-09-04T13:55:55.266Z"
   },
   {
     "id": "torobshop-auto-4bffdb79ac43fe15",
@@ -6009,7 +6009,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.972Z"
+    "observedAt": "2026-09-04T13:55:55.266Z"
   },
   {
     "id": "torobshop-auto-fda1fe8cf4de5c5d",
@@ -6027,7 +6027,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.972Z"
+    "observedAt": "2026-09-04T13:55:55.266Z"
   },
   {
     "id": "torobshop-auto-ef0157b54bf022f6",
@@ -6045,43 +6045,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.972Z"
-  },
-  {
-    "id": "torobshop-auto-2f0597d05addbba1",
-    "productId": "torobshop-2f0597d05addbba1",
-    "name": "سودا ساز آب گازدار ساز وی ام اف آلمان WMF Element One دستگاه حباب ساز تمام اتوماتیک نقره ای",
-    "brand": "",
-    "model": "سودا ساز آب گازدار ساز وی ام اف آلمان WMF Element One دستگاه حباب ساز تمام اتوماتیک نقره ای",
-    "category": "auto",
-    "subcategory": "خودرو",
-    "price": 54084000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%DA%AF%D8%A7%D8%B2%D8%AF%D8%A7%D8%B1-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%A2%D8%A8-WMF-Element-One-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%AD%D8%A8%D8%A7%D8%A8-%D8%B3%D8%A7%D8%B2-%D8%AA%D9%85%D8%A7%D9%85-%D8%A7%D8%AA%D9%88%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-%D8%A7%D8%B2-%D8%AC%D9%86%D8%B3-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%A8%D8%A7-3-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%DA%A9%D9%85-%D8%AC%D8%A7-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%86%D9%88%D8%B4%D8%A7%D8%A8%D9%87-%D8%B3%D8%A7%D8%B2-%D8%B2%DB%8C%D8%A8%D8%A7-%D9%88-%DA%AF%D8%A7%D8%B2%D8%AF%D8%A7%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%84%D8%B0%D8%AA-%D8%A8%D8%B1%D8%AF%D9%86-%D8%A7%D8%B2-%D8%B7%D8%B9%D9%85-%DA%AF%D8%A7%D8%B2%D8%AF%D8%A7%D8%B1-%D8%AA%D9%86%D9%87%D8%A7-%D8%A8%D8%A7-%D9%84%D9%85%D8%B3-%DB%8C%DA%A9-%D8%AF%DA%A9%D9%85%D9%87-%D8%B1%D9%86%DA%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.972Z"
-  },
-  {
-    "id": "torobshop-auto-22200afc1cbeec02",
-    "productId": "torobshop-22200afc1cbeec02",
-    "name": "آسیاب نمک و فلفل استیل وی ام اف آلمان مشکی مدل WMF Signature Pro",
-    "brand": "",
-    "model": "آسیاب نمک و فلفل استیل وی ام اف آلمان مشکی مدل WMF Signature Pro",
-    "category": "auto",
-    "subcategory": "خودرو",
-    "price": 23282000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%A2%D8%B3%DB%8C%D8%A7%D8%A8-%D9%86%D9%85%DA%A9-%D9%88-%D9%81%D9%84%D9%81%D9%84-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D9%88%DB%8C-%D8%A7%D9%85-%D8%A7%D9%81-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%B4%DA%A9%DB%8C-%D9%85%D8%AF%D9%84-WMF-Signature-Pro",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.972Z"
+    "observedAt": "2026-09-04T13:55:55.266Z"
   },
   {
     "id": "torobshop-auto-736fe4049676a61e",
@@ -6099,7 +6063,43 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.972Z"
+    "observedAt": "2026-09-04T13:55:55.266Z"
+  },
+  {
+    "id": "torobshop-auto-2f0597d05addbba1",
+    "productId": "torobshop-2f0597d05addbba1",
+    "name": "سودا ساز آب گازدار ساز وی ام اف آلمان WMF Element One دستگاه حباب ساز تمام اتوماتیک نقره ای",
+    "brand": "",
+    "model": "سودا ساز آب گازدار ساز وی ام اف آلمان WMF Element One دستگاه حباب ساز تمام اتوماتیک نقره ای",
+    "category": "auto",
+    "subcategory": "خودرو",
+    "price": 54084000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%DA%AF%D8%A7%D8%B2%D8%AF%D8%A7%D8%B1-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%A2%D8%A8-WMF-Element-One-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%AD%D8%A8%D8%A7%D8%A8-%D8%B3%D8%A7%D8%B2-%D8%AA%D9%85%D8%A7%D9%85-%D8%A7%D8%AA%D9%88%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-%D8%A7%D8%B2-%D8%AC%D9%86%D8%B3-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%A8%D8%A7-3-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%DA%A9%D9%85-%D8%AC%D8%A7-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%86%D9%88%D8%B4%D8%A7%D8%A8%D9%87-%D8%B3%D8%A7%D8%B2-%D8%B2%DB%8C%D8%A8%D8%A7-%D9%88-%DA%AF%D8%A7%D8%B2%D8%AF%D8%A7%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%84%D8%B0%D8%AA-%D8%A8%D8%B1%D8%AF%D9%86-%D8%A7%D8%B2-%D8%B7%D8%B9%D9%85-%DA%AF%D8%A7%D8%B2%D8%AF%D8%A7%D8%B1-%D8%AA%D9%86%D9%87%D8%A7-%D8%A8%D8%A7-%D9%84%D9%85%D8%B3-%DB%8C%DA%A9-%D8%AF%DA%A9%D9%85%D9%87-%D8%B1%D9%86%DA%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T13:55:55.266Z"
+  },
+  {
+    "id": "torobshop-auto-22200afc1cbeec02",
+    "productId": "torobshop-22200afc1cbeec02",
+    "name": "آسیاب نمک و فلفل استیل وی ام اف آلمان مشکی مدل WMF Signature Pro",
+    "brand": "",
+    "model": "آسیاب نمک و فلفل استیل وی ام اف آلمان مشکی مدل WMF Signature Pro",
+    "category": "auto",
+    "subcategory": "خودرو",
+    "price": 23282000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%A2%D8%B3%DB%8C%D8%A7%D8%A8-%D9%86%D9%85%DA%A9-%D9%88-%D9%81%D9%84%D9%81%D9%84-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D9%88%DB%8C-%D8%A7%D9%85-%D8%A7%D9%81-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%B4%DA%A9%DB%8C-%D9%85%D8%AF%D9%84-WMF-Signature-Pro",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T13:55:55.266Z"
   },
   {
     "id": "torobshop-auto-f4e7843bb5d4eb60",
@@ -6117,7 +6117,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.972Z"
+    "observedAt": "2026-09-04T13:55:55.266Z"
   },
   {
     "id": "torobshop-auto-f26fbc6e8dbee708",
@@ -6135,7 +6135,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.972Z"
+    "observedAt": "2026-09-04T13:55:55.266Z"
   },
   {
     "id": "torobshop-auto-595f1b954d0611bd",
@@ -6153,7 +6153,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.972Z"
+    "observedAt": "2026-09-04T13:55:55.266Z"
   },
   {
     "id": "torobshop-auto-3d13a34700e027c0",
@@ -6171,7 +6171,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.972Z"
+    "observedAt": "2026-09-04T13:55:55.266Z"
   },
   {
     "id": "torobshop-auto-19319bed3e2f6069",
@@ -6189,7 +6189,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.972Z"
+    "observedAt": "2026-09-04T13:55:55.266Z"
   },
   {
     "id": "torobshop-auto-a02082729540664c",
@@ -6207,7 +6207,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.972Z"
+    "observedAt": "2026-09-04T13:55:55.266Z"
   },
   {
     "id": "torobshop-auto-f091c9e920c8e1fb",
@@ -6225,7 +6225,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.972Z"
+    "observedAt": "2026-09-04T13:55:55.266Z"
   },
   {
     "id": "torobshop-auto-5ac41723dcef4426",
@@ -6243,7 +6243,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.972Z"
+    "observedAt": "2026-09-04T13:55:55.266Z"
   },
   {
     "id": "torobshop-auto-fbbfc333137fef0f",
@@ -6261,25 +6261,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.972Z"
-  },
-  {
-    "id": "torobshop-auto-98b213756a0f63d3",
-    "productId": "torobshop-98b213756a0f63d3",
-    "name": "سرویس قابلمه ۵ تکه ZWILLING PURE، استیل ضد زنگ ۱۸/۱۰، پوشش بیرونی سرامیکی، دسته‌های خنک‌شونده، قابل شستشو در ماشین ظرفشویی، صورتی رزگلد",
-    "brand": "",
-    "model": "سرویس قابلمه ۵ تکه ZWILLING PURE، استیل ضد زنگ ۱۸/۱۰، پوشش بیرونی سرامیکی، دسته‌های خنک‌شونده، قابل شستشو در ماشین ظرفشویی، صورتی رزگلد",
-    "category": "auto",
-    "subcategory": "خودرو",
-    "price": 107087000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B5-%D8%AA%DA%A9%D9%87-ZWILLING-PURE-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%DB%B1%DB%B8-%DB%B1%DB%B0-%D9%BE%D9%88%D8%B4%D8%B4-%D8%A8%DB%8C%D8%B1%D9%88%D9%86%DB%8C-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D8%AF%D8%B3%D8%AA%D9%87-%D9%87%D8%A7%DB%8C-%D8%AE%D9%86%DA%A9-%D8%B4%D9%88%D9%86%D8%AF%D9%87-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D8%B5%D9%88%D8%B1%D8%AA%DB%8C-%D8%B1%D8%B2%DA%AF%D9%84%D8%AF",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.972Z"
+    "observedAt": "2026-09-04T13:55:55.266Z"
   },
   {
     "id": "torobshop-auto-be60227182487367",
@@ -6297,7 +6279,25 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.972Z"
+    "observedAt": "2026-09-04T13:55:55.266Z"
+  },
+  {
+    "id": "torobshop-auto-98b213756a0f63d3",
+    "productId": "torobshop-98b213756a0f63d3",
+    "name": "سرویس قابلمه ۵ تکه ZWILLING PURE، استیل ضد زنگ ۱۸/۱۰، پوشش بیرونی سرامیکی، دسته‌های خنک‌شونده، قابل شستشو در ماشین ظرفشویی، صورتی رزگلد",
+    "brand": "",
+    "model": "سرویس قابلمه ۵ تکه ZWILLING PURE، استیل ضد زنگ ۱۸/۱۰، پوشش بیرونی سرامیکی، دسته‌های خنک‌شونده، قابل شستشو در ماشین ظرفشویی، صورتی رزگلد",
+    "category": "auto",
+    "subcategory": "خودرو",
+    "price": 107087000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B5-%D8%AA%DA%A9%D9%87-ZWILLING-PURE-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%DB%B1%DB%B8-%DB%B1%DB%B0-%D9%BE%D9%88%D8%B4%D8%B4-%D8%A8%DB%8C%D8%B1%D9%88%D9%86%DB%8C-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D8%AF%D8%B3%D8%AA%D9%87-%D9%87%D8%A7%DB%8C-%D8%AE%D9%86%DA%A9-%D8%B4%D9%88%D9%86%D8%AF%D9%87-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D8%B5%D9%88%D8%B1%D8%AA%DB%8C-%D8%B1%D8%B2%DA%AF%D9%84%D8%AF",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T13:55:55.266Z"
   },
   {
     "id": "torobshop-auto-d3f802410104b943",
@@ -6315,7 +6315,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.972Z"
+    "observedAt": "2026-09-04T13:55:55.266Z"
   },
   {
     "id": "torobshop-auto-0f347f93a4676672",
@@ -6333,7 +6333,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.972Z"
+    "observedAt": "2026-09-04T13:55:55.266Z"
   },
   {
     "id": "torobshop-auto-cb5f45612fc319e4",
@@ -6351,7 +6351,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.972Z"
+    "observedAt": "2026-09-04T13:55:55.266Z"
   },
   {
     "id": "torobshop-auto-a447d48449c2d499",
@@ -6369,7 +6369,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.972Z"
+    "observedAt": "2026-09-04T13:55:55.266Z"
   },
   {
     "id": "torobshop-auto-71ebfae235e91ed5",
@@ -6387,7 +6387,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.972Z"
+    "observedAt": "2026-09-04T13:55:55.266Z"
   },
   {
     "id": "torobshop-auto-51edff8c55bfb262",
@@ -6405,7 +6405,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.972Z"
+    "observedAt": "2026-09-04T13:55:55.266Z"
   },
   {
     "id": "torobshop-auto-f99dae95f9641652",
@@ -6423,7 +6423,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.972Z"
+    "observedAt": "2026-09-04T13:55:55.266Z"
   },
   {
     "id": "torobshop-auto-6bc05672d0e139cd",
@@ -6441,7 +6441,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.972Z"
+    "observedAt": "2026-09-04T13:55:55.266Z"
   },
   {
     "id": "torobshop-auto-6b776fc230756800",
@@ -6459,7 +6459,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.972Z"
+    "observedAt": "2026-09-04T13:55:55.266Z"
   },
   {
     "id": "torobshop-auto-f2622dc414824191",
@@ -6477,7 +6477,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.972Z"
+    "observedAt": "2026-09-04T13:55:55.266Z"
   },
   {
     "id": "torobshop-auto-640c8324f81a46bb",
@@ -6495,7 +6495,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.972Z"
+    "observedAt": "2026-09-04T13:55:55.266Z"
   },
   {
     "id": "torobshop-auto-c54b5b958054a1a2",
@@ -6513,25 +6513,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.972Z"
-  },
-  {
-    "id": "torobshop-auto-43b61e0733cc7171",
-    "productId": "torobshop-43b61e0733cc7171",
-    "name": "اتو موی فیلیپس ترموپروتکت - موهایی نرم و براق به لطف عملکرد یونیزاسیون، فناوری ترموپروتکت (مدل BHS378/00) BHS378/00 با عملکرد یونیزاسیون",
-    "brand": "",
-    "model": "اتو موی فیلیپس ترموپروتکت - موهایی نرم و براق به لطف عملکرد یونیزاسیون، فناوری ترموپروتکت (مدل BHS378/00) BHS378/00 با عملکرد یونیزاسیون",
-    "category": "auto",
-    "subcategory": "خودرو",
-    "price": 13449000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%A7%D8%AA%D9%88-%D9%85%D9%88%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%AA%D8%B1%D9%85%D9%88%D9%BE%D8%B1%D9%88%D8%AA%DA%A9%D8%AA-%D9%85%D9%88%D9%87%D8%A7%DB%8C%DB%8C-%D9%86%D8%B1%D9%85-%D9%88-%D8%A8%D8%B1%D8%A7%D9%82-%D8%A8%D9%87-%D9%84%D8%B7%D9%81-%D8%B9%D9%85%D9%84%DA%A9%D8%B1%D8%AF-%DB%8C%D9%88%D9%86%DB%8C%D8%B2%D8%A7%D8%B3%DB%8C%D9%88%D9%86-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-%D8%AA%D8%B1%D9%85%D9%88%D9%BE%D8%B1%D9%88%D8%AA%DA%A9%D8%AA-%D9%85%D8%AF%D9%84-BHS378-00-BHS378-00-%D8%A8%D8%A7-%D8%B9%D9%85%D9%84%DA%A9%D8%B1%D8%AF-%DB%8C%D9%88%D9%86%DB%8C%D8%B2%D8%A7%D8%B3%DB%8C%D9%88%D9%86",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.972Z"
+    "observedAt": "2026-09-04T13:55:55.266Z"
   },
   {
     "id": "torobshop-auto-7f66ba1a4f7ddbfb",
@@ -6549,7 +6531,25 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.972Z"
+    "observedAt": "2026-09-04T13:55:55.266Z"
+  },
+  {
+    "id": "torobshop-auto-43b61e0733cc7171",
+    "productId": "torobshop-43b61e0733cc7171",
+    "name": "اتو موی فیلیپس ترموپروتکت - موهایی نرم و براق به لطف عملکرد یونیزاسیون، فناوری ترموپروتکت (مدل BHS378/00) BHS378/00 با عملکرد یونیزاسیون",
+    "brand": "",
+    "model": "اتو موی فیلیپس ترموپروتکت - موهایی نرم و براق به لطف عملکرد یونیزاسیون، فناوری ترموپروتکت (مدل BHS378/00) BHS378/00 با عملکرد یونیزاسیون",
+    "category": "auto",
+    "subcategory": "خودرو",
+    "price": 13449000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D8%AA%D9%88-%D9%85%D9%88%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%AA%D8%B1%D9%85%D9%88%D9%BE%D8%B1%D9%88%D8%AA%DA%A9%D8%AA-%D9%85%D9%88%D9%87%D8%A7%DB%8C%DB%8C-%D9%86%D8%B1%D9%85-%D9%88-%D8%A8%D8%B1%D8%A7%D9%82-%D8%A8%D9%87-%D9%84%D8%B7%D9%81-%D8%B9%D9%85%D9%84%DA%A9%D8%B1%D8%AF-%DB%8C%D9%88%D9%86%DB%8C%D8%B2%D8%A7%D8%B3%DB%8C%D9%88%D9%86-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-%D8%AA%D8%B1%D9%85%D9%88%D9%BE%D8%B1%D9%88%D8%AA%DA%A9%D8%AA-%D9%85%D8%AF%D9%84-BHS378-00-BHS378-00-%D8%A8%D8%A7-%D8%B9%D9%85%D9%84%DA%A9%D8%B1%D8%AF-%DB%8C%D9%88%D9%86%DB%8C%D8%B2%D8%A7%D8%B3%DB%8C%D9%88%D9%86",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T13:55:55.266Z"
   },
   {
     "id": "torobshop-auto-f699a00edc06f489",
@@ -6567,7 +6567,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.972Z"
+    "observedAt": "2026-09-04T13:55:55.266Z"
   },
   {
     "id": "torobshop-auto-a59cff30443c154a",
@@ -6585,7 +6585,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.972Z"
+    "observedAt": "2026-09-04T13:55:55.266Z"
   },
   {
     "id": "torobshop-auto-af7462ce98ee2999",
@@ -6603,7 +6603,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.972Z"
+    "observedAt": "2026-09-04T13:55:55.266Z"
   },
   {
     "id": "torobshop-auto-f6c6e72a28882975",
@@ -6621,7 +6621,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.972Z"
+    "observedAt": "2026-09-04T13:55:55.266Z"
   },
   {
     "id": "torobshop-auto-7c82cddc2d9efd1c",
@@ -6639,7 +6639,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.972Z"
+    "observedAt": "2026-09-04T13:55:55.266Z"
   },
   {
     "id": "torobshop-auto-a942a79dda5b87df",
@@ -6657,7 +6657,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.972Z"
+    "observedAt": "2026-09-04T13:55:55.266Z"
   },
   {
     "id": "torobshop-auto-e4ec7bd10ffa8b50",
@@ -6675,7 +6675,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.972Z"
+    "observedAt": "2026-09-04T13:55:55.266Z"
   },
   {
     "id": "torobshop-auto-7bbb1f19505b28fd",
@@ -6693,7 +6693,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.972Z"
+    "observedAt": "2026-09-04T13:55:55.266Z"
   },
   {
     "id": "torobshop-auto-5bc21e4edaa526cc",
@@ -6711,7 +6711,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.972Z"
+    "observedAt": "2026-09-04T13:55:55.266Z"
   },
   {
     "id": "torobshop-auto-45d6aa9c3fd53ad4",
@@ -6729,7 +6729,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.972Z"
+    "observedAt": "2026-09-04T13:55:55.266Z"
   },
   {
     "id": "torobshop-auto-9d62a66000d436e1",
@@ -6747,7 +6747,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.973Z"
+    "observedAt": "2026-09-04T13:55:55.266Z"
   },
   {
     "id": "torobshop-auto-c876f51b5b5d7dae",
@@ -6765,7 +6765,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.973Z"
+    "observedAt": "2026-09-04T13:55:55.266Z"
   },
   {
     "id": "torobshop-auto-1abb58c93aa4d049",
@@ -6783,7 +6783,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.973Z"
+    "observedAt": "2026-09-04T13:55:55.266Z"
   },
   {
     "id": "torobshop-auto-400b05dca029ee01",
@@ -6801,7 +6801,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.973Z"
+    "observedAt": "2026-09-04T13:55:55.266Z"
   },
   {
     "id": "torobshop-auto-27109e9fc58673fd",
@@ -6819,7 +6819,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.973Z"
+    "observedAt": "2026-09-04T13:55:55.266Z"
   },
   {
     "id": "torobshop-auto-766b0f80e67074f9",
@@ -6837,7 +6837,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.973Z"
+    "observedAt": "2026-09-04T13:55:55.266Z"
   },
   {
     "id": "torobshop-auto-6c0960e9008fddf6",
@@ -6855,7 +6855,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.973Z"
+    "observedAt": "2026-09-04T13:55:55.266Z"
   },
   {
     "id": "torobshop-auto-074febbf09bd3065",
@@ -6873,7 +6873,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.973Z"
+    "observedAt": "2026-09-04T13:55:55.266Z"
   },
   {
     "id": "torobshop-auto-508a955227952a9d",
@@ -6891,7 +6891,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.973Z"
+    "observedAt": "2026-09-04T13:55:55.267Z"
   },
   {
     "id": "torobshop-auto-dc3a8d1c6feb961b",
@@ -6909,7 +6909,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.973Z"
+    "observedAt": "2026-09-04T13:55:55.267Z"
   },
   {
     "id": "torobshop-auto-5e70d562a3ef7192",
@@ -6927,7 +6927,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.973Z"
+    "observedAt": "2026-09-04T13:55:55.267Z"
   },
   {
     "id": "torobshop-auto-d6551c8766b38613",
@@ -6945,7 +6945,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.973Z"
+    "observedAt": "2026-09-04T13:55:55.267Z"
   },
   {
     "id": "torobshop-auto-2cb3b869608c8a13",
@@ -6963,7 +6963,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.973Z"
+    "observedAt": "2026-09-04T13:55:55.267Z"
   },
   {
     "id": "torobshop-auto-6e4a2eb26d23a745",
@@ -6981,7 +6981,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.973Z"
+    "observedAt": "2026-09-04T13:55:55.267Z"
   },
   {
     "id": "torobshop-auto-967849182031e292",
@@ -6999,7 +6999,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.973Z"
+    "observedAt": "2026-09-04T13:55:55.267Z"
   },
   {
     "id": "torobshop-auto-b6d1e42e39dc67ab",
@@ -7017,7 +7017,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.973Z"
+    "observedAt": "2026-09-04T13:55:55.267Z"
   },
   {
     "id": "torobshop-auto-7c140bba2434e29a",
@@ -7035,7 +7035,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.973Z"
+    "observedAt": "2026-09-04T13:55:55.267Z"
   },
   {
     "id": "torobshop-auto-2182240d0b4b05fe",
@@ -7053,7 +7053,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.973Z"
+    "observedAt": "2026-09-04T13:55:55.267Z"
   },
   {
     "id": "torobshop-auto-52384f9bcf5e57ca",
@@ -7071,25 +7071,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.973Z"
-  },
-  {
-    "id": "torobshop-auto-e93d0f8dd3711a93",
-    "productId": "torobshop-e93d0f8dd3711a93",
-    "name": "ست زیبایی براون سیلک-اپیل ۹-۹۹۵ لوکس ۹ کاره، رفع موهای زائد خشک و مرطوب بی‌سیم - اپیلاتور، تیغ، لایه‌برداری، کیت تمیزکننده برای صورت و بدن",
-    "brand": "",
-    "model": "ست زیبایی براون سیلک-اپیل ۹-۹۹۵ لوکس ۹ کاره، رفع موهای زائد خشک و مرطوب بی‌سیم - اپیلاتور، تیغ، لایه‌برداری، کیت تمیزکننده برای صورت و بدن",
-    "category": "auto",
-    "subcategory": "خودرو",
-    "price": 57857000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%AA-%D8%B2%DB%8C%D8%A8%D8%A7%DB%8C%DB%8C-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B3%DB%8C%D9%84%DA%A9-%D8%A7%D9%BE%DB%8C%D9%84-%DB%B9-%DB%B9%DB%B9%DB%B5-%D9%84%D9%88%DA%A9%D8%B3-%DB%B9-%DA%A9%D8%A7%D8%B1%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AE%D8%B4%DA%A9-%D9%88-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D8%A8%DB%8C-%D8%B3%DB%8C%D9%85-%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%AA%DB%8C%D8%BA-%D9%84%D8%A7%DB%8C%D9%87-%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C-%DA%A9%DB%8C%D8%AA-%D8%AA%D9%85%DB%8C%D8%B2%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B5%D9%88%D8%B1%D8%AA-%D9%88-%D8%A8%D8%AF%D9%86",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.973Z"
+    "observedAt": "2026-09-04T13:55:55.267Z"
   },
   {
     "id": "torobshop-auto-733ef1e66d9b337b",
@@ -7107,7 +7089,25 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.973Z"
+    "observedAt": "2026-09-04T13:55:55.267Z"
+  },
+  {
+    "id": "torobshop-auto-e93d0f8dd3711a93",
+    "productId": "torobshop-e93d0f8dd3711a93",
+    "name": "ست زیبایی براون سیلک-اپیل ۹-۹۹۵ لوکس ۹ کاره، رفع موهای زائد خشک و مرطوب بی‌سیم - اپیلاتور، تیغ، لایه‌برداری، کیت تمیزکننده برای صورت و بدن",
+    "brand": "",
+    "model": "ست زیبایی براون سیلک-اپیل ۹-۹۹۵ لوکس ۹ کاره، رفع موهای زائد خشک و مرطوب بی‌سیم - اپیلاتور، تیغ، لایه‌برداری، کیت تمیزکننده برای صورت و بدن",
+    "category": "auto",
+    "subcategory": "خودرو",
+    "price": 57857000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%AA-%D8%B2%DB%8C%D8%A8%D8%A7%DB%8C%DB%8C-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B3%DB%8C%D9%84%DA%A9-%D8%A7%D9%BE%DB%8C%D9%84-%DB%B9-%DB%B9%DB%B9%DB%B5-%D9%84%D9%88%DA%A9%D8%B3-%DB%B9-%DA%A9%D8%A7%D8%B1%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AE%D8%B4%DA%A9-%D9%88-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D8%A8%DB%8C-%D8%B3%DB%8C%D9%85-%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%AA%DB%8C%D8%BA-%D9%84%D8%A7%DB%8C%D9%87-%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C-%DA%A9%DB%8C%D8%AA-%D8%AA%D9%85%DB%8C%D8%B2%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B5%D9%88%D8%B1%D8%AA-%D9%88-%D8%A8%D8%AF%D9%86",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T13:55:55.267Z"
   },
   {
     "id": "torobshop-auto-8b93c7ea550544bf",
@@ -7125,7 +7125,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.973Z"
+    "observedAt": "2026-09-04T13:55:55.267Z"
   },
   {
     "id": "torobshop-auto-391c9855ce3adbee",
@@ -7143,7 +7143,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.973Z"
+    "observedAt": "2026-09-04T13:55:55.267Z"
   },
   {
     "id": "torobshop-auto-80504a6da4da0683",
@@ -7161,7 +7161,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.973Z"
+    "observedAt": "2026-09-04T13:55:55.267Z"
   },
   {
     "id": "torobshop-auto-f0ab07848df05c09",
@@ -7179,7 +7179,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.973Z"
+    "observedAt": "2026-09-04T13:55:55.267Z"
   },
   {
     "id": "torobshop-auto-e364f422cc177d5d",
@@ -7197,7 +7197,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.973Z"
+    "observedAt": "2026-09-04T13:55:55.267Z"
   },
   {
     "id": "torobshop-auto-9195692751acb6cb",
@@ -7215,7 +7215,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.973Z"
+    "observedAt": "2026-09-04T13:55:55.267Z"
   },
   {
     "id": "torobshop-auto-6ba05ec79330884d",
@@ -7233,7 +7233,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.973Z"
+    "observedAt": "2026-09-04T13:55:55.267Z"
   },
   {
     "id": "torobshop-auto-f7e7ecdbe9c782b9",
@@ -7251,7 +7251,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.973Z"
+    "observedAt": "2026-09-04T13:55:55.267Z"
   },
   {
     "id": "torobshop-auto-7f7cef16b95ceef4",
@@ -7269,7 +7269,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.973Z"
+    "observedAt": "2026-09-04T13:55:55.267Z"
   },
   {
     "id": "torobshop-auto-b6f7b97e0a41fcce",
@@ -7287,7 +7287,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.973Z"
+    "observedAt": "2026-09-04T13:55:55.267Z"
   },
   {
     "id": "torobshop-auto-1abc4d3d93984fc9",
@@ -7305,7 +7305,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.973Z"
+    "observedAt": "2026-09-04T13:55:55.267Z"
   },
   {
     "id": "torobshop-auto-333eed5c812fb391",
@@ -7323,7 +7323,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.973Z"
+    "observedAt": "2026-09-04T13:55:55.267Z"
   },
   {
     "id": "torobshop-auto-45f8a3eeff0791c7",
@@ -7341,7 +7341,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.973Z"
+    "observedAt": "2026-09-04T13:55:55.267Z"
   },
   {
     "id": "torobshop-auto-bff623028ca50588",
@@ -7359,7 +7359,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.973Z"
+    "observedAt": "2026-09-04T13:55:55.267Z"
   },
   {
     "id": "torobshop-auto-d5e3206967150e5a",
@@ -7377,7 +7377,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.973Z"
+    "observedAt": "2026-09-04T13:55:55.267Z"
   },
   {
     "id": "torobshop-auto-591d2fa02319cbe4",
@@ -7395,7 +7395,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.973Z"
+    "observedAt": "2026-09-04T13:55:55.267Z"
   },
   {
     "id": "torobshop-auto-2a6259b902f04fb9",
@@ -7413,7 +7413,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.973Z"
+    "observedAt": "2026-09-04T13:55:55.267Z"
   },
   {
     "id": "torobshop-auto-fb66328b02aeada9",
@@ -7431,7 +7431,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.973Z"
+    "observedAt": "2026-09-04T13:55:55.267Z"
   },
   {
     "id": "torobshop-auto-ef59c7447c918481",
@@ -7449,7 +7449,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.973Z"
+    "observedAt": "2026-09-04T13:55:55.267Z"
   },
   {
     "id": "torobshop-auto-ec0c6101e09fd316",
@@ -7467,7 +7467,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.973Z"
+    "observedAt": "2026-09-04T13:55:55.267Z"
   },
   {
     "id": "torobshop-auto-4b1136653b8c3865",
@@ -7485,7 +7485,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.973Z"
+    "observedAt": "2026-09-04T13:55:55.267Z"
   },
   {
     "id": "torobshop-auto-99dbc61e2d2488d7",
@@ -7503,25 +7503,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.973Z"
-  },
-  {
-    "id": "torobshop-auto-3fe480d61f801988",
-    "productId": "torobshop-3fe480d61f801988",
-    "name": "اپیلاتور زنانه براون آلمان Braun Silk·épil 9 SkinSpa، مجموعه همه کاره، سر چرخان، رفع موهای زائد خشک و مرطوب، ضد آب، شامل برس لایه بردار، پد ماساژ، تیغ، ماشین اصلاح، ماشین اصلاح صورت، 9-381، نقره ای",
-    "brand": "",
-    "model": "اپیلاتور زنانه براون آلمان Braun Silk·épil 9 SkinSpa، مجموعه همه کاره، سر چرخان، رفع موهای زائد خشک و مرطوب، ضد آب، شامل برس لایه بردار، پد ماساژ، تیغ، ماشین اصلاح، ماشین اصلاح صورت، 9-381، نقره ای",
-    "category": "auto",
-    "subcategory": "خودرو",
-    "price": 71053000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-Braun-Silk-pil-9-SkinSpa-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D9%87%D9%85%D9%87-%DA%A9%D8%A7%D8%B1%D9%87-%D8%B3%D8%B1-%DA%86%D8%B1%D8%AE%D8%A7%D9%86-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AE%D8%B4%DA%A9-%D9%88-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D8%B6%D8%AF-%D8%A2%D8%A8-%D8%B4%D8%A7%D9%85%D9%84-%D8%A8%D8%B1%D8%B3-%D9%84%D8%A7%DB%8C%D9%87-%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1-%D9%BE%D8%AF-%D9%85%D8%A7%D8%B3%D8%A7%DA%98-%D8%AA%DB%8C%D8%BA-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%B5%D9%88%D8%B1%D8%AA-9-381-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.973Z"
+    "observedAt": "2026-09-04T13:55:55.267Z"
   },
   {
     "id": "torobshop-auto-091330dc970a0bbe",
@@ -7539,7 +7521,25 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.973Z"
+    "observedAt": "2026-09-04T13:55:55.267Z"
+  },
+  {
+    "id": "torobshop-auto-3fe480d61f801988",
+    "productId": "torobshop-3fe480d61f801988",
+    "name": "اپیلاتور زنانه براون آلمان Braun Silk·épil 9 SkinSpa، مجموعه همه کاره، سر چرخان، رفع موهای زائد خشک و مرطوب، ضد آب، شامل برس لایه بردار، پد ماساژ، تیغ، ماشین اصلاح، ماشین اصلاح صورت، 9-381، نقره ای",
+    "brand": "",
+    "model": "اپیلاتور زنانه براون آلمان Braun Silk·épil 9 SkinSpa، مجموعه همه کاره، سر چرخان، رفع موهای زائد خشک و مرطوب، ضد آب، شامل برس لایه بردار، پد ماساژ، تیغ، ماشین اصلاح، ماشین اصلاح صورت، 9-381، نقره ای",
+    "category": "auto",
+    "subcategory": "خودرو",
+    "price": 71053000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-Braun-Silk-pil-9-SkinSpa-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D9%87%D9%85%D9%87-%DA%A9%D8%A7%D8%B1%D9%87-%D8%B3%D8%B1-%DA%86%D8%B1%D8%AE%D8%A7%D9%86-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AE%D8%B4%DA%A9-%D9%88-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D8%B6%D8%AF-%D8%A2%D8%A8-%D8%B4%D8%A7%D9%85%D9%84-%D8%A8%D8%B1%D8%B3-%D9%84%D8%A7%DB%8C%D9%87-%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1-%D9%BE%D8%AF-%D9%85%D8%A7%D8%B3%D8%A7%DA%98-%D8%AA%DB%8C%D8%BA-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%B5%D9%88%D8%B1%D8%AA-9-381-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T13:55:55.267Z"
   },
   {
     "id": "torobshop-auto-9c53c942a980e1d6",
@@ -7557,7 +7557,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.973Z"
+    "observedAt": "2026-09-04T13:55:55.267Z"
   },
   {
     "id": "torobshop-auto-20c5a20079487b1a",
@@ -7575,7 +7575,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.973Z"
+    "observedAt": "2026-09-04T13:55:55.267Z"
   },
   {
     "id": "torobshop-auto-acc19b901c8b2ad8",
@@ -7593,7 +7593,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.973Z"
+    "observedAt": "2026-09-04T13:55:55.267Z"
   },
   {
     "id": "torobshop-auto-74fc37b5d70bd7c1",
@@ -7611,7 +7611,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.973Z"
+    "observedAt": "2026-09-04T13:55:55.267Z"
   },
   {
     "id": "torobshop-auto-215471b6024642b7",
@@ -7629,7 +7629,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.973Z"
+    "observedAt": "2026-09-04T13:55:55.267Z"
   },
   {
     "id": "torobshop-auto-69bba0d6d694a47d",
@@ -7647,7 +7647,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.974Z"
+    "observedAt": "2026-09-04T13:55:55.267Z"
   },
   {
     "id": "torobshop-auto-a95fac45da84a72b",
@@ -7665,25 +7665,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.974Z"
-  },
-  {
-    "id": "torobshop-auto-01be123cfbff3d67",
-    "productId": "torobshop-01be123cfbff3d67",
-    "name": "اپیلاتور زنانه براون آلمان Silk-épil 9 برای رفع موهای زائد با ماندگاری طولانی، ریش‌تراش زنانه، سری اصلاح، سری اصلاح، مدل 9-041، سفید/نقره‌ای",
-    "brand": "",
-    "model": "اپیلاتور زنانه براون آلمان Silk-épil 9 برای رفع موهای زائد با ماندگاری طولانی، ریش‌تراش زنانه، سری اصلاح، سری اصلاح، مدل 9-041، سفید/نقره‌ای",
-    "category": "auto",
-    "subcategory": "خودرو",
-    "price": 36795000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D9%85%D9%88%D8%A8%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D9%85%D8%AF%D9%84-Silk-pil-9-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%D8%A7-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1%DB%8C-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%85%D8%AF%D9%84-9-041-%D8%B3%D9%81%DB%8C%D8%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.974Z"
+    "observedAt": "2026-09-04T13:55:55.267Z"
   },
   {
     "id": "torobshop-auto-27f7af68d3543ffb",
@@ -7701,7 +7683,25 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.974Z"
+    "observedAt": "2026-09-04T13:55:55.267Z"
+  },
+  {
+    "id": "torobshop-auto-01be123cfbff3d67",
+    "productId": "torobshop-01be123cfbff3d67",
+    "name": "اپیلاتور زنانه براون آلمان Silk-épil 9 برای رفع موهای زائد با ماندگاری طولانی، ریش‌تراش زنانه، سری اصلاح، سری اصلاح، مدل 9-041، سفید/نقره‌ای",
+    "brand": "",
+    "model": "اپیلاتور زنانه براون آلمان Silk-épil 9 برای رفع موهای زائد با ماندگاری طولانی، ریش‌تراش زنانه، سری اصلاح، سری اصلاح، مدل 9-041، سفید/نقره‌ای",
+    "category": "auto",
+    "subcategory": "خودرو",
+    "price": 36795000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D9%85%D9%88%D8%A8%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D9%85%D8%AF%D9%84-Silk-pil-9-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%D8%A7-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1%DB%8C-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%85%D8%AF%D9%84-9-041-%D8%B3%D9%81%DB%8C%D8%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T13:55:55.267Z"
   },
   {
     "id": "torobshop-auto-ac9daafe2ea5d5bc",
@@ -7719,7 +7719,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.974Z"
+    "observedAt": "2026-09-04T13:55:55.267Z"
   },
   {
     "id": "torobshop-auto-ed3206a7c4997ceb",
@@ -7737,7 +7737,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.974Z"
+    "observedAt": "2026-09-04T13:55:55.267Z"
   },
   {
     "id": "torobshop-auto-ab3241a3e4a91b6d",
@@ -7755,7 +7755,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.974Z"
+    "observedAt": "2026-09-04T13:55:55.267Z"
   },
   {
     "id": "torobshop-auto-5939ecdc87bd4f0d",
@@ -7773,7 +7773,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.974Z"
+    "observedAt": "2026-09-04T13:55:55.267Z"
   },
   {
     "id": "torobshop-auto-db81d40bcc397e16",
@@ -7791,7 +7791,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.974Z"
+    "observedAt": "2026-09-04T13:55:55.267Z"
   },
   {
     "id": "torobshop-auto-08320ee86e550b3d",
@@ -7809,7 +7809,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.974Z"
+    "observedAt": "2026-09-04T13:55:55.268Z"
   },
   {
     "id": "torobshop-auto-3e4d9495e052b1b8",
@@ -7827,7 +7827,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.974Z"
+    "observedAt": "2026-09-04T13:55:55.268Z"
   },
   {
     "id": "torobshop-auto-301beb96f2df717f",
@@ -7845,7 +7845,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.974Z"
+    "observedAt": "2026-09-04T13:55:55.268Z"
   },
   {
     "id": "torobshop-auto-a5fddfc8c0c99048",
@@ -7863,7 +7863,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.974Z"
+    "observedAt": "2026-09-04T13:55:55.268Z"
   },
   {
     "id": "torobshop-auto-834858ae4530d775",
@@ -7881,7 +7881,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.974Z"
+    "observedAt": "2026-09-04T13:55:55.268Z"
   },
   {
     "id": "torobshop-auto-2798976de6f0cc81",
@@ -7899,7 +7899,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.974Z"
+    "observedAt": "2026-09-04T13:55:55.268Z"
   },
   {
     "id": "torobshop-auto-1059c1f184e3d8b3",
@@ -7917,7 +7917,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.974Z"
+    "observedAt": "2026-09-04T13:55:55.268Z"
   },
   {
     "id": "torobshop-auto-68a4dab928f7c962",
@@ -7935,7 +7935,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.974Z"
+    "observedAt": "2026-09-04T13:55:55.268Z"
   },
   {
     "id": "torobshop-auto-d5b957f7df4ff03f",
@@ -7953,7 +7953,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.974Z"
+    "observedAt": "2026-09-04T13:55:55.268Z"
   },
   {
     "id": "torobshop-auto-707702931ea634d8",
@@ -7971,7 +7971,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.974Z"
+    "observedAt": "2026-09-04T13:55:55.268Z"
   },
   {
     "id": "torobshop-auto-d8e34bb113f4f352",
@@ -7989,7 +7989,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.974Z"
+    "observedAt": "2026-09-04T13:55:55.268Z"
   },
   {
     "id": "torobshop-auto-2a3268e48e6a43b8",
@@ -8007,7 +8007,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.974Z"
+    "observedAt": "2026-09-04T13:55:55.268Z"
   },
   {
     "id": "torobshop-auto-28255666c26f658a",
@@ -8025,7 +8025,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.974Z"
+    "observedAt": "2026-09-04T13:55:55.268Z"
   },
   {
     "id": "torobshop-auto-9a0fccac9db69875",
@@ -8043,7 +8043,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.974Z"
+    "observedAt": "2026-09-04T13:55:55.268Z"
   },
   {
     "id": "torobshop-auto-93e51ab5d27d6671",
@@ -8061,7 +8061,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T12:01:17.974Z"
+    "observedAt": "2026-09-04T13:55:55.268Z"
   },
   {
     "id": "web-auto-8e7802b73c6488e0",
@@ -8078,7 +8078,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-04T11:42:41.777Z"
+    "observedAt": "2026-09-04T13:36:39.473Z"
   },
   {
     "id": "web-auto-03dd3c3ec42208f6",
@@ -8095,7 +8095,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-04T11:42:41.777Z"
+    "observedAt": "2026-09-04T13:36:39.473Z"
   },
   {
     "id": "web-auto-88da4f2a8f1766a7",
@@ -8112,7 +8112,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-04T11:42:41.777Z"
+    "observedAt": "2026-09-04T13:36:39.473Z"
   },
   {
     "id": "web-auto-e5b9060bc45609d2",
@@ -8129,7 +8129,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-04T11:42:41.777Z"
+    "observedAt": "2026-09-04T13:36:39.473Z"
   },
   {
     "id": "web-auto-aae5046f6cb390b4",
@@ -8146,7 +8146,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-04T11:42:41.777Z"
+    "observedAt": "2026-09-04T13:36:39.473Z"
   },
   {
     "id": "web-auto-6e0c1809c20ae99c",
@@ -8163,7 +8163,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-04T11:42:41.777Z"
+    "observedAt": "2026-09-04T13:36:39.473Z"
   },
   {
     "id": "web-auto-a7556396a2d63ab9",
@@ -8180,7 +8180,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-04T11:42:41.777Z"
+    "observedAt": "2026-09-04T13:36:39.473Z"
   },
   {
     "id": "web-auto-b6e8b1b0af6b196d",
@@ -8197,7 +8197,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-04T11:42:41.777Z"
+    "observedAt": "2026-09-04T13:36:39.473Z"
   },
   {
     "id": "web-auto-35f57f87d50fc0d7",
@@ -8214,7 +8214,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-04T11:42:41.777Z"
+    "observedAt": "2026-09-04T13:36:39.473Z"
   },
   {
     "id": "web-auto-b39be8bafb2c0026",
@@ -8231,7 +8231,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-04T11:42:41.777Z"
+    "observedAt": "2026-09-04T13:36:39.473Z"
   },
   {
     "id": "web-auto-c2ff57a4aa0cda5d",
@@ -8248,7 +8248,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-04T11:42:41.777Z"
+    "observedAt": "2026-09-04T13:36:39.473Z"
   },
   {
     "id": "web-auto-c8cd29ceca46bb74",
@@ -8265,7 +8265,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-04T11:42:41.777Z"
+    "observedAt": "2026-09-04T13:36:39.473Z"
   },
   {
     "id": "web-auto-a93bf7eeca4f6948",
@@ -8282,7 +8282,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-04T11:42:41.777Z"
+    "observedAt": "2026-09-04T13:36:39.473Z"
   },
   {
     "id": "web-auto-35a7d30b2c4c2fa5",
@@ -8299,7 +8299,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-04T11:42:41.777Z"
+    "observedAt": "2026-09-04T13:36:39.473Z"
   },
   {
     "id": "web-auto-9eceaf281b731e00",
@@ -8316,7 +8316,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-04T11:42:41.777Z"
+    "observedAt": "2026-09-04T13:36:39.473Z"
   },
   {
     "id": "web-auto-16884c81434050d5",
@@ -8333,7 +8333,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-04T11:42:41.777Z"
+    "observedAt": "2026-09-04T13:36:39.473Z"
   },
   {
     "id": "web-auto-f9c406821eee023d",
@@ -8350,7 +8350,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-04T11:42:41.777Z"
+    "observedAt": "2026-09-04T13:36:39.473Z"
   },
   {
     "id": "web-auto-3389fab22b60d0ff",
@@ -8367,7 +8367,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-04T11:42:41.777Z"
+    "observedAt": "2026-09-04T13:36:39.473Z"
   },
   {
     "id": "web-auto-7da4c7c665d04de9",
@@ -8384,7 +8384,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-04T11:42:41.778Z"
+    "observedAt": "2026-09-04T13:36:39.473Z"
   },
   {
     "id": "web-auto-9a58e5a83ecf5913",
@@ -8401,7 +8401,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-04T11:42:41.778Z"
+    "observedAt": "2026-09-04T13:36:39.473Z"
   },
   {
     "id": "web-auto-89126bad201dabcd",
@@ -8418,7 +8418,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-04T11:42:41.778Z"
+    "observedAt": "2026-09-04T13:36:39.473Z"
   },
   {
     "id": "web-auto-c47cfa522a850f15",
@@ -8435,7 +8435,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-04T11:42:41.778Z"
+    "observedAt": "2026-09-04T13:36:39.473Z"
   },
   {
     "id": "web-auto-1f3a727bfa0881ff",
@@ -8452,7 +8452,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-04T11:42:41.778Z"
+    "observedAt": "2026-09-04T13:36:39.473Z"
   },
   {
     "id": "web-auto-d71b99eea083a92e",
@@ -8469,7 +8469,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-04T11:42:41.778Z"
+    "observedAt": "2026-09-04T13:36:39.473Z"
   },
   {
     "id": "web-auto-5023fcc4758a1a50",
@@ -8486,7 +8486,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-04T11:42:41.778Z"
+    "observedAt": "2026-09-04T13:36:39.473Z"
   },
   {
     "id": "web-auto-4c877c5f0ca65c82",
@@ -8503,7 +8503,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-04T11:42:41.778Z"
+    "observedAt": "2026-09-04T13:36:39.474Z"
   },
   {
     "id": "web-auto-c4d134631725175a",
@@ -8520,7 +8520,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-04T11:42:41.778Z"
+    "observedAt": "2026-09-04T13:36:39.474Z"
   },
   {
     "id": "web-auto-bfe39bc61c956b69",
@@ -8537,7 +8537,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-04T11:42:41.778Z"
+    "observedAt": "2026-09-04T13:36:39.474Z"
   },
   {
     "id": "web-auto-641f5a919d2410d1",
@@ -8554,7 +8554,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-04T11:42:41.778Z"
+    "observedAt": "2026-09-04T13:36:39.474Z"
   },
   {
     "id": "web-auto-7fa74875f882f0da",
@@ -8571,7 +8571,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-04T11:42:41.778Z"
+    "observedAt": "2026-09-04T13:36:39.474Z"
   },
   {
     "id": "web-auto-39564c5b3e0848bb",
@@ -8588,7 +8588,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-auto",
     "sourceUrl": "https://www.technolife.com/category/car-motor",
     "source": "web-catalog:technolife-auto",
-    "observedAt": "2026-09-04T11:42:41.778Z"
+    "observedAt": "2026-09-04T13:36:39.474Z"
   },
   {
     "id": "web-auto-5ca3f3921b325395",
@@ -8605,7 +8605,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-car-parts",
     "sourceUrl": "https://www.technolife.com/category/car-motor/car-utilities",
     "source": "web-catalog:technolife-car-parts",
-    "observedAt": "2026-09-04T11:42:58.425Z"
+    "observedAt": "2026-09-04T13:36:56.378Z"
   },
   {
     "id": "web-auto-4ad11a60a903c5c8",
@@ -8622,7 +8622,7 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-car-parts",
     "sourceUrl": "https://www.technolife.com/category/car-motor/car-utilities",
     "source": "web-catalog:technolife-car-parts",
-    "observedAt": "2026-09-04T11:42:58.425Z"
+    "observedAt": "2026-09-04T13:36:56.378Z"
   },
   {
     "id": "web-auto-b6d18cc3c6004108",
@@ -8639,6 +8639,6 @@ export const AUTO_PRODUCTS = [
     "sourceId": "technolife-car-parts",
     "sourceUrl": "https://www.technolife.com/category/car-motor/car-utilities",
     "source": "web-catalog:technolife-car-parts",
-    "observedAt": "2026-09-04T11:42:58.425Z"
+    "observedAt": "2026-09-04T13:36:56.378Z"
   }
 ];
