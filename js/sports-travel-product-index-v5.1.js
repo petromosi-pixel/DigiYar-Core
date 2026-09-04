@@ -1,5 +1,41 @@
 export const SPORTS_TRAVEL_PRODUCTS = [
   {
+    "id": "torobshop-sports-travel-b6676462f8f23ff0",
+    "productId": "torobshop-b6676462f8f23ff0",
+    "name": "قابلمه القایی WMF Diadem Plus، 20 سانتی‌متر - 3.7 لیتر، قابل شستشو در ماشین ظرفشویی",
+    "brand": "",
+    "model": "قابلمه القایی WMF Diadem Plus، 20 سانتی‌متر - 3.7 لیتر، قابل شستشو در ماشین ظرفشویی",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 16770000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-WMF-Diadem-Plus-20-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-3-7-%D9%84%DB%8C%D8%AA%D8%B1-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.960Z"
+  },
+  {
+    "id": "torobshop-sports-travel-a08d253c08b46a7c",
+    "productId": "torobshop-a08d253c08b46a7c",
+    "name": "سرویس قابلمه و تابه استیل ضد زنگ 5 تکه Ninja EverClad، مدل C95005EUI",
+    "brand": "",
+    "model": "سرویس قابلمه و تابه استیل ضد زنگ 5 تکه Ninja EverClad، مدل C95005EUI",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 110279000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-5-%D8%AA%DA%A9%D9%87-Ninja-EverClad-%D9%85%D8%AF%D9%84-C95005EUI",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.960Z"
+  },
+  {
     "id": "torobshop-sports-travel-716dda0dbff9c54f",
     "productId": "torobshop-716dda0dbff9c54f",
     "name": "بلندگوهای بی‌سیم HiFi KEF LSX II LT (سفید سنگی، جفت)",
@@ -15,7 +51,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.083Z"
+    "observedAt": "2026-09-04T21:24:42.960Z"
   },
   {
     "id": "torobshop-sports-travel-42afd1ca9ea774d6",
@@ -33,7 +69,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.083Z"
+    "observedAt": "2026-09-04T21:24:42.960Z"
   },
   {
     "id": "torobshop-sports-travel-3930a114dca5ba93",
@@ -51,7 +87,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.083Z"
+    "observedAt": "2026-09-04T21:24:42.960Z"
   },
   {
     "id": "torobshop-sports-travel-aaa22eb952374f54",
@@ -69,7 +105,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.083Z"
+    "observedAt": "2026-09-04T21:24:42.960Z"
   },
   {
     "id": "torobshop-sports-travel-6313ab97d41a2b56",
@@ -87,7 +123,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.083Z"
+    "observedAt": "2026-09-04T21:24:42.960Z"
   },
   {
     "id": "torobshop-sports-travel-f6f4fe1c061400be",
@@ -105,7 +141,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.083Z"
+    "observedAt": "2026-09-04T21:24:42.960Z"
   },
   {
     "id": "torobshop-sports-travel-f84a10872070200f",
@@ -123,7 +159,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.083Z"
+    "observedAt": "2026-09-04T21:24:42.961Z"
   },
   {
     "id": "torobshop-sports-travel-be5c8240bad9b96b",
@@ -141,7 +177,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.083Z"
+    "observedAt": "2026-09-04T21:24:42.961Z"
   },
   {
     "id": "torobshop-sports-travel-6ea4ce76135ec585",
@@ -159,7 +195,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.083Z"
+    "observedAt": "2026-09-04T21:24:42.961Z"
   },
   {
     "id": "torobshop-sports-travel-66ec5ac305e2c66d",
@@ -177,7 +213,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.083Z"
+    "observedAt": "2026-09-04T21:24:42.961Z"
   },
   {
     "id": "torobshop-sports-travel-550a8f87070e67b2",
@@ -195,7 +231,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.083Z"
+    "observedAt": "2026-09-04T21:24:42.961Z"
   },
   {
     "id": "torobshop-sports-travel-82dd733a006aec80",
@@ -213,7 +249,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.083Z"
+    "observedAt": "2026-09-04T21:24:42.961Z"
   },
   {
     "id": "torobshop-sports-travel-b0ab596ed23cc867",
@@ -231,7 +267,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.083Z"
+    "observedAt": "2026-09-04T21:24:42.961Z"
   },
   {
     "id": "torobshop-sports-travel-81b8042dfd25e040",
@@ -249,7 +285,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.083Z"
+    "observedAt": "2026-09-04T21:24:42.961Z"
   },
   {
     "id": "torobshop-sports-travel-971de75d275ec060",
@@ -267,7 +303,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.083Z"
+    "observedAt": "2026-09-04T21:24:42.961Z"
   },
   {
     "id": "torobshop-sports-travel-6984e0fba2f0f5ab",
@@ -285,7 +321,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.083Z"
+    "observedAt": "2026-09-04T21:24:42.961Z"
   },
   {
     "id": "torobshop-sports-travel-043774655c5e9707",
@@ -303,7 +339,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.083Z"
+    "observedAt": "2026-09-04T21:24:42.961Z"
   },
   {
     "id": "torobshop-sports-travel-96e722182c1b89a6",
@@ -321,7 +357,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.083Z"
+    "observedAt": "2026-09-04T21:24:42.961Z"
   },
   {
     "id": "torobshop-sports-travel-d62f3f3a89e25a47",
@@ -339,7 +375,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.083Z"
+    "observedAt": "2026-09-04T21:24:42.961Z"
   },
   {
     "id": "torobshop-sports-travel-c91c69b83e4ddd45",
@@ -357,7 +393,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.083Z"
+    "observedAt": "2026-09-04T21:24:42.961Z"
   },
   {
     "id": "torobshop-sports-travel-6d073e89debc0957",
@@ -375,7 +411,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.083Z"
+    "observedAt": "2026-09-04T21:24:42.961Z"
   },
   {
     "id": "torobshop-sports-travel-2f1de49dbfea70aa",
@@ -393,7 +429,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.083Z"
+    "observedAt": "2026-09-04T21:24:42.961Z"
   },
   {
     "id": "torobshop-sports-travel-688de6c889730421",
@@ -411,7 +447,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.083Z"
+    "observedAt": "2026-09-04T21:24:42.961Z"
   },
   {
     "id": "torobshop-sports-travel-6f75db36753d61cb",
@@ -429,7 +465,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.083Z"
+    "observedAt": "2026-09-04T21:24:42.961Z"
   },
   {
     "id": "torobshop-sports-travel-1d0f8b752067584c",
@@ -447,7 +483,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.083Z"
+    "observedAt": "2026-09-04T21:24:42.961Z"
   },
   {
     "id": "torobshop-sports-travel-9588e88bfa202297",
@@ -465,7 +501,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.083Z"
+    "observedAt": "2026-09-04T21:24:42.961Z"
   },
   {
     "id": "torobshop-sports-travel-564f6efd33ed7c72",
@@ -483,7 +519,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.083Z"
+    "observedAt": "2026-09-04T21:24:42.961Z"
   },
   {
     "id": "torobshop-sports-travel-db51956256cf2a9e",
@@ -501,7 +537,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.083Z"
+    "observedAt": "2026-09-04T21:24:42.961Z"
   },
   {
     "id": "torobshop-sports-travel-6c602e399b74265b",
@@ -519,7 +555,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.083Z"
+    "observedAt": "2026-09-04T21:24:42.961Z"
   },
   {
     "id": "torobshop-sports-travel-69bf454eaf5c015b",
@@ -537,7 +573,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.083Z"
+    "observedAt": "2026-09-04T21:24:42.961Z"
   },
   {
     "id": "torobshop-sports-travel-9b36373adadaf4fd",
@@ -555,7 +591,835 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.083Z"
+    "observedAt": "2026-09-04T21:24:42.961Z"
+  },
+  {
+    "id": "torobshop-sports-travel-725f8385c6d5a7e5",
+    "productId": "torobshop-725f8385c6d5a7e5",
+    "name": "ماهیتابه استیل ضد زنگ نینجا فودی زیرو استیک 30 سانتی‌متر [C60030EU] پوشش نچسب، سازگار با اجاق القایی، قابل شستشو در ماشین ظرفشویی",
+    "brand": "",
+    "model": "ماهیتابه استیل ضد زنگ نینجا فودی زیرو استیک 30 سانتی‌متر [C60030EU] پوشش نچسب، سازگار با اجاق القایی، قابل شستشو در ماشین ظرفشویی",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 19565000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%81%D9%88%D8%AF%DB%8C-%D8%B2%DB%8C%D8%B1%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-30-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-C60030EU-%D9%BE%D9%88%D8%B4%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.961Z"
+  },
+  {
+    "id": "torobshop-sports-travel-0bb955aeed702a07",
+    "productId": "torobshop-0bb955aeed702a07",
+    "name": "ماهیتابه استیل ضد زنگ نینجا فودی زیرو استیک ۲۸ سانتی‌متر، بادوام، نچسب، سازگار با اجاق القایی، قابل استفاده در فر و ماشین ظرفشویی، مدل C60028EU",
+    "brand": "",
+    "model": "ماهیتابه استیل ضد زنگ نینجا فودی زیرو استیک ۲۸ سانتی‌متر، بادوام، نچسب، سازگار با اجاق القایی، قابل استفاده در فر و ماشین ظرفشویی، مدل C60028EU",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 24647000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%81%D9%88%D8%AF%DB%8C-%D8%B2%DB%8C%D8%B1%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-%DB%B2%DB%B8-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A8%D8%A7%D8%AF%D9%88%D8%A7%D9%85-%D9%86%DA%86%D8%B3%D8%A8-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%81%D8%B1-%D9%88-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D9%85%D8%AF%D9%84-C60028EU",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.961Z"
+  },
+  {
+    "id": "torobshop-sports-travel-452caddaba905dc5",
+    "productId": "torobshop-452caddaba905dc5",
+    "name": "ماهیتابه استیل ضد زنگ نینجا فودی زیرو استیک ۲۴ سانتی‌متر، بادوام، نچسب، مناسب برای استفاده با اجاق القایی، قابل استفاده در فر و ماشین ظرفشویی، مدل C60024EU",
+    "brand": "",
+    "model": "ماهیتابه استیل ضد زنگ نینجا فودی زیرو استیک ۲۴ سانتی‌متر، بادوام، نچسب، مناسب برای استفاده با اجاق القایی، قابل استفاده در فر و ماشین ظرفشویی، مدل C60024EU",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 19057000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%81%D9%88%D8%AF%DB%8C-%D8%B2%DB%8C%D8%B1%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-%DB%B2%DB%B4-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A8%D8%A7%D8%AF%D9%88%D8%A7%D9%85-%D9%86%DA%86%D8%B3%D8%A8-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%81%D8%B1-%D9%88-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D9%85%D8%AF%D9%84-C60024EU",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.961Z"
+  },
+  {
+    "id": "torobshop-sports-travel-1ee86f1c9c267ad6",
+    "productId": "torobshop-1ee86f1c9c267ad6",
+    "name": "سرویس قابلمه و ماهیتابه نینجا CK89010BF، نچسب، با طول عمر بالا، سرویس پخت و پز سرامیکی، 10 تکه، بدون PFOA، مناسب برای فر تا دمای 176 درجه سانتیگراد، سازگار با القایی، 10 تکه",
+    "brand": "",
+    "model": "سرویس قابلمه و ماهیتابه نینجا CK89010BF، نچسب، با طول عمر بالا، سرویس پخت و پز سرامیکی، 10 تکه، بدون PFOA، مناسب برای فر تا دمای 176 درجه سانتیگراد، سازگار با القایی، 10 تکه",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 78516000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-CK89010BF-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%A7-%D8%B7%D9%88%D9%84-%D8%B9%D9%85%D8%B1-%D8%A8%D8%A7%D9%84%D8%A7-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%BE%D8%AE%D8%AA-%D9%88-%D9%BE%D8%B2-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-10-%D8%AA%DA%A9%D9%87-%D8%A8%D8%AF%D9%88%D9%86-PFOA-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-176-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-10-%D8%AA%DA%A9%D9%87",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.961Z"
+  },
+  {
+    "id": "torobshop-sports-travel-1a31c0998951f872",
+    "productId": "torobshop-1a31c0998951f872",
+    "name": "سرویس قابلمه و تابه استیل ضد زنگ 5 تکه Ninja Foodi ZEROSTICK [C65000EU] نچسب، سازگار با القایی، قابل شستشو در ماشین ظرفشویی",
+    "brand": "",
+    "model": "سرویس قابلمه و تابه استیل ضد زنگ 5 تکه Ninja Foodi ZEROSTICK [C65000EU] نچسب، سازگار با القایی، قابل شستشو در ماشین ظرفشویی",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 26426000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-5-%D8%AA%DA%A9%D9%87-Ninja-Foodi-ZEROSTICK-C65000EU-%D9%86%DA%86%D8%B3%D8%A8-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.961Z"
+  },
+  {
+    "id": "torobshop-sports-travel-b1ab7543e51d9a1e",
+    "productId": "torobshop-b1ab7543e51d9a1e",
+    "name": "قابلمه شیر استیل ضد زنگ نینجا فودی زیرو استیک، ۱۴ سانتی‌متر، بادوام، نچسب، مناسب برای استفاده با اجاق القایی، قابل استفاده در فر و ماشین ظرفشویی، مدل C60214EU",
+    "brand": "",
+    "model": "قابلمه شیر استیل ضد زنگ نینجا فودی زیرو استیک، ۱۴ سانتی‌متر، بادوام، نچسب، مناسب برای استفاده با اجاق القایی، قابل استفاده در فر و ماشین ظرفشویی، مدل C60214EU",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 12196000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%B4%DB%8C%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%81%D9%88%D8%AF%DB%8C-%D8%B2%DB%8C%D8%B1%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-%DB%B1%DB%B4-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A8%D8%A7%D8%AF%D9%88%D8%A7%D9%85-%D9%86%DA%86%D8%B3%D8%A8-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%81%D8%B1-%D9%88-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D9%85%D8%AF%D9%84-C60214EU",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.961Z"
+  },
+  {
+    "id": "torobshop-sports-travel-75c5c1f7dd89f660",
+    "productId": "torobshop-75c5c1f7dd89f660",
+    "name": "سرویس ماهیتابه دو تکه استیل ضد زنگ Ninja Foodi ZEROSTICK (20 سانتی متر / 28 سانتی متر) [C62000EU] نچسب، سازگار با اجاق القایی، قابل شستشو در ماشین ظرفشویی",
+    "brand": "",
+    "model": "سرویس ماهیتابه دو تکه استیل ضد زنگ Ninja Foodi ZEROSTICK (20 سانتی متر / 28 سانتی متر) [C62000EU] نچسب، سازگار با اجاق القایی، قابل شستشو در ماشین ظرفشویی",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 33033000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%AF%D9%88-%D8%AA%DA%A9%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-Ninja-Foodi-ZEROSTICK-20-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-28-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-C62000EU-%D9%86%DA%86%D8%B3%D8%A8-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.961Z"
+  },
+  {
+    "id": "torobshop-sports-travel-1bc7d98427271752",
+    "productId": "torobshop-1bc7d98427271752",
+    "name": "ماهیتابه استیل ضد زنگ نینجا فودی زیرو استیک ۲۶ سانتی‌متر، بادوام، نچسب، مناسب برای استفاده با اجاق القایی، قابل استفاده در فر و ماشین ظرفشویی، مدل C60126EU",
+    "brand": "",
+    "model": "ماهیتابه استیل ضد زنگ نینجا فودی زیرو استیک ۲۶ سانتی‌متر، بادوام، نچسب، مناسب برای استفاده با اجاق القایی، قابل استفاده در فر و ماشین ظرفشویی، مدل C60126EU",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 36844000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%81%D9%88%D8%AF%DB%8C-%D8%B2%DB%8C%D8%B1%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-%DB%B2%DB%B6-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A8%D8%A7%D8%AF%D9%88%D8%A7%D9%85-%D9%86%DA%86%D8%B3%D8%A8-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%81%D8%B1-%D9%88-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D9%85%D8%AF%D9%84-C60126EU",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.961Z"
+  },
+  {
+    "id": "torobshop-sports-travel-db326c19924c1c83",
+    "productId": "torobshop-db326c19924c1c83",
+    "name": "ماهیتابه استیل ضد زنگ نینجا فودی زیرو استیک 20 سانتی‌متر، بادوام، نچسب، سازگار با اجاق القایی، قابل استفاده در فر و ماشین ظرفشویی، مدل C60020EU",
+    "brand": "",
+    "model": "ماهیتابه استیل ضد زنگ نینجا فودی زیرو استیک 20 سانتی‌متر، بادوام، نچسب، سازگار با اجاق القایی، قابل استفاده در فر و ماشین ظرفشویی، مدل C60020EU",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 23377000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%81%D9%88%D8%AF%DB%8C-%D8%B2%DB%8C%D8%B1%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-20-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A8%D8%A7%D8%AF%D9%88%D8%A7%D9%85-%D9%86%DA%86%D8%B3%D8%A8-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%81%D8%B1-%D9%88-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D9%85%D8%AF%D9%84-C60020EU",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.961Z"
+  },
+  {
+    "id": "torobshop-sports-travel-38b570ec98372839",
+    "productId": "torobshop-38b570ec98372839",
+    "name": "سرویس ماهیتابه دو تکه استیل ضد زنگ نینجا فودی زیرو استیک، 24 سانتی‌متر/28 سانتی‌متر، بادوام، نچسب، سازگار با اجاق‌های القایی، قابل استفاده در فر و ماشین ظرفشویی، مدل C62200EU",
+    "brand": "",
+    "model": "سرویس ماهیتابه دو تکه استیل ضد زنگ نینجا فودی زیرو استیک، 24 سانتی‌متر/28 سانتی‌متر، بادوام، نچسب، سازگار با اجاق‌های القایی، قابل استفاده در فر و ماشین ظرفشویی، مدل C62200EU",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 33795000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%AF%D9%88-%D8%AA%DA%A9%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%81%D9%88%D8%AF%DB%8C-%D8%B2%DB%8C%D8%B1%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-28-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A8%D8%A7%D8%AF%D9%88%D8%A7%D9%85-%D9%86%DA%86%D8%B3%D8%A8-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D9%87%D8%A7%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%81%D8%B1-%D9%88-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D9%85%D8%AF%D9%84-C62200EU",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.961Z"
+  },
+  {
+    "id": "torobshop-sports-travel-51525e00ba66dc85",
+    "productId": "torobshop-51525e00ba66dc85",
+    "name": "سرویس قابلمه استیل ضد زنگ سه تکه نینجا اورکلاد با درب، مناسب برای انواع اجاق گاز، از جمله اجاق القایی، مناسب برای فر تا دمای 300 درجه سانتیگراد، پایه القایی پیوسته، مدل C93003EUI",
+    "brand": "",
+    "model": "سرویس قابلمه استیل ضد زنگ سه تکه نینجا اورکلاد با درب، مناسب برای انواع اجاق گاز، از جمله اجاق القایی، مناسب برای فر تا دمای 300 درجه سانتیگراد، پایه القایی پیوسته، مدل C93003EUI",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 41164000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%B3%D9%87-%D8%AA%DA%A9%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A7%D9%88%D8%B1%DA%A9%D9%84%D8%A7%D8%AF-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D8%A7%D8%B2-%D8%AC%D9%85%D9%84%D9%87-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-300-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D9%BE%D8%A7%DB%8C%D9%87-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%BE%DB%8C%D9%88%D8%B3%D8%AA%D9%87-%D9%85%D8%AF%D9%84-C93003EUI",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.961Z"
+  },
+  {
+    "id": "torobshop-sports-travel-d5d32c623c74bd66",
+    "productId": "torobshop-d5d32c623c74bd66",
+    "name": "سرویس ماهیتابه استیل ضد زنگ دو تکه نینجا اورکلاد، مدل C92000EUI",
+    "brand": "",
+    "model": "سرویس ماهیتابه استیل ضد زنگ دو تکه نینجا اورکلاد، مدل C92000EUI",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 68352000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%AF%D9%88-%D8%AA%DA%A9%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A7%D9%88%D8%B1%DA%A9%D9%84%D8%A7%D8%AF-%D9%85%D8%AF%D9%84-C92000EUI",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.961Z"
+  },
+  {
+    "id": "torobshop-sports-travel-5edabe07534b749b",
+    "productId": "torobshop-5edabe07534b749b",
+    "name": "ماهیتابه استیل ضد زنگ نینجا اورکلاد (28 سانتی‌متر)، مناسب برای انواع اجاق گاز، از جمله اجاق القایی، مناسب برای فر تا دمای 300 درجه سانتیگراد، پایه القایی پیوسته، مدل C90028EUI",
+    "brand": "",
+    "model": "ماهیتابه استیل ضد زنگ نینجا اورکلاد (28 سانتی‌متر)، مناسب برای انواع اجاق گاز، از جمله اجاق القایی، مناسب برای فر تا دمای 300 درجه سانتیگراد، پایه القایی پیوسته، مدل C90028EUI",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 39131000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A7%D9%88%D8%B1%DA%A9%D9%84%D8%A7%D8%AF-28-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D8%A7%D8%B2-%D8%AC%D9%85%D9%84%D9%87-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-300-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D9%BE%D8%A7%DB%8C%D9%87-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%BE%DB%8C%D9%88%D8%B3%D8%AA%D9%87-%D9%85%D8%AF%D9%84-C90028EUI",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.961Z"
+  },
+  {
+    "id": "torobshop-sports-travel-5b4a02cf13efdcfb",
+    "productId": "torobshop-5b4a02cf13efdcfb",
+    "name": "سرویس قابلمه و ماهیتابه 7 پارچه نینجا اورکلاد مدل C99007 از جنس استیل ضد زنگ، مناسب برای انواع اجاق گاز و اجاق القایی، مناسب برای فر تا دمای 315 درجه سانتیگراد، سه لایه، کیفیت استاندارد، 7 پارچه",
+    "brand": "",
+    "model": "سرویس قابلمه و ماهیتابه 7 پارچه نینجا اورکلاد مدل C99007 از جنس استیل ضد زنگ، مناسب برای انواع اجاق گاز و اجاق القایی، مناسب برای فر تا دمای 315 درجه سانتیگراد، سه لایه، کیفیت استاندارد، 7 پارچه",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 74705000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-7-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A7%D9%88%D8%B1%DA%A9%D9%84%D8%A7%D8%AF-%D9%85%D8%AF%D9%84-C99007-%D8%A7%D8%B2-%D8%AC%D9%86%D8%B3-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D9%88-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-315-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D8%B3%D9%87-%D9%84%D8%A7%DB%8C%D9%87-%DA%A9%DB%8C%D9%81%DB%8C%D8%AA-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%AF%D8%A7%D8%B1%D8%AF-7-%D9%BE%D8%A7%D8%B1%DA%86%D9%87",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.961Z"
+  },
+  {
+    "id": "torobshop-sports-travel-e16e63f5a9627912",
+    "productId": "torobshop-e16e63f5a9627912",
+    "name": "ماهیتابه استیل ضد زنگ نینجا اورکلاد (24 سانتی‌متر)، مناسب برای انواع اجاق گاز، از جمله اجاق القایی، مناسب برای فر تا دمای 300 درجه سانتیگراد، پایه القایی پیوسته، مدل C90024EUI",
+    "brand": "",
+    "model": "ماهیتابه استیل ضد زنگ نینجا اورکلاد (24 سانتی‌متر)، مناسب برای انواع اجاق گاز، از جمله اجاق القایی، مناسب برای فر تا دمای 300 درجه سانتیگراد، پایه القایی پیوسته، مدل C90024EUI",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 43959000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A7%D9%88%D8%B1%DA%A9%D9%84%D8%A7%D8%AF-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D8%A7%D8%B2-%D8%AC%D9%85%D9%84%D9%87-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-300-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D9%BE%D8%A7%DB%8C%D9%87-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%BE%DB%8C%D9%88%D8%B3%D8%AA%D9%87-%D9%85%D8%AF%D9%84-C90024EUI",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.961Z"
+  },
+  {
+    "id": "torobshop-sports-travel-6f344ad80be292b7",
+    "productId": "torobshop-6f344ad80be292b7",
+    "name": "قابلمه استیل ضد زنگ نینجا اورکلاد (18 سانتی‌متر) با درب، مناسب برای انواع اجاق گاز، حتی اجاق القایی، مناسب برای فر تا دمای 300 درجه سانتیگراد، پایه القایی پیوسته، C90218EUI",
+    "brand": "",
+    "model": "قابلمه استیل ضد زنگ نینجا اورکلاد (18 سانتی‌متر) با درب، مناسب برای انواع اجاق گاز، حتی اجاق القایی، مناسب برای فر تا دمای 300 درجه سانتیگراد، پایه القایی پیوسته، C90218EUI",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 37606000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A7%D9%88%D8%B1%DA%A9%D9%84%D8%A7%D8%AF-18-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D8%AD%D8%AA%DB%8C-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-300-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D9%BE%D8%A7%DB%8C%D9%87-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%BE%DB%8C%D9%88%D8%B3%D8%AA%D9%87-C90218EUI",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.961Z"
+  },
+  {
+    "id": "torobshop-sports-travel-81068c1886acd27e",
+    "productId": "torobshop-81068c1886acd27e",
+    "name": "سرویس قابلمه سه تکه Ninja Foodi ZEROSTICK Vivid، قابلمه‌های ۱۶، ۱۸ و ۲۰ سانتی‌متری، آلومینیومی، روکش نچسب، ضد خش، مناسب برای استفاده با اجاق القایی، قابل استفاده در فر تا دمای ۲۰۰ درجه سانتیگراد، قابل شستشو در ماشین ظرفشویی، قرمز تیره، C23000EU",
+    "brand": "",
+    "model": "سرویس قابلمه سه تکه Ninja Foodi ZEROSTICK Vivid، قابلمه‌های ۱۶، ۱۸ و ۲۰ سانتی‌متری، آلومینیومی، روکش نچسب، ضد خش، مناسب برای استفاده با اجاق القایی، قابل استفاده در فر تا دمای ۲۰۰ درجه سانتیگراد، قابل شستشو در ماشین ظرفشویی، قرمز تیره، C23000EU",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 54885000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%B3%D9%87-%D8%AA%DA%A9%D9%87-Ninja-Foodi-ZEROSTICK-Vivid-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%87%D8%A7%DB%8C-%DB%B1%DB%B6-%DB%B1%DB%B8-%D9%88-%DB%B2%DB%B0-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C-%D8%A2%D9%84%D9%88%D9%85%DB%8C%D9%86%DB%8C%D9%88%D9%85%DB%8C-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D8%B6%D8%AF-%D8%AE%D8%B4-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-%DB%B2%DB%B0%DB%B0-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D9%82%D8%B1%D9%85%D8%B2-%D8%AA%DB%8C%D8%B1%D9%87-C23000EU",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.961Z"
+  },
+  {
+    "id": "torobshop-sports-travel-0511220ad6c012d6",
+    "productId": "torobshop-0511220ad6c012d6",
+    "name": "سرویس قابلمه ۸ تکه نینجا C28000 Foodi NeverStick Vivid با درب، نچسب، بادوام و مناسب برای فر تا دمای ۲۰۰ درجه سانتیگراد، دسته‌های خنک شونده، بنفش",
+    "brand": "",
+    "model": "سرویس قابلمه ۸ تکه نینجا C28000 Foodi NeverStick Vivid با درب، نچسب، بادوام و مناسب برای فر تا دمای ۲۰۰ درجه سانتیگراد، دسته‌های خنک شونده، بنفش",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 120443000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B8-%D8%AA%DA%A9%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-C28000-Foodi-NeverStick-Vivid-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%A7%D8%AF%D9%88%D8%A7%D9%85-%D9%88-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-%DB%B2%DB%B0%DB%B0-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D8%AF%D8%B3%D8%AA%D9%87-%D9%87%D8%A7%DB%8C-%D8%AE%D9%86%DA%A9-%D8%B4%D9%88%D9%86%D8%AF%D9%87-%D8%A8%D9%86%D9%81%D8%B4",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.961Z"
+  },
+  {
+    "id": "torobshop-sports-travel-52a42e6060959a65",
+    "productId": "torobshop-52a42e6060959a65",
+    "name": "قابلمه نچسب نینجا مدل Foodi NeverStick PossiblePan، سرویس ممتاز با ظرفیت ۴ لیتر، سبد بخارپز/صافی، بادوام و مناسب برای فر تا دمای ۲۶۰ درجه سانتیگراد، رنگ خاکستری دریا",
+    "brand": "",
+    "model": "قابلمه نچسب نینجا مدل Foodi NeverStick PossiblePan، سرویس ممتاز با ظرفیت ۴ لیتر، سبد بخارپز/صافی، بادوام و مناسب برای فر تا دمای ۲۶۰ درجه سانتیگراد، رنگ خاکستری دریا",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 31508000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%86%DA%86%D8%B3%D8%A8-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%85%D8%AF%D9%84-Foodi-NeverStick-PossiblePan-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%85%D9%85%D8%AA%D8%A7%D8%B2-%D8%A8%D8%A7-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-%DB%B4-%D9%84%DB%8C%D8%AA%D8%B1-%D8%B3%D8%A8%D8%AF-%D8%A8%D8%AE%D8%A7%D8%B1%D9%BE%D8%B2-%D8%B5%D8%A7%D9%81%DB%8C-%D8%A8%D8%A7%D8%AF%D9%88%D8%A7%D9%85-%D9%88-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-%DB%B2%DB%B6%DB%B0-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D8%B1%D9%86%DA%AF-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C-%D8%AF%D8%B1%DB%8C%D8%A7",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.961Z"
+  },
+  {
+    "id": "torobshop-sports-travel-fcb903533e900733",
+    "productId": "torobshop-fcb903533e900733",
+    "name": "ماهیتابه نینجا CW60030 NeverStick با دسته راحت، 30.5 سانتی‌متر، نچسب، بادوام، ضد خش، قابل شستشو در ماشین ظرفشویی، قابل استفاده در فر تا دمای 200 درجه سانتیگراد، دسته‌های سیلیکونی، خاکستری",
+    "brand": "",
+    "model": "ماهیتابه نینجا CW60030 NeverStick با دسته راحت، 30.5 سانتی‌متر، نچسب، بادوام، ضد خش، قابل شستشو در ماشین ظرفشویی، قابل استفاده در فر تا دمای 200 درجه سانتیگراد، دسته‌های سیلیکونی، خاکستری",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 44467000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-CW60030-NeverStick-%D8%A8%D8%A7-%D8%AF%D8%B3%D8%AA%D9%87-%D8%B1%D8%A7%D8%AD%D8%AA-30-5-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%A7%D8%AF%D9%88%D8%A7%D9%85-%D8%B6%D8%AF-%D8%AE%D8%B4-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-200-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D8%AF%D8%B3%D8%AA%D9%87-%D9%87%D8%A7%DB%8C-%D8%B3%DB%8C%D9%84%DB%8C%DA%A9%D9%88%D9%86%DB%8C-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.961Z"
+  },
+  {
+    "id": "torobshop-sports-travel-26f6085e7abb8195",
+    "productId": "torobshop-26f6085e7abb8195",
+    "name": "سرویس قابلمه ۵ تکه نینجا فودی زیرو استیک مدل Vivid، شامل ۳ قابلمه، ۱ قابلمه شیر، ۱ ماهیتابه، آلومینیومی، روکش نچسب، مناسب برای استفاده در فر تا دمای ۲۰۰ درجه سانتیگراد، قابل استفاده در ماشین ظرفشویی، قرمز تیره، مدل C23000EU",
+    "brand": "",
+    "model": "سرویس قابلمه ۵ تکه نینجا فودی زیرو استیک مدل Vivid، شامل ۳ قابلمه، ۱ قابلمه شیر، ۱ ماهیتابه، آلومینیومی، روکش نچسب، مناسب برای استفاده در فر تا دمای ۲۰۰ درجه سانتیگراد، قابل استفاده در ماشین ظرفشویی، قرمز تیره، مدل C23000EU",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 144582000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B5-%D8%AA%DA%A9%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%81%D9%88%D8%AF%DB%8C-%D8%B2%DB%8C%D8%B1%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-%D9%85%D8%AF%D9%84-Vivid-%D8%B4%D8%A7%D9%85%D9%84-%DB%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%B4%DB%8C%D8%B1-%DB%B1-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A2%D9%84%D9%88%D9%85%DB%8C%D9%86%DB%8C%D9%88%D9%85%DB%8C-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-%DB%B2%DB%B0%DB%B0-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D9%82%D8%B1%D9%85%D8%B2-%D8%AA%DB%8C%D8%B1%D9%87-%D9%85%D8%AF%D9%84-C23000EU",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.961Z"
+  },
+  {
+    "id": "torobshop-sports-travel-362ea2159f4b778c",
+    "productId": "torobshop-362ea2159f4b778c",
+    "name": "ماهیتابه نینجا CW60020 NeverStick با دسته راحت، 20.3 سانتی‌متر، نچسب، بادوام، ضد خش، قابل استفاده در ماشین ظرفشویی، قابل استفاده در فر تا دمای 200 درجه سانتیگراد، دسته‌های سیلیکونی، خاکستری",
+    "brand": "",
+    "model": "ماهیتابه نینجا CW60020 NeverStick با دسته راحت، 20.3 سانتی‌متر، نچسب، بادوام، ضد خش، قابل استفاده در ماشین ظرفشویی، قابل استفاده در فر تا دمای 200 درجه سانتیگراد، دسته‌های سیلیکونی، خاکستری",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 22614000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-CW60020-NeverStick-%D8%A8%D8%A7-%D8%AF%D8%B3%D8%AA%D9%87-%D8%B1%D8%A7%D8%AD%D8%AA-20-3-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%A7%D8%AF%D9%88%D8%A7%D9%85-%D8%B6%D8%AF-%D8%AE%D8%B4-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-200-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D8%AF%D8%B3%D8%AA%D9%87-%D9%87%D8%A7%DB%8C-%D8%B3%DB%8C%D9%84%DB%8C%DA%A9%D9%88%D9%86%DB%8C-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.961Z"
+  },
+  {
+    "id": "torobshop-sports-travel-f0066be7088adc85",
+    "productId": "torobshop-f0066be7088adc85",
+    "name": "سرویس قابلمه ۷ تکه نینجا نِوِر استیک سرامیکی پرو، روکش نچسب، قابلمه، ماهیتابه، درب شیشه‌ای، روکش سرامیکی، استیل ضد زنگ، مناسب برای فر، سازگار با تمام اجاق گازها و اجاق گازهای القایی",
+    "brand": "",
+    "model": "سرویس قابلمه ۷ تکه نینجا نِوِر استیک سرامیکی پرو، روکش نچسب، قابلمه، ماهیتابه، درب شیشه‌ای، روکش سرامیکی، استیل ضد زنگ، مناسب برای فر، سازگار با تمام اجاق گازها و اجاق گازهای القایی",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 86394000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B7-%D8%AA%DA%A9%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%86-%D9%88-%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%BE%D8%B1%D9%88-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%AA%D9%85%D8%A7%D9%85-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2%D9%87%D8%A7-%D9%88-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2%D9%87%D8%A7%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.961Z"
+  },
+  {
+    "id": "torobshop-sports-travel-91acb86a8482ef98",
+    "productId": "torobshop-91acb86a8482ef98",
+    "name": "سرویس قابلمه و تابه نینجا CW69010، روکش نچسب، دسته راحت، سرویس 10 پارچه پخت و پز با درب نچسب، ماهیتابه، قابلمه با درب، قابلمه سوپ با درب، روکش نچسب",
+    "brand": "",
+    "model": "سرویس قابلمه و تابه نینجا CW69010، روکش نچسب، دسته راحت، سرویس 10 پارچه پخت و پز با درب نچسب، ماهیتابه، قابلمه با درب، قابلمه سوپ با درب، روکش نچسب",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 218271000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D8%AA%D8%A7%D8%A8%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-CW69010-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D8%AF%D8%B3%D8%AA%D9%87-%D8%B1%D8%A7%D8%AD%D8%AA-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-10-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D9%BE%D8%AE%D8%AA-%D9%88-%D9%BE%D8%B2-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%86%DA%86%D8%B3%D8%A8-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%B3%D9%88%D9%BE-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.961Z"
+  },
+  {
+    "id": "torobshop-sports-travel-5b99db3ff6f530b9",
+    "productId": "torobshop-5b99db3ff6f530b9",
+    "name": "سرویس قابلمه ۱۱ پارچه نینجا نِوِر استیک سرامیکی پرو، قابلمه و ماهیتابه نچسب، درب شیشه‌ای، روکش سرامیکی، استیل ضد زنگ، مناسب برای استفاده روی اجاق گاز و فر، مناسب برای انواع اجاق گاز.",
+    "brand": "",
+    "model": "سرویس قابلمه ۱۱ پارچه نینجا نِوِر استیک سرامیکی پرو، قابلمه و ماهیتابه نچسب، درب شیشه‌ای، روکش سرامیکی، استیل ضد زنگ، مناسب برای استفاده روی اجاق گاز و فر، مناسب برای انواع اجاق گاز.",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 48787000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B1%DB%B1-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%86-%D9%88-%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%BE%D8%B1%D9%88-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%86%DA%86%D8%B3%D8%A8-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%B1%D9%88%DB%8C-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D9%88-%D9%81%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.961Z"
+  },
+  {
+    "id": "torobshop-sports-travel-1fe50cc1e4bf6a68",
+    "productId": "torobshop-1fe50cc1e4bf6a68",
+    "name": "سرویس قابلمه و تابه 11 پارچه نینجا سرامیک پرو CW39011WH، نچسب، با درب شیشه‌ای، بدون PTFE، روکش سرامیکی، مناسب برای فر، مناسب برای انواع اجاق گاز و اجاق القایی",
+    "brand": "",
+    "model": "سرویس قابلمه و تابه 11 پارچه نینجا سرامیک پرو CW39011WH، نچسب، با درب شیشه‌ای، بدون PTFE، روکش سرامیکی، مناسب برای فر، مناسب برای انواع اجاق گاز و اجاق القایی",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 126287000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D8%AA%D8%A7%D8%A8%D9%87-11-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9-%D9%BE%D8%B1%D9%88-CW39011WH-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-PTFE-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D9%88-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.962Z"
+  },
+  {
+    "id": "torobshop-sports-travel-b3eb05e26a027097",
+    "productId": "torobshop-b3eb05e26a027097",
+    "name": "سرویس قابلمه نچسب سرامیکی پرو مدل Ninja NeverStick، 7 تکه، قابلمه، ماهیتابه، درب شیشه‌ای، روکش سرامیکی، دسته‌های استیل ضد زنگ، مناسب برای اتصال اجاق گاز به فر، مناسب برای همه نوع اجاق گاز",
+    "brand": "",
+    "model": "سرویس قابلمه نچسب سرامیکی پرو مدل Ninja NeverStick، 7 تکه، قابلمه، ماهیتابه، درب شیشه‌ای، روکش سرامیکی، دسته‌های استیل ضد زنگ، مناسب برای اتصال اجاق گاز به فر، مناسب برای همه نوع اجاق گاز",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 69623000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%86%DA%86%D8%B3%D8%A8-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%BE%D8%B1%D9%88-%D9%85%D8%AF%D9%84-Ninja-NeverStick-7-%D8%AA%DA%A9%D9%87-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D8%AF%D8%B3%D8%AA%D9%87-%D9%87%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D8%A8%D9%87-%D9%81%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%87%D9%85%D9%87-%D9%86%D9%88%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-2",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.962Z"
+  },
+  {
+    "id": "torobshop-sports-travel-4b6a53eaa53ecf05",
+    "productId": "torobshop-4b6a53eaa53ecf05",
+    "name": "سرویس قابلمه و ماهیتابه نینجا سرامیک پرو CW39011MM، با روکش نچسب، دارای درب شیشه‌ای، بدون PTFE، روکش سرامیکی، مناسب برای فر، مناسب برای انواع اجاق گاز و اجاق گازهای القایی",
+    "brand": "",
+    "model": "سرویس قابلمه و ماهیتابه نینجا سرامیک پرو CW39011MM، با روکش نچسب، دارای درب شیشه‌ای، بدون PTFE، روکش سرامیکی، مناسب برای فر، مناسب برای انواع اجاق گاز و اجاق گازهای القایی",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 123238000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9-%D9%BE%D8%B1%D9%88-CW39011MM-%D8%A8%D8%A7-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-PTFE-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D9%88-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2%D9%87%D8%A7%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.962Z"
+  },
+  {
+    "id": "torobshop-sports-travel-981e44302f342963",
+    "productId": "torobshop-981e44302f342963",
+    "name": "سرویس قابلمه ۷ پارچه نینجا نِوِر استیک سرامیکی پرو، روکش نچسب، قابلمه، ماهیتابه، درب شیشه‌ای، روکش سرامیکی، دسته‌های استیل ضد زنگ، مناسب برای اتصال اجاق گاز به فر، مناسب برای همه نوع اجاق گاز و",
+    "brand": "",
+    "model": "سرویس قابلمه ۷ پارچه نینجا نِوِر استیک سرامیکی پرو، روکش نچسب، قابلمه، ماهیتابه، درب شیشه‌ای، روکش سرامیکی، دسته‌های استیل ضد زنگ، مناسب برای اتصال اجاق گاز به فر، مناسب برای همه نوع اجاق گاز و",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 87918000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B7-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%86-%D9%88-%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%BE%D8%B1%D9%88-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D8%AF%D8%B3%D8%AA%D9%87-%D9%87%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D8%A8%D9%87-%D9%81%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%87%D9%85%D9%87-%D9%86%D9%88%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D9%88",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.962Z"
+  },
+  {
+    "id": "torobshop-sports-travel-9366ead7b155bc0e",
+    "productId": "torobshop-9366ead7b155bc0e",
+    "name": "سرویس قابلمه نچسب سرامیکی پرو مدل Ninja NeverStick، 7 تکه، قابلمه، ماهیتابه، درب شیشه‌ای، روکش سرامیکی، دسته‌های استیل ضد زنگ، مناسب برای اتصال اجاق گاز به فر، مناسب برای همه نوع اجاق گاز",
+    "brand": "",
+    "model": "سرویس قابلمه نچسب سرامیکی پرو مدل Ninja NeverStick، 7 تکه، قابلمه، ماهیتابه، درب شیشه‌ای، روکش سرامیکی، دسته‌های استیل ضد زنگ، مناسب برای اتصال اجاق گاز به فر، مناسب برای همه نوع اجاق گاز",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 88426000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%86%DA%86%D8%B3%D8%A8-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%BE%D8%B1%D9%88-%D9%85%D8%AF%D9%84-Ninja-NeverStick-7-%D8%AA%DA%A9%D9%87-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D8%AF%D8%B3%D8%AA%D9%87-%D9%87%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D8%A8%D9%87-%D9%81%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%87%D9%85%D9%87-%D9%86%D9%88%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.962Z"
+  },
+  {
+    "id": "torobshop-sports-travel-0e19f63aed58a286",
+    "productId": "torobshop-0e19f63aed58a286",
+    "name": "سرویس قابلمه و ماهیتابه نچسب نینجا سرامیک پرو CW39011BM با درب شیشه‌ای، بدون PTFE، روکش سرامیکی، مناسب برای فر، سازگار با انواع اجاق گاز و اجاق‌های القایی، ماکارون آبی",
+    "brand": "",
+    "model": "سرویس قابلمه و ماهیتابه نچسب نینجا سرامیک پرو CW39011BM با درب شیشه‌ای، بدون PTFE، روکش سرامیکی، مناسب برای فر، سازگار با انواع اجاق گاز و اجاق‌های القایی، ماکارون آبی",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 68352000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%86%DA%86%D8%B3%D8%A8-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9-%D9%BE%D8%B1%D9%88-CW39011BM-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-PTFE-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D9%88-%D8%A7%D8%AC%D8%A7%D9%82-%D9%87%D8%A7%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%85%D8%A7%DA%A9%D8%A7%D8%B1%D9%88%D9%86-%D8%A2%D8%A8%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.962Z"
+  },
+  {
+    "id": "torobshop-sports-travel-a084da6a498709d9",
+    "productId": "torobshop-a084da6a498709d9",
+    "name": "سرویس قابلمه و تابه 11 پارچه نینجا سرامیک پرو CW39011BK، نچسب، با درب شیشه‌ای، بدون PTFE، روکش سرامیکی، مناسب برای فر، مناسب برای انواع اجاق گاز و اجاق گازهای القایی",
+    "brand": "",
+    "model": "سرویس قابلمه و تابه 11 پارچه نینجا سرامیک پرو CW39011BK، نچسب، با درب شیشه‌ای، بدون PTFE، روکش سرامیکی، مناسب برای فر، مناسب برای انواع اجاق گاز و اجاق گازهای القایی",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 126287000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D8%AA%D8%A7%D8%A8%D9%87-11-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9-%D9%BE%D8%B1%D9%88-CW39011BK-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-PTFE-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D9%88-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2%D9%87%D8%A7%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.962Z"
+  },
+  {
+    "id": "torobshop-sports-travel-986e9be42ebf1aaa",
+    "productId": "torobshop-986e9be42ebf1aaa",
+    "name": "سرویس قابلمه و تابه 11 پارچه نینجا سرامیک پرو CW39011GN، روکش نچسب، قابلمه و تابه، روکش نچسب، بدون PTFE، روکش سرامیکی، مناسب برای فر، مناسب برای انواع اجاق گاز و اجاق گازهای القایی",
+    "brand": "",
+    "model": "سرویس قابلمه و تابه 11 پارچه نینجا سرامیک پرو CW39011GN، روکش نچسب، قابلمه و تابه، روکش نچسب، بدون PTFE، روکش سرامیکی، مناسب برای فر، مناسب برای انواع اجاق گاز و اجاق گازهای القایی",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 107230000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D8%AA%D8%A7%D8%A8%D9%87-11-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9-%D9%BE%D8%B1%D9%88-CW39011GN-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D8%AA%D8%A7%D8%A8%D9%87-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%AF%D9%88%D9%86-PTFE-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D9%88-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2%D9%87%D8%A7%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.962Z"
+  },
+  {
+    "id": "torobshop-sports-travel-372174ecf0618423",
+    "productId": "torobshop-372174ecf0618423",
+    "name": "سرویس قابلمه و ماهیتابه نینجا CW99009، روکش نچسب، طول عمر بیشتر، سرویس قابلمه سرامیکی ممتاز، 9 پارچه، روکش نچسب، بدون PTFE، مناسب برای فر تا دمای 287 درجه سانتیگراد، سازگار با اجاق القایی، 3 نفره",
+    "brand": "",
+    "model": "سرویس قابلمه و ماهیتابه نینجا CW99009، روکش نچسب، طول عمر بیشتر، سرویس قابلمه سرامیکی ممتاز، 9 پارچه، روکش نچسب، بدون PTFE، مناسب برای فر تا دمای 287 درجه سانتیگراد، سازگار با اجاق القایی، 3 نفره",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 84361000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-CW99009-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D8%B7%D9%88%D9%84-%D8%B9%D9%85%D8%B1-%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%85%D9%85%D8%AA%D8%A7%D8%B2-9-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%AF%D9%88%D9%86-PTFE-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-287-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-3-%D9%86%D9%81%D8%B1%D9%87",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.962Z"
+  },
+  {
+    "id": "torobshop-sports-travel-9d7cd3afb8947c34",
+    "productId": "torobshop-9d7cd3afb8947c34",
+    "name": "سرویس قابلمه و ماهیتابه نینجا سرامیک پرو CW39014MM، روکش نچسب، قابلمه و ماهیتابه، روکش نچسب، بدون PTFE، روکش سرامیکی، مناسب برای فر، مناسب برای انواع اجاق گاز و اجاق گازهای القایی",
+    "brand": "",
+    "model": "سرویس قابلمه و ماهیتابه نینجا سرامیک پرو CW39014MM، روکش نچسب، قابلمه و ماهیتابه، روکش نچسب، بدون PTFE، روکش سرامیکی، مناسب برای فر، مناسب برای انواع اجاق گاز و اجاق گازهای القایی",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 162624000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9-%D9%BE%D8%B1%D9%88-CW39014MM-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%AF%D9%88%D9%86-PTFE-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D9%88-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2%D9%87%D8%A7%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.962Z"
+  },
+  {
+    "id": "torobshop-sports-travel-e941e8d3b0baa257",
+    "productId": "torobshop-e941e8d3b0baa257",
+    "name": "سرویس قابلمه سرامیکی نینجا مدل Extended Life، 5 تکه، مناسب برای فر، مدل CW95000EUUKDB",
+    "brand": "",
+    "model": "سرویس قابلمه سرامیکی نینجا مدل Extended Life، 5 تکه، مناسب برای فر، مدل CW95000EUUKDB",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 75975000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%85%D8%AF%D9%84-Extended-Life-5-%D8%AA%DA%A9%D9%87-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D9%85%D8%AF%D9%84-CW95000EUUKDB",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.962Z"
+  },
+  {
+    "id": "torobshop-sports-travel-da719245fe9ffcf9",
+    "productId": "torobshop-da719245fe9ffcf9",
+    "name": "ماهیتابه سرامیکی ممتاز نینجا مدل Extended Life CW90020، روکش نچسب، بدون PTFE، پخت و پز سالم، قابل استفاده در فر تا دمای 287 درجه سانتیگراد، قابل شستشو در ماشین ظرفشویی، مناسب برای انواع اجاق گاز و اجاق گازهای القایی",
+    "brand": "",
+    "model": "ماهیتابه سرامیکی ممتاز نینجا مدل Extended Life CW90020، روکش نچسب، بدون PTFE، پخت و پز سالم، قابل استفاده در فر تا دمای 287 درجه سانتیگراد، قابل شستشو در ماشین ظرفشویی، مناسب برای انواع اجاق گاز و اجاق گازهای القایی",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 64541000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%85%D9%85%D8%AA%D8%A7%D8%B2-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%85%D8%AF%D9%84-Extended-Life-CW90020-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%AF%D9%88%D9%86-PTFE-%D9%BE%D8%AE%D8%AA-%D9%88-%D9%BE%D8%B2-%D8%B3%D8%A7%D9%84%D9%85-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-287-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D9%88-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2%D9%87%D8%A7%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.962Z"
+  },
+  {
+    "id": "torobshop-sports-travel-58130adffe7c44df",
+    "productId": "torobshop-58130adffe7c44df",
+    "name": "ماهیتابه سرامیکی نینجا با طول عمر طولانی (28 سانتی‌متر)، پوشش نچسب (بدون PFA، PFOA، سرب و کادمیوم)، سازگار با القای حرارتی، دسته استیل ضد زنگ، مناسب برای فر تا دمای 285 درجه سانتیگراد، خاکستری و سفالی، CW90028DEDB",
+    "brand": "",
+    "model": "ماهیتابه سرامیکی نینجا با طول عمر طولانی (28 سانتی‌متر)، پوشش نچسب (بدون PFA، PFOA، سرب و کادمیوم)، سازگار با القای حرارتی، دسته استیل ضد زنگ، مناسب برای فر تا دمای 285 درجه سانتیگراد، خاکستری و سفالی، CW90028DEDB",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 29221000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A8%D8%A7-%D8%B7%D9%88%D9%84-%D8%B9%D9%85%D8%B1-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-28-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%BE%D9%88%D8%B4%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%AF%D9%88%D9%86-PFA-PFOA-%D8%B3%D8%B1%D8%A8-%D9%88-%DA%A9%D8%A7%D8%AF%D9%85%DB%8C%D9%88%D9%85-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C-%D8%AD%D8%B1%D8%A7%D8%B1%D8%AA%DB%8C-%D8%AF%D8%B3%D8%AA%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-285-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C-%D9%88-%D8%B3%D9%81%D8%A7%D9%84%DB%8C-CW90028DEDB",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.962Z"
+  },
+  {
+    "id": "torobshop-sports-travel-a40ad0a81a8c91b9",
+    "productId": "torobshop-a40ad0a81a8c91b9",
+    "name": "ماهیتابه سرامیکی نینجا مدل Extended Life سایز ۲۶ سانتی‌متر، دارای روکش نچسب (بدون PFA، PFOA، سرب یا کادمیوم)، مناسب برای پخت القایی، دسته استیل ضد زنگ، قابل استفاده در فر تا دمای ۲۸۵ درجه سانتیگراد، به رنگ سفالی و خاکستری، CW90026DE",
+    "brand": "",
+    "model": "ماهیتابه سرامیکی نینجا مدل Extended Life سایز ۲۶ سانتی‌متر، دارای روکش نچسب (بدون PFA، PFOA، سرب یا کادمیوم)، مناسب برای پخت القایی، دسته استیل ضد زنگ، قابل استفاده در فر تا دمای ۲۸۵ درجه سانتیگراد، به رنگ سفالی و خاکستری، CW90026DE",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 27951000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%85%D8%AF%D9%84-Extended-Life-%D8%B3%D8%A7%DB%8C%D8%B2-%DB%B2%DB%B6-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%AF%D9%88%D9%86-PFA-PFOA-%D8%B3%D8%B1%D8%A8-%DB%8C%D8%A7-%DA%A9%D8%A7%D8%AF%D9%85%DB%8C%D9%88%D9%85-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D8%AE%D8%AA-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%AF%D8%B3%D8%AA%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-%DB%B2%DB%B8%DB%B5-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D8%A8%D9%87-%D8%B1%D9%86%DA%AF-%D8%B3%D9%81%D8%A7%D9%84%DB%8C-%D9%88-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C-CW90026DE",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.962Z"
+  },
+  {
+    "id": "torobshop-sports-travel-7209fc2aa373a914",
+    "productId": "torobshop-7209fc2aa373a914",
+    "name": "ماهیتابه سرامیکی نینجا مدل Extended Life سایز 24 سانتی‌متر، به رنگ‌های سفالی و خاکستری، CW90024DE",
+    "brand": "",
+    "model": "ماهیتابه سرامیکی نینجا مدل Extended Life سایز 24 سانتی‌متر، به رنگ‌های سفالی و خاکستری، CW90024DE",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 14991000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%85%D8%AF%D9%84-Extended-Life-%D8%B3%D8%A7%DB%8C%D8%B2-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A8%D9%87-%D8%B1%D9%86%DA%AF-%D9%87%D8%A7%DB%8C-%D8%B3%D9%81%D8%A7%D9%84%DB%8C-%D9%88-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C-CW90024DE",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.962Z"
+  },
+  {
+    "id": "torobshop-sports-travel-d73b8f5c61c1a0fd",
+    "productId": "torobshop-d73b8f5c61c1a0fd",
+    "name": "وک سرامیکی نینجا با طول عمر طولانی ۲۸ سانتی‌متر، تابه وک نچسب (بدون PFA، PFOA، سرب، کادمیوم)، مناسب برای اجاق گازهای القایی، دسته استیل ضد زنگ، مناسب برای فر تا دمای ۲۸۵ درجه سانتیگراد، به رنگ‌های سفالی و خاکستری، CW90928DE",
+    "brand": "",
+    "model": "وک سرامیکی نینجا با طول عمر طولانی ۲۸ سانتی‌متر، تابه وک نچسب (بدون PFA، PFOA، سرب، کادمیوم)، مناسب برای اجاق گازهای القایی، دسته استیل ضد زنگ، مناسب برای فر تا دمای ۲۸۵ درجه سانتیگراد، به رنگ‌های سفالی و خاکستری، CW90928DE",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 17532000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%88%DA%A9-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A8%D8%A7-%D8%B7%D9%88%D9%84-%D8%B9%D9%85%D8%B1-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%DB%B2%DB%B8-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%AA%D8%A7%D8%A8%D9%87-%D9%88%DA%A9-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%AF%D9%88%D9%86-PFA-PFOA-%D8%B3%D8%B1%D8%A8-%DA%A9%D8%A7%D8%AF%D9%85%DB%8C%D9%88%D9%85-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2%D9%87%D8%A7%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%AF%D8%B3%D8%AA%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-%DB%B2%DB%B8%DB%B5-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D8%A8%D9%87-%D8%B1%D9%86%DA%AF-%D9%87%D8%A7%DB%8C-%D8%B3%D9%81%D8%A7%D9%84%DB%8C-%D9%88-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C-CW90928DE",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.962Z"
+  },
+  {
+    "id": "torobshop-sports-travel-cfdf7d431c8836b3",
+    "productId": "torobshop-cfdf7d431c8836b3",
+    "name": "ماهیتابه سرامیکی نینجا با طول عمر طولانی ۲۸ سانتی‌متر، ماهیتابه با روکش نچسب (بدون PFA، PFOA، سرب یا کادمیوم)، مناسب برای پخت القایی، دسته استیل ضد زنگ، مناسب برای فر تا دمای ۲۸۵ درجه سانتیگراد، به رنگ‌های سفالی و خاکستری، CW90028DE",
+    "brand": "",
+    "model": "ماهیتابه سرامیکی نینجا با طول عمر طولانی ۲۸ سانتی‌متر، ماهیتابه با روکش نچسب (بدون PFA، PFOA، سرب یا کادمیوم)، مناسب برای پخت القایی، دسته استیل ضد زنگ، مناسب برای فر تا دمای ۲۸۵ درجه سانتیگراد، به رنگ‌های سفالی و خاکستری، CW90028DE",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 29221000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A8%D8%A7-%D8%B7%D9%88%D9%84-%D8%B9%D9%85%D8%B1-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%DB%B2%DB%B8-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A8%D8%A7-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%AF%D9%88%D9%86-PFA-PFOA-%D8%B3%D8%B1%D8%A8-%DB%8C%D8%A7-%DA%A9%D8%A7%D8%AF%D9%85%DB%8C%D9%88%D9%85-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D8%AE%D8%AA-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%AF%D8%B3%D8%AA%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-%DB%B2%DB%B8%DB%B5-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D8%A8%D9%87-%D8%B1%D9%86%DA%AF-%D9%87%D8%A7%DB%8C-%D8%B3%D9%81%D8%A7%D9%84%DB%8C-%D9%88-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C-CW90028DE",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.962Z"
+  },
+  {
+    "id": "torobshop-sports-travel-227eb15d85db0deb",
+    "productId": "torobshop-227eb15d85db0deb",
+    "name": "سرویس قابلمه سرامیکی ۵ تکه نینجا مدل Extended Life (ماهیتابه‌های ۲۰ و ۲۴ سانتی‌متری، ۱۶ عدد)",
+    "brand": "",
+    "model": "سرویس قابلمه سرامیکی ۵ تکه نینجا مدل Extended Life (ماهیتابه‌های ۲۰ و ۲۴ سانتی‌متری، ۱۶ عدد)",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 28967000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%DB%B5-%D8%AA%DA%A9%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%85%D8%AF%D9%84-Extended-Life-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%87%D8%A7%DB%8C-%DB%B2%DB%B0-%D9%88-%DB%B2%DB%B4-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B1%DB%B6-%D8%B9%D8%AF%D8%AF",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.962Z"
+  },
+  {
+    "id": "torobshop-sports-travel-74a94c9ec68aef39",
+    "productId": "torobshop-74a94c9ec68aef39",
+    "name": "ماهیتابه سرامیکی نینجا مدل Extended Life سایز 20 سانتی‌متر، CW90020DE، سفالی و خاکستری",
+    "brand": "",
+    "model": "ماهیتابه سرامیکی نینجا مدل Extended Life سایز 20 سانتی‌متر، CW90020DE، سفالی و خاکستری",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 33490000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%85%D8%AF%D9%84-Extended-Life-%D8%B3%D8%A7%DB%8C%D8%B2-20-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-CW90020DE-%D8%B3%D9%81%D8%A7%D9%84%DB%8C-%D9%88-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.962Z"
+  },
+  {
+    "id": "torobshop-sports-travel-5460ea0842329793",
+    "productId": "torobshop-5460ea0842329793",
+    "name": "سرویس قابلمه سرامیکی نینجا مدل Extended Life، دو تکه، ۲۴ و ۲۸ سانتی‌متر، روکش نچسب (فاقد PFA، PFOA، سرب و کادمیوم)، سازگار با اجاق القایی، دسته استیل ضد زنگ، مناسب برای فر تا دمای ۲۸۵ درجه سانتیگراد، به رنگ‌های سفالی و خاکستری، CW92000DE",
+    "brand": "",
+    "model": "سرویس قابلمه سرامیکی نینجا مدل Extended Life، دو تکه، ۲۴ و ۲۸ سانتی‌متر، روکش نچسب (فاقد PFA، PFOA، سرب و کادمیوم)، سازگار با اجاق القایی، دسته استیل ضد زنگ، مناسب برای فر تا دمای ۲۸۵ درجه سانتیگراد، به رنگ‌های سفالی و خاکستری، CW92000DE",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 53360000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%85%D8%AF%D9%84-Extended-Life-%D8%AF%D9%88-%D8%AA%DA%A9%D9%87-%DB%B2%DB%B4-%D9%88-%DB%B2%DB%B8-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D9%81%D8%A7%D9%82%D8%AF-PFA-PFOA-%D8%B3%D8%B1%D8%A8-%D9%88-%DA%A9%D8%A7%D8%AF%D9%85%DB%8C%D9%88%D9%85-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%AF%D8%B3%D8%AA%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-%DB%B2%DB%B8%DB%B5-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D8%A8%D9%87-%D8%B1%D9%86%DA%AF-%D9%87%D8%A7%DB%8C-%D8%B3%D9%81%D8%A7%D9%84%DB%8C-%D9%88-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C-CW92000DE",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.962Z"
+  },
+  {
+    "id": "torobshop-sports-travel-e1410714f43d4f84",
+    "productId": "torobshop-e1410714f43d4f84",
+    "name": "سرویس قابلمه سرامیکی سه تکه نینجا مدل Extended Life (قابلمه‌های ۱۶، ۱۸ و ۲۰ سانتی‌متری)",
+    "brand": "",
+    "model": "سرویس قابلمه سرامیکی سه تکه نینجا مدل Extended Life (قابلمه‌های ۱۶، ۱۸ و ۲۰ سانتی‌متری)",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 44467000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D8%B3%D9%87-%D8%AA%DA%A9%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%85%D8%AF%D9%84-Extended-Life-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%87%D8%A7%DB%8C-%DB%B1%DB%B6-%DB%B1%DB%B8-%D9%88-%DB%B2%DB%B0-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.962Z"
   },
   {
     "id": "torobshop-sports-travel-b510ac9c5967ae6e",
@@ -573,7 +1437,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.083Z"
+    "observedAt": "2026-09-04T21:24:42.962Z"
   },
   {
     "id": "torobshop-sports-travel-3dbcaccb8662bde1",
@@ -591,7 +1455,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.083Z"
+    "observedAt": "2026-09-04T21:24:42.962Z"
   },
   {
     "id": "torobshop-sports-travel-200d11c52e55158d",
@@ -609,7 +1473,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.083Z"
+    "observedAt": "2026-09-04T21:24:42.962Z"
   },
   {
     "id": "torobshop-sports-travel-7030913f04cb3a2f",
@@ -627,7 +1491,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.083Z"
+    "observedAt": "2026-09-04T21:24:42.962Z"
   },
   {
     "id": "torobshop-sports-travel-c57090577d7bcdd6",
@@ -645,7 +1509,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.083Z"
+    "observedAt": "2026-09-04T21:24:42.962Z"
   },
   {
     "id": "torobshop-sports-travel-47c81c869cca25d8",
@@ -663,7 +1527,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.083Z"
+    "observedAt": "2026-09-04T21:24:42.962Z"
   },
   {
     "id": "torobshop-sports-travel-f566f758ccfcc717",
@@ -681,7 +1545,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.083Z"
+    "observedAt": "2026-09-04T21:24:42.962Z"
   },
   {
     "id": "torobshop-sports-travel-964ece0d8e9f6669",
@@ -699,7 +1563,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.083Z"
+    "observedAt": "2026-09-04T21:24:42.962Z"
   },
   {
     "id": "torobshop-sports-travel-4cef33429e237704",
@@ -717,7 +1581,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.083Z"
+    "observedAt": "2026-09-04T21:24:42.962Z"
   },
   {
     "id": "torobshop-sports-travel-e4a2bc7cbee474b2",
@@ -735,7 +1599,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.083Z"
+    "observedAt": "2026-09-04T21:24:42.962Z"
   },
   {
     "id": "torobshop-sports-travel-3be15395be038aca",
@@ -753,7 +1617,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.083Z"
+    "observedAt": "2026-09-04T21:24:42.962Z"
   },
   {
     "id": "torobshop-sports-travel-77f61ec7f8b8b73d",
@@ -771,7 +1635,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.083Z"
+    "observedAt": "2026-09-04T21:24:42.962Z"
   },
   {
     "id": "torobshop-sports-travel-a09bc08624899ff4",
@@ -789,7 +1653,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.083Z"
+    "observedAt": "2026-09-04T21:24:42.962Z"
   },
   {
     "id": "torobshop-sports-travel-bbd449ed50b3d540",
@@ -807,835 +1671,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.083Z"
-  },
-  {
-    "id": "torobshop-sports-travel-50ddbf6ac385797f",
-    "productId": "torobshop-50ddbf6ac385797f",
-    "name": "ماهیتابه بخارپز چندکاره نینجا آمریکا Ninja Foodi CW102BLUK ظرفیت 3.8 لیتر 9 کاره آبی",
-    "brand": "",
-    "model": "ماهیتابه بخارپز چندکاره نینجا آمریکا Ninja Foodi CW102BLUK ظرفیت 3.8 لیتر 9 کاره آبی",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 42942000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B9-%DA%A9%D8%A7%D8%B1%D9%87-Ninja-Foodi-CW102BLUK-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%A8%D8%AE%D8%A7%D8%B1%D9%BE%D8%B2-%D8%A7%D9%84%DA%A9-%DA%A9%D9%81%DA%AF%DB%8C%D8%B1-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%DB%B3-%DB%B8-%D9%84%DB%8C%D8%AA%D8%B1-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-%DB%B2%DB%B6%DB%B0-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D9%85%D8%A7%DA%A9%D8%A7%D8%B1%D9%88%D9%86-%D8%A2%D8%A8%DB%8C-%D8%A2%D8%A8%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.083Z"
-  },
-  {
-    "id": "torobshop-sports-travel-80a52ed3a08cda77",
-    "productId": "torobshop-80a52ed3a08cda77",
-    "name": "ماهیتابه بخارپز چندکاره نینجا آمریکا Ninja Foodi CW102GYUK ظرفیت 3.8 لیتر 9 کاره خاکستری",
-    "brand": "",
-    "model": "ماهیتابه بخارپز چندکاره نینجا آمریکا Ninja Foodi CW102GYUK ظرفیت 3.8 لیتر 9 کاره خاکستری",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 81820000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B9-%DA%A9%D8%A7%D8%B1%D9%87-Ninja-Foodi-%D9%85%D8%AF%D9%84-PossiblePan-CW102GYUK-%D8%A8%D8%A7-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-ZEROSTICK-%D8%A8%D8%AE%D8%A7%D8%B1%D9%BE%D8%B2-%D8%B3%DB%8C%D9%84%D8%B1-%D9%88-%DA%A9%D9%81%DA%AF%DB%8C%D8%B1-%DB%8C%DA%A9%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D9%86%DA%86%D8%B3%D8%A8-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D8%A8%D9%87-%D8%B1%D9%86%DA%AF-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C-%D9%85%D8%A7%DB%8C%D9%84-%D8%A8%D9%87-%D9%86%D9%85%DA%A9-%D8%AF%D8%B1%DB%8C%D8%A7",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.083Z"
-  },
-  {
-    "id": "torobshop-sports-travel-039d5e6addbbd691",
-    "productId": "torobshop-039d5e6addbbd691",
-    "name": "چاقوی سرآشپز زولینگ آلمان ZWILLING Pro Traditional تیغه 20 سانت",
-    "brand": "",
-    "model": "چاقوی سرآشپز زولینگ آلمان ZWILLING Pro Traditional تیغه 20 سانت",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 37980000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%B3%D8%B1%D8%A2%D8%B4%D9%BE%D8%B2-%D8%B3%D9%86%D8%AA%DB%8C-%D8%AD%D8%B1%D9%81%D9%87-%D8%A7%DB%8C-ZWILLING-%D8%A7%D9%88%D8%B1%D8%AC%DB%8C%D9%86%D8%A7%D9%84-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C-%D9%85%D8%B4%DA%A9%DB%8C-20-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-20-%D8%AF%D8%B1-5-%D8%AF%D8%B1-5-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.083Z"
-  },
-  {
-    "id": "torobshop-sports-travel-35ed38f253e56a81",
-    "productId": "torobshop-35ed38f253e56a81",
-    "name": "قهوه‌ساز فیلتری و کپسولی نینجا آمریکا Ninja Prestige CFN802EUGM دوکاره",
-    "brand": "",
-    "model": "قهوه‌ساز فیلتری و کپسولی نینجا آمریکا Ninja Prestige CFN802EUGM دوکاره",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 78516000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%82%D9%87%D9%88%D9%87-%D8%B3%D8%A7%D8%B2-%D8%AF%D9%88-%DA%A9%D8%A7%D8%B1%D9%87-%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%AF%D8%A7%D8%B1-%D9%88-%DA%A9%D9%BE%D8%B3%D9%88%D9%84%DB%8C-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%BE%D8%B1%D8%B3%D8%AA%DB%8C%DA%98-CFN802EUGM",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.083Z"
-  },
-  {
-    "id": "torobshop-sports-travel-81294b2d39671c7a",
-    "productId": "torobshop-81294b2d39671c7a",
-    "name": "اسپرسوساز و قهوه‌ساز فیلتری نینجا آمریکا Ninja Luxe Café Mini ES301EU",
-    "brand": "",
-    "model": "اسپرسوساز و قهوه‌ساز فیلتری نینجا آمریکا Ninja Luxe Café Mini ES301EU",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 122984000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%82%D9%87%D9%88%D9%87-%D8%B3%D8%A7%D8%B2-%D8%AF%D9%88-%D8%AF%D8%B1-%DB%8C%DA%A9-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%84%D9%88%DA%A9%D8%B3-%DA%A9%D8%A7%D9%81%D9%87-%D9%85%DB%8C%D9%86%DB%8C-%D8%A8%D8%A7-%D8%A2%D8%B3%DB%8C%D8%A7%D8%A8-%D9%88-%D9%81%DB%8C%D9%84%D8%AA%D8%B1-%D9%88-%DA%A9%D9%81-%D8%B3%D8%A7%D8%B2-%D8%AF%D8%B3%D8%AA%DB%8C-ES301EU",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.083Z"
-  },
-  {
-    "id": "torobshop-sports-travel-aa508f6b8b35e109",
-    "productId": "torobshop-aa508f6b8b35e109",
-    "name": "بستنی‌ساز و دستگاه بستنی نرم نینجا آمریکا Ninja CREAMi NC701EUBR مدل Scoop & Swirl 13 کاره موکا",
-    "brand": "",
-    "model": "بستنی‌ساز و دستگاه بستنی نرم نینجا آمریکا Ninja CREAMi NC701EUBR مدل Scoop & Swirl 13 کاره موکا",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 109000000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%A8%D8%B3%D8%AA%D9%86%DB%8C-%D8%B3%D8%A7%D8%B2-%DA%86%D8%B1%D8%AE%D8%B4%DB%8C-%D9%88-%D8%A7%D8%B3%DA%A9%D9%88%D9%BE-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-CREAMi-%D8%A8%D8%A7-%DB%B2-%D8%B8%D8%B1%D9%81-%DB%B1%DB%B3-%D8%B9%D9%85%D9%84%DA%A9%D8%B1%D8%AF-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A8%D8%B3%D8%AA%D9%86%DB%8C-%D8%A8%D8%B3%D8%AA%D9%86%DB%8C-%D9%86%D8%B1%D9%85-%DA%98%D9%84%D8%A7%D8%AA%D9%88-%D8%B3%D9%88%D8%B1%D8%A8%D8%AA-%D9%85%DB%8C%D9%84%DA%A9-%D8%B4%DB%8C%DA%A9-%D9%88-%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%AF%DB%8C%DA%AF%D8%B1-%D8%A8%D8%A7-%D8%B9%D9%85%D9%84%DA%A9%D8%B1%D8%AF-%D9%85%D8%AE%D9%84%D9%88%D8%B7-%DA%A9%D8%B1%D8%AF%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%A7%D8%B6%D8%A7%D9%81%DB%8C-%D9%85%D9%88%DA%A9%D8%A7-NC701EUBR",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.083Z"
-  },
-  {
-    "id": "torobshop-sports-travel-6ec47a3d62be5701",
-    "productId": "torobshop-6ec47a3d62be5701",
-    "name": "فر توکار رومیزی و سرخ‌کن بدون روغن نینجا آمریکا Ninja Double Oven Pro Smart XL دوقلو 12 کاره",
-    "brand": "",
-    "model": "فر توکار رومیزی و سرخ‌کن بدون روغن نینجا آمریکا Ninja Double Oven Pro Smart XL دوقلو 12 کاره",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 147886000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%81%D8%B1-%D8%AF%D9%88%D9%82%D9%84%D9%88-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%BE%D8%B1%D9%88-%D8%A7%D8%B3%D9%85%D8%A7%D8%B1%D8%AA-%D8%A7%DB%8C%DA%A9%D8%B3-%D8%A7%D9%84-%D9%81%D8%B1-%D9%88-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%D8%BA%D9%86-%D8%AA%D8%B7%D8%A8%DB%8C%D9%82-%D9%BE%D8%B0%DB%8C%D8%B1%DB%8C-%DB%B1%DB%B2-%D8%AF%D8%B1-%DB%B1-%D8%A8%D8%A7-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%D9%88-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-DualZone-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D8%AE%D8%AA-%D9%87%D9%85%D8%B2%D9%85%D8%A7%D9%86-%D8%AF%D9%88-%D9%88%D8%B9%D8%AF%D9%87-%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.084Z"
-  },
-  {
-    "id": "torobshop-sports-travel-7b66ea2c8fd4c6a4",
-    "productId": "torobshop-7b66ea2c8fd4c6a4",
-    "name": "فر رومیزی و سرخ‌کن بدون روغن نینجا آمریکا Ninja Double Oven Pro Smart XL دوقلو 12 کاره",
-    "brand": "",
-    "model": "فر رومیزی و سرخ‌کن بدون روغن نینجا آمریکا Ninja Double Oven Pro Smart XL دوقلو 12 کاره",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 156017000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%81%D8%B1-%D8%AF%D9%88%D9%82%D9%84%D9%88-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%BE%D8%B1%D9%88-%D8%A7%D8%B3%D9%85%D8%A7%D8%B1%D8%AA-%D8%A7%DB%8C%DA%A9%D8%B3-%D8%A7%D9%84-%D9%81%D8%B1-%D8%B1%D9%88%D9%85%DB%8C%D8%B2%DB%8C-%D9%88-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%D8%BA%D9%86-%D8%AA%D8%B7%D8%A8%DB%8C%D9%82-%D9%BE%D8%B0%DB%8C%D8%B1%DB%8C-%DB%B1%DB%B2-%D8%AF%D8%B1-%DB%B1-%D8%A8%D8%A7-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%D9%88-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-DualZone-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D8%AE%D8%AA-%D9%87%D9%85%D8%B2%D9%85%D8%A7%D9%86-%DB%B2-%D9%88%D8%B9%D8%AF%D9%87-%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%85%D8%B1%D8%BA-%D8%AA%D8%A7",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.084Z"
-  },
-  {
-    "id": "torobshop-sports-travel-d49e2d4bb6f40cd4",
-    "productId": "torobshop-d49e2d4bb6f40cd4",
-    "name": "فر رومیزی و سرخ‌کن بدون روغن نینجا آمریکا Ninja Double Oven Pro Smart XL دوقلو 12 کاره",
-    "brand": "",
-    "model": "فر رومیزی و سرخ‌کن بدون روغن نینجا آمریکا Ninja Double Oven Pro Smart XL دوقلو 12 کاره",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 135181000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%81%D8%B1-%D8%AF%D9%88%D9%82%D9%84%D9%88-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%BE%D8%B1%D9%88-%D8%A7%D8%B3%D9%85%D8%A7%D8%B1%D8%AA-%D8%A7%DB%8C%DA%A9%D8%B3-%D8%A7%D9%84-%D9%81%D8%B1-%D9%88-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%D8%BA%D9%86-%D8%AA%D8%B7%D8%A8%DB%8C%D9%82-%D9%BE%D8%B0%DB%8C%D8%B1%DB%8C-%DB%B1%DB%B2-%D8%AF%D8%B1-%DB%B1-%D8%A8%D8%A7-%D9%BE%D8%B1%D8%AF%D8%A7%D8%B2%D8%B4-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%D9%88-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-%D8%AF%D9%88-%D9%85%D9%86%D8%B7%D9%82%D9%87-%D8%A7%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D8%AE%D8%AA-%D9%87%D9%85%D8%B2%D9%85%D8%A7%D9%86-%DB%B2-%D9%88%D8%B9%D8%AF%D9%87-%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.084Z"
-  },
-  {
-    "id": "torobshop-sports-travel-189f8d80d22fa44f",
-    "productId": "torobshop-189f8d80d22fa44f",
-    "name": "فر دوقلو نینجا آمریکا پرو اسمارت ایکس ال – فر و سرخ کن بدون روغن با دماسنج | 12 کاره با پردازش هوشمند و فناوری DualZone برای پخت همزمان 2 وعده غذایی",
-    "brand": "",
-    "model": "فر دوقلو نینجا آمریکا پرو اسمارت ایکس ال – فر و سرخ کن بدون روغن با دماسنج | 12 کاره با پردازش هوشمند و فناوری DualZone برای پخت همزمان 2 وعده غذایی",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 139500000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%81%D8%B1-%D8%AF%D9%88%D9%82%D9%84%D9%88-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%BE%D8%B1%D9%88-%D8%A7%D8%B3%D9%85%D8%A7%D8%B1%D8%AA-%D8%A7%DB%8C%DA%A9%D8%B3-%D8%A7%D9%84-%D9%81%D8%B1-%D9%88-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%D8%BA%D9%86-%D8%A8%D8%A7-%D8%AF%D9%85%D8%A7%D8%B3%D9%86%D8%AC-12-%DA%A9%D8%A7%D8%B1%D9%87-%D8%A8%D8%A7-%D9%BE%D8%B1%D8%AF%D8%A7%D8%B2%D8%B4-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%D9%88-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-DualZone-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D8%AE%D8%AA-%D9%87%D9%85%D8%B2%D9%85%D8%A7%D9%86-2-%D9%88%D8%B9%D8%AF%D9%87-%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.084Z"
-  },
-  {
-    "id": "torobshop-sports-travel-5b8fa53f836d0f0c",
-    "productId": "torobshop-5b8fa53f836d0f0c",
-    "name": "فر دوطبقه و سرخ‌کن بدون روغن نینجا آمریکا Ninja DCT801BL ظرفیت 30.2 کوارت 12 کاره",
-    "brand": "",
-    "model": "فر دوطبقه و سرخ‌کن بدون روغن نینجا آمریکا Ninja DCT801BL ظرفیت 30.2 کوارت 12 کاره",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 152714000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%81%D8%B1-%D8%AF%D9%88%D9%82%D9%84%D9%88-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%BE%D8%B1%D9%88-%D8%A7%D8%B3%D9%85%D8%A7%D8%B1%D8%AA-%D8%A7%DB%8C%DA%A9%D8%B3-%D8%A7%D9%84-30-2-%DA%A9%D9%88%D8%A7%D8%B1%D8%AA-12-%D8%AF%D8%B1-1-%D8%B3%D8%A7%DB%8C%D8%A8%D8%B1%D8%A7%D8%B3%D9%BE%DB%8C%D8%B3-DCT801BL",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.084Z"
-  },
-  {
-    "id": "torobshop-sports-travel-547d268a4387e8cb",
-    "productId": "torobshop-547d268a4387e8cb",
-    "name": "سرخ‌کن بدون روغن قابل حمل نینجا آمریکا Ninja CRISPi ظرفیت 3.8 و 1.4 لیتر 1700 وات",
-    "brand": "",
-    "model": "سرخ‌کن بدون روغن قابل حمل نینجا آمریکا Ninja CRISPi ظرفیت 3.8 و 1.4 لیتر 1700 وات",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 54377000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D9%82%D8%A7%D8%A8%D9%84-%D8%AD%D9%85%D9%84-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%DA%A9%D8%B1%DB%8C%D8%B3%D9%BE%DB%8C-%DB%B3-%DB%B8-%D9%88-%DB%B1-%DB%B4-%D9%84%DB%8C%D8%AA%D8%B1-%DB%B1%DB%B7%DB%B0%DB%B0-%D9%88%D8%A7%D8%AA-%D8%AC%D9%85%D8%B9-%D9%88-%D8%AC%D9%88%D8%B1",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.084Z"
-  },
-  {
-    "id": "torobshop-sports-travel-4192b4da9c3a842b",
-    "productId": "torobshop-4192b4da9c3a842b",
-    "name": "سرخ‌کن بدون روغن قابل حمل نینجا آمریکا Ninja CRISPi FN101EUDR ظرفیت 3.8 و 1.4 لیتر 4 کاره قرمز",
-    "brand": "",
-    "model": "سرخ‌کن بدون روغن قابل حمل نینجا آمریکا Ninja CRISPi FN101EUDR ظرفیت 3.8 و 1.4 لیتر 4 کاره قرمز",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 54377000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D9%82%D8%A7%D8%A8%D9%84-%D8%AD%D9%85%D9%84-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%DA%A9%D8%B1%DB%8C%D8%B3%D9%BE%DB%8C-%DB%B3-%DB%B8-%D9%88-%DB%B1-%DB%B4-%D9%84%DB%8C%D8%AA%D8%B1-%DB%B4-%DA%A9%D8%A7%D8%B1%D9%87-%D8%B3%D8%B1%D8%AE-%DA%A9%D8%B1%D8%AF%D9%86-%D8%AF%D8%B1-%D9%87%D9%88%D8%A7-%DA%A9%D8%A8%D8%A7%D8%A8-%DA%A9%D8%B1%D8%AF%D9%86-%DA%AF%D8%B1%D9%85-%D9%86%DA%AF%D9%87-%D8%AF%D8%A7%D8%B4%D8%AA%D9%86-%D8%AA%D8%B1%D8%AF-%D8%AC%D9%85%D8%B9-%D9%88-%D8%AC%D9%88%D8%B1-%DB%B6-%D9%88%D8%B9%D8%AF%D9%87-%DB%B2-%D8%B8%D8%B1%D9%81-%D9%88-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%DB%B1%DB%B7%DB%B0%DB%B0-%D9%88%D8%A7%D8%AA-%D9%82%D8%B1%D9%85%D8%B2-%DA%AF%DB%8C%D9%84%D8%A7%D8%B3%DB%8C-FN101EUDR",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.084Z"
-  },
-  {
-    "id": "torobshop-sports-travel-d81ab9c86f172992",
-    "productId": "torobshop-d81ab9c86f172992",
-    "name": "ظرف شیشه‌ای سرخ کن نینجا Ninja TempWare با درب ضد نشت، سازگار با سیستم پخت و پز قابل حمل Crispi، قابل استفاده در مایکروویو، فریزر و ماشین ظرفشویی، سطح پخت و پز شیشه‌ای بدون PFAS",
-    "brand": "",
-    "model": "ظرف شیشه‌ای سرخ کن نینجا Ninja TempWare با درب ضد نشت، سازگار با سیستم پخت و پز قابل حمل Crispi، قابل استفاده در مایکروویو، فریزر و ماشین ظرفشویی، سطح پخت و پز شیشه‌ای بدون PFAS",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 21598000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B8%D8%B1%D9%81-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-Ninja-TempWare-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B6%D8%AF-%D9%86%D8%B4%D8%AA-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%B3%DB%8C%D8%B3%D8%AA%D9%85-%D9%BE%D8%AE%D8%AA-%D9%88-%D9%BE%D8%B2-%D9%82%D8%A7%D8%A8%D9%84-%D8%AD%D9%85%D9%84-Crispi-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%85%D8%A7%DB%8C%DA%A9%D8%B1%D9%88%D9%88%DB%8C%D9%88-%D9%81%D8%B1%DB%8C%D8%B2%D8%B1-%D9%88-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D8%B3%D8%B7%D8%AD-%D9%BE%D8%AE%D8%AA-%D9%88-%D9%BE%D8%B2-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-PFAS",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.084Z"
-  },
-  {
-    "id": "torobshop-sports-travel-c2621badab7154db",
-    "productId": "torobshop-c2621badab7154db",
-    "name": "ظرف شیشه‌ای سرخ کن نینجا Ninja TempWare با درب نگهدارنده، سازگار با سیستم پخت و پز قابل حمل Ninja Crispi، قابل استفاده در مایکروویو، فریزر و ماشین ظرفشویی، سطح پخت و پز شیشه‌ای بدون PFAS",
-    "brand": "",
-    "model": "ظرف شیشه‌ای سرخ کن نینجا Ninja TempWare با درب نگهدارنده، سازگار با سیستم پخت و پز قابل حمل Ninja Crispi، قابل استفاده در مایکروویو، فریزر و ماشین ظرفشویی، سطح پخت و پز شیشه‌ای بدون PFAS",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 25155000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B8%D8%B1%D9%81-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-Ninja-TempWare-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%86%DA%AF%D9%87%D8%AF%D8%A7%D8%B1%D9%86%D8%AF%D9%87-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%B3%DB%8C%D8%B3%D8%AA%D9%85-%D9%BE%D8%AE%D8%AA-%D9%88-%D9%BE%D8%B2-%D9%82%D8%A7%D8%A8%D9%84-%D8%AD%D9%85%D9%84-Ninja-Crispi-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%85%D8%A7%DB%8C%DA%A9%D8%B1%D9%88%D9%88%DB%8C%D9%88-%D9%81%D8%B1%DB%8C%D8%B2%D8%B1-%D9%88-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D8%B3%D8%B7%D8%AD-%D9%BE%D8%AE%D8%AA-%D9%88-%D9%BE%D8%B2-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-PFAS",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.084Z"
-  },
-  {
-    "id": "torobshop-sports-travel-e61e8163e0053f8c",
-    "productId": "torobshop-e61e8163e0053f8c",
-    "name": "سرویس ۳ تکه ماهیتابه Berndes Induction Enduro - ماهیتابه‌های ۲۴ و ۲۸ سانتی‌متری - دارای کفگیر - مناسب برای همه اجاق گازها - ماهیتابه‌ها با پوشش نچسب ۳ لایه بسیار مقاوم - مقاوم در برابر خش - بدون PFAS",
-    "brand": "",
-    "model": "سرویس ۳ تکه ماهیتابه Berndes Induction Enduro - ماهیتابه‌های ۲۴ و ۲۸ سانتی‌متری - دارای کفگیر - مناسب برای همه اجاق گازها - ماهیتابه‌ها با پوشش نچسب ۳ لایه بسیار مقاوم - مقاوم در برابر خش - بدون PFAS",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 38369000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%DB%B3-%D8%AA%DA%A9%D9%87-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-Berndes-Induction-Enduro-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%87%D8%A7%DB%8C-%DB%B2%DB%B4-%D9%88-%DB%B2%DB%B8-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C-%DA%A9%D9%81%DA%AF%DB%8C%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%87%D9%85%D9%87-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2%D9%87%D8%A7-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%87%D8%A7-%D8%A8%D8%A7-%D9%BE%D9%88%D8%B4%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%DB%B3-%D9%84%D8%A7%DB%8C%D9%87-%D8%A8%D8%B3%DB%8C%D8%A7%D8%B1-%D9%85%D9%82%D8%A7%D9%88%D9%85-%D9%85%D9%82%D8%A7%D9%88%D9%85-%D8%AF%D8%B1-%D8%A8%D8%B1%D8%A7%D8%A8%D8%B1-%D8%AE%D8%B4-%D8%A8%D8%AF%D9%88%D9%86-PFAS",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.084Z"
-  },
-  {
-    "id": "torobshop-sports-travel-0a6f99bfb7c72378",
-    "productId": "torobshop-0a6f99bfb7c72378",
-    "name": "کتری برقی گردن غازی کوسوری آمریکا COSORI با ۵ برنامه از پیش تنظیم شده متغیر",
-    "brand": "",
-    "model": "کتری برقی گردن غازی کوسوری آمریکا COSORI با ۵ برنامه از پیش تنظیم شده متغیر",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 55139000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%DA%A9%D8%AA%D8%B1%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C-%DA%AF%D8%B1%D8%AF%D9%86-%D8%BA%D8%A7%D8%B2%DB%8C-COSORI-%D8%A8%D8%A7-%DB%B5-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D8%A7%D8%B2-%D9%BE%DB%8C%D8%B4-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%B4%D8%AF%D9%87-%D9%85%D8%AA%D8%BA%DB%8C%D8%B1",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.084Z"
-  },
-  {
-    "id": "torobshop-sports-travel-17b433396f0dd8b8",
-    "productId": "torobshop-17b433396f0dd8b8",
-    "name": "کتری شیشه‌ای کوسوری آمریکا بدون تماس با پلاستیک، ایده‌آل برای چای، ۱.۷ لیتر",
-    "brand": "",
-    "model": "کتری شیشه‌ای کوسوری آمریکا بدون تماس با پلاستیک، ایده‌آل برای چای، ۱.۷ لیتر",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 16516000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%DA%A9%D8%AA%D8%B1%DB%8C-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%DA%A9%D9%88%D8%B2%D9%88%D8%B1%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%D8%AA%D9%85%D8%A7%D8%B3-%D8%A8%D8%A7-%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-%D8%A7%DB%8C%D8%AF%D9%87-%D8%A2%D9%84-%D8%A8%D8%B1%D8%A7%DB%8C-%DA%86%D8%A7%DB%8C-%DB%B1-%DB%B7-%D9%84%DB%8C%D8%AA%D8%B1",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.084Z"
-  },
-  {
-    "id": "torobshop-sports-travel-70f796097c7bfa77",
-    "productId": "torobshop-70f796097c7bfa77",
-    "name": "کتری استیل ضد زنگ کوسوری آمریکا COSORI، ۱.۷ لیتر، بدون تماس با پلاستیک، ۲۲۰۰ وات، نقره‌ای-مشکی",
-    "brand": "",
-    "model": "کتری استیل ضد زنگ کوسوری آمریکا COSORI، ۱.۷ لیتر، بدون تماس با پلاستیک، ۲۲۰۰ وات، نقره‌ای-مشکی",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 15754000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%DA%A9%D8%AA%D8%B1%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-COSORI-%DB%B1-%DB%B7-%D9%84%DB%8C%D8%AA%D8%B1-%D8%A8%D8%AF%D9%88%D9%86-%D8%AA%D9%85%D8%A7%D8%B3-%D8%A8%D8%A7-%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-%DB%B2%DB%B2%DB%B0%DB%B0-%D9%88%D8%A7%D8%AA-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.084Z"
-  },
-  {
-    "id": "torobshop-sports-travel-792d9fda0d1edf60",
-    "productId": "torobshop-792d9fda0d1edf60",
-    "name": "ترازوی آشپزخانه دیجیتال استیل ضد زنگ کوسوری آمریکا اپلیکیشن ترازوی مواد غذایی، قابل شارژ با USB، سایز XL",
-    "brand": "اپل",
-    "model": "ترازوی آشپزخانه دیجیتال استیل ضد زنگ کوسوری آمریکا اپلیکیشن ترازوی مواد غذایی، قابل شارژ با USB، سایز XL",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 32778000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%AA%D8%B1%D8%A7%D8%B2%D9%88%DB%8C-%D8%A2%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87-%D8%AF%DB%8C%D8%AC%DB%8C%D8%AA%D8%A7%D9%84-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%DA%A9%D9%88%D8%B2%D9%88%D8%B1%DB%8C-%D8%A7%D9%BE%D9%84%DB%8C%DA%A9%DB%8C%D8%B4%D9%86-%D8%AA%D8%B1%D8%A7%D8%B2%D9%88%DB%8C-%D9%85%D9%88%D8%A7%D8%AF-%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%A7%D8%B1%DA%98-%D8%A8%D8%A7-USB-%D8%B3%D8%A7%DB%8C%D8%B2-XL",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.084Z"
-  },
-  {
-    "id": "torobshop-sports-travel-0540c2016311432d",
-    "productId": "torobshop-0540c2016311432d",
-    "name": "ترازوی آشپزخانه دیجیتال هوشمند کوسوری آمریکا COSORI با ماشین حساب تغذیه، اطلاعات مواد مغذی روی صفحه، برنامه رایگان برای ردیابی کالری و ماکرو، اسکن هوش مصنوعی، اهداف شخصی، برای",
-    "brand": "",
-    "model": "ترازوی آشپزخانه دیجیتال هوشمند کوسوری آمریکا COSORI با ماشین حساب تغذیه، اطلاعات مواد مغذی روی صفحه، برنامه رایگان برای ردیابی کالری و ماکرو، اسکن هوش مصنوعی، اهداف شخصی، برای",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 41418000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%AA%D8%B1%D8%A7%D8%B2%D9%88%DB%8C-%D8%A2%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87-%D8%AF%DB%8C%D8%AC%DB%8C%D8%AA%D8%A7%D9%84-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-COSORI-%D8%A8%D8%A7-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%AD%D8%B3%D8%A7%D8%A8-%D8%AA%D8%BA%D8%B0%DB%8C%D9%87-%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA-%D9%85%D9%88%D8%A7%D8%AF-%D9%85%D8%BA%D8%B0%DB%8C-%D8%B1%D9%88%DB%8C-%D8%B5%D9%81%D8%AD%D9%87-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D8%AF%DB%8C%D8%A7%D8%A8%DB%8C-%DA%A9%D8%A7%D9%84%D8%B1%DB%8C-%D9%88-%D9%85%D8%A7%DA%A9%D8%B1%D9%88-%D8%A7%D8%B3%DA%A9%D9%86-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D8%A7%D9%87%D8%AF%D8%A7%D9%81-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.084Z"
-  },
-  {
-    "id": "torobshop-sports-travel-ea7e49d4888f5500",
-    "productId": "torobshop-ea7e49d4888f5500",
-    "name": "ترازوی آشپزخانه دیجیتال استیل ضد زنگ کوسوری آمریکا ترازوی آشپزخانه با قابلیت محاسبه ارزش غذایی از طریق اپلیکیشن",
-    "brand": "اپل",
-    "model": "ترازوی آشپزخانه دیجیتال استیل ضد زنگ کوسوری آمریکا ترازوی آشپزخانه با قابلیت محاسبه ارزش غذایی از طریق اپلیکیشن",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 17278000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%AA%D8%B1%D8%A7%D8%B2%D9%88%DB%8C-%D8%A2%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87-%D8%AF%DB%8C%D8%AC%DB%8C%D8%AA%D8%A7%D9%84-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%DA%A9%D9%88%D8%B2%D9%88%D8%B1%DB%8C-%D8%AA%D8%B1%D8%A7%D8%B2%D9%88%DB%8C-%D8%A2%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87-%D8%A8%D8%A7-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D9%87-%D8%A7%D8%B1%D8%B2%D8%B4-%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C-%D8%A7%D8%B2-%D8%B7%D8%B1%DB%8C%D9%82-%D8%A7%D9%BE%D9%84%DB%8C%DA%A9%DB%8C%D8%B4%D9%86",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.084Z"
-  },
-  {
-    "id": "torobshop-sports-travel-a7031b2d2c098e3a",
-    "productId": "torobshop-a7031b2d2c098e3a",
-    "name": "خشک‌کن مواد غذایی کوسوری آمریکا COSORI با ۸ سینی استیل ضد زنگ، ۶۵۰ وات",
-    "brand": "",
-    "model": "خشک‌کن مواد غذایی کوسوری آمریکا COSORI با ۸ سینی استیل ضد زنگ، ۶۵۰ وات",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 72164000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%AE%D8%B4%DA%A9-%DA%A9%D9%86-%D9%85%D9%88%D8%A7%D8%AF-%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C-COSORI-%D8%A8%D8%A7-%DB%B8-%D8%B3%DB%8C%D9%86%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%DB%B6%DB%B5%DB%B0-%D9%88%D8%A7%D8%AA",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.084Z"
-  },
-  {
-    "id": "torobshop-sports-travel-b280052ba623afe6",
-    "productId": "torobshop-b280052ba623afe6",
-    "name": "خشک‌کن مواد غذایی کوسوری آمریکا ۵ سینی، بدون BPA، ۳۵۰ وات، سفید",
-    "brand": "",
-    "model": "خشک‌کن مواد غذایی کوسوری آمریکا ۵ سینی، بدون BPA، ۳۵۰ وات، سفید",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 26426000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%AE%D8%B4%DA%A9-%DA%A9%D9%86-%D9%85%D9%88%D8%A7%D8%AF-%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C-%DA%A9%D9%88%D8%B2%D9%88%D8%B1%DB%8C-%DB%B5-%D8%B3%DB%8C%D9%86%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-BPA-%DB%B3%DB%B5%DB%B0-%D9%88%D8%A7%D8%AA-%D8%B3%D9%81%DB%8C%D8%AF",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.084Z"
-  },
-  {
-    "id": "torobshop-sports-travel-f65d7089e1b75967",
-    "productId": "torobshop-f65d7089e1b75967",
-    "name": "خشک کن مواد غذایی از جنس استیل ضد زنگ کوسوری آمریکا COSORI، بدون تماس با پلاستیک، 650 وات",
-    "brand": "",
-    "model": "خشک کن مواد غذایی از جنس استیل ضد زنگ کوسوری آمریکا COSORI، بدون تماس با پلاستیک، 650 وات",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 71150000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%AE%D8%B4%DA%A9-%DA%A9%D9%86-%D9%85%D9%88%D8%A7%D8%AF-%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C-%D8%A7%D8%B2-%D8%AC%D9%86%D8%B3-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-COSORI-%D8%A8%D8%AF%D9%88%D9%86-%D8%AA%D9%85%D8%A7%D8%B3-%D8%A8%D8%A7-%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-650-%D9%88%D8%A7%D8%AA-2",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.084Z"
-  },
-  {
-    "id": "torobshop-sports-travel-682b567d27e46eb9",
-    "productId": "torobshop-682b567d27e46eb9",
-    "name": "خشک کن مواد غذایی از جنس استیل ضد زنگ کوسوری آمریکا COSORI، بدون تماس با پلاستیک، 650 وات",
-    "brand": "",
-    "model": "خشک کن مواد غذایی از جنس استیل ضد زنگ کوسوری آمریکا COSORI، بدون تماس با پلاستیک، 650 وات",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 71150000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%AE%D8%B4%DA%A9-%DA%A9%D9%86-%D9%85%D9%88%D8%A7%D8%AF-%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C-%D8%A7%D8%B2-%D8%AC%D9%86%D8%B3-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-COSORI-%D8%A8%D8%AF%D9%88%D9%86-%D8%AA%D9%85%D8%A7%D8%B3-%D8%A8%D8%A7-%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-650-%D9%88%D8%A7%D8%AA",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.084Z"
-  },
-  {
-    "id": "torobshop-sports-travel-1a199d11167496a7",
-    "productId": "torobshop-1a199d11167496a7",
-    "name": "سبد بخارپز پلوپز کوسوری آمریکا Cosori CRC-R501-KUS استیل",
-    "brand": "",
-    "model": "سبد بخارپز پلوپز کوسوری آمریکا Cosori CRC-R501-KUS استیل",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 20073000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%BE%D9%84%D9%88%D9%BE%D8%B2-%DA%A9%D9%88%D8%B2%D9%88%D8%B1%DB%8C-%D8%B3%D8%A8%D8%AF-%D8%A8%D8%AE%D8%A7%D8%B1%D9%BE%D8%B2-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%DB%B3-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C-CRC-R501-KUS",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.084Z"
-  },
-  {
-    "id": "torobshop-sports-travel-e7562a4a47affbdf",
-    "productId": "torobshop-e7562a4a47affbdf",
-    "name": "پلوپز کوسوری آمریکا Cosori CRC-R501-KEU ظرفیت 5 لیتر سرامیکی با فناوری Fuzzy Logic",
-    "brand": "",
-    "model": "پلوپز کوسوری آمریکا Cosori CRC-R501-KEU ظرفیت 5 لیتر سرامیکی با فناوری Fuzzy Logic",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 34049000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%BE%D9%84%D9%88%D9%BE%D8%B2-%DA%A9%D9%88%D8%B2%D9%88%D8%B1%DB%8C-%DB%B5-%D9%84%DB%8C%D8%AA%D8%B1-%D9%BE%D9%88%D8%B4%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%81%D8%A7%D8%B2%DB%8C-%D9%84%D8%A7%D8%AC%DB%8C%DA%A9",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.084Z"
-  },
-  {
-    "id": "torobshop-sports-travel-5681fc33ebc4a2c4",
-    "productId": "torobshop-5681fc33ebc4a2c4",
-    "name": "پلوپز چندکاره هوشمند کوسوری آمریکا Cosori با 17 برنامه و دماسنج گوشت",
-    "brand": "",
-    "model": "پلوپز چندکاره هوشمند کوسوری آمریکا Cosori با 17 برنامه و دماسنج گوشت",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 51582000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D9%85%D8%A7%D8%B3%D9%86%D8%AC-%DA%AF%D9%88%D8%B4%D8%AA-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-COSORI-%D9%85%D8%AF%D9%84-First-%D9%BE%D9%84%D9%88%D9%BE%D8%B2-COSORI-%D9%BE%D9%84%D9%88%D9%BE%D8%B2-%DA%86%D9%86%D8%AF%DA%A9%D8%A7%D8%B1%D9%87-%D8%A8%D8%A7-%DB%B1%DB%B7-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.084Z"
-  },
-  {
-    "id": "torobshop-sports-travel-eb3156af454255af",
-    "productId": "torobshop-eb3156af454255af",
-    "name": "زودپز برقی کوسوری آمریکا Cosori CMC-CO601-SEU ظرفیت 5.7 لیتر 9 کاره",
-    "brand": "",
-    "model": "زودپز برقی کوسوری آمریکا Cosori CMC-CO601-SEU ظرفیت 5.7 لیتر 9 کاره",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 44721000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B2%D9%88%D8%AF%D9%BE%D8%B2-%DA%A9%D9%88%D8%B2%D9%88%D8%B1%DB%8C-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%DB%B5-%DB%B7-%D9%84%DB%8C%D8%AA%D8%B1-%DB%B9-%DA%A9%D8%A7%D8%B1%D9%87",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.084Z"
-  },
-  {
-    "id": "torobshop-sports-travel-3f60763e8c1f61db",
-    "productId": "torobshop-3f60763e8c1f61db",
-    "name": "پلوپز و کتری برقی چندکاره کوسوری آمریکا Cosori CRC-R501 شیشه‌ای",
-    "brand": "",
-    "model": "پلوپز و کتری برقی چندکاره کوسوری آمریکا Cosori CRC-R501 شیشه‌ای",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 40401000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%BE%D9%84%D9%88%D9%BE%D8%B2-%D9%88-%DA%A9%D8%AA%D8%B1%DB%8C-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%DA%86%D9%86%D8%AF%D9%85%D9%86%D8%B8%D9%88%D8%B1%D9%87-COSORI",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.084Z"
-  },
-  {
-    "id": "torobshop-sports-travel-8b667a7c5d48a018",
-    "productId": "torobshop-8b667a7c5d48a018",
-    "name": "زودپز برقی چندکاره کوسوری آمریکا Cosori 9 کاره با 14 عملکرد و دماسنج هوشمند گوشت",
-    "brand": "",
-    "model": "زودپز برقی چندکاره کوسوری آمریکا Cosori 9 کاره با 14 عملکرد و دماسنج هوشمند گوشت",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 53615000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D9%85%D8%A7%D8%B3%D9%86%D8%AC-%DA%AF%D9%88%D8%B4%D8%AA-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-COSORI-%D9%85%D8%AF%D9%84-First-%D8%B2%D9%88%D8%AF%D9%BE%D8%B2-COSORI-%DB%B9-%DA%A9%D8%A7%D8%B1%D9%87-%DA%86%D9%86%D8%AF%DA%A9%D8%A7%D8%B1%D9%87-%D8%A8%D8%A7-%DB%B1%DB%B4-%D8%B9%D9%85%D9%84%DA%A9%D8%B1%D8%AF",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.084Z"
-  },
-  {
-    "id": "torobshop-sports-travel-c28d9ee4867587e0",
-    "productId": "torobshop-c28d9ee4867587e0",
-    "name": "سرخ‌کن کوسوری آمریکا با پنجره دید، سرخ‌کن هوای گرم ۸.۵ لیتری، ۲ محفظه",
-    "brand": "",
-    "model": "سرخ‌کن کوسوری آمریکا با پنجره دید، سرخ‌کن هوای گرم ۸.۵ لیتری، ۲ محفظه",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 60729000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%DA%A9%D9%88%D8%B2%D9%88%D8%B1%DB%8C-%D8%A8%D8%A7-%D9%BE%D9%86%D8%AC%D8%B1%D9%87-%D8%AF%DB%8C%D8%AF-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D9%87%D9%88%D8%A7%DB%8C-%DA%AF%D8%B1%D9%85-%DB%B8-%DB%B5-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C-%DB%B2-%D9%85%D8%AD%D9%81%D8%B8%D9%87",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.084Z"
-  },
-  {
-    "id": "torobshop-sports-travel-135cb4370d26107e",
-    "productId": "torobshop-135cb4370d26107e",
-    "name": "سرخ‌کن کوسوری آمریکا نسل جدید ۲۰۲۶، سرخ‌کن دوقلوی فشرده دو شعله، فناوری NTC",
-    "brand": "",
-    "model": "سرخ‌کن کوسوری آمریکا نسل جدید ۲۰۲۶، سرخ‌کن دوقلوی فشرده دو شعله، فناوری NTC",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 60729000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%DA%A9%D9%88%D8%B2%D9%88%D8%B1%DB%8C-%D9%86%D8%B3%D9%84-%D8%AC%D8%AF%DB%8C%D8%AF-%DB%B2%DB%B0%DB%B2%DB%B6-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%AF%D9%88%D9%82%D9%84%D9%88%DB%8C-%D9%81%D8%B4%D8%B1%D8%AF%D9%87-%D8%AF%D9%88-%D8%B4%D8%B9%D9%84%D9%87-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-NTC",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.084Z"
-  },
-  {
-    "id": "torobshop-sports-travel-ea6561f27fcae338",
-    "productId": "torobshop-ea6561f27fcae338",
-    "name": "لوازم جانبی سرخ کن بدون روغن کوسوری آمریکا Cosori Air",
-    "brand": "",
-    "model": "لوازم جانبی سرخ کن بدون روغن کوسوری آمریکا Cosori Air",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 22361000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%D8%BA%D9%86-%DA%A9%D9%88%D8%B2%D9%88%D8%B1%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.084Z"
-  },
-  {
-    "id": "torobshop-sports-travel-9da6cf5207d19dc6",
-    "productId": "torobshop-9da6cf5207d19dc6",
-    "name": "کاغذ پخت کوسوری آمریکا COSORI برای سرخ کن هوای گرم ۴.۵-۶ لیتری و سرخ کن هوای گرم COSORI TwinFry 10 لیتری",
-    "brand": "",
-    "model": "کاغذ پخت کوسوری آمریکا COSORI برای سرخ کن هوای گرم ۴.۵-۶ لیتری و سرخ کن هوای گرم COSORI TwinFry 10 لیتری",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 70386000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%DA%A9%D8%A7%D8%BA%D8%B0-%D9%BE%D8%AE%D8%AA-COSORI-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D9%87%D9%88%D8%A7%DB%8C-%DA%AF%D8%B1%D9%85-%DB%B4-%DB%B5-%DB%B6-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C-%D9%88-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D9%87%D9%88%D8%A7%DB%8C-%DA%AF%D8%B1%D9%85-COSORI-TwinFry-10-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.084Z"
-  },
-  {
-    "id": "torobshop-sports-travel-973da9b66d30f98f",
-    "productId": "torobshop-973da9b66d30f98f",
-    "name": "کاغذ سرخ کن بدون روغن کوسوری آمریکا Cosori Air",
-    "brand": "",
-    "model": "کاغذ سرخ کن بدون روغن کوسوری آمریکا Cosori Air",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 10418000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%DA%A9%D8%A7%D8%BA%D8%B0-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%D8%BA%D9%86-%DA%A9%D9%88%D8%B2%D9%88%D8%B1%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.084Z"
-  },
-  {
-    "id": "torobshop-sports-travel-27a7ab064979e19e",
-    "productId": "torobshop-27a7ab064979e19e",
-    "name": "خشک‌کن مواد غذایی از جنس استیل ضد زنگ کوسوری آمریکا COSORI با 50 دستور غذا و سرخ‌کن بدون روغن 10 لیتری COSORI TwinFry",
-    "brand": "",
-    "model": "خشک‌کن مواد غذایی از جنس استیل ضد زنگ کوسوری آمریکا COSORI با 50 دستور غذا و سرخ‌کن بدون روغن 10 لیتری COSORI TwinFry",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 112820000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%AE%D8%B4%DA%A9-%DA%A9%D9%86-%D9%85%D9%88%D8%A7%D8%AF-%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C-%D8%A7%D8%B2-%D8%AC%D9%86%D8%B3-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-COSORI-%D8%A8%D8%A7-50-%D8%AF%D8%B3%D8%AA%D9%88%D8%B1-%D8%BA%D8%B0%D8%A7-%D9%88-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%D8%BA%D9%86-10-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C-COSORI-TwinFry",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.084Z"
-  },
-  {
-    "id": "torobshop-sports-travel-426ac503c83523da",
-    "productId": "torobshop-426ac503c83523da",
-    "name": "سرخ کن و کتری شیشه‌ای کوسوری آمریکا COSORI با فیلتر استیل ضد زنگ ارتقا یافته و درب داخلی و سرخ‌کن COSORI TwinFry 10L",
-    "brand": "",
-    "model": "سرخ کن و کتری شیشه‌ای کوسوری آمریکا COSORI با فیلتر استیل ضد زنگ ارتقا یافته و درب داخلی و سرخ‌کن COSORI TwinFry 10L",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 73689000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%DA%A9%D8%AA%D8%B1%DB%8C-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-COSORI-%D8%A8%D8%A7-%D9%81%DB%8C%D9%84%D8%AA%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%A7%D8%B1%D8%AA%D9%82%D8%A7-%DB%8C%D8%A7%D9%81%D8%AA%D9%87-%D9%88-%D8%AF%D8%B1%D8%A8-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D9%88-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-COSORI-TwinFry-10L",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.084Z"
-  },
-  {
-    "id": "torobshop-sports-travel-93f0314c16b9cade",
-    "productId": "torobshop-93f0314c16b9cade",
-    "name": "کاغذ پخت کوسوری آمریکا COSORI برای سرخ کن بدون روغن ۴.۵-۶ لیتر، ۱۰۰ عدد، ۲۰ سانتی‌متر، برای سرخ کن بدون روغن، فر، مایکروویو، بخارپز، لوازم جانبی، مجموعه شش تکه لوازم جانبی برای برندهای سرخ کن بدون روغن ۵.۵ لیتر",
-    "brand": "",
-    "model": "کاغذ پخت کوسوری آمریکا COSORI برای سرخ کن بدون روغن ۴.۵-۶ لیتر، ۱۰۰ عدد، ۲۰ سانتی‌متر، برای سرخ کن بدون روغن، فر، مایکروویو، بخارپز، لوازم جانبی، مجموعه شش تکه لوازم جانبی برای برندهای سرخ کن بدون روغن ۵.۵ لیتر",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 22107000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%DA%A9%D8%A7%D8%BA%D8%B0-%D9%BE%D8%AE%D8%AA-COSORI-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%D8%BA%D9%86-%DB%B4-%DB%B5-%DB%B6-%D9%84%DB%8C%D8%AA%D8%B1-%DB%B1%DB%B0%DB%B0-%D8%B9%D8%AF%D8%AF-%DB%B2%DB%B0-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%D8%BA%D9%86-%D9%81%D8%B1-%D9%85%D8%A7%DB%8C%DA%A9%D8%B1%D9%88%D9%88%DB%8C%D9%88-%D8%A8%D8%AE%D8%A7%D8%B1%D9%BE%D8%B2-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D8%B4%D8%B4-%D8%AA%DA%A9%D9%87-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A8%D8%B1%D9%86%D8%AF%D9%87%D8%A7%DB%8C-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%D8%BA%D9%86-%DB%B5-%DB%B5-%D9%84%DB%8C%D8%AA%D8%B1",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.084Z"
-  },
-  {
-    "id": "torobshop-sports-travel-e546c7ee2f25cccb",
-    "productId": "torobshop-e546c7ee2f25cccb",
-    "name": "سرخ کن هوای گرم Cososi TurboBlaze سینی پخت اصلی 6 لیتری، لوازم جانبی Cosori برای سرخ کن CAF-DC601-KEU، پوشش نچسب، قابل شستشو در ماشین ظرفشویی، CRP-DC601RC-KEU، مشکی",
-    "brand": "",
-    "model": "سرخ کن هوای گرم Cososi TurboBlaze سینی پخت اصلی 6 لیتری، لوازم جانبی Cosori برای سرخ کن CAF-DC601-KEU، پوشش نچسب، قابل شستشو در ماشین ظرفشویی، CRP-DC601RC-KEU، مشکی",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 15246000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D9%87%D9%88%D8%A7%DB%8C-%DA%AF%D8%B1%D9%85-Cososi-TurboBlaze-%D8%B3%DB%8C%D9%86%DB%8C-%D9%BE%D8%AE%D8%AA-%D8%A7%D8%B5%D9%84%DB%8C-6-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-Cosori-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-CAF-DC601-KEU-%D9%BE%D9%88%D8%B4%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-CRP-DC601RC-KEU-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.084Z"
-  },
-  {
-    "id": "torobshop-sports-travel-06e9af83157d59bf",
-    "productId": "torobshop-06e9af83157d59bf",
-    "name": "سرخ‌کن بدون روغن کوسوری آمریکا Cosori CP358-AF ظرفیت 5.5 لیتر 12 کاره",
-    "brand": "",
-    "model": "سرخ‌کن بدون روغن کوسوری آمریکا Cosori CP358-AF ظرفیت 5.5 لیتر 12 کاره",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 33540000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%84%D8%A7%D9%85%D9%BE-%D8%A7%D9%84-%D8%A7%DB%8C-%D8%AF%DB%8C-%D9%BE%D8%A7%DB%8C%D9%87-%D8%B3%D9%88%D8%B2%D9%86%DB%8C-EGLO-G4-%D9%82%D8%A7%D8%A8%D9%84-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D9%86%D9%88%D8%B1-%D9%BE%D8%A7%DB%8C%D9%87-%D8%B3%D9%88%D8%B2%D9%86%DB%8C-%D8%A8%D8%B3%D8%AA%D9%87-%DB%B2-%D8%B9%D8%AF%D8%AF%DB%8C-%DB%B2-%D9%84%D8%A7%D9%85%D9%BE-%D9%87%D8%B1-%DA%A9%D8%AF%D8%A7%D9%85-%DB%B1-%DB%B2-%D9%88%D8%A7%D8%AA-%DB%B1%DB%B2-%D9%88%D9%84%D8%AA-%D9%85%D8%B9%D8%A7%D8%AF%D9%84-%DB%B1%DB%B1-%D9%88%D8%A7%D8%AA-%DB%B1%DB%B0%DB%B0-%D9%84%D9%88%D9%85%D9%86-%D9%86%D9%88%D8%B1-%D8%B3%D9%81%DB%8C%D8%AF-%DA%AF%D8%B1%D9%85-%DB%B2%DB%B7%DB%B0%DB%B0-%DA%A9%D9%84%D9%88%DB%8C%D9%86-%D9%BE%D8%A7%DB%8C%D9%87-%D9%84%D8%A7%D9%85%D9%BE-%DB%B1-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.084Z"
-  },
-  {
-    "id": "torobshop-sports-travel-7dd02e17fa5ae720",
-    "productId": "torobshop-7dd02e17fa5ae720",
-    "name": "سرخ‌کن بدون روغن کوسوری آمریکا مدل CP158 به همراه مجموعه شش تکه لوازم جانبی و کاغذ مخصوص سرخ‌کن بدون روغن",
-    "brand": "",
-    "model": "سرخ‌کن بدون روغن کوسوری آمریکا مدل CP158 به همراه مجموعه شش تکه لوازم جانبی و کاغذ مخصوص سرخ‌کن بدون روغن",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 43705000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%D8%BA%D9%86-%DA%A9%D9%88%D8%B2%D9%88%D8%B1%DB%8C-%D9%85%D8%AF%D9%84-CP158-%D8%A8%D9%87-%D9%87%D9%85%D8%B1%D8%A7%D9%87-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D8%B4%D8%B4-%D8%AA%DA%A9%D9%87-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%88-%DA%A9%D8%A7%D8%BA%D8%B0-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%D8%BA%D9%86",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.084Z"
-  },
-  {
-    "id": "torobshop-sports-travel-67b089d5840c00b5",
-    "productId": "torobshop-67b089d5840c00b5",
-    "name": "سرخ‌کن بدون روغن کوسوری آمریکا COSORI L501 و کاغذ پخت و مجموعه لوازم جانبی سرخ‌کن بدون روغن شش تکه",
-    "brand": "",
-    "model": "سرخ‌کن بدون روغن کوسوری آمریکا COSORI L501 و کاغذ پخت و مجموعه لوازم جانبی سرخ‌کن بدون روغن شش تکه",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 44468000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%D8%BA%D9%86-COSORI-L501-%D9%88-%DA%A9%D8%A7%D8%BA%D8%B0-%D9%BE%D8%AE%D8%AA-%D9%88-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%D8%BA%D9%86-%D8%B4%D8%B4-%D8%AA%DA%A9%D9%87",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.084Z"
-  },
-  {
-    "id": "torobshop-sports-travel-16617f0cd6242c17",
-    "productId": "torobshop-16617f0cd6242c17",
-    "name": "دماسنج گوشت هوشمند کوسوری آمریکا COSORI مدل First، دماسنج کباب‌پزی بی‌سیم بلوتوثی، مناسب برای سرخ‌کن بدون روغن، دماسنج کباب‌پزی برای آشپزخانه و کباب‌پزی، قابل شستشو در ماشین ظرفشویی، مشکی",
-    "brand": "",
-    "model": "دماسنج گوشت هوشمند کوسوری آمریکا COSORI مدل First، دماسنج کباب‌پزی بی‌سیم بلوتوثی، مناسب برای سرخ‌کن بدون روغن، دماسنج کباب‌پزی برای آشپزخانه و کباب‌پزی، قابل شستشو در ماشین ظرفشویی، مشکی",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 26426000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D9%85%D8%A7%D8%B3%D9%86%D8%AC-%DA%AF%D9%88%D8%B4%D8%AA-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-COSORI-%D9%85%D8%AF%D9%84-First-%D8%AF%D9%85%D8%A7%D8%B3%D9%86%D8%AC-%DA%A9%D8%A8%D8%A7%D8%A8-%D9%BE%D8%B2%DB%8C-%D8%A8%DB%8C-%D8%B3%DB%8C%D9%85-%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%D8%BA%D9%86-%D8%AF%D9%85%D8%A7%D8%B3%D9%86%D8%AC-%DA%A9%D8%A8%D8%A7%D8%A8-%D9%BE%D8%B2%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A2%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87-%D9%88-%DA%A9%D8%A8%D8%A7%D8%A8-%D9%BE%D8%B2%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.084Z"
-  },
-  {
-    "id": "torobshop-sports-travel-aab6f7ca65634b77",
-    "productId": "torobshop-aab6f7ca65634b77",
-    "name": "سبد اصلی سرخ کن بدون روغن کوسوری آمریکا COSORI Turboblaze 6Qt، لوازم جانبی جایگزین برای سرخ کن بدون روغن CAF-DC601-KUS، سرامیکی، نچسب، قابل شستشو در ماشین ظرفشویی، CRP-DC601RB-KUS، خاکستری تیره",
-    "brand": "",
-    "model": "سبد اصلی سرخ کن بدون روغن کوسوری آمریکا COSORI Turboblaze 6Qt، لوازم جانبی جایگزین برای سرخ کن بدون روغن CAF-DC601-KUS، سرامیکی، نچسب، قابل شستشو در ماشین ظرفشویی، CRP-DC601RB-KUS، خاکستری تیره",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 29984000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%A8%D8%AF-%D8%A7%D8%B5%D9%84%DB%8C-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%D8%BA%D9%86-COSORI-Turboblaze-6Qt-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%D8%BA%D9%86-CAF-DC601-KUS-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%86%DA%86%D8%B3%D8%A8-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-CRP-DC601RB-KUS-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C-%D8%AA%DB%8C%D8%B1%D9%87",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.084Z"
+    "observedAt": "2026-09-04T21:24:42.962Z"
   },
   {
     "id": "torobshop-sports-travel-230290bd87eab562",
@@ -1653,7 +1689,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.084Z"
+    "observedAt": "2026-09-04T21:24:42.962Z"
   },
   {
     "id": "torobshop-sports-travel-697a2934ffba6321",
@@ -1671,7 +1707,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.084Z"
+    "observedAt": "2026-09-04T21:24:42.962Z"
   },
   {
     "id": "torobshop-sports-travel-54f5e9ae596669e0",
@@ -1689,7 +1725,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.084Z"
+    "observedAt": "2026-09-04T21:24:42.962Z"
   },
   {
     "id": "torobshop-sports-travel-12112ebd794aebfe",
@@ -1707,7 +1743,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.084Z"
+    "observedAt": "2026-09-04T21:24:42.962Z"
   },
   {
     "id": "torobshop-sports-travel-936307be3dbff4d8",
@@ -1725,7 +1761,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.084Z"
+    "observedAt": "2026-09-04T21:24:42.962Z"
   },
   {
     "id": "torobshop-sports-travel-6e9b5969bf806a83",
@@ -1743,7 +1779,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.084Z"
+    "observedAt": "2026-09-04T21:24:42.962Z"
   },
   {
     "id": "torobshop-sports-travel-e8fbb91576830b01",
@@ -1761,7 +1797,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.084Z"
+    "observedAt": "2026-09-04T21:24:42.962Z"
   },
   {
     "id": "torobshop-sports-travel-46604b56d19bc98e",
@@ -1779,7 +1815,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.084Z"
+    "observedAt": "2026-09-04T21:24:42.962Z"
   },
   {
     "id": "torobshop-sports-travel-c0da7c6caaaabe22",
@@ -1797,7 +1833,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.084Z"
+    "observedAt": "2026-09-04T21:24:42.962Z"
   },
   {
     "id": "torobshop-sports-travel-b0d9a8bce5b96da9",
@@ -1815,7 +1851,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.084Z"
+    "observedAt": "2026-09-04T21:24:42.962Z"
   },
   {
     "id": "torobshop-sports-travel-5aade8dcb399df70",
@@ -1833,7 +1869,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.084Z"
+    "observedAt": "2026-09-04T21:24:42.962Z"
   },
   {
     "id": "torobshop-sports-travel-5793143473c0cf7d",
@@ -1851,7 +1887,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.084Z"
+    "observedAt": "2026-09-04T21:24:42.962Z"
   },
   {
     "id": "torobshop-sports-travel-338927d0838a0440",
@@ -1869,7 +1905,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.084Z"
+    "observedAt": "2026-09-04T21:24:42.962Z"
   },
   {
     "id": "torobshop-sports-travel-01db327156bef7cb",
@@ -1887,7 +1923,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.084Z"
+    "observedAt": "2026-09-04T21:24:42.962Z"
   },
   {
     "id": "torobshop-sports-travel-5f8b7d12315d211b",
@@ -1905,7 +1941,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.084Z"
+    "observedAt": "2026-09-04T21:24:42.962Z"
   },
   {
     "id": "torobshop-sports-travel-bbcc82316e14ad0c",
@@ -1923,7 +1959,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.084Z"
+    "observedAt": "2026-09-04T21:24:42.962Z"
   },
   {
     "id": "torobshop-sports-travel-7bcf4d86c8897e89",
@@ -1941,7 +1977,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.084Z"
+    "observedAt": "2026-09-04T21:24:42.962Z"
   },
   {
     "id": "torobshop-sports-travel-c4764ab021d7047d",
@@ -1959,7 +1995,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.084Z"
+    "observedAt": "2026-09-04T21:24:42.962Z"
   },
   {
     "id": "torobshop-sports-travel-c0ed70988a23d716",
@@ -1977,7 +2013,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.084Z"
+    "observedAt": "2026-09-04T21:24:42.962Z"
   },
   {
     "id": "torobshop-sports-travel-60d6e587231ae5e2",
@@ -1995,7 +2031,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.084Z"
+    "observedAt": "2026-09-04T21:24:42.962Z"
   },
   {
     "id": "torobshop-sports-travel-6ae0fa5e11f4b4e4",
@@ -2013,7 +2049,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.084Z"
+    "observedAt": "2026-09-04T21:24:42.963Z"
   },
   {
     "id": "torobshop-sports-travel-60af1d85416ddb75",
@@ -2031,7 +2067,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.084Z"
+    "observedAt": "2026-09-04T21:24:42.963Z"
   },
   {
     "id": "torobshop-sports-travel-4bcca73578b5dd16",
@@ -2049,7 +2085,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.084Z"
+    "observedAt": "2026-09-04T21:24:42.963Z"
   },
   {
     "id": "torobshop-sports-travel-6e06ceda384f61d3",
@@ -2067,7 +2103,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.084Z"
+    "observedAt": "2026-09-04T21:24:42.963Z"
   },
   {
     "id": "torobshop-sports-travel-d6020856dbe3939e",
@@ -2085,7 +2121,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.085Z"
+    "observedAt": "2026-09-04T21:24:42.963Z"
   },
   {
     "id": "torobshop-sports-travel-5d82b44892bc11b9",
@@ -2103,7 +2139,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.085Z"
+    "observedAt": "2026-09-04T21:24:42.963Z"
   },
   {
     "id": "torobshop-sports-travel-f9bbe058bc1d2128",
@@ -2121,7 +2157,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.085Z"
+    "observedAt": "2026-09-04T21:24:42.963Z"
   },
   {
     "id": "torobshop-sports-travel-e314f2beea5b98b5",
@@ -2139,7 +2175,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.085Z"
+    "observedAt": "2026-09-04T21:24:42.963Z"
   },
   {
     "id": "torobshop-sports-travel-55066b4800c9da01",
@@ -2157,7 +2193,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.085Z"
+    "observedAt": "2026-09-04T21:24:42.963Z"
   },
   {
     "id": "torobshop-sports-travel-f9b72003ee046406",
@@ -2175,7 +2211,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.085Z"
+    "observedAt": "2026-09-04T21:24:42.963Z"
   },
   {
     "id": "torobshop-sports-travel-e0190c6b09b72f84",
@@ -2193,7 +2229,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.085Z"
+    "observedAt": "2026-09-04T21:24:42.963Z"
   },
   {
     "id": "torobshop-sports-travel-dab9eb8721316f5c",
@@ -2211,43 +2247,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.085Z"
-  },
-  {
-    "id": "torobshop-sports-travel-b5bb3ef74c64016f",
-    "productId": "torobshop-b5bb3ef74c64016f",
-    "name": "ریش تراش برقی براون آلمان سری 9 پرو پلاس با ایستگاه شستشو هوشمند مدل Braun 9690cce",
-    "brand": "",
-    "model": "ریش تراش برقی براون آلمان سری 9 پرو پلاس با ایستگاه شستشو هوشمند مدل Braun 9690cce",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 108261000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D8%A8%D8%B1%D9%82%DB%8C-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%B3%D8%B1%DB%8C-9-%D9%BE%D8%B1%D9%88-%D9%BE%D9%84%D8%A7%D8%B3-%D8%A8%D8%A7-%D8%A7%DB%8C%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%D9%85%D8%AF%D9%84-Braun-9690cce",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.085Z"
-  },
-  {
-    "id": "torobshop-sports-travel-13383e2908795ceb",
-    "productId": "torobshop-13383e2908795ceb",
-    "name": "اسپرسو ساز تمام اتوماتیک نینجا آمریکا Ninja AE1051EU",
-    "brand": "",
-    "model": "اسپرسو ساز تمام اتوماتیک نینجا آمریکا Ninja AE1051EU",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 263060000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%A7%D8%B3%D9%BE%D8%B1%D8%B3%D9%88-%D8%B3%D8%A7%D8%B2-%D8%AA%D9%85%D8%A7%D9%85-%D8%A7%D8%AA%D9%88%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-Ninja-AE1051EU",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.085Z"
+    "observedAt": "2026-09-04T21:24:42.963Z"
   },
   {
     "id": "torobshop-sports-travel-7039563646d2a08c",
@@ -2265,7 +2265,43 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.085Z"
+    "observedAt": "2026-09-04T21:24:42.963Z"
+  },
+  {
+    "id": "torobshop-sports-travel-b5bb3ef74c64016f",
+    "productId": "torobshop-b5bb3ef74c64016f",
+    "name": "ریش تراش برقی براون آلمان سری 9 پرو پلاس با ایستگاه شستشو هوشمند مدل Braun 9690cce",
+    "brand": "",
+    "model": "ریش تراش برقی براون آلمان سری 9 پرو پلاس با ایستگاه شستشو هوشمند مدل Braun 9690cce",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 108261000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D8%A8%D8%B1%D9%82%DB%8C-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%B3%D8%B1%DB%8C-9-%D9%BE%D8%B1%D9%88-%D9%BE%D9%84%D8%A7%D8%B3-%D8%A8%D8%A7-%D8%A7%DB%8C%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%D9%85%D8%AF%D9%84-Braun-9690cce",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.963Z"
+  },
+  {
+    "id": "torobshop-sports-travel-13383e2908795ceb",
+    "productId": "torobshop-13383e2908795ceb",
+    "name": "اسپرسو ساز تمام اتوماتیک نینجا آمریکا Ninja AE1051EU",
+    "brand": "",
+    "model": "اسپرسو ساز تمام اتوماتیک نینجا آمریکا Ninja AE1051EU",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 263060000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D8%B3%D9%BE%D8%B1%D8%B3%D9%88-%D8%B3%D8%A7%D8%B2-%D8%AA%D9%85%D8%A7%D9%85-%D8%A7%D8%AA%D9%88%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-Ninja-AE1051EU",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.963Z"
   },
   {
     "id": "torobshop-sports-travel-d17a16a92c427af7",
@@ -2283,7 +2319,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.085Z"
+    "observedAt": "2026-09-04T21:24:42.963Z"
   },
   {
     "id": "torobshop-sports-travel-222c5f1f48a7811a",
@@ -2301,7 +2337,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.085Z"
+    "observedAt": "2026-09-04T21:24:42.963Z"
   },
   {
     "id": "torobshop-sports-travel-e05ea902bac411c1",
@@ -2319,25 +2355,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.085Z"
-  },
-  {
-    "id": "torobshop-sports-travel-9f8dba1c4be0543f",
-    "productId": "torobshop-9f8dba1c4be0543f",
-    "name": "دستگاه تنس مخصوص زانو بیورر آلمان مدل Beurer EM 56 کاهش درد زانو آرتروز و دردهای مفصلی",
-    "brand": "",
-    "model": "دستگاه تنس مخصوص زانو بیورر آلمان مدل Beurer EM 56 کاهش درد زانو آرتروز و دردهای مفصلی",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 22834000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%AA%D9%86%D8%B3-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%B2%D8%A7%D9%86%D9%88-%D8%A8%DB%8C%D9%88%D8%B1%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%AF%D9%84-Beurer-EM-56-%DA%A9%D8%A7%D9%87%D8%B4-%D8%AF%D8%B1%D8%AF-%D8%B2%D8%A7%D9%86%D9%88-%D8%A2%D8%B1%D8%AA%D8%B1%D9%88%D8%B2-%D9%88-%D8%AF%D8%B1%D8%AF%D9%87%D8%A7%DB%8C-%D9%85%D9%81%D8%B5%D9%84%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.085Z"
+    "observedAt": "2026-09-04T21:24:42.963Z"
   },
   {
     "id": "torobshop-sports-travel-73f54a12bc87541c",
@@ -2355,7 +2373,25 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.085Z"
+    "observedAt": "2026-09-04T21:24:42.963Z"
+  },
+  {
+    "id": "torobshop-sports-travel-9f8dba1c4be0543f",
+    "productId": "torobshop-9f8dba1c4be0543f",
+    "name": "دستگاه تنس مخصوص زانو بیورر آلمان مدل Beurer EM 56 کاهش درد زانو آرتروز و دردهای مفصلی",
+    "brand": "",
+    "model": "دستگاه تنس مخصوص زانو بیورر آلمان مدل Beurer EM 56 کاهش درد زانو آرتروز و دردهای مفصلی",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 22834000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%AA%D9%86%D8%B3-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%B2%D8%A7%D9%86%D9%88-%D8%A8%DB%8C%D9%88%D8%B1%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%AF%D9%84-Beurer-EM-56-%DA%A9%D8%A7%D9%87%D8%B4-%D8%AF%D8%B1%D8%AF-%D8%B2%D8%A7%D9%86%D9%88-%D8%A2%D8%B1%D8%AA%D8%B1%D9%88%D8%B2-%D9%88-%D8%AF%D8%B1%D8%AF%D9%87%D8%A7%DB%8C-%D9%85%D9%81%D8%B5%D9%84%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.963Z"
   },
   {
     "id": "torobshop-sports-travel-7dda1ee3ebe3337d",
@@ -2373,7 +2409,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.085Z"
+    "observedAt": "2026-09-04T21:24:42.963Z"
   },
   {
     "id": "torobshop-sports-travel-fed9304ce636fd70",
@@ -2391,7 +2427,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.085Z"
+    "observedAt": "2026-09-04T21:24:42.963Z"
   },
   {
     "id": "torobshop-sports-travel-56d2262c04bf40b1",
@@ -2409,7 +2445,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.085Z"
+    "observedAt": "2026-09-04T21:24:42.963Z"
   },
   {
     "id": "torobshop-sports-travel-1d09296a1209f7ae",
@@ -2427,7 +2463,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.085Z"
+    "observedAt": "2026-09-04T21:24:42.963Z"
   },
   {
     "id": "torobshop-sports-travel-d5861c5eae980acb",
@@ -2445,7 +2481,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.085Z"
+    "observedAt": "2026-09-04T21:24:42.963Z"
   },
   {
     "id": "torobshop-sports-travel-3a354858143bf5bf",
@@ -2463,7 +2499,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.085Z"
+    "observedAt": "2026-09-04T21:24:42.963Z"
   },
   {
     "id": "torobshop-sports-travel-3b108c60419c6b3e",
@@ -2481,7 +2517,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.085Z"
+    "observedAt": "2026-09-04T21:24:42.963Z"
   },
   {
     "id": "torobshop-sports-travel-386045fed7109b6c",
@@ -2499,7 +2535,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.085Z"
+    "observedAt": "2026-09-04T21:24:42.963Z"
   },
   {
     "id": "torobshop-sports-travel-3d432c8dbd69eefb",
@@ -2517,7 +2553,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.085Z"
+    "observedAt": "2026-09-04T21:24:42.963Z"
   },
   {
     "id": "torobshop-sports-travel-2278a7dbec8ed7cd",
@@ -2535,7 +2571,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.085Z"
+    "observedAt": "2026-09-04T21:24:42.963Z"
   },
   {
     "id": "torobshop-sports-travel-66634e26dfb49c04",
@@ -2553,7 +2589,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.085Z"
+    "observedAt": "2026-09-04T21:24:42.963Z"
   },
   {
     "id": "torobshop-sports-travel-bab25203513b93bb",
@@ -2571,7 +2607,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.085Z"
+    "observedAt": "2026-09-04T21:24:42.963Z"
   },
   {
     "id": "torobshop-sports-travel-3dd1b99a47f6c6d1",
@@ -2589,7 +2625,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.085Z"
+    "observedAt": "2026-09-04T21:24:42.963Z"
   },
   {
     "id": "torobshop-sports-travel-bcf3455eedcf96e7",
@@ -2607,7 +2643,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.085Z"
+    "observedAt": "2026-09-04T21:24:42.963Z"
   },
   {
     "id": "torobshop-sports-travel-40f557a46b915c21",
@@ -2625,25 +2661,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.085Z"
-  },
-  {
-    "id": "torobshop-sports-travel-fbd5e1832a592f6d",
-    "productId": "torobshop-fbd5e1832a592f6d",
-    "name": "اسپرسو ساز اسمگ ایتالیا مدل Smeg ECF02CREU رنگ کرم با طراحی کلاسیک دهه ۵۰",
-    "brand": "",
-    "model": "اسپرسو ساز اسمگ ایتالیا مدل Smeg ECF02CREU رنگ کرم با طراحی کلاسیک دهه ۵۰",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 90041000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%A7%D8%B3%D9%BE%D8%B1%D8%B3%D9%88-%D8%B3%D8%A7%D8%B2-%D8%A7%D8%B3%D9%85%DA%AF-%D8%A7%DB%8C%D8%AA%D8%A7%D9%84%DB%8C%D8%A7-%D9%85%D8%AF%D9%84-Smeg-ECF02CREU-%D8%B1%D9%86%DA%AF-%DA%A9%D8%B1%D9%85-%D8%A8%D8%A7-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%DA%A9%D9%84%D8%A7%D8%B3%DB%8C%DA%A9-%D8%AF%D9%87%D9%87-%DB%B5%DB%B0",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.085Z"
+    "observedAt": "2026-09-04T21:24:42.963Z"
   },
   {
     "id": "torobshop-sports-travel-9c9a87a898bad342",
@@ -2661,7 +2679,25 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.085Z"
+    "observedAt": "2026-09-04T21:24:42.963Z"
+  },
+  {
+    "id": "torobshop-sports-travel-fbd5e1832a592f6d",
+    "productId": "torobshop-fbd5e1832a592f6d",
+    "name": "اسپرسو ساز اسمگ ایتالیا مدل Smeg ECF02CREU رنگ کرم با طراحی کلاسیک دهه ۵۰",
+    "brand": "",
+    "model": "اسپرسو ساز اسمگ ایتالیا مدل Smeg ECF02CREU رنگ کرم با طراحی کلاسیک دهه ۵۰",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 90041000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D8%B3%D9%BE%D8%B1%D8%B3%D9%88-%D8%B3%D8%A7%D8%B2-%D8%A7%D8%B3%D9%85%DA%AF-%D8%A7%DB%8C%D8%AA%D8%A7%D9%84%DB%8C%D8%A7-%D9%85%D8%AF%D9%84-Smeg-ECF02CREU-%D8%B1%D9%86%DA%AF-%DA%A9%D8%B1%D9%85-%D8%A8%D8%A7-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%DA%A9%D9%84%D8%A7%D8%B3%DB%8C%DA%A9-%D8%AF%D9%87%D9%87-%DB%B5%DB%B0",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.963Z"
   },
   {
     "id": "torobshop-sports-travel-685fccacbb18ee43",
@@ -2679,7 +2715,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.085Z"
+    "observedAt": "2026-09-04T21:24:42.963Z"
   },
   {
     "id": "torobshop-sports-travel-1cb6df1aed563bee",
@@ -2697,7 +2733,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.085Z"
+    "observedAt": "2026-09-04T21:24:42.963Z"
   },
   {
     "id": "torobshop-sports-travel-993ee35f4a561a10",
@@ -2715,7 +2751,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.085Z"
+    "observedAt": "2026-09-04T21:24:42.963Z"
   },
   {
     "id": "torobshop-sports-travel-37fd983abaa93a3b",
@@ -2733,7 +2769,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.085Z"
+    "observedAt": "2026-09-04T21:24:42.963Z"
   },
   {
     "id": "torobshop-sports-travel-deb4652ab7b20c96",
@@ -2751,7 +2787,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.085Z"
+    "observedAt": "2026-09-04T21:24:42.963Z"
   },
   {
     "id": "torobshop-sports-travel-cc5a74ea332cb871",
@@ -2769,7 +2805,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.085Z"
+    "observedAt": "2026-09-04T21:24:42.963Z"
   },
   {
     "id": "torobshop-sports-travel-5e97e30e4af5e35a",
@@ -2787,7 +2823,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.085Z"
+    "observedAt": "2026-09-04T21:24:42.963Z"
   },
   {
     "id": "torobshop-sports-travel-f5c373b20c89f3cf",
@@ -2805,7 +2841,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.085Z"
+    "observedAt": "2026-09-04T21:24:42.963Z"
   },
   {
     "id": "torobshop-sports-travel-557954e4838db8ec",
@@ -2823,7 +2859,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.085Z"
+    "observedAt": "2026-09-04T21:24:42.963Z"
   },
   {
     "id": "torobshop-sports-travel-ac5e0f9a687acc9d",
@@ -2841,7 +2877,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.085Z"
+    "observedAt": "2026-09-04T21:24:42.963Z"
   },
   {
     "id": "torobshop-sports-travel-174296fd490ce4c6",
@@ -2859,7 +2895,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.085Z"
+    "observedAt": "2026-09-04T21:24:42.963Z"
   },
   {
     "id": "torobshop-sports-travel-ca40f9691c169854",
@@ -2877,7 +2913,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.085Z"
+    "observedAt": "2026-09-04T21:24:42.963Z"
   },
   {
     "id": "torobshop-sports-travel-24ee5f250564a2b6",
@@ -2895,7 +2931,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.085Z"
+    "observedAt": "2026-09-04T21:24:42.963Z"
   },
   {
     "id": "torobshop-sports-travel-eb2d1bdae18ab641",
@@ -2913,7 +2949,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.085Z"
+    "observedAt": "2026-09-04T21:24:42.963Z"
   },
   {
     "id": "torobshop-sports-travel-9526bc50db1d2b71",
@@ -2931,7 +2967,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.085Z"
+    "observedAt": "2026-09-04T21:24:42.963Z"
   },
   {
     "id": "torobshop-sports-travel-17aea0c096f3fbb1",
@@ -2949,7 +2985,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.085Z"
+    "observedAt": "2026-09-04T21:24:42.963Z"
   },
   {
     "id": "torobshop-sports-travel-dab36535df580dd9",
@@ -2967,7 +3003,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.085Z"
+    "observedAt": "2026-09-04T21:24:42.963Z"
   },
   {
     "id": "torobshop-sports-travel-bb07ff83203ce817",
@@ -2985,7 +3021,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.085Z"
+    "observedAt": "2026-09-04T21:24:42.963Z"
   },
   {
     "id": "torobshop-sports-travel-23a08ed4a54c1bf3",
@@ -3003,7 +3039,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.085Z"
+    "observedAt": "2026-09-04T21:24:42.963Z"
   },
   {
     "id": "torobshop-sports-travel-86394f5b0d453ade",
@@ -3021,7 +3057,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.085Z"
+    "observedAt": "2026-09-04T21:24:42.963Z"
   },
   {
     "id": "torobshop-sports-travel-bf0ff9604c787d7f",
@@ -3039,7 +3075,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.085Z"
+    "observedAt": "2026-09-04T21:24:42.963Z"
   },
   {
     "id": "torobshop-sports-travel-ffccfb4b61d564f3",
@@ -3057,7 +3093,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.085Z"
+    "observedAt": "2026-09-04T21:24:42.963Z"
   },
   {
     "id": "torobshop-sports-travel-add12b5339d41d54",
@@ -3075,7 +3111,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.085Z"
+    "observedAt": "2026-09-04T21:24:42.964Z"
   },
   {
     "id": "torobshop-sports-travel-ec9957a5ab556a59",
@@ -3093,7 +3129,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.085Z"
+    "observedAt": "2026-09-04T21:24:42.964Z"
   },
   {
     "id": "torobshop-sports-travel-e89541bdd38935d2",
@@ -3111,7 +3147,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.085Z"
+    "observedAt": "2026-09-04T21:24:42.964Z"
   },
   {
     "id": "torobshop-sports-travel-ec7446a90d887300",
@@ -3129,7 +3165,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.085Z"
+    "observedAt": "2026-09-04T21:24:42.964Z"
   },
   {
     "id": "torobshop-sports-travel-f676e23d1f151190",
@@ -3147,7 +3183,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.085Z"
+    "observedAt": "2026-09-04T21:24:42.964Z"
   },
   {
     "id": "torobshop-sports-travel-3debd7458ec254ad",
@@ -3165,7 +3201,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.085Z"
+    "observedAt": "2026-09-04T21:24:42.964Z"
   },
   {
     "id": "torobshop-sports-travel-bf9b6308d5e6e4a3",
@@ -3183,7 +3219,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.086Z"
+    "observedAt": "2026-09-04T21:24:42.964Z"
   },
   {
     "id": "torobshop-sports-travel-a936b9d4fccda9ec",
@@ -3201,7 +3237,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.086Z"
+    "observedAt": "2026-09-04T21:24:42.964Z"
   },
   {
     "id": "torobshop-sports-travel-bc5ad78acdc13550",
@@ -3219,7 +3255,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.086Z"
+    "observedAt": "2026-09-04T21:24:42.964Z"
   },
   {
     "id": "torobshop-sports-travel-b93b2b7b8a52ead7",
@@ -3237,7 +3273,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.086Z"
+    "observedAt": "2026-09-04T21:24:42.964Z"
   },
   {
     "id": "torobshop-sports-travel-20506e6b258fcb0c",
@@ -3255,7 +3291,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.086Z"
+    "observedAt": "2026-09-04T21:24:42.964Z"
   },
   {
     "id": "torobshop-sports-travel-9f1357a1a5ec15c3",
@@ -3273,7 +3309,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.086Z"
+    "observedAt": "2026-09-04T21:24:42.964Z"
   },
   {
     "id": "torobshop-sports-travel-469010b14dce1518",
@@ -3291,7 +3327,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.086Z"
+    "observedAt": "2026-09-04T21:24:42.964Z"
   },
   {
     "id": "torobshop-sports-travel-d622f60b84a25c29",
@@ -3309,7 +3345,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.086Z"
+    "observedAt": "2026-09-04T21:24:42.964Z"
   },
   {
     "id": "torobshop-sports-travel-8ad1b620c2984c64",
@@ -3327,7 +3363,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.086Z"
+    "observedAt": "2026-09-04T21:24:42.964Z"
   },
   {
     "id": "torobshop-sports-travel-10055e541e3441a4",
@@ -3345,7 +3381,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.086Z"
+    "observedAt": "2026-09-04T21:24:42.964Z"
   },
   {
     "id": "torobshop-sports-travel-7362b68fe582e1ef",
@@ -3363,7 +3399,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.086Z"
+    "observedAt": "2026-09-04T21:24:42.964Z"
   },
   {
     "id": "torobshop-sports-travel-8cd92a01eb7c25f2",
@@ -3381,7 +3417,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.086Z"
+    "observedAt": "2026-09-04T21:24:42.964Z"
   },
   {
     "id": "torobshop-sports-travel-2aa12aa20262b96c",
@@ -3399,7 +3435,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.086Z"
+    "observedAt": "2026-09-04T21:24:42.964Z"
   },
   {
     "id": "torobshop-sports-travel-8b4d268dc0b50dc9",
@@ -3417,7 +3453,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.086Z"
+    "observedAt": "2026-09-04T21:24:42.964Z"
   },
   {
     "id": "torobshop-sports-travel-2961f6c161810850",
@@ -3435,79 +3471,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.086Z"
-  },
-  {
-    "id": "torobshop-sports-travel-a0357d058917fff7",
-    "productId": "torobshop-a0357d058917fff7",
-    "name": "مانیتور فیلیپس 252B9 - 25 اینچ WUXGA، قابلیت تنظیم ارتفاع (1900x1200، 60 هرتز، VGA، DVI، HDMI، DisplayPort، هاب USB) مشکی",
-    "brand": "",
-    "model": "مانیتور فیلیپس 252B9 - 25 اینچ WUXGA، قابلیت تنظیم ارتفاع (1900x1200، 60 هرتز، VGA، DVI، HDMI، DisplayPort، هاب USB) مشکی",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 66828000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-252B9-25-%D8%A7%DB%8C%D9%86%DA%86-WUXGA-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-1900x1200-60-%D9%87%D8%B1%D8%AA%D8%B2-VGA-DVI-HDMI-DisplayPort-%D9%87%D8%A7%D8%A8-USB-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.086Z"
-  },
-  {
-    "id": "torobshop-sports-travel-5219a65546b1a882",
-    "productId": "torobshop-5219a65546b1a882",
-    "name": "مانیتور فیلیپس ۲۷۵B1 - ۲۷ اینچ QHD، قابلیت تنظیم ارتفاع (۲۵۶۰x۱۴۰۰، ۷۵ هرتز، DVI، HDMI، DisplayPort، هاب USB) مشکی",
-    "brand": "",
-    "model": "مانیتور فیلیپس ۲۷۵B1 - ۲۷ اینچ QHD، قابلیت تنظیم ارتفاع (۲۵۶۰x۱۴۰۰، ۷۵ هرتز، DVI، HDMI، DisplayPort، هاب USB) مشکی",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 62255000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%DB%B2%DB%B7%DB%B5B1-%DB%B2%DB%B7-%D8%A7%DB%8C%D9%86%DA%86-QHD-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%DB%B2%DB%B5%DB%B6%DB%B0x%DB%B1%DB%B4%DB%B0%DB%B0-%DB%B7%DB%B5-%D9%87%D8%B1%D8%AA%D8%B2-DVI-HDMI-DisplayPort-%D9%87%D8%A7%D8%A8-USB-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.086Z"
-  },
-  {
-    "id": "torobshop-sports-travel-231a8680a663a06f",
-    "productId": "torobshop-231a8680a663a06f",
-    "name": "هدفون ورزشی بی‌سیم فیلیپس مدل Open-Ear بژ",
-    "brand": "",
-    "model": "هدفون ورزشی بی‌سیم فیلیپس مدل Open-Ear بژ",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 14738000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%87%D8%AF%D9%81%D9%88%D9%86-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D8%A8%DB%8C-%D8%B3%DB%8C%D9%85-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%85%D8%AF%D9%84-Open-Ear-%D8%A8%DA%98",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.086Z"
-  },
-  {
-    "id": "torobshop-sports-travel-f6139cf71fa544af",
-    "productId": "torobshop-f6139cf71fa544af",
-    "name": "هدفون بلوتوث بی‌سیم فیلیپس TAH8000EWT/00 - حذف نویز، 70 ساعت پخش مداوم، سازگار با دستیارهای صوتی، ایده‌آل برای سفر - سفید",
-    "brand": "",
-    "model": "هدفون بلوتوث بی‌سیم فیلیپس TAH8000EWT/00 - حذف نویز، 70 ساعت پخش مداوم، سازگار با دستیارهای صوتی، ایده‌آل برای سفر - سفید",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 36590000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%87%D8%AF%D9%81%D9%88%D9%86-%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB-%D8%A8%DB%8C-%D8%B3%DB%8C%D9%85-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-TAH8000EWT-00-%D8%AD%D8%B0%D9%81-%D9%86%D9%88%DB%8C%D8%B2-70-%D8%B3%D8%A7%D8%B9%D8%AA-%D9%BE%D8%AE%D8%B4-%D9%85%D8%AF%D8%A7%D9%88%D9%85-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%AF%D8%B3%D8%AA%DB%8C%D8%A7%D8%B1%D9%87%D8%A7%DB%8C-%D8%B5%D9%88%D8%AA%DB%8C-%D8%A7%DB%8C%D8%AF%D9%87-%D8%A2%D9%84-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B3%D9%81%D8%B1-%D8%B3%D9%81%DB%8C%D8%AF",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.086Z"
+    "observedAt": "2026-09-04T21:24:42.964Z"
   },
   {
     "id": "torobshop-sports-travel-712138d0bed8d76a",
@@ -3525,43 +3489,79 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.086Z"
+    "observedAt": "2026-09-04T21:24:42.964Z"
   },
   {
-    "id": "torobshop-sports-travel-2e4aeaf94d879ff9",
-    "productId": "torobshop-2e4aeaf94d879ff9",
-    "name": "هدفون روگوشی فیلیپس مدل H4205BK/00 با دکمه تقویت بیس (بلوتوث، 29 ساعت پخش، شارژ سریع، عایق صدا، تاشو)، مشکی مات",
+    "id": "torobshop-sports-travel-a0357d058917fff7",
+    "productId": "torobshop-a0357d058917fff7",
+    "name": "مانیتور فیلیپس 252B9 - 25 اینچ WUXGA، قابلیت تنظیم ارتفاع (1900x1200، 60 هرتز، VGA، DVI، HDMI، DisplayPort، هاب USB) مشکی",
     "brand": "",
-    "model": "هدفون روگوشی فیلیپس مدل H4205BK/00 با دکمه تقویت بیس (بلوتوث، 29 ساعت پخش، شارژ سریع، عایق صدا، تاشو)، مشکی مات",
+    "model": "مانیتور فیلیپس 252B9 - 25 اینچ WUXGA، قابلیت تنظیم ارتفاع (1900x1200، 60 هرتز، VGA، DVI، HDMI، DisplayPort، هاب USB) مشکی",
     "category": "sports-travel",
     "subcategory": "کتانی ورزشی مردانه",
-    "price": 21344000,
+    "price": 66828000,
     "currency": "IRT",
     "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%87%D8%AF%D9%81%D9%88%D9%86-%D8%B1%D9%88%DA%AF%D9%88%D8%B4%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%85%D8%AF%D9%84-H4205BK-00-%D8%A8%D8%A7-%D8%AF%DA%A9%D9%85%D9%87-%D8%AA%D9%82%D9%88%DB%8C%D8%AA-%D8%A8%DB%8C%D8%B3-%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB-29-%D8%B3%D8%A7%D8%B9%D8%AA-%D9%BE%D8%AE%D8%B4-%D8%B4%D8%A7%D8%B1%DA%98-%D8%B3%D8%B1%DB%8C%D8%B9-%D8%B9%D8%A7%DB%8C%D9%82-%D8%B5%D8%AF%D8%A7-%D8%AA%D8%A7%D8%B4%D9%88-%D9%85%D8%B4%DA%A9%DB%8C-%D9%85%D8%A7%D8%AA",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-252B9-25-%D8%A7%DB%8C%D9%86%DA%86-WUXGA-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-1900x1200-60-%D9%87%D8%B1%D8%AA%D8%B2-VGA-DVI-HDMI-DisplayPort-%D9%87%D8%A7%D8%A8-USB-%D9%85%D8%B4%DA%A9%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.086Z"
+    "observedAt": "2026-09-04T21:24:42.964Z"
   },
   {
-    "id": "torobshop-sports-travel-f241bfdbdc958cdb",
-    "productId": "torobshop-f241bfdbdc958cdb",
-    "name": "مانیتور فیلیپس هلند Philips 328P6AUBREB سایز ۳۲ اینچ QHD با داک USB-C و پایه قابل تنظیم",
+    "id": "torobshop-sports-travel-5219a65546b1a882",
+    "productId": "torobshop-5219a65546b1a882",
+    "name": "مانیتور فیلیپس ۲۷۵B1 - ۲۷ اینچ QHD، قابلیت تنظیم ارتفاع (۲۵۶۰x۱۴۰۰، ۷۵ هرتز، DVI، HDMI، DisplayPort، هاب USB) مشکی",
     "brand": "",
-    "model": "مانیتور فیلیپس هلند Philips 328P6AUBREB سایز ۳۲ اینچ QHD با داک USB-C و پایه قابل تنظیم",
+    "model": "مانیتور فیلیپس ۲۷۵B1 - ۲۷ اینچ QHD، قابلیت تنظیم ارتفاع (۲۵۶۰x۱۴۰۰، ۷۵ هرتز، DVI، HDMI، DisplayPort، هاب USB) مشکی",
     "category": "sports-travel",
     "subcategory": "کتانی ورزشی مردانه",
-    "price": 65558000,
+    "price": 62255000,
     "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-328P6AUBREB-%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D8%AF%D8%A7%DA%A9-USB-C-%D8%A8%D8%A7-%D8%B5%D9%81%D8%AD%D9%87-%D9%86%D9%85%D8%A7%DB%8C%D8%B4-32-%D8%A7%DB%8C%D9%86%DA%86-QHD-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-2560x1440-60-%D9%87%D8%B1%D8%AA%D8%B2-VGA-HDMI-USB-C-RJ45-%D9%87%D8%A7%D8%A8-USB-%D9%85%D8%B4%DA%A9%DB%8C",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%DB%B2%DB%B7%DB%B5B1-%DB%B2%DB%B7-%D8%A7%DB%8C%D9%86%DA%86-QHD-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%DB%B2%DB%B5%DB%B6%DB%B0x%DB%B1%DB%B4%DB%B0%DB%B0-%DB%B7%DB%B5-%D9%87%D8%B1%D8%AA%D8%B2-DVI-HDMI-DisplayPort-%D9%87%D8%A7%D8%A8-USB-%D9%85%D8%B4%DA%A9%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.086Z"
+    "observedAt": "2026-09-04T21:24:42.964Z"
+  },
+  {
+    "id": "torobshop-sports-travel-231a8680a663a06f",
+    "productId": "torobshop-231a8680a663a06f",
+    "name": "هدفون ورزشی بی‌سیم فیلیپس مدل Open-Ear بژ",
+    "brand": "",
+    "model": "هدفون ورزشی بی‌سیم فیلیپس مدل Open-Ear بژ",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 14738000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%87%D8%AF%D9%81%D9%88%D9%86-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D8%A8%DB%8C-%D8%B3%DB%8C%D9%85-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%85%D8%AF%D9%84-Open-Ear-%D8%A8%DA%98",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.964Z"
+  },
+  {
+    "id": "torobshop-sports-travel-f6139cf71fa544af",
+    "productId": "torobshop-f6139cf71fa544af",
+    "name": "هدفون بلوتوث بی‌سیم فیلیپس TAH8000EWT/00 - حذف نویز، 70 ساعت پخش مداوم، سازگار با دستیارهای صوتی، ایده‌آل برای سفر - سفید",
+    "brand": "",
+    "model": "هدفون بلوتوث بی‌سیم فیلیپس TAH8000EWT/00 - حذف نویز، 70 ساعت پخش مداوم، سازگار با دستیارهای صوتی، ایده‌آل برای سفر - سفید",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 36590000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%87%D8%AF%D9%81%D9%88%D9%86-%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB-%D8%A8%DB%8C-%D8%B3%DB%8C%D9%85-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-TAH8000EWT-00-%D8%AD%D8%B0%D9%81-%D9%86%D9%88%DB%8C%D8%B2-70-%D8%B3%D8%A7%D8%B9%D8%AA-%D9%BE%D8%AE%D8%B4-%D9%85%D8%AF%D8%A7%D9%88%D9%85-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%AF%D8%B3%D8%AA%DB%8C%D8%A7%D8%B1%D9%87%D8%A7%DB%8C-%D8%B5%D9%88%D8%AA%DB%8C-%D8%A7%DB%8C%D8%AF%D9%87-%D8%A2%D9%84-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B3%D9%81%D8%B1-%D8%B3%D9%81%DB%8C%D8%AF",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.964Z"
   },
   {
     "id": "torobshop-sports-travel-667b222bc82da779",
@@ -3579,25 +3579,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.086Z"
-  },
-  {
-    "id": "torobshop-sports-travel-2734ee381987f71a",
-    "productId": "torobshop-2734ee381987f71a",
-    "name": "فیلیپس 241V8LAB - مانیتور 24 اینچی فول اچ‌دی، بلندگوهای داخلی، بدون سوسو زدن (1920x1080، 100 هرتز، VGA، HDMI) مشکی",
-    "brand": "",
-    "model": "فیلیپس 241V8LAB - مانیتور 24 اینچی فول اچ‌دی، بلندگوهای داخلی، بدون سوسو زدن (1920x1080، 100 هرتز، VGA، HDMI) مشکی",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 40656000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-241V8LAB-%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-24-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D9%81%D9%88%D9%84-%D8%A7%DA%86-%D8%AF%DB%8C-%D8%A8%D9%84%D9%86%D8%AF%DA%AF%D9%88%D9%87%D8%A7%DB%8C-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%D8%B3%D9%88%D8%B3%D9%88-%D8%B2%D8%AF%D9%86-1920x1080-100-%D9%87%D8%B1%D8%AA%D8%B2-VGA-HDMI-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.086Z"
+    "observedAt": "2026-09-04T21:24:42.964Z"
   },
   {
     "id": "torobshop-sports-travel-13177f1a3461cbf8",
@@ -3615,7 +3597,61 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.086Z"
+    "observedAt": "2026-09-04T21:24:42.964Z"
+  },
+  {
+    "id": "torobshop-sports-travel-2e4aeaf94d879ff9",
+    "productId": "torobshop-2e4aeaf94d879ff9",
+    "name": "هدفون روگوشی فیلیپس مدل H4205BK/00 با دکمه تقویت بیس (بلوتوث، 29 ساعت پخش، شارژ سریع، عایق صدا، تاشو)، مشکی مات",
+    "brand": "",
+    "model": "هدفون روگوشی فیلیپس مدل H4205BK/00 با دکمه تقویت بیس (بلوتوث، 29 ساعت پخش، شارژ سریع، عایق صدا، تاشو)، مشکی مات",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 21344000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%87%D8%AF%D9%81%D9%88%D9%86-%D8%B1%D9%88%DA%AF%D9%88%D8%B4%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%85%D8%AF%D9%84-H4205BK-00-%D8%A8%D8%A7-%D8%AF%DA%A9%D9%85%D9%87-%D8%AA%D9%82%D9%88%DB%8C%D8%AA-%D8%A8%DB%8C%D8%B3-%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB-29-%D8%B3%D8%A7%D8%B9%D8%AA-%D9%BE%D8%AE%D8%B4-%D8%B4%D8%A7%D8%B1%DA%98-%D8%B3%D8%B1%DB%8C%D8%B9-%D8%B9%D8%A7%DB%8C%D9%82-%D8%B5%D8%AF%D8%A7-%D8%AA%D8%A7%D8%B4%D9%88-%D9%85%D8%B4%DA%A9%DB%8C-%D9%85%D8%A7%D8%AA",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.964Z"
+  },
+  {
+    "id": "torobshop-sports-travel-f241bfdbdc958cdb",
+    "productId": "torobshop-f241bfdbdc958cdb",
+    "name": "مانیتور فیلیپس هلند Philips 328P6AUBREB سایز ۳۲ اینچ QHD با داک USB-C و پایه قابل تنظیم",
+    "brand": "",
+    "model": "مانیتور فیلیپس هلند Philips 328P6AUBREB سایز ۳۲ اینچ QHD با داک USB-C و پایه قابل تنظیم",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 65558000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-328P6AUBREB-%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D8%AF%D8%A7%DA%A9-USB-C-%D8%A8%D8%A7-%D8%B5%D9%81%D8%AD%D9%87-%D9%86%D9%85%D8%A7%DB%8C%D8%B4-32-%D8%A7%DB%8C%D9%86%DA%86-QHD-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-2560x1440-60-%D9%87%D8%B1%D8%AA%D8%B2-VGA-HDMI-USB-C-RJ45-%D9%87%D8%A7%D8%A8-USB-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.964Z"
+  },
+  {
+    "id": "torobshop-sports-travel-2734ee381987f71a",
+    "productId": "torobshop-2734ee381987f71a",
+    "name": "فیلیپس 241V8LAB - مانیتور 24 اینچی فول اچ‌دی، بلندگوهای داخلی، بدون سوسو زدن (1920x1080، 100 هرتز، VGA، HDMI) مشکی",
+    "brand": "",
+    "model": "فیلیپس 241V8LAB - مانیتور 24 اینچی فول اچ‌دی، بلندگوهای داخلی، بدون سوسو زدن (1920x1080، 100 هرتز، VGA، HDMI) مشکی",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 40656000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-241V8LAB-%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-24-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D9%81%D9%88%D9%84-%D8%A7%DA%86-%D8%AF%DB%8C-%D8%A8%D9%84%D9%86%D8%AF%DA%AF%D9%88%D9%87%D8%A7%DB%8C-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%D8%B3%D9%88%D8%B3%D9%88-%D8%B2%D8%AF%D9%86-1920x1080-100-%D9%87%D8%B1%D8%AA%D8%B2-VGA-HDMI-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.964Z"
   },
   {
     "id": "torobshop-sports-travel-1acb3967a4975e9e",
@@ -3633,7 +3669,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.086Z"
+    "observedAt": "2026-09-04T21:24:42.964Z"
   },
   {
     "id": "torobshop-sports-travel-42a978739edad1b3",
@@ -3651,7 +3687,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.086Z"
+    "observedAt": "2026-09-04T21:24:42.964Z"
   },
   {
     "id": "torobshop-sports-travel-7400212af3648c0e",
@@ -3669,7 +3705,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.086Z"
+    "observedAt": "2026-09-04T21:24:42.964Z"
   },
   {
     "id": "torobshop-sports-travel-db75e7774c65ead5",
@@ -3687,61 +3723,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.086Z"
-  },
-  {
-    "id": "torobshop-sports-travel-d1db9fdb0a981eb7",
-    "productId": "torobshop-d1db9fdb0a981eb7",
-    "name": "مانیتور فیلیپس ۲۷E1N1800AE – مانیتور ۲۷ اینچی Ultra HD، بلندگوها، قابلیت تنظیم ارتفاع، HDR10 (3840x2160، ۶۰ هرتز، HDMI 2.0، DisplayPort 1.4) مشکی",
-    "brand": "",
-    "model": "مانیتور فیلیپس ۲۷E1N1800AE – مانیتور ۲۷ اینچی Ultra HD، بلندگوها، قابلیت تنظیم ارتفاع، HDR10 (3840x2160، ۶۰ هرتز، HDMI 2.0، DisplayPort 1.4) مشکی",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 60729000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%DB%B2%DB%B7E1N1800AE-%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%DB%B2%DB%B7-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-Ultra-HD-%D8%A8%D9%84%D9%86%D8%AF%DA%AF%D9%88%D9%87%D8%A7-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-HDR10-3840x2160-%DB%B6%DB%B0-%D9%87%D8%B1%D8%AA%D8%B2-HDMI-2-0-DisplayPort-1-4-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.086Z"
-  },
-  {
-    "id": "torobshop-sports-travel-caf67fb53869dc8d",
-    "productId": "torobshop-caf67fb53869dc8d",
-    "name": "مانیتور فیلیپس 275S1AE - 27 اینچ QHD، قابلیت تنظیم ارتفاع (2560x1440، 75 هرتز، DVI، HDMI، DisplayPort) مشکی",
-    "brand": "",
-    "model": "مانیتور فیلیپس 275S1AE - 27 اینچ QHD، قابلیت تنظیم ارتفاع (2560x1440، 75 هرتز، DVI، HDMI، DisplayPort) مشکی",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 62255000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-275S1AE-27-%D8%A7%DB%8C%D9%86%DA%86-QHD-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-2560x1440-75-%D9%87%D8%B1%D8%AA%D8%B2-DVI-HDMI-DisplayPort-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.086Z"
-  },
-  {
-    "id": "torobshop-sports-travel-226a6dfcab93ffe2",
-    "productId": "torobshop-226a6dfcab93ffe2",
-    "name": "مانیتور لمسی ۱۷ اینچ فیلیپس هلند Philips 172B1TFL/00 با قابلیت لمس ۱۰ نقطه‌ای بدون پایه نگهدارنده",
-    "brand": "",
-    "model": "مانیتور لمسی ۱۷ اینچ فیلیپس هلند Philips 172B1TFL/00 با قابلیت لمس ۱۰ نقطه‌ای بدون پایه نگهدارنده",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 106214000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%84%D9%85%D8%B3%DB%8C-%DB%B1%DB%B7-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%DB%B1%DB%B0-%D9%86%D9%82%D8%B7%D9%87-%D8%A7%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%D9%BE%D8%A7%DB%8C%D9%87",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.086Z"
+    "observedAt": "2026-09-04T21:24:42.964Z"
   },
   {
     "id": "torobshop-sports-travel-b59055b4a9ca5ed0",
@@ -3759,7 +3741,61 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.086Z"
+    "observedAt": "2026-09-04T21:24:42.964Z"
+  },
+  {
+    "id": "torobshop-sports-travel-d1db9fdb0a981eb7",
+    "productId": "torobshop-d1db9fdb0a981eb7",
+    "name": "مانیتور فیلیپس ۲۷E1N1800AE – مانیتور ۲۷ اینچی Ultra HD، بلندگوها، قابلیت تنظیم ارتفاع، HDR10 (3840x2160، ۶۰ هرتز، HDMI 2.0، DisplayPort 1.4) مشکی",
+    "brand": "",
+    "model": "مانیتور فیلیپس ۲۷E1N1800AE – مانیتور ۲۷ اینچی Ultra HD، بلندگوها، قابلیت تنظیم ارتفاع، HDR10 (3840x2160، ۶۰ هرتز، HDMI 2.0، DisplayPort 1.4) مشکی",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 60729000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%DB%B2%DB%B7E1N1800AE-%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%DB%B2%DB%B7-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-Ultra-HD-%D8%A8%D9%84%D9%86%D8%AF%DA%AF%D9%88%D9%87%D8%A7-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-HDR10-3840x2160-%DB%B6%DB%B0-%D9%87%D8%B1%D8%AA%D8%B2-HDMI-2-0-DisplayPort-1-4-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.964Z"
+  },
+  {
+    "id": "torobshop-sports-travel-caf67fb53869dc8d",
+    "productId": "torobshop-caf67fb53869dc8d",
+    "name": "مانیتور فیلیپس 275S1AE - 27 اینچ QHD، قابلیت تنظیم ارتفاع (2560x1440، 75 هرتز، DVI، HDMI، DisplayPort) مشکی",
+    "brand": "",
+    "model": "مانیتور فیلیپس 275S1AE - 27 اینچ QHD، قابلیت تنظیم ارتفاع (2560x1440، 75 هرتز، DVI، HDMI، DisplayPort) مشکی",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 62255000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-275S1AE-27-%D8%A7%DB%8C%D9%86%DA%86-QHD-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-2560x1440-75-%D9%87%D8%B1%D8%AA%D8%B2-DVI-HDMI-DisplayPort-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.964Z"
+  },
+  {
+    "id": "torobshop-sports-travel-226a6dfcab93ffe2",
+    "productId": "torobshop-226a6dfcab93ffe2",
+    "name": "مانیتور لمسی ۱۷ اینچ فیلیپس هلند Philips 172B1TFL/00 با قابلیت لمس ۱۰ نقطه‌ای بدون پایه نگهدارنده",
+    "brand": "",
+    "model": "مانیتور لمسی ۱۷ اینچ فیلیپس هلند Philips 172B1TFL/00 با قابلیت لمس ۱۰ نقطه‌ای بدون پایه نگهدارنده",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 106214000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%84%D9%85%D8%B3%DB%8C-%DB%B1%DB%B7-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%DB%B1%DB%B0-%D9%86%D9%82%D8%B7%D9%87-%D8%A7%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%D9%BE%D8%A7%DB%8C%D9%87",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.964Z"
   },
   {
     "id": "torobshop-sports-travel-34bb04f7987b2eb8",
@@ -3777,7 +3813,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.086Z"
+    "observedAt": "2026-09-04T21:24:42.964Z"
   },
   {
     "id": "torobshop-sports-travel-9b16b6ebae742a59",
@@ -3795,7 +3831,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.086Z"
+    "observedAt": "2026-09-04T21:24:42.964Z"
   },
   {
     "id": "torobshop-sports-travel-1ac684a13e625548",
@@ -3813,7 +3849,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.086Z"
+    "observedAt": "2026-09-04T21:24:42.964Z"
   },
   {
     "id": "torobshop-sports-travel-1b01f5a6fb5eb1c5",
@@ -3831,79 +3867,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.086Z"
-  },
-  {
-    "id": "torobshop-sports-travel-0ef7eb89998918af",
-    "productId": "torobshop-0ef7eb89998918af",
-    "name": "مانیتور فیلیپس 271E1SCA، 27 اینچ منحنی، FHD، 75 هرتز، پنل VA، زمان پاسخ 4 میلی‌ثانیه، FreeSync، بلندگوها، (1920x1080 HDMI 1) مشکی",
-    "brand": "",
-    "model": "مانیتور فیلیپس 271E1SCA، 27 اینچ منحنی، FHD، 75 هرتز، پنل VA، زمان پاسخ 4 میلی‌ثانیه، FreeSync، بلندگوها، (1920x1080 HDMI 1) مشکی",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 50058000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-271E1SCA-27-%D8%A7%DB%8C%D9%86%DA%86-%D9%85%D9%86%D8%AD%D9%86%DB%8C-FHD-75-%D9%87%D8%B1%D8%AA%D8%B2-%D9%BE%D9%86%D9%84-VA-%D8%B2%D9%85%D8%A7%D9%86-%D9%BE%D8%A7%D8%B3%D8%AE-4-%D9%85%DB%8C%D9%84%DB%8C-%D8%AB%D8%A7%D9%86%DB%8C%D9%87-FreeSync-%D8%A8%D9%84%D9%86%D8%AF%DA%AF%D9%88%D9%87%D8%A7-1920x1080-HDMI-1-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.086Z"
-  },
-  {
-    "id": "torobshop-sports-travel-7406803b18ab5cc6",
-    "productId": "torobshop-7406803b18ab5cc6",
-    "name": "مانیتور ۲۴ اینچی فول اچ‌دی فیلیپس مدل ۲۴E1N1300A، بلندگوها (۱۹۲۰x۱۰۸۰، ۱۰۰ هرتز، HDMI، USB-C (قدرت ۶۵ وات)، هاب USB) مشکی",
-    "brand": "",
-    "model": "مانیتور ۲۴ اینچی فول اچ‌دی فیلیپس مدل ۲۴E1N1300A، بلندگوها (۱۹۲۰x۱۰۸۰، ۱۰۰ هرتز، HDMI، USB-C (قدرت ۶۵ وات)، هاب USB) مشکی",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 47517000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%DB%B2%DB%B4-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D9%81%D9%88%D9%84-%D8%A7%DA%86-%D8%AF%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%85%D8%AF%D9%84-%DB%B2%DB%B4E1N1300A-%D8%A8%D9%84%D9%86%D8%AF%DA%AF%D9%88%D9%87%D8%A7-%DB%B1%DB%B9%DB%B2%DB%B0x%DB%B1%DB%B0%DB%B8%DB%B0-%DB%B1%DB%B0%DB%B0-%D9%87%D8%B1%D8%AA%D8%B2-HDMI-USB-C-%D9%82%D8%AF%D8%B1%D8%AA-%DB%B6%DB%B5-%D9%88%D8%A7%D8%AA-%D9%87%D8%A7%D8%A8-USB-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.086Z"
-  },
-  {
-    "id": "torobshop-sports-travel-28fa9f296d3edd2c",
-    "productId": "torobshop-28fa9f296d3edd2c",
-    "name": "مانیتور بازی Philips Evnia 32M2N8900-32 Zoll Ultra HD OLED، 240 هرتز، 0.03 میلی‌ثانیه، HDR400، FreeSync Prem. Pro، G-Sync comp.، Ambiglow (3840x2160، 2X HDMI 2.1، 1x DP 1.4، 1 x USB-C (90W PD)) Weiss",
-    "brand": "",
-    "model": "مانیتور بازی Philips Evnia 32M2N8900-32 Zoll Ultra HD OLED، 240 هرتز، 0.03 میلی‌ثانیه، HDR400، FreeSync Prem. Pro، G-Sync comp.، Ambiglow (3840x2160، 2X HDMI 2.1، 1x DP 1.4، 1 x USB-C (90W PD)) Weiss",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 180157000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D8%A8%D8%A7%D8%B2%DB%8C-Philips-Evnia-32M2N8900-32-Zoll-Ultra-HD-OLED-240-%D9%87%D8%B1%D8%AA%D8%B2-0-03-%D9%85%DB%8C%D9%84%DB%8C-%D8%AB%D8%A7%D9%86%DB%8C%D9%87-HDR400-FreeSync-Prem-Pro-G-Sync-comp-Ambiglow-3840x2160-2X-HDMI-2-1-1x-DP-1-4-1-x-USB-C-90W-PD-Weiss-2",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.086Z"
-  },
-  {
-    "id": "torobshop-sports-travel-176747b2a6b3c8bf",
-    "productId": "torobshop-176747b2a6b3c8bf",
-    "name": "هدفون داخل گوشی فیلیپس مدل TAE5008BK/00 با میکروفون | هدفون سیمی سبک | اتصال USB-C | کابل 1.2 متری | ریموت کنترل درون خطی | 3 سایز | صدای شفاف و بیس قدرتمند | مشکی",
-    "brand": "",
-    "model": "هدفون داخل گوشی فیلیپس مدل TAE5008BK/00 با میکروفون | هدفون سیمی سبک | اتصال USB-C | کابل 1.2 متری | ریموت کنترل درون خطی | 3 سایز | صدای شفاف و بیس قدرتمند | مشکی",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 11180000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%87%D8%AF%D9%81%D9%88%D9%86-%D8%AF%D8%A7%D8%AE%D9%84-%DA%AF%D9%88%D8%B4%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%85%D8%AF%D9%84-TAE5008BK-00-%D8%A8%D8%A7-%D9%85%DB%8C%DA%A9%D8%B1%D9%88%D9%81%D9%88%D9%86-%D9%87%D8%AF%D9%81%D9%88%D9%86-%D8%B3%DB%8C%D9%85%DB%8C-%D8%B3%D8%A8%DA%A9-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-USB-C-%DA%A9%D8%A7%D8%A8%D9%84-1-2-%D9%85%D8%AA%D8%B1%DB%8C-%D8%B1%DB%8C%D9%85%D9%88%D8%AA-%DA%A9%D9%86%D8%AA%D8%B1%D9%84-%D8%AF%D8%B1%D9%88%D9%86-%D8%AE%D8%B7%DB%8C-3-%D8%B3%D8%A7%DB%8C%D8%B2-%D8%B5%D8%AF%D8%A7%DB%8C-%D8%B4%D9%81%D8%A7%D9%81-%D9%88-%D8%A8%DB%8C%D8%B3-%D9%82%D8%AF%D8%B1%D8%AA%D9%85%D9%86%D8%AF-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.086Z"
+    "observedAt": "2026-09-04T21:24:42.964Z"
   },
   {
     "id": "torobshop-sports-travel-0a56e024ea7c3e6c",
@@ -3921,7 +3885,79 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.086Z"
+    "observedAt": "2026-09-04T21:24:42.964Z"
+  },
+  {
+    "id": "torobshop-sports-travel-0ef7eb89998918af",
+    "productId": "torobshop-0ef7eb89998918af",
+    "name": "مانیتور فیلیپس 271E1SCA، 27 اینچ منحنی، FHD، 75 هرتز، پنل VA، زمان پاسخ 4 میلی‌ثانیه، FreeSync، بلندگوها، (1920x1080 HDMI 1) مشکی",
+    "brand": "",
+    "model": "مانیتور فیلیپس 271E1SCA، 27 اینچ منحنی، FHD، 75 هرتز، پنل VA، زمان پاسخ 4 میلی‌ثانیه، FreeSync، بلندگوها، (1920x1080 HDMI 1) مشکی",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 50058000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-271E1SCA-27-%D8%A7%DB%8C%D9%86%DA%86-%D9%85%D9%86%D8%AD%D9%86%DB%8C-FHD-75-%D9%87%D8%B1%D8%AA%D8%B2-%D9%BE%D9%86%D9%84-VA-%D8%B2%D9%85%D8%A7%D9%86-%D9%BE%D8%A7%D8%B3%D8%AE-4-%D9%85%DB%8C%D9%84%DB%8C-%D8%AB%D8%A7%D9%86%DB%8C%D9%87-FreeSync-%D8%A8%D9%84%D9%86%D8%AF%DA%AF%D9%88%D9%87%D8%A7-1920x1080-HDMI-1-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.964Z"
+  },
+  {
+    "id": "torobshop-sports-travel-7406803b18ab5cc6",
+    "productId": "torobshop-7406803b18ab5cc6",
+    "name": "مانیتور ۲۴ اینچی فول اچ‌دی فیلیپس مدل ۲۴E1N1300A، بلندگوها (۱۹۲۰x۱۰۸۰، ۱۰۰ هرتز، HDMI، USB-C (قدرت ۶۵ وات)، هاب USB) مشکی",
+    "brand": "",
+    "model": "مانیتور ۲۴ اینچی فول اچ‌دی فیلیپس مدل ۲۴E1N1300A، بلندگوها (۱۹۲۰x۱۰۸۰، ۱۰۰ هرتز، HDMI، USB-C (قدرت ۶۵ وات)، هاب USB) مشکی",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 47517000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%DB%B2%DB%B4-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D9%81%D9%88%D9%84-%D8%A7%DA%86-%D8%AF%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%85%D8%AF%D9%84-%DB%B2%DB%B4E1N1300A-%D8%A8%D9%84%D9%86%D8%AF%DA%AF%D9%88%D9%87%D8%A7-%DB%B1%DB%B9%DB%B2%DB%B0x%DB%B1%DB%B0%DB%B8%DB%B0-%DB%B1%DB%B0%DB%B0-%D9%87%D8%B1%D8%AA%D8%B2-HDMI-USB-C-%D9%82%D8%AF%D8%B1%D8%AA-%DB%B6%DB%B5-%D9%88%D8%A7%D8%AA-%D9%87%D8%A7%D8%A8-USB-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.964Z"
+  },
+  {
+    "id": "torobshop-sports-travel-28fa9f296d3edd2c",
+    "productId": "torobshop-28fa9f296d3edd2c",
+    "name": "مانیتور بازی Philips Evnia 32M2N8900-32 Zoll Ultra HD OLED، 240 هرتز، 0.03 میلی‌ثانیه، HDR400، FreeSync Prem. Pro، G-Sync comp.، Ambiglow (3840x2160، 2X HDMI 2.1، 1x DP 1.4، 1 x USB-C (90W PD)) Weiss",
+    "brand": "",
+    "model": "مانیتور بازی Philips Evnia 32M2N8900-32 Zoll Ultra HD OLED، 240 هرتز، 0.03 میلی‌ثانیه، HDR400، FreeSync Prem. Pro، G-Sync comp.، Ambiglow (3840x2160، 2X HDMI 2.1، 1x DP 1.4، 1 x USB-C (90W PD)) Weiss",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 180157000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D8%A8%D8%A7%D8%B2%DB%8C-Philips-Evnia-32M2N8900-32-Zoll-Ultra-HD-OLED-240-%D9%87%D8%B1%D8%AA%D8%B2-0-03-%D9%85%DB%8C%D9%84%DB%8C-%D8%AB%D8%A7%D9%86%DB%8C%D9%87-HDR400-FreeSync-Prem-Pro-G-Sync-comp-Ambiglow-3840x2160-2X-HDMI-2-1-1x-DP-1-4-1-x-USB-C-90W-PD-Weiss-2",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.964Z"
+  },
+  {
+    "id": "torobshop-sports-travel-176747b2a6b3c8bf",
+    "productId": "torobshop-176747b2a6b3c8bf",
+    "name": "هدفون داخل گوشی فیلیپس مدل TAE5008BK/00 با میکروفون | هدفون سیمی سبک | اتصال USB-C | کابل 1.2 متری | ریموت کنترل درون خطی | 3 سایز | صدای شفاف و بیس قدرتمند | مشکی",
+    "brand": "",
+    "model": "هدفون داخل گوشی فیلیپس مدل TAE5008BK/00 با میکروفون | هدفون سیمی سبک | اتصال USB-C | کابل 1.2 متری | ریموت کنترل درون خطی | 3 سایز | صدای شفاف و بیس قدرتمند | مشکی",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 11180000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%87%D8%AF%D9%81%D9%88%D9%86-%D8%AF%D8%A7%D8%AE%D9%84-%DA%AF%D9%88%D8%B4%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%85%D8%AF%D9%84-TAE5008BK-00-%D8%A8%D8%A7-%D9%85%DB%8C%DA%A9%D8%B1%D9%88%D9%81%D9%88%D9%86-%D9%87%D8%AF%D9%81%D9%88%D9%86-%D8%B3%DB%8C%D9%85%DB%8C-%D8%B3%D8%A8%DA%A9-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-USB-C-%DA%A9%D8%A7%D8%A8%D9%84-1-2-%D9%85%D8%AA%D8%B1%DB%8C-%D8%B1%DB%8C%D9%85%D9%88%D8%AA-%DA%A9%D9%86%D8%AA%D8%B1%D9%84-%D8%AF%D8%B1%D9%88%D9%86-%D8%AE%D8%B7%DB%8C-3-%D8%B3%D8%A7%DB%8C%D8%B2-%D8%B5%D8%AF%D8%A7%DB%8C-%D8%B4%D9%81%D8%A7%D9%81-%D9%88-%D8%A8%DB%8C%D8%B3-%D9%82%D8%AF%D8%B1%D8%AA%D9%85%D9%86%D8%AF-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.964Z"
   },
   {
     "id": "torobshop-sports-travel-1123da8edef7210f",
@@ -3939,7 +3975,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.086Z"
+    "observedAt": "2026-09-04T21:24:42.964Z"
   },
   {
     "id": "torobshop-sports-travel-f2475d629ba82cb9",
@@ -3957,7 +3993,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.086Z"
+    "observedAt": "2026-09-04T21:24:42.964Z"
   },
   {
     "id": "torobshop-sports-travel-4fcaa05ae27e136c",
@@ -3975,7 +4011,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.086Z"
+    "observedAt": "2026-09-04T21:24:42.964Z"
   },
   {
     "id": "torobshop-sports-travel-28731ba0cbc018f8",
@@ -3993,511 +4029,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.086Z"
-  },
-  {
-    "id": "torobshop-sports-travel-93c18ce837ff5f57",
-    "productId": "torobshop-93c18ce837ff5f57",
-    "name": "قرص‌های تمیزکننده BEEM Premium | 50 قرص 2 گرمی | پاک‌کننده‌ی بقایای قهوه | قابل استفاده در دستگاه‌های قهوه‌ساز، قهوه‌سازهای تمام اتوماتیک و دستگاه‌های پورتافیلتر",
-    "brand": "",
-    "model": "قرص‌های تمیزکننده BEEM Premium | 50 قرص 2 گرمی | پاک‌کننده‌ی بقایای قهوه | قابل استفاده در دستگاه‌های قهوه‌ساز، قهوه‌سازهای تمام اتوماتیک و دستگاه‌های پورتافیلتر",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 12705000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%82%D8%B1%D8%B5-%D9%87%D8%A7%DB%8C-%D8%AA%D9%85%DB%8C%D8%B2%DA%A9%D9%86%D9%86%D8%AF%D9%87-BEEM-Premium-50-%D9%82%D8%B1%D8%B5-2-%DA%AF%D8%B1%D9%85%DB%8C-%D9%BE%D8%A7%DA%A9-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%DB%8C-%D8%A8%D9%82%D8%A7%DB%8C%D8%A7%DB%8C-%D9%82%D9%87%D9%88%D9%87-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-%D9%82%D9%87%D9%88%D9%87-%D8%B3%D8%A7%D8%B2-%D9%82%D9%87%D9%88%D9%87-%D8%B3%D8%A7%D8%B2%D9%87%D8%A7%DB%8C-%D8%AA%D9%85%D8%A7%D9%85-%D8%A7%D8%AA%D9%88%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-%D9%88-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-%D9%BE%D9%88%D8%B1%D8%AA%D8%A7%D9%81%DB%8C%D9%84%D8%AA%D8%B1",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.087Z"
-  },
-  {
-    "id": "torobshop-sports-travel-c73bf4fc0db498be",
-    "productId": "torobshop-c73bf4fc0db498be",
-    "name": "پاک کننده سیستم شیر بیم | برای تمیز کردن سیستم های شیر/نازل ها در دستگاه های قهوه ساز و اسپرسوساز تمام اتوماتیک | حذف کامل رسوبات شیر [500 میلی لیتر]",
-    "brand": "",
-    "model": "پاک کننده سیستم شیر بیم | برای تمیز کردن سیستم های شیر/نازل ها در دستگاه های قهوه ساز و اسپرسوساز تمام اتوماتیک | حذف کامل رسوبات شیر [500 میلی لیتر]",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 12451000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%BE%D8%A7%DA%A9-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%B3%DB%8C%D8%B3%D8%AA%D9%85-%D8%B4%DB%8C%D8%B1-%D8%A8%DB%8C%D9%85-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D9%85%DB%8C%D8%B2-%DA%A9%D8%B1%D8%AF%D9%86-%D8%B3%DB%8C%D8%B3%D8%AA%D9%85-%D9%87%D8%A7%DB%8C-%D8%B4%DB%8C%D8%B1-%D9%86%D8%A7%D8%B2%D9%84-%D9%87%D8%A7-%D8%AF%D8%B1-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-%D9%82%D9%87%D9%88%D9%87-%D8%B3%D8%A7%D8%B2-%D9%88-%D8%A7%D8%B3%D9%BE%D8%B1%D8%B3%D9%88%D8%B3%D8%A7%D8%B2-%D8%AA%D9%85%D8%A7%D9%85-%D8%A7%D8%AA%D9%88%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-%D8%AD%D8%B0%D9%81-%DA%A9%D8%A7%D9%85%D9%84-%D8%B1%D8%B3%D9%88%D8%A8%D8%A7%D8%AA-%D8%B4%DB%8C%D8%B1-500-%D9%85%DB%8C%D9%84%DB%8C-%D9%84%DB%8C%D8%AA%D8%B1",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.087Z"
-  },
-  {
-    "id": "torobshop-sports-travel-76f3e4ef7a8810f3",
-    "productId": "torobshop-76f3e4ef7a8810f3",
-    "name": "دستگاه قهوه ساز فیلتردار BEEM FRESH-AROMA-TOUCH - شیشه‌ای | قهوه‌ساز | با قوری شیشه‌ای ۱.۲۵ لیتری | استیل ضد زنگ | فیلتر دائمی | تایمر | آرومافرِش | ۹۰۰ وات",
-    "brand": "",
-    "model": "دستگاه قهوه ساز فیلتردار BEEM FRESH-AROMA-TOUCH - شیشه‌ای | قهوه‌ساز | با قوری شیشه‌ای ۱.۲۵ لیتری | استیل ضد زنگ | فیلتر دائمی | تایمر | آرومافرِش | ۹۰۰ وات",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 21344000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%82%D9%87%D9%88%D9%87-%D8%B3%D8%A7%D8%B2-%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%AF%D8%A7%D8%B1-BEEM-FRESH-AROMA-TOUCH-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D9%82%D9%87%D9%88%D9%87-%D8%B3%D8%A7%D8%B2-%D8%A8%D8%A7-%D9%82%D9%88%D8%B1%DB%8C-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%DB%B1-%DB%B2%DB%B5-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%81%DB%8C%D9%84%D8%AA%D8%B1-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D8%AA%D8%A7%DB%8C%D9%85%D8%B1-%D8%A2%D8%B1%D9%88%D9%85%D8%A7%D9%81%D8%B1-%D8%B4-%DB%B9%DB%B0%DB%B0-%D9%88%D8%A7%D8%AA",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.087Z"
-  },
-  {
-    "id": "torobshop-sports-travel-8f566ccc32f52f97",
-    "productId": "torobshop-8f566ccc32f52f97",
-    "name": "دستگاه قهوه ساز فیلتردار BEEM FRESH-AROMA-TOUCH - حرارتی | استیل ضد زنگ | قوری حرارتی ۱ لیتری | تایمر ۲۴ ساعته | ۸۰۰ وات | صفحه نمایش لمسی | برای ۴ تا ۸ فنجان",
-    "brand": "",
-    "model": "دستگاه قهوه ساز فیلتردار BEEM FRESH-AROMA-TOUCH - حرارتی | استیل ضد زنگ | قوری حرارتی ۱ لیتری | تایمر ۲۴ ساعته | ۸۰۰ وات | صفحه نمایش لمسی | برای ۴ تا ۸ فنجان",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 32779000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%82%D9%87%D9%88%D9%87-%D8%B3%D8%A7%D8%B2-%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%AF%D8%A7%D8%B1-BEEM-FRESH-AROMA-TOUCH-%D8%AD%D8%B1%D8%A7%D8%B1%D8%AA%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%82%D9%88%D8%B1%DB%8C-%D8%AD%D8%B1%D8%A7%D8%B1%D8%AA%DB%8C-%DB%B1-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C-%D8%AA%D8%A7%DB%8C%D9%85%D8%B1-%DB%B2%DB%B4-%D8%B3%D8%A7%D8%B9%D8%AA%D9%87-%DB%B8%DB%B0%DB%B0-%D9%88%D8%A7%D8%AA-%D8%B5%D9%81%D8%AD%D9%87-%D9%86%D9%85%D8%A7%DB%8C%D8%B4-%D9%84%D9%85%D8%B3%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%DB%B4-%D8%AA%D8%A7-%DB%B8-%D9%81%D9%86%D8%AC%D8%A7%D9%86",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.087Z"
-  },
-  {
-    "id": "torobshop-sports-travel-2dee2c9f6fb222d1",
-    "productId": "torobshop-2dee2c9f6fb222d1",
-    "name": "دستگاه قهوه ساز فیلتردار BEEM FRESH-AROMA-INTENSE با آسیاب - شیشه | استیل ضد زنگ | قوری شیشه‌ای ۱.۲۵ لیتری | مخزن آب جداشدنی | ظرف ۱۲۰ گرمی دانه قهوه",
-    "brand": "",
-    "model": "دستگاه قهوه ساز فیلتردار BEEM FRESH-AROMA-INTENSE با آسیاب - شیشه | استیل ضد زنگ | قوری شیشه‌ای ۱.۲۵ لیتری | مخزن آب جداشدنی | ظرف ۱۲۰ گرمی دانه قهوه",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 53107000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%82%D9%87%D9%88%D9%87-%D8%B3%D8%A7%D8%B2-%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%AF%D8%A7%D8%B1-BEEM-FRESH-AROMA-INTENSE-%D8%A8%D8%A7-%D8%A2%D8%B3%DB%8C%D8%A7%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%82%D9%88%D8%B1%DB%8C-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%DB%B1-%DB%B2%DB%B5-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C-%D9%85%D8%AE%D8%B2%D9%86-%D8%A2%D8%A8-%D8%AC%D8%AF%D8%A7%D8%B4%D8%AF%D9%86%DB%8C-%D8%B8%D8%B1%D9%81-%DB%B1%DB%B2%DB%B0-%DA%AF%D8%B1%D9%85%DB%8C-%D8%AF%D8%A7%D9%86%D9%87-%D9%82%D9%87%D9%88%D9%87",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.087Z"
-  },
-  {
-    "id": "torobshop-sports-travel-05d539a087d0640e",
-    "productId": "torobshop-05d539a087d0640e",
-    "name": "قوطی قهوه BEEM با قاشق مدرج - 1.9 لیتر | استیل ضد زنگ ضد هوا | نشانگر تاریخ | 700 گرم قهوه | قوطی عطر | شیر تخلیه CO2",
-    "brand": "",
-    "model": "قوطی قهوه BEEM با قاشق مدرج - 1.9 لیتر | استیل ضد زنگ ضد هوا | نشانگر تاریخ | 700 گرم قهوه | قوطی عطر | شیر تخلیه CO2",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 14484000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%82%D9%88%D8%B7%DB%8C-%D9%82%D9%87%D9%88%D9%87-BEEM-%D8%A8%D8%A7-%D9%82%D8%A7%D8%B4%D9%82-%D9%85%D8%AF%D8%B1%D8%AC-1-9-%D9%84%DB%8C%D8%AA%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%B6%D8%AF-%D9%87%D9%88%D8%A7-%D9%86%D8%B4%D8%A7%D9%86%DA%AF%D8%B1-%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE-700-%DA%AF%D8%B1%D9%85-%D9%82%D9%87%D9%88%D9%87-%D9%82%D9%88%D8%B7%DB%8C-%D8%B9%D8%B7%D8%B1-%D8%B4%DB%8C%D8%B1-%D8%AA%D8%AE%D9%84%DB%8C%D9%87-CO2",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.087Z"
-  },
-  {
-    "id": "torobshop-sports-travel-a40b1cc8eb60dfd3",
-    "productId": "torobshop-a40b1cc8eb60dfd3",
-    "name": "آسیاب قهوه دستی BEEM GRIND-2-GO – 40 گرم | آسیاب مخروطی | تنظیم آسیاب بدون پله | کیسه نخی | آسیاب دستی قهوه | استیل ضد زنگ | قهوه",
-    "brand": "",
-    "model": "آسیاب قهوه دستی BEEM GRIND-2-GO – 40 گرم | آسیاب مخروطی | تنظیم آسیاب بدون پله | کیسه نخی | آسیاب دستی قهوه | استیل ضد زنگ | قهوه",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 12451000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%A2%D8%B3%DB%8C%D8%A7%D8%A8-%D9%82%D9%87%D9%88%D9%87-%D8%AF%D8%B3%D8%AA%DB%8C-BEEM-GRIND-2-GO-40-%DA%AF%D8%B1%D9%85-%D8%A2%D8%B3%DB%8C%D8%A7%D8%A8-%D9%85%D8%AE%D8%B1%D9%88%D8%B7%DB%8C-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A2%D8%B3%DB%8C%D8%A7%D8%A8-%D8%A8%D8%AF%D9%88%D9%86-%D9%BE%D9%84%D9%87-%DA%A9%DB%8C%D8%B3%D9%87-%D9%86%D8%AE%DB%8C-%D8%A2%D8%B3%DB%8C%D8%A7%D8%A8-%D8%AF%D8%B3%D8%AA%DB%8C-%D9%82%D9%87%D9%88%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%82%D9%87%D9%88%D9%87",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.087Z"
-  },
-  {
-    "id": "torobshop-sports-travel-827984c7bc2a588b",
-    "productId": "torobshop-827984c7bc2a588b",
-    "name": "قوری قهوه BEEM POUR OVER با فیلتر دائمی - 6 فنجان انتخاب کلاسیک قوری شیشه‌ای 3 تکه 0.75 لیتری شامل روکش سیلیکونی فیلتر دائمی دهانه ریختن برای ریختن بدون چکه روی لیوان",
-    "brand": "",
-    "model": "قوری قهوه BEEM POUR OVER با فیلتر دائمی - 6 فنجان انتخاب کلاسیک قوری شیشه‌ای 3 تکه 0.75 لیتری شامل روکش سیلیکونی فیلتر دائمی دهانه ریختن برای ریختن بدون چکه روی لیوان",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 14992000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%82%D9%88%D8%B1%DB%8C-%D9%82%D9%87%D9%88%D9%87-BEEM-POUR-OVER-%D8%A8%D8%A7-%D9%81%DB%8C%D9%84%D8%AA%D8%B1-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-6-%D9%81%D9%86%D8%AC%D8%A7%D9%86-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8-%DA%A9%D9%84%D8%A7%D8%B3%DB%8C%DA%A9-%D9%82%D9%88%D8%B1%DB%8C-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-3-%D8%AA%DA%A9%D9%87-0-75-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C-%D8%B4%D8%A7%D9%85%D9%84-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%DB%8C%D9%84%DB%8C%DA%A9%D9%88%D9%86%DB%8C-%D9%81%DB%8C%D9%84%D8%AA%D8%B1-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D8%AF%D9%87%D8%A7%D9%86%D9%87-%D8%B1%DB%8C%D8%AE%D8%AA%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%DB%8C%D8%AE%D8%AA%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%DA%86%DA%A9%D9%87-%D8%B1%D9%88%DB%8C-%D9%84%DB%8C%D9%88%D8%A7%D9%86",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.087Z"
-  },
-  {
-    "id": "torobshop-sports-travel-b1ad0ea7d3ae35d7",
-    "productId": "torobshop-b1ad0ea7d3ae35d7",
-    "name": "قهوه ساز فرنچ پرس بیم برای ۱ لیتر، شیشه بوروسیلیکات/استیل ضد زنگ، نقره‌ای-شفاف، ابعاد: ۱۶.۲ سانتی‌متر در ۱۰.۱ سانتی‌متر در ۲۰.۴ سانتی‌متر، کد ۰۳۲۶۵",
-    "brand": "",
-    "model": "قهوه ساز فرنچ پرس بیم برای ۱ لیتر، شیشه بوروسیلیکات/استیل ضد زنگ، نقره‌ای-شفاف، ابعاد: ۱۶.۲ سانتی‌متر در ۱۰.۱ سانتی‌متر در ۲۰.۴ سانتی‌متر، کد ۰۳۲۶۵",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 12705000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%82%D9%87%D9%88%D9%87-%D8%B3%D8%A7%D8%B2-%D9%81%D8%B1%D9%86%DA%86-%D9%BE%D8%B1%D8%B3-%D8%A8%DB%8C%D9%85-%D8%A8%D8%B1%D8%A7%DB%8C-%DB%B1-%D9%84%DB%8C%D8%AA%D8%B1-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A8%D9%88%D8%B1%D9%88%D8%B3%DB%8C%D9%84%DB%8C%DA%A9%D8%A7%D8%AA-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C-%D8%B4%D9%81%D8%A7%D9%81-%D8%A7%D8%A8%D8%B9%D8%A7%D8%AF-%DB%B1%DB%B6-%DB%B2-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%AF%D8%B1-%DB%B1%DB%B0-%DB%B1-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%AF%D8%B1-%DB%B2%DB%B0-%DB%B4-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%DA%A9%D8%AF-%DB%B0%DB%B3%DB%B2%DB%B6%DB%B5",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.087Z"
-  },
-  {
-    "id": "torobshop-sports-travel-01fd4211de27a0d5",
-    "productId": "torobshop-01fd4211de27a0d5",
-    "name": "قهوه ساز بیم - 0.35 لیتر برای 2-3 فنجان | فرنچ پرس | قهوه ساز کوچک با قاشق پیمانه | قوری شیشه ای با درب بامبو و فیلتر استیل ضد زنگ",
-    "brand": "",
-    "model": "قهوه ساز بیم - 0.35 لیتر برای 2-3 فنجان | فرنچ پرس | قهوه ساز کوچک با قاشق پیمانه | قوری شیشه ای با درب بامبو و فیلتر استیل ضد زنگ",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 11689000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%82%D9%87%D9%88%D9%87-%D8%B3%D8%A7%D8%B2-%D8%A8%DB%8C%D9%85-0-35-%D9%84%DB%8C%D8%AA%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-2-3-%D9%81%D9%86%D8%AC%D8%A7%D9%86-%D9%81%D8%B1%D9%86%DA%86-%D9%BE%D8%B1%D8%B3-%D9%82%D9%87%D9%88%D9%87-%D8%B3%D8%A7%D8%B2-%DA%A9%D9%88%DA%86%DA%A9-%D8%A8%D8%A7-%D9%82%D8%A7%D8%B4%D9%82-%D9%BE%DB%8C%D9%85%D8%A7%D9%86%D9%87-%D9%82%D9%88%D8%B1%DB%8C-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%A8%D8%A7%D9%85%D8%A8%D9%88-%D9%88-%D9%81%DB%8C%D9%84%D8%AA%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.087Z"
-  },
-  {
-    "id": "torobshop-sports-travel-4c20864969491062",
-    "productId": "torobshop-4c20864969491062",
-    "name": "قهوه ساز فرنچ پرس بیم - 1 لیتر | قهوه ساز شیشه ای استیل ضد زنگ | 1 لیتر | قهوه ساز کمپینگ | فیلتر پرس استیل ضد زنگ | 8 فنجان قهوه درست می کند",
-    "brand": "",
-    "model": "قهوه ساز فرنچ پرس بیم - 1 لیتر | قهوه ساز شیشه ای استیل ضد زنگ | 1 لیتر | قهوه ساز کمپینگ | فیلتر پرس استیل ضد زنگ | 8 فنجان قهوه درست می کند",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 30238000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%82%D9%87%D9%88%D9%87-%D8%B3%D8%A7%D8%B2-%D9%81%D8%B1%D9%86%DA%86-%D9%BE%D8%B1%D8%B3-%D8%A8%DB%8C%D9%85-1-%D9%84%DB%8C%D8%AA%D8%B1-%D9%82%D9%87%D9%88%D9%87-%D8%B3%D8%A7%D8%B2-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-1-%D9%84%DB%8C%D8%AA%D8%B1-%D9%82%D9%87%D9%88%D9%87-%D8%B3%D8%A7%D8%B2-%DA%A9%D9%85%D9%BE%DB%8C%D9%86%DA%AF-%D9%81%DB%8C%D9%84%D8%AA%D8%B1-%D9%BE%D8%B1%D8%B3-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-8-%D9%81%D9%86%D8%AC%D8%A7%D9%86-%D9%82%D9%87%D9%88%D9%87-%D8%AF%D8%B1%D8%B3%D8%AA-%D9%85%DB%8C-%DA%A9%D9%86%D8%AF",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.087Z"
-  },
-  {
-    "id": "torobshop-sports-travel-6e8f969763fb12ec",
-    "productId": "torobshop-6e8f969763fb12ec",
-    "name": "سماور BEEM 3006C 6 لیتری 2500 وات استیل ضد زنگ/کروم – محافظ در برابر گرمای بیش از حد، 2 المنت حرارتی جداگانه، قوری 1.5 لیتری با صافی چای",
-    "brand": "",
-    "model": "سماور BEEM 3006C 6 لیتری 2500 وات استیل ضد زنگ/کروم – محافظ در برابر گرمای بیش از حد، 2 المنت حرارتی جداگانه، قوری 1.5 لیتری با صافی چای",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 424601000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D9%85%D8%A7%D9%88%D8%B1-BEEM-3006C-6-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C-2500-%D9%88%D8%A7%D8%AA-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%DA%A9%D8%B1%D9%88%D9%85-%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D8%AF%D8%B1-%D8%A8%D8%B1%D8%A7%D8%A8%D8%B1-%DA%AF%D8%B1%D9%85%D8%A7%DB%8C-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%D8%AD%D8%AF-2-%D8%A7%D9%84%D9%85%D9%86%D8%AA-%D8%AD%D8%B1%D8%A7%D8%B1%D8%AA%DB%8C-%D8%AC%D8%AF%D8%A7%DA%AF%D8%A7%D9%86%D9%87-%D9%82%D9%88%D8%B1%DB%8C-1-5-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C-%D8%A8%D8%A7-%D8%B5%D8%A7%D9%81%DB%8C-%DA%86%D8%A7%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.087Z"
-  },
-  {
-    "id": "torobshop-sports-travel-611344efb1bd3888",
-    "productId": "torobshop-611344efb1bd3888",
-    "name": "سماور BEEM MR. TEA - 4 لیتر | چای‌ساز برقی مشکی مات | قوری 1 لیتری با دم‌آور چای | دارای ترموستات قابل تنظیم مداوم و پخش‌کننده چای با یک دست | لذت بی‌نظیر چای - در خانه و رستوران‌ها",
-    "brand": "",
-    "model": "سماور BEEM MR. TEA - 4 لیتر | چای‌ساز برقی مشکی مات | قوری 1 لیتری با دم‌آور چای | دارای ترموستات قابل تنظیم مداوم و پخش‌کننده چای با یک دست | لذت بی‌نظیر چای - در خانه و رستوران‌ها",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 16517000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D9%85%D8%A7%D9%88%D8%B1-BEEM-MR-TEA-4-%D9%84%DB%8C%D8%AA%D8%B1-%DA%86%D8%A7%DB%8C-%D8%B3%D8%A7%D8%B2-%D8%A8%D8%B1%D9%82%DB%8C-%D9%85%D8%B4%DA%A9%DB%8C-%D9%85%D8%A7%D8%AA-%D9%82%D9%88%D8%B1%DB%8C-1-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C-%D8%A8%D8%A7-%D8%AF%D9%85-%D8%A2%D9%88%D8%B1-%DA%86%D8%A7%DB%8C-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C-%D8%AA%D8%B1%D9%85%D9%88%D8%B3%D8%AA%D8%A7%D8%AA-%D9%82%D8%A7%D8%A8%D9%84-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D9%85%D8%AF%D8%A7%D9%88%D9%85-%D9%88-%D9%BE%D8%AE%D8%B4-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%DA%86%D8%A7%DB%8C-%D8%A8%D8%A7-%DB%8C%DA%A9-%D8%AF%D8%B3%D8%AA-%D9%84%D8%B0%D8%AA-%D8%A8%DB%8C-%D9%86%D8%B8%DB%8C%D8%B1-%DA%86%D8%A7%DB%8C-%D8%AF%D8%B1-%D8%AE%D8%A7%D9%86%D9%87-%D9%88-%D8%B1%D8%B3%D8%AA%D9%88%D8%B1%D8%A7%D9%86-%D9%87%D8%A7",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.087Z"
-  },
-  {
-    "id": "torobshop-sports-travel-c4ddc017f41906f6",
-    "productId": "torobshop-c4ddc017f41906f6",
-    "name": "سماور بی‌نظیر چای بیم - ۳ لیتر | قوری برقی استیل ضد زنگ | قوری ۱.۲ لیتری با دم‌آور چای | ترموستات قابل تنظیم مداوم و پخش‌کننده چای با یک دست | لذت بی‌نظیر چای - در خانه و رستوران‌ها",
-    "brand": "",
-    "model": "سماور بی‌نظیر چای بیم - ۳ لیتر | قوری برقی استیل ضد زنگ | قوری ۱.۲ لیتری با دم‌آور چای | ترموستات قابل تنظیم مداوم و پخش‌کننده چای با یک دست | لذت بی‌نظیر چای - در خانه و رستوران‌ها",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 23123000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D9%85%D8%A7%D9%88%D8%B1-%D8%A8%DB%8C-%D9%86%D8%B8%DB%8C%D8%B1-%DA%86%D8%A7%DB%8C-%D8%A8%DB%8C%D9%85-%DB%B3-%D9%84%DB%8C%D8%AA%D8%B1-%D9%82%D9%88%D8%B1%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%82%D9%88%D8%B1%DB%8C-%DB%B1-%DB%B2-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C-%D8%A8%D8%A7-%D8%AF%D9%85-%D8%A2%D9%88%D8%B1-%DA%86%D8%A7%DB%8C-%D8%AA%D8%B1%D9%85%D9%88%D8%B3%D8%AA%D8%A7%D8%AA-%D9%82%D8%A7%D8%A8%D9%84-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D9%85%D8%AF%D8%A7%D9%88%D9%85-%D9%88-%D9%BE%D8%AE%D8%B4-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%DA%86%D8%A7%DB%8C-%D8%A8%D8%A7-%DB%8C%DA%A9-%D8%AF%D8%B3%D8%AA-%D9%84%D8%B0%D8%AA-%D8%A8%DB%8C-%D9%86%D8%B8%DB%8C%D8%B1-%DA%86%D8%A7%DB%8C-%D8%AF%D8%B1-%D8%AE%D8%A7%D9%86%D9%87-%D9%88-%D8%B1%D8%B3%D8%AA%D9%88%D8%B1%D8%A7%D9%86-%D9%87%D8%A7-2",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.087Z"
-  },
-  {
-    "id": "torobshop-sports-travel-90fcbe8687059a30",
-    "productId": "torobshop-90fcbe8687059a30",
-    "name": "سماور چای کلاسیک بیم - ۳ لیتر | استیل ضد زنگ / مشکی | چای ساز بزرگ، مناسب برای مراکز پذیرایی | دارای شیر تخلیه استیل ضد زنگ | کنترل دمای بی‌نهایت متغیر | دارای قوری ۱ لیتری",
-    "brand": "",
-    "model": "سماور چای کلاسیک بیم - ۳ لیتر | استیل ضد زنگ / مشکی | چای ساز بزرگ، مناسب برای مراکز پذیرایی | دارای شیر تخلیه استیل ضد زنگ | کنترل دمای بی‌نهایت متغیر | دارای قوری ۱ لیتری",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 33287000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D9%85%D8%A7%D9%88%D8%B1-%DA%86%D8%A7%DB%8C-%DA%A9%D9%84%D8%A7%D8%B3%DB%8C%DA%A9-%D8%A8%DB%8C%D9%85-%DB%B3-%D9%84%DB%8C%D8%AA%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D8%B4%DA%A9%DB%8C-%DA%86%D8%A7%DB%8C-%D8%B3%D8%A7%D8%B2-%D8%A8%D8%B2%D8%B1%DA%AF-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%85%D8%B1%D8%A7%DA%A9%D8%B2-%D9%BE%D8%B0%DB%8C%D8%B1%D8%A7%DB%8C%DB%8C-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C-%D8%B4%DB%8C%D8%B1-%D8%AA%D8%AE%D9%84%DB%8C%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%DA%A9%D9%86%D8%AA%D8%B1%D9%84-%D8%AF%D9%85%D8%A7%DB%8C-%D8%A8%DB%8C-%D9%86%D9%87%D8%A7%DB%8C%D8%AA-%D9%85%D8%AA%D8%BA%DB%8C%D8%B1-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C-%D9%82%D9%88%D8%B1%DB%8C-%DB%B1-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.087Z"
-  },
-  {
-    "id": "torobshop-sports-travel-c0007aaa6ab91bb2",
-    "productId": "torobshop-c0007aaa6ab91bb2",
-    "name": "مجموعه قطعات کوچک شیر تخلیه BEEM، 20 میلی‌متری برای سماورهای Mr. Tea، کلمبوس، سری 3000 و 2017",
-    "brand": "",
-    "model": "مجموعه قطعات کوچک شیر تخلیه BEEM، 20 میلی‌متری برای سماورهای Mr. Tea، کلمبوس، سری 3000 و 2017",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 11943000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D9%82%D8%B7%D8%B9%D8%A7%D8%AA-%DA%A9%D9%88%DA%86%DA%A9-%D8%B4%DB%8C%D8%B1-%D8%AA%D8%AE%D9%84%DB%8C%D9%87-BEEM-20-%D9%85%DB%8C%D9%84%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B3%D9%85%D8%A7%D9%88%D8%B1%D9%87%D8%A7%DB%8C-Mr-Tea-%DA%A9%D9%84%D9%85%D8%A8%D9%88%D8%B3-%D8%B3%D8%B1%DB%8C-3000-%D9%88-2017",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.087Z"
-  },
-  {
-    "id": "torobshop-sports-travel-34386721a691d178",
-    "productId": "torobshop-34386721a691d178",
-    "name": "شیر تخلیه آب BEEM، کروم، مخصوص سماورهای سری ۳۰۰۰.",
-    "brand": "",
-    "model": "شیر تخلیه آب BEEM، کروم، مخصوص سماورهای سری ۳۰۰۰.",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 11943000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B4%DB%8C%D8%B1-%D8%AA%D8%AE%D9%84%DB%8C%D9%87-%D8%A2%D8%A8-BEEM-%DA%A9%D8%B1%D9%88%D9%85-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%B3%D9%85%D8%A7%D9%88%D8%B1%D9%87%D8%A7%DB%8C-%D8%B3%D8%B1%DB%8C-%DB%B3%DB%B0%DB%B0%DB%B0",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.087Z"
-  },
-  {
-    "id": "torobshop-sports-travel-b8bd6a4d5ecca799",
-    "productId": "torobshop-b8bd6a4d5ecca799",
-    "name": "شیر تخلیه BEEM کامل، کروم",
-    "brand": "",
-    "model": "شیر تخلیه BEEM کامل، کروم",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 17025000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B4%DB%8C%D8%B1-%D8%AA%D8%AE%D9%84%DB%8C%D9%87-BEEM-%DA%A9%D8%A7%D9%85%D9%84-%DA%A9%D8%B1%D9%88%D9%85",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.087Z"
-  },
-  {
-    "id": "torobshop-sports-travel-9c72d8fb3f6a2ba1",
-    "productId": "torobshop-9c72d8fb3f6a2ba1",
-    "name": "قهوه‌ساز BEEM Fresh-Aroma-Perfect Superior | دستگاه قهوه‌ساز فیلتردار با آسیاب و منبع تغذیه هوشمند | قوری شیشه‌ای ۱.۵ لیتری، تایمر ۲۴ ساعته، صفحه گرم‌کننده [فولاد ضد زنگ، ۱۰۵۰ وات]",
-    "brand": "",
-    "model": "قهوه‌ساز BEEM Fresh-Aroma-Perfect Superior | دستگاه قهوه‌ساز فیلتردار با آسیاب و منبع تغذیه هوشمند | قوری شیشه‌ای ۱.۵ لیتری، تایمر ۲۴ ساعته، صفحه گرم‌کننده [فولاد ضد زنگ، ۱۰۵۰ وات]",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 70640000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%82%D9%87%D9%88%D9%87-%D8%B3%D8%A7%D8%B2-BEEM-Fresh-Aroma-Perfect-Superior-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%82%D9%87%D9%88%D9%87-%D8%B3%D8%A7%D8%B2-%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A2%D8%B3%DB%8C%D8%A7%D8%A8-%D9%88-%D9%85%D9%86%D8%A8%D8%B9-%D8%AA%D8%BA%D8%B0%DB%8C%D9%87-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%D9%82%D9%88%D8%B1%DB%8C-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%DB%B1-%DB%B5-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C-%D8%AA%D8%A7%DB%8C%D9%85%D8%B1-%DB%B2%DB%B4-%D8%B3%D8%A7%D8%B9%D8%AA%D9%87-%D8%B5%D9%81%D8%AD%D9%87-%DA%AF%D8%B1%D9%85-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D9%81%D9%88%D9%84%D8%A7%D8%AF-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%DB%B1%DB%B0%DB%B5%DB%B0-%D9%88%D8%A7%D8%AA",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.087Z"
-  },
-  {
-    "id": "torobshop-sports-travel-87cbcd550df2c8fa",
-    "productId": "torobshop-87cbcd550df2c8fa",
-    "name": "تمپر BEEM – 51 میلی‌متر | برای تمپر کردن تفاله قهوه | برای دستگاه‌های پورتافیلتر با آسیاب | دسته ارگونومیک [چوب راش/فولاد ضد زنگ]",
-    "brand": "",
-    "model": "تمپر BEEM – 51 میلی‌متر | برای تمپر کردن تفاله قهوه | برای دستگاه‌های پورتافیلتر با آسیاب | دسته ارگونومیک [چوب راش/فولاد ضد زنگ]",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 18803000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%AA%D9%85%D9%BE%D8%B1-BEEM-51-%D9%85%DB%8C%D9%84%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D9%85%D9%BE%D8%B1-%DA%A9%D8%B1%D8%AF%D9%86-%D8%AA%D9%81%D8%A7%D9%84%D9%87-%D9%82%D9%87%D9%88%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-%D9%BE%D9%88%D8%B1%D8%AA%D8%A7%D9%81%DB%8C%D9%84%D8%AA%D8%B1-%D8%A8%D8%A7-%D8%A2%D8%B3%DB%8C%D8%A7%D8%A8-%D8%AF%D8%B3%D8%AA%D9%87-%D8%A7%D8%B1%DA%AF%D9%88%D9%86%D9%88%D9%85%DB%8C%DA%A9-%DA%86%D9%88%D8%A8-%D8%B1%D8%A7%D8%B4-%D9%81%D9%88%D9%84%D8%A7%D8%AF-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.087Z"
-  },
-  {
-    "id": "torobshop-sports-travel-bb3d87082eb1a040",
-    "productId": "torobshop-bb3d87082eb1a040",
-    "name": "دیسک سوراخ‌دار استیل ضد زنگ BEEM، مناسب برای چرخ گوشت نیمه‌حرفه‌ای Panther de Luxe V2، با قطر ۴.۵ میلی‌متر",
-    "brand": "",
-    "model": "دیسک سوراخ‌دار استیل ضد زنگ BEEM، مناسب برای چرخ گوشت نیمه‌حرفه‌ای Panther de Luxe V2، با قطر ۴.۵ میلی‌متر",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 15246000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%AF%DB%8C%D8%B3%DA%A9-%D8%B3%D9%88%D8%B1%D8%A7%D8%AE-%D8%AF%D8%A7%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-BEEM-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%DA%86%D8%B1%D8%AE-%DA%AF%D9%88%D8%B4%D8%AA-%D9%86%DB%8C%D9%85%D9%87-%D8%AD%D8%B1%D9%81%D9%87-%D8%A7%DB%8C-Panther-de-Luxe-V2-%D8%A8%D8%A7-%D9%82%D8%B7%D8%B1-%DB%B4-%DB%B5-%D9%85%DB%8C%D9%84%DB%8C-%D9%85%D8%AA%D8%B1",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.087Z"
-  },
-  {
-    "id": "torobshop-sports-travel-af253d8db86172d9",
-    "productId": "torobshop-af253d8db86172d9",
-    "name": "مجموعه حلقه آب‌بندی سیلیکونی BEEM 1116016 برای همه زودپزهای Vitalini، سیلیکونی، آبی، 18 × 18 × 5 سانتی‌متر، 2 عدد",
-    "brand": "",
-    "model": "مجموعه حلقه آب‌بندی سیلیکونی BEEM 1116016 برای همه زودپزهای Vitalini، سیلیکونی، آبی، 18 × 18 × 5 سانتی‌متر، 2 عدد",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 13213000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D8%AD%D9%84%D9%82%D9%87-%D8%A2%D8%A8-%D8%A8%D9%86%D8%AF%DB%8C-%D8%B3%DB%8C%D9%84%DB%8C%DA%A9%D9%88%D9%86%DB%8C-BEEM-1116016-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%87%D9%85%D9%87-%D8%B2%D9%88%D8%AF%D9%BE%D8%B2%D9%87%D8%A7%DB%8C-Vitalini-%D8%B3%DB%8C%D9%84%DB%8C%DA%A9%D9%88%D9%86%DB%8C-%D8%A2%D8%A8%DB%8C-18-18-5-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-2-%D8%B9%D8%AF%D8%AF",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.087Z"
-  },
-  {
-    "id": "torobshop-sports-travel-faf54d1de5277c91",
-    "productId": "torobshop-faf54d1de5277c91",
-    "name": "قوری قهوه BEEM POUR OVER - 0.7 لیتر | طراحی بامبو و شیشه | شیشه بوروسیلیکات بادوام | با فیلتر دائمی استیل ضد زنگ | برای 6 فنجان کافی است",
-    "brand": "",
-    "model": "قوری قهوه BEEM POUR OVER - 0.7 لیتر | طراحی بامبو و شیشه | شیشه بوروسیلیکات بادوام | با فیلتر دائمی استیل ضد زنگ | برای 6 فنجان کافی است",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 21344000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%82%D9%88%D8%B1%DB%8C-%D9%82%D9%87%D9%88%D9%87-BEEM-POUR-OVER-0-7-%D9%84%DB%8C%D8%AA%D8%B1-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%A8%D8%A7%D9%85%D8%A8%D9%88-%D9%88-%D8%B4%DB%8C%D8%B4%D9%87-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A8%D9%88%D8%B1%D9%88%D8%B3%DB%8C%D9%84%DB%8C%DA%A9%D8%A7%D8%AA-%D8%A8%D8%A7%D8%AF%D9%88%D8%A7%D9%85-%D8%A8%D8%A7-%D9%81%DB%8C%D9%84%D8%AA%D8%B1-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%A8%D8%B1%D8%A7%DB%8C-6-%D9%81%D9%86%D8%AC%D8%A7%D9%86-%DA%A9%D8%A7%D9%81%DB%8C-%D8%A7%D8%B3%D8%AA",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.087Z"
-  },
-  {
-    "id": "torobshop-sports-travel-bed024ff9dfbc191",
-    "productId": "torobshop-bed024ff9dfbc191",
-    "name": "آبچکان و مخزن سماور بیم | محافظت از سطوح در برابر آب داغ | مخزن آبریز راحت و یک دستی برای ریختن بهداشتی آب | ایده‌آل برای بازسازی",
-    "brand": "",
-    "model": "آبچکان و مخزن سماور بیم | محافظت از سطوح در برابر آب داغ | مخزن آبریز راحت و یک دستی برای ریختن بهداشتی آب | ایده‌آل برای بازسازی",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 18942000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%A2%D8%A8%DA%86%DA%A9%D8%A7%D9%86-%D9%88-%D9%85%D8%AE%D8%B2%D9%86-%D8%B3%D9%85%D8%A7%D9%88%D8%B1-%D8%A8%DB%8C%D9%85-%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%AA-%D8%A7%D8%B2-%D8%B3%D8%B7%D9%88%D8%AD-%D8%AF%D8%B1-%D8%A8%D8%B1%D8%A7%D8%A8%D8%B1-%D8%A2%D8%A8-%D8%AF%D8%A7%D8%BA-%D9%85%D8%AE%D8%B2%D9%86-%D8%A2%D8%A8%D8%B1%DB%8C%D8%B2-%D8%B1%D8%A7%D8%AD%D8%AA-%D9%88-%DB%8C%DA%A9-%D8%AF%D8%B3%D8%AA%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%DB%8C%D8%AE%D8%AA%D9%86-%D8%A8%D9%87%D8%AF%D8%A7%D8%B4%D8%AA%DB%8C-%D8%A2%D8%A8-%D8%A7%DB%8C%D8%AF%D9%87-%D8%A2%D9%84-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A8%D8%A7%D8%B2%D8%B3%D8%A7%D8%B2%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.087Z"
-  },
-  {
-    "id": "torobshop-sports-travel-12108326787ffaf6",
-    "productId": "torobshop-12108326787ffaf6",
-    "name": "سرویس قابلمه 8 تکه BEEM Nobilis Premium با روکش نچسب ILAG Ultimate Premium به رنگ شامپاینی، نسخه Eckart Witzigmann، قهوه‌ای مایل به قرمز",
-    "brand": "",
-    "model": "سرویس قابلمه 8 تکه BEEM Nobilis Premium با روکش نچسب ILAG Ultimate Premium به رنگ شامپاینی، نسخه Eckart Witzigmann، قهوه‌ای مایل به قرمز",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 64540000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-8-%D8%AA%DA%A9%D9%87-BEEM-Nobilis-Premium-%D8%A8%D8%A7-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-ILAG-Ultimate-Premium-%D8%A8%D9%87-%D8%B1%D9%86%DA%AF-%D8%B4%D8%A7%D9%85%D9%BE%D8%A7%DB%8C%D9%86%DB%8C-%D9%86%D8%B3%D8%AE%D9%87-Eckart-Witzigmann-%D9%82%D9%87%D9%88%D9%87-%D8%A7%DB%8C-%D9%85%D8%A7%DB%8C%D9%84-%D8%A8%D9%87-%D9%82%D8%B1%D9%85%D8%B2",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.087Z"
-  },
-  {
-    "id": "torobshop-sports-travel-9706ad3cf0976481",
-    "productId": "torobshop-9706ad3cf0976481",
-    "name": "پارچ شیر بیم – ۵۰۰ میلی‌لیتر | استیل ضد زنگ | برای کف کردن شیر | دهانه ضد چکه | مناسب برای دستگاه‌های پورتافیلتر و قهوه‌سازهای دارای کف‌ساز شیر",
-    "brand": "",
-    "model": "پارچ شیر بیم – ۵۰۰ میلی‌لیتر | استیل ضد زنگ | برای کف کردن شیر | دهانه ضد چکه | مناسب برای دستگاه‌های پورتافیلتر و قهوه‌سازهای دارای کف‌ساز شیر",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 14992000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%BE%D8%A7%D8%B1%DA%86-%D8%B4%DB%8C%D8%B1-%D8%A8%DB%8C%D9%85-%DB%B5%DB%B0%DB%B0-%D9%85%DB%8C%D9%84%DB%8C-%D9%84%DB%8C%D8%AA%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%A8%D8%B1%D8%A7%DB%8C-%DA%A9%D9%81-%DA%A9%D8%B1%D8%AF%D9%86-%D8%B4%DB%8C%D8%B1-%D8%AF%D9%87%D8%A7%D9%86%D9%87-%D8%B6%D8%AF-%DA%86%DA%A9%D9%87-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-%D9%BE%D9%88%D8%B1%D8%AA%D8%A7%D9%81%DB%8C%D9%84%D8%AA%D8%B1-%D9%88-%D9%82%D9%87%D9%88%D9%87-%D8%B3%D8%A7%D8%B2%D9%87%D8%A7%DB%8C-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C-%DA%A9%D9%81-%D8%B3%D8%A7%D8%B2-%D8%B4%DB%8C%D8%B1",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.087Z"
-  },
-  {
-    "id": "torobshop-sports-travel-a78de50e19375b85",
-    "productId": "torobshop-a78de50e19375b85",
-    "name": "سرویس قابلمه 8 پارچه BEEM Nobilis Premium با روکش نچسب ILAG Ultimate Premium به رنگ شامپاینی، نسخه Eckart Witzigmann، کرم وانیلی",
-    "brand": "",
-    "model": "سرویس قابلمه 8 پارچه BEEM Nobilis Premium با روکش نچسب ILAG Ultimate Premium به رنگ شامپاینی، نسخه Eckart Witzigmann، کرم وانیلی",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 26426000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-8-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-BEEM-Nobilis-Premium-%D8%A8%D8%A7-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-ILAG-Ultimate-Premium-%D8%A8%D9%87-%D8%B1%D9%86%DA%AF-%D8%B4%D8%A7%D9%85%D9%BE%D8%A7%DB%8C%D9%86%DB%8C-%D9%86%D8%B3%D8%AE%D9%87-Eckart-Witzigmann-%DA%A9%D8%B1%D9%85-%D9%88%D8%A7%D9%86%DB%8C%D9%84%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.087Z"
-  },
-  {
-    "id": "torobshop-sports-travel-b572c0c74ec7e1ee",
-    "productId": "torobshop-b572c0c74ec7e1ee",
-    "name": "پارچ شیر استیل ضد زنگ BEEM به رنگ مشکی، مخصوص کف کردن شیر، دهانه ضد چکه، مناسب برای دستگاه‌های پورتافیلتر و قهوه‌سازها با نازل کف‌ساز شیر، ۳۵۰ میلی‌لیتر، کد 07194",
-    "brand": "",
-    "model": "پارچ شیر استیل ضد زنگ BEEM به رنگ مشکی، مخصوص کف کردن شیر، دهانه ضد چکه، مناسب برای دستگاه‌های پورتافیلتر و قهوه‌سازها با نازل کف‌ساز شیر، ۳۵۰ میلی‌لیتر، کد 07194",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 13721000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%BE%D8%A7%D8%B1%DA%86-%D8%B4%DB%8C%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-BEEM-%D8%A8%D9%87-%D8%B1%D9%86%DA%AF-%D9%85%D8%B4%DA%A9%DB%8C-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%DA%A9%D9%81-%DA%A9%D8%B1%D8%AF%D9%86-%D8%B4%DB%8C%D8%B1-%D8%AF%D9%87%D8%A7%D9%86%D9%87-%D8%B6%D8%AF-%DA%86%DA%A9%D9%87-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-%D9%BE%D9%88%D8%B1%D8%AA%D8%A7%D9%81%DB%8C%D9%84%D8%AA%D8%B1-%D9%88-%D9%82%D9%87%D9%88%D9%87-%D8%B3%D8%A7%D8%B2%D9%87%D8%A7-%D8%A8%D8%A7-%D9%86%D8%A7%D8%B2%D9%84-%DA%A9%D9%81-%D8%B3%D8%A7%D8%B2-%D8%B4%DB%8C%D8%B1-%DB%B3%DB%B5%DB%B0-%D9%85%DB%8C%D9%84%DB%8C-%D9%84%DB%8C%D8%AA%D8%B1-%DA%A9%D8%AF-07194",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.087Z"
+    "observedAt": "2026-09-04T21:24:42.964Z"
   },
   {
     "id": "torobshop-sports-travel-387754e6b4491f58",
@@ -4515,7 +4047,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.087Z"
+    "observedAt": "2026-09-04T21:24:42.965Z"
   },
   {
     "id": "torobshop-sports-travel-39e57f782fd26013",
@@ -4533,7 +4065,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.087Z"
+    "observedAt": "2026-09-04T21:24:42.965Z"
   },
   {
     "id": "torobshop-sports-travel-d62ad3ee5759fcbd",
@@ -4551,7 +4083,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.087Z"
+    "observedAt": "2026-09-04T21:24:42.965Z"
   },
   {
     "id": "torobshop-sports-travel-1ed3ae617a915858",
@@ -4569,7 +4101,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.087Z"
+    "observedAt": "2026-09-04T21:24:42.965Z"
   },
   {
     "id": "torobshop-sports-travel-aa03a6c561a55d60",
@@ -4587,7 +4119,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.087Z"
+    "observedAt": "2026-09-04T21:24:42.965Z"
   },
   {
     "id": "torobshop-sports-travel-0cfaef0e68debb8e",
@@ -4605,7 +4137,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.087Z"
+    "observedAt": "2026-09-04T21:24:42.965Z"
   },
   {
     "id": "torobshop-sports-travel-ad6f3f422d15a766",
@@ -4623,7 +4155,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.087Z"
+    "observedAt": "2026-09-04T21:24:42.966Z"
   },
   {
     "id": "torobshop-sports-travel-569f3d7e67640e5c",
@@ -4641,7 +4173,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.087Z"
+    "observedAt": "2026-09-04T21:24:42.966Z"
   },
   {
     "id": "torobshop-sports-travel-aed9f18e5d887270",
@@ -4659,7 +4191,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.087Z"
+    "observedAt": "2026-09-04T21:24:42.966Z"
   },
   {
     "id": "torobshop-sports-travel-0ff8a8fc1fbd561e",
@@ -4677,7 +4209,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.087Z"
+    "observedAt": "2026-09-04T21:24:42.966Z"
   },
   {
     "id": "torobshop-sports-travel-dfa4bdc99016ca7e",
@@ -4695,7 +4227,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.087Z"
+    "observedAt": "2026-09-04T21:24:42.966Z"
   },
   {
     "id": "torobshop-sports-travel-fa434e6aa57c4be7",
@@ -4713,7 +4245,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.087Z"
+    "observedAt": "2026-09-04T21:24:42.966Z"
   },
   {
     "id": "torobshop-sports-travel-abdc2adccad9c33d",
@@ -4731,7 +4263,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.087Z"
+    "observedAt": "2026-09-04T21:24:42.966Z"
   },
   {
     "id": "torobshop-sports-travel-4b7348b541c036cd",
@@ -4749,7 +4281,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.087Z"
+    "observedAt": "2026-09-04T21:24:42.966Z"
   },
   {
     "id": "torobshop-sports-travel-c9e212e51e3633db",
@@ -4767,43 +4299,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.087Z"
-  },
-  {
-    "id": "torobshop-sports-travel-6e397f6c85f56e0e",
-    "productId": "torobshop-6e397f6c85f56e0e",
-    "name": "ماهیتابه پیش‌ غذای کوچک فیسلر آلمان Fissler Häppchen Mini (16 سانتی‌متر) - تابه کوچک برای گرم کردن مجدد",
-    "brand": "",
-    "model": "ماهیتابه پیش‌ غذای کوچک فیسلر آلمان Fissler Häppchen Mini (16 سانتی‌متر) - تابه کوچک برای گرم کردن مجدد",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 20292000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%AA%D8%A7%D8%A8%D9%87-%D9%BE%DB%8C%D8%B4-%D8%BA%D8%B0%D8%A7%DB%8C-%DA%A9%D9%88%DA%86%DA%A9-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-16-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%AA%D8%A7%D8%A8%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%D8%A8%D8%B1%D8%A7%DB%8C-%DA%AF%D8%B1%D9%85-%DA%A9%D8%B1%D8%AF%D9%86-%D9%85%D8%AC%D8%AF%D8%AF-%D8%A2%D8%A8-%DA%A9%D8%B1%D8%AF%D9%86-%DA%A9%D8%B1%D9%87-%D9%88-%D9%88%D8%B9%D8%AF%D9%87-%D9%87%D8%A7%DB%8C-%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C-%DA%A9%D9%88%DA%86%DA%A9-%D9%BE%D8%A7%DB%8C%D9%87-%D8%B3%D9%88%D9%BE%D8%B1%D8%AA%D8%B1%D9%85%DB%8C%DA%A9-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-18-10",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.087Z"
-  },
-  {
-    "id": "torobshop-sports-travel-921dfbcc90d038a0",
-    "productId": "torobshop-921dfbcc90d038a0",
-    "name": "ماهیتابه فیسلر آلمان Fissler Original-Profi Collection (قطر 28 سانتی‌متر) تابه بدون پوشش با مقیاس داخلی",
-    "brand": "",
-    "model": "ماهیتابه فیسلر آلمان Fissler Original-Profi Collection (قطر 28 سانتی‌متر) تابه بدون پوشش با مقیاس داخلی",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 43138000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%85%D8%AF%D9%84-Original-Profi-Collection-%D9%82%D8%B7%D8%B1-28-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%AA%D8%A7%D8%A8%D9%87-%D8%A8%D8%AF%D9%88%D9%86-%D9%BE%D9%88%D8%B4%D8%B4-%D8%A8%D8%A7-%D9%85%D9%82%DB%8C%D8%A7%D8%B3-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%D9%86%D9%88%D9%88%DA%AF%D8%B1%DB%8C%D9%84-28-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.087Z"
+    "observedAt": "2026-09-04T21:24:42.966Z"
   },
   {
     "id": "torobshop-sports-travel-695cd4ce1cd48f20",
@@ -4821,7 +4317,43 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.087Z"
+    "observedAt": "2026-09-04T21:24:42.966Z"
+  },
+  {
+    "id": "torobshop-sports-travel-6e397f6c85f56e0e",
+    "productId": "torobshop-6e397f6c85f56e0e",
+    "name": "ماهیتابه پیش‌ غذای کوچک فیسلر آلمان Fissler Häppchen Mini (16 سانتی‌متر) - تابه کوچک برای گرم کردن مجدد",
+    "brand": "",
+    "model": "ماهیتابه پیش‌ غذای کوچک فیسلر آلمان Fissler Häppchen Mini (16 سانتی‌متر) - تابه کوچک برای گرم کردن مجدد",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 20292000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AA%D8%A7%D8%A8%D9%87-%D9%BE%DB%8C%D8%B4-%D8%BA%D8%B0%D8%A7%DB%8C-%DA%A9%D9%88%DA%86%DA%A9-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-16-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%AA%D8%A7%D8%A8%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%D8%A8%D8%B1%D8%A7%DB%8C-%DA%AF%D8%B1%D9%85-%DA%A9%D8%B1%D8%AF%D9%86-%D9%85%D8%AC%D8%AF%D8%AF-%D8%A2%D8%A8-%DA%A9%D8%B1%D8%AF%D9%86-%DA%A9%D8%B1%D9%87-%D9%88-%D9%88%D8%B9%D8%AF%D9%87-%D9%87%D8%A7%DB%8C-%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C-%DA%A9%D9%88%DA%86%DA%A9-%D9%BE%D8%A7%DB%8C%D9%87-%D8%B3%D9%88%D9%BE%D8%B1%D8%AA%D8%B1%D9%85%DB%8C%DA%A9-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-18-10",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.966Z"
+  },
+  {
+    "id": "torobshop-sports-travel-921dfbcc90d038a0",
+    "productId": "torobshop-921dfbcc90d038a0",
+    "name": "ماهیتابه فیسلر آلمان Fissler Original-Profi Collection (قطر 28 سانتی‌متر) تابه بدون پوشش با مقیاس داخلی",
+    "brand": "",
+    "model": "ماهیتابه فیسلر آلمان Fissler Original-Profi Collection (قطر 28 سانتی‌متر) تابه بدون پوشش با مقیاس داخلی",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 43138000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%85%D8%AF%D9%84-Original-Profi-Collection-%D9%82%D8%B7%D8%B1-28-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%AA%D8%A7%D8%A8%D9%87-%D8%A8%D8%AF%D9%88%D9%86-%D9%BE%D9%88%D8%B4%D8%B4-%D8%A8%D8%A7-%D9%85%D9%82%DB%8C%D8%A7%D8%B3-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%D9%86%D9%88%D9%88%DA%AF%D8%B1%DB%8C%D9%84-28-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.966Z"
   },
   {
     "id": "torobshop-sports-travel-7464bedef3ecb51e",
@@ -4839,7 +4371,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.087Z"
+    "observedAt": "2026-09-04T21:24:42.966Z"
   },
   {
     "id": "torobshop-sports-travel-9318a28bbba0fe53",
@@ -4857,7 +4389,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.087Z"
+    "observedAt": "2026-09-04T21:24:42.966Z"
   },
   {
     "id": "torobshop-sports-travel-ae3ba973ea2911ee",
@@ -4875,7 +4407,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.087Z"
+    "observedAt": "2026-09-04T21:24:42.966Z"
   },
   {
     "id": "torobshop-sports-travel-51009350b9f240d2",
@@ -4893,7 +4425,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.087Z"
+    "observedAt": "2026-09-04T21:24:42.966Z"
   },
   {
     "id": "torobshop-sports-travel-924e8879fd31e680",
@@ -4911,7 +4443,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.088Z"
+    "observedAt": "2026-09-04T21:24:42.966Z"
   },
   {
     "id": "torobshop-sports-travel-45c64009916028ba",
@@ -4929,7 +4461,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.088Z"
+    "observedAt": "2026-09-04T21:24:42.966Z"
   },
   {
     "id": "torobshop-sports-travel-835b00c0d36d8e10",
@@ -4947,7 +4479,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.088Z"
+    "observedAt": "2026-09-04T21:24:42.966Z"
   },
   {
     "id": "torobshop-sports-travel-35f3e181350a9721",
@@ -4965,7 +4497,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.088Z"
+    "observedAt": "2026-09-04T21:24:42.966Z"
   },
   {
     "id": "torobshop-sports-travel-9311f0ec7504f24b",
@@ -4983,7 +4515,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.088Z"
+    "observedAt": "2026-09-04T21:24:42.966Z"
   },
   {
     "id": "torobshop-sports-travel-da199e6690f1c782",
@@ -5001,7 +4533,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.088Z"
+    "observedAt": "2026-09-04T21:24:42.966Z"
   },
   {
     "id": "torobshop-sports-travel-843617a20d001e4c",
@@ -5019,7 +4551,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.088Z"
+    "observedAt": "2026-09-04T21:24:42.966Z"
   },
   {
     "id": "torobshop-sports-travel-15def7d563b1e542",
@@ -5037,7 +4569,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.088Z"
+    "observedAt": "2026-09-04T21:24:42.966Z"
   },
   {
     "id": "torobshop-sports-travel-37de96dd1d4a33c3",
@@ -5055,7 +4587,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.088Z"
+    "observedAt": "2026-09-04T21:24:42.966Z"
   },
   {
     "id": "torobshop-sports-travel-ee166c5666efcec5",
@@ -5073,25 +4605,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.088Z"
-  },
-  {
-    "id": "torobshop-sports-travel-fc88260817f3414e",
-    "productId": "torobshop-fc88260817f3414e",
-    "name": "چاقوی خود تیز شونده ZWILLING Gourmet با مجموعه 7 تکه چاقو، استیل ضد زنگ، ساخت آلمان، براون Gourmet Braun",
-    "brand": "",
-    "model": "چاقوی خود تیز شونده ZWILLING Gourmet با مجموعه 7 تکه چاقو، استیل ضد زنگ، ساخت آلمان، براون Gourmet Braun",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 51767000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%AE%D9%88%D8%AF-%D8%AA%DB%8C%D8%B2-%D8%B4%D9%88%D9%86%D8%AF%D9%87-ZWILLING-Gourmet-%D8%A8%D8%A7-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-7-%D8%AA%DA%A9%D9%87-%DA%86%D8%A7%D9%82%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-Gourmet-Braun",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.088Z"
+    "observedAt": "2026-09-04T21:24:42.966Z"
   },
   {
     "id": "torobshop-sports-travel-67d9add46426dfe8",
@@ -5109,7 +4623,25 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.088Z"
+    "observedAt": "2026-09-04T21:24:42.966Z"
+  },
+  {
+    "id": "torobshop-sports-travel-fc88260817f3414e",
+    "productId": "torobshop-fc88260817f3414e",
+    "name": "چاقوی خود تیز شونده ZWILLING Gourmet با مجموعه 7 تکه چاقو، استیل ضد زنگ، ساخت آلمان، براون Gourmet Braun",
+    "brand": "",
+    "model": "چاقوی خود تیز شونده ZWILLING Gourmet با مجموعه 7 تکه چاقو، استیل ضد زنگ، ساخت آلمان، براون Gourmet Braun",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 51767000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%AE%D9%88%D8%AF-%D8%AA%DB%8C%D8%B2-%D8%B4%D9%88%D9%86%D8%AF%D9%87-ZWILLING-Gourmet-%D8%A8%D8%A7-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-7-%D8%AA%DA%A9%D9%87-%DA%86%D8%A7%D9%82%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-Gourmet-Braun",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.966Z"
   },
   {
     "id": "torobshop-sports-travel-5cab57205d377e1f",
@@ -5127,7 +4659,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.088Z"
+    "observedAt": "2026-09-04T21:24:42.966Z"
   },
   {
     "id": "torobshop-sports-travel-bbb69afb3e332a2c",
@@ -5145,7 +4677,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.088Z"
+    "observedAt": "2026-09-04T21:24:42.966Z"
   },
   {
     "id": "torobshop-sports-travel-3877183810368792",
@@ -5163,7 +4695,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.088Z"
+    "observedAt": "2026-09-04T21:24:42.966Z"
   },
   {
     "id": "torobshop-sports-travel-cb9e4b877badae34",
@@ -5181,7 +4713,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.088Z"
+    "observedAt": "2026-09-04T21:24:42.966Z"
   },
   {
     "id": "torobshop-sports-travel-e2467d5cbf85ce81",
@@ -5199,7 +4731,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.088Z"
+    "observedAt": "2026-09-04T21:24:42.966Z"
   },
   {
     "id": "torobshop-sports-travel-30d122f629f89166",
@@ -5217,7 +4749,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.088Z"
+    "observedAt": "2026-09-04T21:24:42.966Z"
   },
   {
     "id": "torobshop-sports-travel-d9fbeecaba31c602",
@@ -5235,7 +4767,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.088Z"
+    "observedAt": "2026-09-04T21:24:42.966Z"
   },
   {
     "id": "torobshop-sports-travel-ef26e366fa305ced",
@@ -5253,7 +4785,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.088Z"
+    "observedAt": "2026-09-04T21:24:42.966Z"
   },
   {
     "id": "torobshop-sports-travel-3e03d59443676707",
@@ -5271,7 +4803,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.088Z"
+    "observedAt": "2026-09-04T21:24:42.966Z"
   },
   {
     "id": "torobshop-sports-travel-07103c8f0e3ce377",
@@ -5289,7 +4821,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.088Z"
+    "observedAt": "2026-09-04T21:24:42.966Z"
   },
   {
     "id": "torobshop-sports-travel-4415e2cd944c4e59",
@@ -5307,7 +4839,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.088Z"
+    "observedAt": "2026-09-04T21:24:42.966Z"
   },
   {
     "id": "torobshop-sports-travel-d397df756b9f1338",
@@ -5325,97 +4857,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.088Z"
-  },
-  {
-    "id": "torobshop-sports-travel-e4088b7a2b6ea10b",
-    "productId": "torobshop-e4088b7a2b6ea10b",
-    "name": "سرویس قابلمه 4 پارچه اینتنسا فیسلر آلمان Fissler Intensa قابلمه با درب فلزی (2 قابلمه، 1 قابلمه کوچک، 1 تابه - بدون درب) القایی، سرویس",
-    "brand": "",
-    "model": "سرویس قابلمه 4 پارچه اینتنسا فیسلر آلمان Fissler Intensa قابلمه با درب فلزی (2 قابلمه، 1 قابلمه کوچک، 1 تابه - بدون درب) القایی، سرویس",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 97350000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%A7%DB%8C%D9%86%D8%AA%D9%86%D8%B3%D8%A7-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-4-%D8%AA%DA%A9%D9%87-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%81%D9%84%D8%B2%DB%8C-2-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-1-%D8%AA%D8%A7%D8%A8%D9%87-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%B1%D8%A8-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-4-%D8%AA%DA%A9%D9%87-2-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-1-%D8%AA%D8%A7%D8%A8%D9%87",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.088Z"
-  },
-  {
-    "id": "torobshop-sports-travel-0674abec1e1ff3bb",
-    "productId": "torobshop-0674abec1e1ff3bb",
-    "name": "سرویس قابلمه 5 پارچه فیسلر آلمان اینتنسا Fissler Intensa با درب فلزی (3 قابلمه، 1 قابلمه کوچک، 1 تابه - بدون درب) سازگار با اجاق القایی",
-    "brand": "",
-    "model": "سرویس قابلمه 5 پارچه فیسلر آلمان اینتنسا Fissler Intensa با درب فلزی (3 قابلمه، 1 قابلمه کوچک، 1 تابه - بدون درب) سازگار با اجاق القایی",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 108515000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%A7%DB%8C%D9%86%D8%AA%D9%86%D8%B3%D8%A7-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-5-%D8%AA%DA%A9%D9%87-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%81%D9%84%D8%B2%DB%8C-3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-1-%D8%AA%D8%A7%D8%A8%D9%87-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%B1%D8%A8-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-5-%D8%AA%DA%A9%D9%87-3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-1-%D8%AA%D8%A7%D8%A8%D9%87",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.088Z"
-  },
-  {
-    "id": "torobshop-sports-travel-c8ae91ddddbffeeb",
-    "productId": "torobshop-c8ae91ddddbffeeb",
-    "name": "ماهیتابه درب دار کباب‌ پز فیسلر آلمان Fissler Edelstahl (8.8 لیتر - قطر 38 سانتی‌متر) ظرف کاسرول بیضی بزرگ، با درب شیشه‌ای",
-    "brand": "",
-    "model": "ماهیتابه درب دار کباب‌ پز فیسلر آلمان Fissler Edelstahl (8.8 لیتر - قطر 38 سانتی‌متر) ظرف کاسرول بیضی بزرگ، با درب شیشه‌ای",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 50553000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1%D8%A8-%D8%AF%D8%A7%D8%B1-%DA%A9%D8%A8%D8%A7%D8%A8-%D9%BE%D8%B2-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-Fissler-Edelstahl-8-8-%D9%84%DB%8C%D8%AA%D8%B1-%D9%82%D8%B7%D8%B1-38-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%B8%D8%B1%D9%81-%DA%A9%D8%A7%D8%B3%D8%B1%D9%88%D9%84-%D8%A8%DB%8C%D8%B6%DB%8C-%D8%A8%D8%B2%D8%B1%DA%AF-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.088Z"
-  },
-  {
-    "id": "torobshop-sports-travel-e0d95c7bfcafe827",
-    "productId": "torobshop-e0d95c7bfcafe827",
-    "name": "سرویس قابلمه 5 پارچه فیسلر آلمان Fissler Original Collection 5-teilig با درب فلزی (3 قابلمه، 1 قابلمه کوچک، 1 تابه کوچک - بدون درب) القایی",
-    "brand": "",
-    "model": "سرویس قابلمه 5 پارچه فیسلر آلمان Fissler Original Collection 5-teilig با درب فلزی (3 قابلمه، 1 قابلمه کوچک، 1 تابه کوچک - بدون درب) القایی",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 140722000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-5-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-Fissler-Original-Collection-5-teilig-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%81%D9%84%D8%B2%DB%8C-3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-1-%D8%AA%D8%A7%D8%A8%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%B1%D8%A8-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.088Z"
-  },
-  {
-    "id": "torobshop-sports-travel-d68b8e3ac997acb1",
-    "productId": "torobshop-d68b8e3ac997acb1",
-    "name": "ماهیتابه دو دسته فیسلر آلمان Fissler Original-Profi Collection (سایز ۲۸ سانتی‌متر)",
-    "brand": "",
-    "model": "ماهیتابه دو دسته فیسلر آلمان Fissler Original-Profi Collection (سایز ۲۸ سانتی‌متر)",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 46822000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%A7%D9%88%D8%B1%D8%AC%DB%8C%D9%86%D8%A7%D9%84-%D9%BE%D8%B1%D9%88%D9%81%DB%8C-%DA%A9%D8%A7%D9%84%DA%A9%D8%B4%D9%86-%D8%B3%D8%A7%DB%8C%D8%B2-%DB%B2%DB%B8-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%DB%B1%DB%B8-%DB%B1%DB%B0-%D8%B3%D8%B7%D8%AD-%D9%BE%D8%AE%D8%AA-%D9%88-%D9%BE%D8%B2-%D9%86%D9%88%D9%88%DA%AF%D8%B1%DB%8C%D9%84-%D9%BE%D8%A7%DB%8C%D9%87-%D8%AA%D9%85%D8%A7%D9%85-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%DA%A9%D9%88%DA%A9-%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1-%D9%85%D8%AF%D9%84-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%DB%B2%DB%B8-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.088Z"
+    "observedAt": "2026-09-04T21:24:42.966Z"
   },
   {
     "id": "torobshop-sports-travel-05c540b60ea3624b",
@@ -5433,7 +4875,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.088Z"
+    "observedAt": "2026-09-04T21:24:42.966Z"
   },
   {
     "id": "torobshop-sports-travel-40f09e3a04b68146",
@@ -5451,43 +4893,97 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.088Z"
+    "observedAt": "2026-09-04T21:24:42.966Z"
   },
   {
-    "id": "torobshop-sports-travel-f8b7784f8ba04a47",
-    "productId": "torobshop-f8b7784f8ba04a47",
-    "name": "سودا ساز آب گازدار ساز وی ام اف آلمان WMF Element One Water دستگاه حباب ساز تمام اتوماتیک آبی",
+    "id": "torobshop-sports-travel-e4088b7a2b6ea10b",
+    "productId": "torobshop-e4088b7a2b6ea10b",
+    "name": "سرویس قابلمه 4 پارچه اینتنسا فیسلر آلمان Fissler Intensa قابلمه با درب فلزی (2 قابلمه، 1 قابلمه کوچک، 1 تابه - بدون درب) القایی، سرویس",
     "brand": "",
-    "model": "سودا ساز آب گازدار ساز وی ام اف آلمان WMF Element One Water دستگاه حباب ساز تمام اتوماتیک آبی",
+    "model": "سرویس قابلمه 4 پارچه اینتنسا فیسلر آلمان Fissler Intensa قابلمه با درب فلزی (2 قابلمه، 1 قابلمه کوچک، 1 تابه - بدون درب) القایی، سرویس",
     "category": "sports-travel",
     "subcategory": "کتانی ورزشی مردانه",
-    "price": 54084000,
+    "price": 97350000,
     "currency": "IRT",
     "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%DA%AF%D8%A7%D8%B2%D8%AF%D8%A7%D8%B1-%D8%A2%D8%A8-WMF-Element-One-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%AD%D8%A8%D8%A7%D8%A8-%D8%B3%D8%A7%D8%B2-%D8%AA%D9%85%D8%A7%D9%85-%D8%A7%D8%AA%D9%88%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-%D8%A7%D8%B2-%D8%AC%D9%86%D8%B3-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%A8%D8%A7-3-%D8%B3%D8%B7%D8%AD-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%DA%A9%D9%85-%D8%AC%D8%A7-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%86%D9%88%D8%B4%D8%A7%D8%A8%D9%87-%D8%B3%D8%A7%D8%B2-%D8%B2%DB%8C%D8%A8%D8%A7-%D9%88-%DA%AF%D8%A7%D8%B2%D8%AF%D8%A7%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%84%D8%B0%D8%AA-%D8%A8%D8%B1%D8%AF%D9%86-%D8%A7%D8%B2-%D9%86%D9%88%D8%B4%DB%8C%D8%AF%D9%86%DB%8C-%D8%B1%D9%86%DA%AF-%D8%AC%D8%B1%DB%8C%D8%A7%D9%86-%DB%8C%D8%AE",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%A7%DB%8C%D9%86%D8%AA%D9%86%D8%B3%D8%A7-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-4-%D8%AA%DA%A9%D9%87-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%81%D9%84%D8%B2%DB%8C-2-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-1-%D8%AA%D8%A7%D8%A8%D9%87-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%B1%D8%A8-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-4-%D8%AA%DA%A9%D9%87-2-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-1-%D8%AA%D8%A7%D8%A8%D9%87",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.088Z"
+    "observedAt": "2026-09-04T21:24:42.966Z"
   },
   {
-    "id": "torobshop-sports-travel-eb3d93fc719b9727",
-    "productId": "torobshop-eb3d93fc719b9727",
-    "name": "دستگاه وکیوم و ظروف وکیوم زولینگ آلمان ZWILLING در 9 قطعه 2 کاسه استیل با 2 درب وکیوم (18-24 سانتی متر) - 4 عدد کیسه - پمپ",
+    "id": "torobshop-sports-travel-0674abec1e1ff3bb",
+    "productId": "torobshop-0674abec1e1ff3bb",
+    "name": "سرویس قابلمه 5 پارچه فیسلر آلمان اینتنسا Fissler Intensa با درب فلزی (3 قابلمه، 1 قابلمه کوچک، 1 تابه - بدون درب) سازگار با اجاق القایی",
     "brand": "",
-    "model": "دستگاه وکیوم و ظروف وکیوم زولینگ آلمان ZWILLING در 9 قطعه 2 کاسه استیل با 2 درب وکیوم (18-24 سانتی متر) - 4 عدد کیسه - پمپ",
+    "model": "سرویس قابلمه 5 پارچه فیسلر آلمان اینتنسا Fissler Intensa با درب فلزی (3 قابلمه، 1 قابلمه کوچک، 1 تابه - بدون درب) سازگار با اجاق القایی",
     "category": "sports-travel",
     "subcategory": "کتانی ورزشی مردانه",
-    "price": 34510000,
+    "price": 108515000,
     "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%AA-%D9%BE%D8%A7%DB%8C%D9%87-%D9%88%DA%A9%DB%8C%D9%88%D9%85-ZWILLING-9-%D9%82%D8%B7%D8%B9%D9%87-2-%DA%A9%D8%A7%D8%B3%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%A8%D8%A7-2-%D8%AF%D8%B1%D8%A8-%D9%88%DA%A9%DB%8C%D9%88%D9%85-18-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-4-%D8%B9%D8%AF%D8%AF-%DA%A9%DB%8C%D8%B3%D9%87-%D9%BE%D9%85%D9%BE",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%A7%DB%8C%D9%86%D8%AA%D9%86%D8%B3%D8%A7-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-5-%D8%AA%DA%A9%D9%87-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%81%D9%84%D8%B2%DB%8C-3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-1-%D8%AA%D8%A7%D8%A8%D9%87-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%B1%D8%A8-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-5-%D8%AA%DA%A9%D9%87-3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-1-%D8%AA%D8%A7%D8%A8%D9%87",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.088Z"
+    "observedAt": "2026-09-04T21:24:42.966Z"
+  },
+  {
+    "id": "torobshop-sports-travel-c8ae91ddddbffeeb",
+    "productId": "torobshop-c8ae91ddddbffeeb",
+    "name": "ماهیتابه درب دار کباب‌ پز فیسلر آلمان Fissler Edelstahl (8.8 لیتر - قطر 38 سانتی‌متر) ظرف کاسرول بیضی بزرگ، با درب شیشه‌ای",
+    "brand": "",
+    "model": "ماهیتابه درب دار کباب‌ پز فیسلر آلمان Fissler Edelstahl (8.8 لیتر - قطر 38 سانتی‌متر) ظرف کاسرول بیضی بزرگ، با درب شیشه‌ای",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 50553000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1%D8%A8-%D8%AF%D8%A7%D8%B1-%DA%A9%D8%A8%D8%A7%D8%A8-%D9%BE%D8%B2-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-Fissler-Edelstahl-8-8-%D9%84%DB%8C%D8%AA%D8%B1-%D9%82%D8%B7%D8%B1-38-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%B8%D8%B1%D9%81-%DA%A9%D8%A7%D8%B3%D8%B1%D9%88%D9%84-%D8%A8%DB%8C%D8%B6%DB%8C-%D8%A8%D8%B2%D8%B1%DA%AF-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.966Z"
+  },
+  {
+    "id": "torobshop-sports-travel-e0d95c7bfcafe827",
+    "productId": "torobshop-e0d95c7bfcafe827",
+    "name": "سرویس قابلمه 5 پارچه فیسلر آلمان Fissler Original Collection 5-teilig با درب فلزی (3 قابلمه، 1 قابلمه کوچک، 1 تابه کوچک - بدون درب) القایی",
+    "brand": "",
+    "model": "سرویس قابلمه 5 پارچه فیسلر آلمان Fissler Original Collection 5-teilig با درب فلزی (3 قابلمه، 1 قابلمه کوچک، 1 تابه کوچک - بدون درب) القایی",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 140722000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-5-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-Fissler-Original-Collection-5-teilig-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%81%D9%84%D8%B2%DB%8C-3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-1-%D8%AA%D8%A7%D8%A8%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%B1%D8%A8-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.966Z"
+  },
+  {
+    "id": "torobshop-sports-travel-d68b8e3ac997acb1",
+    "productId": "torobshop-d68b8e3ac997acb1",
+    "name": "ماهیتابه دو دسته فیسلر آلمان Fissler Original-Profi Collection (سایز ۲۸ سانتی‌متر)",
+    "brand": "",
+    "model": "ماهیتابه دو دسته فیسلر آلمان Fissler Original-Profi Collection (سایز ۲۸ سانتی‌متر)",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 46822000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%A7%D9%88%D8%B1%D8%AC%DB%8C%D9%86%D8%A7%D9%84-%D9%BE%D8%B1%D9%88%D9%81%DB%8C-%DA%A9%D8%A7%D9%84%DA%A9%D8%B4%D9%86-%D8%B3%D8%A7%DB%8C%D8%B2-%DB%B2%DB%B8-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%DB%B1%DB%B8-%DB%B1%DB%B0-%D8%B3%D8%B7%D8%AD-%D9%BE%D8%AE%D8%AA-%D9%88-%D9%BE%D8%B2-%D9%86%D9%88%D9%88%DA%AF%D8%B1%DB%8C%D9%84-%D9%BE%D8%A7%DB%8C%D9%87-%D8%AA%D9%85%D8%A7%D9%85-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%DA%A9%D9%88%DA%A9-%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1-%D9%85%D8%AF%D9%84-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%DB%B2%DB%B8-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.966Z"
   },
   {
     "id": "torobshop-sports-travel-b0b661c9d6dfca29",
@@ -5505,7 +5001,25 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.088Z"
+    "observedAt": "2026-09-04T21:24:42.966Z"
+  },
+  {
+    "id": "torobshop-sports-travel-f8b7784f8ba04a47",
+    "productId": "torobshop-f8b7784f8ba04a47",
+    "name": "سودا ساز آب گازدار ساز وی ام اف آلمان WMF Element One Water دستگاه حباب ساز تمام اتوماتیک آبی",
+    "brand": "",
+    "model": "سودا ساز آب گازدار ساز وی ام اف آلمان WMF Element One Water دستگاه حباب ساز تمام اتوماتیک آبی",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 54084000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%DA%AF%D8%A7%D8%B2%D8%AF%D8%A7%D8%B1-%D8%A2%D8%A8-WMF-Element-One-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%AD%D8%A8%D8%A7%D8%A8-%D8%B3%D8%A7%D8%B2-%D8%AA%D9%85%D8%A7%D9%85-%D8%A7%D8%AA%D9%88%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-%D8%A7%D8%B2-%D8%AC%D9%86%D8%B3-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%A8%D8%A7-3-%D8%B3%D8%B7%D8%AD-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%DA%A9%D9%85-%D8%AC%D8%A7-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%86%D9%88%D8%B4%D8%A7%D8%A8%D9%87-%D8%B3%D8%A7%D8%B2-%D8%B2%DB%8C%D8%A8%D8%A7-%D9%88-%DA%AF%D8%A7%D8%B2%D8%AF%D8%A7%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%84%D8%B0%D8%AA-%D8%A8%D8%B1%D8%AF%D9%86-%D8%A7%D8%B2-%D9%86%D9%88%D8%B4%DB%8C%D8%AF%D9%86%DB%8C-%D8%B1%D9%86%DA%AF-%D8%AC%D8%B1%DB%8C%D8%A7%D9%86-%DB%8C%D8%AE",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.966Z"
   },
   {
     "id": "torobshop-sports-travel-0e4d04ef83a810db",
@@ -5523,7 +5037,25 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.088Z"
+    "observedAt": "2026-09-04T21:24:42.966Z"
+  },
+  {
+    "id": "torobshop-sports-travel-eb3d93fc719b9727",
+    "productId": "torobshop-eb3d93fc719b9727",
+    "name": "دستگاه وکیوم و ظروف وکیوم زولینگ آلمان ZWILLING در 9 قطعه 2 کاسه استیل با 2 درب وکیوم (18-24 سانتی متر) - 4 عدد کیسه - پمپ",
+    "brand": "",
+    "model": "دستگاه وکیوم و ظروف وکیوم زولینگ آلمان ZWILLING در 9 قطعه 2 کاسه استیل با 2 درب وکیوم (18-24 سانتی متر) - 4 عدد کیسه - پمپ",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 34510000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%AA-%D9%BE%D8%A7%DB%8C%D9%87-%D9%88%DA%A9%DB%8C%D9%88%D9%85-ZWILLING-9-%D9%82%D8%B7%D8%B9%D9%87-2-%DA%A9%D8%A7%D8%B3%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%A8%D8%A7-2-%D8%AF%D8%B1%D8%A8-%D9%88%DA%A9%DB%8C%D9%88%D9%85-18-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-4-%D8%B9%D8%AF%D8%AF-%DA%A9%DB%8C%D8%B3%D9%87-%D9%BE%D9%85%D9%BE",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.966Z"
   },
   {
     "id": "torobshop-sports-travel-d39a2f5ac6cd9a7f",
@@ -5541,7 +5073,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.088Z"
+    "observedAt": "2026-09-04T21:24:42.966Z"
   },
   {
     "id": "torobshop-sports-travel-9d8fbc8c7f0b6991",
@@ -5559,7 +5091,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.088Z"
+    "observedAt": "2026-09-04T21:24:42.966Z"
   },
   {
     "id": "torobshop-sports-travel-412e480ec7918302",
@@ -5577,7 +5109,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.088Z"
+    "observedAt": "2026-09-04T21:24:42.966Z"
   },
   {
     "id": "torobshop-sports-travel-aa2dfdb88af5c975",
@@ -5595,7 +5127,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.088Z"
+    "observedAt": "2026-09-04T21:24:42.966Z"
   },
   {
     "id": "torobshop-sports-travel-2be1976c83ad17a1",
@@ -5613,7 +5145,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.088Z"
+    "observedAt": "2026-09-04T21:24:42.966Z"
   },
   {
     "id": "torobshop-sports-travel-1e0602d76b0e257a",
@@ -5631,7 +5163,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.088Z"
+    "observedAt": "2026-09-04T21:24:42.966Z"
   },
   {
     "id": "torobshop-sports-travel-280503308950a13c",
@@ -5649,7 +5181,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.088Z"
+    "observedAt": "2026-09-04T21:24:42.967Z"
   },
   {
     "id": "torobshop-sports-travel-3644b82267dd5165",
@@ -5667,7 +5199,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.088Z"
+    "observedAt": "2026-09-04T21:24:42.967Z"
   },
   {
     "id": "torobshop-sports-travel-d99c3943bcec9400",
@@ -5685,7 +5217,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.088Z"
+    "observedAt": "2026-09-04T21:24:42.967Z"
   },
   {
     "id": "torobshop-sports-travel-9087741222a89b21",
@@ -5703,7 +5235,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.088Z"
+    "observedAt": "2026-09-04T21:24:42.967Z"
   },
   {
     "id": "torobshop-sports-travel-c4580b999e737ac3",
@@ -5721,7 +5253,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.088Z"
+    "observedAt": "2026-09-04T21:24:42.967Z"
   },
   {
     "id": "torobshop-sports-travel-00bf5776f339768d",
@@ -5739,7 +5271,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.088Z"
+    "observedAt": "2026-09-04T21:24:42.967Z"
   },
   {
     "id": "torobshop-sports-travel-a218f27039422c46",
@@ -5757,7 +5289,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.088Z"
+    "observedAt": "2026-09-04T21:24:42.967Z"
   },
   {
     "id": "torobshop-sports-travel-1fd1146f6f750aa9",
@@ -5775,7 +5307,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.088Z"
+    "observedAt": "2026-09-04T21:24:42.967Z"
   },
   {
     "id": "torobshop-sports-travel-4dd091835a22ff69",
@@ -5793,7 +5325,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.088Z"
+    "observedAt": "2026-09-04T21:24:42.967Z"
   },
   {
     "id": "torobshop-sports-travel-56cac7936a06e3f1",
@@ -5811,25 +5343,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.088Z"
-  },
-  {
-    "id": "torobshop-sports-travel-e02164e6665f61ef",
-    "productId": "torobshop-e02164e6665f61ef",
-    "name": "ماهیتابه فیسلر آلمان Fissler Pure Collection/Edelstahl (قطر 24 سانتی‌متر) بدون پوشش، پیمانه داخلی",
-    "brand": "",
-    "model": "ماهیتابه فیسلر آلمان Fissler Pure Collection/Edelstahl (قطر 24 سانتی‌متر) بدون پوشش، پیمانه داخلی",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 35287000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D8%AE%D8%A7%D9%84%D8%B5-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%82%D8%B7%D8%B1-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A8%D8%AF%D9%88%D9%86-%D9%BE%D9%88%D8%B4%D8%B4-%D9%BE%DB%8C%D9%85%D8%A7%D9%86%D9%87-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.088Z"
+    "observedAt": "2026-09-04T21:24:42.967Z"
   },
   {
     "id": "torobshop-sports-travel-ace9b88e93544c94",
@@ -5847,7 +5361,25 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.088Z"
+    "observedAt": "2026-09-04T21:24:42.967Z"
+  },
+  {
+    "id": "torobshop-sports-travel-e02164e6665f61ef",
+    "productId": "torobshop-e02164e6665f61ef",
+    "name": "ماهیتابه فیسلر آلمان Fissler Pure Collection/Edelstahl (قطر 24 سانتی‌متر) بدون پوشش، پیمانه داخلی",
+    "brand": "",
+    "model": "ماهیتابه فیسلر آلمان Fissler Pure Collection/Edelstahl (قطر 24 سانتی‌متر) بدون پوشش، پیمانه داخلی",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 35287000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D8%AE%D8%A7%D9%84%D8%B5-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%82%D8%B7%D8%B1-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A8%D8%AF%D9%88%D9%86-%D9%BE%D9%88%D8%B4%D8%B4-%D9%BE%DB%8C%D9%85%D8%A7%D9%86%D9%87-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.967Z"
   },
   {
     "id": "torobshop-sports-travel-ffbee63b50d31684",
@@ -5865,7 +5397,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.088Z"
+    "observedAt": "2026-09-04T21:24:42.967Z"
   },
   {
     "id": "torobshop-sports-travel-97e8accc87d0f8bf",
@@ -5883,7 +5415,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.088Z"
+    "observedAt": "2026-09-04T21:24:42.967Z"
   },
   {
     "id": "torobshop-sports-travel-1dfcfd9dee587f60",
@@ -5901,7 +5433,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.088Z"
+    "observedAt": "2026-09-04T21:24:42.967Z"
   },
   {
     "id": "torobshop-sports-travel-f06d188d530004ad",
@@ -5919,7 +5451,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.088Z"
+    "observedAt": "2026-09-04T21:24:42.967Z"
   },
   {
     "id": "torobshop-sports-travel-f4ac0f14bd21c6cf",
@@ -5937,7 +5469,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.088Z"
+    "observedAt": "2026-09-04T21:24:42.967Z"
   },
   {
     "id": "torobshop-sports-travel-7ac6bac20ad12a2d",
@@ -5955,7 +5487,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.088Z"
+    "observedAt": "2026-09-04T21:24:42.967Z"
   },
   {
     "id": "torobshop-sports-travel-8a5c15c91c1a9329",
@@ -5973,7 +5505,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.088Z"
+    "observedAt": "2026-09-04T21:24:42.967Z"
   },
   {
     "id": "torobshop-sports-travel-b131b88e24438d96",
@@ -5991,7 +5523,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.088Z"
+    "observedAt": "2026-09-04T21:24:42.967Z"
   },
   {
     "id": "torobshop-sports-travel-fda1fe8cf4de5c5d",
@@ -6009,7 +5541,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.088Z"
+    "observedAt": "2026-09-04T21:24:42.967Z"
   },
   {
     "id": "torobshop-sports-travel-736fe4049676a61e",
@@ -6027,7 +5559,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.088Z"
+    "observedAt": "2026-09-04T21:24:42.967Z"
   },
   {
     "id": "torobshop-sports-travel-4bffdb79ac43fe15",
@@ -6045,7 +5577,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.088Z"
+    "observedAt": "2026-09-04T21:24:42.967Z"
   },
   {
     "id": "torobshop-sports-travel-ef0157b54bf022f6",
@@ -6063,7 +5595,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.088Z"
+    "observedAt": "2026-09-04T21:24:42.967Z"
   },
   {
     "id": "torobshop-sports-travel-f4e7843bb5d4eb60",
@@ -6081,7 +5613,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.088Z"
+    "observedAt": "2026-09-04T21:24:42.967Z"
   },
   {
     "id": "torobshop-sports-travel-2f0597d05addbba1",
@@ -6099,7 +5631,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.089Z"
+    "observedAt": "2026-09-04T21:24:42.967Z"
   },
   {
     "id": "torobshop-sports-travel-22200afc1cbeec02",
@@ -6117,7 +5649,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.089Z"
+    "observedAt": "2026-09-04T21:24:42.967Z"
   },
   {
     "id": "torobshop-sports-travel-595f1b954d0611bd",
@@ -6135,7 +5667,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.089Z"
+    "observedAt": "2026-09-04T21:24:42.967Z"
   },
   {
     "id": "torobshop-sports-travel-f26fbc6e8dbee708",
@@ -6153,7 +5685,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.089Z"
+    "observedAt": "2026-09-04T21:24:42.967Z"
   },
   {
     "id": "torobshop-sports-travel-3d13a34700e027c0",
@@ -6171,7 +5703,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.089Z"
+    "observedAt": "2026-09-04T21:24:42.967Z"
   },
   {
     "id": "torobshop-sports-travel-19319bed3e2f6069",
@@ -6189,7 +5721,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.089Z"
+    "observedAt": "2026-09-04T21:24:42.967Z"
   },
   {
     "id": "torobshop-sports-travel-a02082729540664c",
@@ -6207,7 +5739,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.089Z"
+    "observedAt": "2026-09-04T21:24:42.967Z"
   },
   {
     "id": "torobshop-sports-travel-f091c9e920c8e1fb",
@@ -6225,7 +5757,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.089Z"
+    "observedAt": "2026-09-04T21:24:42.967Z"
   },
   {
     "id": "torobshop-sports-travel-fbbfc333137fef0f",
@@ -6243,7 +5775,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.089Z"
+    "observedAt": "2026-09-04T21:24:42.967Z"
   },
   {
     "id": "torobshop-sports-travel-c7fa60def079c000",
@@ -6261,7 +5793,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.089Z"
+    "observedAt": "2026-09-04T21:24:42.967Z"
   },
   {
     "id": "torobshop-sports-travel-5ac41723dcef4426",
@@ -6279,7 +5811,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.089Z"
+    "observedAt": "2026-09-04T21:24:42.967Z"
   },
   {
     "id": "torobshop-sports-travel-be60227182487367",
@@ -6297,7 +5829,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.089Z"
+    "observedAt": "2026-09-04T21:24:42.967Z"
   },
   {
     "id": "torobshop-sports-travel-d3f802410104b943",
@@ -6315,7 +5847,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.089Z"
+    "observedAt": "2026-09-04T21:24:42.967Z"
   },
   {
     "id": "torobshop-sports-travel-0f347f93a4676672",
@@ -6333,7 +5865,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.089Z"
+    "observedAt": "2026-09-04T21:24:42.967Z"
   },
   {
     "id": "torobshop-sports-travel-cb5f45612fc319e4",
@@ -6351,7 +5883,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.089Z"
+    "observedAt": "2026-09-04T21:24:42.967Z"
   },
   {
     "id": "torobshop-sports-travel-a447d48449c2d499",
@@ -6369,7 +5901,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.089Z"
+    "observedAt": "2026-09-04T21:24:42.967Z"
   },
   {
     "id": "torobshop-sports-travel-71ebfae235e91ed5",
@@ -6387,7 +5919,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.089Z"
+    "observedAt": "2026-09-04T21:24:42.967Z"
   },
   {
     "id": "torobshop-sports-travel-51edff8c55bfb262",
@@ -6405,7 +5937,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.089Z"
+    "observedAt": "2026-09-04T21:24:42.967Z"
   },
   {
     "id": "torobshop-sports-travel-f99dae95f9641652",
@@ -6423,7 +5955,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.089Z"
+    "observedAt": "2026-09-04T21:24:42.967Z"
   },
   {
     "id": "torobshop-sports-travel-6bc05672d0e139cd",
@@ -6441,7 +5973,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.089Z"
+    "observedAt": "2026-09-04T21:24:42.967Z"
   },
   {
     "id": "torobshop-sports-travel-6b776fc230756800",
@@ -6459,7 +5991,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.089Z"
+    "observedAt": "2026-09-04T21:24:42.967Z"
   },
   {
     "id": "torobshop-sports-travel-f2622dc414824191",
@@ -6477,7 +6009,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.089Z"
+    "observedAt": "2026-09-04T21:24:42.967Z"
   },
   {
     "id": "torobshop-sports-travel-640c8324f81a46bb",
@@ -6495,7 +6027,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.089Z"
+    "observedAt": "2026-09-04T21:24:42.967Z"
   },
   {
     "id": "torobshop-sports-travel-7f66ba1a4f7ddbfb",
@@ -6513,7 +6045,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.089Z"
+    "observedAt": "2026-09-04T21:24:42.967Z"
   },
   {
     "id": "torobshop-sports-travel-c54b5b958054a1a2",
@@ -6531,7 +6063,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.089Z"
+    "observedAt": "2026-09-04T21:24:42.967Z"
   },
   {
     "id": "torobshop-sports-travel-43b61e0733cc7171",
@@ -6549,7 +6081,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.089Z"
+    "observedAt": "2026-09-04T21:24:42.967Z"
   },
   {
     "id": "torobshop-sports-travel-f699a00edc06f489",
@@ -6567,7 +6099,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.089Z"
+    "observedAt": "2026-09-04T21:24:42.967Z"
   },
   {
     "id": "torobshop-sports-travel-a59cff30443c154a",
@@ -6585,7 +6117,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.089Z"
+    "observedAt": "2026-09-04T21:24:42.967Z"
   },
   {
     "id": "torobshop-sports-travel-f6c6e72a28882975",
@@ -6603,7 +6135,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.089Z"
+    "observedAt": "2026-09-04T21:24:42.967Z"
   },
   {
     "id": "torobshop-sports-travel-af7462ce98ee2999",
@@ -6621,7 +6153,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.089Z"
+    "observedAt": "2026-09-04T21:24:42.967Z"
   },
   {
     "id": "torobshop-sports-travel-7c82cddc2d9efd1c",
@@ -6639,7 +6171,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.089Z"
+    "observedAt": "2026-09-04T21:24:42.968Z"
   },
   {
     "id": "torobshop-sports-travel-a942a79dda5b87df",
@@ -6657,7 +6189,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.089Z"
+    "observedAt": "2026-09-04T21:24:42.968Z"
   },
   {
     "id": "torobshop-sports-travel-e4ec7bd10ffa8b50",
@@ -6675,7 +6207,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.089Z"
+    "observedAt": "2026-09-04T21:24:42.968Z"
   },
   {
     "id": "torobshop-sports-travel-5bc21e4edaa526cc",
@@ -6693,7 +6225,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.089Z"
+    "observedAt": "2026-09-04T21:24:42.968Z"
   },
   {
     "id": "torobshop-sports-travel-7bbb1f19505b28fd",
@@ -6711,7 +6243,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.089Z"
+    "observedAt": "2026-09-04T21:24:42.968Z"
   },
   {
     "id": "torobshop-sports-travel-45d6aa9c3fd53ad4",
@@ -6729,7 +6261,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.089Z"
+    "observedAt": "2026-09-04T21:24:42.968Z"
   },
   {
     "id": "torobshop-sports-travel-9d62a66000d436e1",
@@ -6747,7 +6279,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.089Z"
+    "observedAt": "2026-09-04T21:24:42.968Z"
   },
   {
     "id": "torobshop-sports-travel-c876f51b5b5d7dae",
@@ -6765,7 +6297,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.089Z"
+    "observedAt": "2026-09-04T21:24:42.968Z"
   },
   {
     "id": "torobshop-sports-travel-1abb58c93aa4d049",
@@ -6783,7 +6315,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.089Z"
+    "observedAt": "2026-09-04T21:24:42.968Z"
   },
   {
     "id": "torobshop-sports-travel-400b05dca029ee01",
@@ -6801,7 +6333,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.089Z"
+    "observedAt": "2026-09-04T21:24:42.968Z"
   },
   {
     "id": "torobshop-sports-travel-27109e9fc58673fd",
@@ -6819,7 +6351,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.089Z"
+    "observedAt": "2026-09-04T21:24:42.968Z"
   },
   {
     "id": "torobshop-sports-travel-074febbf09bd3065",
@@ -6837,7 +6369,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.089Z"
+    "observedAt": "2026-09-04T21:24:42.968Z"
   },
   {
     "id": "torobshop-sports-travel-766b0f80e67074f9",
@@ -6855,7 +6387,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.089Z"
+    "observedAt": "2026-09-04T21:24:42.968Z"
   },
   {
     "id": "torobshop-sports-travel-6c0960e9008fddf6",
@@ -6873,7 +6405,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.089Z"
+    "observedAt": "2026-09-04T21:24:42.968Z"
   },
   {
     "id": "torobshop-sports-travel-d6551c8766b38613",
@@ -6891,7 +6423,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.089Z"
+    "observedAt": "2026-09-04T21:24:42.968Z"
   },
   {
     "id": "torobshop-sports-travel-508a955227952a9d",
@@ -6909,7 +6441,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.089Z"
+    "observedAt": "2026-09-04T21:24:42.968Z"
   },
   {
     "id": "torobshop-sports-travel-dc3a8d1c6feb961b",
@@ -6927,7 +6459,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.089Z"
+    "observedAt": "2026-09-04T21:24:42.968Z"
   },
   {
     "id": "torobshop-sports-travel-5e70d562a3ef7192",
@@ -6945,7 +6477,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.089Z"
+    "observedAt": "2026-09-04T21:24:42.968Z"
   },
   {
     "id": "torobshop-sports-travel-b6d1e42e39dc67ab",
@@ -6963,7 +6495,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.089Z"
+    "observedAt": "2026-09-04T21:24:42.968Z"
   },
   {
     "id": "torobshop-sports-travel-2cb3b869608c8a13",
@@ -6981,79 +6513,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.089Z"
-  },
-  {
-    "id": "torobshop-sports-travel-6e4a2eb26d23a745",
-    "productId": "torobshop-6e4a2eb26d23a745",
-    "name": "دستگاه رفع موهای زائد Braun IPL Silk Expert Pro 5 برای خانم‌ها/آقایان، ۳ سری، رفع موهای زائد قابل مشاهده، طراحی شده در آلمان، ماشین اصلاح ونوس، جایگزین لیزر موهای زائد، PL5267، سفید/طلایی",
-    "brand": "",
-    "model": "دستگاه رفع موهای زائد Braun IPL Silk Expert Pro 5 برای خانم‌ها/آقایان، ۳ سری، رفع موهای زائد قابل مشاهده، طراحی شده در آلمان، ماشین اصلاح ونوس، جایگزین لیزر موهای زائد، PL5267، سفید/طلایی",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 99981000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Braun-IPL-Silk-Expert-Pro-5-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AE%D8%A7%D9%86%D9%85-%D9%87%D8%A7-%D8%A2%D9%82%D8%A7%DB%8C%D8%A7%D9%86-%DB%B3-%D8%B3%D8%B1%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D9%82%D8%A7%D8%A8%D9%84-%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D9%87-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B4%D8%AF%D9%87-%D8%AF%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88%D9%86%D9%88%D8%B3-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D9%84%DB%8C%D8%B2%D8%B1-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-PL5267-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.089Z"
-  },
-  {
-    "id": "torobshop-sports-travel-967849182031e292",
-    "productId": "torobshop-967849182031e292",
-    "name": "ست اپیلاتور/موبر زنانه Braun Silk-épil 9 Skinspa، با کنترل فشار، اپیلاتور خشک و مرطوب با ۱۳ وسیله اضافی، ۹-۹۹۰، رز/طلایی",
-    "brand": "",
-    "model": "ست اپیلاتور/موبر زنانه Braun Silk-épil 9 Skinspa، با کنترل فشار، اپیلاتور خشک و مرطوب با ۱۳ وسیله اضافی، ۹-۹۹۰، رز/طلایی",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 52274000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%AA-%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D9%85%D9%88%D8%A8%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-Braun-Silk-pil-9-Skinspa-%D8%A8%D8%A7-%DA%A9%D9%86%D8%AA%D8%B1%D9%84-%D9%81%D8%B4%D8%A7%D8%B1-%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%AE%D8%B4%DA%A9-%D9%88-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D8%A8%D8%A7-%DB%B1%DB%B3-%D9%88%D8%B3%DB%8C%D9%84%D9%87-%D8%A7%D8%B6%D8%A7%D9%81%DB%8C-%DB%B9-%DB%B9%DB%B9%DB%B0-%D8%B1%D8%B2-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.089Z"
-  },
-  {
-    "id": "torobshop-sports-travel-e93d0f8dd3711a93",
-    "productId": "torobshop-e93d0f8dd3711a93",
-    "name": "ست زیبایی براون سیلک-اپیل ۹-۹۹۵ لوکس ۹ کاره، رفع موهای زائد خشک و مرطوب بی‌سیم - اپیلاتور، تیغ، لایه‌برداری، کیت تمیزکننده برای صورت و بدن",
-    "brand": "",
-    "model": "ست زیبایی براون سیلک-اپیل ۹-۹۹۵ لوکس ۹ کاره، رفع موهای زائد خشک و مرطوب بی‌سیم - اپیلاتور، تیغ، لایه‌برداری، کیت تمیزکننده برای صورت و بدن",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 57857000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%AA-%D8%B2%DB%8C%D8%A8%D8%A7%DB%8C%DB%8C-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B3%DB%8C%D9%84%DA%A9-%D8%A7%D9%BE%DB%8C%D9%84-%DB%B9-%DB%B9%DB%B9%DB%B5-%D9%84%D9%88%DA%A9%D8%B3-%DB%B9-%DA%A9%D8%A7%D8%B1%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AE%D8%B4%DA%A9-%D9%88-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D8%A8%DB%8C-%D8%B3%DB%8C%D9%85-%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%AA%DB%8C%D8%BA-%D9%84%D8%A7%DB%8C%D9%87-%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C-%DA%A9%DB%8C%D8%AA-%D8%AA%D9%85%DB%8C%D8%B2%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B5%D9%88%D8%B1%D8%AA-%D9%88-%D8%A8%D8%AF%D9%86",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.089Z"
-  },
-  {
-    "id": "torobshop-sports-travel-7c140bba2434e29a",
-    "productId": "torobshop-7c140bba2434e29a",
-    "name": "دستگاه‌های رفع موهای زائد فیلیپس لومیای آی‌پی‌ال سری ۹۰۰۰",
-    "brand": "",
-    "model": "دستگاه‌های رفع موهای زائد فیلیپس لومیای آی‌پی‌ال سری ۹۰۰۰",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 114192000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%84%D9%88%D9%85%DB%8C%D8%A7%DB%8C-%D8%A2%DB%8C-%D9%BE%DB%8C-%D8%A7%D9%84-%D8%B3%D8%B1%DB%8C-%DB%B9%DB%B0%DB%B0%DB%B0",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.089Z"
+    "observedAt": "2026-09-04T21:24:42.968Z"
   },
   {
     "id": "torobshop-sports-travel-52384f9bcf5e57ca",
@@ -7071,7 +6531,79 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.089Z"
+    "observedAt": "2026-09-04T21:24:42.968Z"
+  },
+  {
+    "id": "torobshop-sports-travel-6e4a2eb26d23a745",
+    "productId": "torobshop-6e4a2eb26d23a745",
+    "name": "دستگاه رفع موهای زائد Braun IPL Silk Expert Pro 5 برای خانم‌ها/آقایان، ۳ سری، رفع موهای زائد قابل مشاهده، طراحی شده در آلمان، ماشین اصلاح ونوس، جایگزین لیزر موهای زائد، PL5267، سفید/طلایی",
+    "brand": "",
+    "model": "دستگاه رفع موهای زائد Braun IPL Silk Expert Pro 5 برای خانم‌ها/آقایان، ۳ سری، رفع موهای زائد قابل مشاهده، طراحی شده در آلمان، ماشین اصلاح ونوس، جایگزین لیزر موهای زائد، PL5267، سفید/طلایی",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 99981000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Braun-IPL-Silk-Expert-Pro-5-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AE%D8%A7%D9%86%D9%85-%D9%87%D8%A7-%D8%A2%D9%82%D8%A7%DB%8C%D8%A7%D9%86-%DB%B3-%D8%B3%D8%B1%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D9%82%D8%A7%D8%A8%D9%84-%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D9%87-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B4%D8%AF%D9%87-%D8%AF%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88%D9%86%D9%88%D8%B3-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D9%84%DB%8C%D8%B2%D8%B1-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-PL5267-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.968Z"
+  },
+  {
+    "id": "torobshop-sports-travel-967849182031e292",
+    "productId": "torobshop-967849182031e292",
+    "name": "ست اپیلاتور/موبر زنانه Braun Silk-épil 9 Skinspa، با کنترل فشار، اپیلاتور خشک و مرطوب با ۱۳ وسیله اضافی، ۹-۹۹۰، رز/طلایی",
+    "brand": "",
+    "model": "ست اپیلاتور/موبر زنانه Braun Silk-épil 9 Skinspa، با کنترل فشار، اپیلاتور خشک و مرطوب با ۱۳ وسیله اضافی، ۹-۹۹۰، رز/طلایی",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 52274000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%AA-%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D9%85%D9%88%D8%A8%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-Braun-Silk-pil-9-Skinspa-%D8%A8%D8%A7-%DA%A9%D9%86%D8%AA%D8%B1%D9%84-%D9%81%D8%B4%D8%A7%D8%B1-%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%AE%D8%B4%DA%A9-%D9%88-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D8%A8%D8%A7-%DB%B1%DB%B3-%D9%88%D8%B3%DB%8C%D9%84%D9%87-%D8%A7%D8%B6%D8%A7%D9%81%DB%8C-%DB%B9-%DB%B9%DB%B9%DB%B0-%D8%B1%D8%B2-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.968Z"
+  },
+  {
+    "id": "torobshop-sports-travel-e93d0f8dd3711a93",
+    "productId": "torobshop-e93d0f8dd3711a93",
+    "name": "ست زیبایی براون سیلک-اپیل ۹-۹۹۵ لوکس ۹ کاره، رفع موهای زائد خشک و مرطوب بی‌سیم - اپیلاتور، تیغ، لایه‌برداری، کیت تمیزکننده برای صورت و بدن",
+    "brand": "",
+    "model": "ست زیبایی براون سیلک-اپیل ۹-۹۹۵ لوکس ۹ کاره، رفع موهای زائد خشک و مرطوب بی‌سیم - اپیلاتور، تیغ، لایه‌برداری، کیت تمیزکننده برای صورت و بدن",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 57857000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%AA-%D8%B2%DB%8C%D8%A8%D8%A7%DB%8C%DB%8C-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B3%DB%8C%D9%84%DA%A9-%D8%A7%D9%BE%DB%8C%D9%84-%DB%B9-%DB%B9%DB%B9%DB%B5-%D9%84%D9%88%DA%A9%D8%B3-%DB%B9-%DA%A9%D8%A7%D8%B1%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AE%D8%B4%DA%A9-%D9%88-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D8%A8%DB%8C-%D8%B3%DB%8C%D9%85-%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%AA%DB%8C%D8%BA-%D9%84%D8%A7%DB%8C%D9%87-%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C-%DA%A9%DB%8C%D8%AA-%D8%AA%D9%85%DB%8C%D8%B2%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B5%D9%88%D8%B1%D8%AA-%D9%88-%D8%A8%D8%AF%D9%86",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.968Z"
+  },
+  {
+    "id": "torobshop-sports-travel-7c140bba2434e29a",
+    "productId": "torobshop-7c140bba2434e29a",
+    "name": "دستگاه‌های رفع موهای زائد فیلیپس لومیای آی‌پی‌ال سری ۹۰۰۰",
+    "brand": "",
+    "model": "دستگاه‌های رفع موهای زائد فیلیپس لومیای آی‌پی‌ال سری ۹۰۰۰",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 114192000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%84%D9%88%D9%85%DB%8C%D8%A7%DB%8C-%D8%A2%DB%8C-%D9%BE%DB%8C-%D8%A7%D9%84-%D8%B3%D8%B1%DB%8C-%DB%B9%DB%B0%DB%B0%DB%B0",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.968Z"
   },
   {
     "id": "torobshop-sports-travel-2182240d0b4b05fe",
@@ -7089,7 +6621,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.089Z"
+    "observedAt": "2026-09-04T21:24:42.968Z"
   },
   {
     "id": "torobshop-sports-travel-733ef1e66d9b337b",
@@ -7107,7 +6639,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.089Z"
+    "observedAt": "2026-09-04T21:24:42.968Z"
   },
   {
     "id": "torobshop-sports-travel-6ba05ec79330884d",
@@ -7125,7 +6657,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.089Z"
+    "observedAt": "2026-09-04T21:24:42.968Z"
   },
   {
     "id": "torobshop-sports-travel-8b93c7ea550544bf",
@@ -7143,7 +6675,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.090Z"
+    "observedAt": "2026-09-04T21:24:42.968Z"
   },
   {
     "id": "torobshop-sports-travel-391c9855ce3adbee",
@@ -7161,7 +6693,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.090Z"
+    "observedAt": "2026-09-04T21:24:42.968Z"
   },
   {
     "id": "torobshop-sports-travel-80504a6da4da0683",
@@ -7179,7 +6711,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.090Z"
+    "observedAt": "2026-09-04T21:24:42.968Z"
   },
   {
     "id": "torobshop-sports-travel-f0ab07848df05c09",
@@ -7197,7 +6729,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.090Z"
+    "observedAt": "2026-09-04T21:24:42.968Z"
   },
   {
     "id": "torobshop-sports-travel-f7e7ecdbe9c782b9",
@@ -7215,7 +6747,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.090Z"
+    "observedAt": "2026-09-04T21:24:42.968Z"
   },
   {
     "id": "torobshop-sports-travel-e364f422cc177d5d",
@@ -7233,7 +6765,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.090Z"
+    "observedAt": "2026-09-04T21:24:42.968Z"
   },
   {
     "id": "torobshop-sports-travel-9195692751acb6cb",
@@ -7251,7 +6783,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.090Z"
+    "observedAt": "2026-09-04T21:24:42.968Z"
   },
   {
     "id": "torobshop-sports-travel-b6f7b97e0a41fcce",
@@ -7269,7 +6801,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.090Z"
+    "observedAt": "2026-09-04T21:24:42.968Z"
   },
   {
     "id": "torobshop-sports-travel-7f7cef16b95ceef4",
@@ -7287,7 +6819,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.090Z"
+    "observedAt": "2026-09-04T21:24:42.968Z"
   },
   {
     "id": "torobshop-sports-travel-591d2fa02319cbe4",
@@ -7305,7 +6837,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.090Z"
+    "observedAt": "2026-09-04T21:24:42.968Z"
   },
   {
     "id": "torobshop-sports-travel-45f8a3eeff0791c7",
@@ -7323,7 +6855,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.090Z"
+    "observedAt": "2026-09-04T21:24:42.968Z"
   },
   {
     "id": "torobshop-sports-travel-1abc4d3d93984fc9",
@@ -7341,7 +6873,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.090Z"
+    "observedAt": "2026-09-04T21:24:42.968Z"
   },
   {
     "id": "torobshop-sports-travel-333eed5c812fb391",
@@ -7359,7 +6891,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.090Z"
+    "observedAt": "2026-09-04T21:24:42.968Z"
   },
   {
     "id": "torobshop-sports-travel-bff623028ca50588",
@@ -7377,7 +6909,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.090Z"
+    "observedAt": "2026-09-04T21:24:42.968Z"
   },
   {
     "id": "torobshop-sports-travel-d5e3206967150e5a",
@@ -7395,7 +6927,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.090Z"
+    "observedAt": "2026-09-04T21:24:42.968Z"
   },
   {
     "id": "torobshop-sports-travel-2a6259b902f04fb9",
@@ -7413,7 +6945,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.090Z"
+    "observedAt": "2026-09-04T21:24:42.968Z"
   },
   {
     "id": "torobshop-sports-travel-fb66328b02aeada9",
@@ -7431,7 +6963,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.090Z"
+    "observedAt": "2026-09-04T21:24:42.968Z"
   },
   {
     "id": "torobshop-sports-travel-ef59c7447c918481",
@@ -7449,7 +6981,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.090Z"
+    "observedAt": "2026-09-04T21:24:42.968Z"
   },
   {
     "id": "torobshop-sports-travel-ec0c6101e09fd316",
@@ -7467,7 +6999,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.090Z"
+    "observedAt": "2026-09-04T21:24:42.968Z"
   },
   {
     "id": "torobshop-sports-travel-4b1136653b8c3865",
@@ -7485,7 +7017,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.090Z"
+    "observedAt": "2026-09-04T21:24:42.968Z"
   },
   {
     "id": "torobshop-sports-travel-99dbc61e2d2488d7",
@@ -7503,7 +7035,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.090Z"
+    "observedAt": "2026-09-04T21:24:42.968Z"
   },
   {
     "id": "torobshop-sports-travel-091330dc970a0bbe",
@@ -7521,7 +7053,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.090Z"
+    "observedAt": "2026-09-04T21:24:42.968Z"
   },
   {
     "id": "torobshop-sports-travel-3fe480d61f801988",
@@ -7539,7 +7071,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.090Z"
+    "observedAt": "2026-09-04T21:24:42.968Z"
   },
   {
     "id": "torobshop-sports-travel-9c53c942a980e1d6",
@@ -7557,7 +7089,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.090Z"
+    "observedAt": "2026-09-04T21:24:42.969Z"
   },
   {
     "id": "torobshop-sports-travel-74fc37b5d70bd7c1",
@@ -7575,7 +7107,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.090Z"
+    "observedAt": "2026-09-04T21:24:42.969Z"
   },
   {
     "id": "torobshop-sports-travel-20c5a20079487b1a",
@@ -7593,7 +7125,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.090Z"
+    "observedAt": "2026-09-04T21:24:42.969Z"
   },
   {
     "id": "torobshop-sports-travel-acc19b901c8b2ad8",
@@ -7611,7 +7143,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.090Z"
+    "observedAt": "2026-09-04T21:24:42.969Z"
   },
   {
     "id": "torobshop-sports-travel-215471b6024642b7",
@@ -7629,7 +7161,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.090Z"
+    "observedAt": "2026-09-04T21:24:42.969Z"
   },
   {
     "id": "torobshop-sports-travel-69bba0d6d694a47d",
@@ -7647,7 +7179,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.090Z"
+    "observedAt": "2026-09-04T21:24:42.969Z"
   },
   {
     "id": "torobshop-sports-travel-a95fac45da84a72b",
@@ -7665,7 +7197,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.090Z"
+    "observedAt": "2026-09-04T21:24:42.969Z"
   },
   {
     "id": "torobshop-sports-travel-27f7af68d3543ffb",
@@ -7683,61 +7215,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.090Z"
-  },
-  {
-    "id": "torobshop-sports-travel-01be123cfbff3d67",
-    "productId": "torobshop-01be123cfbff3d67",
-    "name": "اپیلاتور زنانه براون آلمان Silk-épil 9 برای رفع موهای زائد با ماندگاری طولانی، ریش‌تراش زنانه، سری اصلاح، سری اصلاح، مدل 9-041، سفید/نقره‌ای",
-    "brand": "",
-    "model": "اپیلاتور زنانه براون آلمان Silk-épil 9 برای رفع موهای زائد با ماندگاری طولانی، ریش‌تراش زنانه، سری اصلاح، سری اصلاح، مدل 9-041، سفید/نقره‌ای",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 36795000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D9%85%D9%88%D8%A8%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D9%85%D8%AF%D9%84-Silk-pil-9-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%D8%A7-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1%DB%8C-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%85%D8%AF%D9%84-9-041-%D8%B3%D9%81%DB%8C%D8%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.090Z"
-  },
-  {
-    "id": "torobshop-sports-travel-ed3206a7c4997ceb",
-    "productId": "torobshop-ed3206a7c4997ceb",
-    "name": "دستگاه‌های IPL براون، حذف موهای زائد، Silk·expert Mini، PL1100، سفید/نقره‌ای، لیزر جایگزین برای حذف موهای زائد در منزل، حذف دائمی موهای زائد، اندازه جمع و جور برای استفاده در حال حرکت، آسان و ایمن",
-    "brand": "",
-    "model": "دستگاه‌های IPL براون، حذف موهای زائد، Silk·expert Mini، PL1100، سفید/نقره‌ای، لیزر جایگزین برای حذف موهای زائد در منزل، حذف دائمی موهای زائد، اندازه جمع و جور برای استفاده در حال حرکت، آسان و ایمن",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 67755000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-IPL-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%AD%D8%B0%D9%81-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Silk-expert-Mini-PL1100-%D8%B3%D9%81%DB%8C%D8%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C-%D9%84%DB%8C%D8%B2%D8%B1-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AD%D8%B0%D9%81-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AF%D8%B1-%D9%85%D9%86%D8%B2%D9%84-%D8%AD%D8%B0%D9%81-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%D9%87-%D8%AC%D9%85%D8%B9-%D9%88-%D8%AC%D9%88%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D8%AD%D8%A7%D9%84-%D8%AD%D8%B1%DA%A9%D8%AA-%D8%A2%D8%B3%D8%A7%D9%86-%D9%88-%D8%A7%DB%8C%D9%85%D9%86",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.090Z"
-  },
-  {
-    "id": "torobshop-sports-travel-ab3241a3e4a91b6d",
-    "productId": "torobshop-ab3241a3e4a91b6d",
-    "name": "سشوار Philips DryCare Prestige با سنسور MoistureProtect HP8280 / 00، 2300 وات، موتور DC و 2 سری اتصال",
-    "brand": "اچ‌پی",
-    "model": "سشوار Philips DryCare Prestige با سنسور MoistureProtect HP8280 / 00، 2300 وات، موتور DC و 2 سری اتصال",
-    "category": "sports-travel",
-    "subcategory": "کتانی ورزشی مردانه",
-    "price": 28167000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B4%D9%88%D8%A7%D8%B1-Philips-DryCare-Prestige-%D8%A8%D8%A7-%D8%B3%D9%86%D8%B3%D9%88%D8%B1-MoistureProtect-HP8280-00-2300-%D9%88%D8%A7%D8%AA-%D9%85%D9%88%D8%AA%D9%88%D8%B1-DC-%D9%88-2-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.090Z"
+    "observedAt": "2026-09-04T21:24:42.969Z"
   },
   {
     "id": "torobshop-sports-travel-5939ecdc87bd4f0d",
@@ -7755,7 +7233,61 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.090Z"
+    "observedAt": "2026-09-04T21:24:42.969Z"
+  },
+  {
+    "id": "torobshop-sports-travel-01be123cfbff3d67",
+    "productId": "torobshop-01be123cfbff3d67",
+    "name": "اپیلاتور زنانه براون آلمان Silk-épil 9 برای رفع موهای زائد با ماندگاری طولانی، ریش‌تراش زنانه، سری اصلاح، سری اصلاح، مدل 9-041، سفید/نقره‌ای",
+    "brand": "",
+    "model": "اپیلاتور زنانه براون آلمان Silk-épil 9 برای رفع موهای زائد با ماندگاری طولانی، ریش‌تراش زنانه، سری اصلاح، سری اصلاح، مدل 9-041، سفید/نقره‌ای",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 36795000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D9%85%D9%88%D8%A8%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D9%85%D8%AF%D9%84-Silk-pil-9-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%D8%A7-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1%DB%8C-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%85%D8%AF%D9%84-9-041-%D8%B3%D9%81%DB%8C%D8%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.969Z"
+  },
+  {
+    "id": "torobshop-sports-travel-ed3206a7c4997ceb",
+    "productId": "torobshop-ed3206a7c4997ceb",
+    "name": "دستگاه‌های IPL براون، حذف موهای زائد، Silk·expert Mini، PL1100، سفید/نقره‌ای، لیزر جایگزین برای حذف موهای زائد در منزل، حذف دائمی موهای زائد، اندازه جمع و جور برای استفاده در حال حرکت، آسان و ایمن",
+    "brand": "",
+    "model": "دستگاه‌های IPL براون، حذف موهای زائد، Silk·expert Mini، PL1100، سفید/نقره‌ای، لیزر جایگزین برای حذف موهای زائد در منزل، حذف دائمی موهای زائد، اندازه جمع و جور برای استفاده در حال حرکت، آسان و ایمن",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 67755000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-IPL-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%AD%D8%B0%D9%81-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Silk-expert-Mini-PL1100-%D8%B3%D9%81%DB%8C%D8%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C-%D9%84%DB%8C%D8%B2%D8%B1-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AD%D8%B0%D9%81-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AF%D8%B1-%D9%85%D9%86%D8%B2%D9%84-%D8%AD%D8%B0%D9%81-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%D9%87-%D8%AC%D9%85%D8%B9-%D9%88-%D8%AC%D9%88%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D8%AD%D8%A7%D9%84-%D8%AD%D8%B1%DA%A9%D8%AA-%D8%A2%D8%B3%D8%A7%D9%86-%D9%88-%D8%A7%DB%8C%D9%85%D9%86",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.969Z"
+  },
+  {
+    "id": "torobshop-sports-travel-ab3241a3e4a91b6d",
+    "productId": "torobshop-ab3241a3e4a91b6d",
+    "name": "سشوار Philips DryCare Prestige با سنسور MoistureProtect HP8280 / 00، 2300 وات، موتور DC و 2 سری اتصال",
+    "brand": "اچ‌پی",
+    "model": "سشوار Philips DryCare Prestige با سنسور MoistureProtect HP8280 / 00، 2300 وات، موتور DC و 2 سری اتصال",
+    "category": "sports-travel",
+    "subcategory": "کتانی ورزشی مردانه",
+    "price": 28167000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B4%D9%88%D8%A7%D8%B1-Philips-DryCare-Prestige-%D8%A8%D8%A7-%D8%B3%D9%86%D8%B3%D9%88%D8%B1-MoistureProtect-HP8280-00-2300-%D9%88%D8%A7%D8%AA-%D9%85%D9%88%D8%AA%D9%88%D8%B1-DC-%D9%88-2-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:24:42.969Z"
   },
   {
     "id": "torobshop-sports-travel-ac9daafe2ea5d5bc",
@@ -7773,7 +7305,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.090Z"
+    "observedAt": "2026-09-04T21:24:42.969Z"
   },
   {
     "id": "torobshop-sports-travel-db81d40bcc397e16",
@@ -7791,7 +7323,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.090Z"
+    "observedAt": "2026-09-04T21:24:42.969Z"
   },
   {
     "id": "torobshop-sports-travel-08320ee86e550b3d",
@@ -7809,7 +7341,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.090Z"
+    "observedAt": "2026-09-04T21:24:42.969Z"
   },
   {
     "id": "torobshop-sports-travel-3e4d9495e052b1b8",
@@ -7827,7 +7359,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.090Z"
+    "observedAt": "2026-09-04T21:24:42.969Z"
   },
   {
     "id": "torobshop-sports-travel-a5fddfc8c0c99048",
@@ -7845,7 +7377,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.090Z"
+    "observedAt": "2026-09-04T21:24:42.969Z"
   },
   {
     "id": "torobshop-sports-travel-301beb96f2df717f",
@@ -7863,7 +7395,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.090Z"
+    "observedAt": "2026-09-04T21:24:42.969Z"
   },
   {
     "id": "torobshop-sports-travel-1059c1f184e3d8b3",
@@ -7881,7 +7413,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.090Z"
+    "observedAt": "2026-09-04T21:24:42.969Z"
   },
   {
     "id": "torobshop-sports-travel-834858ae4530d775",
@@ -7899,7 +7431,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.090Z"
+    "observedAt": "2026-09-04T21:24:42.969Z"
   },
   {
     "id": "torobshop-sports-travel-2798976de6f0cc81",
@@ -7917,7 +7449,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.090Z"
+    "observedAt": "2026-09-04T21:24:42.969Z"
   },
   {
     "id": "torobshop-sports-travel-68a4dab928f7c962",
@@ -7935,7 +7467,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.090Z"
+    "observedAt": "2026-09-04T21:24:42.969Z"
   },
   {
     "id": "torobshop-sports-travel-d5b957f7df4ff03f",
@@ -7953,7 +7485,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.090Z"
+    "observedAt": "2026-09-04T21:24:42.969Z"
   },
   {
     "id": "torobshop-sports-travel-707702931ea634d8",
@@ -7971,7 +7503,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.090Z"
+    "observedAt": "2026-09-04T21:24:42.969Z"
   },
   {
     "id": "torobshop-sports-travel-d8e34bb113f4f352",
@@ -7989,7 +7521,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.090Z"
+    "observedAt": "2026-09-04T21:24:42.969Z"
   },
   {
     "id": "torobshop-sports-travel-2a3268e48e6a43b8",
@@ -8007,7 +7539,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.090Z"
+    "observedAt": "2026-09-04T21:24:42.969Z"
   },
   {
     "id": "torobshop-sports-travel-28255666c26f658a",
@@ -8025,7 +7557,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.090Z"
+    "observedAt": "2026-09-04T21:24:42.969Z"
   },
   {
     "id": "torobshop-sports-travel-9a0fccac9db69875",
@@ -8043,7 +7575,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.090Z"
+    "observedAt": "2026-09-04T21:24:42.969Z"
   },
   {
     "id": "torobshop-sports-travel-93e51ab5d27d6671",
@@ -8061,7 +7593,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D8%AA%D8%A7%D9%86%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:23:40.090Z"
+    "observedAt": "2026-09-04T21:24:42.969Z"
   },
   {
     "id": "torobshop-sports-travel-47921a2f319c2f47",
@@ -8071,15 +7603,15 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "model": "فلزیاب بونتی هانتر Bounty Hunter Discovery 3300 با نمایش 11 نوع هدف",
     "category": "sports-travel",
     "subcategory": "کوهنوردی و کمپینگ",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
+    "price": 104181000,
+    "currency": "IRT",
+    "availability": "in_stock",
     "productUrl": "https://torobshop.com/products/%D9%81%D9%84%D8%B2%DB%8C%D8%A7%D8%A8-Bounty-Hunter-Discovery-3300-%D8%A8%D8%A7-%D8%B4%D9%86%D8%A7%D8%B3%D8%A7%DB%8C%DB%8C-%D9%87%D8%AF%D9%81-11-%D9%82%D8%B7%D8%B9%D9%87-%D8%A7%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D9%88%D9%87%D9%86%D9%88%D8%B1%D8%AF%DB%8C-%D9%88-%DA%A9%D9%85%D9%BE%DB%8C%D9%86%DA%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:24:18.807Z"
+    "observedAt": "2026-09-04T21:25:17.069Z"
   },
   {
     "id": "torobshop-sports-travel-8b50476f5bf500af",
@@ -8089,15 +7621,15 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "model": "فلزیاب بونتی هانتر Bounty Hunter Discovery 3300 با شناسایی 11 نوع هدف و 8 باتری 9 ولت",
     "category": "sports-travel",
     "subcategory": "کوهنوردی و کمپینگ",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
+    "price": 107484000,
+    "currency": "IRT",
+    "availability": "in_stock",
     "productUrl": "https://torobshop.com/products/%D9%81%D9%84%D8%B2%DB%8C%D8%A7%D8%A8-Bounty-Hunter-Discovery-3300-%D8%A8%D8%A7-%D8%B4%D9%86%D8%A7%D8%B3%D8%A7%DB%8C%DB%8C-%D9%87%D8%AF%D9%81-11-%D9%82%D8%B3%D9%85%D8%AA%DB%8C-%D9%88-%D8%A8%D8%A7%D8%AA%D8%B1%DB%8C-%D9%87%D8%A7%DB%8C-%D8%A2%D9%84%DA%A9%D8%A7%D9%84%D8%A7%DB%8C%D9%86-%D8%B1%D9%88%D8%B2%D9%85%D8%B1%D9%87-Amazon-Basics-9-%D9%88%D9%84%D8%AA-%D8%A8%D8%B3%D8%AA%D9%87-8-%D8%B9%D8%AF%D8%AF%DB%8C-%D8%B8%D8%A7%D9%87%D8%B1-%D9%85%D9%85%DA%A9%D9%86-%D8%A7%D8%B3%D8%AA-%D9%85%D8%AA%D9%81%D8%A7%D9%88%D8%AA-%D8%A8%D8%A7%D8%B4%D8%AF",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D9%88%D9%87%D9%86%D9%88%D8%B1%D8%AF%DB%8C-%D9%88-%DA%A9%D9%85%D9%BE%DB%8C%D9%86%DA%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:24:18.807Z"
+    "observedAt": "2026-09-04T21:25:17.069Z"
   },
   {
     "id": "torobshop-sports-travel-88cc920398627be4",
@@ -8107,15 +7639,15 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "model": "فلزیاب بونتی هانتر Bounty Hunter Land Ranger Pro مدل 3410011 با شناسایی 9 نوع هدف",
     "category": "sports-travel",
     "subcategory": "کوهنوردی و کمپینگ",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
+    "price": 72163000,
+    "currency": "IRT",
+    "availability": "in_stock",
     "productUrl": "https://torobshop.com/products/%D9%81%D9%84%D8%B2%DB%8C%D8%A7%D8%A8-Meade-Bounty-Hunter-3410011-Hunter-Land-Ranger-Pro-%D8%A8%D8%A7-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%B4%D9%86%D8%A7%D8%B3%D8%A7%DB%8C%DB%8C-%D9%87%D8%AF%D9%81-9-%D9%82%D8%B3%D9%85%D8%AA%DB%8C-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D9%88%D9%87%D9%86%D9%88%D8%B1%D8%AF%DB%8C-%D9%88-%DA%A9%D9%85%D9%BE%DB%8C%D9%86%DA%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:24:18.807Z"
+    "observedAt": "2026-09-04T21:25:17.069Z"
   },
   {
     "id": "torobshop-sports-travel-d009cbcd542c0a88",
@@ -8125,15 +7657,15 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "model": "فلزیاب بونتی هانتر Bounty Hunter Discovery 1100 با شناسایی 3 نوع هدف",
     "category": "sports-travel",
     "subcategory": "کوهنوردی و کمپینگ",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
+    "price": 100115000,
+    "currency": "IRT",
+    "availability": "in_stock",
     "productUrl": "https://torobshop.com/products/%D9%81%D9%84%D8%B2%DB%8C%D8%A7%D8%A8-Bounty-Hunter-Discovery-1100-%D8%A8%D8%A7-%D8%B4%D9%86%D8%A7%D8%B3%D8%A7%DB%8C%DB%8C-%D9%87%D8%AF%D9%81-%D8%B3%D9%87-%D9%82%D8%B3%D9%85%D8%AA%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D9%88%D9%87%D9%86%D9%88%D8%B1%D8%AF%DB%8C-%D9%88-%DA%A9%D9%85%D9%BE%DB%8C%D9%86%DA%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:24:18.807Z"
+    "observedAt": "2026-09-04T21:25:17.069Z"
   },
   {
     "id": "torobshop-sports-travel-884bb302c97bfccc",
@@ -8143,15 +7675,15 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "model": "فلزیاب بونتی هانتر Bounty Hunter Quick Silver QSI-PL با نمایشگر LCD",
     "category": "sports-travel",
     "subcategory": "کوهنوردی و کمپینگ",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
+    "price": 66000000,
+    "currency": "IRT",
+    "availability": "in_stock",
     "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%AC%D8%B3%D8%AA%D8%AC%D9%88%DB%8C-%D9%81%D9%84%D8%B2%DB%8C%D8%A7%D8%A8-Bounty-QSI-PL-Hunter-Quick-Silver-%D8%A8%D8%A7-%D9%86%D9%85%D8%A7%DB%8C%D8%B4%DA%AF%D8%B1-LCD-%D8%B4%D9%86%D8%A7%D8%B3%D8%A7%DB%8C%DB%8C-%D9%87%D8%AF%D9%81-%DB%B4-%D9%82%D8%B3%D9%85%D8%AA%DB%8C-%D8%B3%DB%8C%DA%AF%D9%86%D8%A7%D9%84-%D8%B5%D9%88%D8%AA%DB%8C-%DB%B3-%D8%AA-%D9%86%DB%8C-%D8%A8%D8%A7%D9%84%D8%A7%D9%86%D8%B3-%D8%AE%D9%88%D8%AF%DA%A9%D8%A7%D8%B1-%D8%B2%D9%85%DB%8C%D9%86-%D9%88-%DA%A9%D9%88%DB%8C%D9%84-%D8%AC%D8%B3%D8%AA%D8%AC%D9%88%DB%8C-%D8%B6%D8%AF-%D8%A2%D8%A8",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D9%88%D9%87%D9%86%D9%88%D8%B1%D8%AF%DB%8C-%D9%88-%DA%A9%D9%85%D9%BE%DB%8C%D9%86%DA%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:24:18.807Z"
+    "observedAt": "2026-09-04T21:25:17.069Z"
   },
   {
     "id": "torobshop-sports-travel-d12cbed32ce8a57a",
@@ -8161,15 +7693,15 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "model": "فلزیاب بونتی هانتر Bounty Hunter Tracker IV مدل 3410001 با تشخیص فلز تا عمق 17 سانت",
     "category": "sports-travel",
     "subcategory": "کوهنوردی و کمپینگ",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
+    "price": 76230000,
+    "currency": "IRT",
+    "availability": "in_stock",
     "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%81%D9%84%D8%B2%DB%8C%D8%A7%D8%A8-Bounty-Hunter-3410001-Tracker-IV-%D8%A8%D8%A7-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D9%81%DB%8C%D9%84%D8%AA%D8%B1-%D9%81%D9%84%D8%B2-%D8%AA%D9%81%DA%A9%DB%8C%DA%A9-%D9%81%D9%84%D8%B2%D8%A7%D8%AA-%D8%AD%D8%A7%D9%84%D8%AA-%D8%AA%D9%85%D8%A7%D9%85-%D9%81%D9%84%D8%B2-%D9%88-%D8%AD%D8%A7%D9%84%D8%AA-%D8%AF%D9%88-%D8%B1%D9%86%DA%AF-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B4%DB%8C%D8%A7%D8%A1-%D8%A8%D9%87-%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%D9%87-%D8%B3%DA%A9%D9%87-%D8%AF%D8%B1-%D8%B9%D9%85%D9%82-%D8%AD%D8%AF%D8%A7%DA%A9%D8%AB%D8%B1-%DB%B1%DB%B7-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D9%88%D9%87%D9%86%D9%88%D8%B1%D8%AF%DB%8C-%D9%88-%DA%A9%D9%85%D9%BE%DB%8C%D9%86%DA%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:24:18.807Z"
+    "observedAt": "2026-09-04T21:25:17.069Z"
   },
   {
     "id": "torobshop-sports-travel-4e67490d705c86be",
@@ -8179,15 +7711,15 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "model": "فلزیاب بونتی هانتر Bounty Hunter Discovery 2200 با شناسایی 9 نوع هدف",
     "category": "sports-travel",
     "subcategory": "کوهنوردی و کمپینگ",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
+    "price": 72163000,
+    "currency": "IRT",
+    "availability": "in_stock",
     "productUrl": "https://torobshop.com/products/%D9%81%D9%84%D8%B2%DB%8C%D8%A7%D8%A8-Bounty-Hunter-Discovery-2200-%D8%A8%D8%A7-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%B4%D9%86%D8%A7%D8%B3%D8%A7%DB%8C%DB%8C-%D9%87%D8%AF%D9%81-9-%D9%82%D8%B3%D9%85%D8%AA%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D8%B4%D8%AE%DB%8C%D8%B5-%D9%81%D9%84%D8%B2%D8%A7%D8%AA-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D9%85%D8%A7%D9%86%D9%86%D8%AF-%D8%A8%D8%B1%D9%86%D8%B2-%D9%86%D9%82%D8%B1%D9%87-%D8%B7%D9%84%D8%A7-%D9%88-%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%AF%DB%8C%DA%AF%D8%B1",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D9%88%D9%87%D9%86%D9%88%D8%B1%D8%AF%DB%8C-%D9%88-%DA%A9%D9%85%D9%BE%DB%8C%D9%86%DA%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:24:18.807Z"
+    "observedAt": "2026-09-04T21:25:17.069Z"
   },
   {
     "id": "torobshop-sports-travel-841c9661ff8174ba",
@@ -8197,15 +7729,15 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "model": "فلزیاب بونتی هانتر Bounty Hunter Junior مخصوص مبتدیان با کویل ضدآب",
     "category": "sports-travel",
     "subcategory": "کوهنوردی و کمپینگ",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
+    "price": 40656000,
+    "currency": "IRT",
+    "availability": "in_stock",
     "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%AC%D8%B3%D8%AA%D8%AC%D9%88%DB%8C-%D9%81%D9%84%D8%B2%DB%8C%D8%A7%D8%A8-Bounty-Hunter-Junior-%D8%A8%D8%A7-%D8%B9%D9%85%D9%84%DA%A9%D8%B1%D8%AF-%D9%81%DB%8C%D9%84%D8%AA%D8%B1-%D9%81%D9%84%D8%B2-%D8%AD%D8%A7%D9%84%D8%AA-%D8%AA%D9%81%DA%A9%DB%8C%DA%A9-%D8%A8%D8%A7%D8%B2%D8%AE%D9%88%D8%B1%D8%AF-%D8%B9%D9%85%D9%82-%D9%87%D8%AF%D9%81-%D8%B5%D9%88%D8%AA%DB%8C-%D9%88-%DA%A9%D9%88%DB%8C%D9%84-%D8%AC%D8%B3%D8%AA%D8%AC%D9%88%DB%8C-%D9%85%D9%82%D8%A7%D9%88%D9%85-%D8%AF%D8%B1-%D8%A8%D8%B1%D8%A7%D8%A8%D8%B1-%D8%A2%D8%A8-%D9%88-%D9%87%D9%88%D8%A7-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%85%D8%A8%D8%AA%D8%AF%DB%8C%D8%A7%D9%86",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%DA%A9%D9%88%D9%87%D9%86%D9%88%D8%B1%D8%AF%DB%8C-%D9%88-%DA%A9%D9%85%D9%BE%DB%8C%D9%86%DA%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:24:18.807Z"
+    "observedAt": "2026-09-04T21:25:17.069Z"
   },
   {
     "id": "web-sports-travel-10bfecfa891d981c",
@@ -8222,7 +7754,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-04T19:07:27.977Z"
+    "observedAt": "2026-09-04T21:10:57.871Z"
   },
   {
     "id": "web-sports-travel-9356245ebe75164b",
@@ -8239,7 +7771,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-04T19:07:27.977Z"
+    "observedAt": "2026-09-04T21:10:57.871Z"
   },
   {
     "id": "web-sports-travel-1eecbd80f5ab7f03",
@@ -8256,7 +7788,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-04T19:07:27.977Z"
+    "observedAt": "2026-09-04T21:10:57.871Z"
   },
   {
     "id": "web-sports-travel-397a8b5a4aef6864",
@@ -8273,7 +7805,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-04T19:07:27.977Z"
+    "observedAt": "2026-09-04T21:10:57.871Z"
   },
   {
     "id": "web-sports-travel-63f3178e41f8ba21",
@@ -8290,7 +7822,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-04T19:07:27.977Z"
+    "observedAt": "2026-09-04T21:10:57.871Z"
   },
   {
     "id": "web-sports-travel-6aa138a88eb5fc41",
@@ -8307,7 +7839,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-04T19:07:27.977Z"
+    "observedAt": "2026-09-04T21:10:57.871Z"
   },
   {
     "id": "web-sports-travel-9c76b834c281bd5b",
@@ -8324,7 +7856,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-04T19:07:27.977Z"
+    "observedAt": "2026-09-04T21:10:57.871Z"
   },
   {
     "id": "web-sports-travel-c3ca31dab42021aa",
@@ -8341,7 +7873,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-04T19:07:27.977Z"
+    "observedAt": "2026-09-04T21:10:57.871Z"
   },
   {
     "id": "web-sports-travel-9589776b61338c3b",
@@ -8358,24 +7890,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-04T19:07:27.977Z"
-  },
-  {
-    "id": "web-sports-travel-d28079a836f6bd58",
-    "productId": "web-sports-travel-d28079a836f6bd58",
-    "name": "کاور لپ تاپ مکنیل مدل mc-218 مناسب برای لپ تاپ‌های 15.6 اینچ",
-    "brand": "دل",
-    "model": "کاور لپ تاپ مکنیل مدل mc-218 مناسب برای لپ تاپ‌های 15.6 اینچ",
-    "category": "sports-travel",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-563093/%DA%A9%D8%A7%D9%88%D8%B1-%D9%84%D9%BE-%D8%AA%D8%A7%D9%BE-%D9%85%DA%A9%D9%86%DB%8C%D9%84-%D9%85%D8%AF%D9%84-mc-218-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%84%D9%BE-%D8%AA%D8%A7%D9%BE%E2%80%8C%D9%87%D8%A7%DB%8C-15.6-%D8%A7%DB%8C%D9%86%DA%86",
-    "image": "",
-    "sourceId": "technolife-sports-travel",
-    "sourceUrl": "https://www.technolife.com/category/sports-travel",
-    "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-04T19:07:27.977Z"
+    "observedAt": "2026-09-04T21:10:57.871Z"
   },
   {
     "id": "web-sports-travel-57ebcd92145529f5",
@@ -8392,7 +7907,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-04T19:07:27.977Z"
+    "observedAt": "2026-09-04T21:10:57.871Z"
   },
   {
     "id": "web-sports-travel-010313e724e3e997",
@@ -8409,7 +7924,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-04T19:07:27.977Z"
+    "observedAt": "2026-09-04T21:10:57.871Z"
   },
   {
     "id": "web-sports-travel-570b1bf6369d6887",
@@ -8426,7 +7941,24 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-04T19:07:27.977Z"
+    "observedAt": "2026-09-04T21:10:57.871Z"
+  },
+  {
+    "id": "web-sports-travel-d28079a836f6bd58",
+    "productId": "web-sports-travel-d28079a836f6bd58",
+    "name": "کاور لپ تاپ مکنیل مدل mc-218 مناسب برای لپ تاپ‌های 15.6 اینچ",
+    "brand": "دل",
+    "model": "کاور لپ تاپ مکنیل مدل mc-218 مناسب برای لپ تاپ‌های 15.6 اینچ",
+    "category": "sports-travel",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-563093/%DA%A9%D8%A7%D9%88%D8%B1-%D9%84%D9%BE-%D8%AA%D8%A7%D9%BE-%D9%85%DA%A9%D9%86%DB%8C%D9%84-%D9%85%D8%AF%D9%84-mc-218-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%84%D9%BE-%D8%AA%D8%A7%D9%BE%E2%80%8C%D9%87%D8%A7%DB%8C-15.6-%D8%A7%DB%8C%D9%86%DA%86",
+    "image": "",
+    "sourceId": "technolife-sports-travel",
+    "sourceUrl": "https://www.technolife.com/category/sports-travel",
+    "source": "web-catalog:technolife-sports-travel",
+    "observedAt": "2026-09-04T21:10:57.872Z"
   },
   {
     "id": "web-sports-travel-76cfec8539f3a918",
@@ -8443,7 +7975,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-04T19:07:27.977Z"
+    "observedAt": "2026-09-04T21:10:57.872Z"
   },
   {
     "id": "web-sports-travel-5958f36dec07d9ce",
@@ -8460,7 +7992,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-04T19:07:27.977Z"
+    "observedAt": "2026-09-04T21:10:57.872Z"
   },
   {
     "id": "web-sports-travel-b82b70bb75d57dd9",
@@ -8477,7 +8009,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-04T19:07:27.977Z"
+    "observedAt": "2026-09-04T21:10:57.872Z"
   },
   {
     "id": "web-sports-travel-49bf25b41e3cebb1",
@@ -8494,7 +8026,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-04T19:07:27.977Z"
+    "observedAt": "2026-09-04T21:10:57.872Z"
   },
   {
     "id": "web-sports-travel-10684287a122dcf4",
@@ -8511,7 +8043,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-04T19:07:27.977Z"
+    "observedAt": "2026-09-04T21:10:57.872Z"
   },
   {
     "id": "web-sports-travel-8eae6e5ec2ce35b7",
@@ -8528,7 +8060,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-04T19:07:27.977Z"
+    "observedAt": "2026-09-04T21:10:57.872Z"
   },
   {
     "id": "web-sports-travel-acd99e131c0f1b85",
@@ -8545,7 +8077,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-04T19:07:27.977Z"
+    "observedAt": "2026-09-04T21:10:57.872Z"
   },
   {
     "id": "web-sports-travel-bc70dfc9a7cb0d54",
@@ -8562,7 +8094,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-04T19:07:27.977Z"
+    "observedAt": "2026-09-04T21:10:57.872Z"
   },
   {
     "id": "web-sports-travel-9bc9e6144cc223c9",
@@ -8579,7 +8111,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-04T19:07:27.978Z"
+    "observedAt": "2026-09-04T21:10:57.872Z"
   },
   {
     "id": "web-sports-travel-de0beeb5b822eacf",
@@ -8596,7 +8128,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-04T19:07:27.978Z"
+    "observedAt": "2026-09-04T21:10:57.872Z"
   },
   {
     "id": "web-sports-travel-6815bc94f6ed99d8",
@@ -8613,7 +8145,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-04T19:07:27.978Z"
+    "observedAt": "2026-09-04T21:10:57.872Z"
   },
   {
     "id": "web-sports-travel-cd66fc09da2a7672",
@@ -8630,7 +8162,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-04T19:07:27.978Z"
+    "observedAt": "2026-09-04T21:10:57.872Z"
   },
   {
     "id": "web-sports-travel-8307536693bb0fb9",
@@ -8647,7 +8179,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-04T19:07:27.978Z"
+    "observedAt": "2026-09-04T21:10:57.872Z"
   },
   {
     "id": "web-sports-travel-a61a128a84592156",
@@ -8664,24 +8196,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-04T19:07:27.978Z"
-  },
-  {
-    "id": "web-sports-travel-063a32eada370900",
-    "productId": "web-sports-travel-063a32eada370900",
-    "name": "کاور لپ تاپ 15.6 اینچی مکنیل مدل mc-215",
-    "brand": "دل",
-    "model": "کاور لپ تاپ 15.6 اینچی مکنیل مدل mc-215",
-    "category": "sports-travel",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-259410/%DA%A9%D8%A7%D9%88%D8%B1-%D9%84%D9%BE-%D8%AA%D8%A7%D9%BE-15.6-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D9%85%DA%A9%D9%86%DB%8C%D9%84-%D9%85%D8%AF%D9%84-mc-215",
-    "image": "",
-    "sourceId": "technolife-sports-travel",
-    "sourceUrl": "https://www.technolife.com/category/sports-travel",
-    "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-04T19:07:27.978Z"
+    "observedAt": "2026-09-04T21:10:57.872Z"
   },
   {
     "id": "web-sports-travel-85c06676ecfb1f5a",
@@ -8698,7 +8213,7 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-04T19:07:27.978Z"
+    "observedAt": "2026-09-04T21:10:57.873Z"
   },
   {
     "id": "web-sports-travel-30bd5cb9cd523a7c",
@@ -8715,7 +8230,24 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-04T19:07:27.978Z"
+    "observedAt": "2026-09-04T21:10:57.873Z"
+  },
+  {
+    "id": "web-sports-travel-1d218f1fba001a62",
+    "productId": "web-sports-travel-1d218f1fba001a62",
+    "name": "چمدان سینسنت کارینا مدل C40344-S سایز کوچک",
+    "brand": "دل",
+    "model": "چمدان سینسنت کارینا مدل C40344-S سایز کوچک",
+    "category": "sports-travel",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-161933/%DA%86%D9%85%D8%AF%D8%A7%D9%86-%D8%B3%DB%8C%D9%86%D8%B3%D9%86%D8%AA-%DA%A9%D8%A7%D8%B1%DB%8C%D9%86%D8%A7-%D9%85%D8%AF%D9%84-c40344-s-%D8%B3%D8%A7%DB%8C%D8%B2-%DA%A9%D9%88%DA%86%DA%A9",
+    "image": "",
+    "sourceId": "technolife-sports-travel",
+    "sourceUrl": "https://www.technolife.com/category/sports-travel",
+    "source": "web-catalog:technolife-sports-travel",
+    "observedAt": "2026-09-04T21:10:57.873Z"
   },
   {
     "id": "web-sports-travel-b3dfedd3b869243b",
@@ -8732,6 +8264,6 @@ export const SPORTS_TRAVEL_PRODUCTS = [
     "sourceId": "technolife-sports-travel",
     "sourceUrl": "https://www.technolife.com/category/sports-travel",
     "source": "web-catalog:technolife-sports-travel",
-    "observedAt": "2026-09-04T19:07:27.978Z"
+    "observedAt": "2026-09-04T21:10:57.874Z"
   }
 ];

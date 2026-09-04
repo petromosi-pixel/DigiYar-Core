@@ -15,7 +15,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.268Z"
+    "observedAt": "2026-09-04T21:21:58.033Z"
   },
   {
     "id": "torobshop-beauty-health-b2b0cb5a6841cfc8",
@@ -33,7 +33,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.268Z"
+    "observedAt": "2026-09-04T21:21:58.033Z"
   },
   {
     "id": "torobshop-beauty-health-03bc3723d9ba5037",
@@ -51,7 +51,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.268Z"
+    "observedAt": "2026-09-04T21:21:58.033Z"
   },
   {
     "id": "torobshop-beauty-health-efe1d2b85ecdcf5f",
@@ -69,7 +69,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.268Z"
+    "observedAt": "2026-09-04T21:21:58.033Z"
   },
   {
     "id": "torobshop-beauty-health-b2d477d1f8b2d17a",
@@ -87,7 +87,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.268Z"
+    "observedAt": "2026-09-04T21:21:58.033Z"
   },
   {
     "id": "torobshop-beauty-health-133adbe193817424",
@@ -105,7 +105,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.268Z"
+    "observedAt": "2026-09-04T21:21:58.033Z"
   },
   {
     "id": "torobshop-beauty-health-845aaf79bfb6033b",
@@ -123,7 +123,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.268Z"
+    "observedAt": "2026-09-04T21:21:58.033Z"
   },
   {
     "id": "torobshop-beauty-health-e0f2eb00f41813eb",
@@ -141,7 +141,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.268Z"
+    "observedAt": "2026-09-04T21:21:58.033Z"
   },
   {
     "id": "torobshop-beauty-health-44d54ea4153b8c63",
@@ -159,7 +159,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.268Z"
+    "observedAt": "2026-09-04T21:21:58.033Z"
   },
   {
     "id": "torobshop-beauty-health-05e4bf5fefe6e271",
@@ -177,7 +177,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.268Z"
+    "observedAt": "2026-09-04T21:21:58.033Z"
   },
   {
     "id": "torobshop-beauty-health-019e4478325bc630",
@@ -195,7 +195,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.268Z"
+    "observedAt": "2026-09-04T21:21:58.033Z"
   },
   {
     "id": "torobshop-beauty-health-bf28849cb758ff83",
@@ -213,7 +213,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.268Z"
+    "observedAt": "2026-09-04T21:21:58.033Z"
   },
   {
     "id": "torobshop-beauty-health-46e6c3b3330f97dd",
@@ -231,7 +231,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.268Z"
+    "observedAt": "2026-09-04T21:21:58.033Z"
   },
   {
     "id": "torobshop-beauty-health-0977de003b8827e4",
@@ -249,7 +249,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.268Z"
+    "observedAt": "2026-09-04T21:21:58.033Z"
   },
   {
     "id": "torobshop-beauty-health-bc10c61a9d9f5f67",
@@ -267,7 +267,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.268Z"
+    "observedAt": "2026-09-04T21:21:58.033Z"
   },
   {
     "id": "torobshop-beauty-health-5948e27948758e30",
@@ -285,7 +285,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.268Z"
+    "observedAt": "2026-09-04T21:21:58.033Z"
   },
   {
     "id": "torobshop-beauty-health-4991c2447221cee1",
@@ -303,7 +303,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.268Z"
+    "observedAt": "2026-09-04T21:21:58.033Z"
   },
   {
     "id": "torobshop-beauty-health-fe4894160ac74983",
@@ -321,7 +321,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.268Z"
+    "observedAt": "2026-09-04T21:21:58.033Z"
   },
   {
     "id": "torobshop-beauty-health-77106757f35a7d67",
@@ -339,7 +339,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.268Z"
+    "observedAt": "2026-09-04T21:21:58.033Z"
   },
   {
     "id": "torobshop-beauty-health-0c56c98a706255f1",
@@ -357,7 +357,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.268Z"
+    "observedAt": "2026-09-04T21:21:58.033Z"
   },
   {
     "id": "torobshop-beauty-health-13e3227bc3db203d",
@@ -375,7 +375,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.268Z"
+    "observedAt": "2026-09-04T21:21:58.033Z"
   },
   {
     "id": "torobshop-beauty-health-dda67739c03ff6ce",
@@ -393,7 +393,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.268Z"
+    "observedAt": "2026-09-04T21:21:58.033Z"
   },
   {
     "id": "torobshop-beauty-health-8ca7ee49edf8914f",
@@ -411,7 +411,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.268Z"
+    "observedAt": "2026-09-04T21:21:58.033Z"
   },
   {
     "id": "torobshop-beauty-health-768d04b39eed3ba9",
@@ -429,7 +429,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.268Z"
+    "observedAt": "2026-09-04T21:21:58.034Z"
   },
   {
     "id": "torobshop-beauty-health-895271fd490ad6f2",
@@ -447,7 +447,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.268Z"
+    "observedAt": "2026-09-04T21:21:58.034Z"
   },
   {
     "id": "torobshop-beauty-health-bb7e0193ad442c6e",
@@ -465,7 +465,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.268Z"
+    "observedAt": "2026-09-04T21:21:58.034Z"
   },
   {
     "id": "torobshop-beauty-health-4b1ac6336cd54aeb",
@@ -483,7 +483,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.268Z"
+    "observedAt": "2026-09-04T21:21:58.034Z"
   },
   {
     "id": "torobshop-beauty-health-b440db2133bddd92",
@@ -501,7 +501,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.268Z"
+    "observedAt": "2026-09-04T21:21:58.034Z"
   },
   {
     "id": "torobshop-beauty-health-19a43d777d3c6803",
@@ -519,7 +519,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.268Z"
+    "observedAt": "2026-09-04T21:21:58.034Z"
   },
   {
     "id": "torobshop-beauty-health-a0f1fd7a81c1dc91",
@@ -537,7 +537,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.268Z"
+    "observedAt": "2026-09-04T21:21:58.034Z"
   },
   {
     "id": "torobshop-beauty-health-09be08f9579596b6",
@@ -555,7 +555,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.268Z"
+    "observedAt": "2026-09-04T21:21:58.034Z"
   },
   {
     "id": "torobshop-beauty-health-e95e286ff23b0f26",
@@ -573,7 +573,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.268Z"
+    "observedAt": "2026-09-04T21:21:58.034Z"
   },
   {
     "id": "torobshop-beauty-health-ba15f4992d749829",
@@ -591,7 +591,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.268Z"
+    "observedAt": "2026-09-04T21:21:58.034Z"
   },
   {
     "id": "torobshop-beauty-health-024dbeadc6742ab1",
@@ -609,7 +609,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.268Z"
+    "observedAt": "2026-09-04T21:21:58.034Z"
   },
   {
     "id": "torobshop-beauty-health-91354cd8e8be6700",
@@ -627,7 +627,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.268Z"
+    "observedAt": "2026-09-04T21:21:58.034Z"
   },
   {
     "id": "torobshop-beauty-health-8eefe77fcf2e9649",
@@ -645,7 +645,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.268Z"
+    "observedAt": "2026-09-04T21:21:58.034Z"
   },
   {
     "id": "torobshop-beauty-health-da09faf6175fc645",
@@ -663,7 +663,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.268Z"
+    "observedAt": "2026-09-04T21:21:58.034Z"
   },
   {
     "id": "torobshop-beauty-health-4aabb35c471749c5",
@@ -681,7 +681,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.268Z"
+    "observedAt": "2026-09-04T21:21:58.034Z"
   },
   {
     "id": "torobshop-beauty-health-59464b162f8fa507",
@@ -699,7 +699,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.268Z"
+    "observedAt": "2026-09-04T21:21:58.034Z"
   },
   {
     "id": "torobshop-beauty-health-54467b1f758ef946",
@@ -717,7 +717,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.268Z"
+    "observedAt": "2026-09-04T21:21:58.034Z"
   },
   {
     "id": "torobshop-beauty-health-b235d34d0e8e588d",
@@ -735,7 +735,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.268Z"
+    "observedAt": "2026-09-04T21:21:58.034Z"
   },
   {
     "id": "torobshop-beauty-health-0f49e5fac39f7f64",
@@ -753,7 +753,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.268Z"
+    "observedAt": "2026-09-04T21:21:58.034Z"
   },
   {
     "id": "torobshop-beauty-health-57de9b256548500d",
@@ -771,7 +771,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.268Z"
+    "observedAt": "2026-09-04T21:21:58.034Z"
   },
   {
     "id": "torobshop-beauty-health-9a336fe814b56fe2",
@@ -789,7 +789,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.268Z"
+    "observedAt": "2026-09-04T21:21:58.034Z"
   },
   {
     "id": "torobshop-beauty-health-50d65583308aeb8a",
@@ -807,7 +807,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.268Z"
+    "observedAt": "2026-09-04T21:21:58.034Z"
   },
   {
     "id": "torobshop-beauty-health-9fefcfd1e03827e5",
@@ -825,7 +825,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.268Z"
+    "observedAt": "2026-09-04T21:21:58.034Z"
   },
   {
     "id": "torobshop-beauty-health-96c2716c215c2d06",
@@ -843,7 +843,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.268Z"
+    "observedAt": "2026-09-04T21:21:58.034Z"
   },
   {
     "id": "torobshop-beauty-health-7c66b61311ed6130",
@@ -861,7 +861,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.268Z"
+    "observedAt": "2026-09-04T21:21:58.034Z"
   },
   {
     "id": "torobshop-beauty-health-8e0a99163cf8b0c8",
@@ -879,7 +879,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.268Z"
+    "observedAt": "2026-09-04T21:21:58.034Z"
   },
   {
     "id": "torobshop-beauty-health-ee51b9ea93f36fed",
@@ -897,7 +897,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.268Z"
+    "observedAt": "2026-09-04T21:21:58.034Z"
   },
   {
     "id": "torobshop-beauty-health-1117a6faf359dd16",
@@ -915,7 +915,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.269Z"
+    "observedAt": "2026-09-04T21:21:58.034Z"
   },
   {
     "id": "torobshop-beauty-health-d2f024dc31377cf8",
@@ -933,7 +933,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.269Z"
+    "observedAt": "2026-09-04T21:21:58.034Z"
   },
   {
     "id": "torobshop-beauty-health-9000647bdaec6019",
@@ -951,7 +951,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.269Z"
+    "observedAt": "2026-09-04T21:21:58.034Z"
   },
   {
     "id": "torobshop-beauty-health-43a37a34a5c85d45",
@@ -969,7 +969,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.269Z"
+    "observedAt": "2026-09-04T21:21:58.034Z"
   },
   {
     "id": "torobshop-beauty-health-9000c161d5970ecc",
@@ -987,7 +987,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.269Z"
+    "observedAt": "2026-09-04T21:21:58.034Z"
   },
   {
     "id": "torobshop-beauty-health-9846f52a8c829961",
@@ -1005,7 +1005,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.269Z"
+    "observedAt": "2026-09-04T21:21:58.034Z"
   },
   {
     "id": "torobshop-beauty-health-061e56e89bcdc753",
@@ -1023,7 +1023,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.269Z"
+    "observedAt": "2026-09-04T21:21:58.034Z"
   },
   {
     "id": "torobshop-beauty-health-5a8b20042ae3599e",
@@ -1041,7 +1041,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.269Z"
+    "observedAt": "2026-09-04T21:21:58.034Z"
   },
   {
     "id": "torobshop-beauty-health-9d6b453c67370b27",
@@ -1059,7 +1059,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.269Z"
+    "observedAt": "2026-09-04T21:21:58.034Z"
   },
   {
     "id": "torobshop-beauty-health-1375b4a2abb6e455",
@@ -1077,7 +1077,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.269Z"
+    "observedAt": "2026-09-04T21:21:58.034Z"
   },
   {
     "id": "torobshop-beauty-health-add6b7ced2b56c85",
@@ -1095,7 +1095,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.269Z"
+    "observedAt": "2026-09-04T21:21:58.034Z"
   },
   {
     "id": "torobshop-beauty-health-46c91a15b7872709",
@@ -1113,7 +1113,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.269Z"
+    "observedAt": "2026-09-04T21:21:58.034Z"
   },
   {
     "id": "torobshop-beauty-health-7647bd99d8cdb66d",
@@ -1131,7 +1131,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.269Z"
+    "observedAt": "2026-09-04T21:21:58.034Z"
   },
   {
     "id": "torobshop-beauty-health-e5c41af4e75e9080",
@@ -1149,7 +1149,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.269Z"
+    "observedAt": "2026-09-04T21:21:58.034Z"
   },
   {
     "id": "torobshop-beauty-health-690e8d3561f31070",
@@ -1167,7 +1167,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.269Z"
+    "observedAt": "2026-09-04T21:21:58.034Z"
   },
   {
     "id": "torobshop-beauty-health-b29341d3bd96dba1",
@@ -1185,7 +1185,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.269Z"
+    "observedAt": "2026-09-04T21:21:58.034Z"
   },
   {
     "id": "torobshop-beauty-health-40b89f4d761a7df7",
@@ -1203,7 +1203,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.269Z"
+    "observedAt": "2026-09-04T21:21:58.034Z"
   },
   {
     "id": "torobshop-beauty-health-31790fec0f2fa129",
@@ -1221,7 +1221,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.269Z"
+    "observedAt": "2026-09-04T21:21:58.034Z"
   },
   {
     "id": "torobshop-beauty-health-d9850232f2050c3b",
@@ -1239,7 +1239,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.269Z"
+    "observedAt": "2026-09-04T21:21:58.034Z"
   },
   {
     "id": "torobshop-beauty-health-09a6063663b98cb3",
@@ -1257,7 +1257,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.269Z"
+    "observedAt": "2026-09-04T21:21:58.034Z"
   },
   {
     "id": "torobshop-beauty-health-ca1b9a5a524988ec",
@@ -1275,7 +1275,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.269Z"
+    "observedAt": "2026-09-04T21:21:58.034Z"
   },
   {
     "id": "torobshop-beauty-health-318585aeac11e62b",
@@ -1293,7 +1293,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.269Z"
+    "observedAt": "2026-09-04T21:21:58.034Z"
   },
   {
     "id": "torobshop-beauty-health-a52bc459294c08b4",
@@ -1311,7 +1311,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.269Z"
+    "observedAt": "2026-09-04T21:21:58.034Z"
   },
   {
     "id": "torobshop-beauty-health-cf1259d0a8a7d9a6",
@@ -1329,7 +1329,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.269Z"
+    "observedAt": "2026-09-04T21:21:58.034Z"
   },
   {
     "id": "torobshop-beauty-health-0d677146544ac563",
@@ -1347,7 +1347,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.269Z"
+    "observedAt": "2026-09-04T21:21:58.034Z"
   },
   {
     "id": "torobshop-beauty-health-a07a12c1ee3ad8cd",
@@ -1365,7 +1365,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.269Z"
+    "observedAt": "2026-09-04T21:21:58.034Z"
   },
   {
     "id": "torobshop-beauty-health-f9cbe2f2981986f2",
@@ -1383,7 +1383,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.269Z"
+    "observedAt": "2026-09-04T21:21:58.034Z"
   },
   {
     "id": "torobshop-beauty-health-bbe8b2299a751edb",
@@ -1401,7 +1401,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.269Z"
+    "observedAt": "2026-09-04T21:21:58.034Z"
   },
   {
     "id": "torobshop-beauty-health-a7bea675575877f2",
@@ -1419,7 +1419,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.269Z"
+    "observedAt": "2026-09-04T21:21:58.034Z"
   },
   {
     "id": "torobshop-beauty-health-8944701d2a0623bb",
@@ -1437,7 +1437,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.269Z"
+    "observedAt": "2026-09-04T21:21:58.035Z"
   },
   {
     "id": "torobshop-beauty-health-f89364d5b6012116",
@@ -1455,7 +1455,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.269Z"
+    "observedAt": "2026-09-04T21:21:58.035Z"
   },
   {
     "id": "torobshop-beauty-health-93b5f464985694eb",
@@ -1473,7 +1473,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.269Z"
+    "observedAt": "2026-09-04T21:21:58.035Z"
   },
   {
     "id": "torobshop-beauty-health-0950c6bc45f3bc75",
@@ -1491,7 +1491,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.269Z"
+    "observedAt": "2026-09-04T21:21:58.035Z"
   },
   {
     "id": "torobshop-beauty-health-1f8ac3e490e3cb00",
@@ -1509,7 +1509,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.269Z"
+    "observedAt": "2026-09-04T21:21:58.035Z"
   },
   {
     "id": "torobshop-beauty-health-82f2b178fb061eea",
@@ -1527,7 +1527,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.269Z"
+    "observedAt": "2026-09-04T21:21:58.035Z"
   },
   {
     "id": "torobshop-beauty-health-68cde3d9dcf0d4c3",
@@ -1545,7 +1545,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.269Z"
+    "observedAt": "2026-09-04T21:21:58.035Z"
   },
   {
     "id": "torobshop-beauty-health-10faf73503b636f5",
@@ -1563,7 +1563,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.269Z"
+    "observedAt": "2026-09-04T21:21:58.035Z"
   },
   {
     "id": "torobshop-beauty-health-b6f2e8bfa3e145ae",
@@ -1581,7 +1581,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.269Z"
+    "observedAt": "2026-09-04T21:21:58.035Z"
   },
   {
     "id": "torobshop-beauty-health-3d81f381b38c3659",
@@ -1599,7 +1599,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.269Z"
+    "observedAt": "2026-09-04T21:21:58.035Z"
   },
   {
     "id": "torobshop-beauty-health-adbb255b534be395",
@@ -1617,7 +1617,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.269Z"
+    "observedAt": "2026-09-04T21:21:58.035Z"
   },
   {
     "id": "torobshop-beauty-health-2f099715719db149",
@@ -1635,7 +1635,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.269Z"
+    "observedAt": "2026-09-04T21:21:58.035Z"
   },
   {
     "id": "torobshop-beauty-health-d21c9f4599b3ffe4",
@@ -1653,7 +1653,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.269Z"
+    "observedAt": "2026-09-04T21:21:58.035Z"
   },
   {
     "id": "torobshop-beauty-health-b689b04d503b87a3",
@@ -1671,7 +1671,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.269Z"
+    "observedAt": "2026-09-04T21:21:58.035Z"
   },
   {
     "id": "torobshop-beauty-health-e5abf58e3de387d6",
@@ -1689,7 +1689,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.269Z"
+    "observedAt": "2026-09-04T21:21:58.035Z"
   },
   {
     "id": "torobshop-beauty-health-031b1a52d9881a28",
@@ -1707,7 +1707,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.269Z"
+    "observedAt": "2026-09-04T21:21:58.035Z"
   },
   {
     "id": "torobshop-beauty-health-dd16c75c2610dc55",
@@ -1725,7 +1725,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.269Z"
+    "observedAt": "2026-09-04T21:21:58.035Z"
   },
   {
     "id": "torobshop-beauty-health-2a6aad088f9193a5",
@@ -1743,7 +1743,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.269Z"
+    "observedAt": "2026-09-04T21:21:58.035Z"
   },
   {
     "id": "torobshop-beauty-health-ac8f9e0c411e5cdc",
@@ -1761,7 +1761,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.269Z"
+    "observedAt": "2026-09-04T21:21:58.035Z"
   },
   {
     "id": "torobshop-beauty-health-cb5fba1d14199004",
@@ -1779,7 +1779,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.269Z"
+    "observedAt": "2026-09-04T21:21:58.035Z"
   },
   {
     "id": "torobshop-beauty-health-9806eb22d43b4394",
@@ -1797,7 +1797,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:41.269Z"
+    "observedAt": "2026-09-04T21:21:58.035Z"
   },
   {
     "id": "torobshop-beauty-health-5c2ff8a05866be09",
@@ -1815,7 +1815,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.665Z"
+    "observedAt": "2026-09-04T21:21:59.431Z"
   },
   {
     "id": "torobshop-beauty-health-df35d9d07269cfad",
@@ -1833,7 +1833,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.665Z"
+    "observedAt": "2026-09-04T21:21:59.431Z"
   },
   {
     "id": "torobshop-beauty-health-fed5e1d0e56b468d",
@@ -1851,7 +1851,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.665Z"
+    "observedAt": "2026-09-04T21:21:59.431Z"
   },
   {
     "id": "torobshop-beauty-health-0c312d0fcd96c4a5",
@@ -1869,7 +1869,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.665Z"
+    "observedAt": "2026-09-04T21:21:59.431Z"
   },
   {
     "id": "torobshop-beauty-health-3fba0428c7e705c4",
@@ -1887,7 +1887,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.665Z"
+    "observedAt": "2026-09-04T21:21:59.431Z"
   },
   {
     "id": "torobshop-beauty-health-9ce32ed643646c13",
@@ -1905,7 +1905,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.665Z"
+    "observedAt": "2026-09-04T21:21:59.431Z"
   },
   {
     "id": "torobshop-beauty-health-fc0dbd5e9ddb70e2",
@@ -1923,7 +1923,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.665Z"
+    "observedAt": "2026-09-04T21:21:59.431Z"
   },
   {
     "id": "torobshop-beauty-health-03fcac5362c82b5a",
@@ -1941,7 +1941,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.665Z"
+    "observedAt": "2026-09-04T21:21:59.431Z"
   },
   {
     "id": "torobshop-beauty-health-0fb4357e2ec933d1",
@@ -1959,7 +1959,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.665Z"
+    "observedAt": "2026-09-04T21:21:59.431Z"
   },
   {
     "id": "torobshop-beauty-health-e972b3eeb20965e4",
@@ -1977,7 +1977,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.665Z"
+    "observedAt": "2026-09-04T21:21:59.431Z"
   },
   {
     "id": "torobshop-beauty-health-93f550bb68fcb019",
@@ -1995,7 +1995,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.665Z"
+    "observedAt": "2026-09-04T21:21:59.431Z"
   },
   {
     "id": "torobshop-beauty-health-7e3b4719544d14c2",
@@ -2013,7 +2013,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.665Z"
+    "observedAt": "2026-09-04T21:21:59.431Z"
   },
   {
     "id": "torobshop-beauty-health-2e885c2279fc6e24",
@@ -2031,7 +2031,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.665Z"
+    "observedAt": "2026-09-04T21:21:59.431Z"
   },
   {
     "id": "torobshop-beauty-health-ec6dd78c1eed1056",
@@ -2049,7 +2049,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.665Z"
+    "observedAt": "2026-09-04T21:21:59.431Z"
   },
   {
     "id": "torobshop-beauty-health-69136b0a522d27eb",
@@ -2067,7 +2067,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.665Z"
+    "observedAt": "2026-09-04T21:21:59.431Z"
   },
   {
     "id": "torobshop-beauty-health-edacc6a48389edf8",
@@ -2085,7 +2085,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.666Z"
+    "observedAt": "2026-09-04T21:21:59.431Z"
   },
   {
     "id": "torobshop-beauty-health-424f53f805ceb895",
@@ -2103,7 +2103,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.666Z"
+    "observedAt": "2026-09-04T21:21:59.431Z"
   },
   {
     "id": "torobshop-beauty-health-76c90d936f1eff0c",
@@ -2121,7 +2121,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.666Z"
+    "observedAt": "2026-09-04T21:21:59.431Z"
   },
   {
     "id": "torobshop-beauty-health-8a8b2142727a92b2",
@@ -2139,7 +2139,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.666Z"
+    "observedAt": "2026-09-04T21:21:59.431Z"
   },
   {
     "id": "torobshop-beauty-health-5c889ca1fa78ed89",
@@ -2157,7 +2157,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.666Z"
+    "observedAt": "2026-09-04T21:21:59.431Z"
   },
   {
     "id": "torobshop-beauty-health-301b965971c127ae",
@@ -2175,7 +2175,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.666Z"
+    "observedAt": "2026-09-04T21:21:59.431Z"
   },
   {
     "id": "torobshop-beauty-health-7f6bf1ecb98cb028",
@@ -2193,7 +2193,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.666Z"
+    "observedAt": "2026-09-04T21:21:59.431Z"
   },
   {
     "id": "torobshop-beauty-health-2dce1ce1d476e359",
@@ -2211,7 +2211,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.666Z"
+    "observedAt": "2026-09-04T21:21:59.431Z"
   },
   {
     "id": "torobshop-beauty-health-f411327c42ba6f88",
@@ -2229,7 +2229,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.666Z"
+    "observedAt": "2026-09-04T21:21:59.431Z"
   },
   {
     "id": "torobshop-beauty-health-a2344a2282483bef",
@@ -2247,7 +2247,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.666Z"
+    "observedAt": "2026-09-04T21:21:59.431Z"
   },
   {
     "id": "torobshop-beauty-health-a487b68148b32151",
@@ -2265,7 +2265,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.666Z"
+    "observedAt": "2026-09-04T21:21:59.431Z"
   },
   {
     "id": "torobshop-beauty-health-8a341e9d5a686d26",
@@ -2283,7 +2283,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.666Z"
+    "observedAt": "2026-09-04T21:21:59.431Z"
   },
   {
     "id": "torobshop-beauty-health-0224a6eb452e870e",
@@ -2301,7 +2301,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.666Z"
+    "observedAt": "2026-09-04T21:21:59.431Z"
   },
   {
     "id": "torobshop-beauty-health-13f4eb84c4ba7cb9",
@@ -2319,7 +2319,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.666Z"
+    "observedAt": "2026-09-04T21:21:59.431Z"
   },
   {
     "id": "torobshop-beauty-health-b0966f0db868c52f",
@@ -2337,7 +2337,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.666Z"
+    "observedAt": "2026-09-04T21:21:59.431Z"
   },
   {
     "id": "torobshop-beauty-health-6843d08d5f9a3fc5",
@@ -2355,7 +2355,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.666Z"
+    "observedAt": "2026-09-04T21:21:59.431Z"
   },
   {
     "id": "torobshop-beauty-health-030c5e97a9dbe571",
@@ -2373,7 +2373,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.666Z"
+    "observedAt": "2026-09-04T21:21:59.431Z"
   },
   {
     "id": "torobshop-beauty-health-6828be10112def8f",
@@ -2391,7 +2391,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.666Z"
+    "observedAt": "2026-09-04T21:21:59.431Z"
   },
   {
     "id": "torobshop-beauty-health-87f1c605318b530a",
@@ -2409,7 +2409,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.666Z"
+    "observedAt": "2026-09-04T21:21:59.431Z"
   },
   {
     "id": "torobshop-beauty-health-da47e3fc8e3b56b0",
@@ -2427,7 +2427,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.666Z"
+    "observedAt": "2026-09-04T21:21:59.431Z"
   },
   {
     "id": "torobshop-beauty-health-9701eae81110d6c2",
@@ -2445,7 +2445,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.666Z"
+    "observedAt": "2026-09-04T21:21:59.431Z"
   },
   {
     "id": "torobshop-beauty-health-282c46aa50604a09",
@@ -2463,7 +2463,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.666Z"
+    "observedAt": "2026-09-04T21:21:59.431Z"
   },
   {
     "id": "torobshop-beauty-health-252698e00ed4027a",
@@ -2481,7 +2481,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.666Z"
+    "observedAt": "2026-09-04T21:21:59.431Z"
   },
   {
     "id": "torobshop-beauty-health-1077b17fbe76782d",
@@ -2499,7 +2499,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.666Z"
+    "observedAt": "2026-09-04T21:21:59.431Z"
   },
   {
     "id": "torobshop-beauty-health-44c4db584370050c",
@@ -2517,7 +2517,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.666Z"
+    "observedAt": "2026-09-04T21:21:59.431Z"
   },
   {
     "id": "torobshop-beauty-health-d061a2f9138d0ea6",
@@ -2535,7 +2535,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.666Z"
+    "observedAt": "2026-09-04T21:21:59.431Z"
   },
   {
     "id": "torobshop-beauty-health-b2a158ab82d2e6bd",
@@ -2553,7 +2553,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.666Z"
+    "observedAt": "2026-09-04T21:21:59.431Z"
   },
   {
     "id": "torobshop-beauty-health-d58984574a508a53",
@@ -2571,7 +2571,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.666Z"
+    "observedAt": "2026-09-04T21:21:59.431Z"
   },
   {
     "id": "torobshop-beauty-health-df1027107453b63f",
@@ -2589,7 +2589,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.666Z"
+    "observedAt": "2026-09-04T21:21:59.431Z"
   },
   {
     "id": "torobshop-beauty-health-b4f1b67d790ffc94",
@@ -2607,7 +2607,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.666Z"
+    "observedAt": "2026-09-04T21:21:59.431Z"
   },
   {
     "id": "torobshop-beauty-health-fe6006e21f408573",
@@ -2625,7 +2625,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.666Z"
+    "observedAt": "2026-09-04T21:21:59.431Z"
   },
   {
     "id": "torobshop-beauty-health-d1744e81871e8d0a",
@@ -2643,7 +2643,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.666Z"
+    "observedAt": "2026-09-04T21:21:59.431Z"
   },
   {
     "id": "torobshop-beauty-health-35eafc598e99a3d8",
@@ -2661,7 +2661,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.666Z"
+    "observedAt": "2026-09-04T21:21:59.431Z"
   },
   {
     "id": "torobshop-beauty-health-1a2700f7f55dd3b8",
@@ -2679,7 +2679,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.666Z"
+    "observedAt": "2026-09-04T21:21:59.431Z"
   },
   {
     "id": "torobshop-beauty-health-e098e8e772393cdf",
@@ -2697,7 +2697,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.666Z"
+    "observedAt": "2026-09-04T21:21:59.431Z"
   },
   {
     "id": "torobshop-beauty-health-1d129f90430c8fa1",
@@ -2715,7 +2715,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.666Z"
+    "observedAt": "2026-09-04T21:21:59.431Z"
   },
   {
     "id": "torobshop-beauty-health-bd7251194a0c37b9",
@@ -2733,7 +2733,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.666Z"
+    "observedAt": "2026-09-04T21:21:59.431Z"
   },
   {
     "id": "torobshop-beauty-health-e28552b17df0e0b2",
@@ -2751,7 +2751,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.666Z"
+    "observedAt": "2026-09-04T21:21:59.432Z"
   },
   {
     "id": "torobshop-beauty-health-7280c97d2fee69ca",
@@ -2769,7 +2769,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.666Z"
+    "observedAt": "2026-09-04T21:21:59.432Z"
   },
   {
     "id": "torobshop-beauty-health-17d36286ea1cacd0",
@@ -2787,7 +2787,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.666Z"
+    "observedAt": "2026-09-04T21:21:59.432Z"
   },
   {
     "id": "torobshop-beauty-health-042538c68c1758b6",
@@ -2805,7 +2805,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.666Z"
+    "observedAt": "2026-09-04T21:21:59.432Z"
   },
   {
     "id": "torobshop-beauty-health-0d1877997c1878e8",
@@ -2823,7 +2823,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.666Z"
+    "observedAt": "2026-09-04T21:21:59.432Z"
   },
   {
     "id": "torobshop-beauty-health-fcaa2d7234ac91e4",
@@ -2841,7 +2841,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.666Z"
+    "observedAt": "2026-09-04T21:21:59.432Z"
   },
   {
     "id": "torobshop-beauty-health-a010581ee3b4b9c6",
@@ -2859,7 +2859,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.666Z"
+    "observedAt": "2026-09-04T21:21:59.432Z"
   },
   {
     "id": "torobshop-beauty-health-4eac272bd4b53506",
@@ -2877,7 +2877,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.666Z"
+    "observedAt": "2026-09-04T21:21:59.432Z"
   },
   {
     "id": "torobshop-beauty-health-2c472d4ef2341323",
@@ -2895,7 +2895,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.666Z"
+    "observedAt": "2026-09-04T21:21:59.432Z"
   },
   {
     "id": "torobshop-beauty-health-0064a7806b828a4b",
@@ -2913,7 +2913,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.666Z"
+    "observedAt": "2026-09-04T21:21:59.432Z"
   },
   {
     "id": "torobshop-beauty-health-7ecabd380c4ffe68",
@@ -2931,7 +2931,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.666Z"
+    "observedAt": "2026-09-04T21:21:59.432Z"
   },
   {
     "id": "torobshop-beauty-health-18f61d4e53981f46",
@@ -2949,7 +2949,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.666Z"
+    "observedAt": "2026-09-04T21:21:59.432Z"
   },
   {
     "id": "torobshop-beauty-health-99acab8f55b13173",
@@ -2967,7 +2967,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.666Z"
+    "observedAt": "2026-09-04T21:21:59.432Z"
   },
   {
     "id": "torobshop-beauty-health-a39d0ed392008e51",
@@ -2985,7 +2985,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.666Z"
+    "observedAt": "2026-09-04T21:21:59.432Z"
   },
   {
     "id": "torobshop-beauty-health-b59265d1797de996",
@@ -3003,7 +3003,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.666Z"
+    "observedAt": "2026-09-04T21:21:59.432Z"
   },
   {
     "id": "torobshop-beauty-health-85b83557c8a904d2",
@@ -3021,7 +3021,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.666Z"
+    "observedAt": "2026-09-04T21:21:59.432Z"
   },
   {
     "id": "torobshop-beauty-health-b1462f61a9782417",
@@ -3039,7 +3039,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.666Z"
+    "observedAt": "2026-09-04T21:21:59.432Z"
   },
   {
     "id": "torobshop-beauty-health-a0a6601037f52eab",
@@ -3057,7 +3057,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.666Z"
+    "observedAt": "2026-09-04T21:21:59.432Z"
   },
   {
     "id": "torobshop-beauty-health-934fda149d570d31",
@@ -3075,7 +3075,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.666Z"
+    "observedAt": "2026-09-04T21:21:59.432Z"
   },
   {
     "id": "torobshop-beauty-health-2c049b3bcb77d2bf",
@@ -3093,7 +3093,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.666Z"
+    "observedAt": "2026-09-04T21:21:59.432Z"
   },
   {
     "id": "torobshop-beauty-health-18ee92e9e411093a",
@@ -3111,7 +3111,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.667Z"
+    "observedAt": "2026-09-04T21:21:59.432Z"
   },
   {
     "id": "torobshop-beauty-health-4225825db6ea4778",
@@ -3129,7 +3129,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.667Z"
+    "observedAt": "2026-09-04T21:21:59.432Z"
   },
   {
     "id": "torobshop-beauty-health-6a6a7cd6a2abc331",
@@ -3147,7 +3147,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.667Z"
+    "observedAt": "2026-09-04T21:21:59.432Z"
   },
   {
     "id": "torobshop-beauty-health-d0d95a0f15720dc4",
@@ -3165,7 +3165,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.667Z"
+    "observedAt": "2026-09-04T21:21:59.432Z"
   },
   {
     "id": "torobshop-beauty-health-57b6dce7c61e51d0",
@@ -3183,7 +3183,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.667Z"
+    "observedAt": "2026-09-04T21:21:59.432Z"
   },
   {
     "id": "torobshop-beauty-health-7907eda04c8d8f7c",
@@ -3201,7 +3201,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.667Z"
+    "observedAt": "2026-09-04T21:21:59.432Z"
   },
   {
     "id": "torobshop-beauty-health-12ebde01e1185259",
@@ -3219,7 +3219,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.667Z"
+    "observedAt": "2026-09-04T21:21:59.432Z"
   },
   {
     "id": "torobshop-beauty-health-7e6f9387f220f9a8",
@@ -3237,7 +3237,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.667Z"
+    "observedAt": "2026-09-04T21:21:59.432Z"
   },
   {
     "id": "torobshop-beauty-health-a4e56078617c2285",
@@ -3255,7 +3255,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.667Z"
+    "observedAt": "2026-09-04T21:21:59.432Z"
   },
   {
     "id": "torobshop-beauty-health-938309df6929a6fe",
@@ -3273,7 +3273,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.667Z"
+    "observedAt": "2026-09-04T21:21:59.432Z"
   },
   {
     "id": "torobshop-beauty-health-6454bfdf6abe9ba5",
@@ -3291,7 +3291,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.667Z"
+    "observedAt": "2026-09-04T21:21:59.432Z"
   },
   {
     "id": "torobshop-beauty-health-cfcae5289707c8e8",
@@ -3309,7 +3309,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.667Z"
+    "observedAt": "2026-09-04T21:21:59.432Z"
   },
   {
     "id": "torobshop-beauty-health-fe808f98994c5074",
@@ -3327,7 +3327,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.667Z"
+    "observedAt": "2026-09-04T21:21:59.432Z"
   },
   {
     "id": "torobshop-beauty-health-9a0b8f2ef361194c",
@@ -3345,7 +3345,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.667Z"
+    "observedAt": "2026-09-04T21:21:59.432Z"
   },
   {
     "id": "torobshop-beauty-health-730841751e11e24e",
@@ -3363,7 +3363,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.667Z"
+    "observedAt": "2026-09-04T21:21:59.432Z"
   },
   {
     "id": "torobshop-beauty-health-3f990d9f182ccec4",
@@ -3381,7 +3381,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.667Z"
+    "observedAt": "2026-09-04T21:21:59.432Z"
   },
   {
     "id": "torobshop-beauty-health-039507a3157d305a",
@@ -3399,7 +3399,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.667Z"
+    "observedAt": "2026-09-04T21:21:59.432Z"
   },
   {
     "id": "torobshop-beauty-health-585463c24fb5b74b",
@@ -3417,7 +3417,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.667Z"
+    "observedAt": "2026-09-04T21:21:59.432Z"
   },
   {
     "id": "torobshop-beauty-health-8d2a518ee4a53562",
@@ -3435,7 +3435,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.667Z"
+    "observedAt": "2026-09-04T21:21:59.432Z"
   },
   {
     "id": "torobshop-beauty-health-7dbc2b4c5f6ada30",
@@ -3453,7 +3453,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.667Z"
+    "observedAt": "2026-09-04T21:21:59.432Z"
   },
   {
     "id": "torobshop-beauty-health-8b76d51a1d0acf41",
@@ -3471,7 +3471,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.667Z"
+    "observedAt": "2026-09-04T21:21:59.432Z"
   },
   {
     "id": "torobshop-beauty-health-5fa8a2835161b6fd",
@@ -3489,7 +3489,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.667Z"
+    "observedAt": "2026-09-04T21:21:59.432Z"
   },
   {
     "id": "torobshop-beauty-health-888ee8072448cf74",
@@ -3507,7 +3507,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.667Z"
+    "observedAt": "2026-09-04T21:21:59.432Z"
   },
   {
     "id": "torobshop-beauty-health-3bf2cf6b139542a0",
@@ -3525,7 +3525,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.667Z"
+    "observedAt": "2026-09-04T21:21:59.432Z"
   },
   {
     "id": "torobshop-beauty-health-0259e4bb2d58176e",
@@ -3543,7 +3543,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.667Z"
+    "observedAt": "2026-09-04T21:21:59.432Z"
   },
   {
     "id": "torobshop-beauty-health-ba333d3a690fd15c",
@@ -3561,7 +3561,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.667Z"
+    "observedAt": "2026-09-04T21:21:59.432Z"
   },
   {
     "id": "torobshop-beauty-health-3648a089f27fd789",
@@ -3579,7 +3579,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.667Z"
+    "observedAt": "2026-09-04T21:21:59.432Z"
   },
   {
     "id": "torobshop-beauty-health-2a98af7f9f3589e5",
@@ -3597,7 +3597,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=2",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:42.667Z"
+    "observedAt": "2026-09-04T21:21:59.432Z"
   },
   {
     "id": "torobshop-beauty-health-acba494ba5eb91f4",
@@ -3615,7 +3615,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.906Z"
+    "observedAt": "2026-09-04T21:22:00.425Z"
   },
   {
     "id": "torobshop-beauty-health-1670d4235f79aabd",
@@ -3633,7 +3633,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.906Z"
+    "observedAt": "2026-09-04T21:22:00.425Z"
   },
   {
     "id": "torobshop-beauty-health-ed1701f2a9f98d31",
@@ -3651,7 +3651,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.906Z"
+    "observedAt": "2026-09-04T21:22:00.425Z"
   },
   {
     "id": "torobshop-beauty-health-c726f78a8a22a100",
@@ -3669,7 +3669,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.906Z"
+    "observedAt": "2026-09-04T21:22:00.425Z"
   },
   {
     "id": "torobshop-beauty-health-b3dc8a25032b6dd1",
@@ -3687,7 +3687,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.906Z"
+    "observedAt": "2026-09-04T21:22:00.425Z"
   },
   {
     "id": "torobshop-beauty-health-0f24ea1e3306c7e6",
@@ -3705,7 +3705,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.906Z"
+    "observedAt": "2026-09-04T21:22:00.425Z"
   },
   {
     "id": "torobshop-beauty-health-3676a19d80c633e6",
@@ -3723,7 +3723,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.906Z"
+    "observedAt": "2026-09-04T21:22:00.425Z"
   },
   {
     "id": "torobshop-beauty-health-9ff9c5d82c1acc76",
@@ -3741,7 +3741,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.906Z"
+    "observedAt": "2026-09-04T21:22:00.425Z"
   },
   {
     "id": "torobshop-beauty-health-6b33c7ceb6d0a373",
@@ -3759,7 +3759,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.906Z"
+    "observedAt": "2026-09-04T21:22:00.425Z"
   },
   {
     "id": "torobshop-beauty-health-a0e00527eaddaf68",
@@ -3777,7 +3777,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.906Z"
+    "observedAt": "2026-09-04T21:22:00.425Z"
   },
   {
     "id": "torobshop-beauty-health-00a62d03d4ce5759",
@@ -3795,7 +3795,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.907Z"
+    "observedAt": "2026-09-04T21:22:00.425Z"
   },
   {
     "id": "torobshop-beauty-health-aeba9782fa7770b2",
@@ -3813,7 +3813,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.907Z"
+    "observedAt": "2026-09-04T21:22:00.425Z"
   },
   {
     "id": "torobshop-beauty-health-e6ca03b947624639",
@@ -3831,7 +3831,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.907Z"
+    "observedAt": "2026-09-04T21:22:00.425Z"
   },
   {
     "id": "torobshop-beauty-health-ad3082e2942d21c6",
@@ -3849,7 +3849,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.907Z"
+    "observedAt": "2026-09-04T21:22:00.425Z"
   },
   {
     "id": "torobshop-beauty-health-d3f802410104b943",
@@ -3867,7 +3867,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.907Z"
+    "observedAt": "2026-09-04T21:22:00.425Z"
   },
   {
     "id": "torobshop-beauty-health-8c4a683d5a835ba8",
@@ -3885,7 +3885,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.907Z"
+    "observedAt": "2026-09-04T21:22:00.425Z"
   },
   {
     "id": "torobshop-beauty-health-cb0c77b50fad49db",
@@ -3903,7 +3903,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.907Z"
+    "observedAt": "2026-09-04T21:22:00.425Z"
   },
   {
     "id": "torobshop-beauty-health-2c06222749f52b4b",
@@ -3921,7 +3921,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.907Z"
+    "observedAt": "2026-09-04T21:22:00.425Z"
   },
   {
     "id": "torobshop-beauty-health-49ca3853ab1efcd6",
@@ -3939,7 +3939,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.907Z"
+    "observedAt": "2026-09-04T21:22:00.425Z"
   },
   {
     "id": "torobshop-beauty-health-95a63cc271b29c83",
@@ -3957,7 +3957,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.907Z"
+    "observedAt": "2026-09-04T21:22:00.425Z"
   },
   {
     "id": "torobshop-beauty-health-cdd059d785acd5ca",
@@ -3975,7 +3975,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.907Z"
+    "observedAt": "2026-09-04T21:22:00.426Z"
   },
   {
     "id": "torobshop-beauty-health-bd588df2601b7382",
@@ -3993,7 +3993,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.907Z"
+    "observedAt": "2026-09-04T21:22:00.426Z"
   },
   {
     "id": "torobshop-beauty-health-c01aa04170d1ef9c",
@@ -4011,7 +4011,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.907Z"
+    "observedAt": "2026-09-04T21:22:00.426Z"
   },
   {
     "id": "torobshop-beauty-health-a0fc45f02b96a880",
@@ -4029,7 +4029,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.907Z"
+    "observedAt": "2026-09-04T21:22:00.426Z"
   },
   {
     "id": "torobshop-beauty-health-9cd8d50c995242e4",
@@ -4047,7 +4047,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.907Z"
+    "observedAt": "2026-09-04T21:22:00.426Z"
   },
   {
     "id": "torobshop-beauty-health-b0b1903504efa413",
@@ -4065,7 +4065,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.907Z"
+    "observedAt": "2026-09-04T21:22:00.426Z"
   },
   {
     "id": "torobshop-beauty-health-3e413615fc9c6df4",
@@ -4083,7 +4083,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.907Z"
+    "observedAt": "2026-09-04T21:22:00.426Z"
   },
   {
     "id": "torobshop-beauty-health-3f4a86254b869b78",
@@ -4101,7 +4101,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.907Z"
+    "observedAt": "2026-09-04T21:22:00.426Z"
   },
   {
     "id": "torobshop-beauty-health-0d6f7d8ec345c649",
@@ -4119,7 +4119,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.907Z"
+    "observedAt": "2026-09-04T21:22:00.426Z"
   },
   {
     "id": "torobshop-beauty-health-75cbbe633850cb94",
@@ -4137,7 +4137,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.907Z"
+    "observedAt": "2026-09-04T21:22:00.426Z"
   },
   {
     "id": "torobshop-beauty-health-472e03b20b450a2a",
@@ -4155,7 +4155,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.907Z"
+    "observedAt": "2026-09-04T21:22:00.426Z"
   },
   {
     "id": "torobshop-beauty-health-9fd15a03fd3ff26f",
@@ -4173,7 +4173,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.907Z"
+    "observedAt": "2026-09-04T21:22:00.426Z"
   },
   {
     "id": "torobshop-beauty-health-19c14993e8faf2cc",
@@ -4191,7 +4191,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.907Z"
+    "observedAt": "2026-09-04T21:22:00.426Z"
   },
   {
     "id": "torobshop-beauty-health-936181bc732f5781",
@@ -4209,7 +4209,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.907Z"
+    "observedAt": "2026-09-04T21:22:00.426Z"
   },
   {
     "id": "torobshop-beauty-health-ce47e32cf6332ac8",
@@ -4227,7 +4227,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.907Z"
+    "observedAt": "2026-09-04T21:22:00.426Z"
   },
   {
     "id": "torobshop-beauty-health-349b0d4c129127a6",
@@ -4245,7 +4245,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.907Z"
+    "observedAt": "2026-09-04T21:22:00.426Z"
   },
   {
     "id": "torobshop-beauty-health-942875626bc6460c",
@@ -4263,7 +4263,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.907Z"
+    "observedAt": "2026-09-04T21:22:00.426Z"
   },
   {
     "id": "torobshop-beauty-health-a6d3ff0967da6c58",
@@ -4281,7 +4281,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.907Z"
+    "observedAt": "2026-09-04T21:22:00.426Z"
   },
   {
     "id": "torobshop-beauty-health-1dbad1ce764f9040",
@@ -4299,7 +4299,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.907Z"
+    "observedAt": "2026-09-04T21:22:00.426Z"
   },
   {
     "id": "torobshop-beauty-health-5582f1bf78f0788b",
@@ -4317,7 +4317,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.907Z"
+    "observedAt": "2026-09-04T21:22:00.426Z"
   },
   {
     "id": "torobshop-beauty-health-67d25fe0de21a505",
@@ -4335,7 +4335,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.907Z"
+    "observedAt": "2026-09-04T21:22:00.426Z"
   },
   {
     "id": "torobshop-beauty-health-c0393c9f8543ebe7",
@@ -4353,7 +4353,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.907Z"
+    "observedAt": "2026-09-04T21:22:00.426Z"
   },
   {
     "id": "torobshop-beauty-health-dfa55e6600071c3a",
@@ -4371,7 +4371,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.907Z"
+    "observedAt": "2026-09-04T21:22:00.426Z"
   },
   {
     "id": "torobshop-beauty-health-0ff63f29c90cab0c",
@@ -4389,7 +4389,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.907Z"
+    "observedAt": "2026-09-04T21:22:00.426Z"
   },
   {
     "id": "torobshop-beauty-health-e940fb7301acf435",
@@ -4407,7 +4407,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.907Z"
+    "observedAt": "2026-09-04T21:22:00.426Z"
   },
   {
     "id": "torobshop-beauty-health-346b89d3d15108cf",
@@ -4425,7 +4425,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.907Z"
+    "observedAt": "2026-09-04T21:22:00.426Z"
   },
   {
     "id": "torobshop-beauty-health-1e6f856ba7e72907",
@@ -4443,7 +4443,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.907Z"
+    "observedAt": "2026-09-04T21:22:00.426Z"
   },
   {
     "id": "torobshop-beauty-health-9d604fdff55da3f7",
@@ -4461,7 +4461,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.907Z"
+    "observedAt": "2026-09-04T21:22:00.426Z"
   },
   {
     "id": "torobshop-beauty-health-0f52b3b8cf4a9a71",
@@ -4479,7 +4479,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.907Z"
+    "observedAt": "2026-09-04T21:22:00.426Z"
   },
   {
     "id": "torobshop-beauty-health-e0532806a0aace4e",
@@ -4497,7 +4497,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.907Z"
+    "observedAt": "2026-09-04T21:22:00.426Z"
   },
   {
     "id": "torobshop-beauty-health-15aed8c8b7a8aa24",
@@ -4515,7 +4515,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.907Z"
+    "observedAt": "2026-09-04T21:22:00.426Z"
   },
   {
     "id": "torobshop-beauty-health-3d86e0725b4488d3",
@@ -4533,7 +4533,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.907Z"
+    "observedAt": "2026-09-04T21:22:00.426Z"
   },
   {
     "id": "torobshop-beauty-health-7082658cd89d0d9d",
@@ -4551,7 +4551,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.907Z"
+    "observedAt": "2026-09-04T21:22:00.426Z"
   },
   {
     "id": "torobshop-beauty-health-40973058aa461312",
@@ -4569,7 +4569,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.907Z"
+    "observedAt": "2026-09-04T21:22:00.426Z"
   },
   {
     "id": "torobshop-beauty-health-abb98bdbd86c0b1e",
@@ -4587,7 +4587,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.907Z"
+    "observedAt": "2026-09-04T21:22:00.426Z"
   },
   {
     "id": "torobshop-beauty-health-2d5465a2f70adc1f",
@@ -4605,7 +4605,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.907Z"
+    "observedAt": "2026-09-04T21:22:00.426Z"
   },
   {
     "id": "torobshop-beauty-health-4129400466511679",
@@ -4623,7 +4623,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.907Z"
+    "observedAt": "2026-09-04T21:22:00.426Z"
   },
   {
     "id": "torobshop-beauty-health-1c17c5c0f1fa11a3",
@@ -4641,7 +4641,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.907Z"
+    "observedAt": "2026-09-04T21:22:00.426Z"
   },
   {
     "id": "torobshop-beauty-health-d48f6729ccedafb0",
@@ -4659,7 +4659,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.907Z"
+    "observedAt": "2026-09-04T21:22:00.426Z"
   },
   {
     "id": "torobshop-beauty-health-87137da7f8fa8697",
@@ -4677,7 +4677,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.907Z"
+    "observedAt": "2026-09-04T21:22:00.426Z"
   },
   {
     "id": "torobshop-beauty-health-56bc298db3e2e32b",
@@ -4695,7 +4695,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.907Z"
+    "observedAt": "2026-09-04T21:22:00.426Z"
   },
   {
     "id": "torobshop-beauty-health-dd02063a7e2fe815",
@@ -4713,7 +4713,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.908Z"
+    "observedAt": "2026-09-04T21:22:00.426Z"
   },
   {
     "id": "torobshop-beauty-health-e111bc52b9dc5eb8",
@@ -4731,7 +4731,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.908Z"
+    "observedAt": "2026-09-04T21:22:00.426Z"
   },
   {
     "id": "torobshop-beauty-health-aaf49b9e81ba122b",
@@ -4749,7 +4749,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.908Z"
+    "observedAt": "2026-09-04T21:22:00.426Z"
   },
   {
     "id": "torobshop-beauty-health-5ed4b993f238521c",
@@ -4767,7 +4767,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.908Z"
+    "observedAt": "2026-09-04T21:22:00.426Z"
   },
   {
     "id": "torobshop-beauty-health-1077d81f508c409c",
@@ -4785,7 +4785,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.908Z"
+    "observedAt": "2026-09-04T21:22:00.426Z"
   },
   {
     "id": "torobshop-beauty-health-d8c87c2c3c400a86",
@@ -4803,7 +4803,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.908Z"
+    "observedAt": "2026-09-04T21:22:00.426Z"
   },
   {
     "id": "torobshop-beauty-health-aaad86ccebd25551",
@@ -4821,7 +4821,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.908Z"
+    "observedAt": "2026-09-04T21:22:00.426Z"
   },
   {
     "id": "torobshop-beauty-health-8c116d0e1b629e21",
@@ -4839,7 +4839,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.908Z"
+    "observedAt": "2026-09-04T21:22:00.426Z"
   },
   {
     "id": "torobshop-beauty-health-da424016217ab27b",
@@ -4857,7 +4857,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.908Z"
+    "observedAt": "2026-09-04T21:22:00.426Z"
   },
   {
     "id": "torobshop-beauty-health-c38b56cc2a620ba3",
@@ -4875,7 +4875,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.908Z"
+    "observedAt": "2026-09-04T21:22:00.426Z"
   },
   {
     "id": "torobshop-beauty-health-9547cb3118a93915",
@@ -4893,7 +4893,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.908Z"
+    "observedAt": "2026-09-04T21:22:00.426Z"
   },
   {
     "id": "torobshop-beauty-health-cf0a70996acf2fd1",
@@ -4911,7 +4911,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.908Z"
+    "observedAt": "2026-09-04T21:22:00.427Z"
   },
   {
     "id": "torobshop-beauty-health-70f07994e4ba4e21",
@@ -4929,7 +4929,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.908Z"
+    "observedAt": "2026-09-04T21:22:00.427Z"
   },
   {
     "id": "torobshop-beauty-health-47ab3b4b8f3fc0a0",
@@ -4947,7 +4947,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.908Z"
+    "observedAt": "2026-09-04T21:22:00.427Z"
   },
   {
     "id": "torobshop-beauty-health-b0fbee588506bc7c",
@@ -4965,7 +4965,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.908Z"
+    "observedAt": "2026-09-04T21:22:00.427Z"
   },
   {
     "id": "torobshop-beauty-health-2ca7a0245905a3cd",
@@ -4983,7 +4983,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.908Z"
+    "observedAt": "2026-09-04T21:22:00.427Z"
   },
   {
     "id": "torobshop-beauty-health-295c4735c92650fd",
@@ -5001,7 +5001,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.908Z"
+    "observedAt": "2026-09-04T21:22:00.427Z"
   },
   {
     "id": "torobshop-beauty-health-c1dac5b4b6b9bda9",
@@ -5019,7 +5019,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.908Z"
+    "observedAt": "2026-09-04T21:22:00.427Z"
   },
   {
     "id": "torobshop-beauty-health-5e2f0376a398a8c9",
@@ -5037,7 +5037,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.908Z"
+    "observedAt": "2026-09-04T21:22:00.427Z"
   },
   {
     "id": "torobshop-beauty-health-4878f6146b8ee7bb",
@@ -5055,7 +5055,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.908Z"
+    "observedAt": "2026-09-04T21:22:00.427Z"
   },
   {
     "id": "torobshop-beauty-health-eb53b4fd72bb2e02",
@@ -5073,7 +5073,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.908Z"
+    "observedAt": "2026-09-04T21:22:00.427Z"
   },
   {
     "id": "torobshop-beauty-health-8c9be9b6983541ad",
@@ -5091,7 +5091,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.908Z"
+    "observedAt": "2026-09-04T21:22:00.427Z"
   },
   {
     "id": "torobshop-beauty-health-cbb6ea5fa527aeb4",
@@ -5109,7 +5109,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.908Z"
+    "observedAt": "2026-09-04T21:22:00.427Z"
   },
   {
     "id": "torobshop-beauty-health-b75c0afd954a6945",
@@ -5127,7 +5127,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.908Z"
+    "observedAt": "2026-09-04T21:22:00.427Z"
   },
   {
     "id": "torobshop-beauty-health-f42bb86ffce1fa33",
@@ -5145,7 +5145,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.908Z"
+    "observedAt": "2026-09-04T21:22:00.427Z"
   },
   {
     "id": "torobshop-beauty-health-7a524ec3522274cd",
@@ -5163,7 +5163,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.908Z"
+    "observedAt": "2026-09-04T21:22:00.427Z"
   },
   {
     "id": "torobshop-beauty-health-f9daace836ea6a86",
@@ -5181,7 +5181,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.908Z"
+    "observedAt": "2026-09-04T21:22:00.427Z"
   },
   {
     "id": "torobshop-beauty-health-3fcae393d0bb13ec",
@@ -5199,7 +5199,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.908Z"
+    "observedAt": "2026-09-04T21:22:00.427Z"
   },
   {
     "id": "torobshop-beauty-health-73969c6c78ef86d6",
@@ -5217,7 +5217,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.908Z"
+    "observedAt": "2026-09-04T21:22:00.427Z"
   },
   {
     "id": "torobshop-beauty-health-b543ebdeeec3ca80",
@@ -5235,7 +5235,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.908Z"
+    "observedAt": "2026-09-04T21:22:00.427Z"
   },
   {
     "id": "torobshop-beauty-health-6e8b86e7fc74c439",
@@ -5253,7 +5253,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.908Z"
+    "observedAt": "2026-09-04T21:22:00.427Z"
   },
   {
     "id": "torobshop-beauty-health-5f719075fc236448",
@@ -5271,7 +5271,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.908Z"
+    "observedAt": "2026-09-04T21:22:00.427Z"
   },
   {
     "id": "torobshop-beauty-health-7483e8e52e9fe9b7",
@@ -5289,7 +5289,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.908Z"
+    "observedAt": "2026-09-04T21:22:00.427Z"
   },
   {
     "id": "torobshop-beauty-health-f5a59b898194fa87",
@@ -5307,7 +5307,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.908Z"
+    "observedAt": "2026-09-04T21:22:00.427Z"
   },
   {
     "id": "torobshop-beauty-health-b17730f0ecda2344",
@@ -5325,7 +5325,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.908Z"
+    "observedAt": "2026-09-04T21:22:00.427Z"
   },
   {
     "id": "torobshop-beauty-health-e499fc26b3cc70a0",
@@ -5343,7 +5343,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.908Z"
+    "observedAt": "2026-09-04T21:22:00.427Z"
   },
   {
     "id": "torobshop-beauty-health-671f91aff935ef5e",
@@ -5361,7 +5361,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.908Z"
+    "observedAt": "2026-09-04T21:22:00.427Z"
   },
   {
     "id": "torobshop-beauty-health-41f741e0df577118",
@@ -5379,7 +5379,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.908Z"
+    "observedAt": "2026-09-04T21:22:00.427Z"
   },
   {
     "id": "torobshop-beauty-health-fbfaecae492388bf",
@@ -5397,7 +5397,43 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C?page=3",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:43.908Z"
+    "observedAt": "2026-09-04T21:22:00.427Z"
+  },
+  {
+    "id": "torobshop-beauty-health-b6676462f8f23ff0",
+    "productId": "torobshop-b6676462f8f23ff0",
+    "name": "قابلمه القایی WMF Diadem Plus، 20 سانتی‌متر - 3.7 لیتر، قابل شستشو در ماشین ظرفشویی",
+    "brand": "",
+    "model": "قابلمه القایی WMF Diadem Plus، 20 سانتی‌متر - 3.7 لیتر، قابل شستشو در ماشین ظرفشویی",
+    "category": "beauty-health",
+    "subcategory": "ماشین اصلاح و ریش تراش",
+    "price": 16770000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-WMF-Diadem-Plus-20-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-3-7-%D9%84%DB%8C%D8%AA%D8%B1-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:22:09.458Z"
+  },
+  {
+    "id": "torobshop-beauty-health-a08d253c08b46a7c",
+    "productId": "torobshop-a08d253c08b46a7c",
+    "name": "سرویس قابلمه و تابه استیل ضد زنگ 5 تکه Ninja EverClad، مدل C95005EUI",
+    "brand": "",
+    "model": "سرویس قابلمه و تابه استیل ضد زنگ 5 تکه Ninja EverClad، مدل C95005EUI",
+    "category": "beauty-health",
+    "subcategory": "ماشین اصلاح و ریش تراش",
+    "price": 110279000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-5-%D8%AA%DA%A9%D9%87-Ninja-EverClad-%D9%85%D8%AF%D9%84-C95005EUI",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:22:09.458Z"
   },
   {
     "id": "torobshop-beauty-health-716dda0dbff9c54f",
@@ -5415,7 +5451,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.641Z"
+    "observedAt": "2026-09-04T21:22:09.458Z"
   },
   {
     "id": "torobshop-beauty-health-42afd1ca9ea774d6",
@@ -5433,7 +5469,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.641Z"
+    "observedAt": "2026-09-04T21:22:09.458Z"
   },
   {
     "id": "torobshop-beauty-health-3930a114dca5ba93",
@@ -5451,7 +5487,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.641Z"
+    "observedAt": "2026-09-04T21:22:09.458Z"
   },
   {
     "id": "torobshop-beauty-health-aaa22eb952374f54",
@@ -5469,7 +5505,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.641Z"
+    "observedAt": "2026-09-04T21:22:09.458Z"
   },
   {
     "id": "torobshop-beauty-health-6313ab97d41a2b56",
@@ -5487,7 +5523,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.641Z"
+    "observedAt": "2026-09-04T21:22:09.458Z"
   },
   {
     "id": "torobshop-beauty-health-f6f4fe1c061400be",
@@ -5505,7 +5541,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.641Z"
+    "observedAt": "2026-09-04T21:22:09.458Z"
   },
   {
     "id": "torobshop-beauty-health-f84a10872070200f",
@@ -5523,7 +5559,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.641Z"
+    "observedAt": "2026-09-04T21:22:09.458Z"
   },
   {
     "id": "torobshop-beauty-health-be5c8240bad9b96b",
@@ -5541,7 +5577,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.641Z"
+    "observedAt": "2026-09-04T21:22:09.458Z"
   },
   {
     "id": "torobshop-beauty-health-6ea4ce76135ec585",
@@ -5559,7 +5595,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.641Z"
+    "observedAt": "2026-09-04T21:22:09.458Z"
   },
   {
     "id": "torobshop-beauty-health-66ec5ac305e2c66d",
@@ -5577,7 +5613,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.641Z"
+    "observedAt": "2026-09-04T21:22:09.458Z"
   },
   {
     "id": "torobshop-beauty-health-550a8f87070e67b2",
@@ -5595,7 +5631,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.641Z"
+    "observedAt": "2026-09-04T21:22:09.458Z"
   },
   {
     "id": "torobshop-beauty-health-82dd733a006aec80",
@@ -5613,7 +5649,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.641Z"
+    "observedAt": "2026-09-04T21:22:09.458Z"
   },
   {
     "id": "torobshop-beauty-health-b0ab596ed23cc867",
@@ -5631,7 +5667,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.641Z"
+    "observedAt": "2026-09-04T21:22:09.458Z"
   },
   {
     "id": "torobshop-beauty-health-81b8042dfd25e040",
@@ -5649,7 +5685,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.641Z"
+    "observedAt": "2026-09-04T21:22:09.458Z"
   },
   {
     "id": "torobshop-beauty-health-971de75d275ec060",
@@ -5667,7 +5703,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.641Z"
+    "observedAt": "2026-09-04T21:22:09.458Z"
   },
   {
     "id": "torobshop-beauty-health-6984e0fba2f0f5ab",
@@ -5685,7 +5721,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.641Z"
+    "observedAt": "2026-09-04T21:22:09.458Z"
   },
   {
     "id": "torobshop-beauty-health-043774655c5e9707",
@@ -5703,7 +5739,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.641Z"
+    "observedAt": "2026-09-04T21:22:09.458Z"
   },
   {
     "id": "torobshop-beauty-health-96e722182c1b89a6",
@@ -5721,7 +5757,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.642Z"
+    "observedAt": "2026-09-04T21:22:09.458Z"
   },
   {
     "id": "torobshop-beauty-health-d62f3f3a89e25a47",
@@ -5739,7 +5775,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.642Z"
+    "observedAt": "2026-09-04T21:22:09.458Z"
   },
   {
     "id": "torobshop-beauty-health-c91c69b83e4ddd45",
@@ -5757,7 +5793,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.642Z"
+    "observedAt": "2026-09-04T21:22:09.458Z"
   },
   {
     "id": "torobshop-beauty-health-6d073e89debc0957",
@@ -5775,7 +5811,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.642Z"
+    "observedAt": "2026-09-04T21:22:09.458Z"
   },
   {
     "id": "torobshop-beauty-health-2f1de49dbfea70aa",
@@ -5793,7 +5829,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.642Z"
+    "observedAt": "2026-09-04T21:22:09.458Z"
   },
   {
     "id": "torobshop-beauty-health-688de6c889730421",
@@ -5811,7 +5847,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.642Z"
+    "observedAt": "2026-09-04T21:22:09.458Z"
   },
   {
     "id": "torobshop-beauty-health-6f75db36753d61cb",
@@ -5829,7 +5865,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.642Z"
+    "observedAt": "2026-09-04T21:22:09.458Z"
   },
   {
     "id": "torobshop-beauty-health-1d0f8b752067584c",
@@ -5847,7 +5883,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.642Z"
+    "observedAt": "2026-09-04T21:22:09.458Z"
   },
   {
     "id": "torobshop-beauty-health-9588e88bfa202297",
@@ -5865,7 +5901,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.642Z"
+    "observedAt": "2026-09-04T21:22:09.458Z"
   },
   {
     "id": "torobshop-beauty-health-564f6efd33ed7c72",
@@ -5883,7 +5919,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.642Z"
+    "observedAt": "2026-09-04T21:22:09.458Z"
   },
   {
     "id": "torobshop-beauty-health-db51956256cf2a9e",
@@ -5901,7 +5937,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.642Z"
+    "observedAt": "2026-09-04T21:22:09.458Z"
   },
   {
     "id": "torobshop-beauty-health-6c602e399b74265b",
@@ -5919,7 +5955,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.642Z"
+    "observedAt": "2026-09-04T21:22:09.458Z"
   },
   {
     "id": "torobshop-beauty-health-69bf454eaf5c015b",
@@ -5937,7 +5973,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.642Z"
+    "observedAt": "2026-09-04T21:22:09.458Z"
   },
   {
     "id": "torobshop-beauty-health-9b36373adadaf4fd",
@@ -5955,7 +5991,835 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.642Z"
+    "observedAt": "2026-09-04T21:22:09.458Z"
+  },
+  {
+    "id": "torobshop-beauty-health-725f8385c6d5a7e5",
+    "productId": "torobshop-725f8385c6d5a7e5",
+    "name": "ماهیتابه استیل ضد زنگ نینجا فودی زیرو استیک 30 سانتی‌متر [C60030EU] پوشش نچسب، سازگار با اجاق القایی، قابل شستشو در ماشین ظرفشویی",
+    "brand": "",
+    "model": "ماهیتابه استیل ضد زنگ نینجا فودی زیرو استیک 30 سانتی‌متر [C60030EU] پوشش نچسب، سازگار با اجاق القایی، قابل شستشو در ماشین ظرفشویی",
+    "category": "beauty-health",
+    "subcategory": "ماشین اصلاح و ریش تراش",
+    "price": 19565000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%81%D9%88%D8%AF%DB%8C-%D8%B2%DB%8C%D8%B1%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-30-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-C60030EU-%D9%BE%D9%88%D8%B4%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:22:09.459Z"
+  },
+  {
+    "id": "torobshop-beauty-health-0bb955aeed702a07",
+    "productId": "torobshop-0bb955aeed702a07",
+    "name": "ماهیتابه استیل ضد زنگ نینجا فودی زیرو استیک ۲۸ سانتی‌متر، بادوام، نچسب، سازگار با اجاق القایی، قابل استفاده در فر و ماشین ظرفشویی، مدل C60028EU",
+    "brand": "",
+    "model": "ماهیتابه استیل ضد زنگ نینجا فودی زیرو استیک ۲۸ سانتی‌متر، بادوام، نچسب، سازگار با اجاق القایی، قابل استفاده در فر و ماشین ظرفشویی، مدل C60028EU",
+    "category": "beauty-health",
+    "subcategory": "ماشین اصلاح و ریش تراش",
+    "price": 24647000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%81%D9%88%D8%AF%DB%8C-%D8%B2%DB%8C%D8%B1%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-%DB%B2%DB%B8-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A8%D8%A7%D8%AF%D9%88%D8%A7%D9%85-%D9%86%DA%86%D8%B3%D8%A8-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%81%D8%B1-%D9%88-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D9%85%D8%AF%D9%84-C60028EU",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:22:09.459Z"
+  },
+  {
+    "id": "torobshop-beauty-health-452caddaba905dc5",
+    "productId": "torobshop-452caddaba905dc5",
+    "name": "ماهیتابه استیل ضد زنگ نینجا فودی زیرو استیک ۲۴ سانتی‌متر، بادوام، نچسب، مناسب برای استفاده با اجاق القایی، قابل استفاده در فر و ماشین ظرفشویی، مدل C60024EU",
+    "brand": "",
+    "model": "ماهیتابه استیل ضد زنگ نینجا فودی زیرو استیک ۲۴ سانتی‌متر، بادوام، نچسب، مناسب برای استفاده با اجاق القایی، قابل استفاده در فر و ماشین ظرفشویی، مدل C60024EU",
+    "category": "beauty-health",
+    "subcategory": "ماشین اصلاح و ریش تراش",
+    "price": 19057000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%81%D9%88%D8%AF%DB%8C-%D8%B2%DB%8C%D8%B1%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-%DB%B2%DB%B4-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A8%D8%A7%D8%AF%D9%88%D8%A7%D9%85-%D9%86%DA%86%D8%B3%D8%A8-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%81%D8%B1-%D9%88-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D9%85%D8%AF%D9%84-C60024EU",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:22:09.459Z"
+  },
+  {
+    "id": "torobshop-beauty-health-1ee86f1c9c267ad6",
+    "productId": "torobshop-1ee86f1c9c267ad6",
+    "name": "سرویس قابلمه و ماهیتابه نینجا CK89010BF، نچسب، با طول عمر بالا، سرویس پخت و پز سرامیکی، 10 تکه، بدون PFOA، مناسب برای فر تا دمای 176 درجه سانتیگراد، سازگار با القایی، 10 تکه",
+    "brand": "",
+    "model": "سرویس قابلمه و ماهیتابه نینجا CK89010BF، نچسب، با طول عمر بالا، سرویس پخت و پز سرامیکی، 10 تکه، بدون PFOA، مناسب برای فر تا دمای 176 درجه سانتیگراد، سازگار با القایی، 10 تکه",
+    "category": "beauty-health",
+    "subcategory": "ماشین اصلاح و ریش تراش",
+    "price": 78516000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-CK89010BF-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%A7-%D8%B7%D9%88%D9%84-%D8%B9%D9%85%D8%B1-%D8%A8%D8%A7%D9%84%D8%A7-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%BE%D8%AE%D8%AA-%D9%88-%D9%BE%D8%B2-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-10-%D8%AA%DA%A9%D9%87-%D8%A8%D8%AF%D9%88%D9%86-PFOA-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-176-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-10-%D8%AA%DA%A9%D9%87",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:22:09.459Z"
+  },
+  {
+    "id": "torobshop-beauty-health-1a31c0998951f872",
+    "productId": "torobshop-1a31c0998951f872",
+    "name": "سرویس قابلمه و تابه استیل ضد زنگ 5 تکه Ninja Foodi ZEROSTICK [C65000EU] نچسب، سازگار با القایی، قابل شستشو در ماشین ظرفشویی",
+    "brand": "",
+    "model": "سرویس قابلمه و تابه استیل ضد زنگ 5 تکه Ninja Foodi ZEROSTICK [C65000EU] نچسب، سازگار با القایی، قابل شستشو در ماشین ظرفشویی",
+    "category": "beauty-health",
+    "subcategory": "ماشین اصلاح و ریش تراش",
+    "price": 26426000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-5-%D8%AA%DA%A9%D9%87-Ninja-Foodi-ZEROSTICK-C65000EU-%D9%86%DA%86%D8%B3%D8%A8-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:22:09.459Z"
+  },
+  {
+    "id": "torobshop-beauty-health-b1ab7543e51d9a1e",
+    "productId": "torobshop-b1ab7543e51d9a1e",
+    "name": "قابلمه شیر استیل ضد زنگ نینجا فودی زیرو استیک، ۱۴ سانتی‌متر، بادوام، نچسب، مناسب برای استفاده با اجاق القایی، قابل استفاده در فر و ماشین ظرفشویی، مدل C60214EU",
+    "brand": "",
+    "model": "قابلمه شیر استیل ضد زنگ نینجا فودی زیرو استیک، ۱۴ سانتی‌متر، بادوام، نچسب، مناسب برای استفاده با اجاق القایی، قابل استفاده در فر و ماشین ظرفشویی، مدل C60214EU",
+    "category": "beauty-health",
+    "subcategory": "ماشین اصلاح و ریش تراش",
+    "price": 12196000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%B4%DB%8C%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%81%D9%88%D8%AF%DB%8C-%D8%B2%DB%8C%D8%B1%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-%DB%B1%DB%B4-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A8%D8%A7%D8%AF%D9%88%D8%A7%D9%85-%D9%86%DA%86%D8%B3%D8%A8-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%81%D8%B1-%D9%88-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D9%85%D8%AF%D9%84-C60214EU",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:22:09.459Z"
+  },
+  {
+    "id": "torobshop-beauty-health-75c5c1f7dd89f660",
+    "productId": "torobshop-75c5c1f7dd89f660",
+    "name": "سرویس ماهیتابه دو تکه استیل ضد زنگ Ninja Foodi ZEROSTICK (20 سانتی متر / 28 سانتی متر) [C62000EU] نچسب، سازگار با اجاق القایی، قابل شستشو در ماشین ظرفشویی",
+    "brand": "",
+    "model": "سرویس ماهیتابه دو تکه استیل ضد زنگ Ninja Foodi ZEROSTICK (20 سانتی متر / 28 سانتی متر) [C62000EU] نچسب، سازگار با اجاق القایی، قابل شستشو در ماشین ظرفشویی",
+    "category": "beauty-health",
+    "subcategory": "ماشین اصلاح و ریش تراش",
+    "price": 33033000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%AF%D9%88-%D8%AA%DA%A9%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-Ninja-Foodi-ZEROSTICK-20-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-28-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-C62000EU-%D9%86%DA%86%D8%B3%D8%A8-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:22:09.459Z"
+  },
+  {
+    "id": "torobshop-beauty-health-1bc7d98427271752",
+    "productId": "torobshop-1bc7d98427271752",
+    "name": "ماهیتابه استیل ضد زنگ نینجا فودی زیرو استیک ۲۶ سانتی‌متر، بادوام، نچسب، مناسب برای استفاده با اجاق القایی، قابل استفاده در فر و ماشین ظرفشویی، مدل C60126EU",
+    "brand": "",
+    "model": "ماهیتابه استیل ضد زنگ نینجا فودی زیرو استیک ۲۶ سانتی‌متر، بادوام، نچسب، مناسب برای استفاده با اجاق القایی، قابل استفاده در فر و ماشین ظرفشویی، مدل C60126EU",
+    "category": "beauty-health",
+    "subcategory": "ماشین اصلاح و ریش تراش",
+    "price": 36844000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%81%D9%88%D8%AF%DB%8C-%D8%B2%DB%8C%D8%B1%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-%DB%B2%DB%B6-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A8%D8%A7%D8%AF%D9%88%D8%A7%D9%85-%D9%86%DA%86%D8%B3%D8%A8-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%81%D8%B1-%D9%88-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D9%85%D8%AF%D9%84-C60126EU",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:22:09.459Z"
+  },
+  {
+    "id": "torobshop-beauty-health-db326c19924c1c83",
+    "productId": "torobshop-db326c19924c1c83",
+    "name": "ماهیتابه استیل ضد زنگ نینجا فودی زیرو استیک 20 سانتی‌متر، بادوام، نچسب، سازگار با اجاق القایی، قابل استفاده در فر و ماشین ظرفشویی، مدل C60020EU",
+    "brand": "",
+    "model": "ماهیتابه استیل ضد زنگ نینجا فودی زیرو استیک 20 سانتی‌متر، بادوام، نچسب، سازگار با اجاق القایی، قابل استفاده در فر و ماشین ظرفشویی، مدل C60020EU",
+    "category": "beauty-health",
+    "subcategory": "ماشین اصلاح و ریش تراش",
+    "price": 23377000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%81%D9%88%D8%AF%DB%8C-%D8%B2%DB%8C%D8%B1%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-20-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A8%D8%A7%D8%AF%D9%88%D8%A7%D9%85-%D9%86%DA%86%D8%B3%D8%A8-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%81%D8%B1-%D9%88-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D9%85%D8%AF%D9%84-C60020EU",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:22:09.459Z"
+  },
+  {
+    "id": "torobshop-beauty-health-38b570ec98372839",
+    "productId": "torobshop-38b570ec98372839",
+    "name": "سرویس ماهیتابه دو تکه استیل ضد زنگ نینجا فودی زیرو استیک، 24 سانتی‌متر/28 سانتی‌متر، بادوام، نچسب، سازگار با اجاق‌های القایی، قابل استفاده در فر و ماشین ظرفشویی، مدل C62200EU",
+    "brand": "",
+    "model": "سرویس ماهیتابه دو تکه استیل ضد زنگ نینجا فودی زیرو استیک، 24 سانتی‌متر/28 سانتی‌متر، بادوام، نچسب، سازگار با اجاق‌های القایی، قابل استفاده در فر و ماشین ظرفشویی، مدل C62200EU",
+    "category": "beauty-health",
+    "subcategory": "ماشین اصلاح و ریش تراش",
+    "price": 33795000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%AF%D9%88-%D8%AA%DA%A9%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%81%D9%88%D8%AF%DB%8C-%D8%B2%DB%8C%D8%B1%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-28-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A8%D8%A7%D8%AF%D9%88%D8%A7%D9%85-%D9%86%DA%86%D8%B3%D8%A8-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D9%87%D8%A7%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%81%D8%B1-%D9%88-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D9%85%D8%AF%D9%84-C62200EU",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:22:09.459Z"
+  },
+  {
+    "id": "torobshop-beauty-health-51525e00ba66dc85",
+    "productId": "torobshop-51525e00ba66dc85",
+    "name": "سرویس قابلمه استیل ضد زنگ سه تکه نینجا اورکلاد با درب، مناسب برای انواع اجاق گاز، از جمله اجاق القایی، مناسب برای فر تا دمای 300 درجه سانتیگراد، پایه القایی پیوسته، مدل C93003EUI",
+    "brand": "",
+    "model": "سرویس قابلمه استیل ضد زنگ سه تکه نینجا اورکلاد با درب، مناسب برای انواع اجاق گاز، از جمله اجاق القایی، مناسب برای فر تا دمای 300 درجه سانتیگراد، پایه القایی پیوسته، مدل C93003EUI",
+    "category": "beauty-health",
+    "subcategory": "ماشین اصلاح و ریش تراش",
+    "price": 41164000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%B3%D9%87-%D8%AA%DA%A9%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A7%D9%88%D8%B1%DA%A9%D9%84%D8%A7%D8%AF-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D8%A7%D8%B2-%D8%AC%D9%85%D9%84%D9%87-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-300-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D9%BE%D8%A7%DB%8C%D9%87-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%BE%DB%8C%D9%88%D8%B3%D8%AA%D9%87-%D9%85%D8%AF%D9%84-C93003EUI",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:22:09.459Z"
+  },
+  {
+    "id": "torobshop-beauty-health-d5d32c623c74bd66",
+    "productId": "torobshop-d5d32c623c74bd66",
+    "name": "سرویس ماهیتابه استیل ضد زنگ دو تکه نینجا اورکلاد، مدل C92000EUI",
+    "brand": "",
+    "model": "سرویس ماهیتابه استیل ضد زنگ دو تکه نینجا اورکلاد، مدل C92000EUI",
+    "category": "beauty-health",
+    "subcategory": "ماشین اصلاح و ریش تراش",
+    "price": 68352000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%AF%D9%88-%D8%AA%DA%A9%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A7%D9%88%D8%B1%DA%A9%D9%84%D8%A7%D8%AF-%D9%85%D8%AF%D9%84-C92000EUI",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:22:09.459Z"
+  },
+  {
+    "id": "torobshop-beauty-health-5edabe07534b749b",
+    "productId": "torobshop-5edabe07534b749b",
+    "name": "ماهیتابه استیل ضد زنگ نینجا اورکلاد (28 سانتی‌متر)، مناسب برای انواع اجاق گاز، از جمله اجاق القایی، مناسب برای فر تا دمای 300 درجه سانتیگراد، پایه القایی پیوسته، مدل C90028EUI",
+    "brand": "",
+    "model": "ماهیتابه استیل ضد زنگ نینجا اورکلاد (28 سانتی‌متر)، مناسب برای انواع اجاق گاز، از جمله اجاق القایی، مناسب برای فر تا دمای 300 درجه سانتیگراد، پایه القایی پیوسته، مدل C90028EUI",
+    "category": "beauty-health",
+    "subcategory": "ماشین اصلاح و ریش تراش",
+    "price": 39131000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A7%D9%88%D8%B1%DA%A9%D9%84%D8%A7%D8%AF-28-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D8%A7%D8%B2-%D8%AC%D9%85%D9%84%D9%87-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-300-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D9%BE%D8%A7%DB%8C%D9%87-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%BE%DB%8C%D9%88%D8%B3%D8%AA%D9%87-%D9%85%D8%AF%D9%84-C90028EUI",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:22:09.459Z"
+  },
+  {
+    "id": "torobshop-beauty-health-5b4a02cf13efdcfb",
+    "productId": "torobshop-5b4a02cf13efdcfb",
+    "name": "سرویس قابلمه و ماهیتابه 7 پارچه نینجا اورکلاد مدل C99007 از جنس استیل ضد زنگ، مناسب برای انواع اجاق گاز و اجاق القایی، مناسب برای فر تا دمای 315 درجه سانتیگراد، سه لایه، کیفیت استاندارد، 7 پارچه",
+    "brand": "",
+    "model": "سرویس قابلمه و ماهیتابه 7 پارچه نینجا اورکلاد مدل C99007 از جنس استیل ضد زنگ، مناسب برای انواع اجاق گاز و اجاق القایی، مناسب برای فر تا دمای 315 درجه سانتیگراد، سه لایه، کیفیت استاندارد، 7 پارچه",
+    "category": "beauty-health",
+    "subcategory": "ماشین اصلاح و ریش تراش",
+    "price": 74705000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-7-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A7%D9%88%D8%B1%DA%A9%D9%84%D8%A7%D8%AF-%D9%85%D8%AF%D9%84-C99007-%D8%A7%D8%B2-%D8%AC%D9%86%D8%B3-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D9%88-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-315-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D8%B3%D9%87-%D9%84%D8%A7%DB%8C%D9%87-%DA%A9%DB%8C%D9%81%DB%8C%D8%AA-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%AF%D8%A7%D8%B1%D8%AF-7-%D9%BE%D8%A7%D8%B1%DA%86%D9%87",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:22:09.459Z"
+  },
+  {
+    "id": "torobshop-beauty-health-e16e63f5a9627912",
+    "productId": "torobshop-e16e63f5a9627912",
+    "name": "ماهیتابه استیل ضد زنگ نینجا اورکلاد (24 سانتی‌متر)، مناسب برای انواع اجاق گاز، از جمله اجاق القایی، مناسب برای فر تا دمای 300 درجه سانتیگراد، پایه القایی پیوسته، مدل C90024EUI",
+    "brand": "",
+    "model": "ماهیتابه استیل ضد زنگ نینجا اورکلاد (24 سانتی‌متر)، مناسب برای انواع اجاق گاز، از جمله اجاق القایی، مناسب برای فر تا دمای 300 درجه سانتیگراد، پایه القایی پیوسته، مدل C90024EUI",
+    "category": "beauty-health",
+    "subcategory": "ماشین اصلاح و ریش تراش",
+    "price": 43959000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A7%D9%88%D8%B1%DA%A9%D9%84%D8%A7%D8%AF-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D8%A7%D8%B2-%D8%AC%D9%85%D9%84%D9%87-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-300-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D9%BE%D8%A7%DB%8C%D9%87-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%BE%DB%8C%D9%88%D8%B3%D8%AA%D9%87-%D9%85%D8%AF%D9%84-C90024EUI",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:22:09.459Z"
+  },
+  {
+    "id": "torobshop-beauty-health-6f344ad80be292b7",
+    "productId": "torobshop-6f344ad80be292b7",
+    "name": "قابلمه استیل ضد زنگ نینجا اورکلاد (18 سانتی‌متر) با درب، مناسب برای انواع اجاق گاز، حتی اجاق القایی، مناسب برای فر تا دمای 300 درجه سانتیگراد، پایه القایی پیوسته، C90218EUI",
+    "brand": "",
+    "model": "قابلمه استیل ضد زنگ نینجا اورکلاد (18 سانتی‌متر) با درب، مناسب برای انواع اجاق گاز، حتی اجاق القایی، مناسب برای فر تا دمای 300 درجه سانتیگراد، پایه القایی پیوسته، C90218EUI",
+    "category": "beauty-health",
+    "subcategory": "ماشین اصلاح و ریش تراش",
+    "price": 37606000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A7%D9%88%D8%B1%DA%A9%D9%84%D8%A7%D8%AF-18-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D8%AD%D8%AA%DB%8C-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-300-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D9%BE%D8%A7%DB%8C%D9%87-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%BE%DB%8C%D9%88%D8%B3%D8%AA%D9%87-C90218EUI",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:22:09.459Z"
+  },
+  {
+    "id": "torobshop-beauty-health-81068c1886acd27e",
+    "productId": "torobshop-81068c1886acd27e",
+    "name": "سرویس قابلمه سه تکه Ninja Foodi ZEROSTICK Vivid، قابلمه‌های ۱۶، ۱۸ و ۲۰ سانتی‌متری، آلومینیومی، روکش نچسب، ضد خش، مناسب برای استفاده با اجاق القایی، قابل استفاده در فر تا دمای ۲۰۰ درجه سانتیگراد، قابل شستشو در ماشین ظرفشویی، قرمز تیره، C23000EU",
+    "brand": "",
+    "model": "سرویس قابلمه سه تکه Ninja Foodi ZEROSTICK Vivid، قابلمه‌های ۱۶، ۱۸ و ۲۰ سانتی‌متری، آلومینیومی، روکش نچسب، ضد خش، مناسب برای استفاده با اجاق القایی، قابل استفاده در فر تا دمای ۲۰۰ درجه سانتیگراد، قابل شستشو در ماشین ظرفشویی، قرمز تیره، C23000EU",
+    "category": "beauty-health",
+    "subcategory": "ماشین اصلاح و ریش تراش",
+    "price": 54885000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%B3%D9%87-%D8%AA%DA%A9%D9%87-Ninja-Foodi-ZEROSTICK-Vivid-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%87%D8%A7%DB%8C-%DB%B1%DB%B6-%DB%B1%DB%B8-%D9%88-%DB%B2%DB%B0-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C-%D8%A2%D9%84%D9%88%D9%85%DB%8C%D9%86%DB%8C%D9%88%D9%85%DB%8C-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D8%B6%D8%AF-%D8%AE%D8%B4-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-%DB%B2%DB%B0%DB%B0-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D9%82%D8%B1%D9%85%D8%B2-%D8%AA%DB%8C%D8%B1%D9%87-C23000EU",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:22:09.459Z"
+  },
+  {
+    "id": "torobshop-beauty-health-0511220ad6c012d6",
+    "productId": "torobshop-0511220ad6c012d6",
+    "name": "سرویس قابلمه ۸ تکه نینجا C28000 Foodi NeverStick Vivid با درب، نچسب، بادوام و مناسب برای فر تا دمای ۲۰۰ درجه سانتیگراد، دسته‌های خنک شونده، بنفش",
+    "brand": "",
+    "model": "سرویس قابلمه ۸ تکه نینجا C28000 Foodi NeverStick Vivid با درب، نچسب، بادوام و مناسب برای فر تا دمای ۲۰۰ درجه سانتیگراد، دسته‌های خنک شونده، بنفش",
+    "category": "beauty-health",
+    "subcategory": "ماشین اصلاح و ریش تراش",
+    "price": 120443000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B8-%D8%AA%DA%A9%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-C28000-Foodi-NeverStick-Vivid-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%A7%D8%AF%D9%88%D8%A7%D9%85-%D9%88-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-%DB%B2%DB%B0%DB%B0-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D8%AF%D8%B3%D8%AA%D9%87-%D9%87%D8%A7%DB%8C-%D8%AE%D9%86%DA%A9-%D8%B4%D9%88%D9%86%D8%AF%D9%87-%D8%A8%D9%86%D9%81%D8%B4",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:22:09.459Z"
+  },
+  {
+    "id": "torobshop-beauty-health-52a42e6060959a65",
+    "productId": "torobshop-52a42e6060959a65",
+    "name": "قابلمه نچسب نینجا مدل Foodi NeverStick PossiblePan، سرویس ممتاز با ظرفیت ۴ لیتر، سبد بخارپز/صافی، بادوام و مناسب برای فر تا دمای ۲۶۰ درجه سانتیگراد، رنگ خاکستری دریا",
+    "brand": "",
+    "model": "قابلمه نچسب نینجا مدل Foodi NeverStick PossiblePan، سرویس ممتاز با ظرفیت ۴ لیتر، سبد بخارپز/صافی، بادوام و مناسب برای فر تا دمای ۲۶۰ درجه سانتیگراد، رنگ خاکستری دریا",
+    "category": "beauty-health",
+    "subcategory": "ماشین اصلاح و ریش تراش",
+    "price": 31508000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%86%DA%86%D8%B3%D8%A8-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%85%D8%AF%D9%84-Foodi-NeverStick-PossiblePan-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%85%D9%85%D8%AA%D8%A7%D8%B2-%D8%A8%D8%A7-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-%DB%B4-%D9%84%DB%8C%D8%AA%D8%B1-%D8%B3%D8%A8%D8%AF-%D8%A8%D8%AE%D8%A7%D8%B1%D9%BE%D8%B2-%D8%B5%D8%A7%D9%81%DB%8C-%D8%A8%D8%A7%D8%AF%D9%88%D8%A7%D9%85-%D9%88-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-%DB%B2%DB%B6%DB%B0-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D8%B1%D9%86%DA%AF-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C-%D8%AF%D8%B1%DB%8C%D8%A7",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:22:09.459Z"
+  },
+  {
+    "id": "torobshop-beauty-health-fcb903533e900733",
+    "productId": "torobshop-fcb903533e900733",
+    "name": "ماهیتابه نینجا CW60030 NeverStick با دسته راحت، 30.5 سانتی‌متر، نچسب، بادوام، ضد خش، قابل شستشو در ماشین ظرفشویی، قابل استفاده در فر تا دمای 200 درجه سانتیگراد، دسته‌های سیلیکونی، خاکستری",
+    "brand": "",
+    "model": "ماهیتابه نینجا CW60030 NeverStick با دسته راحت، 30.5 سانتی‌متر، نچسب، بادوام، ضد خش، قابل شستشو در ماشین ظرفشویی، قابل استفاده در فر تا دمای 200 درجه سانتیگراد، دسته‌های سیلیکونی، خاکستری",
+    "category": "beauty-health",
+    "subcategory": "ماشین اصلاح و ریش تراش",
+    "price": 44467000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-CW60030-NeverStick-%D8%A8%D8%A7-%D8%AF%D8%B3%D8%AA%D9%87-%D8%B1%D8%A7%D8%AD%D8%AA-30-5-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%A7%D8%AF%D9%88%D8%A7%D9%85-%D8%B6%D8%AF-%D8%AE%D8%B4-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-200-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D8%AF%D8%B3%D8%AA%D9%87-%D9%87%D8%A7%DB%8C-%D8%B3%DB%8C%D9%84%DB%8C%DA%A9%D9%88%D9%86%DB%8C-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:22:09.459Z"
+  },
+  {
+    "id": "torobshop-beauty-health-26f6085e7abb8195",
+    "productId": "torobshop-26f6085e7abb8195",
+    "name": "سرویس قابلمه ۵ تکه نینجا فودی زیرو استیک مدل Vivid، شامل ۳ قابلمه، ۱ قابلمه شیر، ۱ ماهیتابه، آلومینیومی، روکش نچسب، مناسب برای استفاده در فر تا دمای ۲۰۰ درجه سانتیگراد، قابل استفاده در ماشین ظرفشویی، قرمز تیره، مدل C23000EU",
+    "brand": "",
+    "model": "سرویس قابلمه ۵ تکه نینجا فودی زیرو استیک مدل Vivid، شامل ۳ قابلمه، ۱ قابلمه شیر، ۱ ماهیتابه، آلومینیومی، روکش نچسب، مناسب برای استفاده در فر تا دمای ۲۰۰ درجه سانتیگراد، قابل استفاده در ماشین ظرفشویی، قرمز تیره، مدل C23000EU",
+    "category": "beauty-health",
+    "subcategory": "ماشین اصلاح و ریش تراش",
+    "price": 144582000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B5-%D8%AA%DA%A9%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%81%D9%88%D8%AF%DB%8C-%D8%B2%DB%8C%D8%B1%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-%D9%85%D8%AF%D9%84-Vivid-%D8%B4%D8%A7%D9%85%D9%84-%DB%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%B4%DB%8C%D8%B1-%DB%B1-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A2%D9%84%D9%88%D9%85%DB%8C%D9%86%DB%8C%D9%88%D9%85%DB%8C-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-%DB%B2%DB%B0%DB%B0-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D9%82%D8%B1%D9%85%D8%B2-%D8%AA%DB%8C%D8%B1%D9%87-%D9%85%D8%AF%D9%84-C23000EU",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:22:09.459Z"
+  },
+  {
+    "id": "torobshop-beauty-health-362ea2159f4b778c",
+    "productId": "torobshop-362ea2159f4b778c",
+    "name": "ماهیتابه نینجا CW60020 NeverStick با دسته راحت، 20.3 سانتی‌متر، نچسب، بادوام، ضد خش، قابل استفاده در ماشین ظرفشویی، قابل استفاده در فر تا دمای 200 درجه سانتیگراد، دسته‌های سیلیکونی، خاکستری",
+    "brand": "",
+    "model": "ماهیتابه نینجا CW60020 NeverStick با دسته راحت، 20.3 سانتی‌متر، نچسب، بادوام، ضد خش، قابل استفاده در ماشین ظرفشویی، قابل استفاده در فر تا دمای 200 درجه سانتیگراد، دسته‌های سیلیکونی، خاکستری",
+    "category": "beauty-health",
+    "subcategory": "ماشین اصلاح و ریش تراش",
+    "price": 22614000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-CW60020-NeverStick-%D8%A8%D8%A7-%D8%AF%D8%B3%D8%AA%D9%87-%D8%B1%D8%A7%D8%AD%D8%AA-20-3-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%A7%D8%AF%D9%88%D8%A7%D9%85-%D8%B6%D8%AF-%D8%AE%D8%B4-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-200-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D8%AF%D8%B3%D8%AA%D9%87-%D9%87%D8%A7%DB%8C-%D8%B3%DB%8C%D9%84%DB%8C%DA%A9%D9%88%D9%86%DB%8C-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:22:09.459Z"
+  },
+  {
+    "id": "torobshop-beauty-health-f0066be7088adc85",
+    "productId": "torobshop-f0066be7088adc85",
+    "name": "سرویس قابلمه ۷ تکه نینجا نِوِر استیک سرامیکی پرو، روکش نچسب، قابلمه، ماهیتابه، درب شیشه‌ای، روکش سرامیکی، استیل ضد زنگ، مناسب برای فر، سازگار با تمام اجاق گازها و اجاق گازهای القایی",
+    "brand": "",
+    "model": "سرویس قابلمه ۷ تکه نینجا نِوِر استیک سرامیکی پرو، روکش نچسب، قابلمه، ماهیتابه، درب شیشه‌ای، روکش سرامیکی، استیل ضد زنگ، مناسب برای فر، سازگار با تمام اجاق گازها و اجاق گازهای القایی",
+    "category": "beauty-health",
+    "subcategory": "ماشین اصلاح و ریش تراش",
+    "price": 86394000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B7-%D8%AA%DA%A9%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%86-%D9%88-%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%BE%D8%B1%D9%88-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%AA%D9%85%D8%A7%D9%85-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2%D9%87%D8%A7-%D9%88-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2%D9%87%D8%A7%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:22:09.459Z"
+  },
+  {
+    "id": "torobshop-beauty-health-91acb86a8482ef98",
+    "productId": "torobshop-91acb86a8482ef98",
+    "name": "سرویس قابلمه و تابه نینجا CW69010، روکش نچسب، دسته راحت، سرویس 10 پارچه پخت و پز با درب نچسب، ماهیتابه، قابلمه با درب، قابلمه سوپ با درب، روکش نچسب",
+    "brand": "",
+    "model": "سرویس قابلمه و تابه نینجا CW69010، روکش نچسب، دسته راحت، سرویس 10 پارچه پخت و پز با درب نچسب، ماهیتابه، قابلمه با درب، قابلمه سوپ با درب، روکش نچسب",
+    "category": "beauty-health",
+    "subcategory": "ماشین اصلاح و ریش تراش",
+    "price": 218271000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D8%AA%D8%A7%D8%A8%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-CW69010-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D8%AF%D8%B3%D8%AA%D9%87-%D8%B1%D8%A7%D8%AD%D8%AA-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-10-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D9%BE%D8%AE%D8%AA-%D9%88-%D9%BE%D8%B2-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%86%DA%86%D8%B3%D8%A8-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%B3%D9%88%D9%BE-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:22:09.459Z"
+  },
+  {
+    "id": "torobshop-beauty-health-5b99db3ff6f530b9",
+    "productId": "torobshop-5b99db3ff6f530b9",
+    "name": "سرویس قابلمه ۱۱ پارچه نینجا نِوِر استیک سرامیکی پرو، قابلمه و ماهیتابه نچسب، درب شیشه‌ای، روکش سرامیکی، استیل ضد زنگ، مناسب برای استفاده روی اجاق گاز و فر، مناسب برای انواع اجاق گاز.",
+    "brand": "",
+    "model": "سرویس قابلمه ۱۱ پارچه نینجا نِوِر استیک سرامیکی پرو، قابلمه و ماهیتابه نچسب، درب شیشه‌ای، روکش سرامیکی، استیل ضد زنگ، مناسب برای استفاده روی اجاق گاز و فر، مناسب برای انواع اجاق گاز.",
+    "category": "beauty-health",
+    "subcategory": "ماشین اصلاح و ریش تراش",
+    "price": 48787000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B1%DB%B1-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%86-%D9%88-%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%BE%D8%B1%D9%88-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%86%DA%86%D8%B3%D8%A8-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%B1%D9%88%DB%8C-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D9%88-%D9%81%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:22:09.459Z"
+  },
+  {
+    "id": "torobshop-beauty-health-1fe50cc1e4bf6a68",
+    "productId": "torobshop-1fe50cc1e4bf6a68",
+    "name": "سرویس قابلمه و تابه 11 پارچه نینجا سرامیک پرو CW39011WH، نچسب، با درب شیشه‌ای، بدون PTFE، روکش سرامیکی، مناسب برای فر، مناسب برای انواع اجاق گاز و اجاق القایی",
+    "brand": "",
+    "model": "سرویس قابلمه و تابه 11 پارچه نینجا سرامیک پرو CW39011WH، نچسب، با درب شیشه‌ای، بدون PTFE، روکش سرامیکی، مناسب برای فر، مناسب برای انواع اجاق گاز و اجاق القایی",
+    "category": "beauty-health",
+    "subcategory": "ماشین اصلاح و ریش تراش",
+    "price": 126287000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D8%AA%D8%A7%D8%A8%D9%87-11-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9-%D9%BE%D8%B1%D9%88-CW39011WH-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-PTFE-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D9%88-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:22:09.459Z"
+  },
+  {
+    "id": "torobshop-beauty-health-b3eb05e26a027097",
+    "productId": "torobshop-b3eb05e26a027097",
+    "name": "سرویس قابلمه نچسب سرامیکی پرو مدل Ninja NeverStick، 7 تکه، قابلمه، ماهیتابه، درب شیشه‌ای، روکش سرامیکی، دسته‌های استیل ضد زنگ، مناسب برای اتصال اجاق گاز به فر، مناسب برای همه نوع اجاق گاز",
+    "brand": "",
+    "model": "سرویس قابلمه نچسب سرامیکی پرو مدل Ninja NeverStick، 7 تکه، قابلمه، ماهیتابه، درب شیشه‌ای، روکش سرامیکی، دسته‌های استیل ضد زنگ، مناسب برای اتصال اجاق گاز به فر، مناسب برای همه نوع اجاق گاز",
+    "category": "beauty-health",
+    "subcategory": "ماشین اصلاح و ریش تراش",
+    "price": 69623000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%86%DA%86%D8%B3%D8%A8-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%BE%D8%B1%D9%88-%D9%85%D8%AF%D9%84-Ninja-NeverStick-7-%D8%AA%DA%A9%D9%87-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D8%AF%D8%B3%D8%AA%D9%87-%D9%87%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D8%A8%D9%87-%D9%81%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%87%D9%85%D9%87-%D9%86%D9%88%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-2",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:22:09.459Z"
+  },
+  {
+    "id": "torobshop-beauty-health-4b6a53eaa53ecf05",
+    "productId": "torobshop-4b6a53eaa53ecf05",
+    "name": "سرویس قابلمه و ماهیتابه نینجا سرامیک پرو CW39011MM، با روکش نچسب، دارای درب شیشه‌ای، بدون PTFE، روکش سرامیکی، مناسب برای فر، مناسب برای انواع اجاق گاز و اجاق گازهای القایی",
+    "brand": "",
+    "model": "سرویس قابلمه و ماهیتابه نینجا سرامیک پرو CW39011MM، با روکش نچسب، دارای درب شیشه‌ای، بدون PTFE، روکش سرامیکی، مناسب برای فر، مناسب برای انواع اجاق گاز و اجاق گازهای القایی",
+    "category": "beauty-health",
+    "subcategory": "ماشین اصلاح و ریش تراش",
+    "price": 123238000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9-%D9%BE%D8%B1%D9%88-CW39011MM-%D8%A8%D8%A7-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-PTFE-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D9%88-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2%D9%87%D8%A7%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:22:09.459Z"
+  },
+  {
+    "id": "torobshop-beauty-health-981e44302f342963",
+    "productId": "torobshop-981e44302f342963",
+    "name": "سرویس قابلمه ۷ پارچه نینجا نِوِر استیک سرامیکی پرو، روکش نچسب، قابلمه، ماهیتابه، درب شیشه‌ای، روکش سرامیکی، دسته‌های استیل ضد زنگ، مناسب برای اتصال اجاق گاز به فر، مناسب برای همه نوع اجاق گاز و",
+    "brand": "",
+    "model": "سرویس قابلمه ۷ پارچه نینجا نِوِر استیک سرامیکی پرو، روکش نچسب، قابلمه، ماهیتابه، درب شیشه‌ای، روکش سرامیکی، دسته‌های استیل ضد زنگ، مناسب برای اتصال اجاق گاز به فر، مناسب برای همه نوع اجاق گاز و",
+    "category": "beauty-health",
+    "subcategory": "ماشین اصلاح و ریش تراش",
+    "price": 87918000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B7-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%86-%D9%88-%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%BE%D8%B1%D9%88-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D8%AF%D8%B3%D8%AA%D9%87-%D9%87%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D8%A8%D9%87-%D9%81%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%87%D9%85%D9%87-%D9%86%D9%88%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D9%88",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:22:09.459Z"
+  },
+  {
+    "id": "torobshop-beauty-health-9366ead7b155bc0e",
+    "productId": "torobshop-9366ead7b155bc0e",
+    "name": "سرویس قابلمه نچسب سرامیکی پرو مدل Ninja NeverStick، 7 تکه، قابلمه، ماهیتابه، درب شیشه‌ای، روکش سرامیکی، دسته‌های استیل ضد زنگ، مناسب برای اتصال اجاق گاز به فر، مناسب برای همه نوع اجاق گاز",
+    "brand": "",
+    "model": "سرویس قابلمه نچسب سرامیکی پرو مدل Ninja NeverStick، 7 تکه، قابلمه، ماهیتابه، درب شیشه‌ای، روکش سرامیکی، دسته‌های استیل ضد زنگ، مناسب برای اتصال اجاق گاز به فر، مناسب برای همه نوع اجاق گاز",
+    "category": "beauty-health",
+    "subcategory": "ماشین اصلاح و ریش تراش",
+    "price": 88426000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%86%DA%86%D8%B3%D8%A8-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%BE%D8%B1%D9%88-%D9%85%D8%AF%D9%84-Ninja-NeverStick-7-%D8%AA%DA%A9%D9%87-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D8%AF%D8%B3%D8%AA%D9%87-%D9%87%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D8%A8%D9%87-%D9%81%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%87%D9%85%D9%87-%D9%86%D9%88%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:22:09.459Z"
+  },
+  {
+    "id": "torobshop-beauty-health-0e19f63aed58a286",
+    "productId": "torobshop-0e19f63aed58a286",
+    "name": "سرویس قابلمه و ماهیتابه نچسب نینجا سرامیک پرو CW39011BM با درب شیشه‌ای، بدون PTFE، روکش سرامیکی، مناسب برای فر، سازگار با انواع اجاق گاز و اجاق‌های القایی، ماکارون آبی",
+    "brand": "",
+    "model": "سرویس قابلمه و ماهیتابه نچسب نینجا سرامیک پرو CW39011BM با درب شیشه‌ای، بدون PTFE، روکش سرامیکی، مناسب برای فر، سازگار با انواع اجاق گاز و اجاق‌های القایی، ماکارون آبی",
+    "category": "beauty-health",
+    "subcategory": "ماشین اصلاح و ریش تراش",
+    "price": 68352000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%86%DA%86%D8%B3%D8%A8-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9-%D9%BE%D8%B1%D9%88-CW39011BM-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-PTFE-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D9%88-%D8%A7%D8%AC%D8%A7%D9%82-%D9%87%D8%A7%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%85%D8%A7%DA%A9%D8%A7%D8%B1%D9%88%D9%86-%D8%A2%D8%A8%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:22:09.459Z"
+  },
+  {
+    "id": "torobshop-beauty-health-a084da6a498709d9",
+    "productId": "torobshop-a084da6a498709d9",
+    "name": "سرویس قابلمه و تابه 11 پارچه نینجا سرامیک پرو CW39011BK، نچسب، با درب شیشه‌ای، بدون PTFE، روکش سرامیکی، مناسب برای فر، مناسب برای انواع اجاق گاز و اجاق گازهای القایی",
+    "brand": "",
+    "model": "سرویس قابلمه و تابه 11 پارچه نینجا سرامیک پرو CW39011BK، نچسب، با درب شیشه‌ای، بدون PTFE، روکش سرامیکی، مناسب برای فر، مناسب برای انواع اجاق گاز و اجاق گازهای القایی",
+    "category": "beauty-health",
+    "subcategory": "ماشین اصلاح و ریش تراش",
+    "price": 126287000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D8%AA%D8%A7%D8%A8%D9%87-11-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9-%D9%BE%D8%B1%D9%88-CW39011BK-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-PTFE-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D9%88-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2%D9%87%D8%A7%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:22:09.459Z"
+  },
+  {
+    "id": "torobshop-beauty-health-986e9be42ebf1aaa",
+    "productId": "torobshop-986e9be42ebf1aaa",
+    "name": "سرویس قابلمه و تابه 11 پارچه نینجا سرامیک پرو CW39011GN، روکش نچسب، قابلمه و تابه، روکش نچسب، بدون PTFE، روکش سرامیکی، مناسب برای فر، مناسب برای انواع اجاق گاز و اجاق گازهای القایی",
+    "brand": "",
+    "model": "سرویس قابلمه و تابه 11 پارچه نینجا سرامیک پرو CW39011GN، روکش نچسب، قابلمه و تابه، روکش نچسب، بدون PTFE، روکش سرامیکی، مناسب برای فر، مناسب برای انواع اجاق گاز و اجاق گازهای القایی",
+    "category": "beauty-health",
+    "subcategory": "ماشین اصلاح و ریش تراش",
+    "price": 107230000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D8%AA%D8%A7%D8%A8%D9%87-11-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9-%D9%BE%D8%B1%D9%88-CW39011GN-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D8%AA%D8%A7%D8%A8%D9%87-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%AF%D9%88%D9%86-PTFE-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D9%88-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2%D9%87%D8%A7%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:22:09.459Z"
+  },
+  {
+    "id": "torobshop-beauty-health-372174ecf0618423",
+    "productId": "torobshop-372174ecf0618423",
+    "name": "سرویس قابلمه و ماهیتابه نینجا CW99009، روکش نچسب، طول عمر بیشتر، سرویس قابلمه سرامیکی ممتاز، 9 پارچه، روکش نچسب، بدون PTFE، مناسب برای فر تا دمای 287 درجه سانتیگراد، سازگار با اجاق القایی، 3 نفره",
+    "brand": "",
+    "model": "سرویس قابلمه و ماهیتابه نینجا CW99009، روکش نچسب، طول عمر بیشتر، سرویس قابلمه سرامیکی ممتاز، 9 پارچه، روکش نچسب، بدون PTFE، مناسب برای فر تا دمای 287 درجه سانتیگراد، سازگار با اجاق القایی، 3 نفره",
+    "category": "beauty-health",
+    "subcategory": "ماشین اصلاح و ریش تراش",
+    "price": 84361000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-CW99009-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D8%B7%D9%88%D9%84-%D8%B9%D9%85%D8%B1-%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%85%D9%85%D8%AA%D8%A7%D8%B2-9-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%AF%D9%88%D9%86-PTFE-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-287-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-3-%D9%86%D9%81%D8%B1%D9%87",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:22:09.459Z"
+  },
+  {
+    "id": "torobshop-beauty-health-9d7cd3afb8947c34",
+    "productId": "torobshop-9d7cd3afb8947c34",
+    "name": "سرویس قابلمه و ماهیتابه نینجا سرامیک پرو CW39014MM، روکش نچسب، قابلمه و ماهیتابه، روکش نچسب، بدون PTFE، روکش سرامیکی، مناسب برای فر، مناسب برای انواع اجاق گاز و اجاق گازهای القایی",
+    "brand": "",
+    "model": "سرویس قابلمه و ماهیتابه نینجا سرامیک پرو CW39014MM، روکش نچسب، قابلمه و ماهیتابه، روکش نچسب، بدون PTFE، روکش سرامیکی، مناسب برای فر، مناسب برای انواع اجاق گاز و اجاق گازهای القایی",
+    "category": "beauty-health",
+    "subcategory": "ماشین اصلاح و ریش تراش",
+    "price": 162624000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9-%D9%BE%D8%B1%D9%88-CW39014MM-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%AF%D9%88%D9%86-PTFE-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D9%88-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2%D9%87%D8%A7%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:22:09.459Z"
+  },
+  {
+    "id": "torobshop-beauty-health-e941e8d3b0baa257",
+    "productId": "torobshop-e941e8d3b0baa257",
+    "name": "سرویس قابلمه سرامیکی نینجا مدل Extended Life، 5 تکه، مناسب برای فر، مدل CW95000EUUKDB",
+    "brand": "",
+    "model": "سرویس قابلمه سرامیکی نینجا مدل Extended Life، 5 تکه، مناسب برای فر، مدل CW95000EUUKDB",
+    "category": "beauty-health",
+    "subcategory": "ماشین اصلاح و ریش تراش",
+    "price": 75975000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%85%D8%AF%D9%84-Extended-Life-5-%D8%AA%DA%A9%D9%87-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D9%85%D8%AF%D9%84-CW95000EUUKDB",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:22:09.459Z"
+  },
+  {
+    "id": "torobshop-beauty-health-da719245fe9ffcf9",
+    "productId": "torobshop-da719245fe9ffcf9",
+    "name": "ماهیتابه سرامیکی ممتاز نینجا مدل Extended Life CW90020، روکش نچسب، بدون PTFE، پخت و پز سالم، قابل استفاده در فر تا دمای 287 درجه سانتیگراد، قابل شستشو در ماشین ظرفشویی، مناسب برای انواع اجاق گاز و اجاق گازهای القایی",
+    "brand": "",
+    "model": "ماهیتابه سرامیکی ممتاز نینجا مدل Extended Life CW90020، روکش نچسب، بدون PTFE، پخت و پز سالم، قابل استفاده در فر تا دمای 287 درجه سانتیگراد، قابل شستشو در ماشین ظرفشویی، مناسب برای انواع اجاق گاز و اجاق گازهای القایی",
+    "category": "beauty-health",
+    "subcategory": "ماشین اصلاح و ریش تراش",
+    "price": 64541000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%85%D9%85%D8%AA%D8%A7%D8%B2-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%85%D8%AF%D9%84-Extended-Life-CW90020-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%AF%D9%88%D9%86-PTFE-%D9%BE%D8%AE%D8%AA-%D9%88-%D9%BE%D8%B2-%D8%B3%D8%A7%D9%84%D9%85-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-287-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D9%88-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2%D9%87%D8%A7%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:22:09.459Z"
+  },
+  {
+    "id": "torobshop-beauty-health-58130adffe7c44df",
+    "productId": "torobshop-58130adffe7c44df",
+    "name": "ماهیتابه سرامیکی نینجا با طول عمر طولانی (28 سانتی‌متر)، پوشش نچسب (بدون PFA، PFOA، سرب و کادمیوم)، سازگار با القای حرارتی، دسته استیل ضد زنگ، مناسب برای فر تا دمای 285 درجه سانتیگراد، خاکستری و سفالی، CW90028DEDB",
+    "brand": "",
+    "model": "ماهیتابه سرامیکی نینجا با طول عمر طولانی (28 سانتی‌متر)، پوشش نچسب (بدون PFA، PFOA، سرب و کادمیوم)، سازگار با القای حرارتی، دسته استیل ضد زنگ، مناسب برای فر تا دمای 285 درجه سانتیگراد، خاکستری و سفالی، CW90028DEDB",
+    "category": "beauty-health",
+    "subcategory": "ماشین اصلاح و ریش تراش",
+    "price": 29221000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A8%D8%A7-%D8%B7%D9%88%D9%84-%D8%B9%D9%85%D8%B1-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-28-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%BE%D9%88%D8%B4%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%AF%D9%88%D9%86-PFA-PFOA-%D8%B3%D8%B1%D8%A8-%D9%88-%DA%A9%D8%A7%D8%AF%D9%85%DB%8C%D9%88%D9%85-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C-%D8%AD%D8%B1%D8%A7%D8%B1%D8%AA%DB%8C-%D8%AF%D8%B3%D8%AA%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-285-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C-%D9%88-%D8%B3%D9%81%D8%A7%D9%84%DB%8C-CW90028DEDB",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:22:09.459Z"
+  },
+  {
+    "id": "torobshop-beauty-health-a40ad0a81a8c91b9",
+    "productId": "torobshop-a40ad0a81a8c91b9",
+    "name": "ماهیتابه سرامیکی نینجا مدل Extended Life سایز ۲۶ سانتی‌متر، دارای روکش نچسب (بدون PFA، PFOA، سرب یا کادمیوم)، مناسب برای پخت القایی، دسته استیل ضد زنگ، قابل استفاده در فر تا دمای ۲۸۵ درجه سانتیگراد، به رنگ سفالی و خاکستری، CW90026DE",
+    "brand": "",
+    "model": "ماهیتابه سرامیکی نینجا مدل Extended Life سایز ۲۶ سانتی‌متر، دارای روکش نچسب (بدون PFA، PFOA، سرب یا کادمیوم)، مناسب برای پخت القایی، دسته استیل ضد زنگ، قابل استفاده در فر تا دمای ۲۸۵ درجه سانتیگراد، به رنگ سفالی و خاکستری، CW90026DE",
+    "category": "beauty-health",
+    "subcategory": "ماشین اصلاح و ریش تراش",
+    "price": 27951000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%85%D8%AF%D9%84-Extended-Life-%D8%B3%D8%A7%DB%8C%D8%B2-%DB%B2%DB%B6-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%AF%D9%88%D9%86-PFA-PFOA-%D8%B3%D8%B1%D8%A8-%DB%8C%D8%A7-%DA%A9%D8%A7%D8%AF%D9%85%DB%8C%D9%88%D9%85-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D8%AE%D8%AA-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%AF%D8%B3%D8%AA%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-%DB%B2%DB%B8%DB%B5-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D8%A8%D9%87-%D8%B1%D9%86%DA%AF-%D8%B3%D9%81%D8%A7%D9%84%DB%8C-%D9%88-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C-CW90026DE",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:22:09.459Z"
+  },
+  {
+    "id": "torobshop-beauty-health-7209fc2aa373a914",
+    "productId": "torobshop-7209fc2aa373a914",
+    "name": "ماهیتابه سرامیکی نینجا مدل Extended Life سایز 24 سانتی‌متر، به رنگ‌های سفالی و خاکستری، CW90024DE",
+    "brand": "",
+    "model": "ماهیتابه سرامیکی نینجا مدل Extended Life سایز 24 سانتی‌متر، به رنگ‌های سفالی و خاکستری، CW90024DE",
+    "category": "beauty-health",
+    "subcategory": "ماشین اصلاح و ریش تراش",
+    "price": 14991000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%85%D8%AF%D9%84-Extended-Life-%D8%B3%D8%A7%DB%8C%D8%B2-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A8%D9%87-%D8%B1%D9%86%DA%AF-%D9%87%D8%A7%DB%8C-%D8%B3%D9%81%D8%A7%D9%84%DB%8C-%D9%88-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C-CW90024DE",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:22:09.459Z"
+  },
+  {
+    "id": "torobshop-beauty-health-d73b8f5c61c1a0fd",
+    "productId": "torobshop-d73b8f5c61c1a0fd",
+    "name": "وک سرامیکی نینجا با طول عمر طولانی ۲۸ سانتی‌متر، تابه وک نچسب (بدون PFA، PFOA، سرب، کادمیوم)، مناسب برای اجاق گازهای القایی، دسته استیل ضد زنگ، مناسب برای فر تا دمای ۲۸۵ درجه سانتیگراد، به رنگ‌های سفالی و خاکستری، CW90928DE",
+    "brand": "",
+    "model": "وک سرامیکی نینجا با طول عمر طولانی ۲۸ سانتی‌متر، تابه وک نچسب (بدون PFA، PFOA، سرب، کادمیوم)، مناسب برای اجاق گازهای القایی، دسته استیل ضد زنگ، مناسب برای فر تا دمای ۲۸۵ درجه سانتیگراد، به رنگ‌های سفالی و خاکستری، CW90928DE",
+    "category": "beauty-health",
+    "subcategory": "ماشین اصلاح و ریش تراش",
+    "price": 17532000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%88%DA%A9-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A8%D8%A7-%D8%B7%D9%88%D9%84-%D8%B9%D9%85%D8%B1-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%DB%B2%DB%B8-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%AA%D8%A7%D8%A8%D9%87-%D9%88%DA%A9-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%AF%D9%88%D9%86-PFA-PFOA-%D8%B3%D8%B1%D8%A8-%DA%A9%D8%A7%D8%AF%D9%85%DB%8C%D9%88%D9%85-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2%D9%87%D8%A7%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%AF%D8%B3%D8%AA%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-%DB%B2%DB%B8%DB%B5-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D8%A8%D9%87-%D8%B1%D9%86%DA%AF-%D9%87%D8%A7%DB%8C-%D8%B3%D9%81%D8%A7%D9%84%DB%8C-%D9%88-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C-CW90928DE",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:22:09.459Z"
+  },
+  {
+    "id": "torobshop-beauty-health-cfdf7d431c8836b3",
+    "productId": "torobshop-cfdf7d431c8836b3",
+    "name": "ماهیتابه سرامیکی نینجا با طول عمر طولانی ۲۸ سانتی‌متر، ماهیتابه با روکش نچسب (بدون PFA، PFOA، سرب یا کادمیوم)، مناسب برای پخت القایی، دسته استیل ضد زنگ، مناسب برای فر تا دمای ۲۸۵ درجه سانتیگراد، به رنگ‌های سفالی و خاکستری، CW90028DE",
+    "brand": "",
+    "model": "ماهیتابه سرامیکی نینجا با طول عمر طولانی ۲۸ سانتی‌متر، ماهیتابه با روکش نچسب (بدون PFA، PFOA، سرب یا کادمیوم)، مناسب برای پخت القایی، دسته استیل ضد زنگ، مناسب برای فر تا دمای ۲۸۵ درجه سانتیگراد، به رنگ‌های سفالی و خاکستری، CW90028DE",
+    "category": "beauty-health",
+    "subcategory": "ماشین اصلاح و ریش تراش",
+    "price": 29221000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A8%D8%A7-%D8%B7%D9%88%D9%84-%D8%B9%D9%85%D8%B1-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%DB%B2%DB%B8-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A8%D8%A7-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%AF%D9%88%D9%86-PFA-PFOA-%D8%B3%D8%B1%D8%A8-%DB%8C%D8%A7-%DA%A9%D8%A7%D8%AF%D9%85%DB%8C%D9%88%D9%85-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D8%AE%D8%AA-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%AF%D8%B3%D8%AA%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-%DB%B2%DB%B8%DB%B5-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D8%A8%D9%87-%D8%B1%D9%86%DA%AF-%D9%87%D8%A7%DB%8C-%D8%B3%D9%81%D8%A7%D9%84%DB%8C-%D9%88-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C-CW90028DE",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:22:09.459Z"
+  },
+  {
+    "id": "torobshop-beauty-health-227eb15d85db0deb",
+    "productId": "torobshop-227eb15d85db0deb",
+    "name": "سرویس قابلمه سرامیکی ۵ تکه نینجا مدل Extended Life (ماهیتابه‌های ۲۰ و ۲۴ سانتی‌متری، ۱۶ عدد)",
+    "brand": "",
+    "model": "سرویس قابلمه سرامیکی ۵ تکه نینجا مدل Extended Life (ماهیتابه‌های ۲۰ و ۲۴ سانتی‌متری، ۱۶ عدد)",
+    "category": "beauty-health",
+    "subcategory": "ماشین اصلاح و ریش تراش",
+    "price": 28967000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%DB%B5-%D8%AA%DA%A9%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%85%D8%AF%D9%84-Extended-Life-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%87%D8%A7%DB%8C-%DB%B2%DB%B0-%D9%88-%DB%B2%DB%B4-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B1%DB%B6-%D8%B9%D8%AF%D8%AF",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:22:09.459Z"
+  },
+  {
+    "id": "torobshop-beauty-health-74a94c9ec68aef39",
+    "productId": "torobshop-74a94c9ec68aef39",
+    "name": "ماهیتابه سرامیکی نینجا مدل Extended Life سایز 20 سانتی‌متر، CW90020DE، سفالی و خاکستری",
+    "brand": "",
+    "model": "ماهیتابه سرامیکی نینجا مدل Extended Life سایز 20 سانتی‌متر، CW90020DE، سفالی و خاکستری",
+    "category": "beauty-health",
+    "subcategory": "ماشین اصلاح و ریش تراش",
+    "price": 33490000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%85%D8%AF%D9%84-Extended-Life-%D8%B3%D8%A7%DB%8C%D8%B2-20-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-CW90020DE-%D8%B3%D9%81%D8%A7%D9%84%DB%8C-%D9%88-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:22:09.459Z"
+  },
+  {
+    "id": "torobshop-beauty-health-5460ea0842329793",
+    "productId": "torobshop-5460ea0842329793",
+    "name": "سرویس قابلمه سرامیکی نینجا مدل Extended Life، دو تکه، ۲۴ و ۲۸ سانتی‌متر، روکش نچسب (فاقد PFA، PFOA، سرب و کادمیوم)، سازگار با اجاق القایی، دسته استیل ضد زنگ، مناسب برای فر تا دمای ۲۸۵ درجه سانتیگراد، به رنگ‌های سفالی و خاکستری، CW92000DE",
+    "brand": "",
+    "model": "سرویس قابلمه سرامیکی نینجا مدل Extended Life، دو تکه، ۲۴ و ۲۸ سانتی‌متر، روکش نچسب (فاقد PFA، PFOA، سرب و کادمیوم)، سازگار با اجاق القایی، دسته استیل ضد زنگ، مناسب برای فر تا دمای ۲۸۵ درجه سانتیگراد، به رنگ‌های سفالی و خاکستری، CW92000DE",
+    "category": "beauty-health",
+    "subcategory": "ماشین اصلاح و ریش تراش",
+    "price": 53360000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%85%D8%AF%D9%84-Extended-Life-%D8%AF%D9%88-%D8%AA%DA%A9%D9%87-%DB%B2%DB%B4-%D9%88-%DB%B2%DB%B8-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D9%81%D8%A7%D9%82%D8%AF-PFA-PFOA-%D8%B3%D8%B1%D8%A8-%D9%88-%DA%A9%D8%A7%D8%AF%D9%85%DB%8C%D9%88%D9%85-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%AF%D8%B3%D8%AA%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-%DB%B2%DB%B8%DB%B5-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D8%A8%D9%87-%D8%B1%D9%86%DA%AF-%D9%87%D8%A7%DB%8C-%D8%B3%D9%81%D8%A7%D9%84%DB%8C-%D9%88-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C-CW92000DE",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:22:09.459Z"
+  },
+  {
+    "id": "torobshop-beauty-health-e1410714f43d4f84",
+    "productId": "torobshop-e1410714f43d4f84",
+    "name": "سرویس قابلمه سرامیکی سه تکه نینجا مدل Extended Life (قابلمه‌های ۱۶، ۱۸ و ۲۰ سانتی‌متری)",
+    "brand": "",
+    "model": "سرویس قابلمه سرامیکی سه تکه نینجا مدل Extended Life (قابلمه‌های ۱۶، ۱۸ و ۲۰ سانتی‌متری)",
+    "category": "beauty-health",
+    "subcategory": "ماشین اصلاح و ریش تراش",
+    "price": 44467000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D8%B3%D9%87-%D8%AA%DA%A9%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%85%D8%AF%D9%84-Extended-Life-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%87%D8%A7%DB%8C-%DB%B1%DB%B6-%DB%B1%DB%B8-%D9%88-%DB%B2%DB%B0-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:22:09.459Z"
   },
   {
     "id": "torobshop-beauty-health-b510ac9c5967ae6e",
@@ -5973,7 +6837,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.642Z"
+    "observedAt": "2026-09-04T21:22:09.459Z"
   },
   {
     "id": "torobshop-beauty-health-3dbcaccb8662bde1",
@@ -5991,7 +6855,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.642Z"
+    "observedAt": "2026-09-04T21:22:09.459Z"
   },
   {
     "id": "torobshop-beauty-health-200d11c52e55158d",
@@ -6009,7 +6873,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.642Z"
+    "observedAt": "2026-09-04T21:22:09.460Z"
   },
   {
     "id": "torobshop-beauty-health-7030913f04cb3a2f",
@@ -6027,7 +6891,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.642Z"
+    "observedAt": "2026-09-04T21:22:09.460Z"
   },
   {
     "id": "torobshop-beauty-health-c57090577d7bcdd6",
@@ -6045,7 +6909,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.642Z"
+    "observedAt": "2026-09-04T21:22:09.460Z"
   },
   {
     "id": "torobshop-beauty-health-47c81c869cca25d8",
@@ -6063,7 +6927,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.642Z"
+    "observedAt": "2026-09-04T21:22:09.460Z"
   },
   {
     "id": "torobshop-beauty-health-f566f758ccfcc717",
@@ -6081,7 +6945,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.642Z"
+    "observedAt": "2026-09-04T21:22:09.460Z"
   },
   {
     "id": "torobshop-beauty-health-964ece0d8e9f6669",
@@ -6099,7 +6963,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.642Z"
+    "observedAt": "2026-09-04T21:22:09.460Z"
   },
   {
     "id": "torobshop-beauty-health-4cef33429e237704",
@@ -6117,7 +6981,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.642Z"
+    "observedAt": "2026-09-04T21:22:09.460Z"
   },
   {
     "id": "torobshop-beauty-health-e4a2bc7cbee474b2",
@@ -6135,7 +6999,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.642Z"
+    "observedAt": "2026-09-04T21:22:09.460Z"
   },
   {
     "id": "torobshop-beauty-health-3be15395be038aca",
@@ -6153,7 +7017,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.642Z"
+    "observedAt": "2026-09-04T21:22:09.460Z"
   },
   {
     "id": "torobshop-beauty-health-77f61ec7f8b8b73d",
@@ -6171,7 +7035,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.642Z"
+    "observedAt": "2026-09-04T21:22:09.460Z"
   },
   {
     "id": "torobshop-beauty-health-a09bc08624899ff4",
@@ -6189,7 +7053,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.642Z"
+    "observedAt": "2026-09-04T21:22:09.460Z"
   },
   {
     "id": "torobshop-beauty-health-bbd449ed50b3d540",
@@ -6207,835 +7071,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.642Z"
-  },
-  {
-    "id": "torobshop-beauty-health-50ddbf6ac385797f",
-    "productId": "torobshop-50ddbf6ac385797f",
-    "name": "ماهیتابه بخارپز چندکاره نینجا آمریکا Ninja Foodi CW102BLUK ظرفیت 3.8 لیتر 9 کاره آبی",
-    "brand": "",
-    "model": "ماهیتابه بخارپز چندکاره نینجا آمریکا Ninja Foodi CW102BLUK ظرفیت 3.8 لیتر 9 کاره آبی",
-    "category": "beauty-health",
-    "subcategory": "ماشین اصلاح و ریش تراش",
-    "price": 42942000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B9-%DA%A9%D8%A7%D8%B1%D9%87-Ninja-Foodi-CW102BLUK-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%A8%D8%AE%D8%A7%D8%B1%D9%BE%D8%B2-%D8%A7%D9%84%DA%A9-%DA%A9%D9%81%DA%AF%DB%8C%D8%B1-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%DB%B3-%DB%B8-%D9%84%DB%8C%D8%AA%D8%B1-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-%DB%B2%DB%B6%DB%B0-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D9%85%D8%A7%DA%A9%D8%A7%D8%B1%D9%88%D9%86-%D8%A2%D8%A8%DB%8C-%D8%A2%D8%A8%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.642Z"
-  },
-  {
-    "id": "torobshop-beauty-health-80a52ed3a08cda77",
-    "productId": "torobshop-80a52ed3a08cda77",
-    "name": "ماهیتابه بخارپز چندکاره نینجا آمریکا Ninja Foodi CW102GYUK ظرفیت 3.8 لیتر 9 کاره خاکستری",
-    "brand": "",
-    "model": "ماهیتابه بخارپز چندکاره نینجا آمریکا Ninja Foodi CW102GYUK ظرفیت 3.8 لیتر 9 کاره خاکستری",
-    "category": "beauty-health",
-    "subcategory": "ماشین اصلاح و ریش تراش",
-    "price": 81820000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B9-%DA%A9%D8%A7%D8%B1%D9%87-Ninja-Foodi-%D9%85%D8%AF%D9%84-PossiblePan-CW102GYUK-%D8%A8%D8%A7-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-ZEROSTICK-%D8%A8%D8%AE%D8%A7%D8%B1%D9%BE%D8%B2-%D8%B3%DB%8C%D9%84%D8%B1-%D9%88-%DA%A9%D9%81%DA%AF%DB%8C%D8%B1-%DB%8C%DA%A9%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D9%86%DA%86%D8%B3%D8%A8-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D8%A8%D9%87-%D8%B1%D9%86%DA%AF-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C-%D9%85%D8%A7%DB%8C%D9%84-%D8%A8%D9%87-%D9%86%D9%85%DA%A9-%D8%AF%D8%B1%DB%8C%D8%A7",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.642Z"
-  },
-  {
-    "id": "torobshop-beauty-health-039d5e6addbbd691",
-    "productId": "torobshop-039d5e6addbbd691",
-    "name": "چاقوی سرآشپز زولینگ آلمان ZWILLING Pro Traditional تیغه 20 سانت",
-    "brand": "",
-    "model": "چاقوی سرآشپز زولینگ آلمان ZWILLING Pro Traditional تیغه 20 سانت",
-    "category": "beauty-health",
-    "subcategory": "ماشین اصلاح و ریش تراش",
-    "price": 37980000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%B3%D8%B1%D8%A2%D8%B4%D9%BE%D8%B2-%D8%B3%D9%86%D8%AA%DB%8C-%D8%AD%D8%B1%D9%81%D9%87-%D8%A7%DB%8C-ZWILLING-%D8%A7%D9%88%D8%B1%D8%AC%DB%8C%D9%86%D8%A7%D9%84-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C-%D9%85%D8%B4%DA%A9%DB%8C-20-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-20-%D8%AF%D8%B1-5-%D8%AF%D8%B1-5-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.642Z"
-  },
-  {
-    "id": "torobshop-beauty-health-35ed38f253e56a81",
-    "productId": "torobshop-35ed38f253e56a81",
-    "name": "قهوه‌ساز فیلتری و کپسولی نینجا آمریکا Ninja Prestige CFN802EUGM دوکاره",
-    "brand": "",
-    "model": "قهوه‌ساز فیلتری و کپسولی نینجا آمریکا Ninja Prestige CFN802EUGM دوکاره",
-    "category": "beauty-health",
-    "subcategory": "ماشین اصلاح و ریش تراش",
-    "price": 78516000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%82%D9%87%D9%88%D9%87-%D8%B3%D8%A7%D8%B2-%D8%AF%D9%88-%DA%A9%D8%A7%D8%B1%D9%87-%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%AF%D8%A7%D8%B1-%D9%88-%DA%A9%D9%BE%D8%B3%D9%88%D9%84%DB%8C-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%BE%D8%B1%D8%B3%D8%AA%DB%8C%DA%98-CFN802EUGM",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.642Z"
-  },
-  {
-    "id": "torobshop-beauty-health-81294b2d39671c7a",
-    "productId": "torobshop-81294b2d39671c7a",
-    "name": "اسپرسوساز و قهوه‌ساز فیلتری نینجا آمریکا Ninja Luxe Café Mini ES301EU",
-    "brand": "",
-    "model": "اسپرسوساز و قهوه‌ساز فیلتری نینجا آمریکا Ninja Luxe Café Mini ES301EU",
-    "category": "beauty-health",
-    "subcategory": "ماشین اصلاح و ریش تراش",
-    "price": 122984000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%82%D9%87%D9%88%D9%87-%D8%B3%D8%A7%D8%B2-%D8%AF%D9%88-%D8%AF%D8%B1-%DB%8C%DA%A9-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%84%D9%88%DA%A9%D8%B3-%DA%A9%D8%A7%D9%81%D9%87-%D9%85%DB%8C%D9%86%DB%8C-%D8%A8%D8%A7-%D8%A2%D8%B3%DB%8C%D8%A7%D8%A8-%D9%88-%D9%81%DB%8C%D9%84%D8%AA%D8%B1-%D9%88-%DA%A9%D9%81-%D8%B3%D8%A7%D8%B2-%D8%AF%D8%B3%D8%AA%DB%8C-ES301EU",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.642Z"
-  },
-  {
-    "id": "torobshop-beauty-health-aa508f6b8b35e109",
-    "productId": "torobshop-aa508f6b8b35e109",
-    "name": "بستنی‌ساز و دستگاه بستنی نرم نینجا آمریکا Ninja CREAMi NC701EUBR مدل Scoop & Swirl 13 کاره موکا",
-    "brand": "",
-    "model": "بستنی‌ساز و دستگاه بستنی نرم نینجا آمریکا Ninja CREAMi NC701EUBR مدل Scoop & Swirl 13 کاره موکا",
-    "category": "beauty-health",
-    "subcategory": "ماشین اصلاح و ریش تراش",
-    "price": 109000000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%A8%D8%B3%D8%AA%D9%86%DB%8C-%D8%B3%D8%A7%D8%B2-%DA%86%D8%B1%D8%AE%D8%B4%DB%8C-%D9%88-%D8%A7%D8%B3%DA%A9%D9%88%D9%BE-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-CREAMi-%D8%A8%D8%A7-%DB%B2-%D8%B8%D8%B1%D9%81-%DB%B1%DB%B3-%D8%B9%D9%85%D9%84%DA%A9%D8%B1%D8%AF-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A8%D8%B3%D8%AA%D9%86%DB%8C-%D8%A8%D8%B3%D8%AA%D9%86%DB%8C-%D9%86%D8%B1%D9%85-%DA%98%D9%84%D8%A7%D8%AA%D9%88-%D8%B3%D9%88%D8%B1%D8%A8%D8%AA-%D9%85%DB%8C%D9%84%DA%A9-%D8%B4%DB%8C%DA%A9-%D9%88-%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%AF%DB%8C%DA%AF%D8%B1-%D8%A8%D8%A7-%D8%B9%D9%85%D9%84%DA%A9%D8%B1%D8%AF-%D9%85%D8%AE%D9%84%D9%88%D8%B7-%DA%A9%D8%B1%D8%AF%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%A7%D8%B6%D8%A7%D9%81%DB%8C-%D9%85%D9%88%DA%A9%D8%A7-NC701EUBR",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.642Z"
-  },
-  {
-    "id": "torobshop-beauty-health-6ec47a3d62be5701",
-    "productId": "torobshop-6ec47a3d62be5701",
-    "name": "فر توکار رومیزی و سرخ‌کن بدون روغن نینجا آمریکا Ninja Double Oven Pro Smart XL دوقلو 12 کاره",
-    "brand": "",
-    "model": "فر توکار رومیزی و سرخ‌کن بدون روغن نینجا آمریکا Ninja Double Oven Pro Smart XL دوقلو 12 کاره",
-    "category": "beauty-health",
-    "subcategory": "ماشین اصلاح و ریش تراش",
-    "price": 147886000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%81%D8%B1-%D8%AF%D9%88%D9%82%D9%84%D9%88-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%BE%D8%B1%D9%88-%D8%A7%D8%B3%D9%85%D8%A7%D8%B1%D8%AA-%D8%A7%DB%8C%DA%A9%D8%B3-%D8%A7%D9%84-%D9%81%D8%B1-%D9%88-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%D8%BA%D9%86-%D8%AA%D8%B7%D8%A8%DB%8C%D9%82-%D9%BE%D8%B0%DB%8C%D8%B1%DB%8C-%DB%B1%DB%B2-%D8%AF%D8%B1-%DB%B1-%D8%A8%D8%A7-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%D9%88-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-DualZone-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D8%AE%D8%AA-%D9%87%D9%85%D8%B2%D9%85%D8%A7%D9%86-%D8%AF%D9%88-%D9%88%D8%B9%D8%AF%D9%87-%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.642Z"
-  },
-  {
-    "id": "torobshop-beauty-health-7b66ea2c8fd4c6a4",
-    "productId": "torobshop-7b66ea2c8fd4c6a4",
-    "name": "فر رومیزی و سرخ‌کن بدون روغن نینجا آمریکا Ninja Double Oven Pro Smart XL دوقلو 12 کاره",
-    "brand": "",
-    "model": "فر رومیزی و سرخ‌کن بدون روغن نینجا آمریکا Ninja Double Oven Pro Smart XL دوقلو 12 کاره",
-    "category": "beauty-health",
-    "subcategory": "ماشین اصلاح و ریش تراش",
-    "price": 156017000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%81%D8%B1-%D8%AF%D9%88%D9%82%D9%84%D9%88-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%BE%D8%B1%D9%88-%D8%A7%D8%B3%D9%85%D8%A7%D8%B1%D8%AA-%D8%A7%DB%8C%DA%A9%D8%B3-%D8%A7%D9%84-%D9%81%D8%B1-%D8%B1%D9%88%D9%85%DB%8C%D8%B2%DB%8C-%D9%88-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%D8%BA%D9%86-%D8%AA%D8%B7%D8%A8%DB%8C%D9%82-%D9%BE%D8%B0%DB%8C%D8%B1%DB%8C-%DB%B1%DB%B2-%D8%AF%D8%B1-%DB%B1-%D8%A8%D8%A7-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%D9%88-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-DualZone-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D8%AE%D8%AA-%D9%87%D9%85%D8%B2%D9%85%D8%A7%D9%86-%DB%B2-%D9%88%D8%B9%D8%AF%D9%87-%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%85%D8%B1%D8%BA-%D8%AA%D8%A7",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.642Z"
-  },
-  {
-    "id": "torobshop-beauty-health-d49e2d4bb6f40cd4",
-    "productId": "torobshop-d49e2d4bb6f40cd4",
-    "name": "فر رومیزی و سرخ‌کن بدون روغن نینجا آمریکا Ninja Double Oven Pro Smart XL دوقلو 12 کاره",
-    "brand": "",
-    "model": "فر رومیزی و سرخ‌کن بدون روغن نینجا آمریکا Ninja Double Oven Pro Smart XL دوقلو 12 کاره",
-    "category": "beauty-health",
-    "subcategory": "ماشین اصلاح و ریش تراش",
-    "price": 135181000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%81%D8%B1-%D8%AF%D9%88%D9%82%D9%84%D9%88-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%BE%D8%B1%D9%88-%D8%A7%D8%B3%D9%85%D8%A7%D8%B1%D8%AA-%D8%A7%DB%8C%DA%A9%D8%B3-%D8%A7%D9%84-%D9%81%D8%B1-%D9%88-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%D8%BA%D9%86-%D8%AA%D8%B7%D8%A8%DB%8C%D9%82-%D9%BE%D8%B0%DB%8C%D8%B1%DB%8C-%DB%B1%DB%B2-%D8%AF%D8%B1-%DB%B1-%D8%A8%D8%A7-%D9%BE%D8%B1%D8%AF%D8%A7%D8%B2%D8%B4-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%D9%88-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-%D8%AF%D9%88-%D9%85%D9%86%D8%B7%D9%82%D9%87-%D8%A7%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D8%AE%D8%AA-%D9%87%D9%85%D8%B2%D9%85%D8%A7%D9%86-%DB%B2-%D9%88%D8%B9%D8%AF%D9%87-%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.642Z"
-  },
-  {
-    "id": "torobshop-beauty-health-189f8d80d22fa44f",
-    "productId": "torobshop-189f8d80d22fa44f",
-    "name": "فر دوقلو نینجا آمریکا پرو اسمارت ایکس ال – فر و سرخ کن بدون روغن با دماسنج | 12 کاره با پردازش هوشمند و فناوری DualZone برای پخت همزمان 2 وعده غذایی",
-    "brand": "",
-    "model": "فر دوقلو نینجا آمریکا پرو اسمارت ایکس ال – فر و سرخ کن بدون روغن با دماسنج | 12 کاره با پردازش هوشمند و فناوری DualZone برای پخت همزمان 2 وعده غذایی",
-    "category": "beauty-health",
-    "subcategory": "ماشین اصلاح و ریش تراش",
-    "price": 139500000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%81%D8%B1-%D8%AF%D9%88%D9%82%D9%84%D9%88-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%BE%D8%B1%D9%88-%D8%A7%D8%B3%D9%85%D8%A7%D8%B1%D8%AA-%D8%A7%DB%8C%DA%A9%D8%B3-%D8%A7%D9%84-%D9%81%D8%B1-%D9%88-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%D8%BA%D9%86-%D8%A8%D8%A7-%D8%AF%D9%85%D8%A7%D8%B3%D9%86%D8%AC-12-%DA%A9%D8%A7%D8%B1%D9%87-%D8%A8%D8%A7-%D9%BE%D8%B1%D8%AF%D8%A7%D8%B2%D8%B4-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%D9%88-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-DualZone-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D8%AE%D8%AA-%D9%87%D9%85%D8%B2%D9%85%D8%A7%D9%86-2-%D9%88%D8%B9%D8%AF%D9%87-%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.642Z"
-  },
-  {
-    "id": "torobshop-beauty-health-5b8fa53f836d0f0c",
-    "productId": "torobshop-5b8fa53f836d0f0c",
-    "name": "فر دوطبقه و سرخ‌کن بدون روغن نینجا آمریکا Ninja DCT801BL ظرفیت 30.2 کوارت 12 کاره",
-    "brand": "",
-    "model": "فر دوطبقه و سرخ‌کن بدون روغن نینجا آمریکا Ninja DCT801BL ظرفیت 30.2 کوارت 12 کاره",
-    "category": "beauty-health",
-    "subcategory": "ماشین اصلاح و ریش تراش",
-    "price": 152714000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%81%D8%B1-%D8%AF%D9%88%D9%82%D9%84%D9%88-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%BE%D8%B1%D9%88-%D8%A7%D8%B3%D9%85%D8%A7%D8%B1%D8%AA-%D8%A7%DB%8C%DA%A9%D8%B3-%D8%A7%D9%84-30-2-%DA%A9%D9%88%D8%A7%D8%B1%D8%AA-12-%D8%AF%D8%B1-1-%D8%B3%D8%A7%DB%8C%D8%A8%D8%B1%D8%A7%D8%B3%D9%BE%DB%8C%D8%B3-DCT801BL",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.642Z"
-  },
-  {
-    "id": "torobshop-beauty-health-547d268a4387e8cb",
-    "productId": "torobshop-547d268a4387e8cb",
-    "name": "سرخ‌کن بدون روغن قابل حمل نینجا آمریکا Ninja CRISPi ظرفیت 3.8 و 1.4 لیتر 1700 وات",
-    "brand": "",
-    "model": "سرخ‌کن بدون روغن قابل حمل نینجا آمریکا Ninja CRISPi ظرفیت 3.8 و 1.4 لیتر 1700 وات",
-    "category": "beauty-health",
-    "subcategory": "ماشین اصلاح و ریش تراش",
-    "price": 54377000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D9%82%D8%A7%D8%A8%D9%84-%D8%AD%D9%85%D9%84-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%DA%A9%D8%B1%DB%8C%D8%B3%D9%BE%DB%8C-%DB%B3-%DB%B8-%D9%88-%DB%B1-%DB%B4-%D9%84%DB%8C%D8%AA%D8%B1-%DB%B1%DB%B7%DB%B0%DB%B0-%D9%88%D8%A7%D8%AA-%D8%AC%D9%85%D8%B9-%D9%88-%D8%AC%D9%88%D8%B1",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.642Z"
-  },
-  {
-    "id": "torobshop-beauty-health-4192b4da9c3a842b",
-    "productId": "torobshop-4192b4da9c3a842b",
-    "name": "سرخ‌کن بدون روغن قابل حمل نینجا آمریکا Ninja CRISPi FN101EUDR ظرفیت 3.8 و 1.4 لیتر 4 کاره قرمز",
-    "brand": "",
-    "model": "سرخ‌کن بدون روغن قابل حمل نینجا آمریکا Ninja CRISPi FN101EUDR ظرفیت 3.8 و 1.4 لیتر 4 کاره قرمز",
-    "category": "beauty-health",
-    "subcategory": "ماشین اصلاح و ریش تراش",
-    "price": 54377000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D9%82%D8%A7%D8%A8%D9%84-%D8%AD%D9%85%D9%84-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%DA%A9%D8%B1%DB%8C%D8%B3%D9%BE%DB%8C-%DB%B3-%DB%B8-%D9%88-%DB%B1-%DB%B4-%D9%84%DB%8C%D8%AA%D8%B1-%DB%B4-%DA%A9%D8%A7%D8%B1%D9%87-%D8%B3%D8%B1%D8%AE-%DA%A9%D8%B1%D8%AF%D9%86-%D8%AF%D8%B1-%D9%87%D9%88%D8%A7-%DA%A9%D8%A8%D8%A7%D8%A8-%DA%A9%D8%B1%D8%AF%D9%86-%DA%AF%D8%B1%D9%85-%D9%86%DA%AF%D9%87-%D8%AF%D8%A7%D8%B4%D8%AA%D9%86-%D8%AA%D8%B1%D8%AF-%D8%AC%D9%85%D8%B9-%D9%88-%D8%AC%D9%88%D8%B1-%DB%B6-%D9%88%D8%B9%D8%AF%D9%87-%DB%B2-%D8%B8%D8%B1%D9%81-%D9%88-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%DB%B1%DB%B7%DB%B0%DB%B0-%D9%88%D8%A7%D8%AA-%D9%82%D8%B1%D9%85%D8%B2-%DA%AF%DB%8C%D9%84%D8%A7%D8%B3%DB%8C-FN101EUDR",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.642Z"
-  },
-  {
-    "id": "torobshop-beauty-health-d81ab9c86f172992",
-    "productId": "torobshop-d81ab9c86f172992",
-    "name": "ظرف شیشه‌ای سرخ کن نینجا Ninja TempWare با درب ضد نشت، سازگار با سیستم پخت و پز قابل حمل Crispi، قابل استفاده در مایکروویو، فریزر و ماشین ظرفشویی، سطح پخت و پز شیشه‌ای بدون PFAS",
-    "brand": "",
-    "model": "ظرف شیشه‌ای سرخ کن نینجا Ninja TempWare با درب ضد نشت، سازگار با سیستم پخت و پز قابل حمل Crispi، قابل استفاده در مایکروویو، فریزر و ماشین ظرفشویی، سطح پخت و پز شیشه‌ای بدون PFAS",
-    "category": "beauty-health",
-    "subcategory": "ماشین اصلاح و ریش تراش",
-    "price": 21598000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B8%D8%B1%D9%81-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-Ninja-TempWare-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B6%D8%AF-%D9%86%D8%B4%D8%AA-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%B3%DB%8C%D8%B3%D8%AA%D9%85-%D9%BE%D8%AE%D8%AA-%D9%88-%D9%BE%D8%B2-%D9%82%D8%A7%D8%A8%D9%84-%D8%AD%D9%85%D9%84-Crispi-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%85%D8%A7%DB%8C%DA%A9%D8%B1%D9%88%D9%88%DB%8C%D9%88-%D9%81%D8%B1%DB%8C%D8%B2%D8%B1-%D9%88-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D8%B3%D8%B7%D8%AD-%D9%BE%D8%AE%D8%AA-%D9%88-%D9%BE%D8%B2-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-PFAS",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.642Z"
-  },
-  {
-    "id": "torobshop-beauty-health-c2621badab7154db",
-    "productId": "torobshop-c2621badab7154db",
-    "name": "ظرف شیشه‌ای سرخ کن نینجا Ninja TempWare با درب نگهدارنده، سازگار با سیستم پخت و پز قابل حمل Ninja Crispi، قابل استفاده در مایکروویو، فریزر و ماشین ظرفشویی، سطح پخت و پز شیشه‌ای بدون PFAS",
-    "brand": "",
-    "model": "ظرف شیشه‌ای سرخ کن نینجا Ninja TempWare با درب نگهدارنده، سازگار با سیستم پخت و پز قابل حمل Ninja Crispi، قابل استفاده در مایکروویو، فریزر و ماشین ظرفشویی، سطح پخت و پز شیشه‌ای بدون PFAS",
-    "category": "beauty-health",
-    "subcategory": "ماشین اصلاح و ریش تراش",
-    "price": 25155000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B8%D8%B1%D9%81-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-Ninja-TempWare-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%86%DA%AF%D9%87%D8%AF%D8%A7%D8%B1%D9%86%D8%AF%D9%87-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%B3%DB%8C%D8%B3%D8%AA%D9%85-%D9%BE%D8%AE%D8%AA-%D9%88-%D9%BE%D8%B2-%D9%82%D8%A7%D8%A8%D9%84-%D8%AD%D9%85%D9%84-Ninja-Crispi-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%85%D8%A7%DB%8C%DA%A9%D8%B1%D9%88%D9%88%DB%8C%D9%88-%D9%81%D8%B1%DB%8C%D8%B2%D8%B1-%D9%88-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D8%B3%D8%B7%D8%AD-%D9%BE%D8%AE%D8%AA-%D9%88-%D9%BE%D8%B2-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-PFAS",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.642Z"
-  },
-  {
-    "id": "torobshop-beauty-health-e61e8163e0053f8c",
-    "productId": "torobshop-e61e8163e0053f8c",
-    "name": "سرویس ۳ تکه ماهیتابه Berndes Induction Enduro - ماهیتابه‌های ۲۴ و ۲۸ سانتی‌متری - دارای کفگیر - مناسب برای همه اجاق گازها - ماهیتابه‌ها با پوشش نچسب ۳ لایه بسیار مقاوم - مقاوم در برابر خش - بدون PFAS",
-    "brand": "",
-    "model": "سرویس ۳ تکه ماهیتابه Berndes Induction Enduro - ماهیتابه‌های ۲۴ و ۲۸ سانتی‌متری - دارای کفگیر - مناسب برای همه اجاق گازها - ماهیتابه‌ها با پوشش نچسب ۳ لایه بسیار مقاوم - مقاوم در برابر خش - بدون PFAS",
-    "category": "beauty-health",
-    "subcategory": "ماشین اصلاح و ریش تراش",
-    "price": 38369000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%DB%B3-%D8%AA%DA%A9%D9%87-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-Berndes-Induction-Enduro-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%87%D8%A7%DB%8C-%DB%B2%DB%B4-%D9%88-%DB%B2%DB%B8-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C-%DA%A9%D9%81%DA%AF%DB%8C%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%87%D9%85%D9%87-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2%D9%87%D8%A7-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%87%D8%A7-%D8%A8%D8%A7-%D9%BE%D9%88%D8%B4%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%DB%B3-%D9%84%D8%A7%DB%8C%D9%87-%D8%A8%D8%B3%DB%8C%D8%A7%D8%B1-%D9%85%D9%82%D8%A7%D9%88%D9%85-%D9%85%D9%82%D8%A7%D9%88%D9%85-%D8%AF%D8%B1-%D8%A8%D8%B1%D8%A7%D8%A8%D8%B1-%D8%AE%D8%B4-%D8%A8%D8%AF%D9%88%D9%86-PFAS",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.642Z"
-  },
-  {
-    "id": "torobshop-beauty-health-0a6f99bfb7c72378",
-    "productId": "torobshop-0a6f99bfb7c72378",
-    "name": "کتری برقی گردن غازی کوسوری آمریکا COSORI با ۵ برنامه از پیش تنظیم شده متغیر",
-    "brand": "",
-    "model": "کتری برقی گردن غازی کوسوری آمریکا COSORI با ۵ برنامه از پیش تنظیم شده متغیر",
-    "category": "beauty-health",
-    "subcategory": "ماشین اصلاح و ریش تراش",
-    "price": 55139000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%DA%A9%D8%AA%D8%B1%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C-%DA%AF%D8%B1%D8%AF%D9%86-%D8%BA%D8%A7%D8%B2%DB%8C-COSORI-%D8%A8%D8%A7-%DB%B5-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D8%A7%D8%B2-%D9%BE%DB%8C%D8%B4-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%B4%D8%AF%D9%87-%D9%85%D8%AA%D8%BA%DB%8C%D8%B1",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.642Z"
-  },
-  {
-    "id": "torobshop-beauty-health-17b433396f0dd8b8",
-    "productId": "torobshop-17b433396f0dd8b8",
-    "name": "کتری شیشه‌ای کوسوری آمریکا بدون تماس با پلاستیک، ایده‌آل برای چای، ۱.۷ لیتر",
-    "brand": "",
-    "model": "کتری شیشه‌ای کوسوری آمریکا بدون تماس با پلاستیک، ایده‌آل برای چای، ۱.۷ لیتر",
-    "category": "beauty-health",
-    "subcategory": "ماشین اصلاح و ریش تراش",
-    "price": 16516000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%DA%A9%D8%AA%D8%B1%DB%8C-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%DA%A9%D9%88%D8%B2%D9%88%D8%B1%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%D8%AA%D9%85%D8%A7%D8%B3-%D8%A8%D8%A7-%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-%D8%A7%DB%8C%D8%AF%D9%87-%D8%A2%D9%84-%D8%A8%D8%B1%D8%A7%DB%8C-%DA%86%D8%A7%DB%8C-%DB%B1-%DB%B7-%D9%84%DB%8C%D8%AA%D8%B1",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.642Z"
-  },
-  {
-    "id": "torobshop-beauty-health-70f796097c7bfa77",
-    "productId": "torobshop-70f796097c7bfa77",
-    "name": "کتری استیل ضد زنگ کوسوری آمریکا COSORI، ۱.۷ لیتر، بدون تماس با پلاستیک، ۲۲۰۰ وات، نقره‌ای-مشکی",
-    "brand": "",
-    "model": "کتری استیل ضد زنگ کوسوری آمریکا COSORI، ۱.۷ لیتر، بدون تماس با پلاستیک، ۲۲۰۰ وات، نقره‌ای-مشکی",
-    "category": "beauty-health",
-    "subcategory": "ماشین اصلاح و ریش تراش",
-    "price": 15754000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%DA%A9%D8%AA%D8%B1%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-COSORI-%DB%B1-%DB%B7-%D9%84%DB%8C%D8%AA%D8%B1-%D8%A8%D8%AF%D9%88%D9%86-%D8%AA%D9%85%D8%A7%D8%B3-%D8%A8%D8%A7-%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-%DB%B2%DB%B2%DB%B0%DB%B0-%D9%88%D8%A7%D8%AA-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.642Z"
-  },
-  {
-    "id": "torobshop-beauty-health-792d9fda0d1edf60",
-    "productId": "torobshop-792d9fda0d1edf60",
-    "name": "ترازوی آشپزخانه دیجیتال استیل ضد زنگ کوسوری آمریکا اپلیکیشن ترازوی مواد غذایی، قابل شارژ با USB، سایز XL",
-    "brand": "اپل",
-    "model": "ترازوی آشپزخانه دیجیتال استیل ضد زنگ کوسوری آمریکا اپلیکیشن ترازوی مواد غذایی، قابل شارژ با USB، سایز XL",
-    "category": "beauty-health",
-    "subcategory": "ماشین اصلاح و ریش تراش",
-    "price": 32778000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%AA%D8%B1%D8%A7%D8%B2%D9%88%DB%8C-%D8%A2%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87-%D8%AF%DB%8C%D8%AC%DB%8C%D8%AA%D8%A7%D9%84-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%DA%A9%D9%88%D8%B2%D9%88%D8%B1%DB%8C-%D8%A7%D9%BE%D9%84%DB%8C%DA%A9%DB%8C%D8%B4%D9%86-%D8%AA%D8%B1%D8%A7%D8%B2%D9%88%DB%8C-%D9%85%D9%88%D8%A7%D8%AF-%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%A7%D8%B1%DA%98-%D8%A8%D8%A7-USB-%D8%B3%D8%A7%DB%8C%D8%B2-XL",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.642Z"
-  },
-  {
-    "id": "torobshop-beauty-health-0540c2016311432d",
-    "productId": "torobshop-0540c2016311432d",
-    "name": "ترازوی آشپزخانه دیجیتال هوشمند کوسوری آمریکا COSORI با ماشین حساب تغذیه، اطلاعات مواد مغذی روی صفحه، برنامه رایگان برای ردیابی کالری و ماکرو، اسکن هوش مصنوعی، اهداف شخصی، برای",
-    "brand": "",
-    "model": "ترازوی آشپزخانه دیجیتال هوشمند کوسوری آمریکا COSORI با ماشین حساب تغذیه، اطلاعات مواد مغذی روی صفحه، برنامه رایگان برای ردیابی کالری و ماکرو، اسکن هوش مصنوعی، اهداف شخصی، برای",
-    "category": "beauty-health",
-    "subcategory": "ماشین اصلاح و ریش تراش",
-    "price": 41418000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%AA%D8%B1%D8%A7%D8%B2%D9%88%DB%8C-%D8%A2%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87-%D8%AF%DB%8C%D8%AC%DB%8C%D8%AA%D8%A7%D9%84-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-COSORI-%D8%A8%D8%A7-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%AD%D8%B3%D8%A7%D8%A8-%D8%AA%D8%BA%D8%B0%DB%8C%D9%87-%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA-%D9%85%D9%88%D8%A7%D8%AF-%D9%85%D8%BA%D8%B0%DB%8C-%D8%B1%D9%88%DB%8C-%D8%B5%D9%81%D8%AD%D9%87-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D8%AF%DB%8C%D8%A7%D8%A8%DB%8C-%DA%A9%D8%A7%D9%84%D8%B1%DB%8C-%D9%88-%D9%85%D8%A7%DA%A9%D8%B1%D9%88-%D8%A7%D8%B3%DA%A9%D9%86-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D8%A7%D9%87%D8%AF%D8%A7%D9%81-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.642Z"
-  },
-  {
-    "id": "torobshop-beauty-health-ea7e49d4888f5500",
-    "productId": "torobshop-ea7e49d4888f5500",
-    "name": "ترازوی آشپزخانه دیجیتال استیل ضد زنگ کوسوری آمریکا ترازوی آشپزخانه با قابلیت محاسبه ارزش غذایی از طریق اپلیکیشن",
-    "brand": "اپل",
-    "model": "ترازوی آشپزخانه دیجیتال استیل ضد زنگ کوسوری آمریکا ترازوی آشپزخانه با قابلیت محاسبه ارزش غذایی از طریق اپلیکیشن",
-    "category": "beauty-health",
-    "subcategory": "ماشین اصلاح و ریش تراش",
-    "price": 17278000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%AA%D8%B1%D8%A7%D8%B2%D9%88%DB%8C-%D8%A2%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87-%D8%AF%DB%8C%D8%AC%DB%8C%D8%AA%D8%A7%D9%84-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%DA%A9%D9%88%D8%B2%D9%88%D8%B1%DB%8C-%D8%AA%D8%B1%D8%A7%D8%B2%D9%88%DB%8C-%D8%A2%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87-%D8%A8%D8%A7-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D9%87-%D8%A7%D8%B1%D8%B2%D8%B4-%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C-%D8%A7%D8%B2-%D8%B7%D8%B1%DB%8C%D9%82-%D8%A7%D9%BE%D9%84%DB%8C%DA%A9%DB%8C%D8%B4%D9%86",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.642Z"
-  },
-  {
-    "id": "torobshop-beauty-health-a7031b2d2c098e3a",
-    "productId": "torobshop-a7031b2d2c098e3a",
-    "name": "خشک‌کن مواد غذایی کوسوری آمریکا COSORI با ۸ سینی استیل ضد زنگ، ۶۵۰ وات",
-    "brand": "",
-    "model": "خشک‌کن مواد غذایی کوسوری آمریکا COSORI با ۸ سینی استیل ضد زنگ، ۶۵۰ وات",
-    "category": "beauty-health",
-    "subcategory": "ماشین اصلاح و ریش تراش",
-    "price": 72164000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%AE%D8%B4%DA%A9-%DA%A9%D9%86-%D9%85%D9%88%D8%A7%D8%AF-%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C-COSORI-%D8%A8%D8%A7-%DB%B8-%D8%B3%DB%8C%D9%86%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%DB%B6%DB%B5%DB%B0-%D9%88%D8%A7%D8%AA",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.642Z"
-  },
-  {
-    "id": "torobshop-beauty-health-b280052ba623afe6",
-    "productId": "torobshop-b280052ba623afe6",
-    "name": "خشک‌کن مواد غذایی کوسوری آمریکا ۵ سینی، بدون BPA، ۳۵۰ وات، سفید",
-    "brand": "",
-    "model": "خشک‌کن مواد غذایی کوسوری آمریکا ۵ سینی، بدون BPA، ۳۵۰ وات، سفید",
-    "category": "beauty-health",
-    "subcategory": "ماشین اصلاح و ریش تراش",
-    "price": 26426000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%AE%D8%B4%DA%A9-%DA%A9%D9%86-%D9%85%D9%88%D8%A7%D8%AF-%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C-%DA%A9%D9%88%D8%B2%D9%88%D8%B1%DB%8C-%DB%B5-%D8%B3%DB%8C%D9%86%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-BPA-%DB%B3%DB%B5%DB%B0-%D9%88%D8%A7%D8%AA-%D8%B3%D9%81%DB%8C%D8%AF",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.643Z"
-  },
-  {
-    "id": "torobshop-beauty-health-f65d7089e1b75967",
-    "productId": "torobshop-f65d7089e1b75967",
-    "name": "خشک کن مواد غذایی از جنس استیل ضد زنگ کوسوری آمریکا COSORI، بدون تماس با پلاستیک، 650 وات",
-    "brand": "",
-    "model": "خشک کن مواد غذایی از جنس استیل ضد زنگ کوسوری آمریکا COSORI، بدون تماس با پلاستیک، 650 وات",
-    "category": "beauty-health",
-    "subcategory": "ماشین اصلاح و ریش تراش",
-    "price": 71150000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%AE%D8%B4%DA%A9-%DA%A9%D9%86-%D9%85%D9%88%D8%A7%D8%AF-%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C-%D8%A7%D8%B2-%D8%AC%D9%86%D8%B3-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-COSORI-%D8%A8%D8%AF%D9%88%D9%86-%D8%AA%D9%85%D8%A7%D8%B3-%D8%A8%D8%A7-%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-650-%D9%88%D8%A7%D8%AA-2",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.643Z"
-  },
-  {
-    "id": "torobshop-beauty-health-682b567d27e46eb9",
-    "productId": "torobshop-682b567d27e46eb9",
-    "name": "خشک کن مواد غذایی از جنس استیل ضد زنگ کوسوری آمریکا COSORI، بدون تماس با پلاستیک، 650 وات",
-    "brand": "",
-    "model": "خشک کن مواد غذایی از جنس استیل ضد زنگ کوسوری آمریکا COSORI، بدون تماس با پلاستیک، 650 وات",
-    "category": "beauty-health",
-    "subcategory": "ماشین اصلاح و ریش تراش",
-    "price": 71150000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%AE%D8%B4%DA%A9-%DA%A9%D9%86-%D9%85%D9%88%D8%A7%D8%AF-%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C-%D8%A7%D8%B2-%D8%AC%D9%86%D8%B3-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-COSORI-%D8%A8%D8%AF%D9%88%D9%86-%D8%AA%D9%85%D8%A7%D8%B3-%D8%A8%D8%A7-%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-650-%D9%88%D8%A7%D8%AA",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.643Z"
-  },
-  {
-    "id": "torobshop-beauty-health-1a199d11167496a7",
-    "productId": "torobshop-1a199d11167496a7",
-    "name": "سبد بخارپز پلوپز کوسوری آمریکا Cosori CRC-R501-KUS استیل",
-    "brand": "",
-    "model": "سبد بخارپز پلوپز کوسوری آمریکا Cosori CRC-R501-KUS استیل",
-    "category": "beauty-health",
-    "subcategory": "ماشین اصلاح و ریش تراش",
-    "price": 20073000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%BE%D9%84%D9%88%D9%BE%D8%B2-%DA%A9%D9%88%D8%B2%D9%88%D8%B1%DB%8C-%D8%B3%D8%A8%D8%AF-%D8%A8%D8%AE%D8%A7%D8%B1%D9%BE%D8%B2-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%DB%B3-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C-CRC-R501-KUS",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.643Z"
-  },
-  {
-    "id": "torobshop-beauty-health-e7562a4a47affbdf",
-    "productId": "torobshop-e7562a4a47affbdf",
-    "name": "پلوپز کوسوری آمریکا Cosori CRC-R501-KEU ظرفیت 5 لیتر سرامیکی با فناوری Fuzzy Logic",
-    "brand": "",
-    "model": "پلوپز کوسوری آمریکا Cosori CRC-R501-KEU ظرفیت 5 لیتر سرامیکی با فناوری Fuzzy Logic",
-    "category": "beauty-health",
-    "subcategory": "ماشین اصلاح و ریش تراش",
-    "price": 34049000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%BE%D9%84%D9%88%D9%BE%D8%B2-%DA%A9%D9%88%D8%B2%D9%88%D8%B1%DB%8C-%DB%B5-%D9%84%DB%8C%D8%AA%D8%B1-%D9%BE%D9%88%D8%B4%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%81%D8%A7%D8%B2%DB%8C-%D9%84%D8%A7%D8%AC%DB%8C%DA%A9",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.643Z"
-  },
-  {
-    "id": "torobshop-beauty-health-5681fc33ebc4a2c4",
-    "productId": "torobshop-5681fc33ebc4a2c4",
-    "name": "پلوپز چندکاره هوشمند کوسوری آمریکا Cosori با 17 برنامه و دماسنج گوشت",
-    "brand": "",
-    "model": "پلوپز چندکاره هوشمند کوسوری آمریکا Cosori با 17 برنامه و دماسنج گوشت",
-    "category": "beauty-health",
-    "subcategory": "ماشین اصلاح و ریش تراش",
-    "price": 51582000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D9%85%D8%A7%D8%B3%D9%86%D8%AC-%DA%AF%D9%88%D8%B4%D8%AA-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-COSORI-%D9%85%D8%AF%D9%84-First-%D9%BE%D9%84%D9%88%D9%BE%D8%B2-COSORI-%D9%BE%D9%84%D9%88%D9%BE%D8%B2-%DA%86%D9%86%D8%AF%DA%A9%D8%A7%D8%B1%D9%87-%D8%A8%D8%A7-%DB%B1%DB%B7-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.643Z"
-  },
-  {
-    "id": "torobshop-beauty-health-eb3156af454255af",
-    "productId": "torobshop-eb3156af454255af",
-    "name": "زودپز برقی کوسوری آمریکا Cosori CMC-CO601-SEU ظرفیت 5.7 لیتر 9 کاره",
-    "brand": "",
-    "model": "زودپز برقی کوسوری آمریکا Cosori CMC-CO601-SEU ظرفیت 5.7 لیتر 9 کاره",
-    "category": "beauty-health",
-    "subcategory": "ماشین اصلاح و ریش تراش",
-    "price": 44721000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B2%D9%88%D8%AF%D9%BE%D8%B2-%DA%A9%D9%88%D8%B2%D9%88%D8%B1%DB%8C-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%DB%B5-%DB%B7-%D9%84%DB%8C%D8%AA%D8%B1-%DB%B9-%DA%A9%D8%A7%D8%B1%D9%87",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.643Z"
-  },
-  {
-    "id": "torobshop-beauty-health-3f60763e8c1f61db",
-    "productId": "torobshop-3f60763e8c1f61db",
-    "name": "پلوپز و کتری برقی چندکاره کوسوری آمریکا Cosori CRC-R501 شیشه‌ای",
-    "brand": "",
-    "model": "پلوپز و کتری برقی چندکاره کوسوری آمریکا Cosori CRC-R501 شیشه‌ای",
-    "category": "beauty-health",
-    "subcategory": "ماشین اصلاح و ریش تراش",
-    "price": 40401000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%BE%D9%84%D9%88%D9%BE%D8%B2-%D9%88-%DA%A9%D8%AA%D8%B1%DB%8C-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%DA%86%D9%86%D8%AF%D9%85%D9%86%D8%B8%D9%88%D8%B1%D9%87-COSORI",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.643Z"
-  },
-  {
-    "id": "torobshop-beauty-health-8b667a7c5d48a018",
-    "productId": "torobshop-8b667a7c5d48a018",
-    "name": "زودپز برقی چندکاره کوسوری آمریکا Cosori 9 کاره با 14 عملکرد و دماسنج هوشمند گوشت",
-    "brand": "",
-    "model": "زودپز برقی چندکاره کوسوری آمریکا Cosori 9 کاره با 14 عملکرد و دماسنج هوشمند گوشت",
-    "category": "beauty-health",
-    "subcategory": "ماشین اصلاح و ریش تراش",
-    "price": 53615000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D9%85%D8%A7%D8%B3%D9%86%D8%AC-%DA%AF%D9%88%D8%B4%D8%AA-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-COSORI-%D9%85%D8%AF%D9%84-First-%D8%B2%D9%88%D8%AF%D9%BE%D8%B2-COSORI-%DB%B9-%DA%A9%D8%A7%D8%B1%D9%87-%DA%86%D9%86%D8%AF%DA%A9%D8%A7%D8%B1%D9%87-%D8%A8%D8%A7-%DB%B1%DB%B4-%D8%B9%D9%85%D9%84%DA%A9%D8%B1%D8%AF",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.643Z"
-  },
-  {
-    "id": "torobshop-beauty-health-c28d9ee4867587e0",
-    "productId": "torobshop-c28d9ee4867587e0",
-    "name": "سرخ‌کن کوسوری آمریکا با پنجره دید، سرخ‌کن هوای گرم ۸.۵ لیتری، ۲ محفظه",
-    "brand": "",
-    "model": "سرخ‌کن کوسوری آمریکا با پنجره دید، سرخ‌کن هوای گرم ۸.۵ لیتری، ۲ محفظه",
-    "category": "beauty-health",
-    "subcategory": "ماشین اصلاح و ریش تراش",
-    "price": 60729000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%DA%A9%D9%88%D8%B2%D9%88%D8%B1%DB%8C-%D8%A8%D8%A7-%D9%BE%D9%86%D8%AC%D8%B1%D9%87-%D8%AF%DB%8C%D8%AF-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D9%87%D9%88%D8%A7%DB%8C-%DA%AF%D8%B1%D9%85-%DB%B8-%DB%B5-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C-%DB%B2-%D9%85%D8%AD%D9%81%D8%B8%D9%87",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.643Z"
-  },
-  {
-    "id": "torobshop-beauty-health-135cb4370d26107e",
-    "productId": "torobshop-135cb4370d26107e",
-    "name": "سرخ‌کن کوسوری آمریکا نسل جدید ۲۰۲۶، سرخ‌کن دوقلوی فشرده دو شعله، فناوری NTC",
-    "brand": "",
-    "model": "سرخ‌کن کوسوری آمریکا نسل جدید ۲۰۲۶، سرخ‌کن دوقلوی فشرده دو شعله، فناوری NTC",
-    "category": "beauty-health",
-    "subcategory": "ماشین اصلاح و ریش تراش",
-    "price": 60729000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%DA%A9%D9%88%D8%B2%D9%88%D8%B1%DB%8C-%D9%86%D8%B3%D9%84-%D8%AC%D8%AF%DB%8C%D8%AF-%DB%B2%DB%B0%DB%B2%DB%B6-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%AF%D9%88%D9%82%D9%84%D9%88%DB%8C-%D9%81%D8%B4%D8%B1%D8%AF%D9%87-%D8%AF%D9%88-%D8%B4%D8%B9%D9%84%D9%87-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-NTC",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.643Z"
-  },
-  {
-    "id": "torobshop-beauty-health-ea6561f27fcae338",
-    "productId": "torobshop-ea6561f27fcae338",
-    "name": "لوازم جانبی سرخ کن بدون روغن کوسوری آمریکا Cosori Air",
-    "brand": "",
-    "model": "لوازم جانبی سرخ کن بدون روغن کوسوری آمریکا Cosori Air",
-    "category": "beauty-health",
-    "subcategory": "ماشین اصلاح و ریش تراش",
-    "price": 22361000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%D8%BA%D9%86-%DA%A9%D9%88%D8%B2%D9%88%D8%B1%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.643Z"
-  },
-  {
-    "id": "torobshop-beauty-health-9da6cf5207d19dc6",
-    "productId": "torobshop-9da6cf5207d19dc6",
-    "name": "کاغذ پخت کوسوری آمریکا COSORI برای سرخ کن هوای گرم ۴.۵-۶ لیتری و سرخ کن هوای گرم COSORI TwinFry 10 لیتری",
-    "brand": "",
-    "model": "کاغذ پخت کوسوری آمریکا COSORI برای سرخ کن هوای گرم ۴.۵-۶ لیتری و سرخ کن هوای گرم COSORI TwinFry 10 لیتری",
-    "category": "beauty-health",
-    "subcategory": "ماشین اصلاح و ریش تراش",
-    "price": 70386000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%DA%A9%D8%A7%D8%BA%D8%B0-%D9%BE%D8%AE%D8%AA-COSORI-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D9%87%D9%88%D8%A7%DB%8C-%DA%AF%D8%B1%D9%85-%DB%B4-%DB%B5-%DB%B6-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C-%D9%88-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D9%87%D9%88%D8%A7%DB%8C-%DA%AF%D8%B1%D9%85-COSORI-TwinFry-10-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.643Z"
-  },
-  {
-    "id": "torobshop-beauty-health-973da9b66d30f98f",
-    "productId": "torobshop-973da9b66d30f98f",
-    "name": "کاغذ سرخ کن بدون روغن کوسوری آمریکا Cosori Air",
-    "brand": "",
-    "model": "کاغذ سرخ کن بدون روغن کوسوری آمریکا Cosori Air",
-    "category": "beauty-health",
-    "subcategory": "ماشین اصلاح و ریش تراش",
-    "price": 10418000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%DA%A9%D8%A7%D8%BA%D8%B0-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%D8%BA%D9%86-%DA%A9%D9%88%D8%B2%D9%88%D8%B1%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.643Z"
-  },
-  {
-    "id": "torobshop-beauty-health-27a7ab064979e19e",
-    "productId": "torobshop-27a7ab064979e19e",
-    "name": "خشک‌کن مواد غذایی از جنس استیل ضد زنگ کوسوری آمریکا COSORI با 50 دستور غذا و سرخ‌کن بدون روغن 10 لیتری COSORI TwinFry",
-    "brand": "",
-    "model": "خشک‌کن مواد غذایی از جنس استیل ضد زنگ کوسوری آمریکا COSORI با 50 دستور غذا و سرخ‌کن بدون روغن 10 لیتری COSORI TwinFry",
-    "category": "beauty-health",
-    "subcategory": "ماشین اصلاح و ریش تراش",
-    "price": 112820000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%AE%D8%B4%DA%A9-%DA%A9%D9%86-%D9%85%D9%88%D8%A7%D8%AF-%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C-%D8%A7%D8%B2-%D8%AC%D9%86%D8%B3-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-COSORI-%D8%A8%D8%A7-50-%D8%AF%D8%B3%D8%AA%D9%88%D8%B1-%D8%BA%D8%B0%D8%A7-%D9%88-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%D8%BA%D9%86-10-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C-COSORI-TwinFry",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.643Z"
-  },
-  {
-    "id": "torobshop-beauty-health-426ac503c83523da",
-    "productId": "torobshop-426ac503c83523da",
-    "name": "سرخ کن و کتری شیشه‌ای کوسوری آمریکا COSORI با فیلتر استیل ضد زنگ ارتقا یافته و درب داخلی و سرخ‌کن COSORI TwinFry 10L",
-    "brand": "",
-    "model": "سرخ کن و کتری شیشه‌ای کوسوری آمریکا COSORI با فیلتر استیل ضد زنگ ارتقا یافته و درب داخلی و سرخ‌کن COSORI TwinFry 10L",
-    "category": "beauty-health",
-    "subcategory": "ماشین اصلاح و ریش تراش",
-    "price": 73689000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%DA%A9%D8%AA%D8%B1%DB%8C-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-COSORI-%D8%A8%D8%A7-%D9%81%DB%8C%D9%84%D8%AA%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%A7%D8%B1%D8%AA%D9%82%D8%A7-%DB%8C%D8%A7%D9%81%D8%AA%D9%87-%D9%88-%D8%AF%D8%B1%D8%A8-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D9%88-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-COSORI-TwinFry-10L",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.643Z"
-  },
-  {
-    "id": "torobshop-beauty-health-93f0314c16b9cade",
-    "productId": "torobshop-93f0314c16b9cade",
-    "name": "کاغذ پخت کوسوری آمریکا COSORI برای سرخ کن بدون روغن ۴.۵-۶ لیتر، ۱۰۰ عدد، ۲۰ سانتی‌متر، برای سرخ کن بدون روغن، فر، مایکروویو، بخارپز، لوازم جانبی، مجموعه شش تکه لوازم جانبی برای برندهای سرخ کن بدون روغن ۵.۵ لیتر",
-    "brand": "",
-    "model": "کاغذ پخت کوسوری آمریکا COSORI برای سرخ کن بدون روغن ۴.۵-۶ لیتر، ۱۰۰ عدد، ۲۰ سانتی‌متر، برای سرخ کن بدون روغن، فر، مایکروویو، بخارپز، لوازم جانبی، مجموعه شش تکه لوازم جانبی برای برندهای سرخ کن بدون روغن ۵.۵ لیتر",
-    "category": "beauty-health",
-    "subcategory": "ماشین اصلاح و ریش تراش",
-    "price": 22107000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%DA%A9%D8%A7%D8%BA%D8%B0-%D9%BE%D8%AE%D8%AA-COSORI-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%D8%BA%D9%86-%DB%B4-%DB%B5-%DB%B6-%D9%84%DB%8C%D8%AA%D8%B1-%DB%B1%DB%B0%DB%B0-%D8%B9%D8%AF%D8%AF-%DB%B2%DB%B0-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%D8%BA%D9%86-%D9%81%D8%B1-%D9%85%D8%A7%DB%8C%DA%A9%D8%B1%D9%88%D9%88%DB%8C%D9%88-%D8%A8%D8%AE%D8%A7%D8%B1%D9%BE%D8%B2-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D8%B4%D8%B4-%D8%AA%DA%A9%D9%87-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A8%D8%B1%D9%86%D8%AF%D9%87%D8%A7%DB%8C-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%D8%BA%D9%86-%DB%B5-%DB%B5-%D9%84%DB%8C%D8%AA%D8%B1",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.643Z"
-  },
-  {
-    "id": "torobshop-beauty-health-e546c7ee2f25cccb",
-    "productId": "torobshop-e546c7ee2f25cccb",
-    "name": "سرخ کن هوای گرم Cososi TurboBlaze سینی پخت اصلی 6 لیتری، لوازم جانبی Cosori برای سرخ کن CAF-DC601-KEU، پوشش نچسب، قابل شستشو در ماشین ظرفشویی، CRP-DC601RC-KEU، مشکی",
-    "brand": "",
-    "model": "سرخ کن هوای گرم Cososi TurboBlaze سینی پخت اصلی 6 لیتری، لوازم جانبی Cosori برای سرخ کن CAF-DC601-KEU، پوشش نچسب، قابل شستشو در ماشین ظرفشویی، CRP-DC601RC-KEU، مشکی",
-    "category": "beauty-health",
-    "subcategory": "ماشین اصلاح و ریش تراش",
-    "price": 15246000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D9%87%D9%88%D8%A7%DB%8C-%DA%AF%D8%B1%D9%85-Cososi-TurboBlaze-%D8%B3%DB%8C%D9%86%DB%8C-%D9%BE%D8%AE%D8%AA-%D8%A7%D8%B5%D9%84%DB%8C-6-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-Cosori-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-CAF-DC601-KEU-%D9%BE%D9%88%D8%B4%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-CRP-DC601RC-KEU-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.643Z"
-  },
-  {
-    "id": "torobshop-beauty-health-06e9af83157d59bf",
-    "productId": "torobshop-06e9af83157d59bf",
-    "name": "سرخ‌کن بدون روغن کوسوری آمریکا Cosori CP358-AF ظرفیت 5.5 لیتر 12 کاره",
-    "brand": "",
-    "model": "سرخ‌کن بدون روغن کوسوری آمریکا Cosori CP358-AF ظرفیت 5.5 لیتر 12 کاره",
-    "category": "beauty-health",
-    "subcategory": "ماشین اصلاح و ریش تراش",
-    "price": 33540000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%84%D8%A7%D9%85%D9%BE-%D8%A7%D9%84-%D8%A7%DB%8C-%D8%AF%DB%8C-%D9%BE%D8%A7%DB%8C%D9%87-%D8%B3%D9%88%D8%B2%D9%86%DB%8C-EGLO-G4-%D9%82%D8%A7%D8%A8%D9%84-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D9%86%D9%88%D8%B1-%D9%BE%D8%A7%DB%8C%D9%87-%D8%B3%D9%88%D8%B2%D9%86%DB%8C-%D8%A8%D8%B3%D8%AA%D9%87-%DB%B2-%D8%B9%D8%AF%D8%AF%DB%8C-%DB%B2-%D9%84%D8%A7%D9%85%D9%BE-%D9%87%D8%B1-%DA%A9%D8%AF%D8%A7%D9%85-%DB%B1-%DB%B2-%D9%88%D8%A7%D8%AA-%DB%B1%DB%B2-%D9%88%D9%84%D8%AA-%D9%85%D8%B9%D8%A7%D8%AF%D9%84-%DB%B1%DB%B1-%D9%88%D8%A7%D8%AA-%DB%B1%DB%B0%DB%B0-%D9%84%D9%88%D9%85%D9%86-%D9%86%D9%88%D8%B1-%D8%B3%D9%81%DB%8C%D8%AF-%DA%AF%D8%B1%D9%85-%DB%B2%DB%B7%DB%B0%DB%B0-%DA%A9%D9%84%D9%88%DB%8C%D9%86-%D9%BE%D8%A7%DB%8C%D9%87-%D9%84%D8%A7%D9%85%D9%BE-%DB%B1-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.643Z"
-  },
-  {
-    "id": "torobshop-beauty-health-7dd02e17fa5ae720",
-    "productId": "torobshop-7dd02e17fa5ae720",
-    "name": "سرخ‌کن بدون روغن کوسوری آمریکا مدل CP158 به همراه مجموعه شش تکه لوازم جانبی و کاغذ مخصوص سرخ‌کن بدون روغن",
-    "brand": "",
-    "model": "سرخ‌کن بدون روغن کوسوری آمریکا مدل CP158 به همراه مجموعه شش تکه لوازم جانبی و کاغذ مخصوص سرخ‌کن بدون روغن",
-    "category": "beauty-health",
-    "subcategory": "ماشین اصلاح و ریش تراش",
-    "price": 43705000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%D8%BA%D9%86-%DA%A9%D9%88%D8%B2%D9%88%D8%B1%DB%8C-%D9%85%D8%AF%D9%84-CP158-%D8%A8%D9%87-%D9%87%D9%85%D8%B1%D8%A7%D9%87-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D8%B4%D8%B4-%D8%AA%DA%A9%D9%87-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%88-%DA%A9%D8%A7%D8%BA%D8%B0-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%D8%BA%D9%86",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.643Z"
-  },
-  {
-    "id": "torobshop-beauty-health-67b089d5840c00b5",
-    "productId": "torobshop-67b089d5840c00b5",
-    "name": "سرخ‌کن بدون روغن کوسوری آمریکا COSORI L501 و کاغذ پخت و مجموعه لوازم جانبی سرخ‌کن بدون روغن شش تکه",
-    "brand": "",
-    "model": "سرخ‌کن بدون روغن کوسوری آمریکا COSORI L501 و کاغذ پخت و مجموعه لوازم جانبی سرخ‌کن بدون روغن شش تکه",
-    "category": "beauty-health",
-    "subcategory": "ماشین اصلاح و ریش تراش",
-    "price": 44468000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%D8%BA%D9%86-COSORI-L501-%D9%88-%DA%A9%D8%A7%D8%BA%D8%B0-%D9%BE%D8%AE%D8%AA-%D9%88-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%D8%BA%D9%86-%D8%B4%D8%B4-%D8%AA%DA%A9%D9%87",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.643Z"
-  },
-  {
-    "id": "torobshop-beauty-health-16617f0cd6242c17",
-    "productId": "torobshop-16617f0cd6242c17",
-    "name": "دماسنج گوشت هوشمند کوسوری آمریکا COSORI مدل First، دماسنج کباب‌پزی بی‌سیم بلوتوثی، مناسب برای سرخ‌کن بدون روغن، دماسنج کباب‌پزی برای آشپزخانه و کباب‌پزی، قابل شستشو در ماشین ظرفشویی، مشکی",
-    "brand": "",
-    "model": "دماسنج گوشت هوشمند کوسوری آمریکا COSORI مدل First، دماسنج کباب‌پزی بی‌سیم بلوتوثی، مناسب برای سرخ‌کن بدون روغن، دماسنج کباب‌پزی برای آشپزخانه و کباب‌پزی، قابل شستشو در ماشین ظرفشویی، مشکی",
-    "category": "beauty-health",
-    "subcategory": "ماشین اصلاح و ریش تراش",
-    "price": 26426000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D9%85%D8%A7%D8%B3%D9%86%D8%AC-%DA%AF%D9%88%D8%B4%D8%AA-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-COSORI-%D9%85%D8%AF%D9%84-First-%D8%AF%D9%85%D8%A7%D8%B3%D9%86%D8%AC-%DA%A9%D8%A8%D8%A7%D8%A8-%D9%BE%D8%B2%DB%8C-%D8%A8%DB%8C-%D8%B3%DB%8C%D9%85-%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%D8%BA%D9%86-%D8%AF%D9%85%D8%A7%D8%B3%D9%86%D8%AC-%DA%A9%D8%A8%D8%A7%D8%A8-%D9%BE%D8%B2%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A2%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87-%D9%88-%DA%A9%D8%A8%D8%A7%D8%A8-%D9%BE%D8%B2%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.643Z"
-  },
-  {
-    "id": "torobshop-beauty-health-aab6f7ca65634b77",
-    "productId": "torobshop-aab6f7ca65634b77",
-    "name": "سبد اصلی سرخ کن بدون روغن کوسوری آمریکا COSORI Turboblaze 6Qt، لوازم جانبی جایگزین برای سرخ کن بدون روغن CAF-DC601-KUS، سرامیکی، نچسب، قابل شستشو در ماشین ظرفشویی، CRP-DC601RB-KUS، خاکستری تیره",
-    "brand": "",
-    "model": "سبد اصلی سرخ کن بدون روغن کوسوری آمریکا COSORI Turboblaze 6Qt، لوازم جانبی جایگزین برای سرخ کن بدون روغن CAF-DC601-KUS، سرامیکی، نچسب، قابل شستشو در ماشین ظرفشویی، CRP-DC601RB-KUS، خاکستری تیره",
-    "category": "beauty-health",
-    "subcategory": "ماشین اصلاح و ریش تراش",
-    "price": 29984000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%A8%D8%AF-%D8%A7%D8%B5%D9%84%DB%8C-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%D8%BA%D9%86-COSORI-Turboblaze-6Qt-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%D8%BA%D9%86-CAF-DC601-KUS-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%86%DA%86%D8%B3%D8%A8-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-CRP-DC601RB-KUS-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C-%D8%AA%DB%8C%D8%B1%D9%87",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.643Z"
+    "observedAt": "2026-09-04T21:22:09.460Z"
   },
   {
     "id": "torobshop-beauty-health-230290bd87eab562",
@@ -7053,7 +7089,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.643Z"
+    "observedAt": "2026-09-04T21:22:09.460Z"
   },
   {
     "id": "torobshop-beauty-health-697a2934ffba6321",
@@ -7071,7 +7107,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.643Z"
+    "observedAt": "2026-09-04T21:22:09.460Z"
   },
   {
     "id": "torobshop-beauty-health-54f5e9ae596669e0",
@@ -7089,7 +7125,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.643Z"
+    "observedAt": "2026-09-04T21:22:09.460Z"
   },
   {
     "id": "torobshop-beauty-health-12112ebd794aebfe",
@@ -7107,7 +7143,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.643Z"
+    "observedAt": "2026-09-04T21:22:09.460Z"
   },
   {
     "id": "torobshop-beauty-health-936307be3dbff4d8",
@@ -7125,7 +7161,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.643Z"
+    "observedAt": "2026-09-04T21:22:09.460Z"
   },
   {
     "id": "torobshop-beauty-health-6e9b5969bf806a83",
@@ -7143,7 +7179,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.643Z"
+    "observedAt": "2026-09-04T21:22:09.460Z"
   },
   {
     "id": "torobshop-beauty-health-e8fbb91576830b01",
@@ -7161,7 +7197,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.643Z"
+    "observedAt": "2026-09-04T21:22:09.460Z"
   },
   {
     "id": "torobshop-beauty-health-46604b56d19bc98e",
@@ -7179,7 +7215,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.643Z"
+    "observedAt": "2026-09-04T21:22:09.460Z"
   },
   {
     "id": "torobshop-beauty-health-c0da7c6caaaabe22",
@@ -7197,7 +7233,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.643Z"
+    "observedAt": "2026-09-04T21:22:09.460Z"
   },
   {
     "id": "torobshop-beauty-health-b0d9a8bce5b96da9",
@@ -7215,7 +7251,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.643Z"
+    "observedAt": "2026-09-04T21:22:09.460Z"
   },
   {
     "id": "torobshop-beauty-health-5aade8dcb399df70",
@@ -7233,7 +7269,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.643Z"
+    "observedAt": "2026-09-04T21:22:09.460Z"
   },
   {
     "id": "torobshop-beauty-health-5793143473c0cf7d",
@@ -7251,7 +7287,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.643Z"
+    "observedAt": "2026-09-04T21:22:09.460Z"
   },
   {
     "id": "torobshop-beauty-health-338927d0838a0440",
@@ -7269,7 +7305,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.643Z"
+    "observedAt": "2026-09-04T21:22:09.460Z"
   },
   {
     "id": "torobshop-beauty-health-01db327156bef7cb",
@@ -7287,7 +7323,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.643Z"
+    "observedAt": "2026-09-04T21:22:09.460Z"
   },
   {
     "id": "torobshop-beauty-health-5f8b7d12315d211b",
@@ -7305,7 +7341,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.643Z"
+    "observedAt": "2026-09-04T21:22:09.460Z"
   },
   {
     "id": "torobshop-beauty-health-bbcc82316e14ad0c",
@@ -7323,7 +7359,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.643Z"
+    "observedAt": "2026-09-04T21:22:09.460Z"
   },
   {
     "id": "torobshop-beauty-health-7bcf4d86c8897e89",
@@ -7341,7 +7377,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.643Z"
+    "observedAt": "2026-09-04T21:22:09.460Z"
   },
   {
     "id": "torobshop-beauty-health-c4764ab021d7047d",
@@ -7359,7 +7395,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.643Z"
+    "observedAt": "2026-09-04T21:22:09.460Z"
   },
   {
     "id": "torobshop-beauty-health-c0ed70988a23d716",
@@ -7377,7 +7413,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.643Z"
+    "observedAt": "2026-09-04T21:22:09.460Z"
   },
   {
     "id": "torobshop-beauty-health-60d6e587231ae5e2",
@@ -7395,7 +7431,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.643Z"
+    "observedAt": "2026-09-04T21:22:09.460Z"
   },
   {
     "id": "torobshop-beauty-health-6ae0fa5e11f4b4e4",
@@ -7413,7 +7449,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.643Z"
+    "observedAt": "2026-09-04T21:22:09.460Z"
   },
   {
     "id": "torobshop-beauty-health-60af1d85416ddb75",
@@ -7431,7 +7467,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.643Z"
+    "observedAt": "2026-09-04T21:22:09.460Z"
   },
   {
     "id": "torobshop-beauty-health-4bcca73578b5dd16",
@@ -7449,7 +7485,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.643Z"
+    "observedAt": "2026-09-04T21:22:09.460Z"
   },
   {
     "id": "torobshop-beauty-health-6e06ceda384f61d3",
@@ -7467,7 +7503,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.643Z"
+    "observedAt": "2026-09-04T21:22:09.460Z"
   },
   {
     "id": "torobshop-beauty-health-d6020856dbe3939e",
@@ -7485,7 +7521,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.643Z"
+    "observedAt": "2026-09-04T21:22:09.460Z"
   },
   {
     "id": "torobshop-beauty-health-5d82b44892bc11b9",
@@ -7503,7 +7539,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.643Z"
+    "observedAt": "2026-09-04T21:22:09.460Z"
   },
   {
     "id": "torobshop-beauty-health-f9bbe058bc1d2128",
@@ -7521,7 +7557,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.643Z"
+    "observedAt": "2026-09-04T21:22:09.460Z"
   },
   {
     "id": "torobshop-beauty-health-e314f2beea5b98b5",
@@ -7539,7 +7575,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.643Z"
+    "observedAt": "2026-09-04T21:22:09.460Z"
   },
   {
     "id": "torobshop-beauty-health-55066b4800c9da01",
@@ -7557,7 +7593,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.643Z"
+    "observedAt": "2026-09-04T21:22:09.460Z"
   },
   {
     "id": "torobshop-beauty-health-f9b72003ee046406",
@@ -7575,7 +7611,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.643Z"
+    "observedAt": "2026-09-04T21:22:09.460Z"
   },
   {
     "id": "torobshop-beauty-health-e0190c6b09b72f84",
@@ -7593,7 +7629,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.643Z"
+    "observedAt": "2026-09-04T21:22:09.460Z"
   },
   {
     "id": "torobshop-beauty-health-dab9eb8721316f5c",
@@ -7611,43 +7647,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.643Z"
-  },
-  {
-    "id": "torobshop-beauty-health-b5bb3ef74c64016f",
-    "productId": "torobshop-b5bb3ef74c64016f",
-    "name": "ریش تراش برقی براون آلمان سری 9 پرو پلاس با ایستگاه شستشو هوشمند مدل Braun 9690cce",
-    "brand": "",
-    "model": "ریش تراش برقی براون آلمان سری 9 پرو پلاس با ایستگاه شستشو هوشمند مدل Braun 9690cce",
-    "category": "beauty-health",
-    "subcategory": "ماشین اصلاح و ریش تراش",
-    "price": 108261000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D8%A8%D8%B1%D9%82%DB%8C-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%B3%D8%B1%DB%8C-9-%D9%BE%D8%B1%D9%88-%D9%BE%D9%84%D8%A7%D8%B3-%D8%A8%D8%A7-%D8%A7%DB%8C%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%D9%85%D8%AF%D9%84-Braun-9690cce",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.643Z"
-  },
-  {
-    "id": "torobshop-beauty-health-13383e2908795ceb",
-    "productId": "torobshop-13383e2908795ceb",
-    "name": "اسپرسو ساز تمام اتوماتیک نینجا آمریکا Ninja AE1051EU",
-    "brand": "",
-    "model": "اسپرسو ساز تمام اتوماتیک نینجا آمریکا Ninja AE1051EU",
-    "category": "beauty-health",
-    "subcategory": "ماشین اصلاح و ریش تراش",
-    "price": 263060000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%A7%D8%B3%D9%BE%D8%B1%D8%B3%D9%88-%D8%B3%D8%A7%D8%B2-%D8%AA%D9%85%D8%A7%D9%85-%D8%A7%D8%AA%D9%88%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-Ninja-AE1051EU",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.644Z"
+    "observedAt": "2026-09-04T21:22:09.460Z"
   },
   {
     "id": "torobshop-beauty-health-7039563646d2a08c",
@@ -7665,7 +7665,43 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.644Z"
+    "observedAt": "2026-09-04T21:22:09.460Z"
+  },
+  {
+    "id": "torobshop-beauty-health-b5bb3ef74c64016f",
+    "productId": "torobshop-b5bb3ef74c64016f",
+    "name": "ریش تراش برقی براون آلمان سری 9 پرو پلاس با ایستگاه شستشو هوشمند مدل Braun 9690cce",
+    "brand": "",
+    "model": "ریش تراش برقی براون آلمان سری 9 پرو پلاس با ایستگاه شستشو هوشمند مدل Braun 9690cce",
+    "category": "beauty-health",
+    "subcategory": "ماشین اصلاح و ریش تراش",
+    "price": 108261000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D8%A8%D8%B1%D9%82%DB%8C-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%B3%D8%B1%DB%8C-9-%D9%BE%D8%B1%D9%88-%D9%BE%D9%84%D8%A7%D8%B3-%D8%A8%D8%A7-%D8%A7%DB%8C%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%D9%85%D8%AF%D9%84-Braun-9690cce",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:22:09.460Z"
+  },
+  {
+    "id": "torobshop-beauty-health-13383e2908795ceb",
+    "productId": "torobshop-13383e2908795ceb",
+    "name": "اسپرسو ساز تمام اتوماتیک نینجا آمریکا Ninja AE1051EU",
+    "brand": "",
+    "model": "اسپرسو ساز تمام اتوماتیک نینجا آمریکا Ninja AE1051EU",
+    "category": "beauty-health",
+    "subcategory": "ماشین اصلاح و ریش تراش",
+    "price": 263060000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D8%B3%D9%BE%D8%B1%D8%B3%D9%88-%D8%B3%D8%A7%D8%B2-%D8%AA%D9%85%D8%A7%D9%85-%D8%A7%D8%AA%D9%88%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-Ninja-AE1051EU",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:22:09.460Z"
   },
   {
     "id": "torobshop-beauty-health-d17a16a92c427af7",
@@ -7683,7 +7719,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.644Z"
+    "observedAt": "2026-09-04T21:22:09.460Z"
   },
   {
     "id": "torobshop-beauty-health-222c5f1f48a7811a",
@@ -7701,7 +7737,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.644Z"
+    "observedAt": "2026-09-04T21:22:09.460Z"
   },
   {
     "id": "torobshop-beauty-health-e05ea902bac411c1",
@@ -7719,25 +7755,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.644Z"
-  },
-  {
-    "id": "torobshop-beauty-health-9f8dba1c4be0543f",
-    "productId": "torobshop-9f8dba1c4be0543f",
-    "name": "دستگاه تنس مخصوص زانو بیورر آلمان مدل Beurer EM 56 کاهش درد زانو آرتروز و دردهای مفصلی",
-    "brand": "",
-    "model": "دستگاه تنس مخصوص زانو بیورر آلمان مدل Beurer EM 56 کاهش درد زانو آرتروز و دردهای مفصلی",
-    "category": "beauty-health",
-    "subcategory": "ماشین اصلاح و ریش تراش",
-    "price": 22834000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%AA%D9%86%D8%B3-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%B2%D8%A7%D9%86%D9%88-%D8%A8%DB%8C%D9%88%D8%B1%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%AF%D9%84-Beurer-EM-56-%DA%A9%D8%A7%D9%87%D8%B4-%D8%AF%D8%B1%D8%AF-%D8%B2%D8%A7%D9%86%D9%88-%D8%A2%D8%B1%D8%AA%D8%B1%D9%88%D8%B2-%D9%88-%D8%AF%D8%B1%D8%AF%D9%87%D8%A7%DB%8C-%D9%85%D9%81%D8%B5%D9%84%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.644Z"
+    "observedAt": "2026-09-04T21:22:09.460Z"
   },
   {
     "id": "torobshop-beauty-health-73f54a12bc87541c",
@@ -7755,7 +7773,25 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.644Z"
+    "observedAt": "2026-09-04T21:22:09.460Z"
+  },
+  {
+    "id": "torobshop-beauty-health-9f8dba1c4be0543f",
+    "productId": "torobshop-9f8dba1c4be0543f",
+    "name": "دستگاه تنس مخصوص زانو بیورر آلمان مدل Beurer EM 56 کاهش درد زانو آرتروز و دردهای مفصلی",
+    "brand": "",
+    "model": "دستگاه تنس مخصوص زانو بیورر آلمان مدل Beurer EM 56 کاهش درد زانو آرتروز و دردهای مفصلی",
+    "category": "beauty-health",
+    "subcategory": "ماشین اصلاح و ریش تراش",
+    "price": 22834000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%AA%D9%86%D8%B3-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%B2%D8%A7%D9%86%D9%88-%D8%A8%DB%8C%D9%88%D8%B1%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%AF%D9%84-Beurer-EM-56-%DA%A9%D8%A7%D9%87%D8%B4-%D8%AF%D8%B1%D8%AF-%D8%B2%D8%A7%D9%86%D9%88-%D8%A2%D8%B1%D8%AA%D8%B1%D9%88%D8%B2-%D9%88-%D8%AF%D8%B1%D8%AF%D9%87%D8%A7%DB%8C-%D9%85%D9%81%D8%B5%D9%84%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:22:09.460Z"
   },
   {
     "id": "torobshop-beauty-health-7dda1ee3ebe3337d",
@@ -7773,7 +7809,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.644Z"
+    "observedAt": "2026-09-04T21:22:09.460Z"
   },
   {
     "id": "torobshop-beauty-health-fed9304ce636fd70",
@@ -7791,7 +7827,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.644Z"
+    "observedAt": "2026-09-04T21:22:09.460Z"
   },
   {
     "id": "torobshop-beauty-health-56d2262c04bf40b1",
@@ -7809,7 +7845,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.644Z"
+    "observedAt": "2026-09-04T21:22:09.460Z"
   },
   {
     "id": "torobshop-beauty-health-1d09296a1209f7ae",
@@ -7827,7 +7863,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.644Z"
+    "observedAt": "2026-09-04T21:22:09.460Z"
   },
   {
     "id": "torobshop-beauty-health-d5861c5eae980acb",
@@ -7845,7 +7881,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.644Z"
+    "observedAt": "2026-09-04T21:22:09.460Z"
   },
   {
     "id": "torobshop-beauty-health-3a354858143bf5bf",
@@ -7863,7 +7899,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.644Z"
+    "observedAt": "2026-09-04T21:22:09.460Z"
   },
   {
     "id": "torobshop-beauty-health-3b108c60419c6b3e",
@@ -7881,7 +7917,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.644Z"
+    "observedAt": "2026-09-04T21:22:09.460Z"
   },
   {
     "id": "torobshop-beauty-health-386045fed7109b6c",
@@ -7899,7 +7935,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.644Z"
+    "observedAt": "2026-09-04T21:22:09.460Z"
   },
   {
     "id": "torobshop-beauty-health-3d432c8dbd69eefb",
@@ -7917,7 +7953,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.644Z"
+    "observedAt": "2026-09-04T21:22:09.460Z"
   },
   {
     "id": "torobshop-beauty-health-2278a7dbec8ed7cd",
@@ -7935,7 +7971,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.644Z"
+    "observedAt": "2026-09-04T21:22:09.460Z"
   },
   {
     "id": "torobshop-beauty-health-66634e26dfb49c04",
@@ -7953,7 +7989,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.644Z"
+    "observedAt": "2026-09-04T21:22:09.460Z"
   },
   {
     "id": "torobshop-beauty-health-bab25203513b93bb",
@@ -7971,7 +8007,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.644Z"
+    "observedAt": "2026-09-04T21:22:09.460Z"
   },
   {
     "id": "torobshop-beauty-health-3dd1b99a47f6c6d1",
@@ -7989,7 +8025,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.644Z"
+    "observedAt": "2026-09-04T21:22:09.460Z"
   },
   {
     "id": "torobshop-beauty-health-bcf3455eedcf96e7",
@@ -8007,7 +8043,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.644Z"
+    "observedAt": "2026-09-04T21:22:09.460Z"
   },
   {
     "id": "torobshop-beauty-health-40f557a46b915c21",
@@ -8025,25 +8061,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.644Z"
-  },
-  {
-    "id": "torobshop-beauty-health-fbd5e1832a592f6d",
-    "productId": "torobshop-fbd5e1832a592f6d",
-    "name": "اسپرسو ساز اسمگ ایتالیا مدل Smeg ECF02CREU رنگ کرم با طراحی کلاسیک دهه ۵۰",
-    "brand": "",
-    "model": "اسپرسو ساز اسمگ ایتالیا مدل Smeg ECF02CREU رنگ کرم با طراحی کلاسیک دهه ۵۰",
-    "category": "beauty-health",
-    "subcategory": "ماشین اصلاح و ریش تراش",
-    "price": 90041000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%A7%D8%B3%D9%BE%D8%B1%D8%B3%D9%88-%D8%B3%D8%A7%D8%B2-%D8%A7%D8%B3%D9%85%DA%AF-%D8%A7%DB%8C%D8%AA%D8%A7%D9%84%DB%8C%D8%A7-%D9%85%D8%AF%D9%84-Smeg-ECF02CREU-%D8%B1%D9%86%DA%AF-%DA%A9%D8%B1%D9%85-%D8%A8%D8%A7-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%DA%A9%D9%84%D8%A7%D8%B3%DB%8C%DA%A9-%D8%AF%D9%87%D9%87-%DB%B5%DB%B0",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.644Z"
+    "observedAt": "2026-09-04T21:22:09.460Z"
   },
   {
     "id": "torobshop-beauty-health-9c9a87a898bad342",
@@ -8061,7 +8079,25 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.644Z"
+    "observedAt": "2026-09-04T21:22:09.461Z"
+  },
+  {
+    "id": "torobshop-beauty-health-fbd5e1832a592f6d",
+    "productId": "torobshop-fbd5e1832a592f6d",
+    "name": "اسپرسو ساز اسمگ ایتالیا مدل Smeg ECF02CREU رنگ کرم با طراحی کلاسیک دهه ۵۰",
+    "brand": "",
+    "model": "اسپرسو ساز اسمگ ایتالیا مدل Smeg ECF02CREU رنگ کرم با طراحی کلاسیک دهه ۵۰",
+    "category": "beauty-health",
+    "subcategory": "ماشین اصلاح و ریش تراش",
+    "price": 90041000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D8%B3%D9%BE%D8%B1%D8%B3%D9%88-%D8%B3%D8%A7%D8%B2-%D8%A7%D8%B3%D9%85%DA%AF-%D8%A7%DB%8C%D8%AA%D8%A7%D9%84%DB%8C%D8%A7-%D9%85%D8%AF%D9%84-Smeg-ECF02CREU-%D8%B1%D9%86%DA%AF-%DA%A9%D8%B1%D9%85-%D8%A8%D8%A7-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%DA%A9%D9%84%D8%A7%D8%B3%DB%8C%DA%A9-%D8%AF%D9%87%D9%87-%DB%B5%DB%B0",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:22:09.461Z"
   },
   {
     "id": "torobshop-beauty-health-685fccacbb18ee43",
@@ -8079,7 +8115,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.644Z"
+    "observedAt": "2026-09-04T21:22:09.461Z"
   },
   {
     "id": "torobshop-beauty-health-1cb6df1aed563bee",
@@ -8097,7 +8133,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.644Z"
+    "observedAt": "2026-09-04T21:22:09.461Z"
   },
   {
     "id": "torobshop-beauty-health-993ee35f4a561a10",
@@ -8115,7 +8151,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.644Z"
+    "observedAt": "2026-09-04T21:22:09.461Z"
   },
   {
     "id": "torobshop-beauty-health-37fd983abaa93a3b",
@@ -8133,7 +8169,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.644Z"
+    "observedAt": "2026-09-04T21:22:09.461Z"
   },
   {
     "id": "torobshop-beauty-health-deb4652ab7b20c96",
@@ -8151,7 +8187,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.644Z"
+    "observedAt": "2026-09-04T21:22:09.461Z"
   },
   {
     "id": "torobshop-beauty-health-cc5a74ea332cb871",
@@ -8169,7 +8205,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.644Z"
+    "observedAt": "2026-09-04T21:22:09.461Z"
   },
   {
     "id": "torobshop-beauty-health-5e97e30e4af5e35a",
@@ -8187,7 +8223,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.644Z"
+    "observedAt": "2026-09-04T21:22:09.461Z"
   },
   {
     "id": "torobshop-beauty-health-f5c373b20c89f3cf",
@@ -8205,7 +8241,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.644Z"
+    "observedAt": "2026-09-04T21:22:09.461Z"
   },
   {
     "id": "torobshop-beauty-health-557954e4838db8ec",
@@ -8223,7 +8259,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.644Z"
+    "observedAt": "2026-09-04T21:22:09.461Z"
   },
   {
     "id": "torobshop-beauty-health-ac5e0f9a687acc9d",
@@ -8241,7 +8277,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.644Z"
+    "observedAt": "2026-09-04T21:22:09.461Z"
   },
   {
     "id": "torobshop-beauty-health-174296fd490ce4c6",
@@ -8259,7 +8295,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.644Z"
+    "observedAt": "2026-09-04T21:22:09.461Z"
   },
   {
     "id": "torobshop-beauty-health-ca40f9691c169854",
@@ -8277,7 +8313,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.644Z"
+    "observedAt": "2026-09-04T21:22:09.461Z"
   },
   {
     "id": "torobshop-beauty-health-24ee5f250564a2b6",
@@ -8295,7 +8331,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.644Z"
+    "observedAt": "2026-09-04T21:22:09.461Z"
   },
   {
     "id": "torobshop-beauty-health-eb2d1bdae18ab641",
@@ -8313,7 +8349,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.644Z"
+    "observedAt": "2026-09-04T21:22:09.461Z"
   },
   {
     "id": "torobshop-beauty-health-9526bc50db1d2b71",
@@ -8331,7 +8367,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.644Z"
+    "observedAt": "2026-09-04T21:22:09.461Z"
   },
   {
     "id": "torobshop-beauty-health-17aea0c096f3fbb1",
@@ -8349,7 +8385,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.644Z"
+    "observedAt": "2026-09-04T21:22:09.461Z"
   },
   {
     "id": "torobshop-beauty-health-dab36535df580dd9",
@@ -8367,7 +8403,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.644Z"
+    "observedAt": "2026-09-04T21:22:09.461Z"
   },
   {
     "id": "torobshop-beauty-health-bb07ff83203ce817",
@@ -8385,7 +8421,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.644Z"
+    "observedAt": "2026-09-04T21:22:09.461Z"
   },
   {
     "id": "torobshop-beauty-health-23a08ed4a54c1bf3",
@@ -8403,7 +8439,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.644Z"
+    "observedAt": "2026-09-04T21:22:09.461Z"
   },
   {
     "id": "torobshop-beauty-health-86394f5b0d453ade",
@@ -8421,7 +8457,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.644Z"
+    "observedAt": "2026-09-04T21:22:09.461Z"
   },
   {
     "id": "torobshop-beauty-health-bf0ff9604c787d7f",
@@ -8439,7 +8475,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.644Z"
+    "observedAt": "2026-09-04T21:22:09.461Z"
   },
   {
     "id": "torobshop-beauty-health-ffccfb4b61d564f3",
@@ -8457,7 +8493,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.644Z"
+    "observedAt": "2026-09-04T21:22:09.461Z"
   },
   {
     "id": "torobshop-beauty-health-add12b5339d41d54",
@@ -8475,7 +8511,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.644Z"
+    "observedAt": "2026-09-04T21:22:09.461Z"
   },
   {
     "id": "torobshop-beauty-health-ec9957a5ab556a59",
@@ -8493,7 +8529,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.644Z"
+    "observedAt": "2026-09-04T21:22:09.461Z"
   },
   {
     "id": "torobshop-beauty-health-e89541bdd38935d2",
@@ -8511,7 +8547,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.644Z"
+    "observedAt": "2026-09-04T21:22:09.461Z"
   },
   {
     "id": "torobshop-beauty-health-ec7446a90d887300",
@@ -8529,7 +8565,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.644Z"
+    "observedAt": "2026-09-04T21:22:09.461Z"
   },
   {
     "id": "torobshop-beauty-health-f676e23d1f151190",
@@ -8547,7 +8583,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.644Z"
+    "observedAt": "2026-09-04T21:22:09.461Z"
   },
   {
     "id": "torobshop-beauty-health-3debd7458ec254ad",
@@ -8565,7 +8601,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.644Z"
+    "observedAt": "2026-09-04T21:22:09.461Z"
   },
   {
     "id": "torobshop-beauty-health-bf9b6308d5e6e4a3",
@@ -8583,7 +8619,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.644Z"
+    "observedAt": "2026-09-04T21:22:09.461Z"
   },
   {
     "id": "torobshop-beauty-health-a936b9d4fccda9ec",
@@ -8601,7 +8637,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.644Z"
+    "observedAt": "2026-09-04T21:22:09.461Z"
   },
   {
     "id": "torobshop-beauty-health-bc5ad78acdc13550",
@@ -8619,7 +8655,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.644Z"
+    "observedAt": "2026-09-04T21:22:09.461Z"
   },
   {
     "id": "torobshop-beauty-health-b93b2b7b8a52ead7",
@@ -8637,7 +8673,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.644Z"
+    "observedAt": "2026-09-04T21:22:09.461Z"
   },
   {
     "id": "torobshop-beauty-health-20506e6b258fcb0c",
@@ -8655,7 +8691,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.644Z"
+    "observedAt": "2026-09-04T21:22:09.461Z"
   },
   {
     "id": "torobshop-beauty-health-9f1357a1a5ec15c3",
@@ -8673,7 +8709,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.644Z"
+    "observedAt": "2026-09-04T21:22:09.461Z"
   },
   {
     "id": "torobshop-beauty-health-469010b14dce1518",
@@ -8691,7 +8727,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.644Z"
+    "observedAt": "2026-09-04T21:22:09.461Z"
   },
   {
     "id": "torobshop-beauty-health-d622f60b84a25c29",
@@ -8709,7 +8745,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.645Z"
+    "observedAt": "2026-09-04T21:22:09.461Z"
   },
   {
     "id": "torobshop-beauty-health-8ad1b620c2984c64",
@@ -8727,7 +8763,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.645Z"
+    "observedAt": "2026-09-04T21:22:09.461Z"
   },
   {
     "id": "torobshop-beauty-health-10055e541e3441a4",
@@ -8745,7 +8781,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.645Z"
+    "observedAt": "2026-09-04T21:22:09.461Z"
   },
   {
     "id": "torobshop-beauty-health-7362b68fe582e1ef",
@@ -8763,7 +8799,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.645Z"
+    "observedAt": "2026-09-04T21:22:09.461Z"
   },
   {
     "id": "torobshop-beauty-health-8cd92a01eb7c25f2",
@@ -8781,7 +8817,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.645Z"
+    "observedAt": "2026-09-04T21:22:09.461Z"
   },
   {
     "id": "torobshop-beauty-health-2aa12aa20262b96c",
@@ -8799,7 +8835,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.645Z"
+    "observedAt": "2026-09-04T21:22:09.461Z"
   },
   {
     "id": "torobshop-beauty-health-8b4d268dc0b50dc9",
@@ -8817,7 +8853,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.645Z"
+    "observedAt": "2026-09-04T21:22:09.461Z"
   },
   {
     "id": "torobshop-beauty-health-2961f6c161810850",
@@ -8835,79 +8871,7 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.645Z"
-  },
-  {
-    "id": "torobshop-beauty-health-a0357d058917fff7",
-    "productId": "torobshop-a0357d058917fff7",
-    "name": "مانیتور فیلیپس 252B9 - 25 اینچ WUXGA، قابلیت تنظیم ارتفاع (1900x1200، 60 هرتز، VGA، DVI، HDMI، DisplayPort، هاب USB) مشکی",
-    "brand": "",
-    "model": "مانیتور فیلیپس 252B9 - 25 اینچ WUXGA، قابلیت تنظیم ارتفاع (1900x1200، 60 هرتز، VGA، DVI، HDMI، DisplayPort، هاب USB) مشکی",
-    "category": "beauty-health",
-    "subcategory": "ماشین اصلاح و ریش تراش",
-    "price": 66828000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-252B9-25-%D8%A7%DB%8C%D9%86%DA%86-WUXGA-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-1900x1200-60-%D9%87%D8%B1%D8%AA%D8%B2-VGA-DVI-HDMI-DisplayPort-%D9%87%D8%A7%D8%A8-USB-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.645Z"
-  },
-  {
-    "id": "torobshop-beauty-health-5219a65546b1a882",
-    "productId": "torobshop-5219a65546b1a882",
-    "name": "مانیتور فیلیپس ۲۷۵B1 - ۲۷ اینچ QHD، قابلیت تنظیم ارتفاع (۲۵۶۰x۱۴۰۰، ۷۵ هرتز، DVI، HDMI، DisplayPort، هاب USB) مشکی",
-    "brand": "",
-    "model": "مانیتور فیلیپس ۲۷۵B1 - ۲۷ اینچ QHD، قابلیت تنظیم ارتفاع (۲۵۶۰x۱۴۰۰، ۷۵ هرتز، DVI، HDMI، DisplayPort، هاب USB) مشکی",
-    "category": "beauty-health",
-    "subcategory": "ماشین اصلاح و ریش تراش",
-    "price": 62255000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%DB%B2%DB%B7%DB%B5B1-%DB%B2%DB%B7-%D8%A7%DB%8C%D9%86%DA%86-QHD-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%DB%B2%DB%B5%DB%B6%DB%B0x%DB%B1%DB%B4%DB%B0%DB%B0-%DB%B7%DB%B5-%D9%87%D8%B1%D8%AA%D8%B2-DVI-HDMI-DisplayPort-%D9%87%D8%A7%D8%A8-USB-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.645Z"
-  },
-  {
-    "id": "torobshop-beauty-health-231a8680a663a06f",
-    "productId": "torobshop-231a8680a663a06f",
-    "name": "هدفون ورزشی بی‌سیم فیلیپس مدل Open-Ear بژ",
-    "brand": "",
-    "model": "هدفون ورزشی بی‌سیم فیلیپس مدل Open-Ear بژ",
-    "category": "beauty-health",
-    "subcategory": "ماشین اصلاح و ریش تراش",
-    "price": 14738000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%87%D8%AF%D9%81%D9%88%D9%86-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D8%A8%DB%8C-%D8%B3%DB%8C%D9%85-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%85%D8%AF%D9%84-Open-Ear-%D8%A8%DA%98",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.645Z"
-  },
-  {
-    "id": "torobshop-beauty-health-f6139cf71fa544af",
-    "productId": "torobshop-f6139cf71fa544af",
-    "name": "هدفون بلوتوث بی‌سیم فیلیپس TAH8000EWT/00 - حذف نویز، 70 ساعت پخش مداوم، سازگار با دستیارهای صوتی، ایده‌آل برای سفر - سفید",
-    "brand": "",
-    "model": "هدفون بلوتوث بی‌سیم فیلیپس TAH8000EWT/00 - حذف نویز، 70 ساعت پخش مداوم، سازگار با دستیارهای صوتی، ایده‌آل برای سفر - سفید",
-    "category": "beauty-health",
-    "subcategory": "ماشین اصلاح و ریش تراش",
-    "price": 36590000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%87%D8%AF%D9%81%D9%88%D9%86-%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB-%D8%A8%DB%8C-%D8%B3%DB%8C%D9%85-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-TAH8000EWT-00-%D8%AD%D8%B0%D9%81-%D9%86%D9%88%DB%8C%D8%B2-70-%D8%B3%D8%A7%D8%B9%D8%AA-%D9%BE%D8%AE%D8%B4-%D9%85%D8%AF%D8%A7%D9%88%D9%85-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%AF%D8%B3%D8%AA%DB%8C%D8%A7%D8%B1%D9%87%D8%A7%DB%8C-%D8%B5%D9%88%D8%AA%DB%8C-%D8%A7%DB%8C%D8%AF%D9%87-%D8%A2%D9%84-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B3%D9%81%D8%B1-%D8%B3%D9%81%DB%8C%D8%AF",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.645Z"
+    "observedAt": "2026-09-04T21:22:09.461Z"
   },
   {
     "id": "torobshop-beauty-health-712138d0bed8d76a",
@@ -8925,43 +8889,79 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.645Z"
+    "observedAt": "2026-09-04T21:22:09.461Z"
   },
   {
-    "id": "torobshop-beauty-health-2e4aeaf94d879ff9",
-    "productId": "torobshop-2e4aeaf94d879ff9",
-    "name": "هدفون روگوشی فیلیپس مدل H4205BK/00 با دکمه تقویت بیس (بلوتوث، 29 ساعت پخش، شارژ سریع، عایق صدا، تاشو)، مشکی مات",
+    "id": "torobshop-beauty-health-a0357d058917fff7",
+    "productId": "torobshop-a0357d058917fff7",
+    "name": "مانیتور فیلیپس 252B9 - 25 اینچ WUXGA، قابلیت تنظیم ارتفاع (1900x1200، 60 هرتز، VGA، DVI، HDMI، DisplayPort، هاب USB) مشکی",
     "brand": "",
-    "model": "هدفون روگوشی فیلیپس مدل H4205BK/00 با دکمه تقویت بیس (بلوتوث، 29 ساعت پخش، شارژ سریع، عایق صدا، تاشو)، مشکی مات",
+    "model": "مانیتور فیلیپس 252B9 - 25 اینچ WUXGA، قابلیت تنظیم ارتفاع (1900x1200، 60 هرتز، VGA، DVI، HDMI، DisplayPort، هاب USB) مشکی",
     "category": "beauty-health",
     "subcategory": "ماشین اصلاح و ریش تراش",
-    "price": 21344000,
+    "price": 66828000,
     "currency": "IRT",
     "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%87%D8%AF%D9%81%D9%88%D9%86-%D8%B1%D9%88%DA%AF%D9%88%D8%B4%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%85%D8%AF%D9%84-H4205BK-00-%D8%A8%D8%A7-%D8%AF%DA%A9%D9%85%D9%87-%D8%AA%D9%82%D9%88%DB%8C%D8%AA-%D8%A8%DB%8C%D8%B3-%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB-29-%D8%B3%D8%A7%D8%B9%D8%AA-%D9%BE%D8%AE%D8%B4-%D8%B4%D8%A7%D8%B1%DA%98-%D8%B3%D8%B1%DB%8C%D8%B9-%D8%B9%D8%A7%DB%8C%D9%82-%D8%B5%D8%AF%D8%A7-%D8%AA%D8%A7%D8%B4%D9%88-%D9%85%D8%B4%DA%A9%DB%8C-%D9%85%D8%A7%D8%AA",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-252B9-25-%D8%A7%DB%8C%D9%86%DA%86-WUXGA-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-1900x1200-60-%D9%87%D8%B1%D8%AA%D8%B2-VGA-DVI-HDMI-DisplayPort-%D9%87%D8%A7%D8%A8-USB-%D9%85%D8%B4%DA%A9%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.645Z"
+    "observedAt": "2026-09-04T21:22:09.461Z"
   },
   {
-    "id": "torobshop-beauty-health-f241bfdbdc958cdb",
-    "productId": "torobshop-f241bfdbdc958cdb",
-    "name": "مانیتور فیلیپس هلند Philips 328P6AUBREB سایز ۳۲ اینچ QHD با داک USB-C و پایه قابل تنظیم",
+    "id": "torobshop-beauty-health-5219a65546b1a882",
+    "productId": "torobshop-5219a65546b1a882",
+    "name": "مانیتور فیلیپس ۲۷۵B1 - ۲۷ اینچ QHD، قابلیت تنظیم ارتفاع (۲۵۶۰x۱۴۰۰، ۷۵ هرتز، DVI، HDMI، DisplayPort، هاب USB) مشکی",
     "brand": "",
-    "model": "مانیتور فیلیپس هلند Philips 328P6AUBREB سایز ۳۲ اینچ QHD با داک USB-C و پایه قابل تنظیم",
+    "model": "مانیتور فیلیپس ۲۷۵B1 - ۲۷ اینچ QHD، قابلیت تنظیم ارتفاع (۲۵۶۰x۱۴۰۰، ۷۵ هرتز، DVI، HDMI، DisplayPort، هاب USB) مشکی",
     "category": "beauty-health",
     "subcategory": "ماشین اصلاح و ریش تراش",
-    "price": 65558000,
+    "price": 62255000,
     "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-328P6AUBREB-%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D8%AF%D8%A7%DA%A9-USB-C-%D8%A8%D8%A7-%D8%B5%D9%81%D8%AD%D9%87-%D9%86%D9%85%D8%A7%DB%8C%D8%B4-32-%D8%A7%DB%8C%D9%86%DA%86-QHD-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-2560x1440-60-%D9%87%D8%B1%D8%AA%D8%B2-VGA-HDMI-USB-C-RJ45-%D9%87%D8%A7%D8%A8-USB-%D9%85%D8%B4%DA%A9%DB%8C",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%DB%B2%DB%B7%DB%B5B1-%DB%B2%DB%B7-%D8%A7%DB%8C%D9%86%DA%86-QHD-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%DB%B2%DB%B5%DB%B6%DB%B0x%DB%B1%DB%B4%DB%B0%DB%B0-%DB%B7%DB%B5-%D9%87%D8%B1%D8%AA%D8%B2-DVI-HDMI-DisplayPort-%D9%87%D8%A7%D8%A8-USB-%D9%85%D8%B4%DA%A9%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.645Z"
+    "observedAt": "2026-09-04T21:22:09.461Z"
+  },
+  {
+    "id": "torobshop-beauty-health-231a8680a663a06f",
+    "productId": "torobshop-231a8680a663a06f",
+    "name": "هدفون ورزشی بی‌سیم فیلیپس مدل Open-Ear بژ",
+    "brand": "",
+    "model": "هدفون ورزشی بی‌سیم فیلیپس مدل Open-Ear بژ",
+    "category": "beauty-health",
+    "subcategory": "ماشین اصلاح و ریش تراش",
+    "price": 14738000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%87%D8%AF%D9%81%D9%88%D9%86-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D8%A8%DB%8C-%D8%B3%DB%8C%D9%85-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%85%D8%AF%D9%84-Open-Ear-%D8%A8%DA%98",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:22:09.461Z"
+  },
+  {
+    "id": "torobshop-beauty-health-f6139cf71fa544af",
+    "productId": "torobshop-f6139cf71fa544af",
+    "name": "هدفون بلوتوث بی‌سیم فیلیپس TAH8000EWT/00 - حذف نویز، 70 ساعت پخش مداوم، سازگار با دستیارهای صوتی، ایده‌آل برای سفر - سفید",
+    "brand": "",
+    "model": "هدفون بلوتوث بی‌سیم فیلیپس TAH8000EWT/00 - حذف نویز، 70 ساعت پخش مداوم، سازگار با دستیارهای صوتی، ایده‌آل برای سفر - سفید",
+    "category": "beauty-health",
+    "subcategory": "ماشین اصلاح و ریش تراش",
+    "price": 36590000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%87%D8%AF%D9%81%D9%88%D9%86-%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB-%D8%A8%DB%8C-%D8%B3%DB%8C%D9%85-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-TAH8000EWT-00-%D8%AD%D8%B0%D9%81-%D9%86%D9%88%DB%8C%D8%B2-70-%D8%B3%D8%A7%D8%B9%D8%AA-%D9%BE%D8%AE%D8%B4-%D9%85%D8%AF%D8%A7%D9%88%D9%85-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%AF%D8%B3%D8%AA%DB%8C%D8%A7%D8%B1%D9%87%D8%A7%DB%8C-%D8%B5%D9%88%D8%AA%DB%8C-%D8%A7%DB%8C%D8%AF%D9%87-%D8%A2%D9%84-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B3%D9%81%D8%B1-%D8%B3%D9%81%DB%8C%D8%AF",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:22:09.461Z"
   },
   {
     "id": "torobshop-beauty-health-667b222bc82da779",
@@ -8979,24 +8979,24 @@ export const BEAUTY_HEALTH_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.645Z"
+    "observedAt": "2026-09-04T21:22:09.461Z"
   },
   {
-    "id": "torobshop-beauty-health-2734ee381987f71a",
-    "productId": "torobshop-2734ee381987f71a",
-    "name": "فیلیپس 241V8LAB - مانیتور 24 اینچی فول اچ‌دی، بلندگوهای داخلی، بدون سوسو زدن (1920x1080، 100 هرتز، VGA، HDMI) مشکی",
+    "id": "torobshop-beauty-health-13177f1a3461cbf8",
+    "productId": "torobshop-13177f1a3461cbf8",
+    "name": "فیلیپس 32E1N3100LA - مانیتور 32 اینچی Full HD، بلندگوهای داخلی، قابل کج شدن (1920x1080، VGA، HDMI 1.4) مشکی",
     "brand": "",
-    "model": "فیلیپس 241V8LAB - مانیتور 24 اینچی فول اچ‌دی، بلندگوهای داخلی، بدون سوسو زدن (1920x1080، 100 هرتز، VGA، HDMI) مشکی",
+    "model": "فیلیپس 32E1N3100LA - مانیتور 32 اینچی Full HD، بلندگوهای داخلی، قابل کج شدن (1920x1080، VGA، HDMI 1.4) مشکی",
     "category": "beauty-health",
     "subcategory": "ماشین اصلاح و ریش تراش",
-    "price": 40656000,
+    "price": 61238000,
     "currency": "IRT",
     "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-241V8LAB-%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-24-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D9%81%D9%88%D9%84-%D8%A7%DA%86-%D8%AF%DB%8C-%D8%A8%D9%84%D9%86%D8%AF%DA%AF%D9%88%D9%87%D8%A7%DB%8C-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%D8%B3%D9%88%D8%B3%D9%88-%D8%B2%D8%AF%D9%86-1920x1080-100-%D9%87%D8%B1%D8%AA%D8%B2-VGA-HDMI-%D9%85%D8%B4%DA%A9%DB%8C",
+    "productUrl": "https://torobshop.com/products/%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-32E1N3100LA-%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-32-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-Full-HD-%D8%A8%D9%84%D9%86%D8%AF%DA%AF%D9%88%D9%87%D8%A7%DB%8C-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%DA%A9%D8%AC-%D8%B4%D8%AF%D9%86-1920x1080-VGA-HDMI-1-4-%D9%85%D8%B4%DA%A9%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:20:47.645Z"
+    "observedAt": "2026-09-04T21:22:09.461Z"
   }
 ];

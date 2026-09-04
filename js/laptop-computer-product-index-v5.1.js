@@ -15,7 +15,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%BE-%D8%AA%D8%A7%D9%BE",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:54.933Z"
+    "observedAt": "2026-09-04T21:13:51.883Z"
   },
   {
     "id": "torobshop-laptop-computer-bb07ff83203ce817",
@@ -33,7 +33,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%BE-%D8%AA%D8%A7%D9%BE",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:54.933Z"
+    "observedAt": "2026-09-04T21:13:51.883Z"
   },
   {
     "id": "torobshop-laptop-computer-23a08ed4a54c1bf3",
@@ -51,7 +51,853 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%BE-%D8%AA%D8%A7%D9%BE",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:54.933Z"
+    "observedAt": "2026-09-04T21:13:51.883Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-725f8385c6d5a7e5",
+    "productId": "torobshop-725f8385c6d5a7e5",
+    "name": "ماهیتابه استیل ضد زنگ نینجا فودی زیرو استیک 30 سانتی‌متر [C60030EU] پوشش نچسب، سازگار با اجاق القایی، قابل شستشو در ماشین ظرفشویی",
+    "brand": "",
+    "model": "ماهیتابه استیل ضد زنگ نینجا فودی زیرو استیک 30 سانتی‌متر [C60030EU] پوشش نچسب، سازگار با اجاق القایی، قابل شستشو در ماشین ظرفشویی",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 19565000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%81%D9%88%D8%AF%DB%8C-%D8%B2%DB%8C%D8%B1%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-30-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-C60030EU-%D9%BE%D9%88%D8%B4%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.303Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-0bb955aeed702a07",
+    "productId": "torobshop-0bb955aeed702a07",
+    "name": "ماهیتابه استیل ضد زنگ نینجا فودی زیرو استیک ۲۸ سانتی‌متر، بادوام، نچسب، سازگار با اجاق القایی، قابل استفاده در فر و ماشین ظرفشویی، مدل C60028EU",
+    "brand": "",
+    "model": "ماهیتابه استیل ضد زنگ نینجا فودی زیرو استیک ۲۸ سانتی‌متر، بادوام، نچسب، سازگار با اجاق القایی، قابل استفاده در فر و ماشین ظرفشویی، مدل C60028EU",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 24647000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%81%D9%88%D8%AF%DB%8C-%D8%B2%DB%8C%D8%B1%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-%DB%B2%DB%B8-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A8%D8%A7%D8%AF%D9%88%D8%A7%D9%85-%D9%86%DA%86%D8%B3%D8%A8-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%81%D8%B1-%D9%88-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D9%85%D8%AF%D9%84-C60028EU",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.303Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-452caddaba905dc5",
+    "productId": "torobshop-452caddaba905dc5",
+    "name": "ماهیتابه استیل ضد زنگ نینجا فودی زیرو استیک ۲۴ سانتی‌متر، بادوام، نچسب، مناسب برای استفاده با اجاق القایی، قابل استفاده در فر و ماشین ظرفشویی، مدل C60024EU",
+    "brand": "",
+    "model": "ماهیتابه استیل ضد زنگ نینجا فودی زیرو استیک ۲۴ سانتی‌متر، بادوام، نچسب، مناسب برای استفاده با اجاق القایی، قابل استفاده در فر و ماشین ظرفشویی، مدل C60024EU",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 19057000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%81%D9%88%D8%AF%DB%8C-%D8%B2%DB%8C%D8%B1%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-%DB%B2%DB%B4-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A8%D8%A7%D8%AF%D9%88%D8%A7%D9%85-%D9%86%DA%86%D8%B3%D8%A8-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%81%D8%B1-%D9%88-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D9%85%D8%AF%D9%84-C60024EU",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.303Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-1ee86f1c9c267ad6",
+    "productId": "torobshop-1ee86f1c9c267ad6",
+    "name": "سرویس قابلمه و ماهیتابه نینجا CK89010BF، نچسب، با طول عمر بالا، سرویس پخت و پز سرامیکی، 10 تکه، بدون PFOA، مناسب برای فر تا دمای 176 درجه سانتیگراد، سازگار با القایی، 10 تکه",
+    "brand": "",
+    "model": "سرویس قابلمه و ماهیتابه نینجا CK89010BF، نچسب، با طول عمر بالا، سرویس پخت و پز سرامیکی، 10 تکه، بدون PFOA، مناسب برای فر تا دمای 176 درجه سانتیگراد، سازگار با القایی، 10 تکه",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 78516000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-CK89010BF-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%A7-%D8%B7%D9%88%D9%84-%D8%B9%D9%85%D8%B1-%D8%A8%D8%A7%D9%84%D8%A7-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%BE%D8%AE%D8%AA-%D9%88-%D9%BE%D8%B2-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-10-%D8%AA%DA%A9%D9%87-%D8%A8%D8%AF%D9%88%D9%86-PFOA-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-176-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-10-%D8%AA%DA%A9%D9%87",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.303Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-1a31c0998951f872",
+    "productId": "torobshop-1a31c0998951f872",
+    "name": "سرویس قابلمه و تابه استیل ضد زنگ 5 تکه Ninja Foodi ZEROSTICK [C65000EU] نچسب، سازگار با القایی، قابل شستشو در ماشین ظرفشویی",
+    "brand": "",
+    "model": "سرویس قابلمه و تابه استیل ضد زنگ 5 تکه Ninja Foodi ZEROSTICK [C65000EU] نچسب، سازگار با القایی، قابل شستشو در ماشین ظرفشویی",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 26426000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-5-%D8%AA%DA%A9%D9%87-Ninja-Foodi-ZEROSTICK-C65000EU-%D9%86%DA%86%D8%B3%D8%A8-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.303Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-b1ab7543e51d9a1e",
+    "productId": "torobshop-b1ab7543e51d9a1e",
+    "name": "قابلمه شیر استیل ضد زنگ نینجا فودی زیرو استیک، ۱۴ سانتی‌متر، بادوام، نچسب، مناسب برای استفاده با اجاق القایی، قابل استفاده در فر و ماشین ظرفشویی، مدل C60214EU",
+    "brand": "",
+    "model": "قابلمه شیر استیل ضد زنگ نینجا فودی زیرو استیک، ۱۴ سانتی‌متر، بادوام، نچسب، مناسب برای استفاده با اجاق القایی، قابل استفاده در فر و ماشین ظرفشویی، مدل C60214EU",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 12196000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%B4%DB%8C%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%81%D9%88%D8%AF%DB%8C-%D8%B2%DB%8C%D8%B1%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-%DB%B1%DB%B4-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A8%D8%A7%D8%AF%D9%88%D8%A7%D9%85-%D9%86%DA%86%D8%B3%D8%A8-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%81%D8%B1-%D9%88-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D9%85%D8%AF%D9%84-C60214EU",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.303Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-75c5c1f7dd89f660",
+    "productId": "torobshop-75c5c1f7dd89f660",
+    "name": "سرویس ماهیتابه دو تکه استیل ضد زنگ Ninja Foodi ZEROSTICK (20 سانتی متر / 28 سانتی متر) [C62000EU] نچسب، سازگار با اجاق القایی، قابل شستشو در ماشین ظرفشویی",
+    "brand": "",
+    "model": "سرویس ماهیتابه دو تکه استیل ضد زنگ Ninja Foodi ZEROSTICK (20 سانتی متر / 28 سانتی متر) [C62000EU] نچسب، سازگار با اجاق القایی، قابل شستشو در ماشین ظرفشویی",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 33033000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%AF%D9%88-%D8%AA%DA%A9%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-Ninja-Foodi-ZEROSTICK-20-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-28-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-C62000EU-%D9%86%DA%86%D8%B3%D8%A8-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.303Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-1bc7d98427271752",
+    "productId": "torobshop-1bc7d98427271752",
+    "name": "ماهیتابه استیل ضد زنگ نینجا فودی زیرو استیک ۲۶ سانتی‌متر، بادوام، نچسب، مناسب برای استفاده با اجاق القایی، قابل استفاده در فر و ماشین ظرفشویی، مدل C60126EU",
+    "brand": "",
+    "model": "ماهیتابه استیل ضد زنگ نینجا فودی زیرو استیک ۲۶ سانتی‌متر، بادوام، نچسب، مناسب برای استفاده با اجاق القایی، قابل استفاده در فر و ماشین ظرفشویی، مدل C60126EU",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 36844000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%81%D9%88%D8%AF%DB%8C-%D8%B2%DB%8C%D8%B1%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-%DB%B2%DB%B6-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A8%D8%A7%D8%AF%D9%88%D8%A7%D9%85-%D9%86%DA%86%D8%B3%D8%A8-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%81%D8%B1-%D9%88-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D9%85%D8%AF%D9%84-C60126EU",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.303Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-db326c19924c1c83",
+    "productId": "torobshop-db326c19924c1c83",
+    "name": "ماهیتابه استیل ضد زنگ نینجا فودی زیرو استیک 20 سانتی‌متر، بادوام، نچسب، سازگار با اجاق القایی، قابل استفاده در فر و ماشین ظرفشویی، مدل C60020EU",
+    "brand": "",
+    "model": "ماهیتابه استیل ضد زنگ نینجا فودی زیرو استیک 20 سانتی‌متر، بادوام، نچسب، سازگار با اجاق القایی، قابل استفاده در فر و ماشین ظرفشویی، مدل C60020EU",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 23377000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%81%D9%88%D8%AF%DB%8C-%D8%B2%DB%8C%D8%B1%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-20-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A8%D8%A7%D8%AF%D9%88%D8%A7%D9%85-%D9%86%DA%86%D8%B3%D8%A8-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%81%D8%B1-%D9%88-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D9%85%D8%AF%D9%84-C60020EU",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.303Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-38b570ec98372839",
+    "productId": "torobshop-38b570ec98372839",
+    "name": "سرویس ماهیتابه دو تکه استیل ضد زنگ نینجا فودی زیرو استیک، 24 سانتی‌متر/28 سانتی‌متر، بادوام، نچسب، سازگار با اجاق‌های القایی، قابل استفاده در فر و ماشین ظرفشویی، مدل C62200EU",
+    "brand": "",
+    "model": "سرویس ماهیتابه دو تکه استیل ضد زنگ نینجا فودی زیرو استیک، 24 سانتی‌متر/28 سانتی‌متر، بادوام، نچسب، سازگار با اجاق‌های القایی، قابل استفاده در فر و ماشین ظرفشویی، مدل C62200EU",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 33795000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%AF%D9%88-%D8%AA%DA%A9%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%81%D9%88%D8%AF%DB%8C-%D8%B2%DB%8C%D8%B1%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-28-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A8%D8%A7%D8%AF%D9%88%D8%A7%D9%85-%D9%86%DA%86%D8%B3%D8%A8-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D9%87%D8%A7%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%81%D8%B1-%D9%88-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D9%85%D8%AF%D9%84-C62200EU",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.303Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-51525e00ba66dc85",
+    "productId": "torobshop-51525e00ba66dc85",
+    "name": "سرویس قابلمه استیل ضد زنگ سه تکه نینجا اورکلاد با درب، مناسب برای انواع اجاق گاز، از جمله اجاق القایی، مناسب برای فر تا دمای 300 درجه سانتیگراد، پایه القایی پیوسته، مدل C93003EUI",
+    "brand": "",
+    "model": "سرویس قابلمه استیل ضد زنگ سه تکه نینجا اورکلاد با درب، مناسب برای انواع اجاق گاز، از جمله اجاق القایی، مناسب برای فر تا دمای 300 درجه سانتیگراد، پایه القایی پیوسته، مدل C93003EUI",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 41164000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%B3%D9%87-%D8%AA%DA%A9%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A7%D9%88%D8%B1%DA%A9%D9%84%D8%A7%D8%AF-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D8%A7%D8%B2-%D8%AC%D9%85%D9%84%D9%87-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-300-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D9%BE%D8%A7%DB%8C%D9%87-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%BE%DB%8C%D9%88%D8%B3%D8%AA%D9%87-%D9%85%D8%AF%D9%84-C93003EUI",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.303Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-d5d32c623c74bd66",
+    "productId": "torobshop-d5d32c623c74bd66",
+    "name": "سرویس ماهیتابه استیل ضد زنگ دو تکه نینجا اورکلاد، مدل C92000EUI",
+    "brand": "",
+    "model": "سرویس ماهیتابه استیل ضد زنگ دو تکه نینجا اورکلاد، مدل C92000EUI",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 68352000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%AF%D9%88-%D8%AA%DA%A9%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A7%D9%88%D8%B1%DA%A9%D9%84%D8%A7%D8%AF-%D9%85%D8%AF%D9%84-C92000EUI",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.303Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-5edabe07534b749b",
+    "productId": "torobshop-5edabe07534b749b",
+    "name": "ماهیتابه استیل ضد زنگ نینجا اورکلاد (28 سانتی‌متر)، مناسب برای انواع اجاق گاز، از جمله اجاق القایی، مناسب برای فر تا دمای 300 درجه سانتیگراد، پایه القایی پیوسته، مدل C90028EUI",
+    "brand": "",
+    "model": "ماهیتابه استیل ضد زنگ نینجا اورکلاد (28 سانتی‌متر)، مناسب برای انواع اجاق گاز، از جمله اجاق القایی، مناسب برای فر تا دمای 300 درجه سانتیگراد، پایه القایی پیوسته، مدل C90028EUI",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 39131000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A7%D9%88%D8%B1%DA%A9%D9%84%D8%A7%D8%AF-28-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D8%A7%D8%B2-%D8%AC%D9%85%D9%84%D9%87-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-300-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D9%BE%D8%A7%DB%8C%D9%87-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%BE%DB%8C%D9%88%D8%B3%D8%AA%D9%87-%D9%85%D8%AF%D9%84-C90028EUI",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.303Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-5b4a02cf13efdcfb",
+    "productId": "torobshop-5b4a02cf13efdcfb",
+    "name": "سرویس قابلمه و ماهیتابه 7 پارچه نینجا اورکلاد مدل C99007 از جنس استیل ضد زنگ، مناسب برای انواع اجاق گاز و اجاق القایی، مناسب برای فر تا دمای 315 درجه سانتیگراد، سه لایه، کیفیت استاندارد، 7 پارچه",
+    "brand": "",
+    "model": "سرویس قابلمه و ماهیتابه 7 پارچه نینجا اورکلاد مدل C99007 از جنس استیل ضد زنگ، مناسب برای انواع اجاق گاز و اجاق القایی، مناسب برای فر تا دمای 315 درجه سانتیگراد، سه لایه، کیفیت استاندارد، 7 پارچه",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 74705000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-7-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A7%D9%88%D8%B1%DA%A9%D9%84%D8%A7%D8%AF-%D9%85%D8%AF%D9%84-C99007-%D8%A7%D8%B2-%D8%AC%D9%86%D8%B3-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D9%88-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-315-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D8%B3%D9%87-%D9%84%D8%A7%DB%8C%D9%87-%DA%A9%DB%8C%D9%81%DB%8C%D8%AA-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%AF%D8%A7%D8%B1%D8%AF-7-%D9%BE%D8%A7%D8%B1%DA%86%D9%87",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.303Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-e16e63f5a9627912",
+    "productId": "torobshop-e16e63f5a9627912",
+    "name": "ماهیتابه استیل ضد زنگ نینجا اورکلاد (24 سانتی‌متر)، مناسب برای انواع اجاق گاز، از جمله اجاق القایی، مناسب برای فر تا دمای 300 درجه سانتیگراد، پایه القایی پیوسته، مدل C90024EUI",
+    "brand": "",
+    "model": "ماهیتابه استیل ضد زنگ نینجا اورکلاد (24 سانتی‌متر)، مناسب برای انواع اجاق گاز، از جمله اجاق القایی، مناسب برای فر تا دمای 300 درجه سانتیگراد، پایه القایی پیوسته، مدل C90024EUI",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 43959000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A7%D9%88%D8%B1%DA%A9%D9%84%D8%A7%D8%AF-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D8%A7%D8%B2-%D8%AC%D9%85%D9%84%D9%87-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-300-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D9%BE%D8%A7%DB%8C%D9%87-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%BE%DB%8C%D9%88%D8%B3%D8%AA%D9%87-%D9%85%D8%AF%D9%84-C90024EUI",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.303Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-6f344ad80be292b7",
+    "productId": "torobshop-6f344ad80be292b7",
+    "name": "قابلمه استیل ضد زنگ نینجا اورکلاد (18 سانتی‌متر) با درب، مناسب برای انواع اجاق گاز، حتی اجاق القایی، مناسب برای فر تا دمای 300 درجه سانتیگراد، پایه القایی پیوسته، C90218EUI",
+    "brand": "",
+    "model": "قابلمه استیل ضد زنگ نینجا اورکلاد (18 سانتی‌متر) با درب، مناسب برای انواع اجاق گاز، حتی اجاق القایی، مناسب برای فر تا دمای 300 درجه سانتیگراد، پایه القایی پیوسته، C90218EUI",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 37606000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A7%D9%88%D8%B1%DA%A9%D9%84%D8%A7%D8%AF-18-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D8%AD%D8%AA%DB%8C-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-300-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D9%BE%D8%A7%DB%8C%D9%87-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%BE%DB%8C%D9%88%D8%B3%D8%AA%D9%87-C90218EUI",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.303Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-a08d253c08b46a7c",
+    "productId": "torobshop-a08d253c08b46a7c",
+    "name": "سرویس قابلمه و تابه استیل ضد زنگ 5 تکه Ninja EverClad، مدل C95005EUI",
+    "brand": "",
+    "model": "سرویس قابلمه و تابه استیل ضد زنگ 5 تکه Ninja EverClad، مدل C95005EUI",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 110279000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-5-%D8%AA%DA%A9%D9%87-Ninja-EverClad-%D9%85%D8%AF%D9%84-C95005EUI",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.303Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-81068c1886acd27e",
+    "productId": "torobshop-81068c1886acd27e",
+    "name": "سرویس قابلمه سه تکه Ninja Foodi ZEROSTICK Vivid، قابلمه‌های ۱۶، ۱۸ و ۲۰ سانتی‌متری، آلومینیومی، روکش نچسب، ضد خش، مناسب برای استفاده با اجاق القایی، قابل استفاده در فر تا دمای ۲۰۰ درجه سانتیگراد، قابل شستشو در ماشین ظرفشویی، قرمز تیره، C23000EU",
+    "brand": "",
+    "model": "سرویس قابلمه سه تکه Ninja Foodi ZEROSTICK Vivid، قابلمه‌های ۱۶، ۱۸ و ۲۰ سانتی‌متری، آلومینیومی، روکش نچسب، ضد خش، مناسب برای استفاده با اجاق القایی، قابل استفاده در فر تا دمای ۲۰۰ درجه سانتیگراد، قابل شستشو در ماشین ظرفشویی، قرمز تیره، C23000EU",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 54885000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%B3%D9%87-%D8%AA%DA%A9%D9%87-Ninja-Foodi-ZEROSTICK-Vivid-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%87%D8%A7%DB%8C-%DB%B1%DB%B6-%DB%B1%DB%B8-%D9%88-%DB%B2%DB%B0-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C-%D8%A2%D9%84%D9%88%D9%85%DB%8C%D9%86%DB%8C%D9%88%D9%85%DB%8C-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D8%B6%D8%AF-%D8%AE%D8%B4-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-%DB%B2%DB%B0%DB%B0-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D9%82%D8%B1%D9%85%D8%B2-%D8%AA%DB%8C%D8%B1%D9%87-C23000EU",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.303Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-0511220ad6c012d6",
+    "productId": "torobshop-0511220ad6c012d6",
+    "name": "سرویس قابلمه ۸ تکه نینجا C28000 Foodi NeverStick Vivid با درب، نچسب، بادوام و مناسب برای فر تا دمای ۲۰۰ درجه سانتیگراد، دسته‌های خنک شونده، بنفش",
+    "brand": "",
+    "model": "سرویس قابلمه ۸ تکه نینجا C28000 Foodi NeverStick Vivid با درب، نچسب، بادوام و مناسب برای فر تا دمای ۲۰۰ درجه سانتیگراد، دسته‌های خنک شونده، بنفش",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 120443000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B8-%D8%AA%DA%A9%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-C28000-Foodi-NeverStick-Vivid-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%A7%D8%AF%D9%88%D8%A7%D9%85-%D9%88-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-%DB%B2%DB%B0%DB%B0-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D8%AF%D8%B3%D8%AA%D9%87-%D9%87%D8%A7%DB%8C-%D8%AE%D9%86%DA%A9-%D8%B4%D9%88%D9%86%D8%AF%D9%87-%D8%A8%D9%86%D9%81%D8%B4",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.304Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-52a42e6060959a65",
+    "productId": "torobshop-52a42e6060959a65",
+    "name": "قابلمه نچسب نینجا مدل Foodi NeverStick PossiblePan، سرویس ممتاز با ظرفیت ۴ لیتر، سبد بخارپز/صافی، بادوام و مناسب برای فر تا دمای ۲۶۰ درجه سانتیگراد، رنگ خاکستری دریا",
+    "brand": "",
+    "model": "قابلمه نچسب نینجا مدل Foodi NeverStick PossiblePan، سرویس ممتاز با ظرفیت ۴ لیتر، سبد بخارپز/صافی، بادوام و مناسب برای فر تا دمای ۲۶۰ درجه سانتیگراد، رنگ خاکستری دریا",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 31508000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%86%DA%86%D8%B3%D8%A8-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%85%D8%AF%D9%84-Foodi-NeverStick-PossiblePan-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%85%D9%85%D8%AA%D8%A7%D8%B2-%D8%A8%D8%A7-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-%DB%B4-%D9%84%DB%8C%D8%AA%D8%B1-%D8%B3%D8%A8%D8%AF-%D8%A8%D8%AE%D8%A7%D8%B1%D9%BE%D8%B2-%D8%B5%D8%A7%D9%81%DB%8C-%D8%A8%D8%A7%D8%AF%D9%88%D8%A7%D9%85-%D9%88-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-%DB%B2%DB%B6%DB%B0-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D8%B1%D9%86%DA%AF-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C-%D8%AF%D8%B1%DB%8C%D8%A7",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.304Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-fcb903533e900733",
+    "productId": "torobshop-fcb903533e900733",
+    "name": "ماهیتابه نینجا CW60030 NeverStick با دسته راحت، 30.5 سانتی‌متر، نچسب، بادوام، ضد خش، قابل شستشو در ماشین ظرفشویی، قابل استفاده در فر تا دمای 200 درجه سانتیگراد، دسته‌های سیلیکونی، خاکستری",
+    "brand": "",
+    "model": "ماهیتابه نینجا CW60030 NeverStick با دسته راحت، 30.5 سانتی‌متر، نچسب، بادوام، ضد خش، قابل شستشو در ماشین ظرفشویی، قابل استفاده در فر تا دمای 200 درجه سانتیگراد، دسته‌های سیلیکونی، خاکستری",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 44467000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-CW60030-NeverStick-%D8%A8%D8%A7-%D8%AF%D8%B3%D8%AA%D9%87-%D8%B1%D8%A7%D8%AD%D8%AA-30-5-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%A7%D8%AF%D9%88%D8%A7%D9%85-%D8%B6%D8%AF-%D8%AE%D8%B4-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-200-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D8%AF%D8%B3%D8%AA%D9%87-%D9%87%D8%A7%DB%8C-%D8%B3%DB%8C%D9%84%DB%8C%DA%A9%D9%88%D9%86%DB%8C-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.304Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-26f6085e7abb8195",
+    "productId": "torobshop-26f6085e7abb8195",
+    "name": "سرویس قابلمه ۵ تکه نینجا فودی زیرو استیک مدل Vivid، شامل ۳ قابلمه، ۱ قابلمه شیر، ۱ ماهیتابه، آلومینیومی، روکش نچسب، مناسب برای استفاده در فر تا دمای ۲۰۰ درجه سانتیگراد، قابل استفاده در ماشین ظرفشویی، قرمز تیره، مدل C23000EU",
+    "brand": "",
+    "model": "سرویس قابلمه ۵ تکه نینجا فودی زیرو استیک مدل Vivid، شامل ۳ قابلمه، ۱ قابلمه شیر، ۱ ماهیتابه، آلومینیومی، روکش نچسب، مناسب برای استفاده در فر تا دمای ۲۰۰ درجه سانتیگراد، قابل استفاده در ماشین ظرفشویی، قرمز تیره، مدل C23000EU",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 144582000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B5-%D8%AA%DA%A9%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%81%D9%88%D8%AF%DB%8C-%D8%B2%DB%8C%D8%B1%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-%D9%85%D8%AF%D9%84-Vivid-%D8%B4%D8%A7%D9%85%D9%84-%DB%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%B4%DB%8C%D8%B1-%DB%B1-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A2%D9%84%D9%88%D9%85%DB%8C%D9%86%DB%8C%D9%88%D9%85%DB%8C-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-%DB%B2%DB%B0%DB%B0-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D9%82%D8%B1%D9%85%D8%B2-%D8%AA%DB%8C%D8%B1%D9%87-%D9%85%D8%AF%D9%84-C23000EU",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.304Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-362ea2159f4b778c",
+    "productId": "torobshop-362ea2159f4b778c",
+    "name": "ماهیتابه نینجا CW60020 NeverStick با دسته راحت، 20.3 سانتی‌متر، نچسب، بادوام، ضد خش، قابل استفاده در ماشین ظرفشویی، قابل استفاده در فر تا دمای 200 درجه سانتیگراد، دسته‌های سیلیکونی، خاکستری",
+    "brand": "",
+    "model": "ماهیتابه نینجا CW60020 NeverStick با دسته راحت، 20.3 سانتی‌متر، نچسب، بادوام، ضد خش، قابل استفاده در ماشین ظرفشویی، قابل استفاده در فر تا دمای 200 درجه سانتیگراد، دسته‌های سیلیکونی، خاکستری",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 22614000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-CW60020-NeverStick-%D8%A8%D8%A7-%D8%AF%D8%B3%D8%AA%D9%87-%D8%B1%D8%A7%D8%AD%D8%AA-20-3-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%A7%D8%AF%D9%88%D8%A7%D9%85-%D8%B6%D8%AF-%D8%AE%D8%B4-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-200-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D8%AF%D8%B3%D8%AA%D9%87-%D9%87%D8%A7%DB%8C-%D8%B3%DB%8C%D9%84%DB%8C%DA%A9%D9%88%D9%86%DB%8C-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.304Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-f0066be7088adc85",
+    "productId": "torobshop-f0066be7088adc85",
+    "name": "سرویس قابلمه ۷ تکه نینجا نِوِر استیک سرامیکی پرو، روکش نچسب، قابلمه، ماهیتابه، درب شیشه‌ای، روکش سرامیکی، استیل ضد زنگ، مناسب برای فر، سازگار با تمام اجاق گازها و اجاق گازهای القایی",
+    "brand": "",
+    "model": "سرویس قابلمه ۷ تکه نینجا نِوِر استیک سرامیکی پرو، روکش نچسب، قابلمه، ماهیتابه، درب شیشه‌ای، روکش سرامیکی، استیل ضد زنگ، مناسب برای فر، سازگار با تمام اجاق گازها و اجاق گازهای القایی",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 86394000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B7-%D8%AA%DA%A9%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%86-%D9%88-%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%BE%D8%B1%D9%88-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%AA%D9%85%D8%A7%D9%85-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2%D9%87%D8%A7-%D9%88-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2%D9%87%D8%A7%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.304Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-91acb86a8482ef98",
+    "productId": "torobshop-91acb86a8482ef98",
+    "name": "سرویس قابلمه و تابه نینجا CW69010، روکش نچسب، دسته راحت، سرویس 10 پارچه پخت و پز با درب نچسب، ماهیتابه، قابلمه با درب، قابلمه سوپ با درب، روکش نچسب",
+    "brand": "",
+    "model": "سرویس قابلمه و تابه نینجا CW69010، روکش نچسب، دسته راحت، سرویس 10 پارچه پخت و پز با درب نچسب، ماهیتابه، قابلمه با درب، قابلمه سوپ با درب، روکش نچسب",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 218271000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D8%AA%D8%A7%D8%A8%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-CW69010-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D8%AF%D8%B3%D8%AA%D9%87-%D8%B1%D8%A7%D8%AD%D8%AA-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-10-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D9%BE%D8%AE%D8%AA-%D9%88-%D9%BE%D8%B2-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%86%DA%86%D8%B3%D8%A8-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%B3%D9%88%D9%BE-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.304Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-5b99db3ff6f530b9",
+    "productId": "torobshop-5b99db3ff6f530b9",
+    "name": "سرویس قابلمه ۱۱ پارچه نینجا نِوِر استیک سرامیکی پرو، قابلمه و ماهیتابه نچسب، درب شیشه‌ای، روکش سرامیکی، استیل ضد زنگ، مناسب برای استفاده روی اجاق گاز و فر، مناسب برای انواع اجاق گاز.",
+    "brand": "",
+    "model": "سرویس قابلمه ۱۱ پارچه نینجا نِوِر استیک سرامیکی پرو، قابلمه و ماهیتابه نچسب، درب شیشه‌ای، روکش سرامیکی، استیل ضد زنگ، مناسب برای استفاده روی اجاق گاز و فر، مناسب برای انواع اجاق گاز.",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 48787000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B1%DB%B1-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%86-%D9%88-%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%BE%D8%B1%D9%88-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%86%DA%86%D8%B3%D8%A8-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%B1%D9%88%DB%8C-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D9%88-%D9%81%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.304Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-1fe50cc1e4bf6a68",
+    "productId": "torobshop-1fe50cc1e4bf6a68",
+    "name": "سرویس قابلمه و تابه 11 پارچه نینجا سرامیک پرو CW39011WH، نچسب، با درب شیشه‌ای، بدون PTFE، روکش سرامیکی، مناسب برای فر، مناسب برای انواع اجاق گاز و اجاق القایی",
+    "brand": "",
+    "model": "سرویس قابلمه و تابه 11 پارچه نینجا سرامیک پرو CW39011WH، نچسب، با درب شیشه‌ای، بدون PTFE، روکش سرامیکی، مناسب برای فر، مناسب برای انواع اجاق گاز و اجاق القایی",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 126287000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D8%AA%D8%A7%D8%A8%D9%87-11-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9-%D9%BE%D8%B1%D9%88-CW39011WH-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-PTFE-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D9%88-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.304Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-b3eb05e26a027097",
+    "productId": "torobshop-b3eb05e26a027097",
+    "name": "سرویس قابلمه نچسب سرامیکی پرو مدل Ninja NeverStick، 7 تکه، قابلمه، ماهیتابه، درب شیشه‌ای، روکش سرامیکی، دسته‌های استیل ضد زنگ، مناسب برای اتصال اجاق گاز به فر، مناسب برای همه نوع اجاق گاز",
+    "brand": "",
+    "model": "سرویس قابلمه نچسب سرامیکی پرو مدل Ninja NeverStick، 7 تکه، قابلمه، ماهیتابه، درب شیشه‌ای، روکش سرامیکی، دسته‌های استیل ضد زنگ، مناسب برای اتصال اجاق گاز به فر، مناسب برای همه نوع اجاق گاز",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 69623000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%86%DA%86%D8%B3%D8%A8-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%BE%D8%B1%D9%88-%D9%85%D8%AF%D9%84-Ninja-NeverStick-7-%D8%AA%DA%A9%D9%87-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D8%AF%D8%B3%D8%AA%D9%87-%D9%87%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D8%A8%D9%87-%D9%81%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%87%D9%85%D9%87-%D9%86%D9%88%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-2",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.304Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-4b6a53eaa53ecf05",
+    "productId": "torobshop-4b6a53eaa53ecf05",
+    "name": "سرویس قابلمه و ماهیتابه نینجا سرامیک پرو CW39011MM، با روکش نچسب، دارای درب شیشه‌ای، بدون PTFE، روکش سرامیکی، مناسب برای فر، مناسب برای انواع اجاق گاز و اجاق گازهای القایی",
+    "brand": "",
+    "model": "سرویس قابلمه و ماهیتابه نینجا سرامیک پرو CW39011MM، با روکش نچسب، دارای درب شیشه‌ای، بدون PTFE، روکش سرامیکی، مناسب برای فر، مناسب برای انواع اجاق گاز و اجاق گازهای القایی",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 123238000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9-%D9%BE%D8%B1%D9%88-CW39011MM-%D8%A8%D8%A7-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-PTFE-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D9%88-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2%D9%87%D8%A7%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.304Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-981e44302f342963",
+    "productId": "torobshop-981e44302f342963",
+    "name": "سرویس قابلمه ۷ پارچه نینجا نِوِر استیک سرامیکی پرو، روکش نچسب، قابلمه، ماهیتابه، درب شیشه‌ای، روکش سرامیکی، دسته‌های استیل ضد زنگ، مناسب برای اتصال اجاق گاز به فر، مناسب برای همه نوع اجاق گاز و",
+    "brand": "",
+    "model": "سرویس قابلمه ۷ پارچه نینجا نِوِر استیک سرامیکی پرو، روکش نچسب، قابلمه، ماهیتابه، درب شیشه‌ای، روکش سرامیکی، دسته‌های استیل ضد زنگ، مناسب برای اتصال اجاق گاز به فر، مناسب برای همه نوع اجاق گاز و",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 87918000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B7-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%86-%D9%88-%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%BE%D8%B1%D9%88-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D8%AF%D8%B3%D8%AA%D9%87-%D9%87%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D8%A8%D9%87-%D9%81%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%87%D9%85%D9%87-%D9%86%D9%88%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D9%88",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.304Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-9366ead7b155bc0e",
+    "productId": "torobshop-9366ead7b155bc0e",
+    "name": "سرویس قابلمه نچسب سرامیکی پرو مدل Ninja NeverStick، 7 تکه، قابلمه، ماهیتابه، درب شیشه‌ای، روکش سرامیکی، دسته‌های استیل ضد زنگ، مناسب برای اتصال اجاق گاز به فر، مناسب برای همه نوع اجاق گاز",
+    "brand": "",
+    "model": "سرویس قابلمه نچسب سرامیکی پرو مدل Ninja NeverStick، 7 تکه، قابلمه، ماهیتابه، درب شیشه‌ای، روکش سرامیکی، دسته‌های استیل ضد زنگ، مناسب برای اتصال اجاق گاز به فر، مناسب برای همه نوع اجاق گاز",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 88426000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%86%DA%86%D8%B3%D8%A8-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%BE%D8%B1%D9%88-%D9%85%D8%AF%D9%84-Ninja-NeverStick-7-%D8%AA%DA%A9%D9%87-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D8%AF%D8%B3%D8%AA%D9%87-%D9%87%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D8%A8%D9%87-%D9%81%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%87%D9%85%D9%87-%D9%86%D9%88%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.304Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-0e19f63aed58a286",
+    "productId": "torobshop-0e19f63aed58a286",
+    "name": "سرویس قابلمه و ماهیتابه نچسب نینجا سرامیک پرو CW39011BM با درب شیشه‌ای، بدون PTFE، روکش سرامیکی، مناسب برای فر، سازگار با انواع اجاق گاز و اجاق‌های القایی، ماکارون آبی",
+    "brand": "",
+    "model": "سرویس قابلمه و ماهیتابه نچسب نینجا سرامیک پرو CW39011BM با درب شیشه‌ای، بدون PTFE، روکش سرامیکی، مناسب برای فر، سازگار با انواع اجاق گاز و اجاق‌های القایی، ماکارون آبی",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 68352000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%86%DA%86%D8%B3%D8%A8-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9-%D9%BE%D8%B1%D9%88-CW39011BM-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-PTFE-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D9%88-%D8%A7%D8%AC%D8%A7%D9%82-%D9%87%D8%A7%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%85%D8%A7%DA%A9%D8%A7%D8%B1%D9%88%D9%86-%D8%A2%D8%A8%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.304Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-a084da6a498709d9",
+    "productId": "torobshop-a084da6a498709d9",
+    "name": "سرویس قابلمه و تابه 11 پارچه نینجا سرامیک پرو CW39011BK، نچسب، با درب شیشه‌ای، بدون PTFE، روکش سرامیکی، مناسب برای فر، مناسب برای انواع اجاق گاز و اجاق گازهای القایی",
+    "brand": "",
+    "model": "سرویس قابلمه و تابه 11 پارچه نینجا سرامیک پرو CW39011BK، نچسب، با درب شیشه‌ای، بدون PTFE، روکش سرامیکی، مناسب برای فر، مناسب برای انواع اجاق گاز و اجاق گازهای القایی",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 126287000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D8%AA%D8%A7%D8%A8%D9%87-11-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9-%D9%BE%D8%B1%D9%88-CW39011BK-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-PTFE-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D9%88-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2%D9%87%D8%A7%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.304Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-986e9be42ebf1aaa",
+    "productId": "torobshop-986e9be42ebf1aaa",
+    "name": "سرویس قابلمه و تابه 11 پارچه نینجا سرامیک پرو CW39011GN، روکش نچسب، قابلمه و تابه، روکش نچسب، بدون PTFE، روکش سرامیکی، مناسب برای فر، مناسب برای انواع اجاق گاز و اجاق گازهای القایی",
+    "brand": "",
+    "model": "سرویس قابلمه و تابه 11 پارچه نینجا سرامیک پرو CW39011GN، روکش نچسب، قابلمه و تابه، روکش نچسب، بدون PTFE، روکش سرامیکی، مناسب برای فر، مناسب برای انواع اجاق گاز و اجاق گازهای القایی",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 107230000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D8%AA%D8%A7%D8%A8%D9%87-11-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9-%D9%BE%D8%B1%D9%88-CW39011GN-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D8%AA%D8%A7%D8%A8%D9%87-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%AF%D9%88%D9%86-PTFE-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D9%88-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2%D9%87%D8%A7%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.304Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-372174ecf0618423",
+    "productId": "torobshop-372174ecf0618423",
+    "name": "سرویس قابلمه و ماهیتابه نینجا CW99009، روکش نچسب، طول عمر بیشتر، سرویس قابلمه سرامیکی ممتاز، 9 پارچه، روکش نچسب، بدون PTFE، مناسب برای فر تا دمای 287 درجه سانتیگراد، سازگار با اجاق القایی، 3 نفره",
+    "brand": "",
+    "model": "سرویس قابلمه و ماهیتابه نینجا CW99009، روکش نچسب، طول عمر بیشتر، سرویس قابلمه سرامیکی ممتاز، 9 پارچه، روکش نچسب، بدون PTFE، مناسب برای فر تا دمای 287 درجه سانتیگراد، سازگار با اجاق القایی، 3 نفره",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 84361000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-CW99009-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D8%B7%D9%88%D9%84-%D8%B9%D9%85%D8%B1-%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%85%D9%85%D8%AA%D8%A7%D8%B2-9-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%AF%D9%88%D9%86-PTFE-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-287-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-3-%D9%86%D9%81%D8%B1%D9%87",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.304Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-9d7cd3afb8947c34",
+    "productId": "torobshop-9d7cd3afb8947c34",
+    "name": "سرویس قابلمه و ماهیتابه نینجا سرامیک پرو CW39014MM، روکش نچسب، قابلمه و ماهیتابه، روکش نچسب، بدون PTFE، روکش سرامیکی، مناسب برای فر، مناسب برای انواع اجاق گاز و اجاق گازهای القایی",
+    "brand": "",
+    "model": "سرویس قابلمه و ماهیتابه نینجا سرامیک پرو CW39014MM، روکش نچسب، قابلمه و ماهیتابه، روکش نچسب، بدون PTFE، روکش سرامیکی، مناسب برای فر، مناسب برای انواع اجاق گاز و اجاق گازهای القایی",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 162624000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9-%D9%BE%D8%B1%D9%88-CW39014MM-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%AF%D9%88%D9%86-PTFE-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D9%88-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2%D9%87%D8%A7%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.304Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-e941e8d3b0baa257",
+    "productId": "torobshop-e941e8d3b0baa257",
+    "name": "سرویس قابلمه سرامیکی نینجا مدل Extended Life، 5 تکه، مناسب برای فر، مدل CW95000EUUKDB",
+    "brand": "",
+    "model": "سرویس قابلمه سرامیکی نینجا مدل Extended Life، 5 تکه، مناسب برای فر، مدل CW95000EUUKDB",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 75975000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%85%D8%AF%D9%84-Extended-Life-5-%D8%AA%DA%A9%D9%87-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D9%85%D8%AF%D9%84-CW95000EUUKDB",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.304Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-da719245fe9ffcf9",
+    "productId": "torobshop-da719245fe9ffcf9",
+    "name": "ماهیتابه سرامیکی ممتاز نینجا مدل Extended Life CW90020، روکش نچسب، بدون PTFE، پخت و پز سالم، قابل استفاده در فر تا دمای 287 درجه سانتیگراد، قابل شستشو در ماشین ظرفشویی، مناسب برای انواع اجاق گاز و اجاق گازهای القایی",
+    "brand": "",
+    "model": "ماهیتابه سرامیکی ممتاز نینجا مدل Extended Life CW90020، روکش نچسب، بدون PTFE، پخت و پز سالم، قابل استفاده در فر تا دمای 287 درجه سانتیگراد، قابل شستشو در ماشین ظرفشویی، مناسب برای انواع اجاق گاز و اجاق گازهای القایی",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 64541000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%85%D9%85%D8%AA%D8%A7%D8%B2-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%85%D8%AF%D9%84-Extended-Life-CW90020-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%AF%D9%88%D9%86-PTFE-%D9%BE%D8%AE%D8%AA-%D9%88-%D9%BE%D8%B2-%D8%B3%D8%A7%D9%84%D9%85-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-287-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D9%88-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2%D9%87%D8%A7%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.304Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-58130adffe7c44df",
+    "productId": "torobshop-58130adffe7c44df",
+    "name": "ماهیتابه سرامیکی نینجا با طول عمر طولانی (28 سانتی‌متر)، پوشش نچسب (بدون PFA، PFOA، سرب و کادمیوم)، سازگار با القای حرارتی، دسته استیل ضد زنگ، مناسب برای فر تا دمای 285 درجه سانتیگراد، خاکستری و سفالی، CW90028DEDB",
+    "brand": "",
+    "model": "ماهیتابه سرامیکی نینجا با طول عمر طولانی (28 سانتی‌متر)، پوشش نچسب (بدون PFA، PFOA، سرب و کادمیوم)، سازگار با القای حرارتی، دسته استیل ضد زنگ، مناسب برای فر تا دمای 285 درجه سانتیگراد، خاکستری و سفالی، CW90028DEDB",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 29221000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A8%D8%A7-%D8%B7%D9%88%D9%84-%D8%B9%D9%85%D8%B1-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-28-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%BE%D9%88%D8%B4%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%AF%D9%88%D9%86-PFA-PFOA-%D8%B3%D8%B1%D8%A8-%D9%88-%DA%A9%D8%A7%D8%AF%D9%85%DB%8C%D9%88%D9%85-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C-%D8%AD%D8%B1%D8%A7%D8%B1%D8%AA%DB%8C-%D8%AF%D8%B3%D8%AA%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-285-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C-%D9%88-%D8%B3%D9%81%D8%A7%D9%84%DB%8C-CW90028DEDB",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.304Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-a40ad0a81a8c91b9",
+    "productId": "torobshop-a40ad0a81a8c91b9",
+    "name": "ماهیتابه سرامیکی نینجا مدل Extended Life سایز ۲۶ سانتی‌متر، دارای روکش نچسب (بدون PFA، PFOA، سرب یا کادمیوم)، مناسب برای پخت القایی، دسته استیل ضد زنگ، قابل استفاده در فر تا دمای ۲۸۵ درجه سانتیگراد، به رنگ سفالی و خاکستری، CW90026DE",
+    "brand": "",
+    "model": "ماهیتابه سرامیکی نینجا مدل Extended Life سایز ۲۶ سانتی‌متر، دارای روکش نچسب (بدون PFA، PFOA، سرب یا کادمیوم)، مناسب برای پخت القایی، دسته استیل ضد زنگ، قابل استفاده در فر تا دمای ۲۸۵ درجه سانتیگراد، به رنگ سفالی و خاکستری، CW90026DE",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 27951000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%85%D8%AF%D9%84-Extended-Life-%D8%B3%D8%A7%DB%8C%D8%B2-%DB%B2%DB%B6-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%AF%D9%88%D9%86-PFA-PFOA-%D8%B3%D8%B1%D8%A8-%DB%8C%D8%A7-%DA%A9%D8%A7%D8%AF%D9%85%DB%8C%D9%88%D9%85-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D8%AE%D8%AA-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%AF%D8%B3%D8%AA%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-%DB%B2%DB%B8%DB%B5-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D8%A8%D9%87-%D8%B1%D9%86%DA%AF-%D8%B3%D9%81%D8%A7%D9%84%DB%8C-%D9%88-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C-CW90026DE",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.304Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-7209fc2aa373a914",
+    "productId": "torobshop-7209fc2aa373a914",
+    "name": "ماهیتابه سرامیکی نینجا مدل Extended Life سایز 24 سانتی‌متر، به رنگ‌های سفالی و خاکستری، CW90024DE",
+    "brand": "",
+    "model": "ماهیتابه سرامیکی نینجا مدل Extended Life سایز 24 سانتی‌متر، به رنگ‌های سفالی و خاکستری، CW90024DE",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 14991000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%85%D8%AF%D9%84-Extended-Life-%D8%B3%D8%A7%DB%8C%D8%B2-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A8%D9%87-%D8%B1%D9%86%DA%AF-%D9%87%D8%A7%DB%8C-%D8%B3%D9%81%D8%A7%D9%84%DB%8C-%D9%88-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C-CW90024DE",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.304Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-d73b8f5c61c1a0fd",
+    "productId": "torobshop-d73b8f5c61c1a0fd",
+    "name": "وک سرامیکی نینجا با طول عمر طولانی ۲۸ سانتی‌متر، تابه وک نچسب (بدون PFA، PFOA، سرب، کادمیوم)، مناسب برای اجاق گازهای القایی، دسته استیل ضد زنگ، مناسب برای فر تا دمای ۲۸۵ درجه سانتیگراد، به رنگ‌های سفالی و خاکستری، CW90928DE",
+    "brand": "",
+    "model": "وک سرامیکی نینجا با طول عمر طولانی ۲۸ سانتی‌متر، تابه وک نچسب (بدون PFA، PFOA، سرب، کادمیوم)، مناسب برای اجاق گازهای القایی، دسته استیل ضد زنگ، مناسب برای فر تا دمای ۲۸۵ درجه سانتیگراد، به رنگ‌های سفالی و خاکستری، CW90928DE",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 17532000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%88%DA%A9-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A8%D8%A7-%D8%B7%D9%88%D9%84-%D8%B9%D9%85%D8%B1-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%DB%B2%DB%B8-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%AA%D8%A7%D8%A8%D9%87-%D9%88%DA%A9-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%AF%D9%88%D9%86-PFA-PFOA-%D8%B3%D8%B1%D8%A8-%DA%A9%D8%A7%D8%AF%D9%85%DB%8C%D9%88%D9%85-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2%D9%87%D8%A7%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%AF%D8%B3%D8%AA%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-%DB%B2%DB%B8%DB%B5-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D8%A8%D9%87-%D8%B1%D9%86%DA%AF-%D9%87%D8%A7%DB%8C-%D8%B3%D9%81%D8%A7%D9%84%DB%8C-%D9%88-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C-CW90928DE",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.304Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-cfdf7d431c8836b3",
+    "productId": "torobshop-cfdf7d431c8836b3",
+    "name": "ماهیتابه سرامیکی نینجا با طول عمر طولانی ۲۸ سانتی‌متر، ماهیتابه با روکش نچسب (بدون PFA، PFOA، سرب یا کادمیوم)، مناسب برای پخت القایی، دسته استیل ضد زنگ، مناسب برای فر تا دمای ۲۸۵ درجه سانتیگراد، به رنگ‌های سفالی و خاکستری، CW90028DE",
+    "brand": "",
+    "model": "ماهیتابه سرامیکی نینجا با طول عمر طولانی ۲۸ سانتی‌متر، ماهیتابه با روکش نچسب (بدون PFA، PFOA، سرب یا کادمیوم)، مناسب برای پخت القایی، دسته استیل ضد زنگ، مناسب برای فر تا دمای ۲۸۵ درجه سانتیگراد، به رنگ‌های سفالی و خاکستری، CW90028DE",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 29221000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A8%D8%A7-%D8%B7%D9%88%D9%84-%D8%B9%D9%85%D8%B1-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%DB%B2%DB%B8-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A8%D8%A7-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%AF%D9%88%D9%86-PFA-PFOA-%D8%B3%D8%B1%D8%A8-%DB%8C%D8%A7-%DA%A9%D8%A7%D8%AF%D9%85%DB%8C%D9%88%D9%85-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D8%AE%D8%AA-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%AF%D8%B3%D8%AA%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-%DB%B2%DB%B8%DB%B5-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D8%A8%D9%87-%D8%B1%D9%86%DA%AF-%D9%87%D8%A7%DB%8C-%D8%B3%D9%81%D8%A7%D9%84%DB%8C-%D9%88-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C-CW90028DE",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.304Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-227eb15d85db0deb",
+    "productId": "torobshop-227eb15d85db0deb",
+    "name": "سرویس قابلمه سرامیکی ۵ تکه نینجا مدل Extended Life (ماهیتابه‌های ۲۰ و ۲۴ سانتی‌متری، ۱۶ عدد)",
+    "brand": "",
+    "model": "سرویس قابلمه سرامیکی ۵ تکه نینجا مدل Extended Life (ماهیتابه‌های ۲۰ و ۲۴ سانتی‌متری، ۱۶ عدد)",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 28967000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%DB%B5-%D8%AA%DA%A9%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%85%D8%AF%D9%84-Extended-Life-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%87%D8%A7%DB%8C-%DB%B2%DB%B0-%D9%88-%DB%B2%DB%B4-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B1%DB%B6-%D8%B9%D8%AF%D8%AF",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.304Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-74a94c9ec68aef39",
+    "productId": "torobshop-74a94c9ec68aef39",
+    "name": "ماهیتابه سرامیکی نینجا مدل Extended Life سایز 20 سانتی‌متر، CW90020DE، سفالی و خاکستری",
+    "brand": "",
+    "model": "ماهیتابه سرامیکی نینجا مدل Extended Life سایز 20 سانتی‌متر، CW90020DE، سفالی و خاکستری",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 33490000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%85%D8%AF%D9%84-Extended-Life-%D8%B3%D8%A7%DB%8C%D8%B2-20-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-CW90020DE-%D8%B3%D9%81%D8%A7%D9%84%DB%8C-%D9%88-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.304Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-5460ea0842329793",
+    "productId": "torobshop-5460ea0842329793",
+    "name": "سرویس قابلمه سرامیکی نینجا مدل Extended Life، دو تکه، ۲۴ و ۲۸ سانتی‌متر، روکش نچسب (فاقد PFA، PFOA، سرب و کادمیوم)، سازگار با اجاق القایی، دسته استیل ضد زنگ، مناسب برای فر تا دمای ۲۸۵ درجه سانتیگراد، به رنگ‌های سفالی و خاکستری، CW92000DE",
+    "brand": "",
+    "model": "سرویس قابلمه سرامیکی نینجا مدل Extended Life، دو تکه، ۲۴ و ۲۸ سانتی‌متر، روکش نچسب (فاقد PFA، PFOA، سرب و کادمیوم)، سازگار با اجاق القایی، دسته استیل ضد زنگ، مناسب برای فر تا دمای ۲۸۵ درجه سانتیگراد، به رنگ‌های سفالی و خاکستری، CW92000DE",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 53360000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%85%D8%AF%D9%84-Extended-Life-%D8%AF%D9%88-%D8%AA%DA%A9%D9%87-%DB%B2%DB%B4-%D9%88-%DB%B2%DB%B8-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D9%81%D8%A7%D9%82%D8%AF-PFA-PFOA-%D8%B3%D8%B1%D8%A8-%D9%88-%DA%A9%D8%A7%D8%AF%D9%85%DB%8C%D9%88%D9%85-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%AF%D8%B3%D8%AA%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-%DB%B2%DB%B8%DB%B5-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D8%A8%D9%87-%D8%B1%D9%86%DA%AF-%D9%87%D8%A7%DB%8C-%D8%B3%D9%81%D8%A7%D9%84%DB%8C-%D9%88-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C-CW92000DE",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.304Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-e1410714f43d4f84",
+    "productId": "torobshop-e1410714f43d4f84",
+    "name": "سرویس قابلمه سرامیکی سه تکه نینجا مدل Extended Life (قابلمه‌های ۱۶، ۱۸ و ۲۰ سانتی‌متری)",
+    "brand": "",
+    "model": "سرویس قابلمه سرامیکی سه تکه نینجا مدل Extended Life (قابلمه‌های ۱۶، ۱۸ و ۲۰ سانتی‌متری)",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 44467000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D8%B3%D9%87-%D8%AA%DA%A9%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%85%D8%AF%D9%84-Extended-Life-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%87%D8%A7%DB%8C-%DB%B1%DB%B6-%DB%B1%DB%B8-%D9%88-%DB%B2%DB%B0-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.304Z"
   },
   {
     "id": "torobshop-laptop-computer-716dda0dbff9c54f",
@@ -69,7 +915,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.207Z"
+    "observedAt": "2026-09-04T21:13:56.304Z"
   },
   {
     "id": "torobshop-laptop-computer-3930a114dca5ba93",
@@ -87,7 +933,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.207Z"
+    "observedAt": "2026-09-04T21:13:56.304Z"
   },
   {
     "id": "torobshop-laptop-computer-aaa22eb952374f54",
@@ -105,7 +951,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.207Z"
+    "observedAt": "2026-09-04T21:13:56.304Z"
   },
   {
     "id": "torobshop-laptop-computer-6313ab97d41a2b56",
@@ -123,7 +969,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.207Z"
+    "observedAt": "2026-09-04T21:13:56.304Z"
   },
   {
     "id": "torobshop-laptop-computer-f6f4fe1c061400be",
@@ -141,7 +987,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.207Z"
+    "observedAt": "2026-09-04T21:13:56.304Z"
   },
   {
     "id": "torobshop-laptop-computer-f84a10872070200f",
@@ -159,7 +1005,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.207Z"
+    "observedAt": "2026-09-04T21:13:56.304Z"
   },
   {
     "id": "torobshop-laptop-computer-be5c8240bad9b96b",
@@ -177,7 +1023,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.207Z"
+    "observedAt": "2026-09-04T21:13:56.304Z"
   },
   {
     "id": "torobshop-laptop-computer-6ea4ce76135ec585",
@@ -195,7 +1041,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.207Z"
+    "observedAt": "2026-09-04T21:13:56.304Z"
   },
   {
     "id": "torobshop-laptop-computer-66ec5ac305e2c66d",
@@ -213,7 +1059,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.207Z"
+    "observedAt": "2026-09-04T21:13:56.304Z"
   },
   {
     "id": "torobshop-laptop-computer-550a8f87070e67b2",
@@ -231,7 +1077,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.207Z"
+    "observedAt": "2026-09-04T21:13:56.304Z"
   },
   {
     "id": "torobshop-laptop-computer-82dd733a006aec80",
@@ -249,7 +1095,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.207Z"
+    "observedAt": "2026-09-04T21:13:56.304Z"
   },
   {
     "id": "torobshop-laptop-computer-b0ab596ed23cc867",
@@ -267,331 +1113,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.207Z"
-  },
-  {
-    "id": "torobshop-laptop-computer-81b8042dfd25e040",
-    "productId": "torobshop-81b8042dfd25e040",
-    "name": "کابل شارژ آیفون ۵ متری، [دارای گواهینامه MFi اپل] کابل شارژ سریع ۴ در ۱ نایلونی با ۶۰ وات توان خروجی، دارای پورت USB-C/A به لایتنینگ، پورت USB-C/A به iOS برای آیفون، اندروید، سامسونگ، هواوی",
-    "brand": "سامسونگ",
-    "model": "کابل شارژ آیفون ۵ متری، [دارای گواهینامه MFi اپل] کابل شارژ سریع ۴ در ۱ نایلونی با ۶۰ وات توان خروجی، دارای پورت USB-C/A به لایتنینگ، پورت USB-C/A به iOS برای آیفون، اندروید، سامسونگ، هواوی",
-    "category": "laptop-computer",
-    "subcategory": "تبلت و آیپد",
-    "price": 10418000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%DA%A9%D8%A7%D8%A8%D9%84-%D8%B4%D8%A7%D8%B1%DA%98-%D8%A2%DB%8C%D9%81%D9%88%D9%86-%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C-%DA%AF%D9%88%D8%A7%D9%87%DB%8C%D9%86%D8%A7%D9%85%D9%87-MFi-%D8%A7%D9%BE%D9%84-%DA%A9%D8%A7%D8%A8%D9%84-%D8%B4%D8%A7%D8%B1%DA%98-%D8%B3%D8%B1%DB%8C%D8%B9-%DB%B4-%D8%AF%D8%B1-%DB%B1-%D9%86%D8%A7%DB%8C%D9%84%D9%88%D9%86%DB%8C-%D8%A8%D8%A7-%DB%B6%DB%B0-%D9%88%D8%A7%D8%AA-%D8%AA%D9%88%D8%A7%D9%86-%D8%AE%D8%B1%D9%88%D8%AC%DB%8C-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C-%D9%BE%D9%88%D8%B1%D8%AA-USB-C-A-%D8%A8%D9%87-%D9%84%D8%A7%DB%8C%D8%AA%D9%86%DB%8C%D9%86%DA%AF-%D9%BE%D9%88%D8%B1%D8%AA-USB-C-A-%D8%A8%D9%87-iOS-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A2%DB%8C%D9%81%D9%88%D9%86-%D8%A7%D9%86%D8%AF%D8%B1%D9%88%DB%8C%D8%AF-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF-%D9%87%D9%88%D8%A7%D9%88%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.207Z"
-  },
-  {
-    "id": "torobshop-laptop-computer-971de75d275ec060",
-    "productId": "torobshop-971de75d275ec060",
-    "name": "کابل شارژ آیفون ۶ متری [دارای گواهینامه MFi اپل]، کابل شارژ سریع آیفون ۲.۴ آمپر، کابل USB A به لایتنینگ، کابل بلند نایلونی بافته شده سریع آیفون برای آیفون ۱۴ پرو مکس، ۱۳، ۱۲، ۱۱، XR، XS، X، ۸، ۷، ۶s پلاس، SE، آیپد",
-    "brand": "اپل",
-    "model": "کابل شارژ آیفون ۶ متری [دارای گواهینامه MFi اپل]، کابل شارژ سریع آیفون ۲.۴ آمپر، کابل USB A به لایتنینگ، کابل بلند نایلونی بافته شده سریع آیفون برای آیفون ۱۴ پرو مکس، ۱۳، ۱۲، ۱۱، XR، XS، X، ۸، ۷، ۶s پلاس، SE، آیپد",
-    "category": "laptop-computer",
-    "subcategory": "تبلت و آیپد",
-    "price": 9240000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%DA%A9%D8%A7%D8%A8%D9%84-%D8%B4%D8%A7%D8%B1%DA%98-%D8%A2%DB%8C%D9%81%D9%88%D9%86-%DB%B6-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C-%DA%AF%D9%88%D8%A7%D9%87%DB%8C%D9%86%D8%A7%D9%85%D9%87-MFi-%D8%A7%D9%BE%D9%84-%DA%A9%D8%A7%D8%A8%D9%84-%D8%B4%D8%A7%D8%B1%DA%98-%D8%B3%D8%B1%DB%8C%D8%B9-%D8%A2%DB%8C%D9%81%D9%88%D9%86-%DB%B2-%DB%B4-%D8%A2%D9%85%D9%BE%D8%B1-%DA%A9%D8%A7%D8%A8%D9%84-USB-A-%D8%A8%D9%87-%D9%84%D8%A7%DB%8C%D8%AA%D9%86%DB%8C%D9%86%DA%AF-%DA%A9%D8%A7%D8%A8%D9%84-%D8%A8%D9%84%D9%86%D8%AF-%D9%86%D8%A7%DB%8C%D9%84%D9%88%D9%86%DB%8C-%D8%A8%D8%A7%D9%81%D8%AA%D9%87-%D8%B4%D8%AF%D9%87-%D8%B3%D8%B1%DB%8C%D8%B9-%D8%A2%DB%8C%D9%81%D9%88%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A2%DB%8C%D9%81%D9%88%D9%86-%DB%B1%DB%B4-%D9%BE%D8%B1%D9%88-%D9%85%DA%A9%D8%B3-%DB%B1%DB%B3-%DB%B1%DB%B2-%DB%B1%DB%B1-XR-XS-X-%DB%B8-%DB%B7-%DB%B6s-%D9%BE%D9%84%D8%A7%D8%B3-SE-%D8%A2%DB%8C%D9%BE%D8%AF",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.207Z"
-  },
-  {
-    "id": "torobshop-laptop-computer-6984e0fba2f0f5ab",
-    "productId": "torobshop-6984e0fba2f0f5ab",
-    "name": "دستگاه برش گوشت و کالباس برکل Berkel Red Line 300 تیغه ۳۰۰ میلی‌متری قرمز",
-    "brand": "",
-    "model": "دستگاه برش گوشت و کالباس برکل Berkel Red Line 300 تیغه ۳۰۰ میلی‌متری قرمز",
-    "category": "laptop-computer",
-    "subcategory": "تبلت و آیپد",
-    "price": 433902000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%A8%D8%B1%D8%B4-%D8%AF%D9%87%D9%86%D8%AF%D9%87-Berkel-Red-Line-300-%D8%A8%D8%A7-%D9%82%D8%B7%D8%B1-%D8%AA%DB%8C%D8%BA%D9%87-300-%D9%85%DB%8C%D9%84%DB%8C-%D9%85%D8%AA%D8%B1-%D9%82%D8%B1%D9%85%D8%B2",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.207Z"
-  },
-  {
-    "id": "torobshop-laptop-computer-043774655c5e9707",
-    "productId": "torobshop-043774655c5e9707",
-    "name": "کنترل از راه دور اصلی Octagon OA RCU 06 برای تلویزیون اندروید Spirit 4K و تلویزیون اندروید Spirit PRO 4K - عملکرد 2 در 1: بدون نیاز به برنامه نویسی برای گیرنده شما و قابل برنامه ریزی برای تلویزیون شما، کنترل از راه دور",
-    "brand": "",
-    "model": "کنترل از راه دور اصلی Octagon OA RCU 06 برای تلویزیون اندروید Spirit 4K و تلویزیون اندروید Spirit PRO 4K - عملکرد 2 در 1: بدون نیاز به برنامه نویسی برای گیرنده شما و قابل برنامه ریزی برای تلویزیون شما، کنترل از راه دور",
-    "category": "laptop-computer",
-    "subcategory": "تبلت و آیپد",
-    "price": 16240000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%DA%A9%D9%86%D8%AA%D8%B1%D9%84-%D8%A7%D8%B2-%D8%B1%D8%A7%D9%87-%D8%AF%D9%88%D8%B1-%D8%A7%D8%B5%D9%84%DB%8C-Octagon-OA-RCU-06-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-%D8%A7%D9%86%D8%AF%D8%B1%D9%88%DB%8C%D8%AF-Spirit-4K-%D9%88-%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-%D8%A7%D9%86%D8%AF%D8%B1%D9%88%DB%8C%D8%AF-Spirit-PRO-4K-%D8%B9%D9%85%D9%84%DA%A9%D8%B1%D8%AF-2-%D8%AF%D8%B1-1-%D8%A8%D8%AF%D9%88%D9%86-%D9%86%DB%8C%D8%A7%D8%B2-%D8%A8%D9%87-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%DA%AF%DB%8C%D8%B1%D9%86%D8%AF%D9%87-%D8%B4%D9%85%D8%A7-%D9%88-%D9%82%D8%A7%D8%A8%D9%84-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D8%B1%DB%8C%D8%B2%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-%D8%B4%D9%85%D8%A7-%DA%A9%D9%86%D8%AA%D8%B1%D9%84-%D8%A7%D8%B2-%D8%B1%D8%A7%D9%87-%D8%AF%D9%88%D8%B1",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.207Z"
-  },
-  {
-    "id": "torobshop-laptop-computer-96e722182c1b89a6",
-    "productId": "torobshop-96e722182c1b89a6",
-    "name": "سرویس قاشق چنگال ۴۵ پارچه جی ای هنکلز آلمان J.A. Henckels Vintage 1876 با قاشق سرو، چنگال گوشت و کارد کره",
-    "brand": "",
-    "model": "سرویس قاشق چنگال ۴۵ پارچه جی ای هنکلز آلمان J.A. Henckels Vintage 1876 با قاشق سرو، چنگال گوشت و کارد کره",
-    "category": "laptop-computer",
-    "subcategory": "تبلت و آیپد",
-    "price": 90339000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%AA-%DA%86%D8%A7%D9%82%D9%88-%D9%88-%D8%B8%D8%B1%D9%88%D9%81-J-A-Henckels-%D9%85%D8%AF%D9%84-22772345-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D9%82%D8%AF%DB%8C%D9%85%DB%8C-%D8%B4%D8%A7%D9%85%D9%84-45-%D8%B9%D8%AF%D8%AF-%D8%A8%D8%A7-%D9%82%D8%A7%D8%B4%D9%82-%D8%B3%D8%B1%D9%88-%DA%86%D9%86%DA%AF%D8%A7%D9%84-%DA%AF%D9%88%D8%B4%D8%AA-%D9%88-%DA%86%D8%A7%D9%82%D9%88%DB%8C-%DA%A9%D8%B1%D9%87",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.207Z"
-  },
-  {
-    "id": "torobshop-laptop-computer-d62f3f3a89e25a47",
-    "productId": "torobshop-d62f3f3a89e25a47",
-    "name": "ماهیتابه استیل کیچن اید آمریکا ۲۸ سانتی‌متری – ساختار ۳ لایه مقاوم برای توزیع یکنواخت حرارت – مناسب برای اجاق‌های برقی و فر – دسته ارگونومیک با قابلیت حفظ دمای خود برای حداکثر راحتی",
-    "brand": "",
-    "model": "ماهیتابه استیل کیچن اید آمریکا ۲۸ سانتی‌متری – ساختار ۳ لایه مقاوم برای توزیع یکنواخت حرارت – مناسب برای اجاق‌های برقی و فر – دسته ارگونومیک با قابلیت حفظ دمای خود برای حداکثر راحتی",
-    "category": "laptop-computer",
-    "subcategory": "تبلت و آیپد",
-    "price": 21823000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%AA%D8%A7%D8%A8%D8%B3%D8%AA%D8%A7%D9%86-%D8%A2%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%DB%B2%DB%B8-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C-%D8%B3%D8%A7%D8%AE%D8%AA%D8%A7%D8%B1-%DB%B3-%D9%84%D8%A7%DB%8C%D9%87-%D9%85%D9%82%D8%A7%D9%88%D9%85-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D9%88%D8%B2%DB%8C%D8%B9-%DB%8C%DA%A9%D9%86%D9%88%D8%A7%D8%AE%D8%AA-%D8%AD%D8%B1%D8%A7%D8%B1%D8%AA-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%AC%D8%A7%D9%82-%D9%87%D8%A7%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C-%D9%88-%D9%81%D8%B1-%D8%AF%D8%B3%D8%AA%D9%87-%D8%A7%D8%B1%DA%AF%D9%88%D9%86%D9%88%D9%85%DB%8C%DA%A9-%D8%A8%D8%A7-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AD%D9%81%D8%B8-%D8%AF%D9%85%D8%A7%DB%8C-%D8%AE%D9%88%D8%AF-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AD%D8%AF%D8%A7%DA%A9%D8%AB%D8%B1-%D8%B1%D8%A7%D8%AD%D8%AA%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.207Z"
-  },
-  {
-    "id": "torobshop-laptop-computer-c91c69b83e4ddd45",
-    "productId": "torobshop-c91c69b83e4ddd45",
-    "name": "دستگاه خردکن برقی، بسیار قوی، خردکن چند منظوره، توان 500 وات، ظرفیت 1.8 لیتر، دستگاه خردکن چند منظوره با ظرف شیشه‌ای، مخلوط‌کن آشپزخانه، برای تهیه غذای کودک، آجیل، سبزیجات، میوه‌ها و گوشت.",
-    "brand": "",
-    "model": "دستگاه خردکن برقی، بسیار قوی، خردکن چند منظوره، توان 500 وات، ظرفیت 1.8 لیتر، دستگاه خردکن چند منظوره با ظرف شیشه‌ای، مخلوط‌کن آشپزخانه، برای تهیه غذای کودک، آجیل، سبزیجات، میوه‌ها و گوشت.",
-    "category": "laptop-computer",
-    "subcategory": "تبلت و آیپد",
-    "price": 14971000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%AE%D8%B1%D8%AF%DA%A9%D9%86-%D8%A8%D8%B1%D9%82%DB%8C-%D8%A8%D8%B3%DB%8C%D8%A7%D8%B1-%D9%82%D9%88%DB%8C-%D8%AE%D8%B1%D8%AF%DA%A9%D9%86-%DA%86%D9%86%D8%AF-%D9%85%D9%86%D8%B8%D9%88%D8%B1%D9%87-%D8%AA%D9%88%D8%A7%D9%86-500-%D9%88%D8%A7%D8%AA-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-1-8-%D9%84%DB%8C%D8%AA%D8%B1-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%AE%D8%B1%D8%AF%DA%A9%D9%86-%DA%86%D9%86%D8%AF-%D9%85%D9%86%D8%B8%D9%88%D8%B1%D9%87-%D8%A8%D8%A7-%D8%B8%D8%B1%D9%81-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D9%85%D8%AE%D9%84%D9%88%D8%B7-%DA%A9%D9%86-%D8%A2%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D9%87%DB%8C%D9%87-%D8%BA%D8%B0%D8%A7%DB%8C-%DA%A9%D9%88%D8%AF%DA%A9-%D8%A2%D8%AC%DB%8C%D9%84-%D8%B3%D8%A8%D8%B2%DB%8C%D8%AC%D8%A7%D8%AA-%D9%85%DB%8C%D9%88%D9%87-%D9%87%D8%A7-%D9%88-%DA%AF%D9%88%D8%B4%D8%AA",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.207Z"
-  },
-  {
-    "id": "torobshop-laptop-computer-6d073e89debc0957",
-    "productId": "torobshop-6d073e89debc0957",
-    "name": "جارو رباتیک مخزن دار با قابلیت شستشو و استفاده از اسفنج، قدرت مکش ۸۰۰۰ پاسکال (بهبود یافته توسط Qrevo S) (QV 35A)",
-    "brand": "",
-    "model": "جارو رباتیک مخزن دار با قابلیت شستشو و استفاده از اسفنج، قدرت مکش ۸۰۰۰ پاسکال (بهبود یافته توسط Qrevo S) (QV 35A)",
-    "category": "laptop-computer",
-    "subcategory": "تبلت و آیپد",
-    "price": 105057000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B1%D9%88%D8%A8%D9%88%DA%A9-%D8%B3%D8%B1%DB%8C-%D8%B3%D8%B7%D9%84-%D8%B1%D9%88%D8%A8%D8%A7%D8%AA-%D8%A8%D8%A7-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D9%88-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-%D8%A7%D8%B3%D9%81%D9%86%D8%AC-%D9%82%D8%AF%D8%B1%D8%AA-%D9%85%DA%A9%D8%B4-%DB%B8%DB%B0%DB%B0%DB%B0-%D9%BE%D8%A7%D8%B3%DA%A9%D8%A7%D9%84-%D8%A8%D9%87%D8%A8%D9%88%D8%AF-%DB%8C%D8%A7%D9%81%D8%AA%D9%87-%D8%AA%D9%88%D8%B3%D8%B7-Qrevo-S-%D8%A8%D8%B1%D8%B3-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D8%B6%D8%AF-%DA%AF%D8%B1%D9%87-%D8%AE%D9%88%D8%B1%D8%AF%D9%86-%D8%AA%D8%B4%D8%AE%DB%8C%D8%B5-%D9%85%D9%88%D8%A7%D9%86%D8%B9-%D8%A7%DB%8C%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B4%D8%A7%D8%B1%DA%98-%DA%A9%D8%A7%D9%85%D9%84-%D9%85%D8%B4%DA%A9%DB%8C-QV-35A",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.207Z"
-  },
-  {
-    "id": "torobshop-laptop-computer-2f1de49dbfea70aa",
-    "productId": "torobshop-2f1de49dbfea70aa",
-    "name": "پنکه فن برقی تاشو Gaiatop قابل حمل با باتری 6000 میلی آمپر، فن با نور شب 17 سانتی‌متری USB، کوچک و کم صدا برای اتاق خواب",
-    "brand": "",
-    "model": "پنکه فن برقی تاشو Gaiatop قابل حمل با باتری 6000 میلی آمپر، فن با نور شب 17 سانتی‌متری USB، کوچک و کم صدا برای اتاق خواب",
-    "category": "laptop-computer",
-    "subcategory": "تبلت و آیپد",
-    "price": 13957000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%81%D9%86-%D8%A8%D8%B1%D9%82%DB%8C-%D8%AA%D8%A7%D8%B4%D9%88-Gaiatop-%D9%81%D9%86-%D9%82%D8%A7%D8%A8%D9%84-%D8%AD%D9%85%D9%84-%D8%A8%D8%A7-%D8%A8%D8%A7%D8%AA%D8%B1%DB%8C-6000-%D9%85%DB%8C%D9%84%DB%8C-%D8%A2%D9%85%D9%BE%D8%B1-%D9%81%D9%86-%D8%A8%D8%A7-%D9%86%D9%88%D8%B1-%D8%B4%D8%A8-%D9%81%D9%86-17-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C-USB-%DA%A9%D9%88%DA%86%DA%A9-%D9%88-%DA%A9%D9%85-%D8%B5%D8%AF%D8%A7-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%AA%D8%A7%D9%82-%D8%AE%D9%88%D8%A7%D8%A8-%D9%85%D8%AD%D9%84-%DA%A9%D8%A7%D8%B1-%D9%88-%D8%AE%D8%A7%D9%86%D9%87-%D9%88%D8%B3%D8%A7%DB%8C%D9%84-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%DA%A9%D9%85%D9%BE%DB%8C%D9%86%DA%AF-%D9%88-%D8%B3%D9%81%D8%B1-%D8%AF%D8%B1-%D8%AA%D8%A7%D8%A8%D8%B3%D8%AA%D8%A7%D9%86-%D8%B3%D9%81%DB%8C%D8%AF",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.207Z"
-  },
-  {
-    "id": "torobshop-laptop-computer-688de6c889730421",
-    "productId": "torobshop-688de6c889730421",
-    "name": "تلویزیون هوشمند ۵۵ اینچ سونی BRAVIA 3 مدل K55S35B با کیفیت 4K UHD، Direct LED و HDR",
-    "brand": "سونی",
-    "model": "تلویزیون هوشمند ۵۵ اینچ سونی BRAVIA 3 مدل K55S35B با کیفیت 4K UHD، Direct LED و HDR",
-    "category": "laptop-computer",
-    "subcategory": "تبلت و آیپد",
-    "price": 152952000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D9%88%D9%86%DB%8C-%D8%A8%D8%B1%D8%A7%D9%88%DB%8C%D8%A7-3-S35-K55S35B-4K-%D9%85%D8%B3%D8%AA%D9%82%DB%8C%D9%85-LED-HDR-%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.207Z"
-  },
-  {
-    "id": "torobshop-laptop-computer-6f75db36753d61cb",
-    "productId": "torobshop-6f75db36753d61cb",
-    "name": "تلویزیون ۸۵ اینچ سونی BRAVIA XR مدل XR-85X90L به همراه ساندبار Sony HT-A3000 Dolby Atmos",
-    "brand": "سونی",
-    "model": "تلویزیون ۸۵ اینچ سونی BRAVIA XR مدل XR-85X90L به همراه ساندبار Sony HT-A3000 Dolby Atmos",
-    "category": "laptop-computer",
-    "subcategory": "تبلت و آیپد",
-    "price": 567314000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/Sony-BRAVIA-XR-XR-85X90L-85-Zoll-Fernseher-Full-ArrayandSony-HT-A3000-3-1-Kanal-Dolby-Atmos-Soundbar-Set",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.207Z"
-  },
-  {
-    "id": "torobshop-laptop-computer-1d0f8b752067584c",
-    "productId": "torobshop-1d0f8b752067584c",
-    "name": "تیونر Dreambox One Ultra HD BT Edition 2X DVB-S2X MIS Tuner 4K 2160p E2 لینوکس دوگانه وای فای H.265 HEVC",
-    "brand": "",
-    "model": "تیونر Dreambox One Ultra HD BT Edition 2X DVB-S2X MIS Tuner 4K 2160p E2 لینوکس دوگانه وای فای H.265 HEVC",
-    "category": "laptop-computer",
-    "subcategory": "تبلت و آیپد",
-    "price": 64455000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/Dreambox-One-Ultra-HD-BT-Edition-2X-DVB-S2X-MIS-Tuner-4K-2160p-E2-%D9%84%DB%8C%D9%86%D9%88%DA%A9%D8%B3-%D8%AF%D9%88%DA%AF%D8%A7%D9%86%D9%87-%D9%88%D8%A7%DB%8C-%D9%81%D8%A7%DB%8C-H-265-HEVC",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.207Z"
-  },
-  {
-    "id": "torobshop-laptop-computer-9588e88bfa202297",
-    "productId": "torobshop-9588e88bfa202297",
-    "name": "لپ تاپ اپل مک بوک پرو با تراشه M5 CPU 10 کور و GPU 10 کور: برای هوش مصنوعی، 14.2&quot; صفحه نمایش مایع Retina XDR، 32 گیگابایت حافظه مشترک، 1 تی بی SSD، Wi-Fi 7؛ Space Black",
-    "brand": "اپل",
-    "model": "لپ تاپ اپل مک بوک پرو با تراشه M5 CPU 10 کور و GPU 10 کور: برای هوش مصنوعی، 14.2&quot; صفحه نمایش مایع Retina XDR، 32 گیگابایت حافظه مشترک، 1 تی بی SSD، Wi-Fi 7؛ Space Black",
-    "category": "laptop-computer",
-    "subcategory": "تبلت و آیپد",
-    "price": 550662000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%84%D9%BE-%D8%AA%D8%A7%D9%BE-%D8%A7%D9%BE%D9%84-%D9%85%DA%A9-%D8%A8%D9%88%DA%A9-%D9%BE%D8%B1%D9%88-%D8%A8%D8%A7-%D8%AA%D8%B1%D8%A7%D8%B4%D9%87-M5-CPU-10-%DA%A9%D9%88%D8%B1-%D9%88-GPU-10-%DA%A9%D9%88%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-14-2-%D8%B5%D9%81%D8%AD%D9%87-%D9%86%D9%85%D8%A7%DB%8C%D8%B4-%D9%85%D8%A7%DB%8C%D8%B9-Retina-XDR-32-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%AD%D8%A7%D9%81%D8%B8%D9%87-%D9%85%D8%B4%D8%AA%D8%B1%DA%A9-1-%D8%AA%DB%8C-%D8%A8%DB%8C-SSD-Wi-Fi-7-Space-Black",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.207Z"
-  },
-  {
-    "id": "torobshop-laptop-computer-564f6efd33ed7c72",
-    "productId": "torobshop-564f6efd33ed7c72",
-    "name": "مجموعه کامل Flipper Zero Starter | Flipper Zero | برد وای فای | قاب سیلیکونی | کارت حافظه ۶۴ گیگابایتی | کارت خوان USB",
-    "brand": "",
-    "model": "مجموعه کامل Flipper Zero Starter | Flipper Zero | برد وای فای | قاب سیلیکونی | کارت حافظه ۶۴ گیگابایتی | کارت خوان USB",
-    "category": "laptop-computer",
-    "subcategory": "تبلت و آیپد",
-    "price": 82367000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%DA%A9%D8%A7%D9%85%D9%84-Flipper-Zero-Starter-Flipper-Zero-%D8%A8%D8%B1%D8%AF-%D9%88%D8%A7%DB%8C-%D9%81%D8%A7%DB%8C-%D9%82%D8%A7%D8%A8-%D8%B3%DB%8C%D9%84%DB%8C%DA%A9%D9%88%D9%86%DB%8C-%DA%A9%D8%A7%D8%B1%D8%AA-%D8%AD%D8%A7%D9%81%D8%B8%D9%87-%DB%B6%DB%B4-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA%DB%8C-%DA%A9%D8%A7%D8%B1%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-USB",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.207Z"
-  },
-  {
-    "id": "torobshop-laptop-computer-db51956256cf2a9e",
-    "productId": "torobshop-db51956256cf2a9e",
-    "name": "قابلمه چدنی کباب وی ام اف آلمان ۲۴ سانتی‌متر",
-    "brand": "",
-    "model": "قابلمه چدنی کباب وی ام اف آلمان ۲۴ سانتی‌متر",
-    "category": "laptop-computer",
-    "subcategory": "تبلت و آیپد",
-    "price": 51005000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B8%D8%B1%D9%81-%DA%A9%D8%A8%D8%A7%D8%A8-%D8%A8%D8%A7-%D8%B7%D8%B9%D9%85-%D9%85%D8%B4%DA%A9%DB%8C-%DB%B2%DB%B4-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.207Z"
-  },
-  {
-    "id": "torobshop-laptop-computer-6c602e399b74265b",
-    "productId": "torobshop-6c602e399b74265b",
-    "name": "قابلمه چدنی وی ام اف آلمان بیضی شکل با طعم مشکی، ۳۳ در ۲۶ سانتی‌متر",
-    "brand": "",
-    "model": "قابلمه چدنی وی ام اف آلمان بیضی شکل با طعم مشکی، ۳۳ در ۲۶ سانتی‌متر",
-    "category": "laptop-computer",
-    "subcategory": "تبلت و آیپد",
-    "price": 57097000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B8%D8%B1%D9%81-%DA%A9%D8%A8%D8%A7%D8%A8-%D8%A8%DB%8C%D8%B6%DB%8C-%D8%B4%DA%A9%D9%84-%D8%A8%D8%A7-%D8%B7%D8%B9%D9%85-%D9%85%D8%B4%DA%A9%DB%8C-%DB%B3%DB%B3-%D8%AF%D8%B1-%DB%B2%DB%B6-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.207Z"
-  },
-  {
-    "id": "torobshop-laptop-computer-69bf454eaf5c015b",
-    "productId": "torobshop-69bf454eaf5c015b",
-    "name": "پروژکتور هوشمند Aurzen Boom Mini 4-in-1 با Google TV، پشتیبانی از 4K برای سینمای خانگی و فضای باز، صدای 20 وات DoIby، پروژکتور 500 ANSI، فوکوس خودکار ToF و تصحیح کیستون، وای فای/بلوتوث/تلفن همراه (مشکی)",
-    "brand": "گوگل",
-    "model": "پروژکتور هوشمند Aurzen Boom Mini 4-in-1 با Google TV، پشتیبانی از 4K برای سینمای خانگی و فضای باز، صدای 20 وات DoIby، پروژکتور 500 ANSI، فوکوس خودکار ToF و تصحیح کیستون، وای فای/بلوتوث/تلفن همراه (مشکی)",
-    "category": "laptop-computer",
-    "subcategory": "تبلت و آیپد",
-    "price": 107594000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%BE%D8%B1%D9%88%DA%98%DA%A9%D8%AA%D9%88%D8%B1-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-Aurzen-Boom-Mini-4-in-1-%D8%A8%D8%A7-Google-TV-%D9%BE%D8%B4%D8%AA%DB%8C%D8%A8%D8%A7%D9%86%DB%8C-%D8%A7%D8%B2-4K-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B3%DB%8C%D9%86%D9%85%D8%A7%DB%8C-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C-%D9%88-%D9%81%D8%B6%D8%A7%DB%8C-%D8%A8%D8%A7%D8%B2-%D8%B5%D8%AF%D8%A7%DB%8C-20-%D9%88%D8%A7%D8%AA-DoIby-%D9%BE%D8%B1%D9%88%DA%98%DA%A9%D8%AA%D9%88%D8%B1-500-ANSI-%D9%81%D9%88%DA%A9%D9%88%D8%B3-%D8%AE%D9%88%D8%AF%DA%A9%D8%A7%D8%B1-ToF-%D9%88-%D8%AA%D8%B5%D8%AD%DB%8C%D8%AD-%DA%A9%DB%8C%D8%B3%D8%AA%D9%88%D9%86-%D9%88%D8%A7%DB%8C-%D9%81%D8%A7%DB%8C-%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB-%D8%AA%D9%84%D9%81%D9%86-%D9%87%D9%85%D8%B1%D8%A7%D9%87-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.207Z"
-  },
-  {
-    "id": "torobshop-laptop-computer-9b36373adadaf4fd",
-    "productId": "torobshop-9b36373adadaf4fd",
-    "name": "دستگاه قهوه ساز فیلتردار Melitta AromaFresh Pro X با آسیاب یکپارچه، مخزن آب جداشدنی، پارچ شیشه‌ای و عملکرد تایمر، برای تهیه حداکثر 10 فنجان قهوه، خاکستری گرم",
-    "brand": "",
-    "model": "دستگاه قهوه ساز فیلتردار Melitta AromaFresh Pro X با آسیاب یکپارچه، مخزن آب جداشدنی، پارچ شیشه‌ای و عملکرد تایمر، برای تهیه حداکثر 10 فنجان قهوه، خاکستری گرم",
-    "category": "laptop-computer",
-    "subcategory": "تبلت و آیپد",
-    "price": 75112000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%82%D9%87%D9%88%D9%87-%D8%B3%D8%A7%D8%B2-%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%AF%D8%A7%D8%B1-Melitta-AromaFresh-Pro-X-%D8%A8%D8%A7-%D8%A2%D8%B3%DB%8C%D8%A7%D8%A8-%DB%8C%DA%A9%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D9%85%D8%AE%D8%B2%D9%86-%D8%A2%D8%A8-%D8%AC%D8%AF%D8%A7%D8%B4%D8%AF%D9%86%DB%8C-%D9%BE%D8%A7%D8%B1%DA%86-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D9%88-%D8%B9%D9%85%D9%84%DA%A9%D8%B1%D8%AF-%D8%AA%D8%A7%DB%8C%D9%85%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D9%87%DB%8C%D9%87-%D8%AD%D8%AF%D8%A7%DA%A9%D8%AB%D8%B1-10-%D9%81%D9%86%D8%AC%D8%A7%D9%86-%D9%82%D9%87%D9%88%D9%87-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C-%DA%AF%D8%B1%D9%85",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.207Z"
+    "observedAt": "2026-09-04T21:13:56.304Z"
   },
   {
     "id": "torobshop-laptop-computer-b510ac9c5967ae6e",
@@ -609,7 +1131,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.207Z"
+    "observedAt": "2026-09-04T21:13:56.304Z"
   },
   {
     "id": "torobshop-laptop-computer-3dbcaccb8662bde1",
@@ -627,7 +1149,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.208Z"
+    "observedAt": "2026-09-04T21:13:56.304Z"
   },
   {
     "id": "torobshop-laptop-computer-200d11c52e55158d",
@@ -645,7 +1167,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.208Z"
+    "observedAt": "2026-09-04T21:13:56.304Z"
   },
   {
     "id": "torobshop-laptop-computer-7030913f04cb3a2f",
@@ -663,7 +1185,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.208Z"
+    "observedAt": "2026-09-04T21:13:56.304Z"
   },
   {
     "id": "torobshop-laptop-computer-f566f758ccfcc717",
@@ -681,7 +1203,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.208Z"
+    "observedAt": "2026-09-04T21:13:56.304Z"
   },
   {
     "id": "torobshop-laptop-computer-964ece0d8e9f6669",
@@ -699,7 +1221,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.208Z"
+    "observedAt": "2026-09-04T21:13:56.304Z"
   },
   {
     "id": "torobshop-laptop-computer-4cef33429e237704",
@@ -717,7 +1239,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.208Z"
+    "observedAt": "2026-09-04T21:13:56.305Z"
   },
   {
     "id": "torobshop-laptop-computer-e4a2bc7cbee474b2",
@@ -735,7 +1257,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.208Z"
+    "observedAt": "2026-09-04T21:13:56.305Z"
   },
   {
     "id": "torobshop-laptop-computer-3be15395be038aca",
@@ -753,7 +1275,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.208Z"
+    "observedAt": "2026-09-04T21:13:56.305Z"
   },
   {
     "id": "torobshop-laptop-computer-77f61ec7f8b8b73d",
@@ -771,7 +1293,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.208Z"
+    "observedAt": "2026-09-04T21:13:56.305Z"
   },
   {
     "id": "torobshop-laptop-computer-a09bc08624899ff4",
@@ -789,7 +1311,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.208Z"
+    "observedAt": "2026-09-04T21:13:56.305Z"
   },
   {
     "id": "torobshop-laptop-computer-bbd449ed50b3d540",
@@ -807,7 +1329,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.208Z"
+    "observedAt": "2026-09-04T21:13:56.305Z"
   },
   {
     "id": "torobshop-laptop-computer-50ddbf6ac385797f",
@@ -817,15 +1339,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "ماهیتابه بخارپز چندکاره نینجا آمریکا Ninja Foodi CW102BLUK ظرفیت 3.8 لیتر 9 کاره آبی",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 42942000,
-    "currency": "IRT",
+    "price": 0,
+    "currency": "IRR",
     "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B9-%DA%A9%D8%A7%D8%B1%D9%87-Ninja-Foodi-CW102BLUK-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%A8%D8%AE%D8%A7%D8%B1%D9%BE%D8%B2-%D8%A7%D9%84%DA%A9-%DA%A9%D9%81%DA%AF%DB%8C%D8%B1-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%DB%B3-%DB%B8-%D9%84%DB%8C%D8%AA%D8%B1-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-%DB%B2%DB%B6%DB%B0-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D9%85%D8%A7%DA%A9%D8%A7%D8%B1%D9%88%D9%86-%D8%A2%D8%A8%DB%8C-%D8%A2%D8%A8%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.208Z"
+    "observedAt": "2026-09-04T21:13:56.305Z"
   },
   {
     "id": "torobshop-laptop-computer-80a52ed3a08cda77",
@@ -835,15 +1357,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "ماهیتابه بخارپز چندکاره نینجا آمریکا Ninja Foodi CW102GYUK ظرفیت 3.8 لیتر 9 کاره خاکستری",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 81820000,
-    "currency": "IRT",
+    "price": 0,
+    "currency": "IRR",
     "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B9-%DA%A9%D8%A7%D8%B1%D9%87-Ninja-Foodi-%D9%85%D8%AF%D9%84-PossiblePan-CW102GYUK-%D8%A8%D8%A7-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-ZEROSTICK-%D8%A8%D8%AE%D8%A7%D8%B1%D9%BE%D8%B2-%D8%B3%DB%8C%D9%84%D8%B1-%D9%88-%DA%A9%D9%81%DA%AF%DB%8C%D8%B1-%DB%8C%DA%A9%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D9%86%DA%86%D8%B3%D8%A8-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D8%A8%D9%87-%D8%B1%D9%86%DA%AF-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C-%D9%85%D8%A7%DB%8C%D9%84-%D8%A8%D9%87-%D9%86%D9%85%DA%A9-%D8%AF%D8%B1%DB%8C%D8%A7",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.208Z"
+    "observedAt": "2026-09-04T21:13:56.305Z"
   },
   {
     "id": "torobshop-laptop-computer-039d5e6addbbd691",
@@ -853,15 +1375,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "چاقوی سرآشپز زولینگ آلمان ZWILLING Pro Traditional تیغه 20 سانت",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 37980000,
-    "currency": "IRT",
-    "availability": "in_stock",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%B3%D8%B1%D8%A2%D8%B4%D9%BE%D8%B2-%D8%B3%D9%86%D8%AA%DB%8C-%D8%AD%D8%B1%D9%81%D9%87-%D8%A7%DB%8C-ZWILLING-%D8%A7%D9%88%D8%B1%D8%AC%DB%8C%D9%86%D8%A7%D9%84-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C-%D9%85%D8%B4%DA%A9%DB%8C-20-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-20-%D8%AF%D8%B1-5-%D8%AF%D8%B1-5-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.208Z"
+    "observedAt": "2026-09-04T21:13:56.305Z"
   },
   {
     "id": "torobshop-laptop-computer-35ed38f253e56a81",
@@ -871,15 +1393,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "قهوه‌ساز فیلتری و کپسولی نینجا آمریکا Ninja Prestige CFN802EUGM دوکاره",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 78516000,
-    "currency": "IRT",
-    "availability": "in_stock",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%82%D9%87%D9%88%D9%87-%D8%B3%D8%A7%D8%B2-%D8%AF%D9%88-%DA%A9%D8%A7%D8%B1%D9%87-%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%AF%D8%A7%D8%B1-%D9%88-%DA%A9%D9%BE%D8%B3%D9%88%D9%84%DB%8C-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%BE%D8%B1%D8%B3%D8%AA%DB%8C%DA%98-CFN802EUGM",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.208Z"
+    "observedAt": "2026-09-04T21:13:56.305Z"
   },
   {
     "id": "torobshop-laptop-computer-81294b2d39671c7a",
@@ -889,15 +1411,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "اسپرسوساز و قهوه‌ساز فیلتری نینجا آمریکا Ninja Luxe Café Mini ES301EU",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 122984000,
-    "currency": "IRT",
-    "availability": "in_stock",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%82%D9%87%D9%88%D9%87-%D8%B3%D8%A7%D8%B2-%D8%AF%D9%88-%D8%AF%D8%B1-%DB%8C%DA%A9-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%84%D9%88%DA%A9%D8%B3-%DA%A9%D8%A7%D9%81%D9%87-%D9%85%DB%8C%D9%86%DB%8C-%D8%A8%D8%A7-%D8%A2%D8%B3%DB%8C%D8%A7%D8%A8-%D9%88-%D9%81%DB%8C%D9%84%D8%AA%D8%B1-%D9%88-%DA%A9%D9%81-%D8%B3%D8%A7%D8%B2-%D8%AF%D8%B3%D8%AA%DB%8C-ES301EU",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.208Z"
+    "observedAt": "2026-09-04T21:13:56.305Z"
   },
   {
     "id": "torobshop-laptop-computer-aa508f6b8b35e109",
@@ -907,15 +1429,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "بستنی‌ساز و دستگاه بستنی نرم نینجا آمریکا Ninja CREAMi NC701EUBR مدل Scoop & Swirl 13 کاره موکا",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 109000000,
-    "currency": "IRT",
+    "price": 0,
+    "currency": "IRR",
     "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%D8%A8%D8%B3%D8%AA%D9%86%DB%8C-%D8%B3%D8%A7%D8%B2-%DA%86%D8%B1%D8%AE%D8%B4%DB%8C-%D9%88-%D8%A7%D8%B3%DA%A9%D9%88%D9%BE-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-CREAMi-%D8%A8%D8%A7-%DB%B2-%D8%B8%D8%B1%D9%81-%DB%B1%DB%B3-%D8%B9%D9%85%D9%84%DA%A9%D8%B1%D8%AF-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A8%D8%B3%D8%AA%D9%86%DB%8C-%D8%A8%D8%B3%D8%AA%D9%86%DB%8C-%D9%86%D8%B1%D9%85-%DA%98%D9%84%D8%A7%D8%AA%D9%88-%D8%B3%D9%88%D8%B1%D8%A8%D8%AA-%D9%85%DB%8C%D9%84%DA%A9-%D8%B4%DB%8C%DA%A9-%D9%88-%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%AF%DB%8C%DA%AF%D8%B1-%D8%A8%D8%A7-%D8%B9%D9%85%D9%84%DA%A9%D8%B1%D8%AF-%D9%85%D8%AE%D9%84%D9%88%D8%B7-%DA%A9%D8%B1%D8%AF%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%A7%D8%B6%D8%A7%D9%81%DB%8C-%D9%85%D9%88%DA%A9%D8%A7-NC701EUBR",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.208Z"
+    "observedAt": "2026-09-04T21:13:56.305Z"
   },
   {
     "id": "torobshop-laptop-computer-6ec47a3d62be5701",
@@ -925,15 +1447,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "فر توکار رومیزی و سرخ‌کن بدون روغن نینجا آمریکا Ninja Double Oven Pro Smart XL دوقلو 12 کاره",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 147886000,
-    "currency": "IRT",
+    "price": 0,
+    "currency": "IRR",
     "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%D9%81%D8%B1-%D8%AF%D9%88%D9%82%D9%84%D9%88-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%BE%D8%B1%D9%88-%D8%A7%D8%B3%D9%85%D8%A7%D8%B1%D8%AA-%D8%A7%DB%8C%DA%A9%D8%B3-%D8%A7%D9%84-%D9%81%D8%B1-%D9%88-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%D8%BA%D9%86-%D8%AA%D8%B7%D8%A8%DB%8C%D9%82-%D9%BE%D8%B0%DB%8C%D8%B1%DB%8C-%DB%B1%DB%B2-%D8%AF%D8%B1-%DB%B1-%D8%A8%D8%A7-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%D9%88-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-DualZone-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D8%AE%D8%AA-%D9%87%D9%85%D8%B2%D9%85%D8%A7%D9%86-%D8%AF%D9%88-%D9%88%D8%B9%D8%AF%D9%87-%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.208Z"
+    "observedAt": "2026-09-04T21:13:56.305Z"
   },
   {
     "id": "torobshop-laptop-computer-7b66ea2c8fd4c6a4",
@@ -943,15 +1465,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "فر رومیزی و سرخ‌کن بدون روغن نینجا آمریکا Ninja Double Oven Pro Smart XL دوقلو 12 کاره",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 156017000,
-    "currency": "IRT",
+    "price": 0,
+    "currency": "IRR",
     "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%D9%81%D8%B1-%D8%AF%D9%88%D9%82%D9%84%D9%88-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%BE%D8%B1%D9%88-%D8%A7%D8%B3%D9%85%D8%A7%D8%B1%D8%AA-%D8%A7%DB%8C%DA%A9%D8%B3-%D8%A7%D9%84-%D9%81%D8%B1-%D8%B1%D9%88%D9%85%DB%8C%D8%B2%DB%8C-%D9%88-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%D8%BA%D9%86-%D8%AA%D8%B7%D8%A8%DB%8C%D9%82-%D9%BE%D8%B0%DB%8C%D8%B1%DB%8C-%DB%B1%DB%B2-%D8%AF%D8%B1-%DB%B1-%D8%A8%D8%A7-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%D9%88-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-DualZone-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D8%AE%D8%AA-%D9%87%D9%85%D8%B2%D9%85%D8%A7%D9%86-%DB%B2-%D9%88%D8%B9%D8%AF%D9%87-%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%85%D8%B1%D8%BA-%D8%AA%D8%A7",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.208Z"
+    "observedAt": "2026-09-04T21:13:56.305Z"
   },
   {
     "id": "torobshop-laptop-computer-d49e2d4bb6f40cd4",
@@ -961,15 +1483,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "فر رومیزی و سرخ‌کن بدون روغن نینجا آمریکا Ninja Double Oven Pro Smart XL دوقلو 12 کاره",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 135181000,
-    "currency": "IRT",
+    "price": 0,
+    "currency": "IRR",
     "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%D9%81%D8%B1-%D8%AF%D9%88%D9%82%D9%84%D9%88-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%BE%D8%B1%D9%88-%D8%A7%D8%B3%D9%85%D8%A7%D8%B1%D8%AA-%D8%A7%DB%8C%DA%A9%D8%B3-%D8%A7%D9%84-%D9%81%D8%B1-%D9%88-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%D8%BA%D9%86-%D8%AA%D8%B7%D8%A8%DB%8C%D9%82-%D9%BE%D8%B0%DB%8C%D8%B1%DB%8C-%DB%B1%DB%B2-%D8%AF%D8%B1-%DB%B1-%D8%A8%D8%A7-%D9%BE%D8%B1%D8%AF%D8%A7%D8%B2%D8%B4-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%D9%88-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-%D8%AF%D9%88-%D9%85%D9%86%D8%B7%D9%82%D9%87-%D8%A7%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D8%AE%D8%AA-%D9%87%D9%85%D8%B2%D9%85%D8%A7%D9%86-%DB%B2-%D9%88%D8%B9%D8%AF%D9%87-%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.208Z"
+    "observedAt": "2026-09-04T21:13:56.305Z"
   },
   {
     "id": "torobshop-laptop-computer-189f8d80d22fa44f",
@@ -979,15 +1501,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "فر دوقلو نینجا آمریکا پرو اسمارت ایکس ال – فر و سرخ کن بدون روغن با دماسنج | 12 کاره با پردازش هوشمند و فناوری DualZone برای پخت همزمان 2 وعده غذایی",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 139500000,
-    "currency": "IRT",
+    "price": 0,
+    "currency": "IRR",
     "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%D9%81%D8%B1-%D8%AF%D9%88%D9%82%D9%84%D9%88-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%BE%D8%B1%D9%88-%D8%A7%D8%B3%D9%85%D8%A7%D8%B1%D8%AA-%D8%A7%DB%8C%DA%A9%D8%B3-%D8%A7%D9%84-%D9%81%D8%B1-%D9%88-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%D8%BA%D9%86-%D8%A8%D8%A7-%D8%AF%D9%85%D8%A7%D8%B3%D9%86%D8%AC-12-%DA%A9%D8%A7%D8%B1%D9%87-%D8%A8%D8%A7-%D9%BE%D8%B1%D8%AF%D8%A7%D8%B2%D8%B4-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%D9%88-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-DualZone-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D8%AE%D8%AA-%D9%87%D9%85%D8%B2%D9%85%D8%A7%D9%86-2-%D9%88%D8%B9%D8%AF%D9%87-%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.208Z"
+    "observedAt": "2026-09-04T21:13:56.305Z"
   },
   {
     "id": "torobshop-laptop-computer-5b8fa53f836d0f0c",
@@ -997,15 +1519,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "فر دوطبقه و سرخ‌کن بدون روغن نینجا آمریکا Ninja DCT801BL ظرفیت 30.2 کوارت 12 کاره",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 152714000,
-    "currency": "IRT",
-    "availability": "in_stock",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%D9%81%D8%B1-%D8%AF%D9%88%D9%82%D9%84%D9%88-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%BE%D8%B1%D9%88-%D8%A7%D8%B3%D9%85%D8%A7%D8%B1%D8%AA-%D8%A7%DB%8C%DA%A9%D8%B3-%D8%A7%D9%84-30-2-%DA%A9%D9%88%D8%A7%D8%B1%D8%AA-12-%D8%AF%D8%B1-1-%D8%B3%D8%A7%DB%8C%D8%A8%D8%B1%D8%A7%D8%B3%D9%BE%DB%8C%D8%B3-DCT801BL",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.208Z"
+    "observedAt": "2026-09-04T21:13:56.305Z"
   },
   {
     "id": "torobshop-laptop-computer-547d268a4387e8cb",
@@ -1015,15 +1537,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "سرخ‌کن بدون روغن قابل حمل نینجا آمریکا Ninja CRISPi ظرفیت 3.8 و 1.4 لیتر 1700 وات",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 54377000,
-    "currency": "IRT",
-    "availability": "in_stock",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D9%82%D8%A7%D8%A8%D9%84-%D8%AD%D9%85%D9%84-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%DA%A9%D8%B1%DB%8C%D8%B3%D9%BE%DB%8C-%DB%B3-%DB%B8-%D9%88-%DB%B1-%DB%B4-%D9%84%DB%8C%D8%AA%D8%B1-%DB%B1%DB%B7%DB%B0%DB%B0-%D9%88%D8%A7%D8%AA-%D8%AC%D9%85%D8%B9-%D9%88-%D8%AC%D9%88%D8%B1",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.208Z"
+    "observedAt": "2026-09-04T21:13:56.305Z"
   },
   {
     "id": "torobshop-laptop-computer-4192b4da9c3a842b",
@@ -1033,15 +1555,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "سرخ‌کن بدون روغن قابل حمل نینجا آمریکا Ninja CRISPi FN101EUDR ظرفیت 3.8 و 1.4 لیتر 4 کاره قرمز",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 54377000,
-    "currency": "IRT",
+    "price": 0,
+    "currency": "IRR",
     "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D9%82%D8%A7%D8%A8%D9%84-%D8%AD%D9%85%D9%84-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%DA%A9%D8%B1%DB%8C%D8%B3%D9%BE%DB%8C-%DB%B3-%DB%B8-%D9%88-%DB%B1-%DB%B4-%D9%84%DB%8C%D8%AA%D8%B1-%DB%B4-%DA%A9%D8%A7%D8%B1%D9%87-%D8%B3%D8%B1%D8%AE-%DA%A9%D8%B1%D8%AF%D9%86-%D8%AF%D8%B1-%D9%87%D9%88%D8%A7-%DA%A9%D8%A8%D8%A7%D8%A8-%DA%A9%D8%B1%D8%AF%D9%86-%DA%AF%D8%B1%D9%85-%D9%86%DA%AF%D9%87-%D8%AF%D8%A7%D8%B4%D8%AA%D9%86-%D8%AA%D8%B1%D8%AF-%D8%AC%D9%85%D8%B9-%D9%88-%D8%AC%D9%88%D8%B1-%DB%B6-%D9%88%D8%B9%D8%AF%D9%87-%DB%B2-%D8%B8%D8%B1%D9%81-%D9%88-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%DB%B1%DB%B7%DB%B0%DB%B0-%D9%88%D8%A7%D8%AA-%D9%82%D8%B1%D9%85%D8%B2-%DA%AF%DB%8C%D9%84%D8%A7%D8%B3%DB%8C-FN101EUDR",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.208Z"
+    "observedAt": "2026-09-04T21:13:56.305Z"
   },
   {
     "id": "torobshop-laptop-computer-d81ab9c86f172992",
@@ -1051,15 +1573,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "ظرف شیشه‌ای سرخ کن نینجا Ninja TempWare با درب ضد نشت، سازگار با سیستم پخت و پز قابل حمل Crispi، قابل استفاده در مایکروویو، فریزر و ماشین ظرفشویی، سطح پخت و پز شیشه‌ای بدون PFAS",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 21598000,
-    "currency": "IRT",
+    "price": 0,
+    "currency": "IRR",
     "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%D8%B8%D8%B1%D9%81-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-Ninja-TempWare-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B6%D8%AF-%D9%86%D8%B4%D8%AA-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%B3%DB%8C%D8%B3%D8%AA%D9%85-%D9%BE%D8%AE%D8%AA-%D9%88-%D9%BE%D8%B2-%D9%82%D8%A7%D8%A8%D9%84-%D8%AD%D9%85%D9%84-Crispi-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%85%D8%A7%DB%8C%DA%A9%D8%B1%D9%88%D9%88%DB%8C%D9%88-%D9%81%D8%B1%DB%8C%D8%B2%D8%B1-%D9%88-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D8%B3%D8%B7%D8%AD-%D9%BE%D8%AE%D8%AA-%D9%88-%D9%BE%D8%B2-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-PFAS",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.208Z"
+    "observedAt": "2026-09-04T21:13:56.305Z"
   },
   {
     "id": "torobshop-laptop-computer-c2621badab7154db",
@@ -1069,15 +1591,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "ظرف شیشه‌ای سرخ کن نینجا Ninja TempWare با درب نگهدارنده، سازگار با سیستم پخت و پز قابل حمل Ninja Crispi، قابل استفاده در مایکروویو، فریزر و ماشین ظرفشویی، سطح پخت و پز شیشه‌ای بدون PFAS",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 25155000,
-    "currency": "IRT",
+    "price": 0,
+    "currency": "IRR",
     "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%D8%B8%D8%B1%D9%81-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-Ninja-TempWare-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%86%DA%AF%D9%87%D8%AF%D8%A7%D8%B1%D9%86%D8%AF%D9%87-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%B3%DB%8C%D8%B3%D8%AA%D9%85-%D9%BE%D8%AE%D8%AA-%D9%88-%D9%BE%D8%B2-%D9%82%D8%A7%D8%A8%D9%84-%D8%AD%D9%85%D9%84-Ninja-Crispi-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%85%D8%A7%DB%8C%DA%A9%D8%B1%D9%88%D9%88%DB%8C%D9%88-%D9%81%D8%B1%DB%8C%D8%B2%D8%B1-%D9%88-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D8%B3%D8%B7%D8%AD-%D9%BE%D8%AE%D8%AA-%D9%88-%D9%BE%D8%B2-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-PFAS",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.208Z"
+    "observedAt": "2026-09-04T21:13:56.305Z"
   },
   {
     "id": "torobshop-laptop-computer-e61e8163e0053f8c",
@@ -1087,15 +1609,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "سرویس ۳ تکه ماهیتابه Berndes Induction Enduro - ماهیتابه‌های ۲۴ و ۲۸ سانتی‌متری - دارای کفگیر - مناسب برای همه اجاق گازها - ماهیتابه‌ها با پوشش نچسب ۳ لایه بسیار مقاوم - مقاوم در برابر خش - بدون PFAS",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 38369000,
-    "currency": "IRT",
+    "price": 0,
+    "currency": "IRR",
     "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%DB%B3-%D8%AA%DA%A9%D9%87-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-Berndes-Induction-Enduro-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%87%D8%A7%DB%8C-%DB%B2%DB%B4-%D9%88-%DB%B2%DB%B8-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C-%DA%A9%D9%81%DA%AF%DB%8C%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%87%D9%85%D9%87-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2%D9%87%D8%A7-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%87%D8%A7-%D8%A8%D8%A7-%D9%BE%D9%88%D8%B4%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%DB%B3-%D9%84%D8%A7%DB%8C%D9%87-%D8%A8%D8%B3%DB%8C%D8%A7%D8%B1-%D9%85%D9%82%D8%A7%D9%88%D9%85-%D9%85%D9%82%D8%A7%D9%88%D9%85-%D8%AF%D8%B1-%D8%A8%D8%B1%D8%A7%D8%A8%D8%B1-%D8%AE%D8%B4-%D8%A8%D8%AF%D9%88%D9%86-PFAS",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.208Z"
+    "observedAt": "2026-09-04T21:13:56.305Z"
   },
   {
     "id": "torobshop-laptop-computer-0a6f99bfb7c72378",
@@ -1105,15 +1627,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "کتری برقی گردن غازی کوسوری آمریکا COSORI با ۵ برنامه از پیش تنظیم شده متغیر",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 55139000,
-    "currency": "IRT",
-    "availability": "in_stock",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%DA%A9%D8%AA%D8%B1%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C-%DA%AF%D8%B1%D8%AF%D9%86-%D8%BA%D8%A7%D8%B2%DB%8C-COSORI-%D8%A8%D8%A7-%DB%B5-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D8%A7%D8%B2-%D9%BE%DB%8C%D8%B4-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%B4%D8%AF%D9%87-%D9%85%D8%AA%D8%BA%DB%8C%D8%B1",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.208Z"
+    "observedAt": "2026-09-04T21:13:56.305Z"
   },
   {
     "id": "torobshop-laptop-computer-17b433396f0dd8b8",
@@ -1123,15 +1645,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "کتری شیشه‌ای کوسوری آمریکا بدون تماس با پلاستیک، ایده‌آل برای چای، ۱.۷ لیتر",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 16516000,
-    "currency": "IRT",
-    "availability": "in_stock",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%DA%A9%D8%AA%D8%B1%DB%8C-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%DA%A9%D9%88%D8%B2%D9%88%D8%B1%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%D8%AA%D9%85%D8%A7%D8%B3-%D8%A8%D8%A7-%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-%D8%A7%DB%8C%D8%AF%D9%87-%D8%A2%D9%84-%D8%A8%D8%B1%D8%A7%DB%8C-%DA%86%D8%A7%DB%8C-%DB%B1-%DB%B7-%D9%84%DB%8C%D8%AA%D8%B1",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.208Z"
+    "observedAt": "2026-09-04T21:13:56.305Z"
   },
   {
     "id": "torobshop-laptop-computer-70f796097c7bfa77",
@@ -1141,15 +1663,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "کتری استیل ضد زنگ کوسوری آمریکا COSORI، ۱.۷ لیتر، بدون تماس با پلاستیک، ۲۲۰۰ وات، نقره‌ای-مشکی",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 15754000,
-    "currency": "IRT",
-    "availability": "in_stock",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%DA%A9%D8%AA%D8%B1%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-COSORI-%DB%B1-%DB%B7-%D9%84%DB%8C%D8%AA%D8%B1-%D8%A8%D8%AF%D9%88%D9%86-%D8%AA%D9%85%D8%A7%D8%B3-%D8%A8%D8%A7-%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-%DB%B2%DB%B2%DB%B0%DB%B0-%D9%88%D8%A7%D8%AA-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C-%D9%85%D8%B4%DA%A9%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.208Z"
+    "observedAt": "2026-09-04T21:13:56.305Z"
   },
   {
     "id": "torobshop-laptop-computer-792d9fda0d1edf60",
@@ -1159,15 +1681,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "ترازوی آشپزخانه دیجیتال استیل ضد زنگ کوسوری آمریکا اپلیکیشن ترازوی مواد غذایی، قابل شارژ با USB، سایز XL",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 32778000,
-    "currency": "IRT",
-    "availability": "in_stock",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%D8%AA%D8%B1%D8%A7%D8%B2%D9%88%DB%8C-%D8%A2%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87-%D8%AF%DB%8C%D8%AC%DB%8C%D8%AA%D8%A7%D9%84-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%DA%A9%D9%88%D8%B2%D9%88%D8%B1%DB%8C-%D8%A7%D9%BE%D9%84%DB%8C%DA%A9%DB%8C%D8%B4%D9%86-%D8%AA%D8%B1%D8%A7%D8%B2%D9%88%DB%8C-%D9%85%D9%88%D8%A7%D8%AF-%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%A7%D8%B1%DA%98-%D8%A8%D8%A7-USB-%D8%B3%D8%A7%DB%8C%D8%B2-XL",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.208Z"
+    "observedAt": "2026-09-04T21:13:56.305Z"
   },
   {
     "id": "torobshop-laptop-computer-0540c2016311432d",
@@ -1177,15 +1699,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "ترازوی آشپزخانه دیجیتال هوشمند کوسوری آمریکا COSORI با ماشین حساب تغذیه، اطلاعات مواد مغذی روی صفحه، برنامه رایگان برای ردیابی کالری و ماکرو، اسکن هوش مصنوعی، اهداف شخصی، برای",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 41418000,
-    "currency": "IRT",
+    "price": 0,
+    "currency": "IRR",
     "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%D8%AA%D8%B1%D8%A7%D8%B2%D9%88%DB%8C-%D8%A2%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87-%D8%AF%DB%8C%D8%AC%DB%8C%D8%AA%D8%A7%D9%84-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-COSORI-%D8%A8%D8%A7-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%AD%D8%B3%D8%A7%D8%A8-%D8%AA%D8%BA%D8%B0%DB%8C%D9%87-%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA-%D9%85%D9%88%D8%A7%D8%AF-%D9%85%D8%BA%D8%B0%DB%8C-%D8%B1%D9%88%DB%8C-%D8%B5%D9%81%D8%AD%D9%87-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D8%AF%DB%8C%D8%A7%D8%A8%DB%8C-%DA%A9%D8%A7%D9%84%D8%B1%DB%8C-%D9%88-%D9%85%D8%A7%DA%A9%D8%B1%D9%88-%D8%A7%D8%B3%DA%A9%D9%86-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D8%A7%D9%87%D8%AF%D8%A7%D9%81-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.208Z"
+    "observedAt": "2026-09-04T21:13:56.305Z"
   },
   {
     "id": "torobshop-laptop-computer-ea7e49d4888f5500",
@@ -1195,15 +1717,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "ترازوی آشپزخانه دیجیتال استیل ضد زنگ کوسوری آمریکا ترازوی آشپزخانه با قابلیت محاسبه ارزش غذایی از طریق اپلیکیشن",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 17278000,
-    "currency": "IRT",
-    "availability": "in_stock",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%D8%AA%D8%B1%D8%A7%D8%B2%D9%88%DB%8C-%D8%A2%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87-%D8%AF%DB%8C%D8%AC%DB%8C%D8%AA%D8%A7%D9%84-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%DA%A9%D9%88%D8%B2%D9%88%D8%B1%DB%8C-%D8%AA%D8%B1%D8%A7%D8%B2%D9%88%DB%8C-%D8%A2%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87-%D8%A8%D8%A7-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D9%87-%D8%A7%D8%B1%D8%B2%D8%B4-%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C-%D8%A7%D8%B2-%D8%B7%D8%B1%DB%8C%D9%82-%D8%A7%D9%BE%D9%84%DB%8C%DA%A9%DB%8C%D8%B4%D9%86",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.208Z"
+    "observedAt": "2026-09-04T21:13:56.305Z"
   },
   {
     "id": "torobshop-laptop-computer-a7031b2d2c098e3a",
@@ -1213,15 +1735,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "خشک‌کن مواد غذایی کوسوری آمریکا COSORI با ۸ سینی استیل ضد زنگ، ۶۵۰ وات",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 72164000,
-    "currency": "IRT",
-    "availability": "in_stock",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%D8%AE%D8%B4%DA%A9-%DA%A9%D9%86-%D9%85%D9%88%D8%A7%D8%AF-%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C-COSORI-%D8%A8%D8%A7-%DB%B8-%D8%B3%DB%8C%D9%86%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%DB%B6%DB%B5%DB%B0-%D9%88%D8%A7%D8%AA",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.208Z"
+    "observedAt": "2026-09-04T21:13:56.305Z"
   },
   {
     "id": "torobshop-laptop-computer-b280052ba623afe6",
@@ -1231,15 +1753,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "خشک‌کن مواد غذایی کوسوری آمریکا ۵ سینی، بدون BPA، ۳۵۰ وات، سفید",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 26426000,
-    "currency": "IRT",
-    "availability": "in_stock",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%D8%AE%D8%B4%DA%A9-%DA%A9%D9%86-%D9%85%D9%88%D8%A7%D8%AF-%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C-%DA%A9%D9%88%D8%B2%D9%88%D8%B1%DB%8C-%DB%B5-%D8%B3%DB%8C%D9%86%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-BPA-%DB%B3%DB%B5%DB%B0-%D9%88%D8%A7%D8%AA-%D8%B3%D9%81%DB%8C%D8%AF",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.208Z"
+    "observedAt": "2026-09-04T21:13:56.305Z"
   },
   {
     "id": "torobshop-laptop-computer-f65d7089e1b75967",
@@ -1249,15 +1771,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "خشک کن مواد غذایی از جنس استیل ضد زنگ کوسوری آمریکا COSORI، بدون تماس با پلاستیک، 650 وات",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 71150000,
-    "currency": "IRT",
-    "availability": "in_stock",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%D8%AE%D8%B4%DA%A9-%DA%A9%D9%86-%D9%85%D9%88%D8%A7%D8%AF-%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C-%D8%A7%D8%B2-%D8%AC%D9%86%D8%B3-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-COSORI-%D8%A8%D8%AF%D9%88%D9%86-%D8%AA%D9%85%D8%A7%D8%B3-%D8%A8%D8%A7-%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-650-%D9%88%D8%A7%D8%AA-2",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.208Z"
+    "observedAt": "2026-09-04T21:13:56.305Z"
   },
   {
     "id": "torobshop-laptop-computer-682b567d27e46eb9",
@@ -1267,15 +1789,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "خشک کن مواد غذایی از جنس استیل ضد زنگ کوسوری آمریکا COSORI، بدون تماس با پلاستیک، 650 وات",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 71150000,
-    "currency": "IRT",
-    "availability": "in_stock",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%D8%AE%D8%B4%DA%A9-%DA%A9%D9%86-%D9%85%D9%88%D8%A7%D8%AF-%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C-%D8%A7%D8%B2-%D8%AC%D9%86%D8%B3-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-COSORI-%D8%A8%D8%AF%D9%88%D9%86-%D8%AA%D9%85%D8%A7%D8%B3-%D8%A8%D8%A7-%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-650-%D9%88%D8%A7%D8%AA",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.208Z"
+    "observedAt": "2026-09-04T21:13:56.305Z"
   },
   {
     "id": "torobshop-laptop-computer-1a199d11167496a7",
@@ -1285,15 +1807,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "سبد بخارپز پلوپز کوسوری آمریکا Cosori CRC-R501-KUS استیل",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 20073000,
-    "currency": "IRT",
-    "availability": "in_stock",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%D9%BE%D9%84%D9%88%D9%BE%D8%B2-%DA%A9%D9%88%D8%B2%D9%88%D8%B1%DB%8C-%D8%B3%D8%A8%D8%AF-%D8%A8%D8%AE%D8%A7%D8%B1%D9%BE%D8%B2-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%DB%B3-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C-CRC-R501-KUS",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.208Z"
+    "observedAt": "2026-09-04T21:13:56.305Z"
   },
   {
     "id": "torobshop-laptop-computer-e7562a4a47affbdf",
@@ -1303,15 +1825,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "پلوپز کوسوری آمریکا Cosori CRC-R501-KEU ظرفیت 5 لیتر سرامیکی با فناوری Fuzzy Logic",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 34049000,
-    "currency": "IRT",
-    "availability": "in_stock",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%D9%BE%D9%84%D9%88%D9%BE%D8%B2-%DA%A9%D9%88%D8%B2%D9%88%D8%B1%DB%8C-%DB%B5-%D9%84%DB%8C%D8%AA%D8%B1-%D9%BE%D9%88%D8%B4%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%81%D8%A7%D8%B2%DB%8C-%D9%84%D8%A7%D8%AC%DB%8C%DA%A9",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.208Z"
+    "observedAt": "2026-09-04T21:13:56.305Z"
   },
   {
     "id": "torobshop-laptop-computer-5681fc33ebc4a2c4",
@@ -1321,15 +1843,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "پلوپز چندکاره هوشمند کوسوری آمریکا Cosori با 17 برنامه و دماسنج گوشت",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 51582000,
-    "currency": "IRT",
-    "availability": "in_stock",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%D8%AF%D9%85%D8%A7%D8%B3%D9%86%D8%AC-%DA%AF%D9%88%D8%B4%D8%AA-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-COSORI-%D9%85%D8%AF%D9%84-First-%D9%BE%D9%84%D9%88%D9%BE%D8%B2-COSORI-%D9%BE%D9%84%D9%88%D9%BE%D8%B2-%DA%86%D9%86%D8%AF%DA%A9%D8%A7%D8%B1%D9%87-%D8%A8%D8%A7-%DB%B1%DB%B7-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.208Z"
+    "observedAt": "2026-09-04T21:13:56.305Z"
   },
   {
     "id": "torobshop-laptop-computer-eb3156af454255af",
@@ -1339,15 +1861,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "زودپز برقی کوسوری آمریکا Cosori CMC-CO601-SEU ظرفیت 5.7 لیتر 9 کاره",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 44721000,
-    "currency": "IRT",
-    "availability": "in_stock",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%D8%B2%D9%88%D8%AF%D9%BE%D8%B2-%DA%A9%D9%88%D8%B2%D9%88%D8%B1%DB%8C-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%DB%B5-%DB%B7-%D9%84%DB%8C%D8%AA%D8%B1-%DB%B9-%DA%A9%D8%A7%D8%B1%D9%87",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.208Z"
+    "observedAt": "2026-09-04T21:13:56.305Z"
   },
   {
     "id": "torobshop-laptop-computer-3f60763e8c1f61db",
@@ -1357,15 +1879,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "پلوپز و کتری برقی چندکاره کوسوری آمریکا Cosori CRC-R501 شیشه‌ای",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 40401000,
-    "currency": "IRT",
-    "availability": "in_stock",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%D9%BE%D9%84%D9%88%D9%BE%D8%B2-%D9%88-%DA%A9%D8%AA%D8%B1%DB%8C-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%DA%86%D9%86%D8%AF%D9%85%D9%86%D8%B8%D9%88%D8%B1%D9%87-COSORI",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.208Z"
+    "observedAt": "2026-09-04T21:13:56.305Z"
   },
   {
     "id": "torobshop-laptop-computer-8b667a7c5d48a018",
@@ -1375,15 +1897,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "زودپز برقی چندکاره کوسوری آمریکا Cosori 9 کاره با 14 عملکرد و دماسنج هوشمند گوشت",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 53615000,
-    "currency": "IRT",
-    "availability": "in_stock",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%D8%AF%D9%85%D8%A7%D8%B3%D9%86%D8%AC-%DA%AF%D9%88%D8%B4%D8%AA-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-COSORI-%D9%85%D8%AF%D9%84-First-%D8%B2%D9%88%D8%AF%D9%BE%D8%B2-COSORI-%DB%B9-%DA%A9%D8%A7%D8%B1%D9%87-%DA%86%D9%86%D8%AF%DA%A9%D8%A7%D8%B1%D9%87-%D8%A8%D8%A7-%DB%B1%DB%B4-%D8%B9%D9%85%D9%84%DA%A9%D8%B1%D8%AF",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.208Z"
+    "observedAt": "2026-09-04T21:13:56.305Z"
   },
   {
     "id": "torobshop-laptop-computer-c28d9ee4867587e0",
@@ -1393,15 +1915,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "سرخ‌کن کوسوری آمریکا با پنجره دید، سرخ‌کن هوای گرم ۸.۵ لیتری، ۲ محفظه",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 60729000,
-    "currency": "IRT",
-    "availability": "in_stock",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%DA%A9%D9%88%D8%B2%D9%88%D8%B1%DB%8C-%D8%A8%D8%A7-%D9%BE%D9%86%D8%AC%D8%B1%D9%87-%D8%AF%DB%8C%D8%AF-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D9%87%D9%88%D8%A7%DB%8C-%DA%AF%D8%B1%D9%85-%DB%B8-%DB%B5-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C-%DB%B2-%D9%85%D8%AD%D9%81%D8%B8%D9%87",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.208Z"
+    "observedAt": "2026-09-04T21:13:56.305Z"
   },
   {
     "id": "torobshop-laptop-computer-135cb4370d26107e",
@@ -1411,15 +1933,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "سرخ‌کن کوسوری آمریکا نسل جدید ۲۰۲۶، سرخ‌کن دوقلوی فشرده دو شعله، فناوری NTC",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 60729000,
-    "currency": "IRT",
-    "availability": "in_stock",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%DA%A9%D9%88%D8%B2%D9%88%D8%B1%DB%8C-%D9%86%D8%B3%D9%84-%D8%AC%D8%AF%DB%8C%D8%AF-%DB%B2%DB%B0%DB%B2%DB%B6-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%AF%D9%88%D9%82%D9%84%D9%88%DB%8C-%D9%81%D8%B4%D8%B1%D8%AF%D9%87-%D8%AF%D9%88-%D8%B4%D8%B9%D9%84%D9%87-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-NTC",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.208Z"
+    "observedAt": "2026-09-04T21:13:56.305Z"
   },
   {
     "id": "torobshop-laptop-computer-ea6561f27fcae338",
@@ -1429,15 +1951,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "لوازم جانبی سرخ کن بدون روغن کوسوری آمریکا Cosori Air",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 22361000,
-    "currency": "IRT",
-    "availability": "in_stock",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%D8%BA%D9%86-%DA%A9%D9%88%D8%B2%D9%88%D8%B1%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.208Z"
+    "observedAt": "2026-09-04T21:13:56.305Z"
   },
   {
     "id": "torobshop-laptop-computer-9da6cf5207d19dc6",
@@ -1447,15 +1969,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "کاغذ پخت کوسوری آمریکا COSORI برای سرخ کن هوای گرم ۴.۵-۶ لیتری و سرخ کن هوای گرم COSORI TwinFry 10 لیتری",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 70386000,
-    "currency": "IRT",
-    "availability": "in_stock",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%DA%A9%D8%A7%D8%BA%D8%B0-%D9%BE%D8%AE%D8%AA-COSORI-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D9%87%D9%88%D8%A7%DB%8C-%DA%AF%D8%B1%D9%85-%DB%B4-%DB%B5-%DB%B6-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C-%D9%88-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D9%87%D9%88%D8%A7%DB%8C-%DA%AF%D8%B1%D9%85-COSORI-TwinFry-10-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.208Z"
+    "observedAt": "2026-09-04T21:13:56.305Z"
   },
   {
     "id": "torobshop-laptop-computer-973da9b66d30f98f",
@@ -1465,15 +1987,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "کاغذ سرخ کن بدون روغن کوسوری آمریکا Cosori Air",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 10418000,
-    "currency": "IRT",
-    "availability": "in_stock",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%DA%A9%D8%A7%D8%BA%D8%B0-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%D8%BA%D9%86-%DA%A9%D9%88%D8%B2%D9%88%D8%B1%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.208Z"
+    "observedAt": "2026-09-04T21:13:56.305Z"
   },
   {
     "id": "torobshop-laptop-computer-27a7ab064979e19e",
@@ -1483,15 +2005,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "خشک‌کن مواد غذایی از جنس استیل ضد زنگ کوسوری آمریکا COSORI با 50 دستور غذا و سرخ‌کن بدون روغن 10 لیتری COSORI TwinFry",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 112820000,
-    "currency": "IRT",
-    "availability": "in_stock",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%D8%AE%D8%B4%DA%A9-%DA%A9%D9%86-%D9%85%D9%88%D8%A7%D8%AF-%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C-%D8%A7%D8%B2-%D8%AC%D9%86%D8%B3-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-COSORI-%D8%A8%D8%A7-50-%D8%AF%D8%B3%D8%AA%D9%88%D8%B1-%D8%BA%D8%B0%D8%A7-%D9%88-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%D8%BA%D9%86-10-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C-COSORI-TwinFry",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.208Z"
+    "observedAt": "2026-09-04T21:13:56.305Z"
   },
   {
     "id": "torobshop-laptop-computer-426ac503c83523da",
@@ -1501,15 +2023,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "سرخ کن و کتری شیشه‌ای کوسوری آمریکا COSORI با فیلتر استیل ضد زنگ ارتقا یافته و درب داخلی و سرخ‌کن COSORI TwinFry 10L",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 73689000,
-    "currency": "IRT",
-    "availability": "in_stock",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%DA%A9%D8%AA%D8%B1%DB%8C-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-COSORI-%D8%A8%D8%A7-%D9%81%DB%8C%D9%84%D8%AA%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%A7%D8%B1%D8%AA%D9%82%D8%A7-%DB%8C%D8%A7%D9%81%D8%AA%D9%87-%D9%88-%D8%AF%D8%B1%D8%A8-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D9%88-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-COSORI-TwinFry-10L",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.208Z"
+    "observedAt": "2026-09-04T21:13:56.305Z"
   },
   {
     "id": "torobshop-laptop-computer-93f0314c16b9cade",
@@ -1519,15 +2041,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "کاغذ پخت کوسوری آمریکا COSORI برای سرخ کن بدون روغن ۴.۵-۶ لیتر، ۱۰۰ عدد، ۲۰ سانتی‌متر، برای سرخ کن بدون روغن، فر، مایکروویو، بخارپز، لوازم جانبی، مجموعه شش تکه لوازم جانبی برای برندهای سرخ کن بدون روغن ۵.۵ لیتر",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 22107000,
-    "currency": "IRT",
+    "price": 0,
+    "currency": "IRR",
     "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%DA%A9%D8%A7%D8%BA%D8%B0-%D9%BE%D8%AE%D8%AA-COSORI-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%D8%BA%D9%86-%DB%B4-%DB%B5-%DB%B6-%D9%84%DB%8C%D8%AA%D8%B1-%DB%B1%DB%B0%DB%B0-%D8%B9%D8%AF%D8%AF-%DB%B2%DB%B0-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%D8%BA%D9%86-%D9%81%D8%B1-%D9%85%D8%A7%DB%8C%DA%A9%D8%B1%D9%88%D9%88%DB%8C%D9%88-%D8%A8%D8%AE%D8%A7%D8%B1%D9%BE%D8%B2-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D8%B4%D8%B4-%D8%AA%DA%A9%D9%87-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A8%D8%B1%D9%86%D8%AF%D9%87%D8%A7%DB%8C-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%D8%BA%D9%86-%DB%B5-%DB%B5-%D9%84%DB%8C%D8%AA%D8%B1",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.208Z"
+    "observedAt": "2026-09-04T21:13:56.305Z"
   },
   {
     "id": "torobshop-laptop-computer-e546c7ee2f25cccb",
@@ -1537,15 +2059,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "سرخ کن هوای گرم Cososi TurboBlaze سینی پخت اصلی 6 لیتری، لوازم جانبی Cosori برای سرخ کن CAF-DC601-KEU، پوشش نچسب، قابل شستشو در ماشین ظرفشویی، CRP-DC601RC-KEU، مشکی",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 15246000,
-    "currency": "IRT",
+    "price": 0,
+    "currency": "IRR",
     "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D9%87%D9%88%D8%A7%DB%8C-%DA%AF%D8%B1%D9%85-Cososi-TurboBlaze-%D8%B3%DB%8C%D9%86%DB%8C-%D9%BE%D8%AE%D8%AA-%D8%A7%D8%B5%D9%84%DB%8C-6-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-Cosori-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-CAF-DC601-KEU-%D9%BE%D9%88%D8%B4%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-CRP-DC601RC-KEU-%D9%85%D8%B4%DA%A9%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.208Z"
+    "observedAt": "2026-09-04T21:13:56.305Z"
   },
   {
     "id": "torobshop-laptop-computer-06e9af83157d59bf",
@@ -1555,15 +2077,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "سرخ‌کن بدون روغن کوسوری آمریکا Cosori CP358-AF ظرفیت 5.5 لیتر 12 کاره",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 33540000,
-    "currency": "IRT",
+    "price": 0,
+    "currency": "IRR",
     "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%D9%84%D8%A7%D9%85%D9%BE-%D8%A7%D9%84-%D8%A7%DB%8C-%D8%AF%DB%8C-%D9%BE%D8%A7%DB%8C%D9%87-%D8%B3%D9%88%D8%B2%D9%86%DB%8C-EGLO-G4-%D9%82%D8%A7%D8%A8%D9%84-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D9%86%D9%88%D8%B1-%D9%BE%D8%A7%DB%8C%D9%87-%D8%B3%D9%88%D8%B2%D9%86%DB%8C-%D8%A8%D8%B3%D8%AA%D9%87-%DB%B2-%D8%B9%D8%AF%D8%AF%DB%8C-%DB%B2-%D9%84%D8%A7%D9%85%D9%BE-%D9%87%D8%B1-%DA%A9%D8%AF%D8%A7%D9%85-%DB%B1-%DB%B2-%D9%88%D8%A7%D8%AA-%DB%B1%DB%B2-%D9%88%D9%84%D8%AA-%D9%85%D8%B9%D8%A7%D8%AF%D9%84-%DB%B1%DB%B1-%D9%88%D8%A7%D8%AA-%DB%B1%DB%B0%DB%B0-%D9%84%D9%88%D9%85%D9%86-%D9%86%D9%88%D8%B1-%D8%B3%D9%81%DB%8C%D8%AF-%DA%AF%D8%B1%D9%85-%DB%B2%DB%B7%DB%B0%DB%B0-%DA%A9%D9%84%D9%88%DB%8C%D9%86-%D9%BE%D8%A7%DB%8C%D9%87-%D9%84%D8%A7%D9%85%D9%BE-%DB%B1-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.208Z"
+    "observedAt": "2026-09-04T21:13:56.305Z"
   },
   {
     "id": "torobshop-laptop-computer-7dd02e17fa5ae720",
@@ -1573,15 +2095,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "سرخ‌کن بدون روغن کوسوری آمریکا مدل CP158 به همراه مجموعه شش تکه لوازم جانبی و کاغذ مخصوص سرخ‌کن بدون روغن",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 43705000,
-    "currency": "IRT",
-    "availability": "in_stock",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%D8%BA%D9%86-%DA%A9%D9%88%D8%B2%D9%88%D8%B1%DB%8C-%D9%85%D8%AF%D9%84-CP158-%D8%A8%D9%87-%D9%87%D9%85%D8%B1%D8%A7%D9%87-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D8%B4%D8%B4-%D8%AA%DA%A9%D9%87-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%88-%DA%A9%D8%A7%D8%BA%D8%B0-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%D8%BA%D9%86",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.208Z"
+    "observedAt": "2026-09-04T21:13:56.305Z"
   },
   {
     "id": "torobshop-laptop-computer-67b089d5840c00b5",
@@ -1591,15 +2113,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "سرخ‌کن بدون روغن کوسوری آمریکا COSORI L501 و کاغذ پخت و مجموعه لوازم جانبی سرخ‌کن بدون روغن شش تکه",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 44468000,
-    "currency": "IRT",
-    "availability": "in_stock",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%D8%BA%D9%86-COSORI-L501-%D9%88-%DA%A9%D8%A7%D8%BA%D8%B0-%D9%BE%D8%AE%D8%AA-%D9%88-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%D8%BA%D9%86-%D8%B4%D8%B4-%D8%AA%DA%A9%D9%87",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.208Z"
+    "observedAt": "2026-09-04T21:13:56.305Z"
   },
   {
     "id": "torobshop-laptop-computer-16617f0cd6242c17",
@@ -1609,15 +2131,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "دماسنج گوشت هوشمند کوسوری آمریکا COSORI مدل First، دماسنج کباب‌پزی بی‌سیم بلوتوثی، مناسب برای سرخ‌کن بدون روغن، دماسنج کباب‌پزی برای آشپزخانه و کباب‌پزی، قابل شستشو در ماشین ظرفشویی، مشکی",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 26426000,
-    "currency": "IRT",
+    "price": 0,
+    "currency": "IRR",
     "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%D8%AF%D9%85%D8%A7%D8%B3%D9%86%D8%AC-%DA%AF%D9%88%D8%B4%D8%AA-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-COSORI-%D9%85%D8%AF%D9%84-First-%D8%AF%D9%85%D8%A7%D8%B3%D9%86%D8%AC-%DA%A9%D8%A8%D8%A7%D8%A8-%D9%BE%D8%B2%DB%8C-%D8%A8%DB%8C-%D8%B3%DB%8C%D9%85-%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%D8%BA%D9%86-%D8%AF%D9%85%D8%A7%D8%B3%D9%86%D8%AC-%DA%A9%D8%A8%D8%A7%D8%A8-%D9%BE%D8%B2%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A2%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87-%D9%88-%DA%A9%D8%A8%D8%A7%D8%A8-%D9%BE%D8%B2%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D9%85%D8%B4%DA%A9%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.209Z"
+    "observedAt": "2026-09-04T21:13:56.305Z"
   },
   {
     "id": "torobshop-laptop-computer-aab6f7ca65634b77",
@@ -1627,15 +2149,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "سبد اصلی سرخ کن بدون روغن کوسوری آمریکا COSORI Turboblaze 6Qt، لوازم جانبی جایگزین برای سرخ کن بدون روغن CAF-DC601-KUS، سرامیکی، نچسب، قابل شستشو در ماشین ظرفشویی، CRP-DC601RB-KUS، خاکستری تیره",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 29984000,
-    "currency": "IRT",
+    "price": 0,
+    "currency": "IRR",
     "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%D8%B3%D8%A8%D8%AF-%D8%A7%D8%B5%D9%84%DB%8C-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%D8%BA%D9%86-COSORI-Turboblaze-6Qt-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%D8%BA%D9%86-CAF-DC601-KUS-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%86%DA%86%D8%B3%D8%A8-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-CRP-DC601RB-KUS-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C-%D8%AA%DB%8C%D8%B1%D9%87",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.209Z"
+    "observedAt": "2026-09-04T21:13:56.305Z"
   },
   {
     "id": "torobshop-laptop-computer-230290bd87eab562",
@@ -1653,7 +2175,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.209Z"
+    "observedAt": "2026-09-04T21:13:56.305Z"
   },
   {
     "id": "torobshop-laptop-computer-697a2934ffba6321",
@@ -1671,7 +2193,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.209Z"
+    "observedAt": "2026-09-04T21:13:56.305Z"
   },
   {
     "id": "torobshop-laptop-computer-54f5e9ae596669e0",
@@ -1689,7 +2211,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.209Z"
+    "observedAt": "2026-09-04T21:13:56.305Z"
   },
   {
     "id": "torobshop-laptop-computer-12112ebd794aebfe",
@@ -1707,7 +2229,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.209Z"
+    "observedAt": "2026-09-04T21:13:56.305Z"
   },
   {
     "id": "torobshop-laptop-computer-936307be3dbff4d8",
@@ -1725,7 +2247,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.209Z"
+    "observedAt": "2026-09-04T21:13:56.306Z"
   },
   {
     "id": "torobshop-laptop-computer-6e9b5969bf806a83",
@@ -1743,7 +2265,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.209Z"
+    "observedAt": "2026-09-04T21:13:56.306Z"
   },
   {
     "id": "torobshop-laptop-computer-e8fbb91576830b01",
@@ -1761,7 +2283,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.209Z"
+    "observedAt": "2026-09-04T21:13:56.306Z"
   },
   {
     "id": "torobshop-laptop-computer-46604b56d19bc98e",
@@ -1779,7 +2301,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.209Z"
+    "observedAt": "2026-09-04T21:13:56.306Z"
   },
   {
     "id": "torobshop-laptop-computer-c0da7c6caaaabe22",
@@ -1797,7 +2319,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.209Z"
+    "observedAt": "2026-09-04T21:13:56.306Z"
   },
   {
     "id": "torobshop-laptop-computer-b0d9a8bce5b96da9",
@@ -1815,7 +2337,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.209Z"
+    "observedAt": "2026-09-04T21:13:56.306Z"
   },
   {
     "id": "torobshop-laptop-computer-5aade8dcb399df70",
@@ -1833,7 +2355,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.209Z"
+    "observedAt": "2026-09-04T21:13:56.306Z"
   },
   {
     "id": "torobshop-laptop-computer-5793143473c0cf7d",
@@ -1851,7 +2373,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.209Z"
+    "observedAt": "2026-09-04T21:13:56.306Z"
   },
   {
     "id": "torobshop-laptop-computer-338927d0838a0440",
@@ -1869,7 +2391,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.209Z"
+    "observedAt": "2026-09-04T21:13:56.306Z"
   },
   {
     "id": "torobshop-laptop-computer-01db327156bef7cb",
@@ -1887,7 +2409,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.209Z"
+    "observedAt": "2026-09-04T21:13:56.306Z"
   },
   {
     "id": "torobshop-laptop-computer-5f8b7d12315d211b",
@@ -1905,7 +2427,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.209Z"
+    "observedAt": "2026-09-04T21:13:56.306Z"
   },
   {
     "id": "torobshop-laptop-computer-bbcc82316e14ad0c",
@@ -1923,7 +2445,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.209Z"
+    "observedAt": "2026-09-04T21:13:56.306Z"
   },
   {
     "id": "torobshop-laptop-computer-7bcf4d86c8897e89",
@@ -1941,7 +2463,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.209Z"
+    "observedAt": "2026-09-04T21:13:56.306Z"
   },
   {
     "id": "torobshop-laptop-computer-c4764ab021d7047d",
@@ -1959,7 +2481,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.209Z"
+    "observedAt": "2026-09-04T21:13:56.306Z"
   },
   {
     "id": "torobshop-laptop-computer-c0ed70988a23d716",
@@ -1977,7 +2499,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.209Z"
+    "observedAt": "2026-09-04T21:13:56.306Z"
   },
   {
     "id": "torobshop-laptop-computer-60d6e587231ae5e2",
@@ -1995,7 +2517,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.209Z"
+    "observedAt": "2026-09-04T21:13:56.306Z"
   },
   {
     "id": "torobshop-laptop-computer-6ae0fa5e11f4b4e4",
@@ -2013,7 +2535,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.209Z"
+    "observedAt": "2026-09-04T21:13:56.306Z"
   },
   {
     "id": "torobshop-laptop-computer-60af1d85416ddb75",
@@ -2031,7 +2553,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.209Z"
+    "observedAt": "2026-09-04T21:13:56.306Z"
   },
   {
     "id": "torobshop-laptop-computer-4bcca73578b5dd16",
@@ -2049,7 +2571,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.209Z"
+    "observedAt": "2026-09-04T21:13:56.306Z"
   },
   {
     "id": "torobshop-laptop-computer-6e06ceda384f61d3",
@@ -2067,7 +2589,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.209Z"
+    "observedAt": "2026-09-04T21:13:56.306Z"
   },
   {
     "id": "torobshop-laptop-computer-d6020856dbe3939e",
@@ -2085,7 +2607,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.209Z"
+    "observedAt": "2026-09-04T21:13:56.306Z"
   },
   {
     "id": "torobshop-laptop-computer-5d82b44892bc11b9",
@@ -2103,7 +2625,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.209Z"
+    "observedAt": "2026-09-04T21:13:56.306Z"
   },
   {
     "id": "torobshop-laptop-computer-f9bbe058bc1d2128",
@@ -2121,7 +2643,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.209Z"
+    "observedAt": "2026-09-04T21:13:56.306Z"
   },
   {
     "id": "torobshop-laptop-computer-e314f2beea5b98b5",
@@ -2139,7 +2661,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.209Z"
+    "observedAt": "2026-09-04T21:13:56.306Z"
   },
   {
     "id": "torobshop-laptop-computer-55066b4800c9da01",
@@ -2157,7 +2679,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.209Z"
+    "observedAt": "2026-09-04T21:13:56.306Z"
   },
   {
     "id": "torobshop-laptop-computer-f9b72003ee046406",
@@ -2175,7 +2697,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.209Z"
+    "observedAt": "2026-09-04T21:13:56.306Z"
   },
   {
     "id": "torobshop-laptop-computer-e0190c6b09b72f84",
@@ -2193,7 +2715,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.209Z"
+    "observedAt": "2026-09-04T21:13:56.306Z"
   },
   {
     "id": "torobshop-laptop-computer-dab9eb8721316f5c",
@@ -2211,43 +2733,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.209Z"
-  },
-  {
-    "id": "torobshop-laptop-computer-b5bb3ef74c64016f",
-    "productId": "torobshop-b5bb3ef74c64016f",
-    "name": "ریش تراش برقی براون آلمان سری 9 پرو پلاس با ایستگاه شستشو هوشمند مدل Braun 9690cce",
-    "brand": "",
-    "model": "ریش تراش برقی براون آلمان سری 9 پرو پلاس با ایستگاه شستشو هوشمند مدل Braun 9690cce",
-    "category": "laptop-computer",
-    "subcategory": "تبلت و آیپد",
-    "price": 108261000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D8%A8%D8%B1%D9%82%DB%8C-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%B3%D8%B1%DB%8C-9-%D9%BE%D8%B1%D9%88-%D9%BE%D9%84%D8%A7%D8%B3-%D8%A8%D8%A7-%D8%A7%DB%8C%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%D9%85%D8%AF%D9%84-Braun-9690cce",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.209Z"
-  },
-  {
-    "id": "torobshop-laptop-computer-13383e2908795ceb",
-    "productId": "torobshop-13383e2908795ceb",
-    "name": "اسپرسو ساز تمام اتوماتیک نینجا آمریکا Ninja AE1051EU",
-    "brand": "",
-    "model": "اسپرسو ساز تمام اتوماتیک نینجا آمریکا Ninja AE1051EU",
-    "category": "laptop-computer",
-    "subcategory": "تبلت و آیپد",
-    "price": 263060000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%A7%D8%B3%D9%BE%D8%B1%D8%B3%D9%88-%D8%B3%D8%A7%D8%B2-%D8%AA%D9%85%D8%A7%D9%85-%D8%A7%D8%AA%D9%88%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-Ninja-AE1051EU",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.209Z"
+    "observedAt": "2026-09-04T21:13:56.306Z"
   },
   {
     "id": "torobshop-laptop-computer-7039563646d2a08c",
@@ -2265,7 +2751,43 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.209Z"
+    "observedAt": "2026-09-04T21:13:56.306Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-b5bb3ef74c64016f",
+    "productId": "torobshop-b5bb3ef74c64016f",
+    "name": "ریش تراش برقی براون آلمان سری 9 پرو پلاس با ایستگاه شستشو هوشمند مدل Braun 9690cce",
+    "brand": "",
+    "model": "ریش تراش برقی براون آلمان سری 9 پرو پلاس با ایستگاه شستشو هوشمند مدل Braun 9690cce",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 108261000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D8%A8%D8%B1%D9%82%DB%8C-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%B3%D8%B1%DB%8C-9-%D9%BE%D8%B1%D9%88-%D9%BE%D9%84%D8%A7%D8%B3-%D8%A8%D8%A7-%D8%A7%DB%8C%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%D9%85%D8%AF%D9%84-Braun-9690cce",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.306Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-13383e2908795ceb",
+    "productId": "torobshop-13383e2908795ceb",
+    "name": "اسپرسو ساز تمام اتوماتیک نینجا آمریکا Ninja AE1051EU",
+    "brand": "",
+    "model": "اسپرسو ساز تمام اتوماتیک نینجا آمریکا Ninja AE1051EU",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 263060000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D8%B3%D9%BE%D8%B1%D8%B3%D9%88-%D8%B3%D8%A7%D8%B2-%D8%AA%D9%85%D8%A7%D9%85-%D8%A7%D8%AA%D9%88%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-Ninja-AE1051EU",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.306Z"
   },
   {
     "id": "torobshop-laptop-computer-d17a16a92c427af7",
@@ -2283,7 +2805,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.209Z"
+    "observedAt": "2026-09-04T21:13:56.306Z"
   },
   {
     "id": "torobshop-laptop-computer-222c5f1f48a7811a",
@@ -2301,7 +2823,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.209Z"
+    "observedAt": "2026-09-04T21:13:56.306Z"
   },
   {
     "id": "torobshop-laptop-computer-e05ea902bac411c1",
@@ -2319,25 +2841,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.209Z"
-  },
-  {
-    "id": "torobshop-laptop-computer-9f8dba1c4be0543f",
-    "productId": "torobshop-9f8dba1c4be0543f",
-    "name": "دستگاه تنس مخصوص زانو بیورر آلمان مدل Beurer EM 56 کاهش درد زانو آرتروز و دردهای مفصلی",
-    "brand": "",
-    "model": "دستگاه تنس مخصوص زانو بیورر آلمان مدل Beurer EM 56 کاهش درد زانو آرتروز و دردهای مفصلی",
-    "category": "laptop-computer",
-    "subcategory": "تبلت و آیپد",
-    "price": 22834000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%AA%D9%86%D8%B3-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%B2%D8%A7%D9%86%D9%88-%D8%A8%DB%8C%D9%88%D8%B1%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%AF%D9%84-Beurer-EM-56-%DA%A9%D8%A7%D9%87%D8%B4-%D8%AF%D8%B1%D8%AF-%D8%B2%D8%A7%D9%86%D9%88-%D8%A2%D8%B1%D8%AA%D8%B1%D9%88%D8%B2-%D9%88-%D8%AF%D8%B1%D8%AF%D9%87%D8%A7%DB%8C-%D9%85%D9%81%D8%B5%D9%84%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.209Z"
+    "observedAt": "2026-09-04T21:13:56.306Z"
   },
   {
     "id": "torobshop-laptop-computer-73f54a12bc87541c",
@@ -2355,7 +2859,25 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.209Z"
+    "observedAt": "2026-09-04T21:13:56.306Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-9f8dba1c4be0543f",
+    "productId": "torobshop-9f8dba1c4be0543f",
+    "name": "دستگاه تنس مخصوص زانو بیورر آلمان مدل Beurer EM 56 کاهش درد زانو آرتروز و دردهای مفصلی",
+    "brand": "",
+    "model": "دستگاه تنس مخصوص زانو بیورر آلمان مدل Beurer EM 56 کاهش درد زانو آرتروز و دردهای مفصلی",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 22834000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%AA%D9%86%D8%B3-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%B2%D8%A7%D9%86%D9%88-%D8%A8%DB%8C%D9%88%D8%B1%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%AF%D9%84-Beurer-EM-56-%DA%A9%D8%A7%D9%87%D8%B4-%D8%AF%D8%B1%D8%AF-%D8%B2%D8%A7%D9%86%D9%88-%D8%A2%D8%B1%D8%AA%D8%B1%D9%88%D8%B2-%D9%88-%D8%AF%D8%B1%D8%AF%D9%87%D8%A7%DB%8C-%D9%85%D9%81%D8%B5%D9%84%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.306Z"
   },
   {
     "id": "torobshop-laptop-computer-7dda1ee3ebe3337d",
@@ -2373,7 +2895,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.209Z"
+    "observedAt": "2026-09-04T21:13:56.306Z"
   },
   {
     "id": "torobshop-laptop-computer-fed9304ce636fd70",
@@ -2391,7 +2913,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.209Z"
+    "observedAt": "2026-09-04T21:13:56.306Z"
   },
   {
     "id": "torobshop-laptop-computer-56d2262c04bf40b1",
@@ -2409,7 +2931,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.209Z"
+    "observedAt": "2026-09-04T21:13:56.306Z"
   },
   {
     "id": "torobshop-laptop-computer-1d09296a1209f7ae",
@@ -2427,7 +2949,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.209Z"
+    "observedAt": "2026-09-04T21:13:56.306Z"
   },
   {
     "id": "torobshop-laptop-computer-d5861c5eae980acb",
@@ -2445,7 +2967,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.209Z"
+    "observedAt": "2026-09-04T21:13:56.306Z"
   },
   {
     "id": "torobshop-laptop-computer-3a354858143bf5bf",
@@ -2463,7 +2985,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.209Z"
+    "observedAt": "2026-09-04T21:13:56.306Z"
   },
   {
     "id": "torobshop-laptop-computer-3b108c60419c6b3e",
@@ -2481,7 +3003,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.209Z"
+    "observedAt": "2026-09-04T21:13:56.306Z"
   },
   {
     "id": "torobshop-laptop-computer-386045fed7109b6c",
@@ -2499,7 +3021,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.209Z"
+    "observedAt": "2026-09-04T21:13:56.306Z"
   },
   {
     "id": "torobshop-laptop-computer-3d432c8dbd69eefb",
@@ -2517,7 +3039,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.209Z"
+    "observedAt": "2026-09-04T21:13:56.306Z"
   },
   {
     "id": "torobshop-laptop-computer-2278a7dbec8ed7cd",
@@ -2535,7 +3057,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.209Z"
+    "observedAt": "2026-09-04T21:13:56.306Z"
   },
   {
     "id": "torobshop-laptop-computer-66634e26dfb49c04",
@@ -2553,7 +3075,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.209Z"
+    "observedAt": "2026-09-04T21:13:56.306Z"
   },
   {
     "id": "torobshop-laptop-computer-bab25203513b93bb",
@@ -2571,7 +3093,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.209Z"
+    "observedAt": "2026-09-04T21:13:56.306Z"
   },
   {
     "id": "torobshop-laptop-computer-3dd1b99a47f6c6d1",
@@ -2589,7 +3111,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.209Z"
+    "observedAt": "2026-09-04T21:13:56.306Z"
   },
   {
     "id": "torobshop-laptop-computer-bcf3455eedcf96e7",
@@ -2607,7 +3129,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.209Z"
+    "observedAt": "2026-09-04T21:13:56.306Z"
   },
   {
     "id": "torobshop-laptop-computer-40f557a46b915c21",
@@ -2625,7 +3147,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.209Z"
+    "observedAt": "2026-09-04T21:13:56.306Z"
   },
   {
     "id": "torobshop-laptop-computer-fbd5e1832a592f6d",
@@ -2643,7 +3165,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.209Z"
+    "observedAt": "2026-09-04T21:13:56.306Z"
   },
   {
     "id": "torobshop-laptop-computer-9c9a87a898bad342",
@@ -2661,7 +3183,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.209Z"
+    "observedAt": "2026-09-04T21:13:56.306Z"
   },
   {
     "id": "torobshop-laptop-computer-685fccacbb18ee43",
@@ -2679,7 +3201,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.210Z"
+    "observedAt": "2026-09-04T21:13:56.306Z"
   },
   {
     "id": "torobshop-laptop-computer-1cb6df1aed563bee",
@@ -2697,7 +3219,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.210Z"
+    "observedAt": "2026-09-04T21:13:56.306Z"
   },
   {
     "id": "torobshop-laptop-computer-993ee35f4a561a10",
@@ -2715,7 +3237,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.210Z"
+    "observedAt": "2026-09-04T21:13:56.306Z"
   },
   {
     "id": "torobshop-laptop-computer-37fd983abaa93a3b",
@@ -2733,7 +3255,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.210Z"
+    "observedAt": "2026-09-04T21:13:56.306Z"
   },
   {
     "id": "torobshop-laptop-computer-deb4652ab7b20c96",
@@ -2751,7 +3273,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.210Z"
+    "observedAt": "2026-09-04T21:13:56.306Z"
   },
   {
     "id": "torobshop-laptop-computer-cc5a74ea332cb871",
@@ -2769,43 +3291,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.210Z"
-  },
-  {
-    "id": "torobshop-laptop-computer-f5c373b20c89f3cf",
-    "productId": "torobshop-f5c373b20c89f3cf",
-    "name": "اسپرسو ساز اسمگ ایتالیا مدل Smeg ECF02PBEU رنگ آبی با طراحی کلاسیک دهه ۵۰",
-    "brand": "",
-    "model": "اسپرسو ساز اسمگ ایتالیا مدل Smeg ECF02PBEU رنگ آبی با طراحی کلاسیک دهه ۵۰",
-    "category": "laptop-computer",
-    "subcategory": "تبلت و آیپد",
-    "price": 90041000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%A7%D8%B3%D9%BE%D8%B1%D8%B3%D9%88-%D8%B3%D8%A7%D8%B2-%D8%A7%D8%B3%D9%85%DA%AF-%D8%A7%DB%8C%D8%AA%D8%A7%D9%84%DB%8C%D8%A7-%D9%85%D8%AF%D9%84-Smeg-ECF02PBEU-%D8%B1%D9%86%DA%AF-%D8%A2%D8%A8%DB%8C-%D8%A8%D8%A7-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%DA%A9%D9%84%D8%A7%D8%B3%DB%8C%DA%A9-%D8%AF%D9%87%D9%87-%DB%B5%DB%B0",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.210Z"
-  },
-  {
-    "id": "torobshop-laptop-computer-557954e4838db8ec",
-    "productId": "torobshop-557954e4838db8ec",
-    "name": "برس فرش و کفپوش جارو برقی میله آلمان مدل Miele SBD 680-3",
-    "brand": "",
-    "model": "برس فرش و کفپوش جارو برقی میله آلمان مدل Miele SBD 680-3",
-    "category": "laptop-computer",
-    "subcategory": "تبلت و آیپد",
-    "price": 29072000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%A8%D8%B1%D8%B3-%D9%81%D8%B1%D8%B4-%D9%88-%DA%A9%D9%81%D9%BE%D9%88%D8%B4-%D8%AC%D8%A7%D8%B1%D9%88-%D8%A8%D8%B1%D9%82%DB%8C-%D9%85%DB%8C%D9%84%D9%87-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%AF%D9%84-Miele-SBD-680-3",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.210Z"
+    "observedAt": "2026-09-04T21:13:56.306Z"
   },
   {
     "id": "torobshop-laptop-computer-5e97e30e4af5e35a",
@@ -2823,7 +3309,43 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.210Z"
+    "observedAt": "2026-09-04T21:13:56.306Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-f5c373b20c89f3cf",
+    "productId": "torobshop-f5c373b20c89f3cf",
+    "name": "اسپرسو ساز اسمگ ایتالیا مدل Smeg ECF02PBEU رنگ آبی با طراحی کلاسیک دهه ۵۰",
+    "brand": "",
+    "model": "اسپرسو ساز اسمگ ایتالیا مدل Smeg ECF02PBEU رنگ آبی با طراحی کلاسیک دهه ۵۰",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 90041000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D8%B3%D9%BE%D8%B1%D8%B3%D9%88-%D8%B3%D8%A7%D8%B2-%D8%A7%D8%B3%D9%85%DA%AF-%D8%A7%DB%8C%D8%AA%D8%A7%D9%84%DB%8C%D8%A7-%D9%85%D8%AF%D9%84-Smeg-ECF02PBEU-%D8%B1%D9%86%DA%AF-%D8%A2%D8%A8%DB%8C-%D8%A8%D8%A7-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%DA%A9%D9%84%D8%A7%D8%B3%DB%8C%DA%A9-%D8%AF%D9%87%D9%87-%DB%B5%DB%B0",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.306Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-557954e4838db8ec",
+    "productId": "torobshop-557954e4838db8ec",
+    "name": "برس فرش و کفپوش جارو برقی میله آلمان مدل Miele SBD 680-3",
+    "brand": "",
+    "model": "برس فرش و کفپوش جارو برقی میله آلمان مدل Miele SBD 680-3",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 29072000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%A8%D8%B1%D8%B3-%D9%81%D8%B1%D8%B4-%D9%88-%DA%A9%D9%81%D9%BE%D9%88%D8%B4-%D8%AC%D8%A7%D8%B1%D9%88-%D8%A8%D8%B1%D9%82%DB%8C-%D9%85%DB%8C%D9%84%D9%87-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%AF%D9%84-Miele-SBD-680-3",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.306Z"
   },
   {
     "id": "torobshop-laptop-computer-ac5e0f9a687acc9d",
@@ -2841,7 +3363,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.210Z"
+    "observedAt": "2026-09-04T21:13:56.306Z"
   },
   {
     "id": "torobshop-laptop-computer-174296fd490ce4c6",
@@ -2859,7 +3381,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.210Z"
+    "observedAt": "2026-09-04T21:13:56.306Z"
   },
   {
     "id": "torobshop-laptop-computer-ca40f9691c169854",
@@ -2877,7 +3399,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.210Z"
+    "observedAt": "2026-09-04T21:13:56.306Z"
   },
   {
     "id": "torobshop-laptop-computer-24ee5f250564a2b6",
@@ -2895,7 +3417,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.210Z"
+    "observedAt": "2026-09-04T21:13:56.307Z"
   },
   {
     "id": "torobshop-laptop-computer-eb2d1bdae18ab641",
@@ -2913,7 +3435,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.210Z"
+    "observedAt": "2026-09-04T21:13:56.307Z"
   },
   {
     "id": "torobshop-laptop-computer-bf0ff9604c787d7f",
@@ -2931,7 +3453,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.210Z"
+    "observedAt": "2026-09-04T21:13:56.307Z"
   },
   {
     "id": "torobshop-laptop-computer-ffccfb4b61d564f3",
@@ -2949,7 +3471,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.210Z"
+    "observedAt": "2026-09-04T21:13:56.307Z"
   },
   {
     "id": "torobshop-laptop-computer-e89541bdd38935d2",
@@ -2967,7 +3489,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.210Z"
+    "observedAt": "2026-09-04T21:13:56.307Z"
   },
   {
     "id": "torobshop-laptop-computer-ec7446a90d887300",
@@ -2985,7 +3507,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.210Z"
+    "observedAt": "2026-09-04T21:13:56.307Z"
   },
   {
     "id": "torobshop-laptop-computer-f676e23d1f151190",
@@ -3003,7 +3525,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.210Z"
+    "observedAt": "2026-09-04T21:13:56.307Z"
   },
   {
     "id": "torobshop-laptop-computer-b93b2b7b8a52ead7",
@@ -3021,7 +3543,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.210Z"
+    "observedAt": "2026-09-04T21:13:56.307Z"
   },
   {
     "id": "torobshop-laptop-computer-469010b14dce1518",
@@ -3039,7 +3561,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.210Z"
+    "observedAt": "2026-09-04T21:13:56.307Z"
   },
   {
     "id": "torobshop-laptop-computer-d622f60b84a25c29",
@@ -3057,7 +3579,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.210Z"
+    "observedAt": "2026-09-04T21:13:56.307Z"
   },
   {
     "id": "torobshop-laptop-computer-8ad1b620c2984c64",
@@ -3075,7 +3597,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.210Z"
+    "observedAt": "2026-09-04T21:13:56.307Z"
   },
   {
     "id": "torobshop-laptop-computer-10055e541e3441a4",
@@ -3093,7 +3615,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.210Z"
+    "observedAt": "2026-09-04T21:13:56.307Z"
   },
   {
     "id": "torobshop-laptop-computer-7362b68fe582e1ef",
@@ -3111,7 +3633,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.210Z"
+    "observedAt": "2026-09-04T21:13:56.307Z"
   },
   {
     "id": "torobshop-laptop-computer-8cd92a01eb7c25f2",
@@ -3129,7 +3651,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.210Z"
+    "observedAt": "2026-09-04T21:13:56.307Z"
   },
   {
     "id": "torobshop-laptop-computer-8b4d268dc0b50dc9",
@@ -3147,7 +3669,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.210Z"
+    "observedAt": "2026-09-04T21:13:56.307Z"
   },
   {
     "id": "torobshop-laptop-computer-2961f6c161810850",
@@ -3165,7 +3687,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.210Z"
+    "observedAt": "2026-09-04T21:13:56.307Z"
   },
   {
     "id": "torobshop-laptop-computer-a0357d058917fff7",
@@ -3183,7 +3705,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.210Z"
+    "observedAt": "2026-09-04T21:13:56.307Z"
   },
   {
     "id": "torobshop-laptop-computer-5219a65546b1a882",
@@ -3201,7 +3723,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.210Z"
+    "observedAt": "2026-09-04T21:13:56.307Z"
   },
   {
     "id": "torobshop-laptop-computer-231a8680a663a06f",
@@ -3219,7 +3741,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.210Z"
+    "observedAt": "2026-09-04T21:13:56.307Z"
   },
   {
     "id": "torobshop-laptop-computer-f6139cf71fa544af",
@@ -3237,25 +3759,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.210Z"
-  },
-  {
-    "id": "torobshop-laptop-computer-f241bfdbdc958cdb",
-    "productId": "torobshop-f241bfdbdc958cdb",
-    "name": "مانیتور فیلیپس هلند Philips 328P6AUBREB سایز ۳۲ اینچ QHD با داک USB-C و پایه قابل تنظیم",
-    "brand": "",
-    "model": "مانیتور فیلیپس هلند Philips 328P6AUBREB سایز ۳۲ اینچ QHD با داک USB-C و پایه قابل تنظیم",
-    "category": "laptop-computer",
-    "subcategory": "تبلت و آیپد",
-    "price": 65558000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-328P6AUBREB-%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D8%AF%D8%A7%DA%A9-USB-C-%D8%A8%D8%A7-%D8%B5%D9%81%D8%AD%D9%87-%D9%86%D9%85%D8%A7%DB%8C%D8%B4-32-%D8%A7%DB%8C%D9%86%DA%86-QHD-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-2560x1440-60-%D9%87%D8%B1%D8%AA%D8%B2-VGA-HDMI-USB-C-RJ45-%D9%87%D8%A7%D8%A8-USB-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.210Z"
+    "observedAt": "2026-09-04T21:13:56.307Z"
   },
   {
     "id": "torobshop-laptop-computer-667b222bc82da779",
@@ -3273,7 +3777,25 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.210Z"
+    "observedAt": "2026-09-04T21:13:56.307Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-f241bfdbdc958cdb",
+    "productId": "torobshop-f241bfdbdc958cdb",
+    "name": "مانیتور فیلیپس هلند Philips 328P6AUBREB سایز ۳۲ اینچ QHD با داک USB-C و پایه قابل تنظیم",
+    "brand": "",
+    "model": "مانیتور فیلیپس هلند Philips 328P6AUBREB سایز ۳۲ اینچ QHD با داک USB-C و پایه قابل تنظیم",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 65558000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-328P6AUBREB-%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D8%AF%D8%A7%DA%A9-USB-C-%D8%A8%D8%A7-%D8%B5%D9%81%D8%AD%D9%87-%D9%86%D9%85%D8%A7%DB%8C%D8%B4-32-%D8%A7%DB%8C%D9%86%DA%86-QHD-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-2560x1440-60-%D9%87%D8%B1%D8%AA%D8%B2-VGA-HDMI-USB-C-RJ45-%D9%87%D8%A7%D8%A8-USB-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.307Z"
   },
   {
     "id": "torobshop-laptop-computer-2734ee381987f71a",
@@ -3291,7 +3813,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.210Z"
+    "observedAt": "2026-09-04T21:13:56.307Z"
   },
   {
     "id": "torobshop-laptop-computer-13177f1a3461cbf8",
@@ -3309,7 +3831,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.210Z"
+    "observedAt": "2026-09-04T21:13:56.307Z"
   },
   {
     "id": "torobshop-laptop-computer-1acb3967a4975e9e",
@@ -3327,7 +3849,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.210Z"
+    "observedAt": "2026-09-04T21:13:56.307Z"
   },
   {
     "id": "torobshop-laptop-computer-42a978739edad1b3",
@@ -3345,7 +3867,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.210Z"
+    "observedAt": "2026-09-04T21:13:56.307Z"
   },
   {
     "id": "torobshop-laptop-computer-7400212af3648c0e",
@@ -3363,7 +3885,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.210Z"
+    "observedAt": "2026-09-04T21:13:56.307Z"
   },
   {
     "id": "torobshop-laptop-computer-db75e7774c65ead5",
@@ -3381,61 +3903,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.210Z"
-  },
-  {
-    "id": "torobshop-laptop-computer-d1db9fdb0a981eb7",
-    "productId": "torobshop-d1db9fdb0a981eb7",
-    "name": "مانیتور فیلیپس ۲۷E1N1800AE – مانیتور ۲۷ اینچی Ultra HD، بلندگوها، قابلیت تنظیم ارتفاع، HDR10 (3840x2160، ۶۰ هرتز، HDMI 2.0، DisplayPort 1.4) مشکی",
-    "brand": "",
-    "model": "مانیتور فیلیپس ۲۷E1N1800AE – مانیتور ۲۷ اینچی Ultra HD، بلندگوها، قابلیت تنظیم ارتفاع، HDR10 (3840x2160، ۶۰ هرتز، HDMI 2.0، DisplayPort 1.4) مشکی",
-    "category": "laptop-computer",
-    "subcategory": "تبلت و آیپد",
-    "price": 60729000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%DB%B2%DB%B7E1N1800AE-%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%DB%B2%DB%B7-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-Ultra-HD-%D8%A8%D9%84%D9%86%D8%AF%DA%AF%D9%88%D9%87%D8%A7-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-HDR10-3840x2160-%DB%B6%DB%B0-%D9%87%D8%B1%D8%AA%D8%B2-HDMI-2-0-DisplayPort-1-4-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.210Z"
-  },
-  {
-    "id": "torobshop-laptop-computer-caf67fb53869dc8d",
-    "productId": "torobshop-caf67fb53869dc8d",
-    "name": "مانیتور فیلیپس 275S1AE - 27 اینچ QHD، قابلیت تنظیم ارتفاع (2560x1440، 75 هرتز، DVI، HDMI، DisplayPort) مشکی",
-    "brand": "",
-    "model": "مانیتور فیلیپس 275S1AE - 27 اینچ QHD، قابلیت تنظیم ارتفاع (2560x1440، 75 هرتز، DVI، HDMI، DisplayPort) مشکی",
-    "category": "laptop-computer",
-    "subcategory": "تبلت و آیپد",
-    "price": 62255000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-275S1AE-27-%D8%A7%DB%8C%D9%86%DA%86-QHD-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-2560x1440-75-%D9%87%D8%B1%D8%AA%D8%B2-DVI-HDMI-DisplayPort-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.211Z"
-  },
-  {
-    "id": "torobshop-laptop-computer-226a6dfcab93ffe2",
-    "productId": "torobshop-226a6dfcab93ffe2",
-    "name": "مانیتور لمسی ۱۷ اینچ فیلیپس هلند Philips 172B1TFL/00 با قابلیت لمس ۱۰ نقطه‌ای بدون پایه نگهدارنده",
-    "brand": "",
-    "model": "مانیتور لمسی ۱۷ اینچ فیلیپس هلند Philips 172B1TFL/00 با قابلیت لمس ۱۰ نقطه‌ای بدون پایه نگهدارنده",
-    "category": "laptop-computer",
-    "subcategory": "تبلت و آیپد",
-    "price": 106214000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%84%D9%85%D8%B3%DB%8C-%DB%B1%DB%B7-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%DB%B1%DB%B0-%D9%86%D9%82%D8%B7%D9%87-%D8%A7%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%D9%BE%D8%A7%DB%8C%D9%87",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.211Z"
+    "observedAt": "2026-09-04T21:13:56.307Z"
   },
   {
     "id": "torobshop-laptop-computer-b59055b4a9ca5ed0",
@@ -3453,7 +3921,61 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.211Z"
+    "observedAt": "2026-09-04T21:13:56.307Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-d1db9fdb0a981eb7",
+    "productId": "torobshop-d1db9fdb0a981eb7",
+    "name": "مانیتور فیلیپس ۲۷E1N1800AE – مانیتور ۲۷ اینچی Ultra HD، بلندگوها، قابلیت تنظیم ارتفاع، HDR10 (3840x2160، ۶۰ هرتز، HDMI 2.0، DisplayPort 1.4) مشکی",
+    "brand": "",
+    "model": "مانیتور فیلیپس ۲۷E1N1800AE – مانیتور ۲۷ اینچی Ultra HD، بلندگوها، قابلیت تنظیم ارتفاع، HDR10 (3840x2160، ۶۰ هرتز، HDMI 2.0، DisplayPort 1.4) مشکی",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 60729000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%DB%B2%DB%B7E1N1800AE-%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%DB%B2%DB%B7-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-Ultra-HD-%D8%A8%D9%84%D9%86%D8%AF%DA%AF%D9%88%D9%87%D8%A7-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-HDR10-3840x2160-%DB%B6%DB%B0-%D9%87%D8%B1%D8%AA%D8%B2-HDMI-2-0-DisplayPort-1-4-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.307Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-caf67fb53869dc8d",
+    "productId": "torobshop-caf67fb53869dc8d",
+    "name": "مانیتور فیلیپس 275S1AE - 27 اینچ QHD، قابلیت تنظیم ارتفاع (2560x1440، 75 هرتز، DVI، HDMI، DisplayPort) مشکی",
+    "brand": "",
+    "model": "مانیتور فیلیپس 275S1AE - 27 اینچ QHD، قابلیت تنظیم ارتفاع (2560x1440، 75 هرتز، DVI، HDMI، DisplayPort) مشکی",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 62255000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-275S1AE-27-%D8%A7%DB%8C%D9%86%DA%86-QHD-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-2560x1440-75-%D9%87%D8%B1%D8%AA%D8%B2-DVI-HDMI-DisplayPort-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.307Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-226a6dfcab93ffe2",
+    "productId": "torobshop-226a6dfcab93ffe2",
+    "name": "مانیتور لمسی ۱۷ اینچ فیلیپس هلند Philips 172B1TFL/00 با قابلیت لمس ۱۰ نقطه‌ای بدون پایه نگهدارنده",
+    "brand": "",
+    "model": "مانیتور لمسی ۱۷ اینچ فیلیپس هلند Philips 172B1TFL/00 با قابلیت لمس ۱۰ نقطه‌ای بدون پایه نگهدارنده",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 106214000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%84%D9%85%D8%B3%DB%8C-%DB%B1%DB%B7-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%DB%B1%DB%B0-%D9%86%D9%82%D8%B7%D9%87-%D8%A7%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%D9%BE%D8%A7%DB%8C%D9%87",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.307Z"
   },
   {
     "id": "torobshop-laptop-computer-34bb04f7987b2eb8",
@@ -3471,7 +3993,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.211Z"
+    "observedAt": "2026-09-04T21:13:56.307Z"
   },
   {
     "id": "torobshop-laptop-computer-9b16b6ebae742a59",
@@ -3489,7 +4011,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.211Z"
+    "observedAt": "2026-09-04T21:13:56.307Z"
   },
   {
     "id": "torobshop-laptop-computer-1ac684a13e625548",
@@ -3507,7 +4029,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.211Z"
+    "observedAt": "2026-09-04T21:13:56.307Z"
   },
   {
     "id": "torobshop-laptop-computer-1b01f5a6fb5eb1c5",
@@ -3525,61 +4047,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.211Z"
-  },
-  {
-    "id": "torobshop-laptop-computer-0ef7eb89998918af",
-    "productId": "torobshop-0ef7eb89998918af",
-    "name": "مانیتور فیلیپس 271E1SCA، 27 اینچ منحنی، FHD، 75 هرتز، پنل VA، زمان پاسخ 4 میلی‌ثانیه، FreeSync، بلندگوها، (1920x1080 HDMI 1) مشکی",
-    "brand": "",
-    "model": "مانیتور فیلیپس 271E1SCA، 27 اینچ منحنی، FHD، 75 هرتز، پنل VA، زمان پاسخ 4 میلی‌ثانیه، FreeSync، بلندگوها، (1920x1080 HDMI 1) مشکی",
-    "category": "laptop-computer",
-    "subcategory": "تبلت و آیپد",
-    "price": 50058000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-271E1SCA-27-%D8%A7%DB%8C%D9%86%DA%86-%D9%85%D9%86%D8%AD%D9%86%DB%8C-FHD-75-%D9%87%D8%B1%D8%AA%D8%B2-%D9%BE%D9%86%D9%84-VA-%D8%B2%D9%85%D8%A7%D9%86-%D9%BE%D8%A7%D8%B3%D8%AE-4-%D9%85%DB%8C%D9%84%DB%8C-%D8%AB%D8%A7%D9%86%DB%8C%D9%87-FreeSync-%D8%A8%D9%84%D9%86%D8%AF%DA%AF%D9%88%D9%87%D8%A7-1920x1080-HDMI-1-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.211Z"
-  },
-  {
-    "id": "torobshop-laptop-computer-7406803b18ab5cc6",
-    "productId": "torobshop-7406803b18ab5cc6",
-    "name": "مانیتور ۲۴ اینچی فول اچ‌دی فیلیپس مدل ۲۴E1N1300A، بلندگوها (۱۹۲۰x۱۰۸۰، ۱۰۰ هرتز، HDMI، USB-C (قدرت ۶۵ وات)، هاب USB) مشکی",
-    "brand": "",
-    "model": "مانیتور ۲۴ اینچی فول اچ‌دی فیلیپس مدل ۲۴E1N1300A، بلندگوها (۱۹۲۰x۱۰۸۰، ۱۰۰ هرتز، HDMI، USB-C (قدرت ۶۵ وات)، هاب USB) مشکی",
-    "category": "laptop-computer",
-    "subcategory": "تبلت و آیپد",
-    "price": 47517000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%DB%B2%DB%B4-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D9%81%D9%88%D9%84-%D8%A7%DA%86-%D8%AF%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%85%D8%AF%D9%84-%DB%B2%DB%B4E1N1300A-%D8%A8%D9%84%D9%86%D8%AF%DA%AF%D9%88%D9%87%D8%A7-%DB%B1%DB%B9%DB%B2%DB%B0x%DB%B1%DB%B0%DB%B8%DB%B0-%DB%B1%DB%B0%DB%B0-%D9%87%D8%B1%D8%AA%D8%B2-HDMI-USB-C-%D9%82%D8%AF%D8%B1%D8%AA-%DB%B6%DB%B5-%D9%88%D8%A7%D8%AA-%D9%87%D8%A7%D8%A8-USB-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.211Z"
-  },
-  {
-    "id": "torobshop-laptop-computer-28fa9f296d3edd2c",
-    "productId": "torobshop-28fa9f296d3edd2c",
-    "name": "مانیتور بازی Philips Evnia 32M2N8900-32 Zoll Ultra HD OLED، 240 هرتز، 0.03 میلی‌ثانیه، HDR400، FreeSync Prem. Pro، G-Sync comp.، Ambiglow (3840x2160، 2X HDMI 2.1، 1x DP 1.4، 1 x USB-C (90W PD)) Weiss",
-    "brand": "",
-    "model": "مانیتور بازی Philips Evnia 32M2N8900-32 Zoll Ultra HD OLED، 240 هرتز، 0.03 میلی‌ثانیه، HDR400، FreeSync Prem. Pro، G-Sync comp.، Ambiglow (3840x2160، 2X HDMI 2.1، 1x DP 1.4، 1 x USB-C (90W PD)) Weiss",
-    "category": "laptop-computer",
-    "subcategory": "تبلت و آیپد",
-    "price": 180157000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D8%A8%D8%A7%D8%B2%DB%8C-Philips-Evnia-32M2N8900-32-Zoll-Ultra-HD-OLED-240-%D9%87%D8%B1%D8%AA%D8%B2-0-03-%D9%85%DB%8C%D9%84%DB%8C-%D8%AB%D8%A7%D9%86%DB%8C%D9%87-HDR400-FreeSync-Prem-Pro-G-Sync-comp-Ambiglow-3840x2160-2X-HDMI-2-1-1x-DP-1-4-1-x-USB-C-90W-PD-Weiss-2",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.211Z"
+    "observedAt": "2026-09-04T21:13:56.307Z"
   },
   {
     "id": "torobshop-laptop-computer-0a56e024ea7c3e6c",
@@ -3597,7 +4065,61 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.211Z"
+    "observedAt": "2026-09-04T21:13:56.307Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-0ef7eb89998918af",
+    "productId": "torobshop-0ef7eb89998918af",
+    "name": "مانیتور فیلیپس 271E1SCA، 27 اینچ منحنی، FHD، 75 هرتز، پنل VA، زمان پاسخ 4 میلی‌ثانیه، FreeSync، بلندگوها، (1920x1080 HDMI 1) مشکی",
+    "brand": "",
+    "model": "مانیتور فیلیپس 271E1SCA، 27 اینچ منحنی، FHD، 75 هرتز، پنل VA، زمان پاسخ 4 میلی‌ثانیه، FreeSync، بلندگوها، (1920x1080 HDMI 1) مشکی",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 50058000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-271E1SCA-27-%D8%A7%DB%8C%D9%86%DA%86-%D9%85%D9%86%D8%AD%D9%86%DB%8C-FHD-75-%D9%87%D8%B1%D8%AA%D8%B2-%D9%BE%D9%86%D9%84-VA-%D8%B2%D9%85%D8%A7%D9%86-%D9%BE%D8%A7%D8%B3%D8%AE-4-%D9%85%DB%8C%D9%84%DB%8C-%D8%AB%D8%A7%D9%86%DB%8C%D9%87-FreeSync-%D8%A8%D9%84%D9%86%D8%AF%DA%AF%D9%88%D9%87%D8%A7-1920x1080-HDMI-1-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.307Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-7406803b18ab5cc6",
+    "productId": "torobshop-7406803b18ab5cc6",
+    "name": "مانیتور ۲۴ اینچی فول اچ‌دی فیلیپس مدل ۲۴E1N1300A، بلندگوها (۱۹۲۰x۱۰۸۰، ۱۰۰ هرتز، HDMI، USB-C (قدرت ۶۵ وات)، هاب USB) مشکی",
+    "brand": "",
+    "model": "مانیتور ۲۴ اینچی فول اچ‌دی فیلیپس مدل ۲۴E1N1300A، بلندگوها (۱۹۲۰x۱۰۸۰، ۱۰۰ هرتز، HDMI، USB-C (قدرت ۶۵ وات)، هاب USB) مشکی",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 47517000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%DB%B2%DB%B4-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D9%81%D9%88%D9%84-%D8%A7%DA%86-%D8%AF%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%85%D8%AF%D9%84-%DB%B2%DB%B4E1N1300A-%D8%A8%D9%84%D9%86%D8%AF%DA%AF%D9%88%D9%87%D8%A7-%DB%B1%DB%B9%DB%B2%DB%B0x%DB%B1%DB%B0%DB%B8%DB%B0-%DB%B1%DB%B0%DB%B0-%D9%87%D8%B1%D8%AA%D8%B2-HDMI-USB-C-%D9%82%D8%AF%D8%B1%D8%AA-%DB%B6%DB%B5-%D9%88%D8%A7%D8%AA-%D9%87%D8%A7%D8%A8-USB-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.307Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-28fa9f296d3edd2c",
+    "productId": "torobshop-28fa9f296d3edd2c",
+    "name": "مانیتور بازی Philips Evnia 32M2N8900-32 Zoll Ultra HD OLED، 240 هرتز، 0.03 میلی‌ثانیه، HDR400، FreeSync Prem. Pro، G-Sync comp.، Ambiglow (3840x2160، 2X HDMI 2.1، 1x DP 1.4، 1 x USB-C (90W PD)) Weiss",
+    "brand": "",
+    "model": "مانیتور بازی Philips Evnia 32M2N8900-32 Zoll Ultra HD OLED، 240 هرتز، 0.03 میلی‌ثانیه، HDR400، FreeSync Prem. Pro، G-Sync comp.، Ambiglow (3840x2160، 2X HDMI 2.1، 1x DP 1.4، 1 x USB-C (90W PD)) Weiss",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 180157000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D8%A8%D8%A7%D8%B2%DB%8C-Philips-Evnia-32M2N8900-32-Zoll-Ultra-HD-OLED-240-%D9%87%D8%B1%D8%AA%D8%B2-0-03-%D9%85%DB%8C%D9%84%DB%8C-%D8%AB%D8%A7%D9%86%DB%8C%D9%87-HDR400-FreeSync-Prem-Pro-G-Sync-comp-Ambiglow-3840x2160-2X-HDMI-2-1-1x-DP-1-4-1-x-USB-C-90W-PD-Weiss-2",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.307Z"
   },
   {
     "id": "torobshop-laptop-computer-1123da8edef7210f",
@@ -3615,7 +4137,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.211Z"
+    "observedAt": "2026-09-04T21:13:56.308Z"
   },
   {
     "id": "torobshop-laptop-computer-f2475d629ba82cb9",
@@ -3633,7 +4155,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.211Z"
+    "observedAt": "2026-09-04T21:13:56.308Z"
   },
   {
     "id": "torobshop-laptop-computer-4fcaa05ae27e136c",
@@ -3651,7 +4173,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.211Z"
+    "observedAt": "2026-09-04T21:13:56.308Z"
   },
   {
     "id": "torobshop-laptop-computer-28731ba0cbc018f8",
@@ -3669,7 +4191,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.211Z"
+    "observedAt": "2026-09-04T21:13:56.308Z"
   },
   {
     "id": "torobshop-laptop-computer-93c18ce837ff5f57",
@@ -3679,15 +4201,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "قرص‌های تمیزکننده BEEM Premium | 50 قرص 2 گرمی | پاک‌کننده‌ی بقایای قهوه | قابل استفاده در دستگاه‌های قهوه‌ساز، قهوه‌سازهای تمام اتوماتیک و دستگاه‌های پورتافیلتر",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 12705000,
-    "currency": "IRT",
+    "price": 0,
+    "currency": "IRR",
     "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%D9%82%D8%B1%D8%B5-%D9%87%D8%A7%DB%8C-%D8%AA%D9%85%DB%8C%D8%B2%DA%A9%D9%86%D9%86%D8%AF%D9%87-BEEM-Premium-50-%D9%82%D8%B1%D8%B5-2-%DA%AF%D8%B1%D9%85%DB%8C-%D9%BE%D8%A7%DA%A9-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%DB%8C-%D8%A8%D9%82%D8%A7%DB%8C%D8%A7%DB%8C-%D9%82%D9%87%D9%88%D9%87-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-%D9%82%D9%87%D9%88%D9%87-%D8%B3%D8%A7%D8%B2-%D9%82%D9%87%D9%88%D9%87-%D8%B3%D8%A7%D8%B2%D9%87%D8%A7%DB%8C-%D8%AA%D9%85%D8%A7%D9%85-%D8%A7%D8%AA%D9%88%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-%D9%88-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-%D9%BE%D9%88%D8%B1%D8%AA%D8%A7%D9%81%DB%8C%D9%84%D8%AA%D8%B1",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.211Z"
+    "observedAt": "2026-09-04T21:13:56.308Z"
   },
   {
     "id": "torobshop-laptop-computer-c73bf4fc0db498be",
@@ -3697,15 +4219,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "پاک کننده سیستم شیر بیم | برای تمیز کردن سیستم های شیر/نازل ها در دستگاه های قهوه ساز و اسپرسوساز تمام اتوماتیک | حذف کامل رسوبات شیر [500 میلی لیتر]",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 12451000,
-    "currency": "IRT",
+    "price": 0,
+    "currency": "IRR",
     "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%D9%BE%D8%A7%DA%A9-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%B3%DB%8C%D8%B3%D8%AA%D9%85-%D8%B4%DB%8C%D8%B1-%D8%A8%DB%8C%D9%85-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D9%85%DB%8C%D8%B2-%DA%A9%D8%B1%D8%AF%D9%86-%D8%B3%DB%8C%D8%B3%D8%AA%D9%85-%D9%87%D8%A7%DB%8C-%D8%B4%DB%8C%D8%B1-%D9%86%D8%A7%D8%B2%D9%84-%D9%87%D8%A7-%D8%AF%D8%B1-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-%D9%82%D9%87%D9%88%D9%87-%D8%B3%D8%A7%D8%B2-%D9%88-%D8%A7%D8%B3%D9%BE%D8%B1%D8%B3%D9%88%D8%B3%D8%A7%D8%B2-%D8%AA%D9%85%D8%A7%D9%85-%D8%A7%D8%AA%D9%88%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-%D8%AD%D8%B0%D9%81-%DA%A9%D8%A7%D9%85%D9%84-%D8%B1%D8%B3%D9%88%D8%A8%D8%A7%D8%AA-%D8%B4%DB%8C%D8%B1-500-%D9%85%DB%8C%D9%84%DB%8C-%D9%84%DB%8C%D8%AA%D8%B1",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.211Z"
+    "observedAt": "2026-09-04T21:13:56.308Z"
   },
   {
     "id": "torobshop-laptop-computer-76f3e4ef7a8810f3",
@@ -3715,15 +4237,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "دستگاه قهوه ساز فیلتردار BEEM FRESH-AROMA-TOUCH - شیشه‌ای | قهوه‌ساز | با قوری شیشه‌ای ۱.۲۵ لیتری | استیل ضد زنگ | فیلتر دائمی | تایمر | آرومافرِش | ۹۰۰ وات",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 21344000,
-    "currency": "IRT",
+    "price": 0,
+    "currency": "IRR",
     "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%82%D9%87%D9%88%D9%87-%D8%B3%D8%A7%D8%B2-%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%AF%D8%A7%D8%B1-BEEM-FRESH-AROMA-TOUCH-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D9%82%D9%87%D9%88%D9%87-%D8%B3%D8%A7%D8%B2-%D8%A8%D8%A7-%D9%82%D9%88%D8%B1%DB%8C-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%DB%B1-%DB%B2%DB%B5-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%81%DB%8C%D9%84%D8%AA%D8%B1-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D8%AA%D8%A7%DB%8C%D9%85%D8%B1-%D8%A2%D8%B1%D9%88%D9%85%D8%A7%D9%81%D8%B1-%D8%B4-%DB%B9%DB%B0%DB%B0-%D9%88%D8%A7%D8%AA",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.211Z"
+    "observedAt": "2026-09-04T21:13:56.308Z"
   },
   {
     "id": "torobshop-laptop-computer-8f566ccc32f52f97",
@@ -3733,15 +4255,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "دستگاه قهوه ساز فیلتردار BEEM FRESH-AROMA-TOUCH - حرارتی | استیل ضد زنگ | قوری حرارتی ۱ لیتری | تایمر ۲۴ ساعته | ۸۰۰ وات | صفحه نمایش لمسی | برای ۴ تا ۸ فنجان",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 32779000,
-    "currency": "IRT",
+    "price": 0,
+    "currency": "IRR",
     "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%82%D9%87%D9%88%D9%87-%D8%B3%D8%A7%D8%B2-%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%AF%D8%A7%D8%B1-BEEM-FRESH-AROMA-TOUCH-%D8%AD%D8%B1%D8%A7%D8%B1%D8%AA%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%82%D9%88%D8%B1%DB%8C-%D8%AD%D8%B1%D8%A7%D8%B1%D8%AA%DB%8C-%DB%B1-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C-%D8%AA%D8%A7%DB%8C%D9%85%D8%B1-%DB%B2%DB%B4-%D8%B3%D8%A7%D8%B9%D8%AA%D9%87-%DB%B8%DB%B0%DB%B0-%D9%88%D8%A7%D8%AA-%D8%B5%D9%81%D8%AD%D9%87-%D9%86%D9%85%D8%A7%DB%8C%D8%B4-%D9%84%D9%85%D8%B3%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%DB%B4-%D8%AA%D8%A7-%DB%B8-%D9%81%D9%86%D8%AC%D8%A7%D9%86",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.211Z"
+    "observedAt": "2026-09-04T21:13:56.308Z"
   },
   {
     "id": "torobshop-laptop-computer-2dee2c9f6fb222d1",
@@ -3751,15 +4273,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "دستگاه قهوه ساز فیلتردار BEEM FRESH-AROMA-INTENSE با آسیاب - شیشه | استیل ضد زنگ | قوری شیشه‌ای ۱.۲۵ لیتری | مخزن آب جداشدنی | ظرف ۱۲۰ گرمی دانه قهوه",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 53107000,
-    "currency": "IRT",
+    "price": 0,
+    "currency": "IRR",
     "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%82%D9%87%D9%88%D9%87-%D8%B3%D8%A7%D8%B2-%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%AF%D8%A7%D8%B1-BEEM-FRESH-AROMA-INTENSE-%D8%A8%D8%A7-%D8%A2%D8%B3%DB%8C%D8%A7%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%82%D9%88%D8%B1%DB%8C-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%DB%B1-%DB%B2%DB%B5-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C-%D9%85%D8%AE%D8%B2%D9%86-%D8%A2%D8%A8-%D8%AC%D8%AF%D8%A7%D8%B4%D8%AF%D9%86%DB%8C-%D8%B8%D8%B1%D9%81-%DB%B1%DB%B2%DB%B0-%DA%AF%D8%B1%D9%85%DB%8C-%D8%AF%D8%A7%D9%86%D9%87-%D9%82%D9%87%D9%88%D9%87",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.211Z"
+    "observedAt": "2026-09-04T21:13:56.308Z"
   },
   {
     "id": "torobshop-laptop-computer-05d539a087d0640e",
@@ -3769,15 +4291,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "قوطی قهوه BEEM با قاشق مدرج - 1.9 لیتر | استیل ضد زنگ ضد هوا | نشانگر تاریخ | 700 گرم قهوه | قوطی عطر | شیر تخلیه CO2",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 14484000,
-    "currency": "IRT",
-    "availability": "in_stock",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%D9%82%D9%88%D8%B7%DB%8C-%D9%82%D9%87%D9%88%D9%87-BEEM-%D8%A8%D8%A7-%D9%82%D8%A7%D8%B4%D9%82-%D9%85%D8%AF%D8%B1%D8%AC-1-9-%D9%84%DB%8C%D8%AA%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%B6%D8%AF-%D9%87%D9%88%D8%A7-%D9%86%D8%B4%D8%A7%D9%86%DA%AF%D8%B1-%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE-700-%DA%AF%D8%B1%D9%85-%D9%82%D9%87%D9%88%D9%87-%D9%82%D9%88%D8%B7%DB%8C-%D8%B9%D8%B7%D8%B1-%D8%B4%DB%8C%D8%B1-%D8%AA%D8%AE%D9%84%DB%8C%D9%87-CO2",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.211Z"
+    "observedAt": "2026-09-04T21:13:56.308Z"
   },
   {
     "id": "torobshop-laptop-computer-a40b1cc8eb60dfd3",
@@ -3787,15 +4309,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "آسیاب قهوه دستی BEEM GRIND-2-GO – 40 گرم | آسیاب مخروطی | تنظیم آسیاب بدون پله | کیسه نخی | آسیاب دستی قهوه | استیل ضد زنگ | قهوه",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 12451000,
-    "currency": "IRT",
-    "availability": "in_stock",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%D8%A2%D8%B3%DB%8C%D8%A7%D8%A8-%D9%82%D9%87%D9%88%D9%87-%D8%AF%D8%B3%D8%AA%DB%8C-BEEM-GRIND-2-GO-40-%DA%AF%D8%B1%D9%85-%D8%A2%D8%B3%DB%8C%D8%A7%D8%A8-%D9%85%D8%AE%D8%B1%D9%88%D8%B7%DB%8C-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A2%D8%B3%DB%8C%D8%A7%D8%A8-%D8%A8%D8%AF%D9%88%D9%86-%D9%BE%D9%84%D9%87-%DA%A9%DB%8C%D8%B3%D9%87-%D9%86%D8%AE%DB%8C-%D8%A2%D8%B3%DB%8C%D8%A7%D8%A8-%D8%AF%D8%B3%D8%AA%DB%8C-%D9%82%D9%87%D9%88%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%82%D9%87%D9%88%D9%87",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.211Z"
+    "observedAt": "2026-09-04T21:13:56.308Z"
   },
   {
     "id": "torobshop-laptop-computer-827984c7bc2a588b",
@@ -3805,15 +4327,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "قوری قهوه BEEM POUR OVER با فیلتر دائمی - 6 فنجان انتخاب کلاسیک قوری شیشه‌ای 3 تکه 0.75 لیتری شامل روکش سیلیکونی فیلتر دائمی دهانه ریختن برای ریختن بدون چکه روی لیوان",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 14992000,
-    "currency": "IRT",
+    "price": 0,
+    "currency": "IRR",
     "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%D9%82%D9%88%D8%B1%DB%8C-%D9%82%D9%87%D9%88%D9%87-BEEM-POUR-OVER-%D8%A8%D8%A7-%D9%81%DB%8C%D9%84%D8%AA%D8%B1-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-6-%D9%81%D9%86%D8%AC%D8%A7%D9%86-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8-%DA%A9%D9%84%D8%A7%D8%B3%DB%8C%DA%A9-%D9%82%D9%88%D8%B1%DB%8C-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-3-%D8%AA%DA%A9%D9%87-0-75-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C-%D8%B4%D8%A7%D9%85%D9%84-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%DB%8C%D9%84%DB%8C%DA%A9%D9%88%D9%86%DB%8C-%D9%81%DB%8C%D9%84%D8%AA%D8%B1-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D8%AF%D9%87%D8%A7%D9%86%D9%87-%D8%B1%DB%8C%D8%AE%D8%AA%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%DB%8C%D8%AE%D8%AA%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%DA%86%DA%A9%D9%87-%D8%B1%D9%88%DB%8C-%D9%84%DB%8C%D9%88%D8%A7%D9%86",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.211Z"
+    "observedAt": "2026-09-04T21:13:56.308Z"
   },
   {
     "id": "torobshop-laptop-computer-b1ad0ea7d3ae35d7",
@@ -3823,15 +4345,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "قهوه ساز فرنچ پرس بیم برای ۱ لیتر، شیشه بوروسیلیکات/استیل ضد زنگ، نقره‌ای-شفاف، ابعاد: ۱۶.۲ سانتی‌متر در ۱۰.۱ سانتی‌متر در ۲۰.۴ سانتی‌متر، کد ۰۳۲۶۵",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 12705000,
-    "currency": "IRT",
+    "price": 0,
+    "currency": "IRR",
     "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%D9%82%D9%87%D9%88%D9%87-%D8%B3%D8%A7%D8%B2-%D9%81%D8%B1%D9%86%DA%86-%D9%BE%D8%B1%D8%B3-%D8%A8%DB%8C%D9%85-%D8%A8%D8%B1%D8%A7%DB%8C-%DB%B1-%D9%84%DB%8C%D8%AA%D8%B1-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A8%D9%88%D8%B1%D9%88%D8%B3%DB%8C%D9%84%DB%8C%DA%A9%D8%A7%D8%AA-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C-%D8%B4%D9%81%D8%A7%D9%81-%D8%A7%D8%A8%D8%B9%D8%A7%D8%AF-%DB%B1%DB%B6-%DB%B2-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%AF%D8%B1-%DB%B1%DB%B0-%DB%B1-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%AF%D8%B1-%DB%B2%DB%B0-%DB%B4-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%DA%A9%D8%AF-%DB%B0%DB%B3%DB%B2%DB%B6%DB%B5",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.211Z"
+    "observedAt": "2026-09-04T21:13:56.308Z"
   },
   {
     "id": "torobshop-laptop-computer-01fd4211de27a0d5",
@@ -3841,15 +4363,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "قهوه ساز بیم - 0.35 لیتر برای 2-3 فنجان | فرنچ پرس | قهوه ساز کوچک با قاشق پیمانه | قوری شیشه ای با درب بامبو و فیلتر استیل ضد زنگ",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 11689000,
-    "currency": "IRT",
-    "availability": "in_stock",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%D9%82%D9%87%D9%88%D9%87-%D8%B3%D8%A7%D8%B2-%D8%A8%DB%8C%D9%85-0-35-%D9%84%DB%8C%D8%AA%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-2-3-%D9%81%D9%86%D8%AC%D8%A7%D9%86-%D9%81%D8%B1%D9%86%DA%86-%D9%BE%D8%B1%D8%B3-%D9%82%D9%87%D9%88%D9%87-%D8%B3%D8%A7%D8%B2-%DA%A9%D9%88%DA%86%DA%A9-%D8%A8%D8%A7-%D9%82%D8%A7%D8%B4%D9%82-%D9%BE%DB%8C%D9%85%D8%A7%D9%86%D9%87-%D9%82%D9%88%D8%B1%DB%8C-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%A8%D8%A7%D9%85%D8%A8%D9%88-%D9%88-%D9%81%DB%8C%D9%84%D8%AA%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.211Z"
+    "observedAt": "2026-09-04T21:13:56.308Z"
   },
   {
     "id": "torobshop-laptop-computer-4c20864969491062",
@@ -3859,15 +4381,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "قهوه ساز فرنچ پرس بیم - 1 لیتر | قهوه ساز شیشه ای استیل ضد زنگ | 1 لیتر | قهوه ساز کمپینگ | فیلتر پرس استیل ضد زنگ | 8 فنجان قهوه درست می کند",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 30238000,
-    "currency": "IRT",
+    "price": 0,
+    "currency": "IRR",
     "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%D9%82%D9%87%D9%88%D9%87-%D8%B3%D8%A7%D8%B2-%D9%81%D8%B1%D9%86%DA%86-%D9%BE%D8%B1%D8%B3-%D8%A8%DB%8C%D9%85-1-%D9%84%DB%8C%D8%AA%D8%B1-%D9%82%D9%87%D9%88%D9%87-%D8%B3%D8%A7%D8%B2-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-1-%D9%84%DB%8C%D8%AA%D8%B1-%D9%82%D9%87%D9%88%D9%87-%D8%B3%D8%A7%D8%B2-%DA%A9%D9%85%D9%BE%DB%8C%D9%86%DA%AF-%D9%81%DB%8C%D9%84%D8%AA%D8%B1-%D9%BE%D8%B1%D8%B3-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-8-%D9%81%D9%86%D8%AC%D8%A7%D9%86-%D9%82%D9%87%D9%88%D9%87-%D8%AF%D8%B1%D8%B3%D8%AA-%D9%85%DB%8C-%DA%A9%D9%86%D8%AF",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.211Z"
+    "observedAt": "2026-09-04T21:13:56.308Z"
   },
   {
     "id": "torobshop-laptop-computer-6e8f969763fb12ec",
@@ -3877,15 +4399,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "سماور BEEM 3006C 6 لیتری 2500 وات استیل ضد زنگ/کروم – محافظ در برابر گرمای بیش از حد، 2 المنت حرارتی جداگانه، قوری 1.5 لیتری با صافی چای",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 424601000,
-    "currency": "IRT",
-    "availability": "in_stock",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%D8%B3%D9%85%D8%A7%D9%88%D8%B1-BEEM-3006C-6-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C-2500-%D9%88%D8%A7%D8%AA-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%DA%A9%D8%B1%D9%88%D9%85-%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D8%AF%D8%B1-%D8%A8%D8%B1%D8%A7%D8%A8%D8%B1-%DA%AF%D8%B1%D9%85%D8%A7%DB%8C-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%D8%AD%D8%AF-2-%D8%A7%D9%84%D9%85%D9%86%D8%AA-%D8%AD%D8%B1%D8%A7%D8%B1%D8%AA%DB%8C-%D8%AC%D8%AF%D8%A7%DA%AF%D8%A7%D9%86%D9%87-%D9%82%D9%88%D8%B1%DB%8C-1-5-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C-%D8%A8%D8%A7-%D8%B5%D8%A7%D9%81%DB%8C-%DA%86%D8%A7%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.211Z"
+    "observedAt": "2026-09-04T21:13:56.308Z"
   },
   {
     "id": "torobshop-laptop-computer-611344efb1bd3888",
@@ -3895,15 +4417,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "سماور BEEM MR. TEA - 4 لیتر | چای‌ساز برقی مشکی مات | قوری 1 لیتری با دم‌آور چای | دارای ترموستات قابل تنظیم مداوم و پخش‌کننده چای با یک دست | لذت بی‌نظیر چای - در خانه و رستوران‌ها",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 16517000,
-    "currency": "IRT",
+    "price": 0,
+    "currency": "IRR",
     "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%D8%B3%D9%85%D8%A7%D9%88%D8%B1-BEEM-MR-TEA-4-%D9%84%DB%8C%D8%AA%D8%B1-%DA%86%D8%A7%DB%8C-%D8%B3%D8%A7%D8%B2-%D8%A8%D8%B1%D9%82%DB%8C-%D9%85%D8%B4%DA%A9%DB%8C-%D9%85%D8%A7%D8%AA-%D9%82%D9%88%D8%B1%DB%8C-1-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C-%D8%A8%D8%A7-%D8%AF%D9%85-%D8%A2%D9%88%D8%B1-%DA%86%D8%A7%DB%8C-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C-%D8%AA%D8%B1%D9%85%D9%88%D8%B3%D8%AA%D8%A7%D8%AA-%D9%82%D8%A7%D8%A8%D9%84-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D9%85%D8%AF%D8%A7%D9%88%D9%85-%D9%88-%D9%BE%D8%AE%D8%B4-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%DA%86%D8%A7%DB%8C-%D8%A8%D8%A7-%DB%8C%DA%A9-%D8%AF%D8%B3%D8%AA-%D9%84%D8%B0%D8%AA-%D8%A8%DB%8C-%D9%86%D8%B8%DB%8C%D8%B1-%DA%86%D8%A7%DB%8C-%D8%AF%D8%B1-%D8%AE%D8%A7%D9%86%D9%87-%D9%88-%D8%B1%D8%B3%D8%AA%D9%88%D8%B1%D8%A7%D9%86-%D9%87%D8%A7",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.212Z"
+    "observedAt": "2026-09-04T21:13:56.308Z"
   },
   {
     "id": "torobshop-laptop-computer-c4ddc017f41906f6",
@@ -3913,15 +4435,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "سماور بی‌نظیر چای بیم - ۳ لیتر | قوری برقی استیل ضد زنگ | قوری ۱.۲ لیتری با دم‌آور چای | ترموستات قابل تنظیم مداوم و پخش‌کننده چای با یک دست | لذت بی‌نظیر چای - در خانه و رستوران‌ها",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 23123000,
-    "currency": "IRT",
+    "price": 0,
+    "currency": "IRR",
     "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%D8%B3%D9%85%D8%A7%D9%88%D8%B1-%D8%A8%DB%8C-%D9%86%D8%B8%DB%8C%D8%B1-%DA%86%D8%A7%DB%8C-%D8%A8%DB%8C%D9%85-%DB%B3-%D9%84%DB%8C%D8%AA%D8%B1-%D9%82%D9%88%D8%B1%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%82%D9%88%D8%B1%DB%8C-%DB%B1-%DB%B2-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C-%D8%A8%D8%A7-%D8%AF%D9%85-%D8%A2%D9%88%D8%B1-%DA%86%D8%A7%DB%8C-%D8%AA%D8%B1%D9%85%D9%88%D8%B3%D8%AA%D8%A7%D8%AA-%D9%82%D8%A7%D8%A8%D9%84-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D9%85%D8%AF%D8%A7%D9%88%D9%85-%D9%88-%D9%BE%D8%AE%D8%B4-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%DA%86%D8%A7%DB%8C-%D8%A8%D8%A7-%DB%8C%DA%A9-%D8%AF%D8%B3%D8%AA-%D9%84%D8%B0%D8%AA-%D8%A8%DB%8C-%D9%86%D8%B8%DB%8C%D8%B1-%DA%86%D8%A7%DB%8C-%D8%AF%D8%B1-%D8%AE%D8%A7%D9%86%D9%87-%D9%88-%D8%B1%D8%B3%D8%AA%D9%88%D8%B1%D8%A7%D9%86-%D9%87%D8%A7-2",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.212Z"
+    "observedAt": "2026-09-04T21:13:56.308Z"
   },
   {
     "id": "torobshop-laptop-computer-90fcbe8687059a30",
@@ -3931,15 +4453,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "سماور چای کلاسیک بیم - ۳ لیتر | استیل ضد زنگ / مشکی | چای ساز بزرگ، مناسب برای مراکز پذیرایی | دارای شیر تخلیه استیل ضد زنگ | کنترل دمای بی‌نهایت متغیر | دارای قوری ۱ لیتری",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 33287000,
-    "currency": "IRT",
+    "price": 0,
+    "currency": "IRR",
     "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%D8%B3%D9%85%D8%A7%D9%88%D8%B1-%DA%86%D8%A7%DB%8C-%DA%A9%D9%84%D8%A7%D8%B3%DB%8C%DA%A9-%D8%A8%DB%8C%D9%85-%DB%B3-%D9%84%DB%8C%D8%AA%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D8%B4%DA%A9%DB%8C-%DA%86%D8%A7%DB%8C-%D8%B3%D8%A7%D8%B2-%D8%A8%D8%B2%D8%B1%DA%AF-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%85%D8%B1%D8%A7%DA%A9%D8%B2-%D9%BE%D8%B0%DB%8C%D8%B1%D8%A7%DB%8C%DB%8C-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C-%D8%B4%DB%8C%D8%B1-%D8%AA%D8%AE%D9%84%DB%8C%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%DA%A9%D9%86%D8%AA%D8%B1%D9%84-%D8%AF%D9%85%D8%A7%DB%8C-%D8%A8%DB%8C-%D9%86%D9%87%D8%A7%DB%8C%D8%AA-%D9%85%D8%AA%D8%BA%DB%8C%D8%B1-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C-%D9%82%D9%88%D8%B1%DB%8C-%DB%B1-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.212Z"
+    "observedAt": "2026-09-04T21:13:56.308Z"
   },
   {
     "id": "torobshop-laptop-computer-c0007aaa6ab91bb2",
@@ -3949,15 +4471,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "مجموعه قطعات کوچک شیر تخلیه BEEM، 20 میلی‌متری برای سماورهای Mr. Tea، کلمبوس، سری 3000 و 2017",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 11943000,
-    "currency": "IRT",
-    "availability": "in_stock",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D9%82%D8%B7%D8%B9%D8%A7%D8%AA-%DA%A9%D9%88%DA%86%DA%A9-%D8%B4%DB%8C%D8%B1-%D8%AA%D8%AE%D9%84%DB%8C%D9%87-BEEM-20-%D9%85%DB%8C%D9%84%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B3%D9%85%D8%A7%D9%88%D8%B1%D9%87%D8%A7%DB%8C-Mr-Tea-%DA%A9%D9%84%D9%85%D8%A8%D9%88%D8%B3-%D8%B3%D8%B1%DB%8C-3000-%D9%88-2017",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.212Z"
+    "observedAt": "2026-09-04T21:13:56.308Z"
   },
   {
     "id": "torobshop-laptop-computer-34386721a691d178",
@@ -3967,15 +4489,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "شیر تخلیه آب BEEM، کروم، مخصوص سماورهای سری ۳۰۰۰.",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 11943000,
-    "currency": "IRT",
-    "availability": "in_stock",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%D8%B4%DB%8C%D8%B1-%D8%AA%D8%AE%D9%84%DB%8C%D9%87-%D8%A2%D8%A8-BEEM-%DA%A9%D8%B1%D9%88%D9%85-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%B3%D9%85%D8%A7%D9%88%D8%B1%D9%87%D8%A7%DB%8C-%D8%B3%D8%B1%DB%8C-%DB%B3%DB%B0%DB%B0%DB%B0",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.212Z"
+    "observedAt": "2026-09-04T21:13:56.308Z"
   },
   {
     "id": "torobshop-laptop-computer-b8bd6a4d5ecca799",
@@ -3985,15 +4507,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "شیر تخلیه BEEM کامل، کروم",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 17025000,
-    "currency": "IRT",
-    "availability": "in_stock",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%D8%B4%DB%8C%D8%B1-%D8%AA%D8%AE%D9%84%DB%8C%D9%87-BEEM-%DA%A9%D8%A7%D9%85%D9%84-%DA%A9%D8%B1%D9%88%D9%85",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.212Z"
+    "observedAt": "2026-09-04T21:13:56.308Z"
   },
   {
     "id": "torobshop-laptop-computer-9c72d8fb3f6a2ba1",
@@ -4003,15 +4525,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "قهوه‌ساز BEEM Fresh-Aroma-Perfect Superior | دستگاه قهوه‌ساز فیلتردار با آسیاب و منبع تغذیه هوشمند | قوری شیشه‌ای ۱.۵ لیتری، تایمر ۲۴ ساعته، صفحه گرم‌کننده [فولاد ضد زنگ، ۱۰۵۰ وات]",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 70640000,
-    "currency": "IRT",
+    "price": 0,
+    "currency": "IRR",
     "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%D9%82%D9%87%D9%88%D9%87-%D8%B3%D8%A7%D8%B2-BEEM-Fresh-Aroma-Perfect-Superior-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%82%D9%87%D9%88%D9%87-%D8%B3%D8%A7%D8%B2-%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A2%D8%B3%DB%8C%D8%A7%D8%A8-%D9%88-%D9%85%D9%86%D8%A8%D8%B9-%D8%AA%D8%BA%D8%B0%DB%8C%D9%87-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%D9%82%D9%88%D8%B1%DB%8C-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%DB%B1-%DB%B5-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C-%D8%AA%D8%A7%DB%8C%D9%85%D8%B1-%DB%B2%DB%B4-%D8%B3%D8%A7%D8%B9%D8%AA%D9%87-%D8%B5%D9%81%D8%AD%D9%87-%DA%AF%D8%B1%D9%85-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D9%81%D9%88%D9%84%D8%A7%D8%AF-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%DB%B1%DB%B0%DB%B5%DB%B0-%D9%88%D8%A7%D8%AA",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.212Z"
+    "observedAt": "2026-09-04T21:13:56.308Z"
   },
   {
     "id": "torobshop-laptop-computer-87cbcd550df2c8fa",
@@ -4021,15 +4543,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "تمپر BEEM – 51 میلی‌متر | برای تمپر کردن تفاله قهوه | برای دستگاه‌های پورتافیلتر با آسیاب | دسته ارگونومیک [چوب راش/فولاد ضد زنگ]",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 18803000,
-    "currency": "IRT",
-    "availability": "in_stock",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%D8%AA%D9%85%D9%BE%D8%B1-BEEM-51-%D9%85%DB%8C%D9%84%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D9%85%D9%BE%D8%B1-%DA%A9%D8%B1%D8%AF%D9%86-%D8%AA%D9%81%D8%A7%D9%84%D9%87-%D9%82%D9%87%D9%88%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-%D9%BE%D9%88%D8%B1%D8%AA%D8%A7%D9%81%DB%8C%D9%84%D8%AA%D8%B1-%D8%A8%D8%A7-%D8%A2%D8%B3%DB%8C%D8%A7%D8%A8-%D8%AF%D8%B3%D8%AA%D9%87-%D8%A7%D8%B1%DA%AF%D9%88%D9%86%D9%88%D9%85%DB%8C%DA%A9-%DA%86%D9%88%D8%A8-%D8%B1%D8%A7%D8%B4-%D9%81%D9%88%D9%84%D8%A7%D8%AF-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.212Z"
+    "observedAt": "2026-09-04T21:13:56.308Z"
   },
   {
     "id": "torobshop-laptop-computer-bb3d87082eb1a040",
@@ -4039,15 +4561,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "دیسک سوراخ‌دار استیل ضد زنگ BEEM، مناسب برای چرخ گوشت نیمه‌حرفه‌ای Panther de Luxe V2، با قطر ۴.۵ میلی‌متر",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 15246000,
-    "currency": "IRT",
-    "availability": "in_stock",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%D8%AF%DB%8C%D8%B3%DA%A9-%D8%B3%D9%88%D8%B1%D8%A7%D8%AE-%D8%AF%D8%A7%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-BEEM-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%DA%86%D8%B1%D8%AE-%DA%AF%D9%88%D8%B4%D8%AA-%D9%86%DB%8C%D9%85%D9%87-%D8%AD%D8%B1%D9%81%D9%87-%D8%A7%DB%8C-Panther-de-Luxe-V2-%D8%A8%D8%A7-%D9%82%D8%B7%D8%B1-%DB%B4-%DB%B5-%D9%85%DB%8C%D9%84%DB%8C-%D9%85%D8%AA%D8%B1",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.212Z"
+    "observedAt": "2026-09-04T21:13:56.308Z"
   },
   {
     "id": "torobshop-laptop-computer-af253d8db86172d9",
@@ -4057,15 +4579,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "مجموعه حلقه آب‌بندی سیلیکونی BEEM 1116016 برای همه زودپزهای Vitalini، سیلیکونی، آبی، 18 × 18 × 5 سانتی‌متر، 2 عدد",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 13213000,
-    "currency": "IRT",
-    "availability": "in_stock",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D8%AD%D9%84%D9%82%D9%87-%D8%A2%D8%A8-%D8%A8%D9%86%D8%AF%DB%8C-%D8%B3%DB%8C%D9%84%DB%8C%DA%A9%D9%88%D9%86%DB%8C-BEEM-1116016-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%87%D9%85%D9%87-%D8%B2%D9%88%D8%AF%D9%BE%D8%B2%D9%87%D8%A7%DB%8C-Vitalini-%D8%B3%DB%8C%D9%84%DB%8C%DA%A9%D9%88%D9%86%DB%8C-%D8%A2%D8%A8%DB%8C-18-18-5-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-2-%D8%B9%D8%AF%D8%AF",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.212Z"
+    "observedAt": "2026-09-04T21:13:56.308Z"
   },
   {
     "id": "torobshop-laptop-computer-faf54d1de5277c91",
@@ -4075,15 +4597,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "قوری قهوه BEEM POUR OVER - 0.7 لیتر | طراحی بامبو و شیشه | شیشه بوروسیلیکات بادوام | با فیلتر دائمی استیل ضد زنگ | برای 6 فنجان کافی است",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 21344000,
-    "currency": "IRT",
-    "availability": "in_stock",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%D9%82%D9%88%D8%B1%DB%8C-%D9%82%D9%87%D9%88%D9%87-BEEM-POUR-OVER-0-7-%D9%84%DB%8C%D8%AA%D8%B1-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%A8%D8%A7%D9%85%D8%A8%D9%88-%D9%88-%D8%B4%DB%8C%D8%B4%D9%87-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A8%D9%88%D8%B1%D9%88%D8%B3%DB%8C%D9%84%DB%8C%DA%A9%D8%A7%D8%AA-%D8%A8%D8%A7%D8%AF%D9%88%D8%A7%D9%85-%D8%A8%D8%A7-%D9%81%DB%8C%D9%84%D8%AA%D8%B1-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%A8%D8%B1%D8%A7%DB%8C-6-%D9%81%D9%86%D8%AC%D8%A7%D9%86-%DA%A9%D8%A7%D9%81%DB%8C-%D8%A7%D8%B3%D8%AA",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.212Z"
+    "observedAt": "2026-09-04T21:13:56.308Z"
   },
   {
     "id": "torobshop-laptop-computer-bed024ff9dfbc191",
@@ -4093,15 +4615,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "آبچکان و مخزن سماور بیم | محافظت از سطوح در برابر آب داغ | مخزن آبریز راحت و یک دستی برای ریختن بهداشتی آب | ایده‌آل برای بازسازی",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 18942000,
-    "currency": "IRT",
+    "price": 0,
+    "currency": "IRR",
     "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%D8%A2%D8%A8%DA%86%DA%A9%D8%A7%D9%86-%D9%88-%D9%85%D8%AE%D8%B2%D9%86-%D8%B3%D9%85%D8%A7%D9%88%D8%B1-%D8%A8%DB%8C%D9%85-%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%AA-%D8%A7%D8%B2-%D8%B3%D8%B7%D9%88%D8%AD-%D8%AF%D8%B1-%D8%A8%D8%B1%D8%A7%D8%A8%D8%B1-%D8%A2%D8%A8-%D8%AF%D8%A7%D8%BA-%D9%85%D8%AE%D8%B2%D9%86-%D8%A2%D8%A8%D8%B1%DB%8C%D8%B2-%D8%B1%D8%A7%D8%AD%D8%AA-%D9%88-%DB%8C%DA%A9-%D8%AF%D8%B3%D8%AA%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%DB%8C%D8%AE%D8%AA%D9%86-%D8%A8%D9%87%D8%AF%D8%A7%D8%B4%D8%AA%DB%8C-%D8%A2%D8%A8-%D8%A7%DB%8C%D8%AF%D9%87-%D8%A2%D9%84-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A8%D8%A7%D8%B2%D8%B3%D8%A7%D8%B2%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.212Z"
+    "observedAt": "2026-09-04T21:13:56.308Z"
   },
   {
     "id": "torobshop-laptop-computer-12108326787ffaf6",
@@ -4111,15 +4633,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "سرویس قابلمه 8 تکه BEEM Nobilis Premium با روکش نچسب ILAG Ultimate Premium به رنگ شامپاینی، نسخه Eckart Witzigmann، قهوه‌ای مایل به قرمز",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 64540000,
-    "currency": "IRT",
-    "availability": "in_stock",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-8-%D8%AA%DA%A9%D9%87-BEEM-Nobilis-Premium-%D8%A8%D8%A7-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-ILAG-Ultimate-Premium-%D8%A8%D9%87-%D8%B1%D9%86%DA%AF-%D8%B4%D8%A7%D9%85%D9%BE%D8%A7%DB%8C%D9%86%DB%8C-%D9%86%D8%B3%D8%AE%D9%87-Eckart-Witzigmann-%D9%82%D9%87%D9%88%D9%87-%D8%A7%DB%8C-%D9%85%D8%A7%DB%8C%D9%84-%D8%A8%D9%87-%D9%82%D8%B1%D9%85%D8%B2",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.212Z"
+    "observedAt": "2026-09-04T21:13:56.309Z"
   },
   {
     "id": "torobshop-laptop-computer-9706ad3cf0976481",
@@ -4129,15 +4651,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "پارچ شیر بیم – ۵۰۰ میلی‌لیتر | استیل ضد زنگ | برای کف کردن شیر | دهانه ضد چکه | مناسب برای دستگاه‌های پورتافیلتر و قهوه‌سازهای دارای کف‌ساز شیر",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 14992000,
-    "currency": "IRT",
+    "price": 0,
+    "currency": "IRR",
     "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%D9%BE%D8%A7%D8%B1%DA%86-%D8%B4%DB%8C%D8%B1-%D8%A8%DB%8C%D9%85-%DB%B5%DB%B0%DB%B0-%D9%85%DB%8C%D9%84%DB%8C-%D9%84%DB%8C%D8%AA%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%A8%D8%B1%D8%A7%DB%8C-%DA%A9%D9%81-%DA%A9%D8%B1%D8%AF%D9%86-%D8%B4%DB%8C%D8%B1-%D8%AF%D9%87%D8%A7%D9%86%D9%87-%D8%B6%D8%AF-%DA%86%DA%A9%D9%87-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-%D9%BE%D9%88%D8%B1%D8%AA%D8%A7%D9%81%DB%8C%D9%84%D8%AA%D8%B1-%D9%88-%D9%82%D9%87%D9%88%D9%87-%D8%B3%D8%A7%D8%B2%D9%87%D8%A7%DB%8C-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C-%DA%A9%D9%81-%D8%B3%D8%A7%D8%B2-%D8%B4%DB%8C%D8%B1",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.212Z"
+    "observedAt": "2026-09-04T21:13:56.309Z"
   },
   {
     "id": "torobshop-laptop-computer-a78de50e19375b85",
@@ -4147,15 +4669,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "سرویس قابلمه 8 پارچه BEEM Nobilis Premium با روکش نچسب ILAG Ultimate Premium به رنگ شامپاینی، نسخه Eckart Witzigmann، کرم وانیلی",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 26426000,
-    "currency": "IRT",
-    "availability": "in_stock",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-8-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-BEEM-Nobilis-Premium-%D8%A8%D8%A7-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-ILAG-Ultimate-Premium-%D8%A8%D9%87-%D8%B1%D9%86%DA%AF-%D8%B4%D8%A7%D9%85%D9%BE%D8%A7%DB%8C%D9%86%DB%8C-%D9%86%D8%B3%D8%AE%D9%87-Eckart-Witzigmann-%DA%A9%D8%B1%D9%85-%D9%88%D8%A7%D9%86%DB%8C%D9%84%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.212Z"
+    "observedAt": "2026-09-04T21:13:56.309Z"
   },
   {
     "id": "torobshop-laptop-computer-b572c0c74ec7e1ee",
@@ -4165,15 +4687,15 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "model": "پارچ شیر استیل ضد زنگ BEEM به رنگ مشکی، مخصوص کف کردن شیر، دهانه ضد چکه، مناسب برای دستگاه‌های پورتافیلتر و قهوه‌سازها با نازل کف‌ساز شیر، ۳۵۰ میلی‌لیتر، کد 07194",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 13721000,
-    "currency": "IRT",
+    "price": 0,
+    "currency": "IRR",
     "availability": "unknown",
     "productUrl": "https://torobshop.com/products/%D9%BE%D8%A7%D8%B1%DA%86-%D8%B4%DB%8C%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-BEEM-%D8%A8%D9%87-%D8%B1%D9%86%DA%AF-%D9%85%D8%B4%DA%A9%DB%8C-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%DA%A9%D9%81-%DA%A9%D8%B1%D8%AF%D9%86-%D8%B4%DB%8C%D8%B1-%D8%AF%D9%87%D8%A7%D9%86%D9%87-%D8%B6%D8%AF-%DA%86%DA%A9%D9%87-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-%D9%BE%D9%88%D8%B1%D8%AA%D8%A7%D9%81%DB%8C%D9%84%D8%AA%D8%B1-%D9%88-%D9%82%D9%87%D9%88%D9%87-%D8%B3%D8%A7%D8%B2%D9%87%D8%A7-%D8%A8%D8%A7-%D9%86%D8%A7%D8%B2%D9%84-%DA%A9%D9%81-%D8%B3%D8%A7%D8%B2-%D8%B4%DB%8C%D8%B1-%DB%B3%DB%B5%DB%B0-%D9%85%DB%8C%D9%84%DB%8C-%D9%84%DB%8C%D8%AA%D8%B1-%DA%A9%D8%AF-07194",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.212Z"
+    "observedAt": "2026-09-04T21:13:56.309Z"
   },
   {
     "id": "torobshop-laptop-computer-387754e6b4491f58",
@@ -4191,7 +4713,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.212Z"
+    "observedAt": "2026-09-04T21:13:56.309Z"
   },
   {
     "id": "torobshop-laptop-computer-39e57f782fd26013",
@@ -4209,7 +4731,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.212Z"
+    "observedAt": "2026-09-04T21:13:56.309Z"
   },
   {
     "id": "torobshop-laptop-computer-d62ad3ee5759fcbd",
@@ -4227,7 +4749,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.212Z"
+    "observedAt": "2026-09-04T21:13:56.309Z"
   },
   {
     "id": "torobshop-laptop-computer-1ed3ae617a915858",
@@ -4245,7 +4767,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.212Z"
+    "observedAt": "2026-09-04T21:13:56.309Z"
   },
   {
     "id": "torobshop-laptop-computer-aa03a6c561a55d60",
@@ -4263,7 +4785,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.212Z"
+    "observedAt": "2026-09-04T21:13:56.309Z"
   },
   {
     "id": "torobshop-laptop-computer-0cfaef0e68debb8e",
@@ -4281,7 +4803,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.212Z"
+    "observedAt": "2026-09-04T21:13:56.309Z"
   },
   {
     "id": "torobshop-laptop-computer-ad6f3f422d15a766",
@@ -4299,7 +4821,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.212Z"
+    "observedAt": "2026-09-04T21:13:56.309Z"
   },
   {
     "id": "torobshop-laptop-computer-569f3d7e67640e5c",
@@ -4317,7 +4839,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.212Z"
+    "observedAt": "2026-09-04T21:13:56.309Z"
   },
   {
     "id": "torobshop-laptop-computer-aed9f18e5d887270",
@@ -4335,7 +4857,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.212Z"
+    "observedAt": "2026-09-04T21:13:56.309Z"
   },
   {
     "id": "torobshop-laptop-computer-0ff8a8fc1fbd561e",
@@ -4353,7 +4875,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.212Z"
+    "observedAt": "2026-09-04T21:13:56.309Z"
   },
   {
     "id": "torobshop-laptop-computer-dfa4bdc99016ca7e",
@@ -4371,7 +4893,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.212Z"
+    "observedAt": "2026-09-04T21:13:56.309Z"
   },
   {
     "id": "torobshop-laptop-computer-fa434e6aa57c4be7",
@@ -4389,7 +4911,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.212Z"
+    "observedAt": "2026-09-04T21:13:56.309Z"
   },
   {
     "id": "torobshop-laptop-computer-abdc2adccad9c33d",
@@ -4407,7 +4929,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.212Z"
+    "observedAt": "2026-09-04T21:13:56.309Z"
   },
   {
     "id": "torobshop-laptop-computer-4b7348b541c036cd",
@@ -4425,7 +4947,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.212Z"
+    "observedAt": "2026-09-04T21:13:56.309Z"
   },
   {
     "id": "torobshop-laptop-computer-c9e212e51e3633db",
@@ -4443,43 +4965,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.212Z"
-  },
-  {
-    "id": "torobshop-laptop-computer-6e397f6c85f56e0e",
-    "productId": "torobshop-6e397f6c85f56e0e",
-    "name": "ماهیتابه پیش‌ غذای کوچک فیسلر آلمان Fissler Häppchen Mini (16 سانتی‌متر) - تابه کوچک برای گرم کردن مجدد",
-    "brand": "",
-    "model": "ماهیتابه پیش‌ غذای کوچک فیسلر آلمان Fissler Häppchen Mini (16 سانتی‌متر) - تابه کوچک برای گرم کردن مجدد",
-    "category": "laptop-computer",
-    "subcategory": "تبلت و آیپد",
-    "price": 20292000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%AA%D8%A7%D8%A8%D9%87-%D9%BE%DB%8C%D8%B4-%D8%BA%D8%B0%D8%A7%DB%8C-%DA%A9%D9%88%DA%86%DA%A9-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-16-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%AA%D8%A7%D8%A8%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%D8%A8%D8%B1%D8%A7%DB%8C-%DA%AF%D8%B1%D9%85-%DA%A9%D8%B1%D8%AF%D9%86-%D9%85%D8%AC%D8%AF%D8%AF-%D8%A2%D8%A8-%DA%A9%D8%B1%D8%AF%D9%86-%DA%A9%D8%B1%D9%87-%D9%88-%D9%88%D8%B9%D8%AF%D9%87-%D9%87%D8%A7%DB%8C-%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C-%DA%A9%D9%88%DA%86%DA%A9-%D9%BE%D8%A7%DB%8C%D9%87-%D8%B3%D9%88%D9%BE%D8%B1%D8%AA%D8%B1%D9%85%DB%8C%DA%A9-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-18-10",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.212Z"
-  },
-  {
-    "id": "torobshop-laptop-computer-921dfbcc90d038a0",
-    "productId": "torobshop-921dfbcc90d038a0",
-    "name": "ماهیتابه فیسلر آلمان Fissler Original-Profi Collection (قطر 28 سانتی‌متر) تابه بدون پوشش با مقیاس داخلی",
-    "brand": "",
-    "model": "ماهیتابه فیسلر آلمان Fissler Original-Profi Collection (قطر 28 سانتی‌متر) تابه بدون پوشش با مقیاس داخلی",
-    "category": "laptop-computer",
-    "subcategory": "تبلت و آیپد",
-    "price": 43138000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%85%D8%AF%D9%84-Original-Profi-Collection-%D9%82%D8%B7%D8%B1-28-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%AA%D8%A7%D8%A8%D9%87-%D8%A8%D8%AF%D9%88%D9%86-%D9%BE%D9%88%D8%B4%D8%B4-%D8%A8%D8%A7-%D9%85%D9%82%DB%8C%D8%A7%D8%B3-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%D9%86%D9%88%D9%88%DA%AF%D8%B1%DB%8C%D9%84-28-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.212Z"
+    "observedAt": "2026-09-04T21:13:56.309Z"
   },
   {
     "id": "torobshop-laptop-computer-695cd4ce1cd48f20",
@@ -4497,7 +4983,43 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.212Z"
+    "observedAt": "2026-09-04T21:13:56.309Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-6e397f6c85f56e0e",
+    "productId": "torobshop-6e397f6c85f56e0e",
+    "name": "ماهیتابه پیش‌ غذای کوچک فیسلر آلمان Fissler Häppchen Mini (16 سانتی‌متر) - تابه کوچک برای گرم کردن مجدد",
+    "brand": "",
+    "model": "ماهیتابه پیش‌ غذای کوچک فیسلر آلمان Fissler Häppchen Mini (16 سانتی‌متر) - تابه کوچک برای گرم کردن مجدد",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 20292000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AA%D8%A7%D8%A8%D9%87-%D9%BE%DB%8C%D8%B4-%D8%BA%D8%B0%D8%A7%DB%8C-%DA%A9%D9%88%DA%86%DA%A9-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-16-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%AA%D8%A7%D8%A8%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%D8%A8%D8%B1%D8%A7%DB%8C-%DA%AF%D8%B1%D9%85-%DA%A9%D8%B1%D8%AF%D9%86-%D9%85%D8%AC%D8%AF%D8%AF-%D8%A2%D8%A8-%DA%A9%D8%B1%D8%AF%D9%86-%DA%A9%D8%B1%D9%87-%D9%88-%D9%88%D8%B9%D8%AF%D9%87-%D9%87%D8%A7%DB%8C-%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C-%DA%A9%D9%88%DA%86%DA%A9-%D9%BE%D8%A7%DB%8C%D9%87-%D8%B3%D9%88%D9%BE%D8%B1%D8%AA%D8%B1%D9%85%DB%8C%DA%A9-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-18-10",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.309Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-921dfbcc90d038a0",
+    "productId": "torobshop-921dfbcc90d038a0",
+    "name": "ماهیتابه فیسلر آلمان Fissler Original-Profi Collection (قطر 28 سانتی‌متر) تابه بدون پوشش با مقیاس داخلی",
+    "brand": "",
+    "model": "ماهیتابه فیسلر آلمان Fissler Original-Profi Collection (قطر 28 سانتی‌متر) تابه بدون پوشش با مقیاس داخلی",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 43138000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%85%D8%AF%D9%84-Original-Profi-Collection-%D9%82%D8%B7%D8%B1-28-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%AA%D8%A7%D8%A8%D9%87-%D8%A8%D8%AF%D9%88%D9%86-%D9%BE%D9%88%D8%B4%D8%B4-%D8%A8%D8%A7-%D9%85%D9%82%DB%8C%D8%A7%D8%B3-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%D9%86%D9%88%D9%88%DA%AF%D8%B1%DB%8C%D9%84-28-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.309Z"
   },
   {
     "id": "torobshop-laptop-computer-7464bedef3ecb51e",
@@ -4515,7 +5037,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.212Z"
+    "observedAt": "2026-09-04T21:13:56.309Z"
   },
   {
     "id": "torobshop-laptop-computer-9318a28bbba0fe53",
@@ -4533,7 +5055,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.212Z"
+    "observedAt": "2026-09-04T21:13:56.309Z"
   },
   {
     "id": "torobshop-laptop-computer-ae3ba973ea2911ee",
@@ -4551,7 +5073,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.212Z"
+    "observedAt": "2026-09-04T21:13:56.309Z"
   },
   {
     "id": "torobshop-laptop-computer-51009350b9f240d2",
@@ -4569,7 +5091,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.212Z"
+    "observedAt": "2026-09-04T21:13:56.309Z"
   },
   {
     "id": "torobshop-laptop-computer-924e8879fd31e680",
@@ -4587,7 +5109,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.212Z"
+    "observedAt": "2026-09-04T21:13:56.309Z"
   },
   {
     "id": "torobshop-laptop-computer-45c64009916028ba",
@@ -4605,7 +5127,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.212Z"
+    "observedAt": "2026-09-04T21:13:56.309Z"
   },
   {
     "id": "torobshop-laptop-computer-835b00c0d36d8e10",
@@ -4623,7 +5145,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.212Z"
+    "observedAt": "2026-09-04T21:13:56.309Z"
   },
   {
     "id": "torobshop-laptop-computer-35f3e181350a9721",
@@ -4641,7 +5163,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.212Z"
+    "observedAt": "2026-09-04T21:13:56.309Z"
   },
   {
     "id": "torobshop-laptop-computer-9311f0ec7504f24b",
@@ -4659,7 +5181,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.212Z"
+    "observedAt": "2026-09-04T21:13:56.309Z"
   },
   {
     "id": "torobshop-laptop-computer-da199e6690f1c782",
@@ -4677,7 +5199,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.212Z"
+    "observedAt": "2026-09-04T21:13:56.309Z"
   },
   {
     "id": "torobshop-laptop-computer-843617a20d001e4c",
@@ -4695,7 +5217,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.212Z"
+    "observedAt": "2026-09-04T21:13:56.309Z"
   },
   {
     "id": "torobshop-laptop-computer-15def7d563b1e542",
@@ -4713,7 +5235,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.212Z"
+    "observedAt": "2026-09-04T21:13:56.309Z"
   },
   {
     "id": "torobshop-laptop-computer-37de96dd1d4a33c3",
@@ -4731,7 +5253,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.212Z"
+    "observedAt": "2026-09-04T21:13:56.309Z"
   },
   {
     "id": "torobshop-laptop-computer-ee166c5666efcec5",
@@ -4749,25 +5271,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.212Z"
-  },
-  {
-    "id": "torobshop-laptop-computer-fc88260817f3414e",
-    "productId": "torobshop-fc88260817f3414e",
-    "name": "چاقوی خود تیز شونده ZWILLING Gourmet با مجموعه 7 تکه چاقو، استیل ضد زنگ، ساخت آلمان، براون Gourmet Braun",
-    "brand": "",
-    "model": "چاقوی خود تیز شونده ZWILLING Gourmet با مجموعه 7 تکه چاقو، استیل ضد زنگ، ساخت آلمان، براون Gourmet Braun",
-    "category": "laptop-computer",
-    "subcategory": "تبلت و آیپد",
-    "price": 51767000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%AE%D9%88%D8%AF-%D8%AA%DB%8C%D8%B2-%D8%B4%D9%88%D9%86%D8%AF%D9%87-ZWILLING-Gourmet-%D8%A8%D8%A7-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-7-%D8%AA%DA%A9%D9%87-%DA%86%D8%A7%D9%82%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-Gourmet-Braun",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.212Z"
+    "observedAt": "2026-09-04T21:13:56.309Z"
   },
   {
     "id": "torobshop-laptop-computer-67d9add46426dfe8",
@@ -4785,7 +5289,25 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.212Z"
+    "observedAt": "2026-09-04T21:13:56.309Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-fc88260817f3414e",
+    "productId": "torobshop-fc88260817f3414e",
+    "name": "چاقوی خود تیز شونده ZWILLING Gourmet با مجموعه 7 تکه چاقو، استیل ضد زنگ، ساخت آلمان، براون Gourmet Braun",
+    "brand": "",
+    "model": "چاقوی خود تیز شونده ZWILLING Gourmet با مجموعه 7 تکه چاقو، استیل ضد زنگ، ساخت آلمان، براون Gourmet Braun",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 51767000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%AE%D9%88%D8%AF-%D8%AA%DB%8C%D8%B2-%D8%B4%D9%88%D9%86%D8%AF%D9%87-ZWILLING-Gourmet-%D8%A8%D8%A7-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-7-%D8%AA%DA%A9%D9%87-%DA%86%D8%A7%D9%82%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-Gourmet-Braun",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.309Z"
   },
   {
     "id": "torobshop-laptop-computer-5cab57205d377e1f",
@@ -4803,7 +5325,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.212Z"
+    "observedAt": "2026-09-04T21:13:56.309Z"
   },
   {
     "id": "torobshop-laptop-computer-bbb69afb3e332a2c",
@@ -4821,7 +5343,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.212Z"
+    "observedAt": "2026-09-04T21:13:56.309Z"
   },
   {
     "id": "torobshop-laptop-computer-3877183810368792",
@@ -4839,7 +5361,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.213Z"
+    "observedAt": "2026-09-04T21:13:56.309Z"
   },
   {
     "id": "torobshop-laptop-computer-cb9e4b877badae34",
@@ -4857,7 +5379,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.213Z"
+    "observedAt": "2026-09-04T21:13:56.309Z"
   },
   {
     "id": "torobshop-laptop-computer-e2467d5cbf85ce81",
@@ -4875,7 +5397,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.213Z"
+    "observedAt": "2026-09-04T21:13:56.309Z"
   },
   {
     "id": "torobshop-laptop-computer-30d122f629f89166",
@@ -4893,7 +5415,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.213Z"
+    "observedAt": "2026-09-04T21:13:56.309Z"
   },
   {
     "id": "torobshop-laptop-computer-d9fbeecaba31c602",
@@ -4911,7 +5433,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.213Z"
+    "observedAt": "2026-09-04T21:13:56.309Z"
   },
   {
     "id": "torobshop-laptop-computer-ef26e366fa305ced",
@@ -4929,7 +5451,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.213Z"
+    "observedAt": "2026-09-04T21:13:56.309Z"
   },
   {
     "id": "torobshop-laptop-computer-3e03d59443676707",
@@ -4947,7 +5469,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.213Z"
+    "observedAt": "2026-09-04T21:13:56.309Z"
   },
   {
     "id": "torobshop-laptop-computer-07103c8f0e3ce377",
@@ -4965,7 +5487,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.213Z"
+    "observedAt": "2026-09-04T21:13:56.309Z"
   },
   {
     "id": "torobshop-laptop-computer-4415e2cd944c4e59",
@@ -4983,7 +5505,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.213Z"
+    "observedAt": "2026-09-04T21:13:56.309Z"
   },
   {
     "id": "torobshop-laptop-computer-d397df756b9f1338",
@@ -5001,97 +5523,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.213Z"
-  },
-  {
-    "id": "torobshop-laptop-computer-e4088b7a2b6ea10b",
-    "productId": "torobshop-e4088b7a2b6ea10b",
-    "name": "سرویس قابلمه 4 پارچه اینتنسا فیسلر آلمان Fissler Intensa قابلمه با درب فلزی (2 قابلمه، 1 قابلمه کوچک، 1 تابه - بدون درب) القایی، سرویس",
-    "brand": "",
-    "model": "سرویس قابلمه 4 پارچه اینتنسا فیسلر آلمان Fissler Intensa قابلمه با درب فلزی (2 قابلمه، 1 قابلمه کوچک، 1 تابه - بدون درب) القایی، سرویس",
-    "category": "laptop-computer",
-    "subcategory": "تبلت و آیپد",
-    "price": 97350000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%A7%DB%8C%D9%86%D8%AA%D9%86%D8%B3%D8%A7-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-4-%D8%AA%DA%A9%D9%87-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%81%D9%84%D8%B2%DB%8C-2-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-1-%D8%AA%D8%A7%D8%A8%D9%87-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%B1%D8%A8-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-4-%D8%AA%DA%A9%D9%87-2-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-1-%D8%AA%D8%A7%D8%A8%D9%87",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.213Z"
-  },
-  {
-    "id": "torobshop-laptop-computer-0674abec1e1ff3bb",
-    "productId": "torobshop-0674abec1e1ff3bb",
-    "name": "سرویس قابلمه 5 پارچه فیسلر آلمان اینتنسا Fissler Intensa با درب فلزی (3 قابلمه، 1 قابلمه کوچک، 1 تابه - بدون درب) سازگار با اجاق القایی",
-    "brand": "",
-    "model": "سرویس قابلمه 5 پارچه فیسلر آلمان اینتنسا Fissler Intensa با درب فلزی (3 قابلمه، 1 قابلمه کوچک، 1 تابه - بدون درب) سازگار با اجاق القایی",
-    "category": "laptop-computer",
-    "subcategory": "تبلت و آیپد",
-    "price": 108515000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%A7%DB%8C%D9%86%D8%AA%D9%86%D8%B3%D8%A7-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-5-%D8%AA%DA%A9%D9%87-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%81%D9%84%D8%B2%DB%8C-3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-1-%D8%AA%D8%A7%D8%A8%D9%87-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%B1%D8%A8-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-5-%D8%AA%DA%A9%D9%87-3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-1-%D8%AA%D8%A7%D8%A8%D9%87",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.213Z"
-  },
-  {
-    "id": "torobshop-laptop-computer-c8ae91ddddbffeeb",
-    "productId": "torobshop-c8ae91ddddbffeeb",
-    "name": "ماهیتابه درب دار کباب‌ پز فیسلر آلمان Fissler Edelstahl (8.8 لیتر - قطر 38 سانتی‌متر) ظرف کاسرول بیضی بزرگ، با درب شیشه‌ای",
-    "brand": "",
-    "model": "ماهیتابه درب دار کباب‌ پز فیسلر آلمان Fissler Edelstahl (8.8 لیتر - قطر 38 سانتی‌متر) ظرف کاسرول بیضی بزرگ، با درب شیشه‌ای",
-    "category": "laptop-computer",
-    "subcategory": "تبلت و آیپد",
-    "price": 50553000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1%D8%A8-%D8%AF%D8%A7%D8%B1-%DA%A9%D8%A8%D8%A7%D8%A8-%D9%BE%D8%B2-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-Fissler-Edelstahl-8-8-%D9%84%DB%8C%D8%AA%D8%B1-%D9%82%D8%B7%D8%B1-38-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%B8%D8%B1%D9%81-%DA%A9%D8%A7%D8%B3%D8%B1%D9%88%D9%84-%D8%A8%DB%8C%D8%B6%DB%8C-%D8%A8%D8%B2%D8%B1%DA%AF-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.213Z"
-  },
-  {
-    "id": "torobshop-laptop-computer-e0d95c7bfcafe827",
-    "productId": "torobshop-e0d95c7bfcafe827",
-    "name": "سرویس قابلمه 5 پارچه فیسلر آلمان Fissler Original Collection 5-teilig با درب فلزی (3 قابلمه، 1 قابلمه کوچک، 1 تابه کوچک - بدون درب) القایی",
-    "brand": "",
-    "model": "سرویس قابلمه 5 پارچه فیسلر آلمان Fissler Original Collection 5-teilig با درب فلزی (3 قابلمه، 1 قابلمه کوچک، 1 تابه کوچک - بدون درب) القایی",
-    "category": "laptop-computer",
-    "subcategory": "تبلت و آیپد",
-    "price": 140722000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-5-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-Fissler-Original-Collection-5-teilig-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%81%D9%84%D8%B2%DB%8C-3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-1-%D8%AA%D8%A7%D8%A8%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%B1%D8%A8-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.213Z"
-  },
-  {
-    "id": "torobshop-laptop-computer-d68b8e3ac997acb1",
-    "productId": "torobshop-d68b8e3ac997acb1",
-    "name": "ماهیتابه دو دسته فیسلر آلمان Fissler Original-Profi Collection (سایز ۲۸ سانتی‌متر)",
-    "brand": "",
-    "model": "ماهیتابه دو دسته فیسلر آلمان Fissler Original-Profi Collection (سایز ۲۸ سانتی‌متر)",
-    "category": "laptop-computer",
-    "subcategory": "تبلت و آیپد",
-    "price": 46822000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%A7%D9%88%D8%B1%D8%AC%DB%8C%D9%86%D8%A7%D9%84-%D9%BE%D8%B1%D9%88%D9%81%DB%8C-%DA%A9%D8%A7%D9%84%DA%A9%D8%B4%D9%86-%D8%B3%D8%A7%DB%8C%D8%B2-%DB%B2%DB%B8-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%DB%B1%DB%B8-%DB%B1%DB%B0-%D8%B3%D8%B7%D8%AD-%D9%BE%D8%AE%D8%AA-%D9%88-%D9%BE%D8%B2-%D9%86%D9%88%D9%88%DA%AF%D8%B1%DB%8C%D9%84-%D9%BE%D8%A7%DB%8C%D9%87-%D8%AA%D9%85%D8%A7%D9%85-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%DA%A9%D9%88%DA%A9-%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1-%D9%85%D8%AF%D9%84-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%DB%B2%DB%B8-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.213Z"
+    "observedAt": "2026-09-04T21:13:56.309Z"
   },
   {
     "id": "torobshop-laptop-computer-05c540b60ea3624b",
@@ -5109,7 +5541,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.213Z"
+    "observedAt": "2026-09-04T21:13:56.309Z"
   },
   {
     "id": "torobshop-laptop-computer-40f09e3a04b68146",
@@ -5127,43 +5559,97 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.213Z"
+    "observedAt": "2026-09-04T21:13:56.309Z"
   },
   {
-    "id": "torobshop-laptop-computer-f8b7784f8ba04a47",
-    "productId": "torobshop-f8b7784f8ba04a47",
-    "name": "سودا ساز آب گازدار ساز وی ام اف آلمان WMF Element One Water دستگاه حباب ساز تمام اتوماتیک آبی",
+    "id": "torobshop-laptop-computer-e4088b7a2b6ea10b",
+    "productId": "torobshop-e4088b7a2b6ea10b",
+    "name": "سرویس قابلمه 4 پارچه اینتنسا فیسلر آلمان Fissler Intensa قابلمه با درب فلزی (2 قابلمه، 1 قابلمه کوچک، 1 تابه - بدون درب) القایی، سرویس",
     "brand": "",
-    "model": "سودا ساز آب گازدار ساز وی ام اف آلمان WMF Element One Water دستگاه حباب ساز تمام اتوماتیک آبی",
+    "model": "سرویس قابلمه 4 پارچه اینتنسا فیسلر آلمان Fissler Intensa قابلمه با درب فلزی (2 قابلمه، 1 قابلمه کوچک، 1 تابه - بدون درب) القایی، سرویس",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 54084000,
+    "price": 97350000,
     "currency": "IRT",
     "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%DA%AF%D8%A7%D8%B2%D8%AF%D8%A7%D8%B1-%D8%A2%D8%A8-WMF-Element-One-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%AD%D8%A8%D8%A7%D8%A8-%D8%B3%D8%A7%D8%B2-%D8%AA%D9%85%D8%A7%D9%85-%D8%A7%D8%AA%D9%88%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-%D8%A7%D8%B2-%D8%AC%D9%86%D8%B3-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%A8%D8%A7-3-%D8%B3%D8%B7%D8%AD-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%DA%A9%D9%85-%D8%AC%D8%A7-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%86%D9%88%D8%B4%D8%A7%D8%A8%D9%87-%D8%B3%D8%A7%D8%B2-%D8%B2%DB%8C%D8%A8%D8%A7-%D9%88-%DA%AF%D8%A7%D8%B2%D8%AF%D8%A7%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%84%D8%B0%D8%AA-%D8%A8%D8%B1%D8%AF%D9%86-%D8%A7%D8%B2-%D9%86%D9%88%D8%B4%DB%8C%D8%AF%D9%86%DB%8C-%D8%B1%D9%86%DA%AF-%D8%AC%D8%B1%DB%8C%D8%A7%D9%86-%DB%8C%D8%AE",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%A7%DB%8C%D9%86%D8%AA%D9%86%D8%B3%D8%A7-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-4-%D8%AA%DA%A9%D9%87-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%81%D9%84%D8%B2%DB%8C-2-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-1-%D8%AA%D8%A7%D8%A8%D9%87-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%B1%D8%A8-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-4-%D8%AA%DA%A9%D9%87-2-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-1-%D8%AA%D8%A7%D8%A8%D9%87",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.213Z"
+    "observedAt": "2026-09-04T21:13:56.309Z"
   },
   {
-    "id": "torobshop-laptop-computer-eb3d93fc719b9727",
-    "productId": "torobshop-eb3d93fc719b9727",
-    "name": "دستگاه وکیوم و ظروف وکیوم زولینگ آلمان ZWILLING در 9 قطعه 2 کاسه استیل با 2 درب وکیوم (18-24 سانتی متر) - 4 عدد کیسه - پمپ",
+    "id": "torobshop-laptop-computer-0674abec1e1ff3bb",
+    "productId": "torobshop-0674abec1e1ff3bb",
+    "name": "سرویس قابلمه 5 پارچه فیسلر آلمان اینتنسا Fissler Intensa با درب فلزی (3 قابلمه، 1 قابلمه کوچک، 1 تابه - بدون درب) سازگار با اجاق القایی",
     "brand": "",
-    "model": "دستگاه وکیوم و ظروف وکیوم زولینگ آلمان ZWILLING در 9 قطعه 2 کاسه استیل با 2 درب وکیوم (18-24 سانتی متر) - 4 عدد کیسه - پمپ",
+    "model": "سرویس قابلمه 5 پارچه فیسلر آلمان اینتنسا Fissler Intensa با درب فلزی (3 قابلمه، 1 قابلمه کوچک، 1 تابه - بدون درب) سازگار با اجاق القایی",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 34510000,
+    "price": 108515000,
     "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%AA-%D9%BE%D8%A7%DB%8C%D9%87-%D9%88%DA%A9%DB%8C%D9%88%D9%85-ZWILLING-9-%D9%82%D8%B7%D8%B9%D9%87-2-%DA%A9%D8%A7%D8%B3%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%A8%D8%A7-2-%D8%AF%D8%B1%D8%A8-%D9%88%DA%A9%DB%8C%D9%88%D9%85-18-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-4-%D8%B9%D8%AF%D8%AF-%DA%A9%DB%8C%D8%B3%D9%87-%D9%BE%D9%85%D9%BE",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%A7%DB%8C%D9%86%D8%AA%D9%86%D8%B3%D8%A7-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-5-%D8%AA%DA%A9%D9%87-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%81%D9%84%D8%B2%DB%8C-3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-1-%D8%AA%D8%A7%D8%A8%D9%87-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%B1%D8%A8-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-5-%D8%AA%DA%A9%D9%87-3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-1-%D8%AA%D8%A7%D8%A8%D9%87",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.213Z"
+    "observedAt": "2026-09-04T21:13:56.309Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-c8ae91ddddbffeeb",
+    "productId": "torobshop-c8ae91ddddbffeeb",
+    "name": "ماهیتابه درب دار کباب‌ پز فیسلر آلمان Fissler Edelstahl (8.8 لیتر - قطر 38 سانتی‌متر) ظرف کاسرول بیضی بزرگ، با درب شیشه‌ای",
+    "brand": "",
+    "model": "ماهیتابه درب دار کباب‌ پز فیسلر آلمان Fissler Edelstahl (8.8 لیتر - قطر 38 سانتی‌متر) ظرف کاسرول بیضی بزرگ، با درب شیشه‌ای",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 50553000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1%D8%A8-%D8%AF%D8%A7%D8%B1-%DA%A9%D8%A8%D8%A7%D8%A8-%D9%BE%D8%B2-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-Fissler-Edelstahl-8-8-%D9%84%DB%8C%D8%AA%D8%B1-%D9%82%D8%B7%D8%B1-38-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%B8%D8%B1%D9%81-%DA%A9%D8%A7%D8%B3%D8%B1%D9%88%D9%84-%D8%A8%DB%8C%D8%B6%DB%8C-%D8%A8%D8%B2%D8%B1%DA%AF-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.309Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-e0d95c7bfcafe827",
+    "productId": "torobshop-e0d95c7bfcafe827",
+    "name": "سرویس قابلمه 5 پارچه فیسلر آلمان Fissler Original Collection 5-teilig با درب فلزی (3 قابلمه، 1 قابلمه کوچک، 1 تابه کوچک - بدون درب) القایی",
+    "brand": "",
+    "model": "سرویس قابلمه 5 پارچه فیسلر آلمان Fissler Original Collection 5-teilig با درب فلزی (3 قابلمه، 1 قابلمه کوچک، 1 تابه کوچک - بدون درب) القایی",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 140722000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-5-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-Fissler-Original-Collection-5-teilig-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%81%D9%84%D8%B2%DB%8C-3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-1-%D8%AA%D8%A7%D8%A8%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%B1%D8%A8-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.310Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-d68b8e3ac997acb1",
+    "productId": "torobshop-d68b8e3ac997acb1",
+    "name": "ماهیتابه دو دسته فیسلر آلمان Fissler Original-Profi Collection (سایز ۲۸ سانتی‌متر)",
+    "brand": "",
+    "model": "ماهیتابه دو دسته فیسلر آلمان Fissler Original-Profi Collection (سایز ۲۸ سانتی‌متر)",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 46822000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%A7%D9%88%D8%B1%D8%AC%DB%8C%D9%86%D8%A7%D9%84-%D9%BE%D8%B1%D9%88%D9%81%DB%8C-%DA%A9%D8%A7%D9%84%DA%A9%D8%B4%D9%86-%D8%B3%D8%A7%DB%8C%D8%B2-%DB%B2%DB%B8-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%DB%B1%DB%B8-%DB%B1%DB%B0-%D8%B3%D8%B7%D8%AD-%D9%BE%D8%AE%D8%AA-%D9%88-%D9%BE%D8%B2-%D9%86%D9%88%D9%88%DA%AF%D8%B1%DB%8C%D9%84-%D9%BE%D8%A7%DB%8C%D9%87-%D8%AA%D9%85%D8%A7%D9%85-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%DA%A9%D9%88%DA%A9-%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1-%D9%85%D8%AF%D9%84-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%DB%B2%DB%B8-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.310Z"
   },
   {
     "id": "torobshop-laptop-computer-b0b661c9d6dfca29",
@@ -5181,7 +5667,25 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.213Z"
+    "observedAt": "2026-09-04T21:13:56.310Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-f8b7784f8ba04a47",
+    "productId": "torobshop-f8b7784f8ba04a47",
+    "name": "سودا ساز آب گازدار ساز وی ام اف آلمان WMF Element One Water دستگاه حباب ساز تمام اتوماتیک آبی",
+    "brand": "",
+    "model": "سودا ساز آب گازدار ساز وی ام اف آلمان WMF Element One Water دستگاه حباب ساز تمام اتوماتیک آبی",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 54084000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%DA%AF%D8%A7%D8%B2%D8%AF%D8%A7%D8%B1-%D8%A2%D8%A8-WMF-Element-One-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%AD%D8%A8%D8%A7%D8%A8-%D8%B3%D8%A7%D8%B2-%D8%AA%D9%85%D8%A7%D9%85-%D8%A7%D8%AA%D9%88%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-%D8%A7%D8%B2-%D8%AC%D9%86%D8%B3-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%A8%D8%A7-3-%D8%B3%D8%B7%D8%AD-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%DA%A9%D9%85-%D8%AC%D8%A7-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%86%D9%88%D8%B4%D8%A7%D8%A8%D9%87-%D8%B3%D8%A7%D8%B2-%D8%B2%DB%8C%D8%A8%D8%A7-%D9%88-%DA%AF%D8%A7%D8%B2%D8%AF%D8%A7%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%84%D8%B0%D8%AA-%D8%A8%D8%B1%D8%AF%D9%86-%D8%A7%D8%B2-%D9%86%D9%88%D8%B4%DB%8C%D8%AF%D9%86%DB%8C-%D8%B1%D9%86%DA%AF-%D8%AC%D8%B1%DB%8C%D8%A7%D9%86-%DB%8C%D8%AE",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.310Z"
   },
   {
     "id": "torobshop-laptop-computer-0e4d04ef83a810db",
@@ -5199,7 +5703,25 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.213Z"
+    "observedAt": "2026-09-04T21:13:56.310Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-eb3d93fc719b9727",
+    "productId": "torobshop-eb3d93fc719b9727",
+    "name": "دستگاه وکیوم و ظروف وکیوم زولینگ آلمان ZWILLING در 9 قطعه 2 کاسه استیل با 2 درب وکیوم (18-24 سانتی متر) - 4 عدد کیسه - پمپ",
+    "brand": "",
+    "model": "دستگاه وکیوم و ظروف وکیوم زولینگ آلمان ZWILLING در 9 قطعه 2 کاسه استیل با 2 درب وکیوم (18-24 سانتی متر) - 4 عدد کیسه - پمپ",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 34510000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%AA-%D9%BE%D8%A7%DB%8C%D9%87-%D9%88%DA%A9%DB%8C%D9%88%D9%85-ZWILLING-9-%D9%82%D8%B7%D8%B9%D9%87-2-%DA%A9%D8%A7%D8%B3%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%A8%D8%A7-2-%D8%AF%D8%B1%D8%A8-%D9%88%DA%A9%DB%8C%D9%88%D9%85-18-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-4-%D8%B9%D8%AF%D8%AF-%DA%A9%DB%8C%D8%B3%D9%87-%D9%BE%D9%85%D9%BE",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.310Z"
   },
   {
     "id": "torobshop-laptop-computer-d39a2f5ac6cd9a7f",
@@ -5217,7 +5739,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.213Z"
+    "observedAt": "2026-09-04T21:13:56.310Z"
   },
   {
     "id": "torobshop-laptop-computer-9d8fbc8c7f0b6991",
@@ -5235,7 +5757,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.213Z"
+    "observedAt": "2026-09-04T21:13:56.310Z"
   },
   {
     "id": "torobshop-laptop-computer-412e480ec7918302",
@@ -5253,7 +5775,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.213Z"
+    "observedAt": "2026-09-04T21:13:56.310Z"
   },
   {
     "id": "torobshop-laptop-computer-aa2dfdb88af5c975",
@@ -5271,7 +5793,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.213Z"
+    "observedAt": "2026-09-04T21:13:56.310Z"
   },
   {
     "id": "torobshop-laptop-computer-2be1976c83ad17a1",
@@ -5289,7 +5811,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.213Z"
+    "observedAt": "2026-09-04T21:13:56.310Z"
   },
   {
     "id": "torobshop-laptop-computer-1e0602d76b0e257a",
@@ -5307,7 +5829,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.213Z"
+    "observedAt": "2026-09-04T21:13:56.310Z"
   },
   {
     "id": "torobshop-laptop-computer-280503308950a13c",
@@ -5325,7 +5847,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.213Z"
+    "observedAt": "2026-09-04T21:13:56.310Z"
   },
   {
     "id": "torobshop-laptop-computer-3644b82267dd5165",
@@ -5343,79 +5865,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.213Z"
-  },
-  {
-    "id": "torobshop-laptop-computer-9087741222a89b21",
-    "productId": "torobshop-9087741222a89b21",
-    "name": "چاقوی آشپزی زولینگ آلمان ZWILLING Gourmet - 18 سانتی‌متر - استیل ضد زنگ - دسته پلاستیکی ارگونومیک - مشکی - تولید آلمان",
-    "brand": "",
-    "model": "چاقوی آشپزی زولینگ آلمان ZWILLING Gourmet - 18 سانتی‌متر - استیل ضد زنگ - دسته پلاستیکی ارگونومیک - مشکی - تولید آلمان",
-    "category": "laptop-computer",
-    "subcategory": "تبلت و آیپد",
-    "price": 23854000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%A2%D8%B4%D9%BE%D8%B2%DB%8C-ZWILLING-Gourmet-18-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%AF%D8%B3%D8%AA%D9%87-%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9%DB%8C-%D8%A7%D8%B1%DA%AF%D9%88%D9%86%D9%88%D9%85%DB%8C%DA%A9-%D9%85%D8%B4%DA%A9%DB%8C-%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D8%A2%D9%84%D9%85%D8%A7%D9%86",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.213Z"
-  },
-  {
-    "id": "torobshop-laptop-computer-c4580b999e737ac3",
-    "productId": "torobshop-c4580b999e737ac3",
-    "name": "سرویس قاشق و چنگال وی ام اف آلمان WMF Cutlery Set ( 60 پارچه، 12 نفره )",
-    "brand": "",
-    "model": "سرویس قاشق و چنگال وی ام اف آلمان WMF Cutlery Set ( 60 پارچه، 12 نفره )",
-    "category": "laptop-computer",
-    "subcategory": "تبلت و آیپد",
-    "price": 43138000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%DA%A9%D8%A7%D8%B1%D8%AF-%D9%88-%DA%86%D9%86%DA%AF%D8%A7%D9%84-WMF-60-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-12-%D9%86%D9%81%D8%B1%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-Atria-Cromargan-18-10-%D8%A8%D8%B1%D8%A7%D9%82",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.213Z"
-  },
-  {
-    "id": "torobshop-laptop-computer-00bf5776f339768d",
-    "productId": "torobshop-00bf5776f339768d",
-    "name": "سرویس قابلمه ۵ پارچه فیسلر آلمان Fissler Palermo Edelstahl پالرمو شامل درب شیشه‌ای (۳ قابلمه، ۱ تابه کباب‌پزی، ۱ قابلمه کوچک) القایی",
-    "brand": "",
-    "model": "سرویس قابلمه ۵ پارچه فیسلر آلمان Fissler Palermo Edelstahl پالرمو شامل درب شیشه‌ای (۳ قابلمه، ۱ تابه کباب‌پزی، ۱ قابلمه کوچک) القایی",
-    "category": "laptop-computer",
-    "subcategory": "تبلت و آیپد",
-    "price": 54119000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B5-%D8%AA%DA%A9%D9%87-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%BE%D8%A7%D9%84%D8%B1%D9%85%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%87%D8%A7-%D8%B4%D8%A7%D9%85%D9%84-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%DB%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B1-%D8%AA%D8%A7%D8%A8%D9%87-%DA%A9%D8%A8%D8%A7%D8%A8-%D9%BE%D8%B2%DB%8C-%DB%B1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.213Z"
-  },
-  {
-    "id": "torobshop-laptop-computer-a218f27039422c46",
-    "productId": "torobshop-a218f27039422c46",
-    "name": "چاقوی خود تیز شونده چهار ستاره ZWILLING با مجموعه 7 تکه چاقو، استیل ضد زنگ، ساخت آلمان، سفید چهار ستاره سفید",
-    "brand": "",
-    "model": "چاقوی خود تیز شونده چهار ستاره ZWILLING با مجموعه 7 تکه چاقو، استیل ضد زنگ، ساخت آلمان، سفید چهار ستاره سفید",
-    "category": "laptop-computer",
-    "subcategory": "تبلت و آیپد",
-    "price": 56843000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%AE%D9%88%D8%AF-%D8%AA%DB%8C%D8%B2-%D8%B4%D9%88%D9%86%D8%AF%D9%87-%DA%86%D9%87%D8%A7%D8%B1-%D8%B3%D8%AA%D8%A7%D8%B1%D9%87-ZWILLING-%D8%A8%D8%A7-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-7-%D8%AA%DA%A9%D9%87-%DA%86%D8%A7%D9%82%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%B3%D9%81%DB%8C%D8%AF-%DA%86%D9%87%D8%A7%D8%B1-%D8%B3%D8%AA%D8%A7%D8%B1%D9%87-%D8%B3%D9%81%DB%8C%D8%AF",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.213Z"
+    "observedAt": "2026-09-04T21:13:56.310Z"
   },
   {
     "id": "torobshop-laptop-computer-d99c3943bcec9400",
@@ -5433,7 +5883,79 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.213Z"
+    "observedAt": "2026-09-04T21:13:56.310Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-9087741222a89b21",
+    "productId": "torobshop-9087741222a89b21",
+    "name": "چاقوی آشپزی زولینگ آلمان ZWILLING Gourmet - 18 سانتی‌متر - استیل ضد زنگ - دسته پلاستیکی ارگونومیک - مشکی - تولید آلمان",
+    "brand": "",
+    "model": "چاقوی آشپزی زولینگ آلمان ZWILLING Gourmet - 18 سانتی‌متر - استیل ضد زنگ - دسته پلاستیکی ارگونومیک - مشکی - تولید آلمان",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 23854000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%A2%D8%B4%D9%BE%D8%B2%DB%8C-ZWILLING-Gourmet-18-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%AF%D8%B3%D8%AA%D9%87-%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9%DB%8C-%D8%A7%D8%B1%DA%AF%D9%88%D9%86%D9%88%D9%85%DB%8C%DA%A9-%D9%85%D8%B4%DA%A9%DB%8C-%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D8%A2%D9%84%D9%85%D8%A7%D9%86",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.310Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-c4580b999e737ac3",
+    "productId": "torobshop-c4580b999e737ac3",
+    "name": "سرویس قاشق و چنگال وی ام اف آلمان WMF Cutlery Set ( 60 پارچه، 12 نفره )",
+    "brand": "",
+    "model": "سرویس قاشق و چنگال وی ام اف آلمان WMF Cutlery Set ( 60 پارچه، 12 نفره )",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 43138000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%DA%A9%D8%A7%D8%B1%D8%AF-%D9%88-%DA%86%D9%86%DA%AF%D8%A7%D9%84-WMF-60-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-12-%D9%86%D9%81%D8%B1%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-Atria-Cromargan-18-10-%D8%A8%D8%B1%D8%A7%D9%82",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.310Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-00bf5776f339768d",
+    "productId": "torobshop-00bf5776f339768d",
+    "name": "سرویس قابلمه ۵ پارچه فیسلر آلمان Fissler Palermo Edelstahl پالرمو شامل درب شیشه‌ای (۳ قابلمه، ۱ تابه کباب‌پزی، ۱ قابلمه کوچک) القایی",
+    "brand": "",
+    "model": "سرویس قابلمه ۵ پارچه فیسلر آلمان Fissler Palermo Edelstahl پالرمو شامل درب شیشه‌ای (۳ قابلمه، ۱ تابه کباب‌پزی، ۱ قابلمه کوچک) القایی",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 54119000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B5-%D8%AA%DA%A9%D9%87-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%BE%D8%A7%D9%84%D8%B1%D9%85%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%87%D8%A7-%D8%B4%D8%A7%D9%85%D9%84-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%DB%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B1-%D8%AA%D8%A7%D8%A8%D9%87-%DA%A9%D8%A8%D8%A7%D8%A8-%D9%BE%D8%B2%DB%8C-%DB%B1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.310Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-a218f27039422c46",
+    "productId": "torobshop-a218f27039422c46",
+    "name": "چاقوی خود تیز شونده چهار ستاره ZWILLING با مجموعه 7 تکه چاقو، استیل ضد زنگ، ساخت آلمان، سفید چهار ستاره سفید",
+    "brand": "",
+    "model": "چاقوی خود تیز شونده چهار ستاره ZWILLING با مجموعه 7 تکه چاقو، استیل ضد زنگ، ساخت آلمان، سفید چهار ستاره سفید",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 56843000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%AE%D9%88%D8%AF-%D8%AA%DB%8C%D8%B2-%D8%B4%D9%88%D9%86%D8%AF%D9%87-%DA%86%D9%87%D8%A7%D8%B1-%D8%B3%D8%AA%D8%A7%D8%B1%D9%87-ZWILLING-%D8%A8%D8%A7-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-7-%D8%AA%DA%A9%D9%87-%DA%86%D8%A7%D9%82%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%B3%D9%81%DB%8C%D8%AF-%DA%86%D9%87%D8%A7%D8%B1-%D8%B3%D8%AA%D8%A7%D8%B1%D9%87-%D8%B3%D9%81%DB%8C%D8%AF",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.310Z"
   },
   {
     "id": "torobshop-laptop-computer-1fd1146f6f750aa9",
@@ -5451,25 +5973,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.213Z"
-  },
-  {
-    "id": "torobshop-laptop-computer-56cac7936a06e3f1",
-    "productId": "torobshop-56cac7936a06e3f1",
-    "name": "اتو بخار مخزن دار تفال فرانسه مدل TEF SV8027 ws/beige",
-    "brand": "",
-    "model": "اتو بخار مخزن دار تفال فرانسه مدل TEF SV8027 ws/beige",
-    "category": "laptop-computer",
-    "subcategory": "تبلت و آیپد",
-    "price": 53035000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%A8%D8%AE%D8%A7%D8%B1%D8%B4%D9%88%DB%8C-%D8%AA%D9%81%D8%A7%D9%84-%D9%85%D8%AF%D9%84-TEF-SV8027-ws-beige",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.213Z"
+    "observedAt": "2026-09-04T21:13:56.310Z"
   },
   {
     "id": "torobshop-laptop-computer-4dd091835a22ff69",
@@ -5487,7 +5991,25 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.213Z"
+    "observedAt": "2026-09-04T21:13:56.310Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-56cac7936a06e3f1",
+    "productId": "torobshop-56cac7936a06e3f1",
+    "name": "اتو بخار مخزن دار تفال فرانسه مدل TEF SV8027 ws/beige",
+    "brand": "",
+    "model": "اتو بخار مخزن دار تفال فرانسه مدل TEF SV8027 ws/beige",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 53035000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%A8%D8%AE%D8%A7%D8%B1%D8%B4%D9%88%DB%8C-%D8%AA%D9%81%D8%A7%D9%84-%D9%85%D8%AF%D9%84-TEF-SV8027-ws-beige",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.310Z"
   },
   {
     "id": "torobshop-laptop-computer-e02164e6665f61ef",
@@ -5505,7 +6027,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.213Z"
+    "observedAt": "2026-09-04T21:13:56.310Z"
   },
   {
     "id": "torobshop-laptop-computer-ace9b88e93544c94",
@@ -5523,7 +6045,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.213Z"
+    "observedAt": "2026-09-04T21:13:56.310Z"
   },
   {
     "id": "torobshop-laptop-computer-ffbee63b50d31684",
@@ -5541,7 +6063,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.213Z"
+    "observedAt": "2026-09-04T21:13:56.310Z"
   },
   {
     "id": "torobshop-laptop-computer-97e8accc87d0f8bf",
@@ -5559,7 +6081,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.213Z"
+    "observedAt": "2026-09-04T21:13:56.310Z"
   },
   {
     "id": "torobshop-laptop-computer-1dfcfd9dee587f60",
@@ -5577,7 +6099,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.213Z"
+    "observedAt": "2026-09-04T21:13:56.310Z"
   },
   {
     "id": "torobshop-laptop-computer-f06d188d530004ad",
@@ -5595,7 +6117,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.213Z"
+    "observedAt": "2026-09-04T21:13:56.310Z"
   },
   {
     "id": "torobshop-laptop-computer-f4ac0f14bd21c6cf",
@@ -5613,7 +6135,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.213Z"
+    "observedAt": "2026-09-04T21:13:56.310Z"
   },
   {
     "id": "torobshop-laptop-computer-7ac6bac20ad12a2d",
@@ -5631,7 +6153,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.213Z"
+    "observedAt": "2026-09-04T21:13:56.310Z"
   },
   {
     "id": "torobshop-laptop-computer-8a5c15c91c1a9329",
@@ -5649,7 +6171,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.213Z"
+    "observedAt": "2026-09-04T21:13:56.310Z"
   },
   {
     "id": "torobshop-laptop-computer-b131b88e24438d96",
@@ -5667,7 +6189,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.213Z"
+    "observedAt": "2026-09-04T21:13:56.310Z"
   },
   {
     "id": "torobshop-laptop-computer-fda1fe8cf4de5c5d",
@@ -5685,7 +6207,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.213Z"
+    "observedAt": "2026-09-04T21:13:56.310Z"
   },
   {
     "id": "torobshop-laptop-computer-736fe4049676a61e",
@@ -5703,7 +6225,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.213Z"
+    "observedAt": "2026-09-04T21:13:56.310Z"
   },
   {
     "id": "torobshop-laptop-computer-4bffdb79ac43fe15",
@@ -5721,7 +6243,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.213Z"
+    "observedAt": "2026-09-04T21:13:56.310Z"
   },
   {
     "id": "torobshop-laptop-computer-ef0157b54bf022f6",
@@ -5739,7 +6261,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.213Z"
+    "observedAt": "2026-09-04T21:13:56.310Z"
   },
   {
     "id": "torobshop-laptop-computer-f4e7843bb5d4eb60",
@@ -5757,7 +6279,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.213Z"
+    "observedAt": "2026-09-04T21:13:56.310Z"
   },
   {
     "id": "torobshop-laptop-computer-2f0597d05addbba1",
@@ -5775,7 +6297,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.213Z"
+    "observedAt": "2026-09-04T21:13:56.310Z"
   },
   {
     "id": "torobshop-laptop-computer-22200afc1cbeec02",
@@ -5793,7 +6315,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.213Z"
+    "observedAt": "2026-09-04T21:13:56.310Z"
   },
   {
     "id": "torobshop-laptop-computer-595f1b954d0611bd",
@@ -5811,7 +6333,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.214Z"
+    "observedAt": "2026-09-04T21:13:56.310Z"
   },
   {
     "id": "torobshop-laptop-computer-f26fbc6e8dbee708",
@@ -5829,7 +6351,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.214Z"
+    "observedAt": "2026-09-04T21:13:56.310Z"
   },
   {
     "id": "torobshop-laptop-computer-3d13a34700e027c0",
@@ -5847,7 +6369,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.214Z"
+    "observedAt": "2026-09-04T21:13:56.310Z"
   },
   {
     "id": "torobshop-laptop-computer-19319bed3e2f6069",
@@ -5865,7 +6387,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.214Z"
+    "observedAt": "2026-09-04T21:13:56.310Z"
   },
   {
     "id": "torobshop-laptop-computer-a02082729540664c",
@@ -5883,7 +6405,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.214Z"
+    "observedAt": "2026-09-04T21:13:56.310Z"
   },
   {
     "id": "torobshop-laptop-computer-f091c9e920c8e1fb",
@@ -5901,7 +6423,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.214Z"
+    "observedAt": "2026-09-04T21:13:56.310Z"
   },
   {
     "id": "torobshop-laptop-computer-fbbfc333137fef0f",
@@ -5919,7 +6441,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.214Z"
+    "observedAt": "2026-09-04T21:13:56.310Z"
   },
   {
     "id": "torobshop-laptop-computer-c7fa60def079c000",
@@ -5937,7 +6459,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.214Z"
+    "observedAt": "2026-09-04T21:13:56.310Z"
   },
   {
     "id": "torobshop-laptop-computer-5ac41723dcef4426",
@@ -5955,7 +6477,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.214Z"
+    "observedAt": "2026-09-04T21:13:56.310Z"
   },
   {
     "id": "torobshop-laptop-computer-be60227182487367",
@@ -5973,7 +6495,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.214Z"
+    "observedAt": "2026-09-04T21:13:56.310Z"
   },
   {
     "id": "torobshop-laptop-computer-d3f802410104b943",
@@ -5991,7 +6513,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.214Z"
+    "observedAt": "2026-09-04T21:13:56.310Z"
   },
   {
     "id": "torobshop-laptop-computer-0f347f93a4676672",
@@ -6009,7 +6531,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.214Z"
+    "observedAt": "2026-09-04T21:13:56.310Z"
   },
   {
     "id": "torobshop-laptop-computer-cb5f45612fc319e4",
@@ -6027,7 +6549,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.214Z"
+    "observedAt": "2026-09-04T21:13:56.310Z"
   },
   {
     "id": "torobshop-laptop-computer-a447d48449c2d499",
@@ -6045,7 +6567,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.214Z"
+    "observedAt": "2026-09-04T21:13:56.310Z"
   },
   {
     "id": "torobshop-laptop-computer-71ebfae235e91ed5",
@@ -6063,7 +6585,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.214Z"
+    "observedAt": "2026-09-04T21:13:56.311Z"
   },
   {
     "id": "torobshop-laptop-computer-51edff8c55bfb262",
@@ -6081,7 +6603,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.214Z"
+    "observedAt": "2026-09-04T21:13:56.311Z"
   },
   {
     "id": "torobshop-laptop-computer-f99dae95f9641652",
@@ -6099,7 +6621,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.214Z"
+    "observedAt": "2026-09-04T21:13:56.311Z"
   },
   {
     "id": "torobshop-laptop-computer-6bc05672d0e139cd",
@@ -6117,7 +6639,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.214Z"
+    "observedAt": "2026-09-04T21:13:56.311Z"
   },
   {
     "id": "torobshop-laptop-computer-6b776fc230756800",
@@ -6135,7 +6657,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.214Z"
+    "observedAt": "2026-09-04T21:13:56.311Z"
   },
   {
     "id": "torobshop-laptop-computer-f2622dc414824191",
@@ -6153,7 +6675,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.214Z"
+    "observedAt": "2026-09-04T21:13:56.311Z"
   },
   {
     "id": "torobshop-laptop-computer-640c8324f81a46bb",
@@ -6171,7 +6693,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.214Z"
+    "observedAt": "2026-09-04T21:13:56.311Z"
   },
   {
     "id": "torobshop-laptop-computer-7f66ba1a4f7ddbfb",
@@ -6189,7 +6711,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.214Z"
+    "observedAt": "2026-09-04T21:13:56.311Z"
   },
   {
     "id": "torobshop-laptop-computer-c54b5b958054a1a2",
@@ -6207,7 +6729,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.214Z"
+    "observedAt": "2026-09-04T21:13:56.311Z"
   },
   {
     "id": "torobshop-laptop-computer-43b61e0733cc7171",
@@ -6225,7 +6747,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.214Z"
+    "observedAt": "2026-09-04T21:13:56.311Z"
   },
   {
     "id": "torobshop-laptop-computer-f699a00edc06f489",
@@ -6243,7 +6765,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.214Z"
+    "observedAt": "2026-09-04T21:13:56.311Z"
   },
   {
     "id": "torobshop-laptop-computer-a59cff30443c154a",
@@ -6261,7 +6783,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.214Z"
+    "observedAt": "2026-09-04T21:13:56.311Z"
   },
   {
     "id": "torobshop-laptop-computer-f6c6e72a28882975",
@@ -6279,7 +6801,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.214Z"
+    "observedAt": "2026-09-04T21:13:56.311Z"
   },
   {
     "id": "torobshop-laptop-computer-af7462ce98ee2999",
@@ -6297,7 +6819,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.214Z"
+    "observedAt": "2026-09-04T21:13:56.311Z"
   },
   {
     "id": "torobshop-laptop-computer-7c82cddc2d9efd1c",
@@ -6315,7 +6837,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.214Z"
+    "observedAt": "2026-09-04T21:13:56.311Z"
   },
   {
     "id": "torobshop-laptop-computer-a942a79dda5b87df",
@@ -6333,7 +6855,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.214Z"
+    "observedAt": "2026-09-04T21:13:56.311Z"
   },
   {
     "id": "torobshop-laptop-computer-e4ec7bd10ffa8b50",
@@ -6351,7 +6873,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.214Z"
+    "observedAt": "2026-09-04T21:13:56.311Z"
   },
   {
     "id": "torobshop-laptop-computer-5bc21e4edaa526cc",
@@ -6369,7 +6891,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.214Z"
+    "observedAt": "2026-09-04T21:13:56.311Z"
   },
   {
     "id": "torobshop-laptop-computer-7bbb1f19505b28fd",
@@ -6387,7 +6909,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.214Z"
+    "observedAt": "2026-09-04T21:13:56.311Z"
   },
   {
     "id": "torobshop-laptop-computer-45d6aa9c3fd53ad4",
@@ -6405,7 +6927,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.214Z"
+    "observedAt": "2026-09-04T21:13:56.311Z"
   },
   {
     "id": "torobshop-laptop-computer-9d62a66000d436e1",
@@ -6423,7 +6945,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.214Z"
+    "observedAt": "2026-09-04T21:13:56.311Z"
   },
   {
     "id": "torobshop-laptop-computer-c876f51b5b5d7dae",
@@ -6441,7 +6963,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.214Z"
+    "observedAt": "2026-09-04T21:13:56.311Z"
   },
   {
     "id": "torobshop-laptop-computer-1abb58c93aa4d049",
@@ -6459,7 +6981,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.214Z"
+    "observedAt": "2026-09-04T21:13:56.311Z"
   },
   {
     "id": "torobshop-laptop-computer-400b05dca029ee01",
@@ -6477,7 +6999,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.214Z"
+    "observedAt": "2026-09-04T21:13:56.311Z"
   },
   {
     "id": "torobshop-laptop-computer-27109e9fc58673fd",
@@ -6495,7 +7017,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.214Z"
+    "observedAt": "2026-09-04T21:13:56.311Z"
   },
   {
     "id": "torobshop-laptop-computer-074febbf09bd3065",
@@ -6513,7 +7035,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.214Z"
+    "observedAt": "2026-09-04T21:13:56.311Z"
   },
   {
     "id": "torobshop-laptop-computer-766b0f80e67074f9",
@@ -6531,7 +7053,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.214Z"
+    "observedAt": "2026-09-04T21:13:56.311Z"
   },
   {
     "id": "torobshop-laptop-computer-6c0960e9008fddf6",
@@ -6549,7 +7071,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.214Z"
+    "observedAt": "2026-09-04T21:13:56.311Z"
   },
   {
     "id": "torobshop-laptop-computer-d6551c8766b38613",
@@ -6567,7 +7089,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.214Z"
+    "observedAt": "2026-09-04T21:13:56.311Z"
   },
   {
     "id": "torobshop-laptop-computer-508a955227952a9d",
@@ -6585,7 +7107,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.214Z"
+    "observedAt": "2026-09-04T21:13:56.311Z"
   },
   {
     "id": "torobshop-laptop-computer-dc3a8d1c6feb961b",
@@ -6603,7 +7125,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.214Z"
+    "observedAt": "2026-09-04T21:13:56.311Z"
   },
   {
     "id": "torobshop-laptop-computer-5e70d562a3ef7192",
@@ -6621,7 +7143,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.214Z"
+    "observedAt": "2026-09-04T21:13:56.311Z"
   },
   {
     "id": "torobshop-laptop-computer-b6d1e42e39dc67ab",
@@ -6639,7 +7161,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.214Z"
+    "observedAt": "2026-09-04T21:13:56.311Z"
   },
   {
     "id": "torobshop-laptop-computer-2cb3b869608c8a13",
@@ -6657,61 +7179,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.214Z"
-  },
-  {
-    "id": "torobshop-laptop-computer-6e4a2eb26d23a745",
-    "productId": "torobshop-6e4a2eb26d23a745",
-    "name": "دستگاه رفع موهای زائد Braun IPL Silk Expert Pro 5 برای خانم‌ها/آقایان، ۳ سری، رفع موهای زائد قابل مشاهده، طراحی شده در آلمان، ماشین اصلاح ونوس، جایگزین لیزر موهای زائد، PL5267، سفید/طلایی",
-    "brand": "",
-    "model": "دستگاه رفع موهای زائد Braun IPL Silk Expert Pro 5 برای خانم‌ها/آقایان، ۳ سری، رفع موهای زائد قابل مشاهده، طراحی شده در آلمان، ماشین اصلاح ونوس، جایگزین لیزر موهای زائد، PL5267، سفید/طلایی",
-    "category": "laptop-computer",
-    "subcategory": "تبلت و آیپد",
-    "price": 99981000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Braun-IPL-Silk-Expert-Pro-5-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AE%D8%A7%D9%86%D9%85-%D9%87%D8%A7-%D8%A2%D9%82%D8%A7%DB%8C%D8%A7%D9%86-%DB%B3-%D8%B3%D8%B1%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D9%82%D8%A7%D8%A8%D9%84-%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D9%87-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B4%D8%AF%D9%87-%D8%AF%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88%D9%86%D9%88%D8%B3-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D9%84%DB%8C%D8%B2%D8%B1-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-PL5267-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.215Z"
-  },
-  {
-    "id": "torobshop-laptop-computer-967849182031e292",
-    "productId": "torobshop-967849182031e292",
-    "name": "ست اپیلاتور/موبر زنانه Braun Silk-épil 9 Skinspa، با کنترل فشار، اپیلاتور خشک و مرطوب با ۱۳ وسیله اضافی، ۹-۹۹۰، رز/طلایی",
-    "brand": "",
-    "model": "ست اپیلاتور/موبر زنانه Braun Silk-épil 9 Skinspa، با کنترل فشار، اپیلاتور خشک و مرطوب با ۱۳ وسیله اضافی، ۹-۹۹۰، رز/طلایی",
-    "category": "laptop-computer",
-    "subcategory": "تبلت و آیپد",
-    "price": 52274000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%AA-%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D9%85%D9%88%D8%A8%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-Braun-Silk-pil-9-Skinspa-%D8%A8%D8%A7-%DA%A9%D9%86%D8%AA%D8%B1%D9%84-%D9%81%D8%B4%D8%A7%D8%B1-%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%AE%D8%B4%DA%A9-%D9%88-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D8%A8%D8%A7-%DB%B1%DB%B3-%D9%88%D8%B3%DB%8C%D9%84%D9%87-%D8%A7%D8%B6%D8%A7%D9%81%DB%8C-%DB%B9-%DB%B9%DB%B9%DB%B0-%D8%B1%D8%B2-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.215Z"
-  },
-  {
-    "id": "torobshop-laptop-computer-7c140bba2434e29a",
-    "productId": "torobshop-7c140bba2434e29a",
-    "name": "دستگاه‌های رفع موهای زائد فیلیپس لومیای آی‌پی‌ال سری ۹۰۰۰",
-    "brand": "",
-    "model": "دستگاه‌های رفع موهای زائد فیلیپس لومیای آی‌پی‌ال سری ۹۰۰۰",
-    "category": "laptop-computer",
-    "subcategory": "تبلت و آیپد",
-    "price": 114192000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%84%D9%88%D9%85%DB%8C%D8%A7%DB%8C-%D8%A2%DB%8C-%D9%BE%DB%8C-%D8%A7%D9%84-%D8%B3%D8%B1%DB%8C-%DB%B9%DB%B0%DB%B0%DB%B0",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.215Z"
+    "observedAt": "2026-09-04T21:13:56.311Z"
   },
   {
     "id": "torobshop-laptop-computer-52384f9bcf5e57ca",
@@ -6729,43 +7197,43 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.215Z"
+    "observedAt": "2026-09-04T21:13:56.311Z"
   },
   {
-    "id": "torobshop-laptop-computer-2182240d0b4b05fe",
-    "productId": "torobshop-2182240d0b4b05fe",
-    "name": "دستگاه رفع موهای زائد Braun Smart IPL Skin i·expert 7، PL7442، سفید/رزگلد - جایگزین لیزر موهای زائد، رفع دائمی موهای زائد، شامل قاب، تیغ کوچک، تیغ ونوس و 4 ضمیمه سفید/برنزی 4 ضمیمه",
+    "id": "torobshop-laptop-computer-6e4a2eb26d23a745",
+    "productId": "torobshop-6e4a2eb26d23a745",
+    "name": "دستگاه رفع موهای زائد Braun IPL Silk Expert Pro 5 برای خانم‌ها/آقایان، ۳ سری، رفع موهای زائد قابل مشاهده، طراحی شده در آلمان، ماشین اصلاح ونوس، جایگزین لیزر موهای زائد، PL5267، سفید/طلایی",
     "brand": "",
-    "model": "دستگاه رفع موهای زائد Braun Smart IPL Skin i·expert 7، PL7442، سفید/رزگلد - جایگزین لیزر موهای زائد، رفع دائمی موهای زائد، شامل قاب، تیغ کوچک، تیغ ونوس و 4 ضمیمه سفید/برنزی 4 ضمیمه",
+    "model": "دستگاه رفع موهای زائد Braun IPL Silk Expert Pro 5 برای خانم‌ها/آقایان، ۳ سری، رفع موهای زائد قابل مشاهده، طراحی شده در آلمان، ماشین اصلاح ونوس، جایگزین لیزر موهای زائد، PL5267، سفید/طلایی",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 160630000,
+    "price": 99981000,
     "currency": "IRT",
     "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Braun-Smart-IPL-Skin-i-expert-7-PL7442-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B1%D8%B2%DA%AF%D9%84%D8%AF-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D9%84%DB%8C%D8%B2%D8%B1-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%B1%D9%81%D8%B9-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%B4%D8%A7%D9%85%D9%84-%D9%82%D8%A7%D8%A8-%D8%AA%DB%8C%D8%BA-%DA%A9%D9%88%DA%86%DA%A9-%D8%AA%DB%8C%D8%BA-%D9%88%D9%86%D9%88%D8%B3-%D9%88-4-%D8%B6%D9%85%DB%8C%D9%85%D9%87-%D8%B3%D9%81%DB%8C%D8%AF-%D8%A8%D8%B1%D9%86%D8%B2%DB%8C-4-%D8%B6%D9%85%DB%8C%D9%85%D9%87",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Braun-IPL-Silk-Expert-Pro-5-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AE%D8%A7%D9%86%D9%85-%D9%87%D8%A7-%D8%A2%D9%82%D8%A7%DB%8C%D8%A7%D9%86-%DB%B3-%D8%B3%D8%B1%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D9%82%D8%A7%D8%A8%D9%84-%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D9%87-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B4%D8%AF%D9%87-%D8%AF%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88%D9%86%D9%88%D8%B3-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D9%84%DB%8C%D8%B2%D8%B1-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-PL5267-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.215Z"
+    "observedAt": "2026-09-04T21:13:56.311Z"
   },
   {
-    "id": "torobshop-laptop-computer-733ef1e66d9b337b",
-    "productId": "torobshop-733ef1e66d9b337b",
-    "name": "دستگاه رفع موهای زائد Braun IPL مدل Silk·expert Pro 5 — رفع دائمی و بدون درد موهای زائد برای استفاده در منزل — شامل قاب، تیغ ژیلت ونوس، ۳ قطعه جانبی، طراحی شده در آلمان — PL5262، سفید/طلایی",
+    "id": "torobshop-laptop-computer-967849182031e292",
+    "productId": "torobshop-967849182031e292",
+    "name": "ست اپیلاتور/موبر زنانه Braun Silk-épil 9 Skinspa، با کنترل فشار، اپیلاتور خشک و مرطوب با ۱۳ وسیله اضافی، ۹-۹۹۰، رز/طلایی",
     "brand": "",
-    "model": "دستگاه رفع موهای زائد Braun IPL مدل Silk·expert Pro 5 — رفع دائمی و بدون درد موهای زائد برای استفاده در منزل — شامل قاب، تیغ ژیلت ونوس، ۳ قطعه جانبی، طراحی شده در آلمان — PL5262، سفید/طلایی",
+    "model": "ست اپیلاتور/موبر زنانه Braun Silk-épil 9 Skinspa، با کنترل فشار، اپیلاتور خشک و مرطوب با ۱۳ وسیله اضافی، ۹-۹۹۰، رز/طلایی",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 117999000,
+    "price": 52274000,
     "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Braun-IPL-%D9%85%D8%AF%D9%84-Silk-expert-Pro-5-%D8%B1%D9%81%D8%B9-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%88-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%B1%D8%AF-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%85%D9%86%D8%B2%D9%84-%D8%B4%D8%A7%D9%85%D9%84-%D9%82%D8%A7%D8%A8-%D8%AA%DB%8C%D8%BA-%DA%98%DB%8C%D9%84%D8%AA-%D9%88%D9%86%D9%88%D8%B3-%DB%B3-%D9%82%D8%B7%D8%B9%D9%87-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B4%D8%AF%D9%87-%D8%AF%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-PL5262-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%AA-%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D9%85%D9%88%D8%A8%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-Braun-Silk-pil-9-Skinspa-%D8%A8%D8%A7-%DA%A9%D9%86%D8%AA%D8%B1%D9%84-%D9%81%D8%B4%D8%A7%D8%B1-%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%AE%D8%B4%DA%A9-%D9%88-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D8%A8%D8%A7-%DB%B1%DB%B3-%D9%88%D8%B3%DB%8C%D9%84%D9%87-%D8%A7%D8%B6%D8%A7%D9%81%DB%8C-%DB%B9-%DB%B9%DB%B9%DB%B0-%D8%B1%D8%B2-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.215Z"
+    "observedAt": "2026-09-04T21:13:56.311Z"
   },
   {
     "id": "torobshop-laptop-computer-e93d0f8dd3711a93",
@@ -6783,43 +7251,61 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.215Z"
+    "observedAt": "2026-09-04T21:13:56.311Z"
   },
   {
-    "id": "torobshop-laptop-computer-8b93c7ea550544bf",
-    "productId": "torobshop-8b93c7ea550544bf",
-    "name": "اپیلاتور زنانه براون مدل Silk·épil 7، سری پهن برای رفع آسان موهای زائد، مناسب برای پوست‌های خشک و مرطوب، پوستی صاف و لطیف با ماندگاری طولانی، اصلاح بانوان، ضد آب — 7-011، نقره‌ای",
+    "id": "torobshop-laptop-computer-7c140bba2434e29a",
+    "productId": "torobshop-7c140bba2434e29a",
+    "name": "دستگاه‌های رفع موهای زائد فیلیپس لومیای آی‌پی‌ال سری ۹۰۰۰",
     "brand": "",
-    "model": "اپیلاتور زنانه براون مدل Silk·épil 7، سری پهن برای رفع آسان موهای زائد، مناسب برای پوست‌های خشک و مرطوب، پوستی صاف و لطیف با ماندگاری طولانی، اصلاح بانوان، ضد آب — 7-011، نقره‌ای",
+    "model": "دستگاه‌های رفع موهای زائد فیلیپس لومیای آی‌پی‌ال سری ۹۰۰۰",
     "category": "laptop-computer",
     "subcategory": "تبلت و آیپد",
-    "price": 28928000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D9%85%D8%AF%D9%84-Silk-pil-7-%D8%B3%D8%B1%DB%8C-%D9%BE%D9%87%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D8%A2%D8%B3%D8%A7%D9%86-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D9%88%D8%B3%D8%AA-%D9%87%D8%A7%DB%8C-%D8%AE%D8%B4%DA%A9-%D9%88-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D9%BE%D9%88%D8%B3%D8%AA%DB%8C-%D8%B5%D8%A7%D9%81-%D9%88-%D9%84%D8%B7%DB%8C%D9%81-%D8%A8%D8%A7-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1%DB%8C-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D8%B6%D8%AF-%D8%A2%D8%A8-7-011-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.215Z"
-  },
-  {
-    "id": "torobshop-laptop-computer-391c9855ce3adbee",
-    "productId": "torobshop-391c9855ce3adbee",
-    "name": "اتو موی فیلیپس سری 5000 با فناوری ترموشیلد، مشکی [مدل BHS510/00]",
-    "brand": "",
-    "model": "اتو موی فیلیپس سری 5000 با فناوری ترموشیلد، مشکی [مدل BHS510/00]",
-    "category": "laptop-computer",
-    "subcategory": "تبلت و آیپد",
-    "price": 18016000,
+    "price": 114192000,
     "currency": "IRT",
     "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%A7%D8%AA%D9%88-%D9%85%D9%88%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%B3%D8%B1%DB%8C-5000-%D8%A8%D8%A7-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-%D8%AA%D8%B1%D9%85%D9%88%D8%B4%DB%8C%D9%84%D8%AF-%D9%85%D8%B4%DA%A9%DB%8C-%D9%85%D8%AF%D9%84-BHS510-00",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%84%D9%88%D9%85%DB%8C%D8%A7%DB%8C-%D8%A2%DB%8C-%D9%BE%DB%8C-%D8%A7%D9%84-%D8%B3%D8%B1%DB%8C-%DB%B9%DB%B0%DB%B0%DB%B0",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.215Z"
+    "observedAt": "2026-09-04T21:13:56.311Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-2182240d0b4b05fe",
+    "productId": "torobshop-2182240d0b4b05fe",
+    "name": "دستگاه رفع موهای زائد Braun Smart IPL Skin i·expert 7، PL7442، سفید/رزگلد - جایگزین لیزر موهای زائد، رفع دائمی موهای زائد، شامل قاب، تیغ کوچک، تیغ ونوس و 4 ضمیمه سفید/برنزی 4 ضمیمه",
+    "brand": "",
+    "model": "دستگاه رفع موهای زائد Braun Smart IPL Skin i·expert 7، PL7442، سفید/رزگلد - جایگزین لیزر موهای زائد، رفع دائمی موهای زائد، شامل قاب، تیغ کوچک، تیغ ونوس و 4 ضمیمه سفید/برنزی 4 ضمیمه",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 160630000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Braun-Smart-IPL-Skin-i-expert-7-PL7442-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B1%D8%B2%DA%AF%D9%84%D8%AF-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D9%84%DB%8C%D8%B2%D8%B1-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%B1%D9%81%D8%B9-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%B4%D8%A7%D9%85%D9%84-%D9%82%D8%A7%D8%A8-%D8%AA%DB%8C%D8%BA-%DA%A9%D9%88%DA%86%DA%A9-%D8%AA%DB%8C%D8%BA-%D9%88%D9%86%D9%88%D8%B3-%D9%88-4-%D8%B6%D9%85%DB%8C%D9%85%D9%87-%D8%B3%D9%81%DB%8C%D8%AF-%D8%A8%D8%B1%D9%86%D8%B2%DB%8C-4-%D8%B6%D9%85%DB%8C%D9%85%D9%87",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.311Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-733ef1e66d9b337b",
+    "productId": "torobshop-733ef1e66d9b337b",
+    "name": "دستگاه رفع موهای زائد Braun IPL مدل Silk·expert Pro 5 — رفع دائمی و بدون درد موهای زائد برای استفاده در منزل — شامل قاب، تیغ ژیلت ونوس، ۳ قطعه جانبی، طراحی شده در آلمان — PL5262، سفید/طلایی",
+    "brand": "",
+    "model": "دستگاه رفع موهای زائد Braun IPL مدل Silk·expert Pro 5 — رفع دائمی و بدون درد موهای زائد برای استفاده در منزل — شامل قاب، تیغ ژیلت ونوس، ۳ قطعه جانبی، طراحی شده در آلمان — PL5262، سفید/طلایی",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 117999000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Braun-IPL-%D9%85%D8%AF%D9%84-Silk-expert-Pro-5-%D8%B1%D9%81%D8%B9-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%88-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%B1%D8%AF-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%85%D9%86%D8%B2%D9%84-%D8%B4%D8%A7%D9%85%D9%84-%D9%82%D8%A7%D8%A8-%D8%AA%DB%8C%D8%BA-%DA%98%DB%8C%D9%84%D8%AA-%D9%88%D9%86%D9%88%D8%B3-%DB%B3-%D9%82%D8%B7%D8%B9%D9%87-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B4%D8%AF%D9%87-%D8%AF%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-PL5262-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.311Z"
   },
   {
     "id": "torobshop-laptop-computer-6ba05ec79330884d",
@@ -6837,7 +7323,43 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.215Z"
+    "observedAt": "2026-09-04T21:13:56.311Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-8b93c7ea550544bf",
+    "productId": "torobshop-8b93c7ea550544bf",
+    "name": "اپیلاتور زنانه براون مدل Silk·épil 7، سری پهن برای رفع آسان موهای زائد، مناسب برای پوست‌های خشک و مرطوب، پوستی صاف و لطیف با ماندگاری طولانی، اصلاح بانوان، ضد آب — 7-011، نقره‌ای",
+    "brand": "",
+    "model": "اپیلاتور زنانه براون مدل Silk·épil 7، سری پهن برای رفع آسان موهای زائد، مناسب برای پوست‌های خشک و مرطوب، پوستی صاف و لطیف با ماندگاری طولانی، اصلاح بانوان، ضد آب — 7-011، نقره‌ای",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 28928000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D9%85%D8%AF%D9%84-Silk-pil-7-%D8%B3%D8%B1%DB%8C-%D9%BE%D9%87%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D8%A2%D8%B3%D8%A7%D9%86-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D9%88%D8%B3%D8%AA-%D9%87%D8%A7%DB%8C-%D8%AE%D8%B4%DA%A9-%D9%88-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D9%BE%D9%88%D8%B3%D8%AA%DB%8C-%D8%B5%D8%A7%D9%81-%D9%88-%D9%84%D8%B7%DB%8C%D9%81-%D8%A8%D8%A7-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1%DB%8C-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D8%B6%D8%AF-%D8%A2%D8%A8-7-011-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.311Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-391c9855ce3adbee",
+    "productId": "torobshop-391c9855ce3adbee",
+    "name": "اتو موی فیلیپس سری 5000 با فناوری ترموشیلد، مشکی [مدل BHS510/00]",
+    "brand": "",
+    "model": "اتو موی فیلیپس سری 5000 با فناوری ترموشیلد، مشکی [مدل BHS510/00]",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 18016000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D8%AA%D9%88-%D9%85%D9%88%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%B3%D8%B1%DB%8C-5000-%D8%A8%D8%A7-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-%D8%AA%D8%B1%D9%85%D9%88%D8%B4%DB%8C%D9%84%D8%AF-%D9%85%D8%B4%DA%A9%DB%8C-%D9%85%D8%AF%D9%84-BHS510-00",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.311Z"
   },
   {
     "id": "torobshop-laptop-computer-80504a6da4da0683",
@@ -6855,7 +7377,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.215Z"
+    "observedAt": "2026-09-04T21:13:56.311Z"
   },
   {
     "id": "torobshop-laptop-computer-f0ab07848df05c09",
@@ -6873,43 +7395,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.215Z"
-  },
-  {
-    "id": "torobshop-laptop-computer-e364f422cc177d5d",
-    "productId": "torobshop-e364f422cc177d5d",
-    "name": "دستگاه لیزر بدن بانوان براون آلمان IPL Braun Silk Expert Pro 5 - رفع موهای زائد، رفع دائمی و بدون درد موهای زائد در منزل - شامل کیف، 2 تیغ ونوس، 2 قطعه جانبی، طراحی شده در آلمان - PL5157، سفید/طلایی",
-    "brand": "",
-    "model": "دستگاه لیزر بدن بانوان براون آلمان IPL Braun Silk Expert Pro 5 - رفع موهای زائد، رفع دائمی و بدون درد موهای زائد در منزل - شامل کیف، 2 تیغ ونوس، 2 قطعه جانبی، طراحی شده در آلمان - PL5157، سفید/طلایی",
-    "category": "laptop-computer",
-    "subcategory": "تبلت و آیپد",
-    "price": 112163000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-IPL-Braun-Silk-Expert-Pro-5-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%B1%D9%81%D8%B9-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%88-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%B1%D8%AF-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AF%D8%B1-%D9%85%D9%86%D8%B2%D9%84-%D8%B4%D8%A7%D9%85%D9%84-%DA%A9%DB%8C%D9%81-2-%D8%AA%DB%8C%D8%BA-%D9%88%D9%86%D9%88%D8%B3-2-%D9%82%D8%B7%D8%B9%D9%87-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B4%D8%AF%D9%87-%D8%AF%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-PL5157-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.215Z"
-  },
-  {
-    "id": "torobshop-laptop-computer-9195692751acb6cb",
-    "productId": "torobshop-9195692751acb6cb",
-    "name": "اپیلاتور زنانه براون آلمان Silk-épil 9، مخصوص بانوان با سری چرخان، اصلاح آسان مو، مناسب برای استفاده خشک و مرطوب، ضد آب، شامل ریش‌تراش و اصلاح‌کننده ژیلت ونوس، 9-130، سفید/صورتی",
-    "brand": "",
-    "model": "اپیلاتور زنانه براون آلمان Silk-épil 9، مخصوص بانوان با سری چرخان، اصلاح آسان مو، مناسب برای استفاده خشک و مرطوب، ضد آب، شامل ریش‌تراش و اصلاح‌کننده ژیلت ونوس، 9-130، سفید/صورتی",
-    "category": "laptop-computer",
-    "subcategory": "تبلت و آیپد",
-    "price": 47706000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D9%85%D8%AF%D9%84-Silk-pil-9-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D8%A8%D8%A7-%D8%B3%D8%B1%DB%8C-%DA%86%D8%B1%D8%AE%D8%A7%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%A2%D8%B3%D8%A7%D9%86-%D9%85%D9%88-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AE%D8%B4%DA%A9-%D9%88-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D8%B6%D8%AF-%D8%A2%D8%A8-%D8%B4%D8%A7%D9%85%D9%84-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D9%88-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%DA%98%DB%8C%D9%84%D8%AA-%D9%88%D9%86%D9%88%D8%B3-9-130-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B5%D9%88%D8%B1%D8%AA%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.215Z"
+    "observedAt": "2026-09-04T21:13:56.311Z"
   },
   {
     "id": "torobshop-laptop-computer-f7e7ecdbe9c782b9",
@@ -6927,7 +7413,43 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.215Z"
+    "observedAt": "2026-09-04T21:13:56.311Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-e364f422cc177d5d",
+    "productId": "torobshop-e364f422cc177d5d",
+    "name": "دستگاه لیزر بدن بانوان براون آلمان IPL Braun Silk Expert Pro 5 - رفع موهای زائد، رفع دائمی و بدون درد موهای زائد در منزل - شامل کیف، 2 تیغ ونوس، 2 قطعه جانبی، طراحی شده در آلمان - PL5157، سفید/طلایی",
+    "brand": "",
+    "model": "دستگاه لیزر بدن بانوان براون آلمان IPL Braun Silk Expert Pro 5 - رفع موهای زائد، رفع دائمی و بدون درد موهای زائد در منزل - شامل کیف، 2 تیغ ونوس، 2 قطعه جانبی، طراحی شده در آلمان - PL5157، سفید/طلایی",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 112163000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-IPL-Braun-Silk-Expert-Pro-5-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%B1%D9%81%D8%B9-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%88-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%B1%D8%AF-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AF%D8%B1-%D9%85%D9%86%D8%B2%D9%84-%D8%B4%D8%A7%D9%85%D9%84-%DA%A9%DB%8C%D9%81-2-%D8%AA%DB%8C%D8%BA-%D9%88%D9%86%D9%88%D8%B3-2-%D9%82%D8%B7%D8%B9%D9%87-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B4%D8%AF%D9%87-%D8%AF%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-PL5157-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.311Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-9195692751acb6cb",
+    "productId": "torobshop-9195692751acb6cb",
+    "name": "اپیلاتور زنانه براون آلمان Silk-épil 9، مخصوص بانوان با سری چرخان، اصلاح آسان مو، مناسب برای استفاده خشک و مرطوب، ضد آب، شامل ریش‌تراش و اصلاح‌کننده ژیلت ونوس، 9-130، سفید/صورتی",
+    "brand": "",
+    "model": "اپیلاتور زنانه براون آلمان Silk-épil 9، مخصوص بانوان با سری چرخان، اصلاح آسان مو، مناسب برای استفاده خشک و مرطوب، ضد آب، شامل ریش‌تراش و اصلاح‌کننده ژیلت ونوس، 9-130، سفید/صورتی",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 47706000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D9%85%D8%AF%D9%84-Silk-pil-9-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D8%A8%D8%A7-%D8%B3%D8%B1%DB%8C-%DA%86%D8%B1%D8%AE%D8%A7%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%A2%D8%B3%D8%A7%D9%86-%D9%85%D9%88-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AE%D8%B4%DA%A9-%D9%88-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D8%B6%D8%AF-%D8%A2%D8%A8-%D8%B4%D8%A7%D9%85%D9%84-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D9%88-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%DA%98%DB%8C%D9%84%D8%AA-%D9%88%D9%86%D9%88%D8%B3-9-130-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B5%D9%88%D8%B1%D8%AA%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.311Z"
   },
   {
     "id": "torobshop-laptop-computer-b6f7b97e0a41fcce",
@@ -6945,7 +7467,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.215Z"
+    "observedAt": "2026-09-04T21:13:56.311Z"
   },
   {
     "id": "torobshop-laptop-computer-7f7cef16b95ceef4",
@@ -6963,7 +7485,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.215Z"
+    "observedAt": "2026-09-04T21:13:56.312Z"
   },
   {
     "id": "torobshop-laptop-computer-591d2fa02319cbe4",
@@ -6981,7 +7503,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.215Z"
+    "observedAt": "2026-09-04T21:13:56.312Z"
   },
   {
     "id": "torobshop-laptop-computer-45f8a3eeff0791c7",
@@ -6999,7 +7521,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.215Z"
+    "observedAt": "2026-09-04T21:13:56.312Z"
   },
   {
     "id": "torobshop-laptop-computer-1abc4d3d93984fc9",
@@ -7017,7 +7539,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.215Z"
+    "observedAt": "2026-09-04T21:13:56.312Z"
   },
   {
     "id": "torobshop-laptop-computer-333eed5c812fb391",
@@ -7035,7 +7557,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.215Z"
+    "observedAt": "2026-09-04T21:13:56.312Z"
   },
   {
     "id": "torobshop-laptop-computer-bff623028ca50588",
@@ -7053,7 +7575,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.215Z"
+    "observedAt": "2026-09-04T21:13:56.312Z"
   },
   {
     "id": "torobshop-laptop-computer-d5e3206967150e5a",
@@ -7071,7 +7593,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.215Z"
+    "observedAt": "2026-09-04T21:13:56.312Z"
   },
   {
     "id": "torobshop-laptop-computer-2a6259b902f04fb9",
@@ -7089,7 +7611,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.215Z"
+    "observedAt": "2026-09-04T21:13:56.312Z"
   },
   {
     "id": "torobshop-laptop-computer-fb66328b02aeada9",
@@ -7107,7 +7629,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.215Z"
+    "observedAt": "2026-09-04T21:13:56.312Z"
   },
   {
     "id": "torobshop-laptop-computer-ef59c7447c918481",
@@ -7125,7 +7647,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.215Z"
+    "observedAt": "2026-09-04T21:13:56.312Z"
   },
   {
     "id": "torobshop-laptop-computer-ec0c6101e09fd316",
@@ -7143,7 +7665,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.215Z"
+    "observedAt": "2026-09-04T21:13:56.312Z"
   },
   {
     "id": "torobshop-laptop-computer-4b1136653b8c3865",
@@ -7161,7 +7683,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.215Z"
+    "observedAt": "2026-09-04T21:13:56.312Z"
   },
   {
     "id": "torobshop-laptop-computer-99dbc61e2d2488d7",
@@ -7179,7 +7701,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.215Z"
+    "observedAt": "2026-09-04T21:13:56.312Z"
   },
   {
     "id": "torobshop-laptop-computer-091330dc970a0bbe",
@@ -7197,7 +7719,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.215Z"
+    "observedAt": "2026-09-04T21:13:56.312Z"
   },
   {
     "id": "torobshop-laptop-computer-3fe480d61f801988",
@@ -7215,7 +7737,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.215Z"
+    "observedAt": "2026-09-04T21:13:56.312Z"
   },
   {
     "id": "torobshop-laptop-computer-9c53c942a980e1d6",
@@ -7233,7 +7755,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.215Z"
+    "observedAt": "2026-09-04T21:13:56.312Z"
   },
   {
     "id": "torobshop-laptop-computer-74fc37b5d70bd7c1",
@@ -7251,7 +7773,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.215Z"
+    "observedAt": "2026-09-04T21:13:56.312Z"
   },
   {
     "id": "torobshop-laptop-computer-20c5a20079487b1a",
@@ -7269,7 +7791,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.215Z"
+    "observedAt": "2026-09-04T21:13:56.312Z"
   },
   {
     "id": "torobshop-laptop-computer-acc19b901c8b2ad8",
@@ -7287,7 +7809,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.215Z"
+    "observedAt": "2026-09-04T21:13:56.312Z"
   },
   {
     "id": "torobshop-laptop-computer-215471b6024642b7",
@@ -7305,7 +7827,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.215Z"
+    "observedAt": "2026-09-04T21:13:56.312Z"
   },
   {
     "id": "torobshop-laptop-computer-69bba0d6d694a47d",
@@ -7323,7 +7845,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.215Z"
+    "observedAt": "2026-09-04T21:13:56.312Z"
   },
   {
     "id": "torobshop-laptop-computer-a95fac45da84a72b",
@@ -7341,7 +7863,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.215Z"
+    "observedAt": "2026-09-04T21:13:56.312Z"
   },
   {
     "id": "torobshop-laptop-computer-27f7af68d3543ffb",
@@ -7359,61 +7881,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.215Z"
-  },
-  {
-    "id": "torobshop-laptop-computer-01be123cfbff3d67",
-    "productId": "torobshop-01be123cfbff3d67",
-    "name": "اپیلاتور زنانه براون آلمان Silk-épil 9 برای رفع موهای زائد با ماندگاری طولانی، ریش‌تراش زنانه، سری اصلاح، سری اصلاح، مدل 9-041، سفید/نقره‌ای",
-    "brand": "",
-    "model": "اپیلاتور زنانه براون آلمان Silk-épil 9 برای رفع موهای زائد با ماندگاری طولانی، ریش‌تراش زنانه، سری اصلاح، سری اصلاح، مدل 9-041، سفید/نقره‌ای",
-    "category": "laptop-computer",
-    "subcategory": "تبلت و آیپد",
-    "price": 36795000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D9%85%D9%88%D8%A8%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D9%85%D8%AF%D9%84-Silk-pil-9-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%D8%A7-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1%DB%8C-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%85%D8%AF%D9%84-9-041-%D8%B3%D9%81%DB%8C%D8%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.215Z"
-  },
-  {
-    "id": "torobshop-laptop-computer-ed3206a7c4997ceb",
-    "productId": "torobshop-ed3206a7c4997ceb",
-    "name": "دستگاه‌های IPL براون، حذف موهای زائد، Silk·expert Mini، PL1100، سفید/نقره‌ای، لیزر جایگزین برای حذف موهای زائد در منزل، حذف دائمی موهای زائد، اندازه جمع و جور برای استفاده در حال حرکت، آسان و ایمن",
-    "brand": "",
-    "model": "دستگاه‌های IPL براون، حذف موهای زائد، Silk·expert Mini، PL1100، سفید/نقره‌ای، لیزر جایگزین برای حذف موهای زائد در منزل، حذف دائمی موهای زائد، اندازه جمع و جور برای استفاده در حال حرکت، آسان و ایمن",
-    "category": "laptop-computer",
-    "subcategory": "تبلت و آیپد",
-    "price": 67755000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-IPL-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%AD%D8%B0%D9%81-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Silk-expert-Mini-PL1100-%D8%B3%D9%81%DB%8C%D8%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C-%D9%84%DB%8C%D8%B2%D8%B1-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AD%D8%B0%D9%81-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AF%D8%B1-%D9%85%D9%86%D8%B2%D9%84-%D8%AD%D8%B0%D9%81-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%D9%87-%D8%AC%D9%85%D8%B9-%D9%88-%D8%AC%D9%88%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D8%AD%D8%A7%D9%84-%D8%AD%D8%B1%DA%A9%D8%AA-%D8%A2%D8%B3%D8%A7%D9%86-%D9%88-%D8%A7%DB%8C%D9%85%D9%86",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.215Z"
-  },
-  {
-    "id": "torobshop-laptop-computer-ab3241a3e4a91b6d",
-    "productId": "torobshop-ab3241a3e4a91b6d",
-    "name": "سشوار Philips DryCare Prestige با سنسور MoistureProtect HP8280 / 00، 2300 وات، موتور DC و 2 سری اتصال",
-    "brand": "اچ‌پی",
-    "model": "سشوار Philips DryCare Prestige با سنسور MoistureProtect HP8280 / 00، 2300 وات، موتور DC و 2 سری اتصال",
-    "category": "laptop-computer",
-    "subcategory": "تبلت و آیپد",
-    "price": 28167000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B4%D9%88%D8%A7%D8%B1-Philips-DryCare-Prestige-%D8%A8%D8%A7-%D8%B3%D9%86%D8%B3%D9%88%D8%B1-MoistureProtect-HP8280-00-2300-%D9%88%D8%A7%D8%AA-%D9%85%D9%88%D8%AA%D9%88%D8%B1-DC-%D9%88-2-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.215Z"
+    "observedAt": "2026-09-04T21:13:56.312Z"
   },
   {
     "id": "torobshop-laptop-computer-5939ecdc87bd4f0d",
@@ -7431,7 +7899,61 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.215Z"
+    "observedAt": "2026-09-04T21:13:56.312Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-01be123cfbff3d67",
+    "productId": "torobshop-01be123cfbff3d67",
+    "name": "اپیلاتور زنانه براون آلمان Silk-épil 9 برای رفع موهای زائد با ماندگاری طولانی، ریش‌تراش زنانه، سری اصلاح، سری اصلاح، مدل 9-041، سفید/نقره‌ای",
+    "brand": "",
+    "model": "اپیلاتور زنانه براون آلمان Silk-épil 9 برای رفع موهای زائد با ماندگاری طولانی، ریش‌تراش زنانه، سری اصلاح، سری اصلاح، مدل 9-041، سفید/نقره‌ای",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 36795000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D9%85%D9%88%D8%A8%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D9%85%D8%AF%D9%84-Silk-pil-9-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%D8%A7-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1%DB%8C-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%85%D8%AF%D9%84-9-041-%D8%B3%D9%81%DB%8C%D8%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.312Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-ed3206a7c4997ceb",
+    "productId": "torobshop-ed3206a7c4997ceb",
+    "name": "دستگاه‌های IPL براون، حذف موهای زائد، Silk·expert Mini، PL1100، سفید/نقره‌ای، لیزر جایگزین برای حذف موهای زائد در منزل، حذف دائمی موهای زائد، اندازه جمع و جور برای استفاده در حال حرکت، آسان و ایمن",
+    "brand": "",
+    "model": "دستگاه‌های IPL براون، حذف موهای زائد، Silk·expert Mini، PL1100، سفید/نقره‌ای، لیزر جایگزین برای حذف موهای زائد در منزل، حذف دائمی موهای زائد، اندازه جمع و جور برای استفاده در حال حرکت، آسان و ایمن",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 67755000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-IPL-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%AD%D8%B0%D9%81-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Silk-expert-Mini-PL1100-%D8%B3%D9%81%DB%8C%D8%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C-%D9%84%DB%8C%D8%B2%D8%B1-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AD%D8%B0%D9%81-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AF%D8%B1-%D9%85%D9%86%D8%B2%D9%84-%D8%AD%D8%B0%D9%81-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%D9%87-%D8%AC%D9%85%D8%B9-%D9%88-%D8%AC%D9%88%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D8%AD%D8%A7%D9%84-%D8%AD%D8%B1%DA%A9%D8%AA-%D8%A2%D8%B3%D8%A7%D9%86-%D9%88-%D8%A7%DB%8C%D9%85%D9%86",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.312Z"
+  },
+  {
+    "id": "torobshop-laptop-computer-ab3241a3e4a91b6d",
+    "productId": "torobshop-ab3241a3e4a91b6d",
+    "name": "سشوار Philips DryCare Prestige با سنسور MoistureProtect HP8280 / 00، 2300 وات، موتور DC و 2 سری اتصال",
+    "brand": "اچ‌پی",
+    "model": "سشوار Philips DryCare Prestige با سنسور MoistureProtect HP8280 / 00، 2300 وات، موتور DC و 2 سری اتصال",
+    "category": "laptop-computer",
+    "subcategory": "تبلت و آیپد",
+    "price": 28167000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B4%D9%88%D8%A7%D8%B1-Philips-DryCare-Prestige-%D8%A8%D8%A7-%D8%B3%D9%86%D8%B3%D9%88%D8%B1-MoistureProtect-HP8280-00-2300-%D9%88%D8%A7%D8%AA-%D9%85%D9%88%D8%AA%D9%88%D8%B1-DC-%D9%88-2-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T21:13:56.312Z"
   },
   {
     "id": "torobshop-laptop-computer-ac9daafe2ea5d5bc",
@@ -7449,7 +7971,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.215Z"
+    "observedAt": "2026-09-04T21:13:56.312Z"
   },
   {
     "id": "torobshop-laptop-computer-db81d40bcc397e16",
@@ -7467,7 +7989,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.215Z"
+    "observedAt": "2026-09-04T21:13:56.312Z"
   },
   {
     "id": "torobshop-laptop-computer-08320ee86e550b3d",
@@ -7485,7 +8007,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.215Z"
+    "observedAt": "2026-09-04T21:13:56.312Z"
   },
   {
     "id": "torobshop-laptop-computer-3e4d9495e052b1b8",
@@ -7503,7 +8025,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.215Z"
+    "observedAt": "2026-09-04T21:13:56.312Z"
   },
   {
     "id": "torobshop-laptop-computer-a5fddfc8c0c99048",
@@ -7521,7 +8043,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.215Z"
+    "observedAt": "2026-09-04T21:13:56.312Z"
   },
   {
     "id": "torobshop-laptop-computer-301beb96f2df717f",
@@ -7539,7 +8061,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.216Z"
+    "observedAt": "2026-09-04T21:13:56.312Z"
   },
   {
     "id": "torobshop-laptop-computer-1059c1f184e3d8b3",
@@ -7557,7 +8079,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.216Z"
+    "observedAt": "2026-09-04T21:13:56.312Z"
   },
   {
     "id": "torobshop-laptop-computer-834858ae4530d775",
@@ -7575,7 +8097,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.216Z"
+    "observedAt": "2026-09-04T21:13:56.312Z"
   },
   {
     "id": "torobshop-laptop-computer-2798976de6f0cc81",
@@ -7593,7 +8115,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.216Z"
+    "observedAt": "2026-09-04T21:13:56.312Z"
   },
   {
     "id": "torobshop-laptop-computer-68a4dab928f7c962",
@@ -7611,7 +8133,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.216Z"
+    "observedAt": "2026-09-04T21:13:56.312Z"
   },
   {
     "id": "torobshop-laptop-computer-d5b957f7df4ff03f",
@@ -7629,7 +8151,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.216Z"
+    "observedAt": "2026-09-04T21:13:56.312Z"
   },
   {
     "id": "torobshop-laptop-computer-707702931ea634d8",
@@ -7647,7 +8169,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.216Z"
+    "observedAt": "2026-09-04T21:13:56.313Z"
   },
   {
     "id": "torobshop-laptop-computer-d8e34bb113f4f352",
@@ -7665,7 +8187,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.216Z"
+    "observedAt": "2026-09-04T21:13:56.313Z"
   },
   {
     "id": "torobshop-laptop-computer-2a3268e48e6a43b8",
@@ -7683,7 +8205,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.216Z"
+    "observedAt": "2026-09-04T21:13:56.313Z"
   },
   {
     "id": "torobshop-laptop-computer-28255666c26f658a",
@@ -7701,7 +8223,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.216Z"
+    "observedAt": "2026-09-04T21:13:56.313Z"
   },
   {
     "id": "torobshop-laptop-computer-9a0fccac9db69875",
@@ -7719,7 +8241,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.216Z"
+    "observedAt": "2026-09-04T21:13:56.313Z"
   },
   {
     "id": "torobshop-laptop-computer-93e51ab5d27d6671",
@@ -7737,7 +8259,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%A8%D9%84%D8%AA-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:10:59.216Z"
+    "observedAt": "2026-09-04T21:13:56.313Z"
   },
   {
     "id": "torobshop-laptop-computer-8def474b79562d58",
@@ -7755,7 +8277,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:11:10.238Z"
+    "observedAt": "2026-09-04T21:14:06.214Z"
   },
   {
     "id": "torobshop-laptop-computer-43ff99d59b7d2a16",
@@ -7773,7 +8295,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:11:10.238Z"
+    "observedAt": "2026-09-04T21:14:06.214Z"
   },
   {
     "id": "torobshop-laptop-computer-39dacdcbe9e0ff72",
@@ -7791,7 +8313,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:11:10.238Z"
+    "observedAt": "2026-09-04T21:14:06.214Z"
   },
   {
     "id": "torobshop-laptop-computer-45a4667ade256f03",
@@ -7809,7 +8331,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:11:10.238Z"
+    "observedAt": "2026-09-04T21:14:06.214Z"
   },
   {
     "id": "torobshop-laptop-computer-aec6988a48e581d7",
@@ -7827,7 +8349,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:11:10.238Z"
+    "observedAt": "2026-09-04T21:14:06.214Z"
   },
   {
     "id": "torobshop-laptop-computer-e9796676d0f297f9",
@@ -7845,7 +8367,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:11:10.238Z"
+    "observedAt": "2026-09-04T21:14:06.214Z"
   },
   {
     "id": "torobshop-laptop-computer-8be08654398c5a85",
@@ -7863,7 +8385,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:11:10.238Z"
+    "observedAt": "2026-09-04T21:14:06.214Z"
   },
   {
     "id": "torobshop-laptop-computer-48f10da13267db16",
@@ -7881,7 +8403,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:11:10.238Z"
+    "observedAt": "2026-09-04T21:14:06.214Z"
   },
   {
     "id": "torobshop-laptop-computer-b5212c1254552ab0",
@@ -7899,7 +8421,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:11:10.238Z"
+    "observedAt": "2026-09-04T21:14:06.214Z"
   },
   {
     "id": "torobshop-laptop-computer-ee38b4f42d870c18",
@@ -7917,7 +8439,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:11:10.238Z"
+    "observedAt": "2026-09-04T21:14:06.214Z"
   },
   {
     "id": "torobshop-laptop-computer-59b17a0848ef4695",
@@ -7935,7 +8457,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:11:10.238Z"
+    "observedAt": "2026-09-04T21:14:06.214Z"
   },
   {
     "id": "torobshop-laptop-computer-4d9173895fd60ba1",
@@ -7953,7 +8475,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:11:10.238Z"
+    "observedAt": "2026-09-04T21:14:06.214Z"
   },
   {
     "id": "torobshop-laptop-computer-9f011c5376829405",
@@ -7971,7 +8493,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:11:10.238Z"
+    "observedAt": "2026-09-04T21:14:06.214Z"
   },
   {
     "id": "torobshop-laptop-computer-efb0d065ee7c61b9",
@@ -7989,7 +8511,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:11:10.238Z"
+    "observedAt": "2026-09-04T21:14:06.214Z"
   },
   {
     "id": "torobshop-laptop-computer-52225be46b43d4a6",
@@ -8007,7 +8529,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:11:10.238Z"
+    "observedAt": "2026-09-04T21:14:06.214Z"
   },
   {
     "id": "torobshop-laptop-computer-be86510c82d4b961",
@@ -8025,7 +8547,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:11:10.238Z"
+    "observedAt": "2026-09-04T21:14:06.214Z"
   },
   {
     "id": "torobshop-laptop-computer-985955c151a4eb71",
@@ -8043,7 +8565,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:11:10.238Z"
+    "observedAt": "2026-09-04T21:14:06.214Z"
   },
   {
     "id": "torobshop-laptop-computer-bc7096a9f934f25c",
@@ -8061,7 +8583,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:11:10.238Z"
+    "observedAt": "2026-09-04T21:14:06.214Z"
   },
   {
     "id": "torobshop-laptop-computer-71658d341ba330b6",
@@ -8079,7 +8601,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:11:10.238Z"
+    "observedAt": "2026-09-04T21:14:06.214Z"
   },
   {
     "id": "torobshop-laptop-computer-e595f93f1b1011cc",
@@ -8097,7 +8619,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:11:10.238Z"
+    "observedAt": "2026-09-04T21:14:06.214Z"
   },
   {
     "id": "torobshop-laptop-computer-acf0db1b6b15a3c1",
@@ -8115,7 +8637,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:11:10.238Z"
+    "observedAt": "2026-09-04T21:14:06.214Z"
   },
   {
     "id": "torobshop-laptop-computer-b3808cdcc79c9540",
@@ -8133,7 +8655,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:11:10.238Z"
+    "observedAt": "2026-09-04T21:14:06.214Z"
   },
   {
     "id": "torobshop-laptop-computer-5cce41a534fe113e",
@@ -8151,7 +8673,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:11:10.238Z"
+    "observedAt": "2026-09-04T21:14:06.214Z"
   },
   {
     "id": "torobshop-laptop-computer-1bba5855eb88d859",
@@ -8169,7 +8691,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:11:10.238Z"
+    "observedAt": "2026-09-04T21:14:06.214Z"
   },
   {
     "id": "torobshop-laptop-computer-ade0392072e0130f",
@@ -8187,7 +8709,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:11:10.238Z"
+    "observedAt": "2026-09-04T21:14:06.214Z"
   },
   {
     "id": "torobshop-laptop-computer-03e5f3045281a17e",
@@ -8205,7 +8727,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:11:10.238Z"
+    "observedAt": "2026-09-04T21:14:06.214Z"
   },
   {
     "id": "torobshop-laptop-computer-3529e5c02a9c46db",
@@ -8223,7 +8745,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:11:10.238Z"
+    "observedAt": "2026-09-04T21:14:06.214Z"
   },
   {
     "id": "torobshop-laptop-computer-cfe813782ee1cdcf",
@@ -8241,7 +8763,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:11:10.238Z"
+    "observedAt": "2026-09-04T21:14:06.214Z"
   },
   {
     "id": "torobshop-laptop-computer-15490c0f42add983",
@@ -8259,7 +8781,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:11:10.238Z"
+    "observedAt": "2026-09-04T21:14:06.214Z"
   },
   {
     "id": "torobshop-laptop-computer-66cfc3005a03811f",
@@ -8277,7 +8799,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:11:10.239Z"
+    "observedAt": "2026-09-04T21:14:06.214Z"
   },
   {
     "id": "torobshop-laptop-computer-792f3aace21383a4",
@@ -8295,7 +8817,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:11:10.239Z"
+    "observedAt": "2026-09-04T21:14:06.214Z"
   },
   {
     "id": "torobshop-laptop-computer-e4b95fa2eca1dc53",
@@ -8313,7 +8835,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:11:10.239Z"
+    "observedAt": "2026-09-04T21:14:06.214Z"
   },
   {
     "id": "torobshop-laptop-computer-831aed20a7525b47",
@@ -8331,7 +8853,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:11:10.239Z"
+    "observedAt": "2026-09-04T21:14:06.214Z"
   },
   {
     "id": "torobshop-laptop-computer-73a0f52ceb241f3f",
@@ -8349,7 +8871,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:11:10.239Z"
+    "observedAt": "2026-09-04T21:14:06.214Z"
   },
   {
     "id": "torobshop-laptop-computer-c758b2d2728943db",
@@ -8367,7 +8889,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:11:10.239Z"
+    "observedAt": "2026-09-04T21:14:06.214Z"
   },
   {
     "id": "torobshop-laptop-computer-78d44332d0bb563e",
@@ -8385,7 +8907,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:11:10.239Z"
+    "observedAt": "2026-09-04T21:14:06.214Z"
   },
   {
     "id": "torobshop-laptop-computer-17d2e15d81f49583",
@@ -8403,7 +8925,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:11:10.239Z"
+    "observedAt": "2026-09-04T21:14:06.214Z"
   },
   {
     "id": "torobshop-laptop-computer-1962afe5e2bc22f8",
@@ -8421,7 +8943,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:11:10.239Z"
+    "observedAt": "2026-09-04T21:14:06.214Z"
   },
   {
     "id": "torobshop-laptop-computer-89637267e3538501",
@@ -8439,7 +8961,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:11:10.239Z"
+    "observedAt": "2026-09-04T21:14:06.214Z"
   },
   {
     "id": "torobshop-laptop-computer-ec5b31adbefa2fa2",
@@ -8457,7 +8979,7 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:11:10.239Z"
+    "observedAt": "2026-09-04T21:14:06.214Z"
   },
   {
     "id": "torobshop-laptop-computer-36638b4ee2b0193b",
@@ -8475,499 +8997,6 @@ export const LAPTOP_COMPUTER_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T19:11:10.239Z"
-  },
-  {
-    "id": "web-laptop-computer-f73b528569769261",
-    "productId": "web-laptop-computer-f73b528569769261",
-    "name": "لپ تاپ اچ پی 15.6 اینچی مدل Victus 15 FA2082WM i5 13420H 16GB 512GB RTX4050",
-    "brand": "اچ‌پی",
-    "model": "لپ تاپ اچ پی 15.6 اینچی مدل Victus 15 FA2082WM i5 13420H 16GB 512GB RTX4050",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-239877/%D9%84%D9%BE-%D8%AA%D8%A7%D9%BE-%D8%A7%DA%86-%D9%BE%DB%8C-15.6-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D9%85%D8%AF%D9%84-victus-15-fa2082wm-i5-13420h-16gb-512gb-rtx4050",
-    "image": "",
-    "sourceId": "technolife-laptop",
-    "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
-    "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-04T19:02:33.287Z"
-  },
-  {
-    "id": "web-laptop-computer-7c5d887d6b127784",
-    "productId": "web-laptop-computer-7c5d887d6b127784",
-    "name": "پایه خنک کننده لپ تاپ تسکو مدل TCLP 3119",
-    "brand": "دل",
-    "model": "پایه خنک کننده لپ تاپ تسکو مدل TCLP 3119",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-80525/%D9%BE%D8%A7%DB%8C%D9%87-%D8%AE%D9%86%DA%A9-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D9%84%D9%BE-%D8%AA%D8%A7%D9%BE-%D8%AA%D8%B3%DA%A9%D9%88-%D9%85%D8%AF%D9%84-tclp-3119",
-    "image": "",
-    "sourceId": "technolife-laptop",
-    "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
-    "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-04T19:02:33.287Z"
-  },
-  {
-    "id": "web-laptop-computer-4657f8205ef1d2b5",
-    "productId": "web-laptop-computer-4657f8205ef1d2b5",
-    "name": "لپ تاپ لنوو 15.6 اینچی مدل IdeaPad Slim 3 i3 1315U 8GB 512GB",
-    "brand": "لنوو",
-    "model": "لپ تاپ لنوو 15.6 اینچی مدل IdeaPad Slim 3 i3 1315U 8GB 512GB",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-60492/%D9%84%D9%BE-%D8%AA%D8%A7%D9%BE-%D9%84%D9%86%D9%88%D9%88-15.6-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D9%85%D8%AF%D9%84-ideapad-slim-3-i3-1315u-8gb-512gb",
-    "image": "",
-    "sourceId": "technolife-laptop",
-    "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
-    "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-04T19:02:33.287Z"
-  },
-  {
-    "id": "web-laptop-computer-753b225cc8cf6201",
-    "productId": "web-laptop-computer-753b225cc8cf6201",
-    "name": "لپ تاپ لنوو 15.6 اینچی مدل V15 G4 i5 13420H 16GB 512GB SSD",
-    "brand": "لنوو",
-    "model": "لپ تاپ لنوو 15.6 اینچی مدل V15 G4 i5 13420H 16GB 512GB SSD",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-49420/%D9%84%D9%BE-%D8%AA%D8%A7%D9%BE-%D9%84%D9%86%D9%88%D9%88-15.6-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D9%85%D8%AF%D9%84-v15-g4-i5-13420h-16gb-512gb-ssd",
-    "image": "",
-    "sourceId": "technolife-laptop",
-    "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
-    "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-04T19:02:33.287Z"
-  },
-  {
-    "id": "web-laptop-computer-56bab8d6a306175c",
-    "productId": "web-laptop-computer-56bab8d6a306175c",
-    "name": "پایه خنک کننده لپ تاپ دیپ کول مدل WIND PAL MINI",
-    "brand": "دل",
-    "model": "پایه خنک کننده لپ تاپ دیپ کول مدل WIND PAL MINI",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-62436/%D9%BE%D8%A7%DB%8C%D9%87-%D8%AE%D9%86%DA%A9-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D9%84%D9%BE-%D8%AA%D8%A7%D9%BE-%D8%AF%DB%8C%D9%BE-%DA%A9%D9%88%D9%84-%D9%85%D8%AF%D9%84-wind-pal-mini",
-    "image": "",
-    "sourceId": "technolife-laptop",
-    "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
-    "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-04T19:02:33.287Z"
-  },
-  {
-    "id": "web-laptop-computer-28a686f4f330161f",
-    "productId": "web-laptop-computer-28a686f4f330161f",
-    "name": "لپ تاپ 13 اینچی اپل مدل MacBook Neo A18 Pro 2026 8GB 512GB",
-    "brand": "اپل",
-    "model": "لپ تاپ 13 اینچی اپل مدل MacBook Neo A18 Pro 2026 8GB 512GB",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-435739/-%D9%84%D9%BE-%D8%AA%D8%A7%D9%BE-13-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D8%A7%D9%BE%D9%84-%D9%85%D8%AF%D9%84-macbook-neo-a18-pro-2026-8gb-512gb",
-    "image": "",
-    "sourceId": "technolife-laptop",
-    "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
-    "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-04T19:02:33.287Z"
-  },
-  {
-    "id": "web-laptop-computer-0707a22eaafaf7fb",
-    "productId": "web-laptop-computer-0707a22eaafaf7fb",
-    "name": "لپ تاپ ایسوس 15.6 اینچی مدل Vivobook 15 X1504VA i7 1355U 16GB 512GB",
-    "brand": "ایسوس",
-    "model": "لپ تاپ ایسوس 15.6 اینچی مدل Vivobook 15 X1504VA i7 1355U 16GB 512GB",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-31158/%D9%84%D9%BE-%D8%AA%D8%A7%D9%BE-%D8%A7%DB%8C%D8%B3%D9%88%D8%B3-15.6-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D9%85%D8%AF%D9%84-vivobook-15-x1504va-i7-1355u-16gb-512gb",
-    "image": "",
-    "sourceId": "technolife-laptop",
-    "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
-    "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-04T19:02:33.288Z"
-  },
-  {
-    "id": "web-laptop-computer-40e9f1ae5e004836",
-    "productId": "web-laptop-computer-40e9f1ae5e004836",
-    "name": "لپ تاپ ام اس آی 15.6 اینچی مدل Cyborg 15 A13UC i7 13620H 16GB 1TB RTX 3050",
-    "brand": "دل",
-    "model": "لپ تاپ ام اس آی 15.6 اینچی مدل Cyborg 15 A13UC i7 13620H 16GB 1TB RTX 3050",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-511107/%D9%84%D9%BE-%D8%AA%D8%A7%D9%BE-%D8%A7%D9%85-%D8%A7%D8%B3-%D8%A2%DB%8C-15.6-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D9%85%D8%AF%D9%84-cyborg-15-a13uc-i7-13620h-16gb-1tb-rtx-3050",
-    "image": "",
-    "sourceId": "technolife-laptop",
-    "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
-    "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-04T19:02:33.288Z"
-  },
-  {
-    "id": "web-laptop-computer-0e78a542506d159a",
-    "productId": "web-laptop-computer-0e78a542506d159a",
-    "name": "لپ تاپ لنوو 15.3 اینچی مدل IdeaPad Slim 3 i5 13420H 16GB 512GB",
-    "brand": "لنوو",
-    "model": "لپ تاپ لنوو 15.3 اینچی مدل IdeaPad Slim 3 i5 13420H 16GB 512GB",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-133524/%D9%84%D9%BE-%D8%AA%D8%A7%D9%BE-%D9%84%D9%86%D9%88%D9%88-15.3-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D9%85%D8%AF%D9%84-ideapad-slim-3-i5-13420h-16gb-512gb",
-    "image": "",
-    "sourceId": "technolife-laptop",
-    "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
-    "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-04T19:02:33.288Z"
-  },
-  {
-    "id": "web-laptop-computer-0f43a2b7ab2973f0",
-    "productId": "web-laptop-computer-0f43a2b7ab2973f0",
-    "name": "پایه خنک کننده لپ تاپ تسکو مدل GCLP 3143",
-    "brand": "دل",
-    "model": "پایه خنک کننده لپ تاپ تسکو مدل GCLP 3143",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-314113/%D9%BE%D8%A7%DB%8C%D9%87-%D8%AE%D9%86%DA%A9-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D9%84%D9%BE-%D8%AA%D8%A7%D9%BE-%D8%AA%D8%B3%DA%A9%D9%88-%D9%85%D8%AF%D9%84-gclp-3143",
-    "image": "",
-    "sourceId": "technolife-laptop",
-    "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
-    "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-04T19:02:33.288Z"
-  },
-  {
-    "id": "web-laptop-computer-49cdaba09f7d31d3",
-    "productId": "web-laptop-computer-49cdaba09f7d31d3",
-    "name": "لپ تاپ 15.6 اینچی اچ پی مدل Victus 15 FA2013DX i5 13420H 16GB 512GB RTX 3050",
-    "brand": "اچ‌پی",
-    "model": "لپ تاپ 15.6 اینچی اچ پی مدل Victus 15 FA2013DX i5 13420H 16GB 512GB RTX 3050",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-134276/%D9%84%D9%BE-%D8%AA%D8%A7%D9%BE-15.6-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D8%A7%DA%86-%D9%BE%DB%8C-%D9%85%D8%AF%D9%84-victus-15-fa2013dx-i5-13420h-16gb-512gb-rtx-3050",
-    "image": "",
-    "sourceId": "technolife-laptop",
-    "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
-    "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-04T19:02:33.288Z"
-  },
-  {
-    "id": "web-laptop-computer-2e419bc9671590fc",
-    "productId": "web-laptop-computer-2e419bc9671590fc",
-    "name": "پایه خنک کننده لپ تاپ کول کلد مدل F13",
-    "brand": "دل",
-    "model": "پایه خنک کننده لپ تاپ کول کلد مدل F13",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-11584/%D9%BE%D8%A7%DB%8C%D9%87-%D8%AE%D9%86%DA%A9-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D9%84%D9%BE-%D8%AA%D8%A7%D9%BE-%DA%A9%D9%88%D9%84-%DA%A9%D9%84%D8%AF-%D9%85%D8%AF%D9%84-f13",
-    "image": "",
-    "sourceId": "technolife-laptop",
-    "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
-    "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-04T19:02:33.288Z"
-  },
-  {
-    "id": "web-laptop-computer-47989a1ad696396c",
-    "productId": "web-laptop-computer-47989a1ad696396c",
-    "name": "لپ تاپ 13 اینچی اپل مدل MacBook Neo A18 Pro 2026 8GB 256GB",
-    "brand": "اپل",
-    "model": "لپ تاپ 13 اینچی اپل مدل MacBook Neo A18 Pro 2026 8GB 256GB",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-435289/-%D9%84%D9%BE-%D8%AA%D8%A7%D9%BE-13-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D8%A7%D9%BE%D9%84-%D9%85%D8%AF%D9%84-macbook-neo-a18-pro-2026-8gb-256gb",
-    "image": "",
-    "sourceId": "technolife-laptop",
-    "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
-    "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-04T19:02:33.288Z"
-  },
-  {
-    "id": "web-laptop-computer-0a2cda3ae0776121",
-    "productId": "web-laptop-computer-0a2cda3ae0776121",
-    "name": "پایه خنک کننده لپ تاپ گیمینگ تسکو مدل GCLP 3154",
-    "brand": "دل",
-    "model": "پایه خنک کننده لپ تاپ گیمینگ تسکو مدل GCLP 3154",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-129141/%D9%BE%D8%A7%DB%8C%D9%87-%D8%AE%D9%86%DA%A9-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D9%84%D9%BE-%D8%AA%D8%A7%D9%BE-%DA%AF%DB%8C%D9%85%DB%8C%D9%86%DA%AF-%D8%AA%D8%B3%DA%A9%D9%88-%D9%85%D8%AF%D9%84-gclp-3154",
-    "image": "",
-    "sourceId": "technolife-laptop",
-    "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
-    "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-04T19:02:33.288Z"
-  },
-  {
-    "id": "web-laptop-computer-384020e9cfea524f",
-    "productId": "web-laptop-computer-384020e9cfea524f",
-    "name": "لپ تاپ ایسوس 15.6 اینچی مدل Vivobook 15 X1504VA i7 1355U 16GB 1TB",
-    "brand": "ایسوس",
-    "model": "لپ تاپ ایسوس 15.6 اینچی مدل Vivobook 15 X1504VA i7 1355U 16GB 1TB",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-32617/%D9%84%D9%BE-%D8%AA%D8%A7%D9%BE-%D8%A7%DB%8C%D8%B3%D9%88%D8%B3-15.6-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D9%85%D8%AF%D9%84-vivobook-15-x1504va-i7-1355u-16gb-1tb",
-    "image": "",
-    "sourceId": "technolife-laptop",
-    "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
-    "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-04T19:02:33.288Z"
-  },
-  {
-    "id": "web-laptop-computer-7a2fa03b7e0a3c08",
-    "productId": "web-laptop-computer-7a2fa03b7e0a3c08",
-    "name": "پایه نگهدارنده لپ تاپ مدل AP-ST204",
-    "brand": "دل",
-    "model": "پایه نگهدارنده لپ تاپ مدل AP-ST204",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-121817/%D9%BE%D8%A7%DB%8C%D9%87-%D9%86%DA%AF%D9%87%D8%AF%D8%A7%D8%B1%D9%86%D8%AF%D9%87-%D9%84%D9%BE-%D8%AA%D8%A7%D9%BE-%D9%85%D8%AF%D9%84-ap-st204",
-    "image": "",
-    "sourceId": "technolife-laptop",
-    "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
-    "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-04T19:02:33.288Z"
-  },
-  {
-    "id": "web-laptop-computer-1226bdc1b5a8630a",
-    "productId": "web-laptop-computer-1226bdc1b5a8630a",
-    "name": "لپ تاپ ایسوس 15.6 اینچی مدل Vivobook X1504VA Core 7 ۱۵۰U 16GB 512GB",
-    "brand": "ایسوس",
-    "model": "لپ تاپ ایسوس 15.6 اینچی مدل Vivobook X1504VA Core 7 ۱۵۰U 16GB 512GB",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-66798/%D9%84%D9%BE-%D8%AA%D8%A7%D9%BE-%D8%A7%DB%8C%D8%B3%D9%88%D8%B3-15.6-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D9%85%D8%AF%D9%84-vivobook-x1504va-core-7-%DB%B1%DB%B5%DB%B0u-16gb-512gb",
-    "image": "",
-    "sourceId": "technolife-laptop",
-    "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
-    "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-04T19:02:33.288Z"
-  },
-  {
-    "id": "web-laptop-computer-f242bc38496735ba",
-    "productId": "web-laptop-computer-f242bc38496735ba",
-    "name": "لپ تاپ لنوو 15.6 اینچی مدل IdeaPad Slim 3 i3 1315U 8GB 256GB",
-    "brand": "لنوو",
-    "model": "لپ تاپ لنوو 15.6 اینچی مدل IdeaPad Slim 3 i3 1315U 8GB 256GB",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-60364/%D9%84%D9%BE-%D8%AA%D8%A7%D9%BE-%D9%84%D9%86%D9%88%D9%88-15.6-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D9%85%D8%AF%D9%84-ideapad-slim-3-i3-1315u-8gb-256gb",
-    "image": "",
-    "sourceId": "technolife-laptop",
-    "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
-    "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-04T19:02:33.288Z"
-  },
-  {
-    "id": "web-laptop-computer-43682844f8ea0969",
-    "productId": "web-laptop-computer-43682844f8ea0969",
-    "name": "لپ تاپ ایسوس 15.6 اینچی مدل Vivobook 15 X1504VA i3 1315U 8GB 512GB",
-    "brand": "ایسوس",
-    "model": "لپ تاپ ایسوس 15.6 اینچی مدل Vivobook 15 X1504VA i3 1315U 8GB 512GB",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-38034/%D9%84%D9%BE-%D8%AA%D8%A7%D9%BE-%D8%A7%DB%8C%D8%B3%D9%88%D8%B3-15.6-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D9%85%D8%AF%D9%84-vivobook-15-x1504va-i3-1315u-8gb-512gb",
-    "image": "",
-    "sourceId": "technolife-laptop",
-    "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
-    "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-04T19:02:33.288Z"
-  },
-  {
-    "id": "web-laptop-computer-c943f0eed087a110",
-    "productId": "web-laptop-computer-c943f0eed087a110",
-    "name": "لپ تاپ لنوو 15.6 اینچی مدل LOQ 15ARP9 R5 7235HS 12GB 512GB RTX 3050",
-    "brand": "لنوو",
-    "model": "لپ تاپ لنوو 15.6 اینچی مدل LOQ 15ARP9 R5 7235HS 12GB 512GB RTX 3050",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-435973/%D9%84%D9%BE-%D8%AA%D8%A7%D9%BE-%D9%84%D9%86%D9%88%D9%88-15.6-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D9%85%D8%AF%D9%84-loq-15arp9-r5-7235hs-12gb-512gb-rtx-3050",
-    "image": "",
-    "sourceId": "technolife-laptop",
-    "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
-    "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-04T19:02:33.288Z"
-  },
-  {
-    "id": "web-laptop-computer-9318aa67bf11f13c",
-    "productId": "web-laptop-computer-9318aa67bf11f13c",
-    "name": "لپ تاپ 15.6 اینچی اچ پی مدل Victus 15 FA2013DX i5 13420H 8GB 512GB RTX 3050",
-    "brand": "اچ‌پی",
-    "model": "لپ تاپ 15.6 اینچی اچ پی مدل Victus 15 FA2013DX i5 13420H 8GB 512GB RTX 3050",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-132007/%D9%84%D9%BE-%D8%AA%D8%A7%D9%BE-15.6-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D8%A7%DA%86-%D9%BE%DB%8C-%D9%85%D8%AF%D9%84-victus-15-fa2013dx-i5-13420h-8gb-512gb-rtx-3050",
-    "image": "",
-    "sourceId": "technolife-laptop",
-    "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
-    "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-04T19:02:33.288Z"
-  },
-  {
-    "id": "web-laptop-computer-fd6e6c5105022bcc",
-    "productId": "web-laptop-computer-fd6e6c5105022bcc",
-    "name": "لپ تاپ 15.6 اینچی لنوو مدل IdeaPad 1 15IJL7 Celeron N4500 8GB 256GB",
-    "brand": "لنوو",
-    "model": "لپ تاپ 15.6 اینچی لنوو مدل IdeaPad 1 15IJL7 Celeron N4500 8GB 256GB",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-106793/%D9%84%D9%BE-%D8%AA%D8%A7%D9%BE-15.6-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D9%84%D9%86%D9%88%D9%88-%D9%85%D8%AF%D9%84-ideapad-1-15ijl7-celeron-n4500-8gb-256gb",
-    "image": "",
-    "sourceId": "technolife-laptop",
-    "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
-    "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-04T19:02:33.288Z"
-  },
-  {
-    "id": "web-laptop-computer-ecc32525159ecc23",
-    "productId": "web-laptop-computer-ecc32525159ecc23",
-    "name": "پایه خنک کننده لپ تاپ آیس کورل مدل A9",
-    "brand": "دل",
-    "model": "پایه خنک کننده لپ تاپ آیس کورل مدل A9",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-432309/%D9%BE%D8%A7%DB%8C%D9%87-%D8%AE%D9%86%DA%A9-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D9%84%D9%BE-%D8%AA%D8%A7%D9%BE-%D8%A2%DB%8C%D8%B3-%DA%A9%D9%88%D8%B1%D9%84-%D9%85%D8%AF%D9%84-a9",
-    "image": "",
-    "sourceId": "technolife-laptop",
-    "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
-    "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-04T19:02:33.288Z"
-  },
-  {
-    "id": "web-laptop-computer-a394b20636851bff",
-    "productId": "web-laptop-computer-a394b20636851bff",
-    "name": "لپ تاپ 16 اینچی ایسوس مدل TUF Gaming FX607VJ CORE 5 210H 16GB 512GB RTX 3050",
-    "brand": "ایسوس",
-    "model": "لپ تاپ 16 اینچی ایسوس مدل TUF Gaming FX607VJ CORE 5 210H 16GB 512GB RTX 3050",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-149641/%D9%84%D9%BE-%D8%AA%D8%A7%D9%BE-16-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D8%A7%DB%8C%D8%B3%D9%88%D8%B3-%D9%85%D8%AF%D9%84-tuf-gaming-fx607vj-core-5-210h-16gb-512gb-rtx-3050",
-    "image": "",
-    "sourceId": "technolife-laptop",
-    "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
-    "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-04T19:02:33.288Z"
-  },
-  {
-    "id": "web-laptop-computer-2eb9b46395b20e58",
-    "productId": "web-laptop-computer-2eb9b46395b20e58",
-    "name": "لپ تاپ 15.6 اینچی اچ پی مدل Victus 15 FA2013DX i5 13420H 16GB 1TB RTX 3050",
-    "brand": "اچ‌پی",
-    "model": "لپ تاپ 15.6 اینچی اچ پی مدل Victus 15 FA2013DX i5 13420H 16GB 1TB RTX 3050",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-134279/%D9%84%D9%BE-%D8%AA%D8%A7%D9%BE-15.6-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D8%A7%DA%86-%D9%BE%DB%8C-%D9%85%D8%AF%D9%84-victus-15-fa2013dx-i5-13420h-16gb-1tb-rtx-3050",
-    "image": "",
-    "sourceId": "technolife-laptop",
-    "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
-    "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-04T19:02:33.288Z"
-  },
-  {
-    "id": "web-laptop-computer-d351c54735a575d1",
-    "productId": "web-laptop-computer-d351c54735a575d1",
-    "name": "لپ تاپ ایسوس 15.6 اینچی مدل Vivobook 15 X1504VA i7 1355U 24GB 1TB",
-    "brand": "ایسوس",
-    "model": "لپ تاپ ایسوس 15.6 اینچی مدل Vivobook 15 X1504VA i7 1355U 24GB 1TB",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-32624/%D9%84%D9%BE-%D8%AA%D8%A7%D9%BE-%D8%A7%DB%8C%D8%B3%D9%88%D8%B3-15.6-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D9%85%D8%AF%D9%84-vivobook-15-x1504va-i7-1355u-24gb-1tb",
-    "image": "",
-    "sourceId": "technolife-laptop",
-    "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
-    "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-04T19:02:33.288Z"
-  },
-  {
-    "id": "web-laptop-computer-b99bbe2157da7572",
-    "productId": "web-laptop-computer-b99bbe2157da7572",
-    "name": "پایه نگهدارنده لپ تاپ دی-نت مدل P1",
-    "brand": "دل",
-    "model": "پایه نگهدارنده لپ تاپ دی-نت مدل P1",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-572525/%D9%BE%D8%A7%DB%8C%D9%87-%D9%86%DA%AF%D9%87%D8%AF%D8%A7%D8%B1%D9%86%D8%AF%D9%87-%D9%84%D9%BE-%D8%AA%D8%A7%D9%BE-%D8%AF%DB%8C-%D9%86%D8%AA-%D9%85%D8%AF%D9%84-p1",
-    "image": "",
-    "sourceId": "technolife-laptop",
-    "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
-    "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-04T19:02:33.288Z"
-  },
-  {
-    "id": "web-laptop-computer-43769759028f4e15",
-    "productId": "web-laptop-computer-43769759028f4e15",
-    "name": "لپ تاپ 15.6 اینچی اچ پی مدل Victus 15 FB3093DX R7 7445HS 16GB 512GB RTX 4050",
-    "brand": "اچ‌پی",
-    "model": "لپ تاپ 15.6 اینچی اچ پی مدل Victus 15 FB3093DX R7 7445HS 16GB 512GB RTX 4050",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-162940/%D9%84%D9%BE-%D8%AA%D8%A7%D9%BE-15.6-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D8%A7%DA%86-%D9%BE%DB%8C-%D9%85%D8%AF%D9%84-victus-15-fb3093dx-r7-7445hs-16gb-512gb-rtx-4050",
-    "image": "",
-    "sourceId": "technolife-laptop",
-    "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
-    "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-04T19:02:33.289Z"
-  },
-  {
-    "id": "web-laptop-computer-5398cab2dde98194",
-    "productId": "web-laptop-computer-5398cab2dde98194",
-    "name": "لپ‌ تاپ 15.6 اینچی ایسوس Vivobook A1502VA i5 13420H 16GB 512GB",
-    "brand": "ایسوس",
-    "model": "لپ‌ تاپ 15.6 اینچی ایسوس Vivobook A1502VA i5 13420H 16GB 512GB",
-    "category": "laptop-computer",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-109333/%D9%84%D9%BE%E2%80%8C-%D8%AA%D8%A7%D9%BE-15.6-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D8%A7%DB%8C%D8%B3%D9%88%D8%B3-vivobook-a1502va-i5-13420h-16gb-512gb",
-    "image": "",
-    "sourceId": "technolife-laptop",
-    "sourceUrl": "https://www.technolife.com/category/laptop-equipment",
-    "source": "web-catalog:technolife-laptop",
-    "observedAt": "2026-09-04T19:02:33.289Z"
+    "observedAt": "2026-09-04T21:14:06.214Z"
   }
 ];
