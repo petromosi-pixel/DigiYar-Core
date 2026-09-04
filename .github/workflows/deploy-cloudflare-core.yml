@@ -65,6 +65,20 @@ jobs:
           echo 'Live Worker did not become ready after deployment.'
           exit 1
 
+      - name: Inspect live smart-search payload
+        shell: bash
+        run: |
+          set -euo pipefail
+          for query in \
+            'گوشی سامسونگ تا ۵۰۰ میلیون تومان می‌خوام' \
+            'دنبال یه لپ تاپ دانشجویی می‌گردم'; do
+            echo "===== SMART SEARCH: ${query} ====="
+            curl --fail --silent --show-error --max-time 30 \
+              -G 'https://digiyar-v5.petromosi.workers.dev/api/search' \
+              --data-urlencode "q=${query}" \
+              | node -e 'let s="";process.stdin.on("data",d=>s+=d).on("end",()=>{const d=JSON.parse(s); console.log(JSON.stringify({source:d.source,total:d.total,parsed:d.parsed,sample:(d.results||[]).slice(0,5).map(x=>({name:x.name,price:x.price,priceToman:x.priceToman,currency:x.currency,productUrl:x.productUrl,affiliateUrl:x.affiliateUrl,store:x.storeId||x.store}))},null,2))})'
+          done
+
       - name: Run V5.1 Smart Search contract gate
         run: npm run test:v5.1:smart-search
 
