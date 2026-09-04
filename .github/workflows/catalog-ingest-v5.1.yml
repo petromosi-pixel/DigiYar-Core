@@ -42,6 +42,9 @@ jobs:
       - name: Resolve TorobShop price and availability
         run: node scripts/torobshop-price-resolver-v5.1.mjs
 
+      - name: Rebuild runtime index after price resolution
+        run: node scripts/subcategory-ingest-v5.1.mjs
+
       - name: Audit generated catalogs
         run: node tests/v5.1-catalog-audit.mjs
 
