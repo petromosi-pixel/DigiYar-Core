@@ -9,6 +9,10 @@ on:
       - 'js/search-core-v5.1.js'
       - 'js/v5-price-availability-resolver.js'
       - 'js/v5-offer-affiliate-engine.js'
+      - 'js/product-index-generated-v5.1.js'
+      - 'js/*-product-index-v5.1.js'
+      - 'data/catalog/**'
+      - 'data/category-registry-v5.1.json'
       - 'wrangler.jsonc'
       - '.github/workflows/deploy-cloudflare-core.yml'
   workflow_dispatch:
