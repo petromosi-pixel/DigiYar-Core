@@ -14,6 +14,7 @@ on:
       - 'data/catalog/**'
       - 'data/category-registry-v5.1.json'
       - 'wrangler.jsonc'
+      - 'tests/v5.1-smart-search-contract.test.mjs'
       - '.github/workflows/deploy-cloudflare-core.yml'
       - '.github/workflows/catalog-ingest-v5.1.yml'
   workflow_dispatch:
