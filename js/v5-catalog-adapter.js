@@ -81,6 +81,7 @@
       }, p)];
     }
 
+    const primaryOffer = bestOffer(offers);
     return {
       id: String(p.productId || p.id || ''),
       productId: String(p.productId || p.id || ''),
@@ -95,9 +96,10 @@
       source: p.source || '',
       sourceId: p.sourceId || '',
       sourceUrl: p.sourceUrl || '',
+      productUrl: (primaryOffer && primaryOffer.productUrl) || p.productUrl || p.url || '',
       observedAt: p.observedAt || '',
       offers: offers,
-      bestOffer: bestOffer(offers)
+      bestOffer: primaryOffer
     };
   }
 
@@ -178,6 +180,7 @@
         });
         existing.offers = Array.from(offerMap.values());
         existing.bestOffer = bestOffer(existing.offers);
+        existing.productUrl = (existing.bestOffer && existing.bestOffer.productUrl) || existing.productUrl || product.productUrl || '';
         existing.brand = existing.brand || product.brand;
         existing.model = existing.model || product.model;
         existing.subcategory = existing.subcategory || product.subcategory;
