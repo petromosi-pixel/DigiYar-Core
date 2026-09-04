@@ -8,6 +8,7 @@
 
   const CONFIG = {
     proxyEndpoint: "https://digiyar-v5.petromosi.workers.dev/api/search",
+    ingestionEndpoint: "https://digiyar-v5.petromosi.workers.dev/api/ingest",
     digikalaSearchEndpoint: "https://api.digikala.com/v1/search/?q=",
     digikalaBaseUrl: "https://www.digikala.com",
     timeout: 8000,
@@ -53,9 +54,13 @@
     }
     return safeNumber(product.selling_price) || safeNumber(product.default_variant_price) || safeNumber(product.price) || safeNumber(variant && variant.selling_price) || safeNumber(variant && variant.price);
   }
-  function normalizePrice(value, currency) { const number = safeNumber(value); if (number <= 0) return 0; return currency === "rial" ? Math.round(number / 10) : Math.round(number); }
-  function resolvePrice(product, currency) { return normalizePrice(rawPrice(product), currency || "toman"); }
-  function resolveName(product) { return firstNonEmpty([product && product.title_fa, product && product.name, product && product.title, product && product.product_name, product && product.title_en]); }
+  function normalizePrice(value, currency) { const number = safeNumber(value); if (number <= 0) return 0; return currency === "rial" || currency === "irr" || currency === "ریال" ? Math.round(number / 10) : Math.round(number); }
+  function resolvePrice(product, currency) {
+    const explicitToman = safeNumber(product && product.priceToman);
+    if (explicitToman > 0) return Math.round(explicitToman);
+    return normalizePrice(rawPrice(product), currency || "toman");
+  }
+  function resolveName(product) { return firstNonEmpty([product && product.title_fa, product && product.name, product && product.title, product && product.product_name, product && product.title_en, product && product.productName]); }
   function resolveFeatures(product) {
     const features = [];
     if (Array.isArray(product.features)) product.features.forEach(function (item) { if (typeof item === "string" && item.trim()) features.push(item.trim()); });
@@ -73,6 +78,7 @@
       name: String(resolveName(product) || ""),
       category: typeof product.category === "string" ? product.category : "general",
       price: resolvePrice(product, currency),
+      priceToman: resolvePrice(product, currency),
       store: store,
       storeId: store,
       productUrl: resolveProductUrl(product),
@@ -99,16 +105,16 @@
     } finally { clearTimeout(timer); }
   }
   function unwrapProxy(data) { return data && data.data && typeof data.data === "object" ? data.data : data; }
-  function extractDigikalaProducts(data) {
+  function extractProducts(data) {
     const payload = unwrapProxy(data);
     if (!payload) return [];
     const candidates = [
       payload.results,
-      payload.products,
       payload.items,
+      payload.products,
       payload.data && payload.data.results,
-      payload.data && payload.data.products,
       payload.data && payload.data.items,
+      payload.data && payload.data.products,
       payload.products && payload.products.data,
       payload.products && payload.products.items
     ];
@@ -117,16 +123,26 @@
       if (Array.isArray(candidates[i])) { products = candidates[i]; break; }
     }
     return products.map(function (p) {
-      return normalizeProduct(p, { currency: String(p && p.currency || "IRR").toLowerCase(), store: p && (p.storeId || p.store || p.sourceId || p.source) });
+      return normalizeProduct(p, { currency: String(p && p.currency || (p && p.priceToman ? "toman" : "IRR")).toLowerCase(), store: p && (p.storeId || p.store || p.sourceId || p.source) });
     }).filter(function (p) { return p && p.name; }).slice(0, CONFIG.maxResults);
   }
   async function searchWorker(query) {
     const normalizedQuery = normalizeText(query);
     if (!normalizedQuery || !CONFIG.proxyEndpoint) return [];
     try {
-      return extractDigikalaProducts(await fetchWithTimeout(CONFIG.proxyEndpoint + "?q=" + encodeURIComponent(normalizedQuery), CONFIG.timeout));
+      return extractProducts(await fetchWithTimeout(CONFIG.proxyEndpoint + "?q=" + encodeURIComponent(normalizedQuery), CONFIG.timeout));
     } catch (error) {
       console.warn("DigiYar Product Retrieval: V5 Worker unavailable.", error);
+      return [];
+    }
+  }
+  async function searchWorkerIngestion(query) {
+    const normalizedQuery = normalizeText(query);
+    if (!normalizedQuery || !CONFIG.ingestionEndpoint) return [];
+    try {
+      return extractProducts(await fetchWithTimeout(CONFIG.ingestionEndpoint + "?q=" + encodeURIComponent(normalizedQuery), CONFIG.timeout));
+    } catch (error) {
+      console.warn("DigiYar Product Retrieval: V5 ingestion unavailable.", error);
       return [];
     }
   }
@@ -135,7 +151,7 @@
     if (!normalizedQuery) return [];
     try {
       const data = await fetchWithTimeout(CONFIG.digikalaSearchEndpoint + encodeURIComponent(normalizedQuery) + "&page=1&size=10", CONFIG.timeout);
-      return extractDigikalaProducts(data).slice(0, 3);
+      return extractProducts(data).slice(0, 3);
     } catch (error) {
       console.warn("DigiYar Product Retrieval: direct Digikala API unavailable.", error);
       return [];
@@ -144,6 +160,8 @@
   async function searchRemote(query) {
     const workerResults = await searchWorker(query);
     if (workerResults.length) return workerResults;
+    const ingestionResults = await searchWorkerIngestion(query);
+    if (ingestionResults.length) return ingestionResults;
     return await searchDirectFromDigikala(query);
   }
   async function search(query, options) {
@@ -162,7 +180,7 @@
   function setProxyEndpoint(url) { CONFIG.proxyEndpoint = String(url || "").trim().replace(/\/$/, ""); return CONFIG.proxyEndpoint; }
 
   window.DigiYarProductRetrieval = {
-    version: "5.1.0-alpha.1",
+    version: "5.1.0-alpha.2",
     config: CONFIG,
     setProxyEndpoint,
     normalizeText,
@@ -174,6 +192,7 @@
     search,
     searchRemote,
     searchWorker,
+    searchWorkerIngestion,
     searchDirectFromDigikala,
     localSearch
   };
