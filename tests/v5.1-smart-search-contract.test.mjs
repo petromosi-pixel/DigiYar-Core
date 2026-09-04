@@ -2,21 +2,15 @@ import assert from 'node:assert/strict';
 
 const WORKER = 'https://digiyar-v5.petromosi.workers.dev/api/search';
 const QUERIES = [
-  'گوشی سامسونگ تا ۵۰ میلیون تومان می‌خوام',
+  'گوشی سامسونگ تا ۵۰۰ میلیون تومان می‌خوام',
   'دنبال یه لپ تاپ دانشجویی می‌گردم'
 ];
 
-const DIRECT_PRODUCT_RE = /^https:\/\/(?:www\.)?(?:digikala\.com|snappshop\.ir|torobshop\.com)\/(?!search(?:\/|\?|$))/i;
-
-function unwrap(data) {
-  if (data?.data && typeof data.data === 'object') return data.data;
-  return data || {};
-}
+const DIRECT_PRODUCT_RE = /^https:\/\/(?:www\.)?(?:digikala\.com|snappshop\.ir|torobshop\.com|technolife\.com|digizo\.shop|mobile\.ir|bprshop\.com|basalam\.com|elecamp\.ir)\/(?!search(?:\/|\?|$)|category(?:\/|\?|$))/i;
 
 function productsOf(data) {
-  const payload = unwrap(data);
-  const values = [payload.results, payload.items, payload.products];
-  for (const value of values) {
+  const payload = data?.data && typeof data.data === 'object' ? data.data : data || {};
+  for (const value of [payload.results, payload.items, payload.products]) {
     if (Array.isArray(value) && value.length) return value;
   }
   return [];
@@ -28,12 +22,11 @@ function priceOf(item) {
   const raw = Number(item?.price ?? 0);
   if (!Number.isFinite(raw) || raw <= 0) return 0;
   const currency = String(item?.currency || '').toUpperCase();
-  return currency === 'IRR' || raw >= 100000 ? Math.round(raw / 10) : raw;
+  return currency === 'IRR' || currency === 'ریال' || currency === 'RIAL' ? Math.round(raw / 10) : raw;
 }
 
 for (const query of QUERIES) {
-  const url = `${WORKER}?q=${encodeURIComponent(query)}`;
-  const response = await fetch(url, { headers: { accept: 'application/json' } });
+  const response = await fetch(`${WORKER}?q=${encodeURIComponent(query)}`, { headers: { accept: 'application/json' } });
   assert.equal(response.ok, true, `Worker search failed for: ${query} (${response.status})`);
 
   const data = await response.json();
