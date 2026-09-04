@@ -15,7 +15,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.100Z"
+    "observedAt": "2026-09-04T17:30:39.404Z"
   },
   {
     "id": "torobshop-kids-toys-42afd1ca9ea774d6",
@@ -33,7 +33,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.100Z"
+    "observedAt": "2026-09-04T17:30:39.404Z"
   },
   {
     "id": "torobshop-kids-toys-3930a114dca5ba93",
@@ -51,7 +51,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.100Z"
+    "observedAt": "2026-09-04T17:30:39.404Z"
   },
   {
     "id": "torobshop-kids-toys-aaa22eb952374f54",
@@ -69,7 +69,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.100Z"
+    "observedAt": "2026-09-04T17:30:39.404Z"
   },
   {
     "id": "torobshop-kids-toys-6313ab97d41a2b56",
@@ -87,7 +87,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.100Z"
+    "observedAt": "2026-09-04T17:30:39.404Z"
   },
   {
     "id": "torobshop-kids-toys-f6f4fe1c061400be",
@@ -105,7 +105,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.100Z"
+    "observedAt": "2026-09-04T17:30:39.404Z"
   },
   {
     "id": "torobshop-kids-toys-f84a10872070200f",
@@ -123,7 +123,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.100Z"
+    "observedAt": "2026-09-04T17:30:39.404Z"
   },
   {
     "id": "torobshop-kids-toys-be5c8240bad9b96b",
@@ -141,7 +141,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.100Z"
+    "observedAt": "2026-09-04T17:30:39.404Z"
   },
   {
     "id": "torobshop-kids-toys-6ea4ce76135ec585",
@@ -159,7 +159,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.100Z"
+    "observedAt": "2026-09-04T17:30:39.404Z"
   },
   {
     "id": "torobshop-kids-toys-66ec5ac305e2c66d",
@@ -177,7 +177,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.100Z"
+    "observedAt": "2026-09-04T17:30:39.404Z"
   },
   {
     "id": "torobshop-kids-toys-550a8f87070e67b2",
@@ -195,7 +195,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.100Z"
+    "observedAt": "2026-09-04T17:30:39.404Z"
   },
   {
     "id": "torobshop-kids-toys-82dd733a006aec80",
@@ -213,7 +213,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.100Z"
+    "observedAt": "2026-09-04T17:30:39.404Z"
   },
   {
     "id": "torobshop-kids-toys-b0ab596ed23cc867",
@@ -231,7 +231,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.100Z"
+    "observedAt": "2026-09-04T17:30:39.404Z"
   },
   {
     "id": "torobshop-kids-toys-81b8042dfd25e040",
@@ -249,7 +249,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.100Z"
+    "observedAt": "2026-09-04T17:30:39.404Z"
   },
   {
     "id": "torobshop-kids-toys-971de75d275ec060",
@@ -267,7 +267,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.100Z"
+    "observedAt": "2026-09-04T17:30:39.404Z"
   },
   {
     "id": "torobshop-kids-toys-6984e0fba2f0f5ab",
@@ -285,7 +285,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.100Z"
+    "observedAt": "2026-09-04T17:30:39.404Z"
   },
   {
     "id": "torobshop-kids-toys-043774655c5e9707",
@@ -303,7 +303,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.100Z"
+    "observedAt": "2026-09-04T17:30:39.404Z"
   },
   {
     "id": "torobshop-kids-toys-96e722182c1b89a6",
@@ -321,7 +321,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.100Z"
+    "observedAt": "2026-09-04T17:30:39.404Z"
   },
   {
     "id": "torobshop-kids-toys-d62f3f3a89e25a47",
@@ -339,7 +339,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.100Z"
+    "observedAt": "2026-09-04T17:30:39.404Z"
   },
   {
     "id": "torobshop-kids-toys-c91c69b83e4ddd45",
@@ -357,7 +357,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.100Z"
+    "observedAt": "2026-09-04T17:30:39.404Z"
   },
   {
     "id": "torobshop-kids-toys-6d073e89debc0957",
@@ -375,7 +375,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.100Z"
+    "observedAt": "2026-09-04T17:30:39.404Z"
   },
   {
     "id": "torobshop-kids-toys-2f1de49dbfea70aa",
@@ -393,7 +393,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.100Z"
+    "observedAt": "2026-09-04T17:30:39.404Z"
   },
   {
     "id": "torobshop-kids-toys-688de6c889730421",
@@ -411,7 +411,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.100Z"
+    "observedAt": "2026-09-04T17:30:39.404Z"
   },
   {
     "id": "torobshop-kids-toys-6f75db36753d61cb",
@@ -429,7 +429,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.100Z"
+    "observedAt": "2026-09-04T17:30:39.404Z"
   },
   {
     "id": "torobshop-kids-toys-1d0f8b752067584c",
@@ -447,7 +447,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.100Z"
+    "observedAt": "2026-09-04T17:30:39.404Z"
   },
   {
     "id": "torobshop-kids-toys-9588e88bfa202297",
@@ -465,7 +465,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.100Z"
+    "observedAt": "2026-09-04T17:30:39.404Z"
   },
   {
     "id": "torobshop-kids-toys-564f6efd33ed7c72",
@@ -483,7 +483,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.100Z"
+    "observedAt": "2026-09-04T17:30:39.404Z"
   },
   {
     "id": "torobshop-kids-toys-db51956256cf2a9e",
@@ -501,7 +501,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.100Z"
+    "observedAt": "2026-09-04T17:30:39.404Z"
   },
   {
     "id": "torobshop-kids-toys-6c602e399b74265b",
@@ -519,7 +519,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.100Z"
+    "observedAt": "2026-09-04T17:30:39.404Z"
   },
   {
     "id": "torobshop-kids-toys-69bf454eaf5c015b",
@@ -537,7 +537,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.100Z"
+    "observedAt": "2026-09-04T17:30:39.404Z"
   },
   {
     "id": "torobshop-kids-toys-9b36373adadaf4fd",
@@ -555,7 +555,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.100Z"
+    "observedAt": "2026-09-04T17:30:39.404Z"
   },
   {
     "id": "torobshop-kids-toys-b510ac9c5967ae6e",
@@ -573,7 +573,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.100Z"
+    "observedAt": "2026-09-04T17:30:39.404Z"
   },
   {
     "id": "torobshop-kids-toys-3dbcaccb8662bde1",
@@ -591,7 +591,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.100Z"
+    "observedAt": "2026-09-04T17:30:39.404Z"
   },
   {
     "id": "torobshop-kids-toys-200d11c52e55158d",
@@ -609,7 +609,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.100Z"
+    "observedAt": "2026-09-04T17:30:39.404Z"
   },
   {
     "id": "torobshop-kids-toys-7030913f04cb3a2f",
@@ -627,7 +627,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.100Z"
+    "observedAt": "2026-09-04T17:30:39.404Z"
   },
   {
     "id": "torobshop-kids-toys-c57090577d7bcdd6",
@@ -645,7 +645,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.100Z"
+    "observedAt": "2026-09-04T17:30:39.404Z"
   },
   {
     "id": "torobshop-kids-toys-47c81c869cca25d8",
@@ -663,7 +663,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.100Z"
+    "observedAt": "2026-09-04T17:30:39.404Z"
   },
   {
     "id": "torobshop-kids-toys-f566f758ccfcc717",
@@ -681,7 +681,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.100Z"
+    "observedAt": "2026-09-04T17:30:39.404Z"
   },
   {
     "id": "torobshop-kids-toys-964ece0d8e9f6669",
@@ -699,7 +699,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.100Z"
+    "observedAt": "2026-09-04T17:30:39.404Z"
   },
   {
     "id": "torobshop-kids-toys-4cef33429e237704",
@@ -717,7 +717,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.100Z"
+    "observedAt": "2026-09-04T17:30:39.404Z"
   },
   {
     "id": "torobshop-kids-toys-e4a2bc7cbee474b2",
@@ -735,7 +735,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.100Z"
+    "observedAt": "2026-09-04T17:30:39.404Z"
   },
   {
     "id": "torobshop-kids-toys-3be15395be038aca",
@@ -753,7 +753,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.100Z"
+    "observedAt": "2026-09-04T17:30:39.404Z"
   },
   {
     "id": "torobshop-kids-toys-77f61ec7f8b8b73d",
@@ -771,7 +771,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.100Z"
+    "observedAt": "2026-09-04T17:30:39.404Z"
   },
   {
     "id": "torobshop-kids-toys-a09bc08624899ff4",
@@ -789,7 +789,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.100Z"
+    "observedAt": "2026-09-04T17:30:39.404Z"
   },
   {
     "id": "torobshop-kids-toys-bbd449ed50b3d540",
@@ -807,7 +807,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.100Z"
+    "observedAt": "2026-09-04T17:30:39.404Z"
   },
   {
     "id": "torobshop-kids-toys-50ddbf6ac385797f",
@@ -825,7 +825,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.100Z"
+    "observedAt": "2026-09-04T17:30:39.404Z"
   },
   {
     "id": "torobshop-kids-toys-80a52ed3a08cda77",
@@ -843,7 +843,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.100Z"
+    "observedAt": "2026-09-04T17:30:39.404Z"
   },
   {
     "id": "torobshop-kids-toys-039d5e6addbbd691",
@@ -861,7 +861,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.100Z"
+    "observedAt": "2026-09-04T17:30:39.404Z"
   },
   {
     "id": "torobshop-kids-toys-35ed38f253e56a81",
@@ -879,7 +879,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.100Z"
+    "observedAt": "2026-09-04T17:30:39.404Z"
   },
   {
     "id": "torobshop-kids-toys-81294b2d39671c7a",
@@ -897,7 +897,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.100Z"
+    "observedAt": "2026-09-04T17:30:39.404Z"
   },
   {
     "id": "torobshop-kids-toys-aa508f6b8b35e109",
@@ -915,7 +915,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.100Z"
+    "observedAt": "2026-09-04T17:30:39.404Z"
   },
   {
     "id": "torobshop-kids-toys-6ec47a3d62be5701",
@@ -933,7 +933,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.101Z"
+    "observedAt": "2026-09-04T17:30:39.404Z"
   },
   {
     "id": "torobshop-kids-toys-7b66ea2c8fd4c6a4",
@@ -951,7 +951,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.101Z"
+    "observedAt": "2026-09-04T17:30:39.404Z"
   },
   {
     "id": "torobshop-kids-toys-d49e2d4bb6f40cd4",
@@ -969,7 +969,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.101Z"
+    "observedAt": "2026-09-04T17:30:39.404Z"
   },
   {
     "id": "torobshop-kids-toys-189f8d80d22fa44f",
@@ -987,7 +987,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.101Z"
+    "observedAt": "2026-09-04T17:30:39.405Z"
   },
   {
     "id": "torobshop-kids-toys-5b8fa53f836d0f0c",
@@ -1005,7 +1005,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.101Z"
+    "observedAt": "2026-09-04T17:30:39.405Z"
   },
   {
     "id": "torobshop-kids-toys-547d268a4387e8cb",
@@ -1023,7 +1023,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.101Z"
+    "observedAt": "2026-09-04T17:30:39.405Z"
   },
   {
     "id": "torobshop-kids-toys-4192b4da9c3a842b",
@@ -1041,7 +1041,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.101Z"
+    "observedAt": "2026-09-04T17:30:39.405Z"
   },
   {
     "id": "torobshop-kids-toys-d81ab9c86f172992",
@@ -1059,7 +1059,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.101Z"
+    "observedAt": "2026-09-04T17:30:39.405Z"
   },
   {
     "id": "torobshop-kids-toys-c2621badab7154db",
@@ -1077,7 +1077,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.101Z"
+    "observedAt": "2026-09-04T17:30:39.405Z"
   },
   {
     "id": "torobshop-kids-toys-e61e8163e0053f8c",
@@ -1095,7 +1095,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.101Z"
+    "observedAt": "2026-09-04T17:30:39.405Z"
   },
   {
     "id": "torobshop-kids-toys-0a6f99bfb7c72378",
@@ -1113,7 +1113,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.101Z"
+    "observedAt": "2026-09-04T17:30:39.405Z"
   },
   {
     "id": "torobshop-kids-toys-17b433396f0dd8b8",
@@ -1131,7 +1131,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.101Z"
+    "observedAt": "2026-09-04T17:30:39.405Z"
   },
   {
     "id": "torobshop-kids-toys-70f796097c7bfa77",
@@ -1149,7 +1149,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.101Z"
+    "observedAt": "2026-09-04T17:30:39.405Z"
   },
   {
     "id": "torobshop-kids-toys-792d9fda0d1edf60",
@@ -1167,7 +1167,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.101Z"
+    "observedAt": "2026-09-04T17:30:39.405Z"
   },
   {
     "id": "torobshop-kids-toys-0540c2016311432d",
@@ -1185,7 +1185,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.101Z"
+    "observedAt": "2026-09-04T17:30:39.405Z"
   },
   {
     "id": "torobshop-kids-toys-ea7e49d4888f5500",
@@ -1203,7 +1203,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.101Z"
+    "observedAt": "2026-09-04T17:30:39.405Z"
   },
   {
     "id": "torobshop-kids-toys-a7031b2d2c098e3a",
@@ -1221,7 +1221,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.101Z"
+    "observedAt": "2026-09-04T17:30:39.405Z"
   },
   {
     "id": "torobshop-kids-toys-b280052ba623afe6",
@@ -1239,7 +1239,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.101Z"
+    "observedAt": "2026-09-04T17:30:39.405Z"
   },
   {
     "id": "torobshop-kids-toys-f65d7089e1b75967",
@@ -1257,7 +1257,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.101Z"
+    "observedAt": "2026-09-04T17:30:39.405Z"
   },
   {
     "id": "torobshop-kids-toys-682b567d27e46eb9",
@@ -1275,7 +1275,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.101Z"
+    "observedAt": "2026-09-04T17:30:39.405Z"
   },
   {
     "id": "torobshop-kids-toys-1a199d11167496a7",
@@ -1293,7 +1293,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.101Z"
+    "observedAt": "2026-09-04T17:30:39.405Z"
   },
   {
     "id": "torobshop-kids-toys-e7562a4a47affbdf",
@@ -1311,7 +1311,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.101Z"
+    "observedAt": "2026-09-04T17:30:39.405Z"
   },
   {
     "id": "torobshop-kids-toys-5681fc33ebc4a2c4",
@@ -1329,7 +1329,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.101Z"
+    "observedAt": "2026-09-04T17:30:39.405Z"
   },
   {
     "id": "torobshop-kids-toys-eb3156af454255af",
@@ -1347,7 +1347,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.101Z"
+    "observedAt": "2026-09-04T17:30:39.405Z"
   },
   {
     "id": "torobshop-kids-toys-3f60763e8c1f61db",
@@ -1365,7 +1365,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.101Z"
+    "observedAt": "2026-09-04T17:30:39.405Z"
   },
   {
     "id": "torobshop-kids-toys-8b667a7c5d48a018",
@@ -1383,7 +1383,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.101Z"
+    "observedAt": "2026-09-04T17:30:39.405Z"
   },
   {
     "id": "torobshop-kids-toys-c28d9ee4867587e0",
@@ -1401,7 +1401,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.101Z"
+    "observedAt": "2026-09-04T17:30:39.405Z"
   },
   {
     "id": "torobshop-kids-toys-135cb4370d26107e",
@@ -1419,7 +1419,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.101Z"
+    "observedAt": "2026-09-04T17:30:39.405Z"
   },
   {
     "id": "torobshop-kids-toys-ea6561f27fcae338",
@@ -1437,7 +1437,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.101Z"
+    "observedAt": "2026-09-04T17:30:39.405Z"
   },
   {
     "id": "torobshop-kids-toys-9da6cf5207d19dc6",
@@ -1455,7 +1455,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.101Z"
+    "observedAt": "2026-09-04T17:30:39.405Z"
   },
   {
     "id": "torobshop-kids-toys-973da9b66d30f98f",
@@ -1473,7 +1473,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.101Z"
+    "observedAt": "2026-09-04T17:30:39.405Z"
   },
   {
     "id": "torobshop-kids-toys-27a7ab064979e19e",
@@ -1491,7 +1491,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.101Z"
+    "observedAt": "2026-09-04T17:30:39.405Z"
   },
   {
     "id": "torobshop-kids-toys-426ac503c83523da",
@@ -1509,7 +1509,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.101Z"
+    "observedAt": "2026-09-04T17:30:39.405Z"
   },
   {
     "id": "torobshop-kids-toys-93f0314c16b9cade",
@@ -1527,7 +1527,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.101Z"
+    "observedAt": "2026-09-04T17:30:39.405Z"
   },
   {
     "id": "torobshop-kids-toys-e546c7ee2f25cccb",
@@ -1545,7 +1545,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.101Z"
+    "observedAt": "2026-09-04T17:30:39.405Z"
   },
   {
     "id": "torobshop-kids-toys-06e9af83157d59bf",
@@ -1563,7 +1563,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.101Z"
+    "observedAt": "2026-09-04T17:30:39.405Z"
   },
   {
     "id": "torobshop-kids-toys-7dd02e17fa5ae720",
@@ -1581,7 +1581,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.101Z"
+    "observedAt": "2026-09-04T17:30:39.405Z"
   },
   {
     "id": "torobshop-kids-toys-67b089d5840c00b5",
@@ -1599,7 +1599,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.101Z"
+    "observedAt": "2026-09-04T17:30:39.405Z"
   },
   {
     "id": "torobshop-kids-toys-16617f0cd6242c17",
@@ -1617,7 +1617,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.101Z"
+    "observedAt": "2026-09-04T17:30:39.405Z"
   },
   {
     "id": "torobshop-kids-toys-aab6f7ca65634b77",
@@ -1635,7 +1635,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.101Z"
+    "observedAt": "2026-09-04T17:30:39.405Z"
   },
   {
     "id": "torobshop-kids-toys-230290bd87eab562",
@@ -1653,7 +1653,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.101Z"
+    "observedAt": "2026-09-04T17:30:39.405Z"
   },
   {
     "id": "torobshop-kids-toys-697a2934ffba6321",
@@ -1671,7 +1671,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.101Z"
+    "observedAt": "2026-09-04T17:30:39.405Z"
   },
   {
     "id": "torobshop-kids-toys-54f5e9ae596669e0",
@@ -1689,7 +1689,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.101Z"
+    "observedAt": "2026-09-04T17:30:39.405Z"
   },
   {
     "id": "torobshop-kids-toys-12112ebd794aebfe",
@@ -1707,7 +1707,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.101Z"
+    "observedAt": "2026-09-04T17:30:39.405Z"
   },
   {
     "id": "torobshop-kids-toys-936307be3dbff4d8",
@@ -1725,7 +1725,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.101Z"
+    "observedAt": "2026-09-04T17:30:39.405Z"
   },
   {
     "id": "torobshop-kids-toys-6e9b5969bf806a83",
@@ -1743,7 +1743,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.101Z"
+    "observedAt": "2026-09-04T17:30:39.405Z"
   },
   {
     "id": "torobshop-kids-toys-e8fbb91576830b01",
@@ -1761,7 +1761,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.101Z"
+    "observedAt": "2026-09-04T17:30:39.405Z"
   },
   {
     "id": "torobshop-kids-toys-46604b56d19bc98e",
@@ -1779,7 +1779,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.101Z"
+    "observedAt": "2026-09-04T17:30:39.405Z"
   },
   {
     "id": "torobshop-kids-toys-c0da7c6caaaabe22",
@@ -1797,7 +1797,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.101Z"
+    "observedAt": "2026-09-04T17:30:39.405Z"
   },
   {
     "id": "torobshop-kids-toys-b0d9a8bce5b96da9",
@@ -1815,7 +1815,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.101Z"
+    "observedAt": "2026-09-04T17:30:39.405Z"
   },
   {
     "id": "torobshop-kids-toys-5aade8dcb399df70",
@@ -1833,7 +1833,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.101Z"
+    "observedAt": "2026-09-04T17:30:39.405Z"
   },
   {
     "id": "torobshop-kids-toys-5793143473c0cf7d",
@@ -1851,7 +1851,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.101Z"
+    "observedAt": "2026-09-04T17:30:39.405Z"
   },
   {
     "id": "torobshop-kids-toys-338927d0838a0440",
@@ -1869,7 +1869,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.101Z"
+    "observedAt": "2026-09-04T17:30:39.405Z"
   },
   {
     "id": "torobshop-kids-toys-01db327156bef7cb",
@@ -1887,7 +1887,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.102Z"
+    "observedAt": "2026-09-04T17:30:39.405Z"
   },
   {
     "id": "torobshop-kids-toys-5f8b7d12315d211b",
@@ -1905,7 +1905,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.102Z"
+    "observedAt": "2026-09-04T17:30:39.405Z"
   },
   {
     "id": "torobshop-kids-toys-bbcc82316e14ad0c",
@@ -1923,7 +1923,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.102Z"
+    "observedAt": "2026-09-04T17:30:39.405Z"
   },
   {
     "id": "torobshop-kids-toys-c4764ab021d7047d",
@@ -1941,7 +1941,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.102Z"
+    "observedAt": "2026-09-04T17:30:39.405Z"
   },
   {
     "id": "torobshop-kids-toys-7bcf4d86c8897e89",
@@ -1959,7 +1959,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.102Z"
+    "observedAt": "2026-09-04T17:30:39.405Z"
   },
   {
     "id": "torobshop-kids-toys-c0ed70988a23d716",
@@ -1977,7 +1977,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.102Z"
+    "observedAt": "2026-09-04T17:30:39.406Z"
   },
   {
     "id": "torobshop-kids-toys-60d6e587231ae5e2",
@@ -1995,7 +1995,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.102Z"
+    "observedAt": "2026-09-04T17:30:39.406Z"
   },
   {
     "id": "torobshop-kids-toys-6ae0fa5e11f4b4e4",
@@ -2013,7 +2013,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.102Z"
+    "observedAt": "2026-09-04T17:30:39.406Z"
   },
   {
     "id": "torobshop-kids-toys-60af1d85416ddb75",
@@ -2031,7 +2031,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.102Z"
+    "observedAt": "2026-09-04T17:30:39.406Z"
   },
   {
     "id": "torobshop-kids-toys-4bcca73578b5dd16",
@@ -2049,7 +2049,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.102Z"
+    "observedAt": "2026-09-04T17:30:39.406Z"
   },
   {
     "id": "torobshop-kids-toys-6e06ceda384f61d3",
@@ -2067,7 +2067,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.102Z"
+    "observedAt": "2026-09-04T17:30:39.406Z"
   },
   {
     "id": "torobshop-kids-toys-d6020856dbe3939e",
@@ -2085,7 +2085,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.102Z"
+    "observedAt": "2026-09-04T17:30:39.406Z"
   },
   {
     "id": "torobshop-kids-toys-f9bbe058bc1d2128",
@@ -2103,7 +2103,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.102Z"
+    "observedAt": "2026-09-04T17:30:39.406Z"
   },
   {
     "id": "torobshop-kids-toys-5d82b44892bc11b9",
@@ -2121,7 +2121,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.102Z"
+    "observedAt": "2026-09-04T17:30:39.406Z"
   },
   {
     "id": "torobshop-kids-toys-e314f2beea5b98b5",
@@ -2139,43 +2139,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.102Z"
-  },
-  {
-    "id": "torobshop-kids-toys-f9b72003ee046406",
-    "productId": "torobshop-f9b72003ee046406",
-    "name": "سرخ کن بدون روغن شیشه‌ای نینجا آمریکا مدل CRISPi PRO XL استون گلد Ninja AS090EUSD",
-    "brand": "",
-    "model": "سرخ کن بدون روغن شیشه‌ای نینجا آمریکا مدل CRISPi PRO XL استون گلد Ninja AS090EUSD",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 80742000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%D8%BA%D9%86-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D9%85%D8%AF%D9%84-CRISPi-PRO-XL-%D8%A7%D8%B3%D8%AA%D9%88%D9%86-%DA%AF%D9%84%D8%AF-Ninja-AS090EUSD",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.102Z"
-  },
-  {
-    "id": "torobshop-kids-toys-e0190c6b09b72f84",
-    "productId": "torobshop-e0190c6b09b72f84",
-    "name": "مایکروویو گریل اسمگ ایتالیا مدل Smeg MOC01EGMEU رنگ سبز زمردی با ظرفیت 29 لیتر و فناوری Inverter",
-    "brand": "",
-    "model": "مایکروویو گریل اسمگ ایتالیا مدل Smeg MOC01EGMEU رنگ سبز زمردی با ظرفیت 29 لیتر و فناوری Inverter",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 120996000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%DB%8C%DA%A9%D8%B1%D9%88%D9%88%DB%8C%D9%88-%DA%AF%D8%B1%DB%8C%D9%84-%D8%A7%D8%B3%D9%85%DA%AF-%D8%A7%DB%8C%D8%AA%D8%A7%D9%84%DB%8C%D8%A7-%D9%85%D8%AF%D9%84-Smeg-MOC01EGMEU-%D8%B1%D9%86%DA%AF-%D8%B3%D8%A8%D8%B2-%D8%B2%D9%85%D8%B1%D8%AF%DB%8C-%D8%A8%D8%A7-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-29-%D9%84%DB%8C%D8%AA%D8%B1-%D9%88-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-Inverter",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.102Z"
+    "observedAt": "2026-09-04T17:30:39.406Z"
   },
   {
     "id": "torobshop-kids-toys-55066b4800c9da01",
@@ -2193,7 +2157,43 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.102Z"
+    "observedAt": "2026-09-04T17:30:39.406Z"
+  },
+  {
+    "id": "torobshop-kids-toys-f9b72003ee046406",
+    "productId": "torobshop-f9b72003ee046406",
+    "name": "سرخ کن بدون روغن شیشه‌ای نینجا آمریکا مدل CRISPi PRO XL استون گلد Ninja AS090EUSD",
+    "brand": "",
+    "model": "سرخ کن بدون روغن شیشه‌ای نینجا آمریکا مدل CRISPi PRO XL استون گلد Ninja AS090EUSD",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 80742000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%D8%BA%D9%86-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D9%85%D8%AF%D9%84-CRISPi-PRO-XL-%D8%A7%D8%B3%D8%AA%D9%88%D9%86-%DA%AF%D9%84%D8%AF-Ninja-AS090EUSD",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.406Z"
+  },
+  {
+    "id": "torobshop-kids-toys-e0190c6b09b72f84",
+    "productId": "torobshop-e0190c6b09b72f84",
+    "name": "مایکروویو گریل اسمگ ایتالیا مدل Smeg MOC01EGMEU رنگ سبز زمردی با ظرفیت 29 لیتر و فناوری Inverter",
+    "brand": "",
+    "model": "مایکروویو گریل اسمگ ایتالیا مدل Smeg MOC01EGMEU رنگ سبز زمردی با ظرفیت 29 لیتر و فناوری Inverter",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 120996000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%DB%8C%DA%A9%D8%B1%D9%88%D9%88%DB%8C%D9%88-%DA%AF%D8%B1%DB%8C%D9%84-%D8%A7%D8%B3%D9%85%DA%AF-%D8%A7%DB%8C%D8%AA%D8%A7%D9%84%DB%8C%D8%A7-%D9%85%D8%AF%D9%84-Smeg-MOC01EGMEU-%D8%B1%D9%86%DA%AF-%D8%B3%D8%A8%D8%B2-%D8%B2%D9%85%D8%B1%D8%AF%DB%8C-%D8%A8%D8%A7-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-29-%D9%84%DB%8C%D8%AA%D8%B1-%D9%88-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-Inverter",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.406Z"
   },
   {
     "id": "torobshop-kids-toys-dab9eb8721316f5c",
@@ -2211,7 +2211,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.102Z"
+    "observedAt": "2026-09-04T17:30:39.406Z"
   },
   {
     "id": "torobshop-kids-toys-b5bb3ef74c64016f",
@@ -2229,7 +2229,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.102Z"
+    "observedAt": "2026-09-04T17:30:39.406Z"
   },
   {
     "id": "torobshop-kids-toys-13383e2908795ceb",
@@ -2247,7 +2247,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.102Z"
+    "observedAt": "2026-09-04T17:30:39.406Z"
   },
   {
     "id": "torobshop-kids-toys-7039563646d2a08c",
@@ -2265,7 +2265,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.102Z"
+    "observedAt": "2026-09-04T17:30:39.406Z"
   },
   {
     "id": "torobshop-kids-toys-d17a16a92c427af7",
@@ -2283,7 +2283,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.102Z"
+    "observedAt": "2026-09-04T17:30:39.406Z"
   },
   {
     "id": "torobshop-kids-toys-e05ea902bac411c1",
@@ -2301,7 +2301,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.102Z"
+    "observedAt": "2026-09-04T17:30:39.406Z"
   },
   {
     "id": "torobshop-kids-toys-222c5f1f48a7811a",
@@ -2319,7 +2319,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.102Z"
+    "observedAt": "2026-09-04T17:30:39.406Z"
   },
   {
     "id": "torobshop-kids-toys-9f8dba1c4be0543f",
@@ -2337,7 +2337,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.102Z"
+    "observedAt": "2026-09-04T17:30:39.406Z"
   },
   {
     "id": "torobshop-kids-toys-73f54a12bc87541c",
@@ -2355,25 +2355,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.102Z"
-  },
-  {
-    "id": "torobshop-kids-toys-7dda1ee3ebe3337d",
-    "productId": "torobshop-7dda1ee3ebe3337d",
-    "name": "اسپرسو ساز تمام اتوماتیک نینجا آمریکا Ninja AE1051EUBL",
-    "brand": "",
-    "model": "اسپرسو ساز تمام اتوماتیک نینجا آمریکا Ninja AE1051EUBL",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 263060000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%A7%D8%B3%D9%BE%D8%B1%D8%B3%D9%88-%D8%B3%D8%A7%D8%B2-%D8%AA%D9%85%D8%A7%D9%85-%D8%A7%D8%AA%D9%88%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-Ninja-AE1051EUBL",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.102Z"
+    "observedAt": "2026-09-04T17:30:39.406Z"
   },
   {
     "id": "torobshop-kids-toys-fed9304ce636fd70",
@@ -2391,7 +2373,25 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.102Z"
+    "observedAt": "2026-09-04T17:30:39.406Z"
+  },
+  {
+    "id": "torobshop-kids-toys-7dda1ee3ebe3337d",
+    "productId": "torobshop-7dda1ee3ebe3337d",
+    "name": "اسپرسو ساز تمام اتوماتیک نینجا آمریکا Ninja AE1051EUBL",
+    "brand": "",
+    "model": "اسپرسو ساز تمام اتوماتیک نینجا آمریکا Ninja AE1051EUBL",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 263060000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D8%B3%D9%BE%D8%B1%D8%B3%D9%88-%D8%B3%D8%A7%D8%B2-%D8%AA%D9%85%D8%A7%D9%85-%D8%A7%D8%AA%D9%88%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-Ninja-AE1051EUBL",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.406Z"
   },
   {
     "id": "torobshop-kids-toys-56d2262c04bf40b1",
@@ -2409,7 +2409,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.102Z"
+    "observedAt": "2026-09-04T17:30:39.406Z"
   },
   {
     "id": "torobshop-kids-toys-1d09296a1209f7ae",
@@ -2427,7 +2427,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.102Z"
+    "observedAt": "2026-09-04T17:30:39.406Z"
   },
   {
     "id": "torobshop-kids-toys-d5861c5eae980acb",
@@ -2445,7 +2445,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.102Z"
+    "observedAt": "2026-09-04T17:30:39.406Z"
   },
   {
     "id": "torobshop-kids-toys-3a354858143bf5bf",
@@ -2463,7 +2463,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.102Z"
+    "observedAt": "2026-09-04T17:30:39.406Z"
   },
   {
     "id": "torobshop-kids-toys-3b108c60419c6b3e",
@@ -2481,7 +2481,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.102Z"
+    "observedAt": "2026-09-04T17:30:39.406Z"
   },
   {
     "id": "torobshop-kids-toys-386045fed7109b6c",
@@ -2499,7 +2499,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.102Z"
+    "observedAt": "2026-09-04T17:30:39.406Z"
   },
   {
     "id": "torobshop-kids-toys-3d432c8dbd69eefb",
@@ -2517,7 +2517,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.102Z"
+    "observedAt": "2026-09-04T17:30:39.406Z"
   },
   {
     "id": "torobshop-kids-toys-2278a7dbec8ed7cd",
@@ -2535,7 +2535,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.102Z"
+    "observedAt": "2026-09-04T17:30:39.406Z"
   },
   {
     "id": "torobshop-kids-toys-66634e26dfb49c04",
@@ -2553,7 +2553,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.102Z"
+    "observedAt": "2026-09-04T17:30:39.406Z"
   },
   {
     "id": "torobshop-kids-toys-bab25203513b93bb",
@@ -2571,7 +2571,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.102Z"
+    "observedAt": "2026-09-04T17:30:39.406Z"
   },
   {
     "id": "torobshop-kids-toys-3dd1b99a47f6c6d1",
@@ -2589,7 +2589,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.102Z"
+    "observedAt": "2026-09-04T17:30:39.406Z"
   },
   {
     "id": "torobshop-kids-toys-bcf3455eedcf96e7",
@@ -2607,7 +2607,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.102Z"
+    "observedAt": "2026-09-04T17:30:39.406Z"
   },
   {
     "id": "torobshop-kids-toys-40f557a46b915c21",
@@ -2625,7 +2625,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.102Z"
+    "observedAt": "2026-09-04T17:30:39.406Z"
   },
   {
     "id": "torobshop-kids-toys-fbd5e1832a592f6d",
@@ -2643,7 +2643,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.102Z"
+    "observedAt": "2026-09-04T17:30:39.406Z"
   },
   {
     "id": "torobshop-kids-toys-9c9a87a898bad342",
@@ -2661,7 +2661,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.102Z"
+    "observedAt": "2026-09-04T17:30:39.406Z"
   },
   {
     "id": "torobshop-kids-toys-685fccacbb18ee43",
@@ -2679,7 +2679,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.102Z"
+    "observedAt": "2026-09-04T17:30:39.406Z"
   },
   {
     "id": "torobshop-kids-toys-1cb6df1aed563bee",
@@ -2697,7 +2697,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.102Z"
+    "observedAt": "2026-09-04T17:30:39.406Z"
   },
   {
     "id": "torobshop-kids-toys-993ee35f4a561a10",
@@ -2715,7 +2715,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.102Z"
+    "observedAt": "2026-09-04T17:30:39.406Z"
   },
   {
     "id": "torobshop-kids-toys-37fd983abaa93a3b",
@@ -2733,7 +2733,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.102Z"
+    "observedAt": "2026-09-04T17:30:39.406Z"
   },
   {
     "id": "torobshop-kids-toys-deb4652ab7b20c96",
@@ -2751,7 +2751,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.102Z"
+    "observedAt": "2026-09-04T17:30:39.406Z"
   },
   {
     "id": "torobshop-kids-toys-cc5a74ea332cb871",
@@ -2769,7 +2769,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.103Z"
+    "observedAt": "2026-09-04T17:30:39.406Z"
   },
   {
     "id": "torobshop-kids-toys-f5c373b20c89f3cf",
@@ -2787,7 +2787,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.103Z"
+    "observedAt": "2026-09-04T17:30:39.406Z"
   },
   {
     "id": "torobshop-kids-toys-557954e4838db8ec",
@@ -2805,7 +2805,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.103Z"
+    "observedAt": "2026-09-04T17:30:39.406Z"
   },
   {
     "id": "torobshop-kids-toys-ac5e0f9a687acc9d",
@@ -2823,7 +2823,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.103Z"
+    "observedAt": "2026-09-04T17:30:39.406Z"
   },
   {
     "id": "torobshop-kids-toys-5e97e30e4af5e35a",
@@ -2841,7 +2841,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.103Z"
+    "observedAt": "2026-09-04T17:30:39.406Z"
   },
   {
     "id": "torobshop-kids-toys-174296fd490ce4c6",
@@ -2859,7 +2859,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.103Z"
+    "observedAt": "2026-09-04T17:30:39.406Z"
   },
   {
     "id": "torobshop-kids-toys-ca40f9691c169854",
@@ -2877,25 +2877,25 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.103Z"
+    "observedAt": "2026-09-04T17:30:39.406Z"
   },
   {
-    "id": "torobshop-kids-toys-1ba644cb6c0a38e9",
-    "productId": "torobshop-1ba644cb6c0a38e9",
-    "name": "سماور برقی 10 لیتری بیم آلمان مدل BEEM Amira 06356 مخصوص هتل و رستوران",
+    "id": "torobshop-kids-toys-24ee5f250564a2b6",
+    "productId": "torobshop-24ee5f250564a2b6",
+    "name": "جارو برقی کیسه‌ای حرفه‌ای میله آلمان مدل Miele Guard M1 SVXG0 سفید براق",
     "brand": "",
-    "model": "سماور برقی 10 لیتری بیم آلمان مدل BEEM Amira 06356 مخصوص هتل و رستوران",
+    "model": "جارو برقی کیسه‌ای حرفه‌ای میله آلمان مدل Miele Guard M1 SVXG0 سفید براق",
     "category": "kids-toys",
     "subcategory": "عروسک",
-    "price": 306844000,
+    "price": 103811000,
     "currency": "IRT",
     "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D9%85%D8%A7%D9%88%D8%B1-%D8%A8%D8%B1%D9%82%DB%8C-10-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C-%D8%A8%DB%8C%D9%85-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%AF%D9%84-BEEM-Amira-06356-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D9%87%D8%AA%D9%84-%D9%88-%D8%B1%D8%B3%D8%AA%D9%88%D8%B1%D8%A7%D9%86",
+    "productUrl": "https://torobshop.com/products/%D8%AC%D8%A7%D8%B1%D9%88-%D8%A8%D8%B1%D9%82%DB%8C-%DA%A9%DB%8C%D8%B3%D9%87-%D8%A7%DB%8C-%D8%AD%D8%B1%D9%81%D9%87-%D8%A7%DB%8C-%D9%85%DB%8C%D9%84%D9%87-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%AF%D9%84-Miele-Guard-M1-SVXG0-%D8%B3%D9%81%DB%8C%D8%AF-%D8%A8%D8%B1%D8%A7%D9%82",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.103Z"
+    "observedAt": "2026-09-04T17:30:39.406Z"
   },
   {
     "id": "torobshop-kids-toys-eb2d1bdae18ab641",
@@ -2913,7 +2913,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.103Z"
+    "observedAt": "2026-09-04T17:30:39.406Z"
   },
   {
     "id": "torobshop-kids-toys-9526bc50db1d2b71",
@@ -2931,7 +2931,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.103Z"
+    "observedAt": "2026-09-04T17:30:39.406Z"
   },
   {
     "id": "torobshop-kids-toys-17aea0c096f3fbb1",
@@ -2949,7 +2949,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.103Z"
+    "observedAt": "2026-09-04T17:30:39.406Z"
   },
   {
     "id": "torobshop-kids-toys-dab36535df580dd9",
@@ -2967,7 +2967,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.103Z"
+    "observedAt": "2026-09-04T17:30:39.406Z"
   },
   {
     "id": "torobshop-kids-toys-bb07ff83203ce817",
@@ -2985,7 +2985,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.103Z"
+    "observedAt": "2026-09-04T17:30:39.407Z"
   },
   {
     "id": "torobshop-kids-toys-23a08ed4a54c1bf3",
@@ -3003,7 +3003,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.103Z"
+    "observedAt": "2026-09-04T17:30:39.407Z"
   },
   {
     "id": "torobshop-kids-toys-86394f5b0d453ade",
@@ -3021,7 +3021,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.103Z"
+    "observedAt": "2026-09-04T17:30:39.407Z"
   },
   {
     "id": "torobshop-kids-toys-bf0ff9604c787d7f",
@@ -3039,25 +3039,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.103Z"
-  },
-  {
-    "id": "torobshop-kids-toys-add12b5339d41d54",
-    "productId": "torobshop-add12b5339d41d54",
-    "name": "گوشی هوشمند اپل آیفون ۱۷e (۱۵.۴ سانتی‌متر / ۶.۱ اینچ، حافظه ۲۵۶ گیگابایت، دوربین ۴۸ مگاپیکسلی)",
-    "brand": "اپل",
-    "model": "گوشی هوشمند اپل آیفون ۱۷e (۱۵.۴ سانتی‌متر / ۶.۱ اینچ، حافظه ۲۵۶ گیگابایت، دوربین ۴۸ مگاپیکسلی)",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 176871000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%DA%AF%D9%88%D8%B4%DB%8C-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%D8%A7%D9%BE%D9%84-%D8%A2%DB%8C%D9%81%D9%88%D9%86-%DB%B1%DB%B7e-%DB%B1%DB%B5-%DB%B4-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%DB%B6-%DB%B1-%D8%A7%DB%8C%D9%86%DA%86-%D8%AD%D8%A7%D9%81%D8%B8%D9%87-%DB%B2%DB%B5%DB%B6-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%AF%D9%88%D8%B1%D8%A8%DB%8C%D9%86-%DB%B4%DB%B8-%D9%85%DA%AF%D8%A7%D9%BE%DB%8C%DA%A9%D8%B3%D9%84%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.103Z"
+    "observedAt": "2026-09-04T17:30:39.407Z"
   },
   {
     "id": "torobshop-kids-toys-ec9957a5ab556a59",
@@ -3075,61 +3057,25 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.103Z"
+    "observedAt": "2026-09-04T17:30:39.407Z"
   },
   {
-    "id": "torobshop-kids-toys-ec7446a90d887300",
-    "productId": "torobshop-ec7446a90d887300",
-    "name": "مانیتور فیلیپس هلند Philips 439P9H/00 سایز ۴۳ اینچ SuperWide با داک USB-C و وب‌کم",
-    "brand": "",
-    "model": "مانیتور فیلیپس هلند Philips 439P9H/00 سایز ۴۳ اینچ SuperWide با داک USB-C و وب‌کم",
+    "id": "torobshop-kids-toys-add12b5339d41d54",
+    "productId": "torobshop-add12b5339d41d54",
+    "name": "گوشی هوشمند اپل آیفون ۱۷e (۱۵.۴ سانتی‌متر / ۶.۱ اینچ، حافظه ۲۵۶ گیگابایت، دوربین ۴۸ مگاپیکسلی)",
+    "brand": "اپل",
+    "model": "گوشی هوشمند اپل آیفون ۱۷e (۱۵.۴ سانتی‌متر / ۶.۱ اینچ، حافظه ۲۵۶ گیگابایت، دوربین ۴۸ مگاپیکسلی)",
     "category": "kids-toys",
     "subcategory": "عروسک",
-    "price": 233200000,
+    "price": 176871000,
     "currency": "IRT",
     "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-439P9H-00",
+    "productUrl": "https://torobshop.com/products/%DA%AF%D9%88%D8%B4%DB%8C-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%D8%A7%D9%BE%D9%84-%D8%A2%DB%8C%D9%81%D9%88%D9%86-%DB%B1%DB%B7e-%DB%B1%DB%B5-%DB%B4-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%DB%B6-%DB%B1-%D8%A7%DB%8C%D9%86%DA%86-%D8%AD%D8%A7%D9%81%D8%B8%D9%87-%DB%B2%DB%B5%DB%B6-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%AF%D9%88%D8%B1%D8%A8%DB%8C%D9%86-%DB%B4%DB%B8-%D9%85%DA%AF%D8%A7%D9%BE%DB%8C%DA%A9%D8%B3%D9%84%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.103Z"
-  },
-  {
-    "id": "torobshop-kids-toys-e89541bdd38935d2",
-    "productId": "torobshop-e89541bdd38935d2",
-    "name": "هدفون بی‌سیم های‌فای فیلیپس SHC5200/10",
-    "brand": "",
-    "model": "هدفون بی‌سیم های‌فای فیلیپس SHC5200/10",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 25156000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%87%D8%AF%D9%81%D9%88%D9%86-%D8%A8%DB%8C-%D8%B3%DB%8C%D9%85-%D9%87%D8%A7%DB%8C-%D9%81%D8%A7%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-SHC5200-10",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.103Z"
-  },
-  {
-    "id": "torobshop-kids-toys-f676e23d1f151190",
-    "productId": "torobshop-f676e23d1f151190",
-    "name": "مانیتور لمسی فیلیپس ۲۴ اینچ تاچ Philips Touch 242B9TN/00",
-    "brand": "",
-    "model": "مانیتور لمسی فیلیپس ۲۴ اینچ تاچ Philips Touch 242B9TN/00",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 36081000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%AA%D8%A7%DA%86-242B9TN-00",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.103Z"
+    "observedAt": "2026-09-04T17:30:39.407Z"
   },
   {
     "id": "torobshop-kids-toys-ffccfb4b61d564f3",
@@ -3147,43 +3093,61 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.103Z"
+    "observedAt": "2026-09-04T17:30:39.407Z"
   },
   {
-    "id": "torobshop-kids-toys-bf9b6308d5e6e4a3",
-    "productId": "torobshop-bf9b6308d5e6e4a3",
-    "name": "گوشی هوشمند اپل آیفون ۱۷ (۱۵.۹ سانتی‌متر / ۶.۳ اینچ، حافظه ۲۵۶ گیگابایت، دوربین ۴۸ مگاپیکسلی)",
-    "brand": "اپل",
-    "model": "گوشی هوشمند اپل آیفون ۱۷ (۱۵.۹ سانتی‌متر / ۶.۳ اینچ، حافظه ۲۵۶ گیگابایت، دوربین ۴۸ مگاپیکسلی)",
+    "id": "torobshop-kids-toys-ec7446a90d887300",
+    "productId": "torobshop-ec7446a90d887300",
+    "name": "مانیتور فیلیپس هلند Philips 439P9H/00 سایز ۴۳ اینچ SuperWide با داک USB-C و وب‌کم",
+    "brand": "",
+    "model": "مانیتور فیلیپس هلند Philips 439P9H/00 سایز ۴۳ اینچ SuperWide با داک USB-C و وب‌کم",
     "category": "kids-toys",
     "subcategory": "عروسک",
-    "price": 237013000,
+    "price": 233200000,
     "currency": "IRT",
     "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%DA%AF%D9%88%D8%B4%DB%8C-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%D8%A7%D9%BE%D9%84-%D8%A2%DB%8C%D9%81%D9%88%D9%86-%DB%B1%DB%B7-%DB%B1%DB%B5-%DB%B9-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%DB%B6-%DB%B3-%D8%A7%DB%8C%D9%86%DA%86-%D8%AD%D8%A7%D9%81%D8%B8%D9%87-%DB%B2%DB%B5%DB%B6-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%AF%D9%88%D8%B1%D8%A8%DB%8C%D9%86-%DB%B4%DB%B8-%D9%85%DA%AF%D8%A7%D9%BE%DB%8C%DA%A9%D8%B3%D9%84%DB%8C",
+    "productUrl": "https://torobshop.com/products/%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-439P9H-00",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.103Z"
+    "observedAt": "2026-09-04T17:30:39.407Z"
   },
   {
-    "id": "torobshop-kids-toys-a936b9d4fccda9ec",
-    "productId": "torobshop-a936b9d4fccda9ec",
-    "name": "لپ‌تاپ مک‌بوک ۱۳ اینچی مدل نئو اپل آمریکا با تراشه A18 Pro برای هوش مصنوعی و هوش اپل، صفحه نمایش Liquid Retina، ۸ با 256 گیگابایت",
-    "brand": "اپل",
-    "model": "لپ‌تاپ مک‌بوک ۱۳ اینچی مدل نئو اپل آمریکا با تراشه A18 Pro برای هوش مصنوعی و هوش اپل، صفحه نمایش Liquid Retina، ۸ با 256 گیگابایت",
+    "id": "torobshop-kids-toys-f676e23d1f151190",
+    "productId": "torobshop-f676e23d1f151190",
+    "name": "مانیتور لمسی فیلیپس ۲۴ اینچ تاچ Philips Touch 242B9TN/00",
+    "brand": "",
+    "model": "مانیتور لمسی فیلیپس ۲۴ اینچ تاچ Philips Touch 242B9TN/00",
     "category": "kids-toys",
     "subcategory": "عروسک",
-    "price": 173572000,
+    "price": 36081000,
     "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%84%D9%BE-%D8%AA%D8%A7%D9%BE-%D9%85%DA%A9-%D8%A8%D9%88%DA%A9-%DB%B1%DB%B3-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D9%85%D8%AF%D9%84-%D9%86%D8%A6%D9%88-%D8%A8%D8%A7-%D8%AA%D8%B1%D8%A7%D8%B4%D9%87-A18-Pro-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B4%D8%AF%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D9%88-%D9%87%D9%88%D8%B4-%D8%A7%D9%BE%D9%84-%D8%B5%D9%81%D8%AD%D9%87-%D9%86%D9%85%D8%A7%DB%8C%D8%B4-Liquid-Retina-%DB%B8-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%AD%D8%A7%D9%81%D8%B8%D9%87-%D9%85%D8%B4%D8%AA%D8%B1%DA%A9-%DB%B2%DB%B5%DB%B6-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%AD%D8%A7%D9%81%D8%B8%D9%87-SSD-%D8%AF%D9%88%D8%B1%D8%A8%DB%8C%D9%86-FaceTime-HD-%D8%A8%D8%A7-%D8%B1%D8%B2%D9%88%D9%84%D9%88%D8%B4%D9%86-%DB%B1%DB%B0%DB%B8%DB%B0p-%D8%B1%D9%86%DA%AF-%D8%B5%D9%88%D8%B1%D8%AA%DB%8C",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%AA%D8%A7%DA%86-242B9TN-00",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.103Z"
+    "observedAt": "2026-09-04T17:30:39.407Z"
+  },
+  {
+    "id": "torobshop-kids-toys-e89541bdd38935d2",
+    "productId": "torobshop-e89541bdd38935d2",
+    "name": "هدفون بی‌سیم های‌فای فیلیپس SHC5200/10",
+    "brand": "",
+    "model": "هدفون بی‌سیم های‌فای فیلیپس SHC5200/10",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 25156000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%87%D8%AF%D9%81%D9%88%D9%86-%D8%A8%DB%8C-%D8%B3%DB%8C%D9%85-%D9%87%D8%A7%DB%8C-%D9%81%D8%A7%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-SHC5200-10",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.407Z"
   },
   {
     "id": "torobshop-kids-toys-3debd7458ec254ad",
@@ -3201,25 +3165,43 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.103Z"
+    "observedAt": "2026-09-04T17:30:39.407Z"
   },
   {
-    "id": "torobshop-kids-toys-20506e6b258fcb0c",
-    "productId": "torobshop-20506e6b258fcb0c",
-    "name": "گوشی هوشمند اپل آیفون ۱۷ پرو (۱۵.۹ سانتی‌متر / ۶.۳ اینچ، حافظه ۲۵۶ گیگابایت، دوربین ۴۸ مگاپیکسلی)",
+    "id": "torobshop-kids-toys-bf9b6308d5e6e4a3",
+    "productId": "torobshop-bf9b6308d5e6e4a3",
+    "name": "گوشی هوشمند اپل آیفون ۱۷ (۱۵.۹ سانتی‌متر / ۶.۳ اینچ، حافظه ۲۵۶ گیگابایت، دوربین ۴۸ مگاپیکسلی)",
     "brand": "اپل",
-    "model": "گوشی هوشمند اپل آیفون ۱۷ پرو (۱۵.۹ سانتی‌متر / ۶.۳ اینچ، حافظه ۲۵۶ گیگابایت، دوربین ۴۸ مگاپیکسلی)",
+    "model": "گوشی هوشمند اپل آیفون ۱۷ (۱۵.۹ سانتی‌متر / ۶.۳ اینچ، حافظه ۲۵۶ گیگابایت، دوربین ۴۸ مگاپیکسلی)",
     "category": "kids-toys",
     "subcategory": "عروسک",
-    "price": 327352000,
+    "price": 237013000,
     "currency": "IRT",
     "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%DA%AF%D9%88%D8%B4%DB%8C-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%D8%A7%D9%BE%D9%84-%D8%A2%DB%8C%D9%81%D9%88%D9%86-%DB%B1%DB%B7-%D9%BE%D8%B1%D9%88-%DB%B1%DB%B5-%DB%B9-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%DB%B6-%DB%B3-%D8%A7%DB%8C%D9%86%DA%86-%D8%AD%D8%A7%D9%81%D8%B8%D9%87-%DB%B2%DB%B5%DB%B6-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%AF%D9%88%D8%B1%D8%A8%DB%8C%D9%86-%DB%B4%DB%B8-%D9%85%DA%AF%D8%A7%D9%BE%DB%8C%DA%A9%D8%B3%D9%84%DB%8C",
+    "productUrl": "https://torobshop.com/products/%DA%AF%D9%88%D8%B4%DB%8C-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%D8%A7%D9%BE%D9%84-%D8%A2%DB%8C%D9%81%D9%88%D9%86-%DB%B1%DB%B7-%DB%B1%DB%B5-%DB%B9-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%DB%B6-%DB%B3-%D8%A7%DB%8C%D9%86%DA%86-%D8%AD%D8%A7%D9%81%D8%B8%D9%87-%DB%B2%DB%B5%DB%B6-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%AF%D9%88%D8%B1%D8%A8%DB%8C%D9%86-%DB%B4%DB%B8-%D9%85%DA%AF%D8%A7%D9%BE%DB%8C%DA%A9%D8%B3%D9%84%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.103Z"
+    "observedAt": "2026-09-04T17:30:39.407Z"
+  },
+  {
+    "id": "torobshop-kids-toys-a936b9d4fccda9ec",
+    "productId": "torobshop-a936b9d4fccda9ec",
+    "name": "لپ‌تاپ مک‌بوک ۱۳ اینچی مدل نئو اپل آمریکا با تراشه A18 Pro برای هوش مصنوعی و هوش اپل، صفحه نمایش Liquid Retina، ۸ با 256 گیگابایت",
+    "brand": "اپل",
+    "model": "لپ‌تاپ مک‌بوک ۱۳ اینچی مدل نئو اپل آمریکا با تراشه A18 Pro برای هوش مصنوعی و هوش اپل، صفحه نمایش Liquid Retina، ۸ با 256 گیگابایت",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 173572000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%84%D9%BE-%D8%AA%D8%A7%D9%BE-%D9%85%DA%A9-%D8%A8%D9%88%DA%A9-%DB%B1%DB%B3-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D9%85%D8%AF%D9%84-%D9%86%D8%A6%D9%88-%D8%A8%D8%A7-%D8%AA%D8%B1%D8%A7%D8%B4%D9%87-A18-Pro-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B4%D8%AF%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D9%88-%D9%87%D9%88%D8%B4-%D8%A7%D9%BE%D9%84-%D8%B5%D9%81%D8%AD%D9%87-%D9%86%D9%85%D8%A7%DB%8C%D8%B4-Liquid-Retina-%DB%B8-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%AD%D8%A7%D9%81%D8%B8%D9%87-%D9%85%D8%B4%D8%AA%D8%B1%DA%A9-%DB%B2%DB%B5%DB%B6-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%AD%D8%A7%D9%81%D8%B8%D9%87-SSD-%D8%AF%D9%88%D8%B1%D8%A8%DB%8C%D9%86-FaceTime-HD-%D8%A8%D8%A7-%D8%B1%D8%B2%D9%88%D9%84%D9%88%D8%B4%D9%86-%DB%B1%DB%B0%DB%B8%DB%B0p-%D8%B1%D9%86%DA%AF-%D8%B5%D9%88%D8%B1%D8%AA%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.407Z"
   },
   {
     "id": "torobshop-kids-toys-bc5ad78acdc13550",
@@ -3237,25 +3219,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.103Z"
-  },
-  {
-    "id": "torobshop-kids-toys-9f1357a1a5ec15c3",
-    "productId": "torobshop-9f1357a1a5ec15c3",
-    "name": "هدفون داخل گوشی فیلیپس Taue101Bk/00",
-    "brand": "",
-    "model": "هدفون داخل گوشی فیلیپس Taue101Bk/00",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 11435000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%87%D8%AF%D9%81%D9%88%D9%86-%D8%AF%D8%A7%D8%AE%D9%84-%DA%AF%D9%88%D8%B4%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-Taue101Bk-00",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.103Z"
+    "observedAt": "2026-09-04T17:30:39.407Z"
   },
   {
     "id": "torobshop-kids-toys-b93b2b7b8a52ead7",
@@ -3273,7 +3237,43 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.103Z"
+    "observedAt": "2026-09-04T17:30:39.407Z"
+  },
+  {
+    "id": "torobshop-kids-toys-20506e6b258fcb0c",
+    "productId": "torobshop-20506e6b258fcb0c",
+    "name": "گوشی هوشمند اپل آیفون ۱۷ پرو (۱۵.۹ سانتی‌متر / ۶.۳ اینچ، حافظه ۲۵۶ گیگابایت، دوربین ۴۸ مگاپیکسلی)",
+    "brand": "اپل",
+    "model": "گوشی هوشمند اپل آیفون ۱۷ پرو (۱۵.۹ سانتی‌متر / ۶.۳ اینچ، حافظه ۲۵۶ گیگابایت، دوربین ۴۸ مگاپیکسلی)",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 327352000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%DA%AF%D9%88%D8%B4%DB%8C-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%D8%A7%D9%BE%D9%84-%D8%A2%DB%8C%D9%81%D9%88%D9%86-%DB%B1%DB%B7-%D9%BE%D8%B1%D9%88-%DB%B1%DB%B5-%DB%B9-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%DB%B6-%DB%B3-%D8%A7%DB%8C%D9%86%DA%86-%D8%AD%D8%A7%D9%81%D8%B8%D9%87-%DB%B2%DB%B5%DB%B6-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%AF%D9%88%D8%B1%D8%A8%DB%8C%D9%86-%DB%B4%DB%B8-%D9%85%DA%AF%D8%A7%D9%BE%DB%8C%DA%A9%D8%B3%D9%84%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.407Z"
+  },
+  {
+    "id": "torobshop-kids-toys-9f1357a1a5ec15c3",
+    "productId": "torobshop-9f1357a1a5ec15c3",
+    "name": "هدفون داخل گوشی فیلیپس Taue101Bk/00",
+    "brand": "",
+    "model": "هدفون داخل گوشی فیلیپس Taue101Bk/00",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 11435000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%87%D8%AF%D9%81%D9%88%D9%86-%D8%AF%D8%A7%D8%AE%D9%84-%DA%AF%D9%88%D8%B4%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-Taue101Bk-00",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.407Z"
   },
   {
     "id": "torobshop-kids-toys-469010b14dce1518",
@@ -3291,7 +3291,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.103Z"
+    "observedAt": "2026-09-04T17:30:39.407Z"
   },
   {
     "id": "torobshop-kids-toys-d622f60b84a25c29",
@@ -3309,7 +3309,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.103Z"
+    "observedAt": "2026-09-04T17:30:39.407Z"
   },
   {
     "id": "torobshop-kids-toys-8ad1b620c2984c64",
@@ -3327,79 +3327,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.103Z"
-  },
-  {
-    "id": "torobshop-kids-toys-7362b68fe582e1ef",
-    "productId": "torobshop-7362b68fe582e1ef",
-    "name": "مانیتور لمسی ۲۴ اینچی فیلیپس ۲۴۲B9T، قابلیت تنظیم ارتفاع (۱۹۲۰x۱۰۸۰، ۶۰ هرتز، VGA، DVI، HDMI، DisplayPort، هاب USB) مشکی",
-    "brand": "",
-    "model": "مانیتور لمسی ۲۴ اینچی فیلیپس ۲۴۲B9T، قابلیت تنظیم ارتفاع (۱۹۲۰x۱۰۸۰، ۶۰ هرتز، VGA، DVI، HDMI، DisplayPort، هاب USB) مشکی",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 108247000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%84%D9%85%D8%B3%DB%8C-%DB%B2%DB%B4-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%DB%B2%DB%B4%DB%B2B9T-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%DB%B1%DB%B9%DB%B2%DB%B0x%DB%B1%DB%B0%DB%B8%DB%B0-%DB%B6%DB%B0-%D9%87%D8%B1%D8%AA%D8%B2-VGA-DVI-HDMI-DisplayPort-%D9%87%D8%A7%D8%A8-USB-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.103Z"
-  },
-  {
-    "id": "torobshop-kids-toys-8cd92a01eb7c25f2",
-    "productId": "torobshop-8cd92a01eb7c25f2",
-    "name": "فیلیپس 32E1N1800LA - مانیتور 32 اینچی فوق العاده HD، همگام سازی تطبیقی، HDR10، بلندگوها (3840x2160، 60 هرتز، DisplayPort، HDMI) مشکی",
-    "brand": "",
-    "model": "فیلیپس 32E1N1800LA - مانیتور 32 اینچی فوق العاده HD، همگام سازی تطبیقی، HDR10، بلندگوها (3840x2160، 60 هرتز، DisplayPort، HDMI) مشکی",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 69115000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-32E1N1800LA-%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-32-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D9%81%D9%88%D9%82-%D8%A7%D9%84%D8%B9%D8%A7%D8%AF%D9%87-HD-%D9%87%D9%85%DA%AF%D8%A7%D9%85-%D8%B3%D8%A7%D8%B2%DB%8C-%D8%AA%D8%B7%D8%A8%DB%8C%D9%82%DB%8C-HDR10-%D8%A8%D9%84%D9%86%D8%AF%DA%AF%D9%88%D9%87%D8%A7-3840x2160-60-%D9%87%D8%B1%D8%AA%D8%B2-DisplayPort-HDMI-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.103Z"
-  },
-  {
-    "id": "torobshop-kids-toys-8b4d268dc0b50dc9",
-    "productId": "torobshop-8b4d268dc0b50dc9",
-    "name": "فیلیپس 27E1N1100A - مانیتور 27 اینچی Full HD، بلندگوهای داخلی، زمان پاسخگویی 1 میلی‌ثانیه (1920x1080، 100 هرتز، VGA، HDMI 1.4) مشکی",
-    "brand": "",
-    "model": "فیلیپس 27E1N1100A - مانیتور 27 اینچی Full HD، بلندگوهای داخلی، زمان پاسخگویی 1 میلی‌ثانیه (1920x1080، 100 هرتز، VGA، HDMI 1.4) مشکی",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 36590000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-27E1N1100A-%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-27-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-Full-HD-%D8%A8%D9%84%D9%86%D8%AF%DA%AF%D9%88%D9%87%D8%A7%DB%8C-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%B2%D9%85%D8%A7%D9%86-%D9%BE%D8%A7%D8%B3%D8%AE%DA%AF%D9%88%DB%8C%DB%8C-1-%D9%85%DB%8C%D9%84%DB%8C-%D8%AB%D8%A7%D9%86%DB%8C%D9%87-1920x1080-100-%D9%87%D8%B1%D8%AA%D8%B2-VGA-HDMI-1-4-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.103Z"
-  },
-  {
-    "id": "torobshop-kids-toys-2aa12aa20262b96c",
-    "productId": "torobshop-2aa12aa20262b96c",
-    "name": "هدفون داخل گوشی Philips E1105BK HiFi با کنترل صدا، مشکی",
-    "brand": "",
-    "model": "هدفون داخل گوشی Philips E1105BK HiFi با کنترل صدا، مشکی",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 15246000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%87%D8%AF%D9%81%D9%88%D9%86-%D8%AF%D8%A7%D8%AE%D9%84-%DA%AF%D9%88%D8%B4%DB%8C-Philips-E1105BK-HiFi-%D8%A8%D8%A7-%DA%A9%D9%86%D8%AA%D8%B1%D9%84-%D8%B5%D8%AF%D8%A7-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.103Z"
+    "observedAt": "2026-09-04T17:30:39.407Z"
   },
   {
     "id": "torobshop-kids-toys-10055e541e3441a4",
@@ -3417,7 +3345,79 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.103Z"
+    "observedAt": "2026-09-04T17:30:39.407Z"
+  },
+  {
+    "id": "torobshop-kids-toys-7362b68fe582e1ef",
+    "productId": "torobshop-7362b68fe582e1ef",
+    "name": "مانیتور لمسی ۲۴ اینچی فیلیپس ۲۴۲B9T، قابلیت تنظیم ارتفاع (۱۹۲۰x۱۰۸۰، ۶۰ هرتز، VGA، DVI، HDMI، DisplayPort، هاب USB) مشکی",
+    "brand": "",
+    "model": "مانیتور لمسی ۲۴ اینچی فیلیپس ۲۴۲B9T، قابلیت تنظیم ارتفاع (۱۹۲۰x۱۰۸۰، ۶۰ هرتز، VGA، DVI، HDMI، DisplayPort، هاب USB) مشکی",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 108247000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%84%D9%85%D8%B3%DB%8C-%DB%B2%DB%B4-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%DB%B2%DB%B4%DB%B2B9T-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%DB%B1%DB%B9%DB%B2%DB%B0x%DB%B1%DB%B0%DB%B8%DB%B0-%DB%B6%DB%B0-%D9%87%D8%B1%D8%AA%D8%B2-VGA-DVI-HDMI-DisplayPort-%D9%87%D8%A7%D8%A8-USB-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.407Z"
+  },
+  {
+    "id": "torobshop-kids-toys-8cd92a01eb7c25f2",
+    "productId": "torobshop-8cd92a01eb7c25f2",
+    "name": "فیلیپس 32E1N1800LA - مانیتور 32 اینچی فوق العاده HD، همگام سازی تطبیقی، HDR10، بلندگوها (3840x2160، 60 هرتز، DisplayPort، HDMI) مشکی",
+    "brand": "",
+    "model": "فیلیپس 32E1N1800LA - مانیتور 32 اینچی فوق العاده HD، همگام سازی تطبیقی، HDR10، بلندگوها (3840x2160، 60 هرتز، DisplayPort، HDMI) مشکی",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 69115000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-32E1N1800LA-%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-32-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D9%81%D9%88%D9%82-%D8%A7%D9%84%D8%B9%D8%A7%D8%AF%D9%87-HD-%D9%87%D9%85%DA%AF%D8%A7%D9%85-%D8%B3%D8%A7%D8%B2%DB%8C-%D8%AA%D8%B7%D8%A8%DB%8C%D9%82%DB%8C-HDR10-%D8%A8%D9%84%D9%86%D8%AF%DA%AF%D9%88%D9%87%D8%A7-3840x2160-60-%D9%87%D8%B1%D8%AA%D8%B2-DisplayPort-HDMI-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.407Z"
+  },
+  {
+    "id": "torobshop-kids-toys-2aa12aa20262b96c",
+    "productId": "torobshop-2aa12aa20262b96c",
+    "name": "هدفون داخل گوشی Philips E1105BK HiFi با کنترل صدا، مشکی",
+    "brand": "",
+    "model": "هدفون داخل گوشی Philips E1105BK HiFi با کنترل صدا، مشکی",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 15246000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%87%D8%AF%D9%81%D9%88%D9%86-%D8%AF%D8%A7%D8%AE%D9%84-%DA%AF%D9%88%D8%B4%DB%8C-Philips-E1105BK-HiFi-%D8%A8%D8%A7-%DA%A9%D9%86%D8%AA%D8%B1%D9%84-%D8%B5%D8%AF%D8%A7-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.407Z"
+  },
+  {
+    "id": "torobshop-kids-toys-8b4d268dc0b50dc9",
+    "productId": "torobshop-8b4d268dc0b50dc9",
+    "name": "فیلیپس 27E1N1100A - مانیتور 27 اینچی Full HD، بلندگوهای داخلی، زمان پاسخگویی 1 میلی‌ثانیه (1920x1080، 100 هرتز، VGA، HDMI 1.4) مشکی",
+    "brand": "",
+    "model": "فیلیپس 27E1N1100A - مانیتور 27 اینچی Full HD، بلندگوهای داخلی، زمان پاسخگویی 1 میلی‌ثانیه (1920x1080، 100 هرتز، VGA، HDMI 1.4) مشکی",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 36590000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-27E1N1100A-%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-27-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-Full-HD-%D8%A8%D9%84%D9%86%D8%AF%DA%AF%D9%88%D9%87%D8%A7%DB%8C-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%B2%D9%85%D8%A7%D9%86-%D9%BE%D8%A7%D8%B3%D8%AE%DA%AF%D9%88%DB%8C%DB%8C-1-%D9%85%DB%8C%D9%84%DB%8C-%D8%AB%D8%A7%D9%86%DB%8C%D9%87-1920x1080-100-%D9%87%D8%B1%D8%AA%D8%B2-VGA-HDMI-1-4-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.407Z"
   },
   {
     "id": "torobshop-kids-toys-2961f6c161810850",
@@ -3435,97 +3435,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.104Z"
-  },
-  {
-    "id": "torobshop-kids-toys-f6139cf71fa544af",
-    "productId": "torobshop-f6139cf71fa544af",
-    "name": "هدفون بلوتوث بی‌سیم فیلیپس TAH8000EWT/00 - حذف نویز، 70 ساعت پخش مداوم، سازگار با دستیارهای صوتی، ایده‌آل برای سفر - سفید",
-    "brand": "",
-    "model": "هدفون بلوتوث بی‌سیم فیلیپس TAH8000EWT/00 - حذف نویز، 70 ساعت پخش مداوم، سازگار با دستیارهای صوتی، ایده‌آل برای سفر - سفید",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 36590000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%87%D8%AF%D9%81%D9%88%D9%86-%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB-%D8%A8%DB%8C-%D8%B3%DB%8C%D9%85-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-TAH8000EWT-00-%D8%AD%D8%B0%D9%81-%D9%86%D9%88%DB%8C%D8%B2-70-%D8%B3%D8%A7%D8%B9%D8%AA-%D9%BE%D8%AE%D8%B4-%D9%85%D8%AF%D8%A7%D9%88%D9%85-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%AF%D8%B3%D8%AA%DB%8C%D8%A7%D8%B1%D9%87%D8%A7%DB%8C-%D8%B5%D9%88%D8%AA%DB%8C-%D8%A7%DB%8C%D8%AF%D9%87-%D8%A2%D9%84-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B3%D9%81%D8%B1-%D8%B3%D9%81%DB%8C%D8%AF",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.104Z"
-  },
-  {
-    "id": "torobshop-kids-toys-231a8680a663a06f",
-    "productId": "torobshop-231a8680a663a06f",
-    "name": "هدفون ورزشی بی‌سیم فیلیپس مدل Open-Ear بژ",
-    "brand": "",
-    "model": "هدفون ورزشی بی‌سیم فیلیپس مدل Open-Ear بژ",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 14738000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%87%D8%AF%D9%81%D9%88%D9%86-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D8%A8%DB%8C-%D8%B3%DB%8C%D9%85-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%85%D8%AF%D9%84-Open-Ear-%D8%A8%DA%98",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.104Z"
-  },
-  {
-    "id": "torobshop-kids-toys-2e4aeaf94d879ff9",
-    "productId": "torobshop-2e4aeaf94d879ff9",
-    "name": "هدفون روگوشی فیلیپس مدل H4205BK/00 با دکمه تقویت بیس (بلوتوث، 29 ساعت پخش، شارژ سریع، عایق صدا، تاشو)، مشکی مات",
-    "brand": "",
-    "model": "هدفون روگوشی فیلیپس مدل H4205BK/00 با دکمه تقویت بیس (بلوتوث، 29 ساعت پخش، شارژ سریع، عایق صدا، تاشو)، مشکی مات",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 21344000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%87%D8%AF%D9%81%D9%88%D9%86-%D8%B1%D9%88%DA%AF%D9%88%D8%B4%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%85%D8%AF%D9%84-H4205BK-00-%D8%A8%D8%A7-%D8%AF%DA%A9%D9%85%D9%87-%D8%AA%D9%82%D9%88%DB%8C%D8%AA-%D8%A8%DB%8C%D8%B3-%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB-29-%D8%B3%D8%A7%D8%B9%D8%AA-%D9%BE%D8%AE%D8%B4-%D8%B4%D8%A7%D8%B1%DA%98-%D8%B3%D8%B1%DB%8C%D8%B9-%D8%B9%D8%A7%DB%8C%D9%82-%D8%B5%D8%AF%D8%A7-%D8%AA%D8%A7%D8%B4%D9%88-%D9%85%D8%B4%DA%A9%DB%8C-%D9%85%D8%A7%D8%AA",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.104Z"
-  },
-  {
-    "id": "torobshop-kids-toys-712138d0bed8d76a",
-    "productId": "torobshop-712138d0bed8d76a",
-    "name": "هدفون توگوشی فیلیپس مدل TAE1209BK مشکی",
-    "brand": "",
-    "model": "هدفون توگوشی فیلیپس مدل TAE1209BK مشکی",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 14738000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%87%D8%AF%D9%81%D9%88%D9%86-%D8%AA%D9%88%DA%AF%D9%88%D8%B4%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%85%D8%AF%D9%84-TAE1209BK-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.104Z"
-  },
-  {
-    "id": "torobshop-kids-toys-a0357d058917fff7",
-    "productId": "torobshop-a0357d058917fff7",
-    "name": "مانیتور فیلیپس 252B9 - 25 اینچ WUXGA، قابلیت تنظیم ارتفاع (1900x1200، 60 هرتز، VGA، DVI، HDMI، DisplayPort، هاب USB) مشکی",
-    "brand": "",
-    "model": "مانیتور فیلیپس 252B9 - 25 اینچ WUXGA، قابلیت تنظیم ارتفاع (1900x1200، 60 هرتز، VGA، DVI، HDMI، DisplayPort، هاب USB) مشکی",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 66828000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-252B9-25-%D8%A7%DB%8C%D9%86%DA%86-WUXGA-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-1900x1200-60-%D9%87%D8%B1%D8%AA%D8%B2-VGA-DVI-HDMI-DisplayPort-%D9%87%D8%A7%D8%A8-USB-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.104Z"
+    "observedAt": "2026-09-04T17:30:39.407Z"
   },
   {
     "id": "torobshop-kids-toys-5219a65546b1a882",
@@ -3543,7 +3453,79 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.104Z"
+    "observedAt": "2026-09-04T17:30:39.407Z"
+  },
+  {
+    "id": "torobshop-kids-toys-231a8680a663a06f",
+    "productId": "torobshop-231a8680a663a06f",
+    "name": "هدفون ورزشی بی‌سیم فیلیپس مدل Open-Ear بژ",
+    "brand": "",
+    "model": "هدفون ورزشی بی‌سیم فیلیپس مدل Open-Ear بژ",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 14738000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%87%D8%AF%D9%81%D9%88%D9%86-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D8%A8%DB%8C-%D8%B3%DB%8C%D9%85-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%85%D8%AF%D9%84-Open-Ear-%D8%A8%DA%98",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.407Z"
+  },
+  {
+    "id": "torobshop-kids-toys-f6139cf71fa544af",
+    "productId": "torobshop-f6139cf71fa544af",
+    "name": "هدفون بلوتوث بی‌سیم فیلیپس TAH8000EWT/00 - حذف نویز، 70 ساعت پخش مداوم، سازگار با دستیارهای صوتی، ایده‌آل برای سفر - سفید",
+    "brand": "",
+    "model": "هدفون بلوتوث بی‌سیم فیلیپس TAH8000EWT/00 - حذف نویز، 70 ساعت پخش مداوم، سازگار با دستیارهای صوتی، ایده‌آل برای سفر - سفید",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 36590000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%87%D8%AF%D9%81%D9%88%D9%86-%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB-%D8%A8%DB%8C-%D8%B3%DB%8C%D9%85-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-TAH8000EWT-00-%D8%AD%D8%B0%D9%81-%D9%86%D9%88%DB%8C%D8%B2-70-%D8%B3%D8%A7%D8%B9%D8%AA-%D9%BE%D8%AE%D8%B4-%D9%85%D8%AF%D8%A7%D9%88%D9%85-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%AF%D8%B3%D8%AA%DB%8C%D8%A7%D8%B1%D9%87%D8%A7%DB%8C-%D8%B5%D9%88%D8%AA%DB%8C-%D8%A7%DB%8C%D8%AF%D9%87-%D8%A2%D9%84-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B3%D9%81%D8%B1-%D8%B3%D9%81%DB%8C%D8%AF",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.407Z"
+  },
+  {
+    "id": "torobshop-kids-toys-712138d0bed8d76a",
+    "productId": "torobshop-712138d0bed8d76a",
+    "name": "هدفون توگوشی فیلیپس مدل TAE1209BK مشکی",
+    "brand": "",
+    "model": "هدفون توگوشی فیلیپس مدل TAE1209BK مشکی",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 14738000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%87%D8%AF%D9%81%D9%88%D9%86-%D8%AA%D9%88%DA%AF%D9%88%D8%B4%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%85%D8%AF%D9%84-TAE1209BK-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.407Z"
+  },
+  {
+    "id": "torobshop-kids-toys-2e4aeaf94d879ff9",
+    "productId": "torobshop-2e4aeaf94d879ff9",
+    "name": "هدفون روگوشی فیلیپس مدل H4205BK/00 با دکمه تقویت بیس (بلوتوث، 29 ساعت پخش، شارژ سریع، عایق صدا، تاشو)، مشکی مات",
+    "brand": "",
+    "model": "هدفون روگوشی فیلیپس مدل H4205BK/00 با دکمه تقویت بیس (بلوتوث، 29 ساعت پخش، شارژ سریع، عایق صدا، تاشو)، مشکی مات",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 21344000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%87%D8%AF%D9%81%D9%88%D9%86-%D8%B1%D9%88%DA%AF%D9%88%D8%B4%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%85%D8%AF%D9%84-H4205BK-00-%D8%A8%D8%A7-%D8%AF%DA%A9%D9%85%D9%87-%D8%AA%D9%82%D9%88%DB%8C%D8%AA-%D8%A8%DB%8C%D8%B3-%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB-29-%D8%B3%D8%A7%D8%B9%D8%AA-%D9%BE%D8%AE%D8%B4-%D8%B4%D8%A7%D8%B1%DA%98-%D8%B3%D8%B1%DB%8C%D8%B9-%D8%B9%D8%A7%DB%8C%D9%82-%D8%B5%D8%AF%D8%A7-%D8%AA%D8%A7%D8%B4%D9%88-%D9%85%D8%B4%DA%A9%DB%8C-%D9%85%D8%A7%D8%AA",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.407Z"
   },
   {
     "id": "torobshop-kids-toys-f241bfdbdc958cdb",
@@ -3561,7 +3543,25 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.104Z"
+    "observedAt": "2026-09-04T17:30:39.407Z"
+  },
+  {
+    "id": "torobshop-kids-toys-a0357d058917fff7",
+    "productId": "torobshop-a0357d058917fff7",
+    "name": "مانیتور فیلیپس 252B9 - 25 اینچ WUXGA، قابلیت تنظیم ارتفاع (1900x1200، 60 هرتز، VGA، DVI، HDMI، DisplayPort، هاب USB) مشکی",
+    "brand": "",
+    "model": "مانیتور فیلیپس 252B9 - 25 اینچ WUXGA، قابلیت تنظیم ارتفاع (1900x1200، 60 هرتز، VGA، DVI، HDMI، DisplayPort، هاب USB) مشکی",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 66828000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-252B9-25-%D8%A7%DB%8C%D9%86%DA%86-WUXGA-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-1900x1200-60-%D9%87%D8%B1%D8%AA%D8%B2-VGA-DVI-HDMI-DisplayPort-%D9%87%D8%A7%D8%A8-USB-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.407Z"
   },
   {
     "id": "torobshop-kids-toys-7400212af3648c0e",
@@ -3579,151 +3579,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.104Z"
-  },
-  {
-    "id": "torobshop-kids-toys-caf67fb53869dc8d",
-    "productId": "torobshop-caf67fb53869dc8d",
-    "name": "مانیتور فیلیپس 275S1AE - 27 اینچ QHD، قابلیت تنظیم ارتفاع (2560x1440، 75 هرتز، DVI، HDMI، DisplayPort) مشکی",
-    "brand": "",
-    "model": "مانیتور فیلیپس 275S1AE - 27 اینچ QHD، قابلیت تنظیم ارتفاع (2560x1440، 75 هرتز، DVI، HDMI، DisplayPort) مشکی",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 62255000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-275S1AE-27-%D8%A7%DB%8C%D9%86%DA%86-QHD-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-2560x1440-75-%D9%87%D8%B1%D8%AA%D8%B2-DVI-HDMI-DisplayPort-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.104Z"
-  },
-  {
-    "id": "torobshop-kids-toys-42a978739edad1b3",
-    "productId": "torobshop-42a978739edad1b3",
-    "name": "مانیتور فیلیپس هلند Philips 329P9H سایز ۳۲ اینچ UHD 4K با داک USB-C، وب‌کم و پایه قابل تنظیم",
-    "brand": "",
-    "model": "مانیتور فیلیپس هلند Philips 329P9H سایز ۳۲ اینچ UHD 4K با داک USB-C، وب‌کم و پایه قابل تنظیم",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 127558000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-329P9H-%D8%A8%D8%A7-%D8%AF%D8%A7%DA%A9-USB-C-%D9%88-%D9%88%D8%B6%D9%88%D8%AD-%D8%AA%D8%B5%D9%88%DB%8C%D8%B1-32-%D8%A7%DB%8C%D9%86%DA%86-%D8%A7%D8%B2-%D8%A8%D8%B1%D9%86%D8%AF-Zoll-%D9%85%D8%AC%D9%87%D8%B2-%D8%A8%D9%87-%D9%88%D8%A8-%DA%A9%D9%85-%D9%88-%D9%BE%D9%88%D8%B1%D8%AA-HDMI-2-0-%D8%B1%D8%B2%D9%88%D9%84%D9%88%D8%B4%D9%86-2160-%D8%AF%D8%B1-3840-%D9%81%D8%B1%DA%A9%D8%A7%D9%86%D8%B3-60-%D9%87%D8%B1%D8%AA%D8%B2-%D9%BE%D9%88%D8%B1%D8%AA-HDMI-2-0-%D9%BE%D9%88%D8%B1%D8%AA-DisplayPort-%D9%BE%D9%88%D8%B1%D8%AA-USB-C-%D9%BE%D9%88%D8%B1%D8%AA-RJ45-%D9%87%D8%A7%D8%A8-USB",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.104Z"
-  },
-  {
-    "id": "torobshop-kids-toys-667b222bc82da779",
-    "productId": "torobshop-667b222bc82da779",
-    "name": "مانیتور فیلیپس 242B1G - 24 اینچ FHD سبز، قابلیت تنظیم ارتفاع (1920x1080، 75 هرتز، VGA، DVI، HDMI، DisplayPort، هاب USB) مشکی",
-    "brand": "",
-    "model": "مانیتور فیلیپس 242B1G - 24 اینچ FHD سبز، قابلیت تنظیم ارتفاع (1920x1080، 75 هرتز، VGA، DVI، HDMI، DisplayPort، هاب USB) مشکی",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 57427000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-242B1G-24-%D8%A7%DB%8C%D9%86%DA%86-FHD-%D8%B3%D8%A8%D8%B2-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-1920x1080-75-%D9%87%D8%B1%D8%AA%D8%B2-VGA-DVI-HDMI-DisplayPort-%D9%87%D8%A7%D8%A8-USB-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.104Z"
-  },
-  {
-    "id": "torobshop-kids-toys-2734ee381987f71a",
-    "productId": "torobshop-2734ee381987f71a",
-    "name": "فیلیپس 241V8LAB - مانیتور 24 اینچی فول اچ‌دی، بلندگوهای داخلی، بدون سوسو زدن (1920x1080، 100 هرتز، VGA، HDMI) مشکی",
-    "brand": "",
-    "model": "فیلیپس 241V8LAB - مانیتور 24 اینچی فول اچ‌دی، بلندگوهای داخلی، بدون سوسو زدن (1920x1080، 100 هرتز، VGA، HDMI) مشکی",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 40656000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-241V8LAB-%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-24-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D9%81%D9%88%D9%84-%D8%A7%DA%86-%D8%AF%DB%8C-%D8%A8%D9%84%D9%86%D8%AF%DA%AF%D9%88%D9%87%D8%A7%DB%8C-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%D8%B3%D9%88%D8%B3%D9%88-%D8%B2%D8%AF%D9%86-1920x1080-100-%D9%87%D8%B1%D8%AA%D8%B2-VGA-HDMI-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.104Z"
-  },
-  {
-    "id": "torobshop-kids-toys-b59055b4a9ca5ed0",
-    "productId": "torobshop-b59055b4a9ca5ed0",
-    "name": "مانیتور ۲۴ اینچی فیلیپس ۲۴۱V8AW با کیفیت Full HD، بلندگوهای داخلی، بدون سوسو زدن (۱۹۲۰x۱۰۸۰، ۷۵ هرتز، VGA، HDMI) سفید",
-    "brand": "",
-    "model": "مانیتور ۲۴ اینچی فیلیپس ۲۴۱V8AW با کیفیت Full HD، بلندگوهای داخلی، بدون سوسو زدن (۱۹۲۰x۱۰۸۰، ۷۵ هرتز، VGA، HDMI) سفید",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 34304000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%DB%B2%DB%B4-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%DB%B2%DB%B4%DB%B1V8AW-%D8%A8%D8%A7-%DA%A9%DB%8C%D9%81%DB%8C%D8%AA-Full-HD-%D8%A8%D9%84%D9%86%D8%AF%DA%AF%D9%88%D9%87%D8%A7%DB%8C-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%D8%B3%D9%88%D8%B3%D9%88-%D8%B2%D8%AF%D9%86-%DB%B1%DB%B9%DB%B2%DB%B0x%DB%B1%DB%B0%DB%B8%DB%B0-%DB%B7%DB%B5-%D9%87%D8%B1%D8%AA%D8%B2-VGA-HDMI-%D8%B3%D9%81%DB%8C%D8%AF",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.104Z"
-  },
-  {
-    "id": "torobshop-kids-toys-d1db9fdb0a981eb7",
-    "productId": "torobshop-d1db9fdb0a981eb7",
-    "name": "مانیتور فیلیپس ۲۷E1N1800AE – مانیتور ۲۷ اینچی Ultra HD، بلندگوها، قابلیت تنظیم ارتفاع، HDR10 (3840x2160، ۶۰ هرتز، HDMI 2.0، DisplayPort 1.4) مشکی",
-    "brand": "",
-    "model": "مانیتور فیلیپس ۲۷E1N1800AE – مانیتور ۲۷ اینچی Ultra HD، بلندگوها، قابلیت تنظیم ارتفاع، HDR10 (3840x2160، ۶۰ هرتز، HDMI 2.0، DisplayPort 1.4) مشکی",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 60729000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%DB%B2%DB%B7E1N1800AE-%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%DB%B2%DB%B7-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-Ultra-HD-%D8%A8%D9%84%D9%86%D8%AF%DA%AF%D9%88%D9%87%D8%A7-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-HDR10-3840x2160-%DB%B6%DB%B0-%D9%87%D8%B1%D8%AA%D8%B2-HDMI-2-0-DisplayPort-1-4-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.104Z"
-  },
-  {
-    "id": "torobshop-kids-toys-13177f1a3461cbf8",
-    "productId": "torobshop-13177f1a3461cbf8",
-    "name": "فیلیپس 32E1N3100LA - مانیتور 32 اینچی Full HD، بلندگوهای داخلی، قابل کج شدن (1920x1080، VGA، HDMI 1.4) مشکی",
-    "brand": "",
-    "model": "فیلیپس 32E1N3100LA - مانیتور 32 اینچی Full HD، بلندگوهای داخلی، قابل کج شدن (1920x1080، VGA، HDMI 1.4) مشکی",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 61238000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-32E1N3100LA-%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-32-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-Full-HD-%D8%A8%D9%84%D9%86%D8%AF%DA%AF%D9%88%D9%87%D8%A7%DB%8C-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%DA%A9%D8%AC-%D8%B4%D8%AF%D9%86-1920x1080-VGA-HDMI-1-4-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.104Z"
-  },
-  {
-    "id": "torobshop-kids-toys-226a6dfcab93ffe2",
-    "productId": "torobshop-226a6dfcab93ffe2",
-    "name": "مانیتور لمسی ۱۷ اینچ فیلیپس هلند Philips 172B1TFL/00 با قابلیت لمس ۱۰ نقطه‌ای بدون پایه نگهدارنده",
-    "brand": "",
-    "model": "مانیتور لمسی ۱۷ اینچ فیلیپس هلند Philips 172B1TFL/00 با قابلیت لمس ۱۰ نقطه‌ای بدون پایه نگهدارنده",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 106214000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%84%D9%85%D8%B3%DB%8C-%DB%B1%DB%B7-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%DB%B1%DB%B0-%D9%86%D9%82%D8%B7%D9%87-%D8%A7%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%D9%BE%D8%A7%DB%8C%D9%87",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.104Z"
+    "observedAt": "2026-09-04T17:30:39.407Z"
   },
   {
     "id": "torobshop-kids-toys-db75e7774c65ead5",
@@ -3741,7 +3597,43 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.104Z"
+    "observedAt": "2026-09-04T17:30:39.407Z"
+  },
+  {
+    "id": "torobshop-kids-toys-2734ee381987f71a",
+    "productId": "torobshop-2734ee381987f71a",
+    "name": "فیلیپس 241V8LAB - مانیتور 24 اینچی فول اچ‌دی، بلندگوهای داخلی، بدون سوسو زدن (1920x1080، 100 هرتز، VGA، HDMI) مشکی",
+    "brand": "",
+    "model": "فیلیپس 241V8LAB - مانیتور 24 اینچی فول اچ‌دی، بلندگوهای داخلی، بدون سوسو زدن (1920x1080، 100 هرتز، VGA، HDMI) مشکی",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 40656000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-241V8LAB-%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-24-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D9%81%D9%88%D9%84-%D8%A7%DA%86-%D8%AF%DB%8C-%D8%A8%D9%84%D9%86%D8%AF%DA%AF%D9%88%D9%87%D8%A7%DB%8C-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%D8%B3%D9%88%D8%B3%D9%88-%D8%B2%D8%AF%D9%86-1920x1080-100-%D9%87%D8%B1%D8%AA%D8%B2-VGA-HDMI-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.407Z"
+  },
+  {
+    "id": "torobshop-kids-toys-caf67fb53869dc8d",
+    "productId": "torobshop-caf67fb53869dc8d",
+    "name": "مانیتور فیلیپس 275S1AE - 27 اینچ QHD، قابلیت تنظیم ارتفاع (2560x1440، 75 هرتز، DVI، HDMI، DisplayPort) مشکی",
+    "brand": "",
+    "model": "مانیتور فیلیپس 275S1AE - 27 اینچ QHD، قابلیت تنظیم ارتفاع (2560x1440، 75 هرتز، DVI، HDMI، DisplayPort) مشکی",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 62255000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-275S1AE-27-%D8%A7%DB%8C%D9%86%DA%86-QHD-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-2560x1440-75-%D9%87%D8%B1%D8%AA%D8%B2-DVI-HDMI-DisplayPort-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.407Z"
   },
   {
     "id": "torobshop-kids-toys-1acb3967a4975e9e",
@@ -3759,7 +3651,115 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.104Z"
+    "observedAt": "2026-09-04T17:30:39.407Z"
+  },
+  {
+    "id": "torobshop-kids-toys-42a978739edad1b3",
+    "productId": "torobshop-42a978739edad1b3",
+    "name": "مانیتور فیلیپس هلند Philips 329P9H سایز ۳۲ اینچ UHD 4K با داک USB-C، وب‌کم و پایه قابل تنظیم",
+    "brand": "",
+    "model": "مانیتور فیلیپس هلند Philips 329P9H سایز ۳۲ اینچ UHD 4K با داک USB-C، وب‌کم و پایه قابل تنظیم",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 127558000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-329P9H-%D8%A8%D8%A7-%D8%AF%D8%A7%DA%A9-USB-C-%D9%88-%D9%88%D8%B6%D9%88%D8%AD-%D8%AA%D8%B5%D9%88%DB%8C%D8%B1-32-%D8%A7%DB%8C%D9%86%DA%86-%D8%A7%D8%B2-%D8%A8%D8%B1%D9%86%D8%AF-Zoll-%D9%85%D8%AC%D9%87%D8%B2-%D8%A8%D9%87-%D9%88%D8%A8-%DA%A9%D9%85-%D9%88-%D9%BE%D9%88%D8%B1%D8%AA-HDMI-2-0-%D8%B1%D8%B2%D9%88%D9%84%D9%88%D8%B4%D9%86-2160-%D8%AF%D8%B1-3840-%D9%81%D8%B1%DA%A9%D8%A7%D9%86%D8%B3-60-%D9%87%D8%B1%D8%AA%D8%B2-%D9%BE%D9%88%D8%B1%D8%AA-HDMI-2-0-%D9%BE%D9%88%D8%B1%D8%AA-DisplayPort-%D9%BE%D9%88%D8%B1%D8%AA-USB-C-%D9%BE%D9%88%D8%B1%D8%AA-RJ45-%D9%87%D8%A7%D8%A8-USB",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.407Z"
+  },
+  {
+    "id": "torobshop-kids-toys-226a6dfcab93ffe2",
+    "productId": "torobshop-226a6dfcab93ffe2",
+    "name": "مانیتور لمسی ۱۷ اینچ فیلیپس هلند Philips 172B1TFL/00 با قابلیت لمس ۱۰ نقطه‌ای بدون پایه نگهدارنده",
+    "brand": "",
+    "model": "مانیتور لمسی ۱۷ اینچ فیلیپس هلند Philips 172B1TFL/00 با قابلیت لمس ۱۰ نقطه‌ای بدون پایه نگهدارنده",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 106214000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%84%D9%85%D8%B3%DB%8C-%DB%B1%DB%B7-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%DB%B1%DB%B0-%D9%86%D9%82%D8%B7%D9%87-%D8%A7%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%D9%BE%D8%A7%DB%8C%D9%87",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.407Z"
+  },
+  {
+    "id": "torobshop-kids-toys-667b222bc82da779",
+    "productId": "torobshop-667b222bc82da779",
+    "name": "مانیتور فیلیپس 242B1G - 24 اینچ FHD سبز، قابلیت تنظیم ارتفاع (1920x1080، 75 هرتز، VGA، DVI، HDMI، DisplayPort، هاب USB) مشکی",
+    "brand": "",
+    "model": "مانیتور فیلیپس 242B1G - 24 اینچ FHD سبز، قابلیت تنظیم ارتفاع (1920x1080، 75 هرتز، VGA، DVI، HDMI، DisplayPort، هاب USB) مشکی",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 57427000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-242B1G-24-%D8%A7%DB%8C%D9%86%DA%86-FHD-%D8%B3%D8%A8%D8%B2-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-1920x1080-75-%D9%87%D8%B1%D8%AA%D8%B2-VGA-DVI-HDMI-DisplayPort-%D9%87%D8%A7%D8%A8-USB-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.407Z"
+  },
+  {
+    "id": "torobshop-kids-toys-b59055b4a9ca5ed0",
+    "productId": "torobshop-b59055b4a9ca5ed0",
+    "name": "مانیتور ۲۴ اینچی فیلیپس ۲۴۱V8AW با کیفیت Full HD، بلندگوهای داخلی، بدون سوسو زدن (۱۹۲۰x۱۰۸۰، ۷۵ هرتز، VGA، HDMI) سفید",
+    "brand": "",
+    "model": "مانیتور ۲۴ اینچی فیلیپس ۲۴۱V8AW با کیفیت Full HD، بلندگوهای داخلی، بدون سوسو زدن (۱۹۲۰x۱۰۸۰، ۷۵ هرتز، VGA، HDMI) سفید",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 34304000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%DB%B2%DB%B4-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%DB%B2%DB%B4%DB%B1V8AW-%D8%A8%D8%A7-%DA%A9%DB%8C%D9%81%DB%8C%D8%AA-Full-HD-%D8%A8%D9%84%D9%86%D8%AF%DA%AF%D9%88%D9%87%D8%A7%DB%8C-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%D8%B3%D9%88%D8%B3%D9%88-%D8%B2%D8%AF%D9%86-%DB%B1%DB%B9%DB%B2%DB%B0x%DB%B1%DB%B0%DB%B8%DB%B0-%DB%B7%DB%B5-%D9%87%D8%B1%D8%AA%D8%B2-VGA-HDMI-%D8%B3%D9%81%DB%8C%D8%AF",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.407Z"
+  },
+  {
+    "id": "torobshop-kids-toys-d1db9fdb0a981eb7",
+    "productId": "torobshop-d1db9fdb0a981eb7",
+    "name": "مانیتور فیلیپس ۲۷E1N1800AE – مانیتور ۲۷ اینچی Ultra HD، بلندگوها، قابلیت تنظیم ارتفاع، HDR10 (3840x2160، ۶۰ هرتز، HDMI 2.0، DisplayPort 1.4) مشکی",
+    "brand": "",
+    "model": "مانیتور فیلیپس ۲۷E1N1800AE – مانیتور ۲۷ اینچی Ultra HD، بلندگوها، قابلیت تنظیم ارتفاع، HDR10 (3840x2160، ۶۰ هرتز، HDMI 2.0، DisplayPort 1.4) مشکی",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 60729000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%DB%B2%DB%B7E1N1800AE-%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%DB%B2%DB%B7-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-Ultra-HD-%D8%A8%D9%84%D9%86%D8%AF%DA%AF%D9%88%D9%87%D8%A7-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-HDR10-3840x2160-%DB%B6%DB%B0-%D9%87%D8%B1%D8%AA%D8%B2-HDMI-2-0-DisplayPort-1-4-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.407Z"
+  },
+  {
+    "id": "torobshop-kids-toys-13177f1a3461cbf8",
+    "productId": "torobshop-13177f1a3461cbf8",
+    "name": "فیلیپس 32E1N3100LA - مانیتور 32 اینچی Full HD، بلندگوهای داخلی، قابل کج شدن (1920x1080، VGA، HDMI 1.4) مشکی",
+    "brand": "",
+    "model": "فیلیپس 32E1N3100LA - مانیتور 32 اینچی Full HD، بلندگوهای داخلی، قابل کج شدن (1920x1080، VGA، HDMI 1.4) مشکی",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 61238000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-32E1N3100LA-%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-32-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-Full-HD-%D8%A8%D9%84%D9%86%D8%AF%DA%AF%D9%88%D9%87%D8%A7%DB%8C-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%DA%A9%D8%AC-%D8%B4%D8%AF%D9%86-1920x1080-VGA-HDMI-1-4-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.407Z"
   },
   {
     "id": "torobshop-kids-toys-34bb04f7987b2eb8",
@@ -3777,7 +3777,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.104Z"
+    "observedAt": "2026-09-04T17:30:39.407Z"
   },
   {
     "id": "torobshop-kids-toys-1ac684a13e625548",
@@ -3795,61 +3795,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.104Z"
-  },
-  {
-    "id": "torobshop-kids-toys-7406803b18ab5cc6",
-    "productId": "torobshop-7406803b18ab5cc6",
-    "name": "مانیتور ۲۴ اینچی فول اچ‌دی فیلیپس مدل ۲۴E1N1300A، بلندگوها (۱۹۲۰x۱۰۸۰، ۱۰۰ هرتز، HDMI، USB-C (قدرت ۶۵ وات)، هاب USB) مشکی",
-    "brand": "",
-    "model": "مانیتور ۲۴ اینچی فول اچ‌دی فیلیپس مدل ۲۴E1N1300A، بلندگوها (۱۹۲۰x۱۰۸۰، ۱۰۰ هرتز، HDMI، USB-C (قدرت ۶۵ وات)، هاب USB) مشکی",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 47517000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%DB%B2%DB%B4-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D9%81%D9%88%D9%84-%D8%A7%DA%86-%D8%AF%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%85%D8%AF%D9%84-%DB%B2%DB%B4E1N1300A-%D8%A8%D9%84%D9%86%D8%AF%DA%AF%D9%88%D9%87%D8%A7-%DB%B1%DB%B9%DB%B2%DB%B0x%DB%B1%DB%B0%DB%B8%DB%B0-%DB%B1%DB%B0%DB%B0-%D9%87%D8%B1%D8%AA%D8%B2-HDMI-USB-C-%D9%82%D8%AF%D8%B1%D8%AA-%DB%B6%DB%B5-%D9%88%D8%A7%D8%AA-%D9%87%D8%A7%D8%A8-USB-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.104Z"
-  },
-  {
-    "id": "torobshop-kids-toys-176747b2a6b3c8bf",
-    "productId": "torobshop-176747b2a6b3c8bf",
-    "name": "هدفون داخل گوشی فیلیپس مدل TAE5008BK/00 با میکروفون | هدفون سیمی سبک | اتصال USB-C | کابل 1.2 متری | ریموت کنترل درون خطی | 3 سایز | صدای شفاف و بیس قدرتمند | مشکی",
-    "brand": "",
-    "model": "هدفون داخل گوشی فیلیپس مدل TAE5008BK/00 با میکروفون | هدفون سیمی سبک | اتصال USB-C | کابل 1.2 متری | ریموت کنترل درون خطی | 3 سایز | صدای شفاف و بیس قدرتمند | مشکی",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 11180000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%87%D8%AF%D9%81%D9%88%D9%86-%D8%AF%D8%A7%D8%AE%D9%84-%DA%AF%D9%88%D8%B4%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%85%D8%AF%D9%84-TAE5008BK-00-%D8%A8%D8%A7-%D9%85%DB%8C%DA%A9%D8%B1%D9%88%D9%81%D9%88%D9%86-%D9%87%D8%AF%D9%81%D9%88%D9%86-%D8%B3%DB%8C%D9%85%DB%8C-%D8%B3%D8%A8%DA%A9-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-USB-C-%DA%A9%D8%A7%D8%A8%D9%84-1-2-%D9%85%D8%AA%D8%B1%DB%8C-%D8%B1%DB%8C%D9%85%D9%88%D8%AA-%DA%A9%D9%86%D8%AA%D8%B1%D9%84-%D8%AF%D8%B1%D9%88%D9%86-%D8%AE%D8%B7%DB%8C-3-%D8%B3%D8%A7%DB%8C%D8%B2-%D8%B5%D8%AF%D8%A7%DB%8C-%D8%B4%D9%81%D8%A7%D9%81-%D9%88-%D8%A8%DB%8C%D8%B3-%D9%82%D8%AF%D8%B1%D8%AA%D9%85%D9%86%D8%AF-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.104Z"
-  },
-  {
-    "id": "torobshop-kids-toys-1b01f5a6fb5eb1c5",
-    "productId": "torobshop-1b01f5a6fb5eb1c5",
-    "name": "ساندبار فیلیپس TAB8507/10 با ساب ووفر کابلی 3.1 اینچی، دالبی اتموس، صدای سینمایی، HDMI eARC، 600 وات",
-    "brand": "",
-    "model": "ساندبار فیلیپس TAB8507/10 با ساب ووفر کابلی 3.1 اینچی، دالبی اتموس، صدای سینمایی، HDMI eARC، 600 وات",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 79025000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%A7%D9%86%D8%AF%D8%A8%D8%A7%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-TAB8507-10-%D8%A8%D8%A7-%D8%B3%D8%A7%D8%A8-%D9%88%D9%88%D9%81%D8%B1-%DA%A9%D8%A7%D8%A8%D9%84%DB%8C-3-1-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D8%AF%D8%A7%D9%84%D8%A8%DB%8C-%D8%A7%D8%AA%D9%85%D9%88%D8%B3-%D8%B5%D8%AF%D8%A7%DB%8C-%D8%B3%DB%8C%D9%86%D9%85%D8%A7%DB%8C%DB%8C-HDMI-eARC-600-%D9%88%D8%A7%D8%AA-2",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.104Z"
+    "observedAt": "2026-09-04T17:30:39.407Z"
   },
   {
     "id": "torobshop-kids-toys-9b16b6ebae742a59",
@@ -3867,7 +3813,61 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.104Z"
+    "observedAt": "2026-09-04T17:30:39.407Z"
+  },
+  {
+    "id": "torobshop-kids-toys-7406803b18ab5cc6",
+    "productId": "torobshop-7406803b18ab5cc6",
+    "name": "مانیتور ۲۴ اینچی فول اچ‌دی فیلیپس مدل ۲۴E1N1300A، بلندگوها (۱۹۲۰x۱۰۸۰، ۱۰۰ هرتز، HDMI، USB-C (قدرت ۶۵ وات)، هاب USB) مشکی",
+    "brand": "",
+    "model": "مانیتور ۲۴ اینچی فول اچ‌دی فیلیپس مدل ۲۴E1N1300A، بلندگوها (۱۹۲۰x۱۰۸۰، ۱۰۰ هرتز، HDMI، USB-C (قدرت ۶۵ وات)، هاب USB) مشکی",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 47517000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%DB%B2%DB%B4-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D9%81%D9%88%D9%84-%D8%A7%DA%86-%D8%AF%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%85%D8%AF%D9%84-%DB%B2%DB%B4E1N1300A-%D8%A8%D9%84%D9%86%D8%AF%DA%AF%D9%88%D9%87%D8%A7-%DB%B1%DB%B9%DB%B2%DB%B0x%DB%B1%DB%B0%DB%B8%DB%B0-%DB%B1%DB%B0%DB%B0-%D9%87%D8%B1%D8%AA%D8%B2-HDMI-USB-C-%D9%82%D8%AF%D8%B1%D8%AA-%DB%B6%DB%B5-%D9%88%D8%A7%D8%AA-%D9%87%D8%A7%D8%A8-USB-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.407Z"
+  },
+  {
+    "id": "torobshop-kids-toys-176747b2a6b3c8bf",
+    "productId": "torobshop-176747b2a6b3c8bf",
+    "name": "هدفون داخل گوشی فیلیپس مدل TAE5008BK/00 با میکروفون | هدفون سیمی سبک | اتصال USB-C | کابل 1.2 متری | ریموت کنترل درون خطی | 3 سایز | صدای شفاف و بیس قدرتمند | مشکی",
+    "brand": "",
+    "model": "هدفون داخل گوشی فیلیپس مدل TAE5008BK/00 با میکروفون | هدفون سیمی سبک | اتصال USB-C | کابل 1.2 متری | ریموت کنترل درون خطی | 3 سایز | صدای شفاف و بیس قدرتمند | مشکی",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 11180000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%87%D8%AF%D9%81%D9%88%D9%86-%D8%AF%D8%A7%D8%AE%D9%84-%DA%AF%D9%88%D8%B4%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%85%D8%AF%D9%84-TAE5008BK-00-%D8%A8%D8%A7-%D9%85%DB%8C%DA%A9%D8%B1%D9%88%D9%81%D9%88%D9%86-%D9%87%D8%AF%D9%81%D9%88%D9%86-%D8%B3%DB%8C%D9%85%DB%8C-%D8%B3%D8%A8%DA%A9-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-USB-C-%DA%A9%D8%A7%D8%A8%D9%84-1-2-%D9%85%D8%AA%D8%B1%DB%8C-%D8%B1%DB%8C%D9%85%D9%88%D8%AA-%DA%A9%D9%86%D8%AA%D8%B1%D9%84-%D8%AF%D8%B1%D9%88%D9%86-%D8%AE%D8%B7%DB%8C-3-%D8%B3%D8%A7%DB%8C%D8%B2-%D8%B5%D8%AF%D8%A7%DB%8C-%D8%B4%D9%81%D8%A7%D9%81-%D9%88-%D8%A8%DB%8C%D8%B3-%D9%82%D8%AF%D8%B1%D8%AA%D9%85%D9%86%D8%AF-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.407Z"
+  },
+  {
+    "id": "torobshop-kids-toys-1b01f5a6fb5eb1c5",
+    "productId": "torobshop-1b01f5a6fb5eb1c5",
+    "name": "ساندبار فیلیپس TAB8507/10 با ساب ووفر کابلی 3.1 اینچی، دالبی اتموس، صدای سینمایی، HDMI eARC، 600 وات",
+    "brand": "",
+    "model": "ساندبار فیلیپس TAB8507/10 با ساب ووفر کابلی 3.1 اینچی، دالبی اتموس، صدای سینمایی، HDMI eARC، 600 وات",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 79025000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%A7%D9%86%D8%AF%D8%A8%D8%A7%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-TAB8507-10-%D8%A8%D8%A7-%D8%B3%D8%A7%D8%A8-%D9%88%D9%88%D9%81%D8%B1-%DA%A9%D8%A7%D8%A8%D9%84%DB%8C-3-1-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D8%AF%D8%A7%D9%84%D8%A8%DB%8C-%D8%A7%D8%AA%D9%85%D9%88%D8%B3-%D8%B5%D8%AF%D8%A7%DB%8C-%D8%B3%DB%8C%D9%86%D9%85%D8%A7%DB%8C%DB%8C-HDMI-eARC-600-%D9%88%D8%A7%D8%AA-2",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.407Z"
   },
   {
     "id": "torobshop-kids-toys-28fa9f296d3edd2c",
@@ -3885,7 +3885,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.104Z"
+    "observedAt": "2026-09-04T17:30:39.407Z"
   },
   {
     "id": "torobshop-kids-toys-0ef7eb89998918af",
@@ -3903,7 +3903,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.104Z"
+    "observedAt": "2026-09-04T17:30:39.407Z"
   },
   {
     "id": "torobshop-kids-toys-0a56e024ea7c3e6c",
@@ -3921,7 +3921,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.104Z"
+    "observedAt": "2026-09-04T17:30:39.407Z"
   },
   {
     "id": "torobshop-kids-toys-1123da8edef7210f",
@@ -3939,25 +3939,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.104Z"
-  },
-  {
-    "id": "torobshop-kids-toys-4fcaa05ae27e136c",
-    "productId": "torobshop-4fcaa05ae27e136c",
-    "name": "مانیتور بازی Philips 279M1RV - 27 اینچ Zoll UHD، HDR600، Ambiglow، FreeSync Premium Pro (3840x2160، 144 هرتز، HDMI 2.1، Displayport 1.4، USB-C 3.2، هاب USB) schwarz",
-    "brand": "",
-    "model": "مانیتور بازی Philips 279M1RV - 27 اینچ Zoll UHD، HDR600، Ambiglow، FreeSync Premium Pro (3840x2160، 144 هرتز، HDMI 2.1، Displayport 1.4، USB-C 3.2، هاب USB) schwarz",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 206583000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D8%A8%D8%A7%D8%B2%DB%8C-Philips-279M1RV-27-%D8%A7%DB%8C%D9%86%DA%86-Zoll-UHD-HDR600-Ambiglow-FreeSync-Premium-Pro-3840x2160-144-%D9%87%D8%B1%D8%AA%D8%B2-HDMI-2-1-Displayport-1-4-USB-C-3-2-%D9%87%D8%A7%D8%A8-USB-schwarz",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.104Z"
+    "observedAt": "2026-09-04T17:30:39.407Z"
   },
   {
     "id": "torobshop-kids-toys-f2475d629ba82cb9",
@@ -3975,7 +3957,25 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.104Z"
+    "observedAt": "2026-09-04T17:30:39.407Z"
+  },
+  {
+    "id": "torobshop-kids-toys-4fcaa05ae27e136c",
+    "productId": "torobshop-4fcaa05ae27e136c",
+    "name": "مانیتور بازی Philips 279M1RV - 27 اینچ Zoll UHD، HDR600، Ambiglow، FreeSync Premium Pro (3840x2160، 144 هرتز، HDMI 2.1، Displayport 1.4، USB-C 3.2، هاب USB) schwarz",
+    "brand": "",
+    "model": "مانیتور بازی Philips 279M1RV - 27 اینچ Zoll UHD، HDR600، Ambiglow، FreeSync Premium Pro (3840x2160، 144 هرتز، HDMI 2.1، Displayport 1.4، USB-C 3.2، هاب USB) schwarz",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 206583000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D8%A8%D8%A7%D8%B2%DB%8C-Philips-279M1RV-27-%D8%A7%DB%8C%D9%86%DA%86-Zoll-UHD-HDR600-Ambiglow-FreeSync-Premium-Pro-3840x2160-144-%D9%87%D8%B1%D8%AA%D8%B2-HDMI-2-1-Displayport-1-4-USB-C-3-2-%D9%87%D8%A7%D8%A8-USB-schwarz",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.407Z"
   },
   {
     "id": "torobshop-kids-toys-28731ba0cbc018f8",
@@ -3993,7 +3993,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.104Z"
+    "observedAt": "2026-09-04T17:30:39.407Z"
   },
   {
     "id": "torobshop-kids-toys-93c18ce837ff5f57",
@@ -4011,7 +4011,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.105Z"
+    "observedAt": "2026-09-04T17:30:39.408Z"
   },
   {
     "id": "torobshop-kids-toys-c73bf4fc0db498be",
@@ -4029,7 +4029,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.105Z"
+    "observedAt": "2026-09-04T17:30:39.408Z"
   },
   {
     "id": "torobshop-kids-toys-76f3e4ef7a8810f3",
@@ -4047,7 +4047,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.105Z"
+    "observedAt": "2026-09-04T17:30:39.408Z"
   },
   {
     "id": "torobshop-kids-toys-8f566ccc32f52f97",
@@ -4065,7 +4065,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.105Z"
+    "observedAt": "2026-09-04T17:30:39.408Z"
   },
   {
     "id": "torobshop-kids-toys-2dee2c9f6fb222d1",
@@ -4083,7 +4083,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.105Z"
+    "observedAt": "2026-09-04T17:30:39.408Z"
   },
   {
     "id": "torobshop-kids-toys-05d539a087d0640e",
@@ -4101,7 +4101,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.105Z"
+    "observedAt": "2026-09-04T17:30:39.408Z"
   },
   {
     "id": "torobshop-kids-toys-a40b1cc8eb60dfd3",
@@ -4119,7 +4119,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.105Z"
+    "observedAt": "2026-09-04T17:30:39.408Z"
   },
   {
     "id": "torobshop-kids-toys-827984c7bc2a588b",
@@ -4137,7 +4137,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.105Z"
+    "observedAt": "2026-09-04T17:30:39.408Z"
   },
   {
     "id": "torobshop-kids-toys-b1ad0ea7d3ae35d7",
@@ -4155,7 +4155,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.105Z"
+    "observedAt": "2026-09-04T17:30:39.408Z"
   },
   {
     "id": "torobshop-kids-toys-01fd4211de27a0d5",
@@ -4173,7 +4173,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.105Z"
+    "observedAt": "2026-09-04T17:30:39.408Z"
   },
   {
     "id": "torobshop-kids-toys-4c20864969491062",
@@ -4191,7 +4191,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.105Z"
+    "observedAt": "2026-09-04T17:30:39.408Z"
   },
   {
     "id": "torobshop-kids-toys-6e8f969763fb12ec",
@@ -4209,7 +4209,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.105Z"
+    "observedAt": "2026-09-04T17:30:39.408Z"
   },
   {
     "id": "torobshop-kids-toys-611344efb1bd3888",
@@ -4227,7 +4227,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.105Z"
+    "observedAt": "2026-09-04T17:30:39.408Z"
   },
   {
     "id": "torobshop-kids-toys-c4ddc017f41906f6",
@@ -4245,7 +4245,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.105Z"
+    "observedAt": "2026-09-04T17:30:39.408Z"
   },
   {
     "id": "torobshop-kids-toys-90fcbe8687059a30",
@@ -4263,7 +4263,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.105Z"
+    "observedAt": "2026-09-04T17:30:39.408Z"
   },
   {
     "id": "torobshop-kids-toys-c0007aaa6ab91bb2",
@@ -4281,7 +4281,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.105Z"
+    "observedAt": "2026-09-04T17:30:39.408Z"
   },
   {
     "id": "torobshop-kids-toys-34386721a691d178",
@@ -4299,7 +4299,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.105Z"
+    "observedAt": "2026-09-04T17:30:39.408Z"
   },
   {
     "id": "torobshop-kids-toys-b8bd6a4d5ecca799",
@@ -4317,7 +4317,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.105Z"
+    "observedAt": "2026-09-04T17:30:39.408Z"
   },
   {
     "id": "torobshop-kids-toys-9c72d8fb3f6a2ba1",
@@ -4335,7 +4335,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.105Z"
+    "observedAt": "2026-09-04T17:30:39.408Z"
   },
   {
     "id": "torobshop-kids-toys-87cbcd550df2c8fa",
@@ -4353,7 +4353,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.105Z"
+    "observedAt": "2026-09-04T17:30:39.408Z"
   },
   {
     "id": "torobshop-kids-toys-bb3d87082eb1a040",
@@ -4371,7 +4371,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.105Z"
+    "observedAt": "2026-09-04T17:30:39.408Z"
   },
   {
     "id": "torobshop-kids-toys-af253d8db86172d9",
@@ -4389,7 +4389,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.105Z"
+    "observedAt": "2026-09-04T17:30:39.408Z"
   },
   {
     "id": "torobshop-kids-toys-faf54d1de5277c91",
@@ -4407,7 +4407,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.105Z"
+    "observedAt": "2026-09-04T17:30:39.408Z"
   },
   {
     "id": "torobshop-kids-toys-bed024ff9dfbc191",
@@ -4425,7 +4425,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.105Z"
+    "observedAt": "2026-09-04T17:30:39.408Z"
   },
   {
     "id": "torobshop-kids-toys-12108326787ffaf6",
@@ -4443,7 +4443,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.105Z"
+    "observedAt": "2026-09-04T17:30:39.408Z"
   },
   {
     "id": "torobshop-kids-toys-9706ad3cf0976481",
@@ -4461,7 +4461,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.105Z"
+    "observedAt": "2026-09-04T17:30:39.408Z"
   },
   {
     "id": "torobshop-kids-toys-a78de50e19375b85",
@@ -4479,7 +4479,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.105Z"
+    "observedAt": "2026-09-04T17:30:39.408Z"
   },
   {
     "id": "torobshop-kids-toys-b572c0c74ec7e1ee",
@@ -4497,7 +4497,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.105Z"
+    "observedAt": "2026-09-04T17:30:39.408Z"
   },
   {
     "id": "torobshop-kids-toys-387754e6b4491f58",
@@ -4515,7 +4515,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.105Z"
+    "observedAt": "2026-09-04T17:30:39.408Z"
   },
   {
     "id": "torobshop-kids-toys-39e57f782fd26013",
@@ -4533,7 +4533,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.106Z"
+    "observedAt": "2026-09-04T17:30:39.408Z"
   },
   {
     "id": "torobshop-kids-toys-d62ad3ee5759fcbd",
@@ -4551,7 +4551,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.106Z"
+    "observedAt": "2026-09-04T17:30:39.408Z"
   },
   {
     "id": "torobshop-kids-toys-1ed3ae617a915858",
@@ -4569,7 +4569,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.106Z"
+    "observedAt": "2026-09-04T17:30:39.408Z"
   },
   {
     "id": "torobshop-kids-toys-aa03a6c561a55d60",
@@ -4587,25 +4587,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.106Z"
-  },
-  {
-    "id": "torobshop-kids-toys-ad6f3f422d15a766",
-    "productId": "torobshop-ad6f3f422d15a766",
-    "name": "سرویس قاشق و چنگال وی ام اف آلمان WMF Premiere (30 پارچه برای 6 نفر)",
-    "brand": "",
-    "model": "سرویس قاشق و چنگال وی ام اف آلمان WMF Premiere (30 پارچه برای 6 نفر)",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 72621000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%DA%A9%D8%A7%D8%B1%D8%AF-%D9%88-%DA%86%D9%86%DA%AF%D8%A7%D9%84-WMF-Premiere",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.106Z"
+    "observedAt": "2026-09-04T17:30:39.408Z"
   },
   {
     "id": "torobshop-kids-toys-0cfaef0e68debb8e",
@@ -4623,25 +4605,25 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.106Z"
+    "observedAt": "2026-09-04T17:30:39.408Z"
   },
   {
-    "id": "torobshop-kids-toys-aed9f18e5d887270",
-    "productId": "torobshop-aed9f18e5d887270",
-    "name": "ماهیتابه استیل حرفه‌ای 24 سانتی‌متری فیسلر آلمان مدل Fissler Stielpfanne 24 cm",
+    "id": "torobshop-kids-toys-ad6f3f422d15a766",
+    "productId": "torobshop-ad6f3f422d15a766",
+    "name": "سرویس قاشق و چنگال وی ام اف آلمان WMF Premiere (30 پارچه برای 6 نفر)",
     "brand": "",
-    "model": "ماهیتابه استیل حرفه‌ای 24 سانتی‌متری فیسلر آلمان مدل Fissler Stielpfanne 24 cm",
+    "model": "سرویس قاشق و چنگال وی ام اف آلمان WMF Premiere (30 پارچه برای 6 نفر)",
     "category": "kids-toys",
     "subcategory": "عروسک",
-    "price": 43078000,
+    "price": 72621000,
     "currency": "IRT",
     "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%AD%D8%B1%D9%81%D9%87-%D8%A7%DB%8C-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%AF%D9%84-Fissler-Stielpfanne-24-cm",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%DA%A9%D8%A7%D8%B1%D8%AF-%D9%88-%DA%86%D9%86%DA%AF%D8%A7%D9%84-WMF-Premiere",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.106Z"
+    "observedAt": "2026-09-04T17:30:39.408Z"
   },
   {
     "id": "torobshop-kids-toys-569f3d7e67640e5c",
@@ -4659,25 +4641,25 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.106Z"
+    "observedAt": "2026-09-04T17:30:39.408Z"
   },
   {
-    "id": "torobshop-kids-toys-dfa4bdc99016ca7e",
-    "productId": "torobshop-dfa4bdc99016ca7e",
-    "name": "اسموتی ساز زولینگ آلمان ZWILLING Standmixer شامل بطری نوشیدنی با درب، 600 میلی لیتر",
+    "id": "torobshop-kids-toys-aed9f18e5d887270",
+    "productId": "torobshop-aed9f18e5d887270",
+    "name": "ماهیتابه استیل حرفه‌ای 24 سانتی‌متری فیسلر آلمان مدل Fissler Stielpfanne 24 cm",
     "brand": "",
-    "model": "اسموتی ساز زولینگ آلمان ZWILLING Standmixer شامل بطری نوشیدنی با درب، 600 میلی لیتر",
+    "model": "ماهیتابه استیل حرفه‌ای 24 سانتی‌متری فیسلر آلمان مدل Fissler Stielpfanne 24 cm",
     "category": "kids-toys",
     "subcategory": "عروسک",
-    "price": 22077000,
+    "price": 43078000,
     "currency": "IRT",
     "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%A7%D8%B3%D9%85%D9%88%D8%AA%DB%8C-%D8%B3%D8%A7%D8%B2-%D8%B2%D9%88%D9%84%DB%8C%D9%86%DA%AF-%D8%A2%D9%84%D9%85%D8%A7%D9%86-ZWILLING-Standmixer-%D8%B4%D8%A7%D9%85%D9%84-%D8%A8%D8%B7%D8%B1%DB%8C-%D9%86%D9%88%D8%B4%DB%8C%D8%AF%D9%86%DB%8C-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-600-%D9%85%DB%8C%D9%84%DB%8C-%D9%84%DB%8C%D8%AA%D8%B1",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%AD%D8%B1%D9%81%D9%87-%D8%A7%DB%8C-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%AF%D9%84-Fissler-Stielpfanne-24-cm",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.106Z"
+    "observedAt": "2026-09-04T17:30:39.409Z"
   },
   {
     "id": "torobshop-kids-toys-0ff8a8fc1fbd561e",
@@ -4695,7 +4677,25 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.106Z"
+    "observedAt": "2026-09-04T17:30:39.409Z"
+  },
+  {
+    "id": "torobshop-kids-toys-dfa4bdc99016ca7e",
+    "productId": "torobshop-dfa4bdc99016ca7e",
+    "name": "اسموتی ساز زولینگ آلمان ZWILLING Standmixer شامل بطری نوشیدنی با درب، 600 میلی لیتر",
+    "brand": "",
+    "model": "اسموتی ساز زولینگ آلمان ZWILLING Standmixer شامل بطری نوشیدنی با درب، 600 میلی لیتر",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 22077000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D8%B3%D9%85%D9%88%D8%AA%DB%8C-%D8%B3%D8%A7%D8%B2-%D8%B2%D9%88%D9%84%DB%8C%D9%86%DA%AF-%D8%A2%D9%84%D9%85%D8%A7%D9%86-ZWILLING-Standmixer-%D8%B4%D8%A7%D9%85%D9%84-%D8%A8%D8%B7%D8%B1%DB%8C-%D9%86%D9%88%D8%B4%DB%8C%D8%AF%D9%86%DB%8C-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-600-%D9%85%DB%8C%D9%84%DB%8C-%D9%84%DB%8C%D8%AA%D8%B1",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.409Z"
   },
   {
     "id": "torobshop-kids-toys-fa434e6aa57c4be7",
@@ -4713,61 +4713,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.106Z"
-  },
-  {
-    "id": "torobshop-kids-toys-4b7348b541c036cd",
-    "productId": "torobshop-4b7348b541c036cd",
-    "name": "برس بخار Tefal DT 9814 SeroSteam",
-    "brand": "",
-    "model": "برس بخار Tefal DT 9814 SeroSteam",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 34003000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%A8%D8%B1%D8%B3-%D8%A8%D8%AE%D8%A7%D8%B1-Tefal-DT-9814-SeroSteam",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.106Z"
-  },
-  {
-    "id": "torobshop-kids-toys-c9e212e51e3633db",
-    "productId": "torobshop-c9e212e51e3633db",
-    "name": "سرویس قابلمه ۴ تکه تفال مدل Ingenio Serenity، روکش نچسب Mineralia، کم جا، قابل چیدن روی هم، مناسب برای انواع اجاق گاز، قابل شستشو در ماشین ظرفشویی، رنگ آبی ملایم، L8274S04",
-    "brand": "",
-    "model": "سرویس قابلمه ۴ تکه تفال مدل Ingenio Serenity، روکش نچسب Mineralia، کم جا، قابل چیدن روی هم، مناسب برای انواع اجاق گاز، قابل شستشو در ماشین ظرفشویی، رنگ آبی ملایم، L8274S04",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 37303000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B4-%D8%AA%DA%A9%D9%87-%D8%AA%D9%81%D8%A7%D9%84-%D9%85%D8%AF%D9%84-Ingenio-Serenity-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-Mineralia-%DA%A9%D9%85-%D8%AC%D8%A7-%D9%82%D8%A7%D8%A8%D9%84-%DA%86%DB%8C%D8%AF%D9%86-%D8%B1%D9%88%DB%8C-%D9%87%D9%85-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D8%B1%D9%86%DA%AF-%D8%A2%D8%A8%DB%8C-%D9%85%D9%84%D8%A7%DB%8C%D9%85-L8274S04",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.106Z"
-  },
-  {
-    "id": "torobshop-kids-toys-921dfbcc90d038a0",
-    "productId": "torobshop-921dfbcc90d038a0",
-    "name": "ماهیتابه فیسلر آلمان Fissler Original-Profi Collection (قطر 28 سانتی‌متر) تابه بدون پوشش با مقیاس داخلی",
-    "brand": "",
-    "model": "ماهیتابه فیسلر آلمان Fissler Original-Profi Collection (قطر 28 سانتی‌متر) تابه بدون پوشش با مقیاس داخلی",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 43138000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%85%D8%AF%D9%84-Original-Profi-Collection-%D9%82%D8%B7%D8%B1-28-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%AA%D8%A7%D8%A8%D9%87-%D8%A8%D8%AF%D9%88%D9%86-%D9%BE%D9%88%D8%B4%D8%B4-%D8%A8%D8%A7-%D9%85%D9%82%DB%8C%D8%A7%D8%B3-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%D9%86%D9%88%D9%88%DA%AF%D8%B1%DB%8C%D9%84-28-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.106Z"
+    "observedAt": "2026-09-04T17:30:39.409Z"
   },
   {
     "id": "torobshop-kids-toys-abdc2adccad9c33d",
@@ -4785,25 +4731,43 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.106Z"
+    "observedAt": "2026-09-04T17:30:39.409Z"
   },
   {
-    "id": "torobshop-kids-toys-695cd4ce1cd48f20",
-    "productId": "torobshop-695cd4ce1cd48f20",
-    "name": "تنور فر پیتزا وی ام اف آلمان WMF Pizzaiolo Pro، دمای پخت بیش از ۴۵۰ درجه سانتیگراد فر پیتزای گازی",
+    "id": "torobshop-kids-toys-4b7348b541c036cd",
+    "productId": "torobshop-4b7348b541c036cd",
+    "name": "برس بخار Tefal DT 9814 SeroSteam",
     "brand": "",
-    "model": "تنور فر پیتزا وی ام اف آلمان WMF Pizzaiolo Pro، دمای پخت بیش از ۴۵۰ درجه سانتیگراد فر پیتزای گازی",
+    "model": "برس بخار Tefal DT 9814 SeroSteam",
     "category": "kids-toys",
     "subcategory": "عروسک",
-    "price": 182247000,
+    "price": 34003000,
     "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%81%D8%B1-%D9%BE%DB%8C%D8%AA%D8%B2%D8%A7-WMF-Pizzaiolo-Pro-%D8%AF%D9%85%D8%A7%DB%8C-%D9%BE%D8%AE%D8%AA-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%DB%B4%DB%B5%DB%B0-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D8%B3%D9%86%DA%AF-%D9%BE%DB%8C%D8%AA%D8%B2%D8%A7%DB%8C-%D8%A8%D8%B2%D8%B1%DA%AF-%D9%82%D8%B7%D8%B1-%DB%B4%DB%B0-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%85%DA%A9%D8%A7%D9%86%DB%8C%D8%B2%D9%85-%DA%86%D8%B1%D8%AE%D8%B4-%D8%AE%D9%88%D8%AF%DA%A9%D8%A7%D8%B1-%D9%86%D8%B8%D8%A7%D8%B1%D8%AA-%DB%8C%DA%A9%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D8%A8%D8%B1-%D8%AF%D9%85%D8%A7-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%86%D8%AA%D8%A7%DB%8C%D8%AC-%D8%B9%D8%A7%D9%84%DB%8C-%D8%AF%D8%B1-%DB%B9%DB%B0-%D8%AB%D8%A7%D9%86%DB%8C%D9%87-%D9%81%D8%B1-%D9%BE%DB%8C%D8%AA%D8%B2%D8%A7%DB%8C-%DA%AF%D8%A7%D8%B2%DB%8C",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%A8%D8%B1%D8%B3-%D8%A8%D8%AE%D8%A7%D8%B1-Tefal-DT-9814-SeroSteam",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.106Z"
+    "observedAt": "2026-09-04T17:30:39.409Z"
+  },
+  {
+    "id": "torobshop-kids-toys-c9e212e51e3633db",
+    "productId": "torobshop-c9e212e51e3633db",
+    "name": "سرویس قابلمه ۴ تکه تفال مدل Ingenio Serenity، روکش نچسب Mineralia، کم جا، قابل چیدن روی هم، مناسب برای انواع اجاق گاز، قابل شستشو در ماشین ظرفشویی، رنگ آبی ملایم، L8274S04",
+    "brand": "",
+    "model": "سرویس قابلمه ۴ تکه تفال مدل Ingenio Serenity، روکش نچسب Mineralia، کم جا، قابل چیدن روی هم، مناسب برای انواع اجاق گاز، قابل شستشو در ماشین ظرفشویی، رنگ آبی ملایم، L8274S04",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 37303000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B4-%D8%AA%DA%A9%D9%87-%D8%AA%D9%81%D8%A7%D9%84-%D9%85%D8%AF%D9%84-Ingenio-Serenity-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-Mineralia-%DA%A9%D9%85-%D8%AC%D8%A7-%D9%82%D8%A7%D8%A8%D9%84-%DA%86%DB%8C%D8%AF%D9%86-%D8%B1%D9%88%DB%8C-%D9%87%D9%85-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D8%B1%D9%86%DA%AF-%D8%A2%D8%A8%DB%8C-%D9%85%D9%84%D8%A7%DB%8C%D9%85-L8274S04",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.409Z"
   },
   {
     "id": "torobshop-kids-toys-6e397f6c85f56e0e",
@@ -4821,7 +4785,43 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.106Z"
+    "observedAt": "2026-09-04T17:30:39.409Z"
+  },
+  {
+    "id": "torobshop-kids-toys-921dfbcc90d038a0",
+    "productId": "torobshop-921dfbcc90d038a0",
+    "name": "ماهیتابه فیسلر آلمان Fissler Original-Profi Collection (قطر 28 سانتی‌متر) تابه بدون پوشش با مقیاس داخلی",
+    "brand": "",
+    "model": "ماهیتابه فیسلر آلمان Fissler Original-Profi Collection (قطر 28 سانتی‌متر) تابه بدون پوشش با مقیاس داخلی",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 43138000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%85%D8%AF%D9%84-Original-Profi-Collection-%D9%82%D8%B7%D8%B1-28-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%AA%D8%A7%D8%A8%D9%87-%D8%A8%D8%AF%D9%88%D9%86-%D9%BE%D9%88%D8%B4%D8%B4-%D8%A8%D8%A7-%D9%85%D9%82%DB%8C%D8%A7%D8%B3-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%D9%86%D9%88%D9%88%DA%AF%D8%B1%DB%8C%D9%84-28-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.409Z"
+  },
+  {
+    "id": "torobshop-kids-toys-695cd4ce1cd48f20",
+    "productId": "torobshop-695cd4ce1cd48f20",
+    "name": "تنور فر پیتزا وی ام اف آلمان WMF Pizzaiolo Pro، دمای پخت بیش از ۴۵۰ درجه سانتیگراد فر پیتزای گازی",
+    "brand": "",
+    "model": "تنور فر پیتزا وی ام اف آلمان WMF Pizzaiolo Pro، دمای پخت بیش از ۴۵۰ درجه سانتیگراد فر پیتزای گازی",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 182247000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%81%D8%B1-%D9%BE%DB%8C%D8%AA%D8%B2%D8%A7-WMF-Pizzaiolo-Pro-%D8%AF%D9%85%D8%A7%DB%8C-%D9%BE%D8%AE%D8%AA-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%DB%B4%DB%B5%DB%B0-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D8%B3%D9%86%DA%AF-%D9%BE%DB%8C%D8%AA%D8%B2%D8%A7%DB%8C-%D8%A8%D8%B2%D8%B1%DA%AF-%D9%82%D8%B7%D8%B1-%DB%B4%DB%B0-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%85%DA%A9%D8%A7%D9%86%DB%8C%D8%B2%D9%85-%DA%86%D8%B1%D8%AE%D8%B4-%D8%AE%D9%88%D8%AF%DA%A9%D8%A7%D8%B1-%D9%86%D8%B8%D8%A7%D8%B1%D8%AA-%DB%8C%DA%A9%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D8%A8%D8%B1-%D8%AF%D9%85%D8%A7-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%86%D8%AA%D8%A7%DB%8C%D8%AC-%D8%B9%D8%A7%D9%84%DB%8C-%D8%AF%D8%B1-%DB%B9%DB%B0-%D8%AB%D8%A7%D9%86%DB%8C%D9%87-%D9%81%D8%B1-%D9%BE%DB%8C%D8%AA%D8%B2%D8%A7%DB%8C-%DA%AF%D8%A7%D8%B2%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.409Z"
   },
   {
     "id": "torobshop-kids-toys-7464bedef3ecb51e",
@@ -4839,7 +4839,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.106Z"
+    "observedAt": "2026-09-04T17:30:39.409Z"
   },
   {
     "id": "torobshop-kids-toys-9318a28bbba0fe53",
@@ -4857,7 +4857,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.106Z"
+    "observedAt": "2026-09-04T17:30:39.409Z"
   },
   {
     "id": "torobshop-kids-toys-924e8879fd31e680",
@@ -4875,25 +4875,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.106Z"
-  },
-  {
-    "id": "torobshop-kids-toys-51009350b9f240d2",
-    "productId": "torobshop-51009350b9f240d2",
-    "name": "ترازوی آشپزخانه دیجیتال ZWILLING Enfinigy، حداکثر وزن 10 کیلوگرم، دقت 0.1 گرم، مشکی",
-    "brand": "",
-    "model": "ترازوی آشپزخانه دیجیتال ZWILLING Enfinigy، حداکثر وزن 10 کیلوگرم، دقت 0.1 گرم، مشکی",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 16748000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%AA%D8%B1%D8%A7%D8%B2%D9%88%DB%8C-%D8%A2%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87-%D8%AF%DB%8C%D8%AC%DB%8C%D8%AA%D8%A7%D9%84-ZWILLING-Enfinigy-%D8%AD%D8%AF%D8%A7%DA%A9%D8%AB%D8%B1-%D9%88%D8%B2%D9%86-10-%DA%A9%DB%8C%D9%84%D9%88%DA%AF%D8%B1%D9%85-%D8%AF%D9%82%D8%AA-0-1-%DA%AF%D8%B1%D9%85-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.106Z"
+    "observedAt": "2026-09-04T17:30:39.409Z"
   },
   {
     "id": "torobshop-kids-toys-ae3ba973ea2911ee",
@@ -4911,7 +4893,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.106Z"
+    "observedAt": "2026-09-04T17:30:39.409Z"
   },
   {
     "id": "torobshop-kids-toys-45c64009916028ba",
@@ -4929,7 +4911,25 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.106Z"
+    "observedAt": "2026-09-04T17:30:39.409Z"
+  },
+  {
+    "id": "torobshop-kids-toys-51009350b9f240d2",
+    "productId": "torobshop-51009350b9f240d2",
+    "name": "ترازوی آشپزخانه دیجیتال ZWILLING Enfinigy، حداکثر وزن 10 کیلوگرم، دقت 0.1 گرم، مشکی",
+    "brand": "",
+    "model": "ترازوی آشپزخانه دیجیتال ZWILLING Enfinigy، حداکثر وزن 10 کیلوگرم، دقت 0.1 گرم، مشکی",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 16748000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%AA%D8%B1%D8%A7%D8%B2%D9%88%DB%8C-%D8%A2%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87-%D8%AF%DB%8C%D8%AC%DB%8C%D8%AA%D8%A7%D9%84-ZWILLING-Enfinigy-%D8%AD%D8%AF%D8%A7%DA%A9%D8%AB%D8%B1-%D9%88%D8%B2%D9%86-10-%DA%A9%DB%8C%D9%84%D9%88%DA%AF%D8%B1%D9%85-%D8%AF%D9%82%D8%AA-0-1-%DA%AF%D8%B1%D9%85-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.409Z"
   },
   {
     "id": "torobshop-kids-toys-835b00c0d36d8e10",
@@ -4947,79 +4947,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.106Z"
-  },
-  {
-    "id": "torobshop-kids-toys-da199e6690f1c782",
-    "productId": "torobshop-da199e6690f1c782",
-    "name": "آسیاب نمک و فلفل استیل وی ام اف آلمان مدل WMF Signature Pro",
-    "brand": "",
-    "model": "آسیاب نمک و فلفل استیل وی ام اف آلمان مدل WMF Signature Pro",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 23282000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%A2%D8%B3%DB%8C%D8%A7%D8%A8-%D9%86%D9%85%DA%A9-%D9%88-%D9%81%D9%84%D9%81%D9%84-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D9%88%DB%8C-%D8%A7%D9%85-%D8%A7%D9%81-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%AF%D9%84-WMF-Signature-Pro",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.106Z"
-  },
-  {
-    "id": "torobshop-kids-toys-35f3e181350a9721",
-    "productId": "torobshop-35f3e181350a9721",
-    "name": "چاقوی خود تیز شونده ZWILLING Gourmet با مجموعه 7 تکه چاقو، استیل ضد زنگ، ساخت آلمان، خاکستری Gourmet خاکستری",
-    "brand": "",
-    "model": "چاقوی خود تیز شونده ZWILLING Gourmet با مجموعه 7 تکه چاقو، استیل ضد زنگ، ساخت آلمان، خاکستری Gourmet خاکستری",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 54812000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%AE%D9%88%D8%AF-%D8%AA%DB%8C%D8%B2-%D8%B4%D9%88%D9%86%D8%AF%D9%87-ZWILLING-Gourmet-%D8%A8%D8%A7-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-7-%D8%AA%DA%A9%D9%87-%DA%86%D8%A7%D9%82%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C-Gourmet-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.106Z"
-  },
-  {
-    "id": "torobshop-kids-toys-15def7d563b1e542",
-    "productId": "torobshop-15def7d563b1e542",
-    "name": "سرویس قاشق و چنگال 30 پارچه وی ام اف آلمان WMF Cutlery Set 30-Piece (6 نفره) ابریشمی، کرومارگان",
-    "brand": "",
-    "model": "سرویس قاشق و چنگال 30 پارچه وی ام اف آلمان WMF Cutlery Set 30-Piece (6 نفره) ابریشمی، کرومارگان",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 41137000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%DA%A9%D8%A7%D8%B1%D8%AF-%D9%88-%DA%86%D9%86%DA%AF%D8%A7%D9%84-WMF-30-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-6-%D9%86%D9%81%D8%B1%D9%87-%D8%A7%D8%A8%D8%B1%DB%8C%D8%B4%D9%85%DB%8C-%DA%A9%D8%B1%D9%88%D9%85%D8%A7%D8%B1%DA%AF%D8%A7%D9%86-18-10-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%A8%D8%B1%D8%A7%D9%82",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.106Z"
-  },
-  {
-    "id": "torobshop-kids-toys-37de96dd1d4a33c3",
-    "productId": "torobshop-37de96dd1d4a33c3",
-    "name": "ماهیتابه فیسلر آلمان Fissler Pure Collection/Edelstahl (قطر 20 سانتی‌متر) بدون پوشش، پیمانه داخلی",
-    "brand": "",
-    "model": "ماهیتابه فیسلر آلمان Fissler Pure Collection/Edelstahl (قطر 20 سانتی‌متر) بدون پوشش، پیمانه داخلی",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 31603000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D8%AE%D8%A7%D9%84%D8%B5-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%82%D8%B7%D8%B1-20-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A8%D8%AF%D9%88%D9%86-%D9%BE%D9%88%D8%B4%D8%B4-%D9%BE%DB%8C%D9%85%D8%A7%D9%86%D9%87-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.106Z"
+    "observedAt": "2026-09-04T17:30:39.409Z"
   },
   {
     "id": "torobshop-kids-toys-9311f0ec7504f24b",
@@ -5037,7 +4965,25 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.106Z"
+    "observedAt": "2026-09-04T17:30:39.409Z"
+  },
+  {
+    "id": "torobshop-kids-toys-da199e6690f1c782",
+    "productId": "torobshop-da199e6690f1c782",
+    "name": "آسیاب نمک و فلفل استیل وی ام اف آلمان مدل WMF Signature Pro",
+    "brand": "",
+    "model": "آسیاب نمک و فلفل استیل وی ام اف آلمان مدل WMF Signature Pro",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 23282000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%A2%D8%B3%DB%8C%D8%A7%D8%A8-%D9%86%D9%85%DA%A9-%D9%88-%D9%81%D9%84%D9%81%D9%84-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D9%88%DB%8C-%D8%A7%D9%85-%D8%A7%D9%81-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%AF%D9%84-WMF-Signature-Pro",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.409Z"
   },
   {
     "id": "torobshop-kids-toys-843617a20d001e4c",
@@ -5055,7 +5001,61 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.106Z"
+    "observedAt": "2026-09-04T17:30:39.409Z"
+  },
+  {
+    "id": "torobshop-kids-toys-35f3e181350a9721",
+    "productId": "torobshop-35f3e181350a9721",
+    "name": "چاقوی خود تیز شونده ZWILLING Gourmet با مجموعه 7 تکه چاقو، استیل ضد زنگ، ساخت آلمان، خاکستری Gourmet خاکستری",
+    "brand": "",
+    "model": "چاقوی خود تیز شونده ZWILLING Gourmet با مجموعه 7 تکه چاقو، استیل ضد زنگ، ساخت آلمان، خاکستری Gourmet خاکستری",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 54812000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%AE%D9%88%D8%AF-%D8%AA%DB%8C%D8%B2-%D8%B4%D9%88%D9%86%D8%AF%D9%87-ZWILLING-Gourmet-%D8%A8%D8%A7-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-7-%D8%AA%DA%A9%D9%87-%DA%86%D8%A7%D9%82%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C-Gourmet-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.409Z"
+  },
+  {
+    "id": "torobshop-kids-toys-15def7d563b1e542",
+    "productId": "torobshop-15def7d563b1e542",
+    "name": "سرویس قاشق و چنگال 30 پارچه وی ام اف آلمان WMF Cutlery Set 30-Piece (6 نفره) ابریشمی، کرومارگان",
+    "brand": "",
+    "model": "سرویس قاشق و چنگال 30 پارچه وی ام اف آلمان WMF Cutlery Set 30-Piece (6 نفره) ابریشمی، کرومارگان",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 41137000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%DA%A9%D8%A7%D8%B1%D8%AF-%D9%88-%DA%86%D9%86%DA%AF%D8%A7%D9%84-WMF-30-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-6-%D9%86%D9%81%D8%B1%D9%87-%D8%A7%D8%A8%D8%B1%DB%8C%D8%B4%D9%85%DB%8C-%DA%A9%D8%B1%D9%88%D9%85%D8%A7%D8%B1%DA%AF%D8%A7%D9%86-18-10-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%A8%D8%B1%D8%A7%D9%82",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.409Z"
+  },
+  {
+    "id": "torobshop-kids-toys-37de96dd1d4a33c3",
+    "productId": "torobshop-37de96dd1d4a33c3",
+    "name": "ماهیتابه فیسلر آلمان Fissler Pure Collection/Edelstahl (قطر 20 سانتی‌متر) بدون پوشش، پیمانه داخلی",
+    "brand": "",
+    "model": "ماهیتابه فیسلر آلمان Fissler Pure Collection/Edelstahl (قطر 20 سانتی‌متر) بدون پوشش، پیمانه داخلی",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 31603000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D8%AE%D8%A7%D9%84%D8%B5-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%82%D8%B7%D8%B1-20-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A8%D8%AF%D9%88%D9%86-%D9%BE%D9%88%D8%B4%D8%B4-%D9%BE%DB%8C%D9%85%D8%A7%D9%86%D9%87-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.409Z"
   },
   {
     "id": "torobshop-kids-toys-ee166c5666efcec5",
@@ -5073,25 +5073,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.106Z"
-  },
-  {
-    "id": "torobshop-kids-toys-67d9add46426dfe8",
-    "productId": "torobshop-67d9add46426dfe8",
-    "name": "سرویس قابلمه ۵ تکه ZWILLING PURE، استیل ضد زنگ ۱۸/۱۰، پوشش بیرونی سرامیکی، دسته‌های خنک‌شونده، قابل شستشو در ماشین ظرفشویی، سبز",
-    "brand": "",
-    "model": "سرویس قابلمه ۵ تکه ZWILLING PURE، استیل ضد زنگ ۱۸/۱۰، پوشش بیرونی سرامیکی، دسته‌های خنک‌شونده، قابل شستشو در ماشین ظرفشویی، سبز",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 84756000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B5-%D8%AA%DA%A9%D9%87-ZWILLING-PURE-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%DB%B1%DB%B8-%DB%B1%DB%B0-%D9%BE%D9%88%D8%B4%D8%B4-%D8%A8%DB%8C%D8%B1%D9%88%D9%86%DB%8C-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D8%AF%D8%B3%D8%AA%D9%87-%D9%87%D8%A7%DB%8C-%D8%AE%D9%86%DA%A9-%D8%B4%D9%88%D9%86%D8%AF%D9%87-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D8%B3%D8%A8%D8%B2",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.106Z"
+    "observedAt": "2026-09-04T17:30:39.409Z"
   },
   {
     "id": "torobshop-kids-toys-fc88260817f3414e",
@@ -5109,25 +5091,25 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.106Z"
+    "observedAt": "2026-09-04T17:30:39.409Z"
   },
   {
-    "id": "torobshop-kids-toys-3877183810368792",
-    "productId": "torobshop-3877183810368792",
-    "name": "سرویس قابلمه ۵ تکه ZWILLING PURE، استیل ضد زنگ ۱۸/۱۰، پوشش بیرونی سرامیکی، دسته‌های خنک‌شونده، قابل شستشو در ماشین ظرفشویی، خاکستری آنتراسیت",
+    "id": "torobshop-kids-toys-67d9add46426dfe8",
+    "productId": "torobshop-67d9add46426dfe8",
+    "name": "سرویس قابلمه ۵ تکه ZWILLING PURE، استیل ضد زنگ ۱۸/۱۰، پوشش بیرونی سرامیکی، دسته‌های خنک‌شونده، قابل شستشو در ماشین ظرفشویی، سبز",
     "brand": "",
-    "model": "سرویس قابلمه ۵ تکه ZWILLING PURE، استیل ضد زنگ ۱۸/۱۰، پوشش بیرونی سرامیکی، دسته‌های خنک‌شونده، قابل شستشو در ماشین ظرفشویی، خاکستری آنتراسیت",
+    "model": "سرویس قابلمه ۵ تکه ZWILLING PURE، استیل ضد زنگ ۱۸/۱۰، پوشش بیرونی سرامیکی، دسته‌های خنک‌شونده، قابل شستشو در ماشین ظرفشویی، سبز",
     "category": "kids-toys",
     "subcategory": "عروسک",
     "price": 84756000,
     "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B5-%D8%AA%DA%A9%D9%87-ZWILLING-PURE-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%DB%B1%DB%B8-%DB%B1%DB%B0-%D9%BE%D9%88%D8%B4%D8%B4-%D8%A8%DB%8C%D8%B1%D9%88%D9%86%DB%8C-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D8%AF%D8%B3%D8%AA%D9%87-%D9%87%D8%A7%DB%8C-%D8%AE%D9%86%DA%A9-%D8%B4%D9%88%D9%86%D8%AF%D9%87-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C-%D8%A2%D9%86%D8%AA%D8%B1%D8%A7%D8%B3%DB%8C%D8%AA",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B5-%D8%AA%DA%A9%D9%87-ZWILLING-PURE-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%DB%B1%DB%B8-%DB%B1%DB%B0-%D9%BE%D9%88%D8%B4%D8%B4-%D8%A8%DB%8C%D8%B1%D9%88%D9%86%DB%8C-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D8%AF%D8%B3%D8%AA%D9%87-%D9%87%D8%A7%DB%8C-%D8%AE%D9%86%DA%A9-%D8%B4%D9%88%D9%86%D8%AF%D9%87-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D8%B3%D8%A8%D8%B2",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.106Z"
+    "observedAt": "2026-09-04T17:30:39.409Z"
   },
   {
     "id": "torobshop-kids-toys-5cab57205d377e1f",
@@ -5145,25 +5127,25 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.106Z"
+    "observedAt": "2026-09-04T17:30:39.409Z"
   },
   {
-    "id": "torobshop-kids-toys-bbb69afb3e332a2c",
-    "productId": "torobshop-bbb69afb3e332a2c",
-    "name": "سرویس قابلمه ۵ تکه ZWILLING Quadro با درب شیشه‌ای، مناسب برای اجاق گازهای القایی، بدون روکش، استیل ضد زنگ، نقره‌ای.",
+    "id": "torobshop-kids-toys-3877183810368792",
+    "productId": "torobshop-3877183810368792",
+    "name": "سرویس قابلمه ۵ تکه ZWILLING PURE، استیل ضد زنگ ۱۸/۱۰، پوشش بیرونی سرامیکی، دسته‌های خنک‌شونده، قابل شستشو در ماشین ظرفشویی، خاکستری آنتراسیت",
     "brand": "",
-    "model": "سرویس قابلمه ۵ تکه ZWILLING Quadro با درب شیشه‌ای، مناسب برای اجاق گازهای القایی، بدون روکش، استیل ضد زنگ، نقره‌ای.",
+    "model": "سرویس قابلمه ۵ تکه ZWILLING PURE، استیل ضد زنگ ۱۸/۱۰، پوشش بیرونی سرامیکی، دسته‌های خنک‌شونده، قابل شستشو در ماشین ظرفشویی، خاکستری آنتراسیت",
     "category": "kids-toys",
     "subcategory": "عروسک",
-    "price": 48468000,
+    "price": 84756000,
     "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B5-%D8%AA%DA%A9%D9%87-ZWILLING-Quadro-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2%D9%87%D8%A7%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%DA%A9%D8%B4-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B5-%D8%AA%DA%A9%D9%87-ZWILLING-PURE-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%DB%B1%DB%B8-%DB%B1%DB%B0-%D9%BE%D9%88%D8%B4%D8%B4-%D8%A8%DB%8C%D8%B1%D9%88%D9%86%DB%8C-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D8%AF%D8%B3%D8%AA%D9%87-%D9%87%D8%A7%DB%8C-%D8%AE%D9%86%DA%A9-%D8%B4%D9%88%D9%86%D8%AF%D9%87-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C-%D8%A2%D9%86%D8%AA%D8%B1%D8%A7%D8%B3%DB%8C%D8%AA",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.106Z"
+    "observedAt": "2026-09-04T17:30:39.409Z"
   },
   {
     "id": "torobshop-kids-toys-cb9e4b877badae34",
@@ -5181,25 +5163,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.106Z"
-  },
-  {
-    "id": "torobshop-kids-toys-30d122f629f89166",
-    "productId": "torobshop-30d122f629f89166",
-    "name": "ماهیتابه فیسلر آلمان Fissler Pure Collection/Edelstahl (قطر 28 سانتی‌متر) بدون پوشش، پیمانه داخلی",
-    "brand": "",
-    "model": "ماهیتابه فیسلر آلمان Fissler Pure Collection/Edelstahl (قطر 28 سانتی‌متر) بدون پوشش، پیمانه داخلی",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 39194000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D8%AE%D8%A7%D9%84%D8%B5-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%82%D8%B7%D8%B1-28-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A8%D8%AF%D9%88%D9%86-%D9%BE%D9%88%D8%B4%D8%B4-%D9%BE%DB%8C%D9%85%D8%A7%D9%86%D9%87-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.106Z"
+    "observedAt": "2026-09-04T17:30:39.409Z"
   },
   {
     "id": "torobshop-kids-toys-e2467d5cbf85ce81",
@@ -5217,7 +5181,25 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.106Z"
+    "observedAt": "2026-09-04T17:30:39.409Z"
+  },
+  {
+    "id": "torobshop-kids-toys-30d122f629f89166",
+    "productId": "torobshop-30d122f629f89166",
+    "name": "ماهیتابه فیسلر آلمان Fissler Pure Collection/Edelstahl (قطر 28 سانتی‌متر) بدون پوشش، پیمانه داخلی",
+    "brand": "",
+    "model": "ماهیتابه فیسلر آلمان Fissler Pure Collection/Edelstahl (قطر 28 سانتی‌متر) بدون پوشش، پیمانه داخلی",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 39194000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D8%AE%D8%A7%D9%84%D8%B5-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%82%D8%B7%D8%B1-28-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A8%D8%AF%D9%88%D9%86-%D9%BE%D9%88%D8%B4%D8%B4-%D9%BE%DB%8C%D9%85%D8%A7%D9%86%D9%87-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.409Z"
   },
   {
     "id": "torobshop-kids-toys-d9fbeecaba31c602",
@@ -5235,79 +5217,25 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.106Z"
+    "observedAt": "2026-09-04T17:30:39.409Z"
   },
   {
-    "id": "torobshop-kids-toys-3e03d59443676707",
-    "productId": "torobshop-3e03d59443676707",
-    "name": "بلوک چاقوی ZWILLING TWIN Chef 2 با سرویس چاقوی 8 تکه، استیل ضد زنگ، ساخت آلمان، بلوک بامبویی Twin Chef 8 تکه",
+    "id": "torobshop-kids-toys-bbb69afb3e332a2c",
+    "productId": "torobshop-bbb69afb3e332a2c",
+    "name": "سرویس قابلمه ۵ تکه ZWILLING Quadro با درب شیشه‌ای، مناسب برای اجاق گازهای القایی، بدون روکش، استیل ضد زنگ، نقره‌ای.",
     "brand": "",
-    "model": "بلوک چاقوی ZWILLING TWIN Chef 2 با سرویس چاقوی 8 تکه، استیل ضد زنگ، ساخت آلمان، بلوک بامبویی Twin Chef 8 تکه",
+    "model": "سرویس قابلمه ۵ تکه ZWILLING Quadro با درب شیشه‌ای، مناسب برای اجاق گازهای القایی، بدون روکش، استیل ضد زنگ، نقره‌ای.",
     "category": "kids-toys",
     "subcategory": "عروسک",
-    "price": 48975000,
+    "price": 48468000,
     "currency": "IRT",
     "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%A8%D9%84%D9%88%DA%A9-%DA%86%D8%A7%D9%82%D9%88%DB%8C-ZWILLING-TWIN-Chef-2-%D8%A8%D8%A7-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%DA%86%D8%A7%D9%82%D9%88%DB%8C-8-%D8%AA%DA%A9%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%A8%D9%84%D9%88%DA%A9-%D8%A8%D8%A7%D9%85%D8%A8%D9%88%DB%8C%DB%8C-Twin-Chef-8-%D8%AA%DA%A9%D9%87",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B5-%D8%AA%DA%A9%D9%87-ZWILLING-Quadro-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2%D9%87%D8%A7%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%DA%A9%D8%B4-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.106Z"
-  },
-  {
-    "id": "torobshop-kids-toys-4415e2cd944c4e59",
-    "productId": "torobshop-4415e2cd944c4e59",
-    "name": "بلوک چاقوی خود تیز شونده ZWILLING Gourmet با مجموعه چاقوی 7 تکه، فولاد ضد زنگ، ساخت آلمان، مشکی",
-    "brand": "",
-    "model": "بلوک چاقوی خود تیز شونده ZWILLING Gourmet با مجموعه چاقوی 7 تکه، فولاد ضد زنگ، ساخت آلمان، مشکی",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 56334000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%A8%D9%84%D9%88%DA%A9-%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%AE%D9%88%D8%AF-%D8%AA%DB%8C%D8%B2-%D8%B4%D9%88%D9%86%D8%AF%D9%87-ZWILLING-Gourmet-%D8%A8%D8%A7-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%DA%86%D8%A7%D9%82%D9%88%DB%8C-7-%D8%AA%DA%A9%D9%87-%D9%81%D9%88%D9%84%D8%A7%D8%AF-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.106Z"
-  },
-  {
-    "id": "torobshop-kids-toys-07103c8f0e3ce377",
-    "productId": "torobshop-07103c8f0e3ce377",
-    "name": "کتری ZWILLING، ۱.۲ لیتر، ۱۵۵۰-۱۸۵۰ وات، پایه ۳۶۰ درجه، محافظ جوش-خشک، استیل ضد زنگ/پلاستیک، مشکی",
-    "brand": "",
-    "model": "کتری ZWILLING، ۱.۲ لیتر، ۱۵۵۰-۱۸۵۰ وات، پایه ۳۶۰ درجه، محافظ جوش-خشک، استیل ضد زنگ/پلاستیک، مشکی",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 18524000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%DA%A9%D8%AA%D8%B1%DB%8C-ZWILLING-%DB%B1-%DB%B2-%D9%84%DB%8C%D8%AA%D8%B1-%DB%B1%DB%B5%DB%B5%DB%B0-%DB%B1%DB%B8%DB%B5%DB%B0-%D9%88%D8%A7%D8%AA-%D9%BE%D8%A7%DB%8C%D9%87-%DB%B3%DB%B6%DB%B0-%D8%AF%D8%B1%D8%AC%D9%87-%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D8%AC%D9%88%D8%B4-%D8%AE%D8%B4%DA%A9-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.106Z"
-  },
-  {
-    "id": "torobshop-kids-toys-d397df756b9f1338",
-    "productId": "torobshop-d397df756b9f1338",
-    "name": "ماهیتابه ZWILLING TrueFlow 24 سانتی‌متر، استیل ضد زنگ، روکش نچسب، مشکی",
-    "brand": "",
-    "model": "ماهیتابه ZWILLING TrueFlow 24 سانتی‌متر، استیل ضد زنگ، روکش نچسب، مشکی",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 19285000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-ZWILLING-TrueFlow-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.106Z"
+    "observedAt": "2026-09-04T17:30:39.409Z"
   },
   {
     "id": "torobshop-kids-toys-ef26e366fa305ced",
@@ -5325,61 +5253,79 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.106Z"
+    "observedAt": "2026-09-04T17:30:39.409Z"
   },
   {
-    "id": "torobshop-kids-toys-d68b8e3ac997acb1",
-    "productId": "torobshop-d68b8e3ac997acb1",
-    "name": "ماهیتابه دو دسته فیسلر آلمان Fissler Original-Profi Collection (سایز ۲۸ سانتی‌متر)",
+    "id": "torobshop-kids-toys-3e03d59443676707",
+    "productId": "torobshop-3e03d59443676707",
+    "name": "بلوک چاقوی ZWILLING TWIN Chef 2 با سرویس چاقوی 8 تکه، استیل ضد زنگ، ساخت آلمان، بلوک بامبویی Twin Chef 8 تکه",
     "brand": "",
-    "model": "ماهیتابه دو دسته فیسلر آلمان Fissler Original-Profi Collection (سایز ۲۸ سانتی‌متر)",
+    "model": "بلوک چاقوی ZWILLING TWIN Chef 2 با سرویس چاقوی 8 تکه، استیل ضد زنگ، ساخت آلمان، بلوک بامبویی Twin Chef 8 تکه",
     "category": "kids-toys",
     "subcategory": "عروسک",
-    "price": 46822000,
+    "price": 48975000,
     "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%A7%D9%88%D8%B1%D8%AC%DB%8C%D9%86%D8%A7%D9%84-%D9%BE%D8%B1%D9%88%D9%81%DB%8C-%DA%A9%D8%A7%D9%84%DA%A9%D8%B4%D9%86-%D8%B3%D8%A7%DB%8C%D8%B2-%DB%B2%DB%B8-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%DB%B1%DB%B8-%DB%B1%DB%B0-%D8%B3%D8%B7%D8%AD-%D9%BE%D8%AE%D8%AA-%D9%88-%D9%BE%D8%B2-%D9%86%D9%88%D9%88%DA%AF%D8%B1%DB%8C%D9%84-%D9%BE%D8%A7%DB%8C%D9%87-%D8%AA%D9%85%D8%A7%D9%85-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%DA%A9%D9%88%DA%A9-%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1-%D9%85%D8%AF%D9%84-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%DB%B2%DB%B8-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%A8%D9%84%D9%88%DA%A9-%DA%86%D8%A7%D9%82%D9%88%DB%8C-ZWILLING-TWIN-Chef-2-%D8%A8%D8%A7-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%DA%86%D8%A7%D9%82%D9%88%DB%8C-8-%D8%AA%DA%A9%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%A8%D9%84%D9%88%DA%A9-%D8%A8%D8%A7%D9%85%D8%A8%D9%88%DB%8C%DB%8C-Twin-Chef-8-%D8%AA%DA%A9%D9%87",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.107Z"
+    "observedAt": "2026-09-04T17:30:39.409Z"
   },
   {
-    "id": "torobshop-kids-toys-05c540b60ea3624b",
-    "productId": "torobshop-05c540b60ea3624b",
-    "name": "ماهیتابه استیل ضد زنگ فیسلر سانفرانسیسکو، 16 سانتی‌متر (1.2 لیتر) با درب شیشه‌ای - استیل ضد زنگ 18/10، پایه سوپرترمیک، پیمانه، لبه ریختن، سازگار با القایی",
+    "id": "torobshop-kids-toys-4415e2cd944c4e59",
+    "productId": "torobshop-4415e2cd944c4e59",
+    "name": "بلوک چاقوی خود تیز شونده ZWILLING Gourmet با مجموعه چاقوی 7 تکه، فولاد ضد زنگ، ساخت آلمان، مشکی",
     "brand": "",
-    "model": "ماهیتابه استیل ضد زنگ فیسلر سانفرانسیسکو، 16 سانتی‌متر (1.2 لیتر) با درب شیشه‌ای - استیل ضد زنگ 18/10، پایه سوپرترمیک، پیمانه، لبه ریختن، سازگار با القایی",
+    "model": "بلوک چاقوی خود تیز شونده ZWILLING Gourmet با مجموعه چاقوی 7 تکه، فولاد ضد زنگ، ساخت آلمان، مشکی",
     "category": "kids-toys",
     "subcategory": "عروسک",
-    "price": 18778000,
+    "price": 56334000,
     "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%B3%D8%A7%D9%86%D9%81%D8%B1%D8%A7%D9%86%D8%B3%DB%8C%D8%B3%DA%A9%D9%88-16-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-1-2-%D9%84%DB%8C%D8%AA%D8%B1-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-18-10-%D9%BE%D8%A7%DB%8C%D9%87-%D8%B3%D9%88%D9%BE%D8%B1%D8%AA%D8%B1%D9%85%DB%8C%DA%A9-%D9%BE%DB%8C%D9%85%D8%A7%D9%86%D9%87-%D9%84%D8%A8%D9%87-%D8%B1%DB%8C%D8%AE%D8%AA%D9%86-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%A8%D9%84%D9%88%DA%A9-%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%AE%D9%88%D8%AF-%D8%AA%DB%8C%D8%B2-%D8%B4%D9%88%D9%86%D8%AF%D9%87-ZWILLING-Gourmet-%D8%A8%D8%A7-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%DA%86%D8%A7%D9%82%D9%88%DB%8C-7-%D8%AA%DA%A9%D9%87-%D9%81%D9%88%D9%84%D8%A7%D8%AF-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%B4%DA%A9%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.107Z"
+    "observedAt": "2026-09-04T17:30:39.409Z"
   },
   {
-    "id": "torobshop-kids-toys-f8b7784f8ba04a47",
-    "productId": "torobshop-f8b7784f8ba04a47",
-    "name": "سودا ساز آب گازدار ساز وی ام اف آلمان WMF Element One Water دستگاه حباب ساز تمام اتوماتیک آبی",
+    "id": "torobshop-kids-toys-07103c8f0e3ce377",
+    "productId": "torobshop-07103c8f0e3ce377",
+    "name": "کتری ZWILLING، ۱.۲ لیتر، ۱۵۵۰-۱۸۵۰ وات، پایه ۳۶۰ درجه، محافظ جوش-خشک، استیل ضد زنگ/پلاستیک، مشکی",
     "brand": "",
-    "model": "سودا ساز آب گازدار ساز وی ام اف آلمان WMF Element One Water دستگاه حباب ساز تمام اتوماتیک آبی",
+    "model": "کتری ZWILLING، ۱.۲ لیتر، ۱۵۵۰-۱۸۵۰ وات، پایه ۳۶۰ درجه، محافظ جوش-خشک، استیل ضد زنگ/پلاستیک، مشکی",
     "category": "kids-toys",
     "subcategory": "عروسک",
-    "price": 54084000,
+    "price": 18524000,
     "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%DA%AF%D8%A7%D8%B2%D8%AF%D8%A7%D8%B1-%D8%A2%D8%A8-WMF-Element-One-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%AD%D8%A8%D8%A7%D8%A8-%D8%B3%D8%A7%D8%B2-%D8%AA%D9%85%D8%A7%D9%85-%D8%A7%D8%AA%D9%88%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-%D8%A7%D8%B2-%D8%AC%D9%86%D8%B3-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%A8%D8%A7-3-%D8%B3%D8%B7%D8%AD-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%DA%A9%D9%85-%D8%AC%D8%A7-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%86%D9%88%D8%B4%D8%A7%D8%A8%D9%87-%D8%B3%D8%A7%D8%B2-%D8%B2%DB%8C%D8%A8%D8%A7-%D9%88-%DA%AF%D8%A7%D8%B2%D8%AF%D8%A7%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%84%D8%B0%D8%AA-%D8%A8%D8%B1%D8%AF%D9%86-%D8%A7%D8%B2-%D9%86%D9%88%D8%B4%DB%8C%D8%AF%D9%86%DB%8C-%D8%B1%D9%86%DA%AF-%D8%AC%D8%B1%DB%8C%D8%A7%D9%86-%DB%8C%D8%AE",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%DA%A9%D8%AA%D8%B1%DB%8C-ZWILLING-%DB%B1-%DB%B2-%D9%84%DB%8C%D8%AA%D8%B1-%DB%B1%DB%B5%DB%B5%DB%B0-%DB%B1%DB%B8%DB%B5%DB%B0-%D9%88%D8%A7%D8%AA-%D9%BE%D8%A7%DB%8C%D9%87-%DB%B3%DB%B6%DB%B0-%D8%AF%D8%B1%D8%AC%D9%87-%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D8%AC%D9%88%D8%B4-%D8%AE%D8%B4%DA%A9-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-%D9%85%D8%B4%DA%A9%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.107Z"
+    "observedAt": "2026-09-04T17:30:39.409Z"
+  },
+  {
+    "id": "torobshop-kids-toys-d397df756b9f1338",
+    "productId": "torobshop-d397df756b9f1338",
+    "name": "ماهیتابه ZWILLING TrueFlow 24 سانتی‌متر، استیل ضد زنگ، روکش نچسب، مشکی",
+    "brand": "",
+    "model": "ماهیتابه ZWILLING TrueFlow 24 سانتی‌متر، استیل ضد زنگ، روکش نچسب، مشکی",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 19285000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-ZWILLING-TrueFlow-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.409Z"
   },
   {
     "id": "torobshop-kids-toys-e4088b7a2b6ea10b",
@@ -5397,7 +5343,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.107Z"
+    "observedAt": "2026-09-04T17:30:39.409Z"
   },
   {
     "id": "torobshop-kids-toys-0674abec1e1ff3bb",
@@ -5415,43 +5361,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.107Z"
-  },
-  {
-    "id": "torobshop-kids-toys-c8ae91ddddbffeeb",
-    "productId": "torobshop-c8ae91ddddbffeeb",
-    "name": "ماهیتابه درب دار کباب‌ پز فیسلر آلمان Fissler Edelstahl (8.8 لیتر - قطر 38 سانتی‌متر) ظرف کاسرول بیضی بزرگ، با درب شیشه‌ای",
-    "brand": "",
-    "model": "ماهیتابه درب دار کباب‌ پز فیسلر آلمان Fissler Edelstahl (8.8 لیتر - قطر 38 سانتی‌متر) ظرف کاسرول بیضی بزرگ، با درب شیشه‌ای",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 50553000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1%D8%A8-%D8%AF%D8%A7%D8%B1-%DA%A9%D8%A8%D8%A7%D8%A8-%D9%BE%D8%B2-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-Fissler-Edelstahl-8-8-%D9%84%DB%8C%D8%AA%D8%B1-%D9%82%D8%B7%D8%B1-38-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%B8%D8%B1%D9%81-%DA%A9%D8%A7%D8%B3%D8%B1%D9%88%D9%84-%D8%A8%DB%8C%D8%B6%DB%8C-%D8%A8%D8%B2%D8%B1%DA%AF-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.107Z"
-  },
-  {
-    "id": "torobshop-kids-toys-40f09e3a04b68146",
-    "productId": "torobshop-40f09e3a04b68146",
-    "name": "سودا ساز آب گازدار ساز وی ام اف آلمان WMF Element One دستگاه حباب ساز تمام اتوماتیک",
-    "brand": "",
-    "model": "سودا ساز آب گازدار ساز وی ام اف آلمان WMF Element One دستگاه حباب ساز تمام اتوماتیک",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 54084000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%AC%D9%88%D8%B4%D8%A7%D9%86%D9%86%D8%AF%D9%87-%D8%A2%D8%A8-WMF-Element-One-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%AD%D8%A8%D8%A7%D8%A8-%D8%B3%D8%A7%D8%B2-%D8%AA%D9%85%D8%A7%D9%85-%D8%A7%D8%AA%D9%88%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-%D8%A7%D8%B2-%D8%AC%D9%86%D8%B3-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%A8%D8%A7-3-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%DA%A9%D9%85-%D8%AC%D8%A7-%D9%86%D9%88%D8%B4%D8%A7%D8%A8%D9%87-%D8%B3%D8%A7%D8%B2-%D9%88-%D8%AC%D9%88%D8%B4%D8%A7%D9%86%D9%86%D8%AF%D9%87-%D8%B2%DB%8C%D8%A8%D8%A7-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%84%D8%B0%D8%AA-%D8%A8%D8%B1%D8%AF%D9%86-%D8%A7%D8%B2-%D8%B7%D8%B9%D9%85%DB%8C-%D8%AF%D9%84%DA%86%D8%B3%D8%A8-%D8%AA%D9%86%D9%87%D8%A7-%D8%A8%D8%A7-%D9%84%D9%85%D8%B3-%DB%8C%DA%A9-%D8%AF%DA%A9%D9%85%D9%87-%D8%B1%D9%86%DA%AF-%DA%AF%D8%AF%D8%A7%D8%B2%D9%87-%D8%A7%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.107Z"
+    "observedAt": "2026-09-04T17:30:39.409Z"
   },
   {
     "id": "torobshop-kids-toys-e0d95c7bfcafe827",
@@ -5469,43 +5379,97 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.107Z"
+    "observedAt": "2026-09-04T17:30:39.409Z"
   },
   {
-    "id": "torobshop-kids-toys-eb3d93fc719b9727",
-    "productId": "torobshop-eb3d93fc719b9727",
-    "name": "دستگاه وکیوم و ظروف وکیوم زولینگ آلمان ZWILLING در 9 قطعه 2 کاسه استیل با 2 درب وکیوم (18-24 سانتی متر) - 4 عدد کیسه - پمپ",
+    "id": "torobshop-kids-toys-d68b8e3ac997acb1",
+    "productId": "torobshop-d68b8e3ac997acb1",
+    "name": "ماهیتابه دو دسته فیسلر آلمان Fissler Original-Profi Collection (سایز ۲۸ سانتی‌متر)",
     "brand": "",
-    "model": "دستگاه وکیوم و ظروف وکیوم زولینگ آلمان ZWILLING در 9 قطعه 2 کاسه استیل با 2 درب وکیوم (18-24 سانتی متر) - 4 عدد کیسه - پمپ",
+    "model": "ماهیتابه دو دسته فیسلر آلمان Fissler Original-Profi Collection (سایز ۲۸ سانتی‌متر)",
     "category": "kids-toys",
     "subcategory": "عروسک",
-    "price": 34510000,
+    "price": 46822000,
     "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%AA-%D9%BE%D8%A7%DB%8C%D9%87-%D9%88%DA%A9%DB%8C%D9%88%D9%85-ZWILLING-9-%D9%82%D8%B7%D8%B9%D9%87-2-%DA%A9%D8%A7%D8%B3%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%A8%D8%A7-2-%D8%AF%D8%B1%D8%A8-%D9%88%DA%A9%DB%8C%D9%88%D9%85-18-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-4-%D8%B9%D8%AF%D8%AF-%DA%A9%DB%8C%D8%B3%D9%87-%D9%BE%D9%85%D9%BE",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%A7%D9%88%D8%B1%D8%AC%DB%8C%D9%86%D8%A7%D9%84-%D9%BE%D8%B1%D9%88%D9%81%DB%8C-%DA%A9%D8%A7%D9%84%DA%A9%D8%B4%D9%86-%D8%B3%D8%A7%DB%8C%D8%B2-%DB%B2%DB%B8-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%DB%B1%DB%B8-%DB%B1%DB%B0-%D8%B3%D8%B7%D8%AD-%D9%BE%D8%AE%D8%AA-%D9%88-%D9%BE%D8%B2-%D9%86%D9%88%D9%88%DA%AF%D8%B1%DB%8C%D9%84-%D9%BE%D8%A7%DB%8C%D9%87-%D8%AA%D9%85%D8%A7%D9%85-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%DA%A9%D9%88%DA%A9-%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1-%D9%85%D8%AF%D9%84-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%DB%B2%DB%B8-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.107Z"
+    "observedAt": "2026-09-04T17:30:39.409Z"
   },
   {
-    "id": "torobshop-kids-toys-9d8fbc8c7f0b6991",
-    "productId": "torobshop-9d8fbc8c7f0b6991",
-    "name": "قیچی خیاطی کلاسیک زولینگ آلمان ZWILLING Superfection، قیچی پارچه، 21 سانتی متر، استیل ضد زنگ مخصوص، ساخت آلمان، مشکی",
+    "id": "torobshop-kids-toys-05c540b60ea3624b",
+    "productId": "torobshop-05c540b60ea3624b",
+    "name": "ماهیتابه استیل ضد زنگ فیسلر سانفرانسیسکو، 16 سانتی‌متر (1.2 لیتر) با درب شیشه‌ای - استیل ضد زنگ 18/10، پایه سوپرترمیک، پیمانه، لبه ریختن، سازگار با القایی",
     "brand": "",
-    "model": "قیچی خیاطی کلاسیک زولینگ آلمان ZWILLING Superfection، قیچی پارچه، 21 سانتی متر، استیل ضد زنگ مخصوص، ساخت آلمان، مشکی",
+    "model": "ماهیتابه استیل ضد زنگ فیسلر سانفرانسیسکو، 16 سانتی‌متر (1.2 لیتر) با درب شیشه‌ای - استیل ضد زنگ 18/10، پایه سوپرترمیک، پیمانه، لبه ریختن، سازگار با القایی",
     "category": "kids-toys",
     "subcategory": "عروسک",
-    "price": 15226000,
+    "price": 18778000,
     "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%82%DB%8C%DA%86%DB%8C-%D8%AE%DB%8C%D8%A7%D8%B7%DB%8C-%DA%A9%D9%84%D8%A7%D8%B3%DB%8C%DA%A9-ZWILLING-Superfection-%D9%82%DB%8C%DA%86%DB%8C-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-21-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%B4%DA%A9%DB%8C",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%B3%D8%A7%D9%86%D9%81%D8%B1%D8%A7%D9%86%D8%B3%DB%8C%D8%B3%DA%A9%D9%88-16-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-1-2-%D9%84%DB%8C%D8%AA%D8%B1-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-18-10-%D9%BE%D8%A7%DB%8C%D9%87-%D8%B3%D9%88%D9%BE%D8%B1%D8%AA%D8%B1%D9%85%DB%8C%DA%A9-%D9%BE%DB%8C%D9%85%D8%A7%D9%86%D9%87-%D9%84%D8%A8%D9%87-%D8%B1%DB%8C%D8%AE%D8%AA%D9%86-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.107Z"
+    "observedAt": "2026-09-04T17:30:39.409Z"
+  },
+  {
+    "id": "torobshop-kids-toys-40f09e3a04b68146",
+    "productId": "torobshop-40f09e3a04b68146",
+    "name": "سودا ساز آب گازدار ساز وی ام اف آلمان WMF Element One دستگاه حباب ساز تمام اتوماتیک",
+    "brand": "",
+    "model": "سودا ساز آب گازدار ساز وی ام اف آلمان WMF Element One دستگاه حباب ساز تمام اتوماتیک",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 54084000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%AC%D9%88%D8%B4%D8%A7%D9%86%D9%86%D8%AF%D9%87-%D8%A2%D8%A8-WMF-Element-One-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%AD%D8%A8%D8%A7%D8%A8-%D8%B3%D8%A7%D8%B2-%D8%AA%D9%85%D8%A7%D9%85-%D8%A7%D8%AA%D9%88%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-%D8%A7%D8%B2-%D8%AC%D9%86%D8%B3-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%A8%D8%A7-3-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%DA%A9%D9%85-%D8%AC%D8%A7-%D9%86%D9%88%D8%B4%D8%A7%D8%A8%D9%87-%D8%B3%D8%A7%D8%B2-%D9%88-%D8%AC%D9%88%D8%B4%D8%A7%D9%86%D9%86%D8%AF%D9%87-%D8%B2%DB%8C%D8%A8%D8%A7-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%84%D8%B0%D8%AA-%D8%A8%D8%B1%D8%AF%D9%86-%D8%A7%D8%B2-%D8%B7%D8%B9%D9%85%DB%8C-%D8%AF%D9%84%DA%86%D8%B3%D8%A8-%D8%AA%D9%86%D9%87%D8%A7-%D8%A8%D8%A7-%D9%84%D9%85%D8%B3-%DB%8C%DA%A9-%D8%AF%DA%A9%D9%85%D9%87-%D8%B1%D9%86%DA%AF-%DA%AF%D8%AF%D8%A7%D8%B2%D9%87-%D8%A7%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.409Z"
+  },
+  {
+    "id": "torobshop-kids-toys-f8b7784f8ba04a47",
+    "productId": "torobshop-f8b7784f8ba04a47",
+    "name": "سودا ساز آب گازدار ساز وی ام اف آلمان WMF Element One Water دستگاه حباب ساز تمام اتوماتیک آبی",
+    "brand": "",
+    "model": "سودا ساز آب گازدار ساز وی ام اف آلمان WMF Element One Water دستگاه حباب ساز تمام اتوماتیک آبی",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 54084000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%DA%AF%D8%A7%D8%B2%D8%AF%D8%A7%D8%B1-%D8%A2%D8%A8-WMF-Element-One-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%AD%D8%A8%D8%A7%D8%A8-%D8%B3%D8%A7%D8%B2-%D8%AA%D9%85%D8%A7%D9%85-%D8%A7%D8%AA%D9%88%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-%D8%A7%D8%B2-%D8%AC%D9%86%D8%B3-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%A8%D8%A7-3-%D8%B3%D8%B7%D8%AD-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%DA%A9%D9%85-%D8%AC%D8%A7-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%86%D9%88%D8%B4%D8%A7%D8%A8%D9%87-%D8%B3%D8%A7%D8%B2-%D8%B2%DB%8C%D8%A8%D8%A7-%D9%88-%DA%AF%D8%A7%D8%B2%D8%AF%D8%A7%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%84%D8%B0%D8%AA-%D8%A8%D8%B1%D8%AF%D9%86-%D8%A7%D8%B2-%D9%86%D9%88%D8%B4%DB%8C%D8%AF%D9%86%DB%8C-%D8%B1%D9%86%DA%AF-%D8%AC%D8%B1%DB%8C%D8%A7%D9%86-%DB%8C%D8%AE",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.409Z"
+  },
+  {
+    "id": "torobshop-kids-toys-c8ae91ddddbffeeb",
+    "productId": "torobshop-c8ae91ddddbffeeb",
+    "name": "ماهیتابه درب دار کباب‌ پز فیسلر آلمان Fissler Edelstahl (8.8 لیتر - قطر 38 سانتی‌متر) ظرف کاسرول بیضی بزرگ، با درب شیشه‌ای",
+    "brand": "",
+    "model": "ماهیتابه درب دار کباب‌ پز فیسلر آلمان Fissler Edelstahl (8.8 لیتر - قطر 38 سانتی‌متر) ظرف کاسرول بیضی بزرگ، با درب شیشه‌ای",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 50553000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1%D8%A8-%D8%AF%D8%A7%D8%B1-%DA%A9%D8%A8%D8%A7%D8%A8-%D9%BE%D8%B2-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-Fissler-Edelstahl-8-8-%D9%84%DB%8C%D8%AA%D8%B1-%D9%82%D8%B7%D8%B1-38-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%B8%D8%B1%D9%81-%DA%A9%D8%A7%D8%B3%D8%B1%D9%88%D9%84-%D8%A8%DB%8C%D8%B6%DB%8C-%D8%A8%D8%B2%D8%B1%DA%AF-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.409Z"
   },
   {
     "id": "torobshop-kids-toys-0e4d04ef83a810db",
@@ -5523,25 +5487,43 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.107Z"
+    "observedAt": "2026-09-04T17:30:39.409Z"
   },
   {
-    "id": "torobshop-kids-toys-2be1976c83ad17a1",
-    "productId": "torobshop-2be1976c83ad17a1",
-    "name": "ماهیتابه استیل ۲۴ سانت فیسلر آلمان Fissler Original-Profi Collection",
+    "id": "torobshop-kids-toys-eb3d93fc719b9727",
+    "productId": "torobshop-eb3d93fc719b9727",
+    "name": "دستگاه وکیوم و ظروف وکیوم زولینگ آلمان ZWILLING در 9 قطعه 2 کاسه استیل با 2 درب وکیوم (18-24 سانتی متر) - 4 عدد کیسه - پمپ",
     "brand": "",
-    "model": "ماهیتابه استیل ۲۴ سانت فیسلر آلمان Fissler Original-Profi Collection",
+    "model": "دستگاه وکیوم و ظروف وکیوم زولینگ آلمان ZWILLING در 9 قطعه 2 کاسه استیل با 2 درب وکیوم (18-24 سانتی متر) - 4 عدد کیسه - پمپ",
     "category": "kids-toys",
     "subcategory": "عروسک",
-    "price": 38746000,
+    "price": 34510000,
     "currency": "IRT",
     "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%DB%B2%DB%B4-%D8%B3%D8%A7%D9%86%D8%AA-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-Fissler-Original-Profi-Collection",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%AA-%D9%BE%D8%A7%DB%8C%D9%87-%D9%88%DA%A9%DB%8C%D9%88%D9%85-ZWILLING-9-%D9%82%D8%B7%D8%B9%D9%87-2-%DA%A9%D8%A7%D8%B3%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%A8%D8%A7-2-%D8%AF%D8%B1%D8%A8-%D9%88%DA%A9%DB%8C%D9%88%D9%85-18-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-4-%D8%B9%D8%AF%D8%AF-%DA%A9%DB%8C%D8%B3%D9%87-%D9%BE%D9%85%D9%BE",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.107Z"
+    "observedAt": "2026-09-04T17:30:39.409Z"
+  },
+  {
+    "id": "torobshop-kids-toys-9d8fbc8c7f0b6991",
+    "productId": "torobshop-9d8fbc8c7f0b6991",
+    "name": "قیچی خیاطی کلاسیک زولینگ آلمان ZWILLING Superfection، قیچی پارچه، 21 سانتی متر، استیل ضد زنگ مخصوص، ساخت آلمان، مشکی",
+    "brand": "",
+    "model": "قیچی خیاطی کلاسیک زولینگ آلمان ZWILLING Superfection، قیچی پارچه، 21 سانتی متر، استیل ضد زنگ مخصوص، ساخت آلمان، مشکی",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 15226000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%82%DB%8C%DA%86%DB%8C-%D8%AE%DB%8C%D8%A7%D8%B7%DB%8C-%DA%A9%D9%84%D8%A7%D8%B3%DB%8C%DA%A9-ZWILLING-Superfection-%D9%82%DB%8C%DA%86%DB%8C-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-21-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.409Z"
   },
   {
     "id": "torobshop-kids-toys-b0b661c9d6dfca29",
@@ -5559,25 +5541,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.107Z"
-  },
-  {
-    "id": "torobshop-kids-toys-1e0602d76b0e257a",
-    "productId": "torobshop-1e0602d76b0e257a",
-    "name": "سرویس قاشق و چنگال وی ام اف آلمان WMF Premiere cutlery (12 نفره، 66 پارچه، 60 پارچه)",
-    "brand": "",
-    "model": "سرویس قاشق و چنگال وی ام اف آلمان WMF Premiere cutlery (12 نفره، 66 پارچه، 60 پارچه)",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 183645000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%DA%A9%D8%A7%D8%B1%D8%AF-%D9%88-%DA%86%D9%86%DA%AF%D8%A7%D9%84-WMF-Premiere-12-%D9%86%D9%81%D8%B1%D9%87-66-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-60-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D8%A8%D8%A7-%DA%A9%D8%A7%D8%B1%D8%AF-%D9%88-%DA%86%D9%86%DA%AF%D8%A7%D9%84-%D8%AA%DB%8C%D8%BA%D9%87-%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-Cromargan-Protect-%D8%AC%D9%84%D8%A7-%D8%AF%D8%A7%D8%AF%D9%87-%D8%B4%D8%AF%D9%87-%D8%A8%D8%B1%D8%A7%D9%82-%D8%B6%D8%AF-%D8%AE%D8%B4-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.107Z"
+    "observedAt": "2026-09-04T17:30:39.409Z"
   },
   {
     "id": "torobshop-kids-toys-412e480ec7918302",
@@ -5595,7 +5559,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.107Z"
+    "observedAt": "2026-09-04T17:30:39.409Z"
   },
   {
     "id": "torobshop-kids-toys-d39a2f5ac6cd9a7f",
@@ -5613,7 +5577,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.107Z"
+    "observedAt": "2026-09-04T17:30:39.409Z"
   },
   {
     "id": "torobshop-kids-toys-aa2dfdb88af5c975",
@@ -5631,7 +5595,43 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.107Z"
+    "observedAt": "2026-09-04T17:30:39.409Z"
+  },
+  {
+    "id": "torobshop-kids-toys-2be1976c83ad17a1",
+    "productId": "torobshop-2be1976c83ad17a1",
+    "name": "ماهیتابه استیل ۲۴ سانت فیسلر آلمان Fissler Original-Profi Collection",
+    "brand": "",
+    "model": "ماهیتابه استیل ۲۴ سانت فیسلر آلمان Fissler Original-Profi Collection",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 38746000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%DB%B2%DB%B4-%D8%B3%D8%A7%D9%86%D8%AA-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-Fissler-Original-Profi-Collection",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.409Z"
+  },
+  {
+    "id": "torobshop-kids-toys-1e0602d76b0e257a",
+    "productId": "torobshop-1e0602d76b0e257a",
+    "name": "سرویس قاشق و چنگال وی ام اف آلمان WMF Premiere cutlery (12 نفره، 66 پارچه، 60 پارچه)",
+    "brand": "",
+    "model": "سرویس قاشق و چنگال وی ام اف آلمان WMF Premiere cutlery (12 نفره، 66 پارچه، 60 پارچه)",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 183645000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%DA%A9%D8%A7%D8%B1%D8%AF-%D9%88-%DA%86%D9%86%DA%AF%D8%A7%D9%84-WMF-Premiere-12-%D9%86%D9%81%D8%B1%D9%87-66-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-60-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D8%A8%D8%A7-%DA%A9%D8%A7%D8%B1%D8%AF-%D9%88-%DA%86%D9%86%DA%AF%D8%A7%D9%84-%D8%AA%DB%8C%D8%BA%D9%87-%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-Cromargan-Protect-%D8%AC%D9%84%D8%A7-%D8%AF%D8%A7%D8%AF%D9%87-%D8%B4%D8%AF%D9%87-%D8%A8%D8%B1%D8%A7%D9%82-%D8%B6%D8%AF-%D8%AE%D8%B4-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.409Z"
   },
   {
     "id": "torobshop-kids-toys-9087741222a89b21",
@@ -5649,7 +5649,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.107Z"
+    "observedAt": "2026-09-04T17:30:39.409Z"
   },
   {
     "id": "torobshop-kids-toys-c4580b999e737ac3",
@@ -5667,43 +5667,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.107Z"
-  },
-  {
-    "id": "torobshop-kids-toys-3644b82267dd5165",
-    "productId": "torobshop-3644b82267dd5165",
-    "name": "بلوک چاقوی دوقلوی گورمت ZWILLING، 9 تکه، بلوک چوبی، مجموعه چاقو، میله تیزکن، قیچی، استیل مخصوص ضد زنگ، 9 تکه دوقلوی گورمت مشکی",
-    "brand": "",
-    "model": "بلوک چاقوی دوقلوی گورمت ZWILLING، 9 تکه، بلوک چوبی، مجموعه چاقو، میله تیزکن، قیچی، استیل مخصوص ضد زنگ، 9 تکه دوقلوی گورمت مشکی",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 53543000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%A8%D9%84%D9%88%DA%A9-%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%AF%D9%88%D9%82%D9%84%D9%88%DB%8C-%DA%AF%D9%88%D8%B1%D9%85%D8%AA-ZWILLING-9-%D8%AA%DA%A9%D9%87-%D8%A8%D9%84%D9%88%DA%A9-%DA%86%D9%88%D8%A8%DB%8C-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%DA%86%D8%A7%D9%82%D9%88-%D9%85%DB%8C%D9%84%D9%87-%D8%AA%DB%8C%D8%B2%DA%A9%D9%86-%D9%82%DB%8C%DA%86%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-9-%D8%AA%DA%A9%D9%87-%D8%AF%D9%88%D9%82%D9%84%D9%88%DB%8C-%DA%AF%D9%88%D8%B1%D9%85%D8%AA-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.107Z"
-  },
-  {
-    "id": "torobshop-kids-toys-1fd1146f6f750aa9",
-    "productId": "torobshop-1fd1146f6f750aa9",
-    "name": "سرویس قاشق و چنگال وی ام اف آلمان WMF Tavira برای 12 نفر، 60 پارچه",
-    "brand": "",
-    "model": "سرویس قاشق و چنگال وی ام اف آلمان WMF Tavira برای 12 نفر، 60 پارچه",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 65276000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%DA%A9%D8%A7%D8%B1%D8%AF-%D9%88-%DA%86%D9%86%DA%AF%D8%A7%D9%84-WMF-Tavira-%D8%A8%D8%B1%D8%A7%DB%8C-12-%D9%86%D9%81%D8%B1-60-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-12-%DA%86%D9%86%DA%AF%D8%A7%D9%84-%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%BA%D8%B0%D8%A7%D8%AE%D9%88%D8%B1%DB%8C-%D9%82%D8%A7%D8%B4%D9%82-%DA%86%D9%86%DA%AF%D8%A7%D9%84-%DA%A9%DB%8C%DA%A9-%D9%82%D8%A7%D8%B4%D9%82-%DA%86%D8%A7%DB%8C-%D9%82%D9%87%D9%88%D9%87-%DA%86%D8%A7%D9%82%D9%88%D9%87%D8%A7%DB%8C-%D9%85%D9%88%D9%86%D9%88%D8%A8%D9%84%D9%88%DA%A9-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-Cromargan-%D8%A8%D8%B1%D8%A7%D9%82-%D8%A8%D8%B1%D8%A7%D9%82-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.107Z"
+    "observedAt": "2026-09-04T17:30:39.409Z"
   },
   {
     "id": "torobshop-kids-toys-280503308950a13c",
@@ -5721,43 +5685,43 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.107Z"
+    "observedAt": "2026-09-04T17:30:39.409Z"
   },
   {
-    "id": "torobshop-kids-toys-d99c3943bcec9400",
-    "productId": "torobshop-d99c3943bcec9400",
-    "name": "چاقوی خود تیز شونده چهار ستاره ZWILLING با مجموعه چاقوی 7 تکه، استیل ضد زنگ، ساخت آلمان، مشکی چهار ستاره مشکی",
+    "id": "torobshop-kids-toys-3644b82267dd5165",
+    "productId": "torobshop-3644b82267dd5165",
+    "name": "بلوک چاقوی دوقلوی گورمت ZWILLING، 9 تکه، بلوک چوبی، مجموعه چاقو، میله تیزکن، قیچی، استیل مخصوص ضد زنگ، 9 تکه دوقلوی گورمت مشکی",
     "brand": "",
-    "model": "چاقوی خود تیز شونده چهار ستاره ZWILLING با مجموعه چاقوی 7 تکه، استیل ضد زنگ، ساخت آلمان، مشکی چهار ستاره مشکی",
+    "model": "بلوک چاقوی دوقلوی گورمت ZWILLING، 9 تکه، بلوک چوبی، مجموعه چاقو، میله تیزکن، قیچی، استیل مخصوص ضد زنگ، 9 تکه دوقلوی گورمت مشکی",
     "category": "kids-toys",
     "subcategory": "عروسک",
-    "price": 63440000,
+    "price": 53543000,
     "currency": "IRT",
     "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%AE%D9%88%D8%AF-%D8%AA%DB%8C%D8%B2-%D8%B4%D9%88%D9%86%D8%AF%D9%87-%DA%86%D9%87%D8%A7%D8%B1-%D8%B3%D8%AA%D8%A7%D8%B1%D9%87-ZWILLING-%D8%A8%D8%A7-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%DA%86%D8%A7%D9%82%D9%88%DB%8C-7-%D8%AA%DA%A9%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%B4%DA%A9%DB%8C-%DA%86%D9%87%D8%A7%D8%B1-%D8%B3%D8%AA%D8%A7%D8%B1%D9%87-%D9%85%D8%B4%DA%A9%DB%8C",
+    "productUrl": "https://torobshop.com/products/%D8%A8%D9%84%D9%88%DA%A9-%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%AF%D9%88%D9%82%D9%84%D9%88%DB%8C-%DA%AF%D9%88%D8%B1%D9%85%D8%AA-ZWILLING-9-%D8%AA%DA%A9%D9%87-%D8%A8%D9%84%D9%88%DA%A9-%DA%86%D9%88%D8%A8%DB%8C-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%DA%86%D8%A7%D9%82%D9%88-%D9%85%DB%8C%D9%84%D9%87-%D8%AA%DB%8C%D8%B2%DA%A9%D9%86-%D9%82%DB%8C%DA%86%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-9-%D8%AA%DA%A9%D9%87-%D8%AF%D9%88%D9%82%D9%84%D9%88%DB%8C-%DA%AF%D9%88%D8%B1%D9%85%D8%AA-%D9%85%D8%B4%DA%A9%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.107Z"
+    "observedAt": "2026-09-04T17:30:39.409Z"
   },
   {
-    "id": "torobshop-kids-toys-56cac7936a06e3f1",
-    "productId": "torobshop-56cac7936a06e3f1",
-    "name": "اتو بخار مخزن دار تفال فرانسه مدل TEF SV8027 ws/beige",
+    "id": "torobshop-kids-toys-1fd1146f6f750aa9",
+    "productId": "torobshop-1fd1146f6f750aa9",
+    "name": "سرویس قاشق و چنگال وی ام اف آلمان WMF Tavira برای 12 نفر، 60 پارچه",
     "brand": "",
-    "model": "اتو بخار مخزن دار تفال فرانسه مدل TEF SV8027 ws/beige",
+    "model": "سرویس قاشق و چنگال وی ام اف آلمان WMF Tavira برای 12 نفر، 60 پارچه",
     "category": "kids-toys",
     "subcategory": "عروسک",
-    "price": 53035000,
+    "price": 65276000,
     "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%A8%D8%AE%D8%A7%D8%B1%D8%B4%D9%88%DB%8C-%D8%AA%D9%81%D8%A7%D9%84-%D9%85%D8%AF%D9%84-TEF-SV8027-ws-beige",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%DA%A9%D8%A7%D8%B1%D8%AF-%D9%88-%DA%86%D9%86%DA%AF%D8%A7%D9%84-WMF-Tavira-%D8%A8%D8%B1%D8%A7%DB%8C-12-%D9%86%D9%81%D8%B1-60-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-12-%DA%86%D9%86%DA%AF%D8%A7%D9%84-%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%BA%D8%B0%D8%A7%D8%AE%D9%88%D8%B1%DB%8C-%D9%82%D8%A7%D8%B4%D9%82-%DA%86%D9%86%DA%AF%D8%A7%D9%84-%DA%A9%DB%8C%DA%A9-%D9%82%D8%A7%D8%B4%D9%82-%DA%86%D8%A7%DB%8C-%D9%82%D9%87%D9%88%D9%87-%DA%86%D8%A7%D9%82%D9%88%D9%87%D8%A7%DB%8C-%D9%85%D9%88%D9%86%D9%88%D8%A8%D9%84%D9%88%DA%A9-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-Cromargan-%D8%A8%D8%B1%D8%A7%D9%82-%D8%A8%D8%B1%D8%A7%D9%82-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.107Z"
+    "observedAt": "2026-09-04T17:30:39.409Z"
   },
   {
     "id": "torobshop-kids-toys-00bf5776f339768d",
@@ -5775,7 +5739,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.107Z"
+    "observedAt": "2026-09-04T17:30:39.410Z"
   },
   {
     "id": "torobshop-kids-toys-a218f27039422c46",
@@ -5793,7 +5757,43 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.107Z"
+    "observedAt": "2026-09-04T17:30:39.410Z"
+  },
+  {
+    "id": "torobshop-kids-toys-d99c3943bcec9400",
+    "productId": "torobshop-d99c3943bcec9400",
+    "name": "چاقوی خود تیز شونده چهار ستاره ZWILLING با مجموعه چاقوی 7 تکه، استیل ضد زنگ، ساخت آلمان، مشکی چهار ستاره مشکی",
+    "brand": "",
+    "model": "چاقوی خود تیز شونده چهار ستاره ZWILLING با مجموعه چاقوی 7 تکه، استیل ضد زنگ، ساخت آلمان، مشکی چهار ستاره مشکی",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 63440000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%AE%D9%88%D8%AF-%D8%AA%DB%8C%D8%B2-%D8%B4%D9%88%D9%86%D8%AF%D9%87-%DA%86%D9%87%D8%A7%D8%B1-%D8%B3%D8%AA%D8%A7%D8%B1%D9%87-ZWILLING-%D8%A8%D8%A7-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%DA%86%D8%A7%D9%82%D9%88%DB%8C-7-%D8%AA%DA%A9%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%B4%DA%A9%DB%8C-%DA%86%D9%87%D8%A7%D8%B1-%D8%B3%D8%AA%D8%A7%D8%B1%D9%87-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.410Z"
+  },
+  {
+    "id": "torobshop-kids-toys-56cac7936a06e3f1",
+    "productId": "torobshop-56cac7936a06e3f1",
+    "name": "اتو بخار مخزن دار تفال فرانسه مدل TEF SV8027 ws/beige",
+    "brand": "",
+    "model": "اتو بخار مخزن دار تفال فرانسه مدل TEF SV8027 ws/beige",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 53035000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%A8%D8%AE%D8%A7%D8%B1%D8%B4%D9%88%DB%8C-%D8%AA%D9%81%D8%A7%D9%84-%D9%85%D8%AF%D9%84-TEF-SV8027-ws-beige",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.410Z"
   },
   {
     "id": "torobshop-kids-toys-4dd091835a22ff69",
@@ -5811,61 +5811,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.107Z"
-  },
-  {
-    "id": "torobshop-kids-toys-e02164e6665f61ef",
-    "productId": "torobshop-e02164e6665f61ef",
-    "name": "ماهیتابه فیسلر آلمان Fissler Pure Collection/Edelstahl (قطر 24 سانتی‌متر) بدون پوشش، پیمانه داخلی",
-    "brand": "",
-    "model": "ماهیتابه فیسلر آلمان Fissler Pure Collection/Edelstahl (قطر 24 سانتی‌متر) بدون پوشش، پیمانه داخلی",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 35287000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D8%AE%D8%A7%D9%84%D8%B5-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%82%D8%B7%D8%B1-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A8%D8%AF%D9%88%D9%86-%D9%BE%D9%88%D8%B4%D8%B4-%D9%BE%DB%8C%D9%85%D8%A7%D9%86%D9%87-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.107Z"
-  },
-  {
-    "id": "torobshop-kids-toys-f06d188d530004ad",
-    "productId": "torobshop-f06d188d530004ad",
-    "name": "ماهیتابه تفال آنلیمیتد آن، لبه به ارتفاع ۲۸ سانتی‌متر، سازگار با القای حرارتی با پوشش نچسب تیتانیومی ضد خش، سیگنال حرارتی در دمای ایده‌آل سرخ کردن، مناسب برای انواع اجاق گاز، G25906",
-    "brand": "",
-    "model": "ماهیتابه تفال آنلیمیتد آن، لبه به ارتفاع ۲۸ سانتی‌متر، سازگار با القای حرارتی با پوشش نچسب تیتانیومی ضد خش، سیگنال حرارتی در دمای ایده‌آل سرخ کردن، مناسب برای انواع اجاق گاز، G25906",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 21062000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%AA%D9%81%D8%A7%D9%84-%D8%A2%D9%86%D9%84%DB%8C%D9%85%DB%8C%D8%AA%D8%AF-%D8%A2%D9%86-%D9%84%D8%A8%D9%87-%D8%A8%D9%87-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%DB%B2%DB%B8-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C-%D8%AD%D8%B1%D8%A7%D8%B1%D8%AA%DB%8C-%D8%A8%D8%A7-%D9%BE%D9%88%D8%B4%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D8%AA%DB%8C%D8%AA%D8%A7%D9%86%DB%8C%D9%88%D9%85%DB%8C-%D8%B6%D8%AF-%D8%AE%D8%B4-%D8%B3%DB%8C%DA%AF%D9%86%D8%A7%D9%84-%D8%AD%D8%B1%D8%A7%D8%B1%D8%AA%DB%8C-%D8%AF%D8%B1-%D8%AF%D9%85%D8%A7%DB%8C-%D8%A7%DB%8C%D8%AF%D9%87-%D8%A2%D9%84-%D8%B3%D8%B1%D8%AE-%DA%A9%D8%B1%D8%AF%D9%86-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-G25906",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.107Z"
-  },
-  {
-    "id": "torobshop-kids-toys-ace9b88e93544c94",
-    "productId": "torobshop-ace9b88e93544c94",
-    "name": "قیچی چند منظوره زولینگ آلمان ZWILLING، 20 سانتی متر، مناسب برای راست دست ها و چپ دست ها، استیل ضد زنگ، ساخت آلمان، نقره ای",
-    "brand": "",
-    "model": "قیچی چند منظوره زولینگ آلمان ZWILLING، 20 سانتی متر، مناسب برای راست دست ها و چپ دست ها، استیل ضد زنگ، ساخت آلمان، نقره ای",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 26136000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%82%DB%8C%DA%86%DB%8C-%DA%86%D9%86%D8%AF-%D9%85%D9%86%D8%B8%D9%88%D8%B1%D9%87-ZWILLING-20-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D8%A7%D8%B3%D8%AA-%D8%AF%D8%B3%D8%AA-%D9%87%D8%A7-%D9%88-%DA%86%D9%BE-%D8%AF%D8%B3%D8%AA-%D9%87%D8%A7-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.107Z"
+    "observedAt": "2026-09-04T17:30:39.410Z"
   },
   {
     "id": "torobshop-kids-toys-ffbee63b50d31684",
@@ -5883,7 +5829,61 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.107Z"
+    "observedAt": "2026-09-04T17:30:39.410Z"
+  },
+  {
+    "id": "torobshop-kids-toys-e02164e6665f61ef",
+    "productId": "torobshop-e02164e6665f61ef",
+    "name": "ماهیتابه فیسلر آلمان Fissler Pure Collection/Edelstahl (قطر 24 سانتی‌متر) بدون پوشش، پیمانه داخلی",
+    "brand": "",
+    "model": "ماهیتابه فیسلر آلمان Fissler Pure Collection/Edelstahl (قطر 24 سانتی‌متر) بدون پوشش، پیمانه داخلی",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 35287000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D8%AE%D8%A7%D9%84%D8%B5-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%82%D8%B7%D8%B1-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A8%D8%AF%D9%88%D9%86-%D9%BE%D9%88%D8%B4%D8%B4-%D9%BE%DB%8C%D9%85%D8%A7%D9%86%D9%87-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.410Z"
+  },
+  {
+    "id": "torobshop-kids-toys-f06d188d530004ad",
+    "productId": "torobshop-f06d188d530004ad",
+    "name": "ماهیتابه تفال آنلیمیتد آن، لبه به ارتفاع ۲۸ سانتی‌متر، سازگار با القای حرارتی با پوشش نچسب تیتانیومی ضد خش، سیگنال حرارتی در دمای ایده‌آل سرخ کردن، مناسب برای انواع اجاق گاز، G25906",
+    "brand": "",
+    "model": "ماهیتابه تفال آنلیمیتد آن، لبه به ارتفاع ۲۸ سانتی‌متر، سازگار با القای حرارتی با پوشش نچسب تیتانیومی ضد خش، سیگنال حرارتی در دمای ایده‌آل سرخ کردن، مناسب برای انواع اجاق گاز، G25906",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 21062000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%AA%D9%81%D8%A7%D9%84-%D8%A2%D9%86%D9%84%DB%8C%D9%85%DB%8C%D8%AA%D8%AF-%D8%A2%D9%86-%D9%84%D8%A8%D9%87-%D8%A8%D9%87-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%DB%B2%DB%B8-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C-%D8%AD%D8%B1%D8%A7%D8%B1%D8%AA%DB%8C-%D8%A8%D8%A7-%D9%BE%D9%88%D8%B4%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D8%AA%DB%8C%D8%AA%D8%A7%D9%86%DB%8C%D9%88%D9%85%DB%8C-%D8%B6%D8%AF-%D8%AE%D8%B4-%D8%B3%DB%8C%DA%AF%D9%86%D8%A7%D9%84-%D8%AD%D8%B1%D8%A7%D8%B1%D8%AA%DB%8C-%D8%AF%D8%B1-%D8%AF%D9%85%D8%A7%DB%8C-%D8%A7%DB%8C%D8%AF%D9%87-%D8%A2%D9%84-%D8%B3%D8%B1%D8%AE-%DA%A9%D8%B1%D8%AF%D9%86-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-G25906",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.410Z"
+  },
+  {
+    "id": "torobshop-kids-toys-ace9b88e93544c94",
+    "productId": "torobshop-ace9b88e93544c94",
+    "name": "قیچی چند منظوره زولینگ آلمان ZWILLING، 20 سانتی متر، مناسب برای راست دست ها و چپ دست ها، استیل ضد زنگ، ساخت آلمان، نقره ای",
+    "brand": "",
+    "model": "قیچی چند منظوره زولینگ آلمان ZWILLING، 20 سانتی متر، مناسب برای راست دست ها و چپ دست ها، استیل ضد زنگ، ساخت آلمان، نقره ای",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 26136000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%82%DB%8C%DA%86%DB%8C-%DA%86%D9%86%D8%AF-%D9%85%D9%86%D8%B8%D9%88%D8%B1%D9%87-ZWILLING-20-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D8%A7%D8%B3%D8%AA-%D8%AF%D8%B3%D8%AA-%D9%87%D8%A7-%D9%88-%DA%86%D9%BE-%D8%AF%D8%B3%D8%AA-%D9%87%D8%A7-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.410Z"
   },
   {
     "id": "torobshop-kids-toys-97e8accc87d0f8bf",
@@ -5901,25 +5901,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.107Z"
-  },
-  {
-    "id": "torobshop-kids-toys-8a5c15c91c1a9329",
-    "productId": "torobshop-8a5c15c91c1a9329",
-    "name": "سرویس قاشق و چنگال وی ام اف آلمان WMF Sonic Stainless برای 6 نفر 30 پارچه",
-    "brand": "",
-    "model": "سرویس قاشق و چنگال وی ام اف آلمان WMF Sonic Stainless برای 6 نفر 30 پارچه",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 72150000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%DA%A9%D8%A7%D8%B1%D8%AF-%D9%88-%DA%86%D9%86%DA%AF%D8%A7%D9%84-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-WMF-Sonic-%D8%A8%D8%B1%D8%A7%DB%8C-6-%D9%86%D9%81%D8%B1-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%DA%A9%D8%A7%D8%B1%D8%AF-%D9%88-%DA%86%D9%86%DA%AF%D8%A7%D9%84-30-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%AF%D8%B3%D8%AA%D9%87-%D8%AA%D9%88%D8%AE%D8%A7%D9%84%DB%8C-Cromargan-Protect-%D8%AC%D9%84%D8%A7-%D8%AF%D8%A7%D8%AF%D9%87-%D8%B4%D8%AF%D9%87-%D9%85%D9%82%D8%A7%D9%88%D9%85-%D8%AF%D8%B1-%D8%A8%D8%B1%D8%A7%D8%A8%D8%B1-%D8%AE%D8%B1%D8%A7%D8%B4-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.107Z"
+    "observedAt": "2026-09-04T17:30:39.410Z"
   },
   {
     "id": "torobshop-kids-toys-1dfcfd9dee587f60",
@@ -5937,7 +5919,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.107Z"
+    "observedAt": "2026-09-04T17:30:39.410Z"
   },
   {
     "id": "torobshop-kids-toys-7ac6bac20ad12a2d",
@@ -5955,25 +5937,25 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.107Z"
+    "observedAt": "2026-09-04T17:30:39.410Z"
   },
   {
-    "id": "torobshop-kids-toys-b131b88e24438d96",
-    "productId": "torobshop-b131b88e24438d96",
-    "name": "ماهیتابه سرخ کردنی ZWILLING مدل Simplify سایز 24 سانتی‌متر، روکش نچسب سرامیکی، مناسب برای پخت القایی، مناسب برای انواع اجاق گاز، استیل ضد زنگ",
+    "id": "torobshop-kids-toys-8a5c15c91c1a9329",
+    "productId": "torobshop-8a5c15c91c1a9329",
+    "name": "سرویس قاشق و چنگال وی ام اف آلمان WMF Sonic Stainless برای 6 نفر 30 پارچه",
     "brand": "",
-    "model": "ماهیتابه سرخ کردنی ZWILLING مدل Simplify سایز 24 سانتی‌متر، روکش نچسب سرامیکی، مناسب برای پخت القایی، مناسب برای انواع اجاق گاز، استیل ضد زنگ",
+    "model": "سرویس قاشق و چنگال وی ام اف آلمان WMF Sonic Stainless برای 6 نفر 30 پارچه",
     "category": "kids-toys",
     "subcategory": "عروسک",
-    "price": 22584000,
+    "price": 72150000,
     "currency": "IRT",
     "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%AA%D8%A7%D8%A8%D9%87-%D8%B3%D8%B1%D8%AE-%DA%A9%D8%B1%D8%AF%D9%86%DB%8C-ZWILLING-%D9%85%D8%AF%D9%84-Simplify-%D8%B3%D8%A7%DB%8C%D8%B2-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D8%AE%D8%AA-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%DA%A9%D8%A7%D8%B1%D8%AF-%D9%88-%DA%86%D9%86%DA%AF%D8%A7%D9%84-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-WMF-Sonic-%D8%A8%D8%B1%D8%A7%DB%8C-6-%D9%86%D9%81%D8%B1-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%DA%A9%D8%A7%D8%B1%D8%AF-%D9%88-%DA%86%D9%86%DA%AF%D8%A7%D9%84-30-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%AF%D8%B3%D8%AA%D9%87-%D8%AA%D9%88%D8%AE%D8%A7%D9%84%DB%8C-Cromargan-Protect-%D8%AC%D9%84%D8%A7-%D8%AF%D8%A7%D8%AF%D9%87-%D8%B4%D8%AF%D9%87-%D9%85%D9%82%D8%A7%D9%88%D9%85-%D8%AF%D8%B1-%D8%A8%D8%B1%D8%A7%D8%A8%D8%B1-%D8%AE%D8%B1%D8%A7%D8%B4-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.107Z"
+    "observedAt": "2026-09-04T17:30:39.410Z"
   },
   {
     "id": "torobshop-kids-toys-f4ac0f14bd21c6cf",
@@ -5991,25 +5973,25 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.107Z"
+    "observedAt": "2026-09-04T17:30:39.410Z"
   },
   {
-    "id": "torobshop-kids-toys-4bffdb79ac43fe15",
-    "productId": "torobshop-4bffdb79ac43fe15",
-    "name": "فویل‌بر بطری شراب وی ام اف آلمان WMF Vino مدل ۶.۵ سانتی‌متر فلزی",
+    "id": "torobshop-kids-toys-b131b88e24438d96",
+    "productId": "torobshop-b131b88e24438d96",
+    "name": "ماهیتابه سرخ کردنی ZWILLING مدل Simplify سایز 24 سانتی‌متر، روکش نچسب سرامیکی، مناسب برای پخت القایی، مناسب برای انواع اجاق گاز، استیل ضد زنگ",
     "brand": "",
-    "model": "فویل‌بر بطری شراب وی ام اف آلمان WMF Vino مدل ۶.۵ سانتی‌متر فلزی",
+    "model": "ماهیتابه سرخ کردنی ZWILLING مدل Simplify سایز 24 سانتی‌متر، روکش نچسب سرامیکی، مناسب برای پخت القایی، مناسب برای انواع اجاق گاز، استیل ضد زنگ",
     "category": "kids-toys",
     "subcategory": "عروسک",
-    "price": 13449000,
+    "price": 22584000,
     "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%DA%A9%D8%A7%D8%AA%D8%B1-%D9%81%D9%88%DB%8C%D9%84-%D9%88%DB%8C%D9%86%D9%88-WMF-6-5-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C-%D9%81%D9%84%D8%B2%DB%8C-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%DA%A9%D9%BE%D8%B3%D9%88%D9%84-%DA%A9%D8%A7%D8%AA%D8%B1-%D8%A8%D8%B7%D8%B1%DB%8C-%D8%B4%D8%B1%D8%A7%D8%A8-%DA%A9%D8%A7%D8%AA%D8%B1-%D8%B4%D8%B1%D8%A7%D8%A8-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D8%B4%D8%B1%D8%A7%D8%A8",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AA%D8%A7%D8%A8%D9%87-%D8%B3%D8%B1%D8%AE-%DA%A9%D8%B1%D8%AF%D9%86%DB%8C-ZWILLING-%D9%85%D8%AF%D9%84-Simplify-%D8%B3%D8%A7%DB%8C%D8%B2-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D8%AE%D8%AA-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.107Z"
+    "observedAt": "2026-09-04T17:30:39.410Z"
   },
   {
     "id": "torobshop-kids-toys-fda1fe8cf4de5c5d",
@@ -6027,25 +6009,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.107Z"
-  },
-  {
-    "id": "torobshop-kids-toys-ef0157b54bf022f6",
-    "productId": "torobshop-ef0157b54bf022f6",
-    "name": "قیچی مرغ زولینگ آلمان ZWILLING، تیغه 12 سانتی‌متری، استیل ضد زنگ، نقره‌ای",
-    "brand": "",
-    "model": "قیچی مرغ زولینگ آلمان ZWILLING، تیغه 12 سانتی‌متری، استیل ضد زنگ، نقره‌ای",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 26898000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%82%DB%8C%DA%86%DB%8C-%D9%85%D8%B1%D8%BA%D8%AF%D8%A7%D8%B1%DB%8C-ZWILLING-%D8%AA%DB%8C%D8%BA%D9%87-12-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.107Z"
+    "observedAt": "2026-09-04T17:30:39.410Z"
   },
   {
     "id": "torobshop-kids-toys-736fe4049676a61e",
@@ -6063,43 +6027,43 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.107Z"
+    "observedAt": "2026-09-04T17:30:39.410Z"
   },
   {
-    "id": "torobshop-kids-toys-2f0597d05addbba1",
-    "productId": "torobshop-2f0597d05addbba1",
-    "name": "سودا ساز آب گازدار ساز وی ام اف آلمان WMF Element One دستگاه حباب ساز تمام اتوماتیک نقره ای",
+    "id": "torobshop-kids-toys-4bffdb79ac43fe15",
+    "productId": "torobshop-4bffdb79ac43fe15",
+    "name": "فویل‌بر بطری شراب وی ام اف آلمان WMF Vino مدل ۶.۵ سانتی‌متر فلزی",
     "brand": "",
-    "model": "سودا ساز آب گازدار ساز وی ام اف آلمان WMF Element One دستگاه حباب ساز تمام اتوماتیک نقره ای",
+    "model": "فویل‌بر بطری شراب وی ام اف آلمان WMF Vino مدل ۶.۵ سانتی‌متر فلزی",
     "category": "kids-toys",
     "subcategory": "عروسک",
-    "price": 54084000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%DA%AF%D8%A7%D8%B2%D8%AF%D8%A7%D8%B1-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%A2%D8%A8-WMF-Element-One-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%AD%D8%A8%D8%A7%D8%A8-%D8%B3%D8%A7%D8%B2-%D8%AA%D9%85%D8%A7%D9%85-%D8%A7%D8%AA%D9%88%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-%D8%A7%D8%B2-%D8%AC%D9%86%D8%B3-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%A8%D8%A7-3-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%DA%A9%D9%85-%D8%AC%D8%A7-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%86%D9%88%D8%B4%D8%A7%D8%A8%D9%87-%D8%B3%D8%A7%D8%B2-%D8%B2%DB%8C%D8%A8%D8%A7-%D9%88-%DA%AF%D8%A7%D8%B2%D8%AF%D8%A7%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%84%D8%B0%D8%AA-%D8%A8%D8%B1%D8%AF%D9%86-%D8%A7%D8%B2-%D8%B7%D8%B9%D9%85-%DA%AF%D8%A7%D8%B2%D8%AF%D8%A7%D8%B1-%D8%AA%D9%86%D9%87%D8%A7-%D8%A8%D8%A7-%D9%84%D9%85%D8%B3-%DB%8C%DA%A9-%D8%AF%DA%A9%D9%85%D9%87-%D8%B1%D9%86%DA%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.107Z"
-  },
-  {
-    "id": "torobshop-kids-toys-22200afc1cbeec02",
-    "productId": "torobshop-22200afc1cbeec02",
-    "name": "آسیاب نمک و فلفل استیل وی ام اف آلمان مشکی مدل WMF Signature Pro",
-    "brand": "",
-    "model": "آسیاب نمک و فلفل استیل وی ام اف آلمان مشکی مدل WMF Signature Pro",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 23282000,
+    "price": 13449000,
     "currency": "IRT",
     "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%A2%D8%B3%DB%8C%D8%A7%D8%A8-%D9%86%D9%85%DA%A9-%D9%88-%D9%81%D9%84%D9%81%D9%84-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D9%88%DB%8C-%D8%A7%D9%85-%D8%A7%D9%81-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%B4%DA%A9%DB%8C-%D9%85%D8%AF%D9%84-WMF-Signature-Pro",
+    "productUrl": "https://torobshop.com/products/%DA%A9%D8%A7%D8%AA%D8%B1-%D9%81%D9%88%DB%8C%D9%84-%D9%88%DB%8C%D9%86%D9%88-WMF-6-5-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C-%D9%81%D9%84%D8%B2%DB%8C-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%DA%A9%D9%BE%D8%B3%D9%88%D9%84-%DA%A9%D8%A7%D8%AA%D8%B1-%D8%A8%D8%B7%D8%B1%DB%8C-%D8%B4%D8%B1%D8%A7%D8%A8-%DA%A9%D8%A7%D8%AA%D8%B1-%D8%B4%D8%B1%D8%A7%D8%A8-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D8%B4%D8%B1%D8%A7%D8%A8",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.107Z"
+    "observedAt": "2026-09-04T17:30:39.410Z"
+  },
+  {
+    "id": "torobshop-kids-toys-ef0157b54bf022f6",
+    "productId": "torobshop-ef0157b54bf022f6",
+    "name": "قیچی مرغ زولینگ آلمان ZWILLING، تیغه 12 سانتی‌متری، استیل ضد زنگ، نقره‌ای",
+    "brand": "",
+    "model": "قیچی مرغ زولینگ آلمان ZWILLING، تیغه 12 سانتی‌متری، استیل ضد زنگ، نقره‌ای",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 26898000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%82%DB%8C%DA%86%DB%8C-%D9%85%D8%B1%D8%BA%D8%AF%D8%A7%D8%B1%DB%8C-ZWILLING-%D8%AA%DB%8C%D8%BA%D9%87-12-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.410Z"
   },
   {
     "id": "torobshop-kids-toys-f4e7843bb5d4eb60",
@@ -6117,25 +6081,43 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.107Z"
+    "observedAt": "2026-09-04T17:30:39.410Z"
   },
   {
-    "id": "torobshop-kids-toys-f26fbc6e8dbee708",
-    "productId": "torobshop-f26fbc6e8dbee708",
-    "name": "قیچی چند منظوره زولینگ آلمان ZWILLING Twin L، 20 سانتی متر، قیچی آشپزخانه برای کاربران راست دست و چپ دست، استیل ضد زنگ، مشکی",
+    "id": "torobshop-kids-toys-2f0597d05addbba1",
+    "productId": "torobshop-2f0597d05addbba1",
+    "name": "سودا ساز آب گازدار ساز وی ام اف آلمان WMF Element One دستگاه حباب ساز تمام اتوماتیک نقره ای",
     "brand": "",
-    "model": "قیچی چند منظوره زولینگ آلمان ZWILLING Twin L، 20 سانتی متر، قیچی آشپزخانه برای کاربران راست دست و چپ دست، استیل ضد زنگ، مشکی",
+    "model": "سودا ساز آب گازدار ساز وی ام اف آلمان WMF Element One دستگاه حباب ساز تمام اتوماتیک نقره ای",
     "category": "kids-toys",
     "subcategory": "عروسک",
-    "price": 14717000,
+    "price": 54084000,
     "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%82%DB%8C%DA%86%DB%8C-%DA%86%D9%86%D8%AF-%D9%85%D9%86%D8%B8%D9%88%D8%B1%D9%87-ZWILLING-Twin-L-20-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%82%DB%8C%DA%86%DB%8C-%D8%A2%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%A7%D9%86-%D8%B1%D8%A7%D8%B3%D8%AA-%D8%AF%D8%B3%D8%AA-%D9%88-%DA%86%D9%BE-%D8%AF%D8%B3%D8%AA-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D8%B4%DA%A9%DB%8C",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%DA%AF%D8%A7%D8%B2%D8%AF%D8%A7%D8%B1-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%A2%D8%A8-WMF-Element-One-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%AD%D8%A8%D8%A7%D8%A8-%D8%B3%D8%A7%D8%B2-%D8%AA%D9%85%D8%A7%D9%85-%D8%A7%D8%AA%D9%88%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-%D8%A7%D8%B2-%D8%AC%D9%86%D8%B3-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%A8%D8%A7-3-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%DA%A9%D9%85-%D8%AC%D8%A7-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%86%D9%88%D8%B4%D8%A7%D8%A8%D9%87-%D8%B3%D8%A7%D8%B2-%D8%B2%DB%8C%D8%A8%D8%A7-%D9%88-%DA%AF%D8%A7%D8%B2%D8%AF%D8%A7%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%84%D8%B0%D8%AA-%D8%A8%D8%B1%D8%AF%D9%86-%D8%A7%D8%B2-%D8%B7%D8%B9%D9%85-%DA%AF%D8%A7%D8%B2%D8%AF%D8%A7%D8%B1-%D8%AA%D9%86%D9%87%D8%A7-%D8%A8%D8%A7-%D9%84%D9%85%D8%B3-%DB%8C%DA%A9-%D8%AF%DA%A9%D9%85%D9%87-%D8%B1%D9%86%DA%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.108Z"
+    "observedAt": "2026-09-04T17:30:39.410Z"
+  },
+  {
+    "id": "torobshop-kids-toys-22200afc1cbeec02",
+    "productId": "torobshop-22200afc1cbeec02",
+    "name": "آسیاب نمک و فلفل استیل وی ام اف آلمان مشکی مدل WMF Signature Pro",
+    "brand": "",
+    "model": "آسیاب نمک و فلفل استیل وی ام اف آلمان مشکی مدل WMF Signature Pro",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 23282000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%A2%D8%B3%DB%8C%D8%A7%D8%A8-%D9%86%D9%85%DA%A9-%D9%88-%D9%81%D9%84%D9%81%D9%84-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D9%88%DB%8C-%D8%A7%D9%85-%D8%A7%D9%81-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%B4%DA%A9%DB%8C-%D9%85%D8%AF%D9%84-WMF-Signature-Pro",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.410Z"
   },
   {
     "id": "torobshop-kids-toys-595f1b954d0611bd",
@@ -6153,25 +6135,25 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.108Z"
+    "observedAt": "2026-09-04T17:30:39.410Z"
   },
   {
-    "id": "torobshop-kids-toys-3d13a34700e027c0",
-    "productId": "torobshop-3d13a34700e027c0",
-    "name": "ماهیتابه فیسلر آلمان Fissler Original-Profi Collection سایز 24 سانتی‌متر بدون پوشش با مقیاس اندازه‌گیری داخلی",
+    "id": "torobshop-kids-toys-f26fbc6e8dbee708",
+    "productId": "torobshop-f26fbc6e8dbee708",
+    "name": "قیچی چند منظوره زولینگ آلمان ZWILLING Twin L، 20 سانتی متر، قیچی آشپزخانه برای کاربران راست دست و چپ دست، استیل ضد زنگ، مشکی",
     "brand": "",
-    "model": "ماهیتابه فیسلر آلمان Fissler Original-Profi Collection سایز 24 سانتی‌متر بدون پوشش با مقیاس اندازه‌گیری داخلی",
+    "model": "قیچی چند منظوره زولینگ آلمان ZWILLING Twin L، 20 سانتی متر، قیچی آشپزخانه برای کاربران راست دست و چپ دست، استیل ضد زنگ، مشکی",
     "category": "kids-toys",
     "subcategory": "عروسک",
-    "price": 39665000,
+    "price": 14717000,
     "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%85%D8%AF%D9%84-Original-Profi-Collection-%D8%B3%D8%A7%DB%8C%D8%B2-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A8%D8%AF%D9%88%D9%86-%D9%BE%D9%88%D8%B4%D8%B4-%D8%A8%D8%A7-%D9%85%D9%82%DB%8C%D8%A7%D8%B3-%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%D9%87-%DA%AF%DB%8C%D8%B1%DB%8C-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%DA%A9%D9%85-%D9%85%D8%B5%D8%B1%D9%81-%D8%A8%D8%A7%D8%AF%D9%88%D8%A7%D9%85-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%DA%AF%D8%B1%DB%8C%D9%84-%D9%86%D9%88%D9%88-%DA%AF%D8%B1%DB%8C%D9%84-%D8%B3%D8%A7%DB%8C%D8%B2-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%82%DB%8C%DA%86%DB%8C-%DA%86%D9%86%D8%AF-%D9%85%D9%86%D8%B8%D9%88%D8%B1%D9%87-ZWILLING-Twin-L-20-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%82%DB%8C%DA%86%DB%8C-%D8%A2%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%A7%D9%86-%D8%B1%D8%A7%D8%B3%D8%AA-%D8%AF%D8%B3%D8%AA-%D9%88-%DA%86%D9%BE-%D8%AF%D8%B3%D8%AA-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D8%B4%DA%A9%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.108Z"
+    "observedAt": "2026-09-04T17:30:39.410Z"
   },
   {
     "id": "torobshop-kids-toys-19319bed3e2f6069",
@@ -6189,7 +6171,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.109Z"
+    "observedAt": "2026-09-04T17:30:39.410Z"
   },
   {
     "id": "torobshop-kids-toys-a02082729540664c",
@@ -6207,7 +6189,25 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.109Z"
+    "observedAt": "2026-09-04T17:30:39.410Z"
+  },
+  {
+    "id": "torobshop-kids-toys-3d13a34700e027c0",
+    "productId": "torobshop-3d13a34700e027c0",
+    "name": "ماهیتابه فیسلر آلمان Fissler Original-Profi Collection سایز 24 سانتی‌متر بدون پوشش با مقیاس اندازه‌گیری داخلی",
+    "brand": "",
+    "model": "ماهیتابه فیسلر آلمان Fissler Original-Profi Collection سایز 24 سانتی‌متر بدون پوشش با مقیاس اندازه‌گیری داخلی",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 39665000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%85%D8%AF%D9%84-Original-Profi-Collection-%D8%B3%D8%A7%DB%8C%D8%B2-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A8%D8%AF%D9%88%D9%86-%D9%BE%D9%88%D8%B4%D8%B4-%D8%A8%D8%A7-%D9%85%D9%82%DB%8C%D8%A7%D8%B3-%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%D9%87-%DA%AF%DB%8C%D8%B1%DB%8C-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%DA%A9%D9%85-%D9%85%D8%B5%D8%B1%D9%81-%D8%A8%D8%A7%D8%AF%D9%88%D8%A7%D9%85-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%DA%AF%D8%B1%DB%8C%D9%84-%D9%86%D9%88%D9%88-%DA%AF%D8%B1%DB%8C%D9%84-%D8%B3%D8%A7%DB%8C%D8%B2-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.410Z"
   },
   {
     "id": "torobshop-kids-toys-f091c9e920c8e1fb",
@@ -6225,25 +6225,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.109Z"
-  },
-  {
-    "id": "torobshop-kids-toys-5ac41723dcef4426",
-    "productId": "torobshop-5ac41723dcef4426",
-    "name": "سرویس قاشق و چنگال وی ام اف آلمان WMF Merit با تیغه چاقو، Cromargan Protect از جنس استیل ضد زنگ براق",
-    "brand": "",
-    "model": "سرویس قاشق و چنگال وی ام اف آلمان WMF Merit با تیغه چاقو، Cromargan Protect از جنس استیل ضد زنگ براق",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 74098000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%DA%A9%D8%A7%D8%B1%D8%AF-%D9%88-%DA%86%D9%86%DA%AF%D8%A7%D9%84-WMF-Merit-%D8%A8%D8%A7-%D8%AA%DB%8C%D8%BA%D9%87-%DA%86%D8%A7%D9%82%D9%88-Cromargan-Protect-%D8%A7%D8%B2-%D8%AC%D9%86%D8%B3-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%A8%D8%B1%D8%A7%D9%82-2",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.109Z"
+    "observedAt": "2026-09-04T17:30:39.411Z"
   },
   {
     "id": "torobshop-kids-toys-fbbfc333137fef0f",
@@ -6261,7 +6243,25 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.109Z"
+    "observedAt": "2026-09-04T17:30:39.411Z"
+  },
+  {
+    "id": "torobshop-kids-toys-5ac41723dcef4426",
+    "productId": "torobshop-5ac41723dcef4426",
+    "name": "سرویس قاشق و چنگال وی ام اف آلمان WMF Merit با تیغه چاقو، Cromargan Protect از جنس استیل ضد زنگ براق",
+    "brand": "",
+    "model": "سرویس قاشق و چنگال وی ام اف آلمان WMF Merit با تیغه چاقو، Cromargan Protect از جنس استیل ضد زنگ براق",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 74098000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%DA%A9%D8%A7%D8%B1%D8%AF-%D9%88-%DA%86%D9%86%DA%AF%D8%A7%D9%84-WMF-Merit-%D8%A8%D8%A7-%D8%AA%DB%8C%D8%BA%D9%87-%DA%86%D8%A7%D9%82%D9%88-Cromargan-Protect-%D8%A7%D8%B2-%D8%AC%D9%86%D8%B3-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%A8%D8%B1%D8%A7%D9%82-2",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.411Z"
   },
   {
     "id": "torobshop-kids-toys-be60227182487367",
@@ -6279,25 +6279,25 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.109Z"
+    "observedAt": "2026-09-04T17:30:39.411Z"
   },
   {
-    "id": "torobshop-kids-toys-98b213756a0f63d3",
-    "productId": "torobshop-98b213756a0f63d3",
-    "name": "سرویس قابلمه ۵ تکه ZWILLING PURE، استیل ضد زنگ ۱۸/۱۰، پوشش بیرونی سرامیکی، دسته‌های خنک‌شونده، قابل شستشو در ماشین ظرفشویی، صورتی رزگلد",
+    "id": "torobshop-kids-toys-c7fa60def079c000",
+    "productId": "torobshop-c7fa60def079c000",
+    "name": "چاقوی چهار ستاره ZWILLING، 7 تکه، چوب راش، چاقوها، فولاد تیزکن و قیچی، دسته استیل ضد زنگ/پلاستیکی ارگونومیک، مشکی [ساخت آلمان] 7 تکه چهار ستاره",
     "brand": "",
-    "model": "سرویس قابلمه ۵ تکه ZWILLING PURE، استیل ضد زنگ ۱۸/۱۰، پوشش بیرونی سرامیکی، دسته‌های خنک‌شونده، قابل شستشو در ماشین ظرفشویی، صورتی رزگلد",
+    "model": "چاقوی چهار ستاره ZWILLING، 7 تکه، چوب راش، چاقوها، فولاد تیزکن و قیچی، دسته استیل ضد زنگ/پلاستیکی ارگونومیک، مشکی [ساخت آلمان] 7 تکه چهار ستاره",
     "category": "kids-toys",
     "subcategory": "عروسک",
-    "price": 107087000,
+    "price": 58365000,
     "currency": "IRT",
     "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B5-%D8%AA%DA%A9%D9%87-ZWILLING-PURE-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%DB%B1%DB%B8-%DB%B1%DB%B0-%D9%BE%D9%88%D8%B4%D8%B4-%D8%A8%DB%8C%D8%B1%D9%88%D9%86%DB%8C-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D8%AF%D8%B3%D8%AA%D9%87-%D9%87%D8%A7%DB%8C-%D8%AE%D9%86%DA%A9-%D8%B4%D9%88%D9%86%D8%AF%D9%87-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D8%B5%D9%88%D8%B1%D8%AA%DB%8C-%D8%B1%D8%B2%DA%AF%D9%84%D8%AF",
+    "productUrl": "https://torobshop.com/products/%DA%86%D8%A7%D9%82%D9%88%DB%8C-%DA%86%D9%87%D8%A7%D8%B1-%D8%B3%D8%AA%D8%A7%D8%B1%D9%87-ZWILLING-7-%D8%AA%DA%A9%D9%87-%DA%86%D9%88%D8%A8-%D8%B1%D8%A7%D8%B4-%DA%86%D8%A7%D9%82%D9%88%D9%87%D8%A7-%D9%81%D9%88%D9%84%D8%A7%D8%AF-%D8%AA%DB%8C%D8%B2%DA%A9%D9%86-%D9%88-%D9%82%DB%8C%DA%86%DB%8C-%D8%AF%D8%B3%D8%AA%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9%DB%8C-%D8%A7%D8%B1%DA%AF%D9%88%D9%86%D9%88%D9%85%DB%8C%DA%A9-%D9%85%D8%B4%DA%A9%DB%8C-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-7-%D8%AA%DA%A9%D9%87-%DA%86%D9%87%D8%A7%D8%B1-%D8%B3%D8%AA%D8%A7%D8%B1%D9%87",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.109Z"
+    "observedAt": "2026-09-04T17:30:39.411Z"
   },
   {
     "id": "torobshop-kids-toys-d3f802410104b943",
@@ -6315,7 +6315,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.109Z"
+    "observedAt": "2026-09-04T17:30:39.411Z"
   },
   {
     "id": "torobshop-kids-toys-0f347f93a4676672",
@@ -6333,7 +6333,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.109Z"
+    "observedAt": "2026-09-04T17:30:39.411Z"
   },
   {
     "id": "torobshop-kids-toys-cb5f45612fc319e4",
@@ -6351,7 +6351,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.109Z"
+    "observedAt": "2026-09-04T17:30:39.411Z"
   },
   {
     "id": "torobshop-kids-toys-a447d48449c2d499",
@@ -6369,7 +6369,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.109Z"
+    "observedAt": "2026-09-04T17:30:39.411Z"
   },
   {
     "id": "torobshop-kids-toys-71ebfae235e91ed5",
@@ -6387,7 +6387,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.109Z"
+    "observedAt": "2026-09-04T17:30:39.411Z"
   },
   {
     "id": "torobshop-kids-toys-51edff8c55bfb262",
@@ -6405,7 +6405,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.109Z"
+    "observedAt": "2026-09-04T17:30:39.412Z"
   },
   {
     "id": "torobshop-kids-toys-f99dae95f9641652",
@@ -6423,7 +6423,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.109Z"
+    "observedAt": "2026-09-04T17:30:39.412Z"
   },
   {
     "id": "torobshop-kids-toys-6bc05672d0e139cd",
@@ -6441,7 +6441,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.109Z"
+    "observedAt": "2026-09-04T17:30:39.412Z"
   },
   {
     "id": "torobshop-kids-toys-6b776fc230756800",
@@ -6459,7 +6459,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.109Z"
+    "observedAt": "2026-09-04T17:30:39.412Z"
   },
   {
     "id": "torobshop-kids-toys-f2622dc414824191",
@@ -6477,7 +6477,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.109Z"
+    "observedAt": "2026-09-04T17:30:39.412Z"
   },
   {
     "id": "torobshop-kids-toys-640c8324f81a46bb",
@@ -6495,25 +6495,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.109Z"
-  },
-  {
-    "id": "torobshop-kids-toys-c54b5b958054a1a2",
-    "productId": "torobshop-c54b5b958054a1a2",
-    "name": "فر کننده و موج دهنده فیلیپس هلند Philips BHB968/10 با فناوری SenseIQ",
-    "brand": "",
-    "model": "فر کننده و موج دهنده فیلیپس هلند Philips BHB968/10 با فناوری SenseIQ",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 69666000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/Philips-WavePro-Styler-9000-%D8%A8%D8%A7-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-SenseIQ-%D9%88-%D9%84%D9%88%D9%84%D9%87-%D9%82%D8%A7%D8%A8%D9%84-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D9%88-%D9%85%D9%88%D8%AC-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-%D8%AD%D8%A7%D9%84%D8%AA-%D8%AF%D9%87%DB%8C-%DB%B3%DB%B6%DB%B0-%D8%AF%D8%B1%D8%AC%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AD%D8%A7%D9%84%D8%AA-%D9%87%D8%A7%DB%8C-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1-%D8%B3%D9%81%DB%8C%D8%AF-%D8%A7%D8%A8%D8%B1%DB%8C%D8%B4%D9%85%DB%8C-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C-%DA%A9%DB%8C%D9%81-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%A2%D8%B1%D8%A7%DB%8C%D8%B4-%D9%85%D8%AF%D9%84-BHB968-10",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.109Z"
+    "observedAt": "2026-09-04T17:30:39.412Z"
   },
   {
     "id": "torobshop-kids-toys-7f66ba1a4f7ddbfb",
@@ -6531,7 +6513,25 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.109Z"
+    "observedAt": "2026-09-04T17:30:39.412Z"
+  },
+  {
+    "id": "torobshop-kids-toys-c54b5b958054a1a2",
+    "productId": "torobshop-c54b5b958054a1a2",
+    "name": "فر کننده و موج دهنده فیلیپس هلند Philips BHB968/10 با فناوری SenseIQ",
+    "brand": "",
+    "model": "فر کننده و موج دهنده فیلیپس هلند Philips BHB968/10 با فناوری SenseIQ",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 69666000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/Philips-WavePro-Styler-9000-%D8%A8%D8%A7-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-SenseIQ-%D9%88-%D9%84%D9%88%D9%84%D9%87-%D9%82%D8%A7%D8%A8%D9%84-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D9%88-%D9%85%D9%88%D8%AC-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-%D8%AD%D8%A7%D9%84%D8%AA-%D8%AF%D9%87%DB%8C-%DB%B3%DB%B6%DB%B0-%D8%AF%D8%B1%D8%AC%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AD%D8%A7%D9%84%D8%AA-%D9%87%D8%A7%DB%8C-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1-%D8%B3%D9%81%DB%8C%D8%AF-%D8%A7%D8%A8%D8%B1%DB%8C%D8%B4%D9%85%DB%8C-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C-%DA%A9%DB%8C%D9%81-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%A2%D8%B1%D8%A7%DB%8C%D8%B4-%D9%85%D8%AF%D9%84-BHB968-10",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.412Z"
   },
   {
     "id": "torobshop-kids-toys-43b61e0733cc7171",
@@ -6549,7 +6549,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.109Z"
+    "observedAt": "2026-09-04T17:30:39.412Z"
   },
   {
     "id": "torobshop-kids-toys-f699a00edc06f489",
@@ -6567,7 +6567,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.109Z"
+    "observedAt": "2026-09-04T17:30:39.412Z"
   },
   {
     "id": "torobshop-kids-toys-a59cff30443c154a",
@@ -6585,25 +6585,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.109Z"
-  },
-  {
-    "id": "torobshop-kids-toys-af7462ce98ee2999",
-    "productId": "torobshop-af7462ce98ee2999",
-    "name": "اپیلاتور صورت براون فیس اسپا مخصوص بانوان، برس پاکسازی صورت، پد ماساژ، آینه و کیف، رفع موهای زائد و پاکسازی، ضد آب — ۸۵۱ ولت، سفید/برنزی ۳ در ۱ ۸۵۱ ولت",
-    "brand": "",
-    "model": "اپیلاتور صورت براون فیس اسپا مخصوص بانوان، برس پاکسازی صورت، پد ماساژ، آینه و کیف، رفع موهای زائد و پاکسازی، ضد آب — ۸۵۱ ولت، سفید/برنزی ۳ در ۱ ۸۵۱ ولت",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 25122000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B5%D9%88%D8%B1%D8%AA-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D9%81%DB%8C%D8%B3-%D8%A7%D8%B3%D9%BE%D8%A7-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D8%A8%D8%B1%D8%B3-%D9%BE%D8%A7%DA%A9%D8%B3%D8%A7%D8%B2%DB%8C-%D8%B5%D9%88%D8%B1%D8%AA-%D9%BE%D8%AF-%D9%85%D8%A7%D8%B3%D8%A7%DA%98-%D8%A2%DB%8C%D9%86%D9%87-%D9%88-%DA%A9%DB%8C%D9%81-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D9%88-%D9%BE%D8%A7%DA%A9%D8%B3%D8%A7%D8%B2%DB%8C-%D8%B6%D8%AF-%D8%A2%D8%A8-%DB%B8%DB%B5%DB%B1-%D9%88%D9%84%D8%AA-%D8%B3%D9%81%DB%8C%D8%AF-%D8%A8%D8%B1%D9%86%D8%B2%DB%8C-%DB%B3-%D8%AF%D8%B1-%DB%B1-%DB%B8%DB%B5%DB%B1-%D9%88%D9%84%D8%AA",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.109Z"
+    "observedAt": "2026-09-04T17:30:39.412Z"
   },
   {
     "id": "torobshop-kids-toys-f6c6e72a28882975",
@@ -6621,7 +6603,25 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.109Z"
+    "observedAt": "2026-09-04T17:30:39.412Z"
+  },
+  {
+    "id": "torobshop-kids-toys-af7462ce98ee2999",
+    "productId": "torobshop-af7462ce98ee2999",
+    "name": "اپیلاتور صورت براون فیس اسپا مخصوص بانوان، برس پاکسازی صورت، پد ماساژ، آینه و کیف، رفع موهای زائد و پاکسازی، ضد آب — ۸۵۱ ولت، سفید/برنزی ۳ در ۱ ۸۵۱ ولت",
+    "brand": "",
+    "model": "اپیلاتور صورت براون فیس اسپا مخصوص بانوان، برس پاکسازی صورت، پد ماساژ، آینه و کیف، رفع موهای زائد و پاکسازی، ضد آب — ۸۵۱ ولت، سفید/برنزی ۳ در ۱ ۸۵۱ ولت",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 25122000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B5%D9%88%D8%B1%D8%AA-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D9%81%DB%8C%D8%B3-%D8%A7%D8%B3%D9%BE%D8%A7-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D8%A8%D8%B1%D8%B3-%D9%BE%D8%A7%DA%A9%D8%B3%D8%A7%D8%B2%DB%8C-%D8%B5%D9%88%D8%B1%D8%AA-%D9%BE%D8%AF-%D9%85%D8%A7%D8%B3%D8%A7%DA%98-%D8%A2%DB%8C%D9%86%D9%87-%D9%88-%DA%A9%DB%8C%D9%81-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D9%88-%D9%BE%D8%A7%DA%A9%D8%B3%D8%A7%D8%B2%DB%8C-%D8%B6%D8%AF-%D8%A2%D8%A8-%DB%B8%DB%B5%DB%B1-%D9%88%D9%84%D8%AA-%D8%B3%D9%81%DB%8C%D8%AF-%D8%A8%D8%B1%D9%86%D8%B2%DB%8C-%DB%B3-%D8%AF%D8%B1-%DB%B1-%DB%B8%DB%B5%DB%B1-%D9%88%D9%84%D8%AA",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.412Z"
   },
   {
     "id": "torobshop-kids-toys-7c82cddc2d9efd1c",
@@ -6639,7 +6639,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.109Z"
+    "observedAt": "2026-09-04T17:30:39.412Z"
   },
   {
     "id": "torobshop-kids-toys-a942a79dda5b87df",
@@ -6657,7 +6657,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.109Z"
+    "observedAt": "2026-09-04T17:30:39.412Z"
   },
   {
     "id": "torobshop-kids-toys-e4ec7bd10ffa8b50",
@@ -6675,25 +6675,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.109Z"
-  },
-  {
-    "id": "torobshop-kids-toys-7bbb1f19505b28fd",
-    "productId": "torobshop-7bbb1f19505b28fd",
-    "name": "اتو موی فیلیپس سری 5000 با فناوری ترموشیلد، سفید [مدل BHS520/00]",
-    "brand": "",
-    "model": "اتو موی فیلیپس سری 5000 با فناوری ترموشیلد، سفید [مدل BHS520/00]",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 17002000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%A7%D8%AA%D9%88-%D9%85%D9%88%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%B3%D8%B1%DB%8C-5000-%D8%A8%D8%A7-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-%D8%AA%D8%B1%D9%85%D9%88%D8%B4%DB%8C%D9%84%D8%AF-%D8%B3%D9%81%DB%8C%D8%AF-%D9%85%D8%AF%D9%84-BHS520-00",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.109Z"
+    "observedAt": "2026-09-04T17:30:39.412Z"
   },
   {
     "id": "torobshop-kids-toys-5bc21e4edaa526cc",
@@ -6711,7 +6693,25 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.109Z"
+    "observedAt": "2026-09-04T17:30:39.412Z"
+  },
+  {
+    "id": "torobshop-kids-toys-7bbb1f19505b28fd",
+    "productId": "torobshop-7bbb1f19505b28fd",
+    "name": "اتو موی فیلیپس سری 5000 با فناوری ترموشیلد، سفید [مدل BHS520/00]",
+    "brand": "",
+    "model": "اتو موی فیلیپس سری 5000 با فناوری ترموشیلد، سفید [مدل BHS520/00]",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 17002000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D8%AA%D9%88-%D9%85%D9%88%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%B3%D8%B1%DB%8C-5000-%D8%A8%D8%A7-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-%D8%AA%D8%B1%D9%85%D9%88%D8%B4%DB%8C%D9%84%D8%AF-%D8%B3%D9%81%DB%8C%D8%AF-%D9%85%D8%AF%D9%84-BHS520-00",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.412Z"
   },
   {
     "id": "torobshop-kids-toys-9d62a66000d436e1",
@@ -6729,7 +6729,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.109Z"
+    "observedAt": "2026-09-04T17:30:39.412Z"
   },
   {
     "id": "torobshop-kids-toys-45d6aa9c3fd53ad4",
@@ -6747,7 +6747,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.109Z"
+    "observedAt": "2026-09-04T17:30:39.412Z"
   },
   {
     "id": "torobshop-kids-toys-c876f51b5b5d7dae",
@@ -6765,7 +6765,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.109Z"
+    "observedAt": "2026-09-04T17:30:39.412Z"
   },
   {
     "id": "torobshop-kids-toys-1abb58c93aa4d049",
@@ -6783,7 +6783,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.109Z"
+    "observedAt": "2026-09-04T17:30:39.412Z"
   },
   {
     "id": "torobshop-kids-toys-400b05dca029ee01",
@@ -6801,7 +6801,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.109Z"
+    "observedAt": "2026-09-04T17:30:39.412Z"
   },
   {
     "id": "torobshop-kids-toys-27109e9fc58673fd",
@@ -6819,43 +6819,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.110Z"
-  },
-  {
-    "id": "torobshop-kids-toys-766b0f80e67074f9",
-    "productId": "torobshop-766b0f80e67074f9",
-    "name": "ریش‌تراش فیلیپس سری ۸۰۰۰ مدل لیدی - ریش‌تراش برقی بی‌سیم، مناسب برای اصلاح خشک و مرطوب، ۳ تیغه، سر اصلاح انعطاف‌پذیر، چراغ LED، صورت/پا/بدن/ناحیه بیکینی، ۱۰۰ دقیقه کارکرد، مدل BRL159/00",
-    "brand": "",
-    "model": "ریش‌تراش فیلیپس سری ۸۰۰۰ مدل لیدی - ریش‌تراش برقی بی‌سیم، مناسب برای اصلاح خشک و مرطوب، ۳ تیغه، سر اصلاح انعطاف‌پذیر، چراغ LED، صورت/پا/بدن/ناحیه بیکینی، ۱۰۰ دقیقه کارکرد، مدل BRL159/00",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 20046000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%B3%D8%B1%DB%8C-%DB%B8%DB%B0%DB%B0%DB%B0-%D9%85%D8%AF%D9%84-%D9%84%DB%8C%D8%AF%DB%8C-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D8%A8%D8%B1%D9%82%DB%8C-%D8%A8%DB%8C-%D8%B3%DB%8C%D9%85-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%AE%D8%B4%DA%A9-%D9%88-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%DB%B3-%D8%AA%DB%8C%D8%BA%D9%87-%D8%B3%D8%B1-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%A7%D9%86%D8%B9%D8%B7%D8%A7%D9%81-%D9%BE%D8%B0%DB%8C%D8%B1-%DA%86%D8%B1%D8%A7%D8%BA-LED-%D8%B5%D9%88%D8%B1%D8%AA-%D9%BE%D8%A7-%D8%A8%D8%AF%D9%86-%D9%86%D8%A7%D8%AD%DB%8C%D9%87-%D8%A8%DB%8C%DA%A9%DB%8C%D9%86%DB%8C-%DB%B1%DB%B0%DB%B0-%D8%AF%D9%82%DB%8C%D9%82%D9%87-%DA%A9%D8%A7%D8%B1%DA%A9%D8%B1%D8%AF-%D9%85%D8%AF%D9%84-BRL159-00",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.110Z"
-  },
-  {
-    "id": "torobshop-kids-toys-6c0960e9008fddf6",
-    "productId": "torobshop-6c0960e9008fddf6",
-    "name": "دستگاه رفع موهای زائد Philips Lumea Advanced IPL، مدل BRI921/00، با ۲ سری برای بدن، صورت و ۱ ماشین اصلاح دقیق - سیمی",
-    "brand": "",
-    "model": "دستگاه رفع موهای زائد Philips Lumea Advanced IPL، مدل BRI921/00، با ۲ سری برای بدن، صورت و ۱ ماشین اصلاح دقیق - سیمی",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 60649000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Philips-Lumea-Advanced-IPL-%D9%85%D8%AF%D9%84-BRI921-00-%D8%A8%D8%A7-%DB%B2-%D8%B3%D8%B1%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A8%D8%AF%D9%86-%D8%B5%D9%88%D8%B1%D8%AA-%D9%88-%DB%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%AF%D9%82%DB%8C%D9%82-%D8%B3%DB%8C%D9%85%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.110Z"
+    "observedAt": "2026-09-04T17:30:39.412Z"
   },
   {
     "id": "torobshop-kids-toys-074febbf09bd3065",
@@ -6873,7 +6837,43 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.110Z"
+    "observedAt": "2026-09-04T17:30:39.412Z"
+  },
+  {
+    "id": "torobshop-kids-toys-766b0f80e67074f9",
+    "productId": "torobshop-766b0f80e67074f9",
+    "name": "ریش‌تراش فیلیپس سری ۸۰۰۰ مدل لیدی - ریش‌تراش برقی بی‌سیم، مناسب برای اصلاح خشک و مرطوب، ۳ تیغه، سر اصلاح انعطاف‌پذیر، چراغ LED، صورت/پا/بدن/ناحیه بیکینی، ۱۰۰ دقیقه کارکرد، مدل BRL159/00",
+    "brand": "",
+    "model": "ریش‌تراش فیلیپس سری ۸۰۰۰ مدل لیدی - ریش‌تراش برقی بی‌سیم، مناسب برای اصلاح خشک و مرطوب، ۳ تیغه، سر اصلاح انعطاف‌پذیر، چراغ LED، صورت/پا/بدن/ناحیه بیکینی، ۱۰۰ دقیقه کارکرد، مدل BRL159/00",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 20046000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%B3%D8%B1%DB%8C-%DB%B8%DB%B0%DB%B0%DB%B0-%D9%85%D8%AF%D9%84-%D9%84%DB%8C%D8%AF%DB%8C-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D8%A8%D8%B1%D9%82%DB%8C-%D8%A8%DB%8C-%D8%B3%DB%8C%D9%85-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%AE%D8%B4%DA%A9-%D9%88-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%DB%B3-%D8%AA%DB%8C%D8%BA%D9%87-%D8%B3%D8%B1-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%A7%D9%86%D8%B9%D8%B7%D8%A7%D9%81-%D9%BE%D8%B0%DB%8C%D8%B1-%DA%86%D8%B1%D8%A7%D8%BA-LED-%D8%B5%D9%88%D8%B1%D8%AA-%D9%BE%D8%A7-%D8%A8%D8%AF%D9%86-%D9%86%D8%A7%D8%AD%DB%8C%D9%87-%D8%A8%DB%8C%DA%A9%DB%8C%D9%86%DB%8C-%DB%B1%DB%B0%DB%B0-%D8%AF%D9%82%DB%8C%D9%82%D9%87-%DA%A9%D8%A7%D8%B1%DA%A9%D8%B1%D8%AF-%D9%85%D8%AF%D9%84-BRL159-00",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.412Z"
+  },
+  {
+    "id": "torobshop-kids-toys-6c0960e9008fddf6",
+    "productId": "torobshop-6c0960e9008fddf6",
+    "name": "دستگاه رفع موهای زائد Philips Lumea Advanced IPL، مدل BRI921/00، با ۲ سری برای بدن، صورت و ۱ ماشین اصلاح دقیق - سیمی",
+    "brand": "",
+    "model": "دستگاه رفع موهای زائد Philips Lumea Advanced IPL، مدل BRI921/00، با ۲ سری برای بدن، صورت و ۱ ماشین اصلاح دقیق - سیمی",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 60649000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Philips-Lumea-Advanced-IPL-%D9%85%D8%AF%D9%84-BRI921-00-%D8%A8%D8%A7-%DB%B2-%D8%B3%D8%B1%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A8%D8%AF%D9%86-%D8%B5%D9%88%D8%B1%D8%AA-%D9%88-%DB%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%AF%D9%82%DB%8C%D9%82-%D8%B3%DB%8C%D9%85%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.412Z"
   },
   {
     "id": "torobshop-kids-toys-508a955227952a9d",
@@ -6891,7 +6891,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.110Z"
+    "observedAt": "2026-09-04T17:30:39.412Z"
   },
   {
     "id": "torobshop-kids-toys-dc3a8d1c6feb961b",
@@ -6909,7 +6909,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.110Z"
+    "observedAt": "2026-09-04T17:30:39.412Z"
   },
   {
     "id": "torobshop-kids-toys-5e70d562a3ef7192",
@@ -6927,7 +6927,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.110Z"
+    "observedAt": "2026-09-04T17:30:39.412Z"
   },
   {
     "id": "torobshop-kids-toys-d6551c8766b38613",
@@ -6945,61 +6945,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.110Z"
-  },
-  {
-    "id": "torobshop-kids-toys-2cb3b869608c8a13",
-    "productId": "torobshop-2cb3b869608c8a13",
-    "name": "اپیلاتور و ریش‌تراش زنانه براون مدل Silk-épil 5، ریش‌تراش برقی ناحیه تناسلی برای خانم‌ها، جایگزین اپیلاسیون، شامل ماشین اصلاح بیکینی زنانه، سری ماساژور، سری چرخشی، 5-820، سفید/صورتی",
-    "brand": "",
-    "model": "اپیلاتور و ریش‌تراش زنانه براون مدل Silk-épil 5، ریش‌تراش برقی ناحیه تناسلی برای خانم‌ها، جایگزین اپیلاسیون، شامل ماشین اصلاح بیکینی زنانه، سری ماساژور، سری چرخشی، 5-820، سفید/صورتی",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 26898000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D9%85%D8%AF%D9%84-Silk-pil-5-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D8%A8%D8%B1%D9%82%DB%8C-%D9%86%D8%A7%D8%AD%DB%8C%D9%87-%D8%AA%D9%86%D8%A7%D8%B3%D9%84%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AE%D8%A7%D9%86%D9%85-%D9%87%D8%A7-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%B3%DB%8C%D9%88%D9%86-%D8%B4%D8%A7%D9%85%D9%84-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%A8%DB%8C%DA%A9%DB%8C%D9%86%DB%8C-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D8%B3%D8%B1%DB%8C-%D9%85%D8%A7%D8%B3%D8%A7%DA%98%D9%88%D8%B1-%D8%B3%D8%B1%DB%8C-%DA%86%D8%B1%D8%AE%D8%B4%DB%8C-5-820-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B5%D9%88%D8%B1%D8%AA%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.110Z"
-  },
-  {
-    "id": "torobshop-kids-toys-6e4a2eb26d23a745",
-    "productId": "torobshop-6e4a2eb26d23a745",
-    "name": "دستگاه رفع موهای زائد Braun IPL Silk Expert Pro 5 برای خانم‌ها/آقایان، ۳ سری، رفع موهای زائد قابل مشاهده، طراحی شده در آلمان، ماشین اصلاح ونوس، جایگزین لیزر موهای زائد، PL5267، سفید/طلایی",
-    "brand": "",
-    "model": "دستگاه رفع موهای زائد Braun IPL Silk Expert Pro 5 برای خانم‌ها/آقایان، ۳ سری، رفع موهای زائد قابل مشاهده، طراحی شده در آلمان، ماشین اصلاح ونوس، جایگزین لیزر موهای زائد، PL5267، سفید/طلایی",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 99981000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Braun-IPL-Silk-Expert-Pro-5-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AE%D8%A7%D9%86%D9%85-%D9%87%D8%A7-%D8%A2%D9%82%D8%A7%DB%8C%D8%A7%D9%86-%DB%B3-%D8%B3%D8%B1%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D9%82%D8%A7%D8%A8%D9%84-%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D9%87-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B4%D8%AF%D9%87-%D8%AF%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88%D9%86%D9%88%D8%B3-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D9%84%DB%8C%D8%B2%D8%B1-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-PL5267-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.110Z"
-  },
-  {
-    "id": "torobshop-kids-toys-967849182031e292",
-    "productId": "torobshop-967849182031e292",
-    "name": "ست اپیلاتور/موبر زنانه Braun Silk-épil 9 Skinspa، با کنترل فشار، اپیلاتور خشک و مرطوب با ۱۳ وسیله اضافی، ۹-۹۹۰، رز/طلایی",
-    "brand": "",
-    "model": "ست اپیلاتور/موبر زنانه Braun Silk-épil 9 Skinspa، با کنترل فشار، اپیلاتور خشک و مرطوب با ۱۳ وسیله اضافی، ۹-۹۹۰، رز/طلایی",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 52274000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%AA-%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D9%85%D9%88%D8%A8%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-Braun-Silk-pil-9-Skinspa-%D8%A8%D8%A7-%DA%A9%D9%86%D8%AA%D8%B1%D9%84-%D9%81%D8%B4%D8%A7%D8%B1-%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%AE%D8%B4%DA%A9-%D9%88-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D8%A8%D8%A7-%DB%B1%DB%B3-%D9%88%D8%B3%DB%8C%D9%84%D9%87-%D8%A7%D8%B6%D8%A7%D9%81%DB%8C-%DB%B9-%DB%B9%DB%B9%DB%B0-%D8%B1%D8%B2-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.110Z"
+    "observedAt": "2026-09-04T17:30:39.412Z"
   },
   {
     "id": "torobshop-kids-toys-b6d1e42e39dc67ab",
@@ -7017,7 +6963,61 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.110Z"
+    "observedAt": "2026-09-04T17:30:39.412Z"
+  },
+  {
+    "id": "torobshop-kids-toys-2cb3b869608c8a13",
+    "productId": "torobshop-2cb3b869608c8a13",
+    "name": "اپیلاتور و ریش‌تراش زنانه براون مدل Silk-épil 5، ریش‌تراش برقی ناحیه تناسلی برای خانم‌ها، جایگزین اپیلاسیون، شامل ماشین اصلاح بیکینی زنانه، سری ماساژور، سری چرخشی، 5-820، سفید/صورتی",
+    "brand": "",
+    "model": "اپیلاتور و ریش‌تراش زنانه براون مدل Silk-épil 5، ریش‌تراش برقی ناحیه تناسلی برای خانم‌ها، جایگزین اپیلاسیون، شامل ماشین اصلاح بیکینی زنانه، سری ماساژور، سری چرخشی، 5-820، سفید/صورتی",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 26898000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D9%88-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D9%85%D8%AF%D9%84-Silk-pil-5-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D8%A8%D8%B1%D9%82%DB%8C-%D9%86%D8%A7%D8%AD%DB%8C%D9%87-%D8%AA%D9%86%D8%A7%D8%B3%D9%84%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AE%D8%A7%D9%86%D9%85-%D9%87%D8%A7-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%B3%DB%8C%D9%88%D9%86-%D8%B4%D8%A7%D9%85%D9%84-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%A8%DB%8C%DA%A9%DB%8C%D9%86%DB%8C-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D8%B3%D8%B1%DB%8C-%D9%85%D8%A7%D8%B3%D8%A7%DA%98%D9%88%D8%B1-%D8%B3%D8%B1%DB%8C-%DA%86%D8%B1%D8%AE%D8%B4%DB%8C-5-820-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B5%D9%88%D8%B1%D8%AA%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.412Z"
+  },
+  {
+    "id": "torobshop-kids-toys-6e4a2eb26d23a745",
+    "productId": "torobshop-6e4a2eb26d23a745",
+    "name": "دستگاه رفع موهای زائد Braun IPL Silk Expert Pro 5 برای خانم‌ها/آقایان، ۳ سری، رفع موهای زائد قابل مشاهده، طراحی شده در آلمان، ماشین اصلاح ونوس، جایگزین لیزر موهای زائد، PL5267، سفید/طلایی",
+    "brand": "",
+    "model": "دستگاه رفع موهای زائد Braun IPL Silk Expert Pro 5 برای خانم‌ها/آقایان، ۳ سری، رفع موهای زائد قابل مشاهده، طراحی شده در آلمان، ماشین اصلاح ونوس، جایگزین لیزر موهای زائد، PL5267، سفید/طلایی",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 99981000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Braun-IPL-Silk-Expert-Pro-5-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AE%D8%A7%D9%86%D9%85-%D9%87%D8%A7-%D8%A2%D9%82%D8%A7%DB%8C%D8%A7%D9%86-%DB%B3-%D8%B3%D8%B1%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D9%82%D8%A7%D8%A8%D9%84-%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D9%87-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B4%D8%AF%D9%87-%D8%AF%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88%D9%86%D9%88%D8%B3-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D9%84%DB%8C%D8%B2%D8%B1-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-PL5267-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.412Z"
+  },
+  {
+    "id": "torobshop-kids-toys-967849182031e292",
+    "productId": "torobshop-967849182031e292",
+    "name": "ست اپیلاتور/موبر زنانه Braun Silk-épil 9 Skinspa، با کنترل فشار، اپیلاتور خشک و مرطوب با ۱۳ وسیله اضافی، ۹-۹۹۰، رز/طلایی",
+    "brand": "",
+    "model": "ست اپیلاتور/موبر زنانه Braun Silk-épil 9 Skinspa، با کنترل فشار، اپیلاتور خشک و مرطوب با ۱۳ وسیله اضافی، ۹-۹۹۰، رز/طلایی",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 52274000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%AA-%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D9%85%D9%88%D8%A8%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-Braun-Silk-pil-9-Skinspa-%D8%A8%D8%A7-%DA%A9%D9%86%D8%AA%D8%B1%D9%84-%D9%81%D8%B4%D8%A7%D8%B1-%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%AE%D8%B4%DA%A9-%D9%88-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D8%A8%D8%A7-%DB%B1%DB%B3-%D9%88%D8%B3%DB%8C%D9%84%D9%87-%D8%A7%D8%B6%D8%A7%D9%81%DB%8C-%DB%B9-%DB%B9%DB%B9%DB%B0-%D8%B1%D8%B2-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.412Z"
   },
   {
     "id": "torobshop-kids-toys-7c140bba2434e29a",
@@ -7035,43 +7035,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.110Z"
-  },
-  {
-    "id": "torobshop-kids-toys-2182240d0b4b05fe",
-    "productId": "torobshop-2182240d0b4b05fe",
-    "name": "دستگاه رفع موهای زائد Braun Smart IPL Skin i·expert 7، PL7442، سفید/رزگلد - جایگزین لیزر موهای زائد، رفع دائمی موهای زائد، شامل قاب، تیغ کوچک، تیغ ونوس و 4 ضمیمه سفید/برنزی 4 ضمیمه",
-    "brand": "",
-    "model": "دستگاه رفع موهای زائد Braun Smart IPL Skin i·expert 7، PL7442، سفید/رزگلد - جایگزین لیزر موهای زائد، رفع دائمی موهای زائد، شامل قاب، تیغ کوچک، تیغ ونوس و 4 ضمیمه سفید/برنزی 4 ضمیمه",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 160630000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Braun-Smart-IPL-Skin-i-expert-7-PL7442-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B1%D8%B2%DA%AF%D9%84%D8%AF-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D9%84%DB%8C%D8%B2%D8%B1-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%B1%D9%81%D8%B9-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%B4%D8%A7%D9%85%D9%84-%D9%82%D8%A7%D8%A8-%D8%AA%DB%8C%D8%BA-%DA%A9%D9%88%DA%86%DA%A9-%D8%AA%DB%8C%D8%BA-%D9%88%D9%86%D9%88%D8%B3-%D9%88-4-%D8%B6%D9%85%DB%8C%D9%85%D9%87-%D8%B3%D9%81%DB%8C%D8%AF-%D8%A8%D8%B1%D9%86%D8%B2%DB%8C-4-%D8%B6%D9%85%DB%8C%D9%85%D9%87",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.110Z"
-  },
-  {
-    "id": "torobshop-kids-toys-e93d0f8dd3711a93",
-    "productId": "torobshop-e93d0f8dd3711a93",
-    "name": "ست زیبایی براون سیلک-اپیل ۹-۹۹۵ لوکس ۹ کاره، رفع موهای زائد خشک و مرطوب بی‌سیم - اپیلاتور، تیغ، لایه‌برداری، کیت تمیزکننده برای صورت و بدن",
-    "brand": "",
-    "model": "ست زیبایی براون سیلک-اپیل ۹-۹۹۵ لوکس ۹ کاره، رفع موهای زائد خشک و مرطوب بی‌سیم - اپیلاتور، تیغ، لایه‌برداری، کیت تمیزکننده برای صورت و بدن",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 57857000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%AA-%D8%B2%DB%8C%D8%A8%D8%A7%DB%8C%DB%8C-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B3%DB%8C%D9%84%DA%A9-%D8%A7%D9%BE%DB%8C%D9%84-%DB%B9-%DB%B9%DB%B9%DB%B5-%D9%84%D9%88%DA%A9%D8%B3-%DB%B9-%DA%A9%D8%A7%D8%B1%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AE%D8%B4%DA%A9-%D9%88-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D8%A8%DB%8C-%D8%B3%DB%8C%D9%85-%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%AA%DB%8C%D8%BA-%D9%84%D8%A7%DB%8C%D9%87-%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C-%DA%A9%DB%8C%D8%AA-%D8%AA%D9%85%DB%8C%D8%B2%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B5%D9%88%D8%B1%D8%AA-%D9%88-%D8%A8%D8%AF%D9%86",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.110Z"
+    "observedAt": "2026-09-04T17:30:39.412Z"
   },
   {
     "id": "torobshop-kids-toys-52384f9bcf5e57ca",
@@ -7089,7 +7053,43 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.110Z"
+    "observedAt": "2026-09-04T17:30:39.412Z"
+  },
+  {
+    "id": "torobshop-kids-toys-2182240d0b4b05fe",
+    "productId": "torobshop-2182240d0b4b05fe",
+    "name": "دستگاه رفع موهای زائد Braun Smart IPL Skin i·expert 7، PL7442، سفید/رزگلد - جایگزین لیزر موهای زائد، رفع دائمی موهای زائد، شامل قاب، تیغ کوچک، تیغ ونوس و 4 ضمیمه سفید/برنزی 4 ضمیمه",
+    "brand": "",
+    "model": "دستگاه رفع موهای زائد Braun Smart IPL Skin i·expert 7، PL7442، سفید/رزگلد - جایگزین لیزر موهای زائد، رفع دائمی موهای زائد، شامل قاب، تیغ کوچک، تیغ ونوس و 4 ضمیمه سفید/برنزی 4 ضمیمه",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 160630000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Braun-Smart-IPL-Skin-i-expert-7-PL7442-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B1%D8%B2%DA%AF%D9%84%D8%AF-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D9%84%DB%8C%D8%B2%D8%B1-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%B1%D9%81%D8%B9-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%B4%D8%A7%D9%85%D9%84-%D9%82%D8%A7%D8%A8-%D8%AA%DB%8C%D8%BA-%DA%A9%D9%88%DA%86%DA%A9-%D8%AA%DB%8C%D8%BA-%D9%88%D9%86%D9%88%D8%B3-%D9%88-4-%D8%B6%D9%85%DB%8C%D9%85%D9%87-%D8%B3%D9%81%DB%8C%D8%AF-%D8%A8%D8%B1%D9%86%D8%B2%DB%8C-4-%D8%B6%D9%85%DB%8C%D9%85%D9%87",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.412Z"
+  },
+  {
+    "id": "torobshop-kids-toys-e93d0f8dd3711a93",
+    "productId": "torobshop-e93d0f8dd3711a93",
+    "name": "ست زیبایی براون سیلک-اپیل ۹-۹۹۵ لوکس ۹ کاره، رفع موهای زائد خشک و مرطوب بی‌سیم - اپیلاتور، تیغ، لایه‌برداری، کیت تمیزکننده برای صورت و بدن",
+    "brand": "",
+    "model": "ست زیبایی براون سیلک-اپیل ۹-۹۹۵ لوکس ۹ کاره، رفع موهای زائد خشک و مرطوب بی‌سیم - اپیلاتور، تیغ، لایه‌برداری، کیت تمیزکننده برای صورت و بدن",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 57857000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%AA-%D8%B2%DB%8C%D8%A8%D8%A7%DB%8C%DB%8C-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B3%DB%8C%D9%84%DA%A9-%D8%A7%D9%BE%DB%8C%D9%84-%DB%B9-%DB%B9%DB%B9%DB%B5-%D9%84%D9%88%DA%A9%D8%B3-%DB%B9-%DA%A9%D8%A7%D8%B1%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AE%D8%B4%DA%A9-%D9%88-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D8%A8%DB%8C-%D8%B3%DB%8C%D9%85-%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%AA%DB%8C%D8%BA-%D9%84%D8%A7%DB%8C%D9%87-%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C-%DA%A9%DB%8C%D8%AA-%D8%AA%D9%85%DB%8C%D8%B2%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B5%D9%88%D8%B1%D8%AA-%D9%88-%D8%A8%D8%AF%D9%86",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.412Z"
   },
   {
     "id": "torobshop-kids-toys-733ef1e66d9b337b",
@@ -7107,7 +7107,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.110Z"
+    "observedAt": "2026-09-04T17:30:39.412Z"
   },
   {
     "id": "torobshop-kids-toys-8b93c7ea550544bf",
@@ -7125,7 +7125,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.110Z"
+    "observedAt": "2026-09-04T17:30:39.412Z"
   },
   {
     "id": "torobshop-kids-toys-391c9855ce3adbee",
@@ -7143,79 +7143,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.110Z"
-  },
-  {
-    "id": "torobshop-kids-toys-80504a6da4da0683",
-    "productId": "torobshop-80504a6da4da0683",
-    "name": "اپیلاتور زنانه براون آلمان Silk épil Lady Shaver 5 – صورتی",
-    "brand": "",
-    "model": "اپیلاتور زنانه براون آلمان Silk épil Lady Shaver 5 – صورتی",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 15479000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D9%88-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%A8%D8%B1%D9%82%DB%8C-%D8%A8%DB%8C-%D8%B3%DB%8C%D9%85-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D9%85%D8%AF%D9%84-Silk-pil-Lady-Shaver-5-%D8%B5%D9%88%D8%B1%D8%AA%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.110Z"
-  },
-  {
-    "id": "torobshop-kids-toys-f0ab07848df05c09",
-    "productId": "torobshop-f0ab07848df05c09",
-    "name": "دستگاه‌های IPL براون، رفع موهای زائد، Silk·expert Pro 5 - رفع دائمی و بدون درد موهای زائد در منزل - شامل کیف با تیغ ژیلت ونوس، 2 قطعه جانبی، طراحی شده در آلمان - PL5152، سفید/طلایی",
-    "brand": "",
-    "model": "دستگاه‌های IPL براون، رفع موهای زائد، Silk·expert Pro 5 - رفع دائمی و بدون درد موهای زائد در منزل - شامل کیف با تیغ ژیلت ونوس، 2 قطعه جانبی، طراحی شده در آلمان - PL5152، سفید/طلایی",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 110386000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-IPL-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Silk-expert-Pro-5-%D8%B1%D9%81%D8%B9-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%88-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%B1%D8%AF-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AF%D8%B1-%D9%85%D9%86%D8%B2%D9%84-%D8%B4%D8%A7%D9%85%D9%84-%DA%A9%DB%8C%D9%81-%D8%A8%D8%A7-%D8%AA%DB%8C%D8%BA-%DA%98%DB%8C%D9%84%D8%AA-%D9%88%D9%86%D9%88%D8%B3-2-%D9%82%D8%B7%D8%B9%D9%87-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B4%D8%AF%D9%87-%D8%AF%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-PL5152-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.110Z"
-  },
-  {
-    "id": "torobshop-kids-toys-e364f422cc177d5d",
-    "productId": "torobshop-e364f422cc177d5d",
-    "name": "دستگاه لیزر بدن بانوان براون آلمان IPL Braun Silk Expert Pro 5 - رفع موهای زائد، رفع دائمی و بدون درد موهای زائد در منزل - شامل کیف، 2 تیغ ونوس، 2 قطعه جانبی، طراحی شده در آلمان - PL5157، سفید/طلایی",
-    "brand": "",
-    "model": "دستگاه لیزر بدن بانوان براون آلمان IPL Braun Silk Expert Pro 5 - رفع موهای زائد، رفع دائمی و بدون درد موهای زائد در منزل - شامل کیف، 2 تیغ ونوس، 2 قطعه جانبی، طراحی شده در آلمان - PL5157، سفید/طلایی",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 112163000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-IPL-Braun-Silk-Expert-Pro-5-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%B1%D9%81%D8%B9-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%88-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%B1%D8%AF-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AF%D8%B1-%D9%85%D9%86%D8%B2%D9%84-%D8%B4%D8%A7%D9%85%D9%84-%DA%A9%DB%8C%D9%81-2-%D8%AA%DB%8C%D8%BA-%D9%88%D9%86%D9%88%D8%B3-2-%D9%82%D8%B7%D8%B9%D9%87-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B4%D8%AF%D9%87-%D8%AF%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-PL5157-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.110Z"
-  },
-  {
-    "id": "torobshop-kids-toys-9195692751acb6cb",
-    "productId": "torobshop-9195692751acb6cb",
-    "name": "اپیلاتور زنانه براون آلمان Silk-épil 9، مخصوص بانوان با سری چرخان، اصلاح آسان مو، مناسب برای استفاده خشک و مرطوب، ضد آب، شامل ریش‌تراش و اصلاح‌کننده ژیلت ونوس، 9-130، سفید/صورتی",
-    "brand": "",
-    "model": "اپیلاتور زنانه براون آلمان Silk-épil 9، مخصوص بانوان با سری چرخان، اصلاح آسان مو، مناسب برای استفاده خشک و مرطوب، ضد آب، شامل ریش‌تراش و اصلاح‌کننده ژیلت ونوس، 9-130، سفید/صورتی",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 47706000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D9%85%D8%AF%D9%84-Silk-pil-9-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D8%A8%D8%A7-%D8%B3%D8%B1%DB%8C-%DA%86%D8%B1%D8%AE%D8%A7%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%A2%D8%B3%D8%A7%D9%86-%D9%85%D9%88-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AE%D8%B4%DA%A9-%D9%88-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D8%B6%D8%AF-%D8%A2%D8%A8-%D8%B4%D8%A7%D9%85%D9%84-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D9%88-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%DA%98%DB%8C%D9%84%D8%AA-%D9%88%D9%86%D9%88%D8%B3-9-130-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B5%D9%88%D8%B1%D8%AA%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.110Z"
+    "observedAt": "2026-09-04T17:30:39.412Z"
   },
   {
     "id": "torobshop-kids-toys-6ba05ec79330884d",
@@ -7233,7 +7161,79 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.110Z"
+    "observedAt": "2026-09-04T17:30:39.412Z"
+  },
+  {
+    "id": "torobshop-kids-toys-80504a6da4da0683",
+    "productId": "torobshop-80504a6da4da0683",
+    "name": "اپیلاتور زنانه براون آلمان Silk épil Lady Shaver 5 – صورتی",
+    "brand": "",
+    "model": "اپیلاتور زنانه براون آلمان Silk épil Lady Shaver 5 – صورتی",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 15479000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D9%88-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%A8%D8%B1%D9%82%DB%8C-%D8%A8%DB%8C-%D8%B3%DB%8C%D9%85-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D9%85%D8%AF%D9%84-Silk-pil-Lady-Shaver-5-%D8%B5%D9%88%D8%B1%D8%AA%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.412Z"
+  },
+  {
+    "id": "torobshop-kids-toys-f0ab07848df05c09",
+    "productId": "torobshop-f0ab07848df05c09",
+    "name": "دستگاه‌های IPL براون، رفع موهای زائد، Silk·expert Pro 5 - رفع دائمی و بدون درد موهای زائد در منزل - شامل کیف با تیغ ژیلت ونوس، 2 قطعه جانبی، طراحی شده در آلمان - PL5152، سفید/طلایی",
+    "brand": "",
+    "model": "دستگاه‌های IPL براون، رفع موهای زائد، Silk·expert Pro 5 - رفع دائمی و بدون درد موهای زائد در منزل - شامل کیف با تیغ ژیلت ونوس، 2 قطعه جانبی، طراحی شده در آلمان - PL5152، سفید/طلایی",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 110386000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-IPL-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Silk-expert-Pro-5-%D8%B1%D9%81%D8%B9-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%88-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%B1%D8%AF-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AF%D8%B1-%D9%85%D9%86%D8%B2%D9%84-%D8%B4%D8%A7%D9%85%D9%84-%DA%A9%DB%8C%D9%81-%D8%A8%D8%A7-%D8%AA%DB%8C%D8%BA-%DA%98%DB%8C%D9%84%D8%AA-%D9%88%D9%86%D9%88%D8%B3-2-%D9%82%D8%B7%D8%B9%D9%87-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B4%D8%AF%D9%87-%D8%AF%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-PL5152-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.412Z"
+  },
+  {
+    "id": "torobshop-kids-toys-e364f422cc177d5d",
+    "productId": "torobshop-e364f422cc177d5d",
+    "name": "دستگاه لیزر بدن بانوان براون آلمان IPL Braun Silk Expert Pro 5 - رفع موهای زائد، رفع دائمی و بدون درد موهای زائد در منزل - شامل کیف، 2 تیغ ونوس، 2 قطعه جانبی، طراحی شده در آلمان - PL5157، سفید/طلایی",
+    "brand": "",
+    "model": "دستگاه لیزر بدن بانوان براون آلمان IPL Braun Silk Expert Pro 5 - رفع موهای زائد، رفع دائمی و بدون درد موهای زائد در منزل - شامل کیف، 2 تیغ ونوس، 2 قطعه جانبی، طراحی شده در آلمان - PL5157، سفید/طلایی",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 112163000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-IPL-Braun-Silk-Expert-Pro-5-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%B1%D9%81%D8%B9-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%88-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%B1%D8%AF-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AF%D8%B1-%D9%85%D9%86%D8%B2%D9%84-%D8%B4%D8%A7%D9%85%D9%84-%DA%A9%DB%8C%D9%81-2-%D8%AA%DB%8C%D8%BA-%D9%88%D9%86%D9%88%D8%B3-2-%D9%82%D8%B7%D8%B9%D9%87-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B4%D8%AF%D9%87-%D8%AF%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-PL5157-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.412Z"
+  },
+  {
+    "id": "torobshop-kids-toys-9195692751acb6cb",
+    "productId": "torobshop-9195692751acb6cb",
+    "name": "اپیلاتور زنانه براون آلمان Silk-épil 9، مخصوص بانوان با سری چرخان، اصلاح آسان مو، مناسب برای استفاده خشک و مرطوب، ضد آب، شامل ریش‌تراش و اصلاح‌کننده ژیلت ونوس، 9-130، سفید/صورتی",
+    "brand": "",
+    "model": "اپیلاتور زنانه براون آلمان Silk-épil 9، مخصوص بانوان با سری چرخان، اصلاح آسان مو، مناسب برای استفاده خشک و مرطوب، ضد آب، شامل ریش‌تراش و اصلاح‌کننده ژیلت ونوس، 9-130، سفید/صورتی",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 47706000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D9%85%D8%AF%D9%84-Silk-pil-9-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D8%A8%D8%A7-%D8%B3%D8%B1%DB%8C-%DA%86%D8%B1%D8%AE%D8%A7%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%A2%D8%B3%D8%A7%D9%86-%D9%85%D9%88-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AE%D8%B4%DA%A9-%D9%88-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D8%B6%D8%AF-%D8%A2%D8%A8-%D8%B4%D8%A7%D9%85%D9%84-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D9%88-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%DA%98%DB%8C%D9%84%D8%AA-%D9%88%D9%86%D9%88%D8%B3-9-130-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B5%D9%88%D8%B1%D8%AA%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.412Z"
   },
   {
     "id": "torobshop-kids-toys-f7e7ecdbe9c782b9",
@@ -7251,7 +7251,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.110Z"
+    "observedAt": "2026-09-04T17:30:39.412Z"
   },
   {
     "id": "torobshop-kids-toys-b6f7b97e0a41fcce",
@@ -7269,7 +7269,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.110Z"
+    "observedAt": "2026-09-04T17:30:39.412Z"
   },
   {
     "id": "torobshop-kids-toys-7f7cef16b95ceef4",
@@ -7287,7 +7287,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.110Z"
+    "observedAt": "2026-09-04T17:30:39.412Z"
   },
   {
     "id": "torobshop-kids-toys-1abc4d3d93984fc9",
@@ -7305,7 +7305,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.110Z"
+    "observedAt": "2026-09-04T17:30:39.412Z"
   },
   {
     "id": "torobshop-kids-toys-333eed5c812fb391",
@@ -7323,61 +7323,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.110Z"
-  },
-  {
-    "id": "torobshop-kids-toys-45f8a3eeff0791c7",
-    "productId": "torobshop-45f8a3eeff0791c7",
-    "name": "سشوار فیلیپس مدل Airstyler 3000، 3 سری، برس هوای گرم 800 واتی (مدل BHA305/00)",
-    "brand": "",
-    "model": "سشوار فیلیپس مدل Airstyler 3000، 3 سری، برس هوای گرم 800 واتی (مدل BHA305/00)",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 18524000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B4%D9%88%D8%A7%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%85%D8%AF%D9%84-Airstyler-3000-3-%D8%B3%D8%B1%DB%8C-%D8%A8%D8%B1%D8%B3-%D9%87%D9%88%D8%A7%DB%8C-%DA%AF%D8%B1%D9%85-800-%D9%88%D8%A7%D8%AA%DB%8C-%D9%85%D8%AF%D9%84-BHA305-00",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.110Z"
-  },
-  {
-    "id": "torobshop-kids-toys-bff623028ca50588",
-    "productId": "torobshop-bff623028ca50588",
-    "name": "ریش‌تراش برقی بی‌سیم فیلیپس سری لیدی شیور ۸۰۰۰، مناسب برای اصلاح صورت خشک و تر، سر اصلاح انعطاف‌پذیر با ۳ تیغه، چراغ LED برای پاها و بدن، زمان کارکرد ۱۰۰ دقیقه، مدل BRL129/00",
-    "brand": "",
-    "model": "ریش‌تراش برقی بی‌سیم فیلیپس سری لیدی شیور ۸۰۰۰، مناسب برای اصلاح صورت خشک و تر، سر اصلاح انعطاف‌پذیر با ۳ تیغه، چراغ LED برای پاها و بدن، زمان کارکرد ۱۰۰ دقیقه، مدل BRL129/00",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 19539000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D8%A8%D8%B1%D9%82%DB%8C-%D8%A8%DB%8C-%D8%B3%DB%8C%D9%85-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%B3%D8%B1%DB%8C-%D9%84%DB%8C%D8%AF%DB%8C-%D8%B4%DB%8C%D9%88%D8%B1-%DB%B8%DB%B0%DB%B0%DB%B0-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%B5%D9%88%D8%B1%D8%AA-%D8%AE%D8%B4%DA%A9-%D9%88-%D8%AA%D8%B1-%D8%B3%D8%B1-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%A7%D9%86%D8%B9%D8%B7%D8%A7%D9%81-%D9%BE%D8%B0%DB%8C%D8%B1-%D8%A8%D8%A7-%DB%B3-%D8%AA%DB%8C%D8%BA%D9%87-%DA%86%D8%B1%D8%A7%D8%BA-LED-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D8%A7%D9%87%D8%A7-%D9%88-%D8%A8%D8%AF%D9%86-%D8%B2%D9%85%D8%A7%D9%86-%DA%A9%D8%A7%D8%B1%DA%A9%D8%B1%D8%AF-%DB%B1%DB%B0%DB%B0-%D8%AF%D9%82%DB%8C%D9%82%D9%87-%D9%85%D8%AF%D9%84-BRL129-00",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.110Z"
-  },
-  {
-    "id": "torobshop-kids-toys-d5e3206967150e5a",
-    "productId": "torobshop-d5e3206967150e5a",
-    "name": "دستگاه‌های IPL هوشمند براون، حذف موهای زائد Silk·expert Pro 5 - لیزر حرفه‌ای دائمی و بدون درد موهای زائد برای خانه، طراحی شده در آلمان - شامل جعبه، 1 قطعه الحاقی - PL5100، سفید/طلایی",
-    "brand": "",
-    "model": "دستگاه‌های IPL هوشمند براون، حذف موهای زائد Silk·expert Pro 5 - لیزر حرفه‌ای دائمی و بدون درد موهای زائد برای خانه، طراحی شده در آلمان - شامل جعبه، 1 قطعه الحاقی - PL5100، سفید/طلایی",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 90339000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-IPL-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%AD%D8%B0%D9%81-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Silk-expert-Pro-5-%D9%84%DB%8C%D8%B2%D8%B1-%D8%AD%D8%B1%D9%81%D9%87-%D8%A7%DB%8C-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%88-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%B1%D8%AF-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AE%D8%A7%D9%86%D9%87-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B4%D8%AF%D9%87-%D8%AF%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%B4%D8%A7%D9%85%D9%84-%D8%AC%D8%B9%D8%A8%D9%87-1-%D9%82%D8%B7%D8%B9%D9%87-%D8%A7%D9%84%D8%AD%D8%A7%D9%82%DB%8C-PL5100-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.110Z"
+    "observedAt": "2026-09-04T17:30:39.412Z"
   },
   {
     "id": "torobshop-kids-toys-591d2fa02319cbe4",
@@ -7395,7 +7341,61 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.110Z"
+    "observedAt": "2026-09-04T17:30:39.413Z"
+  },
+  {
+    "id": "torobshop-kids-toys-45f8a3eeff0791c7",
+    "productId": "torobshop-45f8a3eeff0791c7",
+    "name": "سشوار فیلیپس مدل Airstyler 3000، 3 سری، برس هوای گرم 800 واتی (مدل BHA305/00)",
+    "brand": "",
+    "model": "سشوار فیلیپس مدل Airstyler 3000، 3 سری، برس هوای گرم 800 واتی (مدل BHA305/00)",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 18524000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B4%D9%88%D8%A7%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%85%D8%AF%D9%84-Airstyler-3000-3-%D8%B3%D8%B1%DB%8C-%D8%A8%D8%B1%D8%B3-%D9%87%D9%88%D8%A7%DB%8C-%DA%AF%D8%B1%D9%85-800-%D9%88%D8%A7%D8%AA%DB%8C-%D9%85%D8%AF%D9%84-BHA305-00",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.413Z"
+  },
+  {
+    "id": "torobshop-kids-toys-bff623028ca50588",
+    "productId": "torobshop-bff623028ca50588",
+    "name": "ریش‌تراش برقی بی‌سیم فیلیپس سری لیدی شیور ۸۰۰۰، مناسب برای اصلاح صورت خشک و تر، سر اصلاح انعطاف‌پذیر با ۳ تیغه، چراغ LED برای پاها و بدن، زمان کارکرد ۱۰۰ دقیقه، مدل BRL129/00",
+    "brand": "",
+    "model": "ریش‌تراش برقی بی‌سیم فیلیپس سری لیدی شیور ۸۰۰۰، مناسب برای اصلاح صورت خشک و تر، سر اصلاح انعطاف‌پذیر با ۳ تیغه، چراغ LED برای پاها و بدن، زمان کارکرد ۱۰۰ دقیقه، مدل BRL129/00",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 19539000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D8%A8%D8%B1%D9%82%DB%8C-%D8%A8%DB%8C-%D8%B3%DB%8C%D9%85-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%B3%D8%B1%DB%8C-%D9%84%DB%8C%D8%AF%DB%8C-%D8%B4%DB%8C%D9%88%D8%B1-%DB%B8%DB%B0%DB%B0%DB%B0-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%B5%D9%88%D8%B1%D8%AA-%D8%AE%D8%B4%DA%A9-%D9%88-%D8%AA%D8%B1-%D8%B3%D8%B1-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%A7%D9%86%D8%B9%D8%B7%D8%A7%D9%81-%D9%BE%D8%B0%DB%8C%D8%B1-%D8%A8%D8%A7-%DB%B3-%D8%AA%DB%8C%D8%BA%D9%87-%DA%86%D8%B1%D8%A7%D8%BA-LED-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D8%A7%D9%87%D8%A7-%D9%88-%D8%A8%D8%AF%D9%86-%D8%B2%D9%85%D8%A7%D9%86-%DA%A9%D8%A7%D8%B1%DA%A9%D8%B1%D8%AF-%DB%B1%DB%B0%DB%B0-%D8%AF%D9%82%DB%8C%D9%82%D9%87-%D9%85%D8%AF%D9%84-BRL129-00",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.413Z"
+  },
+  {
+    "id": "torobshop-kids-toys-d5e3206967150e5a",
+    "productId": "torobshop-d5e3206967150e5a",
+    "name": "دستگاه‌های IPL هوشمند براون، حذف موهای زائد Silk·expert Pro 5 - لیزر حرفه‌ای دائمی و بدون درد موهای زائد برای خانه، طراحی شده در آلمان - شامل جعبه، 1 قطعه الحاقی - PL5100، سفید/طلایی",
+    "brand": "",
+    "model": "دستگاه‌های IPL هوشمند براون، حذف موهای زائد Silk·expert Pro 5 - لیزر حرفه‌ای دائمی و بدون درد موهای زائد برای خانه، طراحی شده در آلمان - شامل جعبه، 1 قطعه الحاقی - PL5100، سفید/طلایی",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 90339000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-IPL-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%AD%D8%B0%D9%81-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Silk-expert-Pro-5-%D9%84%DB%8C%D8%B2%D8%B1-%D8%AD%D8%B1%D9%81%D9%87-%D8%A7%DB%8C-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%88-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%B1%D8%AF-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AE%D8%A7%D9%86%D9%87-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B4%D8%AF%D9%87-%D8%AF%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%B4%D8%A7%D9%85%D9%84-%D8%AC%D8%B9%D8%A8%D9%87-1-%D9%82%D8%B7%D8%B9%D9%87-%D8%A7%D9%84%D8%AD%D8%A7%D9%82%DB%8C-PL5100-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.413Z"
   },
   {
     "id": "torobshop-kids-toys-2a6259b902f04fb9",
@@ -7413,7 +7413,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.110Z"
+    "observedAt": "2026-09-04T17:30:39.413Z"
   },
   {
     "id": "torobshop-kids-toys-fb66328b02aeada9",
@@ -7431,7 +7431,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.110Z"
+    "observedAt": "2026-09-04T17:30:39.413Z"
   },
   {
     "id": "torobshop-kids-toys-ef59c7447c918481",
@@ -7449,7 +7449,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.110Z"
+    "observedAt": "2026-09-04T17:30:39.413Z"
   },
   {
     "id": "torobshop-kids-toys-ec0c6101e09fd316",
@@ -7467,7 +7467,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.110Z"
+    "observedAt": "2026-09-04T17:30:39.413Z"
   },
   {
     "id": "torobshop-kids-toys-4b1136653b8c3865",
@@ -7485,7 +7485,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.110Z"
+    "observedAt": "2026-09-04T17:30:39.413Z"
   },
   {
     "id": "torobshop-kids-toys-99dbc61e2d2488d7",
@@ -7503,7 +7503,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.110Z"
+    "observedAt": "2026-09-04T17:30:39.413Z"
   },
   {
     "id": "torobshop-kids-toys-091330dc970a0bbe",
@@ -7521,7 +7521,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.110Z"
+    "observedAt": "2026-09-04T17:30:39.413Z"
   },
   {
     "id": "torobshop-kids-toys-3fe480d61f801988",
@@ -7539,7 +7539,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.110Z"
+    "observedAt": "2026-09-04T17:30:39.413Z"
   },
   {
     "id": "torobshop-kids-toys-9c53c942a980e1d6",
@@ -7557,43 +7557,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.110Z"
-  },
-  {
-    "id": "torobshop-kids-toys-20c5a20079487b1a",
-    "productId": "torobshop-20c5a20079487b1a",
-    "name": "فرکننده موی اتوماتیک فیلیپس مدل BHB878 / 00 MoistureProtect",
-    "brand": "",
-    "model": "فرکننده موی اتوماتیک فیلیپس مدل BHB878 / 00 MoistureProtect",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 35273000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%81%D8%B1%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D9%85%D9%88%DB%8C-%D8%A7%D8%AA%D9%88%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%85%D8%AF%D9%84-BHB878-00-MoistureProtect",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.110Z"
-  },
-  {
-    "id": "torobshop-kids-toys-acc19b901c8b2ad8",
-    "productId": "torobshop-acc19b901c8b2ad8",
-    "name": "اپیلاتور صورت براون فیس اسپا پرو مخصوص خانم‌ها، ست زیبایی SE921، برنز - موبر صورت، برس پاکسازی صورت، جعبه نگهداری، موبر، پاکسازی و سفت کردن پوست، ضد آب 3 در 1 SE921",
-    "brand": "",
-    "model": "اپیلاتور صورت براون فیس اسپا پرو مخصوص خانم‌ها، ست زیبایی SE921، برنز - موبر صورت، برس پاکسازی صورت، جعبه نگهداری، موبر، پاکسازی و سفت کردن پوست، ضد آب 3 در 1 SE921",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 45422000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B5%D9%88%D8%B1%D8%AA-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D9%81%DB%8C%D8%B3-%D8%A7%D8%B3%D9%BE%D8%A7-%D9%BE%D8%B1%D9%88-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%AE%D8%A7%D9%86%D9%85-%D9%87%D8%A7-%D8%B3%D8%AA-%D8%B2%DB%8C%D8%A8%D8%A7%DB%8C%DB%8C-SE921-%D8%A8%D8%B1%D9%86%D8%B2-%D9%85%D9%88%D8%A8%D8%B1-%D8%B5%D9%88%D8%B1%D8%AA-%D8%A8%D8%B1%D8%B3-%D9%BE%D8%A7%DA%A9%D8%B3%D8%A7%D8%B2%DB%8C-%D8%B5%D9%88%D8%B1%D8%AA-%D8%AC%D8%B9%D8%A8%D9%87-%D9%86%DA%AF%D9%87%D8%AF%D8%A7%D8%B1%DB%8C-%D9%85%D9%88%D8%A8%D8%B1-%D9%BE%D8%A7%DA%A9%D8%B3%D8%A7%D8%B2%DB%8C-%D9%88-%D8%B3%D9%81%D8%AA-%DA%A9%D8%B1%D8%AF%D9%86-%D9%BE%D9%88%D8%B3%D8%AA-%D8%B6%D8%AF-%D8%A2%D8%A8-3-%D8%AF%D8%B1-1-SE921",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.110Z"
+    "observedAt": "2026-09-04T17:30:39.413Z"
   },
   {
     "id": "torobshop-kids-toys-74fc37b5d70bd7c1",
@@ -7611,7 +7575,43 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.110Z"
+    "observedAt": "2026-09-04T17:30:39.413Z"
+  },
+  {
+    "id": "torobshop-kids-toys-20c5a20079487b1a",
+    "productId": "torobshop-20c5a20079487b1a",
+    "name": "فرکننده موی اتوماتیک فیلیپس مدل BHB878 / 00 MoistureProtect",
+    "brand": "",
+    "model": "فرکننده موی اتوماتیک فیلیپس مدل BHB878 / 00 MoistureProtect",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 35273000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%81%D8%B1%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D9%85%D9%88%DB%8C-%D8%A7%D8%AA%D9%88%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%85%D8%AF%D9%84-BHB878-00-MoistureProtect",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.413Z"
+  },
+  {
+    "id": "torobshop-kids-toys-acc19b901c8b2ad8",
+    "productId": "torobshop-acc19b901c8b2ad8",
+    "name": "اپیلاتور صورت براون فیس اسپا پرو مخصوص خانم‌ها، ست زیبایی SE921، برنز - موبر صورت، برس پاکسازی صورت، جعبه نگهداری، موبر، پاکسازی و سفت کردن پوست، ضد آب 3 در 1 SE921",
+    "brand": "",
+    "model": "اپیلاتور صورت براون فیس اسپا پرو مخصوص خانم‌ها، ست زیبایی SE921، برنز - موبر صورت، برس پاکسازی صورت، جعبه نگهداری، موبر، پاکسازی و سفت کردن پوست، ضد آب 3 در 1 SE921",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 45422000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B5%D9%88%D8%B1%D8%AA-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D9%81%DB%8C%D8%B3-%D8%A7%D8%B3%D9%BE%D8%A7-%D9%BE%D8%B1%D9%88-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%AE%D8%A7%D9%86%D9%85-%D9%87%D8%A7-%D8%B3%D8%AA-%D8%B2%DB%8C%D8%A8%D8%A7%DB%8C%DB%8C-SE921-%D8%A8%D8%B1%D9%86%D8%B2-%D9%85%D9%88%D8%A8%D8%B1-%D8%B5%D9%88%D8%B1%D8%AA-%D8%A8%D8%B1%D8%B3-%D9%BE%D8%A7%DA%A9%D8%B3%D8%A7%D8%B2%DB%8C-%D8%B5%D9%88%D8%B1%D8%AA-%D8%AC%D8%B9%D8%A8%D9%87-%D9%86%DA%AF%D9%87%D8%AF%D8%A7%D8%B1%DB%8C-%D9%85%D9%88%D8%A8%D8%B1-%D9%BE%D8%A7%DA%A9%D8%B3%D8%A7%D8%B2%DB%8C-%D9%88-%D8%B3%D9%81%D8%AA-%DA%A9%D8%B1%D8%AF%D9%86-%D9%BE%D9%88%D8%B3%D8%AA-%D8%B6%D8%AF-%D8%A2%D8%A8-3-%D8%AF%D8%B1-1-SE921",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.413Z"
   },
   {
     "id": "torobshop-kids-toys-215471b6024642b7",
@@ -7629,7 +7629,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.110Z"
+    "observedAt": "2026-09-04T17:30:39.413Z"
   },
   {
     "id": "torobshop-kids-toys-69bba0d6d694a47d",
@@ -7647,7 +7647,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.110Z"
+    "observedAt": "2026-09-04T17:30:39.413Z"
   },
   {
     "id": "torobshop-kids-toys-a95fac45da84a72b",
@@ -7665,7 +7665,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.110Z"
+    "observedAt": "2026-09-04T17:30:39.413Z"
   },
   {
     "id": "torobshop-kids-toys-27f7af68d3543ffb",
@@ -7683,7 +7683,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.110Z"
+    "observedAt": "2026-09-04T17:30:39.413Z"
   },
   {
     "id": "torobshop-kids-toys-01be123cfbff3d67",
@@ -7701,25 +7701,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.110Z"
-  },
-  {
-    "id": "torobshop-kids-toys-ac9daafe2ea5d5bc",
-    "productId": "torobshop-ac9daafe2ea5d5bc",
-    "name": "دستگاه لیزر بدن بانوان براون آلمان Braun IPL Silk Expert Pro 3، دارای ۲ سری، رفع موهای زائد قابل مشاهده، طراحی شده در آلمان، رفع موهای زائد صورت، جایگزین لیزر موهای زائد، PL3139، سفید/نقره‌ای",
-    "brand": "",
-    "model": "دستگاه لیزر بدن بانوان براون آلمان Braun IPL Silk Expert Pro 3، دارای ۲ سری، رفع موهای زائد قابل مشاهده، طراحی شده در آلمان، رفع موهای زائد صورت، جایگزین لیزر موهای زائد، PL3139، سفید/نقره‌ای",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 90339000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%B2%D9%86%D8%A7%D9%86%D9%87-Braun-IPL-Silk-Expert-Pro-3-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C-%DB%B2-%D8%B3%D8%B1%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D9%82%D8%A7%D8%A8%D9%84-%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D9%87-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B4%D8%AF%D9%87-%D8%AF%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%B5%D9%88%D8%B1%D8%AA-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D9%84%DB%8C%D8%B2%D8%B1-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-PL3139-%D8%B3%D9%81%DB%8C%D8%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.110Z"
+    "observedAt": "2026-09-04T17:30:39.413Z"
   },
   {
     "id": "torobshop-kids-toys-ed3206a7c4997ceb",
@@ -7737,7 +7719,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.111Z"
+    "observedAt": "2026-09-04T17:30:39.413Z"
   },
   {
     "id": "torobshop-kids-toys-ab3241a3e4a91b6d",
@@ -7755,25 +7737,25 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.111Z"
+    "observedAt": "2026-09-04T17:30:39.413Z"
   },
   {
-    "id": "torobshop-kids-toys-5939ecdc87bd4f0d",
-    "productId": "torobshop-5939ecdc87bd4f0d",
-    "name": "سشوار فیلیپس سری ۳۰۰۰ با سیستم یون پیشرفته (مدل BHD351/10)",
+    "id": "torobshop-kids-toys-ac9daafe2ea5d5bc",
+    "productId": "torobshop-ac9daafe2ea5d5bc",
+    "name": "دستگاه لیزر بدن بانوان براون آلمان Braun IPL Silk Expert Pro 3، دارای ۲ سری، رفع موهای زائد قابل مشاهده، طراحی شده در آلمان، رفع موهای زائد صورت، جایگزین لیزر موهای زائد، PL3139، سفید/نقره‌ای",
     "brand": "",
-    "model": "سشوار فیلیپس سری ۳۰۰۰ با سیستم یون پیشرفته (مدل BHD351/10)",
+    "model": "دستگاه لیزر بدن بانوان براون آلمان Braun IPL Silk Expert Pro 3، دارای ۲ سری، رفع موهای زائد قابل مشاهده، طراحی شده در آلمان، رفع موهای زائد صورت، جایگزین لیزر موهای زائد، PL3139، سفید/نقره‌ای",
     "category": "kids-toys",
     "subcategory": "عروسک",
-    "price": 15226000,
+    "price": 90339000,
     "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B4%D9%88%D8%A7%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%B3%D8%B1%DB%8C-%DB%B3%DB%B0%DB%B0%DB%B0-%D8%A8%D8%A7-%D8%B3%DB%8C%D8%B3%D8%AA%D9%85-%DB%8C%D9%88%D9%86-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87-%D9%85%D8%AF%D9%84-BHD351-10",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%B2%D9%86%D8%A7%D9%86%D9%87-Braun-IPL-Silk-Expert-Pro-3-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C-%DB%B2-%D8%B3%D8%B1%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D9%82%D8%A7%D8%A8%D9%84-%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D9%87-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B4%D8%AF%D9%87-%D8%AF%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%B5%D9%88%D8%B1%D8%AA-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D9%84%DB%8C%D8%B2%D8%B1-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-PL3139-%D8%B3%D9%81%DB%8C%D8%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.111Z"
+    "observedAt": "2026-09-04T17:30:39.413Z"
   },
   {
     "id": "torobshop-kids-toys-db81d40bcc397e16",
@@ -7791,7 +7773,25 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.111Z"
+    "observedAt": "2026-09-04T17:30:39.413Z"
+  },
+  {
+    "id": "torobshop-kids-toys-5939ecdc87bd4f0d",
+    "productId": "torobshop-5939ecdc87bd4f0d",
+    "name": "سشوار فیلیپس سری ۳۰۰۰ با سیستم یون پیشرفته (مدل BHD351/10)",
+    "brand": "",
+    "model": "سشوار فیلیپس سری ۳۰۰۰ با سیستم یون پیشرفته (مدل BHD351/10)",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 15226000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B4%D9%88%D8%A7%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%B3%D8%B1%DB%8C-%DB%B3%DB%B0%DB%B0%DB%B0-%D8%A8%D8%A7-%D8%B3%DB%8C%D8%B3%D8%AA%D9%85-%DB%8C%D9%88%D9%86-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87-%D9%85%D8%AF%D9%84-BHD351-10",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.413Z"
   },
   {
     "id": "torobshop-kids-toys-08320ee86e550b3d",
@@ -7809,7 +7809,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.111Z"
+    "observedAt": "2026-09-04T17:30:39.413Z"
   },
   {
     "id": "torobshop-kids-toys-3e4d9495e052b1b8",
@@ -7827,25 +7827,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.111Z"
-  },
-  {
-    "id": "torobshop-kids-toys-301beb96f2df717f",
-    "productId": "torobshop-301beb96f2df717f",
-    "name": "دستگاه IPL Braun Silk·expert Pro 5 - دستگاه رفع موهای زائد IPL، رفع دائمی و بدون درد موهای زائد در منزل - شامل کیف، تیغ ونوس، 2 قطعه جانبی، طراحی شده در آلمان - PL5156، سفید/طلایی",
-    "brand": "",
-    "model": "دستگاه IPL Braun Silk·expert Pro 5 - دستگاه رفع موهای زائد IPL، رفع دائمی و بدون درد موهای زائد در منزل - شامل کیف، تیغ ونوس، 2 قطعه جانبی، طراحی شده در آلمان - PL5156، سفید/طلایی",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 103788000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-IPL-Braun-Silk-expert-Pro-5-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-IPL-%D8%B1%D9%81%D8%B9-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%88-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%B1%D8%AF-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AF%D8%B1-%D9%85%D9%86%D8%B2%D9%84-%D8%B4%D8%A7%D9%85%D9%84-%DA%A9%DB%8C%D9%81-%D8%AA%DB%8C%D8%BA-%D9%88%D9%86%D9%88%D8%B3-2-%D9%82%D8%B7%D8%B9%D9%87-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B4%D8%AF%D9%87-%D8%AF%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-PL5156-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.111Z"
+    "observedAt": "2026-09-04T17:30:39.413Z"
   },
   {
     "id": "torobshop-kids-toys-a5fddfc8c0c99048",
@@ -7863,43 +7845,25 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.111Z"
+    "observedAt": "2026-09-04T17:30:39.413Z"
   },
   {
-    "id": "torobshop-kids-toys-834858ae4530d775",
-    "productId": "torobshop-834858ae4530d775",
-    "name": "اپیلاتور براون سیلک-اپیل ۷ مخصوص خانم‌ها، موبر برای رفع موهای زائد با ماندگاری طولانی، اصلاح بانوان، ضد آب - شامل اصلاح‌کننده بیکینی (اصلاح‌کننده موهای ناحیه تناسلی)، ۷-۲۱۰، سفید/صورتی + ۸ مورد اضافی + اصلاح‌کننده بیکینی",
+    "id": "torobshop-kids-toys-301beb96f2df717f",
+    "productId": "torobshop-301beb96f2df717f",
+    "name": "دستگاه IPL Braun Silk·expert Pro 5 - دستگاه رفع موهای زائد IPL، رفع دائمی و بدون درد موهای زائد در منزل - شامل کیف، تیغ ونوس، 2 قطعه جانبی، طراحی شده در آلمان - PL5156، سفید/طلایی",
     "brand": "",
-    "model": "اپیلاتور براون سیلک-اپیل ۷ مخصوص خانم‌ها، موبر برای رفع موهای زائد با ماندگاری طولانی، اصلاح بانوان، ضد آب - شامل اصلاح‌کننده بیکینی (اصلاح‌کننده موهای ناحیه تناسلی)، ۷-۲۱۰، سفید/صورتی + ۸ مورد اضافی + اصلاح‌کننده بیکینی",
+    "model": "دستگاه IPL Braun Silk·expert Pro 5 - دستگاه رفع موهای زائد IPL، رفع دائمی و بدون درد موهای زائد در منزل - شامل کیف، تیغ ونوس، 2 قطعه جانبی، طراحی شده در آلمان - PL5156، سفید/طلایی",
     "category": "kids-toys",
     "subcategory": "عروسک",
-    "price": 38825000,
+    "price": 103788000,
     "currency": "IRT",
     "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B3%DB%8C%D9%84%DA%A9-%D8%A7%D9%BE%DB%8C%D9%84-%DB%B7-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%AE%D8%A7%D9%86%D9%85-%D9%87%D8%A7-%D9%85%D9%88%D8%A8%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%D8%A7-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1%DB%8C-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D8%B6%D8%AF-%D8%A2%D8%A8-%D8%B4%D8%A7%D9%85%D9%84-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%A8%DB%8C%DA%A9%DB%8C%D9%86%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D9%86%D8%A7%D8%AD%DB%8C%D9%87-%D8%AA%D9%86%D8%A7%D8%B3%D9%84%DB%8C-%DB%B7-%DB%B2%DB%B1%DB%B0-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B5%D9%88%D8%B1%D8%AA%DB%8C-%DB%B8-%D9%85%D9%88%D8%B1%D8%AF-%D8%A7%D8%B6%D8%A7%D9%81%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%A8%DB%8C%DA%A9%DB%8C%D9%86%DB%8C",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-IPL-Braun-Silk-expert-Pro-5-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-IPL-%D8%B1%D9%81%D8%B9-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%88-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%B1%D8%AF-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AF%D8%B1-%D9%85%D9%86%D8%B2%D9%84-%D8%B4%D8%A7%D9%85%D9%84-%DA%A9%DB%8C%D9%81-%D8%AA%DB%8C%D8%BA-%D9%88%D9%86%D9%88%D8%B3-2-%D9%82%D8%B7%D8%B9%D9%87-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B4%D8%AF%D9%87-%D8%AF%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-PL5156-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.111Z"
-  },
-  {
-    "id": "torobshop-kids-toys-2798976de6f0cc81",
-    "productId": "torobshop-2798976de6f0cc81",
-    "name": "دستگاه‌های IPL براون، رفع موهای زائد، Silk·expert Pro 3 - رفع دائمی و بدون درد موهای زائد در منزل - شامل کیف نگهداری، تیغ ژیلت ونوس و 3 وسیله جانبی - PL3222، سفید/نقره‌ای",
-    "brand": "",
-    "model": "دستگاه‌های IPL براون، رفع موهای زائد، Silk·expert Pro 3 - رفع دائمی و بدون درد موهای زائد در منزل - شامل کیف نگهداری، تیغ ژیلت ونوس و 3 وسیله جانبی - PL3222، سفید/نقره‌ای",
-    "category": "kids-toys",
-    "subcategory": "عروسک",
-    "price": 123835000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-IPL-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Silk-expert-Pro-3-%D8%B1%D9%81%D8%B9-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%88-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%B1%D8%AF-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AF%D8%B1-%D9%85%D9%86%D8%B2%D9%84-%D8%B4%D8%A7%D9%85%D9%84-%DA%A9%DB%8C%D9%81-%D9%86%DA%AF%D9%87%D8%AF%D8%A7%D8%B1%DB%8C-%D8%AA%DB%8C%D8%BA-%DA%98%DB%8C%D9%84%D8%AA-%D9%88%D9%86%D9%88%D8%B3-%D9%88-3-%D9%88%D8%B3%DB%8C%D9%84%D9%87-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-PL3222-%D8%B3%D9%81%DB%8C%D8%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.111Z"
+    "observedAt": "2026-09-04T17:30:39.413Z"
   },
   {
     "id": "torobshop-kids-toys-1059c1f184e3d8b3",
@@ -7917,7 +7881,43 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.111Z"
+    "observedAt": "2026-09-04T17:30:39.413Z"
+  },
+  {
+    "id": "torobshop-kids-toys-834858ae4530d775",
+    "productId": "torobshop-834858ae4530d775",
+    "name": "اپیلاتور براون سیلک-اپیل ۷ مخصوص خانم‌ها، موبر برای رفع موهای زائد با ماندگاری طولانی، اصلاح بانوان، ضد آب - شامل اصلاح‌کننده بیکینی (اصلاح‌کننده موهای ناحیه تناسلی)، ۷-۲۱۰، سفید/صورتی + ۸ مورد اضافی + اصلاح‌کننده بیکینی",
+    "brand": "",
+    "model": "اپیلاتور براون سیلک-اپیل ۷ مخصوص خانم‌ها، موبر برای رفع موهای زائد با ماندگاری طولانی، اصلاح بانوان، ضد آب - شامل اصلاح‌کننده بیکینی (اصلاح‌کننده موهای ناحیه تناسلی)، ۷-۲۱۰، سفید/صورتی + ۸ مورد اضافی + اصلاح‌کننده بیکینی",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 38825000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B3%DB%8C%D9%84%DA%A9-%D8%A7%D9%BE%DB%8C%D9%84-%DB%B7-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%AE%D8%A7%D9%86%D9%85-%D9%87%D8%A7-%D9%85%D9%88%D8%A8%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%D8%A7-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1%DB%8C-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D8%B6%D8%AF-%D8%A2%D8%A8-%D8%B4%D8%A7%D9%85%D9%84-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%A8%DB%8C%DA%A9%DB%8C%D9%86%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D9%86%D8%A7%D8%AD%DB%8C%D9%87-%D8%AA%D9%86%D8%A7%D8%B3%D9%84%DB%8C-%DB%B7-%DB%B2%DB%B1%DB%B0-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B5%D9%88%D8%B1%D8%AA%DB%8C-%DB%B8-%D9%85%D9%88%D8%B1%D8%AF-%D8%A7%D8%B6%D8%A7%D9%81%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%A8%DB%8C%DA%A9%DB%8C%D9%86%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.413Z"
+  },
+  {
+    "id": "torobshop-kids-toys-2798976de6f0cc81",
+    "productId": "torobshop-2798976de6f0cc81",
+    "name": "دستگاه‌های IPL براون، رفع موهای زائد، Silk·expert Pro 3 - رفع دائمی و بدون درد موهای زائد در منزل - شامل کیف نگهداری، تیغ ژیلت ونوس و 3 وسیله جانبی - PL3222، سفید/نقره‌ای",
+    "brand": "",
+    "model": "دستگاه‌های IPL براون، رفع موهای زائد، Silk·expert Pro 3 - رفع دائمی و بدون درد موهای زائد در منزل - شامل کیف نگهداری، تیغ ژیلت ونوس و 3 وسیله جانبی - PL3222، سفید/نقره‌ای",
+    "category": "kids-toys",
+    "subcategory": "عروسک",
+    "price": 123835000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-IPL-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Silk-expert-Pro-3-%D8%B1%D9%81%D8%B9-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%88-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%B1%D8%AF-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AF%D8%B1-%D9%85%D9%86%D8%B2%D9%84-%D8%B4%D8%A7%D9%85%D9%84-%DA%A9%DB%8C%D9%81-%D9%86%DA%AF%D9%87%D8%AF%D8%A7%D8%B1%DB%8C-%D8%AA%DB%8C%D8%BA-%DA%98%DB%8C%D9%84%D8%AA-%D9%88%D9%86%D9%88%D8%B3-%D9%88-3-%D9%88%D8%B3%DB%8C%D9%84%D9%87-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-PL3222-%D8%B3%D9%81%DB%8C%D8%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-04T17:30:39.413Z"
   },
   {
     "id": "torobshop-kids-toys-68a4dab928f7c962",
@@ -7935,7 +7935,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.111Z"
+    "observedAt": "2026-09-04T17:30:39.413Z"
   },
   {
     "id": "torobshop-kids-toys-d5b957f7df4ff03f",
@@ -7953,7 +7953,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.111Z"
+    "observedAt": "2026-09-04T17:30:39.413Z"
   },
   {
     "id": "torobshop-kids-toys-707702931ea634d8",
@@ -7971,7 +7971,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.111Z"
+    "observedAt": "2026-09-04T17:30:39.413Z"
   },
   {
     "id": "torobshop-kids-toys-d8e34bb113f4f352",
@@ -7989,7 +7989,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.111Z"
+    "observedAt": "2026-09-04T17:30:39.413Z"
   },
   {
     "id": "torobshop-kids-toys-2a3268e48e6a43b8",
@@ -8007,7 +8007,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.111Z"
+    "observedAt": "2026-09-04T17:30:39.413Z"
   },
   {
     "id": "torobshop-kids-toys-28255666c26f658a",
@@ -8025,7 +8025,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.111Z"
+    "observedAt": "2026-09-04T17:30:39.413Z"
   },
   {
     "id": "torobshop-kids-toys-9a0fccac9db69875",
@@ -8043,7 +8043,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.111Z"
+    "observedAt": "2026-09-04T17:30:39.413Z"
   },
   {
     "id": "torobshop-kids-toys-93e51ab5d27d6671",
@@ -8061,7 +8061,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%B9%D8%B1%D9%88%D8%B3%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:42:26.111Z"
+    "observedAt": "2026-09-04T17:30:39.413Z"
   },
   {
     "id": "torobshop-kids-toys-9fb8f228fe9af3f6",
@@ -8079,7 +8079,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%BA%D8%B0%DB%8C%D9%87-%D9%88-%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%AA-%DA%A9%D9%88%D8%AF%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:43:25.090Z"
+    "observedAt": "2026-09-04T17:31:29.209Z"
   },
   {
     "id": "torobshop-kids-toys-f34a4ee1eff7f326",
@@ -8097,7 +8097,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%BA%D8%B0%DB%8C%D9%87-%D9%88-%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%AA-%DA%A9%D9%88%D8%AF%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:43:25.090Z"
+    "observedAt": "2026-09-04T17:31:29.209Z"
   },
   {
     "id": "torobshop-kids-toys-b2b1ce50bd03afaa",
@@ -8115,7 +8115,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%BA%D8%B0%DB%8C%D9%87-%D9%88-%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%AA-%DA%A9%D9%88%D8%AF%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:43:25.090Z"
+    "observedAt": "2026-09-04T17:31:29.209Z"
   },
   {
     "id": "torobshop-kids-toys-79f7c64a2771e4d6",
@@ -8133,7 +8133,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%BA%D8%B0%DB%8C%D9%87-%D9%88-%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%AA-%DA%A9%D9%88%D8%AF%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:43:25.090Z"
+    "observedAt": "2026-09-04T17:31:29.209Z"
   },
   {
     "id": "torobshop-kids-toys-a04eebd574480be7",
@@ -8151,7 +8151,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%BA%D8%B0%DB%8C%D9%87-%D9%88-%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%AA-%DA%A9%D9%88%D8%AF%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:43:25.090Z"
+    "observedAt": "2026-09-04T17:31:29.209Z"
   },
   {
     "id": "torobshop-kids-toys-af25302dc8c24e59",
@@ -8169,7 +8169,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%BA%D8%B0%DB%8C%D9%87-%D9%88-%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%AA-%DA%A9%D9%88%D8%AF%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:43:25.090Z"
+    "observedAt": "2026-09-04T17:31:29.209Z"
   },
   {
     "id": "torobshop-kids-toys-2183883b33677e16",
@@ -8187,7 +8187,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%BA%D8%B0%DB%8C%D9%87-%D9%88-%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%AA-%DA%A9%D9%88%D8%AF%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:43:25.090Z"
+    "observedAt": "2026-09-04T17:31:29.209Z"
   },
   {
     "id": "torobshop-kids-toys-d0421b6b8157ba1c",
@@ -8205,7 +8205,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%BA%D8%B0%DB%8C%D9%87-%D9%88-%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%AA-%DA%A9%D9%88%D8%AF%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:43:25.090Z"
+    "observedAt": "2026-09-04T17:31:29.209Z"
   },
   {
     "id": "torobshop-kids-toys-476710fefa5fad43",
@@ -8223,7 +8223,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%BA%D8%B0%DB%8C%D9%87-%D9%88-%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%AA-%DA%A9%D9%88%D8%AF%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:43:25.090Z"
+    "observedAt": "2026-09-04T17:31:29.209Z"
   },
   {
     "id": "torobshop-kids-toys-c5aca7e6fb7b4b4e",
@@ -8241,7 +8241,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%BA%D8%B0%DB%8C%D9%87-%D9%88-%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%AA-%DA%A9%D9%88%D8%AF%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:43:25.090Z"
+    "observedAt": "2026-09-04T17:31:29.209Z"
   },
   {
     "id": "torobshop-kids-toys-bd35dfa8ea1ca891",
@@ -8259,7 +8259,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%BA%D8%B0%DB%8C%D9%87-%D9%88-%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%AA-%DA%A9%D9%88%D8%AF%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:43:25.091Z"
+    "observedAt": "2026-09-04T17:31:29.209Z"
   },
   {
     "id": "torobshop-kids-toys-69b2e029f98d7034",
@@ -8277,7 +8277,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%BA%D8%B0%DB%8C%D9%87-%D9%88-%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%AA-%DA%A9%D9%88%D8%AF%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:43:25.091Z"
+    "observedAt": "2026-09-04T17:31:29.209Z"
   },
   {
     "id": "torobshop-kids-toys-3f0e7b15d69170dd",
@@ -8295,7 +8295,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%BA%D8%B0%DB%8C%D9%87-%D9%88-%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%AA-%DA%A9%D9%88%D8%AF%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:43:25.091Z"
+    "observedAt": "2026-09-04T17:31:29.209Z"
   },
   {
     "id": "torobshop-kids-toys-d2bbac32bf796978",
@@ -8313,7 +8313,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%BA%D8%B0%DB%8C%D9%87-%D9%88-%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%AA-%DA%A9%D9%88%D8%AF%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:43:25.091Z"
+    "observedAt": "2026-09-04T17:31:29.209Z"
   },
   {
     "id": "torobshop-kids-toys-90fc6d6b93821739",
@@ -8331,7 +8331,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%BA%D8%B0%DB%8C%D9%87-%D9%88-%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%AA-%DA%A9%D9%88%D8%AF%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:43:25.091Z"
+    "observedAt": "2026-09-04T17:31:29.209Z"
   },
   {
     "id": "torobshop-kids-toys-5f8d8c6dbae97517",
@@ -8349,7 +8349,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%BA%D8%B0%DB%8C%D9%87-%D9%88-%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%AA-%DA%A9%D9%88%D8%AF%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:43:25.091Z"
+    "observedAt": "2026-09-04T17:31:29.209Z"
   },
   {
     "id": "torobshop-kids-toys-383b9a5e0d9ca746",
@@ -8367,7 +8367,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%BA%D8%B0%DB%8C%D9%87-%D9%88-%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%AA-%DA%A9%D9%88%D8%AF%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:43:25.091Z"
+    "observedAt": "2026-09-04T17:31:29.209Z"
   },
   {
     "id": "torobshop-kids-toys-6bbe5a07f41a07ad",
@@ -8385,7 +8385,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%BA%D8%B0%DB%8C%D9%87-%D9%88-%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%AA-%DA%A9%D9%88%D8%AF%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:43:25.091Z"
+    "observedAt": "2026-09-04T17:31:29.209Z"
   },
   {
     "id": "torobshop-kids-toys-02c5b25196de1b03",
@@ -8403,7 +8403,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%BA%D8%B0%DB%8C%D9%87-%D9%88-%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%AA-%DA%A9%D9%88%D8%AF%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:43:25.091Z"
+    "observedAt": "2026-09-04T17:31:29.209Z"
   },
   {
     "id": "torobshop-kids-toys-fb6c2007e12a68f8",
@@ -8421,7 +8421,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%BA%D8%B0%DB%8C%D9%87-%D9%88-%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%AA-%DA%A9%D9%88%D8%AF%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:43:25.091Z"
+    "observedAt": "2026-09-04T17:31:29.209Z"
   },
   {
     "id": "torobshop-kids-toys-00d242891e922fb4",
@@ -8439,7 +8439,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%BA%D8%B0%DB%8C%D9%87-%D9%88-%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%AA-%DA%A9%D9%88%D8%AF%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:43:25.091Z"
+    "observedAt": "2026-09-04T17:31:29.209Z"
   },
   {
     "id": "torobshop-kids-toys-b1e580a165de280a",
@@ -8457,7 +8457,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%BA%D8%B0%DB%8C%D9%87-%D9%88-%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%AA-%DA%A9%D9%88%D8%AF%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:43:25.091Z"
+    "observedAt": "2026-09-04T17:31:29.209Z"
   },
   {
     "id": "torobshop-kids-toys-ca52415d12fad601",
@@ -8475,7 +8475,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%BA%D8%B0%DB%8C%D9%87-%D9%88-%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%AA-%DA%A9%D9%88%D8%AF%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:43:25.091Z"
+    "observedAt": "2026-09-04T17:31:29.209Z"
   },
   {
     "id": "torobshop-kids-toys-dceb66471906c25d",
@@ -8493,7 +8493,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%BA%D8%B0%DB%8C%D9%87-%D9%88-%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%AA-%DA%A9%D9%88%D8%AF%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:43:25.091Z"
+    "observedAt": "2026-09-04T17:31:29.209Z"
   },
   {
     "id": "torobshop-kids-toys-966739aadf0208d9",
@@ -8511,7 +8511,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%BA%D8%B0%DB%8C%D9%87-%D9%88-%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%AA-%DA%A9%D9%88%D8%AF%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:43:25.091Z"
+    "observedAt": "2026-09-04T17:31:29.209Z"
   },
   {
     "id": "torobshop-kids-toys-be6f711d898242af",
@@ -8529,7 +8529,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%BA%D8%B0%DB%8C%D9%87-%D9%88-%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%AA-%DA%A9%D9%88%D8%AF%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:43:25.091Z"
+    "observedAt": "2026-09-04T17:31:29.209Z"
   },
   {
     "id": "torobshop-kids-toys-464595ecad3e33a1",
@@ -8547,7 +8547,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%BA%D8%B0%DB%8C%D9%87-%D9%88-%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%AA-%DA%A9%D9%88%D8%AF%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:43:25.091Z"
+    "observedAt": "2026-09-04T17:31:29.209Z"
   },
   {
     "id": "torobshop-kids-toys-928eca026b8f68bb",
@@ -8565,7 +8565,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%BA%D8%B0%DB%8C%D9%87-%D9%88-%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%AA-%DA%A9%D9%88%D8%AF%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:43:25.091Z"
+    "observedAt": "2026-09-04T17:31:29.209Z"
   },
   {
     "id": "torobshop-kids-toys-3345f79c3f7a1345",
@@ -8583,7 +8583,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%BA%D8%B0%DB%8C%D9%87-%D9%88-%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%AA-%DA%A9%D9%88%D8%AF%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:43:25.091Z"
+    "observedAt": "2026-09-04T17:31:29.209Z"
   },
   {
     "id": "torobshop-kids-toys-58c5ee09390d646d",
@@ -8601,7 +8601,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%BA%D8%B0%DB%8C%D9%87-%D9%88-%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%AA-%DA%A9%D9%88%D8%AF%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:43:25.091Z"
+    "observedAt": "2026-09-04T17:31:29.209Z"
   },
   {
     "id": "torobshop-kids-toys-d18678b3a8643803",
@@ -8619,7 +8619,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%BA%D8%B0%DB%8C%D9%87-%D9%88-%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%AA-%DA%A9%D9%88%D8%AF%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:43:25.091Z"
+    "observedAt": "2026-09-04T17:31:29.209Z"
   },
   {
     "id": "torobshop-kids-toys-b0e093769b55a64b",
@@ -8637,7 +8637,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%BA%D8%B0%DB%8C%D9%87-%D9%88-%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%AA-%DA%A9%D9%88%D8%AF%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:43:25.091Z"
+    "observedAt": "2026-09-04T17:31:29.209Z"
   },
   {
     "id": "torobshop-kids-toys-dad3e110723629da",
@@ -8655,7 +8655,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%BA%D8%B0%DB%8C%D9%87-%D9%88-%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%AA-%DA%A9%D9%88%D8%AF%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:43:25.091Z"
+    "observedAt": "2026-09-04T17:31:29.209Z"
   },
   {
     "id": "torobshop-kids-toys-d8ce290751fa3d5f",
@@ -8673,7 +8673,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%BA%D8%B0%DB%8C%D9%87-%D9%88-%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%AA-%DA%A9%D9%88%D8%AF%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:43:25.091Z"
+    "observedAt": "2026-09-04T17:31:29.209Z"
   },
   {
     "id": "torobshop-kids-toys-128d22803ee850a1",
@@ -8691,7 +8691,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%BA%D8%B0%DB%8C%D9%87-%D9%88-%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%AA-%DA%A9%D9%88%D8%AF%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:43:25.091Z"
+    "observedAt": "2026-09-04T17:31:29.209Z"
   },
   {
     "id": "torobshop-kids-toys-78da7b673a4254be",
@@ -8709,7 +8709,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%BA%D8%B0%DB%8C%D9%87-%D9%88-%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%AA-%DA%A9%D9%88%D8%AF%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:43:25.091Z"
+    "observedAt": "2026-09-04T17:31:29.209Z"
   },
   {
     "id": "torobshop-kids-toys-35695bff169b148b",
@@ -8727,7 +8727,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%BA%D8%B0%DB%8C%D9%87-%D9%88-%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%AA-%DA%A9%D9%88%D8%AF%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:43:25.091Z"
+    "observedAt": "2026-09-04T17:31:29.209Z"
   },
   {
     "id": "torobshop-kids-toys-b94c593fc22edaf9",
@@ -8745,7 +8745,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%BA%D8%B0%DB%8C%D9%87-%D9%88-%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%AA-%DA%A9%D9%88%D8%AF%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:43:25.091Z"
+    "observedAt": "2026-09-04T17:31:29.209Z"
   },
   {
     "id": "torobshop-kids-toys-ed0bec8b3ec13959",
@@ -8763,7 +8763,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%BA%D8%B0%DB%8C%D9%87-%D9%88-%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%AA-%DA%A9%D9%88%D8%AF%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:43:25.091Z"
+    "observedAt": "2026-09-04T17:31:29.209Z"
   },
   {
     "id": "torobshop-kids-toys-fefd6422e039cf3a",
@@ -8781,7 +8781,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%BA%D8%B0%DB%8C%D9%87-%D9%88-%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%AA-%DA%A9%D9%88%D8%AF%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:43:25.091Z"
+    "observedAt": "2026-09-04T17:31:29.209Z"
   },
   {
     "id": "torobshop-kids-toys-85081f926a2b536c",
@@ -8799,7 +8799,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%BA%D8%B0%DB%8C%D9%87-%D9%88-%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%AA-%DA%A9%D9%88%D8%AF%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:43:25.091Z"
+    "observedAt": "2026-09-04T17:31:29.209Z"
   },
   {
     "id": "torobshop-kids-toys-f95d1c11795b30ae",
@@ -8817,7 +8817,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%BA%D8%B0%DB%8C%D9%87-%D9%88-%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%AA-%DA%A9%D9%88%D8%AF%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:43:25.091Z"
+    "observedAt": "2026-09-04T17:31:29.209Z"
   },
   {
     "id": "torobshop-kids-toys-a05d404b5f7032c4",
@@ -8835,7 +8835,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%BA%D8%B0%DB%8C%D9%87-%D9%88-%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%AA-%DA%A9%D9%88%D8%AF%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:43:25.091Z"
+    "observedAt": "2026-09-04T17:31:29.210Z"
   },
   {
     "id": "torobshop-kids-toys-01d22984c88dd4a1",
@@ -8853,7 +8853,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%BA%D8%B0%DB%8C%D9%87-%D9%88-%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%AA-%DA%A9%D9%88%D8%AF%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:43:25.091Z"
+    "observedAt": "2026-09-04T17:31:29.210Z"
   },
   {
     "id": "torobshop-kids-toys-7f53fec8ac1c4f51",
@@ -8871,7 +8871,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%BA%D8%B0%DB%8C%D9%87-%D9%88-%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%AA-%DA%A9%D9%88%D8%AF%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:43:25.091Z"
+    "observedAt": "2026-09-04T17:31:29.210Z"
   },
   {
     "id": "torobshop-kids-toys-605775908c8e3bac",
@@ -8889,7 +8889,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%BA%D8%B0%DB%8C%D9%87-%D9%88-%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%AA-%DA%A9%D9%88%D8%AF%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:43:25.091Z"
+    "observedAt": "2026-09-04T17:31:29.210Z"
   },
   {
     "id": "torobshop-kids-toys-97d4c00868596e0e",
@@ -8907,7 +8907,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%BA%D8%B0%DB%8C%D9%87-%D9%88-%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%AA-%DA%A9%D9%88%D8%AF%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:43:25.091Z"
+    "observedAt": "2026-09-04T17:31:29.210Z"
   },
   {
     "id": "torobshop-kids-toys-469bb4c16e10e8c5",
@@ -8925,7 +8925,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%BA%D8%B0%DB%8C%D9%87-%D9%88-%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%AA-%DA%A9%D9%88%D8%AF%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:43:25.091Z"
+    "observedAt": "2026-09-04T17:31:29.210Z"
   },
   {
     "id": "torobshop-kids-toys-98035387d64a1d2c",
@@ -8943,7 +8943,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%BA%D8%B0%DB%8C%D9%87-%D9%88-%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%AA-%DA%A9%D9%88%D8%AF%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:43:25.091Z"
+    "observedAt": "2026-09-04T17:31:29.210Z"
   },
   {
     "id": "torobshop-kids-toys-5ef4f78c8969c7a6",
@@ -8961,7 +8961,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%BA%D8%B0%DB%8C%D9%87-%D9%88-%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%AA-%DA%A9%D9%88%D8%AF%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:43:25.091Z"
+    "observedAt": "2026-09-04T17:31:29.210Z"
   },
   {
     "id": "torobshop-kids-toys-68fbac6558522b00",
@@ -8979,7 +8979,7 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%BA%D8%B0%DB%8C%D9%87-%D9%88-%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%AA-%DA%A9%D9%88%D8%AF%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:43:25.091Z"
+    "observedAt": "2026-09-04T17:31:29.210Z"
   },
   {
     "id": "torobshop-kids-toys-265c5e6987c51839",
@@ -8997,6 +8997,6 @@ export const KIDS_TOYS_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D8%BA%D8%B0%DB%8C%D9%87-%D9%88-%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%AA-%DA%A9%D9%88%D8%AF%DA%A9",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T14:43:25.091Z"
+    "observedAt": "2026-09-04T17:31:29.210Z"
   }
 ];
