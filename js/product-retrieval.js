@@ -1,199 +1,28 @@
-/* =========================================================
-   DigiYar V5
-   Product Retrieval Layer
-   Live Worker + direct browser fallback + local fallback
-   ========================================================= */
-(function () {
-  "use strict";
-
-  const CONFIG = {
-    proxyEndpoint: "https://digiyar-v5.petromosi.workers.dev/api/search",
-    ingestionEndpoint: "https://digiyar-v5.petromosi.workers.dev/api/ingest",
-    digikalaSearchEndpoint: "https://api.digikala.com/v1/search/?q=",
-    digikalaBaseUrl: "https://www.digikala.com",
-    timeout: 8000,
-    maxResults: 20,
-    canonicalCurrency: "toman",
-    digikalaRemoteCurrency: "rial"
-  };
-
-  function normalizeText(value) { return String(value || "").trim().toLowerCase().replace(/ي/g, "ی").replace(/ك/g, "ک"); }
-  function safeNumber(value) { const number = Number(value); return Number.isFinite(number) ? number : 0; }
-  function firstNonEmpty(values) {
-    for (let i = 0; i < values.length; i++) {
-      const value = values[i];
-      if (typeof value === "string" && value.trim()) return value.trim();
-      if (value && typeof value === "object") {
-        const nested = value.url || value.src || value.href || value.link || "";
-        if (typeof nested === "string" && nested.trim()) return nested.trim();
-      }
-    }
-    return "";
-  }
-  function absoluteDigikalaUrl(value) {
-    if (!value) return "";
-    const text = String(value).trim();
-    if (!text) return "";
-    if (/^https?:\/\//i.test(text)) return text;
-    return CONFIG.digikalaBaseUrl + (text.charAt(0) === "/" ? text : "/" + text);
-  }
-  function resolveImage(product) {
-    if (!product || typeof product !== "object") return "";
-    const values = [product.image_url, product.imageUrl, product.image, product.thumbnail_url, product.thumbnailUrl, product.thumbnail, product.photo, product.cover];
-    if (Array.isArray(product.images)) values.push.apply(values, product.images);
-    else if (product.images && typeof product.images === "object") values.push(product.images.main, product.images.primary, product.images.thumbnail, product.images.large, product.images.medium, product.images.small);
-    return firstNonEmpty(values);
-  }
-  function resolveProductUrl(product) { return absoluteDigikalaUrl(firstNonEmpty([product && product.productUrl, product && product.product_url, product && product.url, product && product.web_url, product && product.link])); }
-  function rawPrice(product) {
-    if (!product || typeof product !== "object") return 0;
-    const price = product.price, variant = product.default_variant;
-    if (price && typeof price === "object") {
-      const value = safeNumber(price.selling_price) || safeNumber(price.value) || safeNumber(price.amount) || safeNumber(price.final_price);
-      if (value > 0) return value;
-    }
-    return safeNumber(product.selling_price) || safeNumber(product.default_variant_price) || safeNumber(product.price) || safeNumber(variant && variant.selling_price) || safeNumber(variant && variant.price);
-  }
-  function normalizePrice(value, currency) { const number = safeNumber(value); if (number <= 0) return 0; return currency === "rial" || currency === "irr" || currency === "ریال" ? Math.round(number / 10) : Math.round(number); }
-  function resolvePrice(product, currency) {
-    const explicitToman = safeNumber(product && product.priceToman);
-    if (explicitToman > 0) return Math.round(explicitToman);
-    return normalizePrice(rawPrice(product), currency || "toman");
-  }
-  function resolveName(product) { return firstNonEmpty([product && product.title_fa, product && product.name, product && product.title, product && product.product_name, product && product.title_en, product && product.productName]); }
-  function resolveFeatures(product) {
-    const features = [];
-    if (Array.isArray(product.features)) product.features.forEach(function (item) { if (typeof item === "string" && item.trim()) features.push(item.trim()); });
-    if (product.brand && typeof product.brand === "object") { const brand = product.brand.title_fa || product.brand.title; if (brand) features.push(brand); }
-    else if (typeof product.brand === "string" && product.brand.trim()) features.push(product.brand.trim());
-    return features.slice(0, 5);
-  }
-  function normalizeProduct(product, options) {
-    if (!product || typeof product !== "object") return null;
-    const settings = options || {};
-    const store = settings.store || product.storeId || product.store || product.sourceId || product.source || "digikala";
-    const currency = settings.currency || String(product.currency || "toman").toLowerCase();
-    return {
-      id: String(product.id || product.pk || product.product_id || product.productId || product.code || ""),
-      name: String(resolveName(product) || ""),
-      category: typeof product.category === "string" ? product.category : "general",
-      price: resolvePrice(product, currency),
-      priceToman: resolvePrice(product, currency),
-      store: store,
-      storeId: store,
-      productUrl: resolveProductUrl(product),
-      affiliateUrl: product.affiliateUrl || "",
-      image: resolveImage(product),
-      features: resolveFeatures(product),
-      rating: product.rating || null,
-      seller: product.seller || null,
-      status: product.status || "",
-      availability: product.availability || (product.available === false ? "out_of_stock" : product.available === true ? "in_stock" : "unknown")
-    };
-  }
-  function localSearch(query, options) {
-    if (!window.DigiYarProductData || typeof window.DigiYarProductData.search !== "function") return [];
-    const results = window.DigiYarProductData.search(query, options || {});
-    return Array.isArray(results) ? results.map(function (p) { return normalizeProduct(p, { currency: "toman", store: "local" }); }).filter(function (p) { return p && p.name; }).slice(0, CONFIG.maxResults) : [];
-  }
-  async function fetchWithTimeout(url, timeout) {
-    const controller = new AbortController(), timer = setTimeout(function () { controller.abort(); }, timeout);
-    try {
-      const response = await fetch(url, { method: "GET", headers: { Accept: "application/json" }, signal: controller.signal });
-      if (!response.ok) throw new Error("HTTP " + response.status);
-      return await response.json();
-    } finally { clearTimeout(timer); }
-  }
-  function unwrapProxy(data) { return data && data.data && typeof data.data === "object" ? data.data : data; }
-  function extractProducts(data) {
-    const payload = unwrapProxy(data);
-    if (!payload) return [];
-    const candidates = [
-      payload.results,
-      payload.items,
-      payload.products,
-      payload.data && payload.data.results,
-      payload.data && payload.data.items,
-      payload.data && payload.data.products,
-      payload.products && payload.products.data,
-      payload.products && payload.products.items
-    ];
-    let products = [];
-    for (let i = 0; i < candidates.length; i++) {
-      if (Array.isArray(candidates[i])) { products = candidates[i]; break; }
-    }
-    return products.map(function (p) {
-      return normalizeProduct(p, { currency: String(p && p.currency || (p && p.priceToman ? "toman" : "IRR")).toLowerCase(), store: p && (p.storeId || p.store || p.sourceId || p.source) });
-    }).filter(function (p) { return p && p.name; }).slice(0, CONFIG.maxResults);
-  }
-  async function searchWorker(query) {
-    const normalizedQuery = normalizeText(query);
-    if (!normalizedQuery || !CONFIG.proxyEndpoint) return [];
-    try {
-      return extractProducts(await fetchWithTimeout(CONFIG.proxyEndpoint + "?q=" + encodeURIComponent(normalizedQuery), CONFIG.timeout));
-    } catch (error) {
-      console.warn("DigiYar Product Retrieval: V5 Worker unavailable.", error);
-      return [];
-    }
-  }
-  async function searchWorkerIngestion(query) {
-    const normalizedQuery = normalizeText(query);
-    if (!normalizedQuery || !CONFIG.ingestionEndpoint) return [];
-    try {
-      return extractProducts(await fetchWithTimeout(CONFIG.ingestionEndpoint + "?q=" + encodeURIComponent(normalizedQuery), CONFIG.timeout));
-    } catch (error) {
-      console.warn("DigiYar Product Retrieval: V5 ingestion unavailable.", error);
-      return [];
-    }
-  }
-  async function searchDirectFromDigikala(query) {
-    const normalizedQuery = normalizeText(query);
-    if (!normalizedQuery) return [];
-    try {
-      const data = await fetchWithTimeout(CONFIG.digikalaSearchEndpoint + encodeURIComponent(normalizedQuery) + "&page=1&size=10", CONFIG.timeout);
-      return extractProducts(data).slice(0, 3);
-    } catch (error) {
-      console.warn("DigiYar Product Retrieval: direct Digikala API unavailable.", error);
-      return [];
-    }
-  }
-  async function searchRemote(query) {
-    const workerResults = await searchWorker(query);
-    if (workerResults.length) return workerResults;
-    const ingestionResults = await searchWorkerIngestion(query);
-    if (ingestionResults.length) return ingestionResults;
-    return await searchDirectFromDigikala(query);
-  }
-  async function search(query, options) {
-    const normalizedQuery = normalizeText(query);
-    if (!normalizedQuery) return [];
-    const settings = options || {};
-    if (settings.remote === false) return localSearch(normalizedQuery, settings);
-    try {
-      const remoteResults = await searchRemote(normalizedQuery);
-      if (remoteResults.length) return remoteResults;
-    } catch (error) {
-      console.warn("DigiYar Product Retrieval: live sources unavailable; using local fallback.", error);
-    }
-    return localSearch(normalizedQuery, settings);
-  }
-  function setProxyEndpoint(url) { CONFIG.proxyEndpoint = String(url || "").trim().replace(/\/$/, ""); return CONFIG.proxyEndpoint; }
-
-  window.DigiYarProductRetrieval = {
-    version: "5.1.0-alpha.2",
-    config: CONFIG,
-    setProxyEndpoint,
-    normalizeText,
-    normalizeProduct,
-    normalizePrice,
-    resolveImage,
-    resolveProductUrl,
-    resolvePrice,
-    search,
-    searchRemote,
-    searchWorker,
-    searchWorkerIngestion,
-    searchDirectFromDigikala,
-    localSearch
-  };
+/* DigiYar V5.1 — Product Retrieval
+   Retrieval normalizes source offers; Resolver is authoritative for final live price/availability. */
+(function(){'use strict';
+const CONFIG={proxyEndpoint:'https://digiyar-v5.petromosi.workers.dev/api/search',ingestionEndpoint:'https://digiyar-v5.petromosi.workers.dev/api/ingest',digikalaSearchEndpoint:'https://api.digikala.com/v1/search/?q=',digikalaBaseUrl:'https://www.digikala.com',timeout:8000,maxResults:20,canonicalCurrency:'toman'};
+function normalizeText(v){return String(v||'').trim().toLowerCase().replace(/ي/g,'ی').replace(/ك/g,'ک')}
+function safeNumber(v){const n=Number(v);return Number.isFinite(n)?n:0}
+function firstNonEmpty(a){for(const v of a){if(typeof v==='string'&&v.trim())return v.trim();if(v&&typeof v==='object'){const x=v.url||v.src||v.href||v.link||'';if(typeof x==='string'&&x.trim())return x.trim()}}return''}
+function absoluteDigikalaUrl(v){if(!v)return'';const t=String(v).trim();return/^https?:\/\//i.test(t)?t:CONFIG.digikalaBaseUrl+(t[0]==='/'?t:'/'+t)}
+function resolveImage(p){if(!p||typeof p!=='object')return'';const v=[p.image_url,p.imageUrl,p.image,p.thumbnail_url,p.thumbnailUrl,p.thumbnail,p.photo,p.cover];if(Array.isArray(p.images))v.push(...p.images);else if(p.images&&typeof p.images==='object')v.push(p.images.main,p.images.primary,p.images.thumbnail,p.images.large,p.images.medium,p.images.small);return firstNonEmpty(v)}
+function resolveProductUrl(p){return absoluteDigikalaUrl(firstNonEmpty([p&&p.productUrl,p&&p.product_url,p&&p.url,p&&p.web_url,p&&p.link]))}
+function rawPrice(p){if(!p||typeof p!=='object')return 0;const price=p.price,variant=p.default_variant;if(price&&typeof price==='object'){const v=safeNumber(price.selling_price)||safeNumber(price.value)||safeNumber(price.amount)||safeNumber(price.final_price);if(v>0)return v}return safeNumber(p.selling_price)||safeNumber(p.default_variant_price)||safeNumber(p.price)||safeNumber(variant&&variant.selling_price)||safeNumber(variant&&variant.price)}
+function normalizeCurrency(v){const c=String(v||'').trim().toUpperCase();if(c==='IRR'||c==='RIAL'||/ریال|ريال/.test(c))return'IRR';if(c==='IRT'||c==='TOMAN'||/تومان|تومن/.test(c))return'IRT';return c||'IRT'}
+function toToman(v,c){const n=safeNumber(v);return n<=0?0:normalizeCurrency(c)==='IRR'?Math.round(n/10):Math.round(n)}
+function resolveName(p){return firstNonEmpty([p&&p.title_fa,p&&p.name,p&&p.title,p&&p.product_name,p&&p.title_en,p&&p.productName])}
+function resolveFeatures(p){const f=[];if(Array.isArray(p.features))p.features.forEach(x=>{if(typeof x==='string'&&x.trim())f.push(x.trim())});if(p.brand&&typeof p.brand==='object'){const b=p.brand.title_fa||p.brand.title;if(b)f.push(b)}else if(typeof p.brand==='string'&&p.brand.trim())f.push(p.brand.trim());return f.slice(0,5)}
+function normalizeProduct(product,options){if(!product||typeof product!=='object')return null;const s=options||{},store=s.store||product.storeId||product.store||product.sourceId||product.source||'digikala',currency=normalizeCurrency(s.currency||product.currency||(product.priceToman?'IRT':'IRR')),sourcePrice=rawPrice(product),priceToman=safeNumber(product.priceToman)>0?Math.round(safeNumber(product.priceToman)):toToman(sourcePrice,currency);return{id:String(product.id||product.pk||product.product_id||product.productId||product.code||''),name:String(resolveName(product)||''),category:typeof product.category==='string'?product.category:'general',price:sourcePrice,priceToman,priceUnit:'toman',currency,store,storeId:store,productUrl:resolveProductUrl(product),affiliateUrl:product.affiliateUrl||'',image:resolveImage(product),features:resolveFeatures(product),rating:product.rating||null,seller:product.seller||null,status:product.status||'',availability:product.availability||(product.available===false?'out_of_stock':product.available===true?'in_stock':'unknown')};}
+function localSearch(q,o){if(!window.DigiYarProductData||typeof window.DigiYarProductData.search!=='function')return[];return(window.DigiYarProductData.search(q,o||[])||[]).map(p=>normalizeProduct(p,{currency:p.currency||'IRT',store:'local'})).filter(p=>p&&p.name).slice(0,CONFIG.maxResults)}
+async function fetchWithTimeout(url,timeout){const c=new AbortController(),timer=setTimeout(()=>c.abort(),timeout);try{const r=await fetch(url,{method:'GET',headers:{Accept:'application/json'},signal:c.signal});if(!r.ok)throw Error('HTTP '+r.status);return await r.json()}finally{clearTimeout(timer)}}
+function unwrapProxy(d){return d&&d.data&&typeof d.data==='object'?d.data:d}
+function extractProducts(d){const p=unwrapProxy(d);if(!p)return[];const cs=[p.results,p.items,p.products,p.data&&p.data.results,p.data&&p.data.items,p.data&&p.data.products,p.products&&p.products.data,p.products&&p.products.items];let a=[];for(const c of cs)if(Array.isArray(c)){a=c;break}return a.map(x=>normalizeProduct(x,{currency:x&&x.currency||(x&&x.priceToman?'IRT':'IRR'),store:x&&(x.storeId||x.store||x.sourceId||x.source)})).filter(x=>x&&x.name).slice(0,CONFIG.maxResults)}
+async function searchWorker(q){const n=normalizeText(q);if(!n)return[];try{return extractProducts(await fetchWithTimeout(CONFIG.proxyEndpoint+'?q='+encodeURIComponent(n),CONFIG.timeout))}catch(e){return[]}}
+async function searchWorkerIngestion(q){const n=normalizeText(q);if(!n)return[];try{return extractProducts(await fetchWithTimeout(CONFIG.ingestionEndpoint+'?q='+encodeURIComponent(n),CONFIG.timeout))}catch(e){return[]}}
+async function searchDirectFromDigikala(q){const n=normalizeText(q);if(!n)return[];try{return extractProducts(await fetchWithTimeout(CONFIG.digikalaSearchEndpoint+encodeURIComponent(n)+'&page=1&size=10',CONFIG.timeout)).slice(0,3)}catch(e){return[]}}
+async function searchRemote(q){const a=await searchWorker(q);if(a.length)return a;const b=await searchWorkerIngestion(q);if(b.length)return b;return searchDirectFromDigikala(q)}
+async function search(q,o){const n=normalizeText(q);if(!n)return[];const s=o||{};if(s.remote===false)return localSearch(n,s);try{const r=await searchRemote(n);if(r.length)return r}catch(e){}return localSearch(n,s)}
+function setProxyEndpoint(url){CONFIG.proxyEndpoint=String(url||'').trim().replace(/\/$/,'');return CONFIG.proxyEndpoint}
+window.DigiYarProductRetrieval={version:'5.1.0',config:CONFIG,setProxyEndpoint,normalizeText,normalizeProduct,normalizePrice:toToman,resolveImage,resolveProductUrl,resolvePrice:(p,c)=>safeNumber(p&&p.priceToman)||toToman(rawPrice(p),c||p&&p.currency),search,searchRemote,searchWorker,searchWorkerIngestion,searchDirectFromDigikala,localSearch};
 })();
