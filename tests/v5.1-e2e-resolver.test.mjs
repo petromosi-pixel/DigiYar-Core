@@ -1,4 +1,4 @@
-const WORKER = 'https://digiyar-v5.petromosi.workers.dev';
+const WORKER = 'https://digiyar-v6.petromosi.workers.dev';
 const PRODUCT_URL = 'https://torobshop.com/products/galaxy-s26-ultra';
 
 async function get(path) {
