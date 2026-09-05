@@ -1,8 +1,8 @@
-name: Deploy DigiYar V5 Worker
+name: Deploy DigiYar V6 Worker
 
 on:
   push:
-    branches: [v5]
+    branches: [V6]
     paths:
       - 'worker.js'
       - 'js/data-ingestion-v5.1.js'
@@ -25,10 +25,10 @@ jobs:
     permissions:
       contents: read
     steps:
-      - name: Checkout V5
+      - name: Checkout V6
         uses: actions/checkout@v4
         with:
-          ref: v5
+          ref: V6
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -41,40 +41,40 @@ jobs:
       - name: Verify Wrangler
         run: wrangler --version
 
-      - name: Deploy DigiYar V5 Worker
+      - name: Deploy DigiYar V6 Worker
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
         run: wrangler deploy --config wrangler.jsonc
 
-      - name: Wait for live Worker readiness
+      - name: Wait for live V6 Worker readiness
         shell: bash
         run: |
           set -euo pipefail
           for attempt in {1..30}; do
             if curl --fail --silent --show-error --max-time 10 \
               -H 'accept: application/json' \
-              'https://digiyar-v5.petromosi.workers.dev/health' \
+              'https://digiyar-v6.petromosi.workers.dev/health' \
               | grep -q '"status":"ok"'; then
-              echo "Live Worker is ready (attempt ${attempt})."
+              echo "Live V6 Worker is ready (attempt ${attempt})."
               exit 0
             fi
             echo "Worker not ready yet (attempt ${attempt}/30); waiting 2s..."
             sleep 2
           done
-          echo 'Live Worker did not become ready after deployment.'
+          echo 'Live V6 Worker did not become ready after deployment.'
           exit 1
 
-      - name: Inspect live smart-search payload
+      - name: Inspect live V6 smart-search payload
         shell: bash
         run: |
           set -euo pipefail
           for query in \
             'گوشی سامسونگ تا ۵۰۰ میلیون تومان می‌خوام' \
             'دنبال یه لپ تاپ دانشجویی می‌گردم'; do
-            echo "===== SMART SEARCH: ${query} ====="
+            echo "===== V6 SMART SEARCH: ${query} ====="
             curl --fail --silent --show-error --max-time 30 \
-              -G 'https://digiyar-v5.petromosi.workers.dev/api/search' \
+              -G 'https://digiyar-v6.petromosi.workers.dev/api/search' \
               --data-urlencode "q=${query}" \
               | node -e 'let s="";process.stdin.on("data",d=>s+=d).on("end",()=>{const d=JSON.parse(s); console.log(JSON.stringify({source:d.source,total:d.total,parsed:d.parsed,sample:(d.results||[]).slice(0,5).map(x=>({name:x.name,price:x.price,priceToman:x.priceToman,currency:x.currency,productUrl:x.productUrl,affiliateUrl:x.affiliateUrl,store:x.storeId||x.store}))},null,2))})'
           done
