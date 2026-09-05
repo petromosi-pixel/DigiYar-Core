@@ -1,7 +1,7 @@
 import assert from 'node:assert/strict';
 import engine from '../js/v5-offer-affiliate-engine.js';
 
-const WORKER = 'https://digiyar-v5.petromosi.workers.dev';
+const WORKER = 'https://digiyar-v6.petromosi.workers.dev';
 const READINESS_QUERY = 'گوشی سامسونگ زیر ۳۰ میلیون';
 const MISSION_QUERY = 'گوشی سامسونگ';
 const RETRY_DELAY_MS = 5000;
