@@ -18,8 +18,22 @@
 
     splash.setAttribute('aria-hidden', 'false');
 
-    /* Remove only the legacy logo wrapper if an older cached DOM injects it.
-       The current splash keeps the approved high-resolution icon. */
+    /* Keep the approved high-resolution logo asset and avoid the legacy red-ring icon. */
+    var logo = splash.querySelector('.v5-splash-logo');
+    if (logo) logo.src = './assets/logos/logo.png';
+
+    /* Guarantee exactly four fixed loader circles without touching the rest of the page DOM. */
+    var loader = splash.querySelector('.v5-splash-loader');
+    if (loader) {
+      while (loader.children.length < 4) {
+        loader.appendChild(document.createElement('span'));
+      }
+      while (loader.children.length > 4) {
+        loader.removeChild(loader.lastElementChild);
+      }
+    }
+
+    /* Remove only the legacy logo wrapper if an older cached DOM injects it. */
     var legacyLogo = splash.querySelector('.legacy-splash-logo');
     if (legacyLogo) legacyLogo.remove();
 
