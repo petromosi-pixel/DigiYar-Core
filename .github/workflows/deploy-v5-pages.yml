@@ -1,9 +1,9 @@
-name: Deploy V5 Web App to GitHub Pages
+name: Deploy V6 Web App to GitHub Pages
 
 on:
   push:
     branches:
-      - v5
+      - V6
   workflow_dispatch:
 
 permissions:
@@ -12,7 +12,7 @@ permissions:
   id-token: write
 
 concurrency:
-  group: pages-v5
+  group: pages-v6
   cancel-in-progress: false
 
 jobs:
@@ -22,14 +22,14 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - name: Checkout V5
+      - name: Checkout V6
         uses: actions/checkout@v4
       - name: Configure Pages
         uses: actions/configure-pages@v5
-      - name: Upload V5 artifact
+      - name: Upload V6 artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: .
-      - name: Deploy V5 to Pages
+      - name: Deploy V6 to Pages
         id: deployment
         uses: actions/deploy-pages@v4
