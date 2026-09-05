@@ -1,6 +1,6 @@
 import assert from 'node:assert/strict';
 
-const WORKER = 'https://digiyar-v5.petromosi.workers.dev/api/search';
+const WORKER = 'https://digiyar-v6.petromosi.workers.dev/api/search';
 const QUERIES = [
   'گوشی سامسونگ تا ۵۰۰ میلیون تومان می‌خوام',
   'دنبال یه لپ تاپ دانشجویی می‌گردم'
