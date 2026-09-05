@@ -38,6 +38,7 @@
   justify-content: center;
   background: transparent;
   box-shadow: none;
+  border: none;
   animation: v6LogoSpring 1.15s cubic-bezier(.175,.885,.32,1.275) both;
 }
 
@@ -47,6 +48,8 @@
   object-fit: contain;
   display: block;
   border-radius: 32px;
+  box-shadow: none;
+  border: none;
 }
 
 .v5-splash-brand h1 {
@@ -54,7 +57,7 @@
   font-size: 36px;
   font-weight: 800;
   line-height: 1.3;
-  color: #182746;
+  color: #f7941d;
   animation: v6SplashTextIn .8s ease .45s both;
 }
 
@@ -66,12 +69,56 @@
   animation: v6SplashTextIn .8s ease .55s both;
 }
 
+/* چهار دایره توخالی؛ هر دایره به‌صورت جداگانه با نارنجی پر می‌شود */
+.v5-splash-loader {
+  width: auto;
+  height: auto;
+  margin: 24px auto 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  overflow: visible;
+  background: transparent;
+}
+
+.v5-splash-loader span {
+  position: relative;
+  display: block;
+  width: 9px;
+  height: 9px;
+  flex: 0 0 9px;
+  border: 2px solid #f7941d;
+  border-radius: 50%;
+  background: transparent;
+  animation: v6DotFill 1.6s ease-in-out infinite;
+}
+
+.v5-splash-loader span::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: 50%;
+  background: #f7941d;
+  transform: scale(0);
+  transform-origin: center;
+  animation: v6DotFill 1.6s ease-in-out infinite;
+}
+
+.v5-splash-loader span:nth-child(1),
+.v5-splash-loader span:nth-child(1)::after { animation-delay: 0s; }
+.v5-splash-loader span:nth-child(2),
+.v5-splash-loader span:nth-child(2)::after { animation-delay: .18s; }
+.v5-splash-loader span:nth-child(3),
+.v5-splash-loader span:nth-child(3)::after { animation-delay: .36s; }
+.v5-splash-loader span:nth-child(4),
+.v5-splash-loader span:nth-child(4)::after { animation-delay: .54s; }
+
 @keyframes v6SplashEnter {
   from { opacity: 0; }
   to { opacity: 1; }
 }
 
-/* ورود لوگو از بالا با حرکت نرم و فنری */
 @keyframes v6LogoSpring {
   0% { opacity: 0; transform: translateY(-52px) scale(.72); }
   55% { opacity: 1; transform: translateY(8px) scale(1.035); }
@@ -85,11 +132,22 @@
   to { opacity: 1; transform: translateY(0); }
 }
 
+@keyframes v6DotFill {
+  0%, 15% { transform: scale(0); }
+  35%, 65% { transform: scale(1); }
+  85%, 100% { transform: scale(0); }
+}
+
 @media (prefers-reduced-motion: reduce) {
   .v5-splash-content,
   .v5-splash-logo-wrap,
   .v5-splash-brand h1,
-  .v5-splash-brand p {
+  .v5-splash-brand p,
+  .v5-splash-loader span,
+  .v5-splash-loader span::after {
     animation: none;
+  }
+  .v5-splash-loader span::after {
+    transform: scale(0);
   }
 }
