@@ -15,7 +15,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.557Z"
+    "observedAt": "2026-09-05T07:52:57.203Z"
   },
   {
     "id": "torobshop-audio-video-716dda0dbff9c54f",
@@ -33,7 +33,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.557Z"
+    "observedAt": "2026-09-05T07:52:57.203Z"
   },
   {
     "id": "torobshop-audio-video-42afd1ca9ea774d6",
@@ -51,7 +51,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.557Z"
+    "observedAt": "2026-09-05T07:52:57.203Z"
   },
   {
     "id": "torobshop-audio-video-3930a114dca5ba93",
@@ -69,7 +69,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.557Z"
+    "observedAt": "2026-09-05T07:52:57.203Z"
   },
   {
     "id": "torobshop-audio-video-aaa22eb952374f54",
@@ -87,7 +87,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.557Z"
+    "observedAt": "2026-09-05T07:52:57.203Z"
   },
   {
     "id": "torobshop-audio-video-6313ab97d41a2b56",
@@ -105,7 +105,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.557Z"
+    "observedAt": "2026-09-05T07:52:57.203Z"
   },
   {
     "id": "torobshop-audio-video-f6f4fe1c061400be",
@@ -123,7 +123,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.557Z"
+    "observedAt": "2026-09-05T07:52:57.203Z"
   },
   {
     "id": "torobshop-audio-video-f84a10872070200f",
@@ -141,7 +141,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.557Z"
+    "observedAt": "2026-09-05T07:52:57.203Z"
   },
   {
     "id": "torobshop-audio-video-be5c8240bad9b96b",
@@ -159,7 +159,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.557Z"
+    "observedAt": "2026-09-05T07:52:57.203Z"
   },
   {
     "id": "torobshop-audio-video-6ea4ce76135ec585",
@@ -177,7 +177,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.557Z"
+    "observedAt": "2026-09-05T07:52:57.203Z"
   },
   {
     "id": "torobshop-audio-video-66ec5ac305e2c66d",
@@ -195,7 +195,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.557Z"
+    "observedAt": "2026-09-05T07:52:57.203Z"
   },
   {
     "id": "torobshop-audio-video-550a8f87070e67b2",
@@ -213,7 +213,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.557Z"
+    "observedAt": "2026-09-05T07:52:57.203Z"
   },
   {
     "id": "torobshop-audio-video-82dd733a006aec80",
@@ -231,7 +231,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.557Z"
+    "observedAt": "2026-09-05T07:52:57.203Z"
   },
   {
     "id": "torobshop-audio-video-b0ab596ed23cc867",
@@ -249,7 +249,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.557Z"
+    "observedAt": "2026-09-05T07:52:57.203Z"
   },
   {
     "id": "torobshop-audio-video-81b8042dfd25e040",
@@ -267,7 +267,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.557Z"
+    "observedAt": "2026-09-05T07:52:57.203Z"
   },
   {
     "id": "torobshop-audio-video-971de75d275ec060",
@@ -285,7 +285,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.557Z"
+    "observedAt": "2026-09-05T07:52:57.203Z"
   },
   {
     "id": "torobshop-audio-video-6984e0fba2f0f5ab",
@@ -303,7 +303,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.557Z"
+    "observedAt": "2026-09-05T07:52:57.203Z"
   },
   {
     "id": "torobshop-audio-video-043774655c5e9707",
@@ -321,7 +321,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.557Z"
+    "observedAt": "2026-09-05T07:52:57.204Z"
   },
   {
     "id": "torobshop-audio-video-96e722182c1b89a6",
@@ -339,7 +339,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.557Z"
+    "observedAt": "2026-09-05T07:52:57.204Z"
   },
   {
     "id": "torobshop-audio-video-d62f3f3a89e25a47",
@@ -357,7 +357,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.557Z"
+    "observedAt": "2026-09-05T07:52:57.204Z"
   },
   {
     "id": "torobshop-audio-video-c91c69b83e4ddd45",
@@ -375,7 +375,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.557Z"
+    "observedAt": "2026-09-05T07:52:57.204Z"
   },
   {
     "id": "torobshop-audio-video-6d073e89debc0957",
@@ -393,7 +393,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.557Z"
+    "observedAt": "2026-09-05T07:52:57.204Z"
   },
   {
     "id": "torobshop-audio-video-2f1de49dbfea70aa",
@@ -411,7 +411,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.557Z"
+    "observedAt": "2026-09-05T07:52:57.204Z"
   },
   {
     "id": "torobshop-audio-video-688de6c889730421",
@@ -429,7 +429,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.557Z"
+    "observedAt": "2026-09-05T07:52:57.204Z"
   },
   {
     "id": "torobshop-audio-video-6f75db36753d61cb",
@@ -447,7 +447,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.557Z"
+    "observedAt": "2026-09-05T07:52:57.204Z"
   },
   {
     "id": "torobshop-audio-video-1d0f8b752067584c",
@@ -465,7 +465,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.557Z"
+    "observedAt": "2026-09-05T07:52:57.204Z"
   },
   {
     "id": "torobshop-audio-video-9588e88bfa202297",
@@ -483,7 +483,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.557Z"
+    "observedAt": "2026-09-05T07:52:57.204Z"
   },
   {
     "id": "torobshop-audio-video-564f6efd33ed7c72",
@@ -501,7 +501,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.557Z"
+    "observedAt": "2026-09-05T07:52:57.204Z"
   },
   {
     "id": "torobshop-audio-video-db51956256cf2a9e",
@@ -519,7 +519,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.557Z"
+    "observedAt": "2026-09-05T07:52:57.204Z"
   },
   {
     "id": "torobshop-audio-video-6c602e399b74265b",
@@ -537,7 +537,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.557Z"
+    "observedAt": "2026-09-05T07:52:57.204Z"
   },
   {
     "id": "torobshop-audio-video-69bf454eaf5c015b",
@@ -555,7 +555,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.557Z"
+    "observedAt": "2026-09-05T07:52:57.204Z"
   },
   {
     "id": "torobshop-audio-video-9b36373adadaf4fd",
@@ -573,1087 +573,1087 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.557Z"
+    "observedAt": "2026-09-05T07:52:57.204Z"
   },
   {
-    "id": "torobshop-audio-video-725f8385c6d5a7e5",
-    "productId": "torobshop-725f8385c6d5a7e5",
-    "name": "ماهیتابه استیل ضد زنگ نینجا فودی زیرو استیک 30 سانتی‌متر [C60030EU] پوشش نچسب، سازگار با اجاق القایی، قابل شستشو در ماشین ظرفشویی",
+    "id": "torobshop-audio-video-a52752003a52733f",
+    "productId": "torobshop-a52752003a52733f",
+    "name": "سرویس قابلمه دو تکه WMF Devil، قابلمه‌های 18 و 28 سانتی‌متری، سازگار با القا، روکش استیل ضد زنگ Cromargan®، روکش سرامیکی، دسته پلاستیکی",
     "brand": "",
-    "model": "ماهیتابه استیل ضد زنگ نینجا فودی زیرو استیک 30 سانتی‌متر [C60030EU] پوشش نچسب، سازگار با اجاق القایی، قابل شستشو در ماشین ظرفشویی",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 19565000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%81%D9%88%D8%AF%DB%8C-%D8%B2%DB%8C%D8%B1%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-30-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-C60030EU-%D9%BE%D9%88%D8%B4%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.557Z"
-  },
-  {
-    "id": "torobshop-audio-video-0bb955aeed702a07",
-    "productId": "torobshop-0bb955aeed702a07",
-    "name": "ماهیتابه استیل ضد زنگ نینجا فودی زیرو استیک ۲۸ سانتی‌متر، بادوام، نچسب، سازگار با اجاق القایی، قابل استفاده در فر و ماشین ظرفشویی، مدل C60028EU",
-    "brand": "",
-    "model": "ماهیتابه استیل ضد زنگ نینجا فودی زیرو استیک ۲۸ سانتی‌متر، بادوام، نچسب، سازگار با اجاق القایی، قابل استفاده در فر و ماشین ظرفشویی، مدل C60028EU",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 24647000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%81%D9%88%D8%AF%DB%8C-%D8%B2%DB%8C%D8%B1%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-%DB%B2%DB%B8-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A8%D8%A7%D8%AF%D9%88%D8%A7%D9%85-%D9%86%DA%86%D8%B3%D8%A8-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%81%D8%B1-%D9%88-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D9%85%D8%AF%D9%84-C60028EU",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.557Z"
-  },
-  {
-    "id": "torobshop-audio-video-452caddaba905dc5",
-    "productId": "torobshop-452caddaba905dc5",
-    "name": "ماهیتابه استیل ضد زنگ نینجا فودی زیرو استیک ۲۴ سانتی‌متر، بادوام، نچسب، مناسب برای استفاده با اجاق القایی، قابل استفاده در فر و ماشین ظرفشویی، مدل C60024EU",
-    "brand": "",
-    "model": "ماهیتابه استیل ضد زنگ نینجا فودی زیرو استیک ۲۴ سانتی‌متر، بادوام، نچسب، مناسب برای استفاده با اجاق القایی، قابل استفاده در فر و ماشین ظرفشویی، مدل C60024EU",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 19057000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%81%D9%88%D8%AF%DB%8C-%D8%B2%DB%8C%D8%B1%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-%DB%B2%DB%B4-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A8%D8%A7%D8%AF%D9%88%D8%A7%D9%85-%D9%86%DA%86%D8%B3%D8%A8-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%81%D8%B1-%D9%88-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D9%85%D8%AF%D9%84-C60024EU",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.557Z"
-  },
-  {
-    "id": "torobshop-audio-video-1ee86f1c9c267ad6",
-    "productId": "torobshop-1ee86f1c9c267ad6",
-    "name": "سرویس قابلمه و ماهیتابه نینجا CK89010BF، نچسب، با طول عمر بالا، سرویس پخت و پز سرامیکی، 10 تکه، بدون PFOA، مناسب برای فر تا دمای 176 درجه سانتیگراد، سازگار با القایی، 10 تکه",
-    "brand": "",
-    "model": "سرویس قابلمه و ماهیتابه نینجا CK89010BF، نچسب، با طول عمر بالا، سرویس پخت و پز سرامیکی، 10 تکه، بدون PFOA، مناسب برای فر تا دمای 176 درجه سانتیگراد، سازگار با القایی، 10 تکه",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 78516000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-CK89010BF-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%A7-%D8%B7%D9%88%D9%84-%D8%B9%D9%85%D8%B1-%D8%A8%D8%A7%D9%84%D8%A7-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%BE%D8%AE%D8%AA-%D9%88-%D9%BE%D8%B2-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-10-%D8%AA%DA%A9%D9%87-%D8%A8%D8%AF%D9%88%D9%86-PFOA-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-176-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-10-%D8%AA%DA%A9%D9%87",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.557Z"
-  },
-  {
-    "id": "torobshop-audio-video-1a31c0998951f872",
-    "productId": "torobshop-1a31c0998951f872",
-    "name": "سرویس قابلمه و تابه استیل ضد زنگ 5 تکه Ninja Foodi ZEROSTICK [C65000EU] نچسب، سازگار با القایی، قابل شستشو در ماشین ظرفشویی",
-    "brand": "",
-    "model": "سرویس قابلمه و تابه استیل ضد زنگ 5 تکه Ninja Foodi ZEROSTICK [C65000EU] نچسب، سازگار با القایی، قابل شستشو در ماشین ظرفشویی",
+    "model": "سرویس قابلمه دو تکه WMF Devil، قابلمه‌های 18 و 28 سانتی‌متری، سازگار با القا، روکش استیل ضد زنگ Cromargan®، روکش سرامیکی، دسته پلاستیکی",
     "category": "audio-video",
     "subcategory": "تلویزیون",
     "price": 26426000,
     "currency": "IRT",
     "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-5-%D8%AA%DA%A9%D9%87-Ninja-Foodi-ZEROSTICK-C65000EU-%D9%86%DA%86%D8%B3%D8%A8-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%AF%D9%88-%D8%AA%DA%A9%D9%87-WMF-Devil-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%87%D8%A7%DB%8C-18-%D9%88-28-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7-%D8%B1%D9%88%DA%A9%D8%B4-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-Cromargan-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D8%AF%D8%B3%D8%AA%D9%87-%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.557Z"
+    "observedAt": "2026-09-05T07:52:57.204Z"
   },
   {
-    "id": "torobshop-audio-video-b1ab7543e51d9a1e",
-    "productId": "torobshop-b1ab7543e51d9a1e",
-    "name": "قابلمه شیر استیل ضد زنگ نینجا فودی زیرو استیک، ۱۴ سانتی‌متر، بادوام، نچسب، مناسب برای استفاده با اجاق القایی، قابل استفاده در فر و ماشین ظرفشویی، مدل C60214EU",
+    "id": "torobshop-audio-video-9c483c83f2f392c8",
+    "productId": "torobshop-9c483c83f2f392c8",
+    "name": "ماهیتابه WMF Devil 18 سانتی‌متر، روکش استیل ضد زنگ Cromargan، سازگار با القا، روکش سرامیکی، دسته پلاستیکی",
     "brand": "",
-    "model": "قابلمه شیر استیل ضد زنگ نینجا فودی زیرو استیک، ۱۴ سانتی‌متر، بادوام، نچسب، مناسب برای استفاده با اجاق القایی، قابل استفاده در فر و ماشین ظرفشویی، مدل C60214EU",
+    "model": "ماهیتابه WMF Devil 18 سانتی‌متر، روکش استیل ضد زنگ Cromargan، سازگار با القا، روکش سرامیکی، دسته پلاستیکی",
     "category": "audio-video",
     "subcategory": "تلویزیون",
-    "price": 12196000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%B4%DB%8C%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%81%D9%88%D8%AF%DB%8C-%D8%B2%DB%8C%D8%B1%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-%DB%B1%DB%B4-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A8%D8%A7%D8%AF%D9%88%D8%A7%D9%85-%D9%86%DA%86%D8%B3%D8%A8-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%81%D8%B1-%D9%88-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D9%85%D8%AF%D9%84-C60214EU",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.557Z"
-  },
-  {
-    "id": "torobshop-audio-video-75c5c1f7dd89f660",
-    "productId": "torobshop-75c5c1f7dd89f660",
-    "name": "سرویس ماهیتابه دو تکه استیل ضد زنگ Ninja Foodi ZEROSTICK (20 سانتی متر / 28 سانتی متر) [C62000EU] نچسب، سازگار با اجاق القایی، قابل شستشو در ماشین ظرفشویی",
-    "brand": "",
-    "model": "سرویس ماهیتابه دو تکه استیل ضد زنگ Ninja Foodi ZEROSTICK (20 سانتی متر / 28 سانتی متر) [C62000EU] نچسب، سازگار با اجاق القایی، قابل شستشو در ماشین ظرفشویی",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 33033000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%AF%D9%88-%D8%AA%DA%A9%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-Ninja-Foodi-ZEROSTICK-20-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-28-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-C62000EU-%D9%86%DA%86%D8%B3%D8%A8-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.557Z"
-  },
-  {
-    "id": "torobshop-audio-video-1bc7d98427271752",
-    "productId": "torobshop-1bc7d98427271752",
-    "name": "ماهیتابه استیل ضد زنگ نینجا فودی زیرو استیک ۲۶ سانتی‌متر، بادوام، نچسب، مناسب برای استفاده با اجاق القایی، قابل استفاده در فر و ماشین ظرفشویی، مدل C60126EU",
-    "brand": "",
-    "model": "ماهیتابه استیل ضد زنگ نینجا فودی زیرو استیک ۲۶ سانتی‌متر، بادوام، نچسب، مناسب برای استفاده با اجاق القایی، قابل استفاده در فر و ماشین ظرفشویی، مدل C60126EU",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 36844000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%81%D9%88%D8%AF%DB%8C-%D8%B2%DB%8C%D8%B1%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-%DB%B2%DB%B6-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A8%D8%A7%D8%AF%D9%88%D8%A7%D9%85-%D9%86%DA%86%D8%B3%D8%A8-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%81%D8%B1-%D9%88-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D9%85%D8%AF%D9%84-C60126EU",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.558Z"
-  },
-  {
-    "id": "torobshop-audio-video-db326c19924c1c83",
-    "productId": "torobshop-db326c19924c1c83",
-    "name": "ماهیتابه استیل ضد زنگ نینجا فودی زیرو استیک 20 سانتی‌متر، بادوام، نچسب، سازگار با اجاق القایی، قابل استفاده در فر و ماشین ظرفشویی، مدل C60020EU",
-    "brand": "",
-    "model": "ماهیتابه استیل ضد زنگ نینجا فودی زیرو استیک 20 سانتی‌متر، بادوام، نچسب، سازگار با اجاق القایی، قابل استفاده در فر و ماشین ظرفشویی، مدل C60020EU",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 23377000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%81%D9%88%D8%AF%DB%8C-%D8%B2%DB%8C%D8%B1%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-20-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A8%D8%A7%D8%AF%D9%88%D8%A7%D9%85-%D9%86%DA%86%D8%B3%D8%A8-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%81%D8%B1-%D9%88-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D9%85%D8%AF%D9%84-C60020EU",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.558Z"
-  },
-  {
-    "id": "torobshop-audio-video-38b570ec98372839",
-    "productId": "torobshop-38b570ec98372839",
-    "name": "سرویس ماهیتابه دو تکه استیل ضد زنگ نینجا فودی زیرو استیک، 24 سانتی‌متر/28 سانتی‌متر، بادوام، نچسب، سازگار با اجاق‌های القایی، قابل استفاده در فر و ماشین ظرفشویی، مدل C62200EU",
-    "brand": "",
-    "model": "سرویس ماهیتابه دو تکه استیل ضد زنگ نینجا فودی زیرو استیک، 24 سانتی‌متر/28 سانتی‌متر، بادوام، نچسب، سازگار با اجاق‌های القایی، قابل استفاده در فر و ماشین ظرفشویی، مدل C62200EU",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 33795000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%AF%D9%88-%D8%AA%DA%A9%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%81%D9%88%D8%AF%DB%8C-%D8%B2%DB%8C%D8%B1%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-28-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A8%D8%A7%D8%AF%D9%88%D8%A7%D9%85-%D9%86%DA%86%D8%B3%D8%A8-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D9%87%D8%A7%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%81%D8%B1-%D9%88-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D9%85%D8%AF%D9%84-C62200EU",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.558Z"
-  },
-  {
-    "id": "torobshop-audio-video-51525e00ba66dc85",
-    "productId": "torobshop-51525e00ba66dc85",
-    "name": "سرویس قابلمه استیل ضد زنگ سه تکه نینجا اورکلاد با درب، مناسب برای انواع اجاق گاز، از جمله اجاق القایی، مناسب برای فر تا دمای 300 درجه سانتیگراد، پایه القایی پیوسته، مدل C93003EUI",
-    "brand": "",
-    "model": "سرویس قابلمه استیل ضد زنگ سه تکه نینجا اورکلاد با درب، مناسب برای انواع اجاق گاز، از جمله اجاق القایی، مناسب برای فر تا دمای 300 درجه سانتیگراد، پایه القایی پیوسته، مدل C93003EUI",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 41164000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%B3%D9%87-%D8%AA%DA%A9%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A7%D9%88%D8%B1%DA%A9%D9%84%D8%A7%D8%AF-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D8%A7%D8%B2-%D8%AC%D9%85%D9%84%D9%87-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-300-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D9%BE%D8%A7%DB%8C%D9%87-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%BE%DB%8C%D9%88%D8%B3%D8%AA%D9%87-%D9%85%D8%AF%D9%84-C93003EUI",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.558Z"
-  },
-  {
-    "id": "torobshop-audio-video-d5d32c623c74bd66",
-    "productId": "torobshop-d5d32c623c74bd66",
-    "name": "سرویس ماهیتابه استیل ضد زنگ دو تکه نینجا اورکلاد، مدل C92000EUI",
-    "brand": "",
-    "model": "سرویس ماهیتابه استیل ضد زنگ دو تکه نینجا اورکلاد، مدل C92000EUI",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 68352000,
+    "price": 15246000,
     "currency": "IRT",
     "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%AF%D9%88-%D8%AA%DA%A9%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A7%D9%88%D8%B1%DA%A9%D9%84%D8%A7%D8%AF-%D9%85%D8%AF%D9%84-C92000EUI",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-WMF-Devil-18-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%B1%D9%88%DA%A9%D8%B4-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-Cromargan-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D8%AF%D8%B3%D8%AA%D9%87-%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.558Z"
+    "observedAt": "2026-09-05T07:52:57.204Z"
   },
   {
-    "id": "torobshop-audio-video-5edabe07534b749b",
-    "productId": "torobshop-5edabe07534b749b",
-    "name": "ماهیتابه استیل ضد زنگ نینجا اورکلاد (28 سانتی‌متر)، مناسب برای انواع اجاق گاز، از جمله اجاق القایی، مناسب برای فر تا دمای 300 درجه سانتیگراد، پایه القایی پیوسته، مدل C90028EUI",
+    "id": "torobshop-audio-video-79e6d5627c76886a",
+    "productId": "torobshop-79e6d5627c76886a",
+    "name": "ماهیتابه استیل ضد زنگ حرفه ای WMF، 20 سانتی متر بدون روکش، سازگار با القایی، مناسب برای انواع اجاق گاز، استیل ضد زنگ Cromargan، تمیز کردن آسان، مناسب برای فر تا دمای 250 درجه سانتیگراد",
     "brand": "",
-    "model": "ماهیتابه استیل ضد زنگ نینجا اورکلاد (28 سانتی‌متر)، مناسب برای انواع اجاق گاز، از جمله اجاق القایی، مناسب برای فر تا دمای 300 درجه سانتیگراد، پایه القایی پیوسته، مدل C90028EUI",
+    "model": "ماهیتابه استیل ضد زنگ حرفه ای WMF، 20 سانتی متر بدون روکش، سازگار با القایی، مناسب برای انواع اجاق گاز، استیل ضد زنگ Cromargan، تمیز کردن آسان، مناسب برای فر تا دمای 250 درجه سانتیگراد",
     "category": "audio-video",
     "subcategory": "تلویزیون",
-    "price": 39131000,
+    "price": 21344000,
     "currency": "IRT",
     "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A7%D9%88%D8%B1%DA%A9%D9%84%D8%A7%D8%AF-28-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D8%A7%D8%B2-%D8%AC%D9%85%D9%84%D9%87-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-300-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D9%BE%D8%A7%DB%8C%D9%87-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%BE%DB%8C%D9%88%D8%B3%D8%AA%D9%87-%D9%85%D8%AF%D9%84-C90028EUI",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%AD%D8%B1%D9%81%D9%87-%D8%A7%DB%8C-WMF-20-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-Cromargan-%D8%AA%D9%85%DB%8C%D8%B2-%DA%A9%D8%B1%D8%AF%D9%86-%D8%A2%D8%B3%D8%A7%D9%86-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-250-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.558Z"
+    "observedAt": "2026-09-05T07:52:57.204Z"
   },
   {
-    "id": "torobshop-audio-video-5b4a02cf13efdcfb",
-    "productId": "torobshop-5b4a02cf13efdcfb",
-    "name": "سرویس قابلمه و ماهیتابه 7 پارچه نینجا اورکلاد مدل C99007 از جنس استیل ضد زنگ، مناسب برای انواع اجاق گاز و اجاق القایی، مناسب برای فر تا دمای 315 درجه سانتیگراد، سه لایه، کیفیت استاندارد، 7 پارچه",
+    "id": "torobshop-audio-video-4d7d62e428ca7b2f",
+    "productId": "torobshop-4d7d62e428ca7b2f",
+    "name": "ماهیتابه استیل ضد زنگ حرفه ای WMF، بدون پوشش، 24 سانتی متر، سازگار با القایی، برای دماهای بالا، ماهیتابه استیل ضد زنگ Cromargan، 24 سانتی متر، مناسب برای همه اجاق گازها، مناسب برای فر",
     "brand": "",
-    "model": "سرویس قابلمه و ماهیتابه 7 پارچه نینجا اورکلاد مدل C99007 از جنس استیل ضد زنگ، مناسب برای انواع اجاق گاز و اجاق القایی، مناسب برای فر تا دمای 315 درجه سانتیگراد، سه لایه، کیفیت استاندارد، 7 پارچه",
+    "model": "ماهیتابه استیل ضد زنگ حرفه ای WMF، بدون پوشش، 24 سانتی متر، سازگار با القایی، برای دماهای بالا، ماهیتابه استیل ضد زنگ Cromargan، 24 سانتی متر، مناسب برای همه اجاق گازها، مناسب برای فر",
     "category": "audio-video",
     "subcategory": "تلویزیون",
-    "price": 74705000,
+    "price": 20073000,
     "currency": "IRT",
     "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-7-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A7%D9%88%D8%B1%DA%A9%D9%84%D8%A7%D8%AF-%D9%85%D8%AF%D9%84-C99007-%D8%A7%D8%B2-%D8%AC%D9%86%D8%B3-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D9%88-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-315-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D8%B3%D9%87-%D9%84%D8%A7%DB%8C%D9%87-%DA%A9%DB%8C%D9%81%DB%8C%D8%AA-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%AF%D8%A7%D8%B1%D8%AF-7-%D9%BE%D8%A7%D8%B1%DA%86%D9%87",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%AD%D8%B1%D9%81%D9%87-%D8%A7%DB%8C-WMF-%D8%A8%D8%AF%D9%88%D9%86-%D9%BE%D9%88%D8%B4%D8%B4-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AF%D9%85%D8%A7%D9%87%D8%A7%DB%8C-%D8%A8%D8%A7%D9%84%D8%A7-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-Cromargan-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%87%D9%85%D9%87-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2%D9%87%D8%A7-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.558Z"
+    "observedAt": "2026-09-05T07:52:57.204Z"
   },
   {
-    "id": "torobshop-audio-video-e16e63f5a9627912",
-    "productId": "torobshop-e16e63f5a9627912",
-    "name": "ماهیتابه استیل ضد زنگ نینجا اورکلاد (24 سانتی‌متر)، مناسب برای انواع اجاق گاز، از جمله اجاق القایی، مناسب برای فر تا دمای 300 درجه سانتیگراد، پایه القایی پیوسته، مدل C90024EUI",
+    "id": "torobshop-audio-video-65406c258931a363",
+    "productId": "torobshop-65406c258931a363",
+    "name": "ماهیتابه/سرویس حرفه‌ای WMF، سایز ۲۸ سانتی‌متر، سازگار با اجاق القایی، ماهیتابه استیل ضد زنگ بدون پوشش، استیل ضد زنگ Cromargan براق، مناسب برای فر",
     "brand": "",
-    "model": "ماهیتابه استیل ضد زنگ نینجا اورکلاد (24 سانتی‌متر)، مناسب برای انواع اجاق گاز، از جمله اجاق القایی، مناسب برای فر تا دمای 300 درجه سانتیگراد، پایه القایی پیوسته، مدل C90024EUI",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 43959000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A7%D9%88%D8%B1%DA%A9%D9%84%D8%A7%D8%AF-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D8%A7%D8%B2-%D8%AC%D9%85%D9%84%D9%87-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-300-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D9%BE%D8%A7%DB%8C%D9%87-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%BE%DB%8C%D9%88%D8%B3%D8%AA%D9%87-%D9%85%D8%AF%D9%84-C90024EUI",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.558Z"
-  },
-  {
-    "id": "torobshop-audio-video-6f344ad80be292b7",
-    "productId": "torobshop-6f344ad80be292b7",
-    "name": "قابلمه استیل ضد زنگ نینجا اورکلاد (18 سانتی‌متر) با درب، مناسب برای انواع اجاق گاز، حتی اجاق القایی، مناسب برای فر تا دمای 300 درجه سانتیگراد، پایه القایی پیوسته، C90218EUI",
-    "brand": "",
-    "model": "قابلمه استیل ضد زنگ نینجا اورکلاد (18 سانتی‌متر) با درب، مناسب برای انواع اجاق گاز، حتی اجاق القایی، مناسب برای فر تا دمای 300 درجه سانتیگراد، پایه القایی پیوسته، C90218EUI",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 37606000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A7%D9%88%D8%B1%DA%A9%D9%84%D8%A7%D8%AF-18-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D8%AD%D8%AA%DB%8C-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-300-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D9%BE%D8%A7%DB%8C%D9%87-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%BE%DB%8C%D9%88%D8%B3%D8%AA%D9%87-C90218EUI",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.558Z"
-  },
-  {
-    "id": "torobshop-audio-video-81068c1886acd27e",
-    "productId": "torobshop-81068c1886acd27e",
-    "name": "سرویس قابلمه سه تکه Ninja Foodi ZEROSTICK Vivid، قابلمه‌های ۱۶، ۱۸ و ۲۰ سانتی‌متری، آلومینیومی، روکش نچسب، ضد خش، مناسب برای استفاده با اجاق القایی، قابل استفاده در فر تا دمای ۲۰۰ درجه سانتیگراد، قابل شستشو در ماشین ظرفشویی، قرمز تیره، C23000EU",
-    "brand": "",
-    "model": "سرویس قابلمه سه تکه Ninja Foodi ZEROSTICK Vivid، قابلمه‌های ۱۶، ۱۸ و ۲۰ سانتی‌متری، آلومینیومی، روکش نچسب، ضد خش، مناسب برای استفاده با اجاق القایی، قابل استفاده در فر تا دمای ۲۰۰ درجه سانتیگراد، قابل شستشو در ماشین ظرفشویی، قرمز تیره، C23000EU",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 54885000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%B3%D9%87-%D8%AA%DA%A9%D9%87-Ninja-Foodi-ZEROSTICK-Vivid-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%87%D8%A7%DB%8C-%DB%B1%DB%B6-%DB%B1%DB%B8-%D9%88-%DB%B2%DB%B0-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C-%D8%A2%D9%84%D9%88%D9%85%DB%8C%D9%86%DB%8C%D9%88%D9%85%DB%8C-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D8%B6%D8%AF-%D8%AE%D8%B4-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-%DB%B2%DB%B0%DB%B0-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D9%82%D8%B1%D9%85%D8%B2-%D8%AA%DB%8C%D8%B1%D9%87-C23000EU",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.558Z"
-  },
-  {
-    "id": "torobshop-audio-video-0511220ad6c012d6",
-    "productId": "torobshop-0511220ad6c012d6",
-    "name": "سرویس قابلمه ۸ تکه نینجا C28000 Foodi NeverStick Vivid با درب، نچسب، بادوام و مناسب برای فر تا دمای ۲۰۰ درجه سانتیگراد، دسته‌های خنک شونده، بنفش",
-    "brand": "",
-    "model": "سرویس قابلمه ۸ تکه نینجا C28000 Foodi NeverStick Vivid با درب، نچسب، بادوام و مناسب برای فر تا دمای ۲۰۰ درجه سانتیگراد، دسته‌های خنک شونده، بنفش",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 120443000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B8-%D8%AA%DA%A9%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-C28000-Foodi-NeverStick-Vivid-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%A7%D8%AF%D9%88%D8%A7%D9%85-%D9%88-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-%DB%B2%DB%B0%DB%B0-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D8%AF%D8%B3%D8%AA%D9%87-%D9%87%D8%A7%DB%8C-%D8%AE%D9%86%DA%A9-%D8%B4%D9%88%D9%86%D8%AF%D9%87-%D8%A8%D9%86%D9%81%D8%B4",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.558Z"
-  },
-  {
-    "id": "torobshop-audio-video-52a42e6060959a65",
-    "productId": "torobshop-52a42e6060959a65",
-    "name": "قابلمه نچسب نینجا مدل Foodi NeverStick PossiblePan، سرویس ممتاز با ظرفیت ۴ لیتر، سبد بخارپز/صافی، بادوام و مناسب برای فر تا دمای ۲۶۰ درجه سانتیگراد، رنگ خاکستری دریا",
-    "brand": "",
-    "model": "قابلمه نچسب نینجا مدل Foodi NeverStick PossiblePan، سرویس ممتاز با ظرفیت ۴ لیتر، سبد بخارپز/صافی، بادوام و مناسب برای فر تا دمای ۲۶۰ درجه سانتیگراد، رنگ خاکستری دریا",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 31508000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%86%DA%86%D8%B3%D8%A8-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%85%D8%AF%D9%84-Foodi-NeverStick-PossiblePan-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%85%D9%85%D8%AA%D8%A7%D8%B2-%D8%A8%D8%A7-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-%DB%B4-%D9%84%DB%8C%D8%AA%D8%B1-%D8%B3%D8%A8%D8%AF-%D8%A8%D8%AE%D8%A7%D8%B1%D9%BE%D8%B2-%D8%B5%D8%A7%D9%81%DB%8C-%D8%A8%D8%A7%D8%AF%D9%88%D8%A7%D9%85-%D9%88-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-%DB%B2%DB%B6%DB%B0-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D8%B1%D9%86%DA%AF-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C-%D8%AF%D8%B1%DB%8C%D8%A7",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.558Z"
-  },
-  {
-    "id": "torobshop-audio-video-fcb903533e900733",
-    "productId": "torobshop-fcb903533e900733",
-    "name": "ماهیتابه نینجا CW60030 NeverStick با دسته راحت، 30.5 سانتی‌متر، نچسب، بادوام، ضد خش، قابل شستشو در ماشین ظرفشویی، قابل استفاده در فر تا دمای 200 درجه سانتیگراد، دسته‌های سیلیکونی، خاکستری",
-    "brand": "",
-    "model": "ماهیتابه نینجا CW60030 NeverStick با دسته راحت، 30.5 سانتی‌متر، نچسب، بادوام، ضد خش، قابل شستشو در ماشین ظرفشویی، قابل استفاده در فر تا دمای 200 درجه سانتیگراد، دسته‌های سیلیکونی، خاکستری",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 44467000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-CW60030-NeverStick-%D8%A8%D8%A7-%D8%AF%D8%B3%D8%AA%D9%87-%D8%B1%D8%A7%D8%AD%D8%AA-30-5-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%A7%D8%AF%D9%88%D8%A7%D9%85-%D8%B6%D8%AF-%D8%AE%D8%B4-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-200-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D8%AF%D8%B3%D8%AA%D9%87-%D9%87%D8%A7%DB%8C-%D8%B3%DB%8C%D9%84%DB%8C%DA%A9%D9%88%D9%86%DB%8C-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.558Z"
-  },
-  {
-    "id": "torobshop-audio-video-26f6085e7abb8195",
-    "productId": "torobshop-26f6085e7abb8195",
-    "name": "سرویس قابلمه ۵ تکه نینجا فودی زیرو استیک مدل Vivid، شامل ۳ قابلمه، ۱ قابلمه شیر، ۱ ماهیتابه، آلومینیومی، روکش نچسب، مناسب برای استفاده در فر تا دمای ۲۰۰ درجه سانتیگراد، قابل استفاده در ماشین ظرفشویی، قرمز تیره، مدل C23000EU",
-    "brand": "",
-    "model": "سرویس قابلمه ۵ تکه نینجا فودی زیرو استیک مدل Vivid، شامل ۳ قابلمه، ۱ قابلمه شیر، ۱ ماهیتابه، آلومینیومی، روکش نچسب، مناسب برای استفاده در فر تا دمای ۲۰۰ درجه سانتیگراد، قابل استفاده در ماشین ظرفشویی، قرمز تیره، مدل C23000EU",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 144582000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B5-%D8%AA%DA%A9%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%81%D9%88%D8%AF%DB%8C-%D8%B2%DB%8C%D8%B1%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-%D9%85%D8%AF%D9%84-Vivid-%D8%B4%D8%A7%D9%85%D9%84-%DB%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%B4%DB%8C%D8%B1-%DB%B1-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A2%D9%84%D9%88%D9%85%DB%8C%D9%86%DB%8C%D9%88%D9%85%DB%8C-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-%DB%B2%DB%B0%DB%B0-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D9%82%D8%B1%D9%85%D8%B2-%D8%AA%DB%8C%D8%B1%D9%87-%D9%85%D8%AF%D9%84-C23000EU",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.558Z"
-  },
-  {
-    "id": "torobshop-audio-video-362ea2159f4b778c",
-    "productId": "torobshop-362ea2159f4b778c",
-    "name": "ماهیتابه نینجا CW60020 NeverStick با دسته راحت، 20.3 سانتی‌متر، نچسب، بادوام، ضد خش، قابل استفاده در ماشین ظرفشویی، قابل استفاده در فر تا دمای 200 درجه سانتیگراد، دسته‌های سیلیکونی، خاکستری",
-    "brand": "",
-    "model": "ماهیتابه نینجا CW60020 NeverStick با دسته راحت، 20.3 سانتی‌متر، نچسب، بادوام، ضد خش، قابل استفاده در ماشین ظرفشویی، قابل استفاده در فر تا دمای 200 درجه سانتیگراد، دسته‌های سیلیکونی، خاکستری",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 22614000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-CW60020-NeverStick-%D8%A8%D8%A7-%D8%AF%D8%B3%D8%AA%D9%87-%D8%B1%D8%A7%D8%AD%D8%AA-20-3-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%A7%D8%AF%D9%88%D8%A7%D9%85-%D8%B6%D8%AF-%D8%AE%D8%B4-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-200-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D8%AF%D8%B3%D8%AA%D9%87-%D9%87%D8%A7%DB%8C-%D8%B3%DB%8C%D9%84%DB%8C%DA%A9%D9%88%D9%86%DB%8C-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.558Z"
-  },
-  {
-    "id": "torobshop-audio-video-f0066be7088adc85",
-    "productId": "torobshop-f0066be7088adc85",
-    "name": "سرویس قابلمه ۷ تکه نینجا نِوِر استیک سرامیکی پرو، روکش نچسب، قابلمه، ماهیتابه، درب شیشه‌ای، روکش سرامیکی، استیل ضد زنگ، مناسب برای فر، سازگار با تمام اجاق گازها و اجاق گازهای القایی",
-    "brand": "",
-    "model": "سرویس قابلمه ۷ تکه نینجا نِوِر استیک سرامیکی پرو، روکش نچسب، قابلمه، ماهیتابه، درب شیشه‌ای، روکش سرامیکی، استیل ضد زنگ، مناسب برای فر، سازگار با تمام اجاق گازها و اجاق گازهای القایی",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 86394000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B7-%D8%AA%DA%A9%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%86-%D9%88-%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%BE%D8%B1%D9%88-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%AA%D9%85%D8%A7%D9%85-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2%D9%87%D8%A7-%D9%88-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2%D9%87%D8%A7%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.558Z"
-  },
-  {
-    "id": "torobshop-audio-video-91acb86a8482ef98",
-    "productId": "torobshop-91acb86a8482ef98",
-    "name": "سرویس قابلمه و تابه نینجا CW69010، روکش نچسب، دسته راحت، سرویس 10 پارچه پخت و پز با درب نچسب، ماهیتابه، قابلمه با درب، قابلمه سوپ با درب، روکش نچسب",
-    "brand": "",
-    "model": "سرویس قابلمه و تابه نینجا CW69010، روکش نچسب، دسته راحت، سرویس 10 پارچه پخت و پز با درب نچسب، ماهیتابه، قابلمه با درب، قابلمه سوپ با درب، روکش نچسب",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 218271000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D8%AA%D8%A7%D8%A8%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-CW69010-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D8%AF%D8%B3%D8%AA%D9%87-%D8%B1%D8%A7%D8%AD%D8%AA-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-10-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D9%BE%D8%AE%D8%AA-%D9%88-%D9%BE%D8%B2-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%86%DA%86%D8%B3%D8%A8-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%B3%D9%88%D9%BE-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.558Z"
-  },
-  {
-    "id": "torobshop-audio-video-5b99db3ff6f530b9",
-    "productId": "torobshop-5b99db3ff6f530b9",
-    "name": "سرویس قابلمه ۱۱ پارچه نینجا نِوِر استیک سرامیکی پرو، قابلمه و ماهیتابه نچسب، درب شیشه‌ای، روکش سرامیکی، استیل ضد زنگ، مناسب برای استفاده روی اجاق گاز و فر، مناسب برای انواع اجاق گاز.",
-    "brand": "",
-    "model": "سرویس قابلمه ۱۱ پارچه نینجا نِوِر استیک سرامیکی پرو، قابلمه و ماهیتابه نچسب، درب شیشه‌ای، روکش سرامیکی، استیل ضد زنگ، مناسب برای استفاده روی اجاق گاز و فر، مناسب برای انواع اجاق گاز.",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 48787000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B1%DB%B1-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%86-%D9%88-%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%BE%D8%B1%D9%88-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%86%DA%86%D8%B3%D8%A8-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%B1%D9%88%DB%8C-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D9%88-%D9%81%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.558Z"
-  },
-  {
-    "id": "torobshop-audio-video-1fe50cc1e4bf6a68",
-    "productId": "torobshop-1fe50cc1e4bf6a68",
-    "name": "سرویس قابلمه و تابه 11 پارچه نینجا سرامیک پرو CW39011WH، نچسب، با درب شیشه‌ای، بدون PTFE، روکش سرامیکی، مناسب برای فر، مناسب برای انواع اجاق گاز و اجاق القایی",
-    "brand": "",
-    "model": "سرویس قابلمه و تابه 11 پارچه نینجا سرامیک پرو CW39011WH، نچسب، با درب شیشه‌ای، بدون PTFE، روکش سرامیکی، مناسب برای فر، مناسب برای انواع اجاق گاز و اجاق القایی",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 126287000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D8%AA%D8%A7%D8%A8%D9%87-11-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9-%D9%BE%D8%B1%D9%88-CW39011WH-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-PTFE-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D9%88-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.558Z"
-  },
-  {
-    "id": "torobshop-audio-video-b3eb05e26a027097",
-    "productId": "torobshop-b3eb05e26a027097",
-    "name": "سرویس قابلمه نچسب سرامیکی پرو مدل Ninja NeverStick، 7 تکه، قابلمه، ماهیتابه، درب شیشه‌ای، روکش سرامیکی، دسته‌های استیل ضد زنگ، مناسب برای اتصال اجاق گاز به فر، مناسب برای همه نوع اجاق گاز",
-    "brand": "",
-    "model": "سرویس قابلمه نچسب سرامیکی پرو مدل Ninja NeverStick، 7 تکه، قابلمه، ماهیتابه، درب شیشه‌ای، روکش سرامیکی، دسته‌های استیل ضد زنگ، مناسب برای اتصال اجاق گاز به فر، مناسب برای همه نوع اجاق گاز",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 69623000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%86%DA%86%D8%B3%D8%A8-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%BE%D8%B1%D9%88-%D9%85%D8%AF%D9%84-Ninja-NeverStick-7-%D8%AA%DA%A9%D9%87-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D8%AF%D8%B3%D8%AA%D9%87-%D9%87%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D8%A8%D9%87-%D9%81%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%87%D9%85%D9%87-%D9%86%D9%88%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-2",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.558Z"
-  },
-  {
-    "id": "torobshop-audio-video-4b6a53eaa53ecf05",
-    "productId": "torobshop-4b6a53eaa53ecf05",
-    "name": "سرویس قابلمه و ماهیتابه نینجا سرامیک پرو CW39011MM، با روکش نچسب، دارای درب شیشه‌ای، بدون PTFE، روکش سرامیکی، مناسب برای فر، مناسب برای انواع اجاق گاز و اجاق گازهای القایی",
-    "brand": "",
-    "model": "سرویس قابلمه و ماهیتابه نینجا سرامیک پرو CW39011MM، با روکش نچسب، دارای درب شیشه‌ای، بدون PTFE، روکش سرامیکی، مناسب برای فر، مناسب برای انواع اجاق گاز و اجاق گازهای القایی",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 123238000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9-%D9%BE%D8%B1%D9%88-CW39011MM-%D8%A8%D8%A7-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-PTFE-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D9%88-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2%D9%87%D8%A7%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.558Z"
-  },
-  {
-    "id": "torobshop-audio-video-981e44302f342963",
-    "productId": "torobshop-981e44302f342963",
-    "name": "سرویس قابلمه ۷ پارچه نینجا نِوِر استیک سرامیکی پرو، روکش نچسب، قابلمه، ماهیتابه، درب شیشه‌ای، روکش سرامیکی، دسته‌های استیل ضد زنگ، مناسب برای اتصال اجاق گاز به فر، مناسب برای همه نوع اجاق گاز و",
-    "brand": "",
-    "model": "سرویس قابلمه ۷ پارچه نینجا نِوِر استیک سرامیکی پرو، روکش نچسب، قابلمه، ماهیتابه، درب شیشه‌ای، روکش سرامیکی، دسته‌های استیل ضد زنگ، مناسب برای اتصال اجاق گاز به فر، مناسب برای همه نوع اجاق گاز و",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 87918000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B7-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%86-%D9%88-%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%BE%D8%B1%D9%88-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D8%AF%D8%B3%D8%AA%D9%87-%D9%87%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D8%A8%D9%87-%D9%81%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%87%D9%85%D9%87-%D9%86%D9%88%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D9%88",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.558Z"
-  },
-  {
-    "id": "torobshop-audio-video-9366ead7b155bc0e",
-    "productId": "torobshop-9366ead7b155bc0e",
-    "name": "سرویس قابلمه نچسب سرامیکی پرو مدل Ninja NeverStick، 7 تکه، قابلمه، ماهیتابه، درب شیشه‌ای، روکش سرامیکی، دسته‌های استیل ضد زنگ، مناسب برای اتصال اجاق گاز به فر، مناسب برای همه نوع اجاق گاز",
-    "brand": "",
-    "model": "سرویس قابلمه نچسب سرامیکی پرو مدل Ninja NeverStick، 7 تکه، قابلمه، ماهیتابه، درب شیشه‌ای، روکش سرامیکی، دسته‌های استیل ضد زنگ، مناسب برای اتصال اجاق گاز به فر، مناسب برای همه نوع اجاق گاز",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 88426000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%86%DA%86%D8%B3%D8%A8-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%BE%D8%B1%D9%88-%D9%85%D8%AF%D9%84-Ninja-NeverStick-7-%D8%AA%DA%A9%D9%87-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D8%AF%D8%B3%D8%AA%D9%87-%D9%87%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D8%A8%D9%87-%D9%81%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%87%D9%85%D9%87-%D9%86%D9%88%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.558Z"
-  },
-  {
-    "id": "torobshop-audio-video-0e19f63aed58a286",
-    "productId": "torobshop-0e19f63aed58a286",
-    "name": "سرویس قابلمه و ماهیتابه نچسب نینجا سرامیک پرو CW39011BM با درب شیشه‌ای، بدون PTFE، روکش سرامیکی، مناسب برای فر، سازگار با انواع اجاق گاز و اجاق‌های القایی، ماکارون آبی",
-    "brand": "",
-    "model": "سرویس قابلمه و ماهیتابه نچسب نینجا سرامیک پرو CW39011BM با درب شیشه‌ای، بدون PTFE، روکش سرامیکی، مناسب برای فر، سازگار با انواع اجاق گاز و اجاق‌های القایی، ماکارون آبی",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 68352000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%86%DA%86%D8%B3%D8%A8-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9-%D9%BE%D8%B1%D9%88-CW39011BM-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-PTFE-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D9%88-%D8%A7%D8%AC%D8%A7%D9%82-%D9%87%D8%A7%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%85%D8%A7%DA%A9%D8%A7%D8%B1%D9%88%D9%86-%D8%A2%D8%A8%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.558Z"
-  },
-  {
-    "id": "torobshop-audio-video-a084da6a498709d9",
-    "productId": "torobshop-a084da6a498709d9",
-    "name": "سرویس قابلمه و تابه 11 پارچه نینجا سرامیک پرو CW39011BK، نچسب، با درب شیشه‌ای، بدون PTFE، روکش سرامیکی، مناسب برای فر، مناسب برای انواع اجاق گاز و اجاق گازهای القایی",
-    "brand": "",
-    "model": "سرویس قابلمه و تابه 11 پارچه نینجا سرامیک پرو CW39011BK، نچسب، با درب شیشه‌ای، بدون PTFE، روکش سرامیکی، مناسب برای فر، مناسب برای انواع اجاق گاز و اجاق گازهای القایی",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 126287000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D8%AA%D8%A7%D8%A8%D9%87-11-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9-%D9%BE%D8%B1%D9%88-CW39011BK-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-PTFE-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D9%88-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2%D9%87%D8%A7%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.558Z"
-  },
-  {
-    "id": "torobshop-audio-video-986e9be42ebf1aaa",
-    "productId": "torobshop-986e9be42ebf1aaa",
-    "name": "سرویس قابلمه و تابه 11 پارچه نینجا سرامیک پرو CW39011GN، روکش نچسب، قابلمه و تابه، روکش نچسب، بدون PTFE، روکش سرامیکی، مناسب برای فر، مناسب برای انواع اجاق گاز و اجاق گازهای القایی",
-    "brand": "",
-    "model": "سرویس قابلمه و تابه 11 پارچه نینجا سرامیک پرو CW39011GN، روکش نچسب، قابلمه و تابه، روکش نچسب، بدون PTFE، روکش سرامیکی، مناسب برای فر، مناسب برای انواع اجاق گاز و اجاق گازهای القایی",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 107230000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D8%AA%D8%A7%D8%A8%D9%87-11-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9-%D9%BE%D8%B1%D9%88-CW39011GN-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D8%AA%D8%A7%D8%A8%D9%87-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%AF%D9%88%D9%86-PTFE-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D9%88-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2%D9%87%D8%A7%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.558Z"
-  },
-  {
-    "id": "torobshop-audio-video-372174ecf0618423",
-    "productId": "torobshop-372174ecf0618423",
-    "name": "سرویس قابلمه و ماهیتابه نینجا CW99009، روکش نچسب، طول عمر بیشتر، سرویس قابلمه سرامیکی ممتاز، 9 پارچه، روکش نچسب، بدون PTFE، مناسب برای فر تا دمای 287 درجه سانتیگراد، سازگار با اجاق القایی، 3 نفره",
-    "brand": "",
-    "model": "سرویس قابلمه و ماهیتابه نینجا CW99009، روکش نچسب، طول عمر بیشتر، سرویس قابلمه سرامیکی ممتاز، 9 پارچه، روکش نچسب، بدون PTFE، مناسب برای فر تا دمای 287 درجه سانتیگراد، سازگار با اجاق القایی، 3 نفره",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 84361000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-CW99009-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D8%B7%D9%88%D9%84-%D8%B9%D9%85%D8%B1-%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%85%D9%85%D8%AA%D8%A7%D8%B2-9-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%AF%D9%88%D9%86-PTFE-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-287-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-3-%D9%86%D9%81%D8%B1%D9%87",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.558Z"
-  },
-  {
-    "id": "torobshop-audio-video-9d7cd3afb8947c34",
-    "productId": "torobshop-9d7cd3afb8947c34",
-    "name": "سرویس قابلمه و ماهیتابه نینجا سرامیک پرو CW39014MM، روکش نچسب، قابلمه و ماهیتابه، روکش نچسب، بدون PTFE، روکش سرامیکی، مناسب برای فر، مناسب برای انواع اجاق گاز و اجاق گازهای القایی",
-    "brand": "",
-    "model": "سرویس قابلمه و ماهیتابه نینجا سرامیک پرو CW39014MM، روکش نچسب، قابلمه و ماهیتابه، روکش نچسب، بدون PTFE، روکش سرامیکی، مناسب برای فر، مناسب برای انواع اجاق گاز و اجاق گازهای القایی",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 162624000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9-%D9%BE%D8%B1%D9%88-CW39014MM-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%AF%D9%88%D9%86-PTFE-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D9%88-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2%D9%87%D8%A7%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.558Z"
-  },
-  {
-    "id": "torobshop-audio-video-e941e8d3b0baa257",
-    "productId": "torobshop-e941e8d3b0baa257",
-    "name": "سرویس قابلمه سرامیکی نینجا مدل Extended Life، 5 تکه، مناسب برای فر، مدل CW95000EUUKDB",
-    "brand": "",
-    "model": "سرویس قابلمه سرامیکی نینجا مدل Extended Life، 5 تکه، مناسب برای فر، مدل CW95000EUUKDB",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 75975000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%85%D8%AF%D9%84-Extended-Life-5-%D8%AA%DA%A9%D9%87-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D9%85%D8%AF%D9%84-CW95000EUUKDB",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.558Z"
-  },
-  {
-    "id": "torobshop-audio-video-da719245fe9ffcf9",
-    "productId": "torobshop-da719245fe9ffcf9",
-    "name": "ماهیتابه سرامیکی ممتاز نینجا مدل Extended Life CW90020، روکش نچسب، بدون PTFE، پخت و پز سالم، قابل استفاده در فر تا دمای 287 درجه سانتیگراد، قابل شستشو در ماشین ظرفشویی، مناسب برای انواع اجاق گاز و اجاق گازهای القایی",
-    "brand": "",
-    "model": "ماهیتابه سرامیکی ممتاز نینجا مدل Extended Life CW90020، روکش نچسب، بدون PTFE، پخت و پز سالم، قابل استفاده در فر تا دمای 287 درجه سانتیگراد، قابل شستشو در ماشین ظرفشویی، مناسب برای انواع اجاق گاز و اجاق گازهای القایی",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 64541000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%85%D9%85%D8%AA%D8%A7%D8%B2-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%85%D8%AF%D9%84-Extended-Life-CW90020-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%AF%D9%88%D9%86-PTFE-%D9%BE%D8%AE%D8%AA-%D9%88-%D9%BE%D8%B2-%D8%B3%D8%A7%D9%84%D9%85-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-287-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D9%88-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2%D9%87%D8%A7%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.558Z"
-  },
-  {
-    "id": "torobshop-audio-video-58130adffe7c44df",
-    "productId": "torobshop-58130adffe7c44df",
-    "name": "ماهیتابه سرامیکی نینجا با طول عمر طولانی (28 سانتی‌متر)، پوشش نچسب (بدون PFA، PFOA، سرب و کادمیوم)، سازگار با القای حرارتی، دسته استیل ضد زنگ، مناسب برای فر تا دمای 285 درجه سانتیگراد، خاکستری و سفالی، CW90028DEDB",
-    "brand": "",
-    "model": "ماهیتابه سرامیکی نینجا با طول عمر طولانی (28 سانتی‌متر)، پوشش نچسب (بدون PFA، PFOA، سرب و کادمیوم)، سازگار با القای حرارتی، دسته استیل ضد زنگ، مناسب برای فر تا دمای 285 درجه سانتیگراد، خاکستری و سفالی، CW90028DEDB",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 29221000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A8%D8%A7-%D8%B7%D9%88%D9%84-%D8%B9%D9%85%D8%B1-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-28-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%BE%D9%88%D8%B4%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%AF%D9%88%D9%86-PFA-PFOA-%D8%B3%D8%B1%D8%A8-%D9%88-%DA%A9%D8%A7%D8%AF%D9%85%DB%8C%D9%88%D9%85-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C-%D8%AD%D8%B1%D8%A7%D8%B1%D8%AA%DB%8C-%D8%AF%D8%B3%D8%AA%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-285-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C-%D9%88-%D8%B3%D9%81%D8%A7%D9%84%DB%8C-CW90028DEDB",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.558Z"
-  },
-  {
-    "id": "torobshop-audio-video-a40ad0a81a8c91b9",
-    "productId": "torobshop-a40ad0a81a8c91b9",
-    "name": "ماهیتابه سرامیکی نینجا مدل Extended Life سایز ۲۶ سانتی‌متر، دارای روکش نچسب (بدون PFA، PFOA، سرب یا کادمیوم)، مناسب برای پخت القایی، دسته استیل ضد زنگ، قابل استفاده در فر تا دمای ۲۸۵ درجه سانتیگراد، به رنگ سفالی و خاکستری، CW90026DE",
-    "brand": "",
-    "model": "ماهیتابه سرامیکی نینجا مدل Extended Life سایز ۲۶ سانتی‌متر، دارای روکش نچسب (بدون PFA، PFOA، سرب یا کادمیوم)، مناسب برای پخت القایی، دسته استیل ضد زنگ، قابل استفاده در فر تا دمای ۲۸۵ درجه سانتیگراد، به رنگ سفالی و خاکستری، CW90026DE",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 27951000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%85%D8%AF%D9%84-Extended-Life-%D8%B3%D8%A7%DB%8C%D8%B2-%DB%B2%DB%B6-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%AF%D9%88%D9%86-PFA-PFOA-%D8%B3%D8%B1%D8%A8-%DB%8C%D8%A7-%DA%A9%D8%A7%D8%AF%D9%85%DB%8C%D9%88%D9%85-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D8%AE%D8%AA-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%AF%D8%B3%D8%AA%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-%DB%B2%DB%B8%DB%B5-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D8%A8%D9%87-%D8%B1%D9%86%DA%AF-%D8%B3%D9%81%D8%A7%D9%84%DB%8C-%D9%88-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C-CW90026DE",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.558Z"
-  },
-  {
-    "id": "torobshop-audio-video-7209fc2aa373a914",
-    "productId": "torobshop-7209fc2aa373a914",
-    "name": "ماهیتابه سرامیکی نینجا مدل Extended Life سایز 24 سانتی‌متر، به رنگ‌های سفالی و خاکستری، CW90024DE",
-    "brand": "",
-    "model": "ماهیتابه سرامیکی نینجا مدل Extended Life سایز 24 سانتی‌متر، به رنگ‌های سفالی و خاکستری، CW90024DE",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 14991000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%85%D8%AF%D9%84-Extended-Life-%D8%B3%D8%A7%DB%8C%D8%B2-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A8%D9%87-%D8%B1%D9%86%DA%AF-%D9%87%D8%A7%DB%8C-%D8%B3%D9%81%D8%A7%D9%84%DB%8C-%D9%88-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C-CW90024DE",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.558Z"
-  },
-  {
-    "id": "torobshop-audio-video-d73b8f5c61c1a0fd",
-    "productId": "torobshop-d73b8f5c61c1a0fd",
-    "name": "وک سرامیکی نینجا با طول عمر طولانی ۲۸ سانتی‌متر، تابه وک نچسب (بدون PFA، PFOA، سرب، کادمیوم)، مناسب برای اجاق گازهای القایی، دسته استیل ضد زنگ، مناسب برای فر تا دمای ۲۸۵ درجه سانتیگراد، به رنگ‌های سفالی و خاکستری، CW90928DE",
-    "brand": "",
-    "model": "وک سرامیکی نینجا با طول عمر طولانی ۲۸ سانتی‌متر، تابه وک نچسب (بدون PFA، PFOA، سرب، کادمیوم)، مناسب برای اجاق گازهای القایی، دسته استیل ضد زنگ، مناسب برای فر تا دمای ۲۸۵ درجه سانتیگراد، به رنگ‌های سفالی و خاکستری، CW90928DE",
+    "model": "ماهیتابه/سرویس حرفه‌ای WMF، سایز ۲۸ سانتی‌متر، سازگار با اجاق القایی، ماهیتابه استیل ضد زنگ بدون پوشش، استیل ضد زنگ Cromargan براق، مناسب برای فر",
     "category": "audio-video",
     "subcategory": "تلویزیون",
     "price": 17532000,
     "currency": "IRT",
     "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%88%DA%A9-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A8%D8%A7-%D8%B7%D9%88%D9%84-%D8%B9%D9%85%D8%B1-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%DB%B2%DB%B8-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%AA%D8%A7%D8%A8%D9%87-%D9%88%DA%A9-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%AF%D9%88%D9%86-PFA-PFOA-%D8%B3%D8%B1%D8%A8-%DA%A9%D8%A7%D8%AF%D9%85%DB%8C%D9%88%D9%85-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2%D9%87%D8%A7%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%AF%D8%B3%D8%AA%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-%DB%B2%DB%B8%DB%B5-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D8%A8%D9%87-%D8%B1%D9%86%DA%AF-%D9%87%D8%A7%DB%8C-%D8%B3%D9%81%D8%A7%D9%84%DB%8C-%D9%88-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C-CW90928DE",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D8%AD%D8%B1%D9%81%D9%87-%D8%A7%DB%8C-WMF-%D8%B3%D8%A7%DB%8C%D8%B2-%DB%B2%DB%B8-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%A8%D8%AF%D9%88%D9%86-%D9%BE%D9%88%D8%B4%D8%B4-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-Cromargan-%D8%A8%D8%B1%D8%A7%D9%82-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.558Z"
+    "observedAt": "2026-09-05T07:52:57.204Z"
   },
   {
-    "id": "torobshop-audio-video-cfdf7d431c8836b3",
-    "productId": "torobshop-cfdf7d431c8836b3",
-    "name": "ماهیتابه سرامیکی نینجا با طول عمر طولانی ۲۸ سانتی‌متر، ماهیتابه با روکش نچسب (بدون PFA، PFOA، سرب یا کادمیوم)، مناسب برای پخت القایی، دسته استیل ضد زنگ، مناسب برای فر تا دمای ۲۸۵ درجه سانتیگراد، به رنگ‌های سفالی و خاکستری، CW90028DE",
+    "id": "torobshop-audio-video-8f09ea7e78ac1bdf",
+    "productId": "torobshop-8f09ea7e78ac1bdf",
+    "name": "ماهیتابه/سرویس حرفه‌ای WMF، سایز 24 سانتی‌متر، سازگار با اجاق القایی، ماهیتابه استیل ضد زنگ 24 سانتی‌متر بدون روکش، استیل ضد زنگ براق Cromargan، مناسب برای فر",
     "brand": "",
-    "model": "ماهیتابه سرامیکی نینجا با طول عمر طولانی ۲۸ سانتی‌متر، ماهیتابه با روکش نچسب (بدون PFA، PFOA، سرب یا کادمیوم)، مناسب برای پخت القایی، دسته استیل ضد زنگ، مناسب برای فر تا دمای ۲۸۵ درجه سانتیگراد، به رنگ‌های سفالی و خاکستری، CW90028DE",
+    "model": "ماهیتابه/سرویس حرفه‌ای WMF، سایز 24 سانتی‌متر، سازگار با اجاق القایی، ماهیتابه استیل ضد زنگ 24 سانتی‌متر بدون روکش، استیل ضد زنگ براق Cromargan، مناسب برای فر",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 23631000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D8%AD%D8%B1%D9%81%D9%87-%D8%A7%DB%8C-WMF-%D8%B3%D8%A7%DB%8C%D8%B2-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%DA%A9%D8%B4-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%A8%D8%B1%D8%A7%D9%82-Cromargan-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.204Z"
+  },
+  {
+    "id": "torobshop-audio-video-1a0b584d283adaa5",
+    "productId": "torobshop-1a0b584d283adaa5",
+    "name": "ماهیتابه/سرویس حرفه‌ای WMF، سایز 20 سانتی‌متر، سازگار با اجاق القایی، ماهیتابه استیل ضد زنگ بدون پوشش، استیل ضد زنگ Cromargan براق، مناسب برای فر",
+    "brand": "",
+    "model": "ماهیتابه/سرویس حرفه‌ای WMF، سایز 20 سانتی‌متر، سازگار با اجاق القایی، ماهیتابه استیل ضد زنگ بدون پوشش، استیل ضد زنگ Cromargan براق، مناسب برای فر",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 22614000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D8%AD%D8%B1%D9%81%D9%87-%D8%A7%DB%8C-WMF-%D8%B3%D8%A7%DB%8C%D8%B2-20-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%A8%D8%AF%D9%88%D9%86-%D9%BE%D9%88%D8%B4%D8%B4-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-Cromargan-%D8%A8%D8%B1%D8%A7%D9%82-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.204Z"
+  },
+  {
+    "id": "torobshop-audio-video-95e7f7ca47ff74cf",
+    "productId": "torobshop-95e7f7ca47ff74cf",
+    "name": "ماهیتابه القایی حرفه‌ای WMF، سایز 28 سانتی‌متر، جنس استیل ضد زنگ بدون روکش، جنس استیل ضد زنگ Cromargan، دسته ارگونومیک استیل ضد زنگ، مناسب برای انواع اجاق گاز، قابل شستشو در ماشین ظرفشویی، قابل استفاده در فر",
+    "brand": "",
+    "model": "ماهیتابه القایی حرفه‌ای WMF، سایز 28 سانتی‌متر، جنس استیل ضد زنگ بدون روکش، جنس استیل ضد زنگ Cromargan، دسته ارگونومیک استیل ضد زنگ، مناسب برای انواع اجاق گاز، قابل شستشو در ماشین ظرفشویی، قابل استفاده در فر",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 18549000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%AD%D8%B1%D9%81%D9%87-%D8%A7%DB%8C-WMF-%D8%B3%D8%A7%DB%8C%D8%B2-28-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%AC%D9%86%D8%B3-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%DA%A9%D8%B4-%D8%AC%D9%86%D8%B3-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-Cromargan-%D8%AF%D8%B3%D8%AA%D9%87-%D8%A7%D8%B1%DA%AF%D9%88%D9%86%D9%88%D9%85%DB%8C%DA%A9-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%81%D8%B1",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.204Z"
+  },
+  {
+    "id": "torobshop-audio-video-a592fd279e95cba6",
+    "productId": "torobshop-a592fd279e95cba6",
+    "name": "قابلمه بزرگ WMF Fusiontec Functional سایز 24 سانتی‌متر، درب شیشه‌ای با قابلیت ریختن مایعات، قابلمه القایی 6.4 لیتری، سرامیک پیشرفته، ضد خش، مشکی",
+    "brand": "",
+    "model": "قابلمه بزرگ WMF Fusiontec Functional سایز 24 سانتی‌متر، درب شیشه‌ای با قابلیت ریختن مایعات، قابلمه القایی 6.4 لیتری، سرامیک پیشرفته، ضد خش، مشکی",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 55902000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A8%D8%B2%D8%B1%DA%AF-WMF-Fusiontec-Functional-%D8%B3%D8%A7%DB%8C%D8%B2-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%A8%D8%A7-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%B1%DB%8C%D8%AE%D8%AA%D9%86-%D9%85%D8%A7%DB%8C%D8%B9%D8%A7%D8%AA-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-6-4-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87-%D8%B6%D8%AF-%D8%AE%D8%B4-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.204Z"
+  },
+  {
+    "id": "torobshop-audio-video-45e61f822a13b643",
+    "productId": "torobshop-45e61f822a13b643",
+    "name": "بخارپز سبزیجات/سیب‌زمینی WMF Fusiontec Compact، 22 سانتی‌متر، محفظه بخارپز برای قابلمه، استیل ضد زنگ Cromargan براق، قابل شستشو در ماشین ظرفشویی",
+    "brand": "",
+    "model": "بخارپز سبزیجات/سیب‌زمینی WMF Fusiontec Compact، 22 سانتی‌متر، محفظه بخارپز برای قابلمه، استیل ضد زنگ Cromargan براق، قابل شستشو در ماشین ظرفشویی",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 26426000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%A8%D8%AE%D8%A7%D8%B1%D9%BE%D8%B2-%D8%B3%D8%A8%D8%B2%DB%8C%D8%AC%D8%A7%D8%AA-%D8%B3%DB%8C%D8%A8-%D8%B2%D9%85%DB%8C%D9%86%DB%8C-WMF-Fusiontec-Compact-22-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%85%D8%AD%D9%81%D8%B8%D9%87-%D8%A8%D8%AE%D8%A7%D8%B1%D9%BE%D8%B2-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-Cromargan-%D8%A8%D8%B1%D8%A7%D9%82-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.204Z"
+  },
+  {
+    "id": "torobshop-audio-video-8e3edf9ce816bcbd",
+    "productId": "torobshop-8e3edf9ce816bcbd",
+    "name": "قابلمه بزرگ WMF Fusiontec Functional با ظرفیت 20 سانتی‌متر، 3.7 لیتر، سازگار با اجاق القایی، درب شیشه‌ای با قابلیت ریختن مایعات، سرامیک پیشرفته، ضد خش، مشکی",
+    "brand": "",
+    "model": "قابلمه بزرگ WMF Fusiontec Functional با ظرفیت 20 سانتی‌متر، 3.7 لیتر، سازگار با اجاق القایی، درب شیشه‌ای با قابلیت ریختن مایعات، سرامیک پیشرفته، ضد خش، مشکی",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 48787000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A8%D8%B2%D8%B1%DA%AF-WMF-Fusiontec-Functional-%D8%A8%D8%A7-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-20-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-3-7-%D9%84%DB%8C%D8%AA%D8%B1-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%A8%D8%A7-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%B1%DB%8C%D8%AE%D8%AA%D9%86-%D9%85%D8%A7%DB%8C%D8%B9%D8%A7%D8%AA-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87-%D8%B6%D8%AF-%D8%AE%D8%B4-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.204Z"
+  },
+  {
+    "id": "torobshop-audio-video-77656acffeaed473",
+    "productId": "torobshop-77656acffeaed473",
+    "name": "تابه چدنی معدنی WMF Fusiontec 24 سانتی‌متر، پخت عالی، پخت یکنواخت، ضد خش، تمیز کردن آسان، ساخت آلمان، پلاتینیوم، 0515835290",
+    "brand": "",
+    "model": "تابه چدنی معدنی WMF Fusiontec 24 سانتی‌متر، پخت عالی، پخت یکنواخت، ضد خش، تمیز کردن آسان، ساخت آلمان، پلاتینیوم، 0515835290",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 48024000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%AA%D8%A7%D8%A8%D9%87-%DA%86%D8%AF%D9%86%DB%8C-%D9%85%D8%B9%D8%AF%D9%86%DB%8C-WMF-Fusiontec-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%BE%D8%AE%D8%AA-%D8%B9%D8%A7%D9%84%DB%8C-%D9%BE%D8%AE%D8%AA-%DB%8C%DA%A9%D9%86%D9%88%D8%A7%D8%AE%D8%AA-%D8%B6%D8%AF-%D8%AE%D8%B4-%D8%AA%D9%85%DB%8C%D8%B2-%DA%A9%D8%B1%D8%AF%D9%86-%D8%A2%D8%B3%D8%A7%D9%86-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%BE%D9%84%D8%A7%D8%AA%DB%8C%D9%86%DB%8C%D9%88%D9%85-0515835290",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.204Z"
+  },
+  {
+    "id": "torobshop-audio-video-146af17c648e3b95",
+    "productId": "torobshop-146af17c648e3b95",
+    "name": "تابه چدنی معدنی WMF Fusiontec 24 سانتی‌متر، پخت عالی، پخت یکنواخت، ضد خش، تمیز کردن آسان، ساخت آلمان، رز کوارتز، 0515845290",
+    "brand": "",
+    "model": "تابه چدنی معدنی WMF Fusiontec 24 سانتی‌متر، پخت عالی، پخت یکنواخت، ضد خش، تمیز کردن آسان، ساخت آلمان، رز کوارتز، 0515845290",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 48024000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%AA%D8%A7%D8%A8%D9%87-%DA%86%D8%AF%D9%86%DB%8C-%D9%85%D8%B9%D8%AF%D9%86%DB%8C-WMF-Fusiontec-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%BE%D8%AE%D8%AA-%D8%B9%D8%A7%D9%84%DB%8C-%D9%BE%D8%AE%D8%AA-%DB%8C%DA%A9%D9%86%D9%88%D8%A7%D8%AE%D8%AA-%D8%B6%D8%AF-%D8%AE%D8%B4-%D8%AA%D9%85%DB%8C%D8%B2-%DA%A9%D8%B1%D8%AF%D9%86-%D8%A2%D8%B3%D8%A7%D9%86-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%B1%D8%B2-%DA%A9%D9%88%D8%A7%D8%B1%D8%AA%D8%B2-0515845290",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.204Z"
+  },
+  {
+    "id": "torobshop-audio-video-c1cfcf189359b5e7",
+    "productId": "torobshop-c1cfcf189359b5e7",
+    "name": "بخارپز بزرگ WMF Vitalis 22 x 15 سانتی متر، سینی بخارپز Vitalis Aroma، لوازم جانبی Vitalis، سینی استیل ضد زنگ، استیل ضد زنگ Cromargan، قابل شستشو در ماشین ظرفشویی",
+    "brand": "",
+    "model": "بخارپز بزرگ WMF Vitalis 22 x 15 سانتی متر، سینی بخارپز Vitalis Aroma، لوازم جانبی Vitalis، سینی استیل ضد زنگ، استیل ضد زنگ Cromargan، قابل شستشو در ماشین ظرفشویی",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 20582000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A8%D8%AE%D8%A7%D8%B1%D9%BE%D8%B2-%D8%A8%D8%B2%D8%B1%DA%AF-WMF-Vitalis-22-x-15-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%B3%DB%8C%D9%86%DB%8C-%D8%A8%D8%AE%D8%A7%D8%B1%D9%BE%D8%B2-Vitalis-Aroma-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-Vitalis-%D8%B3%DB%8C%D9%86%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-Cromargan-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.204Z"
+  },
+  {
+    "id": "torobshop-audio-video-0b1da3847ca49a06",
+    "productId": "torobshop-0b1da3847ca49a06",
+    "name": "تابه وک WMF Ceradur Plus سازگار با القایی، 28 سانتی‌متر، وک با روکش آلومینیومی، روکش سرامیکی، دسته پلاستیکی",
+    "brand": "",
+    "model": "تابه وک WMF Ceradur Plus سازگار با القایی، 28 سانتی‌متر، وک با روکش آلومینیومی، روکش سرامیکی، دسته پلاستیکی",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 35574000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%AA%D8%A7%D8%A8%D9%87-%D9%88%DA%A9-WMF-Ceradur-Plus-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-28-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%88%DA%A9-%D8%A8%D8%A7-%D8%B1%D9%88%DA%A9%D8%B4-%D8%A2%D9%84%D9%88%D9%85%DB%8C%D9%86%DB%8C%D9%88%D9%85%DB%8C-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D8%AF%D8%B3%D8%AA%D9%87-%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.204Z"
+  },
+  {
+    "id": "torobshop-audio-video-136bfac083605d7b",
+    "productId": "torobshop-136bfac083605d7b",
+    "name": "ماهیتابه/سرویس WMF Ultimate، ماهیتابه استیل ضد زنگ 20 سانتی متری، بدون روکش، تخت، کف تخت، سازگار با القایی، استیل ضد زنگ Cromargan براق، قابل استفاده در فر، قابل شستشو در ماشین ظرفشویی",
+    "brand": "",
+    "model": "ماهیتابه/سرویس WMF Ultimate، ماهیتابه استیل ضد زنگ 20 سانتی متری، بدون روکش، تخت، کف تخت، سازگار با القایی، استیل ضد زنگ Cromargan براق، قابل استفاده در فر، قابل شستشو در ماشین ظرفشویی",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 26426000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-WMF-Ultimate-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-20-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%DA%A9%D8%B4-%D8%AA%D8%AE%D8%AA-%DA%A9%D9%81-%D8%AA%D8%AE%D8%AA-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-Cromargan-%D8%A8%D8%B1%D8%A7%D9%82-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%81%D8%B1-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.204Z"
+  },
+  {
+    "id": "torobshop-audio-video-faa6218a040e9345",
+    "productId": "torobshop-faa6218a040e9345",
+    "name": "ماهیتابه WMF Permadur Premium، سازگار با القایی، 28 سانتی‌متر، آلومینیوم روکش‌دار، دسته پلاستیکی با محافظ شعله",
+    "brand": "",
+    "model": "ماهیتابه WMF Permadur Premium، سازگار با القایی، 28 سانتی‌متر، آلومینیوم روکش‌دار، دسته پلاستیکی با محافظ شعله",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 32778000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-WMF-Permadur-Premium-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-28-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A2%D9%84%D9%88%D9%85%DB%8C%D9%86%DB%8C%D9%88%D9%85-%D8%B1%D9%88%DA%A9%D8%B4-%D8%AF%D8%A7%D8%B1-%D8%AF%D8%B3%D8%AA%D9%87-%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9%DB%8C-%D8%A8%D8%A7-%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D8%B4%D8%B9%D9%84%D9%87",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.204Z"
+  },
+  {
+    "id": "torobshop-audio-video-870b5008908a5ec3",
+    "productId": "torobshop-870b5008908a5ec3",
+    "name": "تابه WMF Multiply Wok برای پخت القایی، 28 سانتی‌متر، بدون پوشش، درب فلزی با دریچه بخار، جنس چند لایه، فولاد ضد زنگ Cromargan، هسته آلومینیومی",
+    "brand": "",
+    "model": "تابه WMF Multiply Wok برای پخت القایی، 28 سانتی‌متر، بدون پوشش، درب فلزی با دریچه بخار، جنس چند لایه، فولاد ضد زنگ Cromargan، هسته آلومینیومی",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 53869000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%AA%D8%A7%D8%A8%D9%87-WMF-Multiply-Wok-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D8%AE%D8%AA-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-28-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A8%D8%AF%D9%88%D9%86-%D9%BE%D9%88%D8%B4%D8%B4-%D8%AF%D8%B1%D8%A8-%D9%81%D9%84%D8%B2%DB%8C-%D8%A8%D8%A7-%D8%AF%D8%B1%DB%8C%DA%86%D9%87-%D8%A8%D8%AE%D8%A7%D8%B1-%D8%AC%D9%86%D8%B3-%DA%86%D9%86%D8%AF-%D9%84%D8%A7%DB%8C%D9%87-%D9%81%D9%88%D9%84%D8%A7%D8%AF-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-Cromargan-%D9%87%D8%B3%D8%AA%D9%87-%D8%A2%D9%84%D9%88%D9%85%DB%8C%D9%86%DB%8C%D9%88%D9%85%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.204Z"
+  },
+  {
+    "id": "torobshop-audio-video-6f14de5041910d07",
+    "productId": "torobshop-6f14de5041910d07",
+    "name": "تابه وک چندکاره WMF مدل Multiply، سایز 32 سانتی‌متر، سازگار با دستگاه‌های القایی، بدون پوشش، درب فلزی با دریچه بخار، جنس چندلایه، استیل ضد زنگ Cromargan، هسته آلومینیومی",
+    "brand": "",
+    "model": "تابه وک چندکاره WMF مدل Multiply، سایز 32 سانتی‌متر، سازگار با دستگاه‌های القایی، بدون پوشش، درب فلزی با دریچه بخار، جنس چندلایه، استیل ضد زنگ Cromargan، هسته آلومینیومی",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 53106000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AA%D8%A7%D8%A8%D9%87-%D9%88%DA%A9-%DA%86%D9%86%D8%AF%DA%A9%D8%A7%D8%B1%D9%87-WMF-%D9%85%D8%AF%D9%84-Multiply-%D8%B3%D8%A7%DB%8C%D8%B2-32-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%D9%BE%D9%88%D8%B4%D8%B4-%D8%AF%D8%B1%D8%A8-%D9%81%D9%84%D8%B2%DB%8C-%D8%A8%D8%A7-%D8%AF%D8%B1%DB%8C%DA%86%D9%87-%D8%A8%D8%AE%D8%A7%D8%B1-%D8%AC%D9%86%D8%B3-%DA%86%D9%86%D8%AF%D9%84%D8%A7%DB%8C%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-Cromargan-%D9%87%D8%B3%D8%AA%D9%87-%D8%A2%D9%84%D9%88%D9%85%DB%8C%D9%86%DB%8C%D9%88%D9%85%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.204Z"
+  },
+  {
+    "id": "torobshop-audio-video-e33e63c4ca120551",
+    "productId": "torobshop-e33e63c4ca120551",
+    "name": "سرخ‌کن معدنی WMF Fusiontec با درب شیشه‌ای، ۲۸ سانتی‌متر، سازگار با القایی، ظرف کاسرول ۵.۹ لیتری، لبه بلند، سرامیک پیشرفته، ضد خش، خاکستری",
+    "brand": "",
+    "model": "سرخ‌کن معدنی WMF Fusiontec با درب شیشه‌ای، ۲۸ سانتی‌متر، سازگار با القایی، ظرف کاسرول ۵.۹ لیتری، لبه بلند، سرامیک پیشرفته، ضد خش، خاکستری",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 60221000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D9%85%D8%B9%D8%AF%D9%86%DB%8C-WMF-Fusiontec-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%DB%B2%DB%B8-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%B8%D8%B1%D9%81-%DA%A9%D8%A7%D8%B3%D8%B1%D9%88%D9%84-%DB%B5-%DB%B9-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C-%D9%84%D8%A8%D9%87-%D8%A8%D9%84%D9%86%D8%AF-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87-%D8%B6%D8%AF-%D8%AE%D8%B4-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.204Z"
+  },
+  {
+    "id": "torobshop-audio-video-4044bbc7d8bd950f",
+    "productId": "torobshop-4044bbc7d8bd950f",
+    "name": "ماهیتابه WMF PermaDur Premium 20 سانتی‌متر، سازگار با اجاق القایی، روکش آلومینیومی، دسته پلاستیکی با محافظ شعله، مناسب برای انواع اجاق گاز، توزیع بهینه گرما",
+    "brand": "",
+    "model": "ماهیتابه WMF PermaDur Premium 20 سانتی‌متر، سازگار با اجاق القایی، روکش آلومینیومی، دسته پلاستیکی با محافظ شعله، مناسب برای انواع اجاق گاز، توزیع بهینه گرما",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 26680000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-WMF-PermaDur-Premium-20-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%B1%D9%88%DA%A9%D8%B4-%D8%A2%D9%84%D9%88%D9%85%DB%8C%D9%86%DB%8C%D9%88%D9%85%DB%8C-%D8%AF%D8%B3%D8%AA%D9%87-%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9%DB%8C-%D8%A8%D8%A7-%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D8%B4%D8%B9%D9%84%D9%87-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D8%AA%D9%88%D8%B2%DB%8C%D8%B9-%D8%A8%D9%87%DB%8C%D9%86%D9%87-%DA%AF%D8%B1%D9%85%D8%A7",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.204Z"
+  },
+  {
+    "id": "torobshop-audio-video-11e230024208e1e6",
+    "productId": "torobshop-11e230024208e1e6",
+    "name": "ماهیتابه WMF Permadur Premium، سایز 24 سانتی‌متر، سازگار با اجاق القایی، روکش آلومینیومی، مناسب برای انواع اجاق گاز، دسته پلاستیکی ارگونومیک با محافظ شعله، توزیع بهینه حرارت",
+    "brand": "",
+    "model": "ماهیتابه WMF Permadur Premium، سایز 24 سانتی‌متر، سازگار با اجاق القایی، روکش آلومینیومی، مناسب برای انواع اجاق گاز، دسته پلاستیکی ارگونومیک با محافظ شعله، توزیع بهینه حرارت",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 28713000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-WMF-Permadur-Premium-%D8%B3%D8%A7%DB%8C%D8%B2-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%B1%D9%88%DA%A9%D8%B4-%D8%A2%D9%84%D9%88%D9%85%DB%8C%D9%86%DB%8C%D9%88%D9%85%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D8%AF%D8%B3%D8%AA%D9%87-%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9%DB%8C-%D8%A7%D8%B1%DA%AF%D9%88%D9%86%D9%88%D9%85%DB%8C%DA%A9-%D8%A8%D8%A7-%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D8%B4%D8%B9%D9%84%D9%87-%D8%AA%D9%88%D8%B2%DB%8C%D8%B9-%D8%A8%D9%87%DB%8C%D9%86%D9%87-%D8%AD%D8%B1%D8%A7%D8%B1%D8%AA",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.204Z"
+  },
+  {
+    "id": "torobshop-audio-video-5cd552fd3e82df16",
+    "productId": "torobshop-5cd552fd3e82df16",
+    "name": "تابه کباب‌پزی WMF Permadur Premium سایز 24 سانتی‌متر، سازگار با القا، دارای دسته کمکی، لبه بلند، روکش آلومینیومی، دسته پلاستیکی با محافظ شعله",
+    "brand": "",
+    "model": "تابه کباب‌پزی WMF Permadur Premium سایز 24 سانتی‌متر، سازگار با القا، دارای دسته کمکی، لبه بلند، روکش آلومینیومی، دسته پلاستیکی با محافظ شعله",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 30492000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AA%D8%A7%D8%A8%D9%87-%DA%A9%D8%A8%D8%A7%D8%A8-%D9%BE%D8%B2%DB%8C-WMF-Permadur-Premium-%D8%B3%D8%A7%DB%8C%D8%B2-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C-%D8%AF%D8%B3%D8%AA%D9%87-%DA%A9%D9%85%DA%A9%DB%8C-%D9%84%D8%A8%D9%87-%D8%A8%D9%84%D9%86%D8%AF-%D8%B1%D9%88%DA%A9%D8%B4-%D8%A2%D9%84%D9%88%D9%85%DB%8C%D9%86%DB%8C%D9%88%D9%85%DB%8C-%D8%AF%D8%B3%D8%AA%D9%87-%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9%DB%8C-%D8%A8%D8%A7-%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D8%B4%D8%B9%D9%84%D9%87",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.204Z"
+  },
+  {
+    "id": "torobshop-audio-video-86b87574af509cc1",
+    "productId": "torobshop-86b87574af509cc1",
+    "name": "تابه کباب‌پزی WMF Permadur Premium سایز 28 سانتی‌متر، سازگار با القا، دارای دسته کمکی، لبه بلند، روکش آلومینیومی، دسته پلاستیکی با محافظ شعله",
+    "brand": "",
+    "model": "تابه کباب‌پزی WMF Permadur Premium سایز 28 سانتی‌متر، سازگار با القا، دارای دسته کمکی، لبه بلند، روکش آلومینیومی، دسته پلاستیکی با محافظ شعله",
     "category": "audio-video",
     "subcategory": "تلویزیون",
     "price": 29221000,
     "currency": "IRT",
     "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A8%D8%A7-%D8%B7%D9%88%D9%84-%D8%B9%D9%85%D8%B1-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%DB%B2%DB%B8-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A8%D8%A7-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%AF%D9%88%D9%86-PFA-PFOA-%D8%B3%D8%B1%D8%A8-%DB%8C%D8%A7-%DA%A9%D8%A7%D8%AF%D9%85%DB%8C%D9%88%D9%85-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D8%AE%D8%AA-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%AF%D8%B3%D8%AA%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-%DB%B2%DB%B8%DB%B5-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D8%A8%D9%87-%D8%B1%D9%86%DA%AF-%D9%87%D8%A7%DB%8C-%D8%B3%D9%81%D8%A7%D9%84%DB%8C-%D9%88-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C-CW90028DE",
+    "productUrl": "https://torobshop.com/products/%D8%AA%D8%A7%D8%A8%D9%87-%DA%A9%D8%A8%D8%A7%D8%A8-%D9%BE%D8%B2%DB%8C-WMF-Permadur-Premium-%D8%B3%D8%A7%DB%8C%D8%B2-28-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C-%D8%AF%D8%B3%D8%AA%D9%87-%DA%A9%D9%85%DA%A9%DB%8C-%D9%84%D8%A8%D9%87-%D8%A8%D9%84%D9%86%D8%AF-%D8%B1%D9%88%DA%A9%D8%B4-%D8%A2%D9%84%D9%88%D9%85%DB%8C%D9%86%DB%8C%D9%88%D9%85%DB%8C-%D8%AF%D8%B3%D8%AA%D9%87-%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9%DB%8C-%D8%A8%D8%A7-%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D8%B4%D8%B9%D9%84%D9%87",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.558Z"
+    "observedAt": "2026-09-05T07:52:57.204Z"
   },
   {
-    "id": "torobshop-audio-video-227eb15d85db0deb",
-    "productId": "torobshop-227eb15d85db0deb",
-    "name": "سرویس قابلمه سرامیکی ۵ تکه نینجا مدل Extended Life (ماهیتابه‌های ۲۰ و ۲۴ سانتی‌متری، ۱۶ عدد)",
+    "id": "torobshop-audio-video-3a934dea31b34217",
+    "productId": "torobshop-3a934dea31b34217",
+    "name": "تابه گریل WMF Permadur Premium 28 سانتی‌متری سازگار با القایی، تابه استیک سازگار با القایی، آلومینیوم روکش‌دار، تابه گریل سازگار با القایی، تابه استیک ایده‌آل برای سرخ کردن ترد، تابه مربعی، دسته پلاستیکی",
     "brand": "",
-    "model": "سرویس قابلمه سرامیکی ۵ تکه نینجا مدل Extended Life (ماهیتابه‌های ۲۰ و ۲۴ سانتی‌متری، ۱۶ عدد)",
+    "model": "تابه گریل WMF Permadur Premium 28 سانتی‌متری سازگار با القایی، تابه استیک سازگار با القایی، آلومینیوم روکش‌دار، تابه گریل سازگار با القایی، تابه استیک ایده‌آل برای سرخ کردن ترد، تابه مربعی، دسته پلاستیکی",
     "category": "audio-video",
     "subcategory": "تلویزیون",
-    "price": 28967000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%DB%B5-%D8%AA%DA%A9%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%85%D8%AF%D9%84-Extended-Life-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%87%D8%A7%DB%8C-%DB%B2%DB%B0-%D9%88-%DB%B2%DB%B4-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B1%DB%B6-%D8%B9%D8%AF%D8%AF",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.558Z"
-  },
-  {
-    "id": "torobshop-audio-video-74a94c9ec68aef39",
-    "productId": "torobshop-74a94c9ec68aef39",
-    "name": "ماهیتابه سرامیکی نینجا مدل Extended Life سایز 20 سانتی‌متر، CW90020DE، سفالی و خاکستری",
-    "brand": "",
-    "model": "ماهیتابه سرامیکی نینجا مدل Extended Life سایز 20 سانتی‌متر، CW90020DE، سفالی و خاکستری",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 33490000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%85%D8%AF%D9%84-Extended-Life-%D8%B3%D8%A7%DB%8C%D8%B2-20-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-CW90020DE-%D8%B3%D9%81%D8%A7%D9%84%DB%8C-%D9%88-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.558Z"
-  },
-  {
-    "id": "torobshop-audio-video-5460ea0842329793",
-    "productId": "torobshop-5460ea0842329793",
-    "name": "سرویس قابلمه سرامیکی نینجا مدل Extended Life، دو تکه، ۲۴ و ۲۸ سانتی‌متر، روکش نچسب (فاقد PFA، PFOA، سرب و کادمیوم)، سازگار با اجاق القایی، دسته استیل ضد زنگ، مناسب برای فر تا دمای ۲۸۵ درجه سانتیگراد، به رنگ‌های سفالی و خاکستری، CW92000DE",
-    "brand": "",
-    "model": "سرویس قابلمه سرامیکی نینجا مدل Extended Life، دو تکه، ۲۴ و ۲۸ سانتی‌متر، روکش نچسب (فاقد PFA، PFOA، سرب و کادمیوم)، سازگار با اجاق القایی، دسته استیل ضد زنگ، مناسب برای فر تا دمای ۲۸۵ درجه سانتیگراد، به رنگ‌های سفالی و خاکستری، CW92000DE",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 53360000,
+    "price": 34303000,
     "currency": "IRT",
     "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%85%D8%AF%D9%84-Extended-Life-%D8%AF%D9%88-%D8%AA%DA%A9%D9%87-%DB%B2%DB%B4-%D9%88-%DB%B2%DB%B8-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D9%81%D8%A7%D9%82%D8%AF-PFA-PFOA-%D8%B3%D8%B1%D8%A8-%D9%88-%DA%A9%D8%A7%D8%AF%D9%85%DB%8C%D9%88%D9%85-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%AF%D8%B3%D8%AA%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-%DB%B2%DB%B8%DB%B5-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D8%A8%D9%87-%D8%B1%D9%86%DA%AF-%D9%87%D8%A7%DB%8C-%D8%B3%D9%81%D8%A7%D9%84%DB%8C-%D9%88-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C-CW92000DE",
+    "productUrl": "https://torobshop.com/products/%D8%AA%D8%A7%D8%A8%D9%87-%DA%AF%D8%B1%DB%8C%D9%84-WMF-Permadur-Premium-28-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%A2%D9%84%D9%88%D9%85%DB%8C%D9%86%DB%8C%D9%88%D9%85-%D8%B1%D9%88%DA%A9%D8%B4-%D8%AF%D8%A7%D8%B1-%D8%AA%D8%A7%D8%A8%D9%87-%DA%AF%D8%B1%DB%8C%D9%84-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-%D8%A7%DB%8C%D8%AF%D9%87-%D8%A2%D9%84-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B3%D8%B1%D8%AE-%DA%A9%D8%B1%D8%AF%D9%86-%D8%AA%D8%B1%D8%AF-%D8%AA%D8%A7%D8%A8%D9%87-%D9%85%D8%B1%D8%A8%D8%B9%DB%8C-%D8%AF%D8%B3%D8%AA%D9%87-%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.558Z"
+    "observedAt": "2026-09-05T07:52:57.204Z"
   },
   {
-    "id": "torobshop-audio-video-e1410714f43d4f84",
-    "productId": "torobshop-e1410714f43d4f84",
-    "name": "سرویس قابلمه سرامیکی سه تکه نینجا مدل Extended Life (قابلمه‌های ۱۶، ۱۸ و ۲۰ سانتی‌متری)",
+    "id": "torobshop-audio-video-6a08f77d3087253d",
+    "productId": "torobshop-6a08f77d3087253d",
+    "name": "قابلمه گرد/تابه چند منظوره WMF FUSIONTEC 05.2065.5291، مشکی، ۱۸۰ درجه سانتیگراد، استیل، آلمان",
     "brand": "",
-    "model": "سرویس قابلمه سرامیکی سه تکه نینجا مدل Extended Life (قابلمه‌های ۱۶، ۱۸ و ۲۰ سانتی‌متری)",
+    "model": "قابلمه گرد/تابه چند منظوره WMF FUSIONTEC 05.2065.5291، مشکی، ۱۸۰ درجه سانتیگراد، استیل، آلمان",
     "category": "audio-video",
     "subcategory": "تلویزیون",
-    "price": 44467000,
+    "price": 39131000,
     "currency": "IRT",
     "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D8%B3%D9%87-%D8%AA%DA%A9%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%85%D8%AF%D9%84-Extended-Life-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%87%D8%A7%DB%8C-%DB%B1%DB%B6-%DB%B1%DB%B8-%D9%88-%DB%B2%DB%B0-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C",
+    "productUrl": "https://torobshop.com/products/%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%AF%D8%B1%D8%AF-%D8%AA%D8%A7%D8%A8%D9%87-%DA%86%D9%86%D8%AF-%D9%85%D9%86%D8%B8%D9%88%D8%B1%D9%87-WMF-FUSIONTEC-05-2065-5291-%D9%85%D8%B4%DA%A9%DB%8C-%DB%B1%DB%B8%DB%B0-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%A2%D9%84%D9%85%D8%A7%D9%86",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.558Z"
+    "observedAt": "2026-09-05T07:52:57.204Z"
   },
   {
-    "id": "torobshop-audio-video-b510ac9c5967ae6e",
-    "productId": "torobshop-b510ac9c5967ae6e",
-    "name": "سرخ‌کن بدون روغن اسمگ ایتالیا SMEG AFC01SBMEU آبی مات ۷ لیتری",
+    "id": "torobshop-audio-video-96a8abe58c494687",
+    "productId": "torobshop-96a8abe58c494687",
+    "name": "تابه وک WMF Permadur Premium، 30 سانتی‌متر سازگار با اجاق‌های القایی، درب شیشه‌ای با دریچه بخار، روکش آلومینیومی وک، ظروف پخت آسیایی، مناسب برای انواع اجاق گاز",
     "brand": "",
-    "model": "سرخ‌کن بدون روغن اسمگ ایتالیا SMEG AFC01SBMEU آبی مات ۷ لیتری",
+    "model": "تابه وک WMF Permadur Premium، 30 سانتی‌متر سازگار با اجاق‌های القایی، درب شیشه‌ای با دریچه بخار، روکش آلومینیومی وک، ظروف پخت آسیایی، مناسب برای انواع اجاق گاز",
     "category": "audio-video",
     "subcategory": "تلویزیون",
-    "price": 76200000,
+    "price": 48024000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AA%D8%A7%D8%A8%D9%87-%D9%88%DA%A9-WMF-Permadur-Premium-30-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D9%87%D8%A7%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%A8%D8%A7-%D8%AF%D8%B1%DB%8C%DA%86%D9%87-%D8%A8%D8%AE%D8%A7%D8%B1-%D8%B1%D9%88%DA%A9%D8%B4-%D8%A2%D9%84%D9%88%D9%85%DB%8C%D9%86%DB%8C%D9%88%D9%85%DB%8C-%D9%88%DA%A9-%D8%B8%D8%B1%D9%88%D9%81-%D9%BE%D8%AE%D8%AA-%D8%A2%D8%B3%DB%8C%D8%A7%DB%8C%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.204Z"
+  },
+  {
+    "id": "torobshop-audio-video-feebe62bc05a49d6",
+    "productId": "torobshop-feebe62bc05a49d6",
+    "name": "ظرف لازانیای WMF Fusiontec، بزرگ، 39 × 30 × 9 سانتی‌متر، سرامیک پیشرفته، قاب پذیرایی چوبی، مناسب برای اجاق گاز، گریل، فر، مقاوم در برابر حرارت تا 450 درجه سانتیگراد",
+    "brand": "",
+    "model": "ظرف لازانیای WMF Fusiontec، بزرگ، 39 × 30 × 9 سانتی‌متر، سرامیک پیشرفته، قاب پذیرایی چوبی، مناسب برای اجاق گاز، گریل، فر، مقاوم در برابر حرارت تا 450 درجه سانتیگراد",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 88172000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B8%D8%B1%D9%81-%D9%84%D8%A7%D8%B2%D8%A7%D9%86%DB%8C%D8%A7%DB%8C-WMF-Fusiontec-%D8%A8%D8%B2%D8%B1%DA%AF-39-30-9-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87-%D9%82%D8%A7%D8%A8-%D9%BE%D8%B0%DB%8C%D8%B1%D8%A7%DB%8C%DB%8C-%DA%86%D9%88%D8%A8%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%DA%AF%D8%B1%DB%8C%D9%84-%D9%81%D8%B1-%D9%85%D9%82%D8%A7%D9%88%D9%85-%D8%AF%D8%B1-%D8%A8%D8%B1%D8%A7%D8%A8%D8%B1-%D8%AD%D8%B1%D8%A7%D8%B1%D8%AA-%D8%AA%D8%A7-450-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.204Z"
+  },
+  {
+    "id": "torobshop-audio-video-6b8f8e8cf0ef58ac",
+    "productId": "torobshop-6b8f8e8cf0ef58ac",
+    "name": "وک القایی معدنی WMF Fusiontec 36 سانتی‌متر، تابه وک با درب شیشه‌ای، سرامیک پیشرفته، مناسب برای فر، مقاوم در برابر خراش، خاکستری",
+    "brand": "",
+    "model": "وک القایی معدنی WMF Fusiontec 36 سانتی‌متر، تابه وک با درب شیشه‌ای، سرامیک پیشرفته، مناسب برای فر، مقاوم در برابر خراش، خاکستری",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 59459000,
     "currency": "IRT",
     "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%D8%BA%D9%86-%D8%A7%D8%B3%D9%85%DA%AF-%D8%A7%DB%8C%D8%AA%D8%A7%D9%84%DB%8C%D8%A7-SMEG-AFC01SBMEU-%D8%A2%D8%A8%DB%8C-%D9%85%D8%A7%D8%AA-%DB%B7-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C",
+    "productUrl": "https://torobshop.com/products/%D9%88%DA%A9-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%85%D8%B9%D8%AF%D9%86%DB%8C-WMF-Fusiontec-36-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%AA%D8%A7%D8%A8%D9%87-%D9%88%DA%A9-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D9%85%D9%82%D8%A7%D9%88%D9%85-%D8%AF%D8%B1-%D8%A8%D8%B1%D8%A7%D8%A8%D8%B1-%D8%AE%D8%B1%D8%A7%D8%B4-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.558Z"
+    "observedAt": "2026-09-05T07:52:57.204Z"
   },
   {
-    "id": "torobshop-audio-video-3dbcaccb8662bde1",
-    "productId": "torobshop-3dbcaccb8662bde1",
-    "name": "سرخ‌کن بدون روغن اسمگ ایتالیا SMEG AFC01EGMEU سبز زمردی مات ۷ لیتری",
-    "brand": "",
-    "model": "سرخ‌کن بدون روغن اسمگ ایتالیا SMEG AFC01EGMEU سبز زمردی مات ۷ لیتری",
+    "id": "torobshop-audio-video-2cac12b6a4f3465a",
+    "productId": "torobshop-2cac12b6a4f3465a",
+    "name": "تابه وک معدنی WMF Fusiontec، سازگار با القایی، 28 سانتی‌متر، وک، سرامیک با تکنولوژی بالا، مناسب برای فر، مقاوم در برابر خراش، قرمز تیره",
+    "brand": "تکنو",
+    "model": "تابه وک معدنی WMF Fusiontec، سازگار با القایی، 28 سانتی‌متر، وک، سرامیک با تکنولوژی بالا، مناسب برای فر، مقاوم در برابر خراش، قرمز تیره",
     "category": "audio-video",
     "subcategory": "تلویزیون",
-    "price": 76200000,
+    "price": 56918000,
     "currency": "IRT",
     "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%D8%BA%D9%86-%D8%A7%D8%B3%D9%85%DA%AF-%D8%A7%DB%8C%D8%AA%D8%A7%D9%84%DB%8C%D8%A7-SMEG-AFC01EGMEU-%D8%B3%D8%A8%D8%B2-%D8%B2%D9%85%D8%B1%D8%AF%DB%8C-%D9%85%D8%A7%D8%AA-%DB%B7-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C",
+    "productUrl": "https://torobshop.com/products/%D8%AA%D8%A7%D8%A8%D9%87-%D9%88%DA%A9-%D9%85%D8%B9%D8%AF%D9%86%DB%8C-WMF-Fusiontec-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-28-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%88%DA%A9-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9-%D8%A8%D8%A7-%D8%AA%DA%A9%D9%86%D9%88%D9%84%D9%88%DA%98%DB%8C-%D8%A8%D8%A7%D9%84%D8%A7-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D9%85%D9%82%D8%A7%D9%88%D9%85-%D8%AF%D8%B1-%D8%A8%D8%B1%D8%A7%D8%A8%D8%B1-%D8%AE%D8%B1%D8%A7%D8%B4-%D9%82%D8%B1%D9%85%D8%B2-%D8%AA%DB%8C%D8%B1%D9%87",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.558Z"
+    "observedAt": "2026-09-05T07:52:57.204Z"
   },
   {
-    "id": "torobshop-audio-video-200d11c52e55158d",
-    "productId": "torobshop-200d11c52e55158d",
-    "name": "سرخ‌کن بدون روغن اسمگ ایتالیا SMEG AFC01WHMEU سفید مات ۷ لیتری",
+    "id": "torobshop-audio-video-4ac3b8ec0dc4da11",
+    "productId": "torobshop-4ac3b8ec0dc4da11",
+    "name": "قابلمه WMF FUSIONTEC 05.2046.5291، ۴.۱ لیتر، گرد، مشکی، چدن، فولاد، ۲۵۰ درجه سانتیگراد، آلمان",
     "brand": "",
-    "model": "سرخ‌کن بدون روغن اسمگ ایتالیا SMEG AFC01WHMEU سفید مات ۷ لیتری",
+    "model": "قابلمه WMF FUSIONTEC 05.2046.5291، ۴.۱ لیتر، گرد، مشکی، چدن، فولاد، ۲۵۰ درجه سانتیگراد، آلمان",
     "category": "audio-video",
     "subcategory": "تلویزیون",
-    "price": 76200000,
+    "price": 57172000,
     "currency": "IRT",
     "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%D8%BA%D9%86-%D8%A7%D8%B3%D9%85%DA%AF-%D8%A7%DB%8C%D8%AA%D8%A7%D9%84%DB%8C%D8%A7-SMEG-AFC01WHMEU-%D8%B3%D9%81%DB%8C%D8%AF-%D9%85%D8%A7%D8%AA-%DB%B7-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C",
+    "productUrl": "https://torobshop.com/products/%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-WMF-FUSIONTEC-05-2046-5291-%DB%B4-%DB%B1-%D9%84%DB%8C%D8%AA%D8%B1-%DA%AF%D8%B1%D8%AF-%D9%85%D8%B4%DA%A9%DB%8C-%DA%86%D8%AF%D9%86-%D9%81%D9%88%D9%84%D8%A7%D8%AF-%DB%B2%DB%B5%DB%B0-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D8%A2%D9%84%D9%85%D8%A7%D9%86",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.558Z"
+    "observedAt": "2026-09-05T07:52:57.204Z"
   },
   {
-    "id": "torobshop-audio-video-7030913f04cb3a2f",
-    "productId": "torobshop-7030913f04cb3a2f",
-    "name": "سرخ‌کن بدون روغن اسمگ ایتالیا SMEG AFC01BLMEU مشکی مات ۷ لیتری",
+    "id": "torobshop-audio-video-42741f8088d55fe6",
+    "productId": "torobshop-42741f8088d55fe6",
+    "name": "وک القایی معدنی WMF Fusiontec 32 سانتی‌متر، تابه وک با درب شیشه‌ای، سرامیک پیشرفته، مناسب برای فر، مقاوم در برابر خراش، خاکستری",
     "brand": "",
-    "model": "سرخ‌کن بدون روغن اسمگ ایتالیا SMEG AFC01BLMEU مشکی مات ۷ لیتری",
+    "model": "وک القایی معدنی WMF Fusiontec 32 سانتی‌متر، تابه وک با درب شیشه‌ای، سرامیک پیشرفته، مناسب برای فر، مقاوم در برابر خراش، خاکستری",
     "category": "audio-video",
     "subcategory": "تلویزیون",
-    "price": 76200000,
+    "price": 62508000,
     "currency": "IRT",
     "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%D8%BA%D9%86-%D8%A7%D8%B3%D9%85%DA%AF-%D8%A7%DB%8C%D8%AA%D8%A7%D9%84%DB%8C%D8%A7-SMEG-AFC01BLMEU-%D9%85%D8%B4%DA%A9%DB%8C-%D9%85%D8%A7%D8%AA-%DB%B7-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C",
+    "productUrl": "https://torobshop.com/products/%D9%88%DA%A9-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%85%D8%B9%D8%AF%D9%86%DB%8C-WMF-Fusiontec-32-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%AA%D8%A7%D8%A8%D9%87-%D9%88%DA%A9-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D9%85%D9%82%D8%A7%D9%88%D9%85-%D8%AF%D8%B1-%D8%A8%D8%B1%D8%A7%D8%A8%D8%B1-%D8%AE%D8%B1%D8%A7%D8%B4-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.558Z"
+    "observedAt": "2026-09-05T07:52:57.204Z"
   },
   {
-    "id": "torobshop-audio-video-c57090577d7bcdd6",
-    "productId": "torobshop-c57090577d7bcdd6",
-    "name": "مسواک برقی دایسون انگلستان Dyson CameraJet با دوربین ماکرو و فناوری هوش مصنوعی، واترجت دقیق و اتصال به موبایل صورتی سرامیکی",
+    "id": "torobshop-audio-video-fc6741915b216081",
+    "productId": "torobshop-fc6741915b216081",
+    "name": "درب قابلمه/ماهیتابه WMF، 20 سانتی‌متر، درب شیشه‌ای با دسته فلزی مربعی، درب قابلمه و ماهیتابه، شیشه مقاوم در برابر حرارت، قابل شستشو در ماشین ظرفشویی",
     "brand": "",
-    "model": "مسواک برقی دایسون انگلستان Dyson CameraJet با دوربین ماکرو و فناوری هوش مصنوعی، واترجت دقیق و اتصال به موبایل صورتی سرامیکی",
+    "model": "درب قابلمه/ماهیتابه WMF، 20 سانتی‌متر، درب شیشه‌ای با دسته فلزی مربعی، درب قابلمه و ماهیتابه، شیشه مقاوم در برابر حرارت، قابل شستشو در ماشین ظرفشویی",
     "category": "audio-video",
     "subcategory": "تلویزیون",
-    "price": 129000000,
+    "price": 16262000,
     "currency": "IRT",
     "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%B3%D9%88%D8%A7%DA%A9-%D8%A8%D8%B1%D9%82%DB%8C-%D8%AF%D8%A7%DB%8C%D8%B3%D9%88%D9%86-%D8%A7%D9%86%DA%AF%D9%84%D8%B3%D8%AA%D8%A7%D9%86-Dyson-CameraJet-%D8%A8%D8%A7-%D8%AF%D9%88%D8%B1%D8%A8%DB%8C%D9%86-%D9%85%D8%A7%DA%A9%D8%B1%D9%88-%D9%88-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D9%88%D8%A7%D8%AA%D8%B1%D8%AC%D8%AA-%D8%AF%D9%82%DB%8C%D9%82-%D9%88-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D8%A8%D9%87-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84-%D8%B5%D9%88%D8%B1%D8%AA%DB%8C-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B1%D8%A8-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-WMF-20-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%A8%D8%A7-%D8%AF%D8%B3%D8%AA%D9%87-%D9%81%D9%84%D8%B2%DB%8C-%D9%85%D8%B1%D8%A8%D8%B9%DB%8C-%D8%AF%D8%B1%D8%A8-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%B4%DB%8C%D8%B4%D9%87-%D9%85%D9%82%D8%A7%D9%88%D9%85-%D8%AF%D8%B1-%D8%A8%D8%B1%D8%A7%D8%A8%D8%B1-%D8%AD%D8%B1%D8%A7%D8%B1%D8%AA-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.558Z"
+    "observedAt": "2026-09-05T07:52:57.204Z"
   },
   {
-    "id": "torobshop-audio-video-47c81c869cca25d8",
-    "productId": "torobshop-47c81c869cca25d8",
-    "name": "مسواک برقی دایسون انگلستان Dyson CameraJet با دوربین ماکرو و فناوری هوش مصنوعی، واترجت دقیق و اتصال به موبایل",
+    "id": "torobshop-audio-video-fdca6d277fb6d099",
+    "productId": "torobshop-fdca6d277fb6d099",
+    "name": "قابلمه بزرگ معطر WMF Fusiontec، 24 سانتی‌متر، درب با دانه‌های میعان، قابلمه القایی 6.2 لیتری، سرامیک پیشرفته، قابل چیدن روی هم، ضد خش، مشکی",
     "brand": "",
-    "model": "مسواک برقی دایسون انگلستان Dyson CameraJet با دوربین ماکرو و فناوری هوش مصنوعی، واترجت دقیق و اتصال به موبایل",
+    "model": "قابلمه بزرگ معطر WMF Fusiontec، 24 سانتی‌متر، درب با دانه‌های میعان، قابلمه القایی 6.2 لیتری، سرامیک پیشرفته، قابل چیدن روی هم، ضد خش، مشکی",
     "category": "audio-video",
     "subcategory": "تلویزیون",
-    "price": 129000000,
+    "price": 58697000,
     "currency": "IRT",
     "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%B3%D9%88%D8%A7%DA%A9-%D8%A8%D8%B1%D9%82%DB%8C-%D8%AF%D8%A7%DB%8C%D8%B3%D9%88%D9%86-%D8%A7%D9%86%DA%AF%D9%84%D8%B3%D8%AA%D8%A7%D9%86-Dyson-CameraJet-%D8%A8%D8%A7-%D8%AF%D9%88%D8%B1%D8%A8%DB%8C%D9%86-%D9%85%D8%A7%DA%A9%D8%B1%D9%88-%D9%88-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D9%88%D8%A7%D8%AA%D8%B1%D8%AC%D8%AA-%D8%AF%D9%82%DB%8C%D9%82-%D9%88-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D8%A8%D9%87-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+    "productUrl": "https://torobshop.com/products/%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A8%D8%B2%D8%B1%DA%AF-%D9%85%D8%B9%D8%B7%D8%B1-WMF-Fusiontec-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%AF%D8%B1%D8%A8-%D8%A8%D8%A7-%D8%AF%D8%A7%D9%86%D9%87-%D9%87%D8%A7%DB%8C-%D9%85%DB%8C%D8%B9%D8%A7%D9%86-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-6-2-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87-%D9%82%D8%A7%D8%A8%D9%84-%DA%86%DB%8C%D8%AF%D9%86-%D8%B1%D9%88%DB%8C-%D9%87%D9%85-%D8%B6%D8%AF-%D8%AE%D8%B4-%D9%85%D8%B4%DA%A9%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.558Z"
+    "observedAt": "2026-09-05T07:52:57.204Z"
   },
   {
-    "id": "torobshop-audio-video-f566f758ccfcc717",
-    "productId": "torobshop-f566f758ccfcc717",
-    "name": "سرویس قابلمه ماهیتابه سرامیکی نینجا آمریکا Ninja مدل Ceramic Pro ده پارچه",
+    "id": "torobshop-audio-video-497209e9ef5fc29b",
+    "productId": "torobshop-497209e9ef5fc29b",
+    "name": "تابه کباب‌پزی معطر WMF Fusiontec، لبه به ارتفاع ۲۸ سانتی‌متر، تابه کباب‌پزی ۵.۹ لیتری، سازگار با القای حرارتی، درب با برآمدگی‌های میعان، سرامیک پیشرفته، ضد خش، مشکی",
     "brand": "",
-    "model": "سرویس قابلمه ماهیتابه سرامیکی نینجا آمریکا Ninja مدل Ceramic Pro ده پارچه",
+    "model": "تابه کباب‌پزی معطر WMF Fusiontec، لبه به ارتفاع ۲۸ سانتی‌متر، تابه کباب‌پزی ۵.۹ لیتری، سازگار با القای حرارتی، درب با برآمدگی‌های میعان، سرامیک پیشرفته، ضد خش، مشکی",
     "category": "audio-video",
     "subcategory": "تلویزیون",
-    "price": 94017000,
+    "price": 67590000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AA%D8%A7%D8%A8%D9%87-%DA%A9%D8%A8%D8%A7%D8%A8-%D9%BE%D8%B2%DB%8C-%D9%85%D8%B9%D8%B7%D8%B1-WMF-Fusiontec-%D9%84%D8%A8%D9%87-%D8%A8%D9%87-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%DB%B2%DB%B8-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%AA%D8%A7%D8%A8%D9%87-%DA%A9%D8%A8%D8%A7%D8%A8-%D9%BE%D8%B2%DB%8C-%DB%B5-%DB%B9-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C-%D8%AD%D8%B1%D8%A7%D8%B1%D8%AA%DB%8C-%D8%AF%D8%B1%D8%A8-%D8%A8%D8%A7-%D8%A8%D8%B1%D8%A2%D9%85%D8%AF%DA%AF%DB%8C-%D9%87%D8%A7%DB%8C-%D9%85%DB%8C%D8%B9%D8%A7%D9%86-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87-%D8%B6%D8%AF-%D8%AE%D8%B4-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.204Z"
+  },
+  {
+    "id": "torobshop-audio-video-3d8defe82d6a2a4b",
+    "productId": "torobshop-3d8defe82d6a2a4b",
+    "name": "قابلمه بزرگ معطر WMF Fusiontec، 22 سانتی‌متر، قابلمه القایی 4.7 لیتری، درب با برآمدگی‌های میعان، سرامیک پیشرفته، قابل چیدن روی هم، ضد خش، مشکی",
+    "brand": "",
+    "model": "قابلمه بزرگ معطر WMF Fusiontec، 22 سانتی‌متر، قابلمه القایی 4.7 لیتری، درب با برآمدگی‌های میعان، سرامیک پیشرفته، قابل چیدن روی هم، ضد خش، مشکی",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 64287000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A8%D8%B2%D8%B1%DA%AF-%D9%85%D8%B9%D8%B7%D8%B1-WMF-Fusiontec-22-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-4-7-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C-%D8%AF%D8%B1%D8%A8-%D8%A8%D8%A7-%D8%A8%D8%B1%D8%A2%D9%85%D8%AF%DA%AF%DB%8C-%D9%87%D8%A7%DB%8C-%D9%85%DB%8C%D8%B9%D8%A7%D9%86-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87-%D9%82%D8%A7%D8%A8%D9%84-%DA%86%DB%8C%D8%AF%D9%86-%D8%B1%D9%88%DB%8C-%D9%87%D9%85-%D8%B6%D8%AF-%D8%AE%D8%B4-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.204Z"
+  },
+  {
+    "id": "torobshop-audio-video-e5b7c148dbc956d9",
+    "productId": "torobshop-e5b7c148dbc956d9",
+    "name": "قابلمه بزرگ معطر WMF Fusiontec، 22 سانتی‌متر، درب با دانه‌های میعان، 3.1 لیتر سازگار با القایی، سرامیک پیشرفته، قابل چیدن روی هم، مقاوم در برابر خش، مشکی",
+    "brand": "",
+    "model": "قابلمه بزرگ معطر WMF Fusiontec، 22 سانتی‌متر، درب با دانه‌های میعان، 3.1 لیتر سازگار با القایی، سرامیک پیشرفته، قابل چیدن روی هم، مقاوم در برابر خش، مشکی",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 58697000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A8%D8%B2%D8%B1%DA%AF-%D9%85%D8%B9%D8%B7%D8%B1-WMF-Fusiontec-22-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%AF%D8%B1%D8%A8-%D8%A8%D8%A7-%D8%AF%D8%A7%D9%86%D9%87-%D9%87%D8%A7%DB%8C-%D9%85%DB%8C%D8%B9%D8%A7%D9%86-3-1-%D9%84%DB%8C%D8%AA%D8%B1-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87-%D9%82%D8%A7%D8%A8%D9%84-%DA%86%DB%8C%D8%AF%D9%86-%D8%B1%D9%88%DB%8C-%D9%87%D9%85-%D9%85%D9%82%D8%A7%D9%88%D9%85-%D8%AF%D8%B1-%D8%A8%D8%B1%D8%A7%D8%A8%D8%B1-%D8%AE%D8%B4-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.204Z"
+  },
+  {
+    "id": "torobshop-audio-video-c445cf2a3b38f1a7",
+    "productId": "torobshop-c445cf2a3b38f1a7",
+    "name": "تابه کباب‌پزی آروماتیک WMF Fusiontec، لبه به ارتفاع ۲۸ سانتی‌متر، تابه کباب‌پزی ۵.۹ لیتری، سازگار با القای حرارتی، درب با برآمدگی‌های میعان، سرامیک پیشرفته، ضد خش، قرمز",
+    "brand": "",
+    "model": "تابه کباب‌پزی آروماتیک WMF Fusiontec، لبه به ارتفاع ۲۸ سانتی‌متر، تابه کباب‌پزی ۵.۹ لیتری، سازگار با القای حرارتی، درب با برآمدگی‌های میعان، سرامیک پیشرفته، ضد خش، قرمز",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 79787000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AA%D8%A7%D8%A8%D9%87-%DA%A9%D8%A8%D8%A7%D8%A8-%D9%BE%D8%B2%DB%8C-%D8%A2%D8%B1%D9%88%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-WMF-Fusiontec-%D9%84%D8%A8%D9%87-%D8%A8%D9%87-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%DB%B2%DB%B8-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%AA%D8%A7%D8%A8%D9%87-%DA%A9%D8%A8%D8%A7%D8%A8-%D9%BE%D8%B2%DB%8C-%DB%B5-%DB%B9-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C-%D8%AD%D8%B1%D8%A7%D8%B1%D8%AA%DB%8C-%D8%AF%D8%B1%D8%A8-%D8%A8%D8%A7-%D8%A8%D8%B1%D8%A2%D9%85%D8%AF%DA%AF%DB%8C-%D9%87%D8%A7%DB%8C-%D9%85%DB%8C%D8%B9%D8%A7%D9%86-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87-%D8%B6%D8%AF-%D8%AE%D8%B4-%D9%82%D8%B1%D9%85%D8%B2",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.204Z"
+  },
+  {
+    "id": "torobshop-audio-video-e40fe423f5aa7fe1",
+    "productId": "torobshop-e40fe423f5aa7fe1",
+    "name": "قابلمه بزرگ معطر WMF Fusiontec، 24 سانتی‌متر، درب با دانه‌های میعان، قابلمه القایی 6.2 لیتری، سرامیک پیشرفته، قابل چیدن روی هم، ضد خش، قرمز",
+    "brand": "",
+    "model": "قابلمه بزرگ معطر WMF Fusiontec، 24 سانتی‌متر، درب با دانه‌های میعان، قابلمه القایی 6.2 لیتری، سرامیک پیشرفته، قابل چیدن روی هم، ضد خش، قرمز",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 67082000,
     "currency": "IRT",
     "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%BE%D8%B1%D9%88-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%86%DA%86%D8%B3%D8%A8-10-%D8%AA%DA%A9%D9%87-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-PTFE-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87",
+    "productUrl": "https://torobshop.com/products/%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A8%D8%B2%D8%B1%DA%AF-%D9%85%D8%B9%D8%B7%D8%B1-WMF-Fusiontec-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%AF%D8%B1%D8%A8-%D8%A8%D8%A7-%D8%AF%D8%A7%D9%86%D9%87-%D9%87%D8%A7%DB%8C-%D9%85%DB%8C%D8%B9%D8%A7%D9%86-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-6-2-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87-%D9%82%D8%A7%D8%A8%D9%84-%DA%86%DB%8C%D8%AF%D9%86-%D8%B1%D9%88%DB%8C-%D9%87%D9%85-%D8%B6%D8%AF-%D8%AE%D8%B4-%D9%82%D8%B1%D9%85%D8%B2",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.558Z"
+    "observedAt": "2026-09-05T07:52:57.205Z"
   },
   {
-    "id": "torobshop-audio-video-964ece0d8e9f6669",
-    "productId": "torobshop-964ece0d8e9f6669",
-    "name": "سرویس قابلمه ماهیتابه سرامیکی نینجا آمریکا Ninja CW39010GN ده پارچه سبز",
+    "id": "torobshop-audio-video-adafa3ff50757188",
+    "productId": "torobshop-adafa3ff50757188",
+    "name": "سرویس ماهیتابه دو تکه WMF Durado، سازگار با القایی، سایزهای 24 و 28 سانتی‌متر، روکش استیل ضد زنگ Cromargan®، روکش سرامیکی، مناسب برای فر",
     "brand": "",
-    "model": "سرویس قابلمه ماهیتابه سرامیکی نینجا آمریکا Ninja CW39010GN ده پارچه سبز",
+    "model": "سرویس ماهیتابه دو تکه WMF Durado، سازگار با القایی، سایزهای 24 و 28 سانتی‌متر، روکش استیل ضد زنگ Cromargan®، روکش سرامیکی، مناسب برای فر",
     "category": "audio-video",
     "subcategory": "تلویزیون",
-    "price": 85631000,
+    "price": 41418000,
     "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D8%AA%D8%A7%D8%A8%D9%87-10-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9-%D9%BE%D8%B1%D9%88-CW39010GN-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D8%AA%D8%A7%D8%A8%D9%87-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%AF%D9%88%D9%86-PTFE-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D9%88-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2%D9%87%D8%A7%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%AF%D9%88-%D8%AA%DA%A9%D9%87-WMF-Durado-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%B3%D8%A7%DB%8C%D8%B2%D9%87%D8%A7%DB%8C-24-%D9%88-28-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%B1%D9%88%DA%A9%D8%B4-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-Cromargan-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.558Z"
+    "observedAt": "2026-09-05T07:52:57.205Z"
   },
   {
-    "id": "torobshop-audio-video-4cef33429e237704",
-    "productId": "torobshop-4cef33429e237704",
-    "name": "قابلمه بخارپز چندکاره نینجا آمریکا Ninja Foodi CW202BLUK ظرفیت 6.6 لیتر 8 کاره",
+    "id": "torobshop-audio-video-589747d93cf8d6e6",
+    "productId": "torobshop-589747d93cf8d6e6",
+    "name": "ماهیتابه مخصوص فر WMF با درب، 8.5 لیتر، سازگار با القا، استیل ضد زنگ Cromargan، درب شیشه‌ای، دماسنج گوشت، 38 × 26 × 12 سانتی‌متر",
     "brand": "",
-    "model": "قابلمه بخارپز چندکاره نینجا آمریکا Ninja Foodi CW202BLUK ظرفیت 6.6 لیتر 8 کاره",
+    "model": "ماهیتابه مخصوص فر WMF با درب، 8.5 لیتر، سازگار با القا، استیل ضد زنگ Cromargan، درب شیشه‌ای، دماسنج گوشت، 38 × 26 × 12 سانتی‌متر",
     "category": "audio-video",
     "subcategory": "تلویزیون",
-    "price": 41672000,
+    "price": 60729000,
     "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B8-%DA%A9%D8%A7%D8%B1%D9%87-Ninja-Foodi-CW202BLUK-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%B3%DB%8C%D9%86%DB%8C-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%A8%D8%AE%D8%A7%D8%B1%D9%BE%D8%B2-%D8%A7%D9%84%DA%A9-%DA%A9%D8%A7%D8%B1%D8%AF-%D9%88-%DA%86%D9%86%DA%AF%D8%A7%D9%84-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%DB%B6-%DB%B6-%D9%84%DB%8C%D8%AA%D8%B1-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C-%D8%AD%D8%B1%D8%A7%D8%B1%D8%AA%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-%DB%B2%DB%B6%DB%B0-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D9%85%D8%A7%DA%A9%D8%A7%D8%B1%D9%88%D9%86-%D8%A2%D8%A8%DB%8C-CW202BLUK",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D9%81%D8%B1-WMF-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-8-5-%D9%84%DB%8C%D8%AA%D8%B1-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-Cromargan-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%AF%D9%85%D8%A7%D8%B3%D9%86%D8%AC-%DA%AF%D9%88%D8%B4%D8%AA-38-26-12-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.558Z"
+    "observedAt": "2026-09-05T07:52:57.205Z"
   },
   {
-    "id": "torobshop-audio-video-e4a2bc7cbee474b2",
-    "productId": "torobshop-e4a2bc7cbee474b2",
-    "name": "قابلمه بخارپز چندکاره نینجا آمریکا Ninja Foodi CW202GYUK ظرفیت 6.6 لیتر 8 کاره خاکستری",
+    "id": "torobshop-audio-video-b9d979df8b5a4155",
+    "productId": "torobshop-b9d979df8b5a4155",
+    "name": "قابلمه بزرگ معدنی WMF Fusiontec، 24 سانتی‌متر، درب شیشه‌ای، 4.4 لیتر سازگار با اجاق القایی، سرامیک پیشرفته، ضد خش، خاکستری",
     "brand": "",
-    "model": "قابلمه بخارپز چندکاره نینجا آمریکا Ninja Foodi CW202GYUK ظرفیت 6.6 لیتر 8 کاره خاکستری",
+    "model": "قابلمه بزرگ معدنی WMF Fusiontec، 24 سانتی‌متر، درب شیشه‌ای، 4.4 لیتر سازگار با اجاق القایی، سرامیک پیشرفته، ضد خش، خاکستری",
     "category": "audio-video",
     "subcategory": "تلویزیون",
-    "price": 81820000,
+    "price": 51582000,
     "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B8-%DA%A9%D8%A7%D8%B1%D9%87-Ninja-Foodi-%D9%85%D8%AF%D9%84-Possible-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%B3%DB%8C%D9%86%DB%8C-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%A8%D8%AE%D8%A7%D8%B1%D9%BE%D8%B2-%D8%A7%D9%84%DA%A9-%D9%82%D8%A7%D8%B4%D9%82-%D9%88-%DA%86%D9%86%DA%AF%D8%A7%D9%84-%DB%B6-%DB%B6-%D9%84%DB%8C%D8%AA%D8%B1-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-%DB%B2%DB%B6%DB%B0-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D8%B1%D9%86%DA%AF-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C-%D9%86%D9%85%DA%A9-%D8%AF%D8%B1%DB%8C%D8%A7-CW202GYUK",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A8%D8%B2%D8%B1%DA%AF-%D9%85%D8%B9%D8%AF%D9%86%DB%8C-WMF-Fusiontec-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-4-4-%D9%84%DB%8C%D8%AA%D8%B1-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87-%D8%B6%D8%AF-%D8%AE%D8%B4-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.558Z"
+    "observedAt": "2026-09-05T07:52:57.205Z"
   },
   {
-    "id": "torobshop-audio-video-3be15395be038aca",
-    "productId": "torobshop-3be15395be038aca",
-    "name": "قابلمه بخارپز چندکاره نینجا آمریکا Ninja Foodi CW202GNUK ظرفیت 6.6 لیتر 8 کاره سبز زیتونی",
+    "id": "torobshop-audio-video-4f35026336436ded",
+    "productId": "torobshop-4f35026336436ded",
+    "name": "قابلمه کوچک معدنی WMF Fusiontec، 20 سانتی‌متر، درب شیشه‌ای، سازگار با اجاق القایی، 2.4 لیتر، سرامیک پیشرفته، ضد خش، خاکستری",
     "brand": "",
-    "model": "قابلمه بخارپز چندکاره نینجا آمریکا Ninja Foodi CW202GNUK ظرفیت 6.6 لیتر 8 کاره سبز زیتونی",
+    "model": "قابلمه کوچک معدنی WMF Fusiontec، 20 سانتی‌متر، درب شیشه‌ای، سازگار با اجاق القایی، 2.4 لیتر، سرامیک پیشرفته، ضد خش، خاکستری",
     "category": "audio-video",
     "subcategory": "تلویزیون",
-    "price": 25155000,
+    "price": 39385000,
     "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B8-%DA%A9%D8%A7%D8%B1%D9%87-Ninja-Foodi-%D9%85%D8%AF%D9%84-Possible-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%B3%DB%8C%D9%86%DB%8C-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%A8%D8%AE%D8%A7%D8%B1%D9%BE%D8%B2-%D8%A7%D9%84%DA%A9-%D9%82%D8%A7%D8%B4%D9%82-%D9%88-%DA%86%D9%86%DA%AF%D8%A7%D9%84-%DB%B6-%DB%B6-%D9%84%DB%8C%D8%AA%D8%B1-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-%DB%B2%DB%B6%DB%B0-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D8%B1%D9%86%DA%AF-%D8%B3%D8%A8%D8%B2-%D8%B2%DB%8C%D8%AA%D9%88%D9%86%DB%8C-CW202GNUK",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%D9%85%D8%B9%D8%AF%D9%86%DB%8C-WMF-Fusiontec-20-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-2-4-%D9%84%DB%8C%D8%AA%D8%B1-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87-%D8%B6%D8%AF-%D8%AE%D8%B4-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.558Z"
+    "observedAt": "2026-09-05T07:52:57.205Z"
   },
   {
-    "id": "torobshop-audio-video-77f61ec7f8b8b73d",
-    "productId": "torobshop-77f61ec7f8b8b73d",
-    "name": "قابلمه بخارپز چندکاره نینجا آمریکا Ninja Foodi CW202WHUK ظرفیت 6.6 لیتر 8 کاره کرم",
+    "id": "torobshop-audio-video-dc2a45f1794248e1",
+    "productId": "torobshop-dc2a45f1794248e1",
+    "name": "قابلمه کوچک معدنی WMF Fusiontec، 20 سانتی‌متر، درب شیشه‌ای، سازگار با اجاق القایی، 2.4 لیتر، سرامیک پیشرفته، ضد خش، قهوه‌ای",
     "brand": "",
-    "model": "قابلمه بخارپز چندکاره نینجا آمریکا Ninja Foodi CW202WHUK ظرفیت 6.6 لیتر 8 کاره کرم",
+    "model": "قابلمه کوچک معدنی WMF Fusiontec، 20 سانتی‌متر، درب شیشه‌ای، سازگار با اجاق القایی، 2.4 لیتر، سرامیک پیشرفته، ضد خش، قهوه‌ای",
     "category": "audio-video",
     "subcategory": "تلویزیون",
-    "price": 75467000,
+    "price": 39131000,
     "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B8-%DA%A9%D8%A7%D8%B1%D9%87-Ninja-Foodi-%D9%85%D8%AF%D9%84-Possible-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%B3%DB%8C%D9%86%DB%8C-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%A8%D8%AE%D8%A7%D8%B1%D9%BE%D8%B2-%D8%A7%D9%84%DA%A9-%D9%82%D8%A7%D8%B4%D9%82-%D9%88-%DA%86%D9%86%DA%AF%D8%A7%D9%84-%DB%B6-%DB%B6-%D9%84%DB%8C%D8%AA%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-%DB%B2%DB%B6%DB%B0-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D8%BA%D9%84%D8%A7%D9%81-%D9%88%D8%A7%D9%86%DB%8C%D9%84%DB%8C-CW202WHUK",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%D9%85%D8%B9%D8%AF%D9%86%DB%8C-WMF-Fusiontec-20-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-2-4-%D9%84%DB%8C%D8%AA%D8%B1-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87-%D8%B6%D8%AF-%D8%AE%D8%B4-%D9%82%D9%87%D9%88%D9%87-%D8%A7%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.559Z"
+    "observedAt": "2026-09-05T07:52:57.205Z"
   },
   {
-    "id": "torobshop-audio-video-a09bc08624899ff4",
-    "productId": "torobshop-a09bc08624899ff4",
-    "name": "ماهیتابه بخارپز چندکاره نینجا آمریکا Ninja Foodi CW102GNUK 9 کاره سبز زیتونی",
+    "id": "torobshop-audio-video-7af50a3a7406afc5",
+    "productId": "torobshop-7af50a3a7406afc5",
+    "name": "قابلمه جمع و جور WMF Fusiontec 18 سانتی متر، قابلمه کوچک القایی 1.8 لیتری، سرامیک پیشرفته، ضد خش، قرمز",
     "brand": "",
-    "model": "ماهیتابه بخارپز چندکاره نینجا آمریکا Ninja Foodi CW102GNUK 9 کاره سبز زیتونی",
+    "model": "قابلمه جمع و جور WMF Fusiontec 18 سانتی متر، قابلمه کوچک القایی 1.8 لیتری، سرامیک پیشرفته، ضد خش، قرمز",
     "category": "audio-video",
     "subcategory": "تلویزیون",
-    "price": 65811000,
+    "price": 31508000,
     "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B9-%DA%A9%D8%A7%D8%B1%D9%87-Ninja-Foodi-%D9%85%D8%AF%D9%84-PossiblePan-CW102GNUK-%D8%A8%D8%A7-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-ZEROSTICK-%D8%A8%D8%AE%D8%A7%D8%B1%D9%BE%D8%B2-%D8%B3%DB%8C%D9%81%D9%88%D9%86-%D9%88-%DA%A9%D9%81%DA%AF%DB%8C%D8%B1-%DB%8C%DA%A9%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D9%86%DA%86%D8%B3%D8%A8-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D8%B1%D9%86%DA%AF-%D8%B3%D8%A8%D8%B2-%D8%B2%DB%8C%D8%AA%D9%88%D9%86%DB%8C",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%AC%D9%85%D8%B9-%D9%88-%D8%AC%D9%88%D8%B1-WMF-Fusiontec-18-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-1-8-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87-%D8%B6%D8%AF-%D8%AE%D8%B4-%D9%82%D8%B1%D9%85%D8%B2",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.559Z"
+    "observedAt": "2026-09-05T07:52:57.205Z"
   },
   {
-    "id": "torobshop-audio-video-bbd449ed50b3d540",
-    "productId": "torobshop-bbd449ed50b3d540",
-    "name": "ماهیتابه بخارپز چندکاره نینجا آمریکا Ninja Foodi CW102WHUK ظرفیت 3.8 لیتر 9 کاره کرم",
+    "id": "torobshop-audio-video-677b8c3c55a44875",
+    "productId": "torobshop-677b8c3c55a44875",
+    "name": "پلوپز دسته‌دار شیشه‌ای WMF مدل Kitchenminis 0415260011 0415260711",
     "brand": "",
-    "model": "ماهیتابه بخارپز چندکاره نینجا آمریکا Ninja Foodi CW102WHUK ظرفیت 3.8 لیتر 9 کاره کرم",
+    "model": "پلوپز دسته‌دار شیشه‌ای WMF مدل Kitchenminis 0415260011 0415260711",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 10164000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%BE%D9%84%D9%88%D9%BE%D8%B2-%D8%AF%D8%B3%D8%AA%D9%87-%D8%AF%D8%A7%D8%B1-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-WMF-%D9%85%D8%AF%D9%84-Kitchenminis-0415260011-0415260711",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.205Z"
+  },
+  {
+    "id": "torobshop-audio-video-bfbcc5ab68a45a96",
+    "productId": "torobshop-bfbcc5ab68a45a96",
+    "name": "قابلمه WMF Fusiontec Compact، 18 سانتی‌متر، قابلمه القایی کوچک 1.8 لیتری، سرامیک پیشرفته، ضد خش، مشکی",
+    "brand": "",
+    "model": "قابلمه WMF Fusiontec Compact، 18 سانتی‌متر، قابلمه القایی کوچک 1.8 لیتری، سرامیک پیشرفته، ضد خش، مشکی",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 29983000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-WMF-Fusiontec-Compact-18-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%DA%A9%D9%88%DA%86%DA%A9-1-8-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87-%D8%B6%D8%AF-%D8%AE%D8%B4-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.205Z"
+  },
+  {
+    "id": "torobshop-audio-video-8e8fe54805dc45f9",
+    "productId": "torobshop-8e8fe54805dc45f9",
+    "name": "کاسه مخلوط کن WMF مدل Function Bowls، کاسه مخلوط کن از جنس استیل ضد زنگ با درب، 2.5 لیتر، کاسه مخلوط کن با محافظ پاشش آب، 18.5 سانتی متر، استیل ضد زنگ براق Cromargan، مقیاس اندازه گیری داخلی، قابل شستشو در ماشین ظرفشویی",
+    "brand": "",
+    "model": "کاسه مخلوط کن WMF مدل Function Bowls، کاسه مخلوط کن از جنس استیل ضد زنگ با درب، 2.5 لیتر، کاسه مخلوط کن با محافظ پاشش آب، 18.5 سانتی متر، استیل ضد زنگ براق Cromargan، مقیاس اندازه گیری داخلی، قابل شستشو در ماشین ظرفشویی",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 16262000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%DA%A9%D8%A7%D8%B3%D9%87-%D9%85%D8%AE%D9%84%D9%88%D8%B7-%DA%A9%D9%86-WMF-%D9%85%D8%AF%D9%84-Function-Bowls-%DA%A9%D8%A7%D8%B3%D9%87-%D9%85%D8%AE%D9%84%D9%88%D8%B7-%DA%A9%D9%86-%D8%A7%D8%B2-%D8%AC%D9%86%D8%B3-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-2-5-%D9%84%DB%8C%D8%AA%D8%B1-%DA%A9%D8%A7%D8%B3%D9%87-%D9%85%D8%AE%D9%84%D9%88%D8%B7-%DA%A9%D9%86-%D8%A8%D8%A7-%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D9%BE%D8%A7%D8%B4%D8%B4-%D8%A2%D8%A8-18-5-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%A8%D8%B1%D8%A7%D9%82-Cromargan-%D9%85%D9%82%DB%8C%D8%A7%D8%B3-%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%D9%87-%DA%AF%DB%8C%D8%B1%DB%8C-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.205Z"
+  },
+  {
+    "id": "torobshop-audio-video-46e65b247c74c30d",
+    "productId": "torobshop-46e65b247c74c30d",
+    "name": "قابلمه بزرگ WMF Profima، 24 سانتی‌متر، درب شیشه‌ای، قابلمه 5.7 لیتری مناسب برای اجاق گازهای القایی، استیل ضد زنگ براق Cromargan، بدون پوشش",
+    "brand": "",
+    "model": "قابلمه بزرگ WMF Profima، 24 سانتی‌متر، درب شیشه‌ای، قابلمه 5.7 لیتری مناسب برای اجاق گازهای القایی، استیل ضد زنگ براق Cromargan، بدون پوشش",
     "category": "audio-video",
     "subcategory": "تلویزیون",
     "price": 50565000,
     "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B9-%DA%A9%D8%A7%D8%B1%D9%87-Ninja-Foodi-%D9%85%D8%AF%D9%84-Possible-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%A8%D8%AE%D8%A7%D8%B1%D9%BE%D8%B2-%D8%A7%D9%84%DA%A9-%DA%A9%D9%81%DA%AF%DB%8C%D8%B1-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%DB%B3-%DB%B8-%D9%84%DB%8C%D8%AA%D8%B1-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C-%D8%AD%D8%B1%D8%A7%D8%B1%D8%AA%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-%DB%B2%DB%B6%DB%B0-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D8%BA%D9%84%D8%A7%D9%81-%D9%88%D8%A7%D9%86%DB%8C%D9%84%DB%8C-CW102WHUK",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A8%D8%B2%D8%B1%DA%AF-WMF-Profima-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-5-7-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2%D9%87%D8%A7%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%A8%D8%B1%D8%A7%D9%82-Cromargan-%D8%A8%D8%AF%D9%88%D9%86-%D9%BE%D9%88%D8%B4%D8%B4",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.559Z"
+    "observedAt": "2026-09-05T07:52:57.205Z"
+  },
+  {
+    "id": "torobshop-audio-video-2aec84b8ff9af639",
+    "productId": "torobshop-2aec84b8ff9af639",
+    "name": "بخارپز سبزیجات/سیب‌زمینی WMF Function 4، 20 سانتی‌متر، ظرف بخارپز برای قابلمه و قابلمه‌های کاربردی، 4 درب قابلمه، 16 سانتی‌متر، درب شیشه‌ای با 4 عملکرد ریختن، شیشه، سیلیکون، فولاد ضد زنگ براق Cromargan، قرمز",
+    "brand": "",
+    "model": "بخارپز سبزیجات/سیب‌زمینی WMF Function 4، 20 سانتی‌متر، ظرف بخارپز برای قابلمه و قابلمه‌های کاربردی، 4 درب قابلمه، 16 سانتی‌متر، درب شیشه‌ای با 4 عملکرد ریختن، شیشه، سیلیکون، فولاد ضد زنگ براق Cromargan، قرمز",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 30492000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A8%D8%AE%D8%A7%D8%B1%D9%BE%D8%B2-%D8%B3%D8%A8%D8%B2%DB%8C%D8%AC%D8%A7%D8%AA-%D8%B3%DB%8C%D8%A8-%D8%B2%D9%85%DB%8C%D9%86%DB%8C-WMF-Function-4-20-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%B8%D8%B1%D9%81-%D8%A8%D8%AE%D8%A7%D8%B1%D9%BE%D8%B2-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%87%D8%A7%DB%8C-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%AF%DB%8C-4-%D8%AF%D8%B1%D8%A8-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-16-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%A8%D8%A7-4-%D8%B9%D9%85%D9%84%DA%A9%D8%B1%D8%AF-%D8%B1%DB%8C%D8%AE%D8%AA%D9%86-%D8%B4%DB%8C%D8%B4%D9%87-%D8%B3%DB%8C%D9%84%DB%8C%DA%A9%D9%88%D9%86-%D9%81%D9%88%D9%84%D8%A7%D8%AF-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%A8%D8%B1%D8%A7%D9%82-Cromargan-%D9%82%D8%B1%D9%85%D8%B2",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.205Z"
+  },
+  {
+    "id": "torobshop-audio-video-9474236c3cb804e5",
+    "productId": "torobshop-9474236c3cb804e5",
+    "name": "اجاق گاز القایی دوتایی WMF Kult X، صفحه پخت تا 28 سانتی متر، 3500 وات و سرویس قابلمه القایی 5 تکه Provence Plus، سرویس قابلمه با درب شیشه ای، استیل ضد زنگ Cromargan صیقلی، سرویس قابلمه بدون روکش",
+    "brand": "",
+    "model": "اجاق گاز القایی دوتایی WMF Kult X، صفحه پخت تا 28 سانتی متر، 3500 وات و سرویس قابلمه القایی 5 تکه Provence Plus، سرویس قابلمه با درب شیشه ای، استیل ضد زنگ Cromargan صیقلی، سرویس قابلمه بدون روکش",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 85885000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%AF%D9%88%D8%AA%D8%A7%DB%8C%DB%8C-WMF-Kult-X-%D8%B5%D9%81%D8%AD%D9%87-%D9%BE%D8%AE%D8%AA-%D8%AA%D8%A7-28-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-3500-%D9%88%D8%A7%D8%AA-%D9%88-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-5-%D8%AA%DA%A9%D9%87-Provence-Plus-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-Cromargan-%D8%B5%DB%8C%D9%82%D9%84%DB%8C-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%DA%A9%D8%B4",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.205Z"
+  },
+  {
+    "id": "torobshop-audio-video-87e312f2c905842a",
+    "productId": "torobshop-87e312f2c905842a",
+    "name": "کاسه آشپزخانه WMF Gourmet، 24 سانتی‌متر، کاسه مخلوط‌کن 4.0 لیتر، استیل ضد زنگ Cromargan، مقاوم در برابر حرارت تا 250 درجه سانتیگراد، قابل شستشو در ماشین ظرفشویی، پایه ضد لغزش",
+    "brand": "",
+    "model": "کاسه آشپزخانه WMF Gourmet، 24 سانتی‌متر، کاسه مخلوط‌کن 4.0 لیتر، استیل ضد زنگ Cromargan، مقاوم در برابر حرارت تا 250 درجه سانتیگراد، قابل شستشو در ماشین ظرفشویی، پایه ضد لغزش",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 18803000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%DA%A9%D8%A7%D8%B3%D9%87-%D8%A2%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87-WMF-Gourmet-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%DA%A9%D8%A7%D8%B3%D9%87-%D9%85%D8%AE%D9%84%D9%88%D8%B7-%DA%A9%D9%86-4-0-%D9%84%DB%8C%D8%AA%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-Cromargan-%D9%85%D9%82%D8%A7%D9%88%D9%85-%D8%AF%D8%B1-%D8%A8%D8%B1%D8%A7%D8%A8%D8%B1-%D8%AD%D8%B1%D8%A7%D8%B1%D8%AA-%D8%AA%D8%A7-250-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D9%BE%D8%A7%DB%8C%D9%87-%D8%B6%D8%AF-%D9%84%D8%BA%D8%B2%D8%B4",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.205Z"
+  },
+  {
+    "id": "torobshop-audio-video-e6aa462b883287e3",
+    "productId": "torobshop-e6aa462b883287e3",
+    "name": "کاسه‌های WMF Function، کاسه مخلوط‌کن ۱.۵ لیتری، فنجان مخلوط‌کن با دسته، استیل ضد زنگ Cromargan صیقلی، فنجان اندازه‌گیری استیل ضد زنگ، ترازوی داخلی، قابل شستشو در ماشین ظرفشویی",
+    "brand": "",
+    "model": "کاسه‌های WMF Function، کاسه مخلوط‌کن ۱.۵ لیتری، فنجان مخلوط‌کن با دسته، استیل ضد زنگ Cromargan صیقلی، فنجان اندازه‌گیری استیل ضد زنگ، ترازوی داخلی، قابل شستشو در ماشین ظرفشویی",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 16262000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%DA%A9%D8%A7%D8%B3%D9%87-%D9%87%D8%A7%DB%8C-WMF-Function-%DA%A9%D8%A7%D8%B3%D9%87-%D9%85%D8%AE%D9%84%D9%88%D8%B7-%DA%A9%D9%86-%DB%B1-%DB%B5-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C-%D9%81%D9%86%D8%AC%D8%A7%D9%86-%D9%85%D8%AE%D9%84%D9%88%D8%B7-%DA%A9%D9%86-%D8%A8%D8%A7-%D8%AF%D8%B3%D8%AA%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-Cromargan-%D8%B5%DB%8C%D9%82%D9%84%DB%8C-%D9%81%D9%86%D8%AC%D8%A7%D9%86-%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%D9%87-%DA%AF%DB%8C%D8%B1%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%AA%D8%B1%D8%A7%D8%B2%D9%88%DB%8C-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.205Z"
+  },
+  {
+    "id": "torobshop-audio-video-52e93ccba71f865c",
+    "productId": "torobshop-52e93ccba71f865c",
+    "name": "قابلمه بزرگ WMF Fusiontec Essential، 24 سانتی‌متر، درب شیشه‌ای، سازگار با اجاق القایی، 4.4 لیتر، سرامیک پیشرفته، ضد خش، بدون روکش، خاکستری، ساخت آلمان",
+    "brand": "",
+    "model": "قابلمه بزرگ WMF Fusiontec Essential، 24 سانتی‌متر، درب شیشه‌ای، سازگار با اجاق القایی، 4.4 لیتر، سرامیک پیشرفته، ضد خش، بدون روکش، خاکستری، ساخت آلمان",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 45483000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A8%D8%B2%D8%B1%DA%AF-WMF-Fusiontec-Essential-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-4-4-%D9%84%DB%8C%D8%AA%D8%B1-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87-%D8%B6%D8%AF-%D8%AE%D8%B4-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%DA%A9%D8%B4-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.205Z"
+  },
+  {
+    "id": "torobshop-audio-video-91bb71375ed12a76",
+    "productId": "torobshop-91bb71375ed12a76",
+    "name": "سرویس کاسه 4 تکه WMF Gourmet، کاسه‌های استیل ضد زنگ برای آشپزخانه 0.75 لیتر - 2.75 لیتر، کاسه مخلوط کن استیل ضد زنگ، کاسه سالاد، کاسه سرو، Cromargan، قابل چیدن روی هم",
+    "brand": "",
+    "model": "سرویس کاسه 4 تکه WMF Gourmet، کاسه‌های استیل ضد زنگ برای آشپزخانه 0.75 لیتر - 2.75 لیتر، کاسه مخلوط کن استیل ضد زنگ، کاسه سالاد، کاسه سرو، Cromargan، قابل چیدن روی هم",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 17532000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%DA%A9%D8%A7%D8%B3%D9%87-4-%D8%AA%DA%A9%D9%87-WMF-Gourmet-%DA%A9%D8%A7%D8%B3%D9%87-%D9%87%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A2%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87-0-75-%D9%84%DB%8C%D8%AA%D8%B1-2-75-%D9%84%DB%8C%D8%AA%D8%B1-%DA%A9%D8%A7%D8%B3%D9%87-%D9%85%D8%AE%D9%84%D9%88%D8%B7-%DA%A9%D9%86-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%DA%A9%D8%A7%D8%B3%D9%87-%D8%B3%D8%A7%D9%84%D8%A7%D8%AF-%DA%A9%D8%A7%D8%B3%D9%87-%D8%B3%D8%B1%D9%88-Cromargan-%D9%82%D8%A7%D8%A8%D9%84-%DA%86%DB%8C%D8%AF%D9%86-%D8%B1%D9%88%DB%8C-%D9%87%D9%85",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.205Z"
+  },
+  {
+    "id": "torobshop-audio-video-9e54af0a2503c03a",
+    "productId": "torobshop-9e54af0a2503c03a",
+    "name": "کاسه مخلوط کن WMF مدل Function 1.25 لیتر، کاسه استیل ضد زنگ 20 سانتی متری، استیل ضد زنگ براق Cromargan، قابل شستشو در ماشین ظرفشویی، قابل روی هم قرار دادن",
+    "brand": "",
+    "model": "کاسه مخلوط کن WMF مدل Function 1.25 لیتر، کاسه استیل ضد زنگ 20 سانتی متری، استیل ضد زنگ براق Cromargan، قابل شستشو در ماشین ظرفشویی، قابل روی هم قرار دادن",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 16262000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%DA%A9%D8%A7%D8%B3%D9%87-%D9%85%D8%AE%D9%84%D9%88%D8%B7-%DA%A9%D9%86-WMF-%D9%85%D8%AF%D9%84-Function-1-25-%D9%84%DB%8C%D8%AA%D8%B1-%DA%A9%D8%A7%D8%B3%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-20-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%A8%D8%B1%D8%A7%D9%82-Cromargan-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%B1%D9%88%DB%8C-%D9%87%D9%85-%D9%82%D8%B1%D8%A7%D8%B1-%D8%AF%D8%A7%D8%AF%D9%86",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.205Z"
+  },
+  {
+    "id": "torobshop-audio-video-54c6e86c7b91ee86",
+    "productId": "torobshop-54c6e86c7b91ee86",
+    "name": "قابلمه WMF Fusiontec Mineral Pro، قابلمه با درب، 16 سانتی‌متر، جنس بادوام، ضد خش، قابلمه کوچک مناسب برای القایی و انواع اجاق گاز، ساخت آلمان، اکالیپتوس هز، 0519795290",
+    "brand": "",
+    "model": "قابلمه WMF Fusiontec Mineral Pro، قابلمه با درب، 16 سانتی‌متر، جنس بادوام، ضد خش، قابلمه کوچک مناسب برای القایی و انواع اجاق گاز، ساخت آلمان، اکالیپتوس هز، 0519795290",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 44213000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-WMF-Fusiontec-Mineral-Pro-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-16-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%AC%D9%86%D8%B3-%D8%A8%D8%A7%D8%AF%D9%88%D8%A7%D9%85-%D8%B6%D8%AF-%D8%AE%D8%B4-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%A7%DA%A9%D8%A7%D9%84%DB%8C%D9%BE%D8%AA%D9%88%D8%B3-%D9%87%D8%B2-0519795290",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.205Z"
+  },
+  {
+    "id": "torobshop-audio-video-8acee9e225c81cc4",
+    "productId": "torobshop-8acee9e225c81cc4",
+    "name": "WMF Fusiontec Mineral Pro، قابلمه کباب با درب، 24 سانتی‌متر، جنس بادوام، ضد خش، سازگار با القا، مناسب برای انواع اجاق گاز، ساخت آلمان، پلاتینیوم، 0518765290",
+    "brand": "",
+    "model": "WMF Fusiontec Mineral Pro، قابلمه کباب با درب، 24 سانتی‌متر، جنس بادوام، ضد خش، سازگار با القا، مناسب برای انواع اجاق گاز، ساخت آلمان، پلاتینیوم، 0518765290",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 39131000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/WMF-Fusiontec-Mineral-Pro-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D8%A8%D8%A7%D8%A8-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%AC%D9%86%D8%B3-%D8%A8%D8%A7%D8%AF%D9%88%D8%A7%D9%85-%D8%B6%D8%AF-%D8%AE%D8%B4-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%BE%D9%84%D8%A7%D8%AA%DB%8C%D9%86%DB%8C%D9%88%D9%85-0518765290",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.205Z"
+  },
+  {
+    "id": "torobshop-audio-video-a24beaf198297d07",
+    "productId": "torobshop-a24beaf198297d07",
+    "name": "WMF Fusiontec Function Pro، قابلمه کباب با درب، 20 سانتی‌متر، جنس مقاوم در برابر خش، سازگار با القا، مناسب برای انواع اجاق گاز، ساخت آلمان، مشکی، 0518535290",
+    "brand": "",
+    "model": "WMF Fusiontec Function Pro، قابلمه کباب با درب، 20 سانتی‌متر، جنس مقاوم در برابر خش، سازگار با القا، مناسب برای انواع اجاق گاز، ساخت آلمان، مشکی، 0518535290",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 46754000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/WMF-Fusiontec-Function-Pro-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D8%A8%D8%A7%D8%A8-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-20-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%AC%D9%86%D8%B3-%D9%85%D9%82%D8%A7%D9%88%D9%85-%D8%AF%D8%B1-%D8%A8%D8%B1%D8%A7%D8%A8%D8%B1-%D8%AE%D8%B4-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%B4%DA%A9%DB%8C-0518535290",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.205Z"
+  },
+  {
+    "id": "torobshop-audio-video-aabd335d29fa278a",
+    "productId": "torobshop-aabd335d29fa278a",
+    "name": "سرویس قابلمه القایی 3 تکه WMF Fusiontec Compact، سرویس قابلمه، بخارپز، درب شیشه‌ای، استیل ضد زنگ Cromargan صیقلی، قابل چیدن روی هم، قرمز",
+    "brand": "",
+    "model": "سرویس قابلمه القایی 3 تکه WMF Fusiontec Compact، سرویس قابلمه، بخارپز، درب شیشه‌ای، استیل ضد زنگ Cromargan صیقلی، قابل چیدن روی هم، قرمز",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 31762000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-3-%D8%AA%DA%A9%D9%87-WMF-Fusiontec-Compact-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A8%D8%AE%D8%A7%D8%B1%D9%BE%D8%B2-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-Cromargan-%D8%B5%DB%8C%D9%82%D9%84%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%DA%86%DB%8C%D8%AF%D9%86-%D8%B1%D9%88%DB%8C-%D9%87%D9%85-%D9%82%D8%B1%D9%85%D8%B2",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.205Z"
   },
   {
     "id": "torobshop-audio-video-230290bd87eab562",
@@ -1671,7 +1671,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.559Z"
+    "observedAt": "2026-09-05T07:52:57.205Z"
   },
   {
     "id": "torobshop-audio-video-697a2934ffba6321",
@@ -1689,7 +1689,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.559Z"
+    "observedAt": "2026-09-05T07:52:57.205Z"
   },
   {
     "id": "torobshop-audio-video-54f5e9ae596669e0",
@@ -1707,7 +1707,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.559Z"
+    "observedAt": "2026-09-05T07:52:57.205Z"
   },
   {
     "id": "torobshop-audio-video-12112ebd794aebfe",
@@ -1725,7 +1725,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.559Z"
+    "observedAt": "2026-09-05T07:52:57.205Z"
   },
   {
     "id": "torobshop-audio-video-936307be3dbff4d8",
@@ -1743,7 +1743,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.559Z"
+    "observedAt": "2026-09-05T07:52:57.205Z"
   },
   {
     "id": "torobshop-audio-video-6e9b5969bf806a83",
@@ -1761,7 +1761,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.559Z"
+    "observedAt": "2026-09-05T07:52:57.205Z"
   },
   {
     "id": "torobshop-audio-video-e8fbb91576830b01",
@@ -1779,7 +1779,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.559Z"
+    "observedAt": "2026-09-05T07:52:57.205Z"
   },
   {
     "id": "torobshop-audio-video-46604b56d19bc98e",
@@ -1797,7 +1797,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.559Z"
+    "observedAt": "2026-09-05T07:52:57.205Z"
   },
   {
     "id": "torobshop-audio-video-c0da7c6caaaabe22",
@@ -1815,7 +1815,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.559Z"
+    "observedAt": "2026-09-05T07:52:57.205Z"
   },
   {
     "id": "torobshop-audio-video-b0d9a8bce5b96da9",
@@ -1833,7 +1833,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.559Z"
+    "observedAt": "2026-09-05T07:52:57.205Z"
   },
   {
     "id": "torobshop-audio-video-5aade8dcb399df70",
@@ -1851,7 +1851,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.559Z"
+    "observedAt": "2026-09-05T07:52:57.205Z"
   },
   {
     "id": "torobshop-audio-video-5793143473c0cf7d",
@@ -1869,7 +1869,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.559Z"
+    "observedAt": "2026-09-05T07:52:57.205Z"
   },
   {
     "id": "torobshop-audio-video-338927d0838a0440",
@@ -1887,7 +1887,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.559Z"
+    "observedAt": "2026-09-05T07:52:57.205Z"
   },
   {
     "id": "torobshop-audio-video-01db327156bef7cb",
@@ -1905,7 +1905,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.559Z"
+    "observedAt": "2026-09-05T07:52:57.205Z"
   },
   {
     "id": "torobshop-audio-video-5f8b7d12315d211b",
@@ -1923,7 +1923,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.559Z"
+    "observedAt": "2026-09-05T07:52:57.205Z"
   },
   {
     "id": "torobshop-audio-video-bbcc82316e14ad0c",
@@ -1941,25 +1941,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.559Z"
-  },
-  {
-    "id": "torobshop-audio-video-7bcf4d86c8897e89",
-    "productId": "torobshop-7bcf4d86c8897e89",
-    "name": "پلوپز و غلات پز هوشمند کیچن اید آمریکا مدل KitchenAid KGC3155BM مشکی",
-    "brand": "",
-    "model": "پلوپز و غلات پز هوشمند کیچن اید آمریکا مدل KitchenAid KGC3155BM مشکی",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 118877000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%BE%D9%84%D9%88%D9%BE%D8%B2-%D9%88-%D8%BA%D9%84%D8%A7%D8%AA-%D9%BE%D8%B2-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%DA%A9%DB%8C%DA%86%D9%86-%D8%A7%DB%8C%D8%AF-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D9%85%D8%AF%D9%84-KitchenAid-KGC3155BM-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.559Z"
+    "observedAt": "2026-09-05T07:52:57.205Z"
   },
   {
     "id": "torobshop-audio-video-c4764ab021d7047d",
@@ -1977,7 +1959,25 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.559Z"
+    "observedAt": "2026-09-05T07:52:57.205Z"
+  },
+  {
+    "id": "torobshop-audio-video-7bcf4d86c8897e89",
+    "productId": "torobshop-7bcf4d86c8897e89",
+    "name": "پلوپز و غلات پز هوشمند کیچن اید آمریکا مدل KitchenAid KGC3155BM مشکی",
+    "brand": "",
+    "model": "پلوپز و غلات پز هوشمند کیچن اید آمریکا مدل KitchenAid KGC3155BM مشکی",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 118877000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%BE%D9%84%D9%88%D9%BE%D8%B2-%D9%88-%D8%BA%D9%84%D8%A7%D8%AA-%D9%BE%D8%B2-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%DA%A9%DB%8C%DA%86%D9%86-%D8%A7%DB%8C%D8%AF-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D9%85%D8%AF%D9%84-KitchenAid-KGC3155BM-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.205Z"
   },
   {
     "id": "torobshop-audio-video-c0ed70988a23d716",
@@ -1995,7 +1995,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.559Z"
+    "observedAt": "2026-09-05T07:52:57.205Z"
   },
   {
     "id": "torobshop-audio-video-60d6e587231ae5e2",
@@ -2013,7 +2013,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.559Z"
+    "observedAt": "2026-09-05T07:52:57.205Z"
   },
   {
     "id": "torobshop-audio-video-6ae0fa5e11f4b4e4",
@@ -2031,25 +2031,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.559Z"
-  },
-  {
-    "id": "torobshop-audio-video-60af1d85416ddb75",
-    "productId": "torobshop-60af1d85416ddb75",
-    "name": "مایکروویو گریل اسمگ ایتالیا مدل Smeg MOC01BLMEU رنگ مشکی با ظرفیت 29 لیتر و فناوری Inverter",
-    "brand": "",
-    "model": "مایکروویو گریل اسمگ ایتالیا مدل Smeg MOC01BLMEU رنگ مشکی با ظرفیت 29 لیتر و فناوری Inverter",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 120996000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%DB%8C%DA%A9%D8%B1%D9%88%D9%88%DB%8C%D9%88-%DA%AF%D8%B1%DB%8C%D9%84-%D8%A7%D8%B3%D9%85%DA%AF-%D8%A7%DB%8C%D8%AA%D8%A7%D9%84%DB%8C%D8%A7-%D9%85%D8%AF%D9%84-Smeg-MOC01BLMEU-%D8%B1%D9%86%DA%AF-%D9%85%D8%B4%DA%A9%DB%8C-%D8%A8%D8%A7-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-29-%D9%84%DB%8C%D8%AA%D8%B1-%D9%88-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-Inverter",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.559Z"
+    "observedAt": "2026-09-05T07:52:57.205Z"
   },
   {
     "id": "torobshop-audio-video-4bcca73578b5dd16",
@@ -2067,7 +2049,25 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.559Z"
+    "observedAt": "2026-09-05T07:52:57.205Z"
+  },
+  {
+    "id": "torobshop-audio-video-60af1d85416ddb75",
+    "productId": "torobshop-60af1d85416ddb75",
+    "name": "مایکروویو گریل اسمگ ایتالیا مدل Smeg MOC01BLMEU رنگ مشکی با ظرفیت 29 لیتر و فناوری Inverter",
+    "brand": "",
+    "model": "مایکروویو گریل اسمگ ایتالیا مدل Smeg MOC01BLMEU رنگ مشکی با ظرفیت 29 لیتر و فناوری Inverter",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 120996000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%DB%8C%DA%A9%D8%B1%D9%88%D9%88%DB%8C%D9%88-%DA%AF%D8%B1%DB%8C%D9%84-%D8%A7%D8%B3%D9%85%DA%AF-%D8%A7%DB%8C%D8%AA%D8%A7%D9%84%DB%8C%D8%A7-%D9%85%D8%AF%D9%84-Smeg-MOC01BLMEU-%D8%B1%D9%86%DA%AF-%D9%85%D8%B4%DA%A9%DB%8C-%D8%A8%D8%A7-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-29-%D9%84%DB%8C%D8%AA%D8%B1-%D9%88-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-Inverter",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.205Z"
   },
   {
     "id": "torobshop-audio-video-6e06ceda384f61d3",
@@ -2085,25 +2085,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.559Z"
-  },
-  {
-    "id": "torobshop-audio-video-d6020856dbe3939e",
-    "productId": "torobshop-d6020856dbe3939e",
-    "name": "ریش تراش فیلیپس هلند سری i9000 پرستیژ اولترا مدل Philips XP9405/31",
-    "brand": "",
-    "model": "ریش تراش فیلیپس هلند سری i9000 پرستیژ اولترا مدل Philips XP9405/31",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 94984000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%87%D9%84%D9%86%D8%AF-%D8%B3%D8%B1%DB%8C-i9000-%D9%BE%D8%B1%D8%B3%D8%AA%DB%8C%DA%98-%D8%A7%D9%88%D9%84%D8%AA%D8%B1%D8%A7-%D9%85%D8%AF%D9%84-Philips-XP9405-31",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.559Z"
+    "observedAt": "2026-09-05T07:52:57.205Z"
   },
   {
     "id": "torobshop-audio-video-5d82b44892bc11b9",
@@ -2121,7 +2103,25 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.559Z"
+    "observedAt": "2026-09-05T07:52:57.205Z"
+  },
+  {
+    "id": "torobshop-audio-video-d6020856dbe3939e",
+    "productId": "torobshop-d6020856dbe3939e",
+    "name": "ریش تراش فیلیپس هلند سری i9000 پرستیژ اولترا مدل Philips XP9405/31",
+    "brand": "",
+    "model": "ریش تراش فیلیپس هلند سری i9000 پرستیژ اولترا مدل Philips XP9405/31",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 94984000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%87%D9%84%D9%86%D8%AF-%D8%B3%D8%B1%DB%8C-i9000-%D9%BE%D8%B1%D8%B3%D8%AA%DB%8C%DA%98-%D8%A7%D9%88%D9%84%D8%AA%D8%B1%D8%A7-%D9%85%D8%AF%D9%84-Philips-XP9405-31",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.205Z"
   },
   {
     "id": "torobshop-audio-video-f9bbe058bc1d2128",
@@ -2139,7 +2139,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.559Z"
+    "observedAt": "2026-09-05T07:52:57.205Z"
   },
   {
     "id": "torobshop-audio-video-e314f2beea5b98b5",
@@ -2157,7 +2157,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.559Z"
+    "observedAt": "2026-09-05T07:52:57.205Z"
   },
   {
     "id": "torobshop-audio-video-55066b4800c9da01",
@@ -2175,25 +2175,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.559Z"
-  },
-  {
-    "id": "torobshop-audio-video-f9b72003ee046406",
-    "productId": "torobshop-f9b72003ee046406",
-    "name": "سرخ کن بدون روغن شیشه‌ای نینجا آمریکا مدل CRISPi PRO XL استون گلد Ninja AS090EUSD",
-    "brand": "",
-    "model": "سرخ کن بدون روغن شیشه‌ای نینجا آمریکا مدل CRISPi PRO XL استون گلد Ninja AS090EUSD",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 80742000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%D8%BA%D9%86-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D9%85%D8%AF%D9%84-CRISPi-PRO-XL-%D8%A7%D8%B3%D8%AA%D9%88%D9%86-%DA%AF%D9%84%D8%AF-Ninja-AS090EUSD",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.559Z"
+    "observedAt": "2026-09-05T07:52:57.205Z"
   },
   {
     "id": "torobshop-audio-video-e0190c6b09b72f84",
@@ -2211,7 +2193,25 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.559Z"
+    "observedAt": "2026-09-05T07:52:57.205Z"
+  },
+  {
+    "id": "torobshop-audio-video-f9b72003ee046406",
+    "productId": "torobshop-f9b72003ee046406",
+    "name": "سرخ کن بدون روغن شیشه‌ای نینجا آمریکا مدل CRISPi PRO XL استون گلد Ninja AS090EUSD",
+    "brand": "",
+    "model": "سرخ کن بدون روغن شیشه‌ای نینجا آمریکا مدل CRISPi PRO XL استون گلد Ninja AS090EUSD",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 80742000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%D8%BA%D9%86-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D9%85%D8%AF%D9%84-CRISPi-PRO-XL-%D8%A7%D8%B3%D8%AA%D9%88%D9%86-%DA%AF%D9%84%D8%AF-Ninja-AS090EUSD",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.205Z"
   },
   {
     "id": "torobshop-audio-video-dab9eb8721316f5c",
@@ -2229,7 +2229,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.559Z"
+    "observedAt": "2026-09-05T07:52:57.205Z"
   },
   {
     "id": "torobshop-audio-video-7039563646d2a08c",
@@ -2247,7 +2247,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.559Z"
+    "observedAt": "2026-09-05T07:52:57.205Z"
   },
   {
     "id": "torobshop-audio-video-b5bb3ef74c64016f",
@@ -2265,7 +2265,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.559Z"
+    "observedAt": "2026-09-05T07:52:57.205Z"
   },
   {
     "id": "torobshop-audio-video-13383e2908795ceb",
@@ -2283,7 +2283,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.559Z"
+    "observedAt": "2026-09-05T07:52:57.205Z"
   },
   {
     "id": "torobshop-audio-video-d17a16a92c427af7",
@@ -2301,7 +2301,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.559Z"
+    "observedAt": "2026-09-05T07:52:57.206Z"
   },
   {
     "id": "torobshop-audio-video-222c5f1f48a7811a",
@@ -2319,7 +2319,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.559Z"
+    "observedAt": "2026-09-05T07:52:57.206Z"
   },
   {
     "id": "torobshop-audio-video-e05ea902bac411c1",
@@ -2337,7 +2337,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.559Z"
+    "observedAt": "2026-09-05T07:52:57.206Z"
   },
   {
     "id": "torobshop-audio-video-73f54a12bc87541c",
@@ -2355,7 +2355,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.559Z"
+    "observedAt": "2026-09-05T07:52:57.206Z"
   },
   {
     "id": "torobshop-audio-video-9f8dba1c4be0543f",
@@ -2373,25 +2373,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.559Z"
-  },
-  {
-    "id": "torobshop-audio-video-7dda1ee3ebe3337d",
-    "productId": "torobshop-7dda1ee3ebe3337d",
-    "name": "اسپرسو ساز تمام اتوماتیک نینجا آمریکا Ninja AE1051EUBL",
-    "brand": "",
-    "model": "اسپرسو ساز تمام اتوماتیک نینجا آمریکا Ninja AE1051EUBL",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 263060000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%A7%D8%B3%D9%BE%D8%B1%D8%B3%D9%88-%D8%B3%D8%A7%D8%B2-%D8%AA%D9%85%D8%A7%D9%85-%D8%A7%D8%AA%D9%88%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-Ninja-AE1051EUBL",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.559Z"
+    "observedAt": "2026-09-05T07:52:57.206Z"
   },
   {
     "id": "torobshop-audio-video-fed9304ce636fd70",
@@ -2409,7 +2391,25 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.559Z"
+    "observedAt": "2026-09-05T07:52:57.206Z"
+  },
+  {
+    "id": "torobshop-audio-video-7dda1ee3ebe3337d",
+    "productId": "torobshop-7dda1ee3ebe3337d",
+    "name": "اسپرسو ساز تمام اتوماتیک نینجا آمریکا Ninja AE1051EUBL",
+    "brand": "",
+    "model": "اسپرسو ساز تمام اتوماتیک نینجا آمریکا Ninja AE1051EUBL",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 263060000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D8%B3%D9%BE%D8%B1%D8%B3%D9%88-%D8%B3%D8%A7%D8%B2-%D8%AA%D9%85%D8%A7%D9%85-%D8%A7%D8%AA%D9%88%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-Ninja-AE1051EUBL",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.206Z"
   },
   {
     "id": "torobshop-audio-video-56d2262c04bf40b1",
@@ -2427,7 +2427,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.559Z"
+    "observedAt": "2026-09-05T07:52:57.206Z"
   },
   {
     "id": "torobshop-audio-video-1d09296a1209f7ae",
@@ -2445,7 +2445,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.559Z"
+    "observedAt": "2026-09-05T07:52:57.206Z"
   },
   {
     "id": "torobshop-audio-video-d5861c5eae980acb",
@@ -2463,7 +2463,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.559Z"
+    "observedAt": "2026-09-05T07:52:57.206Z"
   },
   {
     "id": "torobshop-audio-video-3a354858143bf5bf",
@@ -2481,43 +2481,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.559Z"
-  },
-  {
-    "id": "torobshop-audio-video-3b108c60419c6b3e",
-    "productId": "torobshop-3b108c60419c6b3e",
-    "name": "جارو برقی بدون کیسه میله آلمان مدل بلیزارد CX1 کامفورت پاورلاین Miele SKMF5 مشکی",
-    "brand": "",
-    "model": "جارو برقی بدون کیسه میله آلمان مدل بلیزارد CX1 کامفورت پاورلاین Miele SKMF5 مشکی",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 154187000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%AC%D8%A7%D8%B1%D9%88-%D8%A8%D8%B1%D9%82%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%DA%A9%DB%8C%D8%B3%D9%87-%D9%85%DB%8C%D9%84%D9%87-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%AF%D9%84-%D8%A8%D9%84%DB%8C%D8%B2%D8%A7%D8%B1%D8%AF-CX1-%DA%A9%D8%A7%D9%85%D9%81%D9%88%D8%B1%D8%AA-%D9%BE%D8%A7%D9%88%D8%B1%D9%84%D8%A7%DB%8C%D9%86-Miele-SKMF5-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.559Z"
-  },
-  {
-    "id": "torobshop-audio-video-386045fed7109b6c",
-    "productId": "torobshop-386045fed7109b6c",
-    "name": "جارو برقی بدون کیسه میله آلمان مدل بلیزارد CX1 کت اند داگ پاورلاین Miele SKCF5",
-    "brand": "",
-    "model": "جارو برقی بدون کیسه میله آلمان مدل بلیزارد CX1 کت اند داگ پاورلاین Miele SKCF5",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 133802000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%AC%D8%A7%D8%B1%D9%88-%D8%A8%D8%B1%D9%82%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%DA%A9%DB%8C%D8%B3%D9%87-%D9%85%DB%8C%D9%84%D9%87-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%AF%D9%84-%D8%A8%D9%84%DB%8C%D8%B2%D8%A7%D8%B1%D8%AF-CX1-%DA%A9%D8%AA-%D8%A7%D9%86%D8%AF-%D8%AF%D8%A7%DA%AF-%D9%BE%D8%A7%D9%88%D8%B1%D9%84%D8%A7%DB%8C%D9%86-Miele-SKCF5",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.559Z"
+    "observedAt": "2026-09-05T07:52:57.206Z"
   },
   {
     "id": "torobshop-audio-video-3d432c8dbd69eefb",
@@ -2535,7 +2499,25 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.559Z"
+    "observedAt": "2026-09-05T07:52:57.206Z"
+  },
+  {
+    "id": "torobshop-audio-video-3b108c60419c6b3e",
+    "productId": "torobshop-3b108c60419c6b3e",
+    "name": "جارو برقی بدون کیسه میله آلمان مدل بلیزارد CX1 کامفورت پاورلاین Miele SKMF5 مشکی",
+    "brand": "",
+    "model": "جارو برقی بدون کیسه میله آلمان مدل بلیزارد CX1 کامفورت پاورلاین Miele SKMF5 مشکی",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 154187000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%AC%D8%A7%D8%B1%D9%88-%D8%A8%D8%B1%D9%82%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%DA%A9%DB%8C%D8%B3%D9%87-%D9%85%DB%8C%D9%84%D9%87-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%AF%D9%84-%D8%A8%D9%84%DB%8C%D8%B2%D8%A7%D8%B1%D8%AF-CX1-%DA%A9%D8%A7%D9%85%D9%81%D9%88%D8%B1%D8%AA-%D9%BE%D8%A7%D9%88%D8%B1%D9%84%D8%A7%DB%8C%D9%86-Miele-SKMF5-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.206Z"
   },
   {
     "id": "torobshop-audio-video-2278a7dbec8ed7cd",
@@ -2553,7 +2535,25 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.559Z"
+    "observedAt": "2026-09-05T07:52:57.206Z"
+  },
+  {
+    "id": "torobshop-audio-video-386045fed7109b6c",
+    "productId": "torobshop-386045fed7109b6c",
+    "name": "جارو برقی بدون کیسه میله آلمان مدل بلیزارد CX1 کت اند داگ پاورلاین Miele SKCF5",
+    "brand": "",
+    "model": "جارو برقی بدون کیسه میله آلمان مدل بلیزارد CX1 کت اند داگ پاورلاین Miele SKCF5",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 133802000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%AC%D8%A7%D8%B1%D9%88-%D8%A8%D8%B1%D9%82%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%DA%A9%DB%8C%D8%B3%D9%87-%D9%85%DB%8C%D9%84%D9%87-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%AF%D9%84-%D8%A8%D9%84%DB%8C%D8%B2%D8%A7%D8%B1%D8%AF-CX1-%DA%A9%D8%AA-%D8%A7%D9%86%D8%AF-%D8%AF%D8%A7%DA%AF-%D9%BE%D8%A7%D9%88%D8%B1%D9%84%D8%A7%DB%8C%D9%86-Miele-SKCF5",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.206Z"
   },
   {
     "id": "torobshop-audio-video-66634e26dfb49c04",
@@ -2571,25 +2571,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.559Z"
-  },
-  {
-    "id": "torobshop-audio-video-bab25203513b93bb",
-    "productId": "torobshop-bab25203513b93bb",
-    "name": "سرخ کن بدون روغن شیشه‌ای نینجا آمریکا مدل CRISPi PRO XL استون گلد Ninja AS090EUGN",
-    "brand": "",
-    "model": "سرخ کن بدون روغن شیشه‌ای نینجا آمریکا مدل CRISPi PRO XL استون گلد Ninja AS090EUGN",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 80742000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%D8%BA%D9%86-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D9%85%D8%AF%D9%84-CRISPi-PRO-XL-%D8%A7%D8%B3%D8%AA%D9%88%D9%86-%DA%AF%D9%84%D8%AF-Ninja-AS090EUGN",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.559Z"
+    "observedAt": "2026-09-05T07:52:57.206Z"
   },
   {
     "id": "torobshop-audio-video-3dd1b99a47f6c6d1",
@@ -2607,7 +2589,25 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.559Z"
+    "observedAt": "2026-09-05T07:52:57.206Z"
+  },
+  {
+    "id": "torobshop-audio-video-bab25203513b93bb",
+    "productId": "torobshop-bab25203513b93bb",
+    "name": "سرخ کن بدون روغن شیشه‌ای نینجا آمریکا مدل CRISPi PRO XL استون گلد Ninja AS090EUGN",
+    "brand": "",
+    "model": "سرخ کن بدون روغن شیشه‌ای نینجا آمریکا مدل CRISPi PRO XL استون گلد Ninja AS090EUGN",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 80742000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%D8%BA%D9%86-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D9%85%D8%AF%D9%84-CRISPi-PRO-XL-%D8%A7%D8%B3%D8%AA%D9%88%D9%86-%DA%AF%D9%84%D8%AF-Ninja-AS090EUGN",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.206Z"
   },
   {
     "id": "torobshop-audio-video-bcf3455eedcf96e7",
@@ -2625,7 +2625,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.559Z"
+    "observedAt": "2026-09-05T07:52:57.206Z"
   },
   {
     "id": "torobshop-audio-video-40f557a46b915c21",
@@ -2643,7 +2643,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.559Z"
+    "observedAt": "2026-09-05T07:52:57.206Z"
   },
   {
     "id": "torobshop-audio-video-fbd5e1832a592f6d",
@@ -2661,7 +2661,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.559Z"
+    "observedAt": "2026-09-05T07:52:57.206Z"
   },
   {
     "id": "torobshop-audio-video-9c9a87a898bad342",
@@ -2679,7 +2679,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.559Z"
+    "observedAt": "2026-09-05T07:52:57.206Z"
   },
   {
     "id": "torobshop-audio-video-685fccacbb18ee43",
@@ -2697,7 +2697,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.559Z"
+    "observedAt": "2026-09-05T07:52:57.206Z"
   },
   {
     "id": "torobshop-audio-video-1cb6df1aed563bee",
@@ -2715,7 +2715,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.559Z"
+    "observedAt": "2026-09-05T07:52:57.206Z"
   },
   {
     "id": "torobshop-audio-video-993ee35f4a561a10",
@@ -2733,43 +2733,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.559Z"
-  },
-  {
-    "id": "torobshop-audio-video-37fd983abaa93a3b",
-    "productId": "torobshop-37fd983abaa93a3b",
-    "name": "پلوپز و غلات پز هوشمند کیچن اید آمریکا مدل KitchenAid KGC3155PL سفید",
-    "brand": "",
-    "model": "پلوپز و غلات پز هوشمند کیچن اید آمریکا مدل KitchenAid KGC3155PL سفید",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 118877000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%BE%D9%84%D9%88%D9%BE%D8%B2-%D9%88-%D8%BA%D9%84%D8%A7%D8%AA-%D9%BE%D8%B2-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%DA%A9%DB%8C%DA%86%D9%86-%D8%A7%DB%8C%D8%AF-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D9%85%D8%AF%D9%84-KitchenAid-KGC3155PL-%D8%B3%D9%81%DB%8C%D8%AF",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.559Z"
-  },
-  {
-    "id": "torobshop-audio-video-deb4652ab7b20c96",
-    "productId": "torobshop-deb4652ab7b20c96",
-    "name": "یخچال مسافرتی یخدان نینجا آمریکا Ninja FrostVault فراست‌ والت ۴۷ لیتری عایق‌ دار ممتاز",
-    "brand": "",
-    "model": "یخچال مسافرتی یخدان نینجا آمریکا Ninja FrostVault فراست‌ والت ۴۷ لیتری عایق‌ دار ممتاز",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 66901000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%DB%8C%D8%AE%DA%86%D8%A7%D9%84-%D9%85%D8%B3%D8%A7%D9%81%D8%B1%D8%AA%DB%8C-%DB%8C%D8%AE%D8%AF%D8%A7%D9%86-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-Ninja-FrostVault-%D9%81%D8%B1%D8%A7%D8%B3%D8%AA-%D9%88%D8%A7%D9%84%D8%AA-%DB%B4%DB%B7-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C-%D8%B9%D8%A7%DB%8C%D9%82-%D8%AF%D8%A7%D8%B1-%D9%85%D9%85%D8%AA%D8%A7%D8%B2-%DB%B2%DB%B8-%D9%84%DB%8C%D8%AA%D8%B1",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.559Z"
+    "observedAt": "2026-09-05T07:52:57.206Z"
   },
   {
     "id": "torobshop-audio-video-cc5a74ea332cb871",
@@ -2787,25 +2751,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.559Z"
-  },
-  {
-    "id": "torobshop-audio-video-5e97e30e4af5e35a",
-    "productId": "torobshop-5e97e30e4af5e35a",
-    "name": "دستگاه لیزر خانگی حذف موهای زائد بانوان فیلیپس هلند مدل Philips BRI949/00",
-    "brand": "",
-    "model": "دستگاه لیزر خانگی حذف موهای زائد بانوان فیلیپس هلند مدل Philips BRI949/00",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 103811000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%84%DB%8C%D8%B2%D8%B1-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C-%D8%AD%D8%B0%D9%81-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%87%D9%84%D9%86%D8%AF-%D9%85%D8%AF%D9%84-Philips-BRI949-00",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.559Z"
+    "observedAt": "2026-09-05T07:52:57.206Z"
   },
   {
     "id": "torobshop-audio-video-f5c373b20c89f3cf",
@@ -2823,7 +2769,61 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.560Z"
+    "observedAt": "2026-09-05T07:52:57.206Z"
+  },
+  {
+    "id": "torobshop-audio-video-37fd983abaa93a3b",
+    "productId": "torobshop-37fd983abaa93a3b",
+    "name": "پلوپز و غلات پز هوشمند کیچن اید آمریکا مدل KitchenAid KGC3155PL سفید",
+    "brand": "",
+    "model": "پلوپز و غلات پز هوشمند کیچن اید آمریکا مدل KitchenAid KGC3155PL سفید",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 118877000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%BE%D9%84%D9%88%D9%BE%D8%B2-%D9%88-%D8%BA%D9%84%D8%A7%D8%AA-%D9%BE%D8%B2-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%DA%A9%DB%8C%DA%86%D9%86-%D8%A7%DB%8C%D8%AF-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D9%85%D8%AF%D9%84-KitchenAid-KGC3155PL-%D8%B3%D9%81%DB%8C%D8%AF",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.206Z"
+  },
+  {
+    "id": "torobshop-audio-video-5e97e30e4af5e35a",
+    "productId": "torobshop-5e97e30e4af5e35a",
+    "name": "دستگاه لیزر خانگی حذف موهای زائد بانوان فیلیپس هلند مدل Philips BRI949/00",
+    "brand": "",
+    "model": "دستگاه لیزر خانگی حذف موهای زائد بانوان فیلیپس هلند مدل Philips BRI949/00",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 103811000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%84%DB%8C%D8%B2%D8%B1-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C-%D8%AD%D8%B0%D9%81-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%87%D9%84%D9%86%D8%AF-%D9%85%D8%AF%D9%84-Philips-BRI949-00",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.206Z"
+  },
+  {
+    "id": "torobshop-audio-video-deb4652ab7b20c96",
+    "productId": "torobshop-deb4652ab7b20c96",
+    "name": "یخچال مسافرتی یخدان نینجا آمریکا Ninja FrostVault فراست‌ والت ۴۷ لیتری عایق‌ دار ممتاز",
+    "brand": "",
+    "model": "یخچال مسافرتی یخدان نینجا آمریکا Ninja FrostVault فراست‌ والت ۴۷ لیتری عایق‌ دار ممتاز",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 66901000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%DB%8C%D8%AE%DA%86%D8%A7%D9%84-%D9%85%D8%B3%D8%A7%D9%81%D8%B1%D8%AA%DB%8C-%DB%8C%D8%AE%D8%AF%D8%A7%D9%86-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-Ninja-FrostVault-%D9%81%D8%B1%D8%A7%D8%B3%D8%AA-%D9%88%D8%A7%D9%84%D8%AA-%DB%B4%DB%B7-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C-%D8%B9%D8%A7%DB%8C%D9%82-%D8%AF%D8%A7%D8%B1-%D9%85%D9%85%D8%AA%D8%A7%D8%B2-%DB%B2%DB%B8-%D9%84%DB%8C%D8%AA%D8%B1",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.206Z"
   },
   {
     "id": "torobshop-audio-video-557954e4838db8ec",
@@ -2841,7 +2841,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.560Z"
+    "observedAt": "2026-09-05T07:52:57.206Z"
   },
   {
     "id": "torobshop-audio-video-ac5e0f9a687acc9d",
@@ -2859,7 +2859,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.560Z"
+    "observedAt": "2026-09-05T07:52:57.206Z"
   },
   {
     "id": "torobshop-audio-video-174296fd490ce4c6",
@@ -2877,7 +2877,25 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.560Z"
+    "observedAt": "2026-09-05T07:52:57.206Z"
+  },
+  {
+    "id": "torobshop-audio-video-1ba644cb6c0a38e9",
+    "productId": "torobshop-1ba644cb6c0a38e9",
+    "name": "سماور برقی 10 لیتری بیم آلمان مدل BEEM Amira 06356 مخصوص هتل و رستوران",
+    "brand": "",
+    "model": "سماور برقی 10 لیتری بیم آلمان مدل BEEM Amira 06356 مخصوص هتل و رستوران",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 306844000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D9%85%D8%A7%D9%88%D8%B1-%D8%A8%D8%B1%D9%82%DB%8C-10-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C-%D8%A8%DB%8C%D9%85-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%AF%D9%84-BEEM-Amira-06356-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D9%87%D8%AA%D9%84-%D9%88-%D8%B1%D8%B3%D8%AA%D9%88%D8%B1%D8%A7%D9%86",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.206Z"
   },
   {
     "id": "torobshop-audio-video-ca40f9691c169854",
@@ -2895,25 +2913,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.560Z"
-  },
-  {
-    "id": "torobshop-audio-video-24ee5f250564a2b6",
-    "productId": "torobshop-24ee5f250564a2b6",
-    "name": "جارو برقی کیسه‌ای حرفه‌ای میله آلمان مدل Miele Guard M1 SVXG0 سفید براق",
-    "brand": "",
-    "model": "جارو برقی کیسه‌ای حرفه‌ای میله آلمان مدل Miele Guard M1 SVXG0 سفید براق",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 103811000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%AC%D8%A7%D8%B1%D9%88-%D8%A8%D8%B1%D9%82%DB%8C-%DA%A9%DB%8C%D8%B3%D9%87-%D8%A7%DB%8C-%D8%AD%D8%B1%D9%81%D9%87-%D8%A7%DB%8C-%D9%85%DB%8C%D9%84%D9%87-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%AF%D9%84-Miele-Guard-M1-SVXG0-%D8%B3%D9%81%DB%8C%D8%AF-%D8%A8%D8%B1%D8%A7%D9%82",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.560Z"
+    "observedAt": "2026-09-05T07:52:57.206Z"
   },
   {
     "id": "torobshop-audio-video-eb2d1bdae18ab641",
@@ -2931,7 +2931,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.560Z"
+    "observedAt": "2026-09-05T07:52:57.206Z"
   },
   {
     "id": "torobshop-audio-video-9526bc50db1d2b71",
@@ -2949,7 +2949,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.560Z"
+    "observedAt": "2026-09-05T07:52:57.206Z"
   },
   {
     "id": "torobshop-audio-video-17aea0c096f3fbb1",
@@ -2967,7 +2967,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.560Z"
+    "observedAt": "2026-09-05T07:52:57.206Z"
   },
   {
     "id": "torobshop-audio-video-dab36535df580dd9",
@@ -2985,7 +2985,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.560Z"
+    "observedAt": "2026-09-05T07:52:57.206Z"
   },
   {
     "id": "torobshop-audio-video-bb07ff83203ce817",
@@ -3003,7 +3003,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.560Z"
+    "observedAt": "2026-09-05T07:52:57.206Z"
   },
   {
     "id": "torobshop-audio-video-23a08ed4a54c1bf3",
@@ -3021,7 +3021,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.560Z"
+    "observedAt": "2026-09-05T07:52:57.206Z"
   },
   {
     "id": "torobshop-audio-video-86394f5b0d453ade",
@@ -3039,7 +3039,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.560Z"
+    "observedAt": "2026-09-05T07:52:57.206Z"
   },
   {
     "id": "torobshop-audio-video-bf0ff9604c787d7f",
@@ -3057,7 +3057,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.560Z"
+    "observedAt": "2026-09-05T07:52:57.206Z"
   },
   {
     "id": "torobshop-audio-video-ffccfb4b61d564f3",
@@ -3075,25 +3075,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.560Z"
-  },
-  {
-    "id": "torobshop-audio-video-add12b5339d41d54",
-    "productId": "torobshop-add12b5339d41d54",
-    "name": "گوشی هوشمند اپل آیفون ۱۷e (۱۵.۴ سانتی‌متر / ۶.۱ اینچ، حافظه ۲۵۶ گیگابایت، دوربین ۴۸ مگاپیکسلی)",
-    "brand": "اپل",
-    "model": "گوشی هوشمند اپل آیفون ۱۷e (۱۵.۴ سانتی‌متر / ۶.۱ اینچ، حافظه ۲۵۶ گیگابایت، دوربین ۴۸ مگاپیکسلی)",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 176871000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%DA%AF%D9%88%D8%B4%DB%8C-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%D8%A7%D9%BE%D9%84-%D8%A2%DB%8C%D9%81%D9%88%D9%86-%DB%B1%DB%B7e-%DB%B1%DB%B5-%DB%B4-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%DB%B6-%DB%B1-%D8%A7%DB%8C%D9%86%DA%86-%D8%AD%D8%A7%D9%81%D8%B8%D9%87-%DB%B2%DB%B5%DB%B6-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%AF%D9%88%D8%B1%D8%A8%DB%8C%D9%86-%DB%B4%DB%B8-%D9%85%DA%AF%D8%A7%D9%BE%DB%8C%DA%A9%D8%B3%D9%84%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.560Z"
+    "observedAt": "2026-09-05T07:52:57.206Z"
   },
   {
     "id": "torobshop-audio-video-ec9957a5ab556a59",
@@ -3111,7 +3093,25 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.560Z"
+    "observedAt": "2026-09-05T07:52:57.206Z"
+  },
+  {
+    "id": "torobshop-audio-video-add12b5339d41d54",
+    "productId": "torobshop-add12b5339d41d54",
+    "name": "گوشی هوشمند اپل آیفون ۱۷e (۱۵.۴ سانتی‌متر / ۶.۱ اینچ، حافظه ۲۵۶ گیگابایت، دوربین ۴۸ مگاپیکسلی)",
+    "brand": "اپل",
+    "model": "گوشی هوشمند اپل آیفون ۱۷e (۱۵.۴ سانتی‌متر / ۶.۱ اینچ، حافظه ۲۵۶ گیگابایت، دوربین ۴۸ مگاپیکسلی)",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 176871000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%DA%AF%D9%88%D8%B4%DB%8C-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%D8%A7%D9%BE%D9%84-%D8%A2%DB%8C%D9%81%D9%88%D9%86-%DB%B1%DB%B7e-%DB%B1%DB%B5-%DB%B4-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%DB%B6-%DB%B1-%D8%A7%DB%8C%D9%86%DA%86-%D8%AD%D8%A7%D9%81%D8%B8%D9%87-%DB%B2%DB%B5%DB%B6-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%AF%D9%88%D8%B1%D8%A8%DB%8C%D9%86-%DB%B4%DB%B8-%D9%85%DA%AF%D8%A7%D9%BE%DB%8C%DA%A9%D8%B3%D9%84%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.206Z"
   },
   {
     "id": "torobshop-audio-video-e89541bdd38935d2",
@@ -3129,7 +3129,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.560Z"
+    "observedAt": "2026-09-05T07:52:57.206Z"
   },
   {
     "id": "torobshop-audio-video-ec7446a90d887300",
@@ -3147,7 +3147,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.560Z"
+    "observedAt": "2026-09-05T07:52:57.206Z"
   },
   {
     "id": "torobshop-audio-video-f676e23d1f151190",
@@ -3165,7 +3165,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.560Z"
+    "observedAt": "2026-09-05T07:52:57.206Z"
   },
   {
     "id": "torobshop-audio-video-3debd7458ec254ad",
@@ -3183,7 +3183,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.560Z"
+    "observedAt": "2026-09-05T07:52:57.206Z"
   },
   {
     "id": "torobshop-audio-video-bf9b6308d5e6e4a3",
@@ -3201,7 +3201,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.560Z"
+    "observedAt": "2026-09-05T07:52:57.206Z"
   },
   {
     "id": "torobshop-audio-video-a936b9d4fccda9ec",
@@ -3219,7 +3219,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.560Z"
+    "observedAt": "2026-09-05T07:52:57.206Z"
   },
   {
     "id": "torobshop-audio-video-bc5ad78acdc13550",
@@ -3237,25 +3237,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.560Z"
-  },
-  {
-    "id": "torobshop-audio-video-b93b2b7b8a52ead7",
-    "productId": "torobshop-b93b2b7b8a52ead7",
-    "name": "فیلیپس ۲۷۵V8LA - مانیتور ۲۷ اینچی QHD، بلندگوها، FreeSync (2560x1440، ۷۵ هرتز، DisplayPort، HDMI) مشکی",
-    "brand": "",
-    "model": "فیلیپس ۲۷۵V8LA - مانیتور ۲۷ اینچی QHD، بلندگوها، FreeSync (2560x1440، ۷۵ هرتز، DisplayPort، HDMI) مشکی",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 50566000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%DB%B2%DB%B7%DB%B5V8LA-%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%DB%B2%DB%B7-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-QHD-%D8%A8%D9%84%D9%86%D8%AF%DA%AF%D9%88%D9%87%D8%A7-FreeSync-2560x1440-%DB%B7%DB%B5-%D9%87%D8%B1%D8%AA%D8%B2-DisplayPort-HDMI-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.560Z"
+    "observedAt": "2026-09-05T07:52:57.206Z"
   },
   {
     "id": "torobshop-audio-video-20506e6b258fcb0c",
@@ -3273,7 +3255,25 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.560Z"
+    "observedAt": "2026-09-05T07:52:57.206Z"
+  },
+  {
+    "id": "torobshop-audio-video-b93b2b7b8a52ead7",
+    "productId": "torobshop-b93b2b7b8a52ead7",
+    "name": "فیلیپس ۲۷۵V8LA - مانیتور ۲۷ اینچی QHD، بلندگوها، FreeSync (2560x1440، ۷۵ هرتز، DisplayPort، HDMI) مشکی",
+    "brand": "",
+    "model": "فیلیپس ۲۷۵V8LA - مانیتور ۲۷ اینچی QHD، بلندگوها، FreeSync (2560x1440، ۷۵ هرتز، DisplayPort، HDMI) مشکی",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 50566000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%DB%B2%DB%B7%DB%B5V8LA-%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%DB%B2%DB%B7-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-QHD-%D8%A8%D9%84%D9%86%D8%AF%DA%AF%D9%88%D9%87%D8%A7-FreeSync-2560x1440-%DB%B7%DB%B5-%D9%87%D8%B1%D8%AA%D8%B2-DisplayPort-HDMI-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.206Z"
   },
   {
     "id": "torobshop-audio-video-9f1357a1a5ec15c3",
@@ -3291,7 +3291,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.560Z"
+    "observedAt": "2026-09-05T07:52:57.206Z"
   },
   {
     "id": "torobshop-audio-video-469010b14dce1518",
@@ -3309,7 +3309,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.560Z"
+    "observedAt": "2026-09-05T07:52:57.206Z"
   },
   {
     "id": "torobshop-audio-video-d622f60b84a25c29",
@@ -3327,61 +3327,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.560Z"
-  },
-  {
-    "id": "torobshop-audio-video-8ad1b620c2984c64",
-    "productId": "torobshop-8ad1b620c2984c64",
-    "name": "فیلیپس 27E1N1600AE - مانیتور 27 اینچی QHD، بلندگوها، قابلیت تنظیم ارتفاع (2560x1440، 100 هرتز، HDMI 1.4، USB-C (65W PD)، هاب USB) مشکی",
-    "brand": "",
-    "model": "فیلیپس 27E1N1600AE - مانیتور 27 اینچی QHD، بلندگوها، قابلیت تنظیم ارتفاع (2560x1440، 100 هرتز، HDMI 1.4، USB-C (65W PD)، هاب USB) مشکی",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 61238000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-27E1N1600AE-%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-27-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-QHD-%D8%A8%D9%84%D9%86%D8%AF%DA%AF%D9%88%D9%87%D8%A7-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-2560x1440-100-%D9%87%D8%B1%D8%AA%D8%B2-HDMI-1-4-USB-C-65W-PD-%D9%87%D8%A7%D8%A8-USB-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.560Z"
-  },
-  {
-    "id": "torobshop-audio-video-10055e541e3441a4",
-    "productId": "torobshop-10055e541e3441a4",
-    "name": "هدفون رونویسی فیلیپس LFH0334 (بسته ۲ تایی)",
-    "brand": "",
-    "model": "هدفون رونویسی فیلیپس LFH0334 (بسته ۲ تایی)",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 37607000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%87%D8%AF%D9%81%D9%88%D9%86-%D8%B1%D9%88%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-LFH0334-%D8%A8%D8%B3%D8%AA%D9%87-%DB%B2-%D8%AA%D8%A7%DB%8C%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.560Z"
-  },
-  {
-    "id": "torobshop-audio-video-7362b68fe582e1ef",
-    "productId": "torobshop-7362b68fe582e1ef",
-    "name": "مانیتور لمسی ۲۴ اینچی فیلیپس ۲۴۲B9T، قابلیت تنظیم ارتفاع (۱۹۲۰x۱۰۸۰، ۶۰ هرتز، VGA، DVI، HDMI، DisplayPort، هاب USB) مشکی",
-    "brand": "",
-    "model": "مانیتور لمسی ۲۴ اینچی فیلیپس ۲۴۲B9T، قابلیت تنظیم ارتفاع (۱۹۲۰x۱۰۸۰، ۶۰ هرتز، VGA، DVI، HDMI، DisplayPort، هاب USB) مشکی",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 108247000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%84%D9%85%D8%B3%DB%8C-%DB%B2%DB%B4-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%DB%B2%DB%B4%DB%B2B9T-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%DB%B1%DB%B9%DB%B2%DB%B0x%DB%B1%DB%B0%DB%B8%DB%B0-%DB%B6%DB%B0-%D9%87%D8%B1%D8%AA%D8%B2-VGA-DVI-HDMI-DisplayPort-%D9%87%D8%A7%D8%A8-USB-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.560Z"
+    "observedAt": "2026-09-05T07:52:57.206Z"
   },
   {
     "id": "torobshop-audio-video-8cd92a01eb7c25f2",
@@ -3399,7 +3345,25 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.560Z"
+    "observedAt": "2026-09-05T07:52:57.207Z"
+  },
+  {
+    "id": "torobshop-audio-video-8ad1b620c2984c64",
+    "productId": "torobshop-8ad1b620c2984c64",
+    "name": "فیلیپس 27E1N1600AE - مانیتور 27 اینچی QHD، بلندگوها، قابلیت تنظیم ارتفاع (2560x1440، 100 هرتز، HDMI 1.4، USB-C (65W PD)، هاب USB) مشکی",
+    "brand": "",
+    "model": "فیلیپس 27E1N1600AE - مانیتور 27 اینچی QHD، بلندگوها، قابلیت تنظیم ارتفاع (2560x1440، 100 هرتز، HDMI 1.4، USB-C (65W PD)، هاب USB) مشکی",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 61238000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-27E1N1600AE-%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-27-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-QHD-%D8%A8%D9%84%D9%86%D8%AF%DA%AF%D9%88%D9%87%D8%A7-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-2560x1440-100-%D9%87%D8%B1%D8%AA%D8%B2-HDMI-1-4-USB-C-65W-PD-%D9%87%D8%A7%D8%A8-USB-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.207Z"
   },
   {
     "id": "torobshop-audio-video-2aa12aa20262b96c",
@@ -3417,7 +3381,43 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.560Z"
+    "observedAt": "2026-09-05T07:52:57.207Z"
+  },
+  {
+    "id": "torobshop-audio-video-10055e541e3441a4",
+    "productId": "torobshop-10055e541e3441a4",
+    "name": "هدفون رونویسی فیلیپس LFH0334 (بسته ۲ تایی)",
+    "brand": "",
+    "model": "هدفون رونویسی فیلیپس LFH0334 (بسته ۲ تایی)",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 37607000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%87%D8%AF%D9%81%D9%88%D9%86-%D8%B1%D9%88%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-LFH0334-%D8%A8%D8%B3%D8%AA%D9%87-%DB%B2-%D8%AA%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.207Z"
+  },
+  {
+    "id": "torobshop-audio-video-7362b68fe582e1ef",
+    "productId": "torobshop-7362b68fe582e1ef",
+    "name": "مانیتور لمسی ۲۴ اینچی فیلیپس ۲۴۲B9T، قابلیت تنظیم ارتفاع (۱۹۲۰x۱۰۸۰، ۶۰ هرتز، VGA، DVI، HDMI، DisplayPort، هاب USB) مشکی",
+    "brand": "",
+    "model": "مانیتور لمسی ۲۴ اینچی فیلیپس ۲۴۲B9T، قابلیت تنظیم ارتفاع (۱۹۲۰x۱۰۸۰، ۶۰ هرتز، VGA، DVI، HDMI، DisplayPort، هاب USB) مشکی",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 108247000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%84%D9%85%D8%B3%DB%8C-%DB%B2%DB%B4-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%DB%B2%DB%B4%DB%B2B9T-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%DB%B1%DB%B9%DB%B2%DB%B0x%DB%B1%DB%B0%DB%B8%DB%B0-%DB%B6%DB%B0-%D9%87%D8%B1%D8%AA%D8%B2-VGA-DVI-HDMI-DisplayPort-%D9%87%D8%A7%D8%A8-USB-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.207Z"
   },
   {
     "id": "torobshop-audio-video-8b4d268dc0b50dc9",
@@ -3435,25 +3435,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.560Z"
-  },
-  {
-    "id": "torobshop-audio-video-2961f6c161810850",
-    "productId": "torobshop-2961f6c161810850",
-    "name": "مانیتور منحنی ۴۹ اینچی PHILIPS 49B2U6903CH با کیفیت DQHD، وب‌کم، میکروفون، RJ45، قابلیت تنظیم ارتفاع (5120x1440، HDMI، DisplayPort، Thunderbolt 4، هاب USB) مشکی",
-    "brand": "",
-    "model": "مانیتور منحنی ۴۹ اینچی PHILIPS 49B2U6903CH با کیفیت DQHD، وب‌کم، میکروفون، RJ45، قابلیت تنظیم ارتفاع (5120x1440، HDMI، DisplayPort، Thunderbolt 4، هاب USB) مشکی",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 299584000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%85%D9%86%D8%AD%D9%86%DB%8C-%DB%B4%DB%B9-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-PHILIPS-49B2U6903CH-%D8%A8%D8%A7-%DA%A9%DB%8C%D9%81%DB%8C%D8%AA-DQHD-%D9%88%D8%A8-%DA%A9%D9%85-%D9%85%DB%8C%DA%A9%D8%B1%D9%88%D9%81%D9%88%D9%86-RJ45-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-5120x1440-HDMI-DisplayPort-Thunderbolt-4-%D9%87%D8%A7%D8%A8-USB-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.560Z"
+    "observedAt": "2026-09-05T07:52:57.207Z"
   },
   {
     "id": "torobshop-audio-video-712138d0bed8d76a",
@@ -3471,43 +3453,25 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.560Z"
+    "observedAt": "2026-09-05T07:52:57.207Z"
   },
   {
-    "id": "torobshop-audio-video-a0357d058917fff7",
-    "productId": "torobshop-a0357d058917fff7",
-    "name": "مانیتور فیلیپس 252B9 - 25 اینچ WUXGA، قابلیت تنظیم ارتفاع (1900x1200، 60 هرتز، VGA، DVI، HDMI، DisplayPort، هاب USB) مشکی",
+    "id": "torobshop-audio-video-2961f6c161810850",
+    "productId": "torobshop-2961f6c161810850",
+    "name": "مانیتور منحنی ۴۹ اینچی PHILIPS 49B2U6903CH با کیفیت DQHD، وب‌کم، میکروفون، RJ45، قابلیت تنظیم ارتفاع (5120x1440، HDMI، DisplayPort، Thunderbolt 4، هاب USB) مشکی",
     "brand": "",
-    "model": "مانیتور فیلیپس 252B9 - 25 اینچ WUXGA، قابلیت تنظیم ارتفاع (1900x1200، 60 هرتز، VGA، DVI، HDMI، DisplayPort، هاب USB) مشکی",
+    "model": "مانیتور منحنی ۴۹ اینچی PHILIPS 49B2U6903CH با کیفیت DQHD، وب‌کم، میکروفون، RJ45، قابلیت تنظیم ارتفاع (5120x1440، HDMI، DisplayPort، Thunderbolt 4، هاب USB) مشکی",
     "category": "audio-video",
     "subcategory": "تلویزیون",
-    "price": 66828000,
+    "price": 299584000,
     "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-252B9-25-%D8%A7%DB%8C%D9%86%DA%86-WUXGA-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-1900x1200-60-%D9%87%D8%B1%D8%AA%D8%B2-VGA-DVI-HDMI-DisplayPort-%D9%87%D8%A7%D8%A8-USB-%D9%85%D8%B4%DA%A9%DB%8C",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%85%D9%86%D8%AD%D9%86%DB%8C-%DB%B4%DB%B9-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-PHILIPS-49B2U6903CH-%D8%A8%D8%A7-%DA%A9%DB%8C%D9%81%DB%8C%D8%AA-DQHD-%D9%88%D8%A8-%DA%A9%D9%85-%D9%85%DB%8C%DA%A9%D8%B1%D9%88%D9%81%D9%88%D9%86-RJ45-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-5120x1440-HDMI-DisplayPort-Thunderbolt-4-%D9%87%D8%A7%D8%A8-USB-%D9%85%D8%B4%DA%A9%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.560Z"
-  },
-  {
-    "id": "torobshop-audio-video-5219a65546b1a882",
-    "productId": "torobshop-5219a65546b1a882",
-    "name": "مانیتور فیلیپس ۲۷۵B1 - ۲۷ اینچ QHD، قابلیت تنظیم ارتفاع (۲۵۶۰x۱۴۰۰، ۷۵ هرتز، DVI، HDMI، DisplayPort، هاب USB) مشکی",
-    "brand": "",
-    "model": "مانیتور فیلیپس ۲۷۵B1 - ۲۷ اینچ QHD، قابلیت تنظیم ارتفاع (۲۵۶۰x۱۴۰۰، ۷۵ هرتز، DVI، HDMI، DisplayPort، هاب USB) مشکی",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 62255000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%DB%B2%DB%B7%DB%B5B1-%DB%B2%DB%B7-%D8%A7%DB%8C%D9%86%DA%86-QHD-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%DB%B2%DB%B5%DB%B6%DB%B0x%DB%B1%DB%B4%DB%B0%DB%B0-%DB%B7%DB%B5-%D9%87%D8%B1%D8%AA%D8%B2-DVI-HDMI-DisplayPort-%D9%87%D8%A7%D8%A8-USB-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.560Z"
+    "observedAt": "2026-09-05T07:52:57.207Z"
   },
   {
     "id": "torobshop-audio-video-231a8680a663a06f",
@@ -3525,7 +3489,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.560Z"
+    "observedAt": "2026-09-05T07:52:57.207Z"
   },
   {
     "id": "torobshop-audio-video-f6139cf71fa544af",
@@ -3543,25 +3507,25 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.560Z"
+    "observedAt": "2026-09-05T07:52:57.207Z"
   },
   {
-    "id": "torobshop-audio-video-667b222bc82da779",
-    "productId": "torobshop-667b222bc82da779",
-    "name": "مانیتور فیلیپس 242B1G - 24 اینچ FHD سبز، قابلیت تنظیم ارتفاع (1920x1080، 75 هرتز، VGA، DVI، HDMI، DisplayPort، هاب USB) مشکی",
+    "id": "torobshop-audio-video-a0357d058917fff7",
+    "productId": "torobshop-a0357d058917fff7",
+    "name": "مانیتور فیلیپس 252B9 - 25 اینچ WUXGA، قابلیت تنظیم ارتفاع (1900x1200، 60 هرتز، VGA، DVI، HDMI، DisplayPort، هاب USB) مشکی",
     "brand": "",
-    "model": "مانیتور فیلیپس 242B1G - 24 اینچ FHD سبز، قابلیت تنظیم ارتفاع (1920x1080، 75 هرتز، VGA، DVI، HDMI، DisplayPort، هاب USB) مشکی",
+    "model": "مانیتور فیلیپس 252B9 - 25 اینچ WUXGA، قابلیت تنظیم ارتفاع (1900x1200، 60 هرتز، VGA، DVI، HDMI، DisplayPort، هاب USB) مشکی",
     "category": "audio-video",
     "subcategory": "تلویزیون",
-    "price": 57427000,
+    "price": 66828000,
     "currency": "IRT",
     "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-242B1G-24-%D8%A7%DB%8C%D9%86%DA%86-FHD-%D8%B3%D8%A8%D8%B2-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-1920x1080-75-%D9%87%D8%B1%D8%AA%D8%B2-VGA-DVI-HDMI-DisplayPort-%D9%87%D8%A7%D8%A8-USB-%D9%85%D8%B4%DA%A9%DB%8C",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-252B9-25-%D8%A7%DB%8C%D9%86%DA%86-WUXGA-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-1900x1200-60-%D9%87%D8%B1%D8%AA%D8%B2-VGA-DVI-HDMI-DisplayPort-%D9%87%D8%A7%D8%A8-USB-%D9%85%D8%B4%DA%A9%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.560Z"
+    "observedAt": "2026-09-05T07:52:57.207Z"
   },
   {
     "id": "torobshop-audio-video-13177f1a3461cbf8",
@@ -3579,7 +3543,25 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.560Z"
+    "observedAt": "2026-09-05T07:52:57.207Z"
+  },
+  {
+    "id": "torobshop-audio-video-5219a65546b1a882",
+    "productId": "torobshop-5219a65546b1a882",
+    "name": "مانیتور فیلیپس ۲۷۵B1 - ۲۷ اینچ QHD، قابلیت تنظیم ارتفاع (۲۵۶۰x۱۴۰۰، ۷۵ هرتز، DVI، HDMI، DisplayPort، هاب USB) مشکی",
+    "brand": "",
+    "model": "مانیتور فیلیپس ۲۷۵B1 - ۲۷ اینچ QHD، قابلیت تنظیم ارتفاع (۲۵۶۰x۱۴۰۰، ۷۵ هرتز، DVI، HDMI، DisplayPort، هاب USB) مشکی",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 62255000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%DB%B2%DB%B7%DB%B5B1-%DB%B2%DB%B7-%D8%A7%DB%8C%D9%86%DA%86-QHD-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%DB%B2%DB%B5%DB%B6%DB%B0x%DB%B1%DB%B4%DB%B0%DB%B0-%DB%B7%DB%B5-%D9%87%D8%B1%D8%AA%D8%B2-DVI-HDMI-DisplayPort-%D9%87%D8%A7%D8%A8-USB-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.207Z"
   },
   {
     "id": "torobshop-audio-video-2e4aeaf94d879ff9",
@@ -3597,7 +3579,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.560Z"
+    "observedAt": "2026-09-05T07:52:57.207Z"
   },
   {
     "id": "torobshop-audio-video-f241bfdbdc958cdb",
@@ -3615,7 +3597,25 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.560Z"
+    "observedAt": "2026-09-05T07:52:57.207Z"
+  },
+  {
+    "id": "torobshop-audio-video-667b222bc82da779",
+    "productId": "torobshop-667b222bc82da779",
+    "name": "مانیتور فیلیپس 242B1G - 24 اینچ FHD سبز، قابلیت تنظیم ارتفاع (1920x1080، 75 هرتز، VGA، DVI، HDMI، DisplayPort، هاب USB) مشکی",
+    "brand": "",
+    "model": "مانیتور فیلیپس 242B1G - 24 اینچ FHD سبز، قابلیت تنظیم ارتفاع (1920x1080، 75 هرتز، VGA، DVI، HDMI، DisplayPort، هاب USB) مشکی",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 57427000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-242B1G-24-%D8%A7%DB%8C%D9%86%DA%86-FHD-%D8%B3%D8%A8%D8%B2-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-1920x1080-75-%D9%87%D8%B1%D8%AA%D8%B2-VGA-DVI-HDMI-DisplayPort-%D9%87%D8%A7%D8%A8-USB-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.207Z"
   },
   {
     "id": "torobshop-audio-video-2734ee381987f71a",
@@ -3633,25 +3633,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.560Z"
-  },
-  {
-    "id": "torobshop-audio-video-1acb3967a4975e9e",
-    "productId": "torobshop-1acb3967a4975e9e",
-    "name": "مانیتور فیلیپس هلند Philips 276B9 سایز ۲۷ اینچ QHD با داک USB-C و پایه قابل تنظیم",
-    "brand": "",
-    "model": "مانیتور فیلیپس هلند Philips 276B9 سایز ۲۷ اینچ QHD با داک USB-C و پایه قابل تنظیم",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 67081000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-276B9-%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-27-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-QHD-%D8%A8%D8%A7-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-USB-C-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-2560x1440-75-%D9%87%D8%B1%D8%AA%D8%B2-HDMI-DisplayPort-USB-C-%D9%87%D8%A7%D8%A8-USB-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.560Z"
+    "observedAt": "2026-09-05T07:52:57.207Z"
   },
   {
     "id": "torobshop-audio-video-42a978739edad1b3",
@@ -3669,97 +3651,25 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.560Z"
+    "observedAt": "2026-09-05T07:52:57.207Z"
   },
   {
-    "id": "torobshop-audio-video-7400212af3648c0e",
-    "productId": "torobshop-7400212af3648c0e",
-    "name": "مانیتور لمسی عالی فیلیپس 162B9T - 16 اینچ، قابلیت تنظیم ارتفاع (1366x768، 60 هرتز، VGA، DVI، HDMI، DisplayPort، هاب USB) مشکی",
+    "id": "torobshop-audio-video-1acb3967a4975e9e",
+    "productId": "torobshop-1acb3967a4975e9e",
+    "name": "مانیتور فیلیپس هلند Philips 276B9 سایز ۲۷ اینچ QHD با داک USB-C و پایه قابل تنظیم",
     "brand": "",
-    "model": "مانیتور لمسی عالی فیلیپس 162B9T - 16 اینچ، قابلیت تنظیم ارتفاع (1366x768، 60 هرتز، VGA، DVI، HDMI، DisplayPort، هاب USB) مشکی",
+    "model": "مانیتور فیلیپس هلند Philips 276B9 سایز ۲۷ اینچ QHD با داک USB-C و پایه قابل تنظیم",
     "category": "audio-video",
     "subcategory": "تلویزیون",
-    "price": 41927000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%84%D9%85%D8%B3%DB%8C-%D8%B9%D8%A7%D9%84%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-162B9T-16-%D8%A7%DB%8C%D9%86%DA%86-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-1366x768-60-%D9%87%D8%B1%D8%AA%D8%B2-VGA-DVI-HDMI-DisplayPort-%D9%87%D8%A7%D8%A8-USB-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.560Z"
-  },
-  {
-    "id": "torobshop-audio-video-db75e7774c65ead5",
-    "productId": "torobshop-db75e7774c65ead5",
-    "name": "مانیتور ۲۷ اینچی فیلیپس ۲۷۱V8AW با کیفیت Full HD، بلندگوهای داخلی، بدون سوسو زدن (۱۹۲۰x۱۰۸۰، ۷۵ هرتز، VGA، HDMI) سفید",
-    "brand": "",
-    "model": "مانیتور ۲۷ اینچی فیلیپس ۲۷۱V8AW با کیفیت Full HD، بلندگوهای داخلی، بدون سوسو زدن (۱۹۲۰x۱۰۸۰، ۷۵ هرتز، VGA، HDMI) سفید",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 41672000,
+    "price": 67081000,
     "currency": "IRT",
     "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%DB%B2%DB%B7-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%DB%B2%DB%B7%DB%B1V8AW-%D8%A8%D8%A7-%DA%A9%DB%8C%D9%81%DB%8C%D8%AA-Full-HD-%D8%A8%D9%84%D9%86%D8%AF%DA%AF%D9%88%D9%87%D8%A7%DB%8C-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%D8%B3%D9%88%D8%B3%D9%88-%D8%B2%D8%AF%D9%86-%DB%B1%DB%B9%DB%B2%DB%B0x%DB%B1%DB%B0%DB%B8%DB%B0-%DB%B7%DB%B5-%D9%87%D8%B1%D8%AA%D8%B2-VGA-HDMI-%D8%B3%D9%81%DB%8C%D8%AF",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-276B9-%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-27-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-QHD-%D8%A8%D8%A7-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-USB-C-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-2560x1440-75-%D9%87%D8%B1%D8%AA%D8%B2-HDMI-DisplayPort-USB-C-%D9%87%D8%A7%D8%A8-USB-%D9%85%D8%B4%DA%A9%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.560Z"
-  },
-  {
-    "id": "torobshop-audio-video-b59055b4a9ca5ed0",
-    "productId": "torobshop-b59055b4a9ca5ed0",
-    "name": "مانیتور ۲۴ اینچی فیلیپس ۲۴۱V8AW با کیفیت Full HD، بلندگوهای داخلی، بدون سوسو زدن (۱۹۲۰x۱۰۸۰، ۷۵ هرتز، VGA، HDMI) سفید",
-    "brand": "",
-    "model": "مانیتور ۲۴ اینچی فیلیپس ۲۴۱V8AW با کیفیت Full HD، بلندگوهای داخلی، بدون سوسو زدن (۱۹۲۰x۱۰۸۰، ۷۵ هرتز، VGA، HDMI) سفید",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 34304000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%DB%B2%DB%B4-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%DB%B2%DB%B4%DB%B1V8AW-%D8%A8%D8%A7-%DA%A9%DB%8C%D9%81%DB%8C%D8%AA-Full-HD-%D8%A8%D9%84%D9%86%D8%AF%DA%AF%D9%88%D9%87%D8%A7%DB%8C-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%D8%B3%D9%88%D8%B3%D9%88-%D8%B2%D8%AF%D9%86-%DB%B1%DB%B9%DB%B2%DB%B0x%DB%B1%DB%B0%DB%B8%DB%B0-%DB%B7%DB%B5-%D9%87%D8%B1%D8%AA%D8%B2-VGA-HDMI-%D8%B3%D9%81%DB%8C%D8%AF",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.560Z"
-  },
-  {
-    "id": "torobshop-audio-video-d1db9fdb0a981eb7",
-    "productId": "torobshop-d1db9fdb0a981eb7",
-    "name": "مانیتور فیلیپس ۲۷E1N1800AE – مانیتور ۲۷ اینچی Ultra HD، بلندگوها، قابلیت تنظیم ارتفاع، HDR10 (3840x2160، ۶۰ هرتز، HDMI 2.0، DisplayPort 1.4) مشکی",
-    "brand": "",
-    "model": "مانیتور فیلیپس ۲۷E1N1800AE – مانیتور ۲۷ اینچی Ultra HD، بلندگوها، قابلیت تنظیم ارتفاع، HDR10 (3840x2160، ۶۰ هرتز، HDMI 2.0، DisplayPort 1.4) مشکی",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 60729000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%DB%B2%DB%B7E1N1800AE-%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%DB%B2%DB%B7-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-Ultra-HD-%D8%A8%D9%84%D9%86%D8%AF%DA%AF%D9%88%D9%87%D8%A7-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-HDR10-3840x2160-%DB%B6%DB%B0-%D9%87%D8%B1%D8%AA%D8%B2-HDMI-2-0-DisplayPort-1-4-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.560Z"
-  },
-  {
-    "id": "torobshop-audio-video-caf67fb53869dc8d",
-    "productId": "torobshop-caf67fb53869dc8d",
-    "name": "مانیتور فیلیپس 275S1AE - 27 اینچ QHD، قابلیت تنظیم ارتفاع (2560x1440، 75 هرتز، DVI، HDMI، DisplayPort) مشکی",
-    "brand": "",
-    "model": "مانیتور فیلیپس 275S1AE - 27 اینچ QHD، قابلیت تنظیم ارتفاع (2560x1440، 75 هرتز، DVI، HDMI، DisplayPort) مشکی",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 62255000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-275S1AE-27-%D8%A7%DB%8C%D9%86%DA%86-QHD-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-2560x1440-75-%D9%87%D8%B1%D8%AA%D8%B2-DVI-HDMI-DisplayPort-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.560Z"
+    "observedAt": "2026-09-05T07:52:57.207Z"
   },
   {
     "id": "torobshop-audio-video-226a6dfcab93ffe2",
@@ -3777,7 +3687,97 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.560Z"
+    "observedAt": "2026-09-05T07:52:57.207Z"
+  },
+  {
+    "id": "torobshop-audio-video-7400212af3648c0e",
+    "productId": "torobshop-7400212af3648c0e",
+    "name": "مانیتور لمسی عالی فیلیپس 162B9T - 16 اینچ، قابلیت تنظیم ارتفاع (1366x768، 60 هرتز، VGA، DVI، HDMI، DisplayPort، هاب USB) مشکی",
+    "brand": "",
+    "model": "مانیتور لمسی عالی فیلیپس 162B9T - 16 اینچ، قابلیت تنظیم ارتفاع (1366x768، 60 هرتز، VGA، DVI، HDMI، DisplayPort، هاب USB) مشکی",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 41927000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%84%D9%85%D8%B3%DB%8C-%D8%B9%D8%A7%D9%84%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-162B9T-16-%D8%A7%DB%8C%D9%86%DA%86-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-1366x768-60-%D9%87%D8%B1%D8%AA%D8%B2-VGA-DVI-HDMI-DisplayPort-%D9%87%D8%A7%D8%A8-USB-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.207Z"
+  },
+  {
+    "id": "torobshop-audio-video-db75e7774c65ead5",
+    "productId": "torobshop-db75e7774c65ead5",
+    "name": "مانیتور ۲۷ اینچی فیلیپس ۲۷۱V8AW با کیفیت Full HD، بلندگوهای داخلی، بدون سوسو زدن (۱۹۲۰x۱۰۸۰، ۷۵ هرتز، VGA، HDMI) سفید",
+    "brand": "",
+    "model": "مانیتور ۲۷ اینچی فیلیپس ۲۷۱V8AW با کیفیت Full HD، بلندگوهای داخلی، بدون سوسو زدن (۱۹۲۰x۱۰۸۰، ۷۵ هرتز، VGA، HDMI) سفید",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 41672000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%DB%B2%DB%B7-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%DB%B2%DB%B7%DB%B1V8AW-%D8%A8%D8%A7-%DA%A9%DB%8C%D9%81%DB%8C%D8%AA-Full-HD-%D8%A8%D9%84%D9%86%D8%AF%DA%AF%D9%88%D9%87%D8%A7%DB%8C-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%D8%B3%D9%88%D8%B3%D9%88-%D8%B2%D8%AF%D9%86-%DB%B1%DB%B9%DB%B2%DB%B0x%DB%B1%DB%B0%DB%B8%DB%B0-%DB%B7%DB%B5-%D9%87%D8%B1%D8%AA%D8%B2-VGA-HDMI-%D8%B3%D9%81%DB%8C%D8%AF",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.207Z"
+  },
+  {
+    "id": "torobshop-audio-video-b59055b4a9ca5ed0",
+    "productId": "torobshop-b59055b4a9ca5ed0",
+    "name": "مانیتور ۲۴ اینچی فیلیپس ۲۴۱V8AW با کیفیت Full HD، بلندگوهای داخلی، بدون سوسو زدن (۱۹۲۰x۱۰۸۰، ۷۵ هرتز، VGA، HDMI) سفید",
+    "brand": "",
+    "model": "مانیتور ۲۴ اینچی فیلیپس ۲۴۱V8AW با کیفیت Full HD، بلندگوهای داخلی، بدون سوسو زدن (۱۹۲۰x۱۰۸۰، ۷۵ هرتز، VGA، HDMI) سفید",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 34304000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%DB%B2%DB%B4-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%DB%B2%DB%B4%DB%B1V8AW-%D8%A8%D8%A7-%DA%A9%DB%8C%D9%81%DB%8C%D8%AA-Full-HD-%D8%A8%D9%84%D9%86%D8%AF%DA%AF%D9%88%D9%87%D8%A7%DB%8C-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%D8%B3%D9%88%D8%B3%D9%88-%D8%B2%D8%AF%D9%86-%DB%B1%DB%B9%DB%B2%DB%B0x%DB%B1%DB%B0%DB%B8%DB%B0-%DB%B7%DB%B5-%D9%87%D8%B1%D8%AA%D8%B2-VGA-HDMI-%D8%B3%D9%81%DB%8C%D8%AF",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.207Z"
+  },
+  {
+    "id": "torobshop-audio-video-d1db9fdb0a981eb7",
+    "productId": "torobshop-d1db9fdb0a981eb7",
+    "name": "مانیتور فیلیپس ۲۷E1N1800AE – مانیتور ۲۷ اینچی Ultra HD، بلندگوها، قابلیت تنظیم ارتفاع، HDR10 (3840x2160، ۶۰ هرتز، HDMI 2.0، DisplayPort 1.4) مشکی",
+    "brand": "",
+    "model": "مانیتور فیلیپس ۲۷E1N1800AE – مانیتور ۲۷ اینچی Ultra HD، بلندگوها، قابلیت تنظیم ارتفاع، HDR10 (3840x2160، ۶۰ هرتز، HDMI 2.0، DisplayPort 1.4) مشکی",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 60729000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%DB%B2%DB%B7E1N1800AE-%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%DB%B2%DB%B7-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-Ultra-HD-%D8%A8%D9%84%D9%86%D8%AF%DA%AF%D9%88%D9%87%D8%A7-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-HDR10-3840x2160-%DB%B6%DB%B0-%D9%87%D8%B1%D8%AA%D8%B2-HDMI-2-0-DisplayPort-1-4-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.207Z"
+  },
+  {
+    "id": "torobshop-audio-video-caf67fb53869dc8d",
+    "productId": "torobshop-caf67fb53869dc8d",
+    "name": "مانیتور فیلیپس 275S1AE - 27 اینچ QHD، قابلیت تنظیم ارتفاع (2560x1440، 75 هرتز، DVI، HDMI، DisplayPort) مشکی",
+    "brand": "",
+    "model": "مانیتور فیلیپس 275S1AE - 27 اینچ QHD، قابلیت تنظیم ارتفاع (2560x1440، 75 هرتز، DVI، HDMI، DisplayPort) مشکی",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 62255000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-275S1AE-27-%D8%A7%DB%8C%D9%86%DA%86-QHD-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-2560x1440-75-%D9%87%D8%B1%D8%AA%D8%B2-DVI-HDMI-DisplayPort-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.207Z"
   },
   {
     "id": "torobshop-audio-video-34bb04f7987b2eb8",
@@ -3795,43 +3795,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.560Z"
-  },
-  {
-    "id": "torobshop-audio-video-9b16b6ebae742a59",
-    "productId": "torobshop-9b16b6ebae742a59",
-    "name": "تلویزیون هوشمند Philips Ambilight 65OLED759 4K OLED - صفحه نمایش 65 اینچی با P5 AI Perfect Picture Ultra HD، سیستم عامل Titan، Dolby Vision و Dolby Atmos، با Alexa و Google Assistant کار می‌کند.",
-    "brand": "گوگل",
-    "model": "تلویزیون هوشمند Philips Ambilight 65OLED759 4K OLED - صفحه نمایش 65 اینچی با P5 AI Perfect Picture Ultra HD، سیستم عامل Titan، Dolby Vision و Dolby Atmos، با Alexa و Google Assistant کار می‌کند.",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 406560000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-Philips-Ambilight-65OLED759-4K-OLED-%D8%B5%D9%81%D8%AD%D9%87-%D9%86%D9%85%D8%A7%DB%8C%D8%B4-65-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D8%A8%D8%A7-P5-AI-Perfect-Picture-Ultra-HD-%D8%B3%DB%8C%D8%B3%D8%AA%D9%85-%D8%B9%D8%A7%D9%85%D9%84-Titan-Dolby-Vision-%D9%88-Dolby-Atmos-%D8%A8%D8%A7-Alexa-%D9%88-Google-Assistant-%DA%A9%D8%A7%D8%B1-%D9%85%DB%8C-%DA%A9%D9%86%D8%AF",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.560Z"
-  },
-  {
-    "id": "torobshop-audio-video-1ac684a13e625548",
-    "productId": "torobshop-1ac684a13e625548",
-    "name": "مانیتور فیلیپس سری 27B1N3800-3000 - LED - 68.6 سانتی‌متر (27 اینچ) - 3840 x 2160 4K UHD (2160p) @ 60 هرتز - IPS - 350 cd/m² - 1000:1-4 ms - 2xHDMI, DisplayPort - Lautsprecher - Schwarz",
-    "brand": "",
-    "model": "مانیتور فیلیپس سری 27B1N3800-3000 - LED - 68.6 سانتی‌متر (27 اینچ) - 3840 x 2160 4K UHD (2160p) @ 60 هرتز - IPS - 350 cd/m² - 1000:1-4 ms - 2xHDMI, DisplayPort - Lautsprecher - Schwarz",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 75722000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%B3%D8%B1%DB%8C-27B1N3800-3000-LED-68-6-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-27-%D8%A7%DB%8C%D9%86%DA%86-3840-x-2160-4K-UHD-2160p-60-%D9%87%D8%B1%D8%AA%D8%B2-IPS-350-cd-m-1000-1-4-ms-2xHDMI-DisplayPort-Lautsprecher-Schwarz",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.561Z"
+    "observedAt": "2026-09-05T07:52:57.207Z"
   },
   {
     "id": "torobshop-audio-video-1b01f5a6fb5eb1c5",
@@ -3849,43 +3813,43 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.561Z"
+    "observedAt": "2026-09-05T07:52:57.207Z"
   },
   {
-    "id": "torobshop-audio-video-0a56e024ea7c3e6c",
-    "productId": "torobshop-0a56e024ea7c3e6c",
-    "name": "مانیتور فیلیپس 222V8LA - 22 اینچ فول اچ‌دی Zoll، قابلیت همگام‌سازی تطبیقی (1920x1080، 75 هرتز، VGA، HDMI، DisplayPort) ساخت شرکت شوارتز",
-    "brand": "",
-    "model": "مانیتور فیلیپس 222V8LA - 22 اینچ فول اچ‌دی Zoll، قابلیت همگام‌سازی تطبیقی (1920x1080، 75 هرتز، VGA، HDMI، DisplayPort) ساخت شرکت شوارتز",
+    "id": "torobshop-audio-video-9b16b6ebae742a59",
+    "productId": "torobshop-9b16b6ebae742a59",
+    "name": "تلویزیون هوشمند Philips Ambilight 65OLED759 4K OLED - صفحه نمایش 65 اینچی با P5 AI Perfect Picture Ultra HD، سیستم عامل Titan، Dolby Vision و Dolby Atmos، با Alexa و Google Assistant کار می‌کند.",
+    "brand": "گوگل",
+    "model": "تلویزیون هوشمند Philips Ambilight 65OLED759 4K OLED - صفحه نمایش 65 اینچی با P5 AI Perfect Picture Ultra HD، سیستم عامل Titan، Dolby Vision و Dolby Atmos، با Alexa و Google Assistant کار می‌کند.",
     "category": "audio-video",
     "subcategory": "تلویزیون",
-    "price": 29729000,
+    "price": 406560000,
     "currency": "IRT",
     "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-222V8LA-22-%D8%A7%DB%8C%D9%86%DA%86-%D9%81%D9%88%D9%84-%D8%A7%DA%86-%D8%AF%DB%8C-Zoll-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D9%87%D9%85%DA%AF%D8%A7%D9%85-%D8%B3%D8%A7%D8%B2%DB%8C-%D8%AA%D8%B7%D8%A8%DB%8C%D9%82%DB%8C-1920x1080-75-%D9%87%D8%B1%D8%AA%D8%B2-VGA-HDMI-DisplayPort-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%B4%D8%B1%DA%A9%D8%AA-%D8%B4%D9%88%D8%A7%D8%B1%D8%AA%D8%B2",
+    "productUrl": "https://torobshop.com/products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-Philips-Ambilight-65OLED759-4K-OLED-%D8%B5%D9%81%D8%AD%D9%87-%D9%86%D9%85%D8%A7%DB%8C%D8%B4-65-%D8%A7%DB%8C%D9%86%DA%86%DB%8C-%D8%A8%D8%A7-P5-AI-Perfect-Picture-Ultra-HD-%D8%B3%DB%8C%D8%B3%D8%AA%D9%85-%D8%B9%D8%A7%D9%85%D9%84-Titan-Dolby-Vision-%D9%88-Dolby-Atmos-%D8%A8%D8%A7-Alexa-%D9%88-Google-Assistant-%DA%A9%D8%A7%D8%B1-%D9%85%DB%8C-%DA%A9%D9%86%D8%AF",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.561Z"
+    "observedAt": "2026-09-05T07:52:57.207Z"
   },
   {
-    "id": "torobshop-audio-video-0ef7eb89998918af",
-    "productId": "torobshop-0ef7eb89998918af",
-    "name": "مانیتور فیلیپس 271E1SCA، 27 اینچ منحنی، FHD، 75 هرتز، پنل VA، زمان پاسخ 4 میلی‌ثانیه، FreeSync، بلندگوها، (1920x1080 HDMI 1) مشکی",
+    "id": "torobshop-audio-video-1ac684a13e625548",
+    "productId": "torobshop-1ac684a13e625548",
+    "name": "مانیتور فیلیپس سری 27B1N3800-3000 - LED - 68.6 سانتی‌متر (27 اینچ) - 3840 x 2160 4K UHD (2160p) @ 60 هرتز - IPS - 350 cd/m² - 1000:1-4 ms - 2xHDMI, DisplayPort - Lautsprecher - Schwarz",
     "brand": "",
-    "model": "مانیتور فیلیپس 271E1SCA، 27 اینچ منحنی، FHD، 75 هرتز، پنل VA، زمان پاسخ 4 میلی‌ثانیه، FreeSync، بلندگوها، (1920x1080 HDMI 1) مشکی",
+    "model": "مانیتور فیلیپس سری 27B1N3800-3000 - LED - 68.6 سانتی‌متر (27 اینچ) - 3840 x 2160 4K UHD (2160p) @ 60 هرتز - IPS - 350 cd/m² - 1000:1-4 ms - 2xHDMI, DisplayPort - Lautsprecher - Schwarz",
     "category": "audio-video",
     "subcategory": "تلویزیون",
-    "price": 50058000,
+    "price": 75722000,
     "currency": "IRT",
     "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-271E1SCA-27-%D8%A7%DB%8C%D9%86%DA%86-%D9%85%D9%86%D8%AD%D9%86%DB%8C-FHD-75-%D9%87%D8%B1%D8%AA%D8%B2-%D9%BE%D9%86%D9%84-VA-%D8%B2%D9%85%D8%A7%D9%86-%D9%BE%D8%A7%D8%B3%D8%AE-4-%D9%85%DB%8C%D9%84%DB%8C-%D8%AB%D8%A7%D9%86%DB%8C%D9%87-FreeSync-%D8%A8%D9%84%D9%86%D8%AF%DA%AF%D9%88%D9%87%D8%A7-1920x1080-HDMI-1-%D9%85%D8%B4%DA%A9%DB%8C",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%B3%D8%B1%DB%8C-27B1N3800-3000-LED-68-6-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-27-%D8%A7%DB%8C%D9%86%DA%86-3840-x-2160-4K-UHD-2160p-60-%D9%87%D8%B1%D8%AA%D8%B2-IPS-350-cd-m-1000-1-4-ms-2xHDMI-DisplayPort-Lautsprecher-Schwarz",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.561Z"
+    "observedAt": "2026-09-05T07:52:57.207Z"
   },
   {
     "id": "torobshop-audio-video-7406803b18ab5cc6",
@@ -3903,7 +3867,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.561Z"
+    "observedAt": "2026-09-05T07:52:57.207Z"
   },
   {
     "id": "torobshop-audio-video-28fa9f296d3edd2c",
@@ -3921,7 +3885,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.561Z"
+    "observedAt": "2026-09-05T07:52:57.207Z"
   },
   {
     "id": "torobshop-audio-video-176747b2a6b3c8bf",
@@ -3939,7 +3903,43 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.561Z"
+    "observedAt": "2026-09-05T07:52:57.207Z"
+  },
+  {
+    "id": "torobshop-audio-video-0a56e024ea7c3e6c",
+    "productId": "torobshop-0a56e024ea7c3e6c",
+    "name": "مانیتور فیلیپس 222V8LA - 22 اینچ فول اچ‌دی Zoll، قابلیت همگام‌سازی تطبیقی (1920x1080، 75 هرتز، VGA، HDMI، DisplayPort) ساخت شرکت شوارتز",
+    "brand": "",
+    "model": "مانیتور فیلیپس 222V8LA - 22 اینچ فول اچ‌دی Zoll، قابلیت همگام‌سازی تطبیقی (1920x1080، 75 هرتز، VGA، HDMI، DisplayPort) ساخت شرکت شوارتز",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 29729000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-222V8LA-22-%D8%A7%DB%8C%D9%86%DA%86-%D9%81%D9%88%D9%84-%D8%A7%DA%86-%D8%AF%DB%8C-Zoll-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D9%87%D9%85%DA%AF%D8%A7%D9%85-%D8%B3%D8%A7%D8%B2%DB%8C-%D8%AA%D8%B7%D8%A8%DB%8C%D9%82%DB%8C-1920x1080-75-%D9%87%D8%B1%D8%AA%D8%B2-VGA-HDMI-DisplayPort-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%B4%D8%B1%DA%A9%D8%AA-%D8%B4%D9%88%D8%A7%D8%B1%D8%AA%D8%B2",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.207Z"
+  },
+  {
+    "id": "torobshop-audio-video-0ef7eb89998918af",
+    "productId": "torobshop-0ef7eb89998918af",
+    "name": "مانیتور فیلیپس 271E1SCA، 27 اینچ منحنی، FHD، 75 هرتز، پنل VA، زمان پاسخ 4 میلی‌ثانیه، FreeSync، بلندگوها، (1920x1080 HDMI 1) مشکی",
+    "brand": "",
+    "model": "مانیتور فیلیپس 271E1SCA، 27 اینچ منحنی، FHD، 75 هرتز، پنل VA، زمان پاسخ 4 میلی‌ثانیه، FreeSync، بلندگوها، (1920x1080 HDMI 1) مشکی",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 50058000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-271E1SCA-27-%D8%A7%DB%8C%D9%86%DA%86-%D9%85%D9%86%D8%AD%D9%86%DB%8C-FHD-75-%D9%87%D8%B1%D8%AA%D8%B2-%D9%BE%D9%86%D9%84-VA-%D8%B2%D9%85%D8%A7%D9%86-%D9%BE%D8%A7%D8%B3%D8%AE-4-%D9%85%DB%8C%D9%84%DB%8C-%D8%AB%D8%A7%D9%86%DB%8C%D9%87-FreeSync-%D8%A8%D9%84%D9%86%D8%AF%DA%AF%D9%88%D9%87%D8%A7-1920x1080-HDMI-1-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.207Z"
   },
   {
     "id": "torobshop-audio-video-1123da8edef7210f",
@@ -3957,7 +3957,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.561Z"
+    "observedAt": "2026-09-05T07:52:57.207Z"
   },
   {
     "id": "torobshop-audio-video-f2475d629ba82cb9",
@@ -3975,7 +3975,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.561Z"
+    "observedAt": "2026-09-05T07:52:57.207Z"
   },
   {
     "id": "torobshop-audio-video-4fcaa05ae27e136c",
@@ -3993,7 +3993,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.561Z"
+    "observedAt": "2026-09-05T07:52:57.207Z"
   },
   {
     "id": "torobshop-audio-video-28731ba0cbc018f8",
@@ -4011,7 +4011,907 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.561Z"
+    "observedAt": "2026-09-05T07:52:57.207Z"
+  },
+  {
+    "id": "torobshop-audio-video-725f8385c6d5a7e5",
+    "productId": "torobshop-725f8385c6d5a7e5",
+    "name": "ماهیتابه استیل ضد زنگ نینجا فودی زیرو استیک 30 سانتی‌متر [C60030EU] پوشش نچسب، سازگار با اجاق القایی، قابل شستشو در ماشین ظرفشویی",
+    "brand": "",
+    "model": "ماهیتابه استیل ضد زنگ نینجا فودی زیرو استیک 30 سانتی‌متر [C60030EU] پوشش نچسب، سازگار با اجاق القایی، قابل شستشو در ماشین ظرفشویی",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 19565000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%81%D9%88%D8%AF%DB%8C-%D8%B2%DB%8C%D8%B1%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-30-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-C60030EU-%D9%BE%D9%88%D8%B4%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.207Z"
+  },
+  {
+    "id": "torobshop-audio-video-0bb955aeed702a07",
+    "productId": "torobshop-0bb955aeed702a07",
+    "name": "ماهیتابه استیل ضد زنگ نینجا فودی زیرو استیک ۲۸ سانتی‌متر، بادوام، نچسب، سازگار با اجاق القایی، قابل استفاده در فر و ماشین ظرفشویی، مدل C60028EU",
+    "brand": "",
+    "model": "ماهیتابه استیل ضد زنگ نینجا فودی زیرو استیک ۲۸ سانتی‌متر، بادوام، نچسب، سازگار با اجاق القایی، قابل استفاده در فر و ماشین ظرفشویی، مدل C60028EU",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 24647000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%81%D9%88%D8%AF%DB%8C-%D8%B2%DB%8C%D8%B1%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-%DB%B2%DB%B8-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A8%D8%A7%D8%AF%D9%88%D8%A7%D9%85-%D9%86%DA%86%D8%B3%D8%A8-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%81%D8%B1-%D9%88-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D9%85%D8%AF%D9%84-C60028EU",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.207Z"
+  },
+  {
+    "id": "torobshop-audio-video-452caddaba905dc5",
+    "productId": "torobshop-452caddaba905dc5",
+    "name": "ماهیتابه استیل ضد زنگ نینجا فودی زیرو استیک ۲۴ سانتی‌متر، بادوام، نچسب، مناسب برای استفاده با اجاق القایی، قابل استفاده در فر و ماشین ظرفشویی، مدل C60024EU",
+    "brand": "",
+    "model": "ماهیتابه استیل ضد زنگ نینجا فودی زیرو استیک ۲۴ سانتی‌متر، بادوام، نچسب، مناسب برای استفاده با اجاق القایی، قابل استفاده در فر و ماشین ظرفشویی، مدل C60024EU",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 19057000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%81%D9%88%D8%AF%DB%8C-%D8%B2%DB%8C%D8%B1%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-%DB%B2%DB%B4-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A8%D8%A7%D8%AF%D9%88%D8%A7%D9%85-%D9%86%DA%86%D8%B3%D8%A8-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%81%D8%B1-%D9%88-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D9%85%D8%AF%D9%84-C60024EU",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.207Z"
+  },
+  {
+    "id": "torobshop-audio-video-1ee86f1c9c267ad6",
+    "productId": "torobshop-1ee86f1c9c267ad6",
+    "name": "سرویس قابلمه و ماهیتابه نینجا CK89010BF، نچسب، با طول عمر بالا، سرویس پخت و پز سرامیکی، 10 تکه، بدون PFOA، مناسب برای فر تا دمای 176 درجه سانتیگراد، سازگار با القایی، 10 تکه",
+    "brand": "",
+    "model": "سرویس قابلمه و ماهیتابه نینجا CK89010BF، نچسب، با طول عمر بالا، سرویس پخت و پز سرامیکی، 10 تکه، بدون PFOA، مناسب برای فر تا دمای 176 درجه سانتیگراد، سازگار با القایی، 10 تکه",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 78516000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-CK89010BF-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%A7-%D8%B7%D9%88%D9%84-%D8%B9%D9%85%D8%B1-%D8%A8%D8%A7%D9%84%D8%A7-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%BE%D8%AE%D8%AA-%D9%88-%D9%BE%D8%B2-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-10-%D8%AA%DA%A9%D9%87-%D8%A8%D8%AF%D9%88%D9%86-PFOA-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-176-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-10-%D8%AA%DA%A9%D9%87",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.207Z"
+  },
+  {
+    "id": "torobshop-audio-video-1a31c0998951f872",
+    "productId": "torobshop-1a31c0998951f872",
+    "name": "سرویس قابلمه و تابه استیل ضد زنگ 5 تکه Ninja Foodi ZEROSTICK [C65000EU] نچسب، سازگار با القایی، قابل شستشو در ماشین ظرفشویی",
+    "brand": "",
+    "model": "سرویس قابلمه و تابه استیل ضد زنگ 5 تکه Ninja Foodi ZEROSTICK [C65000EU] نچسب، سازگار با القایی، قابل شستشو در ماشین ظرفشویی",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 26426000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-5-%D8%AA%DA%A9%D9%87-Ninja-Foodi-ZEROSTICK-C65000EU-%D9%86%DA%86%D8%B3%D8%A8-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.207Z"
+  },
+  {
+    "id": "torobshop-audio-video-b1ab7543e51d9a1e",
+    "productId": "torobshop-b1ab7543e51d9a1e",
+    "name": "قابلمه شیر استیل ضد زنگ نینجا فودی زیرو استیک، ۱۴ سانتی‌متر، بادوام، نچسب، مناسب برای استفاده با اجاق القایی، قابل استفاده در فر و ماشین ظرفشویی، مدل C60214EU",
+    "brand": "",
+    "model": "قابلمه شیر استیل ضد زنگ نینجا فودی زیرو استیک، ۱۴ سانتی‌متر، بادوام، نچسب، مناسب برای استفاده با اجاق القایی، قابل استفاده در فر و ماشین ظرفشویی، مدل C60214EU",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 12196000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%B4%DB%8C%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%81%D9%88%D8%AF%DB%8C-%D8%B2%DB%8C%D8%B1%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-%DB%B1%DB%B4-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A8%D8%A7%D8%AF%D9%88%D8%A7%D9%85-%D9%86%DA%86%D8%B3%D8%A8-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%81%D8%B1-%D9%88-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D9%85%D8%AF%D9%84-C60214EU",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.207Z"
+  },
+  {
+    "id": "torobshop-audio-video-75c5c1f7dd89f660",
+    "productId": "torobshop-75c5c1f7dd89f660",
+    "name": "سرویس ماهیتابه دو تکه استیل ضد زنگ Ninja Foodi ZEROSTICK (20 سانتی متر / 28 سانتی متر) [C62000EU] نچسب، سازگار با اجاق القایی، قابل شستشو در ماشین ظرفشویی",
+    "brand": "",
+    "model": "سرویس ماهیتابه دو تکه استیل ضد زنگ Ninja Foodi ZEROSTICK (20 سانتی متر / 28 سانتی متر) [C62000EU] نچسب، سازگار با اجاق القایی، قابل شستشو در ماشین ظرفشویی",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 33033000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%AF%D9%88-%D8%AA%DA%A9%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-Ninja-Foodi-ZEROSTICK-20-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-28-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-C62000EU-%D9%86%DA%86%D8%B3%D8%A8-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.207Z"
+  },
+  {
+    "id": "torobshop-audio-video-1bc7d98427271752",
+    "productId": "torobshop-1bc7d98427271752",
+    "name": "ماهیتابه استیل ضد زنگ نینجا فودی زیرو استیک ۲۶ سانتی‌متر، بادوام، نچسب، مناسب برای استفاده با اجاق القایی، قابل استفاده در فر و ماشین ظرفشویی، مدل C60126EU",
+    "brand": "",
+    "model": "ماهیتابه استیل ضد زنگ نینجا فودی زیرو استیک ۲۶ سانتی‌متر، بادوام، نچسب، مناسب برای استفاده با اجاق القایی، قابل استفاده در فر و ماشین ظرفشویی، مدل C60126EU",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 36844000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%81%D9%88%D8%AF%DB%8C-%D8%B2%DB%8C%D8%B1%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-%DB%B2%DB%B6-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A8%D8%A7%D8%AF%D9%88%D8%A7%D9%85-%D9%86%DA%86%D8%B3%D8%A8-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%81%D8%B1-%D9%88-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D9%85%D8%AF%D9%84-C60126EU",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.207Z"
+  },
+  {
+    "id": "torobshop-audio-video-db326c19924c1c83",
+    "productId": "torobshop-db326c19924c1c83",
+    "name": "ماهیتابه استیل ضد زنگ نینجا فودی زیرو استیک 20 سانتی‌متر، بادوام، نچسب، سازگار با اجاق القایی، قابل استفاده در فر و ماشین ظرفشویی، مدل C60020EU",
+    "brand": "",
+    "model": "ماهیتابه استیل ضد زنگ نینجا فودی زیرو استیک 20 سانتی‌متر، بادوام، نچسب، سازگار با اجاق القایی، قابل استفاده در فر و ماشین ظرفشویی، مدل C60020EU",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 23377000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%81%D9%88%D8%AF%DB%8C-%D8%B2%DB%8C%D8%B1%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-20-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A8%D8%A7%D8%AF%D9%88%D8%A7%D9%85-%D9%86%DA%86%D8%B3%D8%A8-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%81%D8%B1-%D9%88-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D9%85%D8%AF%D9%84-C60020EU",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.207Z"
+  },
+  {
+    "id": "torobshop-audio-video-38b570ec98372839",
+    "productId": "torobshop-38b570ec98372839",
+    "name": "سرویس ماهیتابه دو تکه استیل ضد زنگ نینجا فودی زیرو استیک، 24 سانتی‌متر/28 سانتی‌متر، بادوام، نچسب، سازگار با اجاق‌های القایی، قابل استفاده در فر و ماشین ظرفشویی، مدل C62200EU",
+    "brand": "",
+    "model": "سرویس ماهیتابه دو تکه استیل ضد زنگ نینجا فودی زیرو استیک، 24 سانتی‌متر/28 سانتی‌متر، بادوام، نچسب، سازگار با اجاق‌های القایی، قابل استفاده در فر و ماشین ظرفشویی، مدل C62200EU",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 33795000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%AF%D9%88-%D8%AA%DA%A9%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%81%D9%88%D8%AF%DB%8C-%D8%B2%DB%8C%D8%B1%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-28-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A8%D8%A7%D8%AF%D9%88%D8%A7%D9%85-%D9%86%DA%86%D8%B3%D8%A8-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D9%87%D8%A7%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%81%D8%B1-%D9%88-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D9%85%D8%AF%D9%84-C62200EU",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.207Z"
+  },
+  {
+    "id": "torobshop-audio-video-51525e00ba66dc85",
+    "productId": "torobshop-51525e00ba66dc85",
+    "name": "سرویس قابلمه استیل ضد زنگ سه تکه نینجا اورکلاد با درب، مناسب برای انواع اجاق گاز، از جمله اجاق القایی، مناسب برای فر تا دمای 300 درجه سانتیگراد، پایه القایی پیوسته، مدل C93003EUI",
+    "brand": "",
+    "model": "سرویس قابلمه استیل ضد زنگ سه تکه نینجا اورکلاد با درب، مناسب برای انواع اجاق گاز، از جمله اجاق القایی، مناسب برای فر تا دمای 300 درجه سانتیگراد، پایه القایی پیوسته، مدل C93003EUI",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 41164000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%B3%D9%87-%D8%AA%DA%A9%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A7%D9%88%D8%B1%DA%A9%D9%84%D8%A7%D8%AF-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D8%A7%D8%B2-%D8%AC%D9%85%D9%84%D9%87-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-300-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D9%BE%D8%A7%DB%8C%D9%87-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%BE%DB%8C%D9%88%D8%B3%D8%AA%D9%87-%D9%85%D8%AF%D9%84-C93003EUI",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.207Z"
+  },
+  {
+    "id": "torobshop-audio-video-d5d32c623c74bd66",
+    "productId": "torobshop-d5d32c623c74bd66",
+    "name": "سرویس ماهیتابه استیل ضد زنگ دو تکه نینجا اورکلاد، مدل C92000EUI",
+    "brand": "",
+    "model": "سرویس ماهیتابه استیل ضد زنگ دو تکه نینجا اورکلاد، مدل C92000EUI",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 68352000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%AF%D9%88-%D8%AA%DA%A9%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A7%D9%88%D8%B1%DA%A9%D9%84%D8%A7%D8%AF-%D9%85%D8%AF%D9%84-C92000EUI",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.207Z"
+  },
+  {
+    "id": "torobshop-audio-video-5edabe07534b749b",
+    "productId": "torobshop-5edabe07534b749b",
+    "name": "ماهیتابه استیل ضد زنگ نینجا اورکلاد (28 سانتی‌متر)، مناسب برای انواع اجاق گاز، از جمله اجاق القایی، مناسب برای فر تا دمای 300 درجه سانتیگراد، پایه القایی پیوسته، مدل C90028EUI",
+    "brand": "",
+    "model": "ماهیتابه استیل ضد زنگ نینجا اورکلاد (28 سانتی‌متر)، مناسب برای انواع اجاق گاز، از جمله اجاق القایی، مناسب برای فر تا دمای 300 درجه سانتیگراد، پایه القایی پیوسته، مدل C90028EUI",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 39131000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A7%D9%88%D8%B1%DA%A9%D9%84%D8%A7%D8%AF-28-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D8%A7%D8%B2-%D8%AC%D9%85%D9%84%D9%87-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-300-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D9%BE%D8%A7%DB%8C%D9%87-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%BE%DB%8C%D9%88%D8%B3%D8%AA%D9%87-%D9%85%D8%AF%D9%84-C90028EUI",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.207Z"
+  },
+  {
+    "id": "torobshop-audio-video-5b4a02cf13efdcfb",
+    "productId": "torobshop-5b4a02cf13efdcfb",
+    "name": "سرویس قابلمه و ماهیتابه 7 پارچه نینجا اورکلاد مدل C99007 از جنس استیل ضد زنگ، مناسب برای انواع اجاق گاز و اجاق القایی، مناسب برای فر تا دمای 315 درجه سانتیگراد، سه لایه، کیفیت استاندارد، 7 پارچه",
+    "brand": "",
+    "model": "سرویس قابلمه و ماهیتابه 7 پارچه نینجا اورکلاد مدل C99007 از جنس استیل ضد زنگ، مناسب برای انواع اجاق گاز و اجاق القایی، مناسب برای فر تا دمای 315 درجه سانتیگراد، سه لایه، کیفیت استاندارد، 7 پارچه",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 74705000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-7-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A7%D9%88%D8%B1%DA%A9%D9%84%D8%A7%D8%AF-%D9%85%D8%AF%D9%84-C99007-%D8%A7%D8%B2-%D8%AC%D9%86%D8%B3-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D9%88-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-315-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D8%B3%D9%87-%D9%84%D8%A7%DB%8C%D9%87-%DA%A9%DB%8C%D9%81%DB%8C%D8%AA-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%AF%D8%A7%D8%B1%D8%AF-7-%D9%BE%D8%A7%D8%B1%DA%86%D9%87",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.207Z"
+  },
+  {
+    "id": "torobshop-audio-video-e16e63f5a9627912",
+    "productId": "torobshop-e16e63f5a9627912",
+    "name": "ماهیتابه استیل ضد زنگ نینجا اورکلاد (24 سانتی‌متر)، مناسب برای انواع اجاق گاز، از جمله اجاق القایی، مناسب برای فر تا دمای 300 درجه سانتیگراد، پایه القایی پیوسته، مدل C90024EUI",
+    "brand": "",
+    "model": "ماهیتابه استیل ضد زنگ نینجا اورکلاد (24 سانتی‌متر)، مناسب برای انواع اجاق گاز، از جمله اجاق القایی، مناسب برای فر تا دمای 300 درجه سانتیگراد، پایه القایی پیوسته، مدل C90024EUI",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 43959000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A7%D9%88%D8%B1%DA%A9%D9%84%D8%A7%D8%AF-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D8%A7%D8%B2-%D8%AC%D9%85%D9%84%D9%87-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-300-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D9%BE%D8%A7%DB%8C%D9%87-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%BE%DB%8C%D9%88%D8%B3%D8%AA%D9%87-%D9%85%D8%AF%D9%84-C90024EUI",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.207Z"
+  },
+  {
+    "id": "torobshop-audio-video-6f344ad80be292b7",
+    "productId": "torobshop-6f344ad80be292b7",
+    "name": "قابلمه استیل ضد زنگ نینجا اورکلاد (18 سانتی‌متر) با درب، مناسب برای انواع اجاق گاز، حتی اجاق القایی، مناسب برای فر تا دمای 300 درجه سانتیگراد، پایه القایی پیوسته، C90218EUI",
+    "brand": "",
+    "model": "قابلمه استیل ضد زنگ نینجا اورکلاد (18 سانتی‌متر) با درب، مناسب برای انواع اجاق گاز، حتی اجاق القایی، مناسب برای فر تا دمای 300 درجه سانتیگراد، پایه القایی پیوسته، C90218EUI",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 37606000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A7%D9%88%D8%B1%DA%A9%D9%84%D8%A7%D8%AF-18-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D8%AD%D8%AA%DB%8C-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-300-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D9%BE%D8%A7%DB%8C%D9%87-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%BE%DB%8C%D9%88%D8%B3%D8%AA%D9%87-C90218EUI",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.207Z"
+  },
+  {
+    "id": "torobshop-audio-video-81068c1886acd27e",
+    "productId": "torobshop-81068c1886acd27e",
+    "name": "سرویس قابلمه سه تکه Ninja Foodi ZEROSTICK Vivid، قابلمه‌های ۱۶، ۱۸ و ۲۰ سانتی‌متری، آلومینیومی، روکش نچسب، ضد خش، مناسب برای استفاده با اجاق القایی، قابل استفاده در فر تا دمای ۲۰۰ درجه سانتیگراد، قابل شستشو در ماشین ظرفشویی، قرمز تیره، C23000EU",
+    "brand": "",
+    "model": "سرویس قابلمه سه تکه Ninja Foodi ZEROSTICK Vivid، قابلمه‌های ۱۶، ۱۸ و ۲۰ سانتی‌متری، آلومینیومی، روکش نچسب، ضد خش، مناسب برای استفاده با اجاق القایی، قابل استفاده در فر تا دمای ۲۰۰ درجه سانتیگراد، قابل شستشو در ماشین ظرفشویی، قرمز تیره، C23000EU",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 54885000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%B3%D9%87-%D8%AA%DA%A9%D9%87-Ninja-Foodi-ZEROSTICK-Vivid-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%87%D8%A7%DB%8C-%DB%B1%DB%B6-%DB%B1%DB%B8-%D9%88-%DB%B2%DB%B0-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C-%D8%A2%D9%84%D9%88%D9%85%DB%8C%D9%86%DB%8C%D9%88%D9%85%DB%8C-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D8%B6%D8%AF-%D8%AE%D8%B4-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-%DB%B2%DB%B0%DB%B0-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D9%82%D8%B1%D9%85%D8%B2-%D8%AA%DB%8C%D8%B1%D9%87-C23000EU",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.208Z"
+  },
+  {
+    "id": "torobshop-audio-video-0511220ad6c012d6",
+    "productId": "torobshop-0511220ad6c012d6",
+    "name": "سرویس قابلمه ۸ تکه نینجا C28000 Foodi NeverStick Vivid با درب، نچسب، بادوام و مناسب برای فر تا دمای ۲۰۰ درجه سانتیگراد، دسته‌های خنک شونده، بنفش",
+    "brand": "",
+    "model": "سرویس قابلمه ۸ تکه نینجا C28000 Foodi NeverStick Vivid با درب، نچسب، بادوام و مناسب برای فر تا دمای ۲۰۰ درجه سانتیگراد، دسته‌های خنک شونده، بنفش",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 120443000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B8-%D8%AA%DA%A9%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-C28000-Foodi-NeverStick-Vivid-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%A7%D8%AF%D9%88%D8%A7%D9%85-%D9%88-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-%DB%B2%DB%B0%DB%B0-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D8%AF%D8%B3%D8%AA%D9%87-%D9%87%D8%A7%DB%8C-%D8%AE%D9%86%DA%A9-%D8%B4%D9%88%D9%86%D8%AF%D9%87-%D8%A8%D9%86%D9%81%D8%B4",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.208Z"
+  },
+  {
+    "id": "torobshop-audio-video-52a42e6060959a65",
+    "productId": "torobshop-52a42e6060959a65",
+    "name": "قابلمه نچسب نینجا مدل Foodi NeverStick PossiblePan، سرویس ممتاز با ظرفیت ۴ لیتر، سبد بخارپز/صافی، بادوام و مناسب برای فر تا دمای ۲۶۰ درجه سانتیگراد، رنگ خاکستری دریا",
+    "brand": "",
+    "model": "قابلمه نچسب نینجا مدل Foodi NeverStick PossiblePan، سرویس ممتاز با ظرفیت ۴ لیتر، سبد بخارپز/صافی، بادوام و مناسب برای فر تا دمای ۲۶۰ درجه سانتیگراد، رنگ خاکستری دریا",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 31508000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%86%DA%86%D8%B3%D8%A8-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%85%D8%AF%D9%84-Foodi-NeverStick-PossiblePan-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%85%D9%85%D8%AA%D8%A7%D8%B2-%D8%A8%D8%A7-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-%DB%B4-%D9%84%DB%8C%D8%AA%D8%B1-%D8%B3%D8%A8%D8%AF-%D8%A8%D8%AE%D8%A7%D8%B1%D9%BE%D8%B2-%D8%B5%D8%A7%D9%81%DB%8C-%D8%A8%D8%A7%D8%AF%D9%88%D8%A7%D9%85-%D9%88-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-%DB%B2%DB%B6%DB%B0-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D8%B1%D9%86%DA%AF-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C-%D8%AF%D8%B1%DB%8C%D8%A7",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.208Z"
+  },
+  {
+    "id": "torobshop-audio-video-fcb903533e900733",
+    "productId": "torobshop-fcb903533e900733",
+    "name": "ماهیتابه نینجا CW60030 NeverStick با دسته راحت، 30.5 سانتی‌متر، نچسب، بادوام، ضد خش، قابل شستشو در ماشین ظرفشویی، قابل استفاده در فر تا دمای 200 درجه سانتیگراد، دسته‌های سیلیکونی، خاکستری",
+    "brand": "",
+    "model": "ماهیتابه نینجا CW60030 NeverStick با دسته راحت، 30.5 سانتی‌متر، نچسب، بادوام، ضد خش، قابل شستشو در ماشین ظرفشویی، قابل استفاده در فر تا دمای 200 درجه سانتیگراد، دسته‌های سیلیکونی، خاکستری",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 44467000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-CW60030-NeverStick-%D8%A8%D8%A7-%D8%AF%D8%B3%D8%AA%D9%87-%D8%B1%D8%A7%D8%AD%D8%AA-30-5-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%A7%D8%AF%D9%88%D8%A7%D9%85-%D8%B6%D8%AF-%D8%AE%D8%B4-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-200-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D8%AF%D8%B3%D8%AA%D9%87-%D9%87%D8%A7%DB%8C-%D8%B3%DB%8C%D9%84%DB%8C%DA%A9%D9%88%D9%86%DB%8C-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.208Z"
+  },
+  {
+    "id": "torobshop-audio-video-26f6085e7abb8195",
+    "productId": "torobshop-26f6085e7abb8195",
+    "name": "سرویس قابلمه ۵ تکه نینجا فودی زیرو استیک مدل Vivid، شامل ۳ قابلمه، ۱ قابلمه شیر، ۱ ماهیتابه، آلومینیومی، روکش نچسب، مناسب برای استفاده در فر تا دمای ۲۰۰ درجه سانتیگراد، قابل استفاده در ماشین ظرفشویی، قرمز تیره، مدل C23000EU",
+    "brand": "",
+    "model": "سرویس قابلمه ۵ تکه نینجا فودی زیرو استیک مدل Vivid، شامل ۳ قابلمه، ۱ قابلمه شیر، ۱ ماهیتابه، آلومینیومی، روکش نچسب، مناسب برای استفاده در فر تا دمای ۲۰۰ درجه سانتیگراد، قابل استفاده در ماشین ظرفشویی، قرمز تیره، مدل C23000EU",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 144582000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B5-%D8%AA%DA%A9%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%81%D9%88%D8%AF%DB%8C-%D8%B2%DB%8C%D8%B1%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-%D9%85%D8%AF%D9%84-Vivid-%D8%B4%D8%A7%D9%85%D9%84-%DB%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%B4%DB%8C%D8%B1-%DB%B1-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A2%D9%84%D9%88%D9%85%DB%8C%D9%86%DB%8C%D9%88%D9%85%DB%8C-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-%DB%B2%DB%B0%DB%B0-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D9%82%D8%B1%D9%85%D8%B2-%D8%AA%DB%8C%D8%B1%D9%87-%D9%85%D8%AF%D9%84-C23000EU",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.208Z"
+  },
+  {
+    "id": "torobshop-audio-video-362ea2159f4b778c",
+    "productId": "torobshop-362ea2159f4b778c",
+    "name": "ماهیتابه نینجا CW60020 NeverStick با دسته راحت، 20.3 سانتی‌متر، نچسب، بادوام، ضد خش، قابل استفاده در ماشین ظرفشویی، قابل استفاده در فر تا دمای 200 درجه سانتیگراد، دسته‌های سیلیکونی، خاکستری",
+    "brand": "",
+    "model": "ماهیتابه نینجا CW60020 NeverStick با دسته راحت، 20.3 سانتی‌متر، نچسب، بادوام، ضد خش، قابل استفاده در ماشین ظرفشویی، قابل استفاده در فر تا دمای 200 درجه سانتیگراد، دسته‌های سیلیکونی، خاکستری",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 22614000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-CW60020-NeverStick-%D8%A8%D8%A7-%D8%AF%D8%B3%D8%AA%D9%87-%D8%B1%D8%A7%D8%AD%D8%AA-20-3-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%A7%D8%AF%D9%88%D8%A7%D9%85-%D8%B6%D8%AF-%D8%AE%D8%B4-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-200-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D8%AF%D8%B3%D8%AA%D9%87-%D9%87%D8%A7%DB%8C-%D8%B3%DB%8C%D9%84%DB%8C%DA%A9%D9%88%D9%86%DB%8C-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.208Z"
+  },
+  {
+    "id": "torobshop-audio-video-f0066be7088adc85",
+    "productId": "torobshop-f0066be7088adc85",
+    "name": "سرویس قابلمه ۷ تکه نینجا نِوِر استیک سرامیکی پرو، روکش نچسب، قابلمه، ماهیتابه، درب شیشه‌ای، روکش سرامیکی، استیل ضد زنگ، مناسب برای فر، سازگار با تمام اجاق گازها و اجاق گازهای القایی",
+    "brand": "",
+    "model": "سرویس قابلمه ۷ تکه نینجا نِوِر استیک سرامیکی پرو، روکش نچسب، قابلمه، ماهیتابه، درب شیشه‌ای، روکش سرامیکی، استیل ضد زنگ، مناسب برای فر، سازگار با تمام اجاق گازها و اجاق گازهای القایی",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 86394000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B7-%D8%AA%DA%A9%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%86-%D9%88-%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%BE%D8%B1%D9%88-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%AA%D9%85%D8%A7%D9%85-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2%D9%87%D8%A7-%D9%88-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2%D9%87%D8%A7%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.208Z"
+  },
+  {
+    "id": "torobshop-audio-video-91acb86a8482ef98",
+    "productId": "torobshop-91acb86a8482ef98",
+    "name": "سرویس قابلمه و تابه نینجا CW69010، روکش نچسب، دسته راحت، سرویس 10 پارچه پخت و پز با درب نچسب، ماهیتابه، قابلمه با درب، قابلمه سوپ با درب، روکش نچسب",
+    "brand": "",
+    "model": "سرویس قابلمه و تابه نینجا CW69010، روکش نچسب، دسته راحت، سرویس 10 پارچه پخت و پز با درب نچسب، ماهیتابه، قابلمه با درب، قابلمه سوپ با درب، روکش نچسب",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 218271000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D8%AA%D8%A7%D8%A8%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-CW69010-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D8%AF%D8%B3%D8%AA%D9%87-%D8%B1%D8%A7%D8%AD%D8%AA-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-10-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D9%BE%D8%AE%D8%AA-%D9%88-%D9%BE%D8%B2-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%86%DA%86%D8%B3%D8%A8-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%B3%D9%88%D9%BE-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.208Z"
+  },
+  {
+    "id": "torobshop-audio-video-5b99db3ff6f530b9",
+    "productId": "torobshop-5b99db3ff6f530b9",
+    "name": "سرویس قابلمه ۱۱ پارچه نینجا نِوِر استیک سرامیکی پرو، قابلمه و ماهیتابه نچسب، درب شیشه‌ای، روکش سرامیکی، استیل ضد زنگ، مناسب برای استفاده روی اجاق گاز و فر، مناسب برای انواع اجاق گاز.",
+    "brand": "",
+    "model": "سرویس قابلمه ۱۱ پارچه نینجا نِوِر استیک سرامیکی پرو، قابلمه و ماهیتابه نچسب، درب شیشه‌ای، روکش سرامیکی، استیل ضد زنگ، مناسب برای استفاده روی اجاق گاز و فر، مناسب برای انواع اجاق گاز.",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 48787000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B1%DB%B1-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%86-%D9%88-%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%BE%D8%B1%D9%88-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%86%DA%86%D8%B3%D8%A8-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%B1%D9%88%DB%8C-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D9%88-%D9%81%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.208Z"
+  },
+  {
+    "id": "torobshop-audio-video-1fe50cc1e4bf6a68",
+    "productId": "torobshop-1fe50cc1e4bf6a68",
+    "name": "سرویس قابلمه و تابه 11 پارچه نینجا سرامیک پرو CW39011WH، نچسب، با درب شیشه‌ای، بدون PTFE، روکش سرامیکی، مناسب برای فر، مناسب برای انواع اجاق گاز و اجاق القایی",
+    "brand": "",
+    "model": "سرویس قابلمه و تابه 11 پارچه نینجا سرامیک پرو CW39011WH، نچسب، با درب شیشه‌ای، بدون PTFE، روکش سرامیکی، مناسب برای فر، مناسب برای انواع اجاق گاز و اجاق القایی",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 126287000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D8%AA%D8%A7%D8%A8%D9%87-11-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9-%D9%BE%D8%B1%D9%88-CW39011WH-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-PTFE-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D9%88-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.208Z"
+  },
+  {
+    "id": "torobshop-audio-video-b3eb05e26a027097",
+    "productId": "torobshop-b3eb05e26a027097",
+    "name": "سرویس قابلمه نچسب سرامیکی پرو مدل Ninja NeverStick، 7 تکه، قابلمه، ماهیتابه، درب شیشه‌ای، روکش سرامیکی، دسته‌های استیل ضد زنگ، مناسب برای اتصال اجاق گاز به فر، مناسب برای همه نوع اجاق گاز",
+    "brand": "",
+    "model": "سرویس قابلمه نچسب سرامیکی پرو مدل Ninja NeverStick، 7 تکه، قابلمه، ماهیتابه، درب شیشه‌ای، روکش سرامیکی، دسته‌های استیل ضد زنگ، مناسب برای اتصال اجاق گاز به فر، مناسب برای همه نوع اجاق گاز",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 69623000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%86%DA%86%D8%B3%D8%A8-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%BE%D8%B1%D9%88-%D9%85%D8%AF%D9%84-Ninja-NeverStick-7-%D8%AA%DA%A9%D9%87-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D8%AF%D8%B3%D8%AA%D9%87-%D9%87%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D8%A8%D9%87-%D9%81%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%87%D9%85%D9%87-%D9%86%D9%88%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-2",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.208Z"
+  },
+  {
+    "id": "torobshop-audio-video-4b6a53eaa53ecf05",
+    "productId": "torobshop-4b6a53eaa53ecf05",
+    "name": "سرویس قابلمه و ماهیتابه نینجا سرامیک پرو CW39011MM، با روکش نچسب، دارای درب شیشه‌ای، بدون PTFE، روکش سرامیکی، مناسب برای فر، مناسب برای انواع اجاق گاز و اجاق گازهای القایی",
+    "brand": "",
+    "model": "سرویس قابلمه و ماهیتابه نینجا سرامیک پرو CW39011MM، با روکش نچسب، دارای درب شیشه‌ای، بدون PTFE، روکش سرامیکی، مناسب برای فر، مناسب برای انواع اجاق گاز و اجاق گازهای القایی",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 123238000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9-%D9%BE%D8%B1%D9%88-CW39011MM-%D8%A8%D8%A7-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-PTFE-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D9%88-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2%D9%87%D8%A7%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.208Z"
+  },
+  {
+    "id": "torobshop-audio-video-981e44302f342963",
+    "productId": "torobshop-981e44302f342963",
+    "name": "سرویس قابلمه ۷ پارچه نینجا نِوِر استیک سرامیکی پرو، روکش نچسب، قابلمه، ماهیتابه، درب شیشه‌ای، روکش سرامیکی، دسته‌های استیل ضد زنگ، مناسب برای اتصال اجاق گاز به فر، مناسب برای همه نوع اجاق گاز و",
+    "brand": "",
+    "model": "سرویس قابلمه ۷ پارچه نینجا نِوِر استیک سرامیکی پرو، روکش نچسب، قابلمه، ماهیتابه، درب شیشه‌ای، روکش سرامیکی، دسته‌های استیل ضد زنگ، مناسب برای اتصال اجاق گاز به فر، مناسب برای همه نوع اجاق گاز و",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 87918000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B7-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%86-%D9%88-%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%BE%D8%B1%D9%88-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D8%AF%D8%B3%D8%AA%D9%87-%D9%87%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D8%A8%D9%87-%D9%81%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%87%D9%85%D9%87-%D9%86%D9%88%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D9%88",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.208Z"
+  },
+  {
+    "id": "torobshop-audio-video-9366ead7b155bc0e",
+    "productId": "torobshop-9366ead7b155bc0e",
+    "name": "سرویس قابلمه نچسب سرامیکی پرو مدل Ninja NeverStick، 7 تکه، قابلمه، ماهیتابه، درب شیشه‌ای، روکش سرامیکی، دسته‌های استیل ضد زنگ، مناسب برای اتصال اجاق گاز به فر، مناسب برای همه نوع اجاق گاز",
+    "brand": "",
+    "model": "سرویس قابلمه نچسب سرامیکی پرو مدل Ninja NeverStick، 7 تکه، قابلمه، ماهیتابه، درب شیشه‌ای، روکش سرامیکی، دسته‌های استیل ضد زنگ، مناسب برای اتصال اجاق گاز به فر، مناسب برای همه نوع اجاق گاز",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 88426000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%86%DA%86%D8%B3%D8%A8-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%BE%D8%B1%D9%88-%D9%85%D8%AF%D9%84-Ninja-NeverStick-7-%D8%AA%DA%A9%D9%87-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D8%AF%D8%B3%D8%AA%D9%87-%D9%87%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D8%A8%D9%87-%D9%81%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%87%D9%85%D9%87-%D9%86%D9%88%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.208Z"
+  },
+  {
+    "id": "torobshop-audio-video-0e19f63aed58a286",
+    "productId": "torobshop-0e19f63aed58a286",
+    "name": "سرویس قابلمه و ماهیتابه نچسب نینجا سرامیک پرو CW39011BM با درب شیشه‌ای، بدون PTFE، روکش سرامیکی، مناسب برای فر، سازگار با انواع اجاق گاز و اجاق‌های القایی، ماکارون آبی",
+    "brand": "",
+    "model": "سرویس قابلمه و ماهیتابه نچسب نینجا سرامیک پرو CW39011BM با درب شیشه‌ای، بدون PTFE، روکش سرامیکی، مناسب برای فر، سازگار با انواع اجاق گاز و اجاق‌های القایی، ماکارون آبی",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 68352000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%86%DA%86%D8%B3%D8%A8-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9-%D9%BE%D8%B1%D9%88-CW39011BM-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-PTFE-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D9%88-%D8%A7%D8%AC%D8%A7%D9%82-%D9%87%D8%A7%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%85%D8%A7%DA%A9%D8%A7%D8%B1%D9%88%D9%86-%D8%A2%D8%A8%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.208Z"
+  },
+  {
+    "id": "torobshop-audio-video-a084da6a498709d9",
+    "productId": "torobshop-a084da6a498709d9",
+    "name": "سرویس قابلمه و تابه 11 پارچه نینجا سرامیک پرو CW39011BK، نچسب، با درب شیشه‌ای، بدون PTFE، روکش سرامیکی، مناسب برای فر، مناسب برای انواع اجاق گاز و اجاق گازهای القایی",
+    "brand": "",
+    "model": "سرویس قابلمه و تابه 11 پارچه نینجا سرامیک پرو CW39011BK، نچسب، با درب شیشه‌ای، بدون PTFE، روکش سرامیکی، مناسب برای فر، مناسب برای انواع اجاق گاز و اجاق گازهای القایی",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 126287000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D8%AA%D8%A7%D8%A8%D9%87-11-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9-%D9%BE%D8%B1%D9%88-CW39011BK-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-PTFE-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D9%88-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2%D9%87%D8%A7%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.208Z"
+  },
+  {
+    "id": "torobshop-audio-video-986e9be42ebf1aaa",
+    "productId": "torobshop-986e9be42ebf1aaa",
+    "name": "سرویس قابلمه و تابه 11 پارچه نینجا سرامیک پرو CW39011GN، روکش نچسب، قابلمه و تابه، روکش نچسب، بدون PTFE، روکش سرامیکی، مناسب برای فر، مناسب برای انواع اجاق گاز و اجاق گازهای القایی",
+    "brand": "",
+    "model": "سرویس قابلمه و تابه 11 پارچه نینجا سرامیک پرو CW39011GN، روکش نچسب، قابلمه و تابه، روکش نچسب، بدون PTFE، روکش سرامیکی، مناسب برای فر، مناسب برای انواع اجاق گاز و اجاق گازهای القایی",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 107230000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D8%AA%D8%A7%D8%A8%D9%87-11-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9-%D9%BE%D8%B1%D9%88-CW39011GN-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D8%AA%D8%A7%D8%A8%D9%87-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%AF%D9%88%D9%86-PTFE-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D9%88-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2%D9%87%D8%A7%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.208Z"
+  },
+  {
+    "id": "torobshop-audio-video-372174ecf0618423",
+    "productId": "torobshop-372174ecf0618423",
+    "name": "سرویس قابلمه و ماهیتابه نینجا CW99009، روکش نچسب، طول عمر بیشتر، سرویس قابلمه سرامیکی ممتاز، 9 پارچه، روکش نچسب، بدون PTFE، مناسب برای فر تا دمای 287 درجه سانتیگراد، سازگار با اجاق القایی، 3 نفره",
+    "brand": "",
+    "model": "سرویس قابلمه و ماهیتابه نینجا CW99009، روکش نچسب، طول عمر بیشتر، سرویس قابلمه سرامیکی ممتاز، 9 پارچه، روکش نچسب، بدون PTFE، مناسب برای فر تا دمای 287 درجه سانتیگراد، سازگار با اجاق القایی، 3 نفره",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 84361000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-CW99009-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D8%B7%D9%88%D9%84-%D8%B9%D9%85%D8%B1-%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%85%D9%85%D8%AA%D8%A7%D8%B2-9-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%AF%D9%88%D9%86-PTFE-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-287-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-3-%D9%86%D9%81%D8%B1%D9%87",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.208Z"
+  },
+  {
+    "id": "torobshop-audio-video-9d7cd3afb8947c34",
+    "productId": "torobshop-9d7cd3afb8947c34",
+    "name": "سرویس قابلمه و ماهیتابه نینجا سرامیک پرو CW39014MM، روکش نچسب، قابلمه و ماهیتابه، روکش نچسب، بدون PTFE، روکش سرامیکی، مناسب برای فر، مناسب برای انواع اجاق گاز و اجاق گازهای القایی",
+    "brand": "",
+    "model": "سرویس قابلمه و ماهیتابه نینجا سرامیک پرو CW39014MM، روکش نچسب، قابلمه و ماهیتابه، روکش نچسب، بدون PTFE، روکش سرامیکی، مناسب برای فر، مناسب برای انواع اجاق گاز و اجاق گازهای القایی",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 162624000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9-%D9%BE%D8%B1%D9%88-CW39014MM-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%AF%D9%88%D9%86-PTFE-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D9%88-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2%D9%87%D8%A7%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.208Z"
+  },
+  {
+    "id": "torobshop-audio-video-e941e8d3b0baa257",
+    "productId": "torobshop-e941e8d3b0baa257",
+    "name": "سرویس قابلمه سرامیکی نینجا مدل Extended Life، 5 تکه، مناسب برای فر، مدل CW95000EUUKDB",
+    "brand": "",
+    "model": "سرویس قابلمه سرامیکی نینجا مدل Extended Life، 5 تکه، مناسب برای فر، مدل CW95000EUUKDB",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 75975000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%85%D8%AF%D9%84-Extended-Life-5-%D8%AA%DA%A9%D9%87-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D9%85%D8%AF%D9%84-CW95000EUUKDB",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.208Z"
+  },
+  {
+    "id": "torobshop-audio-video-da719245fe9ffcf9",
+    "productId": "torobshop-da719245fe9ffcf9",
+    "name": "ماهیتابه سرامیکی ممتاز نینجا مدل Extended Life CW90020، روکش نچسب، بدون PTFE، پخت و پز سالم، قابل استفاده در فر تا دمای 287 درجه سانتیگراد، قابل شستشو در ماشین ظرفشویی، مناسب برای انواع اجاق گاز و اجاق گازهای القایی",
+    "brand": "",
+    "model": "ماهیتابه سرامیکی ممتاز نینجا مدل Extended Life CW90020، روکش نچسب، بدون PTFE، پخت و پز سالم، قابل استفاده در فر تا دمای 287 درجه سانتیگراد، قابل شستشو در ماشین ظرفشویی، مناسب برای انواع اجاق گاز و اجاق گازهای القایی",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 64541000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%85%D9%85%D8%AA%D8%A7%D8%B2-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%85%D8%AF%D9%84-Extended-Life-CW90020-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%AF%D9%88%D9%86-PTFE-%D9%BE%D8%AE%D8%AA-%D9%88-%D9%BE%D8%B2-%D8%B3%D8%A7%D9%84%D9%85-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-287-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D9%88-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2%D9%87%D8%A7%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.208Z"
+  },
+  {
+    "id": "torobshop-audio-video-58130adffe7c44df",
+    "productId": "torobshop-58130adffe7c44df",
+    "name": "ماهیتابه سرامیکی نینجا با طول عمر طولانی (28 سانتی‌متر)، پوشش نچسب (بدون PFA، PFOA، سرب و کادمیوم)، سازگار با القای حرارتی، دسته استیل ضد زنگ، مناسب برای فر تا دمای 285 درجه سانتیگراد، خاکستری و سفالی، CW90028DEDB",
+    "brand": "",
+    "model": "ماهیتابه سرامیکی نینجا با طول عمر طولانی (28 سانتی‌متر)، پوشش نچسب (بدون PFA، PFOA، سرب و کادمیوم)، سازگار با القای حرارتی، دسته استیل ضد زنگ، مناسب برای فر تا دمای 285 درجه سانتیگراد، خاکستری و سفالی، CW90028DEDB",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 29221000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A8%D8%A7-%D8%B7%D9%88%D9%84-%D8%B9%D9%85%D8%B1-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-28-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%BE%D9%88%D8%B4%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%AF%D9%88%D9%86-PFA-PFOA-%D8%B3%D8%B1%D8%A8-%D9%88-%DA%A9%D8%A7%D8%AF%D9%85%DB%8C%D9%88%D9%85-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C-%D8%AD%D8%B1%D8%A7%D8%B1%D8%AA%DB%8C-%D8%AF%D8%B3%D8%AA%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-285-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C-%D9%88-%D8%B3%D9%81%D8%A7%D9%84%DB%8C-CW90028DEDB",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.208Z"
+  },
+  {
+    "id": "torobshop-audio-video-a40ad0a81a8c91b9",
+    "productId": "torobshop-a40ad0a81a8c91b9",
+    "name": "ماهیتابه سرامیکی نینجا مدل Extended Life سایز ۲۶ سانتی‌متر، دارای روکش نچسب (بدون PFA، PFOA، سرب یا کادمیوم)، مناسب برای پخت القایی، دسته استیل ضد زنگ، قابل استفاده در فر تا دمای ۲۸۵ درجه سانتیگراد، به رنگ سفالی و خاکستری، CW90026DE",
+    "brand": "",
+    "model": "ماهیتابه سرامیکی نینجا مدل Extended Life سایز ۲۶ سانتی‌متر، دارای روکش نچسب (بدون PFA، PFOA، سرب یا کادمیوم)، مناسب برای پخت القایی، دسته استیل ضد زنگ، قابل استفاده در فر تا دمای ۲۸۵ درجه سانتیگراد، به رنگ سفالی و خاکستری، CW90026DE",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 27951000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%85%D8%AF%D9%84-Extended-Life-%D8%B3%D8%A7%DB%8C%D8%B2-%DB%B2%DB%B6-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%AF%D9%88%D9%86-PFA-PFOA-%D8%B3%D8%B1%D8%A8-%DB%8C%D8%A7-%DA%A9%D8%A7%D8%AF%D9%85%DB%8C%D9%88%D9%85-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D8%AE%D8%AA-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%AF%D8%B3%D8%AA%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-%DB%B2%DB%B8%DB%B5-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D8%A8%D9%87-%D8%B1%D9%86%DA%AF-%D8%B3%D9%81%D8%A7%D9%84%DB%8C-%D9%88-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C-CW90026DE",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.208Z"
+  },
+  {
+    "id": "torobshop-audio-video-7209fc2aa373a914",
+    "productId": "torobshop-7209fc2aa373a914",
+    "name": "ماهیتابه سرامیکی نینجا مدل Extended Life سایز 24 سانتی‌متر، به رنگ‌های سفالی و خاکستری، CW90024DE",
+    "brand": "",
+    "model": "ماهیتابه سرامیکی نینجا مدل Extended Life سایز 24 سانتی‌متر، به رنگ‌های سفالی و خاکستری، CW90024DE",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 14991000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%85%D8%AF%D9%84-Extended-Life-%D8%B3%D8%A7%DB%8C%D8%B2-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A8%D9%87-%D8%B1%D9%86%DA%AF-%D9%87%D8%A7%DB%8C-%D8%B3%D9%81%D8%A7%D9%84%DB%8C-%D9%88-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C-CW90024DE",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.208Z"
+  },
+  {
+    "id": "torobshop-audio-video-d73b8f5c61c1a0fd",
+    "productId": "torobshop-d73b8f5c61c1a0fd",
+    "name": "وک سرامیکی نینجا با طول عمر طولانی ۲۸ سانتی‌متر، تابه وک نچسب (بدون PFA، PFOA، سرب، کادمیوم)، مناسب برای اجاق گازهای القایی، دسته استیل ضد زنگ، مناسب برای فر تا دمای ۲۸۵ درجه سانتیگراد، به رنگ‌های سفالی و خاکستری، CW90928DE",
+    "brand": "",
+    "model": "وک سرامیکی نینجا با طول عمر طولانی ۲۸ سانتی‌متر، تابه وک نچسب (بدون PFA، PFOA، سرب، کادمیوم)، مناسب برای اجاق گازهای القایی، دسته استیل ضد زنگ، مناسب برای فر تا دمای ۲۸۵ درجه سانتیگراد، به رنگ‌های سفالی و خاکستری، CW90928DE",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 17532000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%88%DA%A9-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A8%D8%A7-%D8%B7%D9%88%D9%84-%D8%B9%D9%85%D8%B1-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%DB%B2%DB%B8-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%AA%D8%A7%D8%A8%D9%87-%D9%88%DA%A9-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%AF%D9%88%D9%86-PFA-PFOA-%D8%B3%D8%B1%D8%A8-%DA%A9%D8%A7%D8%AF%D9%85%DB%8C%D9%88%D9%85-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2%D9%87%D8%A7%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%AF%D8%B3%D8%AA%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-%DB%B2%DB%B8%DB%B5-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D8%A8%D9%87-%D8%B1%D9%86%DA%AF-%D9%87%D8%A7%DB%8C-%D8%B3%D9%81%D8%A7%D9%84%DB%8C-%D9%88-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C-CW90928DE",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.208Z"
+  },
+  {
+    "id": "torobshop-audio-video-cfdf7d431c8836b3",
+    "productId": "torobshop-cfdf7d431c8836b3",
+    "name": "ماهیتابه سرامیکی نینجا با طول عمر طولانی ۲۸ سانتی‌متر، ماهیتابه با روکش نچسب (بدون PFA، PFOA، سرب یا کادمیوم)، مناسب برای پخت القایی، دسته استیل ضد زنگ، مناسب برای فر تا دمای ۲۸۵ درجه سانتیگراد، به رنگ‌های سفالی و خاکستری، CW90028DE",
+    "brand": "",
+    "model": "ماهیتابه سرامیکی نینجا با طول عمر طولانی ۲۸ سانتی‌متر، ماهیتابه با روکش نچسب (بدون PFA، PFOA، سرب یا کادمیوم)، مناسب برای پخت القایی، دسته استیل ضد زنگ، مناسب برای فر تا دمای ۲۸۵ درجه سانتیگراد، به رنگ‌های سفالی و خاکستری، CW90028DE",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 29221000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%A8%D8%A7-%D8%B7%D9%88%D9%84-%D8%B9%D9%85%D8%B1-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%DB%B2%DB%B8-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A8%D8%A7-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%AF%D9%88%D9%86-PFA-PFOA-%D8%B3%D8%B1%D8%A8-%DB%8C%D8%A7-%DA%A9%D8%A7%D8%AF%D9%85%DB%8C%D9%88%D9%85-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D8%AE%D8%AA-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%AF%D8%B3%D8%AA%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-%DB%B2%DB%B8%DB%B5-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D8%A8%D9%87-%D8%B1%D9%86%DA%AF-%D9%87%D8%A7%DB%8C-%D8%B3%D9%81%D8%A7%D9%84%DB%8C-%D9%88-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C-CW90028DE",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.208Z"
+  },
+  {
+    "id": "torobshop-audio-video-227eb15d85db0deb",
+    "productId": "torobshop-227eb15d85db0deb",
+    "name": "سرویس قابلمه سرامیکی ۵ تکه نینجا مدل Extended Life (ماهیتابه‌های ۲۰ و ۲۴ سانتی‌متری، ۱۶ عدد)",
+    "brand": "",
+    "model": "سرویس قابلمه سرامیکی ۵ تکه نینجا مدل Extended Life (ماهیتابه‌های ۲۰ و ۲۴ سانتی‌متری، ۱۶ عدد)",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 28967000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%DB%B5-%D8%AA%DA%A9%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%85%D8%AF%D9%84-Extended-Life-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%87%D8%A7%DB%8C-%DB%B2%DB%B0-%D9%88-%DB%B2%DB%B4-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B1%DB%B6-%D8%B9%D8%AF%D8%AF",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.208Z"
+  },
+  {
+    "id": "torobshop-audio-video-74a94c9ec68aef39",
+    "productId": "torobshop-74a94c9ec68aef39",
+    "name": "ماهیتابه سرامیکی نینجا مدل Extended Life سایز 20 سانتی‌متر، CW90020DE، سفالی و خاکستری",
+    "brand": "",
+    "model": "ماهیتابه سرامیکی نینجا مدل Extended Life سایز 20 سانتی‌متر، CW90020DE، سفالی و خاکستری",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 33490000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%85%D8%AF%D9%84-Extended-Life-%D8%B3%D8%A7%DB%8C%D8%B2-20-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-CW90020DE-%D8%B3%D9%81%D8%A7%D9%84%DB%8C-%D9%88-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.208Z"
+  },
+  {
+    "id": "torobshop-audio-video-5460ea0842329793",
+    "productId": "torobshop-5460ea0842329793",
+    "name": "سرویس قابلمه سرامیکی نینجا مدل Extended Life، دو تکه، ۲۴ و ۲۸ سانتی‌متر، روکش نچسب (فاقد PFA، PFOA، سرب و کادمیوم)، سازگار با اجاق القایی، دسته استیل ضد زنگ، مناسب برای فر تا دمای ۲۸۵ درجه سانتیگراد، به رنگ‌های سفالی و خاکستری، CW92000DE",
+    "brand": "",
+    "model": "سرویس قابلمه سرامیکی نینجا مدل Extended Life، دو تکه، ۲۴ و ۲۸ سانتی‌متر، روکش نچسب (فاقد PFA، PFOA، سرب و کادمیوم)، سازگار با اجاق القایی، دسته استیل ضد زنگ، مناسب برای فر تا دمای ۲۸۵ درجه سانتیگراد، به رنگ‌های سفالی و خاکستری، CW92000DE",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 53360000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%85%D8%AF%D9%84-Extended-Life-%D8%AF%D9%88-%D8%AA%DA%A9%D9%87-%DB%B2%DB%B4-%D9%88-%DB%B2%DB%B8-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D9%81%D8%A7%D9%82%D8%AF-PFA-PFOA-%D8%B3%D8%B1%D8%A8-%D9%88-%DA%A9%D8%A7%D8%AF%D9%85%DB%8C%D9%88%D9%85-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%AF%D8%B3%D8%AA%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-%DB%B2%DB%B8%DB%B5-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D8%A8%D9%87-%D8%B1%D9%86%DA%AF-%D9%87%D8%A7%DB%8C-%D8%B3%D9%81%D8%A7%D9%84%DB%8C-%D9%88-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C-CW92000DE",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.208Z"
+  },
+  {
+    "id": "torobshop-audio-video-e1410714f43d4f84",
+    "productId": "torobshop-e1410714f43d4f84",
+    "name": "سرویس قابلمه سرامیکی سه تکه نینجا مدل Extended Life (قابلمه‌های ۱۶، ۱۸ و ۲۰ سانتی‌متری)",
+    "brand": "",
+    "model": "سرویس قابلمه سرامیکی سه تکه نینجا مدل Extended Life (قابلمه‌های ۱۶، ۱۸ و ۲۰ سانتی‌متری)",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 44467000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D8%B3%D9%87-%D8%AA%DA%A9%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%85%D8%AF%D9%84-Extended-Life-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%87%D8%A7%DB%8C-%DB%B1%DB%B6-%DB%B1%DB%B8-%D9%88-%DB%B2%DB%B0-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.208Z"
+  },
+  {
+    "id": "torobshop-audio-video-f566f758ccfcc717",
+    "productId": "torobshop-f566f758ccfcc717",
+    "name": "سرویس قابلمه ماهیتابه سرامیکی نینجا آمریکا Ninja مدل Ceramic Pro ده پارچه",
+    "brand": "",
+    "model": "سرویس قابلمه ماهیتابه سرامیکی نینجا آمریکا Ninja مدل Ceramic Pro ده پارچه",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 94017000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D9%BE%D8%B1%D9%88-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%86%DA%86%D8%B3%D8%A8-10-%D8%AA%DA%A9%D9%87-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-PTFE-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.208Z"
+  },
+  {
+    "id": "torobshop-audio-video-964ece0d8e9f6669",
+    "productId": "torobshop-964ece0d8e9f6669",
+    "name": "سرویس قابلمه ماهیتابه سرامیکی نینجا آمریکا Ninja CW39010GN ده پارچه سبز",
+    "brand": "",
+    "model": "سرویس قابلمه ماهیتابه سرامیکی نینجا آمریکا Ninja CW39010GN ده پارچه سبز",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 85631000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D8%AA%D8%A7%D8%A8%D9%87-10-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9-%D9%BE%D8%B1%D9%88-CW39010GN-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%88-%D8%AA%D8%A7%D8%A8%D9%87-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D8%A8%D8%AF%D9%88%D9%86-PTFE-%D8%B1%D9%88%DA%A9%D8%B4-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D9%88-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2%D9%87%D8%A7%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.208Z"
+  },
+  {
+    "id": "torobshop-audio-video-4cef33429e237704",
+    "productId": "torobshop-4cef33429e237704",
+    "name": "قابلمه بخارپز چندکاره نینجا آمریکا Ninja Foodi CW202BLUK ظرفیت 6.6 لیتر 8 کاره",
+    "brand": "",
+    "model": "قابلمه بخارپز چندکاره نینجا آمریکا Ninja Foodi CW202BLUK ظرفیت 6.6 لیتر 8 کاره",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 41672000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B8-%DA%A9%D8%A7%D8%B1%D9%87-Ninja-Foodi-CW202BLUK-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%B3%DB%8C%D9%86%DB%8C-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%A8%D8%AE%D8%A7%D8%B1%D9%BE%D8%B2-%D8%A7%D9%84%DA%A9-%DA%A9%D8%A7%D8%B1%D8%AF-%D9%88-%DA%86%D9%86%DA%AF%D8%A7%D9%84-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%DB%B6-%DB%B6-%D9%84%DB%8C%D8%AA%D8%B1-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C-%D8%AD%D8%B1%D8%A7%D8%B1%D8%AA%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-%DB%B2%DB%B6%DB%B0-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D9%85%D8%A7%DA%A9%D8%A7%D8%B1%D9%88%D9%86-%D8%A2%D8%A8%DB%8C-CW202BLUK",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.208Z"
+  },
+  {
+    "id": "torobshop-audio-video-e4a2bc7cbee474b2",
+    "productId": "torobshop-e4a2bc7cbee474b2",
+    "name": "قابلمه بخارپز چندکاره نینجا آمریکا Ninja Foodi CW202GYUK ظرفیت 6.6 لیتر 8 کاره خاکستری",
+    "brand": "",
+    "model": "قابلمه بخارپز چندکاره نینجا آمریکا Ninja Foodi CW202GYUK ظرفیت 6.6 لیتر 8 کاره خاکستری",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 81820000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B8-%DA%A9%D8%A7%D8%B1%D9%87-Ninja-Foodi-%D9%85%D8%AF%D9%84-Possible-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%B3%DB%8C%D9%86%DB%8C-%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%D8%A8%D8%AE%D8%A7%D8%B1%D9%BE%D8%B2-%D8%A7%D9%84%DA%A9-%D9%82%D8%A7%D8%B4%D9%82-%D9%88-%DA%86%D9%86%DA%AF%D8%A7%D9%84-%DB%B6-%DB%B6-%D9%84%DB%8C%D8%AA%D8%B1-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1-%D8%AA%D8%A7-%D8%AF%D9%85%D8%A7%DB%8C-%DB%B2%DB%B6%DB%B0-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D8%AF-%D8%B1%D9%86%DA%AF-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C-%D9%86%D9%85%DA%A9-%D8%AF%D8%B1%DB%8C%D8%A7-CW202GYUK",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.208Z"
   },
   {
     "id": "torobshop-audio-video-387754e6b4491f58",
@@ -4029,7 +4929,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.562Z"
+    "observedAt": "2026-09-05T07:52:57.208Z"
   },
   {
     "id": "torobshop-audio-video-39e57f782fd26013",
@@ -4047,7 +4947,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.562Z"
+    "observedAt": "2026-09-05T07:52:57.208Z"
   },
   {
     "id": "torobshop-audio-video-d62ad3ee5759fcbd",
@@ -4065,7 +4965,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.562Z"
+    "observedAt": "2026-09-05T07:52:57.208Z"
   },
   {
     "id": "torobshop-audio-video-1ed3ae617a915858",
@@ -4083,7 +4983,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.562Z"
+    "observedAt": "2026-09-05T07:52:57.208Z"
   },
   {
     "id": "torobshop-audio-video-aa03a6c561a55d60",
@@ -4101,7 +5001,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.562Z"
+    "observedAt": "2026-09-05T07:52:57.208Z"
   },
   {
     "id": "torobshop-audio-video-0cfaef0e68debb8e",
@@ -4119,7 +5019,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.562Z"
+    "observedAt": "2026-09-05T07:52:57.208Z"
   },
   {
     "id": "torobshop-audio-video-ad6f3f422d15a766",
@@ -4137,7 +5037,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.562Z"
+    "observedAt": "2026-09-05T07:52:57.208Z"
   },
   {
     "id": "torobshop-audio-video-569f3d7e67640e5c",
@@ -4155,7 +5055,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.562Z"
+    "observedAt": "2026-09-05T07:52:57.208Z"
   },
   {
     "id": "torobshop-audio-video-aed9f18e5d887270",
@@ -4173,25 +5073,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.562Z"
-  },
-  {
-    "id": "torobshop-audio-video-0ff8a8fc1fbd561e",
-    "productId": "torobshop-0ff8a8fc1fbd561e",
-    "name": "ماهیتابه ZWILLING Joy Plus 20 سانتی متر با روکش لانه زنبوری",
-    "brand": "",
-    "model": "ماهیتابه ZWILLING Joy Plus 20 سانتی متر با روکش لانه زنبوری",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 19032000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-ZWILLING-Joy-Plus-20-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A8%D8%A7-%D8%B1%D9%88%DA%A9%D8%B4-%D9%84%D8%A7%D9%86%D9%87-%D8%B2%D9%86%D8%A8%D9%88%D8%B1%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.562Z"
+    "observedAt": "2026-09-05T07:52:57.208Z"
   },
   {
     "id": "torobshop-audio-video-dfa4bdc99016ca7e",
@@ -4209,7 +5091,25 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.562Z"
+    "observedAt": "2026-09-05T07:52:57.208Z"
+  },
+  {
+    "id": "torobshop-audio-video-0ff8a8fc1fbd561e",
+    "productId": "torobshop-0ff8a8fc1fbd561e",
+    "name": "ماهیتابه ZWILLING Joy Plus 20 سانتی متر با روکش لانه زنبوری",
+    "brand": "",
+    "model": "ماهیتابه ZWILLING Joy Plus 20 سانتی متر با روکش لانه زنبوری",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 19032000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-ZWILLING-Joy-Plus-20-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A8%D8%A7-%D8%B1%D9%88%DA%A9%D8%B4-%D9%84%D8%A7%D9%86%D9%87-%D8%B2%D9%86%D8%A8%D9%88%D8%B1%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.208Z"
   },
   {
     "id": "torobshop-audio-video-fa434e6aa57c4be7",
@@ -4227,7 +5127,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.562Z"
+    "observedAt": "2026-09-05T07:52:57.208Z"
   },
   {
     "id": "torobshop-audio-video-abdc2adccad9c33d",
@@ -4245,7 +5145,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.562Z"
+    "observedAt": "2026-09-05T07:52:57.208Z"
   },
   {
     "id": "torobshop-audio-video-4b7348b541c036cd",
@@ -4263,7 +5163,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.562Z"
+    "observedAt": "2026-09-05T07:52:57.208Z"
   },
   {
     "id": "torobshop-audio-video-c9e212e51e3633db",
@@ -4281,7 +5181,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.562Z"
+    "observedAt": "2026-09-05T07:52:57.208Z"
   },
   {
     "id": "torobshop-audio-video-695cd4ce1cd48f20",
@@ -4299,7 +5199,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.562Z"
+    "observedAt": "2026-09-05T07:52:57.208Z"
   },
   {
     "id": "torobshop-audio-video-6e397f6c85f56e0e",
@@ -4317,7 +5217,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.562Z"
+    "observedAt": "2026-09-05T07:52:57.208Z"
   },
   {
     "id": "torobshop-audio-video-921dfbcc90d038a0",
@@ -4335,7 +5235,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.562Z"
+    "observedAt": "2026-09-05T07:52:57.208Z"
   },
   {
     "id": "torobshop-audio-video-7464bedef3ecb51e",
@@ -4353,7 +5253,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.562Z"
+    "observedAt": "2026-09-05T07:52:57.209Z"
   },
   {
     "id": "torobshop-audio-video-9318a28bbba0fe53",
@@ -4371,43 +5271,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.562Z"
-  },
-  {
-    "id": "torobshop-audio-video-ae3ba973ea2911ee",
-    "productId": "torobshop-ae3ba973ea2911ee",
-    "name": "زودپز 4.5 لیتر فیسلر آلمان ویتاکوئیک Fissler Vitaquick 4,5 L قطر ۲۲ سانت ۲ طبقه پخت، ساخت آلمان",
-    "brand": "",
-    "model": "زودپز 4.5 لیتر فیسلر آلمان ویتاکوئیک Fissler Vitaquick 4,5 L قطر ۲۲ سانت ۲ طبقه پخت، ساخت آلمان",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 56967000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B2%D9%88%D8%AF%D9%BE%D8%B2-%D8%B2%D9%88%D8%AF%D9%BE%D8%B2-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%88%DB%8C%D8%AA%D8%A7%DA%A9%D9%88%D8%A6%DB%8C%DA%A9-%DB%B4-%DB%B5-%D9%84%DB%8C%D8%AA%D8%B1-%D9%82%D8%B7%D8%B1-%DB%B2%DB%B2-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%B2%D9%88%D8%AF%D9%BE%D8%B2-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%DB%B2-%D8%B7%D8%A8%D9%82%D9%87-%D9%BE%D8%AE%D8%AA-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%DB%B4-%DB%B5-%D9%84%DB%8C%D8%AA%D8%B1",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.562Z"
-  },
-  {
-    "id": "torobshop-audio-video-51009350b9f240d2",
-    "productId": "torobshop-51009350b9f240d2",
-    "name": "ترازوی آشپزخانه دیجیتال ZWILLING Enfinigy، حداکثر وزن 10 کیلوگرم، دقت 0.1 گرم، مشکی",
-    "brand": "",
-    "model": "ترازوی آشپزخانه دیجیتال ZWILLING Enfinigy، حداکثر وزن 10 کیلوگرم، دقت 0.1 گرم، مشکی",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 16748000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%AA%D8%B1%D8%A7%D8%B2%D9%88%DB%8C-%D8%A2%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87-%D8%AF%DB%8C%D8%AC%DB%8C%D8%AA%D8%A7%D9%84-ZWILLING-Enfinigy-%D8%AD%D8%AF%D8%A7%DA%A9%D8%AB%D8%B1-%D9%88%D8%B2%D9%86-10-%DA%A9%DB%8C%D9%84%D9%88%DA%AF%D8%B1%D9%85-%D8%AF%D9%82%D8%AA-0-1-%DA%AF%D8%B1%D9%85-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.562Z"
+    "observedAt": "2026-09-05T07:52:57.209Z"
   },
   {
     "id": "torobshop-audio-video-924e8879fd31e680",
@@ -4425,7 +5289,25 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.562Z"
+    "observedAt": "2026-09-05T07:52:57.209Z"
+  },
+  {
+    "id": "torobshop-audio-video-ae3ba973ea2911ee",
+    "productId": "torobshop-ae3ba973ea2911ee",
+    "name": "زودپز 4.5 لیتر فیسلر آلمان ویتاکوئیک Fissler Vitaquick 4,5 L قطر ۲۲ سانت ۲ طبقه پخت، ساخت آلمان",
+    "brand": "",
+    "model": "زودپز 4.5 لیتر فیسلر آلمان ویتاکوئیک Fissler Vitaquick 4,5 L قطر ۲۲ سانت ۲ طبقه پخت، ساخت آلمان",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 56967000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B2%D9%88%D8%AF%D9%BE%D8%B2-%D8%B2%D9%88%D8%AF%D9%BE%D8%B2-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%88%DB%8C%D8%AA%D8%A7%DA%A9%D9%88%D8%A6%DB%8C%DA%A9-%DB%B4-%DB%B5-%D9%84%DB%8C%D8%AA%D8%B1-%D9%82%D8%B7%D8%B1-%DB%B2%DB%B2-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%B2%D9%88%D8%AF%D9%BE%D8%B2-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%DB%B2-%D8%B7%D8%A8%D9%82%D9%87-%D9%BE%D8%AE%D8%AA-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%DB%B4-%DB%B5-%D9%84%DB%8C%D8%AA%D8%B1",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.209Z"
   },
   {
     "id": "torobshop-audio-video-45c64009916028ba",
@@ -4443,43 +5325,25 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.562Z"
+    "observedAt": "2026-09-05T07:52:57.209Z"
   },
   {
-    "id": "torobshop-audio-video-835b00c0d36d8e10",
-    "productId": "torobshop-835b00c0d36d8e10",
-    "name": "سرویس قابلمه 4 پارچه فیسلر آلمان Fissler Original-Profi Collection",
+    "id": "torobshop-audio-video-51009350b9f240d2",
+    "productId": "torobshop-51009350b9f240d2",
+    "name": "ترازوی آشپزخانه دیجیتال ZWILLING Enfinigy، حداکثر وزن 10 کیلوگرم، دقت 0.1 گرم، مشکی",
     "brand": "",
-    "model": "سرویس قابلمه 4 پارچه فیسلر آلمان Fissler Original-Profi Collection",
+    "model": "ترازوی آشپزخانه دیجیتال ZWILLING Enfinigy، حداکثر وزن 10 کیلوگرم، دقت 0.1 گرم، مشکی",
     "category": "audio-video",
     "subcategory": "تلویزیون",
-    "price": 126881000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D8%A7%D8%B5%D9%84%DB%8C-%D9%BE%D8%B1%D9%88%D9%81%DB%8C-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-4-%D8%AA%DA%A9%D9%87-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%87%D8%A7%DB%8C-%D9%BE%D8%AE%D8%AA-%D9%88-%D9%BE%D8%B2-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%81%D9%84%D8%B2%DB%8C-3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%B1%D8%A8-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-4-%D8%AA%DA%A9%D9%87-3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.562Z"
-  },
-  {
-    "id": "torobshop-audio-video-35f3e181350a9721",
-    "productId": "torobshop-35f3e181350a9721",
-    "name": "چاقوی خود تیز شونده ZWILLING Gourmet با مجموعه 7 تکه چاقو، استیل ضد زنگ، ساخت آلمان، خاکستری Gourmet خاکستری",
-    "brand": "",
-    "model": "چاقوی خود تیز شونده ZWILLING Gourmet با مجموعه 7 تکه چاقو، استیل ضد زنگ، ساخت آلمان، خاکستری Gourmet خاکستری",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 54812000,
+    "price": 16748000,
     "currency": "IRT",
     "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%AE%D9%88%D8%AF-%D8%AA%DB%8C%D8%B2-%D8%B4%D9%88%D9%86%D8%AF%D9%87-ZWILLING-Gourmet-%D8%A8%D8%A7-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-7-%D8%AA%DA%A9%D9%87-%DA%86%D8%A7%D9%82%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C-Gourmet-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C",
+    "productUrl": "https://torobshop.com/products/%D8%AA%D8%B1%D8%A7%D8%B2%D9%88%DB%8C-%D8%A2%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87-%D8%AF%DB%8C%D8%AC%DB%8C%D8%AA%D8%A7%D9%84-ZWILLING-Enfinigy-%D8%AD%D8%AF%D8%A7%DA%A9%D8%AB%D8%B1-%D9%88%D8%B2%D9%86-10-%DA%A9%DB%8C%D9%84%D9%88%DA%AF%D8%B1%D9%85-%D8%AF%D9%82%D8%AA-0-1-%DA%AF%D8%B1%D9%85-%D9%85%D8%B4%DA%A9%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.562Z"
+    "observedAt": "2026-09-05T07:52:57.209Z"
   },
   {
     "id": "torobshop-audio-video-9311f0ec7504f24b",
@@ -4497,43 +5361,43 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.562Z"
+    "observedAt": "2026-09-05T07:52:57.209Z"
   },
   {
-    "id": "torobshop-audio-video-da199e6690f1c782",
-    "productId": "torobshop-da199e6690f1c782",
-    "name": "آسیاب نمک و فلفل استیل وی ام اف آلمان مدل WMF Signature Pro",
+    "id": "torobshop-audio-video-835b00c0d36d8e10",
+    "productId": "torobshop-835b00c0d36d8e10",
+    "name": "سرویس قابلمه 4 پارچه فیسلر آلمان Fissler Original-Profi Collection",
     "brand": "",
-    "model": "آسیاب نمک و فلفل استیل وی ام اف آلمان مدل WMF Signature Pro",
+    "model": "سرویس قابلمه 4 پارچه فیسلر آلمان Fissler Original-Profi Collection",
     "category": "audio-video",
     "subcategory": "تلویزیون",
-    "price": 23282000,
+    "price": 126881000,
     "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%A2%D8%B3%DB%8C%D8%A7%D8%A8-%D9%86%D9%85%DA%A9-%D9%88-%D9%81%D9%84%D9%81%D9%84-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D9%88%DB%8C-%D8%A7%D9%85-%D8%A7%D9%81-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%AF%D9%84-WMF-Signature-Pro",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D8%A7%D8%B5%D9%84%DB%8C-%D9%BE%D8%B1%D9%88%D9%81%DB%8C-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-4-%D8%AA%DA%A9%D9%87-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%87%D8%A7%DB%8C-%D9%BE%D8%AE%D8%AA-%D9%88-%D9%BE%D8%B2-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%81%D9%84%D8%B2%DB%8C-3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%B1%D8%A8-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-4-%D8%AA%DA%A9%D9%87-3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.562Z"
+    "observedAt": "2026-09-05T07:52:57.209Z"
   },
   {
-    "id": "torobshop-audio-video-843617a20d001e4c",
-    "productId": "torobshop-843617a20d001e4c",
-    "name": "زودپز فیسلر آلمان ویتاکوئیک Fissler Vitaquick ( ۱ زودپز ۴.۵ لیتری + ۱ ماهیتابه ۲.۵ لیتری - قطر ۲۲ سانتی‌متر) القایی",
+    "id": "torobshop-audio-video-35f3e181350a9721",
+    "productId": "torobshop-35f3e181350a9721",
+    "name": "چاقوی خود تیز شونده ZWILLING Gourmet با مجموعه 7 تکه چاقو، استیل ضد زنگ، ساخت آلمان، خاکستری Gourmet خاکستری",
     "brand": "",
-    "model": "زودپز فیسلر آلمان ویتاکوئیک Fissler Vitaquick ( ۱ زودپز ۴.۵ لیتری + ۱ ماهیتابه ۲.۵ لیتری - قطر ۲۲ سانتی‌متر) القایی",
+    "model": "چاقوی خود تیز شونده ZWILLING Gourmet با مجموعه 7 تکه چاقو، استیل ضد زنگ، ساخت آلمان، خاکستری Gourmet خاکستری",
     "category": "audio-video",
     "subcategory": "تلویزیون",
-    "price": 93807000,
+    "price": 54812000,
     "currency": "IRT",
     "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D8%B2%D9%88%D8%AF%D9%BE%D8%B2-%D8%B2%D9%88%D8%AF%D9%BE%D8%B2-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%88%DB%8C%D8%AA%D8%A7%DA%A9%D9%88%D8%A6%DB%8C%DA%A9-%DB%B3-%D8%AA%DA%A9%D9%87-%DB%B1-%D8%B2%D9%88%D8%AF%D9%BE%D8%B2-%DB%B4-%DB%B5-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C-%DB%B1-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%DB%B2-%DB%B5-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C-%D9%82%D8%B7%D8%B1-%DB%B2%DB%B2-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%DB%B2-%DB%B5-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C-%DB%B4-%DB%B5-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C",
+    "productUrl": "https://torobshop.com/products/%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%AE%D9%88%D8%AF-%D8%AA%DB%8C%D8%B2-%D8%B4%D9%88%D9%86%D8%AF%D9%87-ZWILLING-Gourmet-%D8%A8%D8%A7-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-7-%D8%AA%DA%A9%D9%87-%DA%86%D8%A7%D9%82%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C-Gourmet-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.562Z"
+    "observedAt": "2026-09-05T07:52:57.209Z"
   },
   {
     "id": "torobshop-audio-video-15def7d563b1e542",
@@ -4551,7 +5415,43 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.562Z"
+    "observedAt": "2026-09-05T07:52:57.209Z"
+  },
+  {
+    "id": "torobshop-audio-video-da199e6690f1c782",
+    "productId": "torobshop-da199e6690f1c782",
+    "name": "آسیاب نمک و فلفل استیل وی ام اف آلمان مدل WMF Signature Pro",
+    "brand": "",
+    "model": "آسیاب نمک و فلفل استیل وی ام اف آلمان مدل WMF Signature Pro",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 23282000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%A2%D8%B3%DB%8C%D8%A7%D8%A8-%D9%86%D9%85%DA%A9-%D9%88-%D9%81%D9%84%D9%81%D9%84-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D9%88%DB%8C-%D8%A7%D9%85-%D8%A7%D9%81-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%AF%D9%84-WMF-Signature-Pro",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.209Z"
+  },
+  {
+    "id": "torobshop-audio-video-843617a20d001e4c",
+    "productId": "torobshop-843617a20d001e4c",
+    "name": "زودپز فیسلر آلمان ویتاکوئیک Fissler Vitaquick ( ۱ زودپز ۴.۵ لیتری + ۱ ماهیتابه ۲.۵ لیتری - قطر ۲۲ سانتی‌متر) القایی",
+    "brand": "",
+    "model": "زودپز فیسلر آلمان ویتاکوئیک Fissler Vitaquick ( ۱ زودپز ۴.۵ لیتری + ۱ ماهیتابه ۲.۵ لیتری - قطر ۲۲ سانتی‌متر) القایی",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 93807000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D8%B2%D9%88%D8%AF%D9%BE%D8%B2-%D8%B2%D9%88%D8%AF%D9%BE%D8%B2-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%88%DB%8C%D8%AA%D8%A7%DA%A9%D9%88%D8%A6%DB%8C%DA%A9-%DB%B3-%D8%AA%DA%A9%D9%87-%DB%B1-%D8%B2%D9%88%D8%AF%D9%BE%D8%B2-%DB%B4-%DB%B5-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C-%DB%B1-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%DB%B2-%DB%B5-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C-%D9%82%D8%B7%D8%B1-%DB%B2%DB%B2-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%DB%B2-%DB%B5-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C-%DB%B4-%DB%B5-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.209Z"
   },
   {
     "id": "torobshop-audio-video-37de96dd1d4a33c3",
@@ -4569,25 +5469,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.562Z"
-  },
-  {
-    "id": "torobshop-audio-video-ee166c5666efcec5",
-    "productId": "torobshop-ee166c5666efcec5",
-    "name": "سرویس قابلمه ماهیتابه 3 پارچه فیسلر آلمان Fissler Original-Profi Collection قابلمه با درب فلزی (1 قابلمه 1 ماهیتابه 1 قابلمه بدون درب) القایی",
-    "brand": "",
-    "model": "سرویس قابلمه ماهیتابه 3 پارچه فیسلر آلمان Fissler Original-Profi Collection قابلمه با درب فلزی (1 قابلمه 1 ماهیتابه 1 قابلمه بدون درب) القایی",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 93866000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-3-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-Fissler-Original-Profi-Collection-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%81%D9%84%D8%B2%DB%8C-1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-1-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%B1%D8%A8-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.562Z"
+    "observedAt": "2026-09-05T07:52:57.209Z"
   },
   {
     "id": "torobshop-audio-video-67d9add46426dfe8",
@@ -4605,7 +5487,25 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.562Z"
+    "observedAt": "2026-09-05T07:52:57.209Z"
+  },
+  {
+    "id": "torobshop-audio-video-ee166c5666efcec5",
+    "productId": "torobshop-ee166c5666efcec5",
+    "name": "سرویس قابلمه ماهیتابه 3 پارچه فیسلر آلمان Fissler Original-Profi Collection قابلمه با درب فلزی (1 قابلمه 1 ماهیتابه 1 قابلمه بدون درب) القایی",
+    "brand": "",
+    "model": "سرویس قابلمه ماهیتابه 3 پارچه فیسلر آلمان Fissler Original-Profi Collection قابلمه با درب فلزی (1 قابلمه 1 ماهیتابه 1 قابلمه بدون درب) القایی",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 93866000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-3-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-Fissler-Original-Profi-Collection-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%81%D9%84%D8%B2%DB%8C-1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-1-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%B1%D8%A8-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.209Z"
   },
   {
     "id": "torobshop-audio-video-fc88260817f3414e",
@@ -4623,43 +5523,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.562Z"
-  },
-  {
-    "id": "torobshop-audio-video-5cab57205d377e1f",
-    "productId": "torobshop-5cab57205d377e1f",
-    "name": "ماهیتابه دو دسته فیسلر آلمان Fissler Pure Collection/Edelstahl (قطر ۲۸ سانتی‌متر) بدون پوشش لبه بلند",
-    "brand": "",
-    "model": "ماهیتابه دو دسته فیسلر آلمان Fissler Pure Collection/Edelstahl (قطر ۲۸ سانتی‌متر) بدون پوشش لبه بلند",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 39194000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D8%AE%D8%A7%D9%84%D8%B5-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%82%D8%B7%D8%B1-%DB%B2%DB%B8-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A8%D8%AF%D9%88%D9%86-%D9%BE%D9%88%D8%B4%D8%B4-%D9%BE%DB%8C%D9%85%D8%A7%D9%86%D9%87-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D9%84%D8%A8%D9%87-%D8%A8%D9%84%D9%86%D8%AF-%DB%B1%DB%B0-%D8%B3%D8%A7%D9%84-%DA%AF%D8%A7%D8%B1%D8%A7%D9%86%D8%AA%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.562Z"
-  },
-  {
-    "id": "torobshop-audio-video-bbb69afb3e332a2c",
-    "productId": "torobshop-bbb69afb3e332a2c",
-    "name": "سرویس قابلمه ۵ تکه ZWILLING Quadro با درب شیشه‌ای، مناسب برای اجاق گازهای القایی، بدون روکش، استیل ضد زنگ، نقره‌ای.",
-    "brand": "",
-    "model": "سرویس قابلمه ۵ تکه ZWILLING Quadro با درب شیشه‌ای، مناسب برای اجاق گازهای القایی، بدون روکش، استیل ضد زنگ، نقره‌ای.",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 48468000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B5-%D8%AA%DA%A9%D9%87-ZWILLING-Quadro-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2%D9%87%D8%A7%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%DA%A9%D8%B4-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.562Z"
+    "observedAt": "2026-09-05T07:52:57.209Z"
   },
   {
     "id": "torobshop-audio-video-3877183810368792",
@@ -4677,61 +5541,25 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.562Z"
+    "observedAt": "2026-09-05T07:52:57.209Z"
   },
   {
-    "id": "torobshop-audio-video-cb9e4b877badae34",
-    "productId": "torobshop-cb9e4b877badae34",
-    "name": "دسته جایگزین وی ام اف آلمان WMF Perfect Plus برای زودپز 2.5 لیتری 18 سانتی‌متری، پلاستیکی، مقاوم در برابر شعله، مشکی",
+    "id": "torobshop-audio-video-5cab57205d377e1f",
+    "productId": "torobshop-5cab57205d377e1f",
+    "name": "ماهیتابه دو دسته فیسلر آلمان Fissler Pure Collection/Edelstahl (قطر ۲۸ سانتی‌متر) بدون پوشش لبه بلند",
     "brand": "",
-    "model": "دسته جایگزین وی ام اف آلمان WMF Perfect Plus برای زودپز 2.5 لیتری 18 سانتی‌متری، پلاستیکی، مقاوم در برابر شعله، مشکی",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 12942000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%D9%87-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-WMF-Perfect-Plus-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B2%D9%88%D8%AF%D9%BE%D8%B2-2-5-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C-18-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C-%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9%DB%8C-%D9%85%D9%82%D8%A7%D9%88%D9%85-%D8%AF%D8%B1-%D8%A8%D8%B1%D8%A7%D8%A8%D8%B1-%D8%B4%D8%B9%D9%84%D9%87-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.562Z"
-  },
-  {
-    "id": "torobshop-audio-video-e2467d5cbf85ce81",
-    "productId": "torobshop-e2467d5cbf85ce81",
-    "name": "زودپز فیسلر آلمان ویتاویت پریمیوم Fissler Vitavit Premium (1.8 لیتر، قطر 18 سانتی‌متر)، 4 طبقه پخت، شامل محفظه",
-    "brand": "",
-    "model": "زودپز فیسلر آلمان ویتاویت پریمیوم Fissler Vitavit Premium (1.8 لیتر، قطر 18 سانتی‌متر)، 4 طبقه پخت، شامل محفظه",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 58356000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B2%D9%88%D8%AF%D9%BE%D8%B2-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%88%DB%8C%D8%AA%D8%A7%D9%88%DB%8C%D8%AA-%D9%BE%D8%B1%DB%8C%D9%85%DB%8C%D9%88%D9%85-%D8%B3%D8%B1%DB%8C%D8%B9-1-8-%D9%84%DB%8C%D8%AA%D8%B1-%D9%82%D8%B7%D8%B1-18-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-4-%D8%B7%D8%A8%D9%82%D9%87-%D9%BE%D8%AE%D8%AA-%D8%B4%D8%A7%D9%85%D9%84-%D9%85%D8%AD%D9%81%D8%B8%D9%87-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-1-8-%D9%84%DB%8C%D8%AA%D8%B1",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.562Z"
-  },
-  {
-    "id": "torobshop-audio-video-30d122f629f89166",
-    "productId": "torobshop-30d122f629f89166",
-    "name": "ماهیتابه فیسلر آلمان Fissler Pure Collection/Edelstahl (قطر 28 سانتی‌متر) بدون پوشش، پیمانه داخلی",
-    "brand": "",
-    "model": "ماهیتابه فیسلر آلمان Fissler Pure Collection/Edelstahl (قطر 28 سانتی‌متر) بدون پوشش، پیمانه داخلی",
+    "model": "ماهیتابه دو دسته فیسلر آلمان Fissler Pure Collection/Edelstahl (قطر ۲۸ سانتی‌متر) بدون پوشش لبه بلند",
     "category": "audio-video",
     "subcategory": "تلویزیون",
     "price": 39194000,
     "currency": "IRT",
     "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D8%AE%D8%A7%D9%84%D8%B5-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%82%D8%B7%D8%B1-28-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A8%D8%AF%D9%88%D9%86-%D9%BE%D9%88%D8%B4%D8%B4-%D9%BE%DB%8C%D9%85%D8%A7%D9%86%D9%87-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D8%AE%D8%A7%D9%84%D8%B5-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%82%D8%B7%D8%B1-%DB%B2%DB%B8-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A8%D8%AF%D9%88%D9%86-%D9%BE%D9%88%D8%B4%D8%B4-%D9%BE%DB%8C%D9%85%D8%A7%D9%86%D9%87-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D9%84%D8%A8%D9%87-%D8%A8%D9%84%D9%86%D8%AF-%DB%B1%DB%B0-%D8%B3%D8%A7%D9%84-%DA%AF%D8%A7%D8%B1%D8%A7%D9%86%D8%AA%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.562Z"
+    "observedAt": "2026-09-05T07:52:57.209Z"
   },
   {
     "id": "torobshop-audio-video-d9fbeecaba31c602",
@@ -4749,7 +5577,79 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.562Z"
+    "observedAt": "2026-09-05T07:52:57.209Z"
+  },
+  {
+    "id": "torobshop-audio-video-bbb69afb3e332a2c",
+    "productId": "torobshop-bbb69afb3e332a2c",
+    "name": "سرویس قابلمه ۵ تکه ZWILLING Quadro با درب شیشه‌ای، مناسب برای اجاق گازهای القایی، بدون روکش، استیل ضد زنگ، نقره‌ای.",
+    "brand": "",
+    "model": "سرویس قابلمه ۵ تکه ZWILLING Quadro با درب شیشه‌ای، مناسب برای اجاق گازهای القایی، بدون روکش، استیل ضد زنگ، نقره‌ای.",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 48468000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B5-%D8%AA%DA%A9%D9%87-ZWILLING-Quadro-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2%D9%87%D8%A7%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%DA%A9%D8%B4-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.209Z"
+  },
+  {
+    "id": "torobshop-audio-video-cb9e4b877badae34",
+    "productId": "torobshop-cb9e4b877badae34",
+    "name": "دسته جایگزین وی ام اف آلمان WMF Perfect Plus برای زودپز 2.5 لیتری 18 سانتی‌متری، پلاستیکی، مقاوم در برابر شعله، مشکی",
+    "brand": "",
+    "model": "دسته جایگزین وی ام اف آلمان WMF Perfect Plus برای زودپز 2.5 لیتری 18 سانتی‌متری، پلاستیکی، مقاوم در برابر شعله، مشکی",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 12942000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%D9%87-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-WMF-Perfect-Plus-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B2%D9%88%D8%AF%D9%BE%D8%B2-2-5-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C-18-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C-%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9%DB%8C-%D9%85%D9%82%D8%A7%D9%88%D9%85-%D8%AF%D8%B1-%D8%A8%D8%B1%D8%A7%D8%A8%D8%B1-%D8%B4%D8%B9%D9%84%D9%87-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.209Z"
+  },
+  {
+    "id": "torobshop-audio-video-e2467d5cbf85ce81",
+    "productId": "torobshop-e2467d5cbf85ce81",
+    "name": "زودپز فیسلر آلمان ویتاویت پریمیوم Fissler Vitavit Premium (1.8 لیتر، قطر 18 سانتی‌متر)، 4 طبقه پخت، شامل محفظه",
+    "brand": "",
+    "model": "زودپز فیسلر آلمان ویتاویت پریمیوم Fissler Vitavit Premium (1.8 لیتر، قطر 18 سانتی‌متر)، 4 طبقه پخت، شامل محفظه",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 58356000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B2%D9%88%D8%AF%D9%BE%D8%B2-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%88%DB%8C%D8%AA%D8%A7%D9%88%DB%8C%D8%AA-%D9%BE%D8%B1%DB%8C%D9%85%DB%8C%D9%88%D9%85-%D8%B3%D8%B1%DB%8C%D8%B9-1-8-%D9%84%DB%8C%D8%AA%D8%B1-%D9%82%D8%B7%D8%B1-18-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-4-%D8%B7%D8%A8%D9%82%D9%87-%D9%BE%D8%AE%D8%AA-%D8%B4%D8%A7%D9%85%D9%84-%D9%85%D8%AD%D9%81%D8%B8%D9%87-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-1-8-%D9%84%DB%8C%D8%AA%D8%B1",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.209Z"
+  },
+  {
+    "id": "torobshop-audio-video-30d122f629f89166",
+    "productId": "torobshop-30d122f629f89166",
+    "name": "ماهیتابه فیسلر آلمان Fissler Pure Collection/Edelstahl (قطر 28 سانتی‌متر) بدون پوشش، پیمانه داخلی",
+    "brand": "",
+    "model": "ماهیتابه فیسلر آلمان Fissler Pure Collection/Edelstahl (قطر 28 سانتی‌متر) بدون پوشش، پیمانه داخلی",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 39194000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D8%AE%D8%A7%D9%84%D8%B5-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%82%D8%B7%D8%B1-28-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A8%D8%AF%D9%88%D9%86-%D9%BE%D9%88%D8%B4%D8%B4-%D9%BE%DB%8C%D9%85%D8%A7%D9%86%D9%87-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.209Z"
   },
   {
     "id": "torobshop-audio-video-ef26e366fa305ced",
@@ -4767,7 +5667,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.562Z"
+    "observedAt": "2026-09-05T07:52:57.209Z"
   },
   {
     "id": "torobshop-audio-video-3e03d59443676707",
@@ -4785,7 +5685,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.562Z"
+    "observedAt": "2026-09-05T07:52:57.209Z"
   },
   {
     "id": "torobshop-audio-video-07103c8f0e3ce377",
@@ -4803,7 +5703,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.562Z"
+    "observedAt": "2026-09-05T07:52:57.209Z"
   },
   {
     "id": "torobshop-audio-video-4415e2cd944c4e59",
@@ -4821,151 +5721,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.562Z"
-  },
-  {
-    "id": "torobshop-audio-video-d397df756b9f1338",
-    "productId": "torobshop-d397df756b9f1338",
-    "name": "ماهیتابه ZWILLING TrueFlow 24 سانتی‌متر، استیل ضد زنگ، روکش نچسب، مشکی",
-    "brand": "",
-    "model": "ماهیتابه ZWILLING TrueFlow 24 سانتی‌متر، استیل ضد زنگ، روکش نچسب، مشکی",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 19285000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-ZWILLING-TrueFlow-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.562Z"
-  },
-  {
-    "id": "torobshop-audio-video-05c540b60ea3624b",
-    "productId": "torobshop-05c540b60ea3624b",
-    "name": "ماهیتابه استیل ضد زنگ فیسلر سانفرانسیسکو، 16 سانتی‌متر (1.2 لیتر) با درب شیشه‌ای - استیل ضد زنگ 18/10، پایه سوپرترمیک، پیمانه، لبه ریختن، سازگار با القایی",
-    "brand": "",
-    "model": "ماهیتابه استیل ضد زنگ فیسلر سانفرانسیسکو، 16 سانتی‌متر (1.2 لیتر) با درب شیشه‌ای - استیل ضد زنگ 18/10، پایه سوپرترمیک، پیمانه، لبه ریختن، سازگار با القایی",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 18778000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%B3%D8%A7%D9%86%D9%81%D8%B1%D8%A7%D9%86%D8%B3%DB%8C%D8%B3%DA%A9%D9%88-16-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-1-2-%D9%84%DB%8C%D8%AA%D8%B1-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-18-10-%D9%BE%D8%A7%DB%8C%D9%87-%D8%B3%D9%88%D9%BE%D8%B1%D8%AA%D8%B1%D9%85%DB%8C%DA%A9-%D9%BE%DB%8C%D9%85%D8%A7%D9%86%D9%87-%D9%84%D8%A8%D9%87-%D8%B1%DB%8C%D8%AE%D8%AA%D9%86-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.562Z"
-  },
-  {
-    "id": "torobshop-audio-video-40f09e3a04b68146",
-    "productId": "torobshop-40f09e3a04b68146",
-    "name": "سودا ساز آب گازدار ساز وی ام اف آلمان WMF Element One دستگاه حباب ساز تمام اتوماتیک",
-    "brand": "",
-    "model": "سودا ساز آب گازدار ساز وی ام اف آلمان WMF Element One دستگاه حباب ساز تمام اتوماتیک",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 54084000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%AC%D9%88%D8%B4%D8%A7%D9%86%D9%86%D8%AF%D9%87-%D8%A2%D8%A8-WMF-Element-One-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%AD%D8%A8%D8%A7%D8%A8-%D8%B3%D8%A7%D8%B2-%D8%AA%D9%85%D8%A7%D9%85-%D8%A7%D8%AA%D9%88%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-%D8%A7%D8%B2-%D8%AC%D9%86%D8%B3-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%A8%D8%A7-3-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%DA%A9%D9%85-%D8%AC%D8%A7-%D9%86%D9%88%D8%B4%D8%A7%D8%A8%D9%87-%D8%B3%D8%A7%D8%B2-%D9%88-%D8%AC%D9%88%D8%B4%D8%A7%D9%86%D9%86%D8%AF%D9%87-%D8%B2%DB%8C%D8%A8%D8%A7-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%84%D8%B0%D8%AA-%D8%A8%D8%B1%D8%AF%D9%86-%D8%A7%D8%B2-%D8%B7%D8%B9%D9%85%DB%8C-%D8%AF%D9%84%DA%86%D8%B3%D8%A8-%D8%AA%D9%86%D9%87%D8%A7-%D8%A8%D8%A7-%D9%84%D9%85%D8%B3-%DB%8C%DA%A9-%D8%AF%DA%A9%D9%85%D9%87-%D8%B1%D9%86%DA%AF-%DA%AF%D8%AF%D8%A7%D8%B2%D9%87-%D8%A7%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.563Z"
-  },
-  {
-    "id": "torobshop-audio-video-e4088b7a2b6ea10b",
-    "productId": "torobshop-e4088b7a2b6ea10b",
-    "name": "سرویس قابلمه 4 پارچه اینتنسا فیسلر آلمان Fissler Intensa قابلمه با درب فلزی (2 قابلمه، 1 قابلمه کوچک، 1 تابه - بدون درب) القایی، سرویس",
-    "brand": "",
-    "model": "سرویس قابلمه 4 پارچه اینتنسا فیسلر آلمان Fissler Intensa قابلمه با درب فلزی (2 قابلمه، 1 قابلمه کوچک، 1 تابه - بدون درب) القایی، سرویس",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 97350000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%A7%DB%8C%D9%86%D8%AA%D9%86%D8%B3%D8%A7-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-4-%D8%AA%DA%A9%D9%87-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%81%D9%84%D8%B2%DB%8C-2-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-1-%D8%AA%D8%A7%D8%A8%D9%87-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%B1%D8%A8-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-4-%D8%AA%DA%A9%D9%87-2-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-1-%D8%AA%D8%A7%D8%A8%D9%87",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.563Z"
-  },
-  {
-    "id": "torobshop-audio-video-0674abec1e1ff3bb",
-    "productId": "torobshop-0674abec1e1ff3bb",
-    "name": "سرویس قابلمه 5 پارچه فیسلر آلمان اینتنسا Fissler Intensa با درب فلزی (3 قابلمه، 1 قابلمه کوچک، 1 تابه - بدون درب) سازگار با اجاق القایی",
-    "brand": "",
-    "model": "سرویس قابلمه 5 پارچه فیسلر آلمان اینتنسا Fissler Intensa با درب فلزی (3 قابلمه، 1 قابلمه کوچک، 1 تابه - بدون درب) سازگار با اجاق القایی",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 108515000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%A7%DB%8C%D9%86%D8%AA%D9%86%D8%B3%D8%A7-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-5-%D8%AA%DA%A9%D9%87-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%81%D9%84%D8%B2%DB%8C-3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-1-%D8%AA%D8%A7%D8%A8%D9%87-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%B1%D8%A8-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-5-%D8%AA%DA%A9%D9%87-3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-1-%D8%AA%D8%A7%D8%A8%D9%87",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.563Z"
-  },
-  {
-    "id": "torobshop-audio-video-c8ae91ddddbffeeb",
-    "productId": "torobshop-c8ae91ddddbffeeb",
-    "name": "ماهیتابه درب دار کباب‌ پز فیسلر آلمان Fissler Edelstahl (8.8 لیتر - قطر 38 سانتی‌متر) ظرف کاسرول بیضی بزرگ، با درب شیشه‌ای",
-    "brand": "",
-    "model": "ماهیتابه درب دار کباب‌ پز فیسلر آلمان Fissler Edelstahl (8.8 لیتر - قطر 38 سانتی‌متر) ظرف کاسرول بیضی بزرگ، با درب شیشه‌ای",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 50553000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1%D8%A8-%D8%AF%D8%A7%D8%B1-%DA%A9%D8%A8%D8%A7%D8%A8-%D9%BE%D8%B2-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-Fissler-Edelstahl-8-8-%D9%84%DB%8C%D8%AA%D8%B1-%D9%82%D8%B7%D8%B1-38-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%B8%D8%B1%D9%81-%DA%A9%D8%A7%D8%B3%D8%B1%D9%88%D9%84-%D8%A8%DB%8C%D8%B6%DB%8C-%D8%A8%D8%B2%D8%B1%DA%AF-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.563Z"
-  },
-  {
-    "id": "torobshop-audio-video-e0d95c7bfcafe827",
-    "productId": "torobshop-e0d95c7bfcafe827",
-    "name": "سرویس قابلمه 5 پارچه فیسلر آلمان Fissler Original Collection 5-teilig با درب فلزی (3 قابلمه، 1 قابلمه کوچک، 1 تابه کوچک - بدون درب) القایی",
-    "brand": "",
-    "model": "سرویس قابلمه 5 پارچه فیسلر آلمان Fissler Original Collection 5-teilig با درب فلزی (3 قابلمه، 1 قابلمه کوچک، 1 تابه کوچک - بدون درب) القایی",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 140722000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-5-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-Fissler-Original-Collection-5-teilig-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%81%D9%84%D8%B2%DB%8C-3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-1-%D8%AA%D8%A7%D8%A8%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%B1%D8%A8-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.563Z"
-  },
-  {
-    "id": "torobshop-audio-video-d68b8e3ac997acb1",
-    "productId": "torobshop-d68b8e3ac997acb1",
-    "name": "ماهیتابه دو دسته فیسلر آلمان Fissler Original-Profi Collection (سایز ۲۸ سانتی‌متر)",
-    "brand": "",
-    "model": "ماهیتابه دو دسته فیسلر آلمان Fissler Original-Profi Collection (سایز ۲۸ سانتی‌متر)",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 46822000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%A7%D9%88%D8%B1%D8%AC%DB%8C%D9%86%D8%A7%D9%84-%D9%BE%D8%B1%D9%88%D9%81%DB%8C-%DA%A9%D8%A7%D9%84%DA%A9%D8%B4%D9%86-%D8%B3%D8%A7%DB%8C%D8%B2-%DB%B2%DB%B8-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%DB%B1%DB%B8-%DB%B1%DB%B0-%D8%B3%D8%B7%D8%AD-%D9%BE%D8%AE%D8%AA-%D9%88-%D9%BE%D8%B2-%D9%86%D9%88%D9%88%DA%AF%D8%B1%DB%8C%D9%84-%D9%BE%D8%A7%DB%8C%D9%87-%D8%AA%D9%85%D8%A7%D9%85-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%DA%A9%D9%88%DA%A9-%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1-%D9%85%D8%AF%D9%84-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%DB%B2%DB%B8-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.563Z"
+    "observedAt": "2026-09-05T07:52:57.209Z"
   },
   {
     "id": "torobshop-audio-video-b0b661c9d6dfca29",
@@ -4983,43 +5739,79 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.563Z"
+    "observedAt": "2026-09-05T07:52:57.209Z"
   },
   {
-    "id": "torobshop-audio-video-f8b7784f8ba04a47",
-    "productId": "torobshop-f8b7784f8ba04a47",
-    "name": "سودا ساز آب گازدار ساز وی ام اف آلمان WMF Element One Water دستگاه حباب ساز تمام اتوماتیک آبی",
+    "id": "torobshop-audio-video-e0d95c7bfcafe827",
+    "productId": "torobshop-e0d95c7bfcafe827",
+    "name": "سرویس قابلمه 5 پارچه فیسلر آلمان Fissler Original Collection 5-teilig با درب فلزی (3 قابلمه، 1 قابلمه کوچک، 1 تابه کوچک - بدون درب) القایی",
     "brand": "",
-    "model": "سودا ساز آب گازدار ساز وی ام اف آلمان WMF Element One Water دستگاه حباب ساز تمام اتوماتیک آبی",
+    "model": "سرویس قابلمه 5 پارچه فیسلر آلمان Fissler Original Collection 5-teilig با درب فلزی (3 قابلمه، 1 قابلمه کوچک، 1 تابه کوچک - بدون درب) القایی",
     "category": "audio-video",
     "subcategory": "تلویزیون",
-    "price": 54084000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%DA%AF%D8%A7%D8%B2%D8%AF%D8%A7%D8%B1-%D8%A2%D8%A8-WMF-Element-One-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%AD%D8%A8%D8%A7%D8%A8-%D8%B3%D8%A7%D8%B2-%D8%AA%D9%85%D8%A7%D9%85-%D8%A7%D8%AA%D9%88%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-%D8%A7%D8%B2-%D8%AC%D9%86%D8%B3-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%A8%D8%A7-3-%D8%B3%D8%B7%D8%AD-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%DA%A9%D9%85-%D8%AC%D8%A7-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%86%D9%88%D8%B4%D8%A7%D8%A8%D9%87-%D8%B3%D8%A7%D8%B2-%D8%B2%DB%8C%D8%A8%D8%A7-%D9%88-%DA%AF%D8%A7%D8%B2%D8%AF%D8%A7%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%84%D8%B0%D8%AA-%D8%A8%D8%B1%D8%AF%D9%86-%D8%A7%D8%B2-%D9%86%D9%88%D8%B4%DB%8C%D8%AF%D9%86%DB%8C-%D8%B1%D9%86%DA%AF-%D8%AC%D8%B1%DB%8C%D8%A7%D9%86-%DB%8C%D8%AE",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.563Z"
-  },
-  {
-    "id": "torobshop-audio-video-0e4d04ef83a810db",
-    "productId": "torobshop-0e4d04ef83a810db",
-    "name": "ماهیتابه ووک نانجینگ فیسلر آلمان Fissler Nanjing Wok (قطر ۳۶ سانتی‌متر) تابه ووک بزرگ بدون روکش با درب شیشه‌ای شامل محفظه بخارپز",
-    "brand": "",
-    "model": "ماهیتابه ووک نانجینگ فیسلر آلمان Fissler Nanjing Wok (قطر ۳۶ سانتی‌متر) تابه ووک بزرگ بدون روکش با درب شیشه‌ای شامل محفظه بخارپز",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 58356000,
+    "price": 140722000,
     "currency": "IRT",
     "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%88%D9%88%DA%A9-%D9%86%D8%A7%D9%86%D8%AC%DB%8C%D9%86%DA%AF-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-Fissler-Nanjing-Wok-%D9%82%D8%B7%D8%B1-%DB%B3%DB%B6-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%AA%D8%A7%D8%A8%D9%87-%D9%88%D9%88%DA%A9-%D8%A8%D8%B2%D8%B1%DA%AF-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%DA%A9%D8%B4-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%B4%D8%A7%D9%85%D9%84-%D9%85%D8%AD%D9%81%D8%B8%D9%87-%D8%A8%D8%AE%D8%A7%D8%B1%D9%BE%D8%B2",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-5-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-Fissler-Original-Collection-5-teilig-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%81%D9%84%D8%B2%DB%8C-3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-1-%D8%AA%D8%A7%D8%A8%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%B1%D8%A8-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.563Z"
+    "observedAt": "2026-09-05T07:52:57.209Z"
+  },
+  {
+    "id": "torobshop-audio-video-d68b8e3ac997acb1",
+    "productId": "torobshop-d68b8e3ac997acb1",
+    "name": "ماهیتابه دو دسته فیسلر آلمان Fissler Original-Profi Collection (سایز ۲۸ سانتی‌متر)",
+    "brand": "",
+    "model": "ماهیتابه دو دسته فیسلر آلمان Fissler Original-Profi Collection (سایز ۲۸ سانتی‌متر)",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 46822000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%A7%D9%88%D8%B1%D8%AC%DB%8C%D9%86%D8%A7%D9%84-%D9%BE%D8%B1%D9%88%D9%81%DB%8C-%DA%A9%D8%A7%D9%84%DA%A9%D8%B4%D9%86-%D8%B3%D8%A7%DB%8C%D8%B2-%DB%B2%DB%B8-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%DB%B1%DB%B8-%DB%B1%DB%B0-%D8%B3%D8%B7%D8%AD-%D9%BE%D8%AE%D8%AA-%D9%88-%D9%BE%D8%B2-%D9%86%D9%88%D9%88%DA%AF%D8%B1%DB%8C%D9%84-%D9%BE%D8%A7%DB%8C%D9%87-%D8%AA%D9%85%D8%A7%D9%85-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%DA%A9%D9%88%DA%A9-%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1-%D9%85%D8%AF%D9%84-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%DB%B2%DB%B8-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.209Z"
+  },
+  {
+    "id": "torobshop-audio-video-d397df756b9f1338",
+    "productId": "torobshop-d397df756b9f1338",
+    "name": "ماهیتابه ZWILLING TrueFlow 24 سانتی‌متر، استیل ضد زنگ، روکش نچسب، مشکی",
+    "brand": "",
+    "model": "ماهیتابه ZWILLING TrueFlow 24 سانتی‌متر، استیل ضد زنگ، روکش نچسب، مشکی",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 19285000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-ZWILLING-TrueFlow-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%DA%86%D8%B3%D8%A8-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.209Z"
+  },
+  {
+    "id": "torobshop-audio-video-05c540b60ea3624b",
+    "productId": "torobshop-05c540b60ea3624b",
+    "name": "ماهیتابه استیل ضد زنگ فیسلر سانفرانسیسکو، 16 سانتی‌متر (1.2 لیتر) با درب شیشه‌ای - استیل ضد زنگ 18/10، پایه سوپرترمیک، پیمانه، لبه ریختن، سازگار با القایی",
+    "brand": "",
+    "model": "ماهیتابه استیل ضد زنگ فیسلر سانفرانسیسکو، 16 سانتی‌متر (1.2 لیتر) با درب شیشه‌ای - استیل ضد زنگ 18/10، پایه سوپرترمیک، پیمانه، لبه ریختن، سازگار با القایی",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 18778000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%B3%D8%A7%D9%86%D9%81%D8%B1%D8%A7%D9%86%D8%B3%DB%8C%D8%B3%DA%A9%D9%88-16-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-1-2-%D9%84%DB%8C%D8%AA%D8%B1-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-18-10-%D9%BE%D8%A7%DB%8C%D9%87-%D8%B3%D9%88%D9%BE%D8%B1%D8%AA%D8%B1%D9%85%DB%8C%DA%A9-%D9%BE%DB%8C%D9%85%D8%A7%D9%86%D9%87-%D9%84%D8%A8%D9%87-%D8%B1%DB%8C%D8%AE%D8%AA%D9%86-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.209Z"
   },
   {
     "id": "torobshop-audio-video-eb3d93fc719b9727",
@@ -5037,25 +5829,79 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.563Z"
+    "observedAt": "2026-09-05T07:52:57.209Z"
   },
   {
-    "id": "torobshop-audio-video-d39a2f5ac6cd9a7f",
-    "productId": "torobshop-d39a2f5ac6cd9a7f",
-    "name": "سرویس قابلمه 3 پارچه فیسلر آلمان Fissler Original-Profi Collection القایی",
+    "id": "torobshop-audio-video-40f09e3a04b68146",
+    "productId": "torobshop-40f09e3a04b68146",
+    "name": "سودا ساز آب گازدار ساز وی ام اف آلمان WMF Element One دستگاه حباب ساز تمام اتوماتیک",
     "brand": "",
-    "model": "سرویس قابلمه 3 پارچه فیسلر آلمان Fissler Original-Profi Collection القایی",
+    "model": "سودا ساز آب گازدار ساز وی ام اف آلمان WMF Element One دستگاه حباب ساز تمام اتوماتیک",
     "category": "audio-video",
     "subcategory": "تلویزیون",
-    "price": 91335000,
+    "price": 54084000,
     "currency": "IRT",
     "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D8%A7%D8%B5%D9%84%DB%8C-%D8%AD%D8%B1%D9%81%D9%87-%D8%A7%DB%8C-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%DB%B3-%D8%AA%DA%A9%D9%87-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%81%D9%84%D8%B2%DB%8C-%DB%B1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%DB%B1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%DB%B3-%D8%AA%DA%A9%D9%87-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%AC%D9%88%D8%B4%D8%A7%D9%86%D9%86%D8%AF%D9%87-%D8%A2%D8%A8-WMF-Element-One-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%AD%D8%A8%D8%A7%D8%A8-%D8%B3%D8%A7%D8%B2-%D8%AA%D9%85%D8%A7%D9%85-%D8%A7%D8%AA%D9%88%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-%D8%A7%D8%B2-%D8%AC%D9%86%D8%B3-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%A8%D8%A7-3-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%DA%A9%D9%85-%D8%AC%D8%A7-%D9%86%D9%88%D8%B4%D8%A7%D8%A8%D9%87-%D8%B3%D8%A7%D8%B2-%D9%88-%D8%AC%D9%88%D8%B4%D8%A7%D9%86%D9%86%D8%AF%D9%87-%D8%B2%DB%8C%D8%A8%D8%A7-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%84%D8%B0%D8%AA-%D8%A8%D8%B1%D8%AF%D9%86-%D8%A7%D8%B2-%D8%B7%D8%B9%D9%85%DB%8C-%D8%AF%D9%84%DA%86%D8%B3%D8%A8-%D8%AA%D9%86%D9%87%D8%A7-%D8%A8%D8%A7-%D9%84%D9%85%D8%B3-%DB%8C%DA%A9-%D8%AF%DA%A9%D9%85%D9%87-%D8%B1%D9%86%DA%AF-%DA%AF%D8%AF%D8%A7%D8%B2%D9%87-%D8%A7%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.563Z"
+    "observedAt": "2026-09-05T07:52:57.209Z"
+  },
+  {
+    "id": "torobshop-audio-video-e4088b7a2b6ea10b",
+    "productId": "torobshop-e4088b7a2b6ea10b",
+    "name": "سرویس قابلمه 4 پارچه اینتنسا فیسلر آلمان Fissler Intensa قابلمه با درب فلزی (2 قابلمه، 1 قابلمه کوچک، 1 تابه - بدون درب) القایی، سرویس",
+    "brand": "",
+    "model": "سرویس قابلمه 4 پارچه اینتنسا فیسلر آلمان Fissler Intensa قابلمه با درب فلزی (2 قابلمه، 1 قابلمه کوچک، 1 تابه - بدون درب) القایی، سرویس",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 97350000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%A7%DB%8C%D9%86%D8%AA%D9%86%D8%B3%D8%A7-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-4-%D8%AA%DA%A9%D9%87-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%81%D9%84%D8%B2%DB%8C-2-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-1-%D8%AA%D8%A7%D8%A8%D9%87-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%B1%D8%A8-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-4-%D8%AA%DA%A9%D9%87-2-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-1-%D8%AA%D8%A7%D8%A8%D9%87",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.209Z"
+  },
+  {
+    "id": "torobshop-audio-video-0674abec1e1ff3bb",
+    "productId": "torobshop-0674abec1e1ff3bb",
+    "name": "سرویس قابلمه 5 پارچه فیسلر آلمان اینتنسا Fissler Intensa با درب فلزی (3 قابلمه، 1 قابلمه کوچک، 1 تابه - بدون درب) سازگار با اجاق القایی",
+    "brand": "",
+    "model": "سرویس قابلمه 5 پارچه فیسلر آلمان اینتنسا Fissler Intensa با درب فلزی (3 قابلمه، 1 قابلمه کوچک، 1 تابه - بدون درب) سازگار با اجاق القایی",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 108515000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%A7%DB%8C%D9%86%D8%AA%D9%86%D8%B3%D8%A7-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-5-%D8%AA%DA%A9%D9%87-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%81%D9%84%D8%B2%DB%8C-3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-1-%D8%AA%D8%A7%D8%A8%D9%87-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%B1%D8%A8-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-5-%D8%AA%DA%A9%D9%87-3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-1-%D8%AA%D8%A7%D8%A8%D9%87",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.209Z"
+  },
+  {
+    "id": "torobshop-audio-video-c8ae91ddddbffeeb",
+    "productId": "torobshop-c8ae91ddddbffeeb",
+    "name": "ماهیتابه درب دار کباب‌ پز فیسلر آلمان Fissler Edelstahl (8.8 لیتر - قطر 38 سانتی‌متر) ظرف کاسرول بیضی بزرگ، با درب شیشه‌ای",
+    "brand": "",
+    "model": "ماهیتابه درب دار کباب‌ پز فیسلر آلمان Fissler Edelstahl (8.8 لیتر - قطر 38 سانتی‌متر) ظرف کاسرول بیضی بزرگ، با درب شیشه‌ای",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 50553000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1%D8%A8-%D8%AF%D8%A7%D8%B1-%DA%A9%D8%A8%D8%A7%D8%A8-%D9%BE%D8%B2-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-Fissler-Edelstahl-8-8-%D9%84%DB%8C%D8%AA%D8%B1-%D9%82%D8%B7%D8%B1-38-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%B8%D8%B1%D9%81-%DA%A9%D8%A7%D8%B3%D8%B1%D9%88%D9%84-%D8%A8%DB%8C%D8%B6%DB%8C-%D8%A8%D8%B2%D8%B1%DA%AF-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.209Z"
   },
   {
     "id": "torobshop-audio-video-9d8fbc8c7f0b6991",
@@ -5073,25 +5919,61 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.563Z"
+    "observedAt": "2026-09-05T07:52:57.209Z"
   },
   {
-    "id": "torobshop-audio-video-412e480ec7918302",
-    "productId": "torobshop-412e480ec7918302",
-    "name": "همزن فلکسی مینی پروفی پلاس WMF، 21 سانتی‌متر",
+    "id": "torobshop-audio-video-f8b7784f8ba04a47",
+    "productId": "torobshop-f8b7784f8ba04a47",
+    "name": "سودا ساز آب گازدار ساز وی ام اف آلمان WMF Element One Water دستگاه حباب ساز تمام اتوماتیک آبی",
     "brand": "",
-    "model": "همزن فلکسی مینی پروفی پلاس WMF، 21 سانتی‌متر",
+    "model": "سودا ساز آب گازدار ساز وی ام اف آلمان WMF Element One Water دستگاه حباب ساز تمام اتوماتیک آبی",
     "category": "audio-video",
     "subcategory": "تلویزیون",
-    "price": 12179000,
+    "price": 54084000,
     "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%87%D9%85%D8%B2%D9%86-%D9%81%D9%84%DA%A9%D8%B3%DB%8C-%D9%85%DB%8C%D9%86%DB%8C-%D9%BE%D8%B1%D9%88%D9%81%DB%8C-%D9%BE%D9%84%D8%A7%D8%B3-WMF-21-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%DA%AF%D8%A7%D8%B2%D8%AF%D8%A7%D8%B1-%D8%A2%D8%A8-WMF-Element-One-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%AD%D8%A8%D8%A7%D8%A8-%D8%B3%D8%A7%D8%B2-%D8%AA%D9%85%D8%A7%D9%85-%D8%A7%D8%AA%D9%88%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-%D8%A7%D8%B2-%D8%AC%D9%86%D8%B3-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%A8%D8%A7-3-%D8%B3%D8%B7%D8%AD-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%DA%A9%D9%85-%D8%AC%D8%A7-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%86%D9%88%D8%B4%D8%A7%D8%A8%D9%87-%D8%B3%D8%A7%D8%B2-%D8%B2%DB%8C%D8%A8%D8%A7-%D9%88-%DA%AF%D8%A7%D8%B2%D8%AF%D8%A7%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%84%D8%B0%D8%AA-%D8%A8%D8%B1%D8%AF%D9%86-%D8%A7%D8%B2-%D9%86%D9%88%D8%B4%DB%8C%D8%AF%D9%86%DB%8C-%D8%B1%D9%86%DA%AF-%D8%AC%D8%B1%DB%8C%D8%A7%D9%86-%DB%8C%D8%AE",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.563Z"
+    "observedAt": "2026-09-05T07:52:57.209Z"
+  },
+  {
+    "id": "torobshop-audio-video-0e4d04ef83a810db",
+    "productId": "torobshop-0e4d04ef83a810db",
+    "name": "ماهیتابه ووک نانجینگ فیسلر آلمان Fissler Nanjing Wok (قطر ۳۶ سانتی‌متر) تابه ووک بزرگ بدون روکش با درب شیشه‌ای شامل محفظه بخارپز",
+    "brand": "",
+    "model": "ماهیتابه ووک نانجینگ فیسلر آلمان Fissler Nanjing Wok (قطر ۳۶ سانتی‌متر) تابه ووک بزرگ بدون روکش با درب شیشه‌ای شامل محفظه بخارپز",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 58356000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%88%D9%88%DA%A9-%D9%86%D8%A7%D9%86%D8%AC%DB%8C%D9%86%DA%AF-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-Fissler-Nanjing-Wok-%D9%82%D8%B7%D8%B1-%DB%B3%DB%B6-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%AA%D8%A7%D8%A8%D9%87-%D9%88%D9%88%DA%A9-%D8%A8%D8%B2%D8%B1%DA%AF-%D8%A8%D8%AF%D9%88%D9%86-%D8%B1%D9%88%DA%A9%D8%B4-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%B4%D8%A7%D9%85%D9%84-%D9%85%D8%AD%D9%81%D8%B8%D9%87-%D8%A8%D8%AE%D8%A7%D8%B1%D9%BE%D8%B2",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.209Z"
+  },
+  {
+    "id": "torobshop-audio-video-d39a2f5ac6cd9a7f",
+    "productId": "torobshop-d39a2f5ac6cd9a7f",
+    "name": "سرویس قابلمه 3 پارچه فیسلر آلمان Fissler Original-Profi Collection القایی",
+    "brand": "",
+    "model": "سرویس قابلمه 3 پارچه فیسلر آلمان Fissler Original-Profi Collection القایی",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 91335000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D8%A7%D8%B5%D9%84%DB%8C-%D8%AD%D8%B1%D9%81%D9%87-%D8%A7%DB%8C-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%DB%B3-%D8%AA%DA%A9%D9%87-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%81%D9%84%D8%B2%DB%8C-%DB%B1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%DB%B1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%DB%B3-%D8%AA%DA%A9%D9%87-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.209Z"
   },
   {
     "id": "torobshop-audio-video-aa2dfdb88af5c975",
@@ -5109,7 +5991,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.563Z"
+    "observedAt": "2026-09-05T07:52:57.209Z"
   },
   {
     "id": "torobshop-audio-video-2be1976c83ad17a1",
@@ -5127,25 +6009,25 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.563Z"
+    "observedAt": "2026-09-05T07:52:57.209Z"
   },
   {
-    "id": "torobshop-audio-video-1e0602d76b0e257a",
-    "productId": "torobshop-1e0602d76b0e257a",
-    "name": "سرویس قاشق و چنگال وی ام اف آلمان WMF Premiere cutlery (12 نفره، 66 پارچه، 60 پارچه)",
+    "id": "torobshop-audio-video-412e480ec7918302",
+    "productId": "torobshop-412e480ec7918302",
+    "name": "همزن فلکسی مینی پروفی پلاس WMF، 21 سانتی‌متر",
     "brand": "",
-    "model": "سرویس قاشق و چنگال وی ام اف آلمان WMF Premiere cutlery (12 نفره، 66 پارچه، 60 پارچه)",
+    "model": "همزن فلکسی مینی پروفی پلاس WMF، 21 سانتی‌متر",
     "category": "audio-video",
     "subcategory": "تلویزیون",
-    "price": 183645000,
+    "price": 12179000,
     "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%DA%A9%D8%A7%D8%B1%D8%AF-%D9%88-%DA%86%D9%86%DA%AF%D8%A7%D9%84-WMF-Premiere-12-%D9%86%D9%81%D8%B1%D9%87-66-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-60-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D8%A8%D8%A7-%DA%A9%D8%A7%D8%B1%D8%AF-%D9%88-%DA%86%D9%86%DA%AF%D8%A7%D9%84-%D8%AA%DB%8C%D8%BA%D9%87-%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-Cromargan-Protect-%D8%AC%D9%84%D8%A7-%D8%AF%D8%A7%D8%AF%D9%87-%D8%B4%D8%AF%D9%87-%D8%A8%D8%B1%D8%A7%D9%82-%D8%B6%D8%AF-%D8%AE%D8%B4-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%87%D9%85%D8%B2%D9%86-%D9%81%D9%84%DA%A9%D8%B3%DB%8C-%D9%85%DB%8C%D9%86%DB%8C-%D9%BE%D8%B1%D9%88%D9%81%DB%8C-%D9%BE%D9%84%D8%A7%D8%B3-WMF-21-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.563Z"
+    "observedAt": "2026-09-05T07:52:57.209Z"
   },
   {
     "id": "torobshop-audio-video-280503308950a13c",
@@ -5163,43 +6045,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.563Z"
-  },
-  {
-    "id": "torobshop-audio-video-3644b82267dd5165",
-    "productId": "torobshop-3644b82267dd5165",
-    "name": "بلوک چاقوی دوقلوی گورمت ZWILLING، 9 تکه، بلوک چوبی، مجموعه چاقو، میله تیزکن، قیچی، استیل مخصوص ضد زنگ، 9 تکه دوقلوی گورمت مشکی",
-    "brand": "",
-    "model": "بلوک چاقوی دوقلوی گورمت ZWILLING، 9 تکه، بلوک چوبی، مجموعه چاقو، میله تیزکن، قیچی، استیل مخصوص ضد زنگ، 9 تکه دوقلوی گورمت مشکی",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 53543000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%A8%D9%84%D9%88%DA%A9-%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%AF%D9%88%D9%82%D9%84%D9%88%DB%8C-%DA%AF%D9%88%D8%B1%D9%85%D8%AA-ZWILLING-9-%D8%AA%DA%A9%D9%87-%D8%A8%D9%84%D9%88%DA%A9-%DA%86%D9%88%D8%A8%DB%8C-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%DA%86%D8%A7%D9%82%D9%88-%D9%85%DB%8C%D9%84%D9%87-%D8%AA%DB%8C%D8%B2%DA%A9%D9%86-%D9%82%DB%8C%DA%86%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-9-%D8%AA%DA%A9%D9%87-%D8%AF%D9%88%D9%82%D9%84%D9%88%DB%8C-%DA%AF%D9%88%D8%B1%D9%85%D8%AA-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.563Z"
-  },
-  {
-    "id": "torobshop-audio-video-d99c3943bcec9400",
-    "productId": "torobshop-d99c3943bcec9400",
-    "name": "چاقوی خود تیز شونده چهار ستاره ZWILLING با مجموعه چاقوی 7 تکه، استیل ضد زنگ، ساخت آلمان، مشکی چهار ستاره مشکی",
-    "brand": "",
-    "model": "چاقوی خود تیز شونده چهار ستاره ZWILLING با مجموعه چاقوی 7 تکه، استیل ضد زنگ، ساخت آلمان، مشکی چهار ستاره مشکی",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 63440000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%AE%D9%88%D8%AF-%D8%AA%DB%8C%D8%B2-%D8%B4%D9%88%D9%86%D8%AF%D9%87-%DA%86%D9%87%D8%A7%D8%B1-%D8%B3%D8%AA%D8%A7%D8%B1%D9%87-ZWILLING-%D8%A8%D8%A7-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%DA%86%D8%A7%D9%82%D9%88%DB%8C-7-%D8%AA%DA%A9%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%B4%DA%A9%DB%8C-%DA%86%D9%87%D8%A7%D8%B1-%D8%B3%D8%AA%D8%A7%D8%B1%D9%87-%D9%85%D8%B4%DA%A9%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.563Z"
+    "observedAt": "2026-09-05T07:52:57.209Z"
   },
   {
     "id": "torobshop-audio-video-9087741222a89b21",
@@ -5217,115 +6063,61 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.563Z"
+    "observedAt": "2026-09-05T07:52:57.209Z"
   },
   {
-    "id": "torobshop-audio-video-c4580b999e737ac3",
-    "productId": "torobshop-c4580b999e737ac3",
-    "name": "سرویس قاشق و چنگال وی ام اف آلمان WMF Cutlery Set ( 60 پارچه، 12 نفره )",
+    "id": "torobshop-audio-video-1e0602d76b0e257a",
+    "productId": "torobshop-1e0602d76b0e257a",
+    "name": "سرویس قاشق و چنگال وی ام اف آلمان WMF Premiere cutlery (12 نفره، 66 پارچه، 60 پارچه)",
     "brand": "",
-    "model": "سرویس قاشق و چنگال وی ام اف آلمان WMF Cutlery Set ( 60 پارچه، 12 نفره )",
+    "model": "سرویس قاشق و چنگال وی ام اف آلمان WMF Premiere cutlery (12 نفره، 66 پارچه، 60 پارچه)",
     "category": "audio-video",
     "subcategory": "تلویزیون",
-    "price": 43138000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%DA%A9%D8%A7%D8%B1%D8%AF-%D9%88-%DA%86%D9%86%DA%AF%D8%A7%D9%84-WMF-60-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-12-%D9%86%D9%81%D8%B1%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-Atria-Cromargan-18-10-%D8%A8%D8%B1%D8%A7%D9%82",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.563Z"
-  },
-  {
-    "id": "torobshop-audio-video-00bf5776f339768d",
-    "productId": "torobshop-00bf5776f339768d",
-    "name": "سرویس قابلمه ۵ پارچه فیسلر آلمان Fissler Palermo Edelstahl پالرمو شامل درب شیشه‌ای (۳ قابلمه، ۱ تابه کباب‌پزی، ۱ قابلمه کوچک) القایی",
-    "brand": "",
-    "model": "سرویس قابلمه ۵ پارچه فیسلر آلمان Fissler Palermo Edelstahl پالرمو شامل درب شیشه‌ای (۳ قابلمه، ۱ تابه کباب‌پزی، ۱ قابلمه کوچک) القایی",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 54119000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B5-%D8%AA%DA%A9%D9%87-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%BE%D8%A7%D9%84%D8%B1%D9%85%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%87%D8%A7-%D8%B4%D8%A7%D9%85%D9%84-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%DB%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B1-%D8%AA%D8%A7%D8%A8%D9%87-%DA%A9%D8%A8%D8%A7%D8%A8-%D9%BE%D8%B2%DB%8C-%DB%B1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.563Z"
-  },
-  {
-    "id": "torobshop-audio-video-a218f27039422c46",
-    "productId": "torobshop-a218f27039422c46",
-    "name": "چاقوی خود تیز شونده چهار ستاره ZWILLING با مجموعه 7 تکه چاقو، استیل ضد زنگ، ساخت آلمان، سفید چهار ستاره سفید",
-    "brand": "",
-    "model": "چاقوی خود تیز شونده چهار ستاره ZWILLING با مجموعه 7 تکه چاقو، استیل ضد زنگ، ساخت آلمان، سفید چهار ستاره سفید",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 56843000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%AE%D9%88%D8%AF-%D8%AA%DB%8C%D8%B2-%D8%B4%D9%88%D9%86%D8%AF%D9%87-%DA%86%D9%87%D8%A7%D8%B1-%D8%B3%D8%AA%D8%A7%D8%B1%D9%87-ZWILLING-%D8%A8%D8%A7-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-7-%D8%AA%DA%A9%D9%87-%DA%86%D8%A7%D9%82%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%B3%D9%81%DB%8C%D8%AF-%DA%86%D9%87%D8%A7%D8%B1-%D8%B3%D8%AA%D8%A7%D8%B1%D9%87-%D8%B3%D9%81%DB%8C%D8%AF",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.563Z"
-  },
-  {
-    "id": "torobshop-audio-video-1fd1146f6f750aa9",
-    "productId": "torobshop-1fd1146f6f750aa9",
-    "name": "سرویس قاشق و چنگال وی ام اف آلمان WMF Tavira برای 12 نفر، 60 پارچه",
-    "brand": "",
-    "model": "سرویس قاشق و چنگال وی ام اف آلمان WMF Tavira برای 12 نفر، 60 پارچه",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 65276000,
+    "price": 183645000,
     "currency": "IRT",
     "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%DA%A9%D8%A7%D8%B1%D8%AF-%D9%88-%DA%86%D9%86%DA%AF%D8%A7%D9%84-WMF-Tavira-%D8%A8%D8%B1%D8%A7%DB%8C-12-%D9%86%D9%81%D8%B1-60-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-12-%DA%86%D9%86%DA%AF%D8%A7%D9%84-%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%BA%D8%B0%D8%A7%D8%AE%D9%88%D8%B1%DB%8C-%D9%82%D8%A7%D8%B4%D9%82-%DA%86%D9%86%DA%AF%D8%A7%D9%84-%DA%A9%DB%8C%DA%A9-%D9%82%D8%A7%D8%B4%D9%82-%DA%86%D8%A7%DB%8C-%D9%82%D9%87%D9%88%D9%87-%DA%86%D8%A7%D9%82%D9%88%D9%87%D8%A7%DB%8C-%D9%85%D9%88%D9%86%D9%88%D8%A8%D9%84%D9%88%DA%A9-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-Cromargan-%D8%A8%D8%B1%D8%A7%D9%82-%D8%A8%D8%B1%D8%A7%D9%82-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%DA%A9%D8%A7%D8%B1%D8%AF-%D9%88-%DA%86%D9%86%DA%AF%D8%A7%D9%84-WMF-Premiere-12-%D9%86%D9%81%D8%B1%D9%87-66-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-60-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D8%A8%D8%A7-%DA%A9%D8%A7%D8%B1%D8%AF-%D9%88-%DA%86%D9%86%DA%AF%D8%A7%D9%84-%D8%AA%DB%8C%D8%BA%D9%87-%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-Cromargan-Protect-%D8%AC%D9%84%D8%A7-%D8%AF%D8%A7%D8%AF%D9%87-%D8%B4%D8%AF%D9%87-%D8%A8%D8%B1%D8%A7%D9%82-%D8%B6%D8%AF-%D8%AE%D8%B4-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.563Z"
+    "observedAt": "2026-09-05T07:52:57.209Z"
   },
   {
-    "id": "torobshop-audio-video-4dd091835a22ff69",
-    "productId": "torobshop-4dd091835a22ff69",
-    "name": "زودپز 8 لیتر فیسلر آلمان Fissler Vitaquick 8 L ویتاکوئیک 8 لیتر، قطر 26 سانتی‌متر 2 طبقه پخت، ساخت آلمان - القایی",
+    "id": "torobshop-audio-video-3644b82267dd5165",
+    "productId": "torobshop-3644b82267dd5165",
+    "name": "بلوک چاقوی دوقلوی گورمت ZWILLING، 9 تکه، بلوک چوبی، مجموعه چاقو، میله تیزکن، قیچی، استیل مخصوص ضد زنگ، 9 تکه دوقلوی گورمت مشکی",
     "brand": "",
-    "model": "زودپز 8 لیتر فیسلر آلمان Fissler Vitaquick 8 L ویتاکوئیک 8 لیتر، قطر 26 سانتی‌متر 2 طبقه پخت، ساخت آلمان - القایی",
+    "model": "بلوک چاقوی دوقلوی گورمت ZWILLING، 9 تکه، بلوک چوبی، مجموعه چاقو، میله تیزکن، قیچی، استیل مخصوص ضد زنگ، 9 تکه دوقلوی گورمت مشکی",
     "category": "audio-video",
     "subcategory": "تلویزیون",
-    "price": 80742000,
+    "price": 53543000,
     "currency": "IRT",
     "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B2%D9%88%D8%AF%D9%BE%D8%B2-%D8%B2%D9%88%D8%AF%D9%BE%D8%B2-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%88%DB%8C%D8%AA%D8%A7%DA%A9%D9%88%D8%A6%DB%8C%DA%A9-8-%D9%84%DB%8C%D8%AA%D8%B1-%D9%82%D8%B7%D8%B1-26-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-2-%D8%B7%D8%A8%D9%82%D9%87-%D9%BE%D8%AE%D8%AA-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-8-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C",
+    "productUrl": "https://torobshop.com/products/%D8%A8%D9%84%D9%88%DA%A9-%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%AF%D9%88%D9%82%D9%84%D9%88%DB%8C-%DA%AF%D9%88%D8%B1%D9%85%D8%AA-ZWILLING-9-%D8%AA%DA%A9%D9%87-%D8%A8%D9%84%D9%88%DA%A9-%DA%86%D9%88%D8%A8%DB%8C-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%DA%86%D8%A7%D9%82%D9%88-%D9%85%DB%8C%D9%84%D9%87-%D8%AA%DB%8C%D8%B2%DA%A9%D9%86-%D9%82%DB%8C%DA%86%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-9-%D8%AA%DA%A9%D9%87-%D8%AF%D9%88%D9%82%D9%84%D9%88%DB%8C-%DA%AF%D9%88%D8%B1%D9%85%D8%AA-%D9%85%D8%B4%DA%A9%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.563Z"
+    "observedAt": "2026-09-05T07:52:57.209Z"
   },
   {
-    "id": "torobshop-audio-video-56cac7936a06e3f1",
-    "productId": "torobshop-56cac7936a06e3f1",
-    "name": "اتو بخار مخزن دار تفال فرانسه مدل TEF SV8027 ws/beige",
+    "id": "torobshop-audio-video-d99c3943bcec9400",
+    "productId": "torobshop-d99c3943bcec9400",
+    "name": "چاقوی خود تیز شونده چهار ستاره ZWILLING با مجموعه چاقوی 7 تکه، استیل ضد زنگ، ساخت آلمان، مشکی چهار ستاره مشکی",
     "brand": "",
-    "model": "اتو بخار مخزن دار تفال فرانسه مدل TEF SV8027 ws/beige",
+    "model": "چاقوی خود تیز شونده چهار ستاره ZWILLING با مجموعه چاقوی 7 تکه، استیل ضد زنگ، ساخت آلمان، مشکی چهار ستاره مشکی",
     "category": "audio-video",
     "subcategory": "تلویزیون",
-    "price": 53035000,
+    "price": 63440000,
     "currency": "IRT",
     "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%A8%D8%AE%D8%A7%D8%B1%D8%B4%D9%88%DB%8C-%D8%AA%D9%81%D8%A7%D9%84-%D9%85%D8%AF%D9%84-TEF-SV8027-ws-beige",
+    "productUrl": "https://torobshop.com/products/%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%AE%D9%88%D8%AF-%D8%AA%DB%8C%D8%B2-%D8%B4%D9%88%D9%86%D8%AF%D9%87-%DA%86%D9%87%D8%A7%D8%B1-%D8%B3%D8%AA%D8%A7%D8%B1%D9%87-ZWILLING-%D8%A8%D8%A7-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%DA%86%D8%A7%D9%82%D9%88%DB%8C-7-%D8%AA%DA%A9%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%B4%DA%A9%DB%8C-%DA%86%D9%87%D8%A7%D8%B1-%D8%B3%D8%AA%D8%A7%D8%B1%D9%87-%D9%85%D8%B4%DA%A9%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.563Z"
+    "observedAt": "2026-09-05T07:52:57.209Z"
   },
   {
     "id": "torobshop-audio-video-ace9b88e93544c94",
@@ -5343,25 +6135,115 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.563Z"
+    "observedAt": "2026-09-05T07:52:57.209Z"
   },
   {
-    "id": "torobshop-audio-video-e02164e6665f61ef",
-    "productId": "torobshop-e02164e6665f61ef",
-    "name": "ماهیتابه فیسلر آلمان Fissler Pure Collection/Edelstahl (قطر 24 سانتی‌متر) بدون پوشش، پیمانه داخلی",
+    "id": "torobshop-audio-video-1fd1146f6f750aa9",
+    "productId": "torobshop-1fd1146f6f750aa9",
+    "name": "سرویس قاشق و چنگال وی ام اف آلمان WMF Tavira برای 12 نفر، 60 پارچه",
     "brand": "",
-    "model": "ماهیتابه فیسلر آلمان Fissler Pure Collection/Edelstahl (قطر 24 سانتی‌متر) بدون پوشش، پیمانه داخلی",
+    "model": "سرویس قاشق و چنگال وی ام اف آلمان WMF Tavira برای 12 نفر، 60 پارچه",
     "category": "audio-video",
     "subcategory": "تلویزیون",
-    "price": 35287000,
+    "price": 65276000,
     "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D8%AE%D8%A7%D9%84%D8%B5-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%82%D8%B7%D8%B1-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A8%D8%AF%D9%88%D9%86-%D9%BE%D9%88%D8%B4%D8%B4-%D9%BE%DB%8C%D9%85%D8%A7%D9%86%D9%87-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%DA%A9%D8%A7%D8%B1%D8%AF-%D9%88-%DA%86%D9%86%DA%AF%D8%A7%D9%84-WMF-Tavira-%D8%A8%D8%B1%D8%A7%DB%8C-12-%D9%86%D9%81%D8%B1-60-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-12-%DA%86%D9%86%DA%AF%D8%A7%D9%84-%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%BA%D8%B0%D8%A7%D8%AE%D9%88%D8%B1%DB%8C-%D9%82%D8%A7%D8%B4%D9%82-%DA%86%D9%86%DA%AF%D8%A7%D9%84-%DA%A9%DB%8C%DA%A9-%D9%82%D8%A7%D8%B4%D9%82-%DA%86%D8%A7%DB%8C-%D9%82%D9%87%D9%88%D9%87-%DA%86%D8%A7%D9%82%D9%88%D9%87%D8%A7%DB%8C-%D9%85%D9%88%D9%86%D9%88%D8%A8%D9%84%D9%88%DA%A9-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-Cromargan-%D8%A8%D8%B1%D8%A7%D9%82-%D8%A8%D8%B1%D8%A7%D9%82-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.563Z"
+    "observedAt": "2026-09-05T07:52:57.209Z"
+  },
+  {
+    "id": "torobshop-audio-video-c4580b999e737ac3",
+    "productId": "torobshop-c4580b999e737ac3",
+    "name": "سرویس قاشق و چنگال وی ام اف آلمان WMF Cutlery Set ( 60 پارچه، 12 نفره )",
+    "brand": "",
+    "model": "سرویس قاشق و چنگال وی ام اف آلمان WMF Cutlery Set ( 60 پارچه، 12 نفره )",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 43138000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%DA%A9%D8%A7%D8%B1%D8%AF-%D9%88-%DA%86%D9%86%DA%AF%D8%A7%D9%84-WMF-60-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-12-%D9%86%D9%81%D8%B1%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-Atria-Cromargan-18-10-%D8%A8%D8%B1%D8%A7%D9%82",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.209Z"
+  },
+  {
+    "id": "torobshop-audio-video-4dd091835a22ff69",
+    "productId": "torobshop-4dd091835a22ff69",
+    "name": "زودپز 8 لیتر فیسلر آلمان Fissler Vitaquick 8 L ویتاکوئیک 8 لیتر، قطر 26 سانتی‌متر 2 طبقه پخت، ساخت آلمان - القایی",
+    "brand": "",
+    "model": "زودپز 8 لیتر فیسلر آلمان Fissler Vitaquick 8 L ویتاکوئیک 8 لیتر، قطر 26 سانتی‌متر 2 طبقه پخت، ساخت آلمان - القایی",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 80742000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B2%D9%88%D8%AF%D9%BE%D8%B2-%D8%B2%D9%88%D8%AF%D9%BE%D8%B2-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%88%DB%8C%D8%AA%D8%A7%DA%A9%D9%88%D8%A6%DB%8C%DA%A9-8-%D9%84%DB%8C%D8%AA%D8%B1-%D9%82%D8%B7%D8%B1-26-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-2-%D8%B7%D8%A8%D9%82%D9%87-%D9%BE%D8%AE%D8%AA-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-8-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.209Z"
+  },
+  {
+    "id": "torobshop-audio-video-00bf5776f339768d",
+    "productId": "torobshop-00bf5776f339768d",
+    "name": "سرویس قابلمه ۵ پارچه فیسلر آلمان Fissler Palermo Edelstahl پالرمو شامل درب شیشه‌ای (۳ قابلمه، ۱ تابه کباب‌پزی، ۱ قابلمه کوچک) القایی",
+    "brand": "",
+    "model": "سرویس قابلمه ۵ پارچه فیسلر آلمان Fissler Palermo Edelstahl پالرمو شامل درب شیشه‌ای (۳ قابلمه، ۱ تابه کباب‌پزی، ۱ قابلمه کوچک) القایی",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 54119000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B5-%D8%AA%DA%A9%D9%87-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%BE%D8%A7%D9%84%D8%B1%D9%85%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%87%D8%A7-%D8%B4%D8%A7%D9%85%D9%84-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%DB%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B1-%D8%AA%D8%A7%D8%A8%D9%87-%DA%A9%D8%A8%D8%A7%D8%A8-%D9%BE%D8%B2%DB%8C-%DB%B1-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.209Z"
+  },
+  {
+    "id": "torobshop-audio-video-a218f27039422c46",
+    "productId": "torobshop-a218f27039422c46",
+    "name": "چاقوی خود تیز شونده چهار ستاره ZWILLING با مجموعه 7 تکه چاقو، استیل ضد زنگ، ساخت آلمان، سفید چهار ستاره سفید",
+    "brand": "",
+    "model": "چاقوی خود تیز شونده چهار ستاره ZWILLING با مجموعه 7 تکه چاقو، استیل ضد زنگ، ساخت آلمان، سفید چهار ستاره سفید",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 56843000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%AE%D9%88%D8%AF-%D8%AA%DB%8C%D8%B2-%D8%B4%D9%88%D9%86%D8%AF%D9%87-%DA%86%D9%87%D8%A7%D8%B1-%D8%B3%D8%AA%D8%A7%D8%B1%D9%87-ZWILLING-%D8%A8%D8%A7-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-7-%D8%AA%DA%A9%D9%87-%DA%86%D8%A7%D9%82%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%B3%D9%81%DB%8C%D8%AF-%DA%86%D9%87%D8%A7%D8%B1-%D8%B3%D8%AA%D8%A7%D8%B1%D9%87-%D8%B3%D9%81%DB%8C%D8%AF",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.209Z"
+  },
+  {
+    "id": "torobshop-audio-video-56cac7936a06e3f1",
+    "productId": "torobshop-56cac7936a06e3f1",
+    "name": "اتو بخار مخزن دار تفال فرانسه مدل TEF SV8027 ws/beige",
+    "brand": "",
+    "model": "اتو بخار مخزن دار تفال فرانسه مدل TEF SV8027 ws/beige",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 53035000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%A8%D8%AE%D8%A7%D8%B1%D8%B4%D9%88%DB%8C-%D8%AA%D9%81%D8%A7%D9%84-%D9%85%D8%AF%D9%84-TEF-SV8027-ws-beige",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.209Z"
   },
   {
     "id": "torobshop-audio-video-ffbee63b50d31684",
@@ -5379,43 +6261,25 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.563Z"
+    "observedAt": "2026-09-05T07:52:57.209Z"
   },
   {
-    "id": "torobshop-audio-video-97e8accc87d0f8bf",
-    "productId": "torobshop-97e8accc87d0f8bf",
-    "name": "ماهیتابه دو دسته درب دار فیسلر آلمان Fissler Original-Profi Collection (قطر ۲۸ سانتی‌متر، ۳ لیتر) – کباب‌پز استیل با درب بلند",
+    "id": "torobshop-audio-video-e02164e6665f61ef",
+    "productId": "torobshop-e02164e6665f61ef",
+    "name": "ماهیتابه فیسلر آلمان Fissler Pure Collection/Edelstahl (قطر 24 سانتی‌متر) بدون پوشش، پیمانه داخلی",
     "brand": "",
-    "model": "ماهیتابه دو دسته درب دار فیسلر آلمان Fissler Original-Profi Collection (قطر ۲۸ سانتی‌متر، ۳ لیتر) – کباب‌پز استیل با درب بلند",
+    "model": "ماهیتابه فیسلر آلمان Fissler Pure Collection/Edelstahl (قطر 24 سانتی‌متر) بدون پوشش، پیمانه داخلی",
     "category": "audio-video",
     "subcategory": "تلویزیون",
-    "price": 54119000,
+    "price": 35287000,
     "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%85%D8%AF%D9%84-Original-Profi-Collection-%D9%82%D8%B7%D8%B1-%DB%B2%DB%B8-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%DB%B3-%D9%84%DB%8C%D8%AA%D8%B1-%DA%A9%D8%A8%D8%A7%D8%A8-%D9%BE%D8%B2-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%A8%D9%84%D9%86%D8%AF-%D8%A8%D8%AF%D9%88%D9%86-%D9%BE%D9%88%D8%B4%D8%B4-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C-%D8%AD%D8%B1%D8%A7%D8%B1%D8%AA%DB%8C-%DB%B2%DB%B8-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%85%D8%AF%D9%84-%D8%AC%D8%AF%DB%8C%D8%AF",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D8%AE%D8%A7%D9%84%D8%B5-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%82%D8%B7%D8%B1-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A8%D8%AF%D9%88%D9%86-%D9%BE%D9%88%D8%B4%D8%B4-%D9%BE%DB%8C%D9%85%D8%A7%D9%86%D9%87-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.563Z"
-  },
-  {
-    "id": "torobshop-audio-video-1dfcfd9dee587f60",
-    "productId": "torobshop-1dfcfd9dee587f60",
-    "name": "چاقوی خود تیز شونده چهار ستاره ZWILLING با مجموعه 7 تکه چاقو، استیل ضد زنگ مخصوص، ساخت آلمان، قهوه ای چهار ستاره قهوه ای، مشکی، نقره ای",
-    "brand": "",
-    "model": "چاقوی خود تیز شونده چهار ستاره ZWILLING با مجموعه 7 تکه چاقو، استیل ضد زنگ مخصوص، ساخت آلمان، قهوه ای چهار ستاره قهوه ای، مشکی، نقره ای",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 58618000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%AE%D9%88%D8%AF-%D8%AA%DB%8C%D8%B2-%D8%B4%D9%88%D9%86%D8%AF%D9%87-%DA%86%D9%87%D8%A7%D8%B1-%D8%B3%D8%AA%D8%A7%D8%B1%D9%87-ZWILLING-%D8%A8%D8%A7-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-7-%D8%AA%DA%A9%D9%87-%DA%86%D8%A7%D9%82%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%82%D9%87%D9%88%D9%87-%D8%A7%DB%8C-%DA%86%D9%87%D8%A7%D8%B1-%D8%B3%D8%AA%D8%A7%D8%B1%D9%87-%D9%82%D9%87%D9%88%D9%87-%D8%A7%DB%8C-%D9%85%D8%B4%DA%A9%DB%8C-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.563Z"
+    "observedAt": "2026-09-05T07:52:57.209Z"
   },
   {
     "id": "torobshop-audio-video-f06d188d530004ad",
@@ -5433,25 +6297,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.563Z"
-  },
-  {
-    "id": "torobshop-audio-video-f4ac0f14bd21c6cf",
-    "productId": "torobshop-f4ac0f14bd21c6cf",
-    "name": "سرویس قابلمه ۵ تکه ZWILLING TrueFlow، با قابلیت ریختن مایعات، مناسب برای اجاق گازهای القایی، بدون پوشش، استیل ضد زنگ، نقره‌ای.",
-    "brand": "",
-    "model": "سرویس قابلمه ۵ تکه ZWILLING TrueFlow، با قابلیت ریختن مایعات، مناسب برای اجاق گازهای القایی، بدون پوشش، استیل ضد زنگ، نقره‌ای.",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 51767000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B5-%D8%AA%DA%A9%D9%87-ZWILLING-TrueFlow-%D8%A8%D8%A7-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%B1%DB%8C%D8%AE%D8%AA%D9%86-%D9%85%D8%A7%DB%8C%D8%B9%D8%A7%D8%AA-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2%D9%87%D8%A7%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%D9%BE%D9%88%D8%B4%D8%B4-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.563Z"
+    "observedAt": "2026-09-05T07:52:57.209Z"
   },
   {
     "id": "torobshop-audio-video-7ac6bac20ad12a2d",
@@ -5469,7 +6315,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.563Z"
+    "observedAt": "2026-09-05T07:52:57.210Z"
   },
   {
     "id": "torobshop-audio-video-8a5c15c91c1a9329",
@@ -5487,7 +6333,43 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.563Z"
+    "observedAt": "2026-09-05T07:52:57.210Z"
+  },
+  {
+    "id": "torobshop-audio-video-97e8accc87d0f8bf",
+    "productId": "torobshop-97e8accc87d0f8bf",
+    "name": "ماهیتابه دو دسته درب دار فیسلر آلمان Fissler Original-Profi Collection (قطر ۲۸ سانتی‌متر، ۳ لیتر) – کباب‌پز استیل با درب بلند",
+    "brand": "",
+    "model": "ماهیتابه دو دسته درب دار فیسلر آلمان Fissler Original-Profi Collection (قطر ۲۸ سانتی‌متر، ۳ لیتر) – کباب‌پز استیل با درب بلند",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 54119000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%85%D8%AF%D9%84-Original-Profi-Collection-%D9%82%D8%B7%D8%B1-%DB%B2%DB%B8-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%DB%B3-%D9%84%DB%8C%D8%AA%D8%B1-%DA%A9%D8%A8%D8%A7%D8%A8-%D9%BE%D8%B2-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D8%A8%D9%84%D9%86%D8%AF-%D8%A8%D8%AF%D9%88%D9%86-%D9%BE%D9%88%D8%B4%D8%B4-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%DB%8C-%D8%AD%D8%B1%D8%A7%D8%B1%D8%AA%DB%8C-%DB%B2%DB%B8-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A8-%D9%85%D8%AF%D9%84-%D8%AC%D8%AF%DB%8C%D8%AF",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.210Z"
+  },
+  {
+    "id": "torobshop-audio-video-1dfcfd9dee587f60",
+    "productId": "torobshop-1dfcfd9dee587f60",
+    "name": "چاقوی خود تیز شونده چهار ستاره ZWILLING با مجموعه 7 تکه چاقو، استیل ضد زنگ مخصوص، ساخت آلمان، قهوه ای چهار ستاره قهوه ای، مشکی، نقره ای",
+    "brand": "",
+    "model": "چاقوی خود تیز شونده چهار ستاره ZWILLING با مجموعه 7 تکه چاقو، استیل ضد زنگ مخصوص، ساخت آلمان، قهوه ای چهار ستاره قهوه ای، مشکی، نقره ای",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 58618000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%DA%86%D8%A7%D9%82%D9%88%DB%8C-%D8%AE%D9%88%D8%AF-%D8%AA%DB%8C%D8%B2-%D8%B4%D9%88%D9%86%D8%AF%D9%87-%DA%86%D9%87%D8%A7%D8%B1-%D8%B3%D8%AA%D8%A7%D8%B1%D9%87-ZWILLING-%D8%A8%D8%A7-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-7-%D8%AA%DA%A9%D9%87-%DA%86%D8%A7%D9%82%D9%88-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%82%D9%87%D9%88%D9%87-%D8%A7%DB%8C-%DA%86%D9%87%D8%A7%D8%B1-%D8%B3%D8%AA%D8%A7%D8%B1%D9%87-%D9%82%D9%87%D9%88%D9%87-%D8%A7%DB%8C-%D9%85%D8%B4%DA%A9%DB%8C-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.210Z"
   },
   {
     "id": "torobshop-audio-video-b131b88e24438d96",
@@ -5505,7 +6387,25 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.563Z"
+    "observedAt": "2026-09-05T07:52:57.210Z"
+  },
+  {
+    "id": "torobshop-audio-video-f4ac0f14bd21c6cf",
+    "productId": "torobshop-f4ac0f14bd21c6cf",
+    "name": "سرویس قابلمه ۵ تکه ZWILLING TrueFlow، با قابلیت ریختن مایعات، مناسب برای اجاق گازهای القایی، بدون پوشش، استیل ضد زنگ، نقره‌ای.",
+    "brand": "",
+    "model": "سرویس قابلمه ۵ تکه ZWILLING TrueFlow، با قابلیت ریختن مایعات، مناسب برای اجاق گازهای القایی، بدون پوشش، استیل ضد زنگ، نقره‌ای.",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 51767000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B5-%D8%AA%DA%A9%D9%87-ZWILLING-TrueFlow-%D8%A8%D8%A7-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%B1%DB%8C%D8%AE%D8%AA%D9%86-%D9%85%D8%A7%DB%8C%D8%B9%D8%A7%D8%AA-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2%D9%87%D8%A7%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%D9%BE%D9%88%D8%B4%D8%B4-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.210Z"
   },
   {
     "id": "torobshop-audio-video-fda1fe8cf4de5c5d",
@@ -5523,43 +6423,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.563Z"
-  },
-  {
-    "id": "torobshop-audio-video-736fe4049676a61e",
-    "productId": "torobshop-736fe4049676a61e",
-    "name": "زودپز القایی وی ام اف آلمان WMF Perfect One Pot 8.5 L، زودپز، سیگنال پخت بزرگ، 2 طبقه پخت، دسته درب جداشدنی، استیل ضد زنگ Cromargan",
-    "brand": "",
-    "model": "زودپز القایی وی ام اف آلمان WMF Perfect One Pot 8.5 L، زودپز، سیگنال پخت بزرگ، 2 طبقه پخت، دسته درب جداشدنی، استیل ضد زنگ Cromargan",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 49229000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B2%D9%88%D8%AF%D9%BE%D8%B2-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-WMF-Perfect-One-Pot-8-5-L-%D8%B2%D9%88%D8%AF%D9%BE%D8%B2-%D8%B3%DB%8C%DA%AF%D9%86%D8%A7%D9%84-%D9%BE%D8%AE%D8%AA-%D8%A8%D8%B2%D8%B1%DA%AF-2-%D8%B7%D8%A8%D9%82%D9%87-%D9%BE%D8%AE%D8%AA-%D8%AF%D8%B3%D8%AA%D9%87-%D8%AF%D8%B1%D8%A8-%D8%AC%D8%AF%D8%A7%D8%B4%D8%AF%D9%86%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-Cromargan",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.563Z"
-  },
-  {
-    "id": "torobshop-audio-video-4bffdb79ac43fe15",
-    "productId": "torobshop-4bffdb79ac43fe15",
-    "name": "فویل‌بر بطری شراب وی ام اف آلمان WMF Vino مدل ۶.۵ سانتی‌متر فلزی",
-    "brand": "",
-    "model": "فویل‌بر بطری شراب وی ام اف آلمان WMF Vino مدل ۶.۵ سانتی‌متر فلزی",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 13449000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%DA%A9%D8%A7%D8%AA%D8%B1-%D9%81%D9%88%DB%8C%D9%84-%D9%88%DB%8C%D9%86%D9%88-WMF-6-5-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C-%D9%81%D9%84%D8%B2%DB%8C-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%DA%A9%D9%BE%D8%B3%D9%88%D9%84-%DA%A9%D8%A7%D8%AA%D8%B1-%D8%A8%D8%B7%D8%B1%DB%8C-%D8%B4%D8%B1%D8%A7%D8%A8-%DA%A9%D8%A7%D8%AA%D8%B1-%D8%B4%D8%B1%D8%A7%D8%A8-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D8%B4%D8%B1%D8%A7%D8%A8",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.563Z"
+    "observedAt": "2026-09-05T07:52:57.210Z"
   },
   {
     "id": "torobshop-audio-video-ef0157b54bf022f6",
@@ -5577,7 +6441,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.563Z"
+    "observedAt": "2026-09-05T07:52:57.210Z"
   },
   {
     "id": "torobshop-audio-video-f4e7843bb5d4eb60",
@@ -5595,25 +6459,43 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.563Z"
+    "observedAt": "2026-09-05T07:52:57.210Z"
   },
   {
-    "id": "torobshop-audio-video-2f0597d05addbba1",
-    "productId": "torobshop-2f0597d05addbba1",
-    "name": "سودا ساز آب گازدار ساز وی ام اف آلمان WMF Element One دستگاه حباب ساز تمام اتوماتیک نقره ای",
+    "id": "torobshop-audio-video-736fe4049676a61e",
+    "productId": "torobshop-736fe4049676a61e",
+    "name": "زودپز القایی وی ام اف آلمان WMF Perfect One Pot 8.5 L، زودپز، سیگنال پخت بزرگ، 2 طبقه پخت، دسته درب جداشدنی، استیل ضد زنگ Cromargan",
     "brand": "",
-    "model": "سودا ساز آب گازدار ساز وی ام اف آلمان WMF Element One دستگاه حباب ساز تمام اتوماتیک نقره ای",
+    "model": "زودپز القایی وی ام اف آلمان WMF Perfect One Pot 8.5 L، زودپز، سیگنال پخت بزرگ، 2 طبقه پخت، دسته درب جداشدنی، استیل ضد زنگ Cromargan",
     "category": "audio-video",
     "subcategory": "تلویزیون",
-    "price": 54084000,
+    "price": 49229000,
     "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%DA%AF%D8%A7%D8%B2%D8%AF%D8%A7%D8%B1-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%A2%D8%A8-WMF-Element-One-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%AD%D8%A8%D8%A7%D8%A8-%D8%B3%D8%A7%D8%B2-%D8%AA%D9%85%D8%A7%D9%85-%D8%A7%D8%AA%D9%88%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-%D8%A7%D8%B2-%D8%AC%D9%86%D8%B3-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%A8%D8%A7-3-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%DA%A9%D9%85-%D8%AC%D8%A7-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%86%D9%88%D8%B4%D8%A7%D8%A8%D9%87-%D8%B3%D8%A7%D8%B2-%D8%B2%DB%8C%D8%A8%D8%A7-%D9%88-%DA%AF%D8%A7%D8%B2%D8%AF%D8%A7%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%84%D8%B0%D8%AA-%D8%A8%D8%B1%D8%AF%D9%86-%D8%A7%D8%B2-%D8%B7%D8%B9%D9%85-%DA%AF%D8%A7%D8%B2%D8%AF%D8%A7%D8%B1-%D8%AA%D9%86%D9%87%D8%A7-%D8%A8%D8%A7-%D9%84%D9%85%D8%B3-%DB%8C%DA%A9-%D8%AF%DA%A9%D9%85%D9%87-%D8%B1%D9%86%DA%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B2%D9%88%D8%AF%D9%BE%D8%B2-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-WMF-Perfect-One-Pot-8-5-L-%D8%B2%D9%88%D8%AF%D9%BE%D8%B2-%D8%B3%DB%8C%DA%AF%D9%86%D8%A7%D9%84-%D9%BE%D8%AE%D8%AA-%D8%A8%D8%B2%D8%B1%DA%AF-2-%D8%B7%D8%A8%D9%82%D9%87-%D9%BE%D8%AE%D8%AA-%D8%AF%D8%B3%D8%AA%D9%87-%D8%AF%D8%B1%D8%A8-%D8%AC%D8%AF%D8%A7%D8%B4%D8%AF%D9%86%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-Cromargan",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.563Z"
+    "observedAt": "2026-09-05T07:52:57.210Z"
+  },
+  {
+    "id": "torobshop-audio-video-4bffdb79ac43fe15",
+    "productId": "torobshop-4bffdb79ac43fe15",
+    "name": "فویل‌بر بطری شراب وی ام اف آلمان WMF Vino مدل ۶.۵ سانتی‌متر فلزی",
+    "brand": "",
+    "model": "فویل‌بر بطری شراب وی ام اف آلمان WMF Vino مدل ۶.۵ سانتی‌متر فلزی",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 13449000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%DA%A9%D8%A7%D8%AA%D8%B1-%D9%81%D9%88%DB%8C%D9%84-%D9%88%DB%8C%D9%86%D9%88-WMF-6-5-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C-%D9%81%D9%84%D8%B2%DB%8C-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%DA%A9%D9%BE%D8%B3%D9%88%D9%84-%DA%A9%D8%A7%D8%AA%D8%B1-%D8%A8%D8%B7%D8%B1%DB%8C-%D8%B4%D8%B1%D8%A7%D8%A8-%DA%A9%D8%A7%D8%AA%D8%B1-%D8%B4%D8%B1%D8%A7%D8%A8-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D8%B4%D8%B1%D8%A7%D8%A8",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.210Z"
   },
   {
     "id": "torobshop-audio-video-22200afc1cbeec02",
@@ -5631,7 +6513,25 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.563Z"
+    "observedAt": "2026-09-05T07:52:57.210Z"
+  },
+  {
+    "id": "torobshop-audio-video-2f0597d05addbba1",
+    "productId": "torobshop-2f0597d05addbba1",
+    "name": "سودا ساز آب گازدار ساز وی ام اف آلمان WMF Element One دستگاه حباب ساز تمام اتوماتیک نقره ای",
+    "brand": "",
+    "model": "سودا ساز آب گازدار ساز وی ام اف آلمان WMF Element One دستگاه حباب ساز تمام اتوماتیک نقره ای",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 54084000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%DA%AF%D8%A7%D8%B2%D8%AF%D8%A7%D8%B1-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%A2%D8%A8-WMF-Element-One-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%AD%D8%A8%D8%A7%D8%A8-%D8%B3%D8%A7%D8%B2-%D8%AA%D9%85%D8%A7%D9%85-%D8%A7%D8%AA%D9%88%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-%D8%A7%D8%B2-%D8%AC%D9%86%D8%B3-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D8%A8%D8%A7-3-%D8%AF%D8%B1%D8%AC%D9%87-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%DA%A9%D9%85-%D8%AC%D8%A7-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%86%D9%88%D8%B4%D8%A7%D8%A8%D9%87-%D8%B3%D8%A7%D8%B2-%D8%B2%DB%8C%D8%A8%D8%A7-%D9%88-%DA%AF%D8%A7%D8%B2%D8%AF%D8%A7%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%84%D8%B0%D8%AA-%D8%A8%D8%B1%D8%AF%D9%86-%D8%A7%D8%B2-%D8%B7%D8%B9%D9%85-%DA%AF%D8%A7%D8%B2%D8%AF%D8%A7%D8%B1-%D8%AA%D9%86%D9%87%D8%A7-%D8%A8%D8%A7-%D9%84%D9%85%D8%B3-%DB%8C%DA%A9-%D8%AF%DA%A9%D9%85%D9%87-%D8%B1%D9%86%DA%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.210Z"
   },
   {
     "id": "torobshop-audio-video-595f1b954d0611bd",
@@ -5649,7 +6549,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.563Z"
+    "observedAt": "2026-09-05T07:52:57.210Z"
   },
   {
     "id": "torobshop-audio-video-f26fbc6e8dbee708",
@@ -5667,43 +6567,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.563Z"
-  },
-  {
-    "id": "torobshop-audio-video-3d13a34700e027c0",
-    "productId": "torobshop-3d13a34700e027c0",
-    "name": "ماهیتابه فیسلر آلمان Fissler Original-Profi Collection سایز 24 سانتی‌متر بدون پوشش با مقیاس اندازه‌گیری داخلی",
-    "brand": "",
-    "model": "ماهیتابه فیسلر آلمان Fissler Original-Profi Collection سایز 24 سانتی‌متر بدون پوشش با مقیاس اندازه‌گیری داخلی",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 39665000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%85%D8%AF%D9%84-Original-Profi-Collection-%D8%B3%D8%A7%DB%8C%D8%B2-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A8%D8%AF%D9%88%D9%86-%D9%BE%D9%88%D8%B4%D8%B4-%D8%A8%D8%A7-%D9%85%D9%82%DB%8C%D8%A7%D8%B3-%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%D9%87-%DA%AF%DB%8C%D8%B1%DB%8C-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%DA%A9%D9%85-%D9%85%D8%B5%D8%B1%D9%81-%D8%A8%D8%A7%D8%AF%D9%88%D8%A7%D9%85-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%DA%AF%D8%B1%DB%8C%D9%84-%D9%86%D9%88%D9%88-%DA%AF%D8%B1%DB%8C%D9%84-%D8%B3%D8%A7%DB%8C%D8%B2-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.563Z"
-  },
-  {
-    "id": "torobshop-audio-video-19319bed3e2f6069",
-    "productId": "torobshop-19319bed3e2f6069",
-    "name": "سرویس قابلمه ۵ تکه ZWILLING PURE، استیل ضد زنگ ۱۸/۱۰، دسته‌های خنک‌شونده، قابل شستشو در ماشین ظرفشویی، خط پرکننده یکپارچه، نقره‌ای",
-    "brand": "",
-    "model": "سرویس قابلمه ۵ تکه ZWILLING PURE، استیل ضد زنگ ۱۸/۱۰، دسته‌های خنک‌شونده، قابل شستشو در ماشین ظرفشویی، خط پرکننده یکپارچه، نقره‌ای",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 86279000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B5-%D8%AA%DA%A9%D9%87-ZWILLING-PURE-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%DB%B1%DB%B8-%DB%B1%DB%B0-%D8%AF%D8%B3%D8%AA%D9%87-%D9%87%D8%A7%DB%8C-%D8%AE%D9%86%DA%A9-%D8%B4%D9%88%D9%86%D8%AF%D9%87-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D8%AE%D8%B7-%D9%BE%D8%B1%DA%A9%D9%86%D9%86%D8%AF%D9%87-%DB%8C%DA%A9%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.563Z"
+    "observedAt": "2026-09-05T07:52:57.210Z"
   },
   {
     "id": "torobshop-audio-video-a02082729540664c",
@@ -5721,61 +6585,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.563Z"
-  },
-  {
-    "id": "torobshop-audio-video-f091c9e920c8e1fb",
-    "productId": "torobshop-f091c9e920c8e1fb",
-    "name": "Tefal Easy Fry Max فریزر هواپیمایی گرم — 5-L Airfryer، کمپیکت برای بطری های خرد و گوشت جوانه با روغن کمی پوسته شده ، ضدچسبنده ، سبد مقاوم به ماشین ظرفشویی ، انرژی صرفه جویی می کند ، سیاه EY2458",
-    "brand": "",
-    "model": "Tefal Easy Fry Max فریزر هواپیمایی گرم — 5-L Airfryer، کمپیکت برای بطری های خرد و گوشت جوانه با روغن کمی پوسته شده ، ضدچسبنده ، سبد مقاوم به ماشین ظرفشویی ، انرژی صرفه جویی می کند ، سیاه EY2458",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 30197000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/Tefal-Easy-Fry-Max-%D9%81%D8%B1%DB%8C%D8%B2%D8%B1-%D9%87%D9%88%D8%A7%D9%BE%DB%8C%D9%85%D8%A7%DB%8C%DB%8C-%DA%AF%D8%B1%D9%85-5-L-Airfryer-%DA%A9%D9%85%D9%BE%DB%8C%DA%A9%D8%AA-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A8%D8%B7%D8%B1%DB%8C-%D9%87%D8%A7%DB%8C-%D8%AE%D8%B1%D8%AF-%D9%88-%DA%AF%D9%88%D8%B4%D8%AA-%D8%AC%D9%88%D8%A7%D9%86%D9%87-%D8%A8%D8%A7-%D8%B1%D9%88%D8%BA%D9%86-%DA%A9%D9%85%DB%8C-%D9%BE%D9%88%D8%B3%D8%AA%D9%87-%D8%B4%D8%AF%D9%87-%D8%B6%D8%AF%DA%86%D8%B3%D8%A8%D9%86%D8%AF%D9%87-%D8%B3%D8%A8%D8%AF-%D9%85%D9%82%D8%A7%D9%88%D9%85-%D8%A8%D9%87-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D8%A7%D9%86%D8%B1%DA%98%DB%8C-%D8%B5%D8%B1%D9%81%D9%87-%D8%AC%D9%88%DB%8C%DB%8C-%D9%85%DB%8C-%DA%A9%D9%86%D8%AF-%D8%B3%DB%8C%D8%A7%D9%87-EY2458",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.563Z"
-  },
-  {
-    "id": "torobshop-audio-video-fbbfc333137fef0f",
-    "productId": "torobshop-fbbfc333137fef0f",
-    "name": "ماهیتابه دو دسته فیسلر آلمان Fissler Pure Collection/Edelstahl (قطر ۲۴ سانتی‌متر) بدون پوشش",
-    "brand": "",
-    "model": "ماهیتابه دو دسته فیسلر آلمان Fissler Pure Collection/Edelstahl (قطر ۲۴ سانتی‌متر) بدون پوشش",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 34133000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D8%AE%D8%A7%D9%84%D8%B5-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%82%D8%B7%D8%B1-%DB%B2%DB%B4-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A8%D8%AF%D9%88%D9%86-%D9%BE%D9%88%D8%B4%D8%B4-%D9%BE%DB%8C%D9%85%D8%A7%D9%86%D9%87-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D9%84%D8%A8%D9%87-%D8%A8%D9%84%D9%86%D8%AF-%DB%B1%DB%B0-%D8%B3%D8%A7%D9%84-%DA%AF%D8%A7%D8%B1%D8%A7%D9%86%D8%AA%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.563Z"
-  },
-  {
-    "id": "torobshop-audio-video-c7fa60def079c000",
-    "productId": "torobshop-c7fa60def079c000",
-    "name": "چاقوی چهار ستاره ZWILLING، 7 تکه، چوب راش، چاقوها، فولاد تیزکن و قیچی، دسته استیل ضد زنگ/پلاستیکی ارگونومیک، مشکی [ساخت آلمان] 7 تکه چهار ستاره",
-    "brand": "",
-    "model": "چاقوی چهار ستاره ZWILLING، 7 تکه، چوب راش، چاقوها، فولاد تیزکن و قیچی، دسته استیل ضد زنگ/پلاستیکی ارگونومیک، مشکی [ساخت آلمان] 7 تکه چهار ستاره",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 58365000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%DA%86%D8%A7%D9%82%D9%88%DB%8C-%DA%86%D9%87%D8%A7%D8%B1-%D8%B3%D8%AA%D8%A7%D8%B1%D9%87-ZWILLING-7-%D8%AA%DA%A9%D9%87-%DA%86%D9%88%D8%A8-%D8%B1%D8%A7%D8%B4-%DA%86%D8%A7%D9%82%D9%88%D9%87%D8%A7-%D9%81%D9%88%D9%84%D8%A7%D8%AF-%D8%AA%DB%8C%D8%B2%DA%A9%D9%86-%D9%88-%D9%82%DB%8C%DA%86%DB%8C-%D8%AF%D8%B3%D8%AA%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9%DB%8C-%D8%A7%D8%B1%DA%AF%D9%88%D9%86%D9%88%D9%85%DB%8C%DA%A9-%D9%85%D8%B4%DA%A9%DB%8C-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-7-%D8%AA%DA%A9%D9%87-%DA%86%D9%87%D8%A7%D8%B1-%D8%B3%D8%AA%D8%A7%D8%B1%D9%87",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.563Z"
+    "observedAt": "2026-09-05T07:52:57.210Z"
   },
   {
     "id": "torobshop-audio-video-5ac41723dcef4426",
@@ -5793,7 +6603,97 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.563Z"
+    "observedAt": "2026-09-05T07:52:57.210Z"
+  },
+  {
+    "id": "torobshop-audio-video-3d13a34700e027c0",
+    "productId": "torobshop-3d13a34700e027c0",
+    "name": "ماهیتابه فیسلر آلمان Fissler Original-Profi Collection سایز 24 سانتی‌متر بدون پوشش با مقیاس اندازه‌گیری داخلی",
+    "brand": "",
+    "model": "ماهیتابه فیسلر آلمان Fissler Original-Profi Collection سایز 24 سانتی‌متر بدون پوشش با مقیاس اندازه‌گیری داخلی",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 39665000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%85%D8%AF%D9%84-Original-Profi-Collection-%D8%B3%D8%A7%DB%8C%D8%B2-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A8%D8%AF%D9%88%D9%86-%D9%BE%D9%88%D8%B4%D8%B4-%D8%A8%D8%A7-%D9%85%D9%82%DB%8C%D8%A7%D8%B3-%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%D9%87-%DA%AF%DB%8C%D8%B1%DB%8C-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%B3%D8%A7%D8%B2%DA%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%A7%D9%82-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-%DA%A9%D9%85-%D9%85%D8%B5%D8%B1%D9%81-%D8%A8%D8%A7%D8%AF%D9%88%D8%A7%D9%85-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%DA%AF%D8%B1%DB%8C%D9%84-%D9%86%D9%88%D9%88-%DA%AF%D8%B1%DB%8C%D9%84-%D8%B3%D8%A7%DB%8C%D8%B2-24-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.210Z"
+  },
+  {
+    "id": "torobshop-audio-video-19319bed3e2f6069",
+    "productId": "torobshop-19319bed3e2f6069",
+    "name": "سرویس قابلمه ۵ تکه ZWILLING PURE، استیل ضد زنگ ۱۸/۱۰، دسته‌های خنک‌شونده، قابل شستشو در ماشین ظرفشویی، خط پرکننده یکپارچه، نقره‌ای",
+    "brand": "",
+    "model": "سرویس قابلمه ۵ تکه ZWILLING PURE، استیل ضد زنگ ۱۸/۱۰، دسته‌های خنک‌شونده، قابل شستشو در ماشین ظرفشویی، خط پرکننده یکپارچه، نقره‌ای",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 86279000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%DB%B5-%D8%AA%DA%A9%D9%87-ZWILLING-PURE-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%DB%B1%DB%B8-%DB%B1%DB%B0-%D8%AF%D8%B3%D8%AA%D9%87-%D9%87%D8%A7%DB%8C-%D8%AE%D9%86%DA%A9-%D8%B4%D9%88%D9%86%D8%AF%D9%87-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D8%AE%D8%B7-%D9%BE%D8%B1%DA%A9%D9%86%D9%86%D8%AF%D9%87-%DB%8C%DA%A9%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.210Z"
+  },
+  {
+    "id": "torobshop-audio-video-f091c9e920c8e1fb",
+    "productId": "torobshop-f091c9e920c8e1fb",
+    "name": "Tefal Easy Fry Max فریزر هواپیمایی گرم — 5-L Airfryer، کمپیکت برای بطری های خرد و گوشت جوانه با روغن کمی پوسته شده ، ضدچسبنده ، سبد مقاوم به ماشین ظرفشویی ، انرژی صرفه جویی می کند ، سیاه EY2458",
+    "brand": "",
+    "model": "Tefal Easy Fry Max فریزر هواپیمایی گرم — 5-L Airfryer، کمپیکت برای بطری های خرد و گوشت جوانه با روغن کمی پوسته شده ، ضدچسبنده ، سبد مقاوم به ماشین ظرفشویی ، انرژی صرفه جویی می کند ، سیاه EY2458",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 30197000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/Tefal-Easy-Fry-Max-%D9%81%D8%B1%DB%8C%D8%B2%D8%B1-%D9%87%D9%88%D8%A7%D9%BE%DB%8C%D9%85%D8%A7%DB%8C%DB%8C-%DA%AF%D8%B1%D9%85-5-L-Airfryer-%DA%A9%D9%85%D9%BE%DB%8C%DA%A9%D8%AA-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A8%D8%B7%D8%B1%DB%8C-%D9%87%D8%A7%DB%8C-%D8%AE%D8%B1%D8%AF-%D9%88-%DA%AF%D9%88%D8%B4%D8%AA-%D8%AC%D9%88%D8%A7%D9%86%D9%87-%D8%A8%D8%A7-%D8%B1%D9%88%D8%BA%D9%86-%DA%A9%D9%85%DB%8C-%D9%BE%D9%88%D8%B3%D8%AA%D9%87-%D8%B4%D8%AF%D9%87-%D8%B6%D8%AF%DA%86%D8%B3%D8%A8%D9%86%D8%AF%D9%87-%D8%B3%D8%A8%D8%AF-%D9%85%D9%82%D8%A7%D9%88%D9%85-%D8%A8%D9%87-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D8%A7%D9%86%D8%B1%DA%98%DB%8C-%D8%B5%D8%B1%D9%81%D9%87-%D8%AC%D9%88%DB%8C%DB%8C-%D9%85%DB%8C-%DA%A9%D9%86%D8%AF-%D8%B3%DB%8C%D8%A7%D9%87-EY2458",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.210Z"
+  },
+  {
+    "id": "torobshop-audio-video-fbbfc333137fef0f",
+    "productId": "torobshop-fbbfc333137fef0f",
+    "name": "ماهیتابه دو دسته فیسلر آلمان Fissler Pure Collection/Edelstahl (قطر ۲۴ سانتی‌متر) بدون پوشش",
+    "brand": "",
+    "model": "ماهیتابه دو دسته فیسلر آلمان Fissler Pure Collection/Edelstahl (قطر ۲۴ سانتی‌متر) بدون پوشش",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 34133000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D8%AE%D8%A7%D9%84%D8%B5-%D9%81%DB%8C%D8%B3%D9%84%D8%B1-%D9%82%D8%B7%D8%B1-%DB%B2%DB%B4-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D9%85%D8%A7%D9%87%DB%8C%D8%AA%D8%A7%D8%A8%D9%87-%D8%A8%D8%AF%D9%88%D9%86-%D9%BE%D9%88%D8%B4%D8%B4-%D9%BE%DB%8C%D9%85%D8%A7%D9%86%D9%87-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D9%84%D8%A8%D9%87-%D8%A8%D9%84%D9%86%D8%AF-%DB%B1%DB%B0-%D8%B3%D8%A7%D9%84-%DA%AF%D8%A7%D8%B1%D8%A7%D9%86%D8%AA%DB%8C-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.210Z"
+  },
+  {
+    "id": "torobshop-audio-video-4b3421328c1ce066",
+    "productId": "torobshop-4b3421328c1ce066",
+    "name": "قیچی چند منظوره زولینگ آلمان ZWILLING، قیچی جهانی، طول: 20 سانتی متر، استیل ضد زنگ مخصوص، کمک آشپزخانه، مشکی",
+    "brand": "",
+    "model": "قیچی چند منظوره زولینگ آلمان ZWILLING، قیچی جهانی، طول: 20 سانتی متر، استیل ضد زنگ مخصوص، کمک آشپزخانه، مشکی",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 16240000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%82%DB%8C%DA%86%DB%8C-%DA%86%D9%86%D8%AF-%D9%85%D9%86%D8%B8%D9%88%D8%B1%D9%87-ZWILLING-%D9%82%DB%8C%DA%86%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%B7%D9%88%D9%84-20-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B6%D8%AF-%D8%B2%D9%86%DA%AF-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%DA%A9%D9%85%DA%A9-%D8%A2%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87-%D9%85%D8%B4%DA%A9%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.210Z"
   },
   {
     "id": "torobshop-audio-video-be60227182487367",
@@ -5811,7 +6711,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.563Z"
+    "observedAt": "2026-09-05T07:52:57.210Z"
   },
   {
     "id": "torobshop-audio-video-d3f802410104b943",
@@ -5829,7 +6729,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.563Z"
+    "observedAt": "2026-09-05T07:52:57.210Z"
   },
   {
     "id": "torobshop-audio-video-0f347f93a4676672",
@@ -5847,7 +6747,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.563Z"
+    "observedAt": "2026-09-05T07:52:57.210Z"
   },
   {
     "id": "torobshop-audio-video-cb5f45612fc319e4",
@@ -5865,7 +6765,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.563Z"
+    "observedAt": "2026-09-05T07:52:57.210Z"
   },
   {
     "id": "torobshop-audio-video-a447d48449c2d499",
@@ -5883,7 +6783,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.563Z"
+    "observedAt": "2026-09-05T07:52:57.210Z"
   },
   {
     "id": "torobshop-audio-video-71ebfae235e91ed5",
@@ -5901,7 +6801,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.564Z"
+    "observedAt": "2026-09-05T07:52:57.210Z"
   },
   {
     "id": "torobshop-audio-video-51edff8c55bfb262",
@@ -5919,7 +6819,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.564Z"
+    "observedAt": "2026-09-05T07:52:57.210Z"
   },
   {
     "id": "torobshop-audio-video-f99dae95f9641652",
@@ -5937,7 +6837,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.564Z"
+    "observedAt": "2026-09-05T07:52:57.210Z"
   },
   {
     "id": "torobshop-audio-video-6bc05672d0e139cd",
@@ -5955,25 +6855,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.564Z"
-  },
-  {
-    "id": "torobshop-audio-video-6b776fc230756800",
-    "productId": "torobshop-6b776fc230756800",
-    "name": "فیلیپس",
-    "brand": "",
-    "model": "فیلیپس",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 15479000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-2",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.564Z"
+    "observedAt": "2026-09-05T07:52:57.210Z"
   },
   {
     "id": "torobshop-audio-video-f2622dc414824191",
@@ -5991,7 +6873,25 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.564Z"
+    "observedAt": "2026-09-05T07:52:57.210Z"
+  },
+  {
+    "id": "torobshop-audio-video-6b776fc230756800",
+    "productId": "torobshop-6b776fc230756800",
+    "name": "فیلیپس",
+    "brand": "",
+    "model": "فیلیپس",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 15479000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-2",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.210Z"
   },
   {
     "id": "torobshop-audio-video-640c8324f81a46bb",
@@ -6009,25 +6909,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.564Z"
-  },
-  {
-    "id": "torobshop-audio-video-7f66ba1a4f7ddbfb",
-    "productId": "torobshop-7f66ba1a4f7ddbfb",
-    "name": "لیزر بدن بانوان رفع موهای زائد فیلیپس هلند Philips BRI953/02 برای داشتن پوستی ابریشمی و صاف تا 2 سال",
-    "brand": "",
-    "model": "لیزر بدن بانوان رفع موهای زائد فیلیپس هلند Philips BRI953/02 برای داشتن پوستی ابریشمی و صاف تا 2 سال",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 102658000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%DB%8C-Philips-Lumea-IPL-9900-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-IPL-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AF%D8%A7%D8%B4%D8%AA%D9%86-%D9%BE%D9%88%D8%B3%D8%AA%DB%8C-%D8%A7%D8%A8%D8%B1%DB%8C%D8%B4%D9%85%DB%8C-%D9%88-%D8%B5%D8%A7%D9%81-%D8%AA%D8%A7-2-%D8%B3%D8%A7%D9%84-%D8%A8%D8%A7-3-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A8%D8%AF%D9%86-%D9%88-%D8%B5%D9%88%D8%B1%D8%AA-%D8%A8%D8%AF%D9%88%D9%86-%D8%B3%DB%8C%D9%85-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D9%84%DB%8C%D8%B2%D8%B1-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-BRI953-02",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.564Z"
+    "observedAt": "2026-09-05T07:52:57.210Z"
   },
   {
     "id": "torobshop-audio-video-c54b5b958054a1a2",
@@ -6045,7 +6927,25 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.564Z"
+    "observedAt": "2026-09-05T07:52:57.210Z"
+  },
+  {
+    "id": "torobshop-audio-video-7f66ba1a4f7ddbfb",
+    "productId": "torobshop-7f66ba1a4f7ddbfb",
+    "name": "لیزر بدن بانوان رفع موهای زائد فیلیپس هلند Philips BRI953/02 برای داشتن پوستی ابریشمی و صاف تا 2 سال",
+    "brand": "",
+    "model": "لیزر بدن بانوان رفع موهای زائد فیلیپس هلند Philips BRI953/02 برای داشتن پوستی ابریشمی و صاف تا 2 سال",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 102658000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B1%DB%8C-Philips-Lumea-IPL-9900-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-IPL-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AF%D8%A7%D8%B4%D8%AA%D9%86-%D9%BE%D9%88%D8%B3%D8%AA%DB%8C-%D8%A7%D8%A8%D8%B1%DB%8C%D8%B4%D9%85%DB%8C-%D9%88-%D8%B5%D8%A7%D9%81-%D8%AA%D8%A7-2-%D8%B3%D8%A7%D9%84-%D8%A8%D8%A7-3-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A8%D8%AF%D9%86-%D9%88-%D8%B5%D9%88%D8%B1%D8%AA-%D8%A8%D8%AF%D9%88%D9%86-%D8%B3%DB%8C%D9%85-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D9%84%DB%8C%D8%B2%D8%B1-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-BRI953-02",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.210Z"
   },
   {
     "id": "torobshop-audio-video-43b61e0733cc7171",
@@ -6063,7 +6963,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.564Z"
+    "observedAt": "2026-09-05T07:52:57.210Z"
   },
   {
     "id": "torobshop-audio-video-f699a00edc06f489",
@@ -6081,61 +6981,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.564Z"
-  },
-  {
-    "id": "torobshop-audio-video-a59cff30443c154a",
-    "productId": "torobshop-a59cff30443c154a",
-    "name": "سشوار فیلیپس هلند Philips BHD510/20 فناوری ترموشیلد، عملکرد یونیزاسیون",
-    "brand": "",
-    "model": "سشوار فیلیپس هلند Philips BHD510/20 فناوری ترموشیلد، عملکرد یونیزاسیون",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 16148000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B4%D9%88%D8%A7%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%B3%D8%B1%DB%8C-5000-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-%D8%AA%D8%B1%D9%85%D9%88%D8%B4%DB%8C%D9%84%D8%AF-%D8%B9%D9%85%D9%84%DA%A9%D8%B1%D8%AF-%DB%8C%D9%88%D9%86%DB%8C%D8%B2%D8%A7%D8%B3%DB%8C%D9%88%D9%86-2300-%D9%88%D8%A7%D8%AA-%D8%A2%D8%A8%DB%8C-%D9%85%D8%AA%D8%A7%D9%84%DB%8C%DA%A9-%D8%A8%D8%A7-%D9%86%D8%A7%D8%B2%D9%84-%D9%87%D8%A7%DB%8C-%D8%AD%D8%A7%D9%84%D8%AA-%D8%AF%D9%87%D9%86%D8%AF%D9%87-9-%D9%88-11-%D9%85%DB%8C%D9%84%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C-%D9%BE%D8%AE%D8%B4-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%AD%D8%AC%D9%85-%D9%85%D9%88-BHD510-20",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.564Z"
-  },
-  {
-    "id": "torobshop-audio-video-f6c6e72a28882975",
-    "productId": "torobshop-f6c6e72a28882975",
-    "name": "دستگاه رفع موهای زائد Braun Smart IPL Silk·expert Pro 5 — لیزر موهای زائد دائمی حرفه‌ای برای استفاده در منزل، طراحی شده در آلمان — شامل کیف، تیغ ونوس، 2 قطعه جانبی — PL5234، سفید/نقره‌ای",
-    "brand": "",
-    "model": "دستگاه رفع موهای زائد Braun Smart IPL Silk·expert Pro 5 — لیزر موهای زائد دائمی حرفه‌ای برای استفاده در منزل، طراحی شده در آلمان — شامل کیف، تیغ ونوس، 2 قطعه جانبی — PL5234، سفید/نقره‌ای",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 117491000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Braun-Smart-IPL-Silk-expert-Pro-5-%D9%84%DB%8C%D8%B2%D8%B1-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D8%AD%D8%B1%D9%81%D9%87-%D8%A7%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%85%D9%86%D8%B2%D9%84-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B4%D8%AF%D9%87-%D8%AF%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%B4%D8%A7%D9%85%D9%84-%DA%A9%DB%8C%D9%81-%D8%AA%DB%8C%D8%BA-%D9%88%D9%86%D9%88%D8%B3-2-%D9%82%D8%B7%D8%B9%D9%87-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-PL5234-%D8%B3%D9%81%DB%8C%D8%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.564Z"
-  },
-  {
-    "id": "torobshop-audio-video-af7462ce98ee2999",
-    "productId": "torobshop-af7462ce98ee2999",
-    "name": "اپیلاتور صورت براون فیس اسپا مخصوص بانوان، برس پاکسازی صورت، پد ماساژ، آینه و کیف، رفع موهای زائد و پاکسازی، ضد آب — ۸۵۱ ولت، سفید/برنزی ۳ در ۱ ۸۵۱ ولت",
-    "brand": "",
-    "model": "اپیلاتور صورت براون فیس اسپا مخصوص بانوان، برس پاکسازی صورت، پد ماساژ، آینه و کیف، رفع موهای زائد و پاکسازی، ضد آب — ۸۵۱ ولت، سفید/برنزی ۳ در ۱ ۸۵۱ ولت",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 25122000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B5%D9%88%D8%B1%D8%AA-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D9%81%DB%8C%D8%B3-%D8%A7%D8%B3%D9%BE%D8%A7-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D8%A8%D8%B1%D8%B3-%D9%BE%D8%A7%DA%A9%D8%B3%D8%A7%D8%B2%DB%8C-%D8%B5%D9%88%D8%B1%D8%AA-%D9%BE%D8%AF-%D9%85%D8%A7%D8%B3%D8%A7%DA%98-%D8%A2%DB%8C%D9%86%D9%87-%D9%88-%DA%A9%DB%8C%D9%81-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D9%88-%D9%BE%D8%A7%DA%A9%D8%B3%D8%A7%D8%B2%DB%8C-%D8%B6%D8%AF-%D8%A2%D8%A8-%DB%B8%DB%B5%DB%B1-%D9%88%D9%84%D8%AA-%D8%B3%D9%81%DB%8C%D8%AF-%D8%A8%D8%B1%D9%86%D8%B2%DB%8C-%DB%B3-%D8%AF%D8%B1-%DB%B1-%DB%B8%DB%B5%DB%B1-%D9%88%D9%84%D8%AA",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.564Z"
+    "observedAt": "2026-09-05T07:52:57.210Z"
   },
   {
     "id": "torobshop-audio-video-7c82cddc2d9efd1c",
@@ -6153,7 +6999,43 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.564Z"
+    "observedAt": "2026-09-05T07:52:57.210Z"
+  },
+  {
+    "id": "torobshop-audio-video-a59cff30443c154a",
+    "productId": "torobshop-a59cff30443c154a",
+    "name": "سشوار فیلیپس هلند Philips BHD510/20 فناوری ترموشیلد، عملکرد یونیزاسیون",
+    "brand": "",
+    "model": "سشوار فیلیپس هلند Philips BHD510/20 فناوری ترموشیلد، عملکرد یونیزاسیون",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 16148000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B4%D9%88%D8%A7%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%B3%D8%B1%DB%8C-5000-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-%D8%AA%D8%B1%D9%85%D9%88%D8%B4%DB%8C%D9%84%D8%AF-%D8%B9%D9%85%D9%84%DA%A9%D8%B1%D8%AF-%DB%8C%D9%88%D9%86%DB%8C%D8%B2%D8%A7%D8%B3%DB%8C%D9%88%D9%86-2300-%D9%88%D8%A7%D8%AA-%D8%A2%D8%A8%DB%8C-%D9%85%D8%AA%D8%A7%D9%84%DB%8C%DA%A9-%D8%A8%D8%A7-%D9%86%D8%A7%D8%B2%D9%84-%D9%87%D8%A7%DB%8C-%D8%AD%D8%A7%D9%84%D8%AA-%D8%AF%D9%87%D9%86%D8%AF%D9%87-9-%D9%88-11-%D9%85%DB%8C%D9%84%DB%8C-%D9%85%D8%AA%D8%B1%DB%8C-%D9%BE%D8%AE%D8%B4-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%AD%D8%AC%D9%85-%D9%85%D9%88-BHD510-20",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.210Z"
+  },
+  {
+    "id": "torobshop-audio-video-f6c6e72a28882975",
+    "productId": "torobshop-f6c6e72a28882975",
+    "name": "دستگاه رفع موهای زائد Braun Smart IPL Silk·expert Pro 5 — لیزر موهای زائد دائمی حرفه‌ای برای استفاده در منزل، طراحی شده در آلمان — شامل کیف، تیغ ونوس، 2 قطعه جانبی — PL5234، سفید/نقره‌ای",
+    "brand": "",
+    "model": "دستگاه رفع موهای زائد Braun Smart IPL Silk·expert Pro 5 — لیزر موهای زائد دائمی حرفه‌ای برای استفاده در منزل، طراحی شده در آلمان — شامل کیف، تیغ ونوس، 2 قطعه جانبی — PL5234، سفید/نقره‌ای",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 117491000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Braun-Smart-IPL-Silk-expert-Pro-5-%D9%84%DB%8C%D8%B2%D8%B1-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D8%AD%D8%B1%D9%81%D9%87-%D8%A7%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%85%D9%86%D8%B2%D9%84-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B4%D8%AF%D9%87-%D8%AF%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%B4%D8%A7%D9%85%D9%84-%DA%A9%DB%8C%D9%81-%D8%AA%DB%8C%D8%BA-%D9%88%D9%86%D9%88%D8%B3-2-%D9%82%D8%B7%D8%B9%D9%87-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-PL5234-%D8%B3%D9%81%DB%8C%D8%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.210Z"
   },
   {
     "id": "torobshop-audio-video-a942a79dda5b87df",
@@ -6171,7 +7053,25 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.564Z"
+    "observedAt": "2026-09-05T07:52:57.210Z"
+  },
+  {
+    "id": "torobshop-audio-video-af7462ce98ee2999",
+    "productId": "torobshop-af7462ce98ee2999",
+    "name": "اپیلاتور صورت براون فیس اسپا مخصوص بانوان، برس پاکسازی صورت، پد ماساژ، آینه و کیف، رفع موهای زائد و پاکسازی، ضد آب — ۸۵۱ ولت، سفید/برنزی ۳ در ۱ ۸۵۱ ولت",
+    "brand": "",
+    "model": "اپیلاتور صورت براون فیس اسپا مخصوص بانوان، برس پاکسازی صورت، پد ماساژ، آینه و کیف، رفع موهای زائد و پاکسازی، ضد آب — ۸۵۱ ولت، سفید/برنزی ۳ در ۱ ۸۵۱ ولت",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 25122000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B5%D9%88%D8%B1%D8%AA-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D9%81%DB%8C%D8%B3-%D8%A7%D8%B3%D9%BE%D8%A7-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D8%A8%D8%B1%D8%B3-%D9%BE%D8%A7%DA%A9%D8%B3%D8%A7%D8%B2%DB%8C-%D8%B5%D9%88%D8%B1%D8%AA-%D9%BE%D8%AF-%D9%85%D8%A7%D8%B3%D8%A7%DA%98-%D8%A2%DB%8C%D9%86%D9%87-%D9%88-%DA%A9%DB%8C%D9%81-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D9%88-%D9%BE%D8%A7%DA%A9%D8%B3%D8%A7%D8%B2%DB%8C-%D8%B6%D8%AF-%D8%A2%D8%A8-%DB%B8%DB%B5%DB%B1-%D9%88%D9%84%D8%AA-%D8%B3%D9%81%DB%8C%D8%AF-%D8%A8%D8%B1%D9%86%D8%B2%DB%8C-%DB%B3-%D8%AF%D8%B1-%DB%B1-%DB%B8%DB%B5%DB%B1-%D9%88%D9%84%D8%AA",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.210Z"
   },
   {
     "id": "torobshop-audio-video-e4ec7bd10ffa8b50",
@@ -6189,7 +7089,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.564Z"
+    "observedAt": "2026-09-05T07:52:57.210Z"
   },
   {
     "id": "torobshop-audio-video-5bc21e4edaa526cc",
@@ -6207,7 +7107,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.564Z"
+    "observedAt": "2026-09-05T07:52:57.210Z"
   },
   {
     "id": "torobshop-audio-video-7bbb1f19505b28fd",
@@ -6225,7 +7125,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.564Z"
+    "observedAt": "2026-09-05T07:52:57.210Z"
   },
   {
     "id": "torobshop-audio-video-45d6aa9c3fd53ad4",
@@ -6243,7 +7143,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.564Z"
+    "observedAt": "2026-09-05T07:52:57.210Z"
   },
   {
     "id": "torobshop-audio-video-9d62a66000d436e1",
@@ -6261,7 +7161,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.564Z"
+    "observedAt": "2026-09-05T07:52:57.210Z"
   },
   {
     "id": "torobshop-audio-video-c876f51b5b5d7dae",
@@ -6279,7 +7179,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.564Z"
+    "observedAt": "2026-09-05T07:52:57.210Z"
   },
   {
     "id": "torobshop-audio-video-1abb58c93aa4d049",
@@ -6297,151 +7197,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.564Z"
-  },
-  {
-    "id": "torobshop-audio-video-400b05dca029ee01",
-    "productId": "torobshop-400b05dca029ee01",
-    "name": "اپیلاتور زنانه براون مدل Silk-épil 5، رفع موهای زائد، دارای لوازم جانبی برای اصلاح، ماشین اصلاح و ماساژ، بدن، کیف، 5-625، سفید/خاکستری + 4 لوازم جانبی",
-    "brand": "",
-    "model": "اپیلاتور زنانه براون مدل Silk-épil 5، رفع موهای زائد، دارای لوازم جانبی برای اصلاح، ماشین اصلاح و ماساژ، بدن، کیف، 5-625، سفید/خاکستری + 4 لوازم جانبی",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 27914000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D9%85%D8%AF%D9%84-Silk-pil-5-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D9%85%D8%A7%D8%B3%D8%A7%DA%98-%D8%A8%D8%AF%D9%86-%DA%A9%DB%8C%D9%81-5-625-%D8%B3%D9%81%DB%8C%D8%AF-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C-4-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.564Z"
-  },
-  {
-    "id": "torobshop-audio-video-27109e9fc58673fd",
-    "productId": "torobshop-27109e9fc58673fd",
-    "name": "فیلیپس",
-    "brand": "",
-    "model": "فیلیپس",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 14464000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.564Z"
-  },
-  {
-    "id": "torobshop-audio-video-074febbf09bd3065",
-    "productId": "torobshop-074febbf09bd3065",
-    "name": "دستگاه رفع موهای زائد Braun Smart IPL Silk·expert Pro 5 — لیزر حرفه‌ای دائمی موهای زائد برای استفاده در منزل، طراحی شده در آلمان — شامل کیف، تیغ Venus، 4 قطعه الحاقی — PL5431، سفید/طلایی",
-    "brand": "",
-    "model": "دستگاه رفع موهای زائد Braun Smart IPL Silk·expert Pro 5 — لیزر حرفه‌ای دائمی موهای زائد برای استفاده در منزل، طراحی شده در آلمان — شامل کیف، تیغ Venus، 4 قطعه الحاقی — PL5431، سفید/طلایی",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 113938000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Braun-Smart-IPL-Silk-expert-Pro-5-%D9%84%DB%8C%D8%B2%D8%B1-%D8%AD%D8%B1%D9%81%D9%87-%D8%A7%DB%8C-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%85%D9%86%D8%B2%D9%84-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B4%D8%AF%D9%87-%D8%AF%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%B4%D8%A7%D9%85%D9%84-%DA%A9%DB%8C%D9%81-%D8%AA%DB%8C%D8%BA-Venus-4-%D9%82%D8%B7%D8%B9%D9%87-%D8%A7%D9%84%D8%AD%D8%A7%D9%82%DB%8C-PL5431-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.564Z"
-  },
-  {
-    "id": "torobshop-audio-video-766b0f80e67074f9",
-    "productId": "torobshop-766b0f80e67074f9",
-    "name": "ریش‌تراش فیلیپس سری ۸۰۰۰ مدل لیدی - ریش‌تراش برقی بی‌سیم، مناسب برای اصلاح خشک و مرطوب، ۳ تیغه، سر اصلاح انعطاف‌پذیر، چراغ LED، صورت/پا/بدن/ناحیه بیکینی، ۱۰۰ دقیقه کارکرد، مدل BRL159/00",
-    "brand": "",
-    "model": "ریش‌تراش فیلیپس سری ۸۰۰۰ مدل لیدی - ریش‌تراش برقی بی‌سیم، مناسب برای اصلاح خشک و مرطوب، ۳ تیغه، سر اصلاح انعطاف‌پذیر، چراغ LED، صورت/پا/بدن/ناحیه بیکینی، ۱۰۰ دقیقه کارکرد، مدل BRL159/00",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 20046000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%B3%D8%B1%DB%8C-%DB%B8%DB%B0%DB%B0%DB%B0-%D9%85%D8%AF%D9%84-%D9%84%DB%8C%D8%AF%DB%8C-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D8%A8%D8%B1%D9%82%DB%8C-%D8%A8%DB%8C-%D8%B3%DB%8C%D9%85-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%AE%D8%B4%DA%A9-%D9%88-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%DB%B3-%D8%AA%DB%8C%D8%BA%D9%87-%D8%B3%D8%B1-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%A7%D9%86%D8%B9%D8%B7%D8%A7%D9%81-%D9%BE%D8%B0%DB%8C%D8%B1-%DA%86%D8%B1%D8%A7%D8%BA-LED-%D8%B5%D9%88%D8%B1%D8%AA-%D9%BE%D8%A7-%D8%A8%D8%AF%D9%86-%D9%86%D8%A7%D8%AD%DB%8C%D9%87-%D8%A8%DB%8C%DA%A9%DB%8C%D9%86%DB%8C-%DB%B1%DB%B0%DB%B0-%D8%AF%D9%82%DB%8C%D9%82%D9%87-%DA%A9%D8%A7%D8%B1%DA%A9%D8%B1%D8%AF-%D9%85%D8%AF%D9%84-BRL159-00",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.564Z"
-  },
-  {
-    "id": "torobshop-audio-video-6c0960e9008fddf6",
-    "productId": "torobshop-6c0960e9008fddf6",
-    "name": "دستگاه رفع موهای زائد Philips Lumea Advanced IPL، مدل BRI921/00، با ۲ سری برای بدن، صورت و ۱ ماشین اصلاح دقیق - سیمی",
-    "brand": "",
-    "model": "دستگاه رفع موهای زائد Philips Lumea Advanced IPL، مدل BRI921/00، با ۲ سری برای بدن، صورت و ۱ ماشین اصلاح دقیق - سیمی",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 60649000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Philips-Lumea-Advanced-IPL-%D9%85%D8%AF%D9%84-BRI921-00-%D8%A8%D8%A7-%DB%B2-%D8%B3%D8%B1%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A8%D8%AF%D9%86-%D8%B5%D9%88%D8%B1%D8%AA-%D9%88-%DB%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%AF%D9%82%DB%8C%D9%82-%D8%B3%DB%8C%D9%85%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.564Z"
-  },
-  {
-    "id": "torobshop-audio-video-d6551c8766b38613",
-    "productId": "torobshop-d6551c8766b38613",
-    "name": "دستگاه رفع موهای زائد Philips Lumea IPL سری 9900 مدل BRI950/02 به همراه شیور زنانه BRL149/00 - جایگزین لیزر موهای زائد - 2 سری برای بدن و صورت",
-    "brand": "",
-    "model": "دستگاه رفع موهای زائد Philips Lumea IPL سری 9900 مدل BRI950/02 به همراه شیور زنانه BRL149/00 - جایگزین لیزر موهای زائد - 2 سری برای بدن و صورت",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 124089000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Philips-Lumea-IPL-%D8%B3%D8%B1%DB%8C-9900-%D9%85%D8%AF%D9%84-BRI950-02-%D8%A8%D9%87-%D9%87%D9%85%D8%B1%D8%A7%D9%87-%D8%B4%DB%8C%D9%88%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-BRL149-00-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D9%84%DB%8C%D8%B2%D8%B1-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-2-%D8%B3%D8%B1%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A8%D8%AF%D9%86-%D9%88-%D8%B5%D9%88%D8%B1%D8%AA",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.564Z"
-  },
-  {
-    "id": "torobshop-audio-video-508a955227952a9d",
-    "productId": "torobshop-508a955227952a9d",
-    "name": "اپیلاتور براون سیلک-اپیل ۵ مخصوص خانم‌ها، موبر برای رفع موهای زائد با ماندگاری طولانی، اصلاح بانوان، ضد آب - شامل اصلاح‌کننده بیکینی، سری اصلاح و سری اصلاح - ۵-۲۳۰، سفید/صورتی فلامینگو + اصلاح‌کننده بیکینی",
-    "brand": "",
-    "model": "اپیلاتور براون سیلک-اپیل ۵ مخصوص خانم‌ها، موبر برای رفع موهای زائد با ماندگاری طولانی، اصلاح بانوان، ضد آب - شامل اصلاح‌کننده بیکینی، سری اصلاح و سری اصلاح - ۵-۲۳۰، سفید/صورتی فلامینگو + اصلاح‌کننده بیکینی",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 29183000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B3%DB%8C%D9%84%DA%A9-%D8%A7%D9%BE%DB%8C%D9%84-%DB%B5-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%AE%D8%A7%D9%86%D9%85-%D9%87%D8%A7-%D9%85%D9%88%D8%A8%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%D8%A7-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1%DB%8C-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D8%B6%D8%AF-%D8%A2%D8%A8-%D8%B4%D8%A7%D9%85%D9%84-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%A8%DB%8C%DA%A9%DB%8C%D9%86%DB%8C-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DB%B5-%DB%B2%DB%B3%DB%B0-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B5%D9%88%D8%B1%D8%AA%DB%8C-%D9%81%D9%84%D8%A7%D9%85%DB%8C%D9%86%DA%AF%D9%88-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%A8%DB%8C%DA%A9%DB%8C%D9%86%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.564Z"
-  },
-  {
-    "id": "torobshop-audio-video-dc3a8d1c6feb961b",
-    "productId": "torobshop-dc3a8d1c6feb961b",
-    "name": "اپیلاتور براون سیلک-اپیل ۵ مخصوص خانم‌ها، اصلاح خشک و مرطوب برای رفع آسان موهای زائد و پوستی ابریشمی و نرم، اصلاح بانوان، ضد آب - شامل سری اصلاح و سری اصلاح - ۵-۰۴۱، سفید/خاکستری + ۳ لوازم جانبی",
-    "brand": "",
-    "model": "اپیلاتور براون سیلک-اپیل ۵ مخصوص خانم‌ها، اصلاح خشک و مرطوب برای رفع آسان موهای زائد و پوستی ابریشمی و نرم، اصلاح بانوان، ضد آب - شامل سری اصلاح و سری اصلاح - ۵-۰۴۱، سفید/خاکستری + ۳ لوازم جانبی",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 28421000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B3%DB%8C%D9%84%DA%A9-%D8%A7%D9%BE%DB%8C%D9%84-%DB%B5-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%AE%D8%A7%D9%86%D9%85-%D9%87%D8%A7-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%AE%D8%B4%DA%A9-%D9%88-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D8%A2%D8%B3%D8%A7%D9%86-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D9%88-%D9%BE%D9%88%D8%B3%D8%AA%DB%8C-%D8%A7%D8%A8%D8%B1%DB%8C%D8%B4%D9%85%DB%8C-%D9%88-%D9%86%D8%B1%D9%85-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D8%B6%D8%AF-%D8%A2%D8%A8-%D8%B4%D8%A7%D9%85%D9%84-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DB%B5-%DB%B0%DB%B4%DB%B1-%D8%B3%D9%81%DB%8C%D8%AF-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C-%DB%B3-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.564Z"
+    "observedAt": "2026-09-05T07:52:57.210Z"
   },
   {
     "id": "torobshop-audio-video-5e70d562a3ef7192",
@@ -6459,7 +7215,115 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.564Z"
+    "observedAt": "2026-09-05T07:52:57.210Z"
+  },
+  {
+    "id": "torobshop-audio-video-27109e9fc58673fd",
+    "productId": "torobshop-27109e9fc58673fd",
+    "name": "فیلیپس",
+    "brand": "",
+    "model": "فیلیپس",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 14464000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.210Z"
+  },
+  {
+    "id": "torobshop-audio-video-400b05dca029ee01",
+    "productId": "torobshop-400b05dca029ee01",
+    "name": "اپیلاتور زنانه براون مدل Silk-épil 5، رفع موهای زائد، دارای لوازم جانبی برای اصلاح، ماشین اصلاح و ماساژ، بدن، کیف، 5-625، سفید/خاکستری + 4 لوازم جانبی",
+    "brand": "",
+    "model": "اپیلاتور زنانه براون مدل Silk-épil 5، رفع موهای زائد، دارای لوازم جانبی برای اصلاح، ماشین اصلاح و ماساژ، بدن، کیف، 5-625، سفید/خاکستری + 4 لوازم جانبی",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 27914000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D9%85%D8%AF%D9%84-Silk-pil-5-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D9%85%D8%A7%D8%B3%D8%A7%DA%98-%D8%A8%D8%AF%D9%86-%DA%A9%DB%8C%D9%81-5-625-%D8%B3%D9%81%DB%8C%D8%AF-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C-4-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.210Z"
+  },
+  {
+    "id": "torobshop-audio-video-6c0960e9008fddf6",
+    "productId": "torobshop-6c0960e9008fddf6",
+    "name": "دستگاه رفع موهای زائد Philips Lumea Advanced IPL، مدل BRI921/00، با ۲ سری برای بدن، صورت و ۱ ماشین اصلاح دقیق - سیمی",
+    "brand": "",
+    "model": "دستگاه رفع موهای زائد Philips Lumea Advanced IPL، مدل BRI921/00، با ۲ سری برای بدن، صورت و ۱ ماشین اصلاح دقیق - سیمی",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 60649000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Philips-Lumea-Advanced-IPL-%D9%85%D8%AF%D9%84-BRI921-00-%D8%A8%D8%A7-%DB%B2-%D8%B3%D8%B1%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A8%D8%AF%D9%86-%D8%B5%D9%88%D8%B1%D8%AA-%D9%88-%DB%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%AF%D9%82%DB%8C%D9%82-%D8%B3%DB%8C%D9%85%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.210Z"
+  },
+  {
+    "id": "torobshop-audio-video-074febbf09bd3065",
+    "productId": "torobshop-074febbf09bd3065",
+    "name": "دستگاه رفع موهای زائد Braun Smart IPL Silk·expert Pro 5 — لیزر حرفه‌ای دائمی موهای زائد برای استفاده در منزل، طراحی شده در آلمان — شامل کیف، تیغ Venus، 4 قطعه الحاقی — PL5431، سفید/طلایی",
+    "brand": "",
+    "model": "دستگاه رفع موهای زائد Braun Smart IPL Silk·expert Pro 5 — لیزر حرفه‌ای دائمی موهای زائد برای استفاده در منزل، طراحی شده در آلمان — شامل کیف، تیغ Venus، 4 قطعه الحاقی — PL5431، سفید/طلایی",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 113938000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Braun-Smart-IPL-Silk-expert-Pro-5-%D9%84%DB%8C%D8%B2%D8%B1-%D8%AD%D8%B1%D9%81%D9%87-%D8%A7%DB%8C-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D9%85%D9%86%D8%B2%D9%84-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B4%D8%AF%D9%87-%D8%AF%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%B4%D8%A7%D9%85%D9%84-%DA%A9%DB%8C%D9%81-%D8%AA%DB%8C%D8%BA-Venus-4-%D9%82%D8%B7%D8%B9%D9%87-%D8%A7%D9%84%D8%AD%D8%A7%D9%82%DB%8C-PL5431-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.210Z"
+  },
+  {
+    "id": "torobshop-audio-video-766b0f80e67074f9",
+    "productId": "torobshop-766b0f80e67074f9",
+    "name": "ریش‌تراش فیلیپس سری ۸۰۰۰ مدل لیدی - ریش‌تراش برقی بی‌سیم، مناسب برای اصلاح خشک و مرطوب، ۳ تیغه، سر اصلاح انعطاف‌پذیر، چراغ LED، صورت/پا/بدن/ناحیه بیکینی، ۱۰۰ دقیقه کارکرد، مدل BRL159/00",
+    "brand": "",
+    "model": "ریش‌تراش فیلیپس سری ۸۰۰۰ مدل لیدی - ریش‌تراش برقی بی‌سیم، مناسب برای اصلاح خشک و مرطوب، ۳ تیغه، سر اصلاح انعطاف‌پذیر، چراغ LED، صورت/پا/بدن/ناحیه بیکینی، ۱۰۰ دقیقه کارکرد، مدل BRL159/00",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 20046000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%B3%D8%B1%DB%8C-%DB%B8%DB%B0%DB%B0%DB%B0-%D9%85%D8%AF%D9%84-%D9%84%DB%8C%D8%AF%DB%8C-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D8%A8%D8%B1%D9%82%DB%8C-%D8%A8%DB%8C-%D8%B3%DB%8C%D9%85-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%AE%D8%B4%DA%A9-%D9%88-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%DB%B3-%D8%AA%DB%8C%D8%BA%D9%87-%D8%B3%D8%B1-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%A7%D9%86%D8%B9%D8%B7%D8%A7%D9%81-%D9%BE%D8%B0%DB%8C%D8%B1-%DA%86%D8%B1%D8%A7%D8%BA-LED-%D8%B5%D9%88%D8%B1%D8%AA-%D9%BE%D8%A7-%D8%A8%D8%AF%D9%86-%D9%86%D8%A7%D8%AD%DB%8C%D9%87-%D8%A8%DB%8C%DA%A9%DB%8C%D9%86%DB%8C-%DB%B1%DB%B0%DB%B0-%D8%AF%D9%82%DB%8C%D9%82%D9%87-%DA%A9%D8%A7%D8%B1%DA%A9%D8%B1%D8%AF-%D9%85%D8%AF%D9%84-BRL159-00",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.211Z"
+  },
+  {
+    "id": "torobshop-audio-video-d6551c8766b38613",
+    "productId": "torobshop-d6551c8766b38613",
+    "name": "دستگاه رفع موهای زائد Philips Lumea IPL سری 9900 مدل BRI950/02 به همراه شیور زنانه BRL149/00 - جایگزین لیزر موهای زائد - 2 سری برای بدن و صورت",
+    "brand": "",
+    "model": "دستگاه رفع موهای زائد Philips Lumea IPL سری 9900 مدل BRI950/02 به همراه شیور زنانه BRL149/00 - جایگزین لیزر موهای زائد - 2 سری برای بدن و صورت",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 124089000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Philips-Lumea-IPL-%D8%B3%D8%B1%DB%8C-9900-%D9%85%D8%AF%D9%84-BRI950-02-%D8%A8%D9%87-%D9%87%D9%85%D8%B1%D8%A7%D9%87-%D8%B4%DB%8C%D9%88%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-BRL149-00-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D9%84%DB%8C%D8%B2%D8%B1-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-2-%D8%B3%D8%B1%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A8%D8%AF%D9%86-%D9%88-%D8%B5%D9%88%D8%B1%D8%AA",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.211Z"
   },
   {
     "id": "torobshop-audio-video-b6d1e42e39dc67ab",
@@ -6477,7 +7341,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.564Z"
+    "observedAt": "2026-09-05T07:52:57.211Z"
   },
   {
     "id": "torobshop-audio-video-2cb3b869608c8a13",
@@ -6495,43 +7359,43 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.564Z"
+    "observedAt": "2026-09-05T07:52:57.211Z"
   },
   {
-    "id": "torobshop-audio-video-52384f9bcf5e57ca",
-    "productId": "torobshop-52384f9bcf5e57ca",
-    "name": "اپیلاتور زنانه براون مدل Silk-épil 7، رفع موهای زائد با ماندگاری طولانی، سری پهن، پوستی ابریشمی و نرم، مخصوص بانوان، قابل استفاده به صورت خشک و مرطوب، ضد آب، ساخت آلمان — 7-011، سفید/نقره‌ای + 2 عدد لوازم جانبی",
+    "id": "torobshop-audio-video-508a955227952a9d",
+    "productId": "torobshop-508a955227952a9d",
+    "name": "اپیلاتور براون سیلک-اپیل ۵ مخصوص خانم‌ها، موبر برای رفع موهای زائد با ماندگاری طولانی، اصلاح بانوان، ضد آب - شامل اصلاح‌کننده بیکینی، سری اصلاح و سری اصلاح - ۵-۲۳۰، سفید/صورتی فلامینگو + اصلاح‌کننده بیکینی",
     "brand": "",
-    "model": "اپیلاتور زنانه براون مدل Silk-épil 7، رفع موهای زائد با ماندگاری طولانی، سری پهن، پوستی ابریشمی و نرم، مخصوص بانوان، قابل استفاده به صورت خشک و مرطوب، ضد آب، ساخت آلمان — 7-011، سفید/نقره‌ای + 2 عدد لوازم جانبی",
+    "model": "اپیلاتور براون سیلک-اپیل ۵ مخصوص خانم‌ها، موبر برای رفع موهای زائد با ماندگاری طولانی، اصلاح بانوان، ضد آب - شامل اصلاح‌کننده بیکینی، سری اصلاح و سری اصلاح - ۵-۲۳۰، سفید/صورتی فلامینگو + اصلاح‌کننده بیکینی",
     "category": "audio-video",
     "subcategory": "تلویزیون",
-    "price": 25122000,
+    "price": 29183000,
     "currency": "IRT",
     "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D9%85%D8%AF%D9%84-Silk-pil-7-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%D8%A7-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1%DB%8C-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%D8%B3%D8%B1%DB%8C-%D9%BE%D9%87%D9%86-%D9%BE%D9%88%D8%B3%D8%AA%DB%8C-%D8%A7%D8%A8%D8%B1%DB%8C%D8%B4%D9%85%DB%8C-%D9%88-%D9%86%D8%B1%D9%85-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A8%D9%87-%D8%B5%D9%88%D8%B1%D8%AA-%D8%AE%D8%B4%DA%A9-%D9%88-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D8%B6%D8%AF-%D8%A2%D8%A8-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-7-011-%D8%B3%D9%81%DB%8C%D8%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C-2-%D8%B9%D8%AF%D8%AF-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B3%DB%8C%D9%84%DA%A9-%D8%A7%D9%BE%DB%8C%D9%84-%DB%B5-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%AE%D8%A7%D9%86%D9%85-%D9%87%D8%A7-%D9%85%D9%88%D8%A8%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%D8%A7-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1%DB%8C-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D8%B6%D8%AF-%D8%A2%D8%A8-%D8%B4%D8%A7%D9%85%D9%84-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%A8%DB%8C%DA%A9%DB%8C%D9%86%DB%8C-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DB%B5-%DB%B2%DB%B3%DB%B0-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B5%D9%88%D8%B1%D8%AA%DB%8C-%D9%81%D9%84%D8%A7%D9%85%DB%8C%D9%86%DA%AF%D9%88-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%A8%DB%8C%DA%A9%DB%8C%D9%86%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.564Z"
+    "observedAt": "2026-09-05T07:52:57.211Z"
   },
   {
-    "id": "torobshop-audio-video-6e4a2eb26d23a745",
-    "productId": "torobshop-6e4a2eb26d23a745",
-    "name": "دستگاه رفع موهای زائد Braun IPL Silk Expert Pro 5 برای خانم‌ها/آقایان، ۳ سری، رفع موهای زائد قابل مشاهده، طراحی شده در آلمان، ماشین اصلاح ونوس، جایگزین لیزر موهای زائد، PL5267، سفید/طلایی",
+    "id": "torobshop-audio-video-dc3a8d1c6feb961b",
+    "productId": "torobshop-dc3a8d1c6feb961b",
+    "name": "اپیلاتور براون سیلک-اپیل ۵ مخصوص خانم‌ها، اصلاح خشک و مرطوب برای رفع آسان موهای زائد و پوستی ابریشمی و نرم، اصلاح بانوان، ضد آب - شامل سری اصلاح و سری اصلاح - ۵-۰۴۱، سفید/خاکستری + ۳ لوازم جانبی",
     "brand": "",
-    "model": "دستگاه رفع موهای زائد Braun IPL Silk Expert Pro 5 برای خانم‌ها/آقایان، ۳ سری، رفع موهای زائد قابل مشاهده، طراحی شده در آلمان، ماشین اصلاح ونوس، جایگزین لیزر موهای زائد، PL5267، سفید/طلایی",
+    "model": "اپیلاتور براون سیلک-اپیل ۵ مخصوص خانم‌ها، اصلاح خشک و مرطوب برای رفع آسان موهای زائد و پوستی ابریشمی و نرم، اصلاح بانوان، ضد آب - شامل سری اصلاح و سری اصلاح - ۵-۰۴۱، سفید/خاکستری + ۳ لوازم جانبی",
     "category": "audio-video",
     "subcategory": "تلویزیون",
-    "price": 99981000,
+    "price": 28421000,
     "currency": "IRT",
     "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Braun-IPL-Silk-Expert-Pro-5-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AE%D8%A7%D9%86%D9%85-%D9%87%D8%A7-%D8%A2%D9%82%D8%A7%DB%8C%D8%A7%D9%86-%DB%B3-%D8%B3%D8%B1%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D9%82%D8%A7%D8%A8%D9%84-%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D9%87-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B4%D8%AF%D9%87-%D8%AF%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88%D9%86%D9%88%D8%B3-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D9%84%DB%8C%D8%B2%D8%B1-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-PL5267-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B3%DB%8C%D9%84%DA%A9-%D8%A7%D9%BE%DB%8C%D9%84-%DB%B5-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%AE%D8%A7%D9%86%D9%85-%D9%87%D8%A7-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%AE%D8%B4%DA%A9-%D9%88-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D8%A2%D8%B3%D8%A7%D9%86-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D9%88-%D9%BE%D9%88%D8%B3%D8%AA%DB%8C-%D8%A7%D8%A8%D8%B1%DB%8C%D8%B4%D9%85%DB%8C-%D9%88-%D9%86%D8%B1%D9%85-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D8%B6%D8%AF-%D8%A2%D8%A8-%D8%B4%D8%A7%D9%85%D9%84-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DB%B5-%DB%B0%DB%B4%DB%B1-%D8%B3%D9%81%DB%8C%D8%AF-%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C-%DB%B3-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.564Z"
+    "observedAt": "2026-09-05T07:52:57.211Z"
   },
   {
     "id": "torobshop-audio-video-967849182031e292",
@@ -6549,25 +7413,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.564Z"
-  },
-  {
-    "id": "torobshop-audio-video-e93d0f8dd3711a93",
-    "productId": "torobshop-e93d0f8dd3711a93",
-    "name": "ست زیبایی براون سیلک-اپیل ۹-۹۹۵ لوکس ۹ کاره، رفع موهای زائد خشک و مرطوب بی‌سیم - اپیلاتور، تیغ، لایه‌برداری، کیت تمیزکننده برای صورت و بدن",
-    "brand": "",
-    "model": "ست زیبایی براون سیلک-اپیل ۹-۹۹۵ لوکس ۹ کاره، رفع موهای زائد خشک و مرطوب بی‌سیم - اپیلاتور، تیغ، لایه‌برداری، کیت تمیزکننده برای صورت و بدن",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 57857000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%AA-%D8%B2%DB%8C%D8%A8%D8%A7%DB%8C%DB%8C-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B3%DB%8C%D9%84%DA%A9-%D8%A7%D9%BE%DB%8C%D9%84-%DB%B9-%DB%B9%DB%B9%DB%B5-%D9%84%D9%88%DA%A9%D8%B3-%DB%B9-%DA%A9%D8%A7%D8%B1%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AE%D8%B4%DA%A9-%D9%88-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D8%A8%DB%8C-%D8%B3%DB%8C%D9%85-%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%AA%DB%8C%D8%BA-%D9%84%D8%A7%DB%8C%D9%87-%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C-%DA%A9%DB%8C%D8%AA-%D8%AA%D9%85%DB%8C%D8%B2%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B5%D9%88%D8%B1%D8%AA-%D9%88-%D8%A8%D8%AF%D9%86",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.564Z"
+    "observedAt": "2026-09-05T07:52:57.211Z"
   },
   {
     "id": "torobshop-audio-video-7c140bba2434e29a",
@@ -6585,7 +7431,61 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.564Z"
+    "observedAt": "2026-09-05T07:52:57.211Z"
+  },
+  {
+    "id": "torobshop-audio-video-e93d0f8dd3711a93",
+    "productId": "torobshop-e93d0f8dd3711a93",
+    "name": "ست زیبایی براون سیلک-اپیل ۹-۹۹۵ لوکس ۹ کاره، رفع موهای زائد خشک و مرطوب بی‌سیم - اپیلاتور، تیغ، لایه‌برداری، کیت تمیزکننده برای صورت و بدن",
+    "brand": "",
+    "model": "ست زیبایی براون سیلک-اپیل ۹-۹۹۵ لوکس ۹ کاره، رفع موهای زائد خشک و مرطوب بی‌سیم - اپیلاتور، تیغ، لایه‌برداری، کیت تمیزکننده برای صورت و بدن",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 57857000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%AA-%D8%B2%DB%8C%D8%A8%D8%A7%DB%8C%DB%8C-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B3%DB%8C%D9%84%DA%A9-%D8%A7%D9%BE%DB%8C%D9%84-%DB%B9-%DB%B9%DB%B9%DB%B5-%D9%84%D9%88%DA%A9%D8%B3-%DB%B9-%DA%A9%D8%A7%D8%B1%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AE%D8%B4%DA%A9-%D9%88-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D8%A8%DB%8C-%D8%B3%DB%8C%D9%85-%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%AA%DB%8C%D8%BA-%D9%84%D8%A7%DB%8C%D9%87-%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C-%DA%A9%DB%8C%D8%AA-%D8%AA%D9%85%DB%8C%D8%B2%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B5%D9%88%D8%B1%D8%AA-%D9%88-%D8%A8%D8%AF%D9%86",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.211Z"
+  },
+  {
+    "id": "torobshop-audio-video-52384f9bcf5e57ca",
+    "productId": "torobshop-52384f9bcf5e57ca",
+    "name": "اپیلاتور زنانه براون مدل Silk-épil 7، رفع موهای زائد با ماندگاری طولانی، سری پهن، پوستی ابریشمی و نرم، مخصوص بانوان، قابل استفاده به صورت خشک و مرطوب، ضد آب، ساخت آلمان — 7-011، سفید/نقره‌ای + 2 عدد لوازم جانبی",
+    "brand": "",
+    "model": "اپیلاتور زنانه براون مدل Silk-épil 7، رفع موهای زائد با ماندگاری طولانی، سری پهن، پوستی ابریشمی و نرم، مخصوص بانوان، قابل استفاده به صورت خشک و مرطوب، ضد آب، ساخت آلمان — 7-011، سفید/نقره‌ای + 2 عدد لوازم جانبی",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 25122000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D9%85%D8%AF%D9%84-Silk-pil-7-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%D8%A7-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1%DB%8C-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%D8%B3%D8%B1%DB%8C-%D9%BE%D9%87%D9%86-%D9%BE%D9%88%D8%B3%D8%AA%DB%8C-%D8%A7%D8%A8%D8%B1%DB%8C%D8%B4%D9%85%DB%8C-%D9%88-%D9%86%D8%B1%D9%85-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A8%D9%87-%D8%B5%D9%88%D8%B1%D8%AA-%D8%AE%D8%B4%DA%A9-%D9%88-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D8%B6%D8%AF-%D8%A2%D8%A8-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-7-011-%D8%B3%D9%81%DB%8C%D8%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C-2-%D8%B9%D8%AF%D8%AF-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.211Z"
+  },
+  {
+    "id": "torobshop-audio-video-6e4a2eb26d23a745",
+    "productId": "torobshop-6e4a2eb26d23a745",
+    "name": "دستگاه رفع موهای زائد Braun IPL Silk Expert Pro 5 برای خانم‌ها/آقایان، ۳ سری، رفع موهای زائد قابل مشاهده، طراحی شده در آلمان، ماشین اصلاح ونوس، جایگزین لیزر موهای زائد، PL5267، سفید/طلایی",
+    "brand": "",
+    "model": "دستگاه رفع موهای زائد Braun IPL Silk Expert Pro 5 برای خانم‌ها/آقایان، ۳ سری، رفع موهای زائد قابل مشاهده، طراحی شده در آلمان، ماشین اصلاح ونوس، جایگزین لیزر موهای زائد، PL5267، سفید/طلایی",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 99981000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Braun-IPL-Silk-Expert-Pro-5-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AE%D8%A7%D9%86%D9%85-%D9%87%D8%A7-%D8%A2%D9%82%D8%A7%DB%8C%D8%A7%D9%86-%DB%B3-%D8%B3%D8%B1%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D9%82%D8%A7%D8%A8%D9%84-%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D9%87-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B4%D8%AF%D9%87-%D8%AF%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88%D9%86%D9%88%D8%B3-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D9%84%DB%8C%D8%B2%D8%B1-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-PL5267-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.211Z"
   },
   {
     "id": "torobshop-audio-video-2182240d0b4b05fe",
@@ -6603,7 +7503,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.564Z"
+    "observedAt": "2026-09-05T07:52:57.211Z"
   },
   {
     "id": "torobshop-audio-video-733ef1e66d9b337b",
@@ -6621,7 +7521,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.564Z"
+    "observedAt": "2026-09-05T07:52:57.211Z"
   },
   {
     "id": "torobshop-audio-video-6ba05ec79330884d",
@@ -6639,43 +7539,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.564Z"
-  },
-  {
-    "id": "torobshop-audio-video-8b93c7ea550544bf",
-    "productId": "torobshop-8b93c7ea550544bf",
-    "name": "اپیلاتور زنانه براون مدل Silk·épil 7، سری پهن برای رفع آسان موهای زائد، مناسب برای پوست‌های خشک و مرطوب، پوستی صاف و لطیف با ماندگاری طولانی، اصلاح بانوان، ضد آب — 7-011، نقره‌ای",
-    "brand": "",
-    "model": "اپیلاتور زنانه براون مدل Silk·épil 7، سری پهن برای رفع آسان موهای زائد، مناسب برای پوست‌های خشک و مرطوب، پوستی صاف و لطیف با ماندگاری طولانی، اصلاح بانوان، ضد آب — 7-011، نقره‌ای",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 28928000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D9%85%D8%AF%D9%84-Silk-pil-7-%D8%B3%D8%B1%DB%8C-%D9%BE%D9%87%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D8%A2%D8%B3%D8%A7%D9%86-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D9%88%D8%B3%D8%AA-%D9%87%D8%A7%DB%8C-%D8%AE%D8%B4%DA%A9-%D9%88-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D9%BE%D9%88%D8%B3%D8%AA%DB%8C-%D8%B5%D8%A7%D9%81-%D9%88-%D9%84%D8%B7%DB%8C%D9%81-%D8%A8%D8%A7-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1%DB%8C-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D8%B6%D8%AF-%D8%A2%D8%A8-7-011-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.564Z"
-  },
-  {
-    "id": "torobshop-audio-video-391c9855ce3adbee",
-    "productId": "torobshop-391c9855ce3adbee",
-    "name": "اتو موی فیلیپس سری 5000 با فناوری ترموشیلد، مشکی [مدل BHS510/00]",
-    "brand": "",
-    "model": "اتو موی فیلیپس سری 5000 با فناوری ترموشیلد، مشکی [مدل BHS510/00]",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 18016000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%A7%D8%AA%D9%88-%D9%85%D9%88%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%B3%D8%B1%DB%8C-5000-%D8%A8%D8%A7-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-%D8%AA%D8%B1%D9%85%D9%88%D8%B4%DB%8C%D9%84%D8%AF-%D9%85%D8%B4%DA%A9%DB%8C-%D9%85%D8%AF%D9%84-BHS510-00",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.564Z"
+    "observedAt": "2026-09-05T07:52:57.211Z"
   },
   {
     "id": "torobshop-audio-video-80504a6da4da0683",
@@ -6693,25 +7557,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.564Z"
-  },
-  {
-    "id": "torobshop-audio-video-f0ab07848df05c09",
-    "productId": "torobshop-f0ab07848df05c09",
-    "name": "دستگاه‌های IPL براون، رفع موهای زائد، Silk·expert Pro 5 - رفع دائمی و بدون درد موهای زائد در منزل - شامل کیف با تیغ ژیلت ونوس، 2 قطعه جانبی، طراحی شده در آلمان - PL5152، سفید/طلایی",
-    "brand": "",
-    "model": "دستگاه‌های IPL براون، رفع موهای زائد، Silk·expert Pro 5 - رفع دائمی و بدون درد موهای زائد در منزل - شامل کیف با تیغ ژیلت ونوس، 2 قطعه جانبی، طراحی شده در آلمان - PL5152، سفید/طلایی",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 110386000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-IPL-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Silk-expert-Pro-5-%D8%B1%D9%81%D8%B9-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%88-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%B1%D8%AF-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AF%D8%B1-%D9%85%D9%86%D8%B2%D9%84-%D8%B4%D8%A7%D9%85%D9%84-%DA%A9%DB%8C%D9%81-%D8%A8%D8%A7-%D8%AA%DB%8C%D8%BA-%DA%98%DB%8C%D9%84%D8%AA-%D9%88%D9%86%D9%88%D8%B3-2-%D9%82%D8%B7%D8%B9%D9%87-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B4%D8%AF%D9%87-%D8%AF%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-PL5152-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.564Z"
+    "observedAt": "2026-09-05T07:52:57.211Z"
   },
   {
     "id": "torobshop-audio-video-f7e7ecdbe9c782b9",
@@ -6729,25 +7575,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.564Z"
-  },
-  {
-    "id": "torobshop-audio-video-e364f422cc177d5d",
-    "productId": "torobshop-e364f422cc177d5d",
-    "name": "دستگاه لیزر بدن بانوان براون آلمان IPL Braun Silk Expert Pro 5 - رفع موهای زائد، رفع دائمی و بدون درد موهای زائد در منزل - شامل کیف، 2 تیغ ونوس، 2 قطعه جانبی، طراحی شده در آلمان - PL5157، سفید/طلایی",
-    "brand": "",
-    "model": "دستگاه لیزر بدن بانوان براون آلمان IPL Braun Silk Expert Pro 5 - رفع موهای زائد، رفع دائمی و بدون درد موهای زائد در منزل - شامل کیف، 2 تیغ ونوس، 2 قطعه جانبی، طراحی شده در آلمان - PL5157، سفید/طلایی",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 112163000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-IPL-Braun-Silk-Expert-Pro-5-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%B1%D9%81%D8%B9-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%88-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%B1%D8%AF-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AF%D8%B1-%D9%85%D9%86%D8%B2%D9%84-%D8%B4%D8%A7%D9%85%D9%84-%DA%A9%DB%8C%D9%81-2-%D8%AA%DB%8C%D8%BA-%D9%88%D9%86%D9%88%D8%B3-2-%D9%82%D8%B7%D8%B9%D9%87-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B4%D8%AF%D9%87-%D8%AF%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-PL5157-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.564Z"
+    "observedAt": "2026-09-05T07:52:57.211Z"
   },
   {
     "id": "torobshop-audio-video-9195692751acb6cb",
@@ -6765,7 +7593,61 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.564Z"
+    "observedAt": "2026-09-05T07:52:57.211Z"
+  },
+  {
+    "id": "torobshop-audio-video-8b93c7ea550544bf",
+    "productId": "torobshop-8b93c7ea550544bf",
+    "name": "اپیلاتور زنانه براون مدل Silk·épil 7، سری پهن برای رفع آسان موهای زائد، مناسب برای پوست‌های خشک و مرطوب، پوستی صاف و لطیف با ماندگاری طولانی، اصلاح بانوان، ضد آب — 7-011، نقره‌ای",
+    "brand": "",
+    "model": "اپیلاتور زنانه براون مدل Silk·épil 7، سری پهن برای رفع آسان موهای زائد، مناسب برای پوست‌های خشک و مرطوب، پوستی صاف و لطیف با ماندگاری طولانی، اصلاح بانوان، ضد آب — 7-011، نقره‌ای",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 28928000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D9%85%D8%AF%D9%84-Silk-pil-7-%D8%B3%D8%B1%DB%8C-%D9%BE%D9%87%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D8%A2%D8%B3%D8%A7%D9%86-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D9%88%D8%B3%D8%AA-%D9%87%D8%A7%DB%8C-%D8%AE%D8%B4%DA%A9-%D9%88-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D9%BE%D9%88%D8%B3%D8%AA%DB%8C-%D8%B5%D8%A7%D9%81-%D9%88-%D9%84%D8%B7%DB%8C%D9%81-%D8%A8%D8%A7-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1%DB%8C-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D8%B6%D8%AF-%D8%A2%D8%A8-7-011-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.211Z"
+  },
+  {
+    "id": "torobshop-audio-video-f0ab07848df05c09",
+    "productId": "torobshop-f0ab07848df05c09",
+    "name": "دستگاه‌های IPL براون، رفع موهای زائد، Silk·expert Pro 5 - رفع دائمی و بدون درد موهای زائد در منزل - شامل کیف با تیغ ژیلت ونوس، 2 قطعه جانبی، طراحی شده در آلمان - PL5152، سفید/طلایی",
+    "brand": "",
+    "model": "دستگاه‌های IPL براون، رفع موهای زائد، Silk·expert Pro 5 - رفع دائمی و بدون درد موهای زائد در منزل - شامل کیف با تیغ ژیلت ونوس، 2 قطعه جانبی، طراحی شده در آلمان - PL5152، سفید/طلایی",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 110386000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-IPL-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Silk-expert-Pro-5-%D8%B1%D9%81%D8%B9-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%88-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%B1%D8%AF-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AF%D8%B1-%D9%85%D9%86%D8%B2%D9%84-%D8%B4%D8%A7%D9%85%D9%84-%DA%A9%DB%8C%D9%81-%D8%A8%D8%A7-%D8%AA%DB%8C%D8%BA-%DA%98%DB%8C%D9%84%D8%AA-%D9%88%D9%86%D9%88%D8%B3-2-%D9%82%D8%B7%D8%B9%D9%87-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B4%D8%AF%D9%87-%D8%AF%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-PL5152-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.211Z"
+  },
+  {
+    "id": "torobshop-audio-video-391c9855ce3adbee",
+    "productId": "torobshop-391c9855ce3adbee",
+    "name": "اتو موی فیلیپس سری 5000 با فناوری ترموشیلد، مشکی [مدل BHS510/00]",
+    "brand": "",
+    "model": "اتو موی فیلیپس سری 5000 با فناوری ترموشیلد، مشکی [مدل BHS510/00]",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 18016000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D8%AA%D9%88-%D9%85%D9%88%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%B3%D8%B1%DB%8C-5000-%D8%A8%D8%A7-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-%D8%AA%D8%B1%D9%85%D9%88%D8%B4%DB%8C%D9%84%D8%AF-%D9%85%D8%B4%DA%A9%DB%8C-%D9%85%D8%AF%D9%84-BHS510-00",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.211Z"
   },
   {
     "id": "torobshop-audio-video-b6f7b97e0a41fcce",
@@ -6783,7 +7665,25 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.564Z"
+    "observedAt": "2026-09-05T07:52:57.211Z"
+  },
+  {
+    "id": "torobshop-audio-video-e364f422cc177d5d",
+    "productId": "torobshop-e364f422cc177d5d",
+    "name": "دستگاه لیزر بدن بانوان براون آلمان IPL Braun Silk Expert Pro 5 - رفع موهای زائد، رفع دائمی و بدون درد موهای زائد در منزل - شامل کیف، 2 تیغ ونوس، 2 قطعه جانبی، طراحی شده در آلمان - PL5157، سفید/طلایی",
+    "brand": "",
+    "model": "دستگاه لیزر بدن بانوان براون آلمان IPL Braun Silk Expert Pro 5 - رفع موهای زائد، رفع دائمی و بدون درد موهای زائد در منزل - شامل کیف، 2 تیغ ونوس، 2 قطعه جانبی، طراحی شده در آلمان - PL5157، سفید/طلایی",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 112163000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-IPL-Braun-Silk-Expert-Pro-5-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%B1%D9%81%D8%B9-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%88-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%B1%D8%AF-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AF%D8%B1-%D9%85%D9%86%D8%B2%D9%84-%D8%B4%D8%A7%D9%85%D9%84-%DA%A9%DB%8C%D9%81-2-%D8%AA%DB%8C%D8%BA-%D9%88%D9%86%D9%88%D8%B3-2-%D9%82%D8%B7%D8%B9%D9%87-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B4%D8%AF%D9%87-%D8%AF%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-PL5157-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.211Z"
   },
   {
     "id": "torobshop-audio-video-7f7cef16b95ceef4",
@@ -6801,43 +7701,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.564Z"
-  },
-  {
-    "id": "torobshop-audio-video-591d2fa02319cbe4",
-    "productId": "torobshop-591d2fa02319cbe4",
-    "name": "حالت دهنده مو فیلیپس ایراستایلر سری 7000 – دارای 2 سری حالت دهنده (مدل BHA710/00)",
-    "brand": "",
-    "model": "حالت دهنده مو فیلیپس ایراستایلر سری 7000 – دارای 2 سری حالت دهنده (مدل BHA710/00)",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 23599000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%AD%D8%A7%D9%84%D8%AA-%D8%AF%D9%87%D9%86%D8%AF%D9%87-%D9%85%D9%88-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%A7%DB%8C%D8%B1%D8%A7%D8%B3%D8%AA%D8%A7%DB%8C%D9%84%D8%B1-%D8%B3%D8%B1%DB%8C-7000-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C-2-%D8%B3%D8%B1%DB%8C-%D8%AD%D8%A7%D9%84%D8%AA-%D8%AF%D9%87%D9%86%D8%AF%D9%87-%D9%85%D8%AF%D9%84-BHA710-00",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.564Z"
-  },
-  {
-    "id": "torobshop-audio-video-45f8a3eeff0791c7",
-    "productId": "torobshop-45f8a3eeff0791c7",
-    "name": "سشوار فیلیپس مدل Airstyler 3000، 3 سری، برس هوای گرم 800 واتی (مدل BHA305/00)",
-    "brand": "",
-    "model": "سشوار فیلیپس مدل Airstyler 3000، 3 سری، برس هوای گرم 800 واتی (مدل BHA305/00)",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 18524000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B4%D9%88%D8%A7%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%85%D8%AF%D9%84-Airstyler-3000-3-%D8%B3%D8%B1%DB%8C-%D8%A8%D8%B1%D8%B3-%D9%87%D9%88%D8%A7%DB%8C-%DA%AF%D8%B1%D9%85-800-%D9%88%D8%A7%D8%AA%DB%8C-%D9%85%D8%AF%D9%84-BHA305-00",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.564Z"
+    "observedAt": "2026-09-05T07:52:57.211Z"
   },
   {
     "id": "torobshop-audio-video-1abc4d3d93984fc9",
@@ -6855,7 +7719,43 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.564Z"
+    "observedAt": "2026-09-05T07:52:57.211Z"
+  },
+  {
+    "id": "torobshop-audio-video-591d2fa02319cbe4",
+    "productId": "torobshop-591d2fa02319cbe4",
+    "name": "حالت دهنده مو فیلیپس ایراستایلر سری 7000 – دارای 2 سری حالت دهنده (مدل BHA710/00)",
+    "brand": "",
+    "model": "حالت دهنده مو فیلیپس ایراستایلر سری 7000 – دارای 2 سری حالت دهنده (مدل BHA710/00)",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 23599000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%AD%D8%A7%D9%84%D8%AA-%D8%AF%D9%87%D9%86%D8%AF%D9%87-%D9%85%D9%88-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%A7%DB%8C%D8%B1%D8%A7%D8%B3%D8%AA%D8%A7%DB%8C%D9%84%D8%B1-%D8%B3%D8%B1%DB%8C-7000-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C-2-%D8%B3%D8%B1%DB%8C-%D8%AD%D8%A7%D9%84%D8%AA-%D8%AF%D9%87%D9%86%D8%AF%D9%87-%D9%85%D8%AF%D9%84-BHA710-00",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.211Z"
+  },
+  {
+    "id": "torobshop-audio-video-45f8a3eeff0791c7",
+    "productId": "torobshop-45f8a3eeff0791c7",
+    "name": "سشوار فیلیپس مدل Airstyler 3000، 3 سری، برس هوای گرم 800 واتی (مدل BHA305/00)",
+    "brand": "",
+    "model": "سشوار فیلیپس مدل Airstyler 3000، 3 سری، برس هوای گرم 800 واتی (مدل BHA305/00)",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 18524000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B4%D9%88%D8%A7%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%85%D8%AF%D9%84-Airstyler-3000-3-%D8%B3%D8%B1%DB%8C-%D8%A8%D8%B1%D8%B3-%D9%87%D9%88%D8%A7%DB%8C-%DA%AF%D8%B1%D9%85-800-%D9%88%D8%A7%D8%AA%DB%8C-%D9%85%D8%AF%D9%84-BHA305-00",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.211Z"
   },
   {
     "id": "torobshop-audio-video-333eed5c812fb391",
@@ -6873,7 +7773,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.565Z"
+    "observedAt": "2026-09-05T07:52:57.211Z"
   },
   {
     "id": "torobshop-audio-video-bff623028ca50588",
@@ -6891,61 +7791,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.565Z"
-  },
-  {
-    "id": "torobshop-audio-video-d5e3206967150e5a",
-    "productId": "torobshop-d5e3206967150e5a",
-    "name": "دستگاه‌های IPL هوشمند براون، حذف موهای زائد Silk·expert Pro 5 - لیزر حرفه‌ای دائمی و بدون درد موهای زائد برای خانه، طراحی شده در آلمان - شامل جعبه، 1 قطعه الحاقی - PL5100، سفید/طلایی",
-    "brand": "",
-    "model": "دستگاه‌های IPL هوشمند براون، حذف موهای زائد Silk·expert Pro 5 - لیزر حرفه‌ای دائمی و بدون درد موهای زائد برای خانه، طراحی شده در آلمان - شامل جعبه، 1 قطعه الحاقی - PL5100، سفید/طلایی",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 90339000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-IPL-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%AD%D8%B0%D9%81-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Silk-expert-Pro-5-%D9%84%DB%8C%D8%B2%D8%B1-%D8%AD%D8%B1%D9%81%D9%87-%D8%A7%DB%8C-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%88-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%B1%D8%AF-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AE%D8%A7%D9%86%D9%87-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B4%D8%AF%D9%87-%D8%AF%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%B4%D8%A7%D9%85%D9%84-%D8%AC%D8%B9%D8%A8%D9%87-1-%D9%82%D8%B7%D8%B9%D9%87-%D8%A7%D9%84%D8%AD%D8%A7%D9%82%DB%8C-PL5100-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.565Z"
-  },
-  {
-    "id": "torobshop-audio-video-2a6259b902f04fb9",
-    "productId": "torobshop-2a6259b902f04fb9",
-    "name": "سشوار فیلیپس درای‌کر پرو با موتور قدرتمند AC (مدل BHD272/00)",
-    "brand": "",
-    "model": "سشوار فیلیپس درای‌کر پرو با موتور قدرتمند AC (مدل BHD272/00)",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 14210000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B4%D9%88%D8%A7%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%AF%D8%B1%D8%A7%DB%8C-%DA%A9%D8%B1-%D9%BE%D8%B1%D9%88-%D8%A8%D8%A7-%D9%85%D9%88%D8%AA%D9%88%D8%B1-%D9%82%D8%AF%D8%B1%D8%AA%D9%85%D9%86%D8%AF-AC-%D9%85%D8%AF%D9%84-BHD272-00",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.565Z"
-  },
-  {
-    "id": "torobshop-audio-video-fb66328b02aeada9",
-    "productId": "torobshop-fb66328b02aeada9",
-    "name": "اپیلاتور برقی براون مدل Silk-épil 5-825 Power، مخصوص خانم‌ها، رفع موهای زائد ملایم، قدرت مداوم با سیم، سری تیغ و کلاهک، ناحیه بیکینی، سفید/بنفش. قدرت مداوم با سیم، سری تیغ و کلاهک، ناحیه بیکینی.",
-    "brand": "",
-    "model": "اپیلاتور برقی براون مدل Silk-épil 5-825 Power، مخصوص خانم‌ها، رفع موهای زائد ملایم، قدرت مداوم با سیم، سری تیغ و کلاهک، ناحیه بیکینی، سفید/بنفش. قدرت مداوم با سیم، سری تیغ و کلاهک، ناحیه بیکینی.",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 26136000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%A8%D8%B1%D9%82%DB%8C-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D9%85%D8%AF%D9%84-Silk-pil-5-825-Power-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%AE%D8%A7%D9%86%D9%85-%D9%87%D8%A7-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D9%85%D9%84%D8%A7%DB%8C%D9%85-%D9%82%D8%AF%D8%B1%D8%AA-%D9%85%D8%AF%D8%A7%D9%88%D9%85-%D8%A8%D8%A7-%D8%B3%DB%8C%D9%85-%D8%B3%D8%B1%DB%8C-%D8%AA%DB%8C%D8%BA-%D9%88-%DA%A9%D9%84%D8%A7%D9%87%DA%A9-%D9%86%D8%A7%D8%AD%DB%8C%D9%87-%D8%A8%DB%8C%DA%A9%DB%8C%D9%86%DB%8C-%D8%B3%D9%81%DB%8C%D8%AF-%D8%A8%D9%86%D9%81%D8%B4-%D9%82%D8%AF%D8%B1%D8%AA-%D9%85%D8%AF%D8%A7%D9%88%D9%85-%D8%A8%D8%A7-%D8%B3%DB%8C%D9%85-%D8%B3%D8%B1%DB%8C-%D8%AA%DB%8C%D8%BA-%D9%88-%DA%A9%D9%84%D8%A7%D9%87%DA%A9-%D9%86%D8%A7%D8%AD%DB%8C%D9%87-%D8%A8%DB%8C%DA%A9%DB%8C%D9%86%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.565Z"
+    "observedAt": "2026-09-05T07:52:57.211Z"
   },
   {
     "id": "torobshop-audio-video-ef59c7447c918481",
@@ -6963,25 +7809,61 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.565Z"
+    "observedAt": "2026-09-05T07:52:57.211Z"
   },
   {
-    "id": "torobshop-audio-video-ec0c6101e09fd316",
-    "productId": "torobshop-ec0c6101e09fd316",
-    "name": "اپیلاتور زنانه براون آلمان سیلک-اپیل ۵، اپیلاتور/موبر زنانه، لوازم جانبی برای تیغ، لایه برداری، تمیز کردن صورت و بدن، کیف، ۵-۸۹۵، سفید/فلامینگو",
+    "id": "torobshop-audio-video-d5e3206967150e5a",
+    "productId": "torobshop-d5e3206967150e5a",
+    "name": "دستگاه‌های IPL هوشمند براون، حذف موهای زائد Silk·expert Pro 5 - لیزر حرفه‌ای دائمی و بدون درد موهای زائد برای خانه، طراحی شده در آلمان - شامل جعبه، 1 قطعه الحاقی - PL5100، سفید/طلایی",
     "brand": "",
-    "model": "اپیلاتور زنانه براون آلمان سیلک-اپیل ۵، اپیلاتور/موبر زنانه، لوازم جانبی برای تیغ، لایه برداری، تمیز کردن صورت و بدن، کیف، ۵-۸۹۵، سفید/فلامینگو",
+    "model": "دستگاه‌های IPL هوشمند براون، حذف موهای زائد Silk·expert Pro 5 - لیزر حرفه‌ای دائمی و بدون درد موهای زائد برای خانه، طراحی شده در آلمان - شامل جعبه، 1 قطعه الحاقی - PL5100، سفید/طلایی",
     "category": "audio-video",
     "subcategory": "تلویزیون",
-    "price": 35780000,
+    "price": 90339000,
     "currency": "IRT",
     "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%AA-%D8%B2%DB%8C%D8%A8%D8%A7%DB%8C%DB%8C-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B3%DB%8C%D9%84%DA%A9-%D8%A7%D9%BE%DB%8C%D9%84-%DB%B5-%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D9%85%D9%88%D8%A8%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%DB%8C%D8%BA-%D9%84%D8%A7%DB%8C%D9%87-%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C-%D8%AA%D9%85%DB%8C%D8%B2-%DA%A9%D8%B1%D8%AF%D9%86-%D8%B5%D9%88%D8%B1%D8%AA-%D9%88-%D8%A8%D8%AF%D9%86-%DA%A9%DB%8C%D9%81-%DB%B5-%DB%B8%DB%B9%DB%B5-%D8%B3%D9%81%DB%8C%D8%AF-%D9%81%D9%84%D8%A7%D9%85%DB%8C%D9%86%DA%AF%D9%88",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-IPL-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%AD%D8%B0%D9%81-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Silk-expert-Pro-5-%D9%84%DB%8C%D8%B2%D8%B1-%D8%AD%D8%B1%D9%81%D9%87-%D8%A7%DB%8C-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%88-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%B1%D8%AF-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AE%D8%A7%D9%86%D9%87-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B4%D8%AF%D9%87-%D8%AF%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%B4%D8%A7%D9%85%D9%84-%D8%AC%D8%B9%D8%A8%D9%87-1-%D9%82%D8%B7%D8%B9%D9%87-%D8%A7%D9%84%D8%AD%D8%A7%D9%82%DB%8C-PL5100-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.565Z"
+    "observedAt": "2026-09-05T07:52:57.211Z"
+  },
+  {
+    "id": "torobshop-audio-video-2a6259b902f04fb9",
+    "productId": "torobshop-2a6259b902f04fb9",
+    "name": "سشوار فیلیپس درای‌کر پرو با موتور قدرتمند AC (مدل BHD272/00)",
+    "brand": "",
+    "model": "سشوار فیلیپس درای‌کر پرو با موتور قدرتمند AC (مدل BHD272/00)",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 14210000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B4%D9%88%D8%A7%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%AF%D8%B1%D8%A7%DB%8C-%DA%A9%D8%B1-%D9%BE%D8%B1%D9%88-%D8%A8%D8%A7-%D9%85%D9%88%D8%AA%D9%88%D8%B1-%D9%82%D8%AF%D8%B1%D8%AA%D9%85%D9%86%D8%AF-AC-%D9%85%D8%AF%D9%84-BHD272-00",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.211Z"
+  },
+  {
+    "id": "torobshop-audio-video-fb66328b02aeada9",
+    "productId": "torobshop-fb66328b02aeada9",
+    "name": "اپیلاتور برقی براون مدل Silk-épil 5-825 Power، مخصوص خانم‌ها، رفع موهای زائد ملایم، قدرت مداوم با سیم، سری تیغ و کلاهک، ناحیه بیکینی، سفید/بنفش. قدرت مداوم با سیم، سری تیغ و کلاهک، ناحیه بیکینی.",
+    "brand": "",
+    "model": "اپیلاتور برقی براون مدل Silk-épil 5-825 Power، مخصوص خانم‌ها، رفع موهای زائد ملایم، قدرت مداوم با سیم، سری تیغ و کلاهک، ناحیه بیکینی، سفید/بنفش. قدرت مداوم با سیم، سری تیغ و کلاهک، ناحیه بیکینی.",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 26136000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%A8%D8%B1%D9%82%DB%8C-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D9%85%D8%AF%D9%84-Silk-pil-5-825-Power-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%AE%D8%A7%D9%86%D9%85-%D9%87%D8%A7-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D9%85%D9%84%D8%A7%DB%8C%D9%85-%D9%82%D8%AF%D8%B1%D8%AA-%D9%85%D8%AF%D8%A7%D9%88%D9%85-%D8%A8%D8%A7-%D8%B3%DB%8C%D9%85-%D8%B3%D8%B1%DB%8C-%D8%AA%DB%8C%D8%BA-%D9%88-%DA%A9%D9%84%D8%A7%D9%87%DA%A9-%D9%86%D8%A7%D8%AD%DB%8C%D9%87-%D8%A8%DB%8C%DA%A9%DB%8C%D9%86%DB%8C-%D8%B3%D9%81%DB%8C%D8%AF-%D8%A8%D9%86%D9%81%D8%B4-%D9%82%D8%AF%D8%B1%D8%AA-%D9%85%D8%AF%D8%A7%D9%88%D9%85-%D8%A8%D8%A7-%D8%B3%DB%8C%D9%85-%D8%B3%D8%B1%DB%8C-%D8%AA%DB%8C%D8%BA-%D9%88-%DA%A9%D9%84%D8%A7%D9%87%DA%A9-%D9%86%D8%A7%D8%AD%DB%8C%D9%87-%D8%A8%DB%8C%DA%A9%DB%8C%D9%86%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.211Z"
   },
   {
     "id": "torobshop-audio-video-4b1136653b8c3865",
@@ -6999,7 +7881,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.565Z"
+    "observedAt": "2026-09-05T07:52:57.211Z"
   },
   {
     "id": "torobshop-audio-video-99dbc61e2d2488d7",
@@ -7017,7 +7899,25 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.565Z"
+    "observedAt": "2026-09-05T07:52:57.211Z"
+  },
+  {
+    "id": "torobshop-audio-video-ec0c6101e09fd316",
+    "productId": "torobshop-ec0c6101e09fd316",
+    "name": "اپیلاتور زنانه براون آلمان سیلک-اپیل ۵، اپیلاتور/موبر زنانه، لوازم جانبی برای تیغ، لایه برداری، تمیز کردن صورت و بدن، کیف، ۵-۸۹۵، سفید/فلامینگو",
+    "brand": "",
+    "model": "اپیلاتور زنانه براون آلمان سیلک-اپیل ۵، اپیلاتور/موبر زنانه، لوازم جانبی برای تیغ، لایه برداری، تمیز کردن صورت و بدن، کیف، ۵-۸۹۵، سفید/فلامینگو",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 35780000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%AA-%D8%B2%DB%8C%D8%A8%D8%A7%DB%8C%DB%8C-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B3%DB%8C%D9%84%DA%A9-%D8%A7%D9%BE%DB%8C%D9%84-%DB%B5-%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D9%85%D9%88%D8%A8%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%DB%8C%D8%BA-%D9%84%D8%A7%DB%8C%D9%87-%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C-%D8%AA%D9%85%DB%8C%D8%B2-%DA%A9%D8%B1%D8%AF%D9%86-%D8%B5%D9%88%D8%B1%D8%AA-%D9%88-%D8%A8%D8%AF%D9%86-%DA%A9%DB%8C%D9%81-%DB%B5-%DB%B8%DB%B9%DB%B5-%D8%B3%D9%81%DB%8C%D8%AF-%D9%81%D9%84%D8%A7%D9%85%DB%8C%D9%86%DA%AF%D9%88",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.211Z"
   },
   {
     "id": "torobshop-audio-video-091330dc970a0bbe",
@@ -7035,7 +7935,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.565Z"
+    "observedAt": "2026-09-05T07:52:57.211Z"
   },
   {
     "id": "torobshop-audio-video-3fe480d61f801988",
@@ -7053,7 +7953,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.565Z"
+    "observedAt": "2026-09-05T07:52:57.211Z"
   },
   {
     "id": "torobshop-audio-video-9c53c942a980e1d6",
@@ -7071,7 +7971,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.565Z"
+    "observedAt": "2026-09-05T07:52:57.211Z"
   },
   {
     "id": "torobshop-audio-video-74fc37b5d70bd7c1",
@@ -7089,43 +7989,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.565Z"
-  },
-  {
-    "id": "torobshop-audio-video-20c5a20079487b1a",
-    "productId": "torobshop-20c5a20079487b1a",
-    "name": "فرکننده موی اتوماتیک فیلیپس مدل BHB878 / 00 MoistureProtect",
-    "brand": "",
-    "model": "فرکننده موی اتوماتیک فیلیپس مدل BHB878 / 00 MoistureProtect",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 35273000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%81%D8%B1%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D9%85%D9%88%DB%8C-%D8%A7%D8%AA%D9%88%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%85%D8%AF%D9%84-BHB878-00-MoistureProtect",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.565Z"
-  },
-  {
-    "id": "torobshop-audio-video-acc19b901c8b2ad8",
-    "productId": "torobshop-acc19b901c8b2ad8",
-    "name": "اپیلاتور صورت براون فیس اسپا پرو مخصوص خانم‌ها، ست زیبایی SE921، برنز - موبر صورت، برس پاکسازی صورت، جعبه نگهداری، موبر، پاکسازی و سفت کردن پوست، ضد آب 3 در 1 SE921",
-    "brand": "",
-    "model": "اپیلاتور صورت براون فیس اسپا پرو مخصوص خانم‌ها، ست زیبایی SE921، برنز - موبر صورت، برس پاکسازی صورت، جعبه نگهداری، موبر، پاکسازی و سفت کردن پوست، ضد آب 3 در 1 SE921",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 45422000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B5%D9%88%D8%B1%D8%AA-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D9%81%DB%8C%D8%B3-%D8%A7%D8%B3%D9%BE%D8%A7-%D9%BE%D8%B1%D9%88-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%AE%D8%A7%D9%86%D9%85-%D9%87%D8%A7-%D8%B3%D8%AA-%D8%B2%DB%8C%D8%A8%D8%A7%DB%8C%DB%8C-SE921-%D8%A8%D8%B1%D9%86%D8%B2-%D9%85%D9%88%D8%A8%D8%B1-%D8%B5%D9%88%D8%B1%D8%AA-%D8%A8%D8%B1%D8%B3-%D9%BE%D8%A7%DA%A9%D8%B3%D8%A7%D8%B2%DB%8C-%D8%B5%D9%88%D8%B1%D8%AA-%D8%AC%D8%B9%D8%A8%D9%87-%D9%86%DA%AF%D9%87%D8%AF%D8%A7%D8%B1%DB%8C-%D9%85%D9%88%D8%A8%D8%B1-%D9%BE%D8%A7%DA%A9%D8%B3%D8%A7%D8%B2%DB%8C-%D9%88-%D8%B3%D9%81%D8%AA-%DA%A9%D8%B1%D8%AF%D9%86-%D9%BE%D9%88%D8%B3%D8%AA-%D8%B6%D8%AF-%D8%A2%D8%A8-3-%D8%AF%D8%B1-1-SE921",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.565Z"
+    "observedAt": "2026-09-05T07:52:57.211Z"
   },
   {
     "id": "torobshop-audio-video-215471b6024642b7",
@@ -7143,25 +8007,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.565Z"
-  },
-  {
-    "id": "torobshop-audio-video-69bba0d6d694a47d",
-    "productId": "torobshop-69bba0d6d694a47d",
-    "name": "مجموعه همه کاره Braun Silk-épil 7 SkinSpa، اپیلاتور/موبر زنانه برای رفع موهای زائد با ماندگاری طولانی، ریش تراش زنانه، سری اصلاح، سری ماساژ، 7-081، سفید/نقره‌ای",
-    "brand": "",
-    "model": "مجموعه همه کاره Braun Silk-épil 7 SkinSpa، اپیلاتور/موبر زنانه برای رفع موهای زائد با ماندگاری طولانی، ریش تراش زنانه، سری اصلاح، سری ماساژ، 7-081، سفید/نقره‌ای",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 34257000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D9%87%D9%85%D9%87-%DA%A9%D8%A7%D8%B1%D9%87-Braun-Silk-pil-7-SkinSpa-%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D9%85%D9%88%D8%A8%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%D8%A7-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1%DB%8C-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%B3%D8%B1%DB%8C-%D9%85%D8%A7%D8%B3%D8%A7%DA%98-7-081-%D8%B3%D9%81%DB%8C%D8%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.565Z"
+    "observedAt": "2026-09-05T07:52:57.211Z"
   },
   {
     "id": "torobshop-audio-video-a95fac45da84a72b",
@@ -7179,61 +8025,61 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.565Z"
+    "observedAt": "2026-09-05T07:52:57.211Z"
   },
   {
-    "id": "torobshop-audio-video-27f7af68d3543ffb",
-    "productId": "torobshop-27f7af68d3543ffb",
-    "name": "ست زیبایی فیلیپس سری 9000 - همه کاره برای بدن، صورت و پا، اپیلاتور بی‌سیم، خشک و مرطوب با 6 لوازم جانبی، مدل BRE770/92",
+    "id": "torobshop-audio-video-20c5a20079487b1a",
+    "productId": "torobshop-20c5a20079487b1a",
+    "name": "فرکننده موی اتوماتیک فیلیپس مدل BHB878 / 00 MoistureProtect",
     "brand": "",
-    "model": "ست زیبایی فیلیپس سری 9000 - همه کاره برای بدن، صورت و پا، اپیلاتور بی‌سیم، خشک و مرطوب با 6 لوازم جانبی، مدل BRE770/92",
+    "model": "فرکننده موی اتوماتیک فیلیپس مدل BHB878 / 00 MoistureProtect",
     "category": "audio-video",
     "subcategory": "تلویزیون",
-    "price": 30451000,
+    "price": 35273000,
     "currency": "IRT",
     "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%AA-%D8%B2%DB%8C%D8%A8%D8%A7%DB%8C%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%B3%D8%B1%DB%8C-9000-%D9%87%D9%85%D9%87-%DA%A9%D8%A7%D8%B1%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A8%D8%AF%D9%86-%D8%B5%D9%88%D8%B1%D8%AA-%D9%88-%D9%BE%D8%A7-%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%A8%DB%8C-%D8%B3%DB%8C%D9%85-%D8%AE%D8%B4%DA%A9-%D9%88-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D8%A8%D8%A7-6-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D8%AF%D9%84-BRE770-92",
+    "productUrl": "https://torobshop.com/products/%D9%81%D8%B1%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D9%85%D9%88%DB%8C-%D8%A7%D8%AA%D9%88%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%85%D8%AF%D9%84-BHB878-00-MoistureProtect",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.565Z"
+    "observedAt": "2026-09-05T07:52:57.211Z"
   },
   {
-    "id": "torobshop-audio-video-5939ecdc87bd4f0d",
-    "productId": "torobshop-5939ecdc87bd4f0d",
-    "name": "سشوار فیلیپس سری ۳۰۰۰ با سیستم یون پیشرفته (مدل BHD351/10)",
+    "id": "torobshop-audio-video-acc19b901c8b2ad8",
+    "productId": "torobshop-acc19b901c8b2ad8",
+    "name": "اپیلاتور صورت براون فیس اسپا پرو مخصوص خانم‌ها، ست زیبایی SE921، برنز - موبر صورت، برس پاکسازی صورت، جعبه نگهداری، موبر، پاکسازی و سفت کردن پوست، ضد آب 3 در 1 SE921",
     "brand": "",
-    "model": "سشوار فیلیپس سری ۳۰۰۰ با سیستم یون پیشرفته (مدل BHD351/10)",
+    "model": "اپیلاتور صورت براون فیس اسپا پرو مخصوص خانم‌ها، ست زیبایی SE921، برنز - موبر صورت، برس پاکسازی صورت، جعبه نگهداری، موبر، پاکسازی و سفت کردن پوست، ضد آب 3 در 1 SE921",
     "category": "audio-video",
     "subcategory": "تلویزیون",
-    "price": 15226000,
-    "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B4%D9%88%D8%A7%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%B3%D8%B1%DB%8C-%DB%B3%DB%B0%DB%B0%DB%B0-%D8%A8%D8%A7-%D8%B3%DB%8C%D8%B3%D8%AA%D9%85-%DB%8C%D9%88%D9%86-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87-%D9%85%D8%AF%D9%84-BHD351-10",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.565Z"
-  },
-  {
-    "id": "torobshop-audio-video-01be123cfbff3d67",
-    "productId": "torobshop-01be123cfbff3d67",
-    "name": "اپیلاتور زنانه براون آلمان Silk-épil 9 برای رفع موهای زائد با ماندگاری طولانی، ریش‌تراش زنانه، سری اصلاح، سری اصلاح، مدل 9-041، سفید/نقره‌ای",
-    "brand": "",
-    "model": "اپیلاتور زنانه براون آلمان Silk-épil 9 برای رفع موهای زائد با ماندگاری طولانی، ریش‌تراش زنانه، سری اصلاح، سری اصلاح، مدل 9-041، سفید/نقره‌ای",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 36795000,
+    "price": 45422000,
     "currency": "IRT",
     "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D9%85%D9%88%D8%A8%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D9%85%D8%AF%D9%84-Silk-pil-9-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%D8%A7-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1%DB%8C-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%85%D8%AF%D9%84-9-041-%D8%B3%D9%81%DB%8C%D8%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B5%D9%88%D8%B1%D8%AA-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D9%81%DB%8C%D8%B3-%D8%A7%D8%B3%D9%BE%D8%A7-%D9%BE%D8%B1%D9%88-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%AE%D8%A7%D9%86%D9%85-%D9%87%D8%A7-%D8%B3%D8%AA-%D8%B2%DB%8C%D8%A8%D8%A7%DB%8C%DB%8C-SE921-%D8%A8%D8%B1%D9%86%D8%B2-%D9%85%D9%88%D8%A8%D8%B1-%D8%B5%D9%88%D8%B1%D8%AA-%D8%A8%D8%B1%D8%B3-%D9%BE%D8%A7%DA%A9%D8%B3%D8%A7%D8%B2%DB%8C-%D8%B5%D9%88%D8%B1%D8%AA-%D8%AC%D8%B9%D8%A8%D9%87-%D9%86%DA%AF%D9%87%D8%AF%D8%A7%D8%B1%DB%8C-%D9%85%D9%88%D8%A8%D8%B1-%D9%BE%D8%A7%DA%A9%D8%B3%D8%A7%D8%B2%DB%8C-%D9%88-%D8%B3%D9%81%D8%AA-%DA%A9%D8%B1%D8%AF%D9%86-%D9%BE%D9%88%D8%B3%D8%AA-%D8%B6%D8%AF-%D8%A2%D8%A8-3-%D8%AF%D8%B1-1-SE921",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.565Z"
+    "observedAt": "2026-09-05T07:52:57.211Z"
+  },
+  {
+    "id": "torobshop-audio-video-69bba0d6d694a47d",
+    "productId": "torobshop-69bba0d6d694a47d",
+    "name": "مجموعه همه کاره Braun Silk-épil 7 SkinSpa، اپیلاتور/موبر زنانه برای رفع موهای زائد با ماندگاری طولانی، ریش تراش زنانه، سری اصلاح، سری ماساژ، 7-081، سفید/نقره‌ای",
+    "brand": "",
+    "model": "مجموعه همه کاره Braun Silk-épil 7 SkinSpa، اپیلاتور/موبر زنانه برای رفع موهای زائد با ماندگاری طولانی، ریش تراش زنانه، سری اصلاح، سری ماساژ، 7-081، سفید/نقره‌ای",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 34257000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D9%87%D9%85%D9%87-%DA%A9%D8%A7%D8%B1%D9%87-Braun-Silk-pil-7-SkinSpa-%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D9%85%D9%88%D8%A8%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%D8%A7-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1%DB%8C-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%B3%D8%B1%DB%8C-%D9%85%D8%A7%D8%B3%D8%A7%DA%98-7-081-%D8%B3%D9%81%DB%8C%D8%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.211Z"
   },
   {
     "id": "torobshop-audio-video-ed3206a7c4997ceb",
@@ -7251,7 +8097,25 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.565Z"
+    "observedAt": "2026-09-05T07:52:57.211Z"
+  },
+  {
+    "id": "torobshop-audio-video-27f7af68d3543ffb",
+    "productId": "torobshop-27f7af68d3543ffb",
+    "name": "ست زیبایی فیلیپس سری 9000 - همه کاره برای بدن، صورت و پا، اپیلاتور بی‌سیم، خشک و مرطوب با 6 لوازم جانبی، مدل BRE770/92",
+    "brand": "",
+    "model": "ست زیبایی فیلیپس سری 9000 - همه کاره برای بدن، صورت و پا، اپیلاتور بی‌سیم، خشک و مرطوب با 6 لوازم جانبی، مدل BRE770/92",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 30451000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%AA-%D8%B2%DB%8C%D8%A8%D8%A7%DB%8C%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%B3%D8%B1%DB%8C-9000-%D9%87%D9%85%D9%87-%DA%A9%D8%A7%D8%B1%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A8%D8%AF%D9%86-%D8%B5%D9%88%D8%B1%D8%AA-%D9%88-%D9%BE%D8%A7-%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%A8%DB%8C-%D8%B3%DB%8C%D9%85-%D8%AE%D8%B4%DA%A9-%D9%88-%D9%85%D8%B1%D8%B7%D9%88%D8%A8-%D8%A8%D8%A7-6-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D9%85%D8%AF%D9%84-BRE770-92",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.211Z"
   },
   {
     "id": "torobshop-audio-video-ab3241a3e4a91b6d",
@@ -7269,25 +8133,43 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.565Z"
+    "observedAt": "2026-09-05T07:52:57.211Z"
   },
   {
-    "id": "torobshop-audio-video-ac9daafe2ea5d5bc",
-    "productId": "torobshop-ac9daafe2ea5d5bc",
-    "name": "دستگاه لیزر بدن بانوان براون آلمان Braun IPL Silk Expert Pro 3، دارای ۲ سری، رفع موهای زائد قابل مشاهده، طراحی شده در آلمان، رفع موهای زائد صورت، جایگزین لیزر موهای زائد، PL3139، سفید/نقره‌ای",
+    "id": "torobshop-audio-video-5939ecdc87bd4f0d",
+    "productId": "torobshop-5939ecdc87bd4f0d",
+    "name": "سشوار فیلیپس سری ۳۰۰۰ با سیستم یون پیشرفته (مدل BHD351/10)",
     "brand": "",
-    "model": "دستگاه لیزر بدن بانوان براون آلمان Braun IPL Silk Expert Pro 3، دارای ۲ سری، رفع موهای زائد قابل مشاهده، طراحی شده در آلمان، رفع موهای زائد صورت، جایگزین لیزر موهای زائد، PL3139، سفید/نقره‌ای",
+    "model": "سشوار فیلیپس سری ۳۰۰۰ با سیستم یون پیشرفته (مدل BHD351/10)",
     "category": "audio-video",
     "subcategory": "تلویزیون",
-    "price": 90339000,
+    "price": 15226000,
     "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%B2%D9%86%D8%A7%D9%86%D9%87-Braun-IPL-Silk-Expert-Pro-3-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C-%DB%B2-%D8%B3%D8%B1%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D9%82%D8%A7%D8%A8%D9%84-%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D9%87-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B4%D8%AF%D9%87-%D8%AF%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%B5%D9%88%D8%B1%D8%AA-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D9%84%DB%8C%D8%B2%D8%B1-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-PL3139-%D8%B3%D9%81%DB%8C%D8%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%B3%D8%B4%D9%88%D8%A7%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D8%B3%D8%B1%DB%8C-%DB%B3%DB%B0%DB%B0%DB%B0-%D8%A8%D8%A7-%D8%B3%DB%8C%D8%B3%D8%AA%D9%85-%DB%8C%D9%88%D9%86-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87-%D9%85%D8%AF%D9%84-BHD351-10",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.565Z"
+    "observedAt": "2026-09-05T07:52:57.211Z"
+  },
+  {
+    "id": "torobshop-audio-video-01be123cfbff3d67",
+    "productId": "torobshop-01be123cfbff3d67",
+    "name": "اپیلاتور زنانه براون آلمان Silk-épil 9 برای رفع موهای زائد با ماندگاری طولانی، ریش‌تراش زنانه، سری اصلاح، سری اصلاح، مدل 9-041، سفید/نقره‌ای",
+    "brand": "",
+    "model": "اپیلاتور زنانه براون آلمان Silk-épil 9 برای رفع موهای زائد با ماندگاری طولانی، ریش‌تراش زنانه، سری اصلاح، سری اصلاح، مدل 9-041، سفید/نقره‌ای",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 36795000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D9%85%D9%88%D8%A8%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D9%85%D8%AF%D9%84-Silk-pil-9-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%D8%A7-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1%DB%8C-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%D8%B1%DB%8C%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%85%D8%AF%D9%84-9-041-%D8%B3%D9%81%DB%8C%D8%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.211Z"
   },
   {
     "id": "torobshop-audio-video-db81d40bcc397e16",
@@ -7305,25 +8187,25 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.565Z"
+    "observedAt": "2026-09-05T07:52:57.212Z"
   },
   {
-    "id": "torobshop-audio-video-08320ee86e550b3d",
-    "productId": "torobshop-08320ee86e550b3d",
-    "name": "دستگاه رفع موهای زائد Philips Lumea Prestige IPL با فناوری SenseIQ [مدل BRI944/00]",
+    "id": "torobshop-audio-video-ac9daafe2ea5d5bc",
+    "productId": "torobshop-ac9daafe2ea5d5bc",
+    "name": "دستگاه لیزر بدن بانوان براون آلمان Braun IPL Silk Expert Pro 3، دارای ۲ سری، رفع موهای زائد قابل مشاهده، طراحی شده در آلمان، رفع موهای زائد صورت، جایگزین لیزر موهای زائد، PL3139، سفید/نقره‌ای",
     "brand": "",
-    "model": "دستگاه رفع موهای زائد Philips Lumea Prestige IPL با فناوری SenseIQ [مدل BRI944/00]",
+    "model": "دستگاه لیزر بدن بانوان براون آلمان Braun IPL Silk Expert Pro 3، دارای ۲ سری، رفع موهای زائد قابل مشاهده، طراحی شده در آلمان، رفع موهای زائد صورت، جایگزین لیزر موهای زائد، PL3139، سفید/نقره‌ای",
     "category": "audio-video",
     "subcategory": "تلویزیون",
-    "price": 133224000,
+    "price": 90339000,
     "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Philips-Lumea-Prestige-IPL-%D8%A8%D8%A7-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-SenseIQ-%D9%85%D8%AF%D9%84-BRI944-00",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%B2%D9%86%D8%A7%D9%86%D9%87-Braun-IPL-Silk-Expert-Pro-3-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C-%DB%B2-%D8%B3%D8%B1%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D9%82%D8%A7%D8%A8%D9%84-%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D9%87-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B4%D8%AF%D9%87-%D8%AF%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%B5%D9%88%D8%B1%D8%AA-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D9%84%DB%8C%D8%B2%D8%B1-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-PL3139-%D8%B3%D9%81%DB%8C%D8%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.565Z"
+    "observedAt": "2026-09-05T07:52:57.212Z"
   },
   {
     "id": "torobshop-audio-video-3e4d9495e052b1b8",
@@ -7341,7 +8223,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.565Z"
+    "observedAt": "2026-09-05T07:52:57.212Z"
   },
   {
     "id": "torobshop-audio-video-a5fddfc8c0c99048",
@@ -7359,7 +8241,25 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.565Z"
+    "observedAt": "2026-09-05T07:52:57.212Z"
+  },
+  {
+    "id": "torobshop-audio-video-08320ee86e550b3d",
+    "productId": "torobshop-08320ee86e550b3d",
+    "name": "دستگاه رفع موهای زائد Philips Lumea Prestige IPL با فناوری SenseIQ [مدل BRI944/00]",
+    "brand": "",
+    "model": "دستگاه رفع موهای زائد Philips Lumea Prestige IPL با فناوری SenseIQ [مدل BRI944/00]",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 133224000,
+    "currency": "IRT",
+    "availability": "in_stock",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Philips-Lumea-Prestige-IPL-%D8%A8%D8%A7-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-SenseIQ-%D9%85%D8%AF%D9%84-BRI944-00",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.212Z"
   },
   {
     "id": "torobshop-audio-video-301beb96f2df717f",
@@ -7377,43 +8277,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.565Z"
-  },
-  {
-    "id": "torobshop-audio-video-1059c1f184e3d8b3",
-    "productId": "torobshop-1059c1f184e3d8b3",
-    "name": "اپیلاتور زنانه Braun Silk·épil 9 Flex SkinSpa، مجموعه همه کاره، 9-681 3D، طلایی، سری 360 درجه برای رفع آسان موهای زائد، ضد آب، شامل دستگاه رفع موهای زائد FaceSpa و ماشین اصلاح صورت کوچک",
-    "brand": "",
-    "model": "اپیلاتور زنانه Braun Silk·épil 9 Flex SkinSpa، مجموعه همه کاره، 9-681 3D، طلایی، سری 360 درجه برای رفع آسان موهای زائد، ضد آب، شامل دستگاه رفع موهای زائد FaceSpa و ماشین اصلاح صورت کوچک",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 91607000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-Braun-Silk-pil-9-Flex-SkinSpa-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D9%87%D9%85%D9%87-%DA%A9%D8%A7%D8%B1%D9%87-9-681-3D-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C-%D8%B3%D8%B1%DB%8C-360-%D8%AF%D8%B1%D8%AC%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D8%A2%D8%B3%D8%A7%D9%86-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%B6%D8%AF-%D8%A2%D8%A8-%D8%B4%D8%A7%D9%85%D9%84-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-FaceSpa-%D9%88-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%B5%D9%88%D8%B1%D8%AA-%DA%A9%D9%88%DA%86%DA%A9",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.565Z"
-  },
-  {
-    "id": "torobshop-audio-video-834858ae4530d775",
-    "productId": "torobshop-834858ae4530d775",
-    "name": "اپیلاتور براون سیلک-اپیل ۷ مخصوص خانم‌ها، موبر برای رفع موهای زائد با ماندگاری طولانی، اصلاح بانوان، ضد آب - شامل اصلاح‌کننده بیکینی (اصلاح‌کننده موهای ناحیه تناسلی)، ۷-۲۱۰، سفید/صورتی + ۸ مورد اضافی + اصلاح‌کننده بیکینی",
-    "brand": "",
-    "model": "اپیلاتور براون سیلک-اپیل ۷ مخصوص خانم‌ها، موبر برای رفع موهای زائد با ماندگاری طولانی، اصلاح بانوان، ضد آب - شامل اصلاح‌کننده بیکینی (اصلاح‌کننده موهای ناحیه تناسلی)، ۷-۲۱۰، سفید/صورتی + ۸ مورد اضافی + اصلاح‌کننده بیکینی",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 38825000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B3%DB%8C%D9%84%DA%A9-%D8%A7%D9%BE%DB%8C%D9%84-%DB%B7-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%AE%D8%A7%D9%86%D9%85-%D9%87%D8%A7-%D9%85%D9%88%D8%A8%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%D8%A7-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1%DB%8C-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D8%B6%D8%AF-%D8%A2%D8%A8-%D8%B4%D8%A7%D9%85%D9%84-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%A8%DB%8C%DA%A9%DB%8C%D9%86%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D9%86%D8%A7%D8%AD%DB%8C%D9%87-%D8%AA%D9%86%D8%A7%D8%B3%D9%84%DB%8C-%DB%B7-%DB%B2%DB%B1%DB%B0-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B5%D9%88%D8%B1%D8%AA%DB%8C-%DB%B8-%D9%85%D9%88%D8%B1%D8%AF-%D8%A7%D8%B6%D8%A7%D9%81%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%A8%DB%8C%DA%A9%DB%8C%D9%86%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.565Z"
+    "observedAt": "2026-09-05T07:52:57.212Z"
   },
   {
     "id": "torobshop-audio-video-2798976de6f0cc81",
@@ -7431,25 +8295,43 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.565Z"
+    "observedAt": "2026-09-05T07:52:57.212Z"
   },
   {
-    "id": "torobshop-audio-video-68a4dab928f7c962",
-    "productId": "torobshop-68a4dab928f7c962",
-    "name": "اپیلاتور براون سیلک-اپیل ۷، اپیلاتور زنانه، موبر برای رفع موهای زائد با ماندگاری طولانی، اصلاح کننده بدن کوچک، اصلاح کننده بانوان، سری اصلاح و سری اصلاح، ۷-۴۴۱، سفید و نقره‌ای + ۶ لوازم جانبی + اصلاح کننده بدن",
+    "id": "torobshop-audio-video-1059c1f184e3d8b3",
+    "productId": "torobshop-1059c1f184e3d8b3",
+    "name": "اپیلاتور زنانه Braun Silk·épil 9 Flex SkinSpa، مجموعه همه کاره، 9-681 3D، طلایی، سری 360 درجه برای رفع آسان موهای زائد، ضد آب، شامل دستگاه رفع موهای زائد FaceSpa و ماشین اصلاح صورت کوچک",
     "brand": "",
-    "model": "اپیلاتور براون سیلک-اپیل ۷، اپیلاتور زنانه، موبر برای رفع موهای زائد با ماندگاری طولانی، اصلاح کننده بدن کوچک، اصلاح کننده بانوان، سری اصلاح و سری اصلاح، ۷-۴۴۱، سفید و نقره‌ای + ۶ لوازم جانبی + اصلاح کننده بدن",
+    "model": "اپیلاتور زنانه Braun Silk·épil 9 Flex SkinSpa، مجموعه همه کاره، 9-681 3D، طلایی، سری 360 درجه برای رفع آسان موهای زائد، ضد آب، شامل دستگاه رفع موهای زائد FaceSpa و ماشین اصلاح صورت کوچک",
     "category": "audio-video",
     "subcategory": "تلویزیون",
-    "price": 36034000,
+    "price": 91607000,
     "currency": "IRT",
     "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B3%DB%8C%D9%84%DA%A9-%D8%A7%D9%BE%DB%8C%D9%84-%DB%B7-%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D9%85%D9%88%D8%A8%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%D8%A7-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1%DB%8C-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%A8%D8%AF%D9%86-%DA%A9%D9%88%DA%86%DA%A9-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DB%B7-%DB%B4%DB%B4%DB%B1-%D8%B3%D9%81%DB%8C%D8%AF-%D9%88-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C-%DB%B6-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%A8%D8%AF%D9%86",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-Braun-Silk-pil-9-Flex-SkinSpa-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D9%87%D9%85%D9%87-%DA%A9%D8%A7%D8%B1%D9%87-9-681-3D-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C-%D8%B3%D8%B1%DB%8C-360-%D8%AF%D8%B1%D8%AC%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D8%A2%D8%B3%D8%A7%D9%86-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%B6%D8%AF-%D8%A2%D8%A8-%D8%B4%D8%A7%D9%85%D9%84-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-FaceSpa-%D9%88-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%B5%D9%88%D8%B1%D8%AA-%DA%A9%D9%88%DA%86%DA%A9",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.565Z"
+    "observedAt": "2026-09-05T07:52:57.212Z"
+  },
+  {
+    "id": "torobshop-audio-video-834858ae4530d775",
+    "productId": "torobshop-834858ae4530d775",
+    "name": "اپیلاتور براون سیلک-اپیل ۷ مخصوص خانم‌ها، موبر برای رفع موهای زائد با ماندگاری طولانی، اصلاح بانوان، ضد آب - شامل اصلاح‌کننده بیکینی (اصلاح‌کننده موهای ناحیه تناسلی)، ۷-۲۱۰، سفید/صورتی + ۸ مورد اضافی + اصلاح‌کننده بیکینی",
+    "brand": "",
+    "model": "اپیلاتور براون سیلک-اپیل ۷ مخصوص خانم‌ها، موبر برای رفع موهای زائد با ماندگاری طولانی، اصلاح بانوان، ضد آب - شامل اصلاح‌کننده بیکینی (اصلاح‌کننده موهای ناحیه تناسلی)، ۷-۲۱۰، سفید/صورتی + ۸ مورد اضافی + اصلاح‌کننده بیکینی",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 38825000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B3%DB%8C%D9%84%DA%A9-%D8%A7%D9%BE%DB%8C%D9%84-%DB%B7-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%AE%D8%A7%D9%86%D9%85-%D9%87%D8%A7-%D9%85%D9%88%D8%A8%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%D8%A7-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1%DB%8C-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D8%B6%D8%AF-%D8%A2%D8%A8-%D8%B4%D8%A7%D9%85%D9%84-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%A8%DB%8C%DA%A9%DB%8C%D9%86%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D9%86%D8%A7%D8%AD%DB%8C%D9%87-%D8%AA%D9%86%D8%A7%D8%B3%D9%84%DB%8C-%DB%B7-%DB%B2%DB%B1%DB%B0-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B5%D9%88%D8%B1%D8%AA%DB%8C-%DB%B8-%D9%85%D9%88%D8%B1%D8%AF-%D8%A7%D8%B6%D8%A7%D9%81%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%A8%DB%8C%DA%A9%DB%8C%D9%86%DB%8C",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.212Z"
   },
   {
     "id": "torobshop-audio-video-d5b957f7df4ff03f",
@@ -7467,25 +8349,25 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.565Z"
+    "observedAt": "2026-09-05T07:52:57.212Z"
   },
   {
-    "id": "torobshop-audio-video-707702931ea634d8",
-    "productId": "torobshop-707702931ea634d8",
-    "name": "اپیلاتور براون سیلک-اپیل ۵ مخصوص خانم‌ها، موبر برای رفع موهای زائد با ماندگاری طولانی، اصلاح بانوان، ضد آب - شامل سری اصلاح و لایه بردار، ساخت آلمان - ۵-۰۶۰، سفید/صورتی فلامینگو + ۳ سری اضافی + سری لایه بردار",
+    "id": "torobshop-audio-video-68a4dab928f7c962",
+    "productId": "torobshop-68a4dab928f7c962",
+    "name": "اپیلاتور براون سیلک-اپیل ۷، اپیلاتور زنانه، موبر برای رفع موهای زائد با ماندگاری طولانی، اصلاح کننده بدن کوچک، اصلاح کننده بانوان، سری اصلاح و سری اصلاح، ۷-۴۴۱، سفید و نقره‌ای + ۶ لوازم جانبی + اصلاح کننده بدن",
     "brand": "",
-    "model": "اپیلاتور براون سیلک-اپیل ۵ مخصوص خانم‌ها، موبر برای رفع موهای زائد با ماندگاری طولانی، اصلاح بانوان، ضد آب - شامل سری اصلاح و لایه بردار، ساخت آلمان - ۵-۰۶۰، سفید/صورتی فلامینگو + ۳ سری اضافی + سری لایه بردار",
+    "model": "اپیلاتور براون سیلک-اپیل ۷، اپیلاتور زنانه، موبر برای رفع موهای زائد با ماندگاری طولانی، اصلاح کننده بدن کوچک، اصلاح کننده بانوان، سری اصلاح و سری اصلاح، ۷-۴۴۱، سفید و نقره‌ای + ۶ لوازم جانبی + اصلاح کننده بدن",
     "category": "audio-video",
     "subcategory": "تلویزیون",
-    "price": 24868000,
+    "price": 36034000,
     "currency": "IRT",
     "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B3%DB%8C%D9%84%DA%A9-%D8%A7%D9%BE%DB%8C%D9%84-%DB%B5-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%AE%D8%A7%D9%86%D9%85-%D9%87%D8%A7-%D9%85%D9%88%D8%A8%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%D8%A7-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1%DB%8C-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D8%B6%D8%AF-%D8%A2%D8%A8-%D8%B4%D8%A7%D9%85%D9%84-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D9%84%D8%A7%DB%8C%D9%87-%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%DB%B5-%DB%B0%DB%B6%DB%B0-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B5%D9%88%D8%B1%D8%AA%DB%8C-%D9%81%D9%84%D8%A7%D9%85%DB%8C%D9%86%DA%AF%D9%88-%DB%B3-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B6%D8%A7%D9%81%DB%8C-%D8%B3%D8%B1%DB%8C-%D9%84%D8%A7%DB%8C%D9%87-%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B3%DB%8C%D9%84%DA%A9-%D8%A7%D9%BE%DB%8C%D9%84-%DB%B7-%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D9%85%D9%88%D8%A8%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%D8%A7-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1%DB%8C-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%A8%D8%AF%D9%86-%DA%A9%D9%88%DA%86%DA%A9-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DB%B7-%DB%B4%DB%B4%DB%B1-%D8%B3%D9%81%DB%8C%D8%AF-%D9%88-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C-%DB%B6-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%A8%D8%AF%D9%86",
     "image": "",
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.565Z"
+    "observedAt": "2026-09-05T07:52:57.212Z"
   },
   {
     "id": "torobshop-audio-video-d8e34bb113f4f352",
@@ -7503,7 +8385,25 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.565Z"
+    "observedAt": "2026-09-05T07:52:57.212Z"
+  },
+  {
+    "id": "torobshop-audio-video-707702931ea634d8",
+    "productId": "torobshop-707702931ea634d8",
+    "name": "اپیلاتور براون سیلک-اپیل ۵ مخصوص خانم‌ها، موبر برای رفع موهای زائد با ماندگاری طولانی، اصلاح بانوان، ضد آب - شامل سری اصلاح و لایه بردار، ساخت آلمان - ۵-۰۶۰، سفید/صورتی فلامینگو + ۳ سری اضافی + سری لایه بردار",
+    "brand": "",
+    "model": "اپیلاتور براون سیلک-اپیل ۵ مخصوص خانم‌ها، موبر برای رفع موهای زائد با ماندگاری طولانی، اصلاح بانوان، ضد آب - شامل سری اصلاح و لایه بردار، ساخت آلمان - ۵-۰۶۰، سفید/صورتی فلامینگو + ۳ سری اضافی + سری لایه بردار",
+    "category": "audio-video",
+    "subcategory": "تلویزیون",
+    "price": 24868000,
+    "currency": "IRT",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%A7%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D9%88%D8%B1-%D8%A8%D8%B1%D8%A7%D9%88%D9%86-%D8%B3%DB%8C%D9%84%DA%A9-%D8%A7%D9%BE%DB%8C%D9%84-%DB%B5-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%AE%D8%A7%D9%86%D9%85-%D9%87%D8%A7-%D9%85%D9%88%D8%A8%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%D8%A7-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1%DB%8C-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D8%B6%D8%AF-%D8%A2%D8%A8-%D8%B4%D8%A7%D9%85%D9%84-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D9%84%D8%A7%DB%8C%D9%87-%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%DB%B5-%DB%B0%DB%B6%DB%B0-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B5%D9%88%D8%B1%D8%AA%DB%8C-%D9%81%D9%84%D8%A7%D9%85%DB%8C%D9%86%DA%AF%D9%88-%DB%B3-%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B6%D8%A7%D9%81%DB%8C-%D8%B3%D8%B1%DB%8C-%D9%84%D8%A7%DB%8C%D9%87-%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1",
+    "image": "",
+    "sourceId": "torobshop-category",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+    "source": "web-catalog:torobshop-category",
+    "observedAt": "2026-09-05T07:52:57.212Z"
   },
   {
     "id": "torobshop-audio-video-2a3268e48e6a43b8",
@@ -7521,7 +8421,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.565Z"
+    "observedAt": "2026-09-05T07:52:57.212Z"
   },
   {
     "id": "torobshop-audio-video-28255666c26f658a",
@@ -7539,25 +8439,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.565Z"
-  },
-  {
-    "id": "torobshop-audio-video-9a0fccac9db69875",
-    "productId": "torobshop-9a0fccac9db69875",
-    "name": "دستگاه رفع موهای زائد Philips Lumea Advanced IPL BRI923 - رفع موهای زائد بدون درد و با پایه نور برای پوستی صاف و دائمی - شامل 3 سری مخصوص برای بدن، صورت و ناحیه بیکینی",
-    "brand": "",
-    "model": "دستگاه رفع موهای زائد Philips Lumea Advanced IPL BRI923 - رفع موهای زائد بدون درد و با پایه نور برای پوستی صاف و دائمی - شامل 3 سری مخصوص برای بدن، صورت و ناحیه بیکینی",
-    "category": "audio-video",
-    "subcategory": "تلویزیون",
-    "price": 73082000,
-    "currency": "IRT",
-    "availability": "unknown",
-    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Philips-Lumea-Advanced-IPL-BRI923-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%B1%D8%AF-%D9%88-%D8%A8%D8%A7-%D9%BE%D8%A7%DB%8C%D9%87-%D9%86%D9%88%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D9%88%D8%B3%D8%AA%DB%8C-%D8%B5%D8%A7%D9%81-%D9%88-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D8%B4%D8%A7%D9%85%D9%84-3-%D8%B3%D8%B1%DB%8C-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A8%D8%AF%D9%86-%D8%B5%D9%88%D8%B1%D8%AA-%D9%88-%D9%86%D8%A7%D8%AD%DB%8C%D9%87-%D8%A8%DB%8C%DA%A9%DB%8C%D9%86%DB%8C",
-    "image": "",
-    "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
-    "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.565Z"
+    "observedAt": "2026-09-05T07:52:57.212Z"
   },
   {
     "id": "torobshop-audio-video-93e51ab5d27d6671",
@@ -7575,25 +8457,25 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "torobshop-category",
     "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:12.565Z"
+    "observedAt": "2026-09-05T07:52:57.212Z"
   },
   {
-    "id": "torobshop-audio-video-b6676462f8f23ff0",
-    "productId": "torobshop-b6676462f8f23ff0",
-    "name": "قابلمه القایی WMF Diadem Plus، 20 سانتی‌متر - 3.7 لیتر، قابل شستشو در ماشین ظرفشویی",
+    "id": "torobshop-audio-video-9a0fccac9db69875",
+    "productId": "torobshop-9a0fccac9db69875",
+    "name": "دستگاه رفع موهای زائد Philips Lumea Advanced IPL BRI923 - رفع موهای زائد بدون درد و با پایه نور برای پوستی صاف و دائمی - شامل 3 سری مخصوص برای بدن، صورت و ناحیه بیکینی",
     "brand": "",
-    "model": "قابلمه القایی WMF Diadem Plus، 20 سانتی‌متر - 3.7 لیتر، قابل شستشو در ماشین ظرفشویی",
+    "model": "دستگاه رفع موهای زائد Philips Lumea Advanced IPL BRI923 - رفع موهای زائد بدون درد و با پایه نور برای پوستی صاف و دائمی - شامل 3 سری مخصوص برای بدن، صورت و ناحیه بیکینی",
     "category": "audio-video",
-    "subcategory": "هدفون و هندزفری",
-    "price": 16770000,
+    "subcategory": "تلویزیون",
+    "price": 73082000,
     "currency": "IRT",
-    "availability": "in_stock",
-    "productUrl": "https://torobshop.com/products/%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C-WMF-Diadem-Plus-20-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-3-7-%D9%84%DB%8C%D8%AA%D8%B1-%D9%82%D8%A7%D8%A8%D9%84-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C",
+    "availability": "unknown",
+    "productUrl": "https://torobshop.com/products/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-Philips-Lumea-Advanced-IPL-BRI923-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%B1%D8%AF-%D9%88-%D8%A8%D8%A7-%D9%BE%D8%A7%DB%8C%D9%87-%D9%86%D9%88%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D9%88%D8%B3%D8%AA%DB%8C-%D8%B5%D8%A7%D9%81-%D9%88-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D8%B4%D8%A7%D9%85%D9%84-3-%D8%B3%D8%B1%DB%8C-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A8%D8%AF%D9%86-%D8%B5%D9%88%D8%B1%D8%AA-%D9%88-%D9%86%D8%A7%D8%AD%DB%8C%D9%87-%D8%A8%DB%8C%DA%A9%DB%8C%D9%86%DB%8C",
     "image": "",
     "sourceId": "torobshop-category",
-    "sourceUrl": "https://torobshop.com/products/category-products/%D9%87%D8%AF%D9%81%D9%88%D9%86-%D9%88-%D9%87%D9%86%D8%AF%D8%B2%D9%81%D8%B1%DB%8C?page=3",
+    "sourceUrl": "https://torobshop.com/products/category-products/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
     "source": "web-catalog:torobshop-category",
-    "observedAt": "2026-09-04T21:20:50.526Z"
+    "observedAt": "2026-09-05T07:52:57.212Z"
   },
   {
     "id": "web-audio-video-a3d7a68050b672d2",
@@ -7610,7 +8492,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "technolife-multimedia",
     "sourceUrl": "https://www.technolife.com/category/multimedia",
     "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-04T21:09:54.414Z"
+    "observedAt": "2026-09-05T07:41:03.797Z"
   },
   {
     "id": "web-audio-video-4cf3bfbe7d507a31",
@@ -7627,7 +8509,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "technolife-multimedia",
     "sourceUrl": "https://www.technolife.com/category/multimedia",
     "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-04T21:09:54.414Z"
+    "observedAt": "2026-09-05T07:41:03.797Z"
   },
   {
     "id": "web-audio-video-8a63c133e1932a8c",
@@ -7644,7 +8526,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "technolife-multimedia",
     "sourceUrl": "https://www.technolife.com/category/multimedia",
     "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-04T21:09:54.414Z"
+    "observedAt": "2026-09-05T07:41:03.797Z"
   },
   {
     "id": "web-audio-video-d6adbb368eff7219",
@@ -7661,41 +8543,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "technolife-multimedia",
     "sourceUrl": "https://www.technolife.com/category/multimedia",
     "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-04T21:09:54.414Z"
-  },
-  {
-    "id": "web-audio-video-edc206a57d081dbb",
-    "productId": "web-audio-video-edc206a57d081dbb",
-    "name": "تلویزیون هوشمند جی پلاس مدل GTV-32SD648N سایز 32 اینچ",
-    "brand": "دل",
-    "model": "تلویزیون هوشمند جی پلاس مدل GTV-32SD648N سایز 32 اینچ",
-    "category": "audio-video",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-471607/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%D8%AC%DB%8C-%D9%BE%D9%84%D8%A7%D8%B3-%D9%85%D8%AF%D9%84-gtv-32sd648n-%D8%B3%D8%A7%DB%8C%D8%B2-32-%D8%A7%DB%8C%D9%86%DA%86",
-    "image": "",
-    "sourceId": "technolife-multimedia",
-    "sourceUrl": "https://www.technolife.com/category/multimedia",
-    "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-04T21:09:54.414Z"
-  },
-  {
-    "id": "web-audio-video-3057322e80c83a5d",
-    "productId": "web-audio-video-3057322e80c83a5d",
-    "name": "اسپیکر بلوتوثی هارمن کاردن مدل Aura Studio 5",
-    "brand": "دل",
-    "model": "اسپیکر بلوتوثی هارمن کاردن مدل Aura Studio 5",
-    "category": "audio-video",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-297053/%D8%A7%D8%B3%D9%BE%DB%8C%DA%A9%D8%B1-%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB%DB%8C-%D9%87%D8%A7%D8%B1%D9%85%D9%86-%DA%A9%D8%A7%D8%B1%D8%AF%D9%86-%D9%85%D8%AF%D9%84-aura-studio-5",
-    "image": "",
-    "sourceId": "technolife-multimedia",
-    "sourceUrl": "https://www.technolife.com/category/multimedia",
-    "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-04T21:09:54.414Z"
+    "observedAt": "2026-09-05T07:41:03.797Z"
   },
   {
     "id": "web-audio-video-d2fb2d935b7cdf01",
@@ -7712,7 +8560,41 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "technolife-multimedia",
     "sourceUrl": "https://www.technolife.com/category/multimedia",
     "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-04T21:09:54.414Z"
+    "observedAt": "2026-09-05T07:41:03.797Z"
+  },
+  {
+    "id": "web-audio-video-edc206a57d081dbb",
+    "productId": "web-audio-video-edc206a57d081dbb",
+    "name": "تلویزیون هوشمند جی پلاس مدل GTV-32SD648N سایز 32 اینچ",
+    "brand": "دل",
+    "model": "تلویزیون هوشمند جی پلاس مدل GTV-32SD648N سایز 32 اینچ",
+    "category": "audio-video",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-471607/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%D8%AC%DB%8C-%D9%BE%D9%84%D8%A7%D8%B3-%D9%85%D8%AF%D9%84-gtv-32sd648n-%D8%B3%D8%A7%DB%8C%D8%B2-32-%D8%A7%DB%8C%D9%86%DA%86",
+    "image": "",
+    "sourceId": "technolife-multimedia",
+    "sourceUrl": "https://www.technolife.com/category/multimedia",
+    "source": "web-catalog:technolife-multimedia",
+    "observedAt": "2026-09-05T07:41:03.797Z"
+  },
+  {
+    "id": "web-audio-video-3057322e80c83a5d",
+    "productId": "web-audio-video-3057322e80c83a5d",
+    "name": "اسپیکر بلوتوثی هارمن کاردن مدل Aura Studio 5",
+    "brand": "دل",
+    "model": "اسپیکر بلوتوثی هارمن کاردن مدل Aura Studio 5",
+    "category": "audio-video",
+    "price": 0,
+    "currency": "IRR",
+    "availability": "unknown",
+    "productUrl": "https://www.technolife.com/product-297053/%D8%A7%D8%B3%D9%BE%DB%8C%DA%A9%D8%B1-%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB%DB%8C-%D9%87%D8%A7%D8%B1%D9%85%D9%86-%DA%A9%D8%A7%D8%B1%D8%AF%D9%86-%D9%85%D8%AF%D9%84-aura-studio-5",
+    "image": "",
+    "sourceId": "technolife-multimedia",
+    "sourceUrl": "https://www.technolife.com/category/multimedia",
+    "source": "web-catalog:technolife-multimedia",
+    "observedAt": "2026-09-05T07:41:03.797Z"
   },
   {
     "id": "web-audio-video-2909e941d387fcd2",
@@ -7729,7 +8611,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "technolife-multimedia",
     "sourceUrl": "https://www.technolife.com/category/multimedia",
     "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-04T21:09:54.414Z"
+    "observedAt": "2026-09-05T07:41:03.797Z"
   },
   {
     "id": "web-audio-video-95f067e3efb8f966",
@@ -7746,7 +8628,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "technolife-multimedia",
     "sourceUrl": "https://www.technolife.com/category/multimedia",
     "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-04T21:09:54.414Z"
+    "observedAt": "2026-09-05T07:41:03.797Z"
   },
   {
     "id": "web-audio-video-fb9309c5cf41fffb",
@@ -7763,7 +8645,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "technolife-multimedia",
     "sourceUrl": "https://www.technolife.com/category/multimedia",
     "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-04T21:09:54.415Z"
+    "observedAt": "2026-09-05T07:41:03.797Z"
   },
   {
     "id": "web-audio-video-aaac7b20f2318897",
@@ -7780,7 +8662,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "technolife-multimedia",
     "sourceUrl": "https://www.technolife.com/category/multimedia",
     "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-04T21:09:54.415Z"
+    "observedAt": "2026-09-05T07:41:03.797Z"
   },
   {
     "id": "web-audio-video-f2b141967326c494",
@@ -7797,7 +8679,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "technolife-multimedia",
     "sourceUrl": "https://www.technolife.com/category/multimedia",
     "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-04T21:09:54.415Z"
+    "observedAt": "2026-09-05T07:41:03.797Z"
   },
   {
     "id": "web-audio-video-984b9367f5530285",
@@ -7814,7 +8696,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "technolife-multimedia",
     "sourceUrl": "https://www.technolife.com/category/multimedia",
     "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-04T21:09:54.415Z"
+    "observedAt": "2026-09-05T07:41:03.797Z"
   },
   {
     "id": "web-audio-video-4d4cf06d249d38e1",
@@ -7831,7 +8713,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "technolife-multimedia",
     "sourceUrl": "https://www.technolife.com/category/multimedia",
     "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-04T21:09:54.415Z"
+    "observedAt": "2026-09-05T07:41:03.797Z"
   },
   {
     "id": "web-audio-video-9410484f256089ef",
@@ -7848,7 +8730,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "technolife-multimedia",
     "sourceUrl": "https://www.technolife.com/category/multimedia",
     "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-04T21:09:54.415Z"
+    "observedAt": "2026-09-05T07:41:03.798Z"
   },
   {
     "id": "web-audio-video-638d1da40dff21f6",
@@ -7865,7 +8747,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "technolife-multimedia",
     "sourceUrl": "https://www.technolife.com/category/multimedia",
     "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-04T21:09:54.415Z"
+    "observedAt": "2026-09-05T07:41:03.798Z"
   },
   {
     "id": "web-audio-video-b0edc84b061114ab",
@@ -7882,7 +8764,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "technolife-multimedia",
     "sourceUrl": "https://www.technolife.com/category/multimedia",
     "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-04T21:09:54.415Z"
+    "observedAt": "2026-09-05T07:41:03.798Z"
   },
   {
     "id": "web-audio-video-ee04719471cae2f8",
@@ -7899,7 +8781,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "technolife-multimedia",
     "sourceUrl": "https://www.technolife.com/category/multimedia",
     "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-04T21:09:54.415Z"
+    "observedAt": "2026-09-05T07:41:03.798Z"
   },
   {
     "id": "web-audio-video-11bbd4f79a3d1d3a",
@@ -7916,7 +8798,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "technolife-multimedia",
     "sourceUrl": "https://www.technolife.com/category/multimedia",
     "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-04T21:09:54.415Z"
+    "observedAt": "2026-09-05T07:41:03.798Z"
   },
   {
     "id": "web-audio-video-df06092300a2779b",
@@ -7933,7 +8815,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "technolife-multimedia",
     "sourceUrl": "https://www.technolife.com/category/multimedia",
     "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-04T21:09:54.415Z"
+    "observedAt": "2026-09-05T07:41:03.798Z"
   },
   {
     "id": "web-audio-video-292677c9248e62f4",
@@ -7950,7 +8832,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "technolife-multimedia",
     "sourceUrl": "https://www.technolife.com/category/multimedia",
     "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-04T21:09:54.415Z"
+    "observedAt": "2026-09-05T07:41:03.798Z"
   },
   {
     "id": "web-audio-video-88633651651ba85a",
@@ -7967,7 +8849,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "technolife-multimedia",
     "sourceUrl": "https://www.technolife.com/category/multimedia",
     "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-04T21:09:54.415Z"
+    "observedAt": "2026-09-05T07:41:03.798Z"
   },
   {
     "id": "web-audio-video-6597fb614f0b0987",
@@ -7984,7 +8866,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "technolife-multimedia",
     "sourceUrl": "https://www.technolife.com/category/multimedia",
     "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-04T21:09:54.415Z"
+    "observedAt": "2026-09-05T07:41:03.798Z"
   },
   {
     "id": "web-audio-video-b33e5aad18073a25",
@@ -8001,7 +8883,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "technolife-multimedia",
     "sourceUrl": "https://www.technolife.com/category/multimedia",
     "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-04T21:09:54.415Z"
+    "observedAt": "2026-09-05T07:41:03.798Z"
   },
   {
     "id": "web-audio-video-1ee38f9411543549",
@@ -8018,7 +8900,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "technolife-multimedia",
     "sourceUrl": "https://www.technolife.com/category/multimedia",
     "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-04T21:09:54.415Z"
+    "observedAt": "2026-09-05T07:41:03.798Z"
   },
   {
     "id": "web-audio-video-aabf80e00e36f987",
@@ -8035,7 +8917,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "technolife-multimedia",
     "sourceUrl": "https://www.technolife.com/category/multimedia",
     "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-04T21:09:54.416Z"
+    "observedAt": "2026-09-05T07:41:03.798Z"
   },
   {
     "id": "web-audio-video-43af89eeef6707b7",
@@ -8052,7 +8934,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "technolife-multimedia",
     "sourceUrl": "https://www.technolife.com/category/multimedia",
     "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-04T21:09:54.416Z"
+    "observedAt": "2026-09-05T07:41:03.798Z"
   },
   {
     "id": "web-audio-video-dae77769f7bd0036",
@@ -8069,7 +8951,7 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "technolife-multimedia",
     "sourceUrl": "https://www.technolife.com/category/multimedia",
     "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-04T21:09:54.416Z"
+    "observedAt": "2026-09-05T07:41:03.798Z"
   },
   {
     "id": "web-audio-video-d11a4e834435f72f",
@@ -8086,40 +8968,6 @@ export const AUDIO_VIDEO_PRODUCTS = [
     "sourceId": "technolife-multimedia",
     "sourceUrl": "https://www.technolife.com/category/multimedia",
     "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-04T21:09:54.416Z"
-  },
-  {
-    "id": "web-audio-video-6cdde0636b7a699d",
-    "productId": "web-audio-video-6cdde0636b7a699d",
-    "name": "میکروفون بی سیم یقه ای بویا مدل BY-V10",
-    "brand": "دل",
-    "model": "میکروفون بی سیم یقه ای بویا مدل BY-V10",
-    "category": "audio-video",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-166693/%D9%85%DB%8C%DA%A9%D8%B1%D9%88%D9%81%D9%88%D9%86-%D8%A8%DB%8C-%D8%B3%DB%8C%D9%85-%DB%8C%D9%82%D9%87-%D8%A7%DB%8C-%D8%A8%D9%88%DB%8C%D8%A7-%D9%85%D8%AF%D9%84-by-v10",
-    "image": "",
-    "sourceId": "technolife-multimedia",
-    "sourceUrl": "https://www.technolife.com/category/multimedia",
-    "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-04T21:09:54.416Z"
-  },
-  {
-    "id": "web-audio-video-b05d64cfdc843fd7",
-    "productId": "web-audio-video-b05d64cfdc843fd7",
-    "name": "گوشی s2۵ fe",
-    "brand": "",
-    "model": "گوشی s2۵ fe",
-    "category": "audio-video",
-    "price": 0,
-    "currency": "IRR",
-    "availability": "unknown",
-    "productUrl": "https://www.technolife.com/product-165916/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF-%D9%85%D8%AF%D9%84-galaxy-s25-fe-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-256-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D8%B1%D9%85-8-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA---%D9%88%DB%8C%D8%AA%D9%86%D8%A7%D9%85",
-    "image": "",
-    "sourceId": "technolife-multimedia",
-    "sourceUrl": "https://www.technolife.com/category/multimedia",
-    "source": "web-catalog:technolife-multimedia",
-    "observedAt": "2026-09-04T21:09:54.416Z"
+    "observedAt": "2026-09-05T07:41:03.798Z"
   }
 ];
