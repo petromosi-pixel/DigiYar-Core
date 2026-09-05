@@ -1,4 +1,4 @@
-/* DigiYar V5 — Step 1: V3-style Splash Screen */
+/* DigiYar V6 — Clean splash screen */
 
 .v5-splash-screen {
   position: fixed;
@@ -7,7 +7,8 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  background: radial-gradient(circle at 50% 42%, #2a4169 0%, #223456 58%, #182746 100%);
+  overflow: hidden;
+  background: #060c1c;
   color: #fff;
   opacity: 1;
   visibility: visible;
@@ -21,42 +22,27 @@
   pointer-events: none;
 }
 
+/* The old raster logo is intentionally removed from the splash. */
+.v5-splash-logo-wrap,
+.v5-splash-logo,
+.v5-splash-loader {
+  display: none !important;
+}
+
 .v5-splash-content {
   width: min(88%, 430px);
   text-align: center;
   color: #fff;
-  animation: v5SplashEnter .75s ease both;
-}
-
-/* V3-style single centered logo */
-.v5-splash-logo-wrap {
-  width: 210px;
-  height: 210px;
-  margin: 0 auto 20px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  border-radius: 42px;
-  background: rgba(255,255,255,.045);
-  box-shadow: 0 0 0 1px rgba(255,255,255,.06), 0 20px 60px rgba(0,0,0,.22);
-  animation: v5LogoSpring 1.15s cubic-bezier(.175,.885,.32,1.275) both;
-}
-
-.v5-splash-logo {
-  width: 178px;
-  height: 178px;
-  object-fit: contain;
-  display: block;
-  border-radius: 32px;
+  animation: v6SplashEnter .75s ease both;
 }
 
 .v5-splash-brand h1 {
-  margin: 0 0 2px;
+  margin: 0 0 4px;
   font-size: 36px;
   font-weight: 800;
   line-height: 1.3;
   color: #fff;
-  animation: v5SplashTextIn .8s ease .45s both;
+  animation: v6SplashTextIn .8s ease .1s both;
 }
 
 .v5-splash-brand p {
@@ -64,47 +50,23 @@
   font-size: 15px;
   line-height: 1.6;
   color: #dce5f5;
-  animation: v5SplashTextIn .8s ease .55s both;
+  animation: v6SplashTextIn .8s ease .2s both;
 }
 
-.v5-splash-loader {
-  width: 80px;
-  height: 4px;
-  margin: 24px auto 0;
-  overflow: hidden;
-  border-radius: 99px;
-  background: rgba(255,255,255,.15);
-}
-
-.v5-splash-loader span {
-  display: block;
-  width: 35%;
-  height: 100%;
-  border-radius: inherit;
-  background: #f7941d;
-  animation: v5LoaderMove 1.2s ease-in-out infinite;
-}
-
-@keyframes v5SplashEnter {
+@keyframes v6SplashEnter {
   from { opacity: 0; }
   to { opacity: 1; }
 }
 
-/* نرم، فنری و از بالا به مرکز */
-@keyframes v5LogoSpring {
-  0% { opacity: 0; transform: translateY(-52px) scale(.72); }
-  55% { opacity: 1; transform: translateY(8px) scale(1.035); }
-  72% { transform: translateY(-4px) scale(.985); }
-  88% { transform: translateY(2px) scale(1.008); }
-  100% { opacity: 1; transform: translateY(0) scale(1); }
-}
-
-@keyframes v5SplashTextIn {
+@keyframes v6SplashTextIn {
   from { opacity: 0; transform: translateY(-10px); }
   to { opacity: 1; transform: translateY(0); }
 }
 
-@keyframes v5LoaderMove {
-  0% { transform: translateX(220%); }
-  100% { transform: translateX(-320%); }
+@media (prefers-reduced-motion: reduce) {
+  .v5-splash-content,
+  .v5-splash-brand h1,
+  .v5-splash-brand p {
+    animation: none;
+  }
 }
