@@ -6,7 +6,7 @@
   'use strict';
 
   const VERSION = '5.1.0-alpha.2';
-  const DEFAULT_RESOLVER = 'https://digiyar-v5.petromosi.workers.dev/api/resolve';
+  const DEFAULT_RESOLVER = 'https://digiyar-v6.petromosi.workers.dev/api/resolve';
 
   function clone(value) { return value === undefined ? undefined : JSON.parse(JSON.stringify(value)); }
   function hasValue(value) {
