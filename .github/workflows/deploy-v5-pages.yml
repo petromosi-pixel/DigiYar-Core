@@ -1,9 +1,9 @@
-name: Deploy V6 Web App to GitHub Pages
+name: Deploy DigiYar Web App to GitHub Pages
 
 on:
   push:
     branches:
-      - V6
+      - main
   workflow_dispatch:
 
 permissions:
@@ -12,7 +12,7 @@ permissions:
   id-token: write
 
 concurrency:
-  group: pages-v6
+  group: pages-main
   cancel-in-progress: false
 
 jobs:
@@ -22,14 +22,14 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - name: Checkout V6
+      - name: Checkout main
         uses: actions/checkout@v4
       - name: Configure Pages
         uses: actions/configure-pages@v5
-      - name: Upload V6 artifact
+      - name: Upload main artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: .
-      - name: Deploy V6 to Pages
+      - name: Deploy main to Pages
         id: deployment
         uses: actions/deploy-pages@v4
