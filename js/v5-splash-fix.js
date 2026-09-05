@@ -9,7 +9,7 @@
     splash.setAttribute('aria-hidden', 'true');
     window.setTimeout(function () {
       if (splash && splash.parentNode) splash.style.display = 'none';
-    }, 750);
+    }, 450);
   }
 
   function init() {
@@ -18,28 +18,13 @@
 
     splash.setAttribute('aria-hidden', 'false');
 
-    /* Remove any legacy low-quality splash artwork before it can render. */
-    var legacyLogo = splash.querySelector('.v5-splash-logo-wrap');
+    /* Remove only the legacy logo wrapper if an older cached DOM injects it.
+       The current splash keeps the approved high-resolution icon. */
+    var legacyLogo = splash.querySelector('.legacy-splash-logo');
     if (legacyLogo) legacyLogo.remove();
 
-    /* Keep the visual language defined by the executable splash concept:
-       full-screen deep navy, centered DigiYar identity, no legacy image. */
-    var content = splash.querySelector('.v5-splash-content');
-    if (!content) {
-      content = document.createElement('div');
-      content.className = 'splash-content v5-splash-content';
-      splash.appendChild(content);
-    }
-
-    var brand = content.querySelector('.v5-splash-brand');
-    if (!brand) {
-      brand = document.createElement('div');
-      brand.className = 'splash-brand v5-splash-brand';
-      brand.innerHTML = '<h1>دیجی‌یار</h1><p>دستیار دنیای دیجیتال</p>';
-      content.appendChild(brand);
-    }
-
-    window.setTimeout(dismissSplash, 2200);
+    /* Exact visual timing requested for the V6 splash. */
+    window.setTimeout(dismissSplash, 3000);
   }
 
   if (document.readyState === 'loading') {
