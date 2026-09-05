@@ -1,7 +1,7 @@
 import assert from 'node:assert/strict';
 import engine from '../js/v5-offer-affiliate-engine.js';
 
-const WORKER = 'https://digiyar-v5.petromosi.workers.dev';
+const WORKER = 'https://digiyar-v6.petromosi.workers.dev';
 const QUERY = 'گوشی سامسونگ';
 
 async function getJson(path) {
